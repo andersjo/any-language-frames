@@ -1,0 +1,23 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	hade	_		{}
+4	en	_	Cardinal_numbers	{"Number": "4", "Entity": "5"}
+5	pojkvän	_	Personal_relationship	{"Duration": "8", "Partner_2": "5", "Partner_1": "2"}
+6	under	_		{}
+7	två	_	Cardinal_numbers	{"Number": "7", "Entity": "8"}
+8	år	_		{}
+9	från	_		{}
+10	det	_		{}
+11	att	_		{}
+12	hon	_		{}
+13	var	_		{}
+14	fjorton	_	Cardinal_numbers	{"Number": "14", "Entity": "8"}
+15	,	_		{}
+16	som	_		{}
+17	bodde	_		{}
+18	med	_		{}
+19	henne	_		{}
+20	i	_	Political_locales	{"Locale": "22"}
+21	mammans	_		{}
+22	hus	_	Locale	{"Locale": "22"}
+23	.	_		{}

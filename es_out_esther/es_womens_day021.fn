@@ -1,0 +1,39 @@
+1	Será	_		{}
+2	a	_		{}
+3	mediados	_		{}
+4	del	_		{}
+5	siglo	_	Calendric_unit	{"Relative_time": "5", "Whole": "6", "Unit": "6"}
+6	XIX	_		{}
+7	cuando	_		{}
+8	los	_		{}
+9	movimientos	_	Attempt	{"Agent": "13"}
+10	reivindicativos	_		{}
+11	de	_		{}
+12	la	_		{}
+13	mujer	_	People	{"Person": "13"}
+14	tomen	_	Activity_start	{"Agent": "13", "Activity": "15"}
+15	fuerza	_	Attempt_suasion	{"Topic": "9", "Content": "13", "Addressee": "13", "Speaker": "13", "Medium": "17"}
+16	:	_		{}
+17	lucha	_	Quarreling	{"Issue": "20", "Arguer1": "13"}
+18	por	_		{}
+19	el	_		{}
+20	sufragio	_		{}
+21	femenino	_		{}
+22	,	_		{}
+23	la	_		{}
+24	reivindicación	_		{}
+25	de	_		{}
+26	la	_		{}
+27	igualdad	_	Identicality	{"Set_of_instances": "24", "Current_instance": "27", "Type": "24"}
+28	,	_		{}
+29	la	_		{}
+30	denuncia	_	Notification_of_charges	{"Charges": "33"}
+31	de	_		{}
+32	la	_		{}
+33	opresión	_		{}
+34	social	_	Social_interaction_evaluation	{"Topic": "33", "Expressor": "13", "Evaluee": "13", "Behavior": "30", "Affected_party": "13"}
+35	,	_		{}
+36	familiar	_	Kinship	{"Relatives": "36", "Ego": "13"}
+37	y	_		{}
+38	laboral	_		{}
+39	.	_		{}

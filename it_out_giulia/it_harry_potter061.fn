@@ -1,0 +1,49 @@
+1	Harry	_		{}
+2	è	_		{}
+3	costretto	_	Being_obligated	{"Duty": "5", "Responsible_party": "1"}
+4	a	_		{}
+5	partecipare	_	Attending	{"Event": "8", "Agent": "1"}
+6	al	_		{}
+7	mortale	_		{}
+8	Torneo	_	Competition	{"Participant_2": "25", "Participant_1": "1", "Competition": "9"}
+9	Tremaghi	_		{}
+10	,	_		{}
+11	durante	_		{}
+12	il	_		{}
+13	quale	_		{}
+14	per	_		{}
+15	la	_		{}
+16	prima	_	First_experience	{"Experience": "19"}
+17	volta	_	Event_instance	{"Instance": "17", "Event": "19"}
+18	si	_		{}
+19	vede	_	Encounter	{"Party_2": "25", "Party_1": "1"}
+20	faccia	_		{}
+21	a	_		{}
+22	faccia	_		{}
+23	con	_		{}
+24	Lord	_		{}
+25	Voldemort	_		{}
+26	,	_		{}
+27	tornato	_		{}
+28	ad	_		{}
+29	avere	_		{}
+30	un	_		{}
+31	corpo	_	Observable_body_parts	{"Body_part": "31", "Possessor": "25"}
+32	grazie	_		{}
+33	a	_		{}
+34	Peter	_		{}
+35	Minus	_		{}
+36	(	_		{}
+37	Codaliscia	_		{}
+38	)	_		{}
+39	,	_		{}
+40	colui	_		{}
+41	che	_		{}
+42	tradì	_		{}
+43	James	_		{}
+44	e	_		{}
+45	Lily	_		{}
+46	Potter	_		{}
+47	anni	_		{}
+48	prima	_	Relative_time	{}
+49	.	_		{}

@@ -1,0 +1,14 @@
+1	Wow	_		{}
+2	Maleficent	_		{}
+3	is	_	Being_in_category	{"Category": "5", "Item": "2"}
+4	an	_	Cardinal_numbers	{"Number": "4", "Entity": "5"}
+5	amazing	_		{}
+6	movie	_		{}
+7	👏👏👏👏👏	_		{}
+8	Angelina	_		{}
+9	Jolie	_		{}
+10	always	_	Frequency	{"Event": "11", "Time_span": "10"}
+11	blows	_	Judgment_communication	{"Expressor": "12", "Evaluee": "8"}
+12	me	_	Proper_reference	{}
+13	away	_		{}
+14	#bae	_		{}

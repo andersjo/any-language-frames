@@ -1,0 +1,26 @@
+1	Den	_		{}
+2	sidste	_	Ordinal_numbers	{"Item": "4"}
+3	Harry	_		{}
+4	Potter-filmatisering	_		{}
+5	havde	_		{}
+6	premiere	_		{}
+7	i	_		{}
+8	biograferne	_		{}
+9	den	_		{}
+10	13	_	Quantity	{"Quantity": "10"}
+11	.	_		{}
+12	juli	_	Calendric_unit	{"Whole": "10", "Relative_time": "13", "Salient_event": "6", "Unit": "12"}
+13	2011	_		{}
+14	(	_		{}
+15	Danmark	_		{}
+16	)	_		{}
+17	og	_		{}
+18	den	_		{}
+19	15	_	Cardinal_numbers	{"Number": "19"}
+20	.	_		{}
+21	juli	_	Calendric_unit	{"Relative_time": "22", "Whole": "19", "Unit": "21"}
+22	2011	_		{}
+23	(	_		{}
+24	Storbritannien	_		{}
+25	)	_		{}
+26	.	_		{}

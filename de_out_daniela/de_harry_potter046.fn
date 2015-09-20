@@ -1,0 +1,23 @@
+1	Im	_		{}
+2	siebten	_	Cardinal_numbers	{"Number": "2", "Entity": "5"}
+3	und	_	Simultaneity	{"Profiled_event": "2", "Landmark_event": "4"}
+4	letzten	_	Ordinal_numbers	{"Comparison_set": "5"}
+5	Band	_		{}
+6	brechen	_		{}
+7	Harry	_		{}
+8	,	_		{}
+9	Hermine	_		{}
+10	und	_		{}
+11	Ron	_		{}
+12	auf	_		{}
+13	,	_		{}
+14	um	_		{}
+15	die	_		{}
+16	verbliebenen	_		{}
+17	Horkruxe	_		{}
+18	zu	_		{}
+19	finden	_	Seeking	{"Cognizer_agent": "7", "Sought_entity": "17"}
+20	und	_	Simultaneity	{"Profiled_event": "22", "Landmark_event": "19"}
+21	zu	_		{}
+22	zerstören	_	Destroying	{"Undergoer": "17", "Destroyer": "7"}
+23	.	_		{}

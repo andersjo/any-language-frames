@@ -1,0 +1,9 @@
+1	Asimismo	_	Sufficiency	{"Enabled_situation": "2"}
+2	existen	_	Existence	{"Entity": "4"}
+3	otros	_		{}
+4	proyectos	_	Project	{"Project": "7", "Salient_entity": "7", "Goal": "7", "Activity": "2"}
+5	como	_	Similarity	{"Entities": "7"}
+6	el	_		{}
+7	Project	_		{}
+8	Loon	_		{}
+9	.	_		{}

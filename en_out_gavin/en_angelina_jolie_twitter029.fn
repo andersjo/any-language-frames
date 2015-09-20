@@ -1,0 +1,13 @@
+1	Someone	_	People	{"Person": "1"}
+2	told	_		{}
+3	me	_	Proper_reference	{"Intended_referent": "5"}
+4	that	_		{}
+5	I	_		{}
+6	reminded	_	Evoking	{"Stimulus": "5", "Cognizer": "1", "Phenomenon": "10"}
+7	them	_		{}
+8	of	_		{}
+9	Angelina	_		{}
+10	Jolie	_		{}
+11	😳	_		{}
+12	#thanksbutwayoff	_		{}
+13	😅	_		{}

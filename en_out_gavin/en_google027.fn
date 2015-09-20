@@ -1,0 +1,24 @@
+1	The	_		{}
+2	domain	_	Locale	{"Locale": "2"}
+3	name	_	Labeling	{"Label": "3"}
+4	for	_		{}
+5	Google	_		{}
+6	was	_		{}
+7	registered	_	Recording	{"Phenomenon": "3", "Time": "8"}
+8	on	_		{}
+9	September	_	Calendric_unit	{"Unit": "9"}
+10	15	_	Cardinal_numbers	{"Number": "10"}
+11	,	_		{}
+12	1997	_	Cardinal_numbers	{"Number": "12"}
+13	,	_		{}
+14	and	_		{}
+15	the	_		{}
+16	company	_	Businesses	{"Business": "16"}
+17	was	_		{}
+18	incorporated	_	Inclusion	{"Part": "16", "Time": "19"}
+19	on	_		{}
+20	September	_	Calendric_unit	{"Unit": "20"}
+21	4	_	Cardinal_numbers	{"Number": "21"}
+22	,	_		{}
+23	1998	_	Cardinal_numbers	{"Number": "23"}
+24	.	_		{}

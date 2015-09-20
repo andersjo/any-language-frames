@@ -1,0 +1,25 @@
+1	Tutti	_	Quantity	{"Individuals": "3", "Quantity": "1"}
+2	questi	_	Proper_reference	{"Intended_referent": "3"}
+3	elementi	_		{}
+4	fanno	_		{}
+5	da	_		{}
+6	cornice	_	Boundary	{}
+7	alle	_		{}
+8	avventure	_		{}
+9	del	_		{}
+10	protagonista	_		{}
+11	,	_		{}
+12	oppure	_		{}
+13	,	_		{}
+14	a	_		{}
+15	volte	_		{}
+16	con	_		{}
+17	ironia	_		{}
+18	,	_		{}
+19	si	_		{}
+20	piegano	_		{}
+21	al	_		{}
+22	volere	_		{}
+23	della	_		{}
+24	trama	_	Text	{"Text": "24"}
+25	.	_		{}

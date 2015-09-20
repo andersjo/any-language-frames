@@ -1,0 +1,20 @@
+1	Nick	_		{}
+2	Jr	_		{}
+3	Free	_		{}
+4	Draw	_		{}
+5	Spaß-Spiel-Review	_		{}
+6	:	_		{}
+7	online-Spiel	_		{}
+8	review	_		{}
+9	Free	_		{}
+10	Draw	_		{}
+11	!	_		{}
+12	sehr	_	Degree	{"Gradable_attribute": "13"}
+13	einfach	_	Difficulty	{"Degree": "12", "Activity": "7"}
+14	und	_		{}
+15	macht	_	Causation	{"Cause": "7"}
+16	Spaß	_	Emotion_directed	{"Stimulus": "7", "State": "16"}
+17	…	_		{}
+18	http://t.co/8RHGEu86K7	_		{}
+19	#game	_		{}
+20	#reviews	_		{}

@@ -1,0 +1,42 @@
+1	Même	_		{}
+2	si	_		{}
+3	J	_		{}
+4	.	_		{}
+5	K	_		{}
+6	.	_		{}
+7	Rowling	_		{}
+8	n'indique	_		{}
+9	jamais	_	Frequency	{"Event": "8"}
+10	explicitement	_		{}
+11	en	_		{}
+12	quelle	_		{}
+13	année	_	Calendric_unit	{}
+14	se	_		{}
+15	déroule	_	Event	{"Time": "12"}
+16	son	_		{}
+17	récit	_	Text	{"Text": "17"}
+18	,	_		{}
+19	elle	_		{}
+20	a	_		{}
+21	laissé	_		{}
+22	suffisamment	_	Sufficiency	{"Item": "23", "Enabled_situation": "27"}
+23	d'indices	_		{}
+24	pour	_		{}
+25	que	_		{}
+26	l'on	_		{}
+27	puisse	_	Possibility	{}
+28	affirmer	_	Statement	{"Message": "34", "Speaker": "26"}
+29	que	_		{}
+30	le	_		{}
+31	premier	_	Ordinal_numbers	{"Item": "32"}
+32	tome	_		{}
+33	se	_		{}
+34	déroule	_	Event	{"Time": "36"}
+35	en	_		{}
+36	1991-1992	_		{}
+37	,	_		{}
+38	jusqu'au	_		{}
+39	septième	_		{}
+40	en	_		{}
+41	1997-1998	_		{}
+42	.	_		{}

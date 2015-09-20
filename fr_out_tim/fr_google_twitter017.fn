@@ -1,0 +1,27 @@
+1	MDR	_		{}
+2	!	_		{}
+3	Si	_		{}
+4	on	_		{}
+5	demande	_	Request	{"Message": "7", "Medium": "12"}
+6	"	_		{}
+7	ciel	_		{}
+8	rose	_	Color	{"Color": "8", "Entity": "7"}
+9	montréal	_		{}
+10	"	_		{}
+11	dans	_		{}
+12	Google	_		{}
+13	,	_		{}
+14	on	_		{}
+15	obtient	_	Getting	{"Theme": "17", "Recipient": "14"}
+16	:	_		{}
+17	Productions	_		{}
+18	CIEL	_		{}
+19	Variable	_		{}
+20	661	_		{}
+21	Rue	_		{}
+22	ROSE	_		{}
+23	de	_		{}
+24	Lima	_		{}
+25	,	_		{}
+26	MONTRÉAL	_		{}
+27	!	_		{}

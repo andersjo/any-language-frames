@@ -1,0 +1,20 @@
+1	if	_		{}
+2	you	_		{}
+3	haven't	_		{}
+4	noticed	_	Becoming_aware	{"Topic": "7", "Cognizer": "2", "Phenomenon": "6"}
+5	i	_		{}
+6	love	_	Emotions_of_mental_activity	{"Stimulus": "7", "Experiencer": "5"}
+7	Angelina	_		{}
+8	Jolie	_		{}
+9	and	_	Simultaneity	{}
+10	would	_		{}
+11	trade	_	Exchange	{"Theme_1": "13", "Theme_2": "17", "Exchanger_1": "5"}
+12	my	_		{}
+13	first	_	Ordinal_numbers	{"Item": "15", "Type": "14"}
+14	born	_		{}
+15	child	_	Kinship	{"Ego": "12", "Alter": "15"}
+16	to	_		{}
+17	look	_	Appearance	{"Phenomenon": "5", "Characterization": "18"}
+18	like	_	Similarity	{"Entity_1": "5", "Entity_2": "19"}
+19	her	_		{}
+20	oops	_		{}

@@ -1,0 +1,11 @@
+1	Votadnos	_		{}
+2	aquí	_	Locative_relation	{"Figure": "1", "Ground": "4"}
+3	>>	_		{}
+4	http://t.co/KzWp3SjTg2	_		{}
+5	También	_		{}
+6	estamos	_	State_continue	{}
+7	en	_		{}
+8	esta	_	Proper_reference	{"Intended_referent": "8", "Entity": "9"}
+9	otra	_	Increment	{"Added_set": "11", "Class": "2", "Initial_set": "4"}
+10	:	_		{}
+11	http://t.co/HSLCLmxU45	_		{}

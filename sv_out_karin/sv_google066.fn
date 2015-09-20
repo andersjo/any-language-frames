@@ -1,0 +1,43 @@
+1	Med	_		{}
+2	Googles	_		{}
+3	sätt	_	Conduct	{"Domain": "5", "Agent": "2"}
+4	att	_		{}
+5	se	_	Opinion	{"Cognizer": "2", "Opinion": "15"}
+6	på	_		{}
+7	saker	_		{}
+8	är	_		{}
+9	en	_	Cardinal_numbers	{"Number": "9", "Entity": "10"}
+10	webbsidas	_		{}
+11	"	_		{}
+12	rykte	_	Fame	{"Entity": "10"}
+13	"	_		{}
+14	delvis	_		{}
+15	bestämt	_		{}
+16	efter	_		{}
+17	hur	_		{}
+18	många	_	Quantity	{"Q_Prop": "17", "Individuals": "22"}
+19	och	_		{}
+20	vilka	_		{}
+21	andra	_		{}
+22	sidor	_		{}
+23	som	_		{}
+24	länkar	_		{}
+25	till	_		{}
+26	webbsidan	_		{}
+27	(	_		{}
+28	länkar	_		{}
+29	till	_		{}
+30	webbsidan	_		{}
+31	från	_		{}
+32	sidor	_		{}
+33	med	_		{}
+34	bättre	_		{}
+35	"	_		{}
+36	rykte	_	Fame	{"Entity": "32"}
+37	"	_		{}
+38	än	_		{}
+39	den	_		{}
+40	väger	_		{}
+41	högre	_		{}
+42	)	_		{}
+43	.	_		{}

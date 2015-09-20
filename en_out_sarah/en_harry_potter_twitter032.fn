@@ -1,0 +1,19 @@
+1	No	_	Quantity	{"Q_Prop": "1", "Individuals": "2"}
+2	idea	_	Awareness	{"Content": "10", "Topic": "6"}
+3	how	_		{}
+4	he	_		{}
+5	doesn't	_		{}
+6	know	_	Awareness	{"Content": "10", "Cognizer": "4"}
+7	who	_		{}
+8	or	_		{}
+9	what	_		{}
+10	Harry	_		{}
+11	Potter	_		{}
+12	is	_	Being_in_category	{"Item": "10"}
+13	.	_		{}
+14	Just	_		{}
+15	too	_	Sufficiency	{"Item": "16"}
+16	funny	_	Mental_stimulus_exp_focus	{"Stimulus": "4", "Topic": "10", "State": "16", "Experiencer": "18", "Degree": "15"}
+17	to	_		{}
+18	me	_		{}
+19	.	_		{}

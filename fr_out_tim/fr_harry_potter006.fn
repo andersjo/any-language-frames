@@ -1,0 +1,43 @@
+1	Depuis	_		{}
+2	la	_		{}
+3	sortie	_		{}
+4	du	_		{}
+5	premier	_	Ordinal_numbers	{"Comparison_set": "9", "Item": "6"}
+6	livre	_	Text	{"Text": "6"}
+7	de	_		{}
+8	la	_		{}
+9	série	_	Sequence	{}
+10	le	_		{}
+11	27	_		{}
+12	juin	_	Calendric_unit	{"Whole": "12"}
+13	1997	_		{}
+14	,	_		{}
+15	"	_		{}
+16	Harry	_		{}
+17	Potter	_		{}
+18	à	_		{}
+19	l'école	_		{}
+20	des	_		{}
+21	sorciers	_		{}
+22	"	_		{}
+23	,	_		{}
+24	les	_		{}
+25	livres	_	Text	{"Text": "25"}
+26	ont	_		{}
+27	gagné	_		{}
+28	une	_		{}
+29	grande	_	Size	{"Entity": "30"}
+30	popularité	_		{}
+31	,	_		{}
+32	représenté	_		{}
+33	un	_		{}
+34	véritable	_		{}
+35	succès	_	Success_or_failure	{}
+36	commercial	_		{}
+37	et	_		{}
+38	été	_		{}
+39	acclamés	_		{}
+40	par	_		{}
+41	la	_		{}
+42	critique	_	Judgment_communication	{"Evaluee": "25"}
+43	.	_		{}

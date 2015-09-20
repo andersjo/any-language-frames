@@ -1,0 +1,32 @@
+1	For	_		{}
+2	some	_		{}
+3	reason	_	Reason	{"Action": "27", "Agent": "26"}
+4	,	_		{}
+5	the	_		{}
+6	ritual	_	Rite	{"Object": "10", "Desired_state": "12"}
+7	of	_		{}
+8	having	_		{}
+9	cut	_	Cutting	{"Item": "10", "Result": "27"}
+10	myself	_		{}
+11	and	_		{}
+12	feeling	_	Sensation	{"Perceiver_passive": "31"}
+13	the	_		{}
+14	pain	_	Perception_body	{"Experiencer": "31"}
+15	,	_		{}
+16	maybe	_	Likelihood	{"Hypothetical_event": "17"}
+17	feeling	_	Sensation	{}
+18	alive	_	Dead_or_alive	{}
+19	,	_		{}
+20	feeling	_	Sensation	{}
+21	some	_		{}
+22	kind	_	Type	{"Category": "24", "Subtype": "22"}
+23	of	_		{}
+24	release	_	Releasing	{}
+25	,	_		{}
+26	it	_		{}
+27	was	_		{}
+28	somehow	_		{}
+29	therapeutic	_	Cure	{"Medication": "26", "Patient": "31"}
+30	to	_		{}
+31	me	_	Proper_reference	{}
+32	.	_		{}

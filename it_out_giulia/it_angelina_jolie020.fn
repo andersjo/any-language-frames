@@ -1,0 +1,22 @@
+1	Dopo	_	Relative_time	{"Landmark_occasion": "3"}
+2	la	_		{}
+3	separazione	_	Forming_relationships	{"Partners": "5"}
+4	dei	_		{}
+5	genitori	_	Kinship	{}
+6	per	_		{}
+7	molti	_	Quantity	{"Individuals": "8", "Quantity": "7"}
+8	anni	_	Measure_duration	{"Count": "7", "Unit": "8"}
+9	non	_		{}
+10	ebbe	_		{}
+11	rapporti	_		{}
+12	con	_		{}
+13	il	_		{}
+14	padre	_	Kinship	{"Alter": "14"}
+15	,	_		{}
+16	ogni	_	Quantity	{"Individuals": "17", "Quantity": "16"}
+17	tentativo	_	Attempt	{}
+18	di	_		{}
+19	riconciliazione	_		{}
+20	fu	_		{}
+21	vano	_		{}
+22	.	_		{}

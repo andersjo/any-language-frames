@@ -1,0 +1,54 @@
+1	Under	_		{}
+2	många	_	Quantity	{"Individuals": "3", "Quantity": "2"}
+3	år	_	Measure_duration	{"Process": "4", "Count": "2", "Unit": "3"}
+4	träffade	_		{}
+5	hon	_		{}
+6	inte	_		{}
+7	sin	_		{}
+8	far	_	Kinship	{"Ego": "5", "Alter": "8"}
+9	men	_		{}
+10	de	_		{}
+11	försonades	_		{}
+12	i	_		{}
+13	samband	_	Relation	{"Entity1": "11", "Entity2": "15"}
+14	med	_		{}
+15	inspelningarna	_		{}
+16	av	_		{}
+17	"	_		{}
+18	Lara	_		{}
+19	Croft	_		{}
+20	:	_		{}
+21	Tomb	_		{}
+22	Raider	_		{}
+23	"	_		{}
+24	som	_		{}
+25	de	_		{}
+26	båda	_		{}
+27	medverkade	_		{}
+28	i	_		{}
+29	.	_		{}
+30	Relationen	_		{}
+31	bröt	_		{}
+32	snart	_	Speed	{"Degree": "32", "Entity": "31"}
+33	samman	_		{}
+34	igen	_		{}
+35	och	_	Simultaneity	{"Profiled_event": "41", "Landmark_event": "31"}
+36	följande	_	Relative_time	{"Focal_occasion": "41", "Landmark_occasion": "15"}
+37	år	_	Calendric_unit	{}
+38	(	_		{}
+39	2002	_		{}
+40	)	_		{}
+41	ansökte	_		{}
+42	Jolie	_		{}
+43	om	_		{}
+44	att	_		{}
+45	ta	_	Removing	{"Source": "42", "Theme": "49", "Cause": "31", "Agent": "42"}
+46	bort	_		{}
+47	sin	_		{}
+48	fars	_		{}
+49	efternamn	_	Being_named	{"Name": "50", "Entity": "48"}
+50	Voight	_		{}
+51	som	_		{}
+52	sitt	_		{}
+53	mellannamn	_	Being_named	{"Name": "50", "Entity": "42"}
+54	.	_		{}

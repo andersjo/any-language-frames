@@ -1,0 +1,32 @@
+1	In	_		{}
+2	May	_	Calendric_unit	{"Unit": "2"}
+3	2011	_		{}
+4	,	_		{}
+5	the	_		{}
+6	number	_	Quantity	{"Quantity": "6"}
+7	of	_		{}
+8	monthly	_	Frequency	{"Interval": "8", "Salient_entity": "10"}
+9	unique	_	Idiosyncrasy	{"Entity": "10"}
+10	visitors	_	Visiting	{"Entity": "10"}
+11	to	_		{}
+12	Google	_		{}
+13	surpassed	_	Surpassing	{"Standard_item": "15", "Profiled_item": "6"}
+14	one	_	Cardinal_numbers	{"Number": "14", "Entity": "15"}
+15	billion	_	Cardinal_numbers	{"Multiplier": "14", "Number": "15", "Entity": "10"}
+16	for	_		{}
+17	the	_		{}
+18	first	_	Ordinal_numbers	{"Item": "19"}
+19	time	_	Event_instance	{"Instance": "19", "Instance_Prop": "18", "Event": "13"}
+20	,	_		{}
+21	an	_		{}
+22	8.4	_		{}
+23	percent	_		{}
+24	increase	_	Change_position_on_a_scale	{"Difference": "23", "Time": "25"}
+25	from	_		{}
+26	May	_	Calendric_unit	{"Unit": "26"}
+27	2010	_		{}
+28	(	_		{}
+29	931	_		{}
+30	million	_	Cardinal_numbers	{"Number": "30", "Multiplier": "29"}
+31	)	_		{}
+32	.	_		{}

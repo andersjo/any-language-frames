@@ -1,0 +1,29 @@
+1	През	_		{}
+2	1997-2000	_		{}
+3	година	_	Calendric_unit	{"Unit": "3"}
+4	прави	_		{}
+5	големия	_		{}
+6	си	_		{}
+7	пробив	_	Opportunity	{"Desirable_situation": "7"}
+8	в	_		{}
+9	киното	_	Behind_the_scenes	{"Studio": "9"}
+10	с	_		{}
+11	филми	_	Physical_artworks	{"Artifact": "11"}
+12	като	_	Identicality	{"Current_instance": "12"}
+13	„Джия	_		{}
+14	“	_		{}
+15	,	_		{}
+16	„Колекционерът	_		{}
+17	“	_		{}
+18	,	_		{}
+19	„Луди	_		{}
+20	години	_	Calendric_unit	{"Unit": "20"}
+21	“	_		{}
+22	,	_		{}
+23	„Да	_		{}
+24	изчезнеш	_		{}
+25	за	_		{}
+26	60	_	Cardinal_numbers	{"Number": "26"}
+27	секунди	_	Calendric_unit	{"Unit": "27"}
+28	“	_		{}
+29	.	_		{}

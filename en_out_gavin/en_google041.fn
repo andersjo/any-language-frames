@@ -1,0 +1,13 @@
+1	The	_		{}
+2	company	_	Businesses	{"Business": "2"}
+3	offered	_	Offering	{"Theme": "5", "Offerer": "2"}
+4	19,605,052	_		{}
+5	shares	_	Part_whole	{"Part": "5"}
+6	at	_		{}
+7	a	_	Cardinal_numbers	{"Number": "7", "Entity": "8"}
+8	price	_	Commerce_scenario	{"Money": "10", "Rate": "11", "Goods": "5", "Seller": "2"}
+9	of	_		{}
+10	$85	_		{}
+11	per	_	Frequency	{}
+12	share	_	Part_whole	{"Part": "12"}
+13	.	_		{}

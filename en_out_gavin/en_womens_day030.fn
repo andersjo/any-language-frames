@@ -1,0 +1,35 @@
+1	Following	_	Relative_time	{"Focal_occasion": "13", "Focal_participant": "9", "Landmark_occasion": "4"}
+2	the	_		{}
+3	October	_	Calendric_unit	{"Unit": "3"}
+4	Revolution	_	Change_of_leadership	{}
+5	,	_		{}
+6	the	_		{}
+7	Bolshevik	_		{}
+8	Alexandra	_		{}
+9	Kollontai	_		{}
+10	and	_		{}
+11	Vladimir	_		{}
+12	Lenin	_		{}
+13	made	_		{}
+14	it	_		{}
+15	an	_	Cardinal_numbers	{"Number": "15", "Entity": "17"}
+16	official	_	Leadership	{"Activity": "17"}
+17	holiday	_		{}
+18	in	_		{}
+19	the	_		{}
+20	Soviet	_		{}
+21	Union	_	Political_locales	{"Locale": "21", "Name": "20"}
+22	,	_		{}
+23	and	_		{}
+24	it	_		{}
+25	was	_	Being_in_category	{"Category": "26", "Item": "24"}
+26	established	_	Intentionally_create	{"Created_entity": "24"}
+27	,	_		{}
+28	but	_	Concessive	{"Main_statement": "25", "Statement": "29"}
+29	was	_	Being_in_category	{"Category": "32", "Item": "24"}
+30	a	_	Cardinal_numbers	{"Number": "30", "Entity": "32"}
+31	working	_	Being_in_operation	{"Device": "32", "Time": "33"}
+32	day	_	Calendric_unit	{"Unit": "32"}
+33	until	_		{}
+34	1965	_		{}
+35	.	_		{}

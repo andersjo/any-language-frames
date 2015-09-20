@@ -1,0 +1,18 @@
+1	In	_		{}
+2	soli	_		{}
+3	10	_	Cardinal_numbers	{"Number": "3", "Entity": "4"}
+4	anni	_		{}
+5	(	_		{}
+6	1997-2007	_		{}
+7	)	_		{}
+8	,	_		{}
+9	l'intera	_		{}
+10	serie	_	Sequence	{}
+11	ha	_		{}
+12	venduto	_		{}
+13	circa	_	Estimating	{"Item": "10", "Feature": "17", "Value": "15"}
+14	450	_	Cardinal_numbers	{"Number": "14"}
+15	milioni	_	Cardinal_numbers	{"Number": "15", "Entity": "17"}
+16	di	_		{}
+17	copie	_		{}
+18	.	_		{}

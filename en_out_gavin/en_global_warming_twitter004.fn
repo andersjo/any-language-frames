@@ -1,0 +1,23 @@
+1	Heatwaves	_		{}
+2	kill	_	Killing	{"Depictive": "3", "Cause": "1", "Victim": "5"}
+3	poor	_	Wealthiness	{"Person": "5"}
+4	old	_	Age	{"Age": "4", "Entity": "5"}
+5	people	_	People	{"Person": "5", "Age": "4", "Descriptor": "3"}
+6	.	_		{}
+7	Global	_	Political_locales	{"Locale": "7"}
+8	warming	_	Temperature	{"Temperature": "8", "Entity": "7"}
+9	causes	_	Causation	{"Cause": "8"}
+10	worse	_		{}
+11	heatwaves	_		{}
+12	.	_		{}
+13	Poor	_	Wealthiness	{"Person": "15"}
+14	old	_	Age	{"Age": "14", "Entity": "15"}
+15	people	_	People	{"Person": "15", "Age": "14", "Descriptor": "13"}
+16	draw	_	Getting	{"Theme": "17", "Recipient": "15"}
+17	pensions	_	Buildings	{"Building": "17"}
+18	.	_		{}
+19	Conservatives	_	People_along_political_spectrum	{"Individual": "19"}
+20	deny	_	Respond_to_proposal	{"Proposal": "22", "Speaker": "19"}
+21	global	_	Political_locales	{"Locale": "21"}
+22	warming	_	Temperature	{"Temperature": "22", "Entity": "21"}
+23	.	_		{}

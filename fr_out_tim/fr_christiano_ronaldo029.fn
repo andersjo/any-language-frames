@@ -1,0 +1,34 @@
+1	C'est	_		{}
+2	à	_		{}
+3	seize	_		{}
+4	ans	_	Age	{"Age": "3", "Entity": "5"}
+5	qu'il	_		{}
+6	est	_		{}
+7	repéré	_		{}
+8	par	_		{}
+9	László	_		{}
+10	Bölöni	_		{}
+11	,	_		{}
+12	à	_		{}
+13	l'époque	_		{}
+14	entraîneur	_	People_by_vocation	{"Person": "10"}
+15	de	_		{}
+16	l'équipe	_		{}
+17	première	_		{}
+18	du	_		{}
+19	Sporting	_		{}
+20	Clube	_		{}
+21	de	_		{}
+22	Portugal	_		{}
+23	,	_		{}
+24	qui	_		{}
+25	le	_		{}
+26	fait	_		{}
+27	jouer	_	Competition	{"Participant_1": "25", "Competition": "29"}
+28	quelques	_		{}
+29	matches	_	Competition	{"Participants": "32", "Participant_1": "25"}
+30	amicaux	_		{}
+31	avec	_		{}
+32	l'équipe	_		{}
+33	professionnelle	_		{}
+34	.	_		{}

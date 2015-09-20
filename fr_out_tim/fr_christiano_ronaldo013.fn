@@ -1,0 +1,71 @@
+1	Il	_		{}
+2	est	_		{}
+3	aussi	_		{}
+4	triple	_		{}
+5	soulier	_	Clothing	{"Garment": "5"}
+6	d'or	_		{}
+7	européen	_	Origin	{"Origin": "7", "Entity": "5"}
+8	en	_		{}
+9	2008	_		{}
+10	,	_		{}
+11	2011	_		{}
+12	et	_		{}
+13	2014	_		{}
+14	,	_		{}
+15	couronné	_		{}
+16	Ballon	_		{}
+17	d'or	_		{}
+18	en	_		{}
+19	2008	_		{}
+20	,	_		{}
+21	2013	_		{}
+22	et	_		{}
+23	deuxième	_	Cardinal_numbers	{"Number": "23", "Entity": "1"}
+24	en	_		{}
+25	2007	_		{}
+26	,	_		{}
+27	2009	_		{}
+28	,	_		{}
+29	2011	_		{}
+30	et	_		{}
+31	2012	_		{}
+32	ainsi	_		{}
+33	que	_		{}
+34	du	_		{}
+35	prix	_		{}
+36	UEFA	_		{}
+37	du	_		{}
+38	meilleur	_	Expertise	{"Protagonist": "1", "Role": "39"}
+39	joueur	_	Competition	{"Participant_1": "1"}
+40	d'Europe	_		{}
+41	en	_		{}
+42	2014	_		{}
+43	,	_		{}
+44	il	_		{}
+45	est	_		{}
+46	considéré	_		{}
+47	à	_		{}
+48	l'heure	_		{}
+49	actuelle	_	Temporal_collocation	{"Trajector_event": "46"}
+50	comme	_		{}
+51	le	_		{}
+52	meilleur	_	Expertise	{"Protagonist": "44", "Role": "53"}
+53	joueur	_	Competition	{"Participant_1": "44"}
+54	du	_		{}
+55	monde	_	Locale	{}
+56	et	_		{}
+57	l'un	_		{}
+58	des	_		{}
+59	meilleur	_	Expertise	{"Protagonist": "44", "Role": "60"}
+60	joueur	_	Competition	{"Participant_1": "44", "Competition": "64"}
+61	de	_		{}
+62	l'histoire	_		{}
+63	du	_		{}
+64	football	_		{}
+65	avec	_		{}
+66	son	_		{}
+67	grand	_	Size	{"Entity": "68"}
+68	rival	_		{}
+69	Lionel	_		{}
+70	Messi	_		{}
+71	.	_		{}

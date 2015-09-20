@@ -1,0 +1,24 @@
+1	Ronaldo	_		{}
+2	no	_		{}
+3	consiguió	_		{}
+4	cumplir	_	Compliance	{"State_of_Affairs": "7", "Degree": "9", "Means": "11", "Protagonist": "1", "Act": "13", "Norm": "11"}
+5	con	_		{}
+6	su	_		{}
+7	propósito	_	Coming_up_with	{"Means": "11", "Idea": "10", "Cognizer": "1", "Amount_of_progress": "14", "Result": "2", "Place": "18"}
+8	inicial	_	Version_sequence	{"Item": "7", "Degree": "10"}
+9	de	_		{}
+10	12	_	Cardinal_numbers	{"Entity": "11", "Precision": "14", "Number": "10"}
+11	goles	_	Purpose	{"Goal": "11", "Agent": "1"}
+12	,	_		{}
+13	anotando	_	Hit_or_miss	{"Outcome": "14", "Target_location": "18", "Agent": "1", "Time": "23"}
+14	9	_		{}
+15	en	_		{}
+16	los	_		{}
+17	50	_	Cardinal_numbers	{"Number": "17", "Entity": "18"}
+18	partidos	_	Social_event	{"Attendee": "1", "Period_of_iterations": "17", "Degree": "17", "Time": "23"}
+19	que	_		{}
+20	disputó	_		{}
+21	en	_		{}
+22	el	_		{}
+23	año	_	Calendric_unit	{"Relative_time": "23"}
+24	.	_		{}

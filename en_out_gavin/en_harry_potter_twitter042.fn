@@ -1,0 +1,29 @@
+1	“	_		{}
+2	@comealongpond21	_		{}
+3	:	_		{}
+4	"	_		{}
+5	What	_		{}
+6	do	_		{}
+7	you	_		{}
+8	love	_	Experiencer_focus	{"Content": "5", "Experiencer": "7"}
+9	the	_		{}
+10	most	_	Relational_quantity	{"Mass": "5"}
+11	?	_		{}
+12	"	_		{}
+13	"	_		{}
+14	Harry	_		{}
+15	Potter	_		{}
+16	"	_		{}
+17	"	_		{}
+18	After	_	Relative_time	{"Landmark_occasion": "21"}
+19	all	_		{}
+20	this	_		{}
+21	time	_		{}
+22	?	_		{}
+23	"	_		{}
+24	"	_		{}
+25	......	_		{}
+26	Always	_	Frequency	{"Salient_entity": "15"}
+27	"	_		{}
+28	http://t.co/OS9oaKX3e4”shut	_		{}
+29	up	_	Direction	{"Path": "29"}

@@ -1,0 +1,33 @@
+1	Il	_		{}
+2	13	_		{}
+3	agosto	_	Calendric_unit	{"Whole": "4", "Unit": "3"}
+4	2003	_		{}
+5	Cristiano	_		{}
+6	Ronaldo	_		{}
+7	si	_		{}
+8	trasferisce	_	Transfer	{"Theme": "6", "Recipient": "10"}
+9	al	_		{}
+10	Manchester	_		{}
+11	United	_		{}
+12	per	_		{}
+13	12	_	Cardinal_numbers	{"Number": "13", "Entity": "18"}
+14	,	_		{}
+15	24	_		{}
+16	milioni	_	Cardinal_numbers	{"Number": "16", "Entity": "18"}
+17	di	_		{}
+18	sterline	_	Money	{"Money": "18"}
+19	,	_		{}
+20	diventando	_	Becoming	{"Entity": "24"}
+21	così	_		{}
+22	il	_		{}
+23	"	_		{}
+24	teenager	_	People_by_age	{"Person": "5"}
+25	"	_		{}
+26	più	_		{}
+27	costoso	_	Expensiveness	{"Goods": "24", "Asset": "16", "Payer": "10"}
+28	nella	_		{}
+29	storia	_	History	{"Topic": "31"}
+30	del	_		{}
+31	calcio	_		{}
+32	inglese	_		{}
+33	.	_		{}

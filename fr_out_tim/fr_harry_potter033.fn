@@ -1,0 +1,25 @@
+1	L'auteur	_		{}
+2	a	_		{}
+3	annoncé	_		{}
+4	le	_		{}
+5	20	_		{}
+6	décembre	_	Calendric_unit	{"Whole": "6"}
+7	2013	_		{}
+8	qu'elle	_		{}
+9	sera	_		{}
+10	co-productrice	_		{}
+11	d'une	_		{}
+12	pièce	_	Performing_arts	{"Performance": "12", "Script": "18", "Personnel": "10"}
+13	de	_		{}
+14	théâtre	_		{}
+15	qui	_		{}
+16	racontera	_	Telling	{"Topic": "22", "Message": "18", "Medium": "12"}
+17	le	_		{}
+18	préquel	_		{}
+19	des	_		{}
+20	livres	_	Text	{"Text": "20"}
+21	:	_		{}
+22	l'enfance	_		{}
+23	de	_		{}
+24	Harry	_		{}
+25	.	_		{}

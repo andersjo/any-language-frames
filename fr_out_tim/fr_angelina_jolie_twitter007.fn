@@ -1,0 +1,17 @@
+1	Sérieux	_		{}
+2	Angelina	_		{}
+3	jolie	_		{}
+4	je	_		{}
+5	crois	_	Opinion	{"Cognizer": "4", "Opinion": "6"}
+6	cest	_		{}
+7	une	_	Cardinal_numbers	{"Number": "7", "Entity": "11"}
+8	des	_		{}
+9	plus	_		{}
+10	belles	_	Aesthetics	{"Attribute": "10", "Degree": "9", "Entity": "2"}
+11	femmes	_	People	{"Person": "2"}
+12	du	_		{}
+13	monde	_	Locale	{"Locale": "13"}
+14	mieux	_		{}
+15	que	_		{}
+16	vos	_		{}
+17	postbad	_		{}

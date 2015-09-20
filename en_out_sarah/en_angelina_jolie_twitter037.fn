@@ -1,0 +1,16 @@
+1	Saw	_		{}
+2	the	_		{}
+3	movie	_	Physical_artworks	{"Name": "4", "Artifact": "3"}
+4	Unbroken	_		{}
+5	and	_		{}
+6	it	_		{}
+7	was	_	Being_in_category	{"Category": "8", "Item": "4"}
+8	great	_	Measurable_attributes	{"Entity": "4"}
+9	!	_		{}
+10	Angelina	_		{}
+11	Jolie	_		{}
+12	did	_		{}
+13	a	_	Cardinal_numbers	{"Number": "13", "Entity": "14"}
+14	great	_	Measurable_attributes	{"Entity": "15"}
+15	job	_	Labor_product	{"Output": "15", "Agent": "10"}
+16	.	_		{}

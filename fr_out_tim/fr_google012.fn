@@ -1,0 +1,47 @@
+1	En	_	Relative_time	{"Focal_occasion": "5", "Focal_participant": "4"}
+2	2011	_		{}
+3	,	_		{}
+4	Google	_		{}
+5	possédait	_	Possession	{"Possession": "7", "Owner": "4"}
+6	un	_		{}
+7	parc	_	Locale_by_use	{"Locale": "7"}
+8	de	_		{}
+9	plus	_		{}
+10	de	_		{}
+11	serveurs	_		{}
+12	,	_		{}
+13	contre	_		{}
+14	en	_	Relative_time	{}
+15	2006	_		{}
+16	,	_		{}
+17	ce	_		{}
+18	qui	_		{}
+19	en	_		{}
+20	fait	_		{}
+21	le	_		{}
+22	parc	_	Locale_by_use	{"Locale": "22"}
+23	de	_		{}
+24	serveurs	_		{}
+25	le	_		{}
+26	plus	_		{}
+27	important	_	Size	{"Entity": "22"}
+28	au	_		{}
+29	monde	_	Political_locales	{"Locale": "29"}
+30	(	_		{}
+31	2	_	Cardinal_numbers	{"Number": "31", "Entity": "32"}
+32	%	_		{}
+33	du	_		{}
+34	nombre	_	Amounting_to	{"Attribute": "37"}
+35	total	_	Quantity	{"Individuals": "37", "Quantity": "35"}
+36	de	_		{}
+37	machines	_	Gizmo	{"Gizmo": "37"}
+38	)	_		{}
+39	,	_		{}
+40	avec	_		{}
+41	des	_		{}
+42	appareils	_	Gizmo	{"Gizmo": "42"}
+43	répartis	_	Dispersal	{"Individuals": "42"}
+44	sur	_		{}
+45	32	_		{}
+46	sites	_	Locale_by_use	{"Locale": "46"}
+47	.	_		{}

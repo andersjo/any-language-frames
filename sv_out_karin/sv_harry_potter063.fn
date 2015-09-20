@@ -1,0 +1,18 @@
+1	Den	_		{}
+2	första	_	Ordinal_numbers	{"Item": "3"}
+3	filmen	_	Physical_artworks	{"Represented": "14", "Artifact": "3", "Time_of_creation": "17"}
+4	,	_		{}
+5	som	_		{}
+6	var	_		{}
+7	en	_	Cardinal_numbers	{"Number": "7", "Entity": "10"}
+8	relativt	_		{}
+9	trogen	_		{}
+10	filmatisering	_		{}
+11	av	_		{}
+12	den	_		{}
+13	första	_	Ordinal_numbers	{"Item": "14"}
+14	boken	_	Part_ordered_segments	{"Part": "14", "Ordinality": "13"}
+15	,	_		{}
+16	kom	_		{}
+17	2001	_		{}
+18	.	_		{}

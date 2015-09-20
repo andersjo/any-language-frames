@@ -1,0 +1,48 @@
+1	Larry	_		{}
+2	Page	_		{}
+3	e	_		{}
+4	Sergej	_		{}
+5	Brin	_		{}
+6	,	_		{}
+7	studenti	_	Education_teaching	{"Institution": "8", "Student": "2"}
+8	dell'Università	_		{}
+9	di	_		{}
+10	Stanford	_		{}
+11	,	_		{}
+12	dopo	_		{}
+13	aver	_		{}
+14	sviluppato	_	Stage_of_progress	{"Entity": "16"}
+15	la	_		{}
+16	teoria	_		{}
+17	secondo	_		{}
+18	cui	_		{}
+19	un	_		{}
+20	motore	_		{}
+21	di	_		{}
+22	ricerca	_	Seeking	{}
+23	basato	_	Intentionally_create	{"Created_entity": "20"}
+24	sull'analisi	_		{}
+25	matematica	_	Fields	{"Work": "24"}
+26	delle	_		{}
+27	relazioni	_		{}
+28	tra	_		{}
+29	siti	_		{}
+30	web	_	Network	{"Network": "30"}
+31	avrebbe	_		{}
+32	prodotto	_		{}
+33	risultati	_	Accomplishment	{}
+34	migliori	_	Surpassing	{"Standard_item": "37", "Profiled_item": "20"}
+35	rispetto	_	Regard	{"Evaluee": "37"}
+36	alle	_		{}
+37	tecniche	_	Expertise	{}
+38	empiriche	_		{}
+39	usate	_	Using	{"Instrument": "37"}
+40	precedentemente	_	Relative_time	{}
+41	,	_		{}
+42	fondarono	_	Intentionally_create	{"Created_entity": "43"}
+43	l'azienda	_		{}
+44	il	_		{}
+45	27	_		{}
+46	settembre	_	Calendric_unit	{"Unit": "46"}
+47	1998	_		{}
+48	.	_		{}

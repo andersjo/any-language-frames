@@ -1,0 +1,27 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	démarre	_	Activity_start	{"Agent": "1", "Activity": "5"}
+4	sa	_		{}
+5	carrière	_		{}
+6	lorsqu'elle	_		{}
+7	décroche	_		{}
+8	son	_		{}
+9	premier	_	First_experience	{"Experience": "10"}
+10	rôle	_	Performers_and_roles	{"Type": "22", "Performer": "1", "Role": "15"}
+11	principal	_	First_rank	{"Item": "10"}
+12	,	_		{}
+13	celui	_		{}
+14	de	_		{}
+15	Casella	_		{}
+16	Reese	_		{}
+17	aussi	_		{}
+18	surnommée	_		{}
+19	,	_		{}
+20	dans	_		{}
+21	le	_		{}
+22	film	_	Physical_artworks	{"Artifact": "22"}
+23	à	_		{}
+24	petit	_	Size	{"Entity": "25"}
+25	budget	_		{}
+26	'	_		{}
+27	.	_		{}

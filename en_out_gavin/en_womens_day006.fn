@@ -1,0 +1,13 @@
+1	This	_	Proper_reference	{"Intended_referent": "4"}
+2	is	_	Existence	{"Entity": "4"}
+3	a	_	Cardinal_numbers	{"Number": "3", "Entity": "4"}
+4	day	_	Calendric_unit	{"Unit": "4"}
+5	which	_		{}
+6	some	_	Relational_quantity	{"Individuals": "7", "Denoted_quantity": "6"}
+7	people	_	People	{"Person": "7"}
+8	celebrate	_	Activity_ongoing	{"Activity": "8", "Agent": "7", "Means": "9"}
+9	by	_		{}
+10	wearing	_	Wearing	{"Clothing": "12", "Wearer": "7"}
+11	purple	_	Color	{"Color": "11", "Entity": "12"}
+12	ribbons	_	Accoutrements	{"Descriptor": "11", "Accoutrement": "12", "Wearer": "7"}
+13	.	_		{}

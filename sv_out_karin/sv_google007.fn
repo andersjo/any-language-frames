@@ -1,0 +1,21 @@
+1	Google	_		{}
+2	köpte	_		{}
+3	upp	_		{}
+4	videosajten	_		{}
+5	Youtube	_		{}
+6	för	_		{}
+7	cirka	_	Estimated_value	{"Value": "9"}
+8	12	_	Cardinal_numbers	{"Number": "8", "Entity": "9"}
+9	miljarder	_	Cardinal_numbers	{"Entity": "10", "Number": "9", "Precision": "7", "Multiplier": "8"}
+10	kronor	_		{}
+11	,	_		{}
+12	1	_		{}
+13	,	_		{}
+14	3	_	Cardinal_numbers	{"Number": "14", "Entity": "15"}
+15	miljarder	_	Cardinal_numbers	{"Multiplier": "14", "Number": "15", "Entity": "16"}
+16	euro	_		{}
+17	,	_		{}
+18	i	_		{}
+19	oktober	_	Calendric_unit	{"Whole": "20", "Unit": "19"}
+20	2006	_		{}
+21	.	_		{}

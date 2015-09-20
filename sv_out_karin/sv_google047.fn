@@ -1,0 +1,38 @@
+1	Vissa	_		{}
+2	trodde	_		{}
+3	att	_		{}
+4	Gmail	_		{}
+5	som	_		{}
+6	tillkännagavs	_		{}
+7	offentligt	_	Secrecy_status	{"Phenomenon": "4", "Degree": "10"}
+8	1	_		{}
+9	april	_	Calendric_unit	{"Whole": "10", "Unit": "9"}
+10	2004	_		{}
+11	,	_		{}
+12	där	_		{}
+13	bland	_		{}
+14	annat	_		{}
+15	två	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	gigabyte	_		{}
+17	utrymme	_		{}
+18	för	_		{}
+19	e-brev	_		{}
+20	utlovades	_		{}
+21	,	_		{}
+22	var	_		{}
+23	ett	_	Cardinal_numbers	{"Number": "23", "Entity": "24"}
+24	aprilskämt	_		{}
+25	,	_		{}
+26	något	_		{}
+27	som	_		{}
+28	dock	_	Concessive	{"Topic": "28", "Main_statement": "33"}
+29	efterhand	_		{}
+30	visade	_		{}
+31	sig	_		{}
+32	vara	_		{}
+33	sant	_		{}
+34	och	_	Simultaneity	{"Profiled_event": "33", "Landmark_event": "35"}
+35	lanserades	_		{}
+36	på	_		{}
+37	riktigt	_		{}
+38	.	_		{}

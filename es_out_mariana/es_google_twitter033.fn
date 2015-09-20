@@ -1,0 +1,33 @@
+1	Voy	_		{}
+2	a	_		{}
+3	buscar	_	Scrutiny	{"Instrument": "5", "Medium": "5"}
+4	en	_		{}
+5	Google	_		{}
+6	"	_		{}
+7	mujer	_	People	{"Persistent_characteristic": "8", "Person": "7"}
+8	luchadora	_		{}
+9	"	_		{}
+10	,	_		{}
+11	a	_		{}
+12	dar	_	Giving	{"Place": "5", "Recipient": "15"}
+13	a	_		{}
+14	la	_		{}
+15	pestaña	_		{}
+16	de	_		{}
+17	imágenes	_	Optical_image	{"Source": "5"}
+18	,	_		{}
+19	y	_		{}
+20	lo	_		{}
+21	que	_	Cause_to_start	{"Effect": "24"}
+22	voy	_		{}
+23	a	_		{}
+24	hacer	_	Conduct	{"Place": "5", "Affected_Party": "31"}
+25	,	_		{}
+26	es	_		{}
+27	porque	_		{}
+28	quiero	_		{}
+29	ver	_	Attention	{}
+30	el	_		{}
+31	mundo	_	Locale	{"Locale": "31", "Related_event": "32"}
+32	arder	_	Setting_fire	{"Place": "31"}
+33	.	_		{}

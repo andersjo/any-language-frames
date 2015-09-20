@@ -1,0 +1,28 @@
+1	Ma	_		{}
+2	mère	_		{}
+3	veut	_	Desiring	{"Event": "7", "Experiencer": "2"}
+4	pas	_		{}
+5	que	_		{}
+6	je	_		{}
+7	loue	_	Renting	{"Goods": "10", "Lessee": "6"}
+8	le	_		{}
+9	prochain	_		{}
+10	Harry	_		{}
+11	Potter	_		{}
+12	parce	_		{}
+13	que	_		{}
+14	je	_		{}
+15	néglige	_		{}
+16	les	_		{}
+17	livres	_	Text	{"Text": "17"}
+18	de	_		{}
+19	cours	_		{}
+20	...	_		{}
+21	Bon	_		{}
+22	elle	_		{}
+23	a	_		{}
+24	pas	_		{}
+25	tord	_		{}
+26	mais	_		{}
+27	quand	_		{}
+28	même	_		{}

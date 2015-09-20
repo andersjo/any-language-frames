@@ -1,0 +1,9 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	en	_		{}
+4	se	_		{}
+5	busca	_	Seeking	{"Cognizer_agent": "1", "Sought_entity": "8"}
+6	es	_	Being_in_category	{"Category": "5", "Item": "1", "Criteria": "8"}
+7	una	_		{}
+8	cosa	_	Emotion_directed	{"Topic": "1", "State": "6"}
+9	increíble	_	Measurable_attributes	{"Degree": "9", "Entity": "1"}

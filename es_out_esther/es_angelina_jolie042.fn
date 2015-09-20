@@ -1,0 +1,49 @@
+1	Angelina	_		{}
+2	respondió	_		{}
+3	que	_		{}
+4	ya	_	Temporal_collocation	{}
+5	no	_	Quantity	{}
+6	deseaba	_	Desiring	{"Event": "7"}
+7	continuar	_	Cause_to_continue	{"Agent": "1"}
+8	una	_		{}
+9	relación	_	Relation	{}
+10	cordial	_	Candidness	{"Topic": "9"}
+11	con	_		{}
+12	su	_		{}
+13	padre	_	Kinship	{"Ego": "13", "Alter": "1"}
+14	:	_		{}
+15	"	_		{}
+16	No	_	Quantity	{}
+17	estoy	_	State_continue	{"Reason": "23", "Entity": "1"}
+18	muy	_	Degree	{"Gradable_attribute": "19"}
+19	enojada	_	Emotion_directed	{"Stimulus": "21", "Expressor": "1", "Experiencer": "1"}
+20	con	_		{}
+21	él	_		{}
+22	,	_		{}
+23	pues	_		{}
+24	es	_	Being_in_category	{"Category": "27", "Item": "21", "Criteria": "23"}
+25	de	_		{}
+26	mi	_		{}
+27	sangre	_	Origin	{"Origin": "21", "Entity": "1"}
+28	,	_		{}
+29	pero	_	Concessive	{"Topic": "33", "Main_statement": "31", "Statement": "24"}
+30	las	_		{}
+31	familias	_	Kinship	{"Ego": "1", "Alter": "21"}
+32	se	_		{}
+33	ganan	_	Win_prize	{"Competitor": "21", "Prize": "31"}
+34	y	_		{}
+35	uno	_	Expertise	{}
+36	tiene	_	Inchoative_attaching	{"Connector": "37", "Goal": "38"}
+37	que	_		{}
+38	hacer	_	Creating	{"Beneficiary": "47", "Created_entity": "43", "Means": "40", "Purpose": "44", "Creator": "35"}
+39	lo	_		{}
+40	mejor	_	Relational_quantity	{"Individuals": "35"}
+41	para	_		{}
+42	hacer	_	Being_in_effect	{"Binding_principle": "43", "Obligated_party": "35"}
+43	sentir	_	Feeling	{"Emotion": "43", "Evaluation": "44", "Experiencer": "47"}
+44	bien	_		{}
+45	a	_		{}
+46	sus	_		{}
+47	seres	_	Being_in_category	{"Category": "48"}
+48	queridos	_	Personal_relationship	{"Partner_2": "47", "Partner_1": "35"}
+49	.	_		{}

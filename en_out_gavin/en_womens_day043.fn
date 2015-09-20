@@ -1,0 +1,40 @@
+1	In	_		{}
+2	the	_		{}
+3	United	_	Amalgamation	{"Depictive": "2", "Parts": "4"}
+4	States	_	Political_locales	{"Locale": "4", "Name": "3"}
+5	,	_		{}
+6	President	_	Leadership	{"Leader": "8"}
+7	Barack	_		{}
+8	Obama	_		{}
+9	proclaimed	_	Statement	{"Speaker": "8", "Message": "13", "Place": "1"}
+10	March	_	Calendric_unit	{"Whole": "11", "Unit": "10"}
+11	2011	_		{}
+12	to	_		{}
+13	be	_	Existence	{"Entity": "10"}
+14	"	_		{}
+15	Women's	_		{}
+16	History	_	History	{"Topic": "15"}
+17	Month	_	Calendric_unit	{"Unit": "17"}
+18	"	_		{}
+19	,	_		{}
+20	calling	_	Request	{"Message": "23", "Addressee": "21", "Speaker": "8", "Containing_event": "9"}
+21	Americans	_	People_by_origin	{"Person": "21"}
+22	to	_		{}
+23	mark	_	Sign	{"Indicator": "26", "Indicated": "24"}
+24	IWD	_		{}
+25	by	_		{}
+26	reflecting	_	Cogitation	{"Topic": "27", "Cognizer": "21"}
+27	on	_		{}
+28	"	_		{}
+29	the	_		{}
+30	extraordinary	_	Desirability	{"Evaluee": "31"}
+31	accomplishments	_	Accomplishment	{"Agent": "32"}
+32	of	_		{}
+33	women	_	People	{"Person": "33"}
+34	"	_		{}
+35	in	_		{}
+36	shaping	_	Reshaping	{"Undergoer": "39", "Deformer": "33"}
+37	the	_		{}
+38	country's	_		{}
+39	history	_	History	{"Topic": "38"}
+40	.	_		{}

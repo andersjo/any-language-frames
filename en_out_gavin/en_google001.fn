@@ -1,0 +1,15 @@
+1	Google	_		{}
+2	is	_	Being_in_category	{"Category": "8", "Item": "1"}
+3	a	_	Cardinal_numbers	{"Number": "3", "Entity": "8"}
+4	United	_	Amalgamation	{"Parts": "5"}
+5	States-headquartered	_		{}
+6	,	_		{}
+7	multinational	_	Political_locales	{"Locale": "7"}
+8	corporation	_	Businesses	{"Business": "1"}
+9	specializing	_	Differentiation	{}
+10	in	_		{}
+11	Internet-related	_		{}
+12	services	_	Public_services	{"Domain": "11"}
+13	and	_		{}
+14	products	_	Manufacturing	{"Product": "14", "Manufacturer": "1"}
+15	.	_		{}

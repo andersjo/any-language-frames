@@ -1,0 +1,12 @@
+1	Hobbit	_		{}
+2	sequel	_		{}
+3	holds	_	Preventing	{"Event": "1"}
+4	off	_		{}
+5	Angelina	_		{}
+6	Jolie	_		{}
+7	and	_	Simultaneity	{}
+8	Stephen	_		{}
+9	Sondheim	_		{}
+10	-	_		{}
+11	BBC	_		{}
+12	News	_	Organization	{"Organization": "11"}

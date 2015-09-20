@@ -1,0 +1,8 @@
+1	Revolutionary	_	Change_of_leadership	{}
+2	actions	_	Intentionally_act	{"Event_dscription": "1"}
+3	were	_	Being_in_category	{"Category": "4"}
+4	foreseen	_	Expectation	{"Phenomenon": "2"}
+5	but	_	Concessive	{"Main_statement": "3", "Statement": "7"}
+6	without	_		{}
+7	date	_	Location_in_time	{"Unit": "7"}
+8	.	_		{}

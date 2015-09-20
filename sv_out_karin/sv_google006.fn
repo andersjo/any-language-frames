@@ -1,0 +1,26 @@
+1	Sedan	_		{}
+2	dess	_		{}
+3	växer	_		{}
+4	antalet	_		{}
+5	användare	_		{}
+6	av	_		{}
+7	söktjänsten	_		{}
+8	och	_	Simultaneity	{"Profiled_event": "3", "Landmark_event": "11"}
+9	de	_		{}
+10	största	_		{}
+11	konkurrenterna	_		{}
+12	är	_		{}
+13	idag	_	Temporal_collocation	{"Trajector_event": "11", "Landmark_event": "3"}
+14	Yahoo	_		{}
+15	Search	_		{}
+16	(	_		{}
+17	numera	_	Temporal_collocation	{"Trajector_event": "18"}
+18	baserad	_		{}
+19	på	_		{}
+20	Bings	_		{}
+21	sökmotor	_		{}
+22	)	_		{}
+23	och	_		{}
+24	Microsofts	_		{}
+25	Bing	_		{}
+26	.	_		{}

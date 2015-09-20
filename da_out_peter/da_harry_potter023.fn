@@ -1,0 +1,54 @@
+1	Forfatterinden	_		{}
+2	J	_		{}
+3	.	_		{}
+4	K	_		{}
+5	.	_		{}
+6	Rowling	_		{}
+7	er	_		{}
+8	uddannet	_	Education_teaching	{"Role": "9", "Student": "6", "Subject": "11"}
+9	professor	_	People_by_vocation	{"Person": "6"}
+10	i	_		{}
+11	litteraturhistorie	_		{}
+12	,	_		{}
+13	og	_		{}
+14	mange	_	Quantity	{"Individuals": "15", "Quantity": "14"}
+15	navne	_		{}
+16	og	_		{}
+17	begreber	_		{}
+18	har	_	Have_associated	{"Topical_entity": "17", "Entity": "21"}
+19	derfor	_		{}
+20	dybere	_		{}
+21	betydninger	_		{}
+22	,	_		{}
+23	såsom	_		{}
+24	trylleordet	_		{}
+25	"	_		{}
+26	wingardium	_		{}
+27	leviosa	_		{}
+28	"	_		{}
+29	,	_		{}
+30	som	_		{}
+31	både	_		{}
+32	har	_	Have_associated	{"Topical_entity": "26", "Entity": "36"}
+33	forbindelser	_		{}
+34	til	_		{}
+35	"	_		{}
+36	wings	_		{}
+37	"	_		{}
+38	(	_		{}
+39	vinger	_	Observable_body_parts	{"Body_part": "39"}
+40	)	_		{}
+41	og	_		{}
+42	"	_		{}
+43	levitate	_		{}
+44	"	_		{}
+45	,	_		{}
+46	(	_		{}
+47	løfte	_		{}
+48	sig	_		{}
+49	op	_	Direction	{}
+50	fra	_		{}
+51	/	_		{}
+52	levitere	_		{}
+53	)	_		{}
+54	.	_		{}

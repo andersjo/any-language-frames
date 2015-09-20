@@ -1,0 +1,46 @@
+1	En	_		{}
+2	el	_		{}
+3	club	_	Organization	{"Organization": "3", "Place": "23", "Name": "3", "Purpose": "4"}
+4	español	_		{}
+5	fue	_	Existence	{"Circumstances": "8", "Place": "23", "Inherent_purpose": "8", "Entity": "8"}
+6	el	_		{}
+7	primer	_	First_rank	{"Item": "8", "Limits_of_consideration": "21", "Contrast_set": "23"}
+8	jugador	_	Performers	{"Persistent_characteristic": "10", "Place_of_employment": "21", "Descriptor": "7", "Rank": "7", "Person": "8", "Context_of_acquaintance": "42"}
+9	en	_		{}
+10	superar	_	Surpassing	{"Comparison_set": "30", "Standard_item": "12", "Attribute": "13", "Profiled_item": "13", "Extent": "30", "Standard_attribute": "15", "Profiled_attribute": "30", "Circumstances": "33"}
+11	la	_		{}
+12	histórica	_	History	{"Topic": "13", "Domain": "21"}
+13	cifra	_	Quantity	{"Mass": "13", "Degree": "12"}
+14	de	_		{}
+15	treinta	_	Cardinal_numbers	{"Number": "15", "Entity": "18"}
+16	y	_		{}
+17	ocho	_	Cardinal_numbers	{"Number": "17", "Entity": "18"}
+18	goles	_		{}
+19	en	_		{}
+20	una	_		{}
+21	temporada	_	Sequence	{"Entity1": "21"}
+22	de	_		{}
+23	Liga	_	Finish_competition	{"Prize": "43"}
+24	,	_		{}
+25	situando	_	Causation	{"Affected": "28", "Means": "33", "Cause": "33", "Manner": "27", "Circumstances": "27"}
+26	la	_		{}
+27	nueva	_	Age	{"Entity": "28"}
+28	marca	_	Adding_up	{"Place": "21", "Manner": "10", "Numbers": "30", "Means": "33"}
+29	en	_		{}
+30	cuarenta	_	Cardinal_numbers	{"Number": "30", "Entity": "33"}
+31	y	_	Simultaneity	{}
+32	un	_		{}
+33	goles	_	Purpose	{"Goal": "33"}
+34	,	_		{}
+35	registro	_		{}
+36	que	_	Causation	{"Affected": "40", "Cause": "10", "Means": "33"}
+37	le	_	Experiencer_obj	{}
+38	sirvió	_		{}
+39	para	_		{}
+40	ganar	_	Successful_action	{"Goal": "43", "Means": "33", "Explanation": "27", "Containing_event": "21", "Role": "43", "Circumstances": "33"}
+41	su	_		{}
+42	segunda	_	Ordinal_numbers	{"Comparison_set": "43", "Item": "43"}
+43	Bota	_		{}
+44	de	_		{}
+45	Oro	_		{}
+46	.	_		{}

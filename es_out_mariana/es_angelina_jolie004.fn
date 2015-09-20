@@ -1,0 +1,30 @@
+1	Aunque	_		{}
+2	comenzó	_		{}
+3	actuando	_	Performers	{"Place_of_employment": "3"}
+4	en	_		{}
+5	1982	_		{}
+6	junto	_	Collaboration	{"Partners": "10", "Partner_2": "10", "Undertaking": "25"}
+7	con	_		{}
+8	su	_		{}
+9	padre	_	Kinship	{"Relatives": "10"}
+10	Jon	_		{}
+11	Voight	_		{}
+12	,	_		{}
+13	se	_		{}
+14	le	_	Giving	{"Donor": "10", "Manner": "18", "Means": "20"}
+15	atribuye	_	Appointing	{"Function": "17", "Means": "23", "Selector": "10", "Role": "25", "Result": "18", "Time": "29"}
+16	como	_	Identicality	{"Current_instance": "17", "Type": "18", "Time": "29"}
+17	debut	_	Arriving	{"Time": "29"}
+18	oficial	_	Appellations	{"Title": "18"}
+19	su	_		{}
+20	papel	_	Communication	{"Medium": "20", "Topic": "17", "Addressee": "11", "Place": "23", "Time": "29", "Communicator": "10"}
+21	en	_		{}
+22	la	_		{}
+23	película	_	Physical_artworks	{"Represented": "10", "Descriptor": "26", "Artifact": "23", "Time_of_creation": "29"}
+24	"	_		{}
+25	Cyborg	_		{}
+26	2	_	Cardinal_numbers	{"Number": "26", "Entity": "25"}
+27	"	_		{}
+28	de	_		{}
+29	1993	_		{}
+30	.	_		{}

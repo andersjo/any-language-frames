@@ -1,0 +1,35 @@
+1	Ronaldo	_		{}
+2	is	_	Being_in_category	{"Category": "6", "Item": "1", "Circumstances": "8"}
+3	the	_		{}
+4	first	_	Ordinal_numbers	{"Comparison_set": "6", "Item": "1", "Type": "5"}
+5	Portuguese	_	Origin	{"Origin": "5", "Entity": "1"}
+6	player	_	Performers	{"Origin": "5", "Person": "1"}
+7	to	_		{}
+8	reach	_	Getting	{"Theme": "11", "Recipient": "1", "Result": "13"}
+9	50	_		{}
+10	international	_		{}
+11	goals	_		{}
+12	,	_		{}
+13	making	_		{}
+14	him	_		{}
+15	Portugal's	_		{}
+16	top	_	Verdict	{}
+17	goalscorer	_		{}
+18	of	_		{}
+19	all	_	Quantity	{"Mass": "20", "Quantity": "19"}
+20	time	_	Event_instance	{"Instance": "17", "Instance_Prop": "19", "Event": "20"}
+21	as	_		{}
+22	well	_		{}
+23	as	_		{}
+24	the	_		{}
+25	country's	_		{}
+26	top	_	Occupy_rank	{"Comparison_set": "27", "Item": "14", "Dimension": "28", "Rank": "26"}
+27	scorer	_	Behind_the_scenes	{"Artist": "14"}
+28	in	_		{}
+29	the	_		{}
+30	European	_	Origin	{"Origin": "30", "Entity": "31"}
+31	Championship	_	Documents	{"Specification": "30", "Document": "31"}
+32	with	_		{}
+33	6	_	Cardinal_numbers	{"Number": "33", "Entity": "34"}
+34	goals	_	Aiming	{"Targeted": "34"}
+35	.	_		{}

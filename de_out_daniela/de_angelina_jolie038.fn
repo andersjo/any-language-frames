@@ -1,0 +1,39 @@
+1	In	_		{}
+2	dem	_		{}
+3	darauf	_	Time_vector	{"Event": "5"}
+4	folgenden	_	Relative_time	{"Focal_occasion": "5", "Focal_participant": "14"}
+5	Low-Budget-Film	_		{}
+6	"	_		{}
+7	Cyborg	_		{}
+8	2	_	Cardinal_numbers	{"Number": "8", "Entity": "7"}
+9	"	_		{}
+10	(	_		{}
+11	1993	_		{}
+12	)	_		{}
+13	verkörperte	_		{}
+14	sie	_		{}
+15	einen	_		{}
+16	menschenähnlichen	_		{}
+17	Roboter	_		{}
+18	,	_		{}
+19	der	_		{}
+20	darauf	_		{}
+21	programmiert	_		{}
+22	ist	_		{}
+23	,	_		{}
+24	sich	_		{}
+25	mit	_		{}
+26	Verführungskünsten	_		{}
+27	den	_		{}
+28	Weg	_	Self_motion	{"Direction": "29", "Goal": "30", "Self_mover": "17"}
+29	ins	_		{}
+30	Hauptquartier	_	Locale_by_use	{"Locale": "30"}
+31	des	_		{}
+32	Feindes	_		{}
+33	zu	_		{}
+34	bahnen	_	Path_traveled	{"Path": "28", "Theme": "17"}
+35	und	_	Simultaneity	{"Profiled_event": "38", "Landmark_event": "34"}
+36	dort	_	Locative_relation	{"Figure": "17", "Ground": "38"}
+37	zu	_		{}
+38	explodieren	_		{}
+39	.	_		{}

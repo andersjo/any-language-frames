@@ -1,0 +1,38 @@
+1	Une	_		{}
+2	fois	_	Temporal_collocation	{"Trajector_period": "10", "Landmark_event": "5"}
+3	leurs	_		{}
+4	travaux	_	Labor_product	{"Output": "4", "Agent": "3"}
+5	terminés	_	Process_completed_state	{"Process": "4"}
+6	,	_		{}
+7	les	_		{}
+8	deux	_	Cardinal_numbers	{"Number": "8", "Entity": "9"}
+9	étudiants	_	People_by_vocation	{"Person": "9"}
+10	commencent	_	Activity_start	{"Agent": "9", "Activity": "12"}
+11	à	_		{}
+12	concrétiser	_		{}
+13	leur	_		{}
+14	projet	_	Project	{"Project": "16", "Agent": "9"}
+15	de	_		{}
+16	moteur	_		{}
+17	de	_		{}
+18	recherche	_	Research	{}
+19	et	_		{}
+20	achètent	_		{}
+21	à	_		{}
+22	cet	_		{}
+23	effet	_		{}
+24	un	_		{}
+25	téraoctet	_		{}
+26	de	_		{}
+27	disque	_		{}
+28	dur	_		{}
+29	d'occasion	_		{}
+30	,	_		{}
+31	afin	_		{}
+32	de	_		{}
+33	créer	_	Creating	{"Created_entity": "35", "Creator": "9"}
+34	une	_		{}
+35	base	_	Infrastructure	{"Infrastructure": "35"}
+36	de	_		{}
+37	données	_	Information	{"Information": "37"}
+38	.	_		{}

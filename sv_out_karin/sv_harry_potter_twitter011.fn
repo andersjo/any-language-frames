@@ -1,0 +1,15 @@
+1	Börjar	_		{}
+2	bli	_	Becoming	{}
+3	jävligt	_		{}
+4	obehagligt	_	Emotion_directed	{"Stimulus": "7"}
+5	,	_		{}
+6	sista	_	Ordinal_numbers	{"Item": "7"}
+7	smset	_		{}
+8	är	_		{}
+9	längre	_		{}
+10	än	_		{}
+11	en	_	Cardinal_numbers	{"Number": "11", "Entity": "14"}
+12	Harry	_		{}
+13	Potter	_		{}
+14	bok	_	Text	{"Genre": "13", "Text": "14"}
+15	http://t.co/eHw5JKcyGe	_		{}

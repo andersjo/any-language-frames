@@ -1,0 +1,25 @@
+1	Im	_		{}
+2	sechsten	_		{}
+3	Band	_		{}
+4	stellt	_		{}
+5	sich	_		{}
+6	heraus	_		{}
+7	,	_		{}
+8	dass	_		{}
+9	Voldemort	_		{}
+10	Teile	_	Part_whole	{"Part": "10", "Whole": "12"}
+11	seiner	_	Possession	{"Possession": "12", "Owner": "9"}
+12	Seele	_		{}
+13	in	_		{}
+14	Horkruxen	_		{}
+15	versteckt	_	Hiding_objects	{"Hiding_place": "14", "Agent": "9", "Hidden_object": "10"}
+16	hat	_		{}
+17	,	_		{}
+18	um	_		{}
+19	auf	_		{}
+20	diese	_		{}
+21	Weise	_		{}
+22	Unsterblichkeit	_		{}
+23	zu	_		{}
+24	erlangen	_	Getting	{"Theme": "22", "Recipient": "9"}
+25	.	_		{}

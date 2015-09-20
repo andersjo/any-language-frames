@@ -1,0 +1,18 @@
+1	Носител	_		{}
+2	на	_		{}
+3	Оскар	_		{}
+4	за	_	Kinship	{"Degree": "4"}
+5	филма	_		{}
+6	"	_		{}
+7	Луди	_		{}
+8	години	_	Calendric_unit	{"Unit": "8"}
+9	"	_		{}
+10	,	_		{}
+11	на	_		{}
+12	три	_	Cardinal_numbers	{"Number": "12"}
+13	Златни	_		{}
+14	глобуса	_		{}
+15	и	_	Simultaneity	{"Profiled_event": "15"}
+16	други	_	Increment	{"Class": "16"}
+17	призове	_	Evoking	{"Feature": "17"}
+18	.	_		{}

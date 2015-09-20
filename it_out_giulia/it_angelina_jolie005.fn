@@ -1,0 +1,42 @@
+1	Con	_		{}
+2	due	_	Cardinal_numbers	{"Number": "2", "Entity": "3"}
+3	divorzi	_	Forming_relationships	{"Partner_1": "8"}
+4	alle	_		{}
+5	spalle	_	Part_orientational	{}
+6	,	_		{}
+7	la	_		{}
+8	Jolie	_		{}
+9	è	_		{}
+10	sposata	_	Forming_relationships	{"Partner_2": "14", "Partner_1": "8"}
+11	con	_		{}
+12	l'attore	_		{}
+13	Brad	_		{}
+14	Pitt	_		{}
+15	;	_		{}
+16	la	_		{}
+17	loro	_		{}
+18	relazione	_	Personal_relationship	{"Partner_2": "14", "Partner_1": "8"}
+19	ha	_		{}
+20	attirato	_		{}
+21	l'attenzione	_		{}
+22	dei	_		{}
+23	media	_		{}
+24	di	_		{}
+25	tutto	_	Quantity	{}
+26	il	_		{}
+27	mondo	_		{}
+28	,	_		{}
+29	tanto	_		{}
+30	che	_		{}
+31	la	_		{}
+32	stampa	_		{}
+33	coniò	_		{}
+34	per	_		{}
+35	la	_		{}
+36	coppia	_	Personal_relationship	{"Partner_2": "14", "Partner_1": "8"}
+37	il	_		{}
+38	termine	_	Simple_name	{"Term": "40", "Speaker": "32", "Entity": "36"}
+39	""	_		{}
+40	Brangelina	_		{}
+41	""	_		{}
+42	.	_		{}

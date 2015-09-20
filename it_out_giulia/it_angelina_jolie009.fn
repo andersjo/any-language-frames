@@ -1,0 +1,42 @@
+1	Nata	_		{}
+2	a	_		{}
+3	Los	_		{}
+4	Angeles	_		{}
+5	,	_		{}
+6	in	_		{}
+7	California	_		{}
+8	,	_		{}
+9	è	_		{}
+10	figlia	_	Kinship	{"Alter": "13"}
+11	dell'attore	_		{}
+12	Jon	_		{}
+13	Voight	_		{}
+14	,	_		{}
+15	premio	_		{}
+16	Oscar	_		{}
+17	per	_		{}
+18	"	_		{}
+19	Tornando	_	Arriving	{"Goal": "21"}
+20	a	_		{}
+21	casa	_	Foreign_or_domestic_country	{}
+22	"	_		{}
+23	,	_		{}
+24	e	_		{}
+25	dell'attrice	_		{}
+26	Marcheline	_		{}
+27	Bertrand	_		{}
+28	;	_		{}
+29	è	_		{}
+30	sorella	_	Kinship	{"Alter": "33"}
+31	di	_		{}
+32	James	_		{}
+33	Haven	_		{}
+34	e	_		{}
+35	figlioccia	_		{}
+36	di	_		{}
+37	Jacqueline	_		{}
+38	Bisset	_		{}
+39	e	_		{}
+40	Maximilian	_		{}
+41	Schell	_		{}
+42	.	_		{}

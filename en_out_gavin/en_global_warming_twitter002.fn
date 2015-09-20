@@ -1,0 +1,28 @@
+1	Are	_	Being_in_category	{"Category": "3", "Item": "2"}
+2	we	_		{}
+3	allowed	_	Permitting	{"State_of_affairs": "5"}
+4	to	_		{}
+5	execute	_	Execution	{"Executioner": "2", "Executed": "6"}
+6	people	_	People	{"Person": "6"}
+7	who	_		{}
+8	dismiss	_	Firing	{"Employee": "10", "Employer": "6"}
+9	global	_	Political_locales	{"Locale": "9"}
+10	warming	_	Temperature	{"Entity": "9"}
+11	whenever	_	Event_instance	{"Instance": "11", "Event": "13"}
+12	someone	_	People	{"Person": "12"}
+13	complains	_	Complaining	{"Topic": "14", "Complaint": "17", "Complainer": "12", "Time": "11"}
+14	about	_		{}
+15	how	_		{}
+16	cold	_	Temperature	{"Temperature": "16", "Entity": "17"}
+17	it	_		{}
+18	is	_	Being_in_category	{"Category": "16", "Item": "17", "Cognizer": "12"}
+19	?	_		{}
+20	No	_	Quantity	{"Quantity": "20"}
+21	?	_		{}
+22	Not	_		{}
+23	yet	_	Continued_state_of_affairs	{"State_of_affairs": "22"}
+24	?	_		{}
+25	Someday	_		{}
+26	I	_		{}
+27	hope	_	Desiring	{"Event": "1", "Experiencer": "26"}
+28	.	_		{}

@@ -1,0 +1,18 @@
+1	Surgieron	_	Coming_to_be	{"Entity": "5"}
+2	entonces	_	Temporal_collocation	{"Trajector_event": "5", "Landmark_period": "2"}
+3	los	_		{}
+4	denominados	_		{}
+5	movimientos	_	Front_for	{"Front": "6", "Illicit_activity": "5", "Illicit_organization": "6"}
+6	sufragistas	_		{}
+7	,	_		{}
+8	inicialmente	_	Version_sequence	{"Item": "10"}
+9	de	_		{}
+10	origen	_	Origin	{"Origin": "11", "Entity": "5"}
+11	burgués	_	People_by_vocation	{"Person": "11"}
+12	,	_		{}
+13	con	_		{}
+14	figuras	_	Exemplar	{"Instance": "16", "Type": "16"}
+15	como	_	Identicality	{"Set_of_instances": "14", "Current_instance": "16", "Type": "11"}
+16	Flora	_		{}
+17	Tristán	_		{}
+18	.	_		{}

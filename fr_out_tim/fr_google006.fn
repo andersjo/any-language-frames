@@ -1,0 +1,23 @@
+1	Google	_		{}
+2	est	_		{}
+3	devenue	_	Becoming	{"Entity": "1"}
+4	l'une	_		{}
+5	des	_		{}
+6	premières	_	Extreme_value	{"Attribute": "13", "Entity": "1"}
+7	entreprises	_	Businesses	{"Business": "1"}
+8	américaines	_	Origin	{"Origin": "8", "Entity": "7"}
+9	et	_		{}
+10	mondiales	_	Political_locales	{"Locale": "10"}
+11	par	_		{}
+12	sa	_		{}
+13	valorisation	_		{}
+14	,	_		{}
+15	quelques	_	Relational_quantity	{"Individuals": "16", "Reference_quantity": "15"}
+16	années	_		{}
+17	après	_		{}
+18	une	_		{}
+19	entrée	_	Arriving	{"Theme": "1", "Goal": "21"}
+20	en	_		{}
+21	bourse	_	Exchange	{}
+22	originale	_		{}
+23	.	_		{}

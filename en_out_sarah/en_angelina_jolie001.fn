@@ -1,0 +1,22 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	(	_		{}
+4	;	_		{}
+5	born	_		{}
+6	Angelina	_		{}
+7	Jolie	_		{}
+8	Voight	_		{}
+9	;	_		{}
+10	June	_	Calendric_unit	{"Whole": "13", "Name": "10"}
+11	4	_	Cardinal_numbers	{"Number": "11"}
+12	,	_		{}
+13	1975	_		{}
+14	)	_		{}
+15	,	_		{}
+16	is	_	Being_in_category	{"Category": "19", "Item": "1"}
+17	an	_	Cardinal_numbers	{"Number": "17", "Entity": "19"}
+18	American	_	People_by_origin	{"Person": "1", "Ethnicity": "18"}
+19	actress	_	Performers	{"Origin": "18", "Person": "1"}
+20	and	_	Simultaneity	{}
+21	filmmaker	_	Behind_the_scenes	{"Nationality": "18", "Artist": "1"}
+22	.	_		{}

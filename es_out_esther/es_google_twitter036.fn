@@ -1,0 +1,22 @@
+1	Cuando	_		{}
+2	busco	_	Seeking	{"Sought_entity": "4"}
+3	"	_		{}
+4	Hans	_		{}
+5	"	_		{}
+6	en	_		{}
+7	Google	_		{}
+8	Imágenes	_		{}
+9	y	_		{}
+10	cuando	_		{}
+11	busco	_	Seeking	{"Sought_entity": "13"}
+12	"	_		{}
+13	Elsa	_		{}
+14	"	_		{}
+15	@HansEnfurecido	_		{}
+16	te	_		{}
+17	hace	_	Cause_harm	{"Agent": "20"}
+18	bullying	_		{}
+19	hasta	_	Continued_state_of_affairs	{"Reference_occasion": "20", "State_of_affairs": "18"}
+20	Google	_		{}
+21	.	_		{}
+22	http://t.co/dPEBKaa48j	_		{}

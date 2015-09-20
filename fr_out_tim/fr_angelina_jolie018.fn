@@ -1,0 +1,48 @@
+1	Le	_		{}
+2	couple	_	Personal_relationship	{"Partners": "2"}
+3	a	_		{}
+4	adopté	_		{}
+5	trois	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	enfants	_	Kinship	{"Ego": "2", "Alter": "6"}
+7	:	_		{}
+8	Maddox	_		{}
+9	Chivan	_		{}
+10	(	_		{}
+11	2001	_		{}
+12	)	_		{}
+13	,	_		{}
+14	Zahara	_		{}
+15	Marley	_		{}
+16	(	_		{}
+17	2005	_		{}
+18	)	_		{}
+19	et	_		{}
+20	Pax	_		{}
+21	Thien	_		{}
+22	(	_		{}
+23	2003	_		{}
+24	)	_		{}
+25	,	_		{}
+26	et	_		{}
+27	a	_		{}
+28	également	_		{}
+29	eu	_		{}
+30	trois	_	Cardinal_numbers	{"Number": "30", "Entity": "31"}
+31	enfants	_	Kinship	{"Ego": "2", "Alter": "31"}
+32	biologiques	_		{}
+33	:	_		{}
+34	Shiloh	_		{}
+35	Nouvel	_		{}
+36	(	_		{}
+37	2006	_		{}
+38	)	_		{}
+39	,	_		{}
+40	Vivienne	_		{}
+41	Marcheline	_		{}
+42	et	_		{}
+43	Knox	_		{}
+44	Léon	_		{}
+45	(	_		{}
+46	2008	_		{}
+47	)	_		{}
+48	.	_		{}

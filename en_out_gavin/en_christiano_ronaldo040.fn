@@ -1,0 +1,21 @@
+1	Ronaldo	_		{}
+2	joined	_	Becoming_a_member	{"New_member": "1", "Group": "6"}
+3	Sporting's	_		{}
+4	other	_		{}
+5	youth	_	People_by_age	{"Person": "6", "Descriptor": "5"}
+6	players	_	Performers	{"Descriptor": "4", "Age": "5"}
+7	who	_		{}
+8	trained	_	Education_teaching	{"Place": "9", "Institution": "11", "Student": "6"}
+9	at	_		{}
+10	the	_		{}
+11	Academia	_		{}
+12	Sporting	_		{}
+13	,	_		{}
+14	the	_		{}
+15	club's	_		{}
+16	football	_		{}
+17	academy	_	Locale_by_use	{"Locale": "17", "Descriptor": "16", "Relative_location": "19"}
+18	,	_		{}
+19	in	_		{}
+20	Alcochete	_		{}
+21	.	_		{}

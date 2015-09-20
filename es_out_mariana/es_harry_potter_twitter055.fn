@@ -1,0 +1,14 @@
+1	Harry	_		{}
+2	Potter	_		{}
+3	:	_		{}
+4	Vamos	_	Forming_relationships	{"Duration_of_final_state": "13", "Depictive": "13", "Means": "8", "Partners": "13", "Partner_2": "5", "Purpose": "7", "Partner_1": "1", "Manner": "13"}
+5	Tom	_		{}
+6	,	_		{}
+7	terminemos	_	Activity_finish	{"Purpose": "7", "Activity": "8", "Manner": "13", "Agent": "5", "Means": "13"}
+8	esto	_		{}
+9	como	_	Similarity	{"Manner": "13", "Entity_2": "11", "Entity_1": "7"}
+10	lo	_		{}
+11	empezamos	_	Activity_start	{"Manner": "13", "Agent": "1", "Activity": "8"}
+12	..	_		{}
+13	¡Juntos	_		{}
+14	!	_		{}

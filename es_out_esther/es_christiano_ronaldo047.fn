@@ -1,0 +1,44 @@
+1	Después	_		{}
+2	del	_		{}
+3	Mundial	_	Political_locales	{"Locale": "3"}
+4	de	_		{}
+5	Alemania	_	People_by_origin	{"Origin": "5"}
+6	2006	_		{}
+7	,	_		{}
+8	el	_		{}
+9	jugador	_	Performers	{"Person": "9"}
+10	manifestó	_		{}
+11	su	_		{}
+12	deseo	_	Desiring	{"Location_of_Event": "16", "Focal_participant": "9", "Experiencer": "9", "Event": "14"}
+13	de	_		{}
+14	recalar	_		{}
+15	en	_		{}
+16	España	_		{}
+17	,	_		{}
+18	aunque	_		{}
+19	tras	_		{}
+20	varias	_		{}
+21	especulaciones	_		{}
+22	,	_		{}
+23	su	_		{}
+24	alto	_	Position_on_a_scale	{"Variable": "24", "Item": "25"}
+25	precio	_	Expensiveness	{"Goods": "25", "Asset": "24", "Intended_event": "34"}
+26	(	_		{}
+27	66	_		{}
+28	millones	_	Quantity	{"Individuals": "29", "Mass": "28", "Quantity": "27"}
+29	de	_		{}
+30	euros	_		{}
+31	)	_		{}
+32	y	_		{}
+33	las	_		{}
+34	pretensiones	_		{}
+35	salariales	_	Earnings_and_losses	{"Earner": "9", "Earnings": "28"}
+36	del	_		{}
+37	futbolista	_		{}
+38	no	_		{}
+39	concretaron	_	Attaching	{"Item": "41", "Goal": "41", "Agent": "25", "Items": "9"}
+40	su	_		{}
+41	salida	_	Self_motion	{"Direction": "16", "Goal": "41", "Self_mover": "9", "Area": "43"}
+42	del	_		{}
+43	club	_	Organization	{"Organization": "43", "Members": "9"}
+44	.	_		{}

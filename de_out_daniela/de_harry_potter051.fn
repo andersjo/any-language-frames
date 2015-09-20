@@ -1,0 +1,28 @@
+1	Aus	_		{}
+2	dem	_		{}
+3	folgenden	_	Relative_time	{"Focal_occasion": "6", "Focal_participant": "8"}
+4	,	_		{}
+5	entscheidenden	_	Importance	{"Factor": "6"}
+6	Duell	_	Hostile_encounter	{"Side_2": "14", "Side_1": "8"}
+7	geht	_	Becoming	{"Entity": "8"}
+8	Harry	_		{}
+9	als	_		{}
+10	Sieger	_	Finish_competition	{"Competitor": "8", "Competition": "6", "Opponent": "14"}
+11	hervor	_		{}
+12	,	_		{}
+13	da	_		{}
+14	Voldemort	_		{}
+15	durch	_		{}
+16	seinen	_	Possession	{"Possession": "19", "Owner": "14"}
+17	eigenen	_		{}
+18	reflektierten	_		{}
+19	Todesfluch	_		{}
+20	stirbt	_	Death	{"Protagonist": "14", "Cause": "19"}
+21	und	_		{}
+22	so	_		{}
+23	die	_		{}
+24	Prophezeiung	_	Expectation	{}
+25	ihre	_		{}
+26	Erfüllung	_		{}
+27	findet	_		{}
+28	.	_		{}

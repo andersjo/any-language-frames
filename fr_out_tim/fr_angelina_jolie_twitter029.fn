@@ -1,0 +1,21 @@
+1	Angelina	_		{}
+2	jolie	_		{}
+3	quand	_		{}
+4	elle	_		{}
+5	va	_	Travel	{"Traveler": "1", "Goal": "7", "Area": "7"}
+6	en	_		{}
+7	Afrique	_		{}
+8	c'est	_		{}
+9	comme	_	Similarity	{"Entity_1": "5", "Entity_2": "11"}
+10	le	_		{}
+11	jour	_	Calendric_unit	{"Unit": "11"}
+12	de	_		{}
+13	la	_		{}
+14	draft	_		{}
+15	,	_		{}
+16	qui	_		{}
+17	va	_		{}
+18	être	_		{}
+19	adopté	_		{}
+20	et	_		{}
+21	tt	_		{}

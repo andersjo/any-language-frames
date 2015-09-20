@@ -1,0 +1,23 @@
+1	El	_		{}
+2	2	_	Cardinal_numbers	{"Number": "2", "Entity": "4"}
+3	de	_		{}
+4	septiembre	_	Calendric_unit	{"Relative_time": "4", "Whole": "6"}
+5	de	_		{}
+6	2008	_		{}
+7	,	_		{}
+8	Google	_		{}
+9	presenta	_	Communicate_categorization	{"Category": "12", "Item": "12", "Medium": "13", "Speaker": "8"}
+10	su	_		{}
+11	propio	_	Proper_reference	{"Intended_referent": "12", "Entity": "13"}
+12	navegador	_		{}
+13	web	_	Network	{"Network": "12"}
+14	Google	_		{}
+15	Chrome	_		{}
+16	y	_		{}
+17	el	_		{}
+18	proyecto	_	Project	{"Goal": "22", "Agent": "8", "Project": "20", "Field": "20", "Salient_entity": "22", "Activity": "18"}
+19	de	_		{}
+20	código	_		{}
+21	abierto	_	Openness	{"Theme": "20", "Useful_location": "20"}
+22	Chromium	_		{}
+23	.	_		{}

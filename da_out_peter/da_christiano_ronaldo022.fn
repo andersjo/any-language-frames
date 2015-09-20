@@ -1,0 +1,26 @@
+1	Operationen	_		{}
+2	fandt	_		{}
+3	sted	_		{}
+4	om	_		{}
+5	morgenen	_		{}
+6	,	_		{}
+7	og	_		{}
+8	Ronaldo	_		{}
+9	blev	_		{}
+10	udskrevet	_		{}
+11	fra	_		{}
+12	hospitalet	_		{}
+13	sent	_		{}
+14	på	_		{}
+15	eftermiddagen	_		{}
+16	,	_		{}
+17	og	_		{}
+18	herfter	_		{}
+19	genoptog	_		{}
+20	han	_		{}
+21	fodboldtræningen	_		{}
+22	et	_		{}
+23	par	_	Cardinal_numbers	{"Number": "23", "Entity": "24"}
+24	dage	_	Measure_duration	{"Count": "23", "Unit": "24"}
+25	senere	_	Relative_time	{"Focal_occasion": "21", "Focal_participant": "8", "Landmark_occasion": "10"}
+26	.	_		{}

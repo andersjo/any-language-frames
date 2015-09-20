@@ -1,0 +1,62 @@
+1	Harry	_		{}
+2	Potter	_		{}
+3	er	_		{}
+4	blevet	_		{}
+5	kritiseret	_		{}
+6	for	_		{}
+7	bl	_		{}
+8	.	_		{}
+9	a	_		{}
+10	at	_		{}
+11	opfordre	_	Attempt_suasion	{"Topic": "13", "Medium": "1"}
+12	til	_		{}
+13	heksekunst	_		{}
+14	og	_		{}
+15	satanisme	_		{}
+16	,	_		{}
+17	og	_		{}
+18	pave	_		{}
+19	Benedict	_		{}
+20	XVI	_		{}
+21	har	_		{}
+22	i	_		{}
+23	et	_		{}
+24	privat	_		{}
+25	brev	_	Text	{"Topic": "27", "Text": "25", "Author": "18"}
+26	kritiseret	_		{}
+27	bøgerne	_		{}
+28	,	_		{}
+29	ligesom	_		{}
+30	Harrys	_		{}
+31	anspændte	_		{}
+32	forhold	_	Cognitive_connection	{"Concept_1": "30", "Concept_2": "35"}
+33	til	_		{}
+34	sin	_		{}
+35	onkel	_	Kinship	{"Relatives": "35", "Ego": "30"}
+36	og	_	Simultaneity	{"Profiled_event": "35", "Landmark_event": "37"}
+37	tante	_	Kinship	{"Relatives": "37", "Ego": "30"}
+38	skulle	_		{}
+39	opmuntre	_	Experiencer_obj	{"Stimulus": "27"}
+40	til	_		{}
+41	forkerte	_		{}
+42	familieværdier	_		{}
+43	,	_		{}
+44	ifølge	_		{}
+45	pastor	_	Leadership	{"Role": "45", "Leader": "46"}
+46	Jack	_		{}
+47	Brock	_		{}
+48	der	_		{}
+49	ved	_		{}
+50	et	_		{}
+51	arrangement	_	Arranging	{"Theme": "51", "Agent": "45"}
+52	i	_		{}
+53	2001	_		{}
+54	,	_		{}
+55	hvor	_		{}
+56	menigheden	_	People_by_religion	{"Person": "56"}
+57	brændte	_		{}
+58	Harry	_		{}
+59	Potter-bøger	_		{}
+60	,	_		{}
+61	udtalte	_		{}
+62	at	_		{}

@@ -1,0 +1,25 @@
+1	Project	_		{}
+2	Loon	_		{}
+3	è	_		{}
+4	un	_		{}
+5	progetto	_	Project	{"Project": "19", "Goal": "16", "Name": "2"}
+6	in	_		{}
+7	fase	_		{}
+8	di	_		{}
+9	sviluppo	_	Progress	{"Entity": "5"}
+10	,	_		{}
+11	con	_		{}
+12	la	_		{}
+13	missione	_	Attempt	{"Purpose": "16", "Agent": "2", "Means": "21"}
+14	di	_		{}
+15	offrire	_	Offering	{"Theme": "16", "Offerer": "2"}
+16	connettività	_		{}
+17	internet	_	Network	{}
+18	attraverso	_		{}
+19	l'uso	_		{}
+20	di	_		{}
+21	palloni	_		{}
+22	ad	_		{}
+23	alta	_	Dimension	{"Object": "24"}
+24	quota	_	Dimension	{"Measurement": "23"}
+25	.	_		{}

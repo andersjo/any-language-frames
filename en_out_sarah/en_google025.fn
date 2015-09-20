@@ -1,0 +1,47 @@
+1	Eventually	_	Time_vector	{"Event": "4"}
+2	,	_		{}
+3	they	_		{}
+4	changed	_	Cause_change	{"Reason": "13", "Entity": "6", "Final_value": "8", "Agent": "3", "Time": "1"}
+5	the	_		{}
+6	name	_		{}
+7	to	_		{}
+8	Google	_		{}
+9	,	_		{}
+10	originating	_		{}
+11	from	_		{}
+12	a	_		{}
+13	misspelling	_	Spelling_and_pronouncing	{"Formal_realization": "18", "Judgment": "13"}
+14	of	_		{}
+15	the	_		{}
+16	word	_		{}
+17	"	_		{}
+18	googol	_		{}
+19	"	_		{}
+20	,	_		{}
+21	the	_		{}
+22	number	_		{}
+23	one	_	Cardinal_numbers	{"Number": "23"}
+24	followed	_		{}
+25	by	_		{}
+26	one	_	Cardinal_numbers	{"Number": "26", "Entity": "27"}
+27	hundred	_		{}
+28	zeros	_		{}
+29	,	_		{}
+30	which	_		{}
+31	was	_		{}
+32	picked	_	Choosing	{"Chosen": "30", "Larger_purpose": "34"}
+33	to	_		{}
+34	signify	_	Purpose	{"Attribute": "46", "Agent": "38", "Value": "43", "Goal": "34"}
+35	that	_		{}
+36	the	_		{}
+37	search	_		{}
+38	engine	_		{}
+39	was	_		{}
+40	intended	_	Purpose	{"Goal": "42", "Value": "43"}
+41	to	_		{}
+42	provide	_	Giving	{"Theme": "46"}
+43	large	_	Size	{"Entity": "44"}
+44	quantities	_	Quantity	{"Mass": "466"}
+45	of	_		{}
+46	information	_		{}
+47	.	_		{}

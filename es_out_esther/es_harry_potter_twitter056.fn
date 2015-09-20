@@ -1,0 +1,19 @@
+1	Me	_	Proper_reference	{"Intended_referent": "1", "Entity": "1"}
+2	vi	_	Attention	{"Expressor": "1", "Perceiver": "1", "Figure": "4"}
+3	la	_		{}
+4	bella	_	Aesthetics	{"Attribute": "5", "Entity": "4"}
+5	durmiente	_		{}
+6	,	_		{}
+7	hannah	_		{}
+8	montana	_		{}
+9	la	_		{}
+10	película	_	Physical_artworks	{"Artifact": "10"}
+11	y	_	Simultaneity	{}
+12	ahora	_	Time_vector	{"Landmark_event": "13", "Event": "13"}
+13	harry	_		{}
+14	potter	_		{}
+15	.	_		{}
+16	Que	_		{}
+17	buena	_	Desirability	{"Evaluee": "18"}
+18	noche	_	Calendric_unit	{"Relative_time": "18"}
+19	😎👌	_		{}

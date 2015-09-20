@@ -1,0 +1,18 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	&	_		{}
+4	Jack	_		{}
+5	Black	_	Color	{"Color": "5"}
+6	at	_		{}
+7	2004	_		{}
+8	Cannes	_		{}
+9	Film	_	Physical_artworks	{"Artifact": "9"}
+10	Festival	_	Social_event	{"Attendee": "2", "Name": "8", "Time": "7"}
+11	-	_		{}
+12	"	_		{}
+13	Shark	_		{}
+14	Tale	_	Prevarication	{}
+15	"	_		{}
+16	-	_		{}
+17	Photocall	_		{}
+18	http://t.co/8zGpKa1g1Z	_		{}

@@ -1,0 +1,28 @@
+1	Sie	_		{}
+2	dachte	_	Cogitation	{"Topic": "6", "Cognizer": "1"}
+3	einige	_		{}
+4	Zeit	_	Timespan	{"Duration": "3", "Whole": "4"}
+5	ernsthaft	_	Candidness	{"Topic": "6", "Speaker": "1"}
+6	darüber	_		{}
+7	nach	_		{}
+8	,	_		{}
+9	Bestattungsunternehmerin	_		{}
+10	zu	_		{}
+11	werden	_	Undergo_change	{"Final_category": "9", "Entity": "1"}
+12	,	_		{}
+13	nachdem	_		{}
+14	ihr	_		{}
+15	Großvater	_		{}
+16	gestorben	_	Out_of_existence	{"Entity": "15"}
+17	war	_		{}
+18	,	_		{}
+19	aber	_	Concessive	{"Main_statement": "27", "Statement": "9"}
+20	sie	_		{}
+21	entschied	_	Choosing	{"Chosen": "27", "Cognizer": "20"}
+22	sich	_		{}
+23	letztendlich	_	Time_vector	{"Direction": "23", "Event": "21"}
+24	doch	_	Concessive	{"Main_statement": "27", "Statement": "9"}
+25	für	_		{}
+26	die	_		{}
+27	Schauspielerei	_	Intentionally_act	{"Agent": "20"}
+28	.	_		{}

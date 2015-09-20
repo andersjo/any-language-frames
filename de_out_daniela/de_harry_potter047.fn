@@ -1,0 +1,29 @@
+1	Weil	_		{}
+2	Voldemort	_		{}
+3	zwischenzeitlich	_		{}
+4	das	_		{}
+5	Zaubereiministerium	_		{}
+6	unter	_		{}
+7	seinen	_	Possession	{"Owner": "2", "Possession": "8"}
+8	Einfluss	_	Subjective_influence	{"Cognizer": "5", "Agent": "2"}
+9	gebracht	_		{}
+10	hat	_		{}
+11	und	_		{}
+12	das	_		{}
+13	ganze	_	Completeness	{"Whole": "14"}
+14	Land	_	Political_locales	{"Locale": "14"}
+15	kontrolliert	_	Leadership	{"Leader": "2", "Governed": "14"}
+16	,	_		{}
+17	entkommen	_		{}
+18	sie	_		{}
+19	während	_		{}
+20	ihrer	_		{}
+21	phasenweise	_		{}
+22	ziellosen	_		{}
+23	Suche	_	Seeking	{"Cognizer_agent": "18"}
+24	mehrfach	_		{}
+25	nur	_		{}
+26	knapp	_		{}
+27	dem	_		{}
+28	Tod	_	Dead_or_alive	{"Protagonist": "18"}
+29	.	_		{}

@@ -1,0 +1,41 @@
+1	Nästa	_		{}
+2	bok	_	Text	{"Text": "2"}
+3	och	_		{}
+4	den	_		{}
+5	tredje	_	Ordinal_numbers	{"Comparison_set": "7"}
+6	i	_		{}
+7	serien	_	Sequence	{"Entity1": "2"}
+8	blev	_		{}
+9	ännu	_		{}
+10	större	_		{}
+11	framgångar	_		{}
+12	,	_		{}
+13	och	_		{}
+14	när	_		{}
+15	fyran	_		{}
+16	kom	_		{}
+17	hade	_		{}
+18	publiceringarna	_		{}
+19	blivit	_		{}
+20	stora	_	Size	{"Entity": "21"}
+21	föreställningar	_		{}
+22	,	_		{}
+23	med	_		{}
+24	bokhandlar	_		{}
+25	som	_		{}
+26	var	_		{}
+27	öppna	_	Openness	{"Theme": "24"}
+28	vid	_		{}
+29	midnatt	_	Calendric_unit	{"Relative_time": "29", "Salient_event": "27"}
+30	och	_		{}
+31	mer	_		{}
+32	tv-reklam	_		{}
+33	än	_		{}
+34	vanligt	_		{}
+35	för	_		{}
+36	böckerna	_	Text	{"Text": "36"}
+37	om	_		{}
+38	den	_		{}
+39	unge	_	People_by_age	{"Person": "40", "Descriptor": "39"}
+40	trollkarlen	_		{}
+41	.	_		{}

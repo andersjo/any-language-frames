@@ -1,0 +1,18 @@
+1	En	_		{}
+2	su	_		{}
+3	segundo	_	Ordinal_numbers	{"Comparison_set": "4", "Item": "7", "Type": "7"}
+4	año	_	Calendric_unit	{"Relative_time": "3", "Whole": "4"}
+5	creció	_		{}
+6	como	_	Identicality	{"Current_instance": "7"}
+7	futbolista	_		{}
+8	asentándose	_		{}
+9	como	_	Identicality	{"Set_of_instances": "14", "Type": "14"}
+10	uno	_	Cardinal_numbers	{"Number": "10", "Entity": "14"}
+11	de	_		{}
+12	los	_		{}
+13	mejores	_	Cause_to_make_progress	{"Project": "16", "Agent": "13"}
+14	jóvenes	_	People_by_age	{"Person": "10", "Age": "14"}
+15	del	_		{}
+16	fútbol	_		{}
+17	mundial	_	Political_locales	{"Locale": "17"}
+18	.	_		{}

@@ -1,0 +1,11 @@
+1	estoy	_	State_continue	{}
+2	viendo	_	Attention	{"Figure": "4"}
+3	al	_		{}
+4	profesor	_	People_by_vocation	{"Person": "5"}
+5	lupin	_		{}
+6	.	_		{}
+7	mucho	_	Quantity	{"Mass": "8", "Quantity": "7"}
+8	harry	_		{}
+9	potter	_		{}
+10	últimamente	_	Relative_time	{"Focal_occasion": "2", "Focal_participant": "8", "Landmark_occasion": "2"}
+11	.	_		{}

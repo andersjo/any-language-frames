@@ -1,0 +1,12 @@
+1	Sergueï	_		{}
+2	loue	_	Renting	{"Goods": "4", "Lessee": "1"}
+3	un	_		{}
+4	bureau	_	Building_subparts	{"Building_part": "4"}
+5	et	_		{}
+6	se	_		{}
+7	met	_		{}
+8	en	_		{}
+9	quête	_	Seeking_to_achieve	{"Sought_entity": "11", "Agent": "1"}
+10	de	_		{}
+11	financements	_		{}
+12	.	_		{}

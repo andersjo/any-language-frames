@@ -1,0 +1,24 @@
+1	El	_		{}
+2	mismo	_	Identicality	{"Previous_instance": "3", "Current_instance": "3", "Type": "3", "Previous_context": "3"}
+3	año	_	Calendric_unit	{"Relative_time": "3", "Whole": "3", "Salient_event": "4"}
+4	desempeñó	_		{}
+5	el	_		{}
+6	papel	_	Text	{"Text": "6", "Author": "9"}
+7	de	_		{}
+8	"	_		{}
+9	Margret	_		{}
+10	Sadovsky	_		{}
+11	"	_		{}
+12	,	_		{}
+13	uno	_	Cardinal_numbers	{"Multiplier": "16", "Number": "13", "Entity": "9"}
+14	de	_		{}
+15	las	_		{}
+16	cinco	_	Aggregate	{"Aggregate": "17", "Domain": "20", "Individuals": "9", "Container_possessor": "20", "Name": "17"}
+17	protagonistas	_	Performers_and_roles	{"Performer": "9", "Script": "22", "Medium": "20", "Role": "17", "Performance": "22", "Type": "20"}
+18	en	_		{}
+19	la	_		{}
+20	película	_	Physical_artworks	{"Use": "20", "Name": "22", "Artifact": "22"}
+21	"	_		{}
+22	Foxfire	_		{}
+23	"	_		{}
+24	.	_		{}

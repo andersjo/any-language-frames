@@ -1,0 +1,28 @@
+1	Sur	_		{}
+2	google	_		{}
+3	earth	_		{}
+4	tu	_		{}
+5	peux	_	Possibility	{}
+6	aller	_	Self_motion	{"Goal": "7", "Self_mover": "4", "Area": "10"}
+7	partout	_		{}
+8	dans	_		{}
+9	le	_		{}
+10	monde	_	Political_locales	{"Locale": "10"}
+11	,	_		{}
+12	mais	_		{}
+13	le	_		{}
+14	seul	_		{}
+15	truc	_		{}
+16	que	_		{}
+17	tu	_		{}
+18	fais	_		{}
+19	c'est	_		{}
+20	zoner	_		{}
+21	devant	_	Part_orientational	{"Part": "21", "Whole": "22"}
+22	chez	_		{}
+23	toi	_		{}
+24	,	_		{}
+25	ou	_		{}
+26	dans	_		{}
+27	ta	_		{}
+28	ville	_	Political_locales	{"Locale": "28"}

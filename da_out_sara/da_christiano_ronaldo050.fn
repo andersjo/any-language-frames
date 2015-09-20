@@ -1,0 +1,25 @@
+1	Ronaldo	_		{}
+2	sagde	_		{}
+3	han	_		{}
+4	havde	_		{}
+5	"	_		{}
+6	lært	_		{}
+7	en	_		{}
+8	masse	_	Quantity	{"Mass": "6", "Quantity": "8"}
+9	"	_		{}
+10	af	_		{}
+11	den	_		{}
+12	erfaring	_	Perception_experience	{"Phenomenon": "12", "Perceiver_passive": "1"}
+13	og	_		{}
+14	ville	_	Desiring	{"Experiencer": "1"}
+15	ikke	_		{}
+16	lade	_	Make_possible_to_do	{"Enabled_action": "20"}
+17	andre	_		{}
+18	spillere	_		{}
+19	"	_		{}
+20	provokere	_		{}
+21	"	_		{}
+22	ham	_		{}
+23	i	_		{}
+24	fremtiden	_	Possibilities	{"Event": "20", "Agent": "1"}
+25	.	_		{}

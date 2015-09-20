@@ -1,0 +1,44 @@
+1	Issu	_		{}
+2	d'une	_		{}
+3	famille	_	Kinship	{"Relatives": "3"}
+4	moyenne	_	Typicality	{"Entity": "3"}
+5	de	_		{}
+6	quatre	_	Cardinal_numbers	{"Number": "6", "Entity": "7"}
+7	enfants	_	People_by_age	{"Person": "7"}
+8	,	_		{}
+9	il	_		{}
+10	est	_		{}
+11	lors	_	Temporal_collocation	{"Trajector_event": "10", "Landmark_period": "15"}
+12	de	_		{}
+13	sa	_		{}
+14	petite	_	People_by_age	{"Person": "13", "Age": "15"}
+15	enfance	_	People_by_age	{"Person": "13", "Age": "15"}
+16	supporter	_	Supporting	{"Supported": "18", "Supporter": "9"}
+17	du	_		{}
+18	Benfica	_		{}
+19	Lisbonne	_		{}
+20	et	_		{}
+21	passe	_	Process_continue	{"Place": "35", "Manner": "28"}
+22	la	_		{}
+23	plupart	_		{}
+24	de	_		{}
+25	son	_		{}
+26	temps	_	Timespan	{"Duration": "23", "State": "28"}
+27	à	_		{}
+28	jouer	_	Body_movement	{"Agent": "9"}
+29	au	_		{}
+30	football	_		{}
+31	dans	_		{}
+32	son	_		{}
+33	quartier	_	Political_locales	{"Locale": "33"}
+34	de	_		{}
+35	Santo	_		{}
+36	Antonio	_		{}
+37	à	_		{}
+38	Funchal	_		{}
+39	,	_		{}
+40	sur	_		{}
+41	l'île	_		{}
+42	de	_		{}
+43	Madère	_		{}
+44	.	_		{}

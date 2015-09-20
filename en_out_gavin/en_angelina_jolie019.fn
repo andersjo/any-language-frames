@@ -1,0 +1,15 @@
+1	Her	_		{}
+2	brother	_	Kinship	{"Ego": "1", "Alter": "6"}
+3	is	_		{}
+4	actor	_	Performers	{"Person": "6"}
+5	James	_		{}
+6	Haven	_		{}
+7	and	_		{}
+8	their	_		{}
+9	paternal	_	Kinship	{"Alter": "14"}
+10	uncle	_	Kinship	{"Descriptor": "9", "Ego": "8", "Alter": "10"}
+11	is	_		{}
+12	singer-songwriter	_		{}
+13	Chip	_		{}
+14	Taylor	_		{}
+15	.	_		{}

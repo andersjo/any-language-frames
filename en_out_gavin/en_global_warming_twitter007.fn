@@ -1,0 +1,17 @@
+1	@miriampierard	_		{}
+2	@suckedthekumara	_		{}
+3	positions	_	Taking_sides	{}
+4	on	_		{}
+5	global	_	Political_locales	{"Locale": "5"}
+6	warming	_	Temperature	{"Temperature": "6", "Entity": "5"}
+7	aside	_		{}
+8	,	_		{}
+9	the	_		{}
+10	paper	_	Documents	{"Descriptor": "11", "Document": "10"}
+11	that	_		{}
+12	claimed	_	Statement	{"Message": "14", "Speaker": "10"}
+13	97%	_		{}
+14	consensus	_		{}
+15	was	_	Being_in_category	{"Category": "16", "Item": "10"}
+16	debunked	_	Reveal_secret	{"Speaker": "10"}
+17	.	_		{}

@@ -1,0 +1,23 @@
+1	Acer	_		{}
+2	announces	_	Statement	{"Topic": "6", "Speaker": "1"}
+3	4G-capable	_		{}
+4	Liquid	_	Substance	{"Descriptor": "3", "Substance": "4"}
+5	Z410	_		{}
+6	smartphone	_		{}
+7	ahead	_	Relative_time	{"Focal_occasion": "2", "Focal_participant": "1", "Landmark_occasion": "9"}
+8	of	_		{}
+9	CES	_		{}
+10	-	_		{}
+11	9	_		{}
+12	to	_		{}
+13	5	_	Cardinal_numbers	{"Number": "13"}
+14	Google	_		{}
+15	:	_		{}
+16	9	_		{}
+17	to	_		{}
+18	5	_	Cardinal_numbers	{"Number": "18"}
+19	GoogleAcer	_		{}
+20	announces	_	Statement	{"Topic": "21", "Speaker": "19"}
+21	4G-	_		{}
+22	...	_		{}
+23	http://t.co/dRwyRB1wNk	_		{}

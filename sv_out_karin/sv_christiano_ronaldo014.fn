@@ -1,0 +1,27 @@
+1	Ronaldos	_		{}
+2	karriär	_		{}
+3	fortsatte	_		{}
+4	sedan	_	Temporal_collocation	{"Landmark_entity": "3"}
+5	i	_	Being_employed	{"Employee": "1", "Place_of_employment": "7"}
+6	storklubben	_		{}
+7	Sporting	_		{}
+8	Lissabon	_		{}
+9	,	_		{}
+10	i	_		{}
+11	vilken	_		{}
+12	han	_		{}
+13	spelade	_		{}
+14	när	_	Event_instance	{"Event": "13"}
+15	han	_		{}
+16	debuterade	_		{}
+17	i	_		{}
+18	den	_		{}
+19	portugisiska	_		{}
+20	ligan	_	Organization	{"Organization": "19", "Members": "1"}
+21	år	_	Measure_duration	{"Process": "16", "Unit": "22"}
+22	2002	_		{}
+23	vid	_		{}
+24	sjutton	_		{}
+25	års	_		{}
+26	ålder	_	Age	{"Age": "24", "Entity": "1"}
+27	.	_		{}

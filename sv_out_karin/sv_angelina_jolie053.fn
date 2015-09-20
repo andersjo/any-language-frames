@@ -1,0 +1,32 @@
+1	Det	_		{}
+2	beror	_		{}
+3	på	_		{}
+4	att	_		{}
+5	hennes	_		{}
+6	uppsyn	_	Facial_expression	{"Expression": "6", "Conveyed_emotion": "10", "Possessor": "5"}
+7	är	_		{}
+8	än	_		{}
+9	mer	_		{}
+10	sur	_		{}
+11	än	_		{}
+12	hennes	_		{}
+13	medspelares	_		{}
+14	och	_	Simultaneity	{"Profiled_event": "10", "Landmark_event": "19"}
+15	att	_		{}
+16	hon	_		{}
+17	är	_		{}
+18	den	_		{}
+19	sällsynta	_		{}
+20	kvinnliga	_	People	{"Person": "21"}
+21	hackaren	_		{}
+22	som	_		{}
+23	sitter	_		{}
+24	intensivt	_		{}
+25	vid	_		{}
+26	sitt	_		{}
+27	tangentbord	_		{}
+28	i	_		{}
+29	en	_	Cardinal_numbers	{"Number": "29", "Entity": "31"}
+30	genomskinlig	_		{}
+31	topp	_		{}
+32	.	_		{}

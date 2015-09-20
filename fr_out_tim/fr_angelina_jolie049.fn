@@ -1,0 +1,13 @@
+1	Le	_		{}
+2	succès	_	Success_or_failure	{}
+3	du	_		{}
+4	film	_	Physical_artworks	{"Artifact": "4"}
+5	n'étant	_		{}
+6	pas	_		{}
+7	au	_		{}
+8	rendez-vous	_		{}
+9	,	_		{}
+10	Angelina	_		{}
+11	se	_		{}
+12	dit	_	Telling	{"Message": "5", "Addressee": "10", "Speaker": "10"}
+13	.	_		{}

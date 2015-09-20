@@ -1,0 +1,43 @@
+1	Jolies	_		{}
+2	nästa	_	Relative_time	{"Focal_occasion": "3", "Focal_participant": "1"}
+3	roll	_	Performers_and_roles	{"Performance": "8", "Performer": "1", "Type": "6"}
+4	var	_		{}
+5	i	_		{}
+6	komedin	_	Text	{"Genre": "6", "Text": "8", "Title": "8"}
+7	"	_		{}
+8	Love	_		{}
+9	Is	_		{}
+10	All	_		{}
+11	There	_		{}
+12	Is	_		{}
+13	"	_		{}
+14	(	_		{}
+15	1996	_		{}
+16	)	_		{}
+17	,	_		{}
+18	en	_	Cardinal_numbers	{"Number": "18", "Entity": "22"}
+19	modern	_	Stage_of_progress	{"Entity": "22"}
+20	och	_		{}
+21	fri	_	Strictness	{"Medium": "22"}
+22	filmatisering	_		{}
+23	av	_		{}
+24	"	_		{}
+25	Romeo	_		{}
+26	och	_		{}
+27	Julia	_		{}
+28	"	_		{}
+29	som	_		{}
+30	utspelar	_		{}
+31	sig	_		{}
+32	hos	_		{}
+33	två	_	Cardinal_numbers	{"Number": "33", "Entity": "34"}
+34	rivaliserande	_		{}
+35	italienska	_	People_by_origin	{"Origin": "35", "Person": "36"}
+36	restaurängagare	_		{}
+37	i	_	Political_locales	{"Locale": "39"}
+38	stadsdelen	_		{}
+39	Bronx	_		{}
+40	i	_	Political_locales	{"Locale": "42"}
+41	New	_		{}
+42	York	_		{}
+43	.	_		{}

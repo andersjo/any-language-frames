@@ -1,0 +1,26 @@
+1	Secondo	_		{}
+2	una	_		{}
+3	nota	_	Text	{"Text": "3"}
+4	a	_		{}
+5	margine	_	Part_edge	{"Part": "5", "Whole": "7"}
+6	del	_		{}
+7	libro	_	Text	{"Text": "7"}
+8	""	_		{}
+9	(	_		{}
+10	pseudobiblium	_		{}
+11	di	_		{}
+12	J	_		{}
+13	.	_		{}
+14	K	_		{}
+15	.	_		{}
+16	Rowling	_		{}
+17	)	_		{}
+18	il	_		{}
+19	castello	_	Buildings	{"Building": "19"}
+20	di	_		{}
+21	Hogwarts	_		{}
+22	si	_		{}
+23	trova	_	Locating	{"Location": "25", "Sought_entity": "19"}
+24	in	_		{}
+25	Scozia	_		{}
+26	.	_		{}

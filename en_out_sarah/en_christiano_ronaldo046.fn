@@ -1,0 +1,29 @@
+1	The	_		{}
+2	surgery	_	Businesses	{"Business": "2"}
+3	took	_	Activity_start	{"Activity": "2"}
+4	place	_		{}
+5	in	_		{}
+6	the	_		{}
+7	morning	_	Temporal_subregion	{"Sub_part": "7"}
+8	and	_		{}
+9	Ronaldo	_		{}
+10	was	_		{}
+11	discharged	_	Releasing	{"Theme": "9", "Location_of_confinement": "13"}
+12	from	_		{}
+13	hospital	_	Buildings	{"Building": "13"}
+14	by	_		{}
+15	the	_		{}
+16	end	_	Temporal_subregion	{"Time_period": "19", "Sub_part": "16"}
+17	of	_		{}
+18	the	_		{}
+19	afternoon	_	Calendric_unit	{"Unit": "19"}
+20	;	_		{}
+21	he	_		{}
+22	resumed	_	Activity_resume	{"Agent": "21", "Activity": "23"}
+23	training	_	Education_teaching	{"Student": "21"}
+24	only	_	Sole_instance	{"Item": "27"}
+25	a	_	Cardinal_numbers	{"Number": "25", "Entity": "27"}
+26	few	_	Quantity	{"Individuals": "27", "Quantity": "26"}
+27	days	_	Calendric_unit	{"Unit": "27"}
+28	later	_	Relative_time	{"Focal_occasion": "22", "Focal_participant": "21", "Landmark_occasion": "11"}
+29	.	_		{}

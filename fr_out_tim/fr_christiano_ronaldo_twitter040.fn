@@ -1,0 +1,23 @@
+1	Les	_		{}
+2	Enfants	_	People_by_age	{"Person": "2"}
+3	Disent	_	Statement	{"Message": "5", "Speaker": "2"}
+4	Il	_		{}
+5	Neige	_	Precipitation	{"Precipitation": "5", "Place": "7"}
+6	Pas	_		{}
+7	Ici	_		{}
+8	Parce	_		{}
+9	:	_		{}
+10	-Christiano	_		{}
+11	Ronaldo	_		{}
+12	N'habite	_		{}
+13	Pas	_		{}
+14	Ici	_		{}
+15	-On	_		{}
+16	Prépare	_		{}
+17	Sur	_		{}
+18	Charbons	_		{}
+19	-On	_		{}
+20	Vend	_	Commerce_sell	{"Seller": "19"}
+21	Ça	_		{}
+22	Au	_		{}
+23	Glacier	_		{}

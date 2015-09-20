@@ -1,0 +1,47 @@
+1	Han	_		{}
+2	scorede	_		{}
+3	sit	_		{}
+4	mål	_	Quantity	{"Individuals": "4", "Quantity": "6"}
+5	nummer	_	Quantity	{"Individuals": "4", "Quantity": "6"}
+6	halvtreds	_	Cardinal_numbers	{"Number": "6", "Entity": "4"}
+7	for	_		{}
+8	Manchester	_		{}
+9	United	_		{}
+10	,	_		{}
+11	da	_		{}
+12	de	_	Observable_body_parts	{"Possessor": "8"}
+13	mødte	_		{}
+14	rivalerne	_		{}
+15	Manchester	_		{}
+16	City	_		{}
+17	og	_		{}
+18	United	_		{}
+19	vandt	_		{}
+20	deres	_		{}
+21	første	_	Ordinal_numbers	{"Item": "22"}
+22	Premier	_		{}
+23	League-titel	_		{}
+24	i	_		{}
+25	fire	_	Cardinal_numbers	{"Number": "25", "Entity": "26"}
+26	år	_	Measure_duration	{"Count": "25", "Unit": "26"}
+27	,	_		{}
+28	og	_		{}
+29	han	_		{}
+30	blev	_		{}
+31	endnu	_	Continued_state_of_affairs	{"Reference_occasion": "33"}
+32	en	_		{}
+33	gang	_	Event_instance	{"Instance": "33", "Event": "34"}
+34	kåret	_		{}
+35	som	_		{}
+36	FIFPro	_		{}
+37	Special	_		{}
+38	Young	_		{}
+39	Player	_		{}
+40	of	_		{}
+41	the	_		{}
+42	Year	_		{}
+43	i	_		{}
+44	slutningen	_	Temporal_subregion	{"Time_period": "46", "Sub_part": "44"}
+45	af	_		{}
+46	året	_		{}
+47	.	_		{}

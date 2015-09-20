@@ -1,0 +1,23 @@
+1	His	_		{}
+2	second	_	Ordinal_numbers	{"Comparison_set": "4", "Item": "6", "Type": "3"}
+3	given	_	Giving	{"Theme": "4", "Recipient": "1"}
+4	name	_	Name_conferral	{"Name_source": "10", "Name": "6", "Entity": "1"}
+5	"	_		{}
+6	Ronaldo	_		{}
+7	"	_		{}
+8	was	_		{}
+9	chosen	_	Choosing	{"Chosen": "6"}
+10	after	_	Time_vector	{}
+11	then-	_		{}
+12	U.S.	_		{}
+13	president	_	People	{"Person": "15", "Ethnicity": "12"}
+14	Ronald	_		{}
+15	Reagan	_		{}
+16	,	_		{}
+17	who	_		{}
+18	was	_	Being_in_category	{"Category": "22", "Item": "15", "Cognizer": "20"}
+19	his	_		{}
+20	father's	_		{}
+21	favourite	_		{}
+22	actor	_	Performers	{"Descriptor": "21", "Person": "15"}
+23	.	_		{}

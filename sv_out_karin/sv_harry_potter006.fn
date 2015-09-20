@@ -1,0 +1,30 @@
+1	De	_		{}
+2	har	_		{}
+3	även	_		{}
+4	fått	_		{}
+5	kritik	_	Judgment_communication	{"Topic": "18", "Communicator": "14", "Reason": "17", "Evaluee": "1"}
+6	för	_		{}
+7	att	_		{}
+8	de	_		{}
+9	,	_		{}
+10	främst	_		{}
+11	enligt	_		{}
+12	vissa	_		{}
+13	religiösa	_		{}
+14	grupper	_		{}
+15	,	_		{}
+16	påstås	_		{}
+17	förespråka	_	Speak_on_topic	{"Topic": "18", "Speaker": "23"}
+18	häxkonster	_		{}
+19	,	_		{}
+20	samt	_		{}
+21	därför	_		{}
+22	att	_		{}
+23	Rowling	_		{}
+24	sägs	_		{}
+25	ha	_		{}
+26	lånat	_		{}
+27	för	_		{}
+28	mycket	_	Quantity	{"Degree": "27"}
+29	från	_		{}
+30	J.R.R.	_		{}

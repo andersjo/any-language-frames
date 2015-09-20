@@ -1,0 +1,22 @@
+1	Föräldrarna	_		{}
+2	skildes	_		{}
+3	1976	_		{}
+4	och	_	Simultaneity	{"Profiled_event": "2", "Landmark_event": "9"}
+5	Jolie	_		{}
+6	och	_	Simultaneity	{"Profiled_event": "5", "Landmark_event": "8"}
+7	hennes	_		{}
+8	bror	_	Kinship	{"Ego": "8", "Alter": "5"}
+9	levde	_		{}
+10	med	_		{}
+11	sin	_		{}
+12	mor	_	Kinship	{"Ego": "12", "Alter": "5"}
+13	som	_		{}
+14	gav	_		{}
+15	upp	_		{}
+16	sin	_		{}
+17	skådespelarkarriär	_		{}
+18	för	_		{}
+19	att	_		{}
+20	uppfostra	_	Growing_food	{"Food": "21", "Grower": "12"}
+21	barnen	_		{}
+22	.	_		{}

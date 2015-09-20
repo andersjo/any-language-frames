@@ -1,0 +1,65 @@
+1	Le	_		{}
+2	angherie	_	Stimulus_focus	{"Stimulus": "2"}
+3	che	_		{}
+4	Harry	_		{}
+5	subisce	_		{}
+6	da	_		{}
+7	parte	_		{}
+8	loro	_		{}
+9	e	_		{}
+10	del	_		{}
+11	cugino	_	Kinship	{"Ego": "4", "Alter": "12"}
+12	Dudley	_		{}
+13	riempiono	_	Filling	{"Goal": "15"}
+14	le	_		{}
+15	pagine	_		{}
+16	successive	_		{}
+17	,	_		{}
+18	fino	_		{}
+19	a	_		{}
+20	quando	_	Event_instance	{"Event": "22"}
+21	Harry	_		{}
+22	apprende	_	Becoming_aware	{"Topic": "24", "Cognizer": "21"}
+23	di	_		{}
+24	essere	_	Being_in_category	{"Category": "26"}
+25	un	_		{}
+26	mago	_	Expertise	{"Role": "26"}
+27	grazie	_		{}
+28	al	_		{}
+29	Mezzogigante	_		{}
+30	(	_		{}
+31	nonché	_		{}
+32	il	_		{}
+33	guardiacaccia	_		{}
+34	della	_		{}
+35	scuola	_	Locale_by_use	{"Locale": "35"}
+36	di	_		{}
+37	Hogwarts	_		{}
+38	)	_		{}
+39	Rubeus	_		{}
+40	Hagrid	_		{}
+41	,	_		{}
+42	il	_		{}
+43	quale	_		{}
+44	gli	_		{}
+45	racconta	_	Telling	{"Topic": "49", "Addressee": "21", "Speaker": "39"}
+46	che	_		{}
+47	i	_		{}
+48	suoi	_		{}
+49	genitori	_	Kinship	{"Ego": "21", "Alter": "49"}
+50	sono	_		{}
+51	stati	_		{}
+52	assassinati	_	Killing	{"Killer": "64", "Victim": "49"}
+53	dal	_		{}
+54	più	_		{}
+55	grande	_	Measurable_attributes	{"Degree": "55", "Entity": "56"}
+56	mago	_		{}
+57	oscuro	_		{}
+58	di	_		{}
+59	tutti	_	Quantity	{"Individuals": "61", "Quantity": "59"}
+60	i	_		{}
+61	tempi	_	Timespan	{"Duration": "61"}
+62	,	_		{}
+63	Lord	_		{}
+64	Voldemort	_		{}
+65	.	_		{}

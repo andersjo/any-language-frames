@@ -1,0 +1,12 @@
+1	2012	_		{}
+2	förlovade	_		{}
+3	paret	_	Personal_relationship	{"Partners": "8"}
+4	sig	_		{}
+5	och	_	Simultaneity	{"Profiled_event": "2", "Landmark_event": "7"}
+6	2014	_		{}
+7	gifte	_	Forming_relationships	{"Partners": "3", "Time": "6", "Place": "11", "Means": "7"}
+8	de	_		{}
+9	sig	_		{}
+10	i	_	Political_locales	{"Locale": "11"}
+11	Frankrike	_		{}
+12	.	_		{}

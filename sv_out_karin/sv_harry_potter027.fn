@@ -1,0 +1,18 @@
+1	Å	_		{}
+2	andra	_		{}
+3	sidan	_	Taking_sides	{"Action": "4", "Cognizer": "7", "Issue": "10"}
+4	menar	_	Opinion	{"Opinion": "13", "Domain": "10", "Cognizer": "7"}
+5	en	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	del	_	Part_whole	{"Part": "6", "Whole": "7"}
+7	kritiker	_	Judgment_communication	{"Topic": "10", "Communicator": "7", "Evaluee": "9"}
+8	att	_		{}
+9	Rowlings	_		{}
+10	prosa-stil	_		{}
+11	ibland	_	Frequency	{"Degree": "11"}
+12	är	_		{}
+13	platt	_		{}
+14	och	_		{}
+15	resten	_	Rest	{"Part": "10", "Rest": "15"}
+16	ännu	_		{}
+17	sämre	_		{}
+18	.	_		{}

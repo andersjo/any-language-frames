@@ -1,0 +1,58 @@
+1	Mejoró	_		{}
+2	también	_		{}
+3	su	_		{}
+4	faceta	_	Distinctiveness	{"Feature": "5", "Entity": "4"}
+5	goleadora	_		{}
+6	,	_		{}
+7	siendo	_	Being_in_category	{"Category": "8", "Item": "11"}
+8	autor	_	Performers	{"Person": "8"}
+9	de	_		{}
+10	varios	_	Diversity	{"Group": "11", "Dimension": "11"}
+11	dobletes	_		{}
+12	,	_		{}
+13	que	_		{}
+14	le	_		{}
+15	valieron	_	Using	{"Instrument": "11", "Purpose": "18"}
+16	para	_		{}
+17	ser	_		{}
+18	nombrado	_		{}
+19	nuevamente	_	Familiarity	{}
+20	como	_	Similarity	{"Dimension": "22", "Entity_1": "22"}
+21	«	_		{}
+22	Jugador	_	Performers	{"Person": "22"}
+23	del	_		{}
+24	mes	_	Calendric_unit	{"Relative_time": "24"}
+25	»	_		{}
+26	de	_		{}
+27	la	_		{}
+28	Premier	_		{}
+29	,	_		{}
+30	y	_		{}
+31	por	_		{}
+32	el	_		{}
+33	diario	_	Text	{"Text": "33"}
+34	portugués	_	Origin	{"Origin": "34", "Entity": "33"}
+35	A	_		{}
+36	Bola	_		{}
+37	como	_	Similarity	{"Differentiating_fact": "39", "Entity_1": "39", "Dimension": "39"}
+38	«	_		{}
+39	Deportista	_	Performers	{"Person": "39"}
+40	portugués	_	Origin	{"Origin": "40", "Entity": "39"}
+41	del	_		{}
+42	año	_	Calendric_unit	{"Relative_time": "42"}
+43	»	_		{}
+44	por	_		{}
+45	su	_		{}
+46	importante	_	Importance	{"Interested_party": "39", "Field": "52", "Factor": "50", "Undertaking": "47"}
+47	contribución	_	Part_whole	{"Part": "47", "Whole": "50"}
+48	a	_		{}
+49	la	_		{}
+50	expansión	_	Expansion	{"Item": "52"}
+51	del	_		{}
+52	fútbol	_		{}
+53	portugués	_	Origin	{"Origin": "53", "Entity": "52"}
+54	a	_		{}
+55	través	_		{}
+56	del	_		{}
+57	mundo	_	Locale	{"Locale": "57"}
+58	.	_		{}

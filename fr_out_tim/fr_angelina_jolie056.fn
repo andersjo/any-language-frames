@@ -1,0 +1,18 @@
+1	La	_		{}
+2	même	_	Identicality	{"Type": "3"}
+3	année	_	Calendric_unit	{"Relative_time": "2", "Unit": "3"}
+4	,	_		{}
+5	elle	_		{}
+6	est	_		{}
+7	présente	_	Presence	{"Location": "11", "Entity": "5"}
+8	dans	_		{}
+9	le	_		{}
+10	clip	_		{}
+11	vidéo	_	Physical_artworks	{"Artifact": "10"}
+12	du	_		{}
+13	single	_		{}
+14	,	_		{}
+15	des	_		{}
+16	Rolling	_		{}
+17	Stones	_		{}
+18	.	_		{}

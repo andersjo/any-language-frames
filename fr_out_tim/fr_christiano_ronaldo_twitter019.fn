@@ -1,0 +1,28 @@
+1	J'me	_		{}
+2	rappelle	_	Remembering_experience	{"Cognizer": "1", "Experience": "13"}
+3	quand	_		{}
+4	mon	_		{}
+5	prof	_	Education_teaching	{"Subject": "6", "Student": "4", "Fact": "17", "Teacher": "5"}
+6	d'histoire	_		{}
+7	(	_		{}
+8	mon	_		{}
+9	fav	_		{}
+10	<3	_		{}
+11	)	_		{}
+12	a	_		{}
+13	dit	_	Statement	{"Message": "17", "Speaker": "5"}
+14	que	_		{}
+15	Christiano	_		{}
+16	Ronaldo	_		{}
+17	était	_		{}
+18	gay	_		{}
+19	ptdr	_		{}
+20	les	_		{}
+21	gars	_	People	{"Person": "21"}
+22	de	_		{}
+23	la	_		{}
+24	classe	_		{}
+25	ont	_		{}
+26	pété	_		{}
+27	un	_		{}
+28	câble	_	Connectors	{"Connector": "28"}

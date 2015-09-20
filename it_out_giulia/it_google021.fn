@@ -1,0 +1,54 @@
+1	Si	_		{}
+2	occupa	_		{}
+3	di	_		{}
+4	progetti	_	Project	{"Field": "8"}
+5	futuristici	_		{}
+6	quali	_		{}
+7	la	_		{}
+8	robotica	_		{}
+9	,	_		{}
+10	(	_		{}
+11	con	_		{}
+12	l'acquisto	_		{}
+13	della	_		{}
+14	Boston	_		{}
+15	Dynamic	_		{}
+16	e	_		{}
+17	altre	_	Similarity	{"Entity_2": "18"}
+18	società	_	Businesses	{"Business": "18"}
+19	specializzate	_		{}
+20	in	_		{}
+21	questo	_		{}
+22	settore	_	Fields	{"Salient_entity": "8"}
+23	)	_		{}
+24	,	_		{}
+25	la	_		{}
+26	realtà	_		{}
+27	aumentata	_		{}
+28	con	_		{}
+29	i	_		{}
+30	Google	_		{}
+31	Glass	_		{}
+32	,	_		{}
+33	droni	_		{}
+34	per	_		{}
+35	le	_		{}
+36	consegne	_	Delivery	{"Goal": "38", "Vehicle": "33"}
+37	a	_		{}
+38	domicilio	_	Expected_location_of_person	{"Location": "38"}
+39	(	_		{}
+40	Project	_		{}
+41	Wing	_		{}
+42	)	_		{}
+43	,	_		{}
+44	lenti	_		{}
+45	a	_		{}
+46	contatto	_		{}
+47	tecnologiche	_	Gizmo	{"Gizmo": "44"}
+48	,	_		{}
+49	e	_		{}
+50	auto	_	Vehicle	{"Vehicle": "50"}
+51	con	_		{}
+52	pilota	_	Operate_vehicle	{"Driver": "52", "Vehicle": "50"}
+53	automatico	_		{}
+54	.	_		{}

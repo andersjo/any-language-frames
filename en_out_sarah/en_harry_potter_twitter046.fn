@@ -1,0 +1,30 @@
+1	Someone	_	People	{"Person": "1"}
+2	says	_	Communication	{"Communicator": "1", "Message": "4"}
+3	"	_		{}
+4	Baltimore	_		{}
+5	"	_		{}
+6	*	_		{}
+7	head	_	Observable_body_parts	{"Body_part": "7"}
+8	shoots	_	Cause_motion	{"Goal": "9", "Agent": "7"}
+9	up	_		{}
+10	*	_		{}
+11	"	_		{}
+12	Who	_		{}
+13	dare	_	Daring	{"Action": "14", "Agent": "12"}
+14	says	_	Expressing_publicly	{"Content": "18", "Medium": "14"}
+15	the	_		{}
+16	dark	_		{}
+17	lords	_	Leadership	{"Descriptor": "16", "Role": "17"}
+18	name	_	Being_named	{"Entity": "17"}
+19	?	_		{}
+20	"	_		{}
+21	Harry	_		{}
+22	potter	_		{}
+23	will	_		{}
+24	forever	_	Frequency	{"Time_span": "24"}
+25	be	_	Existence	{"Time": "24", "Place": "28", "Entity": "21"}
+26	on	_		{}
+27	my	_		{}
+28	mind	_	Observable_body_parts	{}
+29	.	_		{}
+30	#selectivehearing	_		{}

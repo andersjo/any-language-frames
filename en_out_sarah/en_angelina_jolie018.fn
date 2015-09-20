@@ -1,0 +1,19 @@
+1	Born	_		{}
+2	in	_	Membership	{}
+3	Los	_		{}
+4	Angeles	_		{}
+5	,	_		{}
+6	California	_		{}
+7	,	_		{}
+8	Jolie	_		{}
+9	is	_	Being_in_category	{"Category": "11", "Item": "8"}
+10	the	_		{}
+11	daughter	_	Kinship	{"Relatives": "11", "Ego": "8", "Alter": "16"}
+12	of	_		{}
+13	actors	_	Performers	{"Person": "16"}
+14	Jon	_		{}
+15	Voight	_		{}
+16	and	_	Simultaneity	{}
+17	Marcheline	_		{}
+18	Bertrand	_		{}
+19	.	_		{}

@@ -1,0 +1,58 @@
+1	Jolie	_		{}
+2	über	_		{}
+3	den	_		{}
+4	Film	_	Physical_artworks	{"Artifact": "4"}
+5	:	_		{}
+6	„Nachdem	_		{}
+7	ich	_		{}
+8	ihn	_		{}
+9	gesehen	_	Perception_experience	{"Phenomenon": "8", "Perceiver_passive": "1"}
+10	hatte	_		{}
+11	,	_		{}
+12	ging	_	Self_motion	{"Direction": "14", "Goal": "15", "Self_mover": "13"}
+13	ich	_		{}
+14	nach	_		{}
+15	Hause	_	Expected_location_of_person	{"Person": "13", "Location": "15"}
+16	und	_	Simultaneity	{"Profiled_event": "19", "Landmark_event": "12"}
+17	musste	_		{}
+18	mich	_	Proper_reference	{"Entity": "13"}
+19	übergeben	_	Excreting	{"Excreter": "13"}
+20	.	_		{}
+21	“	_		{}
+22	Die	_		{}
+23	New	_		{}
+24	York	_		{}
+25	Times	_		{}
+26	schrieb	_	Text_creation	{"Author": "25"}
+27	jedoch	_		{}
+28	über	_		{}
+29	ihre	_		{}
+30	Darstellung	_	Create_physical_artwork	{"Creator": "29"}
+31	:	_		{}
+32	„Auch	_		{}
+33	wenn	_		{}
+34	sich	_		{}
+35	ihr	_		{}
+36	Schauspiel	_	Performing_arts	{"Performer": "35", "Type": "4"}
+37	in	_		{}
+38	"	_		{}
+39	Cyborg	_		{}
+40	2	_	Cardinal_numbers	{"Number": "40", "Entity": "39"}
+41	"	_		{}
+42	noch	_	Continued_state_of_affairs	{"Reference_occasion": "42", "State_of_affairs": "36"}
+43	in	_		{}
+44	seiner	_	Possession	{"Possession": "47", "Owner": "36"}
+45	Versuch	_	Attempt	{"Agent": "35"}
+46	und	_	Simultaneity	{"Profiled_event": "45", "Landmark_event": "47"}
+47	Irrtum-Phase	_		{}
+48	befand	_	State_of_entity	{"Entity": "36"}
+49	,	_		{}
+50	enthielt	_	Inclusion	{"Part": "54", "Total": "36"}
+51	es	_		{}
+52	bereits	_	Time_vector	{}
+53	die	_		{}
+54	Saat	_		{}
+55	ihrer	_		{}
+56	heutigen	_		{}
+57	Darstellungsweise	_		{}
+58	.	_		{}

@@ -1,0 +1,7 @@
+1	Има	_		{}
+2	един	_	Cardinal_numbers	{"Number": "2"}
+3	брат	_	Kinship	{"Relatives": "3"}
+4	и	_		{}
+5	две	_	Cardinal_numbers	{"Number": "5"}
+6	сестри	_	Kinship	{"Relatives": "6"}
+7	.	_		{}

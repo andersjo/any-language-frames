@@ -1,0 +1,25 @@
+1	Ronaldo	_		{}
+2	inscrit	_	Recording	{"Phenomenon": "6", "Agent": "1"}
+3	ensuite	_		{}
+4	son	_		{}
+5	premier	_	First_experience	{"Experience": "6"}
+6	but	_		{}
+7	sous	_		{}
+8	les	_		{}
+9	couleurs	_	Color	{}
+10	de	_		{}
+11	Manchester	_		{}
+12	United	_		{}
+13	en	_		{}
+14	Premier	_		{}
+15	League	_		{}
+16	face	_	Hostile_encounter	{"Side_2": "18", "Side_1": "11"}
+17	à	_		{}
+18	Portsmouth	_		{}
+19	sur	_		{}
+20	coup	_	Hit_or_miss	{"Agent": "1"}
+21	franc	_		{}
+22	en	_		{}
+23	novembre	_	Calendric_unit	{"Whole": "23"}
+24	2003	_		{}
+25	.	_		{}

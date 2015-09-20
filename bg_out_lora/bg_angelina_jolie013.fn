@@ -1,0 +1,32 @@
+1	През	_		{}
+2	ученическите	_		{}
+3	си	_		{}
+4	години	_	Measure_duration	{"Unit": "4"}
+5	в	_		{}
+6	Beverly	_		{}
+7	Hills	_		{}
+8	High	_		{}
+9	School	_		{}
+10	се	_		{}
+11	чувства	_	Feeling	{"Emotion": "11", "Evaluation": "11"}
+12	аутсайдер	_		{}
+13	заради	_		{}
+14	нестандартния	_		{}
+15	си	_		{}
+16	външен	_	Part_inner_outer	{"Part": "16"}
+17	вид	_	Distinctiveness	{"Feature": "17"}
+18	,	_		{}
+19	навика	_		{}
+20	си	_		{}
+21	да	_		{}
+22	се	_		{}
+23	облича	_	Dressing	{"Depictive": "23"}
+24	с	_		{}
+25	дрехи	_	Clothing	{"Garment": "25"}
+26	втора	_		{}
+27	употреба	_	Using	{"Depictive": "27"}
+28	и	_	Simultaneity	{"Profiled_event": "28"}
+29	слабото	_		{}
+30	си	_		{}
+31	тяло	_	Observable_body_parts	{"Descriptor": "31"}
+32	.	_		{}

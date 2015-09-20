@@ -1,0 +1,11 @@
+1	@StarsandSass	_		{}
+2	yelled	_	Communication_manner	{"Topic": "8", "Speaker": "1", "Means": "2"}
+3	NO	_		{}
+4	EVEN	_		{}
+5	BETTER	_		{}
+6	HARRY	_		{}
+7	POTTER	_		{}
+8	WORLD	_	Locale	{"Locale": "8", "Name": "6"}
+9	!!!!	_		{}
+10	AHHHH	_		{}
+11	RIGHT	_	Correctness	{"Topic": "8", "Domain": "6"}

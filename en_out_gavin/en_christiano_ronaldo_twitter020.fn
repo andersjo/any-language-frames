@@ -1,0 +1,14 @@
+1	When	_		{}
+2	you	_		{}
+3	think	_	Cogitation	{"Topic": "4", "Cognizer": "2"}
+4	you're	_		{}
+5	the	_		{}
+6	female	_	People	{"Person": "6"}
+7	prodigy	_	Omen	{}
+8	of	_		{}
+9	Christiano	_		{}
+10	Ronaldo	_		{}
+11	but	_	Concessive	{"Main_statement": "3", "Statement": "12"}
+12	you're	_		{}
+13	not	_		{}
+14	<	_		{}

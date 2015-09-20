@@ -1,0 +1,24 @@
+1	Mit	_		{}
+2	dem	_		{}
+3	Lehrer	_	Education_teaching	{"Teacher": "5"}
+4	Severus	_		{}
+5	Snape	_		{}
+6	dagegen	_	Concessive	{"Topic": "23"}
+7	wie	_		{}
+8	auch	_		{}
+9	mit	_		{}
+10	seinem	_		{}
+11	Mitschüler	_		{}
+12	Draco	_		{}
+13	Malfoy	_		{}
+14	aus	_		{}
+15	dem	_		{}
+16	traditionell	_		{}
+17	rivalisierenden	_		{}
+18	Haus	_	Locale	{"Locale": "18", "Name": "19"}
+19	Slytherin	_		{}
+20	verbindet	_		{}
+21	ihn	_		{}
+22	gegenseitiger	_		{}
+23	Hass	_	Experiencer_focus	{"Content": "5", "Reason": "17", "Experiencer": "21", "Degree": "22"}
+24	.	_		{}

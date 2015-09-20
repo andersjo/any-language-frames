@@ -1,0 +1,18 @@
+1	Crayola	_		{}
+2	Common	_	Locale_by_use	{"Locale": "2"}
+3	Core	_	Part_inner_outer	{"Part": "3", "Part_Prop": "2"}
+4	Lessons	_	Instance	{"Instance": "4"}
+5	Promote	_	Subjective_influence	{"Product": "6", "Entity": "4"}
+6	Maoism	_		{}
+7	,	_		{}
+8	Global	_	Political_locales	{"Locale": "8"}
+9	Warming	_	Cause_temperature_change	{"Item": "8"}
+10	Alarmism	_		{}
+11	,	_		{}
+12	Social	_	Social_event	{}
+13	Justice	_	People_by_vocation	{"Person": "13"}
+14	http://t.co/NfzncMWgQ9	_		{}
+15	#TeaParty	_		{}
+16	#tcot	_		{}
+17	#tlot	_		{}
+18	#PJNet	_		{}

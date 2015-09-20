@@ -1,0 +1,74 @@
+1	Es	_	Being_in_category	{}
+2	también	_		{}
+3	el	_		{}
+4	único	_	Sole_instance	{"Item": "5", "Type": "5"}
+5	futbolista	_		{}
+6	que	_		{}
+7	ha	_		{}
+8	conseguido	_	Accomplishment	{"Goal": "9", "Agent": "5"}
+9	marcar	_	Hit_or_miss	{"Target_location": "15", "Agent": "5"}
+10	en	_		{}
+11	seis	_	Cardinal_numbers	{"Number": "11", "Entity": "12"}
+12	visitas	_	Visiting	{"Agent": "5"}
+13	consecutivas	_	Candidness	{}
+14	al	_		{}
+15	Camp	_	Residence	{"Location": "18"}
+16	Nou	_		{}
+17	,	_		{}
+18	estadio	_	Buildings	{"Building": "15"}
+19	de	_		{}
+20	máxima	_	Extreme_value	{"Attribute": "21", "Entity": "21"}
+21	rivalidad	_	Competition	{"Participant_2": "15", "Participant_1": "25"}
+22	para	_		{}
+23	«	_		{}
+24	los	_		{}
+25	blancos	_	Color	{"Color": "25"}
+26	»	_		{}
+27	,	_		{}
+28	además	_		{}
+29	de	_		{}
+30	ser	_	Being_in_category	{"Category": "30", "Item": "30"}
+31	el	_		{}
+32	portugués	_	Origin	{"Origin": "32"}
+33	que	_		{}
+34	más	_	Increment	{"Initial_set": "35", "Added_set": "35", "Class": "37"}
+35	goles	_	Purpose	{"Goal": "37", "Agent": "5"}
+36	ha	_		{}
+37	marcado	_		{}
+38	en	_		{}
+39	Champions	_		{}
+40	League	_		{}
+41	—	_		{}
+42	máxima	_	Extreme_value	{"Attribute": "43", "Value": "42", "Entity": "43"}
+43	competición	_	Competition	{"Participants": "47", "Competition": "39"}
+44	a	_		{}
+45	nivel	_	Rank	{"Item": "47", "Rank": "42"}
+46	de	_		{}
+47	clubes	_	Organization	{"Organization": "47", "Members": "47"}
+48	en	_		{}
+49	Europa	_		{}
+50	—	_		{}
+51	con	_		{}
+52	un	_		{}
+53	total	_	Quantity	{"Individuals": "35", "Quantity": "55"}
+54	de	_		{}
+55	73	_		{}
+56	tras	_		{}
+57	superar	_	Surpassing	{"Profiled_item": "69", "Standard_item": "35", "Standard_attribute": "71", "Attribute": "70"}
+58	a	_		{}
+59	su	_		{}
+60	compatriota	_		{}
+61	Eusébio	_		{}
+62	,	_		{}
+63	y	_		{}
+64	al	_		{}
+65	español	_		{}
+66	Raúl	_		{}
+67	González	_		{}
+68	como	_		{}
+69	máximo	_	Extreme_value	{"Attribute": "70", "Value": "71", "Entity": "70"}
+70	goleador	_		{}
+71	histórico	_	Historic_event	{"Event": "73", "Entity": "70"}
+72	del	_		{}
+73	torneo	_	Competition	{"Participants": "5", "Competition": "39"}
+74	.	_		{}

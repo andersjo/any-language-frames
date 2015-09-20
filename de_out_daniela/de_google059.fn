@@ -1,0 +1,16 @@
+1	Fünf	_	Cardinal_numbers	{"Number": "1", "Entity": "2"}
+2	Monate	_	Calendric_unit	{"Count": "1", "Unit": "2"}
+3	später	_	Time_vector	{"Distance": "2", "Direction": "3", "Event": "12"}
+4	bezog	_		{}
+5	Google	_		{}
+6	Inc	_		{}
+7	.	_		{}
+8	mit	_		{}
+9	acht	_	Cardinal_numbers	{"Number": "9", "Entity": "10"}
+10	Angestellten	_	Employing	{"Employee": "10", "Employer": "5"}
+11	ein	_		{}
+12	Büro	_	Building_subparts	{"Building_part": "12"}
+13	in	_		{}
+14	Palo	_		{}
+15	Alto	_		{}
+16	.	_		{}

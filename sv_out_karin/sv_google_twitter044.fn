@@ -1,0 +1,26 @@
+1	Tankade	_		{}
+2	nyss	_		{}
+3	mitt	_		{}
+4	kontantkort	_		{}
+5	med	_		{}
+6	pengar	_	Money	{"Money": "6", "Use": "1", "Possessor": "11"}
+7	och	_	Simultaneity	{"Profiled_event": "1", "Landmark_event": "10"}
+8	efter	_		{}
+9	det	_		{}
+10	tankade	_		{}
+11	jag	_	Proper_reference	{"Intended_referent": "11"}
+12	det	_		{}
+13	med	_		{}
+14	internet	_	Network	{"Network": "14"}
+15	.	_		{}
+16	2	_	Cardinal_numbers	{"Number": "16", "Entity": "17"}
+17	steg	_		{}
+18	.	_		{}
+19	På	_		{}
+20	en	_	Cardinal_numbers	{"Number": "20", "Entity": "22"}
+21	polsk	_		{}
+22	hemsida	_		{}
+23	.	_		{}
+24	Utan	_		{}
+25	google	_		{}
+26	translate	_		{}

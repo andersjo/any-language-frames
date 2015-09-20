@@ -1,0 +1,40 @@
+1	A	_		{}
+2	series	_	Sequence	{"Entity1": "3"}
+3	of	_		{}
+4	many	_	Quantity	{"Individuals": "5", "Quantity": "4"}
+5	genres	_		{}
+6	,	_		{}
+7	including	_		{}
+8	fantasy	_		{}
+9	,	_		{}
+10	coming	_	Arriving	{}
+11	of	_		{}
+12	age	_	Age	{"Age": "12"}
+13	,	_		{}
+14	and	_		{}
+15	the	_		{}
+16	British	_		{}
+17	school	_	Locale_by_use	{"Locale": "17", "Descriptor": "16"}
+18	story	_	History	{"Topic": "17"}
+19	(	_		{}
+20	with	_		{}
+21	elements	_	Ingredients	{"Material": "21"}
+22	of	_		{}
+23	mystery	_	Text	{"Genre": "23"}
+24	,	_		{}
+25	thriller	_	Text	{"Genre": "25"}
+26	,	_		{}
+27	adventure	_	Daring	{"Action": "27"}
+28	,	_		{}
+29	and	_		{}
+30	romance	_	Personal_relationship	{}
+31	)	_		{}
+32	,	_		{}
+33	it	_		{}
+34	has	_	Have_associated	{"Topical_entity": "33", "Entity": "37"}
+35	many	_	Quantity	{"Individuals": "37", "Quantity": "35"}
+36	cultural	_		{}
+37	meanings	_	Linguistic_meaning	{"Meaning": "37"}
+38	and	_		{}
+39	references	_	Linguistic_meaning	{"Meaning": "39"}
+40	.	_		{}

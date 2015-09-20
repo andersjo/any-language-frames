@@ -1,0 +1,27 @@
+1	I'm	_		{}
+2	going	_		{}
+3	to	_		{}
+4	bring	_	Bringing	{"Depictive": "8", "Theme": "6", "Carrier": "1", "Means": "4"}
+5	the	_		{}
+6	box	_	Containers	{"Use": "8", "Container": "6"}
+7	of	_		{}
+8	Special	_		{}
+9	K	_		{}
+10	and	_	Simultaneity	{"Profiled_event": "12", "Landmark_event": "6"}
+11	a	_	Cardinal_numbers	{"Number": "11", "Entity": "12"}
+12	carton	_	Containers	{"Use": "14", "Container": "12"}
+13	of	_		{}
+14	milk	_	Food	{"Food": "14"}
+15	to	_		{}
+16	my	_		{}
+17	room	_	Building_subparts	{"Building_part": "17"}
+18	and	_	Simultaneity	{"Profiled_event": "19", "Landmark_event": "4"}
+19	watch	_	Perception_experience	{"Degree": "20", "Phenomenon": "22", "Perceiver_passive": "1"}
+20	as	_		{}
+21	much	_		{}
+22	Harry	_		{}
+23	Potter	_		{}
+24	as	_		{}
+25	I	_		{}
+26	can	_	Capability	{"Role": "27", "Entity": "25"}
+27	handle	_		{}

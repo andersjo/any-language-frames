@@ -1,0 +1,12 @@
+1	Den	_		{}
+2	femte	_	Part_whole	{"Part": "3"}
+3	filmen	_	Physical_artworks	{"Artifact": "3", "Time_of_creation": "9"}
+4	hade	_		{}
+5	premiär	_		{}
+6	den	_		{}
+7	13	_		{}
+8	juli	_	Calendric_unit	{"Whole": "9", "Unit": "8"}
+9	2007	_		{}
+10	i	_	Political_locales	{"Locale": "11"}
+11	Sverige	_		{}
+12	.	_		{}

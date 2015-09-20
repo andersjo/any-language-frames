@@ -1,0 +1,19 @@
+1	Most	_	Relational_quantity	{"Individuals": "2", "Denoted_quantity": "1"}
+2	Catholics	_		{}
+3	say	_	Expressing_publicly	{"Content": "6", "Communicator": "2"}
+4	global	_	Political_locales	{"Locale": "4"}
+5	warming	_	Temperature	{"Entity": "4"}
+6	is	_	Being_in_category	{"Category": "9", "Cognizer": "2", "Item": "5"}
+7	a	_	Cardinal_numbers	{"Number": "7", "Entity": "9"}
+8	"	_		{}
+9	crisis	_	Catastrophe	{"Undesirable_Event": "5"}
+10	"	_		{}
+11	or	_		{}
+12	a	_	Cardinal_numbers	{"Number": "12", "Entity": "15"}
+13	"	_		{}
+14	major	_	Importance	{"Degree": "14"}
+15	problem	_	Predicament	{"Situation": "15"}
+16	.	_		{}
+17	"	_		{}
+18	http://t.co/lm4PVQwDmS	_		{}
+19	http://t.co/9R70KfIfqg	_		{}

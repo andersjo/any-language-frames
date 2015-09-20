@@ -1,0 +1,22 @@
+1	Seinen	_	Possession	{"Owner": "7", "Possession": "3"}
+2	zweiten	_		{}
+3	Vornamen	_		{}
+4	„Ronaldo	_		{}
+5	“	_		{}
+6	erhielt	_	Receiving	{"Theme": "3", "Recipient": "7"}
+7	er	_		{}
+8	nach	_		{}
+9	dem	_		{}
+10	damaligen	_		{}
+11	US-Präsidenten	_		{}
+12	,	_		{}
+13	Ronald	_		{}
+14	Reagan	_		{}
+15	,	_		{}
+16	welcher	_		{}
+17	der	_		{}
+18	Lieblingsschauspieler	_		{}
+19	seines	_	Possession	{"Possession": "20", "Owner": "7"}
+20	Vaters	_	Kinship	{"Ego": "7", "Alter": "20"}
+21	war	_		{}
+22	.	_		{}

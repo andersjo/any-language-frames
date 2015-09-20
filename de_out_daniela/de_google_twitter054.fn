@@ -1,0 +1,21 @@
+1	Night	_		{}
+2	School	_		{}
+3	-	_		{}
+4	Du	_		{}
+5	darfst	_		{}
+6	keinem	_		{}
+7	trauen	_	Forming_relationships	{"Partner_1": "4"}
+8	:	_		{}
+9	Readingo	_		{}
+10	Bücher	_		{}
+11	online	_		{}
+12	verwalten	_	Leadership	{"Activity": "12"}
+13	und	_	Simultaneity	{"Profiled_event": "14", "Landmark_event": "12"}
+14	bewerten	_	Judgment	{"Evaluee": "10"}
+15	·	_		{}
+16	Startseite	_		{}
+17	·	_		{}
+18	…	_		{}
+19	http://t.co/A0woMeknrA	_		{}
+20	#book	_		{}
+21	#reviews	_		{}

@@ -1,0 +1,22 @@
+1	En	_		{}
+2	,	_		{}
+3	Google	_		{}
+4	représente	_	Representing	{"Entity": "3"}
+5	6	_		{}
+6	,	_		{}
+7	4	_	Cardinal_numbers	{"Number": "7", "Entity": "8"}
+8	%	_		{}
+9	du	_		{}
+10	trafic	_	Exchange	{}
+11	Internet	_	Network	{"Network": "11"}
+12	mondial	_	Political_locales	{"Locale": "12"}
+13	et	_		{}
+14	affiche	_		{}
+15	une	_		{}
+16	croissance	_	Change_position_on_a_scale	{"Item": "3"}
+17	supérieure	_	Occupy_rank	{"Item": "3", "Dimension": "16", "Rank": "17"}
+18	à	_		{}
+19	celle	_		{}
+20	du	_		{}
+21	web	_	Network	{"Network": "21"}
+22	.	_		{}

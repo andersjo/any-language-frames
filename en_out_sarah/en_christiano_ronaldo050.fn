@@ -1,0 +1,36 @@
+1	However	_	Concessive	{"Statement": "3"}
+2	he	_		{}
+3	came	_		{}
+4	to	_		{}
+5	the	_		{}
+6	attention	_	Attention	{"Perceiver": "8", "Figure": "1"}
+7	of	_		{}
+8	Manchester	_		{}
+9	United	_	Amalgamation	{"Parts": "8"}
+10	manager	_	Leadership	{"Role": "10", "Leader": "11", "Governed": "8"}
+11	Alex	_		{}
+12	Ferguson	_		{}
+13	in	_		{}
+14	the	_		{}
+15	summer	_	Calendric_unit	{"Unit": "15"}
+16	of	_		{}
+17	2003	_		{}
+18	,	_		{}
+19	when	_		{}
+20	Sporting	_		{}
+21	defeated	_	Beat_opponent	{"Score": "23", "Winner": "20", "Loser": "22"}
+22	United	_	Amalgamation	{}
+23	3	_	Cardinal_numbers	{"Number": "23"}
+24	–	_		{}
+25	1	_	Cardinal_numbers	{"Number": "25"}
+26	in	_		{}
+27	the	_		{}
+28	inauguration	_		{}
+29	of	_		{}
+30	the	_		{}
+31	Estádio	_		{}
+32	José	_		{}
+33	Alvalade	_		{}
+34	in	_		{}
+35	Lisbon	_		{}
+36	.	_		{}

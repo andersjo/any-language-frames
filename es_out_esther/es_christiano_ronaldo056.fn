@@ -1,0 +1,58 @@
+1	Sus	_		{}
+2	actuaciones	_		{}
+3	le	_		{}
+4	llevaron	_	Bringing	{"Goal": "8", "Agent": "2", "Area": "10"}
+5	por	_		{}
+6	fin	_		{}
+7	a	_		{}
+8	disputar	_	Quarreling	{"Issue": "10", "Arguer2": "28"}
+9	una	_		{}
+10	final	_	Process_end	{"Process": "10"}
+11	europea	_	Origin	{"Origin": "11", "Entity": "10"}
+12	el	_		{}
+13	21	_	Cardinal_numbers	{"Number": "13", "Entity": "15"}
+14	de	_		{}
+15	mayo	_	Calendric_unit	{"Relative_time": "13", "Whole": "17", "Unit": "15"}
+16	de	_		{}
+17	2008	_		{}
+18	cuando	_		{}
+19	disputó	_		{}
+20	la	_		{}
+21	final	_	Process_end	{"Process": "21"}
+22	de	_		{}
+23	la	_		{}
+24	frente	_		{}
+25	al	_		{}
+26	también	_	Sufficiency	{}
+27	inglés	_	People_by_origin	{"Origin": "27", "Person": "28"}
+28	Chelsea	_		{}
+29	F	_		{}
+30	.	_		{}
+31	C	_		{}
+32	..	_		{}
+33	Tras	_		{}
+34	el	_		{}
+35	empate	_	Evaluative_comparison	{"Standard_item": "35"}
+36	a	_		{}
+37	un	_		{}
+38	gol	_	Purpose	{"Goal": "38"}
+39	,	_		{}
+40	siendo	_	Being_in_category	{"Category": "42"}
+41	el	_		{}
+42	autor	_	Performers	{"Person": "42"}
+43	del	_		{}
+44	tanto	_	Purpose	{"Goal": "44"}
+45	de	_		{}
+46	su	_		{}
+47	club	_	Organization	{"Organization": "47"}
+48	,	_		{}
+49	el	_		{}
+50	partido	_	Social_event	{}
+51	se	_		{}
+52	decidió	_		{}
+53	en	_		{}
+54	los	_		{}
+55	lanzamientos	_	Shoot_projectiles	{"Projectile": "55"}
+56	de	_		{}
+57	penalti	_	Rewards_and_punishments	{"Reason": "35"}
+58	.	_		{}

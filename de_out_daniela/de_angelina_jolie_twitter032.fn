@@ -1,0 +1,22 @@
+1	Ok	_	Desirability	{}
+2	,	_		{}
+3	na	_		{}
+4	von	_		{}
+5	mir	_	Proper_reference	{"Intended_referent": "5"}
+6	aus	_		{}
+7	.	_		{}
+8	Folgen	_	Cotheme	{"Theme": "9", "Goal": "9", "Cotheme": "11"}
+9	mir	_	Proper_reference	{"Intended_referent": "9"}
+10	Brad	_		{}
+11	Pitt	_		{}
+12	und	_	Simultaneity	{"Profiled_event": "13", "Landmark_event": "11"}
+13	Angelina	_		{}
+14	Jolie	_		{}
+15	hat	_		{}
+16	doch	_	Concessive	{"Main_statement": "8", "Statement": "17"}
+17	nicht	_		{}
+18	.	_		{}
+19	#ironietweet	_		{}
+20	#trolls	_		{}
+21	#block	_		{}
+22	#spam	_		{}

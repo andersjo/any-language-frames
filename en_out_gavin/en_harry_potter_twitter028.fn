@@ -1,0 +1,25 @@
+1	People	_	People	{"Person": "1"}
+2	push	_	Cause_motion	{"Theme": "3", "Goal": "4", "Agent": "1", "Time": "9"}
+3	me	_		{}
+4	to	_		{}
+5	the	_		{}
+6	brink	_		{}
+7	of	_		{}
+8	insanity	_		{}
+9	when	_		{}
+10	they	_		{}
+11	claim	_	Statement	{"Message": "16", "Speaker": "10"}
+12	Divergent	_		{}
+13	and	_		{}
+14	Hunger	_	Biological_urge	{"State": "14"}
+15	Games	_	Aggregate	{"Individuals": "15"}
+16	are	_	Being_in_category	{"Category": "17", "Item": "12"}
+17	better	_	Surpassing	{"Standard_item": "20", "Profiled_item": "12"}
+18	than	_		{}
+19	Harry	_		{}
+20	Potter	_		{}
+21	.	_		{}
+22	How	_		{}
+23	could	_		{}
+24	you	_		{}
+25	!?	_		{}

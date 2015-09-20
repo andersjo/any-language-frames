@@ -1,0 +1,17 @@
+1	The	_		{}
+2	full	_	Completeness	{"Whole": "3"}
+3	background	_	Relational_natural_features	{"Landmark_feature": "6"}
+4	to	_		{}
+5	this	_	Proper_reference	{"Intended_referent": "6"}
+6	event	_	Event	{}
+7	and	_		{}
+8	Harry	_		{}
+9	Potter's	_		{}
+10	past	_	Relative_time	{"Focal_occasion": "10"}
+11	is	_		{}
+12	revealed	_	Reveal_secret	{"Information": "10", "Time": "14"}
+13	gradually	_	Taking_time	{"Activity": "12"}
+14	through	_		{}
+15	the	_		{}
+16	series	_	Sequence	{"Entity1": "16"}
+17	.	_		{}

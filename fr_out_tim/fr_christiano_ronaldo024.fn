@@ -1,0 +1,27 @@
+1	Il	_		{}
+2	est	_		{}
+3	dissipé	_		{}
+4	,	_		{}
+5	impulsif	_	Rashness	{"Protagonist": "1"}
+6	et	_		{}
+7	colérique	_		{}
+8	,	_		{}
+9	il	_		{}
+10	lance	_	Shoot_projectiles	{"Agent": "9", "Projectile": "13"}
+11	même	_		{}
+12	une	_		{}
+13	chaise	_		{}
+14	sur	_		{}
+15	une	_		{}
+16	de	_		{}
+17	ses	_		{}
+18	professeurs	_	Education_teaching	{"Teacher": "18", "Student": "17"}
+19	car	_		{}
+20	celle-ci	_		{}
+21	s'est	_		{}
+22	moquée	_		{}
+23	de	_		{}
+24	son	_		{}
+25	accent	_		{}
+26	madèrois	_		{}
+27	.	_		{}

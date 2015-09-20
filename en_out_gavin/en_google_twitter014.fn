@@ -1,0 +1,23 @@
+1	Giants	_		{}
+2	Free	_	Expensiveness	{"Goods": "3"}
+3	Agency	_	Organization	{"Organization": "3"}
+4	:	_		{}
+5	Exploring	_	Research	{"Topic": "6"}
+6	Impact	_	Objective_influence	{"Influencing_entity": "11"}
+7	of	_		{}
+8	New	_	Age	{"Age": "8", "Entity": "9"}
+9	York's	_		{}
+10	Salary	_	Earnings_and_losses	{"Earnings": "10"}
+11	Cap	_	Money	{"Money": "10"}
+12	:	_		{}
+13	The	_		{}
+14	2015	_		{}
+15	NFL	_		{}
+16	salary	_	Earnings_and_losses	{"Earnings": "16"}
+17	cap	_	Money	{"Money": "16"}
+18	is	_	Existence	{"Time": "21", "Entity": "17"}
+19	still	_	Continued_state_of_affairs	{"Reference_occasion": "21", "State_of_affairs": "17"}
+20	several	_	Quantity	{"Individuals": "21", "Quantity": "19"}
+21	weeks	_	Calendric_unit	{"Count": "20", "Unit": "21"}
+22	...	_		{}
+23	http://t.co/JB4uq5IHSJ	_		{}

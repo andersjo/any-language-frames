@@ -1,0 +1,17 @@
+1	Hans	_		{}
+2	svit	_	Sequence	{"Entity1": "5"}
+3	att	_		{}
+4	göra	_	Cause_impact	{"Agent": "1"}
+5	mål	_	Hit_target	{"Target": "5", "Agent": "1"}
+6	i	_		{}
+7	alla	_	Quantity	{"Individuals": "8"}
+8	ligamatcher	_		{}
+9	bröts	_		{}
+10	i	_		{}
+11	matchen	_		{}
+12	mot	_		{}
+13	Tenerife	_		{}
+14	den	_		{}
+15	26	_		{}
+16	september	_	Calendric_unit	{"Unit": "16"}
+17	.	_		{}

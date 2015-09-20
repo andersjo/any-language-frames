@@ -1,0 +1,21 @@
+1	Who	_		{}
+2	kids	_	Kinship	{}
+3	most	_		{}
+4	want	_	Desiring	{"Experiencer": "2", "Degree": "3", "Event": "6"}
+5	to	_		{}
+6	meet	_	Make_acquaintance	{"Individual_1": "2", "Individual_2": "9"}
+7	:	_		{}
+8	#WorldCup	_		{}
+9	players	_	Performers	{"Persistent_characteristic": "8", "Person": "9"}
+10	Christiano	_		{}
+11	Ronaldo	_		{}
+12	and	_		{}
+13	Lionel	_		{}
+14	Messi	_		{}
+15	made	_		{}
+16	the	_		{}
+17	long	_	Dimension	{"Object": "18", "Dimension": "17"}
+18	list	_	Text	{"Text": "18"}
+19	.	_		{}
+20	#kidscoop	_		{}
+21	http://t.co/TuXDY8aiOx	_		{}

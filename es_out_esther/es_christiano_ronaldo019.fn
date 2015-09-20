@@ -1,0 +1,34 @@
+1	En	_		{}
+2	esos	_		{}
+3	momentos	_	Measure_duration	{"Count": "2", "Process": "3", "Unit": "3"}
+4	el	_		{}
+5	C	_		{}
+6	.	_		{}
+7	D	_		{}
+8	.	_		{}
+9	Nacional	_	Foreign_or_domestic_country	{"Current_country": "9"}
+10	tenía	_		{}
+11	una	_		{}
+12	deuda	_		{}
+13	de	_		{}
+14	450	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+15	mil	_	Cardinal_numbers	{"Number": "14", "Entity": "16"}
+16	escudos	_		{}
+17	que	_		{}
+18	quedarían	_		{}
+19	saldados	_	Cause_to_end	{"Process": "18", "State": "19", "Cause": "23", "Agent": "28"}
+20	merced	_		{}
+21	a	_		{}
+22	la	_		{}
+23	progresión	_	Progress	{"Entity": "28"}
+24	y	_		{}
+25	trayectoria	_	Path_traveled	{"Path": "25", "Theme": "28"}
+26	cosechados	_	Food_gathering	{}
+27	por	_		{}
+28	Ronaldo	_		{}
+29	en	_		{}
+30	su	_		{}
+31	traspaso	_	Transfer	{"Theme": "28", "Recipient": "9"}
+32	a	_		{}
+33	Lisboa	_		{}
+34	.	_		{}

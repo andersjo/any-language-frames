@@ -1,0 +1,26 @@
+1	Men	_		{}
+2	Ferguson	_		{}
+3	sagde	_		{}
+4	:	_		{}
+5	"	_		{}
+6	Nej	_		{}
+7	,	_		{}
+8	du	_		{}
+9	vil	_		{}
+10	have	_	Possession	{"Possession": "12", "Owner": "8"}
+11	nummer	_		{}
+12	7	_	Cardinal_numbers	{"Number": "12", "Entity": "11"}
+13	"	_		{}
+14	,	_		{}
+15	og	_		{}
+16	den	_		{}
+17	berømte	_		{}
+18	trøje	_	Clothing	{"Descriptor": "17", "Garment": "18"}
+19	var	_		{}
+20	en	_		{}
+21	ekstra	_	Increment	{"Class": "25", "Added_set": "18"}
+22	kilde	_	Source_of_getting	{"Source": "18", "Theme": "25"}
+23	til	_		{}
+24	min	_		{}
+25	motivation	_		{}
+26	.	_		{}

@@ -1,0 +1,20 @@
+1	Tale	_		{}
+2	numero	_		{}
+3	è	_		{}
+4	ritenuto	_		{}
+5	"	_		{}
+6	magico	_	Ineffability	{"Stimulus": "2"}
+7	"	_		{}
+8	(	_		{}
+9	perfino	_		{}
+10	simbolo	_	Sign	{"Indicator": "2", "Indicated": "12"}
+11	del	_		{}
+12	divino	_		{}
+13	)	_		{}
+14	da	_		{}
+15	molte	_	Quantity	{"Individuals": "16", "Quantity": "15"}
+16	tradizioni	_	Custom	{}
+17	e	_		{}
+18	leggende	_	Text	{"Genre": "19", "Text": "18"}
+19	fantastiche	_		{}
+20	..	_		{}

@@ -1,0 +1,13 @@
+1	Ronaldo	_		{}
+2	later	_	Relative_time	{"Focal_occasion": "3", "Focal_participant": "1"}
+3	said	_		{}
+4	of	_		{}
+5	the	_		{}
+6	incident	_	Catastrophe	{"Undesirable_Event": "6"}
+7	:	_		{}
+8	"	_		{}
+9	He	_		{}
+10	disrespected	_	Judgment	{"Cognizer": "9", "Evaluee": "11"}
+11	me	_	Proper_reference	{"Intended_referent": "1"}
+12	"	_		{}
+13	.	_		{}

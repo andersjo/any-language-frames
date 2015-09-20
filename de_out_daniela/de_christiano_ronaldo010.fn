@@ -1,0 +1,25 @@
+1	Er	_		{}
+2	gilt	_		{}
+3	als	_		{}
+4	einer	_		{}
+5	der	_		{}
+6	besten	_		{}
+7	Fußballspieler	_		{}
+8	der	_		{}
+9	Welt	_	Locale	{"Locale": "9"}
+10	und	_		{}
+11	wurde	_	Becoming	{"Entity": "1"}
+12	je	_		{}
+13	zweimal	_	Event_instance	{"Instance": "16", "Event": "24"}
+14	zu	_		{}
+15	Europas	_		{}
+16	Fußballer	_		{}
+17	des	_		{}
+18	Jahres	_	Calendric_unit	{"Unit": "18"}
+19	und	_		{}
+20	zum	_		{}
+21	Weltfußballer	_		{}
+22	des	_		{}
+23	Jahres	_	Calendric_unit	{"Unit": "23"}
+24	gewählt	_		{}
+25	.	_		{}

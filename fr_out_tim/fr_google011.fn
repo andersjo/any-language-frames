@@ -1,0 +1,25 @@
+1	Google	_		{}
+2	est	_		{}
+3	l'une	_		{}
+4	des	_		{}
+5	plus	_		{}
+6	imposantes	_		{}
+7	entreprises	_	Businesses	{"Business": "1"}
+8	du	_		{}
+9	marché	_	Exchange	{"Themes": "10", "Exchangers": "7", "Exchanger_1": "1", "Exchanger_2": "16"}
+10	d'Internet	_		{}
+11	et	_		{}
+12	fait	_		{}
+13	partie	_	Be_subset_of	{"Part": "1", "Total": "9"}
+14	,	_		{}
+15	avec	_		{}
+16	Apple	_		{}
+17	,	_		{}
+18	Facebook	_		{}
+19	et	_		{}
+20	Amazon.com,	_		{}
+21	des	_		{}
+22	Big	_		{}
+23	Four	_		{}
+24	d'Internet	_		{}
+25	.	_		{}

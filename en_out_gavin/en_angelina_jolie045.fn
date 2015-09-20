@@ -1,0 +1,22 @@
+1	In	_		{}
+2	August	_	Calendric_unit	{"Name": "2"}
+3	of	_		{}
+4	that	_		{}
+5	year	_	Calendric_unit	{"Unit": "5"}
+6	,	_		{}
+7	Voight	_		{}
+8	claimed	_	Statement	{"Message": "11", "Medium": "20", "Speaker": "7", "Time": "2"}
+9	his	_		{}
+10	daughter	_	Kinship	{"Ego": "7", "Alter": "10"}
+11	had	_	Have_associated	{"Topical_entity": "10", "Entity": "15"}
+12	"	_		{}
+13	serious	_	Importance	{"Field": "14", "Degree": "13"}
+14	mental	_		{}
+15	problems	_	Predicament	{"Experiencer": "10"}
+16	"	_		{}
+17	on	_		{}
+18	"	_		{}
+19	Access	_	Having_or_lacking_access	{"Useful_location": "20"}
+20	Hollywood	_		{}
+21	"	_		{}
+22	.	_		{}

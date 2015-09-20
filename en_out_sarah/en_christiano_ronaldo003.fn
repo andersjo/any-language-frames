@@ -1,0 +1,22 @@
+1	The	_		{}
+2	following	_	Relative_time	{}
+3	year	_	Calendric_unit	{"Whole": "3"}
+4	,	_		{}
+5	in	_		{}
+6	2008	_		{}
+7	,	_		{}
+8	he	_		{}
+9	won	_	Win_prize	{"Competitor": "8", "Prize": "12"}
+10	his	_		{}
+11	first	_	Ordinal_numbers	{}
+12	Ballon	_		{}
+13	d'Or	_		{}
+14	and	_	Simultaneity	{}
+15	FIFA	_		{}
+16	World	_	Locale	{"Locale": "16"}
+17	Player	_	Competition	{"Participant_1": "8", "Competition": "17"}
+18	of	_		{}
+19	the	_		{}
+20	Year	_	Calendric_unit	{"Whole": "20"}
+21	awards	_	Judgment	{"Evaluee": "8"}
+22	.	_		{}

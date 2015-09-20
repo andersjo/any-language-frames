@@ -1,0 +1,30 @@
+1	Den	_		{}
+2	ejes	_		{}
+3	af	_		{}
+4	Google	_		{}
+5	Inc	_		{}
+6	.	_		{}
+7	Google	_		{}
+8	er	_		{}
+9	den	_		{}
+10	største	_		{}
+11	søgemaskine	_		{}
+12	på	_		{}
+13	internettet	_	Network	{"Network": "13"}
+14	i	_		{}
+15	dag	_	Calendric_unit	{"Unit": "15"}
+16	,	_		{}
+17	da	_		{}
+18	den	_		{}
+19	har	_	Possession	{"Owner": "7", "Possession": "23"}
+20	over	_		{}
+21	200	_	Cardinal_numbers	{"Number": "21", "Entity": "23"}
+22	millioner	_	Cardinal_numbers	{"Number": "22", "Entity": "23"}
+23	forespørgsler	_		{}
+24	om	_		{}
+25	dagen	_	Timespan	{"Duration": "25", "State": "23"}
+26	gennem	_		{}
+27	dens	_		{}
+28	forskellige	_	Identicality	{"Current_instance": "29"}
+29	portaler	_		{}
+30	.	_		{}

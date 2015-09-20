@@ -1,0 +1,36 @@
+1	Concluyó	_		{}
+2	su	_		{}
+3	temporada	_	Sequence	{"Entity1": "9", "Entity2": "16"}
+4	obteniendo	_	Change_of_quantity_of_possession	{"Possession": "6", "Explanation": "22", "Place": "9", "Degree": "22", "Time": "34"}
+5	el	_		{}
+6	campeonato	_	Competition	{"Rank": "31", "Degree": "25", "Time": "34"}
+7	de	_		{}
+8	la	_		{}
+9	Premier	_	Leadership	{"Domain": "18", "Degree": "9", "Means": "18", "Activity": "6", "Descriptor": "19", "Role": "18", "Manner": "19", "Time": "34", "Duration": "27"}
+10	League	_		{}
+11	y	_	Simultaneity	{"Profiled_event": "13", "Landmark_event": "4"}
+12	fue	_	Evaluative_comparison	{}
+13	galardonado	_	Cause_to_perceive	{"Purpose": "22", "Frequency": "27", "Medium": "22", "Agent": "16", "Time": "27"}
+14	por	_		{}
+15	la	_		{}
+16	Asociación	_		{}
+17	de	_		{}
+18	Futbolistas	_		{}
+19	Profesionales	_	Expertise	{"Focal_participant": "18", "Knowledge": "18"}
+20	con	_		{}
+21	los	_		{}
+22	premios	_	Judgment	{"Extent_of_acclaim": "27", "Reason": "22", "Role": "25", "Manner": "22", "Evaluee": "16"}
+23	a	_		{}
+24	«	_		{}
+25	Jugador	_	Performers	{"Persistent_characteristic": "27", "Person": "25"}
+26	del	_		{}
+27	año	_	Calendric_unit	{"Whole": "27"}
+28	»	_		{}
+29	y	_	Simultaneity	{"Profiled_event": "31", "Landmark_event": "25"}
+30	«	_		{}
+31	Jugador	_	Performers	{"Origin": "32", "Person": "31", "Age": "32"}
+32	joven	_	People_by_age	{"Age": "32"}
+33	del	_		{}
+34	año	_	Calendric_unit	{"Whole": "34"}
+35	»	_		{}
+36	.	_		{}

@@ -1,0 +1,47 @@
+1	Nel	_		{}
+2	2005	_		{}
+3	recita	_	Performers_and_roles	{"Performance": "3", "Type": "10", "Role": "31", "Performer2": "8"}
+4	al	_		{}
+5	fianco	_		{}
+6	di	_		{}
+7	Brad	_		{}
+8	Pitt	_		{}
+9	nella	_		{}
+10	commedia	_		{}
+11	d'azione	_		{}
+12	di	_		{}
+13	Doug	_		{}
+14	Liman	_		{}
+15	"	_		{}
+16	Mr.	_		{}
+17	&	_		{}
+18	Mrs.	_		{}
+19	Smith	_		{}
+20	"	_		{}
+21	,	_		{}
+22	nel	_		{}
+23	film	_	Physical_artworks	{"Time_of_creation": "2", "Type": "10", "Name": "16", "Artifact": "23", "Creator": "14"}
+24	la	_		{}
+25	Jolie	_		{}
+26	e	_		{}
+27	Pitt	_		{}
+28	interpretano	_	Performers_and_roles	{"Performance": "28", "Type": "23", "Role": "32", "Performer1": "25", "Performer2": "27"}
+29	John	_		{}
+30	e	_		{}
+31	Jane	_		{}
+32	Smith	_		{}
+33	,	_		{}
+34	una	_		{}
+35	coppia	_	Personal_relationship	{"Partners": "35", "Partner_2": "31", "Relationship": "37", "Partner_1": "29"}
+36	di	_		{}
+37	coniugi	_	Personal_relationship	{"Partners": "35", "Partner_2": "31", "Relationship": "37", "Partner_1": "29"}
+38	annoiati	_		{}
+39	che	_		{}
+40	scoprono	_	Becoming_aware	{"Cognizer": "35"}
+41	di	_		{}
+42	essere	_	Being_in_category	{"Category": "44", "Item": "37"}
+43	entrambi	_		{}
+44	killer	_		{}
+45	a	_		{}
+46	pagamento	_	Commerce_pay	{}
+47	.	_		{}

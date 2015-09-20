@@ -1,0 +1,16 @@
+1	@SaraxNoir	_		{}
+2	oi	_		{}
+3	angelina	_		{}
+4	jolie	_		{}
+5	nehmen	_	Taking	{"Theme": "4", "Reason": "15", "Agent": "6"}
+6	wir	_		{}
+7	gleich	_		{}
+8	auch	_		{}
+9	noch	_		{}
+10	mit	_		{}
+11	die	_		{}
+12	frau	_	People	{"Person": "12"}
+13	ist	_	Being_in_category	{"Category": "15", "Item": "12"}
+14	so	_	Degree	{"Gradable_attribute": "15"}
+15	HEISS	_		{}
+16	.	_		{}

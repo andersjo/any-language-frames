@@ -1,0 +1,25 @@
+1	Unas	_		{}
+2	15.000	_		{}
+3	mujeres	_	People	{"Person": "3"}
+4	marcharon	_	Cause_motion	{"Path": "7", "Theme": "11", "Goal": "11", "Agent": "3", "Area": "7"}
+5	por	_		{}
+6	la	_		{}
+7	ciudad	_	Political_locales	{"Locale": "9"}
+8	de	_		{}
+9	Nueva	_		{}
+10	York	_		{}
+11	exigiendo	_	Have_as_requirement	{"Requirement": "13", "Required_entity": "13"}
+12	una	_		{}
+13	reducción	_	Cause_change_of_position_on_a_scale	{"Item": "16", "Cause": "16", "Agent": "3", "Attribute": "16"}
+14	de	_		{}
+15	la	_		{}
+16	jornada	_	Timespan	{"Duration": "16", "State": "16"}
+17	laboral	_		{}
+18	,	_		{}
+19	mejores	_		{}
+20	salarios	_	Earnings_and_losses	{"Earner": "3", "Earnings": "20"}
+21	y	_		{}
+22	derechos	_	Law	{"Required": "22", "Law": "22"}
+23	de	_		{}
+24	voto	_	Commitment	{"Topic": "22", "Addressee": "3"}
+25	.	_		{}

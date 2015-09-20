@@ -1,0 +1,17 @@
+1	Durante	_		{}
+2	este	_	Part_orientational	{"Whole": "3"}
+3	período	_	Location_in_time	{"Relative_time": "2"}
+4	,	_		{}
+5	vestía	_		{}
+6	de	_		{}
+7	color	_	Color	{"Color": "8"}
+8	negro	_	Color	{"Color": "7"}
+9	y	_		{}
+10	su	_		{}
+11	cabello	_	Hair_configuration	{"Hair_Property": "13", "Configuration": "12", "Possessor": "10"}
+12	estaba	_	State_continue	{}
+13	teñido	_	Manipulation	{"Purpose": "16", "Bodypart_of_agent": "11"}
+14	de	_		{}
+15	color	_	Color	{"Color": "16", "Entity": "11"}
+16	púrpura	_		{}
+17	.	_		{}

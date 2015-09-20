@@ -1,0 +1,9 @@
+1	Jolie	_		{}
+2	bestämde	_		{}
+3	sig	_	Self_motion	{}
+4	då	_	Temporal_collocation	{}
+5	för	_		{}
+6	att	_		{}
+7	bli	_	Becoming	{"Entity": "1"}
+8	skådespelare	_	Performers	{"Person": "1"}
+9	.	_		{}

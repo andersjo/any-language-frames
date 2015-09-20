@@ -1,0 +1,31 @@
+1	Durante	_		{}
+2	quel	_		{}
+3	periodo	_	Temporal_pattern	{"Subevent": "6"}
+4	iniziò	_		{}
+5	a	_		{}
+6	diventare	_	Becoming	{"Time": "3"}
+7	una	_		{}
+8	dark	_		{}
+9	,	_		{}
+10	a	_		{}
+11	quattordici	_	Cardinal_numbers	{"Number": "11", "Entity": "12"}
+12	anni	_	Age	{"Age": "11"}
+13	sognava	_		{}
+14	di	_		{}
+15	diventare	_	Becoming	{}
+16	un	_		{}
+17	necroforo	_		{}
+18	,	_		{}
+19	indossava	_	Wearing	{"Clothing": "21"}
+20	solo	_	Sole_instance	{"Item": "22", "Type": "21"}
+21	abiti	_	Clothing	{"Style": "22"}
+22	neri	_		{}
+23	e	_		{}
+24	si	_		{}
+25	era	_		{}
+26	tinta	_		{}
+27	i	_		{}
+28	capelli	_	Observable_body_parts	{"Body_part": "28"}
+29	di	_		{}
+30	viola	_	Color	{"Color": "30", "Cause": "26", "Entity": "28"}
+31	.	_		{}

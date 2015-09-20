@@ -1,0 +1,19 @@
+1	Er	_		{}
+2	entwickelte	_	Cause_to_make_progress	{"Project": "3", "Agent": "1"}
+3	Sympathien	_	Emotion_directed	{"Stimulus": "5", "State": "3", "Experiencer": "1"}
+4	für	_		{}
+5	Benfica	_		{}
+6	Lissabon	_		{}
+7	,	_		{}
+8	obwohl	_		{}
+9	er	_		{}
+10	sich	_		{}
+11	später	_	Relative_time	{"Focal_occasion": "15", "Focal_participant": "9", "Landmark_occasion": "5"}
+12	für	_		{}
+13	dessen	_		{}
+14	Lokalrivalen	_		{}
+15	Sporting	_		{}
+16	Lissabon	_		{}
+17	entscheiden	_	Choosing	{"Chosen": "15", "Cognizer": "9"}
+18	sollte	_	Being_obligated	{"Duty": "17", "Responsible_party": "9"}
+19	.	_		{}

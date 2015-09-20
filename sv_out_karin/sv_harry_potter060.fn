@@ -1,0 +1,47 @@
+1	Denna	_		{}
+2	bok	_	Text	{"Text": "2", "Use": "5", "Medium": "22", "Containing_text": "15", "Title": "45"}
+3	,	_		{}
+4	som	_		{}
+5	spelar	_		{}
+6	en	_	Cardinal_numbers	{"Number": "6", "Entity": "8"}
+7	viss	_		{}
+8	roll	_	Be_subset_of	{"Part": "2", "Total": "15"}
+9	i	_		{}
+10	boken	_	Text	{"Text": "10", "Title": "15"}
+11	"	_		{}
+12	Harry	_		{}
+13	Potter	_		{}
+14	och	_		{}
+15	Dödsrelikerna	_		{}
+16	"	_		{}
+17	,	_		{}
+18	har	_		{}
+19	inte	_		{}
+20	översatts	_		{}
+21	till	_		{}
+22	svenska	_		{}
+23	,	_		{}
+24	men	_		{}
+25	i	_		{}
+26	den	_		{}
+27	svenska	_		{}
+28	översättningen	_	Translating	{"Target_representation": "34", "Target_symbol": "27"}
+29	av	_		{}
+30	"	_		{}
+31	Harry	_		{}
+32	Potter	_		{}
+33	och	_		{}
+34	Dödsrelikerna	_		{}
+35	"	_		{}
+36	har	_		{}
+37	den	_		{}
+38	fått	_		{}
+39	den	_		{}
+40	svenska	_		{}
+41	titeln	_		{}
+42	"	_		{}
+43	Barden	_		{}
+44	Bagges	_		{}
+45	berättelser	_		{}
+46	"	_		{}
+47	.	_		{}

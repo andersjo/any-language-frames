@@ -1,0 +1,37 @@
+1	Dessutom	_		{}
+2	var	_		{}
+3	hennes	_		{}
+4	målgrupp	_		{}
+5	unga	_	Age	{"Age": "5", "Entity": "6"}
+6	pojkar	_	People_by_age	{"Person": "6", "Descriptor": "5"}
+7	,	_		{}
+8	och	_		{}
+9	många	_	Quantity	{"Individuals": "10"}
+10	förlag	_		{}
+11	,	_		{}
+12	inklusive	_		{}
+13	det	_		{}
+14	lilla	_		{}
+15	independentförlaget	_		{}
+16	Bloomsbury	_		{}
+17	som	_		{}
+18	till	_		{}
+19	slut	_		{}
+20	antog	_		{}
+21	hennes	_		{}
+22	manus	_	Text	{"Text": "22", "Author": "21"}
+23	,	_		{}
+24	trodde	_		{}
+25	att	_		{}
+26	pojkar	_	People_by_age	{"Person": "26"}
+27	inte	_		{}
+28	skulle	_		{}
+29	vilja	_	Willingness	{"Cognizer": "26", "Degree": "27", "Activity": "30"}
+30	läsa	_	Reading	{"Text": "32", "Reader": "26"}
+31	en	_	Cardinal_numbers	{"Number": "31", "Entity": "32"}
+32	bok	_	Text	{"Text": "32", "Author": "35"}
+33	av	_		{}
+34	en	_	Cardinal_numbers	{"Number": "34", "Entity": "36"}
+35	kvinnlig	_	People	{"Persistent_characteristic": "35", "Person": "36"}
+36	författare	_	Text	{"Text": "32", "Author": "36"}
+37	.	_		{}

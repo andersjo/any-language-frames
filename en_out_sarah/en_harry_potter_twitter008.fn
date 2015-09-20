@@ -1,0 +1,13 @@
+1	Ugh	_		{}
+2	now	_	Temporal_collocation	{"Trajector_event": "3", "Landmark_period": "2", "Event_description": "9", "Landmark_event": "11"}
+3	I'm	_		{}
+4	in	_		{}
+5	for	_		{}
+6	the	_		{}
+7	night	_	Calendric_unit	{"Relative_time": "6", "Unit": "7"}
+8	😩	_		{}
+9	Harry	_		{}
+10	Potter	_		{}
+11	marathon	_		{}
+12	alone	_	Sole_instance	{"Item": "3"}
+13	yay	_		{}

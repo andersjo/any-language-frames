@@ -1,0 +1,23 @@
+1	Mit	_		{}
+2	Nacional	_		{}
+3	Funchal	_		{}
+4	und	_	Simultaneity	{"Profiled_event": "2", "Landmark_event": "5"}
+5	Marítimo	_		{}
+6	Funchal	_		{}
+7	zeigten	_	Turning_out	{"State_of_affairs": "22"}
+8	sich	_		{}
+9	1995	_		{}
+10	die	_		{}
+11	beiden	_		{}
+12	führenden	_		{}
+13	Vereine	_		{}
+14	auf	_		{}
+15	Madeira	_		{}
+16	an	_		{}
+17	einer	_		{}
+18	Verpflichtung	_	Being_obligated	{"Responsible_party": "21"}
+19	des	_		{}
+20	jungen	_	People_by_age	{"Person": "21"}
+21	Talents	_	Expertise	{"Protagonist": "21", "Focal_participant": "21"}
+22	interessiert	_	Desiring	{"Focal_participant": "21", "Event": "18", "Experiencer": "13"}
+23	.	_		{}

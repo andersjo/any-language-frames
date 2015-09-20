@@ -1,0 +1,20 @@
+1	Unbroken	_		{}
+2	...	_		{}
+3	Probably	_	Likelihood	{}
+4	one	_	Cardinal_numbers	{"Number": "4", "Entity": "7"}
+5	of	_		{}
+6	the	_		{}
+7	greatest	_	Measurable_attributes	{"Degree": "7", "Entity": "8"}
+8	movie	_	Physical_artworks	{"Name": "1", "Artifact": "8"}
+9	of	_		{}
+10	the	_		{}
+11	beginning	_	Temporal_subregion	{"Time_period": "12", "Sub_part": "11"}
+12	year	_	Calendric_unit	{"Whole": "12"}
+13	so	_		{}
+14	far👏🎬	_		{}
+15	great	_	Measurable_attributes	{"Degree": "15", "Entity": "16"}
+16	job	_	Being_employed	{"Employee": "18", "Task": "17"}
+17	directing	_	Behind_the_scenes	{"Medium": "8", "Production": "1", "Artist": "18"}
+18	Angelina	_		{}
+19	Jolie	_		{}
+20	#Unbroken	_		{}

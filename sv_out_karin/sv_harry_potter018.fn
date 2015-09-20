@@ -1,0 +1,29 @@
+1	Förbannelsen	_		{}
+2	kastades	_		{}
+3	sedan	_		{}
+4	tillbaks	_		{}
+5	på	_		{}
+6	Voldemort	_		{}
+7	själv	_	Proper_reference	{"Intended_referent": "6"}
+8	och	_	Simultaneity	{"Profiled_event": "2", "Landmark_event": "9"}
+9	gjorde	_		{}
+10	honom	_		{}
+11	till	_		{}
+12	någonting	_		{}
+13	omänskligt	_		{}
+14	och	_		{}
+15	svagt	_		{}
+16	,	_		{}
+17	så	_	Degree	{"Gradable_attribute": "18"}
+18	svag	_	Exertive_force	{"Degree": "18", "Entity": "6"}
+19	att	_		{}
+20	en	_	Cardinal_numbers	{"Number": "20", "Entity": "21"}
+21	del	_	Part_whole	{"Part": "21", "Whole": "24"}
+22	av	_		{}
+23	hans	_		{}
+24	anhängare	_	Taking_sides	{"Action": "25", "Cognizer": "24", "Issue": "28"}
+25	trodde	_		{}
+26	att	_		{}
+27	han	_		{}
+28	dog	_	Death	{"Protagonist": "6"}
+29	.	_		{}

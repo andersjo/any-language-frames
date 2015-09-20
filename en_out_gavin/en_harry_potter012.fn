@@ -1,0 +1,11 @@
+1	The	_		{}
+2	books	_	Text	{"Text": "2"}
+3	have	_		{}
+4	since	_		{}
+5	been	_		{}
+6	published	_	Text_creation	{"Text": "2", "Place": "10", "Author": "7"}
+7	by	_		{}
+8	many	_	Quantity	{"Individuals": "9", "Quantity": "8"}
+9	publishers	_		{}
+10	worldwide	_	Political_locales	{"Locale": "10"}
+11	.	_		{}

@@ -1,0 +1,36 @@
+1	Ronaldo	_		{}
+2	gjorde	_		{}
+3	sitt	_		{}
+4	första	_	Ordinal_numbers	{"Comparison_set": "5", "Item": "1"}
+5	hattrick	_		{}
+6	för	_		{}
+7	Manchester	_		{}
+8	United	_		{}
+9	i	_		{}
+10	en	_	Cardinal_numbers	{"Number": "10", "Entity": "13"}
+11	6	_		{}
+12	–	_		{}
+13	0-vinst	_		{}
+14	mot	_		{}
+15	Newcastle	_		{}
+16	United	_		{}
+17	på	_		{}
+18	Old	_		{}
+19	Trafford	_		{}
+20	den	_		{}
+21	12	_		{}
+22	januari	_	Calendric_unit	{"Whole": "23", "Unit": "22"}
+23	2008	_		{}
+24	,	_		{}
+25	vilket	_		{}
+26	ledde	_		{}
+27	till	_		{}
+28	att	_		{}
+29	United	_		{}
+30	klättrade	_		{}
+31	upp	_	Direction	{"Path": "33"}
+32	till	_		{}
+33	toppen	_	Extreme_point	{"Entity": "35"}
+34	av	_		{}
+35	ligatabellen	_		{}
+36	.	_		{}

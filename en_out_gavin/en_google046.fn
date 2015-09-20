@@ -1,0 +1,23 @@
+1	Yahoo	_		{}
+2	!,	_		{}
+3	a	_	Cardinal_numbers	{"Number": "3", "Entity": "4"}
+4	competitor	_	Competition	{"Participant_2": "6", "Participant_1": "1"}
+5	of	_		{}
+6	Google	_		{}
+7	,	_		{}
+8	also	_		{}
+9	benefited	_	Earnings_and_losses	{"Earner": "1"}
+10	because	_		{}
+11	it	_		{}
+12	owned	_	Possession	{"Owner": "11", "Possession": "15"}
+13	8.4	_		{}
+14	million	_	Cardinal_numbers	{"Multiplier": "13", "Number": "14", "Entity": "15"}
+15	shares	_	Part_whole	{"Part": "15"}
+16	of	_		{}
+17	Google	_		{}
+18	before	_	Relative_time	{"Focal_occasion": "12", "Focal_participant": "11", "Landmark_occasion": "21"}
+19	the	_		{}
+20	IPO	_		{}
+21	took	_	Activity_start	{"Agent": "20", "Activity": "21"}
+22	place	_	Placing	{}
+23	.	_		{}

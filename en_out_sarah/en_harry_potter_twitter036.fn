@@ -1,0 +1,25 @@
+1	Sometimes	_	Frequency	{"Time_span": "1"}
+2	I	_		{}
+3	see	_	Hear	{"Topic": "7", "Message": "7", "Hearer": "2", "Medium": "5"}
+4	people	_	People	{"Person": "4"}
+5	talking	_	Chatting	{"Topic": "7", "Interlocutors": "4"}
+6	about	_		{}
+7	Harry	_		{}
+8	Potter	_		{}
+9	and	_	Simultaneity	{"Profiled_event": "10", "Landmark_event": "3"}
+10	think	_	Cogitation	{"Cognizer": "11"}
+11	I	_		{}
+12	really	_		{}
+13	should	_		{}
+14	try	_	Attempt	{"Degree": "12", "Agent": "11"}
+15	reading	_		{}
+16	them	_		{}
+17	but	_	Simultaneity	{"Profiled_event": "20", "Landmark_event": "10"}
+18	I	_		{}
+19	just	_		{}
+20	can't	_	Capability	{"Cause": "21", "Degree": "19", "Entity": "18"}
+21	justify	_		{}
+22	buying	_	Commerce_buy	{"Buyer": "18", "Goods": "24"}
+23	more	_	Increment	{"Class": "24"}
+24	books	_		{}
+25	.	_		{}

@@ -1,0 +1,30 @@
+1	Elle	_		{}
+2	narre	_	Telling	{"Topic": "4"}
+3	les	_		{}
+4	aventures	_		{}
+5	d'un	_		{}
+6	apprenti	_	Expertise	{"Protagonist": "10", "Role": "7"}
+7	sorcier	_		{}
+8	nommé	_		{}
+9	Harry	_		{}
+10	Potter	_		{}
+11	et	_		{}
+12	de	_		{}
+13	ses	_		{}
+14	amis	_	Personal_relationship	{"Partner_2": "16", "Partner_1": "10"}
+15	Ron	_		{}
+16	Weasley	_		{}
+17	et	_		{}
+18	Hermione	_		{}
+19	Granger	_		{}
+20	à	_		{}
+21	l'école	_		{}
+22	de	_		{}
+23	sorcellerie	_		{}
+24	Poudlard	_		{}
+25	,	_		{}
+26	dirigée	_		{}
+27	par	_		{}
+28	Albus	_		{}
+29	Dumbledore	_		{}
+30	.	_		{}

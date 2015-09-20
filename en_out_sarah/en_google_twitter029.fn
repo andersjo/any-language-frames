@@ -1,0 +1,23 @@
+1	Subaru	_		{}
+2	hits	_	Earnings_and_losses	{"Earner": "1", "Rate": "3", "Place": "7", "Earnings": "4", "Time": "9"}
+3	500000	_		{}
+4	sales	_	Commerce_sell	{"Seller": "1"}
+5	in	_		{}
+6	the	_		{}
+7	US	_		{}
+8	in	_		{}
+9	2014	_		{}
+10	,	_		{}
+11	a	_	Cardinal_numbers	{"Number": "11", "Entity": "12"}
+12	record	_	Measure_volume	{}
+13	for	_		{}
+14	the	_		{}
+15	brand	_	Labeling	{"Label": "15", "Entity": "1"}
+16	:	_		{}
+17	In	_		{}
+18	addition	_	Commutative_process	{"Term2": "20", "Term1": "1"}
+19	to	_		{}
+20	making	_		{}
+21	...	_		{}
+22	http://t.co/gRG1xlYtPK	_		{}
+23	BetterBusinessChoice	_		{}

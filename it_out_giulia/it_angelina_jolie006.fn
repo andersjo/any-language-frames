@@ -1,0 +1,12 @@
+1	La	_		{}
+2	coppia	_	Personal_relationship	{}
+3	ha	_		{}
+4	sei	_	Cardinal_numbers	{"Number": "4", "Entity": "5"}
+5	figli	_	Kinship	{"Ego": "2", "Alter": "5"}
+6	,	_		{}
+7	tre	_	Cardinal_numbers	{"Number": "7", "Entity": "8"}
+8	adottivi	_		{}
+9	e	_		{}
+10	tre	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	biologici	_		{}
+12	.	_		{}

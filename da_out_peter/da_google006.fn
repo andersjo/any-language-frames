@@ -1,0 +1,31 @@
+1	Udover	_		{}
+2	Googles	_		{}
+3	mulighed	_	Capability	{"Entity": "2"}
+4	for	_		{}
+5	at	_		{}
+6	søge	_	Seeking	{"Cognizer_agent": "2"}
+7	blandt	_		{}
+8	websteder	_		{}
+9	,	_		{}
+10	har	_	Inclusion	{"Total": "2", "Part": "16"}
+11	den	_		{}
+12	blandt	_		{}
+13	andet	_		{}
+14	også	_		{}
+15	en	_		{}
+16	service	_		{}
+17	til	_		{}
+18	at	_		{}
+19	søge	_	Seeking	{"Cognizer_agent": "2"}
+20	blandt	_		{}
+21	billeder	_		{}
+22	,	_		{}
+23	Usenet-nyhedsgrupper	_		{}
+24	,	_		{}
+25	nyhedswebsteder	_		{}
+26	og	_		{}
+27	videoklip	_		{}
+28	(	_		{}
+29	beta	_		{}
+30	)	_		{}
+31	.	_		{}

@@ -1,0 +1,22 @@
+1	Und	_		{}
+2	zur	_		{}
+3	Harry	_		{}
+4	Potter	_		{}
+5	Ausstellung	_	Social_event	{"Attendee": "7", "Time": "11"}
+6	muss	_		{}
+7	ich	_		{}
+8	auch	_		{}
+9	noch	_		{}
+10	..	_		{}
+11	2015	_		{}
+12	wird	_		{}
+13	toll	_	Emotion_directed	{"Stimulus": "11", "Experiencer": "7"}
+14	und	_		{}
+15	voll	_	Fullness	{"Container": "11"}
+16	und	_		{}
+17	teuer	_	Expensiveness	{"Intended_event": "11"}
+18	.	_		{}
+19	Ich	_		{}
+20	seh's	_		{}
+21	schon	_		{}
+22	..	_		{}

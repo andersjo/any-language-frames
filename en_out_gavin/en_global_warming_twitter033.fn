@@ -1,0 +1,8 @@
+1	#Greens	_		{}
+2	Global	_	Political_locales	{"Locale": "2"}
+3	Warming	_	Cause_temperature_change	{"Item": "2"}
+4	to	_		{}
+5	increase	_	Cause_change_of_position_on_a_scale	{"Attribute": "7", "Cause": "3", "Item": "6"}
+6	crime	_	Committing_crime	{}
+7	levels	_	Rank	{"Item": "6", "Rank": "7"}
+8	http://t.co/drqSwyJO75	_		{}

@@ -1,0 +1,23 @@
+1	El	_		{}
+2	frío	_	Temperature	{"Attribute": "9", "Temperature": "2", "Entity": "2"}
+3	y	_		{}
+4	las	_		{}
+5	bajas	_	Cause_change_of_position_on_a_scale	{"Attribute": "6", "Cause": "21", "Agent": "6"}
+6	temperaturas	_	Ambient_temperature	{"Attribute": "7", "Weather": "7", "Temperature": "5", "Degree": "5"}
+7	invernales	_		{}
+8	son	_	Being_in_category	{"Category": "9", "Item": "2", "Criteria": "21"}
+9	aliados	_	Personal_relationship	{"Partner_2": "6", "Partner_1": "2"}
+10	a	_		{}
+11	la	_		{}
+12	hora	_	Location_in_time	{"Relative_time": "12"}
+13	de	_		{}
+14	perder	_	Losing	{"Possession": "15"}
+15	peso	_	Quantity	{"Mass": "15"}
+16	,	_		{}
+17	de	_		{}
+18	acuerdo	_		{}
+19	con	_		{}
+20	Ray	_		{}
+21	Cronise	_		{}
+22	.	_		{}
+23	http://t.co/LD1K6mTMlB	_		{}

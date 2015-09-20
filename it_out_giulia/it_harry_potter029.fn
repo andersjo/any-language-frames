@@ -1,0 +1,35 @@
+1	Per	_		{}
+2	questo	_		{}
+3	motivo	_	Reason	{}
+4	,	_		{}
+5	anche	_		{}
+6	se	_		{}
+7	agli	_		{}
+8	occhi	_	Observable_body_parts	{"Body_part": "8", "Possessor": "10"}
+9	dei	_		{}
+10	babbani	_		{}
+11	la	_		{}
+12	magia	_	Artifact	{"Artifact": "12"}
+13	risolverebbe	_		{}
+14	molti	_	Quantity	{"Individuals": "15", "Quantity": "14"}
+15	problemi	_		{}
+16	,	_		{}
+17	in	_		{}
+18	realtà	_		{}
+19	un'ipotetica	_		{}
+20	vita	_	Existence	{"Place": "22"}
+21	nel	_		{}
+22	mondo	_	Locale	{"Locale": "22"}
+23	magico	_	Ineffability	{}
+24	di	_		{}
+25	"	_		{}
+26	Harry	_		{}
+27	Potter	_		{}
+28	"	_		{}
+29	sarebbe	_		{}
+30	molto	_	Degree	{"Gradable_attribute": "30"}
+31	più	_		{}
+32	pericolosa	_	Risky_situation	{"Situation": "20"}
+33	e	_		{}
+34	complicata	_	Difficulty	{"Activity": "20"}
+35	.	_		{}

@@ -1,0 +1,19 @@
+1	Her	_		{}
+2	first	_	Ordinal_numbers	{"Item": "4", "Type": "3"}
+3	leading	_	Performers_and_roles	{"Performer": "1"}
+4	role	_	Performers_and_roles	{"Performer": "1", "Role": "4"}
+5	in	_		{}
+6	a	_	Cardinal_numbers	{"Number": "6", "Entity": "8"}
+7	major	_		{}
+8	film	_		{}
+9	was	_		{}
+10	in	_		{}
+11	the	_		{}
+12	cyber-thriller	_		{}
+13	"	_		{}
+14	Hackers	_		{}
+15	"	_		{}
+16	(	_		{}
+17	1995	_	Cardinal_numbers	{"Number": "17"}
+18	)	_		{}
+19	.	_		{}

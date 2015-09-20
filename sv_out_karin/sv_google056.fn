@@ -1,0 +1,20 @@
+1	Google	_		{}
+2	upplyser	_		{}
+3	dock	_	Concessive	{"Topic": "3", "Statement": "2"}
+4	om	_		{}
+5	att	_		{}
+6	de	_		{}
+7	tagits	_		{}
+8	bort	_		{}
+9	och	_		{}
+10	,	_		{}
+11	till	_		{}
+12	skillnad	_	Similarity	{"Differentiating_fact": "19", "Entity_2": "15"}
+13	från	_		{}
+14	i	_	Political_locales	{"Locale": "15"}
+15	Kina	_		{}
+16	,	_		{}
+17	är	_		{}
+18	google.com	_		{}
+19	tillgänglig	_	Having_or_lacking_access	{"Theme": "18"}
+20	.	_		{}

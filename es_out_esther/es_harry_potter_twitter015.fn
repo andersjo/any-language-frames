@@ -1,0 +1,19 @@
+1	Quiero	_	Desiring	{"Location_of_Event": "3", "Event": "3"}
+2	que	_		{}
+3	pase	_	Coming_to_be	{"Entity": "5"}
+4	el	_		{}
+5	tiempo	_	Temporal_pattern	{"Process": "3", "Pattern": "7"}
+6	muy	_	Degree	{"Gradable_attribute": "7"}
+7	rápido	_	Speed	{"Attribute": "7", "Speed": "6", "Degree": "6", "Entity": "7"}
+8	y	_		{}
+9	ser	_	Being_in_category	{"Category": "10"}
+10	mayor	_	People_by_age	{"Person": "10", "Age": "10"}
+11	y	_		{}
+12	que	_		{}
+13	hagan	_	Cause_to_start	{"Effect": "15"}
+14	un	_		{}
+15	remake	_		{}
+16	de	_		{}
+17	Harry	_		{}
+18	Potter	_		{}
+19	.	_		{}

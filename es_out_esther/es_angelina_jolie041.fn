@@ -1,0 +1,30 @@
+1	En	_		{}
+2	agosto	_	Calendric_unit	{"Whole": "5"}
+3	del	_		{}
+4	mismo	_	Identicality	{"Current_instance": "5"}
+5	año	_	Calendric_unit	{"Relative_time": "4", "Unit": "2"}
+6	,	_		{}
+7	Voight	_		{}
+8	afirmó	_		{}
+9	,	_		{}
+10	en	_		{}
+11	el	_		{}
+12	programa	_		{}
+13	de	_		{}
+14	televisión	_		{}
+15	"	_		{}
+16	All	_		{}
+17	Access	_		{}
+18	"	_		{}
+19	del	_		{}
+20	canal	_		{}
+21	VH1	_		{}
+22	,	_		{}
+23	que	_		{}
+24	su	_		{}
+25	hija	_	Kinship	{"Ego": "7"}
+26	tenía	_		{}
+27	graves	_	Position_on_a_scale	{"Item": "28"}
+28	problemas	_	Medical_conditions	{"Patient": "25", "Place": "29", "Degree": "27"}
+29	emocionales	_	Feeling	{"Evaluation": "27", "Experiencer": "25", "Emotional_state": "28"}
+30	.	_		{}

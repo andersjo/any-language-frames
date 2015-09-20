@@ -1,0 +1,24 @@
+1	A	_		{}
+2	soli	_		{}
+3	undici	_		{}
+4	anni	_	Age	{"Age": "3"}
+5	entra	_	Activity_start	{"Place": "8"}
+6	al	_		{}
+7	Lee	_		{}
+8	Strasberg	_		{}
+9	Theatre	_		{}
+10	and	_		{}
+11	Film	_		{}
+12	Institute	_		{}
+13	,	_		{}
+14	che	_		{}
+15	frequenta	_	Attending	{"Duration": "17"}
+16	per	_		{}
+17	due	_	Cardinal_numbers	{"Number": "17", "Entity": "18"}
+18	anni	_	Measure_duration	{"Process": "15", "Count": "17"}
+19	,	_		{}
+20	apparendo	_		{}
+21	in	_		{}
+22	diverse	_	Quantity	{"Individuals": "23"}
+23	produzioni	_	Intentionally_create	{"Created_entity": "23"}
+24	.	_		{}

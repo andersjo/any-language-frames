@@ -1,0 +1,21 @@
+1	At	_		{}
+2	the	_		{}
+3	age	_	Age	{"Age": "5"}
+4	of	_		{}
+5	eight	_	Cardinal_numbers	{"Number": "5"}
+6	,	_		{}
+7	Ronaldo	_		{}
+8	played	_	Performers_and_roles	{"Performer": "7", "Place": "9"}
+9	for	_		{}
+10	amateur	_	Expertise	{"Protagonist": "11", "Focal_participant": "7"}
+11	team	_	Organization	{"Descriptor": "10", "Name": "12", "Organization": "11"}
+12	Andorinha	_		{}
+13	,	_		{}
+14	where	_		{}
+15	his	_		{}
+16	father	_	Kinship	{"Ego": "7", "Alter": "16"}
+17	was	_	Being_in_category	{"Category": "20", "Item": "16"}
+18	the	_		{}
+19	kit	_	Clothing	{"Garment": "19"}
+20	man	_	People	{"Descriptor": "19", "Person": "20"}
+21	.	_		{}

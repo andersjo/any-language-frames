@@ -1,0 +1,64 @@
+1	È	_		{}
+2	stato	_		{}
+3	tra	_		{}
+4	i	_		{}
+5	protagonisti	_		{}
+6	,	_		{}
+7	nel	_		{}
+8	2008	_		{}
+9	,	_		{}
+10	del	_		{}
+11	triplo	_		{}
+12	successo	_	Success_or_failure	{"Agent": "14"}
+13	del	_		{}
+14	Manchester	_		{}
+15	United	_		{}
+16	in	_		{}
+17	Champions	_		{}
+18	League	_		{}
+19	,	_		{}
+20	Premier	_		{}
+21	League	_		{}
+22	e	_		{}
+23	Coppa	_		{}
+24	del	_		{}
+25	mondo	_	Locale	{"Locale": "25"}
+26	per	_		{}
+27	club	_	Organization	{"Organization": "28"}
+28	FIFA	_		{}
+29	;	_		{}
+30	proprio	_		{}
+31	in	_		{}
+32	virtù	_		{}
+33	di	_		{}
+34	tali	_		{}
+35	vittorie	_	Finish_competition	{"Prize": "40"}
+36	si	_		{}
+37	è	_		{}
+38	aggiudicato	_		{}
+39	il	_		{}
+40	Pallone	_		{}
+41	d'oro	_		{}
+42	2008	_		{}
+43	(	_		{}
+44	terzo	_	Ordinal_numbers	{"Comparison_set": "45"}
+45	portoghese	_	Origin	{"Origin": "45"}
+46	in	_		{}
+47	assoluto	_		{}
+48	a	_		{}
+49	vincere	_	Finish_competition	{"Competitor": "45"}
+50	questo	_		{}
+51	premio	_		{}
+52	)	_		{}
+53	,	_		{}
+54	la	_		{}
+55	Scarpa	_		{}
+56	d'oro	_		{}
+57	2008	_		{}
+58	ed	_		{}
+59	il	_		{}
+60	FIFA	_		{}
+61	World	_		{}
+62	Player	_		{}
+63	2008	_		{}
+64	.	_		{}

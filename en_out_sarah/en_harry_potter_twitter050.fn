@@ -1,0 +1,13 @@
+1	The	_		{}
+2	Harry	_		{}
+3	potter	_		{}
+4	store	_	Store	{"Resource": "2"}
+5	here	_	Locative_relation	{"Ground": "7"}
+6	in	_		{}
+7	l.a.	_		{}
+8	already	_	Time_vector	{"Event": "9"}
+9	feel	_	Becoming_aware	{"Topic": "11", "Phenomenon": "12"}
+10	my	_		{}
+11	$$$	_		{}
+12	disappearing	_	Ceasing_to_be	{"Entity": "11"}
+13	http://t.co/R4D3lcqlGd	_		{}

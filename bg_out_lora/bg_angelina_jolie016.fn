@@ -1,0 +1,23 @@
+1	Съучениците	_		{}
+2	я	_		{}
+3	дразнели	_		{}
+4	по	_		{}
+5	повод	_	Causation	{"Cause": "5"}
+6	на	_		{}
+7	това	_	Proper_reference	{"Intended_referent": "7"}
+8	,	_		{}
+9	че	_		{}
+10	била	_		{}
+11	изключително	_	Extreme_value	{"Value": "11"}
+12	слаба	_		{}
+13	и	_	Simultaneity	{"Profiled_event": "13"}
+14	носила	_		{}
+15	очила	_	Accoutrements	{"Accoutrement": "15"}
+16	и	_	Simultaneity	{"Profiled_event": "16"}
+17	метални	_	Substance	{"Substance": "17"}
+18	скоби	_		{}
+19	за	_		{}
+20	корекция	_	Predicament	{"Situation": "20"}
+21	на	_		{}
+22	зъбите	_		{}
+23	.	_		{}

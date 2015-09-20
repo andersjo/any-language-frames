@@ -1,0 +1,10 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	me	_	Proper_reference	{}
+4	parece	_	Appearance	{"Phenomenon": "6"}
+5	tan	_	Degree	{"Gradable_attribute": "6"}
+6	diosa	_		{}
+7	quiero	_	Desiring	{"Location_of_Event": "1", "Event": "8", "Experiencer": "3"}
+8	ser	_	Being_in_category	{"Category": "1"}
+9	como	_	Identicality	{"Previous_instance": "1"}
+10	ella	_	Measure_volume	{}

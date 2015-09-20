@@ -1,0 +1,18 @@
+1	No	_	Quantity	{}
+2	hay	_	Existence	{"Cause": "16", "Place": "9", "Entity": "3"}
+3	persona	_	People	{"Origin": "4", "Persistent_characteristic": "15", "Person": "3"}
+4	sobre	_	Containers	{"Use": "3", "Relative_location": "6", "Container": "9"}
+5	la	_		{}
+6	faz	_	Observable_body_parts	{"Body_part": "6", "Possessor": "9"}
+7	de	_		{}
+8	la	_		{}
+9	tierra	_	Locale	{"Locale": "9", "Related_event": "15", "Relative_location": "6", "Name": "9"}
+10	a	_		{}
+11	la	_		{}
+12	que	_	Statement	{"Topic": "16", "Message": "15", "Place": "9"}
+13	no	_	Quantity	{"Individuals": "3", "Quantity": "13"}
+14	le	_	Experiencer_obj	{"Stimulus": "16", "Experiencer": "3"}
+15	guste	_		{}
+16	Angelina	_		{}
+17	Jolie	_		{}
+18	😍🙌	_		{}

@@ -1,0 +1,19 @@
+1	Die	_		{}
+2	Spielzeit	_		{}
+3	2004/05	_		{}
+4	,	_		{}
+5	in	_		{}
+6	der	_		{}
+7	Ronaldo	_		{}
+8	50	_	Cardinal_numbers	{"Number": "8", "Entity": "9"}
+9	Pflichtspiele	_		{}
+10	bestritt	_	Competition	{"Participant_1": "7", "Competition": "9"}
+11	und	_		{}
+12	neun	_		{}
+13	Tore	_		{}
+14	schoss	_		{}
+15	,	_		{}
+16	endete	_	Process_end	{"Process": "2"}
+17	ohne	_		{}
+18	Titelgewinn	_		{}
+19	.	_		{}

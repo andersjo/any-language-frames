@@ -1,0 +1,21 @@
+1	Each	_		{}
+2	book	_	Text	{"Text": "2"}
+3	chronicles	_	Recording	{"Phenomenon": "5", "Agent": "2"}
+4	one	_	Cardinal_numbers	{"Number": "4", "Entity": "5"}
+5	year	_	Calendric_unit	{"Unit": "5"}
+6	in	_		{}
+7	Harry's	_		{}
+8	life	_	Dead_or_alive	{"Protagonist": "7"}
+9	with	_		{}
+10	the	_		{}
+11	main	_	First_rank	{"Item": "12"}
+12	narrative	_		{}
+13	being	_		{}
+14	set	_	Placing	{"Theme": "12", "Goal": "15"}
+15	in	_		{}
+16	the	_		{}
+17	years	_	Calendric_unit	{"Unit": "17"}
+18	1991	_	Cardinal_numbers	{"Number": "18"}
+19	–	_		{}
+20	98	_		{}
+21	.	_		{}

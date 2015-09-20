@@ -1,0 +1,25 @@
+1	efter	_		{}
+2	att	_		{}
+3	ha	_		{}
+4	tittat	_		{}
+5	på	_		{}
+6	mr	_		{}
+7	&	_		{}
+8	mrs	_		{}
+9	smith	_		{}
+10	så	_		{}
+11	värmer	_		{}
+12	det	_		{}
+13	lite	_	Degree	{"Gradable_attribute": "14"}
+14	extra	_		{}
+15	att	_		{}
+16	jag	_	Proper_reference	{"Intended_referent": "16"}
+17	en	_	Cardinal_numbers	{"Number": "17", "Entity": "18"}
+18	gång	_	Event_instance	{"Instance": "19", "Event": "23"}
+19	hört	_		{}
+20	att	_		{}
+21	jag	_	Proper_reference	{"Intended_referent": "21"}
+22	är	_		{}
+23	lik	_	Similarity	{"Entity_1": "21", "Entity_2": "25"}
+24	angelina	_		{}
+25	jolie	_		{}

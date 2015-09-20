@@ -1,0 +1,27 @@
+1	It	_		{}
+2	comprises	_	Inclusion	{"Part": "5", "Total": "1"}
+3	a	_	Cardinal_numbers	{"Number": "3", "Entity": "5"}
+4	fragmented	_	Part_whole	{"Whole": "5"}
+5	collection	_	Aggregate	{"Aggregate": "5", "Individuals": "9", "AggregateProperty": "4"}
+6	of	_		{}
+7	overlooked	_		{}
+8	hidden	_	Hiding_objects	{"Hidden_object": "9"}
+9	streets	_	Roadways	{"Roadway": "9", "Characteristic": "8"}
+10	,	_		{}
+11	ancient	_	Age	{"Age": "11", "Entity": "12"}
+12	pubs	_	Locale_by_use	{"Locale": "12", "Descriptor": "11"}
+13	,	_		{}
+14	lonely	_	Sole_instance	{"Item": "16"}
+15	country	_	Natural_features	{"Locale": "15"}
+16	manors	_	Buildings	{"Building": "16", "Descriptor": "14", "Type": "15"}
+17	and	_		{}
+18	secluded	_	Secrecy_status	{"Phenomenon": "19"}
+19	castles	_	Buildings	{"Building": "19", "Descriptor": "18"}
+20	that	_		{}
+21	remain	_	State_continue	{"Entity": "19"}
+22	invisible	_		{}
+23	to	_		{}
+24	the	_		{}
+25	Muggle	_		{}
+26	population	_	Aggregate	{"Aggregate": "26", "Individuals": "25"}
+27	.	_		{}

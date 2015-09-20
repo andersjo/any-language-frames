@@ -1,0 +1,25 @@
+1	Après	_		{}
+2	que	_		{}
+3	huit	_	Cardinal_numbers	{"Number": "3", "Entity": "5"}
+4	autres	_		{}
+5	éditeurs	_		{}
+6	ont	_		{}
+7	refusé	_		{}
+8	le	_		{}
+9	récit	_	Text	{"Text": "9"}
+10	,	_		{}
+11	Bloomsbury	_		{}
+12	a	_		{}
+13	offert	_	Offering	{"Potential_recipient": "15", "Theme": "17", "Offerer": "11"}
+14	à	_		{}
+15	Rowling	_		{}
+16	une	_		{}
+17	avance	_		{}
+18	de	_		{}
+19	2500	_		{}
+20	livres	_	Money	{"Money": "20"}
+21	sterling	_	Money	{"Money": "21"}
+22	pour	_		{}
+23	sa	_		{}
+24	publication	_	Text	{"Text": "24"}
+25	.	_		{}

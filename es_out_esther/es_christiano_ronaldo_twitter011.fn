@@ -1,0 +1,19 @@
+1	@yosoyluis90	_		{}
+2	Sela	_		{}
+3	la	_		{}
+4	comido	_	Ingestion	{"Ingestor": "6"}
+5	Christiano	_		{}
+6	Ronaldo	_		{}
+7	si	_		{}
+8	ves	_	Attention	{"Perceiver": "1", "Figure": "6"}
+9	solo	_	Sole_instance	{}
+10	en	_		{}
+11	penales	_	Rewards_and_punishments	{"Reason": "15", "Agent": "6"}
+12	mete	_	Placing	{"Theme": "11", "Goal": "13", "Agent": "6"}
+13	gol	_	Purpose	{"Goal": "13", "Agent": "6", "Means": "11"}
+14	El	_		{}
+15	mejor	_		{}
+16	jugador	_	Performers	{"Person": "6"}
+17	del	_		{}
+18	mundo	_	Locale	{"Locale": "18"}
+19	Messi10	_		{}

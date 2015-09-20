@@ -1,0 +1,33 @@
+1	Precis	_		{}
+2	som	_		{}
+3	Skywalker	_		{}
+4	blev	_		{}
+5	Harry	_		{}
+6	Potter	_		{}
+7	placerad	_		{}
+8	hos	_		{}
+9	sina	_		{}
+10	släktingar	_	Kinship	{"Ego": "6", "Alter": "10"}
+11	av	_		{}
+12	en	_	Cardinal_numbers	{"Number": "12", "Entity": "14"}
+13	vis	_	Conduct	{"Manner": "13", "Agent": "14"}
+14	man	_	People	{"Person": "18"}
+15	(	_		{}
+16	Obi-Wan	_		{}
+17	Kenobi/Albus	_		{}
+18	Dumbledore	_		{}
+19	)	_		{}
+20	för	_		{}
+21	att	_		{}
+22	skydda	_	Protecting	{"Beneficiary": "6", "Protection": "7", "Asset": "6", "Danger": "31"}
+23	honom	_		{}
+24	mot	_		{}
+25	en	_	Cardinal_numbers	{"Number": "25", "Entity": "27"}
+26	ond	_	People_by_morality	{"Person": "31"}
+27	makt	_		{}
+28	(	_		{}
+29	Kejsare	_		{}
+30	Palpatine/Lord	_		{}
+31	Voldemort	_		{}
+32	)	_		{}
+33	.	_		{}

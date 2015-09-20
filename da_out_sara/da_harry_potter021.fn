@@ -1,0 +1,42 @@
+1	Fortælleuniverset	_		{}
+2	består	_		{}
+3	især	_		{}
+4	af	_		{}
+5	bøger	_	Text	{"Text": "5"}
+6	og	_		{}
+7	magiske	_	Ineffability	{"Stimulus": "8", "Property": "7"}
+8	redskaber	_		{}
+9	,	_		{}
+10	og	_		{}
+11	bøgerne	_		{}
+12	trækker	_		{}
+13	på	_		{}
+14	både	_		{}
+15	den	_		{}
+16	engelske	_		{}
+17	og	_		{}
+18	den	_		{}
+19	europæiske	_	Origin	{"Origin": "19", "Entity": "20"}
+20	mytologi	_		{}
+21	og	_		{}
+22	litteratur	_	Text	{"Text": "22"}
+23	,	_		{}
+24	og	_		{}
+25	alfer	_		{}
+26	,	_		{}
+27	nisser	_		{}
+28	,	_		{}
+29	kæmper	_		{}
+30	,	_		{}
+31	kentaurer	_		{}
+32	,	_		{}
+33	spøgelser	_		{}
+34	,	_		{}
+35	varulve	_		{}
+36	og	_		{}
+37	enhjørninger	_		{}
+38	er	_		{}
+39	således	_	Sufficiency	{"Item": "37"}
+40	fast	_		{}
+41	inventar	_	Store	{"Descriptor": "40", "Resource": "25", "Possessor": "1", "Supply": "41"}
+42	.	_		{}

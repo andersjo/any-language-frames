@@ -1,0 +1,128 @@
+1	Dal	_		{}
+2	2011	_		{}
+3	Salani	_		{}
+4	pubblica	_	Releasing	{"Theme": "7", "Agent": "3"}
+5	una	_		{}
+6	nuova	_		{}
+7	traduzione	_	Translating	{"Content": "9"}
+8	della	_		{}
+9	serie	_	Sequence	{}
+10	(	_		{}
+11	curata	_		{}
+12	da	_		{}
+13	Stefano	_		{}
+14	Bartezzaghi	_		{}
+15	con	_		{}
+16	il	_		{}
+17	supporto	_		{}
+18	di	_		{}
+19	un	_		{}
+20	comitato	_		{}
+21	di	_		{}
+22	esperti	_	Expertise	{"Behavior_product": "7"}
+23	)	_		{}
+24	in	_		{}
+25	cui	_		{}
+26	i	_		{}
+27	nomi	_	Being_named	{"Name": "33", "Entity": "30"}
+28	di	_		{}
+29	molti	_	Quantity	{"Individuals": "30", "Quantity": "29"}
+30	personaggi	_		{}
+31	tornano	_		{}
+32	al	_		{}
+33	nome	_	Being_named	{"Entity": "30"}
+34	originale	_		{}
+35	inglese	_	People_by_origin	{"Origin": "35"}
+36	:	_		{}
+37	Minerva	_		{}
+38	McGranitt	_		{}
+39	torna	_		{}
+40	ad	_		{}
+41	essere	_		{}
+42	la	_		{}
+43	professoressa	_	People_by_vocation	{}
+44	McGonagall	_		{}
+45	,	_		{}
+46	e	_		{}
+47	il	_		{}
+48	ghiacciolo	_		{}
+49	che	_		{}
+50	Silente	_		{}
+51	le	_		{}
+52	offre	_	Offering	{"Potential_recipient": "43", "Theme": "48", "Offerer": "50"}
+53	nel	_		{}
+54	primo	_	Ordinal_numbers	{"Item": "55"}
+55	capitolo	_		{}
+56	torna	_		{}
+57	ad	_		{}
+58	essere	_		{}
+59	una	_		{}
+60	caramella	_	Food	{"Food": "60"}
+61	;	_		{}
+62	i	_		{}
+63	"	_		{}
+64	folletti	_		{}
+65	"	_		{}
+66	della	_		{}
+67	Gringott	_		{}
+68	sono	_		{}
+69	tornati	_		{}
+70	"	_		{}
+71	goblin	_		{}
+72	"	_		{}
+73	,	_		{}
+74	il	_		{}
+75	mostro	_		{}
+76	nei	_		{}
+77	bagni	_	Building_subparts	{"Building_part": "77", "Whole": "79"}
+78	della	_		{}
+79	scuola	_	Locale_by_use	{"Locale": "79"}
+80	che	_		{}
+81	sconvolge	_		{}
+82	la	_		{}
+83	festa	_	Social_event	{}
+84	di	_		{}
+85	Halloween	_		{}
+86	è	_		{}
+87	un	_		{}
+88	troll	_		{}
+89	,	_		{}
+90	le	_		{}
+91	castagne	_		{}
+92	che	_		{}
+93	Ron	_		{}
+94	e	_		{}
+95	Harry	_		{}
+96	mangiano	_	Ingestion	{"Ingestibles": "91", "Ingestor": "93"}
+97	a	_		{}
+98	Natale	_	Commemorative	{}
+99	ritornano	_		{}
+100	dei	_		{}
+101	marshmallows	_		{}
+102	e	_		{}
+103	il	_		{}
+104	capitolo	_	Part_ordered_segments	{"Part": "104"}
+105	"	_		{}
+106	The	_		{}
+107	Mirror	_		{}
+108	of	_		{}
+109	Erised	_		{}
+110	"	_		{}
+111	è	_		{}
+112	stato	_		{}
+113	reso	_		{}
+114	"	_		{}
+115	Lo	_		{}
+116	Specchio	_		{}
+117	delle	_		{}
+118	Emarb	_		{}
+119	"	_		{}
+120	,	_		{}
+121	giocando	_		{}
+122	sulla	_		{}
+123	specularità	_		{}
+124	usata	_		{}
+125	nella	_		{}
+126	versione	_	Type	{"Subtype": "127"}
+127	originale	_		{}
+128	.	_		{}

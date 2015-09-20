@@ -1,0 +1,17 @@
+1	Cada	_		{}
+2	vez	_	Event_instance	{}
+3	me	_	Proper_reference	{}
+4	doy	_		{}
+5	más	_	Change_position_on_a_scale	{"Final_value": "6"}
+6	cuenta	_	Awareness	{"Content": "12", "Cognizer": "3", "Expressor": "3", "Topic": "9"}
+7	de	_		{}
+8	lo	_		{}
+9	maravillosos	_	Aesthetics	{"Degree": "8", "Entity": "12"}
+10	que	_		{}
+11	son	_	Being_in_category	{"Category": "9", "Item": "23"}
+12	Angelina	_		{}
+13	Jolie	_		{}
+14	y	_		{}
+15	Brad	_		{}
+16	Pitt	_		{}
+17	.	_		{}

@@ -1,0 +1,9 @@
+1	Ronaldo	_		{}
+2	har	_	Have_associated	{"Topical_entity": "5", "Entity": "1"}
+3	et	_		{}
+4	tæt	_	Measurable_attributes	{"Degree": "4", "Entity": "5"}
+5	forhold	_		{}
+6	til	_		{}
+7	sin	_		{}
+8	mor	_	Kinship	{"Ego": "1", "Alter": "8", "Degree": "4"}
+9	.	_		{}

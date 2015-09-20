@@ -1,0 +1,28 @@
+1	We	_		{}
+2	could	_		{}
+3	slow	_	Taking_time	{"Agent": "1", "Activity": "6"}
+4	down	_		{}
+5	global	_	Political_locales	{"Locale": "5"}
+6	warming	_		{}
+7	if	_		{}
+8	on	_		{}
+9	one	_	Cardinal_numbers	{"Number": "9", "Entity": "10"}
+10	day	_	Calendric_unit	{"Count": "9", "Unit": "10"}
+11	each	_		{}
+12	year	_	Calendric_unit	{"Unit": "12"}
+13	everybody	_		{}
+14	on	_		{}
+15	the	_		{}
+16	planet	_		{}
+17	cranked	_	Adjusting	{"Agent": "13"}
+18	up	_		{}
+19	their	_		{}
+20	AC	_		{}
+21	and	_	Simultaneity	{"Profiled_event": "22", "Landmark_event": "17"}
+22	left	_	Left_to_do	{"Process": "25", "Agent": "19"}
+23	their	_		{}
+24	windows	_	Connecting_architecture	{"Part": "24"}
+25	open	_	Being_detached	{"Item": "24"}
+26	all	_		{}
+27	day	_	Calendric_unit	{"Relative_time": "26", "Unit": "27"}
+28	.	_		{}

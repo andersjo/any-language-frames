@@ -1,0 +1,34 @@
+1	Verpflichtungspläne	_		{}
+2	sollten	_		{}
+3	in	_		{}
+4	beiden	_		{}
+5	Fällen	_		{}
+6	aber	_	Concessive	{}
+7	schließlich	_	Time_vector	{"Event": "9"}
+8	daran	_		{}
+9	scheitern	_	Bungling	{"Action": "1"}
+10	,	_		{}
+11	dass	_		{}
+12	Ronaldo	_		{}
+13	als	_		{}
+14	zu	_	Sufficiency	{"Item": "12", "Scale": "15"}
+15	jung	_	Age	{"Degree": "14", "Entity": "12"}
+16	eingestuft	_	Categorization	{"Cognizer": "22", "Item": "12", "Category": "14", "Criteria": "15"}
+17	wurde	_		{}
+18	und	_		{}
+19	nach	_		{}
+20	Meinung	_	Opinion	{"Opinion": "20", "Cognizer": "22"}
+21	der	_		{}
+22	Verantwortlichen	_		{}
+23	noch	_	Continued_state_of_affairs	{"Reference_occasion": "24", "State_of_affairs": "33"}
+24	Zeit	_		{}
+25	benötigte	_	Needing	{"Dependent": "33", "Requirement": "24"}
+26	,	_		{}
+27	um	_		{}
+28	sich	_		{}
+29	zu	_		{}
+30	einem	_		{}
+31	Spitzenfußballer	_		{}
+32	zu	_		{}
+33	entwickeln	_	Cause_to_make_progress	{"Project": "31", "Agent": "12"}
+34	.	_		{}

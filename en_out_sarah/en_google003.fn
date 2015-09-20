@@ -1,0 +1,23 @@
+1	Most	_	Relational_quantity	{"Individuals": "4", "Reference_quantity": "1"}
+2	of	_		{}
+3	its	_		{}
+4	profits	_		{}
+5	are	_		{}
+6	derived	_	Getting	{"Source": "7", "Theme": "4", "Recipient": "3"}
+7	from	_		{}
+8	AdWords	_		{}
+9	,	_		{}
+10	an	_	Cardinal_numbers	{"Number": "10", "Entity": "13"}
+11	online	_		{}
+12	advertising	_		{}
+13	service	_	Public_services	{"Domain": "12", "Service_action": "15"}
+14	that	_		{}
+15	places	_	Placing	{"Distance": "17", "Theme": "16", "Goal": "19", "Agent": "13"}
+16	advertising	_		{}
+17	near	_		{}
+18	the	_		{}
+19	list	_		{}
+20	of	_		{}
+21	search	_		{}
+22	results	_		{}
+23	.	_		{}

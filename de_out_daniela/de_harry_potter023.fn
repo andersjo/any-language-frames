@@ -1,0 +1,10 @@
+1	Er	_		{}
+2	trägt	_		{}
+3	eine	_		{}
+4	blitzförmige	_		{}
+5	Narbe	_	Body_mark	{"Descriptor": "4", "Cause": "9", "Body_mark": "5", "Possessor": "1"}
+6	auf	_		{}
+7	der	_		{}
+8	Stirn	_	Observable_body_parts	{"Body_part": "8", "Possessor": "1"}
+9	davon	_		{}
+10	.	_		{}

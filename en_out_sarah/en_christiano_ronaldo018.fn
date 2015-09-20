@@ -1,0 +1,29 @@
+1	He	_		{}
+2	became	_	Becoming	{"Entity": "1", "Time": "18"}
+3	the	_		{}
+4	world's	_		{}
+5	most	_	Relational_quantity	{"Individuals": "6"}
+6	expensive	_	Expensiveness	{"Goods": "1"}
+7	player	_	Competition	{"Participant_1": "1"}
+8	when	_		{}
+9	he	_		{}
+10	moved	_	Motion	{"Source": "12", "Theme": "9", "Goal": "15", "Time": "18"}
+11	from	_		{}
+12	Manchester	_		{}
+13	United	_	Amalgamation	{"Part_1": "12"}
+14	to	_		{}
+15	Real	_		{}
+16	Madrid	_		{}
+17	in	_		{}
+18	2009	_		{}
+19	in	_		{}
+20	a	_	Cardinal_numbers	{"Number": "20", "Entity": "21"}
+21	transfer	_	Exchange_currency	{"Money": "23"}
+22	worth	_		{}
+23	£80	_		{}
+24	million	_	Cardinal_numbers	{"Multiplier": "23", "Entity": "24"}
+25	(€94	_		{}
+26	million/$132	_		{}
+27	million	_	Cardinal_numbers	{"Entity": "27"}
+28	)	_		{}
+29	.	_		{}

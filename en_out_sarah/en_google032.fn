@@ -1,0 +1,20 @@
+1	This	_		{}
+2	marked	_	Sign	{"Indicator": "1", "Indicated": "5", "Degree": "4"}
+3	the	_		{}
+4	first	_	First_rank	{"Item": "5"}
+5	time	_	Calendric_unit	{"Unit": "5"}
+6	the	_		{}
+7	company	_	Businesses	{"Business": "7"}
+8	had	_		{}
+9	reached	_	Accomplishment	{"Goal": "11", "Agent": "7"}
+10	this	_		{}
+11	feat	_	Accomplishment	{"Goal": "11"}
+12	,	_		{}
+13	topping	_		{}
+14	their	_		{}
+15	2011	_		{}
+16	total	_	Quantity	{"Mass": "19", "Degree": "16", "Quantity": "18"}
+17	of	_		{}
+18	$38	_		{}
+19	billion	_	Cardinal_numbers	{"Number": "18", "Entity": "19"}
+20	.	_		{}

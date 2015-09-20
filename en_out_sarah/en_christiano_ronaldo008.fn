@@ -1,0 +1,24 @@
+1	He	_		{}
+2	is	_	Being_in_category	{"Category": "4", "Item": "1", "Criteria": "7"}
+3	the	_		{}
+4	first	_	First_experience	{"Experience": "8"}
+5	Portuguese	_	Origin	{"Origin": "5", "Entity": "1"}
+6	footballer	_		{}
+7	to	_		{}
+8	win	_		{}
+9	two	_	Cardinal_numbers	{"Number": "9", "Entity": "10"}
+10	FIFA/Ballons	_		{}
+11	d'Or	_		{}
+12	,	_		{}
+13	and	_	Simultaneity	{}
+14	the	_		{}
+15	second	_	Ordinal_numbers	{"Comparison_set": "16", "Item": "1"}
+16	player	_	Competition	{"Participant_1": "1", "Competition": "10"}
+17	to	_		{}
+18	win	_	Win_prize	{"Competitor": "1", "Prize": "21"}
+19	three	_	Cardinal_numbers	{"Number": "19", "Entity": "21"}
+20	European	_	Origin	{"Origin": "20", "Entity": "21"}
+21	Golden	_		{}
+22	Shoe	_	Clothing	{"Garment": "22", "Material": "21"}
+23	awards	_	Judgment	{"Evaluee": "1"}
+24	.	_		{}

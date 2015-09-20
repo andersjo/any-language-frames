@@ -1,0 +1,23 @@
+1	Her	_		{}
+2	starring	_	Performers_and_roles	{"Performer": "1"}
+3	role	_	Performers_and_roles	{"Performer": "1", "Medium": "7"}
+4	as	_		{}
+5	the	_		{}
+6	video	_	Physical_artworks	{"Artifact": "7"}
+7	game	_		{}
+8	heroine	_		{}
+9	Lara	_		{}
+10	Croft	_		{}
+11	in	_		{}
+12	""	_		{}
+13	(	_		{}
+14	2001	_		{}
+15	)	_		{}
+16	established	_	Cause_change	{"Final_category": "22"}
+17	her	_		{}
+18	as	_		{}
+19	a	_	Cardinal_numbers	{"Number": "19", "Entity": "22"}
+20	leading	_	First_rank	{"Item": "22"}
+21	Hollywood	_		{}
+22	actress	_	Performers	{"Person": "17", "Rank": "20"}
+23	.	_		{}

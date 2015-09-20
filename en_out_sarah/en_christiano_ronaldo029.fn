@@ -1,0 +1,23 @@
+1	In	_		{}
+2	November	_	Calendric_unit	{"Whole": "2"}
+3	2014	_		{}
+4	,	_		{}
+5	Ronaldo	_		{}
+6	became	_	Becoming	{"Entity": "5"}
+7	the	_		{}
+8	all-time	_		{}
+9	top	_	Occupy_rank	{"Item": "5", "Rank": "9"}
+10	scorer	_	Behind_the_scenes	{"Performer": "5"}
+11	in	_		{}
+12	the	_		{}
+13	UEFA	_		{}
+14	European	_	Origin	{"Origin": "14", "Entity": "15"}
+15	Championship	_		{}
+16	(	_		{}
+17	including	_		{}
+18	qualifying	_	Grant_permission	{"Grantee": "5", "Grantor": "13"}
+19	)	_		{}
+20	with	_		{}
+21	23	_		{}
+22	goals	_	Purpose	{"Value": "21", "Goal": "22", "Agent": "5"}
+23	.	_		{}

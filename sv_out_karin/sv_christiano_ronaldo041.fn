@@ -1,0 +1,25 @@
+1	Ronaldo	_		{}
+2	gjorde	_		{}
+3	totalt	_	Amounting_to	{"Attribute": "5", "Value": "4", "Time_span": "8"}
+4	42	_		{}
+5	mål	_	Instance	{"Instance": "5"}
+6	under	_		{}
+7	säsongen	_		{}
+8	2007/2008	_		{}
+9	,	_		{}
+10	31	_		{}
+11	av	_		{}
+12	dem	_		{}
+13	i	_		{}
+14	Premier	_		{}
+15	League	_		{}
+16	,	_		{}
+17	åtta	_	Cardinal_numbers	{"Number": "17", "Entity": "5"}
+18	i	_		{}
+19	Champions	_		{}
+20	League	_		{}
+21	och	_		{}
+22	tre	_	Cardinal_numbers	{"Number": "22", "Entity": "5"}
+23	i	_		{}
+24	FA-cupen	_		{}
+25	.	_		{}

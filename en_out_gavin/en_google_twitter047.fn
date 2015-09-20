@@ -1,0 +1,22 @@
+1	Opening	_	Likelihood	{"Hypothetical_event": "2"}
+2	Statements	_	Statement	{"Message": "2", "Event_description": "1"}
+3	:	_		{}
+4	Wizards	_	Performers_and_roles	{"Performer": "4"}
+5	at	_		{}
+6	Spurs	_		{}
+7	,	_		{}
+8	Game	_	Aggregate	{"Aggregate": "8"}
+9	33	_		{}
+10	-	_		{}
+11	Truth	_	Accuracy	{"Domain": "12"}
+12	About	_		{}
+13	It	_		{}
+14	-	_		{}
+15	Washington	_	Relational_political_locales	{"Locale": "15"}
+16	Wizards	_	Performers_and_roles	{"Performer": "16"}
+17	Blog	_		{}
+18	(	_		{}
+19	blog	_		{}
+20	)	_		{}
+21	http://t.co/0YgY4u1eKn	_		{}
+22	#michael	_		{}

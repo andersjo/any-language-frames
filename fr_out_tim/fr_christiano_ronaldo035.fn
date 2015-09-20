@@ -1,0 +1,26 @@
+1	Joueur	_	Competition	{"Participant_1": "6"}
+2	complet	_	Completeness	{"Whole": "1"}
+3	et	_		{}
+4	polyvalent	_		{}
+5	,	_		{}
+6	il	_		{}
+7	est	_		{}
+8	capable	_	Capability	{"Entity": "6"}
+9	de	_		{}
+10	jouer	_	Competition	{"Participant_1": "6"}
+11	à	_		{}
+12	tous	_	Quantity	{"Individuals": "14", "Quantity": "12"}
+13	les	_		{}
+14	postes	_		{}
+15	du	_		{}
+16	milieu	_	Part_whole	{"Part": "16", "Whole": "18"}
+17	de	_		{}
+18	terrain	_	Locale_by_use	{"Locale": "18"}
+19	,	_		{}
+20	et	_		{}
+21	impressionne	_	Experiencer_obj	{"Stimulus": "6"}
+22	par	_		{}
+23	ses	_		{}
+24	qualités	_	Capability	{"Entity": "6"}
+25	techniques	_		{}
+26	.	_		{}

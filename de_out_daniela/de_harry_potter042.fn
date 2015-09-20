@@ -1,0 +1,35 @@
+1	Sie	_		{}
+2	ist	_		{}
+3	der	_		{}
+4	Grund	_	Reason	{"Action": "6", "State_of_Affairs": "1"}
+5	,	_		{}
+6	warum	_		{}
+7	Voldemort	_		{}
+8	ihn	_		{}
+9	als	_		{}
+10	Baby	_	People_by_age	{"Person": "10"}
+11	töten	_	Killing	{"Killer": "7", "Victim": "10"}
+12	wollte	_	Desiring	{"Focal_participant": "10", "Experiencer": "7", "Event": "11"}
+13	und	_		{}
+14	es	_		{}
+15	weiterhin	_	Activity_ongoing	{"Agent": "7", "Activity": "16"}
+16	versucht	_	Attempt	{"Agent": "7"}
+17	,	_		{}
+18	denn	_		{}
+19	mit	_		{}
+20	ihr	_		{}
+21	hat	_		{}
+22	er	_		{}
+23	Harry	_		{}
+24	als	_		{}
+25	denjenigen	_		{}
+26	identifiziert	_	Categorization	{"Category": "25", "Cognizer": "22", "Item": "23"}
+27	,	_		{}
+28	der	_		{}
+29	als	_		{}
+30	Einziger	_	Sole_instance	{"Item": "23"}
+31	seine	_	Possession	{"Possession": "32", "Owner": "31"}
+32	Macht	_	Leadership	{"Leader": "22"}
+33	brechen	_	Cause_to_fragment	{"Whole_patient": "32", "Agent": "23"}
+34	kann	_		{}
+35	.	_		{}

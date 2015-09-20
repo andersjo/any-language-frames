@@ -1,0 +1,30 @@
+1	These	_		{}
+2	Downton	_		{}
+3	Abbey	_		{}
+4	DVD	_		{}
+5	hawkers	_		{}
+6	promising	_		{}
+7	"	_		{}
+8	u'll	_		{}
+9	b	_		{}
+10	the	_		{}
+11	1st	_	Ordinal_numbers	{"Item": "8", "Basis_of_order": "12"}
+12	2c	_		{}
+13	it	_		{}
+14	"	_		{}
+15	=	_		{}
+16	as	_		{}
+17	bad	_	Morality_evaluation	{"Evaluee": "5", "Behavior": "6", "Degree": "18"}
+18	as	_		{}
+19	global	_	Political_locales	{"Locale": "19"}
+20	warming	_	Ambient_temperature	{}
+21	deniers~there's	_		{}
+22	more	_	Increment	{"Initial_set": "28"}
+23	2	_		{}
+24	the	_		{}
+25	world	_	Political_locales	{}
+26	than	_		{}
+27	the	_	Text	{}
+28	US	_	People_by_origin	{"Ethnicity": "28"}
+29	!	_		{}
+30	#PBS	_		{}

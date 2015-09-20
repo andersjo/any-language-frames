@@ -1,0 +1,33 @@
+1	In	_		{}
+2	different	_	Similarity	{"Entities": "3"}
+3	regions	_	Locale	{"Locale": "3"}
+4	the	_		{}
+5	focus	_	Place_weight_on	{"Artifact": "12"}
+6	of	_		{}
+7	the	_		{}
+8	celebrations	_	Social_event	{}
+9	ranges	_	Range	{"Event": "5"}
+10	from	_		{}
+11	general	_	Leadership	{"Leader": "11"}
+12	celebration	_	Social_event	{"Descriptor": "11", "Honoree": "14"}
+13	of	_		{}
+14	respect	_	Trust	{}
+15	,	_		{}
+16	appreciation	_	Judgment	{"Evaluee": "19"}
+17	and	_		{}
+18	love	_	Experiencer_focus	{"Content": "20"}
+19	towards	_		{}
+20	women	_	People	{"Person": "20"}
+21	to	_		{}
+22	a	_	Cardinal_numbers	{"Number": "22", "Entity": "23"}
+23	celebration	_	Social_event	{"Honoree": "32"}
+24	for	_		{}
+25	women's	_	People	{"Person": "25"}
+26	economic	_	Economy	{"Domain": "25"}
+27	,	_		{}
+28	political	_	Organization	{"Members": "25"}
+29	,	_		{}
+30	and	_		{}
+31	social	_	Social_event	{}
+32	achievements	_	Accomplishment	{"Domain": "26", "Goal": "32", "Agent": "25"}
+33	.	_		{}

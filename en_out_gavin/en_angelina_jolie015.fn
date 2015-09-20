@@ -1,0 +1,11 @@
+1	They	_		{}
+2	have	_	Have_associated	{"Topical_entity": "1", "Entity": "4"}
+3	six	_	Cardinal_numbers	{"Number": "3", "Entity": "4"}
+4	children	_	People_by_age	{"Person": "4"}
+5	,	_		{}
+6	three	_	Cardinal_numbers	{"Number": "6", "Entity": "4"}
+7	of	_		{}
+8	whom	_		{}
+9	are	_	Being_in_category	{"Category": "10", "Item": "4"}
+10	adopted	_	Adopt_selection	{}
+11	.	_		{}

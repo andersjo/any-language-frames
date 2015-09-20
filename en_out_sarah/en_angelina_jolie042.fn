@@ -1,0 +1,25 @@
+1	Because	_		{}
+2	of	_		{}
+3	Voight's	_		{}
+4	marital	_	Personal_relationship	{"Partner_1": "3"}
+5	infidelity	_		{}
+6	and	_	Simultaneity	{}
+7	the	_		{}
+8	resulting	_	Causation	{"Affected": "12", "Reason": "5", "Cause": "9"}
+9	breakup	_	Personal_relationship	{"Partners": "12"}
+10	of	_		{}
+11	her	_		{}
+12	parents	_	Kinship	{"Ego": "11", "Alter": "12"}
+13	'	_		{}
+14	marriage	_	Personal_relationship	{"Partners": "12"}
+15	,	_		{}
+16	she	_		{}
+17	was	_		{}
+18	estranged	_	Personal_relationship	{"Partner_2": "21", "Partner_1": "16"}
+19	from	_		{}
+20	her	_		{}
+21	father	_	Kinship	{"Ego": "20", "Alter": "21"}
+22	for	_		{}
+23	many	_	Quantity	{"Mass": "24", "Quantity": "23"}
+24	years	_		{}
+25	.	_		{}

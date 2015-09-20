@@ -1,0 +1,21 @@
+1	Haier	_		{}
+2	Modular	_		{}
+3	TV	_		{}
+4	,	_		{}
+5	la	_		{}
+6	première	_	Ordinal_numbers	{"Basis_of_order": "9", "Type": "7", "Item": "1"}
+7	TV	_		{}
+8	qui	_		{}
+9	évolue	_		{}
+10	selon	_		{}
+11	les	_		{}
+12	innovations	_	Achieving_first	{"New_idea": "12"}
+13	technologiques	_		{}
+14	:	_		{}
+15	Google	_		{}
+16	développe	_	Intentionally_create	{"Created_entity": "18", "Creator": "15"}
+17	son	_		{}
+18	projet	_	Project	{"Agent": "15"}
+19	de	_		{}
+20	…	_		{}
+21	http://t.co/LLlh3ggZxO	_		{}

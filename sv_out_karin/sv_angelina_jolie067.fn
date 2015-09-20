@@ -1,0 +1,16 @@
+1	Filmen	_		{}
+2	mottogs	_		{}
+3	väl	_		{}
+4	av	_		{}
+5	kritiker	_	Judgment_communication	{"Communicator": "5", "Evaluee": "1"}
+6	och	_	Simultaneity	{"Profiled_event": "2", "Landmark_event": "8"}
+7	Jolie	_		{}
+8	nominerades	_		{}
+9	också	_		{}
+10	till	_		{}
+11	en	_	Cardinal_numbers	{"Number": "11", "Entity": "12"}
+12	Emmy	_		{}
+13	för	_		{}
+14	sitt	_		{}
+15	framträdande	_	Performing_arts	{"Performance": "1", "Audience": "5", "Performer": "7"}
+16	.	_		{}

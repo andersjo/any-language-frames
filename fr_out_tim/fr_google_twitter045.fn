@@ -1,0 +1,21 @@
+1	«	_		{}
+2	Si	_		{}
+3	votre	_		{}
+4	coeur	_	Observable_body_parts	{"Body_part": "4", "Possessor": "3"}
+5	est	_		{}
+6	une	_		{}
+7	rose	_		{}
+8	,	_		{}
+9	votre	_		{}
+10	bouche	_	Observable_body_parts	{"Body_part": "10", "Possessor": "9"}
+11	dira	_	Statement	{"Topic": "13", "Speaker": "9"}
+12	des	_		{}
+13	mots	_	Simple_name	{"Entity": "13"}
+14	parfumés	_		{}
+15	.	_		{}
+16	»	_		{}
+17	Proverbe	_		{}
+18	russe	_	Origin	{"Origin": "18", "Entity": "17"}
+19	...	_		{}
+20	http://t.co/mJC5KufgOg	_		{}
+21	http://t.co/VLU8SEV1YK	_		{}

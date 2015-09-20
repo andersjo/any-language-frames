@@ -1,0 +1,43 @@
+1	Es	_	Being_in_category	{"Criteria": "6"}
+2	el	_		{}
+3	—	_		{}
+4	tras	_		{}
+5	haber	_		{}
+6	superado	_	Surpassing	{"Attribute": "9", "Standard_item": "10"}
+7	sucesivamente	_	Sequence	{"Entity2": "10"}
+8	a	_		{}
+9	grandes	_	Size	{"Entity": "10", "Degree": "9", "Standard": "10"}
+10	jugadores	_	Performers	{"Person": "13"}
+11	como	_		{}
+12	Amancio	_		{}
+13	Amaro	_		{}
+14	,	_		{}
+15	Emilio	_		{}
+16	Butragueño	_		{}
+17	,	_		{}
+18	Pirri	_		{}
+19	,	_		{}
+20	Paco	_		{}
+21	Gento	_		{}
+22	,	_		{}
+23	Hugo	_		{}
+24	Sánchez	_		{}
+25	y	_		{}
+26	Ferenc	_		{}
+27	Puskás	_		{}
+28	;	_		{}
+29	estos	_	Proper_reference	{"Intended_referent": "24", "Entity": "27"}
+30	dos	_	Cardinal_numbers	{"Number": "30", "Entity": "31"}
+31	últimos	_		{}
+32	durante	_		{}
+33	la	_		{}
+34	—	_		{}
+35	consiguiéndolo	_		{}
+36	en	_		{}
+37	apenas	_	Relational_quantity	{"Reference_quantity": "39"}
+38	cinco	_	Cardinal_numbers	{"Entity": "39"}
+39	temporadas	_	Sequence	{}
+40	en	_		{}
+41	el	_		{}
+42	club	_	Organization	{"Organization": "42"}
+43	.	_		{}

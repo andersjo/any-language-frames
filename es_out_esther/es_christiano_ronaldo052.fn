@@ -1,0 +1,62 @@
+1	recibiendo	_	Receiving	{"Donor": "7", "Theme": "3", "Recipient": "58"}
+2	nuevos	_	Age	{"Attribute": "3", "Expressor": "7", "Age": "2", "Degree": "2", "Entity": "3"}
+3	elogios	_	Judgment_communication	{"Topic": "58", "Communicator": "7", "Reason": "13", "Expressor": "7", "Evaluee": "58"}
+4	por	_		{}
+5	parte	_		{}
+6	del	_		{}
+7	mundo	_	Locale	{"Locale": "7"}
+8	futbolístico	_		{}
+9	,	_		{}
+10	quien	_		{}
+11	ya	_	Temporal_collocation	{"Landmark_period": "11", "Landmark_event": "13", "Landmark_entity": "58"}
+12	le	_		{}
+13	situaba	_	Placing	{"Theme": "58", "Goal": "17", "Agent": "7"}
+14	entre	_		{}
+15	los	_		{}
+16	mejores	_		{}
+17	jugadores	_	Performers	{"Person": "17"}
+18	del	_		{}
+19	momento	_	Temporal_pattern	{"Process": "13", "Pattern": "19", "Subevent": "21"}
+20	y	_		{}
+21	comenzaba	_	Activity_start	{"Agent": "29", "Activity": "23"}
+22	a	_		{}
+23	ser	_	Being_in_category	{"Category": "24", "Item": "58", "Criteria": "29"}
+24	objetivo	_	Aiming	{"Targeted": "58", "Target_location": "58", "Agent": "29"}
+25	prioritario	_		{}
+26	para	_		{}
+27	los	_		{}
+28	distintos	_	Distinctiveness	{"Feature": "28", "Entity": "29"}
+29	clubes	_	Organization	{"Organization": "29"}
+30	,	_		{}
+31	como	_		{}
+32	el	_		{}
+33	F	_		{}
+34	.	_		{}
+35	C	_		{}
+36	.	_		{}
+37	Internazionale	_		{}
+38	Milano	_		{}
+39	,	_		{}
+40	el	_		{}
+41	F	_		{}
+42	.	_		{}
+43	C	_		{}
+44	.	_		{}
+45	Barcelona	_		{}
+46	o	_		{}
+47	el	_		{}
+48	Real	_		{}
+49	Madrid	_		{}
+50	C	_		{}
+51	.	_		{}
+52	F	_		{}
+53	.,	_		{}
+54	a	_		{}
+55	lo	_		{}
+56	que	_		{}
+57	el	_		{}
+58	portugués	_	Origin	{"Origin": "58", "Entity": "58"}
+59	volvió	_		{}
+60	a	_		{}
+61	manifestar	_	Communication	{"Communicator": "58"}
+62	:	_		{}

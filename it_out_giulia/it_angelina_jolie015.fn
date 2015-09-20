@@ -1,0 +1,34 @@
+1	Successivamente	_	Relative_time	{"Focal_occasion": "2"}
+2	frequenta	_	Attending	{"Place": "7"}
+3	la	_		{}
+4	Beverly	_		{}
+5	Hills	_		{}
+6	High	_		{}
+7	School	_		{}
+8	,	_		{}
+9	dove	_		{}
+10	vive	_	Feeling	{"Emotion": "14"}
+11	una	_		{}
+12	sorta	_		{}
+13	di	_		{}
+14	disagio	_	Experiencer_obj	{}
+15	nei	_		{}
+16	confronti	_	Evaluative_comparison	{"Standard_item": "18"}
+17	dei	_		{}
+18	bambini	_		{}
+19	di	_		{}
+20	famiglie	_	Kinship	{"Relatives": "20", "Ego": "18"}
+21	più	_		{}
+22	facoltose	_		{}
+23	:	_		{}
+24	vivendo	_	Residence	{"Co_resident": "27"}
+25	con	_		{}
+26	la	_		{}
+27	madre	_	Kinship	{}
+28	doveva	_	Being_obligated	{}
+29	sopravvivere	_	Surviving	{}
+30	con	_		{}
+31	un	_		{}
+32	reddito	_	Earnings_and_losses	{}
+33	modesto	_	Size	{"Entity": "32"}
+34	.	_		{}

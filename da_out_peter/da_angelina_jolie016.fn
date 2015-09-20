@@ -1,0 +1,11 @@
+1	Jolie	_		{}
+2	og	_		{}
+3	Pitt	_		{}
+4	har	_	Have_associated	{"Topical_entity": "1", "Entity": "10"}
+5	tre	_	Cardinal_numbers	{"Number": "5", "Entity": "10"}
+6	biologiske	_		{}
+7	og	_		{}
+8	tre	_	Cardinal_numbers	{"Number": "8", "Entity": "10"}
+9	adopterede	_		{}
+10	børn	_		{}
+11	.	_		{}

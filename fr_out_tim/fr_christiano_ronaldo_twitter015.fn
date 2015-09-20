@@ -1,0 +1,27 @@
+1	😂😂😂😂	_		{}
+2	on	_		{}
+3	pause	_		{}
+4	la	_		{}
+5	question	_	Questioning	{"Message": "6", "Speaker": "2"}
+6	pourquoi	_		{}
+7	il	_		{}
+8	ne	_		{}
+9	neige	_	Precipitation	{"Precipitation": "9", "Place": "12"}
+10	pas	_		{}
+11	à	_		{}
+12	Abidjan	_		{}
+13	quelqu'un	_	People	{"Person": "13"}
+14	dit	_	Statement	{"Message": "21", "Speaker": "13"}
+15	"	_		{}
+16	parce	_		{}
+17	que	_		{}
+18	christiano	_		{}
+19	Ronaldo	_		{}
+20	n	_		{}
+21	habite	_	Residence	{"Resident": "19", "Location": "12"}
+22	pas	_		{}
+23	ici	_		{}
+24	"	_		{}
+25	😢😢😢😢😂	_		{}
+26	pourquoi	_		{}
+27	?	_		{}

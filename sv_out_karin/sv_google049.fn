@@ -1,0 +1,35 @@
+1	En	_		{}
+2	sökning	_	Scrutiny	{"Instrument": "28"}
+3	på	_		{}
+4	ordet	_		{}
+5	"	_		{}
+6	tiananmen	_		{}
+7	"	_		{}
+8	(	_		{}
+9	Himmelska	_		{}
+10	fridens	_		{}
+11	torg	_	Locale	{"Locale": "10", "Related_event": "16"}
+12	,	_		{}
+13	plats	_	Locale_by_event	{"Locale": "10", "Defining_event": "16"}
+14	för	_		{}
+15	välkänd	_		{}
+16	massaker	_	Killing	{"Place": "10", "Degree": "15"}
+17	)	_		{}
+18	,	_		{}
+19	gav	_		{}
+20	helt	_	Degree	{"Gradable_attribute": "21"}
+21	olika	_	Similarity	{"Differentiating_fact": "22", "Entity_1": "25", "Entity_2": "34"}
+22	resultat	_	Text	{"Topic": "6", "Text": "22", "Medium": "28"}
+23	i	_		{}
+24	den	_		{}
+25	kinesiska	_	Origin	{"Origin": "25", "Entity": "28"}
+26	versionen	_		{}
+27	av	_		{}
+28	Google	_		{}
+29	jämfört	_		{}
+30	med	_		{}
+31	till	_		{}
+32	exempel	_	Instance	{"Instance": "34"}
+33	den	_		{}
+34	svenska	_		{}
+35	.	_		{}

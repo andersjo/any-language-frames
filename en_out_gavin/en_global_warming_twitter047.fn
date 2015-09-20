@@ -1,0 +1,20 @@
+1	Does	_		{}
+2	methane	_	Substance	{"Substance": "2"}
+3	trap	_	Attack	{"Assailant": "2", "Victim": "4"}
+4	heat	_	Cause_temperature_change	{}
+5	?	_		{}
+6	Yes	_		{}
+7	.	_		{}
+8	But	_	Concessive	{"Main_statement": "3", "Statement": "11"}
+9	CO2	_		{}
+10	has	_		{}
+11	caused	_	Causation	{"Cause": "9"}
+12	3x	_		{}
+13	more	_	Increment	{"Class": "15", "Increment": "12"}
+14	global	_	Political_locales	{"Locale": "14"}
+15	warming	_	Cause_temperature_change	{"Item": "14"}
+16	than	_		{}
+17	methane	_	Substance	{"Substance": "17"}
+18	.	_		{}
+19	@RealityDrop	_		{}
+20	http://t.co/bJIYOSkFlt	_		{}

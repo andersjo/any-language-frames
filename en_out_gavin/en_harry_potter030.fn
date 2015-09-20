@@ -1,0 +1,7 @@
+1	Hagrid	_		{}
+2	reveals	_	Reveal_secret	{"Information": "6", "Speaker": "1"}
+3	some	_	Relational_quantity	{"Mass": "6", "Denoted_quantity": "3"}
+4	of	_		{}
+5	Harry's	_		{}
+6	history	_	Individual_history	{"Participant": "5"}
+7	.	_		{}

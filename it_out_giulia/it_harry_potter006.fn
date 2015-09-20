@@ -1,0 +1,28 @@
+1	Solo	_		{}
+2	in	_		{}
+3	Italia	_		{}
+4	il	_		{}
+5	primo	_	Ordinal_numbers	{"Comparison_set": "8", "Item": "6"}
+6	libro	_	Text	{"Text": "6"}
+7	della	_		{}
+8	serie	_	Sequence	{}
+9	,	_		{}
+10	"	_		{}
+11	Harry	_		{}
+12	Potter	_		{}
+13	e	_		{}
+14	la	_		{}
+15	pietra	_		{}
+16	filosofale	_		{}
+17	"	_		{}
+18	,	_		{}
+19	fu	_		{}
+20	pubblicato	_		{}
+21	con	_		{}
+22	una	_		{}
+23	tiratura	_		{}
+24	iniziale	_	Temporal_collocation	{"Landmark_entity": "23"}
+25	di	_		{}
+26	20.000	_		{}
+27	copie	_	Duplication	{"Copy": "27"}
+28	.	_		{}

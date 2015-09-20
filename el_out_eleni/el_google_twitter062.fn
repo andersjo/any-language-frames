@@ -1,0 +1,11 @@
+1	Καρκίνος	_		{}
+2	:	_		{}
+3	Είναι	_		{}
+4	θέμα	_	Topic	{"Topic": "1", "Communicator": "9", "Text": "4"}
+5	τύχης	_		{}
+6	λένε	_		{}
+7	τώρα	_	Time_vector	{"Distance": "7"}
+8	οι	_		{}
+9	επιστήμονες	_	People_by_vocation	{"Person": "9"}
+10	-	_		{}
+11	http://t.co/VIGcmIFVFx	_		{}

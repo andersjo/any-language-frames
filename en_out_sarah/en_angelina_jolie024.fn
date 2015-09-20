@@ -1,0 +1,33 @@
+1	She	_		{}
+2	has	_		{}
+3	said	_		{}
+4	that	_		{}
+5	as	_		{}
+6	a	_	Cardinal_numbers	{"Number": "6", "Entity": "7"}
+7	child	_	People_by_age	{"Person": "1"}
+8	she	_		{}
+9	often	_	Frequency	{"Event": "10", "Degree": "9"}
+10	watched	_	Perception_active	{"Phenomenon": "11", "Perceiver_agentive": "8"}
+11	movies	_	Physical_artworks	{"Artifact": "11"}
+12	with	_		{}
+13	her	_		{}
+14	mother	_	Kinship	{"Ego": "13", "Alter": "14"}
+15	and	_	Simultaneity	{}
+16	that	_		{}
+17	it	_		{}
+18	was	_		{}
+19	this	_	Proper_reference	{"Intended_referent": "10"}
+20	,	_		{}
+21	rather	_		{}
+22	than	_		{}
+23	her	_		{}
+24	father's	_		{}
+25	career	_		{}
+26	,	_		{}
+27	that	_		{}
+28	inspired	_	Subjective_influence	{"Cognizer": "1", "Entity": "11"}
+29	her	_		{}
+30	interest	_		{}
+31	in	_		{}
+32	acting	_		{}
+33	.	_		{}

@@ -1,0 +1,15 @@
+1	wheres	_		{}
+2	the	_		{}
+3	global	_	Political_locales	{"Locale": "3"}
+4	warming	_		{}
+5	when	_		{}
+6	its	_		{}
+7	needed	_	Being_necessary	{"Required_entity": "4"}
+8	?	_		{}
+9	Cant	_		{}
+10	be	_	Being_in_category	{"Category": "11", "Item": "14", "Means": "11"}
+11	doing	_	Being_in_effect	{}
+12	with	_		{}
+13	this	_	Proper_reference	{"Intended_referent": "14"}
+14	iceyness	_		{}
+15	.	_		{}

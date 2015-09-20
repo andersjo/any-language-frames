@@ -1,0 +1,21 @@
+1	На	_		{}
+2	13	_		{}
+3	юни	_	Calendric_unit	{"Whole": "3", "Unit": "3"}
+4	2012	_		{}
+5	г	_	Measure_mass	{"Unit": "5"}
+6	.,	_		{}
+7	Роналдо	_		{}
+8	спечели	_	Win_prize	{"Competitor": "8"}
+9	Trofeo	_		{}
+10	Alfredo	_		{}
+11	Di	_		{}
+12	Stefano	_		{}
+13	като	_		{}
+14	най-добрият	_		{}
+15	играч	_	Competition	{"Participant_1": "15"}
+16	на	_		{}
+17	сезона	_		{}
+18	в	_		{}
+19	Ла	_		{}
+20	лига	_	Organization	{"Organization": "20"}
+21	.	_		{}

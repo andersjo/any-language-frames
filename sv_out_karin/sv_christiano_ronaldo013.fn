@@ -1,0 +1,15 @@
+1	År	_		{}
+2	1995	_		{}
+3	köptes	_		{}
+4	han	_		{}
+5	av	_		{}
+6	det	_		{}
+7	större	_		{}
+8	laget	_	Aggregate	{"Aggregate": "10", "Individuals": "4"}
+9	CD	_		{}
+10	Nacional	_		{}
+11	,	_		{}
+12	från	_		{}
+13	samma	_	Identicality	{"Type": "14"}
+14	stad	_	Locale_by_use	{"Locale": "14"}
+15	.	_		{}

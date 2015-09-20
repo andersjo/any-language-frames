@@ -1,0 +1,22 @@
+1	En	_	Relative_time	{"Focal_occasion": "8", "Landmark_occasion": "2"}
+2	juin	_	Calendric_unit	{"Whole": "2"}
+3	2011	_		{}
+4	,	_		{}
+5	ils	_		{}
+6	avaient	_		{}
+7	été	_		{}
+8	vendus	_	Commerce_sell	{"Goods": "5"}
+9	à	_		{}
+10	plus	_		{}
+11	de	_		{}
+12	450	_	Cardinal_numbers	{"Number": "12", "Entity": "13"}
+13	millions	_	Quantity	{"Individuals": "14", "Quantity": "13"}
+14	d'exemplaires	_		{}
+15	et	_		{}
+16	traduits	_	Translating	{"Target_representation": "21"}
+17	dans	_		{}
+18	près	_	Relational_quantity	{"Denoted_quantity": "20", "Reference_quantity": "18"}
+19	de	_		{}
+20	70	_	Cardinal_numbers	{"Number": "20", "Entity": "21"}
+21	langues	_	Communication	{"Message": "5"}
+22	.	_		{}

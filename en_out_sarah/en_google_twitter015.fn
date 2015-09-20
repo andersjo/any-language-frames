@@ -1,0 +1,19 @@
+1	Christmas	_		{}
+2	decorations	_	Accoutrements	{"Accoutrement": "2", "Use": "1", "Style": "1"}
+3	are	_		{}
+4	taken	_		{}
+5	down	_		{}
+6	and	_	Simultaneity	{"Profiled_event": "7", "Landmark_event": "4"}
+7	put	_	Placing	{"Theme": "2", "Goal": "8"}
+8	away	_		{}
+9	.	_		{}
+10	Ready	_	Activity_ready_state	{"Time": "17", "Activity": "12"}
+11	to	_		{}
+12	get	_		{}
+13	back	_		{}
+14	to	_		{}
+15	normal	_	Typicality	{"Entity": "16"}
+16	schedules	_		{}
+17	tomorrow	_	Calendric_unit	{"Unit": "17"}
+18	!	_		{}
+19	https://t.co/6I6onPKVct	_		{}

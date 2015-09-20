@@ -1,0 +1,29 @@
+1	Estoy	_	State_continue	{}
+2	tan	_	Degree	{"Gradable_attribute": "3"}
+3	cansado	_	Biological_urge	{}
+4	que	_		{}
+5	si	_		{}
+6	viniera	_	Arriving	{"Theme": "7"}
+7	Angelina	_		{}
+8	Jolie	_		{}
+9	y	_		{}
+10	me	_	Proper_reference	{}
+11	dijera	_	Communication	{"Topic": "12", "Communicator": "10"}
+12	hazme	_		{}
+13	el	_		{}
+14	amor	_	Personal_relationship	{"Partner_2": "7", "Partner_1": "10"}
+15	,	_		{}
+16	se	_		{}
+17	lo	_		{}
+18	hago	_	Giving	{"Donor": "10", "Theme": "14", "Recipient": "7"}
+19	por	_		{}
+20	no	_	Quantity	{}
+21	hacerle	_	Intentionally_act	{"Agent": "10"}
+22	el	_		{}
+23	feo	_	Aesthetics	{}
+24	,	_		{}
+25	pero	_	Concessive	{}
+26	estoy	_	State_continue	{"Entity": "10"}
+27	muy	_	Degree	{"Gradable_attribute": "28"}
+28	cansado	_	Biological_urge	{"State": "28"}
+29	.	_		{}

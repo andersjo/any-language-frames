@@ -1,0 +1,21 @@
+1	На	_		{}
+2	5	_	Cardinal_numbers	{"Number": "2"}
+3	май	_	Calendric_unit	{"Name": "3"}
+4	2000	_		{}
+5	г	_	Measure_mass	{"Unit": "5"}
+6	.	_		{}
+7	се	_		{}
+8	жени	_		{}
+9	за	_	Kinship	{"Descriptor": "9"}
+10	актьора	_		{}
+11	Били	_		{}
+12	Боб	_		{}
+13	Торнтон	_		{}
+14	(развеждат	_		{}
+15	се	_		{}
+16	на	_	Calendric_unit	{"Relative_time": "16"}
+17	27	_		{}
+18	май	_	Calendric_unit	{"Name": "18"}
+19	2003	_		{}
+20	г	_	Measure_mass	{"Unit": "20"}
+21	.	_		{}

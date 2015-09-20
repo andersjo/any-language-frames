@@ -1,0 +1,21 @@
+1	A	_		{}
+2	tres	_	Cardinal_numbers	{"Number": "2", "Entity": "3"}
+3	meses	_	Calendric_unit	{"Relative_time": "3", "Unit": "2"}
+4	de	_		{}
+5	la	_		{}
+6	desaparición	_	Ceasing_to_be	{"Entity": "10"}
+7	de	_		{}
+8	los	_		{}
+9	43	_		{}
+10	estudiantes	_	Education_teaching	{"Role": "10", "Student": "10"}
+11	de	_		{}
+12	México	_		{}
+13	,	_		{}
+14	sus	_		{}
+15	padres	_	Kinship	{"Ego": "10", "Alter": "15"}
+16	piden	_	Request	{"Topic": "18", "Message": "18", "Speaker": "15"}
+17	no	_		{}
+18	votar	_	Commitment	{"Topic": "18", "Time": "20"}
+19	en	_		{}
+20	2015	_		{}
+21	http://t.co/GPAtyK29hv	_		{}

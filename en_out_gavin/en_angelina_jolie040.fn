@@ -1,0 +1,25 @@
+1	"	_		{}
+2	She	_		{}
+3	also	_		{}
+4	began	_	Activity_start	{"Agent": "2", "Activity": "5"}
+5	using	_	Using	{"Instrument": "6", "Agent": "2"}
+6	drugs	_	Intoxicants	{"Intoxicant": "6"}
+7	;	_		{}
+8	by	_		{}
+9	age	_	Age	{"Age": "9", "Entity": "12"}
+10	20	_	Cardinal_numbers	{"Number": "10"}
+11	,	_		{}
+12	she	_		{}
+13	had	_		{}
+14	tried	_	Intoxicants	{"Intoxicant": "19", "Type": "18"}
+15	"	_		{}
+16	just	_	Relational_quantity	{"Denoted_quantity": "18"}
+17	about	_	Relational_quantity	{"Denoted_quantity": "18"}
+18	every	_		{}
+19	drug	_	Intoxicants	{"Intoxicant": "19"}
+20	possible	_	Capability	{"Entity": "19"}
+21	,	_		{}
+22	"	_		{}
+23	including	_		{}
+24	heroin	_	Intoxicants	{"Intoxicant": "24"}
+25	.	_		{}

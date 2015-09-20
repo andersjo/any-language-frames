@@ -1,0 +1,19 @@
+1	Google	_		{}
+2	was	_		{}
+3	founded	_	Launch_process	{"Process": "1", "Medium": "10", "Place": "18", "Agent": "5", "Time": "10"}
+4	by	_		{}
+5	Larry	_		{}
+6	Page	_		{}
+7	and	_	Simultaneity	{"Profiled_event": "5", "Landmark_event": "8"}
+8	Sergey	_		{}
+9	Brin	_		{}
+10	while	_		{}
+11	they	_		{}
+12	were	_	Being_in_category	{"Category": "15", "Item": "11"}
+13	P	_		{}
+14	h.D.	_		{}
+15	students	_	Education_teaching	{"Student": "7", "Qualification": "14", "Institution": "18"}
+16	at	_		{}
+17	Stanford	_		{}
+18	University	_		{}
+19	.	_		{}

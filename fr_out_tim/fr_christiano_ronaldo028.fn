@@ -1,0 +1,22 @@
+1	À	_		{}
+2	quinze	_	Cardinal_numbers	{"Number": "2", "Entity": "3"}
+3	ans	_	Age	{"Age": "2", "Entity": "11"}
+4	,	_		{}
+5	à	_		{}
+6	cause	_		{}
+7	d'un	_		{}
+8	problème	_	Predicament	{"Situation": "9", "Experiencer": "11"}
+9	cardiaque	_		{}
+10	,	_		{}
+11	il	_		{}
+12	est	_		{}
+13	opéré	_		{}
+14	du	_		{}
+15	cœur	_		{}
+16	,	_		{}
+17	mais	_		{}
+18	retrouve	_		{}
+19	rapidement	_	Speed	{"Speed": "19", "Entity": "11"}
+20	les	_		{}
+21	terrains	_	Locale_by_use	{"Locale": "21"}
+22	.	_		{}

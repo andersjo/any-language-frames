@@ -1,0 +1,20 @@
+1	Sorted	_	Categorization	{"Item": "5"}
+2	out	_	Part_inner_outer	{}
+3	the	_		{}
+4	front	_	Part_orientational	{"Whole": "9", "Part": "5", "Part_Prop": "4"}
+5	rows	_	Shapes	{"Shape": "5", "Shape_prop": "4"}
+6	of	_		{}
+7	my	_		{}
+8	bookworms	_	Accoutrements	{"Accoutrement": "8"}
+9	shelves	_	Placing	{}
+10	...	_		{}
+11	New	_	Age	{"Age": "11", "Entity": "12"}
+12	faves	_		{}
+13	are	_	Existence	{"Entity": "12"}
+14	Tom	_		{}
+15	Gates&Harry	_		{}
+16	Potter	_		{}
+17	!!	_		{}
+18	@LizPichon	_		{}
+19	@jk_rowling	_		{}
+20	http://t.co/2bD7VmI6nm	_		{}

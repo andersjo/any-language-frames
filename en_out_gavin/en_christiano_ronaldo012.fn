@@ -1,0 +1,23 @@
+1	In	_		{}
+2	2003	_		{}
+3	he	_		{}
+4	caught	_		{}
+5	the	_		{}
+6	attention	_	Attention	{"Perceiver": "12"}
+7	of	_		{}
+8	Manchester	_		{}
+9	United	_	Amalgamation	{"Parts": "8"}
+10	manager	_	People_by_vocation	{"Person": "12", "Employer": "9"}
+11	Alex	_		{}
+12	Ferguson	_		{}
+13	,	_		{}
+14	who	_		{}
+15	signed	_	Hiring	{"Employee": "16", "Compensation": "19", "Employer": "12"}
+16	him	_	People_by_age	{"Person": "16"}
+17	for	_		{}
+18	£12.2	_		{}
+19	million	_	Cardinal_numbers	{"Number": "19", "Entity": "18"}
+20	(€15	_		{}
+21	million	_	Cardinal_numbers	{"Number": "21", "Entity": "20"}
+22	)	_		{}
+23	.	_		{}

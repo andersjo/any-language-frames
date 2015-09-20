@@ -1,0 +1,22 @@
+1	The	_		{}
+2	series	_	Sequence	{"Entity1": "2"}
+3	also	_		{}
+4	originated	_	Cause_expansion	{"Item": "7", "Cause": "2"}
+5	much	_	Frequency	{}
+6	tie-in	_	Make_cognitive_connection	{"Concept_1": "2", "Concept_2": "7"}
+7	merchandise	_	Exchange	{"Theme_1": "7"}
+8	,	_		{}
+9	making	_		{}
+10	the	_		{}
+11	"	_		{}
+12	Harry	_		{}
+13	Potter	_		{}
+14	"	_		{}
+15	brand	_	Type	{"Subtype": "15", "Type_Property": "13"}
+16	worth	_	Deserving	{"Action": "15"}
+17	in	_		{}
+18	excess	_	Dispersal	{}
+19	of	_		{}
+20	$15	_		{}
+21	billion	_	Cardinal_numbers	{"Number": "21", "Entity": "20"}
+22	.	_		{}

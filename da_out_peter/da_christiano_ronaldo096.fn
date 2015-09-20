@@ -1,0 +1,26 @@
+1	Efter	_		{}
+2	kampen	_		{}
+3	insisterede	_		{}
+4	Ronaldo	_		{}
+5	på	_		{}
+6	,	_		{}
+7	at	_		{}
+8	Rooney	_		{}
+9	var	_		{}
+10	hans	_		{}
+11	ven	_	Personal_relationship	{"Partner_2": "4", "Partner_1": "8"}
+12	,	_		{}
+13	og	_		{}
+14	at	_		{}
+15	han	_		{}
+16	ikke	_		{}
+17	havde	_		{}
+18	gjort	_		{}
+19	noget	_		{}
+20	for	_		{}
+21	at	_		{}
+22	få	_	Causation	{"Affected": "23", "Cause": "18", "Actor": "4"}
+23	Rooney	_		{}
+24	sendt	_		{}
+25	ud	_		{}
+26	.	_		{}

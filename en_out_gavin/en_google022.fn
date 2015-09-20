@@ -1,0 +1,32 @@
+1	A	_	Cardinal_numbers	{"Number": "1", "Entity": "4"}
+2	small	_	Size	{"Entity": "4"}
+3	search	_		{}
+4	engine	_		{}
+5	called	_	Being_named	{"Name": "7", "Entity": "4"}
+6	"	_		{}
+7	RankDex	_		{}
+8	"	_		{}
+9	from	_		{}
+10	IDD	_		{}
+11	Information	_	Information	{"Information": "11"}
+12	Services	_	Public_services	{"Domain": "11", "Institution": "12"}
+13	designed	_	Physical_artworks	{"Name": "7", "Artifact": "4", "Creator": "16"}
+14	by	_		{}
+15	Robin	_		{}
+16	Li	_		{}
+17	was	_		{}
+18	,	_		{}
+19	since	_		{}
+20	1996	_	Cardinal_numbers	{"Number": "20"}
+21	,	_		{}
+22	already	_	Time_vector	{"Landmark_event": "19", "Event": "23"}
+23	exploring	_	Research	{"Researcher": "4", "Topic": "27", "Question": "26", "Time": "22"}
+24	a	_	Cardinal_numbers	{"Number": "24", "Entity": "26"}
+25	similar	_	Similarity	{"Entity_2": "26"}
+26	strategy	_	Project	{"Project": "26", "Field": "28"}
+27	for	_		{}
+28	site-scoring	_		{}
+29	and	_		{}
+30	page	_	Contacting	{}
+31	ranking	_	Arranging	{"Theme": "30", "Agent": "4"}
+32	.	_		{}

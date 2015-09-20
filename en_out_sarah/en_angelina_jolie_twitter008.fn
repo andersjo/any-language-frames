@@ -1,0 +1,18 @@
+1	“	_		{}
+2	@FitzDaGod	_		{}
+3	:	_		{}
+4	13	_		{}
+5	:	_		{}
+6	What	_		{}
+7	celebrity	_	Fame	{}
+8	can	_	Possibility	{"Time": "11"}
+9	have	_	Possession	{"Owner": "12", "Possession": "10", "Time": "11"}
+10	you	_		{}
+11	anytime	_		{}
+12	they	_		{}
+13	want	_	Desiring	{"Focal_participant": "12"}
+14	?	_		{}
+15	”	_		{}
+16	Angelina	_		{}
+17	Jolie	_		{}
+18	🙌	_		{}

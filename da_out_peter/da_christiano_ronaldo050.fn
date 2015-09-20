@@ -1,0 +1,25 @@
+1	Ronaldo	_		{}
+2	sagde	_		{}
+3	han	_		{}
+4	havde	_		{}
+5	"	_		{}
+6	lært	_		{}
+7	en	_		{}
+8	masse	_	Aggregate	{"Aggregate": "8"}
+9	"	_		{}
+10	af	_		{}
+11	den	_		{}
+12	erfaring	_		{}
+13	og	_		{}
+14	ville	_		{}
+15	ikke	_		{}
+16	lade	_	Grant_permission	{"Grantee": "18", "Grantor": "1"}
+17	andre	_	Increment	{"Class": "18", "Added_set": "17"}
+18	spillere	_		{}
+19	"	_		{}
+20	provokere	_		{}
+21	"	_		{}
+22	ham	_		{}
+23	i	_		{}
+24	fremtiden	_		{}
+25	.	_		{}

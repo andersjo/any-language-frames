@@ -1,0 +1,25 @@
+1	Tre	_		{}
+2	år	_	Calendric_unit	{"Unit": "2"}
+3	senare	_	Relative_time	{"Focal_occasion": "9"}
+4	,	_		{}
+5	i	_		{}
+6	januari	_	Calendric_unit	{"Whole": "6"}
+7	2006	_		{}
+8	,	_		{}
+9	sade	_		{}
+10	Jolie	_		{}
+11	och	_		{}
+12	Brad	_		{}
+13	Pitt	_		{}
+14	att	_		{}
+15	de	_		{}
+16	hade	_		{}
+17	en	_	Cardinal_numbers	{"Number": "17", "Entity": "18"}
+18	relation	_	Relation	{"Entity1": "10", "Entity2": "13"}
+19	och	_	Simultaneity	{"Profiled_event": "22", "Landmark_event": "18"}
+20	att	_		{}
+21	de	_		{}
+22	väntade	_		{}
+23	barn	_	Kinship	{"Ego": "21"}
+24	tillsammans	_	Collaboration	{"Partners": "21", "Undertaking": "22", "Partner_2": "13", "Partner_1": "10"}
+25	.	_		{}

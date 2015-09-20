@@ -1,0 +1,29 @@
+1	Ils	_		{}
+2	imaginent	_	Coming_up_with	{"Cognizer": "1", "Idea": "4"}
+3	un	_		{}
+4	logiciel	_		{}
+5	qui	_		{}
+6	analyserait	_	Scrutiny	{"Cognizer": "4"}
+7	les	_		{}
+8	relations	_		{}
+9	entre	_		{}
+10	les	_		{}
+11	sites	_		{}
+12	web	_	Network	{"Nodes": "11", "Network": "12"}
+13	afin	_		{}
+14	d'offrir	_		{}
+15	des	_		{}
+16	meilleurs	_	Desirability	{"Evaluee": "17"}
+17	résultats	_		{}
+18	que	_		{}
+19	ceux	_		{}
+20	donnés	_		{}
+21	par	_		{}
+22	leurs	_		{}
+23	concurrents	_	Competition	{"Participant_1": "27"}
+24	de	_		{}
+25	l'époque	_		{}
+26	,	_		{}
+27	Altavista	_		{}
+28	notamment	_		{}
+29	.	_		{}

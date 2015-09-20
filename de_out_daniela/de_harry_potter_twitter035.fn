@@ -1,0 +1,12 @@
+1	21	_	Cardinal_numbers	{"Number": "1"}
+2	nach	_	Time_vector	{"Direction": "2", "Landmark_event": "3", "Event": "6"}
+3	1	_	Cardinal_numbers	{"Number": "3"}
+4	:	_		{}
+5	bu	_		{}
+6	liest	_	Reading	{"Text": "10", "Reader": "5"}
+7	die	_		{}
+8	Harry	_		{}
+9	Potter	_		{}
+10	Wiki	_		{}
+11	von	_		{}
+12	Wurmschwanz	_		{}

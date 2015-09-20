@@ -1,0 +1,86 @@
+1	On	_		{}
+2	May	_	Calendric_unit	{"Unit": "2"}
+3	8th	_	Ordinal_numbers	{"Item": "2"}
+4	,	_		{}
+5	1965	_		{}
+6	by	_		{}
+7	the	_		{}
+8	decree	_	Ruling_legally	{"Finding": "20", "Authority": "12", "Time": "1"}
+9	of	_		{}
+10	the	_		{}
+11	USSR	_		{}
+12	Presidium	_		{}
+13	of	_		{}
+14	the	_		{}
+15	Supreme	_		{}
+16	Soviet	_		{}
+17	International	_	Foreign_or_domestic_country	{"Current_country": "17"}
+18	Women's	_		{}
+19	Day	_	Calendric_unit	{"Name": "18", "Unit": "19"}
+20	was	_	Being_in_category	{"Category": "21", "Item": "19"}
+21	declared	_	Statement	{"Message": "24", "Speaker": "12", "Time": "1"}
+22	a	_	Cardinal_numbers	{"Number": "22", "Entity": "24"}
+23	non-working	_		{}
+24	day	_	Calendric_unit	{"Unit": "24"}
+25	in	_		{}
+26	the	_		{}
+27	USSR	_		{}
+28	"	_		{}
+29	in	_		{}
+30	commemoration	_		{}
+31	of	_		{}
+32	the	_		{}
+33	outstanding	_	Expertise	{"Skill": "24", "Protagonist": "37"}
+34	merits	_	Deserving	{"Domain": "37"}
+35	of	_		{}
+36	Soviet	_		{}
+37	women	_	People	{"Origin": "36", "Person": "37"}
+38	in	_		{}
+39	communistic	_		{}
+40	construction	_	Building	{"Created_entity": "40", "Descriptor": "39", "Agent": "37"}
+41	,	_		{}
+42	in	_		{}
+43	the	_		{}
+44	defense	_	Defend	{"Defender": "337", "Victim": "47"}
+45	of	_		{}
+46	their	_		{}
+47	Fatherland	_	Foreign_or_domestic_country	{"Current_country": "47"}
+48	during	_		{}
+49	the	_		{}
+50	Great	_	Size	{"Entity": "52"}
+51	Patriotic	_		{}
+52	War	_	Hostile_encounter	{}
+53	,	_		{}
+54	in	_		{}
+55	their	_		{}
+56	heroism	_		{}
+57	and	_		{}
+58	selflessness	_		{}
+59	at	_		{}
+60	the	_		{}
+61	front	_	Part_orientational	{"Part": "61"}
+62	and	_		{}
+63	in	_		{}
+64	the	_		{}
+65	rear	_	Part_orientational	{"Part": "65"}
+66	,	_		{}
+67	and	_		{}
+68	also	_		{}
+69	marking	_		{}
+70	the	_		{}
+71	great	_	Size	{"Entity": "72"}
+72	contribution	_	Giving	{"Donor": "74", "Purpose": "76"}
+73	of	_		{}
+74	women	_	People	{"Person": "74"}
+75	to	_		{}
+76	strengthening	_	Cause_change_of_strength	{"Patient": "77", "Agent": "74"}
+77	friendship	_	Personal_relationship	{"Partners": "79"}
+78	between	_		{}
+79	peoples	_	People	{"Person": "79"}
+80	,	_		{}
+81	and	_		{}
+82	the	_		{}
+83	struggle	_	Hostile_encounter	{"Purpose": "84"}
+84	for	_		{}
+85	peace	_		{}
+86	.	_		{}

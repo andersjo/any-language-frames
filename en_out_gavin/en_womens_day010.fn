@@ -1,0 +1,48 @@
+1	Inspired	_	Subjective_influence	{"Cognizer": "12", "Entity": "7"}
+2	in	_		{}
+3	part	_	Part_whole	{"Part": "3"}
+4	by	_		{}
+5	the	_		{}
+6	American	_	People_by_origin	{"Origin": "6", "Person": "7"}
+7	socialists	_		{}
+8	,	_		{}
+9	German	_	People_by_origin	{"Origin": "9", "Person": "12"}
+10	Socialist	_		{}
+11	Luise	_		{}
+12	Zietz	_		{}
+13	proposed	_	Offering	{"Reason": "1", "Offerer": "12", "Theme": "15"}
+14	the	_		{}
+15	establishment	_	Intentionally_create	{"Created_entity": "22"}
+16	of	_		{}
+17	an	_	Cardinal_numbers	{"Number": "17", "Entity": "22"}
+18	annual	_	Frequency	{"Interval": "18", "Event": "22"}
+19	'	_		{}
+20	International	_	Foreign_or_domestic_country	{"Current_country": "20"}
+21	Woman's	_		{}
+22	Day	_	Calendric_unit	{"Unit": "22"}
+23	'	_		{}
+24	(	_		{}
+25	singular	_	Quantity	{"Individuals": "22"}
+26	)	_		{}
+27	and	_		{}
+28	was	_		{}
+29	seconded	_	Taking_sides	{"Action": "13", "Cognizer": "38", "Issue": "15", "Side": "12"}
+30	by	_		{}
+31	fellow	_	Personal_relationship	{"Partner_2": "38", "Partner_1": "12"}
+32	socialist	_		{}
+33	and	_		{}
+34	later	_	Relative_time	{"Focal_occasion": "36", "Focal_participant": "38", "Landmark_occasion": "32"}
+35	communist	_		{}
+36	leader	_	Leadership	{"Domain": "35", "Leader": "38"}
+37	Clara	_		{}
+38	Zetkin	_		{}
+39	,	_		{}
+40	although	_		{}
+41	no	_	Quantity	{"Individuals": "42", "Quantity": "41"}
+42	date	_	Location_in_time	{"Unit": "42"}
+43	was	_		{}
+44	specified	_	Appointing	{}
+45	at	_		{}
+46	that	_		{}
+47	conference	_	Organization	{"Organization": "37"}
+48	.	_		{}

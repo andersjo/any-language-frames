@@ -1,0 +1,12 @@
+1	2010	_		{}
+2	betrug	_		{}
+3	der	_		{}
+4	effektive	_		{}
+5	Steuersatz	_		{}
+6	nach	_		{}
+7	einer	_		{}
+8	Schätzung	_	Predicting	{"Time_of_Eventuality": "1", "Eventuality": "5"}
+9	rund	_	Relational_quantity	{}
+10	3	_	Cardinal_numbers	{"Number": "10", "Precision": "9", "Entity": "11"}
+11	%	_		{}
+12	.	_		{}

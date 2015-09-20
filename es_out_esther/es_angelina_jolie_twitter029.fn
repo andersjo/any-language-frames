@@ -1,0 +1,17 @@
+1	los	_		{}
+2	que	_		{}
+3	imitan	_	Imitating	{"Characteristic": "5", "Agent": "1"}
+4	a	_		{}
+5	1d	_		{}
+6	son	_	Being_in_category	{"Category": "7"}
+7	como	_	Identicality	{"Previous_instance": "11", "Current_instance": "3"}
+8	cuando	_		{}
+9	yo	_	Proper_reference	{"Intended_referent": "9"}
+10	quiero	_	Desiring	{"Focal_participant": "9", "Experiencer": "9", "Event": "11"}
+11	hacerme	_	Becoming	{"Entity": "9"}
+12	la	_		{}
+13	angelina	_		{}
+14	jolie	_		{}
+15	en	_		{}
+16	las	_		{}
+17	fotos	_	Physical_artworks	{"Artifact": "17"}

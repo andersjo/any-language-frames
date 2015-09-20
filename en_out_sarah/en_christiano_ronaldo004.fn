@@ -1,0 +1,13 @@
+1	He	_		{}
+2	followed	_	Relative_time	{"Focal_occasion": "6", "Focal_participant": "1", "Landmark_occasion": "3"}
+3	this	_	Proper_reference	{}
+4	up	_	Direction	{"Path": "4"}
+5	by	_		{}
+6	winning	_	Finish_competition	{"Competitor": "1", "Competition": "8"}
+7	the	_		{}
+8	FIFA	_		{}
+9	Ballon	_		{}
+10	d'Or	_		{}
+11	in	_		{}
+12	2013	_		{}
+13	.	_		{}

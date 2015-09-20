@@ -1,0 +1,17 @@
+1	Harry	_		{}
+2	Potter	_		{}
+3	y	_	Simultaneity	{}
+4	el	_		{}
+5	misterio	_	Text	{}
+6	de	_		{}
+7	por	_		{}
+8	qué	_		{}
+9	Vanessa	_		{}
+10	teniendo	_	Possession	{"Possession": "12", "Owner": "9"}
+11	mi	_		{}
+12	número	_	Quantity	{"Individuals": "12"}
+13	me	_	Proper_reference	{"Intended_referent": "13", "Entity": "13"}
+14	escribe	_	Text_creation	{"Text": "14", "Author": "9"}
+15	al	_		{}
+16	dm	_		{}
+17	.	_		{}

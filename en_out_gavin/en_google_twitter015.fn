@@ -1,0 +1,19 @@
+1	Christmas	_	Commemorative	{"Dedicated_type": "2"}
+2	decorations	_	Accoutrements	{"Accoutrement": "2", "Style": "1"}
+3	are	_		{}
+4	taken	_	Experiencer_focus	{"Content": "2", "Event": "4"}
+5	down	_	Direction	{"Path": "5"}
+6	and	_		{}
+7	put	_	Placing	{"Theme": "2", "Goal": "8"}
+8	away	_	Part_inner_outer	{}
+9	.	_		{}
+10	Ready	_		{}
+11	to	_		{}
+12	get	_	Self_motion	{"Direction": "13", "Goal": "14"}
+13	back	_	Self_motion	{"Goal": "14"}
+14	to	_		{}
+15	normal	_	Typicality	{"Entity": "16"}
+16	schedules	_	Text	{"Text": "16"}
+17	tomorrow	_	Temporal_collocation	{"Trajector_event": "12", "Trajector_period": "17"}
+18	!	_		{}
+19	https://t.co/6I6onPKVct	_		{}

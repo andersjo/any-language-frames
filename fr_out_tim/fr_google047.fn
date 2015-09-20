@@ -1,0 +1,21 @@
+1	La	_		{}
+2	société	_	Businesses	{"Business": "2"}
+3	emploie	_	Hiring	{"Employee": "6", "Employer": "2"}
+4	alors	_		{}
+5	trois	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	personnes	_	People	{"Person": "6"}
+7	:	_		{}
+8	Sergueï	_		{}
+9	,	_		{}
+10	Larry	_		{}
+11	et	_		{}
+12	Craig	_		{}
+13	Silverstein	_		{}
+14	qui	_		{}
+15	est	_		{}
+16	aujourd'hui	_	Temporal_collocation	{"Trajector_entity": "17", "Landmark_period": "3"}
+17	directeur	_	Leadership	{"Role": "17", "Leader": "13", "Governed": "19"}
+18	de	_		{}
+19	Google	_		{}
+20	Technology	_		{}
+21	.	_		{}

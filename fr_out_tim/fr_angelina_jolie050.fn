@@ -1,0 +1,46 @@
+1	À	_		{}
+2	la	_		{}
+3	suite	_	Relative_time	{"Focal_occasion": "14", "Focal_participant": "13", "Landmark_occasion": "5"}
+4	d'un	_		{}
+5	rôle	_	Performers_and_roles	{"Role": "6", "Performer": "13", "Type": "9"}
+6	secondaire	_		{}
+7	dans	_		{}
+8	le	_		{}
+9	film	_	Physical_artworks	{"Artifact": "9"}
+10	indépendant	_		{}
+11	'	_		{}
+12	,	_		{}
+13	l'actrice	_	Performers	{"Person": "13"}
+14	joue	_	Performers_and_roles	{"Role": "18", "Performer": "13", "Type": "25"}
+15	le	_		{}
+16	rôle	_	Performers_and_roles	{}
+17	de	_		{}
+18	Kate	_		{}
+19	Libby	_		{}
+20	aussi	_		{}
+21	surnommée	_		{}
+22	dans	_		{}
+23	son	_		{}
+24	premier	_	First_experience	{"Experience": "25"}
+25	film	_	Physical_artworks	{"Artifact": "25"}
+26	hollywoodien	_		{}
+27	,	_		{}
+28	'	_		{}
+29	(	_		{}
+30	1995	_		{}
+31	)	_		{}
+32	,	_		{}
+33	sur	_		{}
+34	le	_		{}
+35	tournage	_		{}
+36	duquel	_		{}
+37	elle	_		{}
+38	rencontre	_	Make_acquaintance	{"Individual_1": "37", "Individual_2": "41"}
+39	son	_		{}
+40	premier	_	First_experience	{"Experience": "41"}
+41	mari	_	Personal_relationship	{"Partner_2": "43", "Partner_1": "37"}
+42	,	_		{}
+43	Jonny	_		{}
+44	Lee	_		{}
+45	Miller	_		{}
+46	.	_		{}

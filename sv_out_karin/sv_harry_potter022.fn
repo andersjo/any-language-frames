@@ -1,0 +1,39 @@
+1	Allmänt	_		{}
+2	sett	_		{}
+3	har	_		{}
+4	böckerna	_	Text	{"Text": "4"}
+5	blivit	_		{}
+6	allt	_		{}
+7	mörkare	_		{}
+8	i	_		{}
+9	tonen	_	Sensation	{"Source": "4", "Percept": "7"}
+10	ju	_		{}
+11	äldre	_	People_by_age	{"Person": "12", "Age": "11"}
+12	Harry	_		{}
+13	har	_		{}
+14	blivit	_		{}
+15	och	_		{}
+16	hans	_		{}
+17	förmågor	_		{}
+18	har	_		{}
+19	utvecklats	_		{}
+20	(	_		{}
+21	en	_	Cardinal_numbers	{"Number": "21", "Entity": "22"}
+22	bok	_	Text	{"Text": "22"}
+23	motsvarar	_		{}
+24	ett	_	Cardinal_numbers	{"Number": "24", "Entity": "25"}
+25	skolår	_		{}
+26	på	_		{}
+27	Hogwarts	_		{}
+28	)	_		{}
+29	,	_		{}
+30	och	_		{}
+31	ju	_		{}
+32	närmare	_		{}
+33	Lord	_		{}
+34	Voldemort	_		{}
+35	kommer	_		{}
+36	till	_		{}
+37	sitt	_		{}
+38	mål	_	Attempt	{"Agent": "34"}
+39	.	_		{}

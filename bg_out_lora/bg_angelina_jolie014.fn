@@ -1,0 +1,22 @@
+1	Джоли	_		{}
+2	е	_		{}
+3	преживявала	_		{}
+4	епизоди	_		{}
+5	на	_	Calendric_unit	{"Relative_time": "5"}
+6	самоубийствена	_		{}
+7	депресия	_	Medical_conditions	{"Name": "7", "Degree": "7"}
+8	през	_		{}
+9	тийнейджърските	_		{}
+10	си	_		{}
+11	години	_	Calendric_unit	{"Unit": "11"}
+12	,	_		{}
+13	а	_		{}
+14	също	_	Sufficiency	{"Circumstances": "14"}
+15	и	_	Simultaneity	{"Profiled_event": "15"}
+16	в	_		{}
+17	началото	_	Temporal_subregion	{"Time_period": "17"}
+18	на	_		{}
+19	двадесетте	_		{}
+20	си	_		{}
+21	години	_	Calendric_unit	{"Unit": "21"}
+22	.	_		{}

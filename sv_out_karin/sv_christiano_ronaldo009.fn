@@ -1,0 +1,20 @@
+1	Den	_		{}
+2	21	_		{}
+3	maj	_	Calendric_unit	{"Unit": "3"}
+4	slog	_	Getting	{"Theme": "6", "Time": "3", "Recipient": "5", "Means": "19"}
+5	han	_		{}
+6	rekordet	_		{}
+7	på	_		{}
+8	antal	_	Quantity	{"Individuals": "10"}
+9	gjorda	_		{}
+10	mål	_	Instance	{"Instance": "10"}
+11	under	_		{}
+12	en	_	Cardinal_numbers	{"Number": "12", "Entity": "13"}
+13	säsong	_		{}
+14	i	_		{}
+15	La	_		{}
+16	Liga	_		{}
+17	med	_		{}
+18	39	_		{}
+19	mål	_	Instance	{"Instance": "19", "Instance_Prop": "18"}
+20	.	_		{}

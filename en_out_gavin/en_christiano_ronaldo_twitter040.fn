@@ -1,0 +1,10 @@
+1	Plastic	_		{}
+2	LFC	_		{}
+3	store	_	Businesses	{"Proprietor": "2", "Business": "3"}
+4	bag	_	Containers	{"Container": "4", "Type": "3", "Descriptor": "2"}
+5	&	_		{}
+6	waving	_	Body_movement	{"Goal": "7"}
+7	at	_		{}
+8	Christiano	_		{}
+9	Ronaldo	_		{}
+10	.	_		{}

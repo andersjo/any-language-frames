@@ -1,0 +1,40 @@
+1	I	_		{}
+2	syfte	_	Purpose	{"Goal": "4", "Agent": "8", "Means": "7"}
+3	att	_		{}
+4	skydda	_	Protecting	{"Protection": "7", "Asset": "6"}
+5	sitt	_		{}
+6	varumärke	_		{}
+7	påverkade	_		{}
+8	Google	_		{}
+9	under	_		{}
+10	2013	_		{}
+11	framgångsrikt	_		{}
+12	Språkrådet	_		{}
+13	att	_		{}
+14	ta	_	Removing	{"Theme": "18", "Cause": "8", "Agent": "12"}
+15	bort	_		{}
+16	ordet	_		{}
+17	"	_		{}
+18	ogooglebar	_		{}
+19	"	_		{}
+20	(	_		{}
+21	definierat	_		{}
+22	som	_		{}
+23	något	_		{}
+24	"	_		{}
+25	som	_		{}
+26	inte	_		{}
+27	går	_		{}
+28	att	_		{}
+29	hitta	_	Becoming_aware	{"Instrument": "8", "Phenomenon": "23"}
+30	på	_		{}
+31	webben	_	Network	{"Network": "31"}
+32	med	_		{}
+33	en	_	Cardinal_numbers	{"Number": "33", "Entity": "34"}
+34	sökmotor	_		{}
+35	"	_		{}
+36	)	_		{}
+37	ur	_		{}
+38	rådets	_		{}
+39	nyordslista	_		{}
+40	.	_		{}

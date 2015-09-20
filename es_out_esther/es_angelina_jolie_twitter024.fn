@@ -1,0 +1,22 @@
+1	EL	_		{}
+2	ARTE	_	Fields	{"Work": "4"}
+3	DEL	_		{}
+4	CINE	_	Physical_artworks	{"Artifact": "4"}
+5	:	_		{}
+6	RUMBO	_	Purpose	{"Goal": "9", "Agent": "14"}
+7	A	_		{}
+8	LA	_		{}
+9	ESTATUILLA	_	Physical_artworks	{"Artifact": "9"}
+10	:	_		{}
+11	BOX	_		{}
+12	OFFICE	_		{}
+13	:	_		{}
+14	Angelina	_		{}
+15	Jolie	_		{}
+16	se	_		{}
+17	queda	_	Remainder	{"Original_context": "9", "Remainder": "19"}
+18	en	_		{}
+19	tercer	_	Ordinal_numbers	{"Item": "20"}
+20	lugar	_	Locale	{}
+21	!	_		{}
+22	http://t.co/A6sjCxs7k0	_		{}

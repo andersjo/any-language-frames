@@ -1,0 +1,35 @@
+1	In	_		{}
+2	ihrer	_		{}
+3	Zeit	_	Timespan	{"Duration": "3", "Descriptor": "2", "State": "10"}
+4	an	_		{}
+5	der	_		{}
+6	Beverly	_		{}
+7	Hills	_		{}
+8	High	_		{}
+9	School	_		{}
+10	fühlte	_	Feeling	{"Evaluation": "14", "Experiencer": "11"}
+11	sie	_		{}
+12	sich	_		{}
+13	oftmals	_	Frequency	{}
+14	isoliert	_		{}
+15	unter	_		{}
+16	ihren	_		{}
+17	Mitschülern	_		{}
+18	,	_		{}
+19	die	_		{}
+20	größtenteils	_		{}
+21	aus	_		{}
+22	wohlhabenden	_	Wealthiness	{"Person": "23"}
+23	Familien	_	Aggregate	{"Aggregate": "23", "Name": "22"}
+24	stammten	_		{}
+25	,	_		{}
+26	während	_		{}
+27	ihre	_		{}
+28	Mutter	_	Kinship	{"Ego": "27", "Alter": "28"}
+29	mit	_		{}
+30	einem	_		{}
+31	bescheidenen	_		{}
+32	Einkommen	_	Earnings_and_losses	{"Earner": "28", "Earnings": "32"}
+33	auskommen	_		{}
+34	musste	_		{}
+35	.	_		{}

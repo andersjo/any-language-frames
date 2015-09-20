@@ -1,0 +1,11 @@
+1	#SICB2015	_		{}
+2	rummer	_		{}
+3	:	_		{}
+4	Is	_	Being_in_category	{"Category": "10", "Item": "6"}
+5	ocean	_	Natural_features	{"Locale": "5"}
+6	acidification	_		{}
+7	global	_	Political_locales	{"Locale": "7"}
+8	warming's	_		{}
+9	evil	_	People_by_morality	{"Persistent_characteristic": "9", "Person": "10"}
+10	cousin	_	Kinship	{"Descriptor": "9", "Ego": "8", "Alter": "6"}
+11	?	_		{}

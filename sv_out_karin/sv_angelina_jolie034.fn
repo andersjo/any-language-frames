@@ -1,0 +1,17 @@
+1	Bruden	_		{}
+2	var	_		{}
+3	iklädd	_		{}
+4	svarta	_	Color	{"Color": "4", "Entity": "5"}
+5	gummibyxor	_		{}
+6	och	_		{}
+7	en	_	Cardinal_numbers	{"Number": "7", "Entity": "9"}
+8	vit	_	Color	{"Color": "8", "Entity": "9"}
+9	t-shirt	_	Clothing	{"Garment": "9", "Wearer": "1"}
+10	med	_		{}
+11	brudgummens	_		{}
+12	namn	_	Being_named	{"Entity": "11"}
+13	skrivet	_		{}
+14	i	_		{}
+15	hennes	_		{}
+16	blod	_		{}
+17	.	_		{}

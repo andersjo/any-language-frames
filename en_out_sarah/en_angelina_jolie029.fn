@@ -1,0 +1,19 @@
+1	She	_		{}
+2	began	_	Activity_start	{"Place": "11", "Agent": "1", "Activity": "3"}
+3	working	_	Being_employed	{"Employee": "1", "Field": "6", "Place_of_employment": "11"}
+4	as	_		{}
+5	a	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	fashion	_		{}
+7	model	_		{}
+8	,	_		{}
+9	mainly	_		{}
+10	in	_		{}
+11	Los	_		{}
+12	Angeles	_		{}
+13	,	_		{}
+14	New	_		{}
+15	York	_		{}
+16	,	_		{}
+17	and	_	Simultaneity	{}
+18	London	_		{}
+19	.	_		{}

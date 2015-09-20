@@ -1,0 +1,45 @@
+1	Le	_		{}
+2	film	_	Physical_artworks	{"Artifact": "2"}
+3	n'est	_		{}
+4	pas	_		{}
+5	bien	_	Degree	{"Gradable_attribute": "6"}
+6	reçu	_		{}
+7	par	_		{}
+8	la	_		{}
+9	critique	_	Judgment	{"Cognizer": "9", "Evaluee": "2"}
+10	,	_		{}
+11	et	_		{}
+12	Roger	_		{}
+13	Ebert	_		{}
+14	écrit	_	Statement	{"Speaker": "13"}
+15	que	_		{}
+16	Elle	_		{}
+17	apparaît	_		{}
+18	ensuite	_	Relative_time	{"Focal_occasion": "17", "Focal_participant": "16"}
+19	dans	_		{}
+20	le	_		{}
+21	téléfilm	_		{}
+22	"	_		{}
+23	Sœurs	_		{}
+24	de	_		{}
+25	cœur	_		{}
+26	"	_		{}
+27	,	_		{}
+28	un	_		{}
+29	drame	_	Performing_arts	{"Performer": "16", "Type": "29"}
+30	historique	_		{}
+31	se	_		{}
+32	déroulant	_	Event	{"Place": "34"}
+33	dans	_		{}
+34	l'Ouest	_		{}
+35	américain	_		{}
+36	,	_		{}
+37	basé	_		{}
+38	sur	_		{}
+39	le	_		{}
+40	livre	_	Text	{"Text": "40"}
+41	de	_		{}
+42	Janice	_		{}
+43	Woods	_		{}
+44	Windle	_		{}
+45	.	_		{}

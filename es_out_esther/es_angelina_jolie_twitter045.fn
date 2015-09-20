@@ -1,0 +1,18 @@
+1	No	_	Quantity	{"Individuals": "3", "Quantity": "1"}
+2	hay	_	Existence	{"Place": "9", "Entity": "3"}
+3	persona	_	People	{"Person": "3"}
+4	sobre	_		{}
+5	la	_		{}
+6	faz	_		{}
+7	de	_		{}
+8	la	_		{}
+9	tierra	_	Locale	{"Locale": "6", "Relative_location": "9"}
+10	a	_		{}
+11	la	_		{}
+12	que	_		{}
+13	no	_	Quantity	{}
+14	le	_		{}
+15	guste	_	Emotions_of_mental_activity	{"Stimulus": "16", "Experiencer": "3"}
+16	Angelina	_		{}
+17	Jolie	_		{}
+18	😍🙌	_		{}

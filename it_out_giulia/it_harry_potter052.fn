@@ -1,0 +1,75 @@
+1	Nella	_		{}
+2	traduzione	_	Translating	{"Target_representation": "3"}
+3	italiana	_		{}
+4	delle	_		{}
+5	prime	_	Ordinal_numbers	{"Comparison_set": "6"}
+6	edizioni	_		{}
+7	dei	_		{}
+8	primi	_	Ordinal_numbers	{"Comparison_set": "10"}
+9	tre	_	Cardinal_numbers	{"Number": "9", "Entity": "10"}
+10	libri	_	Text	{"Text": "10"}
+11	,	_		{}
+12	una	_		{}
+13	delle	_		{}
+14	quattro	_	Cardinal_numbers	{"Number": "14", "Entity": "15"}
+15	Case	_		{}
+16	di	_		{}
+17	Hogwarts	_		{}
+18	(	_		{}
+19	"	_		{}
+20	Ravenclaw	_		{}
+21	"	_		{}
+22	)	_		{}
+23	veniva	_	Being_named	{"Name": "29", "Entity": "15"}
+24	a	_		{}
+25	volte	_		{}
+26	tradotta	_		{}
+27	come	_		{}
+28	"	_		{}
+29	Pecoranera	_		{}
+30	"	_		{}
+31	,	_		{}
+32	ma	_		{}
+33	con	_		{}
+34	l'uscita	_		{}
+35	del	_		{}
+36	quarto	_	Ordinal_numbers	{"Comparison_set": "39", "Item": "27"}
+37	volume	_	Text	{"Text": "37"}
+38	della	_		{}
+39	serie	_	Sequence	{}
+40	,	_		{}
+41	i	_		{}
+42	traduttori	_		{}
+43	della	_		{}
+44	Salani	_		{}
+45	hanno	_		{}
+46	deciso	_		{}
+47	di	_		{}
+48	ribattezzarla	_		{}
+49	"	_		{}
+50	Corvonero	_		{}
+51	"	_		{}
+52	per	_		{}
+53	riflettere	_		{}
+54	più	_		{}
+55	da	_		{}
+56	vicino	_		{}
+57	lo	_		{}
+58	stemma	_		{}
+59	della	_		{}
+60	scuola	_	Locale_by_use	{"Locale": "60"}
+61	(	_		{}
+62	raffigurante	_	Representing	{"Phenomenon": "65", "Entity": "58"}
+63	appunto	_		{}
+64	un	_		{}
+65	leone	_		{}
+66	,	_		{}
+67	un	_		{}
+68	serpente	_		{}
+69	,	_		{}
+70	un	_		{}
+71	tasso	_		{}
+72	e	_		{}
+73	un	_		{}
+74	rapace	_		{}
+75	):	_		{}

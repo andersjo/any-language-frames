@@ -1,0 +1,13 @@
+1	Warum	_	Reason	{"Action": "2"}
+2	schneidet	_	Cutting	{"Item": "5", "Agent": "3"}
+3	Sat1	_		{}
+4	Harry	_		{}
+5	Potter	_		{}
+6	denn	_		{}
+7	so	_	Degree	{"Gradable_attribute": "8"}
+8	stark	_	Degree	{"Gradable_attribute": "2"}
+9	?	_		{}
+10	Ist	_		{}
+11	ja	_		{}
+12	extrem	_		{}
+13	...	_		{}

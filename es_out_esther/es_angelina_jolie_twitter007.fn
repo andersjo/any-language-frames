@@ -1,0 +1,22 @@
+1	Ver	_	Perception_active	{"Phenomenon": "3"}
+2	las	_		{}
+3	fotos	_	Optical_image	{"Source": "6", "Image": "3"}
+4	de	_		{}
+5	la	_		{}
+6	boda	_	Forming_relationships	{"Partner_2": "11", "Partner_1": "8"}
+7	de	_		{}
+8	Angelina	_		{}
+9	Jolie	_		{}
+10	y	_		{}
+11	Brad	_		{}
+12	Pitt	_		{}
+13	.	_		{}
+14	Llorar	_	Make_noise	{}
+15	.	_		{}
+16	¿¡CÓMO	_		{}
+17	PUEDEN	_	Possibility	{}
+18	SER	_	Being_in_category	{"Item": "8", "Criteria": "21"}
+19	ASÍ	_	Degree	{"Gradable_attribute": "21"}
+20	DE	_		{}
+21	PERFECTOS	_	Completeness	{"Whole": "8"}
+22	?!	_		{}

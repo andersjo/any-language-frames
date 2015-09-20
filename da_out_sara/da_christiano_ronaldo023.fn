@@ -1,0 +1,46 @@
+1	Han	_		{}
+2	blev	_		{}
+3	først	_	First_experience	{"Experience": "4"}
+4	opdaget	_		{}
+5	af	_		{}
+6	den	_		{}
+7	dagværende	_		{}
+8	Liverpool-manager	_		{}
+9	Gérard	_		{}
+10	Houllier	_		{}
+11	i	_		{}
+12	en	_		{}
+13	alder	_	Age	{"Age": "15", "Entity": "1"}
+14	af	_		{}
+15	16	_		{}
+16	,	_		{}
+17	men	_		{}
+18	Liverpool	_		{}
+19	undlod	_		{}
+20	at	_		{}
+21	skrive	_	Contacting	{"Topic": "22", "Communicator": "18", "Addressee": "1"}
+22	kontrakt	_	Commitment	{"Topic": "22", "Addressee": "24", "Speaker": "18"}
+23	med	_		{}
+24	ham	_		{}
+25	,	_		{}
+26	fordi	_		{}
+27	de	_	Observable_body_parts	{"Possessor": "18"}
+28	anså	_		{}
+29	ham	_		{}
+30	for	_		{}
+31	at	_		{}
+32	være	_	Cause_to_perceive	{"Agent": "29"}
+33	for	_	Sufficiency	{"Item": "34", "Scale": "33"}
+34	ung	_	Age	{"Attribute": "34", "Degree": "33", "Entity": "29"}
+35	med	_		{}
+36	behov	_	Needing	{"Dependent": "45", "Cognizer": "18", "Requirement": "40"}
+37	for	_		{}
+38	noget	_		{}
+39	mere	_		{}
+40	tid	_		{}
+41	til	_		{}
+42	at	_		{}
+43	udvikle	_		{}
+44	sine	_		{}
+45	færdigheder	_		{}
+46	.	_		{}

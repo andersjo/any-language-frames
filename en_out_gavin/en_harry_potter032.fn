@@ -1,0 +1,17 @@
+1	For	_		{}
+2	reasons	_	Reason	{"Action": "16"}
+3	not	_		{}
+4	immediately	_	Temporal_collocation	{"Trajector_event": "5"}
+5	revealed	_	Reveal_secret	{"Information": "2"}
+6	,	_		{}
+7	the	_		{}
+8	spell	_	Statement	{}
+9	with	_		{}
+10	which	_		{}
+11	Voldemort	_		{}
+12	tried	_	Attempt	{"Agent": "11"}
+13	to	_		{}
+14	kill	_	Killing	{"Instrument": "8", "Killer": "14", "Victim": "15"}
+15	Harry	_		{}
+16	rebounded	_	Self_motion	{"Self_mover": "8"}
+17	.	_		{}

@@ -1,0 +1,58 @@
+1	Después	_		{}
+2	de	_		{}
+3	la	_		{}
+4	revolución	_	Change_of_leadership	{"Function": "18", "Depictive": "57", "Body": "23", "Selector": "20", "New_leader": "10", "Place": "53", "Manner": "4", "Time": "6", "Role": "18", "Circumstances": "4", "Result": "34"}
+5	de	_		{}
+6	octubre	_	Calendric_unit	{"Relative_time": "6", "Salient_event": "4", "Name": "6", "Unit": "6"}
+7	,	_		{}
+8	la	_		{}
+9	feminista	_		{}
+10	Alexandra	_		{}
+11	Kollontai	_		{}
+12	(	_		{}
+13	que	_		{}
+14	desde	_		{}
+15	su	_		{}
+16	nombramiento	_	Referring_by_name	{"Entity": "10", "Name": "18", "Time": "46"}
+17	como	_		{}
+18	comisaria	_	Leadership	{"Domain": "23", "Means": "16", "Activity": "23", "Governed": "24", "Descriptor": "4", "Role": "18", "Manner": "4", "Time": "6", "Leader": "10"}
+19	del	_		{}
+20	Pueblo	_	Political_locales	{"Locale": "20"}
+21	para	_	Sufficiency	{"Item": "20", "Circumstances": "16", "Enabled_situation": "23"}
+22	la	_		{}
+23	Asistencia	_	Assistance	{"Domain": "24", "Goal": "24", "Helper": "20", "Means": "4", "Explanation": "4", "Instrument": "20", "Benefited_party": "24"}
+24	Pública	_		{}
+25	logró	_		{}
+26	el	_		{}
+27	voto	_		{}
+28	para	_		{}
+29	la	_		{}
+30	mujer	_	People	{"Persistent_characteristic": "27", "Person": "30"}
+31	,	_		{}
+32	que	_	Cause_change	{"Final_category": "34", "Containing_event": "4", "Agent": "27", "Entity": "38", "Purpose": "34", "Duration": "6", "Manner": "27"}
+33	fuera	_	Being_in_category	{"Category": "34", "Means": "27", "Item": "35", "Manner": "34", "Time": "6", "Circumstances": "4"}
+34	legal	_	Legality	{"Object": "36"}
+35	el	_		{}
+36	divorcio	_	Forming_relationships	{"Means": "36"}
+37	y	_	Simultaneity	{"Profiled_event": "39", "Landmark_event": "36"}
+38	el	_		{}
+39	aborto	_		{}
+40	)	_		{}
+41	consiguió	_		{}
+42	que	_	Cause_to_start	{"Cause": "4", "Manner": "50", "Place": "53", "Effect": "49", "Time": "46"}
+43	el	_		{}
+44	8	_	Cardinal_numbers	{"Number": "44"}
+45	de	_		{}
+46	marzo	_	Calendric_unit	{"Relative_time": "46", "Whole": "46", "Name": "46"}
+47	se	_		{}
+48	considerase	_	Explaining_the_facts	{"State_of_affairs": "49", "Fact": "49", "Means": "57"}
+49	fiesta	_	Social_event	{"Place": "53", "Honoree": "29", "Degree": "50", "Time": "46"}
+50	oficial	_		{}
+51	en	_		{}
+52	la	_		{}
+53	Unión	_		{}
+54	Soviética	_		{}
+55	,	_		{}
+56	aunque	_		{}
+57	laborable	_		{}
+58	.	_		{}

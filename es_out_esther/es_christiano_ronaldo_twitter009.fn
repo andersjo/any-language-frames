@@ -1,0 +1,26 @@
+1	Lo	_		{}
+2	que	_		{}
+3	hace	_	Creating	{"Created_entity": "7", "Creator": "5"}
+4	tener	_	Possession	{"Possession": "5"}
+5	plata	_	Money	{"Money": "5"}
+6	y	_		{}
+7	conseguir	_	Getting	{"Theme": "10", "Recipient": "10"}
+8	un	_		{}
+9	buen	_	Desirability	{"Evaluee": "10"}
+10	doctor	_	Medical_professionals	{"Professional": "10"}
+11	.	_		{}
+12	Nunca	_	Frequency	{"Degree": "12", "Time_span": "12"}
+13	voy	_		{}
+14	a	_		{}
+15	superar	_	Surpassing	{"Profiled_item": "19"}
+16	como	_		{}
+17	era	_	Being_in_category	{"Category": "19"}
+18	Christiano	_		{}
+19	Ronaldo	_		{}
+20	chabon	_		{}
+21	vos	_		{}
+22	así	_	Sufficiency	{}
+23	que	_		{}
+24	eras	_	Being_in_category	{"Category": "26", "Item": "19"}
+25	pero	_		{}
+26	fiero	_	Emotion_directed	{"Stimulus": "19", "Topic": "26", "Event": "26"}

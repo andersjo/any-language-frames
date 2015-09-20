@@ -1,0 +1,61 @@
+1	In	_		{}
+2	ciascuno	_		{}
+3	dei	_		{}
+4	libri	_	Text	{"Text": "4"}
+5	l'atmosfera	_		{}
+6	è	_		{}
+7	un	_		{}
+8	po	_		{}
+9	'	_		{}
+10	più	_		{}
+11	cupa	_		{}
+12	rispetto	_		{}
+13	a	_		{}
+14	quello	_		{}
+15	che	_		{}
+16	lo	_		{}
+17	precede	_	Relative_time	{}
+18	e	_		{}
+19	ognuno	_		{}
+20	mostra	_		{}
+21	una	_		{}
+22	maturazione	_	Progress	{"Entity": "24"}
+23	dei	_		{}
+24	protagonisti	_		{}
+25	;	_		{}
+26	dalle	_		{}
+27	atmosfere	_		{}
+28	fantastiche	_		{}
+29	,	_		{}
+30	spensierate	_		{}
+31	e	_		{}
+32	festose	_	Emotions_by_stimulus	{}
+33	del	_		{}
+34	primo	_	Ordinal_numbers	{"Item": "35"}
+35	libro	_	Text	{"Text": "35"}
+36	,	_		{}
+37	si	_		{}
+38	approda	_		{}
+39	,	_		{}
+40	anche	_		{}
+41	attraverso	_		{}
+42	la	_		{}
+43	morte	_	Death	{"Protagonist": "46"}
+44	di	_		{}
+45	alcuni	_	Quantity	{"Individuals": "46", "Quantity": "45"}
+46	personaggi	_		{}
+47	importanti	_	Importance	{"Factor": "46"}
+48	,	_		{}
+49	a	_		{}
+50	quelle	_		{}
+51	cupe	_		{}
+52	,	_		{}
+53	disilluse	_		{}
+54	e	_		{}
+55	a	_		{}
+56	tratti	_		{}
+57	horror	_		{}
+58	degli	_		{}
+59	ultimi	_		{}
+60	libri	_	Text	{"Text": "60"}
+61	.	_		{}

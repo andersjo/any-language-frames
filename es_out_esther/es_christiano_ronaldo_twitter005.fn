@@ -1,0 +1,18 @@
+1	Enrique	_		{}
+2	Iglesia	_		{}
+3	puede	_	Capability	{"Entity": "2"}
+4	usar	_	Using	{"Instrument": "5", "Purpose": "8", "Agent": "2"}
+5	Armani	_		{}
+6	Exchange	_		{}
+7	y	_		{}
+8	verse	_	Appearance	{"Inference": "9", "Appraisal": "9", "Phenomenon": "8", "Characterization": "9"}
+9	bien	_	Desirability	{"Evaluee": "2"}
+10	.	_		{}
+11	Como	_	Similarity	{"Dimension": "8", "Entity_2": "13", "Entity_1": "2"}
+12	Christiano	_		{}
+13	Ronaldo	_		{}
+14	con	_		{}
+15	el	_		{}
+16	Gel	_		{}
+17	Rolda	_		{}
+18	.	_		{}

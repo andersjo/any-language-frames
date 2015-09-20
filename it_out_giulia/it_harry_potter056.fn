@@ -1,0 +1,42 @@
+1	Harry	_		{}
+2	viene	_		{}
+3	a	_		{}
+4	sapere	_	Becoming_aware	{"Topic": "6", "Cognizer": "1", "Phenomenon": "4"}
+5	di	_		{}
+6	essere	_		{}
+7	un	_		{}
+8	mago	_	Expertise	{"Role": "8"}
+9	;	_		{}
+10	conosce	_		{}
+11	Ron	_		{}
+12	,	_		{}
+13	Hermione	_		{}
+14	,	_		{}
+15	Hagrid	_		{}
+16	e	_		{}
+17	Silente	_		{}
+18	e	_		{}
+19	combatte	_	Hostile_encounter	{"Side_2": "25", "Side_1": "1"}
+20	per	_		{}
+21	la	_		{}
+22	prima	_	First_experience	{"Experience": "19"}
+23	volta	_	Event_instance	{"Instance": "23", "Event": "19"}
+24	contro	_		{}
+25	Lord	_		{}
+26	Voldemort	_		{}
+27	,	_		{}
+28	ridotto	_		{}
+29	ad	_		{}
+30	un	_		{}
+31	semplice	_		{}
+32	spirito	_		{}
+33	e	_		{}
+34	costretto	_		{}
+35	a	_		{}
+36	vivere	_		{}
+37	nel	_		{}
+38	corpo	_		{}
+39	del	_		{}
+40	professor	_		{}
+41	Raptor	_		{}
+42	.	_		{}

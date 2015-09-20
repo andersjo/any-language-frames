@@ -1,0 +1,32 @@
+1	Inizialmente	_	Temporal_collocation	{}
+2	si	_		{}
+3	crede	_		{}
+4	che	_		{}
+5	Black	_		{}
+6	sia	_		{}
+7	colui	_		{}
+8	che	_		{}
+9	tradì	_		{}
+10	i	_		{}
+11	genitori	_	Kinship	{"Ego": "11", "Alter": "12"}
+12	di	_		{}
+13	Harry	_		{}
+14	,	_		{}
+15	ma	_		{}
+16	alla	_		{}
+17	fine	_	Temporal_subregion	{"Sub_part": "17"}
+18	questi	_		{}
+19	si	_		{}
+20	rivela	_	Turning_out	{"State_of_affairs": "21"}
+21	essere	_		{}
+22	Peter	_		{}
+23	Minus	_		{}
+24	,	_		{}
+25	un	_		{}
+26	altro	_		{}
+27	vecchio	_		{}
+28	amico	_	Personal_relationship	{"Partner_2": "30", "Partner_1": "22"}
+29	di	_		{}
+30	James	_		{}
+31	Potter	_		{}
+32	.	_		{}

@@ -1,0 +1,16 @@
+1	La	_		{}
+2	primera	_	First_experience	{"Experience": "3", "Context": "4"}
+3	interpretación	_	Performing_arts	{"Performance": "12", "Type": "10", "Script": "12"}
+4	principal	_	Importance	{"Field": "10", "Reason": "3", "Frequency": "2", "Degree": "4", "Time": "15"}
+5	que	_		{}
+6	hizo	_	Performers_and_roles	{"Performance": "12", "Script": "12", "Medium": "10", "Time": "15"}
+7	fue	_	Being_in_category	{"Category": "3", "Item": "9", "Manner": "4", "Time": "15"}
+8	en	_		{}
+9	la	_		{}
+10	película	_	Physical_artworks	{"Name": "12", "Artifact": "10", "Time_of_creation": "15"}
+11	"	_		{}
+12	Hackers	_		{}
+13	"	_		{}
+14	de	_		{}
+15	1995	_		{}
+16	.	_		{}

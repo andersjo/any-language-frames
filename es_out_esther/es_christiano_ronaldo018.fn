@@ -1,0 +1,44 @@
+1	En	_		{}
+2	2001	_		{}
+3	realizó	_	Performing_arts	{"Personnel": "14", "Audience": "14", "Script": "5"}
+4	una	_		{}
+5	prueba	_	Examination	{"Examination": "5", "Examiner": "14"}
+6	de	_		{}
+7	tres	_	Cardinal_numbers	{"Number": "7", "Entity": "8"}
+8	días	_	Calendric_unit	{"Relative_time": "8", "Whole": "7"}
+9	para	_		{}
+10	fichar	_		{}
+11	por	_		{}
+12	el	_		{}
+13	Sporting	_		{}
+14	Clube	_		{}
+15	de	_		{}
+16	Portugal	_		{}
+17	,	_		{}
+18	y	_		{}
+19	finalmente	_	Temporal_collocation	{"Landmark_entity": "19"}
+20	dejó	_		{}
+21	el	_		{}
+22	C	_		{}
+23	.	_		{}
+24	D	_		{}
+25	.	_		{}
+26	Nacional	_	Foreign_or_domestic_country	{"Current_country": "16"}
+27	para	_		{}
+28	pasar	_	Coming_to_be	{}
+29	a	_		{}
+30	formar	_	Becoming	{}
+31	parte	_	Part_piece	{"Substance": "33"}
+32	del	_		{}
+33	club	_	Organization	{"Organization": "33"}
+34	de	_		{}
+35	Lisboa	_		{}
+36	,	_		{}
+37	habiéndose	_		{}
+38	de	_		{}
+39	trasladar	_	Transfer	{"Theme": "33", "Recipient": "42"}
+40	a	_		{}
+41	la	_		{}
+42	capital	_	Relational_political_locales	{"Locale": "42", "Container_possessor": "33"}
+43	portuguesa	_	Origin	{"Origin": "43", "Entity": "42"}
+44	.	_		{}

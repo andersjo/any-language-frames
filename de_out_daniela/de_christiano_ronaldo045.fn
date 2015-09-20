@@ -1,0 +1,9 @@
+1	Die	_		{}
+2	Ablösesumme	_		{}
+3	betrug	_		{}
+4	17	_		{}
+5	,	_		{}
+6	5	_	Cardinal_numbers	{"Number": "6", "Entity": "7"}
+7	Millionen	_	Cardinal_numbers	{"Entity": "8", "Number": "7", "Multiplier": "6"}
+8	Euro	_		{}
+9	.	_		{}

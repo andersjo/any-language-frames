@@ -1,0 +1,21 @@
+1	Everybody's	_		{}
+2	always	_	Frequency	{"Salient_entity": "1", "Event": "3"}
+3	complaining	_	Complaining	{"Topic": "4", "Complainer": "1", "Time": "2"}
+4	about	_		{}
+5	global	_	Political_locales	{"Locale": "5"}
+6	warming	_	Temperature	{"Temperature": "6", "Entity": "5"}
+7	,	_		{}
+8	I	_		{}
+9	kinda	_		{}
+10	like	_	Experiencer_focus	{"Topic": "12", "Reason": "14", "Experiencer": "8", "Degree": "9"}
+11	the	_		{}
+12	shit	_	Excreting	{"Excreta": "23"}
+13	it's	_		{}
+14	feelin	_		{}
+15	lovely	_	Aesthetics	{"Place": "17", "Entity": "13"}
+16	out	_	Part_inner_outer	{}
+17	here	_	Locative_relation	{"Ground": "17"}
+18	in	_		{}
+19	the	_		{}
+20	Bay	_	Natural_features	{"Locale": "20"}
+21	Area	_	Political_locales	{"Locale": "21", "Name": "20"}

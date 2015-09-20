@@ -1,0 +1,31 @@
+1	Autre	_	Increment	{"Class": "2", "Added_set": "1"}
+2	avantage	_		{}
+3	:	_		{}
+4	Google	_		{}
+5	affiche	_	Cause_to_perceive	{"Phenomenon": "7", "Agent": "4"}
+6	les	_		{}
+7	mots-clés	_		{}
+8	en	_		{}
+9	gras	_		{}
+10	dans	_		{}
+11	le	_		{}
+12	contexte	_	Scope	{"Salient_entity": "7", "Event": "14"}
+13	d'une	_		{}
+14	phrase	_		{}
+15	pour	_		{}
+16	chaque	_		{}
+17	lien	_	Connectors	{"Connector": "17"}
+18	,	_		{}
+19	alors	_		{}
+20	qu'Altavista	_		{}
+21	ne	_		{}
+22	fournit	_	Supply	{"Supplier": "20", "Theme": "29"}
+23	,	_		{}
+24	à	_		{}
+25	l'époque	_		{}
+26	,	_		{}
+27	que	_		{}
+28	les	_		{}
+29	liens	_	Connectors	{"Connector": "29"}
+30	eux-mêmes	_		{}
+31	.	_		{}

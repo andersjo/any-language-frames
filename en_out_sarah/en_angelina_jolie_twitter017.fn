@@ -1,0 +1,13 @@
+1	#Entertainment	_		{}
+2	#News	_		{}
+3	ANGELINA	_		{}
+4	JOLIE-	_		{}
+5	HAND	_	Observable_body_parts	{"Body_part": "5", "Possessor": "3"}
+6	SIGNED	_	Sign_agreement	{"Signatory": "3"}
+7	PROMO	_		{}
+8	PHOTO	_	Physical_artworks	{"Artifact": "8"}
+9	WITH	_		{}
+10	COA	_		{}
+11	http://t.co/LdWOIO3FmO	_		{}
+12	#AngelinaJolie	_		{}
+13	#Fans	_		{}

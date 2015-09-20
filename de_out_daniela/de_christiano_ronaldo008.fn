@@ -1,0 +1,35 @@
+1	Nach	_	Time_vector	{"Distance": "14", "Direction": "1", "Landmark_event": "3", "Event": "7"}
+2	seinem	_	Possession	{"Owner": "8", "Possession": "3"}
+3	Rekordtransfer	_		{}
+4	zu	_		{}
+5	Real	_		{}
+6	Madrid	_		{}
+7	erzielte	_		{}
+8	er	_		{}
+9	für	_		{}
+10	die	_		{}
+11	"	_		{}
+12	Königlichen	_		{}
+13	"	_		{}
+14	bisher	_	Continued_state_of_affairs	{"Reference_occasion": "3", "State_of_affairs": "7"}
+15	in	_		{}
+16	über	_		{}
+17	zweihundert	_		{}
+18	Einsätzen	_		{}
+19	durchschnittlich	_	Typicality	{}
+20	mehr	_	Frequency	{"Attribute": "23"}
+21	als	_		{}
+22	ein	_		{}
+23	Tor	_	Purpose	{"Goal": "23", "Agent": "8"}
+24	pro	_		{}
+25	Spiel	_		{}
+26	,	_		{}
+27	eine	_		{}
+28	von	_		{}
+29	Spielern	_	Competition	{"Participants": "29", "Competition": "32"}
+30	einer	_		{}
+31	europäischen	_	Origin	{"Origin": "31", "Entity": "32"}
+32	Topliga	_		{}
+33	im	_		{}
+34	21	_	Cardinal_numbers	{"Number": "34"}
+35	.	_		{}

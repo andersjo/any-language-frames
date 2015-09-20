@@ -1,0 +1,36 @@
+1	In	_		{}
+2	1995	_	Cardinal_numbers	{"Number": "2"}
+3	,	_		{}
+4	Ronaldo	_		{}
+5	signed	_	Becoming_a_member	{"New_member": "4", "Group": "9"}
+6	with	_		{}
+7	local	_	Indigenous_origin	{"Entity": "8"}
+8	club	_	Organization	{"Organization": "8", "Descriptor": "7"}
+9	Nacional	_	People_by_vocation	{"Descriptor": "7", "Person": "8"}
+10	,	_		{}
+11	and	_		{}
+12	,	_		{}
+13	after	_	Relative_time	{"Focal_occasion": "19", "Focal_participant": "18", "Landmark_occasion": "16"}
+14	a	_	Cardinal_numbers	{"Number": "14", "Entity": "16"}
+15	title-winning	_		{}
+16	campaign	_	Hostile_encounter	{"Depictive": "15", "Side_1": "18"}
+17	,	_		{}
+18	he	_		{}
+19	went	_	Travel	{"Traveler": "18", "Goal": "24", "Time": "13"}
+20	on	_		{}
+21	a	_	Cardinal_numbers	{"Number": "21", "Entity": "23"}
+22	three-day	_		{}
+23	trial	_		{}
+24	with	_		{}
+25	Sporting	_		{}
+26	CP	_		{}
+27	,	_		{}
+28	who	_		{}
+29	subsequently	_	Relative_time	{"Focal_occasion": "30", "Focal_participant": "26", "Landmark_occasion": "16"}
+30	signed	_	Hiring	{"Employee": "31", "Compensation": "32", "Employer": "26"}
+31	him	_		{}
+32	for	_		{}
+33	an	_	Calendric_unit	{"Relative_time": "33", "Whole": "35"}
+34	undisclosed	_		{}
+35	sum	_	Quantity	{"Mass": "35"}
+36	.	_		{}

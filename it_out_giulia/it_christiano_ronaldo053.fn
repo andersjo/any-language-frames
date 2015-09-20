@@ -1,0 +1,22 @@
+1	Nella	_		{}
+2	stagione	_		{}
+3	2004-2005	_		{}
+4	,	_		{}
+5	malgrado	_		{}
+6	il	_		{}
+7	Manchester	_		{}
+8	concluda	_	Activity_finish	{"Agent": "7"}
+9	l'annata	_		{}
+10	senza	_		{}
+11	vincere	_	Win_prize	{"Competitor": "7", "Prize": "13"}
+12	alcun	_	Quantity	{"Individuals": "13", "Quantity": "12"}
+13	trofeo	_		{}
+14	,	_		{}
+15	realizza	_	Intentionally_act	{"Purpose": "17"}
+16	9	_		{}
+17	reti	_		{}
+18	in	_		{}
+19	50	_	Cardinal_numbers	{"Number": "19", "Entity": "20"}
+20	gare	_	Competition	{"Participant_1": "7", "Competition": "20"}
+21	stagionali	_		{}
+22	.	_		{}

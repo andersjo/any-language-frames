@@ -1,0 +1,44 @@
+1	Harry	_		{}
+2	also	_		{}
+3	encounters	_	Encounter	{"Party_2": "7", "Party_1": "1"}
+4	the	_		{}
+5	school's	_		{}
+6	potions	_		{}
+7	master	_	Leadership	{"Domain": "5", "Leader": "7", "Governed": "6"}
+8	,	_		{}
+9	Severus	_		{}
+10	Snape	_		{}
+11	,	_		{}
+12	who	_		{}
+13	displays	_	Cause_to_perceive	{"Phenomenon": "18", "Actor": "10"}
+14	a	_	Cardinal_numbers	{"Number": "14", "Entity": "18"}
+15	deep	_	Measurable_attributes	{"Entity": "18"}
+16	and	_		{}
+17	abiding	_	Duration_attribute	{"Eventuality": "18"}
+18	dislike	_	Experiencer_focus	{"Content": "19", "Experiencer": "10"}
+19	for	_		{}
+20	him	_	People_by_age	{"Person": "1"}
+21	,	_		{}
+22	and	_		{}
+23	the	_		{}
+24	Defence	_	Defend	{"Assailant": "28"}
+25	Against	_		{}
+26	the	_		{}
+27	Dark	_	Color	{"Color": "27", "Entity": "28"}
+28	Arts	_	Craft	{"Activity": "28"}
+29	teacher	_	Education_teaching	{"Teacher": "32"}
+30	,	_		{}
+31	Quirinus	_		{}
+32	Quirrell	_		{}
+33	,	_		{}
+34	who	_		{}
+35	later	_	Relative_time	{"Focal_occasion": "36", "Focal_participant": "29", "Landmark_occasion": "3"}
+36	turns	_	Becoming	{"Entity": "29", "Time": "35"}
+37	out	_	Part_inner_outer	{}
+38	to	_		{}
+39	be	_		{}
+40	controlled	_	Control	{"Controlling_entity": "43", "Dependent_entity": "29"}
+41	by	_		{}
+42	Lord	_	Leadership	{"Leader": "42"}
+43	Voldemort	_		{}
+44	.	_		{}

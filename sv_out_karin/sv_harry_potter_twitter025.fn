@@ -1,0 +1,14 @@
+1	Sen	_		{}
+2	när	_		{}
+3	börjar	_	Activity_start	{"Agent": "4", "Activity": "6"}
+4	jag	_	Proper_reference	{"Intended_referent": "4"}
+5	börja	_	Activity_start	{"Agent": "4", "Activity": "6"}
+6	följa	_		{}
+7	den	_		{}
+8	där	_		{}
+9	blonda	_		{}
+10	skitungen	_		{}
+11	i	_		{}
+12	Harry	_		{}
+13	Potter	_		{}
+14	bror	_	Kinship	{"Ego": "4", "Alter": "14"}

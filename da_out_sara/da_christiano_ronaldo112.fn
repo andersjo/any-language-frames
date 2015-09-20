@@ -1,0 +1,9 @@
+1	Ronaldo	_		{}
+2	har	_	Possession	{"Owner": "1", "Possession": "5"}
+3	et	_		{}
+4	tæt	_	Measurable_attributes	{"Degree": "4", "Entity": "5"}
+5	forhold	_	Cognitive_connection	{"Concept_1": "1", "Concept_2": "8"}
+6	til	_		{}
+7	sin	_		{}
+8	mor	_	Kinship	{"Relatives": "8", "Ego": "1"}
+9	.	_		{}

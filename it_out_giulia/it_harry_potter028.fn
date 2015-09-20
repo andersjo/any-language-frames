@@ -1,0 +1,21 @@
+1	In	_		{}
+2	questo	_	Proper_reference	{"Intended_referent": "3"}
+3	contesto	_		{}
+4	,	_		{}
+5	all'inizio	_		{}
+6	la	_		{}
+7	magia	_	Ineffability	{}
+8	è	_		{}
+9	ludica	_		{}
+10	e	_		{}
+11	affascinante	_		{}
+12	,	_		{}
+13	ma	_		{}
+14	quasi	_		{}
+15	subito	_		{}
+16	diventa	_	Becoming	{"Entity": "7"}
+17	un'arma	_		{}
+18	temibile	_		{}
+19	e	_		{}
+20	insidiosa	_	Morality_evaluation	{"Evaluee": "7"}
+21	.	_		{}

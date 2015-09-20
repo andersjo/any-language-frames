@@ -1,0 +1,20 @@
+1	Beasley	_		{}
+2	menar	_	Opinion	{"Cognizer": "1", "Opinion": "9"}
+3	även	_		{}
+4	att	_		{}
+5	nya	_	Familiarity	{"Entity": "6"}
+6	webbsidor	_		{}
+7	kommer	_		{}
+8	att	_		{}
+9	rankas	_		{}
+10	lägre	_		{}
+11	när	_		{}
+12	PageRank	_		{}
+13	baseras	_		{}
+14	på	_		{}
+15	en	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	webbsidas	_		{}
+17	"	_		{}
+18	rykte	_	Fame	{"Entity": "16"}
+19	"	_		{}
+20	.	_		{}

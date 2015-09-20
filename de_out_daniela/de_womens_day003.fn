@@ -1,0 +1,21 @@
+1	Die	_		{}
+2	Vereinten	_		{}
+3	Nationen	_	Political_locales	{"Locale": "3"}
+4	erkoren	_		{}
+5	ihn	_		{}
+6	später	_	Relative_time	{"Focal_occasion": "4"}
+7	als	_		{}
+8	Tag	_	Calendric_unit	{"Name": "8", "Unit": "8"}
+9	der	_		{}
+10	Vereinten	_		{}
+11	Nationen	_		{}
+12	für	_		{}
+13	die	_		{}
+14	Rechte	_		{}
+15	der	_		{}
+16	Frau	_	People	{"Person": "16"}
+17	und	_		{}
+18	den	_		{}
+19	Weltfrieden	_		{}
+20	aus	_		{}
+21	.	_		{}

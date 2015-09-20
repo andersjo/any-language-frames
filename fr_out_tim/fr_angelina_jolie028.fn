@@ -1,0 +1,27 @@
+1	Elle	_		{}
+2	déclare	_	Statement	{"Message": "5", "Speaker": "1"}
+3	que	_		{}
+4	ce	_		{}
+5	fut	_		{}
+6	la	_		{}
+7	période	_	Timespan	{}
+8	la	_		{}
+9	plus	_		{}
+10	sombre	_	Emotion_directed	{"Event": "7"}
+11	de	_		{}
+12	sa	_		{}
+13	vie	_		{}
+14	,	_		{}
+15	en	_		{}
+16	effet	_		{}
+17	Angelina	_		{}
+18	aurait	_		{}
+19	connu	_		{}
+20	des	_		{}
+21	addictions	_	Addiction	{"Addict": "17"}
+22	causées	_		{}
+23	par	_		{}
+24	la	_		{}
+25	pression	_	Manipulate_into_doing	{"Victim": "17", "Resulting_action": "21"}
+26	sociale	_		{}
+27	.	_		{}

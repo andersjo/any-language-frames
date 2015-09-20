@@ -1,0 +1,48 @@
+1	Efter	_		{}
+2	att	_		{}
+3	1994	_		{}
+4	ha	_		{}
+5	flyttat	_		{}
+6	närmare	_		{}
+7	sin	_		{}
+8	syster	_	Kinship	{"Ego": "16", "Alter": "8"}
+9	,	_		{}
+10	som	_		{}
+11	bodde	_		{}
+12	i	_	Political_locales	{"Locale": "13", "Population": "8"}
+13	Edinburgh	_		{}
+14	,	_		{}
+15	började	_		{}
+16	hon	_		{}
+17	skriva	_	Text_creation	{"Text": "23", "Time": "3", "Place": "38", "Author": "16"}
+18	på	_		{}
+19	den	_		{}
+20	första	_	Ordinal_numbers	{"Comparison_set": "23"}
+21	av	_		{}
+22	sju	_	Cardinal_numbers	{"Number": "22", "Entity": "23"}
+23	böcker	_	Text	{"Text": "23"}
+24	–	_		{}
+25	en	_	Cardinal_numbers	{"Number": "25", "Entity": "26"}
+26	bok	_	Text	{"Text": "26", "Author": "16"}
+27	för	_		{}
+28	varje	_		{}
+29	år	_		{}
+30	under	_		{}
+31	Harrys	_		{}
+32	skoltid	_		{}
+33	på	_		{}
+34	Hogwarts	_		{}
+35	–	_		{}
+36	på	_		{}
+37	ett	_	Cardinal_numbers	{"Number": "37", "Entity": "38"}
+38	kafé	_		{}
+39	medan	_		{}
+40	hennes	_		{}
+41	nyfödda	_	People_by_age	{"Person": "42", "Age": "41"}
+42	dotter	_	Kinship	{"Ego": "40", "Alter": "42"}
+43	låg	_		{}
+44	och	_		{}
+45	sov	_		{}
+46	bredvid	_		{}
+47	henne	_		{}
+48	.	_		{}

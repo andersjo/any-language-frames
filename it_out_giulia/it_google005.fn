@@ -1,0 +1,30 @@
+1	Nell'ottobre	_		{}
+2	2003	_		{}
+3	,	_		{}
+4	discutendo	_	Discussion	{"Topic": "7", "Interlocutor_2": "15", "Interlocutor_1": "11"}
+5	una	_		{}
+6	possibile	_		{}
+7	offerta	_	Giving	{"Theme": "7", "Recipient": "11"}
+8	pubblica	_		{}
+9	iniziale	_	Temporal_collocation	{"Landmark_entity": "7"}
+10	la	_		{}
+11	società	_	Organization	{}
+12	fu	_		{}
+13	contattata	_	Contacting	{"Topic": "21", "Communicator": "15", "Addressee": "11"}
+14	da	_		{}
+15	Microsoft	_		{}
+16	a	_		{}
+17	proposito	_		{}
+18	di	_		{}
+19	un	_		{}
+20	possibile	_		{}
+21	accordo	_	Make_agreement_on_action	{"Topic": "25", "Party_2": "15", "Party_1": "11"}
+22	o	_		{}
+23	di	_		{}
+24	una	_		{}
+25	fusione	_	Amalgamation	{"Part_1": "11", "Part_2": "15"}
+26	;	_		{}
+27	Google	_		{}
+28	rifiutò	_		{}
+29	l'offerta	_		{}
+30	.	_		{}

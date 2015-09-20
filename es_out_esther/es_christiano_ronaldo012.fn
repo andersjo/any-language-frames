@@ -1,0 +1,27 @@
+1	Sus	_		{}
+2	actuaciones	_		{}
+3	le	_		{}
+4	llevaron	_	Bringing	{"Theme": "9", "Goal": "6", "Area": "21"}
+5	a	_		{}
+6	conquistar	_	Conquering	{"Theme": "9"}
+7	su	_		{}
+8	segundo	_	Ordinal_numbers	{"Comparison_set": "9", "Item": "9"}
+9	Balón	_		{}
+10	de	_		{}
+11	Oro	_		{}
+12	en	_		{}
+13	2013	_		{}
+14	,	_		{}
+15	y	_		{}
+16	situarse	_	Placing	{"Cause": "6", "Goal": "21", "Time": "24"}
+17	entre	_		{}
+18	los	_		{}
+19	tres	_	Cardinal_numbers	{"Number": "19", "Entity": "21"}
+20	mejores	_	Surpassing	{"Standard_item": "21"}
+21	jugadores	_	Performing_arts	{}
+22	del	_		{}
+23	mundo	_	Locale	{"Locale": "21"}
+24	durante	_		{}
+25	siete	_	Cardinal_numbers	{"Number": "25", "Entity": "26"}
+26	temporadas	_	Sequence	{"Entity1": "26"}
+27	.	_		{}

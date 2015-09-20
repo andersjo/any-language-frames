@@ -1,0 +1,15 @@
+1	Harry	_		{}
+2	Potter	_		{}
+3	y	_	Simultaneity	{}
+4	el	_		{}
+5	misterio	_	Text	{"Text": "5"}
+6	de	_		{}
+7	porque	_		{}
+8	mierda	_		{}
+9	estas	_		{}
+10	en	_		{}
+11	linea	_	Roadways	{"Roadway": "11"}
+12	y	_		{}
+13	no	_		{}
+14	me	_	Proper_reference	{"Intended_referent": "14", "Entity": "14"}
+15	hablas	_	Speak_on_topic	{"Topic": "15", "Audience": "14"}

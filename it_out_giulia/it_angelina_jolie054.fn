@@ -1,0 +1,26 @@
+1	Sempre	_	Frequency	{"Time_span": "3"}
+2	nel	_		{}
+3	2004	_		{}
+4	interpreta	_	Performers_and_roles	{"Performance": "4", "Type": "11", "Role": "8", "Time": "3"}
+5	il	_		{}
+6	ruolo	_	Performers_and_roles	{"Performance": "4", "Type": "11", "Role": "8", "Time": "3"}
+7	di	_		{}
+8	Olimpiade	_		{}
+9	nel	_		{}
+10	controverso	_		{}
+11	film	_	Physical_artworks	{"Descriptor": "10", "Creator": "14", "Name": "16", "Artifact": "11", "Time_of_creation": "3"}
+12	di	_		{}
+13	Oliver	_		{}
+14	Stone	_		{}
+15	"	_		{}
+16	Alexander	_		{}
+17	"	_		{}
+18	,	_		{}
+19	film	_	Physical_artworks	{"Type": "20", "Artifact": "19"}
+20	biografico	_		{}
+21	sulla	_		{}
+22	vita	_		{}
+23	di	_		{}
+24	Alessandro	_		{}
+25	Magno	_		{}
+26	.	_		{}

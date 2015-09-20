@@ -1,0 +1,37 @@
+1	Jedes	_		{}
+2	Jahr	_	Calendric_unit	{"Count": "1", "Unit": "2"}
+3	lernt	_	Becoming_aware	{"Cognizer": "4", "Phenomenon": "13"}
+4	Harry	_		{}
+5	,	_		{}
+6	und	_		{}
+7	mit	_		{}
+8	ihm	_		{}
+9	der	_		{}
+10	Leser	_	Reading	{"Reader": "10"}
+11	,	_		{}
+12	neue	_	Familiarity	{"Cognizer": "4", "Entity": "13"}
+13	Orte	_	Locale	{"Locale": "13"}
+14	und	_	Simultaneity	{"Profiled_event": "15", "Landmark_event": "13"}
+15	Personen	_	People	{"Person": "15"}
+16	auch	_		{}
+17	außerhalb	_		{}
+18	von	_		{}
+19	Hogwarts	_		{}
+20	kennen	_	Awareness	{"Content": "13", "Cognizer": "4"}
+21	,	_		{}
+22	der	_		{}
+23	Horizont	_		{}
+24	der	_		{}
+25	Erzählung	_	Text	{"Text": "25"}
+26	wird	_		{}
+27	weiter	_	Size	{"Entity": "25"}
+28	,	_		{}
+29	die	_		{}
+30	Handlungsstränge	_		{}
+31	werden	_		{}
+32	komplexer	_		{}
+33	und	_		{}
+34	vielfach	_		{}
+35	miteinander	_		{}
+36	verwoben	_		{}
+37	.	_		{}

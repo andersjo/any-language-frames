@@ -1,0 +1,22 @@
+1	@Dogma_	_		{}
+2	Det	_		{}
+3	är	_		{}
+4	ju	_		{}
+5	lite	_	Degree	{"Gradable_attribute": "6"}
+6	allmänbildning	_		{}
+7	känns	_		{}
+8	det	_		{}
+9	som	_		{}
+10	.	_		{}
+11	Och	_		{}
+12	som	_		{}
+13	sagt	_		{}
+14	Google	_		{}
+15	är	_		{}
+16	bra	_	Usefulness	{"Entity": "14", "Time": "17"}
+17	innan	_	Time_vector	{"Event": "19"}
+18	man	_	People	{"Person": "18"}
+19	skriver	_		{}
+20	dumma	_		{}
+21	saker	_	Text	{"Text": "21"}
+22	:P	_		{}

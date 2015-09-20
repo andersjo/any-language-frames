@@ -1,0 +1,20 @@
+1	Försöker	_		{}
+2	googla	_		{}
+3	på	_		{}
+4	historiskt	_	Domain	{"Domain": "4", "Predicate": "6"}
+5	korrekta	_	Suitability	{"Evaluee": "6"}
+6	porträtt	_	Physical_artworks	{"Type": "5", "Artifact": "6"}
+7	men	_		{}
+8	det	_		{}
+9	är	_		{}
+10	någon	_	People	{"Person": "11"}
+11	jävel	_		{}
+12	som	_		{}
+13	har	_		{}
+14	photoshopat	_		{}
+15	in	_		{}
+16	Angelina	_		{}
+17	Jolie	_		{}
+18	i	_		{}
+19	dem	_		{}
+20	:/	_		{}

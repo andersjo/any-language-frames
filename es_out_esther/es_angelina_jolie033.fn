@@ -1,0 +1,51 @@
+1	Empezó	_		{}
+2	a	_		{}
+3	maltratarse	_	Cause_harm	{"Body_part": "5", "Victim": "5"}
+4	a	_		{}
+5	sí	_		{}
+6	misma	_	Identicality	{"Previous_context": "5"}
+7	,	_		{}
+8	a	_		{}
+9	lo	_		{}
+10	que	_		{}
+11	comentó	_		{}
+12	:	_		{}
+13	Algunas	_	People	{"Person": "16"}
+14	de	_		{}
+15	sus	_		{}
+16	mascotas	_		{}
+17	murieron	_	Death	{"Protagonist": "16"}
+18	a	_		{}
+19	causa	_	Causation	{"Affected": "16", "Cause": "22", "Actor": "5"}
+20	de	_		{}
+21	sus	_		{}
+22	experimentos	_	Operational_testing	{"Product": "16"}
+23	y	_		{}
+24	llegó	_		{}
+25	a	_		{}
+26	intentar	_	Attempt	{"Purpose": "27"}
+27	matar	_	Cause_harm	{"Victim": "30"}
+28	a	_		{}
+29	su	_		{}
+30	serpiente	_		{}
+31	;	_		{}
+32	comentó	_		{}
+33	que	_		{}
+34	a	_		{}
+35	la	_		{}
+36	edad	_	Age	{"Age": "38", "Degree": "39"}
+37	de	_		{}
+38	doce	_	Cardinal_numbers	{"Number": "38", "Entity": "39"}
+39	años	_	Age	{"Age": "38"}
+40	"	_		{}
+41	era	_	Being_in_category	{"Category": "43"}
+42	una	_		{}
+43	niña	_	People_by_age	{"Persistent_characteristic": "44", "Age": "38"}
+44	mala	_	Morality_evaluation	{"Behavior": "46"}
+45	y	_		{}
+46	golpeaba	_	Cause_harm	{"Victim": "49"}
+47	a	_		{}
+48	mis	_		{}
+49	amigos	_	Personal_relationship	{}
+50	"	_		{}
+51	.	_		{}

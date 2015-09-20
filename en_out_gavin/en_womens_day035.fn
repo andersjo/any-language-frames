@@ -1,0 +1,39 @@
+1	After	_		{}
+2	the	_		{}
+3	founding	_	Intentionally_create	{"Created_entity": "7", "Time": "10"}
+4	of	_		{}
+5	the	_		{}
+6	People's	_		{}
+7	Republic	_	Political_locales	{"Locale": "7", "Descriptor": "6", "Name": "9"}
+8	of	_		{}
+9	China	_		{}
+10	on	_		{}
+11	October	_	Calendric_unit	{"Unit": "11"}
+12	1	_	Cardinal_numbers	{"Number": "12"}
+13	,	_		{}
+14	1949	_		{}
+15	the	_		{}
+16	state	_	Political_locales	{"Locale": "16"}
+17	council	_		{}
+18	proclaimed	_	Statement	{"Message": "25", "Speaker": "17", "Time": "19"}
+19	on	_		{}
+20	December	_	Calendric_unit	{"Unit": "20"}
+21	23	_		{}
+22	that	_		{}
+23	March	_	Calendric_unit	{"Unit": "23"}
+24	8	_	Cardinal_numbers	{"Number": "24"}
+25	would	_		{}
+26	be	_	Being_in_category	{"Category": "27", "Item": "24"}
+27	made	_		{}
+28	an	_	Cardinal_numbers	{"Number": "28", "Entity": "30"}
+29	official	_		{}
+30	holiday	_		{}
+31	with	_		{}
+32	women	_	People	{"Person": "32"}
+33	in	_		{}
+34	China	_		{}
+35	given	_	Giving	{"Recipient": "32", "Theme": "37", "Place": "33"}
+36	a	_	Cardinal_numbers	{"Number": "36", "Entity": "37"}
+37	half-day	_		{}
+38	off	_	Hit_target	{}
+39	.	_		{}

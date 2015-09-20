@@ -1,0 +1,22 @@
+1	Reasons	_		{}
+2	ranged	_		{}
+3	from	_		{}
+4	shareholder	_		{}
+5	pressure	_		{}
+6	for	_		{}
+7	employee	_	Employing	{}
+8	benefit	_	Earnings_and_losses	{"Earner": "7"}
+9	reductions	_	Cause_expansion	{"Item": "8", "Agent": "4", "Means": "5"}
+10	to	_		{}
+11	the	_		{}
+12	fact	_		{}
+13	that	_		{}
+14	many	_	Quantity	{"Individuals": "16", "Quantity": "14"}
+15	company	_	Businesses	{"Business": "15"}
+16	executives	_		{}
+17	would	_		{}
+18	become	_	Becoming	{"Entity": "16", "Circumstances": "1"}
+19	instant	_		{}
+20	paper	_		{}
+21	millionaires	_		{}
+22	.	_		{}

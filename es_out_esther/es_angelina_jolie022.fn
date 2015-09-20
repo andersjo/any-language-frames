@@ -1,0 +1,50 @@
+1	En	_		{}
+2	mayo	_	Calendric_unit	{"Whole": "4"}
+3	del	_		{}
+4	2013	_		{}
+5	,	_		{}
+6	Angelina	_		{}
+7	Jolie	_		{}
+8	se	_		{}
+9	sometió	_		{}
+10	a	_		{}
+11	una	_		{}
+12	doble	_	Cause_change	{}
+13	mastectomía	_		{}
+14	preventiva	_	Preventing	{"Event": "9", "Preventing_cause": "17"}
+15	ante	_		{}
+16	su	_		{}
+17	propensión	_	Inclination	{}
+18	genética	_		{}
+19	a	_		{}
+20	sufrir	_	Taking	{}
+21	un	_		{}
+22	cáncer	_	Medical_conditions	{"Body_Part": "24"}
+23	de	_		{}
+24	mama	_	Observable_body_parts	{}
+25	,	_		{}
+26	reabriendo	_		{}
+27	así	_		{}
+28	,	_		{}
+29	debates	_	Discussion	{"Topic": "32"}
+30	sobre	_		{}
+31	la	_		{}
+32	mastectomía	_		{}
+33	preventiva	_	Preventing	{"Preventing_cause": "22"}
+34	en	_		{}
+35	Estados	_	State_of_entity	{}
+36	Unidos	_	Being_attached	{}
+37	,	_		{}
+38	ya	_		{}
+39	que	_		{}
+40	fue	_		{}
+41	pronosticado	_	Predicting	{"Accuracy": "43"}
+42	un	_		{}
+43	87%	_		{}
+44	de	_		{}
+45	posibilidades	_	Possibilities	{"Event": "47", "Number_of_possibilities": "43"}
+46	de	_		{}
+47	contraer	_	Getting	{"Theme": "49"}
+48	esta	_		{}
+49	enfermedad	_	Medical_conditions	{"Ailment": "22"}
+50	.	_		{}

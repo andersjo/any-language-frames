@@ -1,0 +1,22 @@
+1	Därtill	_		{}
+2	,	_		{}
+3	även	_		{}
+4	om	_		{}
+5	många	_	Quantity	{"Individuals": "6"}
+6	scener	_		{}
+7	innehåller	_	Containing	{"Container": "6", "Contents": "10"}
+8	subtila	_		{}
+9	moraliska	_		{}
+10	diskussioner	_		{}
+11	,	_		{}
+12	är	_		{}
+13	kampen	_	Hostile_encounter	{"Side_2": "15", "Side_1": "17"}
+14	mellan	_		{}
+15	gott	_	Morality_evaluation	{"Behavior": "15"}
+16	och	_		{}
+17	ont	_		{}
+18	i	_		{}
+19	stort	_		{}
+20	sett	_		{}
+21	svartvit	_		{}
+22	.	_		{}

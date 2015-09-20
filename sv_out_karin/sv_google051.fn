@@ -1,0 +1,27 @@
+1	Den	_		{}
+2	22	_		{}
+3	mars	_	Calendric_unit	{"Whole": "10", "Unit": "3"}
+4	2010	_		{}
+5	valde	_		{}
+6	Google	_		{}
+7	att	_		{}
+8	avbryta	_	Interrupt_process	{"Process": "10", "Cause": "17", "Actor": "6"}
+9	sin	_		{}
+10	verksamhet	_	Businesses	{"Place": "12", "Business": "6"}
+11	i	_	Political_locales	{"Locale": "12"}
+12	Kina	_		{}
+13	,	_		{}
+14	efter	_		{}
+15	tidigare	_	Time_vector	{"Landmark_event": "17", "Event": "8"}
+16	påstådda	_		{}
+17	attacker	_		{}
+18	och	_		{}
+19	intrång	_	Compliance	{"Protagonist": "12", "Act": "19"}
+20	mot	_		{}
+21	bland	_		{}
+22	annat	_		{}
+23	e-postkonton	_		{}
+24	tillhörande	_		{}
+25	kinesiska	_	Origin	{"Origin": "25", "Entity": "26"}
+26	oppositionella	_		{}
+27	.	_		{}

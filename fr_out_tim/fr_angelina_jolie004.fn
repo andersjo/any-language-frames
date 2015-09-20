@@ -1,0 +1,39 @@
+1	Ambassadrice	_		{}
+2	de	_		{}
+3	bonne	_	Usefulness	{}
+4	volonté	_		{}
+5	,	_		{}
+6	elle	_		{}
+7	a	_		{}
+8	défendu	_	Taking_sides	{"Action": "8", "Cognizer": "6", "Issue": "10"}
+9	diverses	_	Diversity	{"Group": "10"}
+10	causes	_		{}
+11	humanitaires	_		{}
+12	à	_		{}
+13	travers	_		{}
+14	le	_		{}
+15	monde	_	Locale	{"Locale": "15"}
+16	et	_		{}
+17	est	_		{}
+18	réputée	_		{}
+19	pour	_		{}
+20	son	_		{}
+21	travail	_	Working_on	{"Salient_entity": "37", "Agent": "6"}
+22	en	_		{}
+23	faveur	_		{}
+24	des	_		{}
+25	réfugiés	_		{}
+26	avec	_		{}
+27	le	_		{}
+28	Haut	_		{}
+29	Commissariat	_		{}
+30	des	_		{}
+31	Nations	_		{}
+32	unies	_		{}
+33	pour	_		{}
+34	les	_		{}
+35	réfugiés	_		{}
+36	(	_		{}
+37	HCR	_		{}
+38	)	_		{}
+39	.	_		{}

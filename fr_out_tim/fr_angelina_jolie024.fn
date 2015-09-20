@@ -1,0 +1,34 @@
+1	Enfant	_	People_by_age	{"Person": "3", "Age": "1"}
+2	,	_		{}
+3	Angelina	_		{}
+4	Jolie	_		{}
+5	regardait	_	Perception_active	{"Phenomenon": "8", "Perceiver_agentive": "3"}
+6	régulièrement	_	Frequency	{"Attribute": "6", "Event": "5"}
+7	des	_		{}
+8	films	_	Physical_artworks	{"Artifact": "8"}
+9	avec	_		{}
+10	sa	_		{}
+11	mère	_	Kinship	{"Ego": "10", "Alter": "11"}
+12	et	_		{}
+13	explique	_	Statement	{"Message": "19", "Speaker": "3"}
+14	plus	_		{}
+15	tard	_	Relative_time	{"Focal_occasion": "13", "Focal_participant": "3", "Landmark_occasion": "5"}
+16	que	_		{}
+17	cela	_		{}
+18	l'avait	_		{}
+19	inspiré	_		{}
+20	pour	_		{}
+21	sa	_		{}
+22	carrière	_		{}
+23	d'actrice	_		{}
+24	,	_		{}
+25	et	_		{}
+26	qu'elle	_		{}
+27	n'avait	_		{}
+28	pas	_		{}
+29	été	_		{}
+30	influencée	_		{}
+31	par	_		{}
+32	son	_		{}
+33	père	_	Kinship	{"Ego": "32", "Alter": "33"}
+34	.	_		{}

@@ -1,0 +1,23 @@
+1	"	_		{}
+2	Google	_		{}
+3	Inc	_		{}
+4	.	_		{}
+5	"	_		{}
+6	s'installe	_		{}
+7	dans	_		{}
+8	le	_		{}
+9	garage	_	Buildings	{"Building": "9"}
+10	Google	_		{}
+11	de	_		{}
+12	Menlo	_		{}
+13	Park	_		{}
+14	,	_		{}
+15	loué	_		{}
+16	par	_		{}
+17	une	_		{}
+18	amie	_	Personal_relationship	{"Partner_1": "18"}
+19	,	_		{}
+20	en	_		{}
+21	septembre	_	Calendric_unit	{"Whole": "21"}
+22	1998	_		{}
+23	.	_		{}

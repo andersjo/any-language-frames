@@ -1,0 +1,20 @@
+1	Bandes	_	Text	{"Text": "1"}
+2	"	_		{}
+3	Harry	_		{}
+4	Potter	_		{}
+5	und	_		{}
+6	der	_		{}
+7	Feuerkelch	_		{}
+8	"	_		{}
+9	im	_		{}
+10	Jahr	_	Calendric_unit	{"Whole": "11", "Unit": "10"}
+11	2000	_		{}
+12	gelang	_	Successful_action	{"Instrument": "1", "Goal": "19"}
+13	der	_		{}
+14	Reihe	_		{}
+15	der	_		{}
+16	endgültige	_		{}
+17	,	_		{}
+18	weltweite	_	Political_locales	{"Locale": "18"}
+19	Durchbruch	_	Achieving_first	{"New_idea": "14"}
+20	.	_		{}

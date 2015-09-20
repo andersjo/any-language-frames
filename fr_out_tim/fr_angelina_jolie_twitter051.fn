@@ -1,0 +1,18 @@
+1	Invincible	_		{}
+2	:	_		{}
+3	Angelina	_		{}
+4	Jolie	_		{}
+5	signe	_	Text_creation	{"Text": "1", "Author": "3"}
+6	un	_		{}
+7	récit	_	Text	{"Text": "1"}
+8	de	_		{}
+9	survie	_	Surviving	{}
+10	exemplaire	_	Exemplar	{"Instance": "1", "Type": "7"}
+11	(	_		{}
+12	critique	_	Judgment_communication	{"Evaluee": "1"}
+13	)	_		{}
+14	http://t.co/G5ysouK6jb	_		{}
+15	(	_		{}
+16	cc	_		{}
+17	@Charly033	_		{}
+18	)	_		{}

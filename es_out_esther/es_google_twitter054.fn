@@ -1,0 +1,8 @@
+1	Abri	_		{}
+2	google	_		{}
+3	de	_		{}
+4	mierda	_		{}
+5	quiero	_	Desiring	{"Location_of_Event": "2", "Event": "6"}
+6	escuchar	_	Hear	{"Topic": "7", "Message": "8"}
+7	musica	_	Performing_arts	{"Medium": "2", "Type": "8", "Script": "7"}
+8	romantica	_		{}

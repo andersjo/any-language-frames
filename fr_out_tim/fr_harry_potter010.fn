@@ -1,0 +1,31 @@
+1	Orphelin	_		{}
+2	,	_		{}
+3	Harry	_		{}
+4	Potter	_		{}
+5	est	_		{}
+6	recueilli	_	Taking	{"Theme": "4", "Agent": "9"}
+7	par	_		{}
+8	son	_		{}
+9	oncle	_	Kinship	{"Ego": "8", "Alter": "9"}
+10	et	_		{}
+11	sa	_		{}
+12	tante	_	Kinship	{"Ego": "11", "Alter": "12"}
+13	moldus	_		{}
+14	(	_		{}
+15	qui	_		{}
+16	n'ont	_		{}
+17	pas	_		{}
+18	de	_		{}
+19	pouvoirs	_	Expertise	{"Skill": "19", "Protagonist": "9"}
+20	magiques	_		{}
+21	)	_		{}
+22	,	_		{}
+23	les	_		{}
+24	Dursley	_		{}
+25	,	_		{}
+26	qui	_		{}
+27	le	_		{}
+28	traitent	_		{}
+29	très	_	Degree	{"Gradable_attribute": "30"}
+30	durement	_		{}
+31	.	_		{}

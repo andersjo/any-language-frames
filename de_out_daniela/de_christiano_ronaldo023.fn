@@ -1,0 +1,37 @@
+1	In	_		{}
+2	dem	_		{}
+3	Klub	_	Organization	{"Organization": "3", "Members": "14"}
+4	,	_		{}
+5	bei	_		{}
+6	dem	_		{}
+7	sein	_	Possession	{"Owner": "7", "Possession": "8"}
+8	Vater	_		{}
+9	als	_		{}
+10	Zeugwart	_		{}
+11	arbeitete	_	Being_employed	{"Employee": "8", "Position": "10", "Place_of_employment": "3"}
+12	,	_		{}
+13	spielte	_	Competition	{"Participant_1": "14"}
+14	Ronaldo	_		{}
+15	ab	_	Relative_time	{"Focal_occasion": "13", "Focal_participant": "14"}
+16	dem	_		{}
+17	Alter	_	Age	{"Attribute": "19", "Age": "20", "Entity": "14"}
+18	von	_		{}
+19	acht	_	Cardinal_numbers	{"Number": "19", "Entity": "20"}
+20	Jahren	_	Calendric_unit	{"Count": "19", "Unit": "20"}
+21	und	_		{}
+22	im	_		{}
+23	Laufe	_	Becoming	{"Entity": "30"}
+24	der	_		{}
+25	nun	_	Temporal_collocation	{"Trajector_event": "29", "Trajector_period": "26", "Landmark_period": "19", "Landmark_event": "13"}
+26	folgenden	_	Relative_time	{"Focal_occasion": "34", "Focal_participant": "30", "Landmark_occasion": "19"}
+27	zwei	_	Cardinal_numbers	{"Number": "27", "Entity": "28"}
+28	Jahre	_	Calendric_unit	{"Count": "27", "Unit": "28"}
+29	begann	_	Activity_start	{"Agent": "30", "Activity": "34"}
+30	er	_		{}
+31	sich	_		{}
+32	landesweit	_		{}
+33	einen	_		{}
+34	Namen	_		{}
+35	zu	_		{}
+36	machen	_	Intentionally_act	{"Agent": "30"}
+37	.	_		{}

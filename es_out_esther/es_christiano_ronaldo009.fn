@@ -1,0 +1,39 @@
+1	Tras	_		{}
+2	protagonizar	_	Performers_and_roles	{"Performance": "4", "Score": "4", "Role": "28", "Medium": "20"}
+3	el	_		{}
+4	traspaso	_	Transfer	{"Theme": "28", "Recipient": "20"}
+5	más	_	Increment	{"Initial_set": "4", "Added_set": "6", "Class": "28"}
+6	caro	_	Expensiveness	{"Goods": "28", "Asset": "5", "Intended_event": "4"}
+7	en	_		{}
+8	la	_		{}
+9	historia	_	History	{"Topic": "11"}
+10	del	_		{}
+11	fútbol	_		{}
+12	en	_		{}
+13	su	_		{}
+14	momento	_	Location_in_time	{"Relative_time": "14"}
+15	,	_		{}
+16	recaló	_		{}
+17	en	_		{}
+18	el	_		{}
+19	Real	_		{}
+20	Madrid	_		{}
+21	Club	_	Organization	{"Organization": "23", "Members": "20"}
+22	de	_		{}
+23	Fútbol	_		{}
+24	,	_		{}
+25	donde	_		{}
+26	mejoró	_		{}
+27	como	_	Identicality	{"Current_instance": "28"}
+28	futbolista	_		{}
+29	llegando	_	Arriving	{"Theme": "36", "Goal": "34"}
+30	a	_		{}
+31	sus	_		{}
+32	más	_	Increment	{"Added_set": "33", "Initial_set": "34", "Class": "36"}
+33	altos	_	Dimension	{"Object": "34", "Measurement": "32"}
+34	registros	_	Measure_volume	{"Count": "33", "Stuff": "36", "Unit": "36"}
+35	en	_		{}
+36	juego	_	Performing_arts	{"Performer": "28"}
+37	y	_		{}
+38	goles	_	Purpose	{"Goal": "38", "Agent": "28"}
+39	.	_		{}

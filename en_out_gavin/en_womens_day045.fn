@@ -1,0 +1,50 @@
+1	In	_		{}
+2	the	_		{}
+3	run-up	_		{}
+4	to	_		{}
+5	2011	_		{}
+6	International	_	Foreign_or_domestic_country	{"Current_country": "6"}
+7	Women's	_		{}
+8	Day	_	Calendric_unit	{"Name": "7", "Unit": "8"}
+9	,	_		{}
+10	the	_		{}
+11	ICRC	_		{}
+12	called	_	Request	{"Message": "20", "Addressee": "14", "Speaker": "11"}
+13	on	_		{}
+14	States	_	Political_locales	{"Locale": "14"}
+15	and	_		{}
+16	other	_		{}
+17	entities	_	Entity	{"Type": "16", "Entity": "17"}
+18	not	_		{}
+19	to	_		{}
+20	relent	_	Giving_in	{"Capitulator": "14", "Issue": "21"}
+21	in	_		{}
+22	their	_		{}
+23	efforts	_	Attempt	{"Agent": "22"}
+24	to	_		{}
+25	prevent	_	Preventing	{"Event": "26", "Agent": "22"}
+26	rape	_	Rape	{}
+27	and	_		{}
+28	other	_		{}
+29	forms	_	Type	{"Category": "32", "Subtype": "28", "Type_Property": "31"}
+30	of	_		{}
+31	sexual	_	Social_connection	{}
+32	violence	_	Military	{}
+33	that	_		{}
+34	harm	_	Damaging	{"Cause": "26", "Patient": "36", "Place": "42", "Time": "48"}
+35	the	_		{}
+36	lives	_	Dead_or_alive	{"Protagonist": "39"}
+37	and	_		{}
+38	dignity	_		{}
+39	of	_		{}
+40	countless	_		{}
+41	women	_	People	{"Person": "41"}
+42	in	_		{}
+43	conflict	_	Hostile_encounter	{"Place": "44"}
+44	zones	_	Locale	{"Locale": "44", "Descriptor": "43"}
+45	around	_		{}
+46	the	_		{}
+47	world	_	Locale	{"Locale": "47"}
+48	every	_		{}
+49	year	_	Calendric_unit	{"Count": "48", "Unit": "49"}
+50	.	_		{}

@@ -1,0 +1,15 @@
+1	Boca	_		{}
+2	nunca	_	Frequency	{"Interval": "2", "Salient_entity": "3", "Event": "4"}
+3	teme	_	Grasp	{"Cognizer": "1", "Phenomenon": "4"}
+4	luchar	_	Quarreling	{"Arguer1": "1"}
+5	,	_		{}
+6	Boca	_		{}
+7	es	_	Being_in_category	{"Category": "8"}
+8	entusiasmo	_	Emotion_directed	{"Stimulus": "6", "Topic": "8", "State": "7", "Event": "8", "Experiencer": "6"}
+9	y	_		{}
+10	valor	_	Being_at_risk	{"Harmful_event": "4", "Dangerous_entity": "6"}
+11	#YoTengoLaApp	_		{}
+12	de	_		{}
+13	@La12Tuitea	_		{}
+14	http://t.co/WdUK2KRRx4	_		{}
+15	!	_		{}

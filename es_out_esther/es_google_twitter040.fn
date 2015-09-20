@@ -1,0 +1,11 @@
+1	@luisivnv	_		{}
+2	llama	_	Communication_manner	{"Topic": "2", "Addressee": "5"}
+3	a	_		{}
+4	un	_		{}
+5	veterinario	_	People_by_vocation	{"Person": "5"}
+6	que	_		{}
+7	este	_		{}
+8	24/7	_		{}
+9	busca	_	Seeking	{"Cognizer_agent": "1", "Sought_entity": "5"}
+10	en	_		{}
+11	google	_		{}

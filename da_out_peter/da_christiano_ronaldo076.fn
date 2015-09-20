@@ -1,0 +1,20 @@
+1	Han	_		{}
+2	gav	_		{}
+3	en	_		{}
+4	alkoholmeter-test	_		{}
+5	til	_		{}
+6	politiet	_	Law	{}
+7	og	_		{}
+8	resultatet	_		{}
+9	var	_		{}
+10	negativt	_		{}
+11	,	_		{}
+12	og	_		{}
+13	han	_		{}
+14	deltog	_		{}
+15	i	_		{}
+16	træningen	_		{}
+17	senere	_	Relative_time	{"Focal_occasion": "16", "Focal_participant": "1", "Landmark_occasion": "4"}
+18	den	_		{}
+19	formiddag	_	Calendric_unit	{"Relative_time": "17", "Unit": "19"}
+20	.	_		{}

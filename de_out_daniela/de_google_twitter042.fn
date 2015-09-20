@@ -1,0 +1,19 @@
+1	Ich	_		{}
+2	habe	_		{}
+3	ein	_		{}
+4	@YouTube	_		{}
+5	-Video	_		{}
+6	von	_		{}
+7	@missesvlog	_		{}
+8	positiv	_		{}
+9	bewertet	_	Judgment	{"Cognizer": "1", "Evaluee": "5"}
+10	:	_		{}
+11	http://t.co/snLB4HoQjt	_		{}
+12	MissesVlog	_		{}
+13	Hot	_		{}
+14	???!	_		{}
+15	-	_		{}
+16	Ich	_		{}
+17	Google	_		{}
+18	Mich	_		{}
+19	Selbst	_	Proper_reference	{"Intended_referent": "16"}

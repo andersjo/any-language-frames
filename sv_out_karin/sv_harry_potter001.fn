@@ -1,0 +1,27 @@
+1	Harry	_		{}
+2	Potter	_		{}
+3	är	_		{}
+4	en	_	Cardinal_numbers	{"Number": "4", "Entity": "5"}
+5	serie	_	Sequence	{"Entity1": "6"}
+6	fantasyromaner	_		{}
+7	av	_		{}
+8	författaren	_		{}
+9	J.K.	_		{}
+10	Rowling	_		{}
+11	,	_		{}
+12	som	_		{}
+13	började	_		{}
+14	ges	_		{}
+15	ut	_		{}
+16	1997	_		{}
+17	och	_	Simultaneity	{"Profiled_event": "14", "Landmark_event": "18"}
+18	avslutades	_		{}
+19	med	_		{}
+20	en	_	Cardinal_numbers	{"Number": "20", "Entity": "22"}
+21	sjunde	_		{}
+22	bok	_	Text	{"Text": "2", "Author": "10"}
+23	den	_		{}
+24	21	_		{}
+25	juli	_	Calendric_unit	{"Whole": "26", "Unit": "25"}
+26	2007	_		{}
+27	.	_		{}

@@ -1,0 +1,23 @@
+1	No	_	Quantity	{"Individuals": "3", "Quantity": "1"}
+2	b'day	_		{}
+3	gift	_	Giving	{"Theme": "3"}
+4	will	_		{}
+5	surpass	_	Surpassing	{"Standard_item": "3", "Profiled_item": "8"}
+6	that	_		{}
+7	of	_		{}
+8	seeing	_		{}
+9	Christiano	_		{}
+10	Ronaldo	_		{}
+11	walking	_	Self_motion	{"Direction": "12", "Goal": "15", "Self_mover": "9"}
+12	up	_	Direction	{"Path": "12"}
+13	to	_		{}
+14	the	_		{}
+15	stage	_	Behind_the_scenes	{}
+16	to	_		{}
+17	collect	_	Gathering_up	{"Individuals": "19", "Agent": "9"}
+18	his	_		{}
+19	Ballon	_		{}
+20	D'Or	_		{}
+21	trophy	_		{}
+22	.	_		{}
+23	#12thJanMyBirthday	_		{}

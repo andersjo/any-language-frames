@@ -1,0 +1,22 @@
+1	#PlayStore	_		{}
+2	#Amazon	_		{}
+3	-	_		{}
+4	The	_		{}
+5	Amazon	_		{}
+6	Fire	_		{}
+7	Phone	_	Contacting	{}
+8	is	_	Being_in_category	{"Category": "10", "Item": "7"}
+9	a	_	Cardinal_numbers	{"Number": "9", "Entity": "10"}
+10	smartphone	_		{}
+11	with	_		{}
+12	a	_		{}
+13	4.7	_		{}
+14	inch	_	Measure_linear_extent	{"Count": "13", "Stuff": "15", "Unit": "14"}
+15	display	_	Sign	{"Indicator": "15"}
+16	,	_		{}
+17	a	_		{}
+18	Qualcomm	_		{}
+19	Snapdragon	_		{}
+20	…	_		{}
+21	http://t.co/QBNlaBt1Hi	_		{}
+22	#Google	_		{}

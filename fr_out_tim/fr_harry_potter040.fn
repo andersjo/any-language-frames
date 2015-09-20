@@ -1,0 +1,25 @@
+1	Le	_		{}
+2	récit	_	Text	{"Text": "2"}
+3	atteint	_	Accomplishment	{"Goal": "5", "Agent": "2"}
+4	son	_		{}
+5	climax	_		{}
+6	lors	_		{}
+7	du	_		{}
+8	dernier	_	Ordinal_numbers	{"Item": "9"}
+9	trimestre	_	Calendric_unit	{"Unit": "9"}
+10	de	_		{}
+11	l'année	_		{}
+12	scolaire	_		{}
+13	,	_		{}
+14	durant	_		{}
+15	la	_		{}
+16	période	_	Timespan	{"Duration": "16", "State": "18"}
+17	des	_		{}
+18	examens	_	Examination	{}
+19	de	_		{}
+20	fin	_	Temporal_subregion	{"Time_period": "21", "Sub_part": "20"}
+21	d'année	_		{}
+22	ou	_		{}
+23	immédiatement	_	Time_vector	{"Distance": "23", "Direction": "24", "Landmark_event": "16", "Event": "3"}
+24	après	_		{}
+25	.	_		{}

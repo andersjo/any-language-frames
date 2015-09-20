@@ -1,0 +1,16 @@
+1	"	_		{}
+2	säger	_	Expressing_publicly	{"Communicator": "4"}
+3	Angelina	_		{}
+4	Jolie	_		{}
+5	medan	_		{}
+6	hennes	_		{}
+7	smala	_		{}
+8	fingrar	_	Observable_body_parts	{"Body_part": "8", "Possessor": "4", "Descriptor": "7"}
+9	tvinnar	_		{}
+10	en	_	Cardinal_numbers	{"Number": "10", "Entity": "12"}
+11	lång	_	Measurable_attributes	{"Degree": "11", "Entity": "12"}
+12	halskedja	_		{}
+13	av	_		{}
+14	guld	_		{}
+15	.	_		{}
+16	"	_		{}

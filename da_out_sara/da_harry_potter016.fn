@@ -1,0 +1,34 @@
+1	Serien	_		{}
+2	handler	_		{}
+3	om	_		{}
+4	drengen	_	People_by_age	{"Person": "5"}
+5	Harry	_		{}
+6	Potter	_		{}
+7	,	_		{}
+8	som	_		{}
+9	på	_		{}
+10	sin	_		{}
+11	11	_		{}
+12	års	_		{}
+13	fødselsdag	_	Commemorative	{"Honored_entity": "5"}
+14	finder	_		{}
+15	ud	_		{}
+16	af	_		{}
+17	,	_		{}
+18	at	_		{}
+19	han	_		{}
+20	i	_		{}
+21	virkeligheden	_	Political_locales	{"Locale": "21"}
+22	er	_		{}
+23	en	_		{}
+24	troldmand	_	Expertise	{"Protagonist": "5", "Role": "24", "Time": "13"}
+25	,	_		{}
+26	og	_		{}
+27	derfor	_		{}
+28	starter	_		{}
+29	på	_		{}
+30	den	_		{}
+31	magiske	_	Ineffability	{"Stimulus": "32", "Property": "31"}
+32	skole	_	Locale_by_use	{"Locale": "32", "Descriptor": "31", "Name": "33"}
+33	Hogwarts	_		{}
+34	.	_		{}

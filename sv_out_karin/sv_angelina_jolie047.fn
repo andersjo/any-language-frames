@@ -1,0 +1,21 @@
+1	Hon	_		{}
+2	började	_		{}
+3	lära	_	Studying	{"Teacher": "9", "Student": "1"}
+4	sig	_		{}
+5	att	_		{}
+6	skådespela	_		{}
+7	från	_		{}
+8	sin	_		{}
+9	far	_	Kinship	{"Ego": "1", "Alter": "9"}
+10	som	_		{}
+11	hon	_		{}
+12	såg	_		{}
+13	observerade	_		{}
+14	folk	_	People	{"Person": "14"}
+15	för	_		{}
+16	att	_		{}
+17	kunna	_		{}
+18	agera	_	Performers_and_roles	{"Performer": "9"}
+19	som	_	Similarity	{}
+20	dem	_		{}
+21	.	_		{}

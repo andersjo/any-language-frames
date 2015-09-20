@@ -1,0 +1,31 @@
+1	Angelina	_		{}
+2	ganó	_		{}
+3	entre	_		{}
+4	junio	_	Calendric_unit	{"Whole": "6"}
+5	de	_		{}
+6	2008	_		{}
+7	y	_		{}
+8	junio	_	Calendric_unit	{"Whole": "10"}
+9	de	_		{}
+10	2009	_		{}
+11	un	_		{}
+12	total	_	Quantity	{"Individuals": "15", "Mass": "17", "Quantity": "14"}
+13	de	_		{}
+14	27	_		{}
+15	millones	_	Quantity	{"Individuals": "17", "Quantity": "14"}
+16	de	_		{}
+17	dólares	_	Observable_body_parts	{}
+18	gracias	_	Judgment_direct_address	{}
+19	a	_		{}
+20	películas	_	Physical_artworks	{"Name": "25"}
+21	como	_		{}
+22	"	_		{}
+23	Kung	_		{}
+24	Fu	_		{}
+25	Panda	_	Aggregate	{}
+26	"	_		{}
+27	y	_		{}
+28	"	_		{}
+29	Wanted	_		{}
+30	"	_		{}
+31	.	_		{}

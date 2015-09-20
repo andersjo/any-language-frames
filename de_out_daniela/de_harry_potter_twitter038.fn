@@ -1,0 +1,14 @@
+1	Harry	_		{}
+2	Potter	_		{}
+3	wird	_		{}
+4	gerade	_	Temporal_collocation	{"Trajector_entity": "2", "Trajector_event": "6", "Landmark_period": "4"}
+5	wieder	_		{}
+6	gehypet	_		{}
+7	?	_		{}
+8	Mag	_		{}
+9	es	_		{}
+10	schon	_		{}
+11	immer	_	Frequency	{"Time_span": "11"}
+12	,	_		{}
+13	hi	_		{}
+14	.	_		{}

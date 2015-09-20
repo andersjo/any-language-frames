@@ -1,0 +1,14 @@
+1	Lægerne	_		{}
+2	mente	_		{}
+3	,	_		{}
+4	at	_		{}
+5	Jolie	_		{}
+6	kunne	_	Certainty	{"Topic": "8", "Cognizer": "1", "Content": "7"}
+7	udvikle	_	Coming_to_be	{"Cause": "13", "Entity": "8"}
+8	brystkræft	_	Observable_body_parts	{"Body_part": "8", "Possessor": "5"}
+9	på	_		{}
+10	grund	_	Causation	{"Cause": "13", "Affected": "5", "Actor": "8"}
+11	af	_		{}
+12	en	_		{}
+13	genfejl	_		{}
+14	.	_		{}

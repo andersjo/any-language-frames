@@ -1,0 +1,24 @@
+1	Mina	_		{}
+2	intressen	_		{}
+3	nuförtiden	_	Temporal_collocation	{"Trajector_entity": "2", "Trajector_event": "5"}
+4	:	_		{}
+5	söka	_	Seeking	{"Cognizer_agent": "1", "Sought_entity": "6"}
+6	bostad	_	Buildings	{"Function": "6", "Building": "6"}
+7	och	_	Simultaneity	{"Profiled_event": "5", "Landmark_event": "8"}
+8	vandra	_	Motion	{"Theme": "1", "Direction": "9", "Area": "12"}
+9	runt	_		{}
+10	i	_	Political_locales	{"Locale": "11", "Relative_location": "12"}
+11	nordryska	_		{}
+12	byar	_	Political_locales	{"Locale": "12"}
+13	med	_		{}
+14	Google	_		{}
+15	Street	_		{}
+16	View	_		{}
+17	.	_		{}
+18	Har	_		{}
+19	tröttnat	_		{}
+20	på	_		{}
+21	en	_		{}
+22	av	_		{}
+23	dem	_		{}
+24	.	_		{}

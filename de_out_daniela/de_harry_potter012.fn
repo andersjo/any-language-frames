@@ -1,0 +1,30 @@
+1	Die	_		{}
+2	Harry-Potter-Welt	_		{}
+3	löste	_		{}
+4	ab	_	Direction	{"Base_position": "7"}
+5	den	_		{}
+6	späten	_	Temporal_subregion	{"Time_period": "7", "Sub_part": "6"}
+7	1990ern	_		{}
+8	,	_		{}
+9	insbesondere	_		{}
+10	jedoch	_		{}
+11	in	_		{}
+12	den	_		{}
+13	frühen	_	Temporal_subregion	{"Time_period": "14", "Sub_part": "13"}
+14	2000ern	_		{}
+15	in	_		{}
+16	Zusammenhang	_	Make_cognitive_connection	{"Concept_1": "2", "Concept_2": "19"}
+17	mit	_		{}
+18	den	_		{}
+19	Filmen	_	Physical_artworks	{"Artifact": "19"}
+20	eine	_		{}
+21	weltweite	_	Political_locales	{"Locale": "21"}
+22	Begeisterung	_	Experiencer_focus	{"Content": "24"}
+23	für	_		{}
+24	Fantasy-Bücher	_		{}
+25	und	_	Simultaneity	{"Profiled_event": "26", "Landmark_event": "24"}
+26	-Filme	_		{}
+27	aus	_		{}
+28	,	_		{}
+29	der	_		{}
+30	u.a.	_		{}

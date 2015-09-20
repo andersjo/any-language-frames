@@ -1,0 +1,58 @@
+1	L'intrigue	_		{}
+2	principale	_	First_rank	{"Item": "1", "Limits_of_consideration": "5"}
+3	de	_		{}
+4	la	_		{}
+5	série	_	Sequence	{}
+6	met	_		{}
+7	en	_		{}
+8	scène	_		{}
+9	le	_		{}
+10	combat	_	Hostile_encounter	{"Side_2": "23", "Side_1": "14"}
+11	du	_		{}
+12	jeune	_		{}
+13	Harry	_		{}
+14	Potter	_		{}
+15	contre	_		{}
+16	un	_		{}
+17	mage	_		{}
+18	noir	_		{}
+19	réputé	_		{}
+20	invincible	_		{}
+21	,	_		{}
+22	Lord	_		{}
+23	Voldemort	_		{}
+24	,	_		{}
+25	qui	_		{}
+26	a	_		{}
+27	tué	_		{}
+28	autrefois	_	Time_vector	{"Direction": "28", "Event": "27"}
+29	ses	_		{}
+30	parents	_	Kinship	{"Ego": "29", "Alter": "30"}
+31	;	_		{}
+32	à	_		{}
+33	la	_		{}
+34	tête	_	Leadership	{"Leader": "44", "Governed": "42"}
+35	d'un	_		{}
+36	clan	_	Aggregate	{"Aggregate": "36", "Individuals": "38"}
+37	de	_		{}
+38	mages	_		{}
+39	noirs	_		{}
+40	,	_		{}
+41	les	_		{}
+42	Mangemorts	_		{}
+43	,	_		{}
+44	Voldemort	_		{}
+45	cherche	_	Seeking	{"Cognizer_agent": "44", "Sought_entity": "52"}
+46	depuis	_		{}
+47	des	_		{}
+48	décennies	_	Measure_duration	{"Count": "47", "Unit": "48"}
+49	à	_		{}
+50	prendre	_	Taking	{"Theme": "52", "Agent": "44"}
+51	le	_		{}
+52	pouvoir	_		{}
+53	sur	_		{}
+54	le	_		{}
+55	monde	_	Locale	{"Locale": "55"}
+56	des	_		{}
+57	sorciers	_		{}
+58	.	_		{}

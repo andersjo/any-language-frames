@@ -1,0 +1,45 @@
+1	I	_		{}
+2	november	_	Calendric_unit	{"Whole": "5", "Unit": "2"}
+3	og	_		{}
+4	december	_	Calendric_unit	{"Whole": "5", "Unit": "4"}
+5	2006	_		{}
+6	modtog	_		{}
+7	Ronaldo	_		{}
+8	Barclays	_		{}
+9	Player	_		{}
+10	of	_		{}
+11	the	_		{}
+12	Month-prisen	_		{}
+13	,	_		{}
+14	og	_		{}
+15	han	_		{}
+16	blev	_		{}
+17	dermed	_		{}
+18	den	_		{}
+19	tredje	_	Ordinal_numbers	{"Item": "20", "Type": "20", "Basis_of_order": "19"}
+20	spiller	_	Competition	{"Participant_1": "1", "Competition": "22"}
+21	i	_		{}
+22	Premier	_		{}
+23	Leagues	_		{}
+24	historie	_	History	{"Topic": "22"}
+25	til	_		{}
+26	at	_		{}
+27	modtage	_	Getting	{"Theme": "31", "Recipient": "7"}
+28	to	_	Cardinal_numbers	{"Number": "28", "Entity": "31"}
+29	af	_		{}
+30	de	_		{}
+31	priser	_		{}
+32	på	_		{}
+33	en	_		{}
+34	sæson	_		{}
+35	efter	_		{}
+36	Dennis	_		{}
+37	Bergkamp	_		{}
+38	i	_		{}
+39	1997	_		{}
+40	og	_		{}
+41	Robbie	_		{}
+42	Fowler	_		{}
+43	i	_		{}
+44	1996	_		{}
+45	.	_		{}

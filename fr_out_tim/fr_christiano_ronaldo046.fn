@@ -1,0 +1,47 @@
+1	Il	_		{}
+2	demande	_	Request	{"Message": "4", "Speaker": "1"}
+3	à	_		{}
+4	utiliser	_	Using	{"Instrument": "6", "Agent": "1"}
+5	le	_		{}
+6	numéro	_		{}
+7	28	_		{}
+8	,	_		{}
+9	le	_		{}
+10	même	_	Identicality	{"Type": "6"}
+11	qu'il	_		{}
+12	porte	_	Wearing	{"Wearer": "11"}
+13	au	_		{}
+14	Sporting	_		{}
+15	l'année	_		{}
+16	précédente	_	Time_vector	{"Distance": "15", "Direction": "16", "Landmark_event": "12", "Event": "4"}
+17	,	_		{}
+18	mais	_		{}
+19	Ferguson	_		{}
+20	lui	_		{}
+21	donne	_	Giving	{"Donor": "19", "Recipient": "20"}
+22	le	_		{}
+23	du	_		{}
+24	club	_	Organization	{"Members": "1"}
+25	porté	_		{}
+26	par	_		{}
+27	des	_		{}
+28	joueurs	_	Competition	{"Participant_2": "37", "Participant_1": "1"}
+29	qui	_		{}
+30	ont	_		{}
+31	écrit	_		{}
+32	l'histoire	_		{}
+33	du	_		{}
+34	club	_	Organization	{"Organization": "34", "Members": "37"}
+35	comme	_		{}
+36	Bobby	_		{}
+37	Charlton	_		{}
+38	,	_		{}
+39	George	_		{}
+40	Best	_		{}
+41	,	_		{}
+42	Éric	_		{}
+43	Cantona	_		{}
+44	et	_		{}
+45	David	_		{}
+46	Beckham	_		{}
+47	.	_		{}

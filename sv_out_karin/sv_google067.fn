@@ -1,0 +1,34 @@
+1	Eftersom	_		{}
+2	nya	_	Familiarity	{"Degree": "2", "Entity": "3"}
+3	webbsidor	_		{}
+4	sällan	_	Frequency	{"Attribute": "5", "Interval": "4", "Salient_entity": "3"}
+5	får	_		{}
+6	många	_	Quantity	{"Individuals": "7"}
+7	tillänkningar	_		{}
+8	i	_		{}
+9	början	_	Process_start	{"Time": "9"}
+10	jämfört	_		{}
+11	med	_		{}
+12	gamla	_	Age	{"Age": "12", "Entity": "14"}
+13	väletablerade	_		{}
+14	webbsidor	_		{}
+15	,	_		{}
+16	är	_		{}
+17	de	_		{}
+18	inte	_		{}
+19	kända	_		{}
+20	,	_		{}
+21	har	_		{}
+22	inte	_		{}
+23	mycket	_	Quantity	{"Mass": "25"}
+24	till	_		{}
+25	rykte	_	Fame	{"Reason": "7", "Degree": "22", "Entity": "3"}
+26	och	_	Simultaneity	{"Profiled_event": "22", "Landmark_event": "30"}
+27	kommer	_		{}
+28	därför	_		{}
+29	att	_		{}
+30	få	_	Receiving	{"Theme": "33", "Recipient": "3"}
+31	en	_	Cardinal_numbers	{"Number": "31", "Entity": "33"}
+32	lägre	_		{}
+33	PageRank	_		{}
+34	.	_		{}

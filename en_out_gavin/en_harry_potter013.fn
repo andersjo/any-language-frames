@@ -1,0 +1,31 @@
+1	The	_		{}
+2	books	_	Text	{"Text": "2"}
+3	,	_		{}
+4	with	_		{}
+5	the	_		{}
+6	seventh	_		{}
+7	book	_	Text	{"Text": "7"}
+8	split	_	Separating	{"Parts": "11"}
+9	into	_		{}
+10	two	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	parts	_	Becoming_separated	{"Parts": "11"}
+12	,	_		{}
+13	have	_		{}
+14	been	_		{}
+15	made	_		{}
+16	into	_		{}
+17	an	_	Cardinal_numbers	{"Number": "17", "Entity": "20"}
+18	eight-part	_		{}
+19	film	_	Physical_artworks	{"Descriptor": "18", "Artifact": "19"}
+20	series	_	Sequence	{"Entity1": "1"}
+21	by	_		{}
+22	Warner	_		{}
+23	Bros	_		{}
+24	.	_		{}
+25	Pictures	_	Physical_artworks	{"Artifact": "25"}
+26	,	_		{}
+27	the	_		{}
+28	highest-grossing	_		{}
+29	film	_	Physical_artworks	{"Artifact": "29"}
+30	series	_	Sequence	{"Entity1": "29"}
+31	.	_		{}

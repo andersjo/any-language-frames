@@ -1,0 +1,22 @@
+1	Les	_		{}
+2	romans	_	Text	{"Text": "2"}
+3	"	_		{}
+4	Harry	_		{}
+5	Potter	_		{}
+6	"	_		{}
+7	appartiennent	_	Membership	{"Member": "2", "Group": "9"}
+8	au	_		{}
+9	genre	_	Type	{"Category": "10", "Subtype": "9"}
+10	fantastique	_		{}
+11	,	_		{}
+12	mais	_		{}
+13	correspondent	_	Make_cognitive_connection	{"Concept_1": "2", "Concept_2": "20"}
+14	également	_		{}
+15	par	_		{}
+16	de	_		{}
+17	nombreux	_	Quantity	{"Individuals": "18", "Quantity": "17"}
+18	aspects	_		{}
+19	au	_		{}
+20	roman	_	Text	{"Text": "20"}
+21	d'apprentissage	_		{}
+22	.	_		{}

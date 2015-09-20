@@ -1,0 +1,16 @@
+1	When	_		{}
+2	your	_		{}
+3	aunt	_	Kinship	{"Ego": "2", "Alter": "3"}
+4	finds	_	Coming_to_believe	{"Content": "7", "Cognizer": "3"}
+5	out	_	Part_inner_outer	{}
+6	you	_		{}
+7	put	_	Placing	{"Theme": "8", "Goal": "11", "Agent": "6"}
+8	this	_	Proper_reference	{"Intended_referent": "10"}
+9	is	_	Existence	{"Entity": "8"}
+10	us	_	People_by_origin	{"Person": "8"}
+11	on	_		{}
+12	instead	_	Being_at_risk	{}
+13	of	_		{}
+14	harry	_		{}
+15	potter	_		{}
+16	http://t.co/BKHyDxmIUz	_		{}

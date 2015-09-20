@@ -1,0 +1,25 @@
+1	Harry	_		{}
+2	also	_		{}
+3	learns	_	Becoming_aware	{"Cognizer": "1", "Phenomenon": "4"}
+4	that	_		{}
+5	his	_		{}
+6	ability	_	Capability	{"Entity": "5"}
+7	to	_		{}
+8	speak	_	Communication_manner	{"Message": "9", "Speaker": "5"}
+9	Parseltongue	_		{}
+10	,	_		{}
+11	the	_		{}
+12	language	_	Communication	{"Medium": "12"}
+13	of	_		{}
+14	snakes	_	Accoutrements	{"Accoutrement": "14"}
+15	,	_		{}
+16	is	_	Being_in_category	{"Category": "17", "Item": "6"}
+17	rare	_	Frequency	{"Event": "6"}
+18	and	_		{}
+19	often	_	Frequency	{"Event": "16"}
+20	associated	_	Cognitive_connection	{"Concept_1": "6", "Concept_2": "24"}
+21	with	_		{}
+22	the	_		{}
+23	Dark	_	Color	{"Color": "23", "Entity": "24"}
+24	Arts	_	Craft	{"Activity": "24"}
+25	.	_		{}

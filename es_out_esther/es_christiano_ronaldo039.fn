@@ -1,0 +1,29 @@
+1	Hizo	_	Intentionally_act	{}
+2	su	_		{}
+3	debut	_	Arriving	{"Theme": "19", "Goal": "6"}
+4	en	_		{}
+5	la	_		{}
+6	liga	_	Finish_competition	{"Opponent": "17"}
+7	inglesa	_	People_by_origin	{"Origin": "7", "Person": "6"}
+8	el	_		{}
+9	16	_		{}
+10	de	_		{}
+11	agosto	_	Calendric_unit	{"Relative_time": "11", "Whole": "13", "Unit": "9"}
+12	de	_		{}
+13	2003	_		{}
+14	ante	_		{}
+15	el	_		{}
+16	Bolton	_		{}
+17	Wanderers	_		{}
+18	,	_		{}
+19	ingresando	_	Activity_start	{"Activity": "19"}
+20	al	_		{}
+21	minuto	_	Measure_duration	{"Process": "19", "Count": "22", "Unit": "21"}
+22	60	_	Cardinal_numbers	{"Number": "22", "Entity": "21"}
+23	por	_		{}
+24	el	_		{}
+25	mediocampista	_		{}
+26	inglés	_	People_by_origin	{"Origin": "26", "Person": "28"}
+27	Nicky	_		{}
+28	Butt	_		{}
+29	.	_		{}

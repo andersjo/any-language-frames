@@ -1,0 +1,22 @@
+1	¿Jugamos	_		{}
+2	a	_		{}
+3	Dios	_	Existence	{"Entity": "3"}
+4	con	_		{}
+5	Tierra	_	Locale	{"Locale": "5"}
+6	?	_		{}
+7	científico	_	People_by_vocation	{"Person": "7"}
+8	confiesa	_	Reveal_secret	{"Topic": "12", "Information": "12", "Medium": "22", "Speaker": "7"}
+9	que	_		{}
+10	'	_		{}
+11	se	_		{}
+12	aterroriza	_	Cause_to_experience	{"Experiencer": "7", "Agent": "7"}
+13	'	_		{}
+14	de	_		{}
+15	la	_		{}
+16	tecnología	_	Gizmo	{"Gizmo": "16"}
+17	desarrollada	_	Progress	{"Entity": "16"}
+18	para	_		{}
+19	parar	_	Activity_stop	{"Agent": "16"}
+20	el	_		{}
+21	...	_		{}
+22	http://t.co/3UxooB74QD	_		{}

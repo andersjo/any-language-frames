@@ -1,0 +1,11 @@
+1	Harry	_		{}
+2	Potter	_		{}
+3	c'est	_		{}
+4	vraiment	_	Degree	{"Gradable_attribute": "8"}
+5	mon	_		{}
+6	film	_	Physical_artworks	{"Artifact": "6"}
+7	saga	_		{}
+8	préférer	_	Preference	{"Experiencer": "5"}
+9	putain	_		{}
+10	c'est	_		{}
+11	parfait	_	Completeness	{"Whole": "1"}

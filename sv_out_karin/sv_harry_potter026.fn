@@ -1,0 +1,74 @@
+1	Bland	_		{}
+2	Rowlings	_		{}
+3	främsta	_		{}
+4	talanger	_		{}
+5	som	_		{}
+6	författare	_	Text	{"Text": "32", "Author": "2"}
+7	finns	_	Existence	{"Entity": "9"}
+8	hennes	_		{}
+9	förmåga	_		{}
+10	att	_		{}
+11	återge	_		{}
+12	en	_	Cardinal_numbers	{"Number": "12", "Entity": "19"}
+13	komplicerad	_	Difficulty	{"Activity": "19"}
+14	men	_		{}
+15	i	_		{}
+16	stort	_		{}
+17	sett	_		{}
+18	sömlös	_		{}
+19	intrig	_		{}
+20	som	_		{}
+21	spänner	_		{}
+22	över	_		{}
+23	en	_	Cardinal_numbers	{"Number": "23", "Entity": "25"}
+24	lång	_	Measurable_attributes	{"Degree": "24", "Entity": "25"}
+25	tidsperiod	_	Frequency	{"Salient_entity": "19", "Time_span": "25"}
+26	,	_		{}
+27	den	_		{}
+28	övertygande	_		{}
+29	inneboende	_		{}
+30	logiken	_		{}
+31	i	_	Political_locales	{"Locale": "33"}
+32	Harry	_		{}
+33	Potter-universumet	_		{}
+34	och	_		{}
+35	de	_		{}
+36	skarpa	_		{}
+37	karaktäriseringarna	_		{}
+38	av	_		{}
+39	de	_		{}
+40	olika	_	Diversity	{"Group": "41"}
+41	rollfigurerna	_		{}
+42	:	_		{}
+43	de	_		{}
+44	tre	_	Cardinal_numbers	{"Number": "44", "Entity": "45"}
+45	tonåringarna	_		{}
+46	i	_		{}
+47	centrum	_		{}
+48	,	_		{}
+49	de	_		{}
+50	vuxna	_	People_by_age	{"Person": "50", "Context_of_acquaintance": "52"}
+51	som	_		{}
+52	omger	_		{}
+53	dem	_		{}
+54	och	_		{}
+55	de	_		{}
+56	mindre	_		{}
+57	figurerna	_		{}
+58	som	_		{}
+59	vävs	_		{}
+60	in	_		{}
+61	i	_		{}
+62	och	_		{}
+63	ut	_		{}
+64	ur	_		{}
+65	berättelserna	_		{}
+66	på	_		{}
+67	ett	_	Cardinal_numbers	{"Number": "67", "Entity": "73"}
+68	intrikat	_		{}
+69	,	_		{}
+70	levande	_		{}
+71	och	_		{}
+72	komiskt	_		{}
+73	sätt	_	Conduct	{"Manner": "72", "Agent": "2"}
+74	.	_		{}

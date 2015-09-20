@@ -1,0 +1,17 @@
+1	Aber	_		{}
+2	sie	_		{}
+3	hat	_		{}
+4	uns	_		{}
+5	die	_		{}
+6	Schau	_		{}
+7	gestohlen	_		{}
+8	,	_		{}
+9	weil	_		{}
+10	sie	_		{}
+11	so	_	Degree	{"Gradable_attribute": "12"}
+12	ehrlich	_	Morality_evaluation	{"Expressor": "11", "Degree": "11", "Behavior": "15"}
+13	und	_	Simultaneity	{"Profiled_event": "12", "Landmark_event": "14"}
+14	echt	_	Actually_occurring_entity	{"Instance": "10"}
+15	war	_		{}
+16	.	_		{}
+17	“	_		{}

@@ -1,0 +1,23 @@
+1	Heatwaves	_		{}
+2	kill	_	Killing	{"Cause": "1", "Victim": "5"}
+3	poor	_	Wealthiness	{"Person": "5"}
+4	old	_	Age	{"Age": "4", "Entity": "5"}
+5	people	_		{}
+6	.	_		{}
+7	Global	_	Political_locales	{"Locale": "7"}
+8	warming	_		{}
+9	causes	_	Cause_change	{"Final_value": "10", "Agent": "8", "Final_category": "11"}
+10	worse	_		{}
+11	heatwaves	_		{}
+12	.	_		{}
+13	Poor	_	Wealthiness	{"Person": "15"}
+14	old	_	Age	{"Age": "14", "Entity": "15"}
+15	people	_		{}
+16	draw	_	Activity_start	{"Agent": "15", "Activity": "16"}
+17	pensions	_		{}
+18	.	_		{}
+19	Conservatives	_	People_along_political_spectrum	{"Persistent_characteristic": "19"}
+20	deny	_	Statement	{"Topic": "22", "Medium": "20", "Speaker": "19"}
+21	global	_		{}
+22	warming	_		{}
+23	.	_		{}

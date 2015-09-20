@@ -1,0 +1,21 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	commence	_	Activity_start	{"Agent": "1", "Activity": "5"}
+4	à	_		{}
+5	travailler	_	Being_employed	{"Employee": "1", "Position": "7", "Place_of_employment": "13"}
+6	comme	_		{}
+7	mannequin	_		{}
+8	à	_		{}
+9	16	_		{}
+10	ans	_	Age	{"Age": "9", "Entity": "1"}
+11	,	_		{}
+12	principalement	_		{}
+13	à	_		{}
+14	Los	_		{}
+15	Angeles	_		{}
+16	,	_		{}
+17	New	_		{}
+18	York	_		{}
+19	et	_		{}
+20	Londres	_		{}
+21	.	_		{}

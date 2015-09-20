@@ -1,0 +1,14 @@
+1	Tur	_		{}
+2	att	_		{}
+3	inte	_		{}
+4	google	_		{}
+5	gör	_	Creating	{"Created_entity": "7", "Purpose_of_created_entity": "10", "Creator": "4"}
+6	en	_	Cardinal_numbers	{"Number": "6", "Entity": "7"}
+7	årssumé	_		{}
+8	av	_		{}
+9	ens	_		{}
+10	sökningar	_		{}
+11	.	_		{}
+12	Skulle	_		{}
+13	få	_	Feeling	{"Emotion": "14"}
+14	ångest	_	Emotion_directed	{"Stimulus": "7"}

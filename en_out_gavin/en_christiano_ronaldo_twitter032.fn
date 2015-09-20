@@ -1,0 +1,15 @@
+1	@LaurenceArroyo	_		{}
+2	I	_		{}
+3	hate	_	Experiencer_focus	{"Content": "5", "Experiencer": "2"}
+4	that	_		{}
+5	punter	_		{}
+6	.	_		{}
+7	Flopped	_	Moving_in_place	{"Manner": "8"}
+8	like	_	Similarity	{"Place": "11", "Manner": "8", "Entity_2": "10", "Entity_1": "5"}
+9	Christiano	_		{}
+10	Ronaldo	_		{}
+11	in	_		{}
+12	the	_		{}
+13	goal	_	Aiming	{"Targeted": "13"}
+14	box	_	Containers	{"Type": "13", "Container": "14"}
+15	.	_		{}

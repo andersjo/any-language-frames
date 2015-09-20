@@ -1,0 +1,25 @@
+1	People	_	People	{"Person": "1"}
+2	push	_	Causation	{"Cause": "1", "Affected": "3", "Actor": "1", "Means": "11"}
+3	me	_		{}
+4	to	_		{}
+5	the	_		{}
+6	brink	_		{}
+7	of	_		{}
+8	insanity	_		{}
+9	when	_		{}
+10	they	_		{}
+11	claim	_	Statement	{"Topic": "19", "Message": "12", "Speaker": "1", "Internal_cause": "8", "Means": "11"}
+12	Divergent	_		{}
+13	and	_	Simultaneity	{"Profiled_event": "14", "Landmark_event": "12"}
+14	Hunger	_		{}
+15	Games	_		{}
+16	are	_	Being_in_category	{"Category": "17", "Cognizer": "1", "Means": "11", "Item": "13"}
+17	better	_		{}
+18	than	_		{}
+19	Harry	_		{}
+20	Potter	_		{}
+21	.	_		{}
+22	How	_		{}
+23	could	_		{}
+24	you	_		{}
+25	!?	_		{}

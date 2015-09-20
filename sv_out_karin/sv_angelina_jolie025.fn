@@ -1,0 +1,18 @@
+1	Några	_		{}
+2	år	_	Measure_duration	{"Count": "1", "Unit": "2"}
+3	senare	_	Relative_time	{"Focal_occasion": "4"}
+4	återvände	_		{}
+5	hon	_		{}
+6	till	_		{}
+7	teaterskolan	_		{}
+8	och	_	Simultaneity	{"Profiled_event": "4", "Landmark_event": "10"}
+9	tog	_		{}
+10	examen	_	Examination	{"Examinee": "5", "Place": "12", "Qualification": "12"}
+11	från	_		{}
+12	High	_		{}
+13	School	_		{}
+14	ett	_	Cardinal_numbers	{"Number": "14", "Entity": "15"}
+15	år	_	Measure_duration	{}
+16	i	_		{}
+17	förtid	_		{}
+18	.	_		{}

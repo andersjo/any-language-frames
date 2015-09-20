@@ -1,0 +1,11 @@
+1	She	_		{}
+2	graduated	_	Education_teaching	{"Institution": "4", "Student": "1"}
+3	from	_		{}
+4	high	_	Position_on_a_scale	{"Item": "5"}
+5	school	_	Education_teaching	{"Institution": "4", "Student": "1"}
+6	and	_	Simultaneity	{}
+7	returned	_	Motion_directional	{"Goal": "9"}
+8	to	_		{}
+9	theater	_	Fields	{"Practitioner": "1", "Activity": "10"}
+10	studies	_	Education_teaching	{"Course": "9", "Student": "1"}
+11	.	_		{}

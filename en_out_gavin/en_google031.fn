@@ -1,0 +1,18 @@
+1	In	_		{}
+2	January	_	Calendric_unit	{"Unit": "2"}
+3	2013	_		{}
+4	,	_		{}
+5	Google	_		{}
+6	announced	_	Statement	{"Message": "8", "Speaker": "5", "Time": "1"}
+7	it	_		{}
+8	had	_		{}
+9	earned	_	Earnings_and_losses	{"Earner": "7"}
+10	in	_		{}
+11	annual	_	Frequency	{"Interval": "11", "Event": "12"}
+12	revenue	_		{}
+13	for	_		{}
+14	the	_		{}
+15	year	_	Calendric_unit	{"Unit": "15"}
+16	of	_		{}
+17	2012	_		{}
+18	.	_		{}

@@ -1,0 +1,25 @@
+1	Außerdem	_		{}
+2	stand	_	Supporting	{"Supported": "8", "Supporter": "3"}
+3	sie	_		{}
+4	für	_		{}
+5	fünf	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	Studentenfilme	_		{}
+7	ihres	_		{}
+8	Bruders	_	Kinship	{"Ego": "3", "Alter": "8"}
+9	vor	_	Direction	{"Path": "9", "Base_position": "11"}
+10	der	_		{}
+11	Kamera	_		{}
+12	,	_		{}
+13	als	_		{}
+14	dieser	_		{}
+15	die	_		{}
+16	USC	_		{}
+17	School	_		{}
+18	of	_		{}
+19	Cinematic	_		{}
+20	Arts	_		{}
+21	in	_		{}
+22	Los	_		{}
+23	Angeles	_		{}
+24	besuchte	_	Visiting	{"Agent": "14", "Entity": "17"}
+25	.	_		{}

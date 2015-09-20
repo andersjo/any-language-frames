@@ -1,0 +1,27 @@
+1	Han	_		{}
+2	scorede	_		{}
+3	to	_	Cardinal_numbers	{"Number": "3", "Entity": "4"}
+4	mål	_	Aiming	{"Targeted": "4", "Agent": "1"}
+5	i	_		{}
+6	sin	_		{}
+7	debut	_	Process_start	{"Place": "9"}
+8	for	_		{}
+9	Sporting	_		{}
+10	mod	_		{}
+11	Moreirense	_		{}
+12	,	_		{}
+13	samtidig	_	Simultaneity	{"Profiled_event": "19", "Landmark_event": "7"}
+14	med	_		{}
+15	at	_		{}
+16	han	_		{}
+17	også	_		{}
+18	blev	_		{}
+19	udtaget	_		{}
+20	til	_		{}
+21	Portugals	_		{}
+22	trup	_	Aggregate	{"Aggregate": "22", "Domain": "26"}
+23	i	_		{}
+24	U-17-EM	_		{}
+25	i	_		{}
+26	fodbold	_		{}
+27	.	_		{}

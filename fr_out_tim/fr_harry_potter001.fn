@@ -1,0 +1,26 @@
+1	Harry	_		{}
+2	Potter	_		{}
+3	est	_		{}
+4	une	_		{}
+5	suite	_	Text	{"Text": "1"}
+6	romanesque	_	Text	{"Text": "5"}
+7	de	_		{}
+8	fantasy	_		{}
+9	comprenant	_	Containing	{"Container": "5", "Contents": "11"}
+10	sept	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	romans	_		{}
+12	,	_		{}
+13	écrite	_	Text_creation	{"Text": "1", "Author": "19"}
+14	par	_		{}
+15	J	_		{}
+16	.	_		{}
+17	K	_		{}
+18	.	_		{}
+19	Rowling	_		{}
+20	et	_		{}
+21	parues	_		{}
+22	entre	_		{}
+23	1997	_		{}
+24	et	_		{}
+25	2007	_		{}
+26	.	_		{}

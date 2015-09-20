@@ -1,0 +1,14 @@
+1	Il	_		{}
+2	y	_		{}
+3	provoque	_	Experiencer_obj	{"Stimulus": "1"}
+4	un	_		{}
+5	pénalty	_		{}
+6	et	_		{}
+7	se	_		{}
+8	fait	_		{}
+9	remarquer	_	Perception_experience	{"Phenomenon": "7"}
+10	par	_		{}
+11	ses	_		{}
+12	gestes	_		{}
+13	techniques	_	Expertise	{"Behavior_product": "9", "Protagonist": "11"}
+14	.	_		{}

@@ -1,0 +1,31 @@
+1	Unter	_		{}
+2	dem	_		{}
+3	Label	_		{}
+4	„CR7	_		{}
+5	“	_		{}
+6	–	_		{}
+7	ein	_		{}
+8	Numeronym	_		{}
+9	,	_		{}
+10	das	_		{}
+11	sich	_		{}
+12	aus	_		{}
+13	seinen	_	Possession	{"Possession": "14", "Owner": "22"}
+14	Initialen	_		{}
+15	und	_	Simultaneity	{"Profiled_event": "17", "Landmark_event": "14"}
+16	seiner	_	Possession	{"Possession": "17", "Owner": "22"}
+17	Rückennummer	_		{}
+18	zusammensetzt	_		{}
+19	–	_		{}
+20	betreibt	_		{}
+21	Cristiano	_		{}
+22	Ronaldo	_		{}
+23	gemeinsam	_	Collaboration	{"Undertaking": "30", "Partner_2": "26", "Partner_1": "22"}
+24	mit	_		{}
+25	seinen	_	Possession	{"Possession": "26", "Owner": "22"}
+26	Schwestern	_	Kinship	{"Ego": "22", "Alter": "26"}
+27	in	_		{}
+28	Portugal	_		{}
+29	zwei	_	Cardinal_numbers	{"Number": "29", "Entity": "30"}
+30	Modeboutiquen	_		{}
+31	.	_		{}

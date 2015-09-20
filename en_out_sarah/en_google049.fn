@@ -1,0 +1,30 @@
+1	As	_		{}
+2	a	_	Cardinal_numbers	{"Number": "2", "Entity": "3"}
+3	reply	_	Response	{"Trigger": "6", "Agent": "11"}
+4	to	_		{}
+5	this	_	Proper_reference	{"Intended_referent": "6"}
+6	concern	_		{}
+7	,	_		{}
+8	co-founders	_		{}
+9	Sergey	_		{}
+10	Brin	_		{}
+11	and	_	Simultaneity	{"Profiled_event": "9", "Landmark_event": "12"}
+12	Larry	_		{}
+13	Page	_		{}
+14	promised	_	Commitment	{"Topic": "23", "Message": "26", "Medium": "17", "Speaker": "11", "Addressee": "20"}
+15	in	_		{}
+16	a	_	Cardinal_numbers	{"Number": "16", "Entity": "17"}
+17	report	_		{}
+18	to	_		{}
+19	potential	_	Likelihood	{"Hypothetical_event": "20"}
+20	investors	_		{}
+21	that	_		{}
+22	the	_		{}
+23	IPO	_		{}
+24	would	_		{}
+25	not	_		{}
+26	change	_	Cause_change	{"Initial_value": "29"}
+27	the	_		{}
+28	company's	_		{}
+29	culture	_		{}
+30	.	_		{}

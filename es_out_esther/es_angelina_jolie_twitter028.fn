@@ -1,0 +1,17 @@
+1	Brad	_		{}
+2	Pitt	_		{}
+3	y	_		{}
+4	Angelina	_		{}
+5	Jolie	_		{}
+6	Mi	_		{}
+7	papa	_	Kinship	{"Ego": "13", "Alter": "7"}
+8	y	_		{}
+9	mi	_		{}
+10	mama	_	Kinship	{"Ego": "13", "Alter": "10"}
+11	Vos	_		{}
+12	y	_		{}
+13	yo	_	Proper_reference	{"Intended_referent": "13"}
+14	Parejas	_	Personal_relationship	{"Partner_2": "11", "Partner_1": "13"}
+15	perfectas	_	Correctness	{"Topic": "14"}
+16	♥♥♥	_		{}
+17	http://t.co/1LUMoYtIjg	_		{}

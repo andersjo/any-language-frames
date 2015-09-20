@@ -1,0 +1,23 @@
+1	From	_		{}
+2	its	_		{}
+3	official	_	Leadership	{}
+4	adoption	_	Respond_to_proposal	{"Proposal": "2", "Place": "5", "Time": "11"}
+5	in	_		{}
+6	Russia	_		{}
+7	following	_	Relative_time	{"Focal_occasion": "4", "Focal_participant": "2", "Landmark_occasion": "10"}
+8	the	_		{}
+9	Soviet	_		{}
+10	Revolution	_	Change_of_leadership	{"Time": "11"}
+11	in	_		{}
+12	1917	_		{}
+13	the	_		{}
+14	holiday	_		{}
+15	was	_	Being_in_category	{"Category": "17", "Item": "14"}
+16	predominantly	_		{}
+17	celebrated	_	Social_event	{"Place": "18", "Manner": "16"}
+18	in	_		{}
+19	communist	_		{}
+20	and	_		{}
+21	socialist	_		{}
+22	countries	_	Political_locales	{"Locale": "22", "Descriptor": "19"}
+23	.	_		{}

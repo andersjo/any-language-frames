@@ -1,0 +1,25 @@
+1	@TheDeathFollow	_		{}
+2	Erstens	_		{}
+3	,	_		{}
+4	das	_		{}
+5	sind	_	Being_in_category	{"Category": "7", "Item": "4"}
+6	Google	_		{}
+7	Anzeigen	_		{}
+8	,	_		{}
+9	gegen	_		{}
+10	die	_		{}
+11	man	_	People	{"Person": "11"}
+12	sich	_		{}
+13	nicht	_		{}
+14	wehren	_		{}
+15	kann	_		{}
+16	,	_		{}
+17	zweitens	_		{}
+18	habe	_	Possession	{"Possession": "21", "Owner": "19"}
+19	ich	_		{}
+20	dieses	_		{}
+21	Bild	_	Physical_artworks	{"Artifact": "21"}
+22	hier	_	Locative_relation	{"Figure": "21", "Ground": "22"}
+23	von	_		{}
+24	Twitter	_		{}
+25	xD	_		{}

@@ -1,0 +1,20 @@
+1	Igen	_		{}
+2	kommer	_		{}
+3	reklamer	_		{}
+4	med	_		{}
+5	i	_		{}
+6	billedet	_	Exemplar	{"Instance": "3", "Type": "6"}
+7	,	_		{}
+8	idet	_		{}
+9	annoncører	_		{}
+10	kan	_		{}
+11	købe	_	Commerce_buy	{"Buyer": "9", "Goods": "12", "Place": "14"}
+12	plads	_	Building_subparts	{"Building_part": "12", "Whole": "14"}
+13	på	_		{}
+14	resultatsiden	_		{}
+15	,	_		{}
+16	hvilket	_		{}
+17	anfægter	_		{}
+18	søgningens	_		{}
+19	neutralitet	_	Partiality	{"Manifestation_of_bias": "3", "Side_1": "9", "Decision_maker": "18"}
+20	.	_		{}

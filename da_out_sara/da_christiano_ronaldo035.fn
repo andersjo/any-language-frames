@@ -1,0 +1,22 @@
+1	Han	_		{}
+2	scorede	_		{}
+3	sit	_		{}
+4	første	_	Ordinal_numbers	{"Item": "5"}
+5	mål	_	Aiming	{"Targeted": "5", "Agent": "1"}
+6	for	_		{}
+7	Manchester	_		{}
+8	United	_		{}
+9	på	_		{}
+10	et	_		{}
+11	frispark	_		{}
+12	i	_		{}
+13	en	_		{}
+14	3-0-sejr	_		{}
+15	over	_		{}
+16	Portsmouth	_		{}
+17	den	_		{}
+18	1	_	Cardinal_numbers	{"Number": "18"}
+19	.	_		{}
+20	november	_	Calendric_unit	{"Relative_time": "21", "Whole": "18", "Unit": "20"}
+21	2003	_		{}
+22	.	_		{}

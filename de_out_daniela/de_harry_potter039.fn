@@ -1,0 +1,43 @@
+1	Zweimal	_	Event_instance	{"Instance": "1", "Event": "5"}
+2	kann	_		{}
+3	Harry	_		{}
+4	dies	_		{}
+5	verhindern	_	Preventing	{"Event": "4", "Agent": "3"}
+6	:	_		{}
+7	Im	_		{}
+8	ersten	_	Ordinal_numbers	{"Item": "9"}
+9	Band	_		{}
+10	vereitelt	_	Thwarting	{"Action": "21", "Protagonist": "12", "Preventing_cause": "11"}
+11	er	_		{}
+12	Voldemorts	_		{}
+13	Plan	_	Coming_up_with	{"Cognizer": "12", "Idea": "13"}
+14	,	_		{}
+15	den	_		{}
+16	„Stein	_		{}
+17	der	_		{}
+18	Weisen	_		{}
+19	“	_		{}
+20	zu	_		{}
+21	stehlen	_	Theft	{"Perpetrator": "12", "Goods": "16"}
+22	;	_		{}
+23	im	_		{}
+24	zweiten	_		{}
+25	Band	_		{}
+26	vernichtet	_	Destroying	{"Undergoer": "30", "Destroyer": "27"}
+27	er	_		{}
+28	ein	_		{}
+29	magisches	_		{}
+30	Abbild	_	Impression	{"Figure": "30"}
+31	des	_		{}
+32	16	_		{}
+33	Jahre	_	Calendric_unit	{"Count": "32", "Unit": "33"}
+34	alten	_	Age	{"Age": "32", "Entity": "35"}
+35	Voldemort	_		{}
+36	,	_		{}
+37	das	_		{}
+38	in	_		{}
+39	einem	_		{}
+40	Tagebuch	_	Text	{"Text": "40"}
+41	verborgen	_		{}
+42	war	_		{}
+43	.	_		{}

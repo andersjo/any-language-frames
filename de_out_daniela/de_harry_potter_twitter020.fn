@@ -1,0 +1,21 @@
+1	Alter	_	People_by_age	{"Person": "1"}
+2	,	_		{}
+3	es	_		{}
+4	ist	_		{}
+5	halb	_		{}
+6	8	_	Cardinal_numbers	{"Number": "6"}
+7	abends	_		{}
+8	und	_		{}
+9	bei	_		{}
+10	Harry	_		{}
+11	Potter	_		{}
+12	wurde	_		{}
+13	so	_	Degree	{"Gradable_attribute": "15"}
+14	krass	_		{}
+15	viel	_	Quantity	{"Q_Prop": "14", "Quantity": "15"}
+16	rausgeschnitten	_		{}
+17	.	_		{}
+18	O_O	_		{}
+19	Bin	_		{}
+20	entsetzt	_	Emotion_directed	{"Stimulus": "16"}
+21	.	_		{}

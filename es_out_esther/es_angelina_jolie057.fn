@@ -1,0 +1,32 @@
+1	Jolie	_		{}
+2	habló	_		{}
+3	con	_		{}
+4	"	_		{}
+5	Los	_		{}
+6	Angeles	_		{}
+7	Times	_		{}
+8	"	_		{}
+9	sobre	_		{}
+10	el	_		{}
+11	papel	_	Performers_and_roles	{"Performer1": "1"}
+12	,	_		{}
+13	a	_		{}
+14	lo	_		{}
+15	que	_		{}
+16	comentó	_		{}
+17	:	_		{}
+18	"	_		{}
+19	Se	_		{}
+20	me	_	Proper_reference	{"Intended_referent": "1"}
+21	hizo	_	Execution	{"Executioner": "1", "Executed": "24", "Degree": "23"}
+22	muy	_	Degree	{"Gradable_attribute": "23"}
+23	duro	_	Difficulty	{"Experiencer": "1", "Activity": "24"}
+24	interpretar	_	Performers_and_roles	{"Performer1": "1"}
+25	este	_	Proper_reference	{"Intended_referent": "26"}
+26	personaje	_	Performers_and_roles	{"Performer1": "1"}
+27	,	_		{}
+28	pero	_		{}
+29	lo	_		{}
+30	disfruté	_		{}
+31	"	_		{}
+32	.	_		{}

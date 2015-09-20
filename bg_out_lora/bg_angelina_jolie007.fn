@@ -1,0 +1,22 @@
+1	Анджелина	_		{}
+2	е	_		{}
+3	родена	_		{}
+4	на	_	Calendric_unit	{"Relative_time": "4"}
+5	4	_	Cardinal_numbers	{"Entity": "5"}
+6	юни	_	Calendric_unit	{"Name": "6"}
+7	1975	_		{}
+8	г	_	Measure_mass	{"Unit": "8"}
+9	.	_		{}
+10	в	_		{}
+11	семейството	_	Kinship	{"Relatives": "11"}
+12	на	_		{}
+13	американския	_		{}
+14	актьор	_	Performers	{"Person": "14"}
+15	Джон	_		{}
+16	Войт	_		{}
+17	и	_		{}
+18	френската	_		{}
+19	актриса	_	Performers	{"Person": "19"}
+20	Маршелин	_		{}
+21	Бертран	_		{}
+22	.	_		{}

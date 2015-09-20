@@ -1,0 +1,31 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	är	_		{}
+4	skådespelarna	_	Performers	{"Person": "9"}
+5	Jon	_		{}
+6	Voight	_		{}
+7	och	_	Simultaneity	{"Profiled_event": "6", "Landmark_event": "9"}
+8	Marcheline	_		{}
+9	Bertrands	_		{}
+10	dotter	_	Kinship	{"Ego": "9", "Alter": "2"}
+11	,	_		{}
+12	skådespelaren	_		{}
+13	James	_		{}
+14	Havens	_		{}
+15	syster	_	Kinship	{"Ego": "14", "Alter": "2"}
+16	,	_		{}
+17	sångaren	_		{}
+18	och	_	Simultaneity	{"Profiled_event": "17", "Landmark_event": "19"}
+19	låtskrivaren	_		{}
+20	Chip	_		{}
+21	Taylors	_		{}
+22	niece	_	Kinship	{"Ego": "21", "Alter": "2"}
+23	och	_		{}
+24	skådespelarna	_	Performers	{"Person": "26"}
+25	Jacqueline	_		{}
+26	Bisset	_		{}
+27	och	_	Simultaneity	{"Profiled_event": "26", "Landmark_event": "28"}
+28	Maximilian	_		{}
+29	Schells	_		{}
+30	gudbarn	_		{}
+31	.	_		{}

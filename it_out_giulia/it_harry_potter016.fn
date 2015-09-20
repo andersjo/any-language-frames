@@ -1,0 +1,30 @@
+1	Di	_		{}
+2	tutte	_	Quantity	{"Individuals": "4", "Quantity": "2"}
+3	queste	_		{}
+4	cose	_	Entity	{"Entity": "4"}
+5	Harry	_		{}
+6	non	_		{}
+7	sapeva	_	Awareness	{"Topic": "4"}
+8	nulla	_		{}
+9	,	_		{}
+10	in	_		{}
+11	quanto	_		{}
+12	i	_		{}
+13	Dursley	_		{}
+14	gliele	_		{}
+15	hanno	_		{}
+16	sempre	_	Continued_state_of_affairs	{}
+17	tenute	_		{}
+18	nascoste	_	Secrecy_status	{"Phenomenon": "4"}
+19	raccontandogli	_		{}
+20	che	_		{}
+21	i	_		{}
+22	suoi	_		{}
+23	genitori	_	Kinship	{"Ego": "5", "Alter": "23"}
+24	erano	_		{}
+25	morti	_	Death	{"Protagonist": "23"}
+26	in	_		{}
+27	un	_		{}
+28	incidente	_	Catastrophe	{"Undesirable_Event": "28"}
+29	d'auto	_		{}
+30	.	_		{}

@@ -1,0 +1,20 @@
+1	Eftersom	_		{}
+2	förnekelse	_		{}
+3	av	_		{}
+4	förintelsen	_	Killing	{"Place": "8"}
+5	är	_		{}
+6	förbjudet	_	Prohibiting	{"Place": "8", "Principle": "4", "State_of_affairs": "2"}
+7	i	_		{}
+8	Tyskland	_		{}
+9	,	_		{}
+10	tar	_	Removing	{"Theme": "16", "Cause": "6", "Agent": "11"}
+11	google.de	_		{}
+12	till	_		{}
+13	exempel	_		{}
+14	bort	_		{}
+15	vissa	_		{}
+16	sökträffar	_		{}
+17	på	_		{}
+18	sådana	_		{}
+19	sidor	_		{}
+20	.	_		{}

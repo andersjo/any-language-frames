@@ -1,0 +1,35 @@
+1	En	_		{}
+2	1990	_		{}
+3	,	_		{}
+4	J	_		{}
+5	.	_		{}
+6	K	_		{}
+7	.	_		{}
+8	Rowling	_		{}
+9	empruntait	_		{}
+10	un	_		{}
+11	train	_	Vehicle	{"Vehicle": "11"}
+12	bondé	_	Fullness	{"Container": "11"}
+13	se	_		{}
+14	rendant	_	Self_motion	{"Source": "18", "Goal": "16", "Self_mover": "11"}
+15	à	_		{}
+16	Londres	_		{}
+17	depuis	_		{}
+18	Manchester	_		{}
+19	quand	_		{}
+20	l'idée	_		{}
+21	de	_		{}
+22	"	_		{}
+23	Harry	_		{}
+24	Potter	_		{}
+25	"	_		{}
+26	lui	_		{}
+27	est	_		{}
+28	soudainement	_		{}
+29	«	_		{}
+30	tombée	_		{}
+31	sur	_		{}
+32	la	_		{}
+33	tête	_	Observable_body_parts	{"Body_part": "33", "Possessor": "8"}
+34	»	_		{}
+35	.	_		{}

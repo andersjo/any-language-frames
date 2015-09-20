@@ -1,0 +1,55 @@
+1	Nello	_		{}
+2	stesso	_	Identicality	{"Current_instance": "4", "Type": "3"}
+3	anno	_	Calendric_unit	{}
+4	recita	_	Performers_and_roles	{"Performer2": "9"}
+5	al	_		{}
+6	fianco	_		{}
+7	di	_		{}
+8	Denzel	_		{}
+9	Washington	_		{}
+10	ne	_		{}
+11	"	_		{}
+12	Il	_		{}
+13	collezionista	_		{}
+14	di	_		{}
+15	ossa	_		{}
+16	"	_		{}
+17	,	_		{}
+18	adattamento	_	Cause_change	{"Final_category": "19", "Initial_category": "22"}
+19	cinematografico	_		{}
+20	di	_		{}
+21	un	_		{}
+22	romanzo	_	Text	{"Text": "22", "Author": "25"}
+23	di	_		{}
+24	Jeffery	_		{}
+25	Deaver	_		{}
+26	,	_		{}
+27	in	_		{}
+28	cui	_		{}
+29	la	_		{}
+30	Jolie	_		{}
+31	interpreta	_	Performers_and_roles	{"Role": "35", "Performer1": "30", "Performer2": "9"}
+32	Amelia	_		{}
+33	Donaghy	_		{}
+34	,	_		{}
+35	un'agente	_		{}
+36	di	_		{}
+37	polizia	_		{}
+38	ossessionata	_	Emotion_active	{"Topic": "40", "Experiencer": "35"}
+39	dal	_		{}
+40	suicidio	_	Killing	{"Cause": "40", "Victim": "42"}
+41	del	_		{}
+42	padre	_	Kinship	{"Ego": "35", "Alter": "42"}
+43	poliziotto	_	People_by_vocation	{"Person": "42"}
+44	,	_		{}
+45	basato	_	Intentionally_create	{}
+46	su	_		{}
+47	Amelia	_		{}
+48	Sachs	_		{}
+49	,	_		{}
+50	personaggio	_	Instance	{"Instance": "50", "Type": "51"}
+51	letterario	_		{}
+52	creato	_	Intentionally_create	{"Created_entity": "50", "Creator": "54"}
+53	da	_		{}
+54	Deaver	_		{}
+55	.	_		{}

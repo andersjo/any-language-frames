@@ -1,0 +1,25 @@
+1	@ogunmilorokenny	_		{}
+2	,	_		{}
+3	please	_		{}
+4	try	_	Attempt	{}
+5	and	_		{}
+6	check	_	Scrutiny	{"Ground": "8"}
+7	the	_		{}
+8	fact	_		{}
+9	about	_		{}
+10	christiano	_		{}
+11	Ronaldo	_		{}
+12	origin	_	Origin	{"Origin": "12", "Entity": "11"}
+13	.	_		{}
+14	I	_		{}
+15	don't	_		{}
+16	wanna	_		{}
+17	argue	_	Quarreling	{"Place": "24", "Arguer2": "19", "Arguer1": "14"}
+18	with	_		{}
+19	you	_		{}
+20	further	_		{}
+21	the	_		{}
+22	other	_		{}
+23	time	_	Event_instance	{"Instance": "23", "Event": "17"}
+24	on	_		{}
+25	air	_	Natural_features	{"Locale": "25"}

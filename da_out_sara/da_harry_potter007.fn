@@ -1,0 +1,36 @@
+1	Den	_		{}
+2	1	_	Cardinal_numbers	{"Number": "2"}
+3	.	_		{}
+4	februar	_	Calendric_unit	{"Whole": "2", "Salient_event": "8", "Unit": "4", "Relative_time": "5"}
+5	2007	_		{}
+6	blev	_		{}
+7	det	_		{}
+8	offentliggjort	_		{}
+9	,	_		{}
+10	at	_		{}
+11	"	_		{}
+12	Harry	_		{}
+13	Potter	_		{}
+14	and	_		{}
+15	the	_		{}
+16	Deathly	_		{}
+17	Hallows	_		{}
+18	"	_		{}
+19	ville	_		{}
+20	udkomme	_		{}
+21	den	_		{}
+22	21	_	Cardinal_numbers	{"Number": "22"}
+23	.	_		{}
+24	juli	_	Calendric_unit	{"Relative_time": "25", "Salient_event": "20", "Whole": "23", "Unit": "24"}
+25	2007	_		{}
+26	,	_		{}
+27	hvilket	_		{}
+28	skete	_		{}
+29	under	_		{}
+30	stor	_	Size	{"Entity": "31"}
+31	mediebevågenhed	_		{}
+32	og	_		{}
+33	meget	_	Degree	{"Gradable_attribute": "34"}
+34	strenge	_		{}
+35	sikkerhedsforanstaltninger	_	Being_at_risk	{"Asset": "35", "Degree": "34"}
+36	.	_		{}

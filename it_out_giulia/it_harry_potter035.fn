@@ -1,0 +1,27 @@
+1	Oltre	_		{}
+2	ad	_		{}
+3	Hogwarts	_		{}
+4	,	_		{}
+5	dove	_		{}
+6	i	_		{}
+7	protagonisti	_		{}
+8	trascorrono	_		{}
+9	la	_		{}
+10	maggior	_		{}
+11	parte	_	Part_whole	{"Part": "11", "Whole": "13"}
+12	del	_		{}
+13	tempo	_	Timespan	{"State": "8"}
+14	,	_		{}
+15	altri	_		{}
+16	luoghi	_	Locale	{"Locale": "16"}
+17	fanno	_		{}
+18	da	_		{}
+19	scenario	_	Locale_by_event	{"Locale": "16"}
+20	alle	_		{}
+21	vicende	_		{}
+22	narrate	_	Telling	{"Topic": "21", "Medium": "24"}
+23	nella	_		{}
+24	serie	_	Sequence	{}
+25	di	_		{}
+26	libri	_	Text	{"Text": "26"}
+27	.	_		{}

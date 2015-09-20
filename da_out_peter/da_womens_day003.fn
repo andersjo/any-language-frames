@@ -1,0 +1,16 @@
+1	I	_		{}
+2	Kina	_		{}
+3	markeres	_		{}
+4	dagen	_	Calendric_unit	{"Unit": "4"}
+5	ved	_		{}
+6	at	_		{}
+7	kvinder	_	People	{"Person": "7"}
+8	har	_	Possession	{"Owner": "7", "Possession": "11"}
+9	en	_		{}
+10	halv	_		{}
+11	fridag	_		{}
+12	den	_		{}
+13	8	_	Cardinal_numbers	{"Number": "13", "Entity": "15"}
+14	.	_		{}
+15	marts	_	Calendric_unit	{"Whole": "15", "Unit": "13"}
+16	.	_		{}

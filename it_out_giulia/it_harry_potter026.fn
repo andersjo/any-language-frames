@@ -1,0 +1,59 @@
+1	Un	_		{}
+2	canone	_		{}
+3	classico	_		{}
+4	è	_		{}
+5	la	_		{}
+6	crescita	_	Progress	{"Entity": "11"}
+7	interiore	_		{}
+8	ed	_		{}
+9	emotiva	_		{}
+10	dei	_		{}
+11	protagonisti	_		{}
+12	attraverso	_		{}
+13	le	_		{}
+14	prove	_		{}
+15	più	_		{}
+16	o	_		{}
+17	meno	_		{}
+18	pericolose	_	Risky_situation	{"Dangerous_entity": "14"}
+19	che	_		{}
+20	il	_		{}
+21	destino	_	Destiny	{"State_of_affairs": "14"}
+22	ha	_		{}
+23	loro	_		{}
+24	riservato	_		{}
+25	:	_		{}
+26	in	_		{}
+27	"	_		{}
+28	Harry	_		{}
+29	Potter	_		{}
+30	"	_		{}
+31	i	_		{}
+32	protagonisti	_		{}
+33	non	_		{}
+34	vivranno	_		{}
+35	un'esperienza	_		{}
+36	magica	_	Ineffability	{"Stimulus": "35"}
+37	limitata	_		{}
+38	all'infanzia	_		{}
+39	o	_		{}
+40	all'adolescenza	_		{}
+41	per	_		{}
+42	poi	_		{}
+43	tornare	_		{}
+44	nel	_		{}
+45	mondo	_	Locale	{"Locale": "45"}
+46	reale	_	Actually_occurring_entity	{"Instance": "45"}
+47	ordinario	_	Typicality	{"Entity": "45"}
+48	,	_		{}
+49	ma	_		{}
+50	diverranno	_	Becoming	{"Entity": "32"}
+51	adulti	_	People_by_age	{}
+52	nel	_		{}
+53	mondo	_	Locale	{"Locale": "53"}
+54	magico	_	Ineffability	{}
+55	come	_		{}
+56	le	_		{}
+57	persone	_	People	{"Person": "57"}
+58	comuni	_		{}
+59	.	_		{}

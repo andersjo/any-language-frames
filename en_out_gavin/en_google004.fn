@@ -1,0 +1,19 @@
+1	Google	_		{}
+2	was	_		{}
+3	founded	_	Intentionally_create	{"Created_entity": "1", "Creator": "4", "Time": "10"}
+4	by	_		{}
+5	Larry	_		{}
+6	Page	_		{}
+7	and	_		{}
+8	Sergey	_		{}
+9	Brin	_		{}
+10	while	_	Part_piece	{}
+11	they	_		{}
+12	were	_	Being_in_category	{"Category": "14", "Item": "11"}
+13	P	_		{}
+14	h.D.	_		{}
+15	students	_	People_by_vocation	{"Person": "15", "Place_of_employment": "16", "Type": "15"}
+16	at	_		{}
+17	Stanford	_		{}
+18	University	_	Locale_by_use	{"Locale": "18", "Name": "17"}
+19	.	_		{}

@@ -1,0 +1,67 @@
+1	È	_		{}
+2	stata	_	Being_located	{"Location": "5"}
+3	inserita	_		{}
+4	nella	_		{}
+5	lista	_	Aggregate	{"Individuals": "8", "AggregateProperty": "10"}
+6	delle	_		{}
+7	100	_	Cardinal_numbers	{"Number": "7", "Entity": "8"}
+8	persone	_	Exemplar	{"Type": "10"}
+9	più	_		{}
+10	influenti	_	Subjective_influence	{"Entity": "8"}
+11	del	_		{}
+12	mondo	_		{}
+13	redatta	_		{}
+14	dalla	_		{}
+15	rivista	_	Text	{"Text": "15", "Title": "16"}
+16	TIME	_		{}
+17	e	_		{}
+18	nella	_		{}
+19	lista	_	Aggregate	{"Individuals": "22", "AggregateProperty": "24"}
+20	delle	_		{}
+21	100	_	Cardinal_numbers	{"Number": "21", "Entity": "22"}
+22	donne	_	People	{}
+23	più	_		{}
+24	potenti	_		{}
+25	al	_		{}
+26	mondo	_		{}
+27	secondo	_		{}
+28	la	_		{}
+29	rivista	_	Text	{"Text": "29", "Title": "30"}
+30	Forbes	_		{}
+31	;	_		{}
+32	è	_		{}
+33	stata	_		{}
+34	inoltre	_		{}
+35	descritta	_		{}
+36	come	_		{}
+37	l'attrice	_		{}
+38	più	_		{}
+39	potente	_	Being_strong	{"Entity": "37"}
+40	nell'edizione	_		{}
+41	2009	_		{}
+42	del	_		{}
+43	"	_		{}
+44	Guinness	_		{}
+45	dei	_		{}
+46	primati	_	Dominate_situation	{"Agent": "37"}
+47	"	_		{}
+48	..	_		{}
+49	Nel	_		{}
+50	2013	_		{}
+51	è	_		{}
+52	stata	_		{}
+53	l'attrice	_		{}
+54	più	_		{}
+55	pagata	_		{}
+56	di	_		{}
+57	Hollywood	_		{}
+58	,	_		{}
+59	con	_		{}
+60	un	_		{}
+61	reddito	_	Earnings_and_losses	{"Earner": "53", "Place": "57", "Earnings": "64", "Time": "49"}
+62	di	_		{}
+63	33	_		{}
+64	milioni	_	Cardinal_numbers	{"Number": "64", "Entity": "66"}
+65	di	_		{}
+66	dollari	_		{}
+67	.	_		{}

@@ -1,0 +1,28 @@
+1	Ronaldo	_		{}
+2	berättade	_		{}
+3	att	_		{}
+4	han	_		{}
+5	var	_		{}
+6	glad	_	Emotions_by_stimulus	{"Stimulus": "8", "Experiencer": "1"}
+7	för	_		{}
+8	flytten	_		{}
+9	och	_	Simultaneity	{"Profiled_event": "2", "Landmark_event": "10"}
+10	förklarade	_		{}
+11	för	_		{}
+12	fansen	_		{}
+13	och	_		{}
+14	TV-tittarna	_		{}
+15	att	_		{}
+16	det	_		{}
+17	hade	_		{}
+18	varit	_		{}
+19	en	_	Cardinal_numbers	{"Number": "19", "Entity": "20"}
+20	dröm	_	Desiring	{"Location_of_Event": "26", "Focal_participant": "1", "Role_of_focal_participant": "24", "Event": "24", "Experiencer": "1"}
+21	sedan	_	Temporal_collocation	{"Landmark_period": "22"}
+22	barnsben	_		{}
+23	att	_		{}
+24	spela	_	Competition	{"Participant_1": "1"}
+25	för	_		{}
+26	Real	_		{}
+27	Madrid	_		{}
+28	.	_		{}

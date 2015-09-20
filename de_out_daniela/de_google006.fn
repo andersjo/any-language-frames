@@ -1,0 +1,19 @@
+1	Google	_		{}
+2	hat	_	Possession	{"Owner": "1", "Possession": "5"}
+3	einen	_		{}
+4	weltweiten	_		{}
+5	Anteil	_	Part_whole	{"Part": "5", "Whole": "12"}
+6	von	_		{}
+7	etwa	_	Dimension	{}
+8	70	_	Cardinal_numbers	{"Number": "8", "Entity": "9"}
+9	%	_		{}
+10	an	_		{}
+11	allen	_		{}
+12	Suchanfragen	_		{}
+13	im	_		{}
+14	Internet	_		{}
+15	(	_		{}
+16	März	_	Calendric_unit	{"Whole": "17", "Unit": "16"}
+17	2014	_		{}
+18	)	_		{}
+19	.	_		{}

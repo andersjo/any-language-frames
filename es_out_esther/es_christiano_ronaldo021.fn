@@ -1,0 +1,23 @@
+1	Una	_		{}
+2	vez	_	Event_instance	{"Instance": "2", "Event": "3"}
+3	finalizado	_	Activity_finish	{"Activity": "5"}
+4	el	_		{}
+5	traslado	_	Translating	{"Target_representation": "15"}
+6	,	_		{}
+7	comenzó	_		{}
+8	su	_		{}
+9	nuevo	_	Age	{"Attribute": "10", "Degree": "9", "Entity": "13"}
+10	periplo	_	Touring	{"Attraction": "13"}
+11	en	_		{}
+12	la	_		{}
+13	disciplina	_	Fields	{"Salient_entity": "15"}
+14	del	_		{}
+15	club	_	Organization	{"Organization": "16"}
+16	lisboeta	_		{}
+17	a	_		{}
+18	partir	_		{}
+19	de	_		{}
+20	la	_		{}
+21	temporada	_	Sequence	{"Entity1": "22"}
+22	1997-98	_		{}
+23	.	_		{}

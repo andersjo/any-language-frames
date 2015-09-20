@@ -1,0 +1,34 @@
+1	Ronaldos	_		{}
+2	mange	_	Quantity	{"Individuals": "3", "Quantity": "2"}
+3	scoringer	_		{}
+4	blev	_		{}
+5	belønnet	_		{}
+6	med	_		{}
+7	,	_		{}
+8	at	_		{}
+9	han	_		{}
+10	som	_		{}
+11	den	_		{}
+12	første	_	Ordinal_numbers	{"Item": "1", "Type": "13"}
+13	fløj	_		{}
+14	kunne	_		{}
+15	vinde	_	Win_prize	{"Competitor": "1", "Prize": "18"}
+16	2007-08-European	_		{}
+17	Golden	_		{}
+18	Shoe-prisen	_		{}
+19	,	_		{}
+20	da	_		{}
+21	han	_		{}
+22	sluttede	_		{}
+23	med	_		{}
+24	at	_		{}
+25	have	_	Getting	{"Theme": "27", "Recipient": "21"}
+26	otte	_	Cardinal_numbers	{"Number": "26", "Entity": "27"}
+27	point	_		{}
+28	mere	_		{}
+29	end	_		{}
+30	Real	_		{}
+31	Mallorcas	_		{}
+32	Dani	_		{}
+33	Güiza	_		{}
+34	.	_		{}

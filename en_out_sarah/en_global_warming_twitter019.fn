@@ -1,0 +1,9 @@
+1	White	_	Color	{"Color": "1", "Entity": "2"}
+2	Roofs	_		{}
+3	Help	_	Assistance	{"Goal": "4", "Helper": "2"}
+4	Combat	_	Hostile_encounter	{"Side_2": "6", "Side_1": "2"}
+5	Global	_	Political_locales	{"Locale": "5"}
+6	Warming	_		{}
+7	http://t.co/X7qU8lOcHT	_		{}
+8	#whiterooofs	_		{}
+9	#roofcoatings	_		{}

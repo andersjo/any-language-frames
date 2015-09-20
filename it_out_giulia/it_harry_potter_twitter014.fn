@@ -1,0 +1,15 @@
+1	Se	_		{}
+2	vai	_	Motion	{"Goal": "6"}
+3	agli	_		{}
+4	Harry	_		{}
+5	Potter	_		{}
+6	studio	_	Locale_by_use	{"Locale": "6"}
+7	,	_		{}
+8	devi	_		{}
+9	avere	_	Bringing	{"Theme": "12"}
+10	almeno	_	Relational_quantity	{"Individuals": "12", "Denoted_quantity": "12", "Reference_quantity": "10"}
+11	200	_	Cardinal_numbers	{"Number": "11", "Entity": "12"}
+12	euro	_		{}
+13	con	_		{}
+14	te	_		{}
+15	ahah	_		{}

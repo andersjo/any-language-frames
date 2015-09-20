@@ -1,0 +1,26 @@
+1	Im	_		{}
+2	vierten	_		{}
+3	Band	_		{}
+4	muss	_		{}
+5	Harry	_		{}
+6	machtlos	_		{}
+7	mit	_		{}
+8	ansehen	_	Perception_active	{"Perceiver_agentive": "5", "Phenomenon": "11"}
+9	,	_		{}
+10	wie	_		{}
+11	Voldemort	_		{}
+12	einen	_		{}
+13	neuen	_	Age	{"Entity": "14"}
+14	Körper	_	Observable_body_parts	{"Body_part": "14", "Possessor": "11"}
+15	erhält	_		{}
+16	und	_		{}
+17	beginnt	_	Activity_start	{"Agent": "11", "Activity": "25"}
+18	,	_		{}
+19	seine	_	Possession	{"Possession": "20", "Owner": "11"}
+20	Gefolgsleute	_		{}
+21	wieder	_		{}
+22	um	_		{}
+23	sich	_		{}
+24	zu	_		{}
+25	versammeln	_	Come_together	{"Individuals": "20"}
+26	.	_		{}

@@ -1,0 +1,27 @@
+1	In	_		{}
+2	2005	_		{}
+3	,	_		{}
+4	articles	_	Text	{"Text": "4", "Containing_text": "10", "Time_of_creation": "1"}
+5	in	_		{}
+6	"	_		{}
+7	The	_		{}
+8	New	_	Age	{"Age": "8", "Entity": "9"}
+9	York	_		{}
+10	Times	_	Text	{"Text": "10", "Title": "9"}
+11	"	_		{}
+12	and	_		{}
+13	other	_		{}
+14	sources	_	Attributed_information	{"Proposition": "19", "Speaker": "14"}
+15	began	_	Activity_start	{"Agent": "14", "Activity": "16"}
+16	suggesting	_	Communication	{"Communicator": "14", "Message": "19"}
+17	that	_		{}
+18	Google	_		{}
+19	had	_		{}
+20	lost	_		{}
+21	its	_		{}
+22	anti-corporate	_		{}
+23	,	_		{}
+24	no	_	Quantity	{"Mass": "25", "Quantity": "24"}
+25	evil	_	Morality_evaluation	{}
+26	philosophy	_	Aggregate	{"Aggregate": "26"}
+27	.	_		{}

@@ -1,0 +1,20 @@
+1	Una	_		{}
+2	fotografía	_	Physical_artworks	{"Use": "10", "Name": "2", "Material": "2", "Artifact": "2", "Descriptor": "7", "State_of_represented": "17", "Represented": "14"}
+3	que	_		{}
+4	se	_	Performers_and_roles	{"Performer": "14"}
+5	pasa	_	Create_representation	{"Means": "2", "Material": "2", "Instrument": "2", "Manner": "7", "Represented": "14", "Representation": "14"}
+6	de	_		{}
+7	buena	_	Aesthetics	{"Attribute": "2", "Degree": "7", "Entity": "2"}
+8	y	_	Simultaneity	{"Profiled_event": "10", "Landmark_event": "2"}
+9	una	_		{}
+10	dirección	_	Behind_the_scenes	{"Performer": "14", "Artist": "14"}
+11	por	_		{}
+12	parte	_	Participation	{"Participant_1": "14", "Manner": "17", "Means": "10"}
+13	de	_		{}
+14	Angelina	_		{}
+15	Jolie	_		{}
+16	muy	_	Degree	{"Gradable_attribute": "18"}
+17	bien	_	Expertise	{"Focal_participant": "14", "Degree": "16", "Protagonist": "14", "Manner": "17", "Judge": "20", "Skill": "10"}
+18	trabajada	_		{}
+19	.	_		{}
+20	#Invencible	_		{}

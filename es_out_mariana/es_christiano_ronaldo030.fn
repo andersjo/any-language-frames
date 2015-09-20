@@ -1,0 +1,55 @@
+1	Sin	_		{}
+2	embargo	_		{}
+3	,	_		{}
+4	en	_		{}
+5	su	_		{}
+6	segundo	_	Ordinal_numbers	{"Comparison_set": "7", "Item": "6", "Type": "9"}
+7	partido	_	Performers_and_roles	{"Performance": "54", "Performer": "21", "Place": "19", "Script": "9", "Time": "12"}
+8	de	_		{}
+9	Liga	_		{}
+10	jugado	_	Competition	{"Venue": "17", "Participant_2": "21", "Place": "17", "Competition": "9", "Time": "12"}
+11	el	_		{}
+12	7	_	Cardinal_numbers	{"Number": "12", "Entity": "14"}
+13	de	_		{}
+14	octubre	_	Calendric_unit	{"Salient_event": "10", "Name": "14", "Unit": "14"}
+15	ante	_		{}
+16	el	_		{}
+17	Moreirense	_		{}
+18	Futebol	_		{}
+19	Clube	_		{}
+20	,	_		{}
+21	Cristiano	_		{}
+22	anotó	_		{}
+23	dos	_	Cardinal_numbers	{"Number": "23", "Entity": "24"}
+24	goles	_		{}
+25	en	_		{}
+26	el	_		{}
+27	3-0	_		{}
+28	final	_	Relative_time	{"Focal_occasion": "7", "Focal_participant": "21", "Manner": "39", "Landmark_occasion": "7"}
+29	merced	_		{}
+30	a	_		{}
+31	los	_		{}
+32	cuales	_		{}
+33	causó	_		{}
+34	entre	_		{}
+35	afición	_		{}
+36	y	_	Simultaneity	{"Profiled_event": "37", "Landmark_event": "35"}
+37	prensa	_	Attempt_suasion	{}
+38	una	_		{}
+39	grata	_		{}
+40	impresión	_	Subjective_influence	{}
+41	,	_		{}
+42	pasando	_		{}
+43	a	_		{}
+44	formar	_		{}
+45	parte	_		{}
+46	del	_		{}
+47	grupo	_		{}
+48	de	_		{}
+49	habituales	_		{}
+50	del	_		{}
+51	primer	_		{}
+52	equipo	_		{}
+53	del	_		{}
+54	Sporting	_		{}
+55	.	_		{}

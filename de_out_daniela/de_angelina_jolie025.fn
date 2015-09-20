@@ -1,0 +1,94 @@
+1	Mit	_		{}
+2	wachsender	_		{}
+3	Unzufriedenheit	_		{}
+4	durchlebte	_		{}
+5	sie	_		{}
+6	in	_		{}
+7	ihrer	_		{}
+8	Jugend	_		{}
+9	eine	_		{}
+10	Phase	_		{}
+11	autoaggressiven	_		{}
+12	Verhaltens	_	Conduct	{"Manner": "11", "Agent": "5"}
+13	;	_		{}
+14	sie	_		{}
+15	beschrieb	_	Statement	{"Topic": "16", "Speaker": "14"}
+16	dies	_		{}
+17	später	_	Relative_time	{"Focal_occasion": "15", "Focal_participant": "14", "Landmark_occasion": "16"}
+18	mit	_		{}
+19	den	_		{}
+20	Worten	_		{}
+21	:	_		{}
+22	„Ich	_		{}
+23	sammelte	_	Gathering_up	{"Individuals": "24", "Agent": "22"}
+24	Messer	_	Weapon	{"Weapon": "24"}
+25	und	_		{}
+26	hatte	_		{}
+27	immer	_	Frequency	{"Event": "29"}
+28	bestimmte	_		{}
+29	Dinge	_		{}
+30	um	_	Dimension	{"Object": "29"}
+31	mich	_	Proper_reference	{"Intended_referent": "22", "Entity": "31"}
+32	.	_		{}
+33	Aus	_		{}
+34	irgendeinem	_		{}
+35	Grund	_	Reason	{"Action": "38", "State_of_Affairs": "34", "Agent": "66"}
+36	war	_		{}
+37	das	_		{}
+38	Ritual	_	Rite	{"Member": "22", "Instrument": "24", "Desired_state": "46"}
+39	,	_		{}
+40	mich	_	Proper_reference	{"Intended_referent": "22", "Entity": "40"}
+41	selbst	_	Proper_reference	{"Intended_referent": "22", "Entity": "41"}
+42	zu	_		{}
+43	schneiden	_	Experience_bodily_harm	{"Experiencer": "40"}
+44	und	_	Simultaneity	{"Profiled_event": "48", "Landmark_event": "43"}
+45	die	_		{}
+46	Schmerzen	_	Perception_body	{"Experiencer": "40"}
+47	zu	_		{}
+48	spüren	_	Perception_active	{"Perceiver_agentive": "40", "Phenomenon": "46"}
+49	,	_		{}
+50	vielleicht	_	Likelihood	{"Hypothetical_event": "54"}
+51	sich	_		{}
+52	lebendig	_	Dead_or_alive	{"Protagonist": "66", "Figure": "51"}
+53	zu	_		{}
+54	fühlen	_	Feeling	{"Experiencer": "66", "Emotional_state": "52"}
+55	und	_	Simultaneity	{"Profiled_event": "61", "Landmark_event": "54"}
+56	ein	_		{}
+57	Gefühl	_	Feeling	{"Emotion": "59", "Experiencer": "66"}
+58	der	_		{}
+59	Befreiung	_		{}
+60	zu	_		{}
+61	verspüren	_		{}
+62	,	_		{}
+63	irgendwie	_		{}
+64	therapeutisch	_	Cure	{"Medication": "38", "Patient": "66"}
+65	für	_		{}
+66	mich	_	Proper_reference	{"Intended_referent": "22", "Entity": "66"}
+67	.	_		{}
+68	“	_		{}
+69	Heute	_	Calendric_unit	{"Unit": "69"}
+70	blickt	_	Perception_active	{"Perceiver_agentive": "71", "Phenomenon": "74"}
+71	Jolie	_		{}
+72	auf	_		{}
+73	diese	_		{}
+74	Phase	_		{}
+75	ihres	_		{}
+76	Lebens	_	Duration_relation	{"Period": "74"}
+77	mit	_		{}
+78	der	_		{}
+79	Bemerkung	_	Statement	{"Topic": "74", "Message": "90", "Speaker": "71"}
+80	zurück	_		{}
+81	:	_		{}
+82	„Im	_		{}
+83	Herzen	_		{}
+84	bin	_		{}
+85	ich	_		{}
+86	noch	_	Continued_state_of_affairs	{"Reference_occasion": "86", "State_of_affairs": "90"}
+87	immer	_		{}
+88	nur	_		{}
+89	ein	_		{}
+90	Punk-Kid	_		{}
+91	mit	_		{}
+92	Tattoos	_	Body_decoration	{"Decoration": "92", "Decorated_individual": "90"}
+93	.	_		{}
+94	“	_		{}

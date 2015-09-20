@@ -1,0 +1,35 @@
+1	It	_		{}
+2	offers	_	Offering	{"Theme": "5", "Offerer": "1"}
+3	online	_		{}
+4	productivity	_		{}
+5	software	_	Aggregate	{"Aggregate": "5"}
+6	including	_		{}
+7	email	_	Contacting	{}
+8	(	_		{}
+9	Gmail	_		{}
+10	)	_		{}
+11	,	_		{}
+12	a	_	Cardinal_numbers	{"Number": "12", "Entity": "15"}
+13	cloud	_	Aggregate	{"Aggregate": "13"}
+14	storage	_	Store	{"Resource": "14"}
+15	service	_	Public_services	{"Domain": "14"}
+16	(	_		{}
+17	Google	_		{}
+18	Drive	_		{}
+19	)	_		{}
+20	,	_		{}
+21	an	_	Cardinal_numbers	{"Number": "21", "Entity": "23"}
+22	office	_	Locale	{"Locale": "22"}
+23	suite	_	Clothing	{"Garment": "23"}
+24	(	_		{}
+25	Google	_		{}
+26	Docs	_		{}
+27	)	_		{}
+28	and	_		{}
+29	a	_	Cardinal_numbers	{"Number": "29", "Entity": "32"}
+30	social	_	Social_event	{}
+31	networking	_		{}
+32	service	_	Public_services	{}
+33	(	_		{}
+34	Google+)	_		{}
+35	.	_		{}

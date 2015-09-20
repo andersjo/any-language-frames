@@ -1,0 +1,27 @@
+1	Harry	_		{}
+2	wird	_		{}
+3	nach	_	Time_vector	{"Direction": "3", "Landmark_event": "5", "Event": "26"}
+4	dem	_		{}
+5	Tod	_	Death	{"Protagonist": "7"}
+6	seiner	_	Possession	{"Owner": "1", "Possession": "7"}
+7	Eltern	_	Kinship	{"Ego": "1", "Alter": "7"}
+8	als	_		{}
+9	Waise	_		{}
+10	in	_		{}
+11	die	_		{}
+12	Fürsorge	_		{}
+13	seiner	_	Possession	{"Possession": "15", "Owner": "1"}
+14	nichtmagischen	_		{}
+15	Tante	_		{}
+16	Petunia	_		{}
+17	,	_		{}
+18	Lilys	_		{}
+19	Schwester	_	Kinship	{"Ego": "18", "Alter": "16"}
+20	,	_		{}
+21	und	_	Simultaneity	{"Profiled_event": "24", "Landmark_event": "16"}
+22	deren	_		{}
+23	Ehemannes	_	Personal_relationship	{"Partner_2": "24", "Partner_1": "16"}
+24	Vernon	_		{}
+25	Dursley	_		{}
+26	übergeben	_		{}
+27	.	_		{}

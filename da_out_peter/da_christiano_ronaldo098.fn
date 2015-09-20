@@ -1,0 +1,41 @@
+1	Den	_		{}
+2	efterfølgende	_	Relative_time	{"Focal_occasion": "4", "Focal_participant": "8"}
+3	vrede	_	Experiencer_focus	{"Experiencer": "8", "Event": "4"}
+4	reaktion	_	Communication_response	{"Speaker": "8"}
+5	fra	_		{}
+6	den	_		{}
+7	engelske	_		{}
+8	presse	_		{}
+9	gjorde	_		{}
+10	,	_		{}
+11	at	_		{}
+12	Ronaldo	_		{}
+13	var	_		{}
+14	ved	_		{}
+15	at	_		{}
+16	overveje	_	Cogitation	{"Topic": "18", "Cognizer": "12"}
+17	at	_		{}
+18	forlade	_	Departing	{"Source": "18", "Theme": "19"}
+19	United	_		{}
+20	,	_		{}
+21	og	_		{}
+22	han	_		{}
+23	fortalte	_		{}
+24	angiveligt	_	Unattributed_information	{"Reported_fact": "23"}
+25	til	_		{}
+26	den	_		{}
+27	spanske	_		{}
+28	sportsavis	_		{}
+29	"	_		{}
+30	Marca	_		{}
+31	"	_		{}
+32	,	_		{}
+33	at	_		{}
+34	han	_		{}
+35	ønskede	_		{}
+36	at	_		{}
+37	skifte	_	Undergo_change	{"Initial_category": "19", "Final_category": "39", "Entity": "12"}
+38	til	_		{}
+39	Real	_		{}
+40	Madrid	_		{}
+41	.	_		{}

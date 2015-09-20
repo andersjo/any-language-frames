@@ -1,0 +1,27 @@
+1	She	_		{}
+2	has	_		{}
+3	been	_		{}
+4	cited	_	Judgment_communication	{"Topic": "10", "Expressor": "15", "Evaluee": "1"}
+5	as	_		{}
+6	the	_		{}
+7	world's	_		{}
+8	"	_		{}
+9	most	_	Relational_quantity	{"Individuals": "12", "Mass": "10", "Reference_quantity": "9"}
+10	beautiful	_	Aesthetics	{"Judge": "15", "Attribute": "10", "Place": "7", "Degree": "9", "Entity": "9"}
+11	"	_		{}
+12	woman	_	People	{"Person": "1"}
+13	by	_		{}
+14	various	_	Quantity	{"Individuals": "15", "Quantity": "16"}
+15	media	_		{}
+16	outlets	_		{}
+17	,	_		{}
+18	a	_	Cardinal_numbers	{"Number": "18", "Entity": "19"}
+19	title	_	Name_conferral	{"Speaker": "15", "Name": "6", "Entity": "1"}
+20	for	_		{}
+21	which	_		{}
+22	she	_		{}
+23	has	_		{}
+24	received	_	Receiving	{"Theme": "26", "Recipient": "22"}
+25	substantial	_	Importance	{}
+26	publicity	_		{}
+27	.	_		{}

@@ -1,0 +1,26 @@
+1	Rent	_		{}
+2	tekniskt	_		{}
+3	passar	_		{}
+4	böckerna	_	Text	{"Text": "4"}
+5	in	_		{}
+6	i	_		{}
+7	den	_		{}
+8	brittiska	_		{}
+9	internatskole-genren	_		{}
+10	,	_		{}
+11	och	_		{}
+12	scenerna	_		{}
+13	med	_		{}
+14	Harrys	_		{}
+15	släktingar	_	Kinship	{"Ego": "14", "Alter": "18"}
+16	,	_		{}
+17	familjen	_	Aggregate	{"Aggregate": "18"}
+18	Dursleys	_		{}
+19	,	_		{}
+20	har	_		{}
+21	jämförts	_		{}
+22	med	_		{}
+23	Roald	_		{}
+24	Dahls	_		{}
+25	verk	_		{}
+26	.	_		{}

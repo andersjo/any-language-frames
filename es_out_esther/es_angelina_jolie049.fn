@@ -1,0 +1,22 @@
+1	A	_		{}
+2	los	_		{}
+3	16	_		{}
+4	años	_	Age	{"Age": "3", "Entity": "6"}
+5	,	_		{}
+6	Jolie	_		{}
+7	regresó	_		{}
+8	al	_		{}
+9	teatro	_	Locale_by_use	{}
+10	y	_		{}
+11	desempeñó	_		{}
+12	su	_		{}
+13	primer	_	Ordinal_numbers	{"Item": "14"}
+14	papel	_	Performers_and_roles	{"Performer1": "6", "Script": "17"}
+15	como	_		{}
+16	una	_		{}
+17	alemana	_	People_by_origin	{"Origin": "15", "Person": "6"}
+18	en	_		{}
+19	"	_		{}
+20	Dominatrix	_		{}
+21	"	_		{}
+22	.	_		{}

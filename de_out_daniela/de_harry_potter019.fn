@@ -1,0 +1,27 @@
+1	Zu	_		{}
+2	Beginn	_	Temporal_subregion	{"Time_period": "4", "Sub_part": "2"}
+3	der	_		{}
+4	Erzählung	_	Text	{"Text": "4"}
+5	wird	_		{}
+6	in	_		{}
+7	einer	_		{}
+8	Rückblende	_		{}
+9	vom	_		{}
+10	Ende	_	Process_stop	{"Process": "12"}
+11	der	_		{}
+12	Schreckensherrschaft	_		{}
+13	des	_		{}
+14	Schwarzmagiers	_		{}
+15	Lord	_		{}
+16	Voldemort	_		{}
+17	berichtet	_	Statement	{"Topic": "12", "Message": "10"}
+18	,	_		{}
+19	unter	_		{}
+20	der	_		{}
+21	die	_		{}
+22	magische	_		{}
+23	Gemeinschaft	_	Aggregate	{"Aggregate": "23"}
+24	jahrelang	_		{}
+25	gelitten	_		{}
+26	hat	_		{}
+27	.	_		{}

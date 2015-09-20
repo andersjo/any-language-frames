@@ -1,0 +1,27 @@
+1	La	_		{}
+2	société	_	Businesses	{"Business": "3"}
+3	Google	_		{}
+4	n'est	_		{}
+5	toutefois	_		{}
+6	pas	_		{}
+7	encore	_		{}
+8	créée	_		{}
+9	et	_		{}
+10	Larry	_		{}
+11	garde	_	Storing	{"Theme": "13", "Location": "16", "Agent": "10"}
+12	le	_		{}
+13	chèque	_		{}
+14	dans	_		{}
+15	son	_		{}
+16	tiroir	_	Containers	{"Container": "16"}
+17	pendant	_		{}
+18	quelques	_		{}
+19	semaines	_	Measure_duration	{"Count": "18", "Unit": "19"}
+20	,	_		{}
+21	le	_		{}
+22	temps	_	Timespan	{"Duration": "19", "State": "23"}
+23	d'achever	_		{}
+24	les	_		{}
+25	formalités	_		{}
+26	légales	_	Legality	{}
+27	.	_		{}

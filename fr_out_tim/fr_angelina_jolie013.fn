@@ -1,0 +1,38 @@
+1	Elle	_		{}
+2	atteint	_	Accomplishment	{"Goal": "4", "Agent": "1"}
+3	le	_		{}
+4	sommet	_	Extreme_point	{"Marker": "4", "Entity": "7"}
+5	de	_		{}
+6	la	_		{}
+7	célébrité	_		{}
+8	avec	_		{}
+9	l'interprétation	_		{}
+10	de	_		{}
+11	l'héroïne	_		{}
+12	de	_		{}
+13	jeu	_		{}
+14	vidéo	_		{}
+15	Lara	_		{}
+16	Croft	_		{}
+17	dans	_		{}
+18	'	_		{}
+19	(	_		{}
+20	2001	_		{}
+21	)	_		{}
+22	,	_		{}
+23	et	_		{}
+24	s'impose	_		{}
+25	depuis	_		{}
+26	comme	_		{}
+27	l'une	_		{}
+28	des	_		{}
+29	actrices	_	Performers	{"Person": "1"}
+30	les	_		{}
+31	plus	_		{}
+32	célèbres	_	Fame	{"Entity": "1"}
+33	et	_		{}
+34	les	_		{}
+35	mieux	_		{}
+36	payées	_		{}
+37	d'Hollywood	_		{}
+38	.	_		{}

@@ -1,0 +1,12 @@
+1	It	_		{}
+2	breaks	_	Cause_to_fragment	{"Whole_patient": "4", "Cause": "1", "Time": "5"}
+3	my	_		{}
+4	heart	_	Observable_body_parts	{"Body_part": "4", "Possessor": "3"}
+5	when	_		{}
+6	Dobby	_		{}
+7	dies	_	Death	{"Protagonist": "6", "Place": "8"}
+8	in	_		{}
+9	Harry	_		{}
+10	Potter	_		{}
+11	.	_		{}
+12	😭	_		{}

@@ -1,0 +1,31 @@
+1	Идеята	_		{}
+2	за	_		{}
+3	създаване	_	Intentionally_create	{"Created_entity": "3"}
+4	на	_		{}
+5	международен	_	Foreign_or_domestic_country	{}
+6	ден	_	Calendric_unit	{"Relative_time": "6", "Unit": "6"}
+7	на	_		{}
+8	жената	_		{}
+9	се	_		{}
+10	появява	_		{}
+11	след	_		{}
+12	бурната	_		{}
+13	индустриализация	_		{}
+14	и	_		{}
+15	икономическа	_	Economy	{"Economy": "15"}
+16	експанзия	_		{}
+17	в	_		{}
+18	началото	_	Temporal_subregion	{"Time_period": "18"}
+19	на	_		{}
+20	20	_	Cardinal_numbers	{"Number": "20"}
+21	век	_	Calendric_unit	{"Whole": "21"}
+22	,	_		{}
+23	която	_		{}
+24	поражда	_		{}
+25	протести	_		{}
+26	за	_		{}
+27	подобряване	_		{}
+28	условията	_		{}
+29	на	_		{}
+30	труд	_	Being_employed	{"Place_of_employment": "30"}
+31	.	_		{}

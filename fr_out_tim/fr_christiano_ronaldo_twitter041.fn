@@ -1,0 +1,23 @@
+1	Christiano	_		{}
+2	Ronaldo	_		{}
+3	au	_		{}
+4	PSG	_		{}
+5	meme	_		{}
+6	son	_		{}
+7	agent	_	People_by_vocation	{"Person": "7"}
+8	n'y	_		{}
+9	croit	_	Opinion	{"Cognizer": "7"}
+10	pas	_		{}
+11	:	_		{}
+12	"	_		{}
+13	C'est	_		{}
+14	impossible	_	Likelihood	{"Hypothetical_event": "13"}
+15	,	_		{}
+16	Ronaldo	_		{}
+17	finira	_	Activity_finish	{"Agent": "16", "Activity": "19"}
+18	sa	_		{}
+19	carrière	_		{}
+20	au	_		{}
+21	Real	_		{}
+22	"	_		{}
+23	#telefoot	_		{}

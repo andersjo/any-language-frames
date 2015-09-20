@@ -1,0 +1,23 @@
+1	Det	_		{}
+2	var	_		{}
+3	bara	_		{}
+4	hans	_		{}
+5	mors	_		{}
+6	kärlek	_		{}
+7	som	_		{}
+8	räddade	_		{}
+9	Harry	_		{}
+10	från	_		{}
+11	döden	_	Death	{"Protagonist": "9"}
+12	,	_		{}
+13	med	_		{}
+14	ett	_	Cardinal_numbers	{"Number": "14", "Entity": "17"}
+15	litet	_	Degree	{"Gradable_attribute": "16"}
+16	blixtformat	_		{}
+17	ärr	_	Body_mark	{"Descriptor": "16", "Cause": "8", "Body_mark": "17", "Possessor": "9"}
+18	i	_		{}
+19	pannan	_	Observable_body_parts	{"Body_part": "19", "Possessor": "9"}
+20	som	_		{}
+21	enda	_	Sole_instance	{"Type": "22"}
+22	resultat	_	Causation	{}
+23	.	_		{}

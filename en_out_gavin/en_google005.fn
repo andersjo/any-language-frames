@@ -1,0 +1,21 @@
+1	Together	_	Collaboration	{"Partners": "2"}
+2	they	_		{}
+3	own	_	Possession	{"Owner": "2", "Possession": "6", "Manner": "1"}
+4	about	_	Relational_quantity	{"Individuals": "6", "Denoted_quantity": "5", "Reference_quantity": "4"}
+5	14	_	Cardinal_numbers	{"Number": "5", "Precision": "4", "Entity": "6"}
+6	percent	_		{}
+7	of	_		{}
+8	its	_		{}
+9	shares	_	Part_whole	{"Part": "9"}
+10	but	_	Concessive	{"Main_statement": "3", "Statement": "11"}
+11	control	_	Be_in_control	{"Dependent_entity": "12", "Controlling_entity": "2"}
+12	56	_		{}
+13	of	_		{}
+14	the	_		{}
+15	stockholder	_		{}
+16	voting	_		{}
+17	power	_	Leadership	{}
+18	through	_		{}
+19	supervoting	_		{}
+20	stock	_	Store	{"Descriptor": "19", "Resource": "20"}
+21	.	_		{}

@@ -1,0 +1,14 @@
+1	Häufig	_	Frequency	{"Rate": "1", "Event": "4"}
+2	werden	_	Undergo_change	{"Final_category": "6", "Entity": "4"}
+3	neue	_	Age	{"Attribute": "3"}
+4	Einzeldienste	_		{}
+5	ins	_		{}
+6	Angebot	_	Supply	{}
+7	aufgenommen	_		{}
+8	,	_		{}
+9	manchmal	_	Frequency	{"Interval": "9", "Event": "11"}
+10	als	_		{}
+11	Resultat	_	Objective_influence	{"Influencing_situation": "13", "Dependent_entity": "6"}
+12	von	_		{}
+13	Unternehmenseinkäufen	_		{}
+14	.	_		{}

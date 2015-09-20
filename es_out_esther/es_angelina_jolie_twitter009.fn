@@ -1,0 +1,19 @@
+1	Me	_	Proper_reference	{"Entity": "1"}
+2	pregunto	_	Questioning	{"Topic": "4", "Message": "3", "Addressee": "7", "Speaker": "1"}
+3	si	_		{}
+4	cada	_		{}
+5	vez	_	Location_in_time	{"Relative_time": "4"}
+6	que	_		{}
+7	Angelina	_		{}
+8	Jolie	_		{}
+9	se	_		{}
+10	mira	_	Sensation	{"Body_part": "7", "Perceiver_passive": "9", "Time": "5"}
+11	en	_		{}
+12	el	_		{}
+13	espejo	_	Containers	{}
+14	se	_		{}
+15	va	_	Body_movement	{"Body_part": "14", "Agent": "7"}
+16	directa	_	Sharpness	{}
+17	a	_		{}
+18	tocarse	_	Contacting	{}
+19	.	_		{}

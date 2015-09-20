@@ -1,0 +1,36 @@
+1	Andra	_		{}
+2	uttryck	_	Encoding	{"Message": "15"}
+3	som	_		{}
+4	Google	_		{}
+5	skapat	_		{}
+6	via	_		{}
+7	sin	_		{}
+8	söktjänst	_		{}
+9	popularitet	_		{}
+10	är	_		{}
+11	"	_		{}
+12	Google	_		{}
+13	är	_		{}
+14	din	_		{}
+15	vän	_	Personal_relationship	{"Partner_2": "12", "Relationship": "15", "Partner_1": "14"}
+16	"	_		{}
+17	,	_		{}
+18	engelska	_		{}
+19	"	_		{}
+20	Google	_		{}
+21	is	_		{}
+22	your	_		{}
+23	friend	_		{}
+24	"	_		{}
+25	,	_		{}
+26	som	_		{}
+27	används	_		{}
+28	flitigt	_		{}
+29	bland	_		{}
+30	annat	_		{}
+31	på	_		{}
+32	olika	_	Diversity	{"Group": "33"}
+33	communitys	_		{}
+34	och	_		{}
+35	forum	_	Aggregate	{"Aggregate": "35"}
+36	.	_		{}

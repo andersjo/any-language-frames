@@ -1,0 +1,42 @@
+1	Rowling	_		{}
+2	a	_		{}
+3	affirmé	_		{}
+4	que	_		{}
+5	les	_		{}
+6	livres	_	Text	{"Text": "6"}
+7	plaident	_	Reasoning	{"Content": "6", "Arguer": "6"}
+8	pour	_		{}
+9	la	_		{}
+10	tolérance	_	Tolerating	{}
+11	,	_		{}
+12	dénoncent	_	Judgment_communication	{"Topic": "14", "Communicator": "1", "Medium": "6"}
+13	la	_		{}
+14	bigoterie	_		{}
+15	et	_		{}
+16	transmettent	_	Communication	{"Topic": "22", "Message": "18", "Medium": "6"}
+17	un	_		{}
+18	message	_	Statement	{"Topic": "22", "Medium": "6", "Speaker": "1"}
+19	sur	_		{}
+20	«	_		{}
+21	la	_		{}
+22	remise	_		{}
+23	en	_		{}
+24	question	_	Point_of_dispute	{"Question": "26"}
+25	de	_		{}
+26	l'autorité	_		{}
+27	»	_		{}
+28	et	_		{}
+29	la	_		{}
+30	méfiance	_	Suspicion	{}
+31	envers	_		{}
+32	les	_		{}
+33	informations	_	Information	{"Information": "33"}
+34	transmises	_	Communication	{"Communicator": "37", "Message": "33"}
+35	par	_		{}
+36	la	_		{}
+37	presse	_		{}
+38	ou	_		{}
+39	la	_		{}
+40	classe	_	Rank	{"Item": "40", "Rank": "41"}
+41	dirigeante	_	First_rank	{"Item": "40"}
+42	.	_		{}

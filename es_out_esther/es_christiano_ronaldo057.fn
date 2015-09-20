@@ -1,0 +1,27 @@
+1	Ronaldo	_		{}
+2	erró	_		{}
+3	,	_		{}
+4	pero	_		{}
+5	pese	_		{}
+6	a	_		{}
+7	ello	_		{}
+8	los	_		{}
+9	fallos	_	Success_or_failure	{"Agent": "11"}
+10	del	_		{}
+11	defensa	_	Defend	{"Defender": "14"}
+12	rival	_		{}
+13	John	_		{}
+14	Terry	_		{}
+15	y	_		{}
+16	del	_		{}
+17	atacante	_	Attack	{"Assailant": "20"}
+18	francés	_	People_by_origin	{"Origin": "18", "Person": "18"}
+19	Nicolas	_		{}
+20	Anelka	_		{}
+21	le	_		{}
+22	dieron	_	Giving	{"Donor": "9", "Theme": "25", "Recipient": "1"}
+23	su	_		{}
+24	primer	_	First_experience	{"Experience": "24"}
+25	título	_	Documents	{"Status": "25", "Document": "25", "Bearer": "1"}
+26	continental	_	Locative_relation	{"Figure": "25", "Ground": "26"}
+27	.	_		{}

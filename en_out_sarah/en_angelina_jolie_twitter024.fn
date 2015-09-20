@@ -1,0 +1,12 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	has	_	Have_associated	{"Topical_entity": "1", "Entity": "6"}
+4	the	_		{}
+5	greatest	_	Measurable_attributes	{"Degree": "5", "Entity": "6"}
+6	facial	_		{}
+7	features	_	Have_associated	{"Topical_entity": "6", "Entity": "1"}
+8	I	_		{}
+9	wish	_	Desiring	{"Focal_participant": "10", "Experiencer": "8"}
+10	I	_		{}
+11	had	_	Have_associated	{"Entity": "10"}
+12	😭	_		{}

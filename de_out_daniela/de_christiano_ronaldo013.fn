@@ -1,0 +1,18 @@
+1	Ronaldo	_		{}
+2	hat	_		{}
+3	einen	_		{}
+4	älteren	_	Subordinates_and_superiors	{"Superior": "5", "Subordinate": "1"}
+5	Bruder	_	Kinship	{"Descriptor": "4", "Ego": "1", "Alter": "7"}
+6	,	_		{}
+7	Hugo	_		{}
+8	,	_		{}
+9	und	_	Simultaneity	{"Profiled_event": "12", "Landmark_event": "5"}
+10	zwei	_	Cardinal_numbers	{"Number": "10", "Entity": "12"}
+11	ältere	_		{}
+12	Schwestern	_	Kinship	{"Descriptor": "11", "Ego": "1", "Alter": "12"}
+13	,	_		{}
+14	Liliana	_		{}
+15	Cátia	_		{}
+16	und	_	Simultaneity	{"Profiled_event": "17", "Landmark_event": "14"}
+17	Elma	_		{}
+18	.	_		{}

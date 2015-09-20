@@ -1,0 +1,37 @@
+1	Les	_		{}
+2	sorciers	_		{}
+3	vivent	_		{}
+4	en	_		{}
+5	effet	_		{}
+6	parmi	_		{}
+7	les	_		{}
+8	Moldus	_		{}
+9	,	_		{}
+10	mais	_		{}
+11	le	_		{}
+12	«	_		{}
+13	Code	_		{}
+14	international	_		{}
+15	du	_		{}
+16	Secret	_		{}
+17	magique	_		{}
+18	»	_		{}
+19	les	_		{}
+20	oblige	_	Imposing_obligation	{"Obligator": "13", "Duty": "23", "Responsible_party": "19"}
+21	à	_		{}
+22	faire	_		{}
+23	coexister	_		{}
+24	les	_		{}
+25	deux	_	Cardinal_numbers	{"Number": "25", "Entity": "26"}
+26	mondes	_	People	{"Person": "26"}
+27	pacifiquement	_		{}
+28	,	_		{}
+29	en	_		{}
+30	cachant	_	Hiding_objects	{"Agent": "2", "Hidden_object": "31"}
+31	l'existence	_		{}
+32	de	_		{}
+33	la	_		{}
+34	magie	_		{}
+35	aux	_		{}
+36	Moldus	_		{}
+37	.	_		{}

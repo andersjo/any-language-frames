@@ -1,0 +1,41 @@
+1	Cristiano	_		{}
+2	Ronaldo	_		{}
+3	ist	_		{}
+4	der	_		{}
+5	Sohn	_	Kinship	{"Ego": "7", "Alter": "2"}
+6	von	_		{}
+7	Maria	_		{}
+8	Dolores	_		{}
+9	dos	_		{}
+10	Santos	_		{}
+11	Aveiro	_		{}
+12	(*	_		{}
+13	1954	_		{}
+14	)	_		{}
+15	und	_	Simultaneity	{"Profiled_event": "7", "Landmark_event": "16"}
+16	José	_		{}
+17	Dinis	_		{}
+18	Aveiro	_		{}
+19	(*	_		{}
+20	1954	_		{}
+21	;	_		{}
+22	†	_		{}
+23	2005	_		{}
+24	)	_		{}
+25	,	_		{}
+26	der	_		{}
+27	im	_		{}
+28	Alter	_	Age	{"Attribute": "30"}
+29	von	_		{}
+30	51	_		{}
+31	Jahren	_	Calendric_unit	{"Count": "30", "Unit": "31"}
+32	auf	_		{}
+33	Grund	_	Causation	{"Cause": "35", "Affected": "16"}
+34	jahrelangen	_		{}
+35	Alkoholkonsums	_		{}
+36	an	_		{}
+37	Leber-	_		{}
+38	und	_	Simultaneity	{"Profiled_event": "39", "Landmark_event": "37"}
+39	Nierenversagen	_		{}
+40	starb	_	Death	{"Protagonist": "16"}
+41	.	_		{}

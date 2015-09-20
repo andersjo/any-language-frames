@@ -1,0 +1,38 @@
+1	Für	_		{}
+2	ihre	_		{}
+3	schauspielerischen	_		{}
+4	Leistungen	_	Performing_arts	{"Performance": "4", "Performer": "6", "Type": "3"}
+5	erhielt	_	Receiving	{"Theme": "10", "Recipient": "6"}
+6	Jolie	_		{}
+7	drei	_	Cardinal_numbers	{"Number": "7", "Entity": "10"}
+8	Golden	_		{}
+9	Globe	_		{}
+10	Awards	_	Judgment	{"Reason": "4", "Evaluee": "6"}
+11	,	_		{}
+12	zwei	_	Cardinal_numbers	{"Number": "12", "Entity": "16"}
+13	Screen	_		{}
+14	Actors	_		{}
+15	Guild	_		{}
+16	Awards	_	Judgment	{"Reason": "4", "Evaluee": "6"}
+17	und	_	Simultaneity	{"Profiled_event": "16", "Landmark_event": "34"}
+18	für	_		{}
+19	ihre	_		{}
+20	Rolle	_		{}
+21	einer	_		{}
+22	psychisch	_		{}
+23	Kranken	_	Medical_conditions	{"Patient": "23", "Ailment": "22"}
+24	in	_		{}
+25	dem	_		{}
+26	Film	_	Physical_artworks	{"Name": "28", "Artifact": "26", "Time_of_creation": "31"}
+27	"	_		{}
+28	Durchgeknallt	_		{}
+29	"	_		{}
+30	(	_		{}
+31	1999	_		{}
+32	)	_		{}
+33	einen	_		{}
+34	Oscar	_		{}
+35	als	_		{}
+36	beste	_	Expertise	{"Skill": "37", "Protagonist": "6"}
+37	Nebendarstellerin	_		{}
+38	.	_		{}

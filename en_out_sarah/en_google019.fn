@@ -1,0 +1,29 @@
+1	Its	_		{}
+2	market	_		{}
+3	dominance	_	Be_in_control	{"Controlling_entity": "2"}
+4	has	_		{}
+5	led	_		{}
+6	to	_		{}
+7	prominent	_	Prominence	{"Attribute": "8", "Entity": "9"}
+8	media	_		{}
+9	coverage	_		{}
+10	,	_		{}
+11	including	_		{}
+12	criticism	_	Judgment_communication	{"Topic": "17", "Reason": "21", "Medium": "9", "Evaluee": "8"}
+13	of	_		{}
+14	the	_		{}
+15	company	_	Businesses	{"Business": "15"}
+16	over	_		{}
+17	issues	_		{}
+18	such	_		{}
+19	as	_		{}
+20	search	_		{}
+21	neutrality	_	Partiality	{"Domain": "20", "Decision_maker": "15"}
+22	,	_		{}
+23	copyright	_		{}
+24	,	_		{}
+25	censorship	_		{}
+26	,	_		{}
+27	and	_		{}
+28	privacy	_		{}
+29	.	_		{}

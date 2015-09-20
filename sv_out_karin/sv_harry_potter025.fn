@@ -1,0 +1,20 @@
+1	Att	_		{}
+2	berättelserna	_		{}
+3	upplevs	_		{}
+4	genom	_		{}
+5	Harry	_		{}
+6	kan	_		{}
+7	vara	_		{}
+8	en	_	Cardinal_numbers	{"Number": "8", "Entity": "9"}
+9	orsak	_	Causation	{"Cause": "3"}
+10	till	_		{}
+11	att	_		{}
+12	många	_	Quantity	{"Individuals": "13"}
+13	läsare	_	Reading	{"Text": "2", "Reader": "13"}
+14	känner	_	Perception_experience	{"Phenomenon": "17", "Perceiver_passive": "13"}
+15	så	_	Degree	{"Gradable_attribute": "16"}
+16	stark	_	Exertive_force	{"Force": "16", "Degree": "15", "Entity": "17"}
+17	samhörighet	_		{}
+18	med	_		{}
+19	honom	_		{}
+20	.	_		{}

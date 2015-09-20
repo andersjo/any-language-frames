@@ -1,0 +1,31 @@
+1	Dagen	_		{}
+2	efter	_		{}
+3	sin	_		{}
+4	22-års	_		{}
+5	fødselsdag	_	Commemorative	{"Honored_entity": "7"}
+6	var	_		{}
+7	Ronaldo	_		{}
+8	anfører	_	Leadership	{"Role": "8", "Leader": "7", "Governed": "10"}
+9	for	_		{}
+10	Portugal	_		{}
+11	for	_		{}
+12	første	_	Ordinal_numbers	{"Item": "13"}
+13	gang	_	Event_instance	{"Instance": "13"}
+14	,	_		{}
+15	da	_		{}
+16	holdet	_		{}
+17	mødte	_		{}
+18	Brasilien	_		{}
+19	i	_		{}
+20	en	_		{}
+21	venskabskamp	_		{}
+22	den	_		{}
+23	6	_	Cardinal_numbers	{"Number": "23"}
+24	.	_		{}
+25	februar	_	Calendric_unit	{"Relative_time": "25", "Whole": "23", "Unit": "25"}
+26	2007	_		{}
+27	på	_		{}
+28	Emirates	_		{}
+29	i	_		{}
+30	London	_		{}
+31	.	_		{}

@@ -1,0 +1,29 @@
+1	La	_		{}
+2	única	_	Beyond_compare	{"Variable": "3"}
+3	razón	_	Reason	{"Action": "8"}
+4	que	_		{}
+5	dio	_	Giving	{"Theme": "8"}
+6	acerca	_	Dimension	{"Object": "8"}
+7	del	_		{}
+8	distanciamiento	_	Withdraw_from_participation	{"Participant": "11"}
+9	con	_		{}
+10	su	_		{}
+11	padre	_	Kinship	{}
+12	es	_	Being_in_category	{"Item": "15"}
+13	que	_		{}
+14	no	_	Quantity	{}
+15	quiere	_	Desiring	{"Location_of_Event": "18", "Event": "19", "Experiencer": "11"}
+16	que	_		{}
+17	sus	_		{}
+18	hijos	_	Kinship	{}
+19	crezcan	_	Becoming	{"Place": "20", "Entity": "18"}
+20	cerca	_		{}
+21	de	_		{}
+22	él	_		{}
+23	y	_		{}
+24	los	_		{}
+25	llame	_	Speak_on_topic	{"Topic": "27", "Audience": "18", "Speaker": "11"}
+26	"	_		{}
+27	nietos	_	Kinship	{"Ego": "27", "Alter": "11"}
+28	"	_		{}
+29	.	_		{}

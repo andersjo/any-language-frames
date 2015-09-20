@@ -1,0 +1,28 @@
+1	Andy	_		{}
+2	Bechtolsheim	_		{}
+3	,	_		{}
+4	l'un	_		{}
+5	des	_		{}
+6	fondateurs	_		{}
+7	de	_		{}
+8	Sun	_		{}
+9	Microsystems	_		{}
+10	,	_		{}
+11	se	_		{}
+12	laisse	_	Make_possible_to_do	{"Enabled_action": "13"}
+13	convaincre	_	Suasion	{"Addressee": "2", "Speaker": "15"}
+14	par	_		{}
+15	Sergueï	_		{}
+16	et	_		{}
+17	Larry	_		{}
+18	et	_		{}
+19	leur	_		{}
+20	fait	_		{}
+21	un	_		{}
+22	chèque	_		{}
+23	de	_		{}
+24	pour	_		{}
+25	financer	_	Supporting	{"Supported": "27", "Supporter": "2"}
+26	leur	_		{}
+27	moteur	_		{}
+28	.	_		{}

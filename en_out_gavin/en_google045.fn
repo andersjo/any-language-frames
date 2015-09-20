@@ -1,0 +1,24 @@
+1	The	_		{}
+2	vast	_	Size	{"Entity": "3"}
+3	majority	_		{}
+4	of	_		{}
+5	the	_		{}
+6	271	_		{}
+7	million	_	Cardinal_numbers	{"Entity": "8", "Number": "7", "Multiplier": "6"}
+8	shares	_	Part_whole	{"Part": "8"}
+9	remained	_	State_continue	{"Place": "10", "Entity": "8"}
+10	under	_		{}
+11	the	_		{}
+12	control	_	Be_in_control	{"Dependent_entity": "8", "Controlling_entity": "14"}
+13	of	_		{}
+14	Google	_		{}
+15	,	_		{}
+16	and	_		{}
+17	many	_	Quantity	{"Individuals": "19", "Quantity": "17"}
+18	Google	_		{}
+19	employees	_	Employing	{"Employee": "19", "Employer": "18"}
+20	became	_	Becoming	{"Entity": "19"}
+21	instant	_	Measure_duration	{}
+22	paper	_	Documents	{"Document": "22"}
+23	millionaires	_		{}
+24	.	_		{}

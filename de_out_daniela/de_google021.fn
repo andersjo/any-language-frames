@@ -1,0 +1,30 @@
+1	Zwar	_		{}
+2	operiert	_		{}
+3	Google	_		{}
+4	größtenteils	_		{}
+5	in	_		{}
+6	Industrieländern	_		{}
+7	,	_		{}
+8	die	_		{}
+9	auch	_		{}
+10	höhere	_		{}
+11	Steuersätze	_		{}
+12	aufweisen	_		{}
+13	,	_		{}
+14	jedoch	_	Concessive	{"Statement": "15"}
+15	transferiert	_		{}
+16	es	_		{}
+17	über	_		{}
+18	Verrechnungspreise	_		{}
+19	die	_		{}
+20	Gewinne	_	Earnings_and_losses	{"Earner": "16", "Earnings": "20"}
+21	über	_		{}
+22	Irland	_		{}
+23	zu	_		{}
+24	den	_		{}
+25	Niederlanden	_		{}
+26	und	_		{}
+27	anschließend	_	Relative_time	{"Focal_occasion": "29"}
+28	nach	_		{}
+29	Bermuda	_		{}
+30	.	_		{}

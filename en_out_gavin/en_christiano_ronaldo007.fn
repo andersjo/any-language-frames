@@ -1,0 +1,26 @@
+1	Ronaldo	_		{}
+2	is	_		{}
+3	regarded	_	Regard	{"Cognizer": "5", "Judgment": "10", "Evaluee": "1"}
+4	by	_		{}
+5	some	_		{}
+6	in	_		{}
+7	the	_		{}
+8	sport	_	Performing_arts	{"Type": "8"}
+9	to	_		{}
+10	be	_		{}
+11	currently	_	Temporal_collocation	{"Landmark_period": "11", "Landmark_event": "3"}
+12	the	_		{}
+13	best	_	Expertise	{"Focal_participant": "14"}
+14	player	_	Competition	{"Participant_1": "1", "Place": "15", "Rank": "13", "Time": "11"}
+15	in	_		{}
+16	the	_		{}
+17	world	_	Locale	{"Locale": "17"}
+18	and	_		{}
+19	one	_	Cardinal_numbers	{"Number": "19"}
+20	of	_		{}
+21	the	_		{}
+22	greatest	_	Desirability	{"Evaluee": "14", "Circumstances": "23"}
+23	of	_		{}
+24	all	_	Degree	{"Gradable_attribute": "25"}
+25	time	_		{}
+26	.	_		{}

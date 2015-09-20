@@ -1,0 +1,21 @@
+1	12	_	Cardinal_numbers	{"Number": "1", "Entity": "2"}
+2	års	_		{}
+3	mareridt	_		{}
+4	slut	_		{}
+5	:	_		{}
+6	Tysker	_		{}
+7	vinder	_	Finish_competition	{"Competitor": "6", "Competition": "11"}
+8	en	_	Cardinal_numbers	{"Number": "1", "Entity": "11"}
+9	af	_		{}
+10	fire	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	bakker	_		{}
+12	-	_		{}
+13	Ekstra	_		{}
+14	Bladet	_		{}
+15	:	_		{}
+16	Ekstra	_		{}
+17	Bladet	_		{}
+18	12	_	Cardinal_numbers	{"Number": "18", "Entity": "19"}
+19	års	_		{}
+20	…	_		{}
+21	http://t.co/bjJSLFNGYN	_		{}

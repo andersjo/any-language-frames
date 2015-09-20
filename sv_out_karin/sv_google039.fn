@@ -1,0 +1,25 @@
+1	Däremot	_		{}
+2	finns	_	Existence	{"Concessive": "1", "Entity": "6"}
+3	det	_		{}
+4	ingen	_	Quantity	{"Individuals": "6"}
+5	annan	_		{}
+6	sökmotor	_		{}
+7	idag	_	Temporal_collocation	{"Trajector_event": "12", "Landmark_event": "2"}
+8	som	_		{}
+9	klarar	_		{}
+10	av	_		{}
+11	att	_		{}
+12	söka	_	Using	{"Instrument": "14", "Agent": "6"}
+13	i	_		{}
+14	Usenetarkivet	_		{}
+15	–	_		{}
+16	på	_		{}
+17	denna	_		{}
+18	punkt	_		{}
+19	är	_		{}
+20	alltså	_		{}
+21	Google	_		{}
+22	helt	_	Degree	{"Gradable_attribute": "23"}
+23	unika	_		{}
+24	idag	_		{}
+25	.	_		{}

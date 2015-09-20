@@ -1,0 +1,28 @@
+1	i	_		{}
+2	bought	_		{}
+3	a	_	Cardinal_numbers	{"Number": "3", "Entity": "6"}
+4	7.5	_		{}
+5	k	_		{}
+6	pack	_		{}
+7	CHRISTIANO	_		{}
+8	RONALDO	_		{}
+9	was	_	Existence	{"Place": "11", "Entity": "7"}
+10	in	_		{}
+11	there	_	Locative_relation	{"Figure": "7", "Ground": "11"}
+12	i	_		{}
+13	clicked	_	Make_noise	{"Noisy_event": "13"}
+14	send	_	Sending	{"Theme": "15", "Goal": "17", "Sender": "12"}
+15	all	_	Quantity	{"Quantity": "15"}
+16	to	_		{}
+17	club	_	Organization	{"Organization": "17"}
+18	and	_		{}
+19	i	_		{}
+20	had	_	Possession	{"Owner": "19", "Possession": "24"}
+21	NONE	_		{}
+22	of	_		{}
+23	the	_		{}
+24	items	_	Entity	{"Entity": "24"}
+25	in	_		{}
+26	the	_		{}
+27	pack	_		{}
+28	@EASPORTSFIFA	_		{}

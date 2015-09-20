@@ -1,0 +1,29 @@
+1	Le	_		{}
+2	récit	_	Text	{"Text": "2"}
+3	se	_		{}
+4	poursuit	_	Process_continue	{}
+5	sur	_		{}
+6	sept	_	Cardinal_numbers	{"Number": "6", "Entity": "7"}
+7	romans	_	Text	{"Text": "7"}
+8	,	_		{}
+9	chacun	_		{}
+10	d'eux	_		{}
+11	se	_		{}
+12	déroulant	_	Event	{"Time": "15"}
+13	sur	_		{}
+14	une	_		{}
+15	année	_	Measure_duration	{"Count": "14", "Unit": "15"}
+16	scolaire	_		{}
+17	,	_		{}
+18	tout	_		{}
+19	au	_		{}
+20	long	_		{}
+21	de	_		{}
+22	la	_		{}
+23	jeunesse	_	People_by_age	{"Person": "28", "Age": "23"}
+24	riche	_	Measurable_attributes	{"Entity": "23"}
+25	en	_		{}
+26	aventures	_		{}
+27	de	_		{}
+28	Harry	_		{}
+29	.	_		{}

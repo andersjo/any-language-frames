@@ -1,0 +1,30 @@
+1	Neben	_		{}
+2	der	_		{}
+3	Schule	_	Locale_by_use	{"Locale": "3"}
+4	nahm	_	Studying	{"Place": "13", "Student": "5", "Subject": "6"}
+5	Jolie	_		{}
+6	Schauspielunterricht	_		{}
+7	am	_		{}
+8	Lee	_		{}
+9	Strasberg	_		{}
+10	Theatre	_		{}
+11	and	_		{}
+12	Film	_		{}
+13	Institute	_	Locale_by_use	{"Locale": "13", "Name": "9"}
+14	,	_		{}
+15	an	_		{}
+16	dem	_		{}
+17	sie	_		{}
+18	zwei	_	Cardinal_numbers	{"Number": "18", "Entity": "19"}
+19	Jahre	_	Calendric_unit	{"Count": "18", "Unit": "19"}
+20	lang	_	Duration_attribute	{"Period": "19", "Eventuality": "23"}
+21	das	_		{}
+22	Method	_		{}
+23	Acting	_		{}
+24	erlernte	_		{}
+25	und	_	Simultaneity	{"Profiled_event": "29", "Landmark_event": "24"}
+26	in	_		{}
+27	mehreren	_	Quantity	{"Individuals": "28", "Quantity": "27"}
+28	Bühnenproduktionen	_		{}
+29	auftrat	_		{}
+30	.	_		{}

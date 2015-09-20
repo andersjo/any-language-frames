@@ -1,0 +1,19 @@
+1	He	_		{}
+2	and	_		{}
+3	his	_		{}
+4	friends	_	People	{"Person": "4"}
+5	investigate	_	Criminal_investigation	{"Incident": "8", "Investigator": "1"}
+6	a	_	Cardinal_numbers	{"Number": "6", "Entity": "8"}
+7	50-year-old	_		{}
+8	mystery	_	Text	{"Text": "8"}
+9	that	_		{}
+10	appears	_	Appearance	{"Inference": "11", "Phenomenon": "8"}
+11	tied	_	Being_attached	{"Item": "8", "Goal": "12"}
+12	to	_		{}
+13	recent	_	Relative_time	{"Focal_occasion": "5", "Focal_participant": "1", "Landmark_occasion": "15"}
+14	sinister	_	Omen	{"Phenomenon_1": "15"}
+15	events	_	Event	{"Place": "16", "Time": "13"}
+16	at	_		{}
+17	the	_		{}
+18	school	_	Locale_by_use	{"Locale": "18"}
+19	.	_		{}

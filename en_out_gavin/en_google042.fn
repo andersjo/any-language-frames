@@ -1,0 +1,24 @@
+1	Shares	_	Part_whole	{"Part": "1"}
+2	were	_		{}
+3	sold	_		{}
+4	in	_		{}
+5	an	_	Cardinal_numbers	{"Number": "5", "Entity": "7"}
+6	online	_		{}
+7	auction	_	Commerce_sell	{}
+8	format	_	Arranging	{"Configuration": "8"}
+9	using	_	Using	{"Instrument": "11"}
+10	a	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	system	_		{}
+12	built	_		{}
+13	by	_		{}
+14	Morgan	_		{}
+15	Stanley	_		{}
+16	and	_		{}
+17	Credit	_		{}
+18	Suisse	_		{}
+19	,	_		{}
+20	underwriters	_		{}
+21	for	_		{}
+22	the	_		{}
+23	deal	_	Commerce_pay	{}
+24	.	_		{}

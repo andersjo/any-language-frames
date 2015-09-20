@@ -1,0 +1,34 @@
+1	When	_		{}
+2	she	_		{}
+3	was	_		{}
+4	six	_	Cardinal_numbers	{"Number": "4", "Entity": "5"}
+5	years	_	Age	{"Attribute": "4", "Age": "5", "Entity": "2"}
+6	old	_	Age	{"Age": "4", "Entity": "2"}
+7	,	_		{}
+8	her	_		{}
+9	mother	_	Kinship	{"Ego": "8", "Alter": "9"}
+10	and	_	Simultaneity	{}
+11	stepfather	_	Kinship	{"Ego": "8", "Alter": "11"}
+12	,	_		{}
+13	filmmaker	_	Behind_the_scenes	{"Artist": "14"}
+14	Bill	_		{}
+15	Day	_		{}
+16	,	_		{}
+17	moved	_	Motion	{"Goal": "21"}
+18	the	_		{}
+19	family	_	Kinship	{"Relatives": "19"}
+20	to	_		{}
+21	Palisades	_		{}
+22	,	_		{}
+23	New	_		{}
+24	York	_		{}
+25	;	_		{}
+26	they	_		{}
+27	returned	_	Motion_directional	{"Source": "21", "Goal": "29"}
+28	to	_		{}
+29	Los	_		{}
+30	Angeles	_		{}
+31	five	_	Cardinal_numbers	{"Number": "31", "Entity": "32"}
+32	years	_	Measure_duration	{"Count": "31", "Unit": "32"}
+33	later	_	Relative_time	{"Focal_occasion": "27", "Focal_participant": "26"}
+34	.	_		{}

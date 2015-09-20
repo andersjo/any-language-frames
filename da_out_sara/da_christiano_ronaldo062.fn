@@ -1,0 +1,37 @@
+1	Da	_		{}
+2	kampen	_	Hostile_encounter	{"Issue": "2"}
+3	endte	_		{}
+4	1-1	_		{}
+5	efter	_	Change_position_on_a_scale	{"Item": "2"}
+6	ekstra	_	Increment	{"Increment": "6", "Added_set": "7"}
+7	spilletid	_	Performing_arts	{}
+8	,	_		{}
+9	formåede	_		{}
+10	Ronaldo	_		{}
+11	at	_		{}
+12	brænde	_	Experience_bodily_harm	{"Experiencer": "10"}
+13	i	_		{}
+14	straffesparkkonkurrencen	_		{}
+15	,	_		{}
+16	hvilket	_		{}
+17	gav	_		{}
+18	Chelsea	_		{}
+19	en	_		{}
+20	gylden	_		{}
+21	mulighed	_	Opportunity	{"Desirable_situation": "24", "Opportunity": "21", "Agent": "18"}
+22	for	_		{}
+23	at	_		{}
+24	vinde	_	Win_prize	{"Competitor": "18"}
+25	,	_		{}
+26	men	_		{}
+27	John	_		{}
+28	Terry	_		{}
+29	snublede	_		{}
+30	da	_		{}
+31	han	_		{}
+32	sparkede	_		{}
+33	og	_		{}
+34	bolden	_	Shapes	{"Shape": "34"}
+35	ramte	_	Cause_impact	{"Impactee": "36", "Impactor": "34", "Agent": "27"}
+36	stolpen	_		{}
+37	.	_		{}

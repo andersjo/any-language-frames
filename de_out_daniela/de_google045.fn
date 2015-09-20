@@ -1,0 +1,20 @@
+1	Mit	_		{}
+2	"	_		{}
+3	Google	_		{}
+4	Appliance	_		{}
+5	"	_		{}
+6	verkauft	_	Commerce_sell	{"Buyer": "11", "Goods": "9", "Seller": "7"}
+7	Google	_		{}
+8	seine	_	Possession	{"Owner": "7", "Possession": "9"}
+9	Suchtechnologie	_		{}
+10	an	_		{}
+11	Unternehmen	_	Businesses	{"Business": "11"}
+12	,	_		{}
+13	die	_		{}
+14	sie	_		{}
+15	im	_		{}
+16	eigenen	_		{}
+17	Intranet	_		{}
+18	einsetzen	_	Using	{"Instrument": "14", "Agent": "11"}
+19	möchten	_		{}
+20	.	_		{}

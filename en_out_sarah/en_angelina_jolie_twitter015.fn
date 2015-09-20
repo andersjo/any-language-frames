@@ -1,0 +1,16 @@
+1	“	_		{}
+2	@GIRLSG0ALS	_		{}
+3	:	_		{}
+4	angelina	_		{}
+5	jolie	_		{}
+6	http://t.co/2ZaQUMvCyY	_		{}
+7	”	_		{}
+8	I	_		{}
+9	WANT	_	Desiring	{"Focal_participant": "10", "Experiencer": "8"}
+10	HER	_		{}
+11	TO	_		{}
+12	BE	_	Being_in_category	{"Category": "14", "Item": "10"}
+13	MY	_		{}
+14	MOM	_	Kinship	{"Ego": "13", "Alter": "14"}
+15	SO	_	Degree	{"Gradable_attribute": "15"}
+16	BAD	_	Desirability	{"Degree": "15", "Evaluee": "10"}

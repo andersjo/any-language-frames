@@ -1,0 +1,18 @@
+1	Contaban	_	Assessing	{"Feature": "7 ", "Medium": "11", "Phenomenon": "1", "Method": "11"}
+2	con	_		{}
+3	un	_		{}
+4	armario	_	Containers	{"Descriptor": "16", "Use": "5", "Material": "7", "Container": "4", "Contents": "11"}
+5	lleno	_	Fullness	{"Container": "4", "Degree": "5", "Contents": "11"}
+6	de	_		{}
+7	servidores	_		{}
+8	(	_		{}
+9	unos	_	Relational_quantity	{"Individuals": "11", "Mass": "11", "Degree": "5", "Reference_quantity": "80"}
+10	80	_		{}
+11	procesadores	_		{}
+12	)	_		{}
+13	,	_		{}
+14	y	_		{}
+15	dos	_	Cardinal_numbers	{"Number": "15", "Precision": "15", "Entity": "16"}
+16	routers	_		{}
+17	HP	_		{}
+18	.	_		{}

@@ -1,0 +1,45 @@
+1	Dans	_		{}
+2	un	_		{}
+3	autre	_		{}
+4	entretien	_		{}
+5	,	_		{}
+6	Rowling	_		{}
+7	a	_		{}
+8	expliqué	_		{}
+9	que	_		{}
+10	le	_		{}
+11	message	_		{}
+12	central	_	Importance	{"Undertaking": "11"}
+13	de	_		{}
+14	la	_		{}
+15	série	_	Sequence	{}
+16	était	_		{}
+17	celui	_		{}
+18	imparti	_		{}
+19	par	_		{}
+20	Albus	_		{}
+21	Dumbledore	_		{}
+22	dans	_		{}
+23	le	_		{}
+24	quatrième	_	Ordinal_numbers	{"Item": "25"}
+25	livre	_	Text	{"Text": "25"}
+26	:	_		{}
+27	il	_		{}
+28	faut	_		{}
+29	savoir	_	Awareness	{"Topic": "30"}
+30	choisir	_	Choosing	{"Possibilities": "33"}
+31	de	_		{}
+32	faire	_	Conduct	{"Manner": "36"}
+33	ce	_		{}
+34	qui	_		{}
+35	est	_		{}
+36	juste	_	Morality_evaluation	{"Behavior": "32"}
+37	plutôt	_		{}
+38	que	_		{}
+39	ce	_		{}
+40	qui	_		{}
+41	est	_		{}
+42	facile	_	Difficulty	{"Activity": "39"}
+43	,	_		{}
+44	car	_		{}
+45	.	_		{}

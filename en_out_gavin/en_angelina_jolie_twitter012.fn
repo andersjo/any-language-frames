@@ -1,0 +1,26 @@
+1	"	_		{}
+2	It's	_		{}
+3	better	_	Required_event	{}
+4	to	_		{}
+5	have	_	Have_associated	{"Entity": "6"}
+6	nobody	_		{}
+7	,	_		{}
+8	than	_		{}
+9	to	_		{}
+10	have	_	Have_associated	{"Entity": "11"}
+11	someone	_		{}
+12	whose	_		{}
+13	half	_	Part_whole	{}
+14	there	_	Locative_relation	{"Figure": "11", "Ground": "14"}
+15	,	_		{}
+16	or	_		{}
+17	doesn't	_		{}
+18	want	_	Desiring	{"Place": "21", "Event": "20", "Experiencer": "11"}
+19	to	_		{}
+20	be	_		{}
+21	there	_		{}
+22	.	_		{}
+23	"	_		{}
+24	-	_		{}
+25	Angelina	_		{}
+26	Jolie	_		{}

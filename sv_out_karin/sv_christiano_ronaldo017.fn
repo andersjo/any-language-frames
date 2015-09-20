@@ -1,0 +1,21 @@
+1	Han	_		{}
+2	gjorde	_		{}
+3	två	_	Cardinal_numbers	{"Number": "3", "Entity": "4"}
+4	mål	_	Hit_or_miss	{"Outcome": "4", "Agent": "14", "Iterations": "3"}
+5	mot	_		{}
+6	Moreirense	_		{}
+7	FC	_		{}
+8	i	_		{}
+9	sin	_		{}
+10	debutmatch	_		{}
+11	för	_		{}
+12	Sporting	_		{}
+13	,	_		{}
+14	och	_	Simultaneity	{"Profiled_event": "2", "Landmark_event": "17"}
+15	var	_		{}
+16	samtidigt	_	Coincidence	{"Place": "19", "State_of_affairs": "17"}
+17	aktuell	_		{}
+18	för	_		{}
+19	Portugals	_		{}
+20	U17-landslag	_		{}
+21	.	_		{}

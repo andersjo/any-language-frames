@@ -1,0 +1,30 @@
+1	Cristiano	_		{}
+2	Ronaldo	_		{}
+3	se	_		{}
+4	convitió	_		{}
+5	en	_		{}
+6	el	_		{}
+7	primer	_	First_rank	{"Item": "8", "Limits_of_consideration": "10"}
+8	jugador	_	Performers	{"Person": "8"}
+9	en	_		{}
+10	jugar	_	Performers_and_roles	{"Performer1": "1"}
+11	en	_		{}
+12	una	_		{}
+13	temporada	_	Sequence	{"Entity1": "13"}
+14	en	_		{}
+15	los	_		{}
+16	juveniles	_	Age	{"Attribute": "18", "Entity": "1"}
+17	del	_		{}
+18	Sporting	_		{}
+19	,	_		{}
+20	en	_		{}
+21	el	_		{}
+22	equipo	_	Organization	{"Organization": "22", "Members": "8"}
+23	filial	_		{}
+24	y	_		{}
+25	en	_		{}
+26	el	_		{}
+27	primer	_	First_rank	{"Item": "28", "Limits_of_consideration": "29"}
+28	equipo	_	Organization	{"Organization": "28", "Members": "8"}
+29	lisboeta	_		{}
+30	.	_		{}

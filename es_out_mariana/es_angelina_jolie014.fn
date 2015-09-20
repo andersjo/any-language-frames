@@ -1,0 +1,15 @@
+1	Ha	_	Existence	{"Depictive": "3", "State": "4", "Concessive": "4", "Circumstances": "7"}
+2	sido	_		{}
+3	pareja	_	Personal_relationship	{"Depictive": "7", "Partners": "4", "Partner_2": "8", "Relationship": "4"}
+4	amorosa	_	Social_interaction_evaluation	{"Topic": "3", "Manner": "3", "Behavior": "4", "Affected_party": "9"}
+5	de	_		{}
+6	los	_		{}
+7	actores	_	Performers	{"Persistent_characteristic": "7", "Person": "8"}
+8	Jonny	_		{}
+9	Lee	_		{}
+10	Miller	_		{}
+11	y	_	Simultaneity	{"Profiled_event": "12", "Landmark_event": "10"}
+12	Billy	_		{}
+13	Bob	_		{}
+14	Thornton	_		{}
+15	.	_		{}

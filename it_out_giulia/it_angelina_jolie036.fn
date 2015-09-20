@@ -1,0 +1,61 @@
+1	Torna	_		{}
+2	a	_		{}
+3	recitare	_	Performers_and_roles	{"Type": "5"}
+4	nel	_		{}
+5	film	_	Physical_artworks	{"Type": "6", "Name": "8", "Artifact": "5"}
+6	gangster	_		{}
+7	"	_		{}
+8	Hell's	_		{}
+9	Kitchen	_		{}
+10	-	_		{}
+11	Le	_		{}
+12	strade	_		{}
+13	dell'inferno	_		{}
+14	"	_		{}
+15	ma	_	Concessive	{"Main_statement": "3", "Statement": "19"}
+16	si	_		{}
+17	mette	_		{}
+18	in	_		{}
+19	luce	_		{}
+20	nel	_		{}
+21	film	_	Physical_artworks	{"Name": "23", "Artifact": "21"}
+22	"	_		{}
+23	Scherzi	_		{}
+24	del	_		{}
+25	cuore	_		{}
+26	"	_		{}
+27	,	_		{}
+28	dove	_		{}
+29	recita	_	Performers_and_roles	{"Type": "21", "Performer2": "34"}
+30	al	_		{}
+31	fianco	_		{}
+32	di	_		{}
+33	Sean	_		{}
+34	Connery	_		{}
+35	,	_		{}
+36	Gena	_		{}
+37	Rowlands	_		{}
+38	e	_		{}
+39	Ryan	_		{}
+40	Phillippe	_		{}
+41	,	_		{}
+42	per	_		{}
+43	la	_		{}
+44	cui	_		{}
+45	interpretazione	_	Performing_arts	{"Type": "21"}
+46	si	_		{}
+47	aggiudica	_		{}
+48	un	_		{}
+49	National	_		{}
+50	Board	_		{}
+51	of	_		{}
+52	Review	_		{}
+53	Awards	_		{}
+54	1998	_		{}
+55	per	_		{}
+56	la	_		{}
+57	miglior	_		{}
+58	performance	_	Performing_arts	{"Performance": "58", "Type": "21"}
+59	rivelazione	_		{}
+60	femminile	_		{}
+61	.	_		{}

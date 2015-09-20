@@ -1,0 +1,16 @@
+1	Undrar	_		{}
+2	verkligen	_		{}
+3	när	_		{}
+4	folk	_	People	{"Person": "4"}
+5	ska	_		{}
+6	fatta	_	Awareness	{"Content": "13", "Cognizer": "4", "Topic": "9"}
+7	att	_		{}
+8	Harry	_		{}
+9	Potter	_		{}
+10	inte	_		{}
+11	är	_		{}
+12	ett	_	Cardinal_numbers	{"Number": "12", "Entity": "13"}
+13	intresse	_	Participation	{}
+14	utan	_		{}
+15	en	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	livsstil	_		{}

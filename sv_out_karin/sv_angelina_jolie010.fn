@@ -1,0 +1,34 @@
+1	Jolies	_		{}
+2	position	_		{}
+3	som	_		{}
+4	actionstjärna	_		{}
+5	förstärktes	_		{}
+6	med	_		{}
+7	huvudrollerna	_		{}
+8	i	_	Being_employed	{"Position": "7", "Place_of_employment": "13", "Time": "16"}
+9	"	_		{}
+10	Mr.	_		{}
+11	&	_		{}
+12	Mrs.	_		{}
+13	Smith	_		{}
+14	"	_		{}
+15	(	_		{}
+16	2005	_		{}
+17	)	_		{}
+18	och	_	Simultaneity	{"Profiled_event": "13", "Landmark_event": "20"}
+19	"	_		{}
+20	Wanted	_		{}
+21	"	_		{}
+22	(	_		{}
+23	2008	_		{}
+24	)	_		{}
+25	,	_		{}
+26	som	_		{}
+27	blev	_		{}
+28	hennes	_		{}
+29	hittills	_	Continued_state_of_affairs	{"State_of_affairs": "33"}
+30	främsta	_		{}
+31	icke-animerade	_		{}
+32	kommersiella	_		{}
+33	framgång	_	Progress	{"Entity": "1"}
+34	.	_		{}

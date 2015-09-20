@@ -1,0 +1,20 @@
+1	Global	_		{}
+2	Warming	_		{}
+3	has	_		{}
+4	been	_	Being_in_category	{"Category": "11", "Item": "2"}
+5	and	_	Simultaneity	{"Profiled_event": "8", "Landmark_event": "4"}
+6	will	_		{}
+7	always	_	Frequency	{"Time_span": "7"}
+8	be	_		{}
+9	the	_		{}
+10	biggest	_	Measurable_attributes	{"Degree": "10", "Entity": "11"}
+11	hoax	_	Offenses	{"Perpetrator": "14", "Offense": "2"}
+12	of	_		{}
+13	all	_	Quantity	{"Individuals": "14", "Quantity": "13"}
+14	mankind	_	People	{"Person": "14"}
+15	.	_		{}
+16	It's	_		{}
+17	all	_	Quantity	{"Mass": "19", "Quantity": "17"}
+18	about	_		{}
+19	$$$	_		{}
+20	.	_		{}

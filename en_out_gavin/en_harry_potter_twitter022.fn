@@ -1,0 +1,16 @@
+1	february	_	Calendric_unit	{"Unit": "1"}
+2	is	_		{}
+3	going	_		{}
+4	to	_		{}
+5	be	_	Being_in_category	{"Category": "6", "Item": "1"}
+6	incredible	_	Desirability	{"Evaluee": "1"}
+7	between	_		{}
+8	the	_		{}
+9	wonder	_	Cogitation	{"Topic": "10"}
+10	years	_	Calendric_unit	{"Unit": "10"}
+11	shows	_		{}
+12	and	_		{}
+13	harry	_		{}
+14	potter	_		{}
+15	hold	_	Taking	{"Theme": "16"}
+16	me	_	Proper_reference	{"Intended_referent": "16"}

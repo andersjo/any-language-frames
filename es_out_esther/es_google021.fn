@@ -1,0 +1,19 @@
+1	En	_		{}
+2	febrero	_	Calendric_unit	{"Relative_time": "2", "Whole": "4"}
+3	de	_		{}
+4	2003	_		{}
+5	Google	_		{}
+6	adquiere	_	Adopt_selection	{"Attribute": "8", "Agent": "5"}
+7	Pyra	_		{}
+8	Labs	_		{}
+9	y	_		{}
+10	con	_		{}
+11	ello	_		{}
+12	el	_		{}
+13	servicio	_	Public_services	{"Domain": "17", "Target_group": "17", "Service_action": "15", "Institution": "5"}
+14	de	_		{}
+15	creación	_	Existence	{"Entity": "17"}
+16	de	_		{}
+17	blogs	_		{}
+18	Blogger	_		{}
+19	.	_		{}

@@ -1,0 +1,21 @@
+1	Qué	_		{}
+2	también	_		{}
+3	estarán	_		{}
+4	cooperando	_	Collaboration	{"Undertaking": "6"}
+5	al	_		{}
+6	cambio	_	Cause_change	{"Entity": "12"}
+7	verdadero	_	Actually_occurring_entity	{"Instance": "6", "Type": "7"}
+8	que	_		{}
+9	la	_		{}
+10	foto	_	Physical_artworks	{"Artifact": "10"}
+11	de	_		{}
+12	Harry	_		{}
+13	Potter	_		{}
+14	luce	_	Appearance	{"Inference": "12", "Phenomenon": "20"}
+15	frente	_		{}
+16	a	_		{}
+17	mí	_		{}
+18	en	_		{}
+19	gran	_	Size	{"Entity": "20"}
+20	propaganda	_		{}
+21	.	_		{}

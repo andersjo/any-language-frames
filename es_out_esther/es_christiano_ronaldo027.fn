@@ -1,0 +1,28 @@
+1	La	_		{}
+2	cirugía	_	Using	{}
+3	se	_		{}
+4	realizó	_	Performing_arts	{"Personnel": "17"}
+5	por	_		{}
+6	la	_		{}
+7	mañana	_	Temporal_subregion	{"Time_period": "7"}
+8	y	_		{}
+9	Cristiano	_		{}
+10	Ronaldo	_		{}
+11	,	_		{}
+12	fue	_		{}
+13	dado	_	Abandonment	{"Theme": "15", "Agent": "9"}
+14	de	_		{}
+15	alta	_	Duration_attribute	{"Period": "20", "Eventuality": "15"}
+16	del	_		{}
+17	hospital	_	Buildings	{"Building": "17"}
+18	la	_		{}
+19	misma	_	Identicality	{"Previous_context": "7", "Current_instance": "20"}
+20	tarde	_	Temporal_subregion	{"Time_period": "20", "Sub_part": "19"}
+21	y	_		{}
+22	pocos	_	Quantity	{"Individuals": "23", "Mass": "23", "Quantity": "22"}
+23	días	_	Timespan	{"Duration": "23"}
+24	después	_	Relative_time	{}
+25	volvió	_		{}
+26	a	_		{}
+27	entrenar	_	Exercising	{"Agent": "9"}
+28	.	_		{}

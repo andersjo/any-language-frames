@@ -1,0 +1,25 @@
+1	Had	_		{}
+2	a	_	Cardinal_numbers	{"Number": "2", "Entity": "3"}
+3	dream	_	Desiring	{}
+4	that	_		{}
+5	was	_	Being_in_category	{"Category": "8", "Item": "3"}
+6	like	_	Similarity	{"Entity_1": "3", "Entity_2": "8"}
+7	a	_	Cardinal_numbers	{"Number": "7", "Entity": "8"}
+8	cabin	_	Buildings	{"Building": "8"}
+9	horror	_	Emotion_directed	{}
+10	film	_	Physical_artworks	{"Artifact": "10"}
+11	.	_		{}
+12	It	_		{}
+13	was	_	Existence	{"Entity": "12"}
+14	valentines	_		{}
+15	day	_	Calendric_unit	{"Name": "14", "Unit": "15"}
+16	n	_		{}
+17	Angelina	_		{}
+18	Jolie	_		{}
+19	was	_	Performers_and_roles	{"Performer": "17", "Role": "21"}
+20	a	_	Cardinal_numbers	{"Number": "20", "Entity": "21"}
+21	crazy	_	Medical_conditions	{"Patient": "17"}
+22	b	_		{}
+23	tryna	_		{}
+24	kill	_	Killing	{"Killer": "17", "Victim": "25"}
+25	me	_	Proper_reference	{}

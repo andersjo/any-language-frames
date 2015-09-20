@@ -1,0 +1,24 @@
+1	#sat1	_		{}
+2	schneidet	_	Cutting	{"Item": "7", "Agent": "1"}
+3	in	_		{}
+4	Harry	_		{}
+5	Potter	_		{}
+6	die	_		{}
+7	Szene	_	Physical_artworks	{"Artifact": "7"}
+8	,	_		{}
+9	in	_		{}
+10	der	_		{}
+11	Wurmschwanz	_		{}
+12	sich	_		{}
+13	die	_		{}
+14	Hand	_	Observable_body_parts	{"Body_part": "14", "Possessor": "11"}
+15	abschneidet	_		{}
+16	?	_		{}
+17	Dann	_	Temporal_collocation	{"Trajector_event": "18", "Landmark_period": "17"}
+18	Wechsel	_		{}
+19	ich	_		{}
+20	mal	_		{}
+21	wieder	_		{}
+22	auf	_		{}
+23	die	_		{}
+24	Bluray	_		{}

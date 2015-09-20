@@ -1,0 +1,21 @@
+1	En	_		{}
+2	diciembre	_	Calendric_unit	{"Relative_time": "2"}
+3	del	_		{}
+4	mismo	_	Identicality	{"Current_instance": "5", "Previous_context": "5"}
+5	año	_	Calendric_unit	{"Relative_time": "4", "Whole": "5", "Unit": "2"}
+6	se	_		{}
+7	lanza	_	Communicate_categorization	{"Category": "9", "Item": "15"}
+8	el	_		{}
+9	servicio	_	Public_services	{}
+10	de	_		{}
+11	búsqueda	_	Scrutiny	{"Ground": "13"}
+12	de	_		{}
+13	productos	_	Manufacturing	{"Product": "15"}
+14	llamado	_	Being_named	{"Name": "15", "Entity": "14"}
+15	Froogle	_		{}
+16	,	_		{}
+17	ahora	_	Temporal_collocation	{"Landmark_entity": "20"}
+18	denominado	_		{}
+19	Google	_		{}
+20	Products	_		{}
+21	.	_		{}

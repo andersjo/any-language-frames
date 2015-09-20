@@ -1,0 +1,33 @@
+1	Ronaldo	_		{}
+2	gjorde	_		{}
+3	sedan	_	Temporal_collocation	{"Trajector_event": "2"}
+4	det	_		{}
+5	enda	_	Sole_instance	{"Item": "6"}
+6	målet	_		{}
+7	i	_		{}
+8	en	_	Cardinal_numbers	{"Number": "8", "Entity": "9"}
+9	bortamatch	_		{}
+10	mot	_		{}
+11	Sporting	_		{}
+12	Lissabon	_		{}
+13	i	_		{}
+14	Champions	_		{}
+15	League	_		{}
+16	och	_	Simultaneity	{"Profiled_event": "2", "Landmark_event": "17"}
+17	sköt	_		{}
+18	även	_		{}
+19	vinstmålet	_		{}
+20	i	_		{}
+21	returmötet	_		{}
+22	i	_		{}
+23	Manchester	_		{}
+24	,	_		{}
+25	vilket	_		{}
+26	gjorde	_		{}
+27	att	_		{}
+28	United	_		{}
+29	låg	_		{}
+30	etta	_		{}
+31	i	_		{}
+32	gruppen	_		{}
+33	.	_		{}

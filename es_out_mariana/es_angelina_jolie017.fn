@@ -1,0 +1,38 @@
+1	El	_		{}
+2	31	_		{}
+3	de	_		{}
+4	julio	_	Calendric_unit	{"Whole": "6", "Salient_event": "18", "Unit": "4", "Relative_time": "2"}
+5	de	_		{}
+6	2005	_		{}
+7	,	_		{}
+8	el	_		{}
+9	rey	_	Leadership	{"Domain": "11", "Degree": "9", "Means": "18", "Governed": "11", "Role": "16", "Activity": "18", "Leader": "13"}
+10	de	_		{}
+11	Camboya	_		{}
+12	,	_		{}
+13	Norodom	_		{}
+14	Sihamoní	_		{}
+15	,	_		{}
+16	emitió	_		{}
+17	un	_		{}
+18	decreto	_	Request	{"Beneficiary": "28", "Topic": "36", "Addressee": "28", "Speaker": "13", "Time": "6", "Message": "35"}
+19	a	_		{}
+20	través	_		{}
+21	del	_		{}
+22	cual	_		{}
+23	la	_		{}
+24	nombró	_		{}
+25	"	_		{}
+26	ciudadana	_	People_by_jurisdiction	{"Person": "26", "Ethnicity": "11"}
+27	del	_		{}
+28	país	_	Political_locales	{"Locale": "28", "Relative_location": "11", "Name": "11"}
+29	por	_		{}
+30	sus	_		{}
+31	esfuerzos	_	Attempt	{"Place": "28", "Manner": "36", "Agent": "26", "Means": "31"}
+32	para	_	Sufficiency	{"Item": "31", "Enabled_situation": "33"}
+33	preservar	_	Preserving	{"Medium": "18"}
+34	el	_		{}
+35	alma	_		{}
+36	humanitaria	_		{}
+37	"	_		{}
+38	.	_		{}

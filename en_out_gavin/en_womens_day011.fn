@@ -1,0 +1,26 @@
+1	Delegates	_	Appointing	{"Official": "1"}
+2	(	_		{}
+3	100	_	Cardinal_numbers	{"Number": "3", "Entity": "4"}
+4	women	_	People	{"Origin": "5", "Person": "4"}
+5	from	_		{}
+6	17	_		{}
+7	countries	_	Political_locales	{"Locale": "7"}
+8	)	_		{}
+9	agreed	_	Make_agreement_on_action	{"Obligation": "10", "Parties": "1"}
+10	with	_		{}
+11	the	_		{}
+12	idea	_	Desirable_event	{"State_of_affairs": "12"}
+13	as	_		{}
+14	a	_	Cardinal_numbers	{"Number": "14", "Entity": "15"}
+15	strategy	_	Project	{"Project": "15", "Field": "19", "Goal": "17"}
+16	to	_		{}
+17	promote	_	Subjective_influence	{"Action": "19", "Product": "15"}
+18	equal	_	Evaluative_comparison	{"Standard_item": "19"}
+19	rights	_	Morality_evaluation	{}
+20	,	_		{}
+21	including	_		{}
+22	suffrage	_		{}
+23	,	_		{}
+24	for	_		{}
+25	women	_	People	{"Person": "25"}
+26	.	_		{}

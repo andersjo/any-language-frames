@@ -1,0 +1,29 @@
+1	Jolie	_		{}
+2	fremmer	_		{}
+3	humanitære	_		{}
+4	årsager	_		{}
+5	og	_		{}
+6	er	_		{}
+7	desuden	_		{}
+8	kendt	_	Being_named	{"Name": "1"}
+9	for	_		{}
+10	sit	_		{}
+11	arbejde	_	Being_employed	{"Employee": "1", "Position": "17", "Field": "13"}
+12	med	_		{}
+13	flygtninge	_		{}
+14	som	_		{}
+15	en	_		{}
+16	særlig	_		{}
+17	udsending	_		{}
+18	og	_		{}
+19	så	_		{}
+20	er	_		{}
+21	hun	_	People	{"Person": "1"}
+22	også	_		{}
+23	tidligere	_	Event_instance	{"Event": "25"}
+24	Goodwill	_		{}
+25	ambassadør	_		{}
+26	for	_		{}
+27	FN's	_		{}
+28	Flygtningehøjkommissariat	_		{}
+29	.	_		{}

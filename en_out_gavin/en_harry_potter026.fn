@@ -1,0 +1,62 @@
+1	When	_		{}
+2	the	_		{}
+3	first	_	Ordinal_numbers	{"Comparison_set": "5", "Item": "4"}
+4	novel	_	Text	{"Text": "4"}
+5	of	_		{}
+6	the	_		{}
+7	series	_	Sequence	{"Entity1": "4"}
+8	,	_		{}
+9	"	_		{}
+10	Harry	_		{}
+11	Potter	_		{}
+12	and	_		{}
+13	the	_		{}
+14	Philosopher's	_		{}
+15	Stone	_		{}
+16	"	_		{}
+17	(	_		{}
+18	published	_	Text_creation	{"Text": "4", "Place": "19"}
+19	in	_		{}
+20	some	_	Relational_quantity	{"Individuals": "21", "Denoted_quantity": "20"}
+21	countries	_	Political_locales	{"Locale": "21"}
+22	as	_		{}
+23	"	_		{}
+24	Harry	_		{}
+25	Potter	_		{}
+26	and	_		{}
+27	the	_		{}
+28	Sorcerer's	_		{}
+29	Stone	_		{}
+30	"	_		{}
+31	)	_		{}
+32	,	_		{}
+33	opens	_	Openness	{"Theme": "4"}
+34	it	_		{}
+35	is	_	Being_in_category	{"Category": "36"}
+36	apparent	_	Obviousness	{"Phenomenon": "34"}
+37	that	_		{}
+38	some	_	Relational_quantity	{"Individuals": "40"}
+39	significant	_	Importance	{}
+40	event	_	Event	{"Place": "44"}
+41	has	_		{}
+42	taken	_	Experiencer_focus	{}
+43	place	_	Placing	{}
+44	in	_		{}
+45	the	_		{}
+46	wizarding	_	Performers_and_roles	{"Performance": "46"}
+47	world	_	Locale	{"Locale": "47", "Descriptor": "46"}
+48	—	_		{}
+49	an	_		{}
+50	event	_	Event	{}
+51	so	_		{}
+52	very	_	Degree	{"Gradable_attribute": "53"}
+53	remarkable	_		{}
+54	,	_		{}
+55	even	_		{}
+56	the	_		{}
+57	Muggles	_		{}
+58	notice	_	Perception_experience	{"Phenomenon": "59", "Perceiver_passive": "57"}
+59	signs	_	Sign	{"Indicator": "59", "Indicated": "61"}
+60	of	_		{}
+61	it	_		{}
+62	.	_		{}

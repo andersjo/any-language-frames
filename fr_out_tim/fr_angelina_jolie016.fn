@@ -1,0 +1,26 @@
+1	Divorcée	_		{}
+2	des	_		{}
+3	acteurs	_	Performers	{"Person": "3"}
+4	Jonny	_		{}
+5	Lee	_		{}
+6	Miller	_		{}
+7	et	_		{}
+8	Billy	_		{}
+9	Bob	_		{}
+10	Thornton	_		{}
+11	,	_		{}
+12	Angelina	_		{}
+13	Jolie	_		{}
+14	vit	_	Residence	{"Resident": "12", "Co_resident": "17"}
+15	actuellement	_		{}
+16	avec	_		{}
+17	l'acteur	_	Performers	{"Person": "17"}
+18	Brad	_		{}
+19	Pitt	_		{}
+20	avec	_		{}
+21	qui	_		{}
+22	elle	_		{}
+23	s'est	_		{}
+24	fiancée	_	Forming_relationships	{"Partner_2": "17", "Partner_1": "12"}
+25	en	_		{}
+26	.	_		{}

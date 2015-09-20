@@ -1,0 +1,28 @@
+1	Película	_		{}
+2	5	_	Cardinal_numbers	{"Number": "21"}
+3	:	_		{}
+4	Wanted	_		{}
+5	Angelina	_		{}
+6	Jolie	_		{}
+7	y	_		{}
+8	Morgan	_		{}
+9	Freeman	_		{}
+10	en	_		{}
+11	una	_		{}
+12	película	_	Physical_artworks	{"Artifact": "12"}
+13	mala	_	Morality_evaluation	{"Judge": "13", "Evaluee": "4"}
+14	que	_		{}
+15	no	_		{}
+16	puedes	_	Capability	{}
+17	dejar	_	Abandonment	{"Theme": "19"}
+18	de	_		{}
+19	ver	_	Attention	{}
+20	6.7	_		{}
+21	/10	_		{}
+22	en	_		{}
+23	@IMDb	_		{}
+24	dur	_		{}
+25	:	_		{}
+26	1hr	_		{}
+27	50min	_		{}
+28	@CaMdanga	_		{}

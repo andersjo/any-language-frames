@@ -1,0 +1,18 @@
+1	@veracarrera	_		{}
+2	@SrtaNauru	_		{}
+3	los	_		{}
+4	cuentos	_		{}
+5	infantiles	_	People_by_age	{"Person": "5", "Age": "5"}
+6	clásicos	_		{}
+7	tienen	_	Possession	{"Owner": "4", "Possession": "8"}
+8	interpretaciones	_	Categorization	{"Category": "8", "Item": "9"}
+9	interesantes	_		{}
+10	.	_		{}
+11	Harry	_		{}
+12	potter	_		{}
+13	me	_	Proper_reference	{"Intended_referent": "13", "Entity": "13"}
+14	supera	_	Surpassing	{}
+15	,	_		{}
+16	lo	_		{}
+17	mismo	_	Identicality	{}
+18	tolkien	_		{}

@@ -1,0 +1,21 @@
+1	I	_		{}
+2	don't	_		{}
+3	understand	_	Coming_to_believe	{"Content": "4", "Cognizer": "1"}
+4	why	_	Reason	{"Agent": "1", "State_of_Affairs": "6"}
+5	you	_		{}
+6	hit	_	Hit_target	{"Place": "8", "Target": "7", "Agent": "5"}
+7	publish	_	Text_creation	{"Author": "5"}
+8	on	_		{}
+9	this	_	Proper_reference	{}
+10	,	_		{}
+11	like	_	Similarity	{"Entity_1": "12"}
+12	you	_		{}
+13	watched	_	Perception_active	{"Phenomenon": "19", "Perceiver_agentive": "12"}
+14	a	_	Cardinal_numbers	{"Number": "14", "Entity": "19"}
+15	different	_	Similarity	{"Entity_1": "19"}
+16	Wizards	_	Performers_and_roles	{"Performer": "16"}
+17	&	_		{}
+18	Thunder	_	Sounds	{"Noisy_event": "18"}
+19	game	_	Aggregate	{"Aggregate": "19"}
+20	http://t.co/amXzogtOPH	_		{}
+21	@ThunderObsessed	_		{}

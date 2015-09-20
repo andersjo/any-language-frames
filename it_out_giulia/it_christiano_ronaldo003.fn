@@ -1,0 +1,33 @@
+1	Conta	_	Amounting_to	{"Attribute": "3", "Value": "2"}
+2	118	_		{}
+3	presenze	_	Attending	{}
+4	e	_		{}
+5	52	_		{}
+6	reti	_		{}
+7	con	_		{}
+8	la	_		{}
+9	maglia	_	Clothing	{"Garment": "9"}
+10	dei	_		{}
+11	lusitani	_		{}
+12	;	_		{}
+13	secondo	_	Ordinal_numbers	{"Item": "14"}
+14	calciatore	_		{}
+15	per	_		{}
+16	numero	_	Quantity	{"Individuals": "18"}
+17	di	_		{}
+18	presenze	_	Attending	{"Agent": "14"}
+19	,	_		{}
+20	dietro	_		{}
+21	a	_		{}
+22	Luís	_		{}
+23	Figo	_		{}
+24	,	_		{}
+25	e	_		{}
+26	primo	_	Ordinal_numbers	{"Item": "14"}
+27	per	_		{}
+28	quanto	_		{}
+29	riguarda	_	Regard	{"Judgment": "26"}
+30	le	_		{}
+31	reti	_		{}
+32	realizzate	_	Hit_or_miss	{"Target_location": "31", "Agent": "14"}
+33	.	_		{}

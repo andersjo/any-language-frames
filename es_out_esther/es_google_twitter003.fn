@@ -1,0 +1,12 @@
+1	#HuboUnPresidente	_		{}
+2	Que	_		{}
+3	desde	_		{}
+4	temprana	_	Relative_time	{"Focal_occasion": "5", "Focal_participant": "1", "Landmark_occasion": "5"}
+5	edad	_	Age	{"Attribute": "7", "Degree": "4", "Entity": "1"}
+6	le	_		{}
+7	gusto	_	Experiencer_focus	{"Topic": "10", "Experiencer": "1", "Event": "10"}
+8	la	_		{}
+9	"	_		{}
+10	muerte	_	Death	{"Protagonist": "1"}
+11	"	_		{}
+12	https://t.co/uzvHfUivo3	_		{}

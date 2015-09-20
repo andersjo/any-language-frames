@@ -1,0 +1,58 @@
+1	Mejoró	_		{}
+2	también	_	Sufficiency	{"Item": "4", "Degree": "1", "Enabled_situation": "1"}
+3	su	_		{}
+4	faceta	_	Distinctiveness	{"Feature": "5", "Degree": "1"}
+5	goleadora	_		{}
+6	,	_		{}
+7	siendo	_	Cause_change	{"Reason": "11", "Means": "11", "Final_category": "22", "Degree": "35", "Circumstances": "57"}
+8	autor	_		{}
+9	de	_		{}
+10	varios	_		{}
+11	dobletes	_		{}
+12	,	_		{}
+13	que	_	Causation	{"Explanation": "10", "Affected": "11", "Circumstances": "17"}
+14	le	_	Giving	{"Theme": "15", "Reason": "11"}
+15	valieron	_	Opinion	{"Domain": "39", "Evidence": "11", "Topic": "52", "Role": "39", "Opinion": "22", "Circumstances": "52"}
+16	para	_		{}
+17	ser	_	Being_in_category	{"Category": "22", "Means": "11", "Criteria": "11", "Manner": "11", "Time": "24", "Circumstances": "11"}
+18	nombrado	_		{}
+19	nuevamente	_	Temporal_collocation	{"Landmark_entity": "22", "Event_description": "52", "Landmark_period": "24"}
+20	como	_	Identicality	{"Current_instance": "22"}
+21	«	_		{}
+22	Jugador	_	Performers	{"Persistent_characteristic": "3p", "Place_of_employment": "52", "Ethnicity": "40", "Rank": "28", "Employer": "40"}
+23	del	_		{}
+24	mes	_	Calendric_unit	{"Whole": "42", "Relative_time": "24", "Salient_event": "1", "Unit": "24"}
+25	»	_		{}
+26	de	_		{}
+27	la	_		{}
+28	Premier	_	Leadership	{"Domain": "52", "Means": "5", "Governed": "52", "Role": "39", "Manner": "1", "Time": "24", "Type": "5"}
+29	,	_		{}
+30	y	_		{}
+31	por	_		{}
+32	el	_		{}
+33	diario	_	Text	{"Genre": "33", "Text": "36", "Use": "33", "Medium": "33", "Topic": "39"}
+34	portugués	_	Origin	{"Origin": "34", "Entity": "33"}
+35	A	_		{}
+36	Bola	_		{}
+37	como	_	Identicality	{"Previous_instance": "22", "Current_instance": "39", "Type": "39", "Time": "42"}
+38	«	_		{}
+39	Deportista	_	Performers	{"Origin": "40", "Persistent_characteristic": "5", "Place_of_employment": "52", "Person": "39", "Rank": "28", "Employer": "52", "Descriptor": "53", "Ethnicity": "53"}
+40	portugués	_	Origin	{"Origin": "40", "Entity": "39"}
+41	del	_		{}
+42	año	_	Calendric_unit	{"Salient_event": "18", "Whole": "42", "Relative_time": "42"}
+43	»	_		{}
+44	por	_		{}
+45	su	_		{}
+46	importante	_	Importance	{"Interested_party": "52", "Field": "52", "Place": "53", "Degree": "57", "Undertaking": "52"}
+47	contribución	_	Membership	{"Group": "52", "Place": "57", "Manner": "5", "Time": "19"}
+48	a	_		{}
+49	la	_		{}
+50	expansión	_	Expansion	{"Item": "52", "Group": "53", "Dimension": "57", "Degree": "57"}
+51	del	_		{}
+52	fútbol	_		{}
+53	portugués	_	Origin	{"Origin": "53", "Entity": "52"}
+54	a	_		{}
+55	través	_		{}
+56	del	_		{}
+57	mundo	_	Locale	{"Locale": "57", "Related_event": "50", "Descriptor": "53"}
+58	.	_		{}

@@ -1,0 +1,12 @@
+1	Jolie	_		{}
+2	suffered	_		{}
+3	episodes	_	Sequence	{}
+4	of	_		{}
+5	depression	_	Emotion_directed	{"Experiencer": "1"}
+6	throughout	_		{}
+7	her	_		{}
+8	teens	_	People_by_age	{"Person": "1", "Age": "8"}
+9	and	_	Simultaneity	{}
+10	early	_	Relative_time	{}
+11	twenties	_	Cardinal_numbers	{"Number": "11"}
+12	.	_		{}

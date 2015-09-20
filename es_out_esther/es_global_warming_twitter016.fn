@@ -1,0 +1,16 @@
+1	@TsMiko	_		{}
+2	siento	_	Capacity	{"Theme": "4"}
+3	mi	_		{}
+4	humor	_	Mental_property	{"Behavior": "5"}
+5	estancado	_	Halt	{"Theme": "4"}
+6	en	_		{}
+7	las	_		{}
+8	venéreas	_	Quantity	{}
+9	,	_		{}
+10	las	_		{}
+11	global	_		{}
+12	warming	_		{}
+13	no	_		{}
+14	me	_		{}
+15	gustan	_	Emotions_of_mental_activity	{"Stimulus": "12", "Experiencer": "14"}
+16	tanto	_		{}

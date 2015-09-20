@@ -1,0 +1,20 @@
+1	The	_		{}
+2	series	_	Sequence	{"Entity1": "2"}
+3	continues	_	Activity_ongoing	{"Activity": "2"}
+4	with	_		{}
+5	"	_		{}
+6	Harry	_		{}
+7	Potter	_		{}
+8	and	_		{}
+9	the	_		{}
+10	Chamber	_	Building_subparts	{"Building_part": "10"}
+11	of	_		{}
+12	Secrets	_	Secrecy_status	{"Phenomenon": "12"}
+13	"	_		{}
+14	describing	_	Create_representation	{"Represented": "17", "Creator": "7"}
+15	Harry's	_		{}
+16	second	_	Ordinal_numbers	{"Item": "17", "Basis_of_order": "18"}
+17	year	_	Calendric_unit	{"Unit": "17"}
+18	at	_		{}
+19	Hogwarts	_		{}
+20	.	_		{}

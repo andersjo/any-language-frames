@@ -1,0 +1,27 @@
+1	Como	_	Similarity	{"Degree": "5", "Place": "2", "Entity_1": "2", "Entity_2": "12", "Manner": "5"}
+2	acá	_	Locative_relation	{"Ground": "2"}
+3	nada	_	Cardinal_numbers	{"Number": "3"}
+4	sale	_		{}
+5	bien	_	Usefulness	{"Entity": "3"}
+6	,	_		{}
+7	pinchamos	_	Cause_harm	{}
+8	,	_		{}
+9	se	_	Cause_impact	{"Impactee": "12", "Impactors": "16"}
+10	rompió	_		{}
+11	el	_		{}
+12	cricket	_		{}
+13	y	_	Simultaneity	{"Profiled_event": "14", "Landmark_event": "10"}
+14	levantamos	_	Arranging	{"Manner": "17"}
+15	el	_		{}
+16	auto	_	Vehicle	{"Descriptor": "17", "Vehicle": "16"}
+17	apoyándolo	_		{}
+18	en	_		{}
+19	el	_		{}
+20	harry	_		{}
+21	potter	_		{}
+22	v	_		{}
+23	.	_		{}
+24	En	_		{}
+25	tu	_		{}
+26	cara	_	Facial_expression	{}
+27	voldemort	_		{}

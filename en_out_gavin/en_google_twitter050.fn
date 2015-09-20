@@ -1,0 +1,7 @@
+1	common	_	Color	{}
+2	venezuelan	_		{}
+3	food	_	Food	{"Food": "3", "Descriptor": "1", "Type": "2"}
+4	-	_		{}
+5	Google	_		{}
+6	Search	_	Seeking	{"Sought_entity": "3"}
+7	http://t.co/FW3o7FHlvR	_		{}

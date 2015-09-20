@@ -1,0 +1,27 @@
+1	El	_		{}
+2	entrenador	_	People_by_vocation	{"Person": "4", "Employer": "20"}
+3	Sir	_		{}
+4	Alex	_		{}
+5	Ferguson	_		{}
+6	le	_		{}
+7	asignó	_		{}
+8	el	_		{}
+9	dorsal	_		{}
+10	«	_		{}
+11	7	_	Cardinal_numbers	{"Number": "11"}
+12	»	_		{}
+13	que	_		{}
+14	había	_		{}
+15	dejado	_	Abandonment	{"Theme": "18", "Agent": "4"}
+16	el	_		{}
+17	ex	_		{}
+18	capitán	_	Leadership	{"Role": "18", "Leader": "4", "Governed": "20"}
+19	del	_		{}
+20	Manchester	_		{}
+21	,	_		{}
+22	el	_		{}
+23	mediocampista	_		{}
+24	inglés	_	People_by_origin	{"Origin": "24", "Person": "25", "Persistent_characteristic": "23"}
+25	David	_		{}
+26	Beckham	_		{}
+27	.	_		{}

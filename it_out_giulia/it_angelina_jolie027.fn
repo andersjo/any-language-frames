@@ -1,0 +1,21 @@
+1	Poco	_	Degree	{"Gradable_attribute": "4"}
+2	più	_		{}
+3	che	_		{}
+4	quattordicenne	_		{}
+5	inizia	_	Process_start	{}
+6	a	_		{}
+7	lavorare	_	Being_employed	{"Field": "9", "Position": "11", "Employer": "20"}
+8	nella	_		{}
+9	moda	_	Businesses	{"Business": "20"}
+10	come	_		{}
+11	modella	_		{}
+12	,	_		{}
+13	firmando	_	Hiring	{"Field": "9", "Position": "11", "Means": "15", "Employer": "20"}
+14	un	_		{}
+15	contratto	_	Documents	{"Document": "15", "Issuer": "20"}
+16	con	_		{}
+17	la	_		{}
+18	Finesse	_		{}
+19	Model	_		{}
+20	Management	_		{}
+21	.	_		{}

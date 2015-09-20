@@ -1,0 +1,16 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	&	_		{}
+4	Brad	_		{}
+5	Pitt	_		{}
+6	at	_		{}
+7	2012	_		{}
+8	Palm	_		{}
+9	Springs	_	Natural_features	{"Locale": "8"}
+10	Film	_	Physical_artworks	{"Name": "8", "Artifact": "10"}
+11	Festival	_	Social_event	{"Attendee": "1", "Time": "7"}
+12	Awards	_	Judgment	{}
+13	Gala	_	Social_event	{"Attendee": "1", "Time": "7"}
+14	-	_		{}
+15	Arrivals	_	Arriving	{"Goal": "8", "Time": "7"}
+16	http://t.co/VfGy5YcO5a	_		{}

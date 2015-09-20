@@ -1,0 +1,7 @@
+1	Christiano	_		{}
+2	Ronaldo's	_		{}
+3	soccer	_		{}
+4	skills	_	Capability	{"Entity": "1"}
+5	are	_	Being_in_category	{"Category": "6", "Item": "4"}
+6	amazing	_	Desirability	{"Evaluee": "4"}
+7	.	_		{}

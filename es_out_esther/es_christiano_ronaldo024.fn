@@ -1,0 +1,23 @@
+1	Cuando	_		{}
+2	Cristiano	_		{}
+3	Ronaldo	_		{}
+4	tenía	_		{}
+5	quince	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	años	_	Age	{"Attribute": "9", "Age": "5", "Entity": "2"}
+7	,	_		{}
+8	fue	_		{}
+9	diagnosticado	_	Indicating	{"Unresolved_referent": "11"}
+10	un	_		{}
+11	problema	_	Medical_conditions	{"Patient": "2", "Ailment": "13"}
+12	de	_		{}
+13	corazón	_	Observable_body_parts	{"Body_part": "13", "Possessor": "2"}
+14	que	_		{}
+15	pudo	_	Capability	{"Entity": "2"}
+16	haberle	_		{}
+17	forzado	_	Artificiality	{"Type": "19", "Entity": "2"}
+18	a	_		{}
+19	retirarse	_	Losing_track_of_theme	{"Theme": "21"}
+20	de	_		{}
+21	jugar	_	Performers_and_roles	{"Performer": "2"}
+22	fútbol	_		{}
+23	.	_		{}

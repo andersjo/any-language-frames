@@ -1,0 +1,38 @@
+1	Alors	_		{}
+2	qu'elle	_		{}
+3	est	_		{}
+4	âgée	_		{}
+5	de	_		{}
+6	onze	_		{}
+7	ans	_	Age	{"Attribute": "4", "Age": "6", "Entity": "2"}
+8	,	_		{}
+9	la	_		{}
+10	famille	_	Kinship	{}
+11	déménage	_		{}
+12	à	_		{}
+13	Los	_		{}
+14	Angeles	_		{}
+15	,	_		{}
+16	Angelina	_		{}
+17	Jolie	_		{}
+18	décide	_		{}
+19	de	_		{}
+20	devenir	_	Becoming	{"Entity": "16"}
+21	actrice	_	Performers	{"Person": "16"}
+22	et	_		{}
+23	s'inscrit	_	Becoming_a_member	{"New_member": "16", "Group": "28"}
+24	au	_		{}
+25	Lee	_		{}
+26	Strasberg	_		{}
+27	Theatre	_		{}
+28	Institute	_		{}
+29	,	_		{}
+30	où	_		{}
+31	elle	_		{}
+32	suit	_	Activity_ongoing	{"Agent": "31", "Activity": " 34"}
+33	des	_		{}
+34	cours	_		{}
+35	pendant	_		{}
+36	deux	_	Cardinal_numbers	{"Number": "36", "Entity": "37"}
+37	ans	_	Measure_duration	{"Count": "36", "Unit": "37"}
+38	.	_		{}

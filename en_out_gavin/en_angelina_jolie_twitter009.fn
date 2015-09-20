@@ -1,0 +1,15 @@
+1	@babygurlcha1	_		{}
+2	😡fine	_		{}
+3	!	_	Statement	{"Message": "2"}
+4	If	_		{}
+5	I	_		{}
+6	look	_	Appearance	{"Phenomenon": "5", "Degree": "10", "Characterization": "9"}
+7	like	_	Similarity	{"Degree": "10", "Entity_1": "5", "Entity_2": "9"}
+8	Angelina	_		{}
+9	Jolie	_		{}
+10	times	_	Commutative_process	{"Term2": "11", "Term1": "9"}
+11	20	_	Cardinal_numbers	{"Number": "11", "Entity": "9"}
+12	though	_	Concessive	{"Topic": "9"}
+13	we	_		{}
+14	are	_		{}
+15	fighting😤😂	_		{}

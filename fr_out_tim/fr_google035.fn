@@ -1,0 +1,22 @@
+1	Cela	_		{}
+2	ne	_		{}
+3	les	_		{}
+4	empêche	_	Thwarting	{"Action": "13", "Protagonist": "3", "Preventing_cause": "1"}
+5	pourtant	_		{}
+6	pas	_		{}
+7	,	_		{}
+8	en	_		{}
+9	janvier	_	Calendric_unit	{"Whole": "9"}
+10	1996	_		{}
+11	,	_		{}
+12	de	_		{}
+13	commencer	_	Activity_start	{"Agent": "3", "Activity": "15"}
+14	à	_		{}
+15	travailler	_	Working_on	{"Goal": "19", "Agent": "3"}
+16	sur	_		{}
+17	un	_		{}
+18	nouveau	_	Stage_of_progress	{"Entity": "19"}
+19	moteur	_		{}
+20	de	_		{}
+21	recherche	_	Research	{}
+22	.	_		{}

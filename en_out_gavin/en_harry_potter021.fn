@@ -1,0 +1,26 @@
+1	The	_		{}
+2	books	_	Text	{"Text": "2"}
+3	also	_		{}
+4	contain	_	Containing	{"Container": "2", "Contents": "6"}
+5	many	_	Quantity	{"Individuals": "6", "Quantity": "5"}
+6	flashbacks	_		{}
+7	,	_		{}
+8	which	_		{}
+9	are	_		{}
+10	frequently	_	Frequency	{"Salient_entity": "6"}
+11	experienced	_	Perception_experience	{"Place": "20", "Phenomenon": "6", "Perceiver_passive": "13", "Means": "14"}
+12	by	_		{}
+13	Harry	_		{}
+14	viewing	_	Perception_active	{"Place": "20", "Perceiver_agentive": "13", "Phenomenon": "16"}
+15	the	_		{}
+16	memories	_	Memory	{"Cognizer": "19"}
+17	of	_		{}
+18	other	_		{}
+19	characters	_	Performers_and_roles	{"Role": "19"}
+20	in	_		{}
+21	a	_	Cardinal_numbers	{"Number": "21", "Entity": "22"}
+22	device	_	Gizmo	{"Gizmo": "22"}
+23	called	_	Being_named	{"Name": "25", "Entity": "22"}
+24	a	_	Cardinal_numbers	{"Number": "24", "Entity": "25"}
+25	Pensieve	_		{}
+26	.	_		{}

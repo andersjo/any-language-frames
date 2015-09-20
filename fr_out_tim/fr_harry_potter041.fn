@@ -1,0 +1,41 @@
+1	Les	_		{}
+2	événements	_	Event	{}
+3	dépassent	_		{}
+4	alors	_		{}
+5	largement	_		{}
+6	le	_		{}
+7	cadre	_	Scope	{"Event": "2"}
+8	scolaire	_		{}
+9	et	_		{}
+10	Harry	_		{}
+11	se	_		{}
+12	trouve	_	Encounter	{"Party_2": "15", "Party_1": "10"}
+13	confronté	_		{}
+14	à	_		{}
+15	Voldemort	_		{}
+16	ou	_		{}
+17	ses	_		{}
+18	acolytes	_	Subordinates_and_superiors	{"Subordinate": "18", "Superior": "15"}
+19	,	_		{}
+20	avec	_		{}
+21	un	_		{}
+22	enjeu	_		{}
+23	vital	_	Importance	{"Interested_party": "10", "Undertaking": "22"}
+24	souligné	_		{}
+25	par	_		{}
+26	la	_		{}
+27	mort	_	Death	{"Protagonist": "31"}
+28	d'un	_		{}
+29	ou	_		{}
+30	plusieurs	_	Quantity	{"Individuals": "31", "Quantity": "30"}
+31	personnages	_	People	{"Person": "31"}
+32	à	_		{}
+33	la	_		{}
+34	fin	_		{}
+35	de	_		{}
+36	chacun	_		{}
+37	des	_		{}
+38	quatre	_	Cardinal_numbers	{"Number": "38", "Entity": "39"}
+39	derniers	_	Ordinal_numbers	{"Item": "40"}
+40	romans	_	Text	{"Text": "40"}
+41	.	_		{}

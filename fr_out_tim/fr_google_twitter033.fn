@@ -1,0 +1,21 @@
+1	Je	_		{}
+2	tape	_	Text_creation	{"Text": "6", "Author": "1"}
+3	dans	_		{}
+4	google	_		{}
+5	"	_		{}
+6	tableaux	_	Physical_artworks	{"Artifact": "6"}
+7	du	_		{}
+8	XVIIIème	_		{}
+9	siècle	_	Calendric_unit	{"Whole": "8"}
+10	"	_		{}
+11	,	_		{}
+12	je	_		{}
+13	tombe	_	Arriving	{"Theme": "12", "Goal": "16"}
+14	sur	_		{}
+15	des	_		{}
+16	peintures	_	Physical_artworks	{"Artifact": "16"}
+17	dignes	_		{}
+18	des	_		{}
+19	pornos	_		{}
+20	actuels	_	Actually_occurring_entity	{"Type": "19"}
+21	.	_		{}

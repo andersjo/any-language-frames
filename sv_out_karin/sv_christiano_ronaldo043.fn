@@ -1,0 +1,50 @@
+1	Efter	_		{}
+2	säsongen	_		{}
+3	2007/2008	_		{}
+4	sades	_		{}
+5	det	_		{}
+6	att	_		{}
+7	Ronaldo	_		{}
+8	skulle	_		{}
+9	vara	_		{}
+10	på	_		{}
+11	väg	_	Path_traveled	{"Source": "39", "Theme": "7", "Goal": "16"}
+12	till	_		{}
+13	den	_		{}
+14	spanska	_		{}
+15	klubben	_	Organization	{"Organization": "16", "Place": "14", "Members": "7"}
+16	Real	_		{}
+17	Madrid	_		{}
+18	,	_		{}
+19	men	_		{}
+20	den	_		{}
+21	6	_		{}
+22	augusti	_	Calendric_unit	{"Unit": "22"}
+23	satte	_		{}
+24	Ronaldo	_		{}
+25	själv	_	Proper_reference	{"Intended_referent": "24"}
+26	stopp	_		{}
+27	för	_		{}
+28	den	_		{}
+29	affären	_	Point_of_dispute	{"Question": "11"}
+30	,	_		{}
+31	när	_	Event_instance	{"Instance": "26", "Event": "33"}
+32	han	_		{}
+33	berättade	_		{}
+34	att	_		{}
+35	han	_		{}
+36	trivdes	_		{}
+37	bra	_		{}
+38	i	_		{}
+39	Manchester	_		{}
+40	United	_		{}
+41	och	_	Simultaneity	{"Profiled_event": "36", "Landmark_event": "43"}
+42	ville	_		{}
+43	stanna	_	Activity_ongoing	{"Time": "3", "Purpose": "45", "Agent": "24", "Activity": "39"}
+44	och	_	Simultaneity	{"Profiled_event": "43", "Landmark_event": "45"}
+45	vinna	_	Finish_competition	{"Competitor": "24", "Prize": "47", "Means": "43"}
+46	fler	_		{}
+47	titlar	_		{}
+48	med	_		{}
+49	laget	_	Aggregate	{"Individuals": "39", "Name": "39"}
+50	.	_		{}

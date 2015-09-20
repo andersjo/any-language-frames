@@ -1,0 +1,31 @@
+1	Pendant	_		{}
+2	l'été	_		{}
+3	1991	_		{}
+4	,	_		{}
+5	peu	_	Quantity	{"Mass": "6", "Quantity": "5"}
+6	avant	_	Time_vector	{"Distance": "5", "Direction": "6", "Landmark_event": "9", "Event": "12"}
+7	son	_		{}
+8	onzième	_		{}
+9	anniversaire	_		{}
+10	,	_		{}
+11	Harry	_		{}
+12	reçoit	_		{}
+13	une	_		{}
+14	lettre	_	Text	{"Text": "14"}
+15	l'invitant	_		{}
+16	à	_		{}
+17	se	_		{}
+18	présenter	_	Coming_to_be	{"Entity": "17"}
+19	lors	_		{}
+20	de	_		{}
+21	la	_		{}
+22	rentrée	_		{}
+23	des	_		{}
+24	classes	_		{}
+25	à	_		{}
+26	l'école	_		{}
+27	de	_		{}
+28	sorcellerie	_		{}
+29	de	_		{}
+30	Poudlard	_		{}
+31	.	_		{}

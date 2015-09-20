@@ -1,0 +1,27 @@
+1	In	_		{}
+2	the	_		{}
+3	wake	_		{}
+4	of	_		{}
+5	her	_		{}
+6	mother's	_		{}
+7	death	_	Dead_or_alive	{"Protagonist": "6", "Cause": "9", "Figure": "7"}
+8	from	_		{}
+9	ovarian	_		{}
+10	cancer	_	Medical_conditions	{"Body_Part": "9", "Patient": "6", "Ailment": "10"}
+11	on	_		{}
+12	January	_	Calendric_unit	{"Whole": "12"}
+13	27	_		{}
+14	,	_		{}
+15	2007	_		{}
+16	,	_		{}
+17	Jolie	_		{}
+18	again	_		{}
+19	reconciled	_	Reparation	{}
+20	with	_		{}
+21	her	_		{}
+22	father	_	Kinship	{"Ego": "21", "Alter": "22"}
+23	after	_	Relative_time	{"Focal_participant": "17", "Landmark_occasion": "25"}
+24	a	_	Cardinal_numbers	{"Number": "24", "Entity": "25"}
+25	six-year	_		{}
+26	estrangement	_		{}
+27	.	_		{}

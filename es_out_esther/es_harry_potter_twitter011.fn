@@ -1,0 +1,31 @@
+1	@DanLovegood	_		{}
+2	*	_		{}
+3	me	_	Proper_reference	{}
+4	giro	_	Change_direction	{"Theme": "3"}
+5	sorprendido	_	Emotion_directed	{"Stimulus": "7", "Expressor": "3", "State": "5", "Event": "7", "Experiencer": "3"}
+6	al	_		{}
+7	ver	_	Awareness	{"Content": "11", "Cognizer": "3", "Expressor": "3", "Topic": "11"}
+8	que	_		{}
+9	no	_		{}
+10	me	_		{}
+11	conoces	_	Make_acquaintance	{"Individual_1": "3"}
+12	*	_		{}
+13	soy	_	Being_in_category	{"Category": "14", "Item": "14"}
+14	Harry	_		{}
+15	,	_		{}
+16	Harry	_		{}
+17	Potter	_		{}
+18	*	_		{}
+19	sonrio	_		{}
+20	y	_		{}
+21	me	_		{}
+22	quedo	_		{}
+23	mirandote	_		{}
+24	*	_		{}
+25	oye	_		{}
+26	..	_		{}
+27	si	_		{}
+28	no	_		{}
+29	es	_	Being_in_category	{"Category": "30"}
+30	mucho	_	Quantity	{"Individuals": "31", "Mass": "31", "Quantity": "30"}
+31	+	_		{}

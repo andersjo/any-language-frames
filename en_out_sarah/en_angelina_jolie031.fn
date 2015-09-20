@@ -1,0 +1,25 @@
+1	Two	_	Cardinal_numbers	{"Number": "1", "Entity": "2"}
+2	years	_	Measure_duration	{"Count": "1", "Unit": "2"}
+3	later	_	Relative_time	{}
+4	,	_		{}
+5	after	_	Relative_time	{"Focal_occasion": "12", "Focal_participant": "11", "Landmark_occasion": "9"}
+6	the	_		{}
+7	relationship	_		{}
+8	had	_		{}
+9	ended	_	Activity_finish	{"Activity": "7"}
+10	,	_		{}
+11	she	_		{}
+12	rented	_	Renting	{"Goods": "14", "Place": "19", "Lessee": "11"}
+13	an	_	Cardinal_numbers	{"Number": "13", "Entity": "14"}
+14	apartment	_	Building_subparts	{"Building_part": "14"}
+15	above	_		{}
+16	a	_	Cardinal_numbers	{"Number": "16", "Entity": "17"}
+17	garage	_	Buildings	{"Building": "17"}
+18	a	_	Cardinal_numbers	{"Number": "18", "Entity": "19"}
+19	few	_	Quantity	{"Mass": "20", "Quantity": "19"}
+20	blocks	_		{}
+21	from	_		{}
+22	her	_		{}
+23	mother's	_		{}
+24	home	_	Locale	{"Locale": "24"}
+25	.	_		{}

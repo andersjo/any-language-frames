@@ -1,0 +1,19 @@
+1	Den	_		{}
+2	sjätte	_		{}
+3	filmen	_	Physical_artworks	{"Name": "8", "Artifact": "3", "Time_of_creation": "16"}
+4	(	_		{}
+5	Harry	_		{}
+6	Potter	_		{}
+7	och	_		{}
+8	Halvblodsprinsen	_		{}
+9	)	_		{}
+10	hade	_		{}
+11	biopremiär	_		{}
+12	onsdagen	_		{}
+13	den	_		{}
+14	31	_		{}
+15	juli	_	Calendric_unit	{"Whole": "16", "Unit": "15"}
+16	2009	_		{}
+17	i	_	Political_locales	{"Locale": "18"}
+18	Sverige	_		{}
+19	.	_		{}

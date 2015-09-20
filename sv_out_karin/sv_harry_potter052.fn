@@ -1,0 +1,28 @@
+1	För	_		{}
+2	att	_		{}
+3	inte	_		{}
+4	avskräcka	_	Experiencer_obj	{"Stimulus": "27", "Experiencer": "5"}
+5	vuxna	_	People_by_age	{"Person": "5"}
+6	läsare	_	Reading	{"Text": "21", "Reader": "6"}
+7	ges	_		{}
+8	de	_		{}
+9	engelska	_		{}
+10	utgåvorna	_		{}
+11	ut	_		{}
+12	i	_		{}
+13	två	_	Cardinal_numbers	{"Number": "13", "Entity": "14"}
+14	versioner	_		{}
+15	:	_		{}
+16	en	_	Cardinal_numbers	{"Number": "16", "Entity": "17"}
+17	barnversion	_		{}
+18	,	_		{}
+19	och	_		{}
+20	en	_	Cardinal_numbers	{"Number": "20", "Entity": "21"}
+21	vuxenversion	_		{}
+22	med	_		{}
+23	ett	_	Cardinal_numbers	{"Number": "23", "Entity": "27"}
+24	svartvitt	_		{}
+25	och	_		{}
+26	stelare	_		{}
+27	omslag	_		{}
+28	.	_		{}

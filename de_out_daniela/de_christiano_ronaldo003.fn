@@ -1,0 +1,17 @@
+1	Er	_		{}
+2	steht	_	Taking	{"Theme": "16", "Agent": "1"}
+3	nach	_	Time_vector	{"Direction": "3", "Landmark_event": "6", "Event": "16"}
+4	dem	_		{}
+5	teuersten	_		{}
+6	Transfer	_	Transfer	{"Theme": "1", "Recipient": "13"}
+7	der	_		{}
+8	Fußballgeschichte	_		{}
+9	seit	_		{}
+10	Sommer	_	Calendric_unit	{"Whole": "11", "Unit": "10"}
+11	2009	_		{}
+12	bei	_		{}
+13	Real	_		{}
+14	Madrid	_		{}
+15	unter	_		{}
+16	Vertrag	_	Documents	{"Document": "16", "Bearer": "1", "Issuer": "13"}
+17	.	_		{}

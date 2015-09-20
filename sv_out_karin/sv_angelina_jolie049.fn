@@ -1,0 +1,29 @@
+1	Rollfiguren	_		{}
+2	var	_		{}
+3	Casella	_		{}
+4	"	_		{}
+5	Cash	_		{}
+6	"	_		{}
+7	Reese	_		{}
+8	,	_		{}
+9	en	_	Cardinal_numbers	{"Number": "9", "Entity": "12"}
+10	närapå	_		{}
+11	mänsklig	_	People	{"Person": "12"}
+12	robot	_		{}
+13	som	_		{}
+14	genom	_		{}
+15	att	_		{}
+16	förföra	_		{}
+17	andra	_		{}
+18	skulle	_		{}
+19	ta	_	Being_located	{"Theme": "12", "Location": "25"}
+20	sig	_		{}
+21	in	_		{}
+22	till	_		{}
+23	en	_	Cardinal_numbers	{"Number": "23", "Entity": "25"}
+24	konkurrents	_		{}
+25	huvudkontor	_		{}
+26	och	_	Simultaneity	{"Profiled_event": "19", "Landmark_event": "28"}
+27	där	_	Locative_relation	{"Figure": "12", "Ground": "25"}
+28	självexplodera	_		{}
+29	.	_		{}

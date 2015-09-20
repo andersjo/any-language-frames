@@ -1,0 +1,21 @@
+1	Böckerna	_		{}
+2	har	_		{}
+3	gjort	_		{}
+4	väldig	_		{}
+5	succé	_	Successful_action	{"Instrument": "1"}
+6	,	_		{}
+7	med	_		{}
+8	översättningar	_	Translating	{"Content": "1"}
+9	till	_		{}
+10	69	_		{}
+11	språk	_	Text	{"Text": "1", "Medium": "11"}
+12	och	_		{}
+13	försäljningssiffror	_		{}
+14	på	_		{}
+15	400	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	miljoner	_	Cardinal_numbers	{"Entity": "17", "Number": "16", "Multiplier": "15"}
+17	exemplar	_	Exemplar	{"Instance": "17", "Type": "1"}
+18	i	_	Political_locales	{"Locale": "20"}
+19	hela	_		{}
+20	världen	_	Political_locales	{"Locale": "20"}
+21	.	_		{}

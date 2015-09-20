@@ -1,0 +1,22 @@
+1	À	_		{}
+2	l'âge	_		{}
+3	de	_		{}
+4	16	_		{}
+5	ans	_	Age	{"Attribute": "2", "Age": "4", "Entity": "7"}
+6	,	_		{}
+7	Angelina	_		{}
+8	Jolie	_		{}
+9	retourne	_		{}
+10	au	_		{}
+11	théâtre	_	Fields	{"Work": "13", "Practitioner": "7", "Activity": "11"}
+12	et	_		{}
+13	joue	_	Performers_and_roles	{"Role": "20", "Performer": "7", "Type": "11"}
+14	son	_		{}
+15	premier	_	First_experience	{"Experience": "16"}
+16	rôle	_	Performers_and_roles	{}
+17	,	_		{}
+18	celui	_		{}
+19	d'une	_		{}
+20	dominatrice	_		{}
+21	allemande	_	People_by_origin	{"Origin": "21", "Person": "20"}
+22	.	_		{}

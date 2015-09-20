@@ -1,0 +1,23 @@
+1	Zeit	_	Timespan	{"Duration": "10", "State": "4", "Whole": "2"}
+2	mit	_		{}
+3	ihrem	_		{}
+4	Vater	_		{}
+5	verbrachte	_		{}
+6	Jolie	_		{}
+7	daraufhin	_		{}
+8	meist	_		{}
+9	nur	_		{}
+10	während	_	Duration_relation	{"Duration": "12", "Entity": "1"}
+11	der	_		{}
+12	Schulferien	_		{}
+13	oder	_		{}
+14	wenn	_		{}
+15	er	_		{}
+16	sie	_		{}
+17	und	_		{}
+18	ihren	_		{}
+19	Bruder	_	Kinship	{"Ego": "18", "Alter": "19"}
+20	zu	_		{}
+21	Dreharbeiten	_		{}
+22	mitnahm	_		{}
+23	.	_		{}

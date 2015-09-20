@@ -1,0 +1,21 @@
+1	A	_		{}
+2	ver	_		{}
+3	si	_		{}
+4	los	_		{}
+5	Gob	_		{}
+6	dejan	_	Process_stop	{"Process": "8"}
+7	el	_		{}
+8	Calentamiento	_		{}
+9	Global	_	Dimension	{"Object": "8", "Dimension": "9"}
+10	y	_		{}
+11	prepara	_	Cause_change	{"Final_value": "19", "Initial_value": "8", "Agent": "5", "Entity": "5", "Final_category": "14", "Initial_category": "8"}
+12	a	_		{}
+13	la	_		{}
+14	gente	_	People	{"Person": "14"}
+15	para	_		{}
+16	lo	_		{}
+17	que	_		{}
+18	viene	_	Arriving	{"Theme": "11"}
+19	http://t.co/KRVtFu5lkY	_		{}
+20	@quinnannette	_		{}
+21	@UrsulaKiener	_		{}

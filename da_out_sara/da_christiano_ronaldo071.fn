@@ -1,0 +1,52 @@
+1	I	_		{}
+2	en	_		{}
+3	5	_	Cardinal_numbers	{"Number": "3"}
+4	–	_		{}
+5	0-sejr	_		{}
+6	over	_		{}
+7	Stoke	_		{}
+8	City	_		{}
+9	den	_		{}
+10	15	_	Cardinal_numbers	{"Number": "10"}
+11	.	_		{}
+12	november	_	Calendric_unit	{"Relative_time": "13", "Whole": "10", "Unit": "12"}
+13	2008	_		{}
+14	scorede	_		{}
+15	Ronaldo	_		{}
+16	sit	_		{}
+17	mål	_	Aiming	{"Targeted": "17"}
+18	nummer	_	Quantity	{"Individuals": "17", "Quantity": "19"}
+19	100	_	Cardinal_numbers	{"Number": "19", "Entity": "17"}
+20	og	_		{}
+21	101	_		{}
+22	i	_		{}
+23	alle	_	Quantity	{"Individuals": "24", "Quantity": "23"}
+24	turneringer	_	Competition	{"Participants": "26", "Participant_1": "15", "Competition": "24"}
+25	for	_		{}
+26	Manchester	_		{}
+27	United	_		{}
+28	,	_		{}
+29	med	_		{}
+30	to	_		{}
+31	frisparksmål	_		{}
+32	,	_		{}
+33	Målene	_		{}
+34	betød	_	Linguistic_meaning	{"Meaning": "41"}
+35	også	_		{}
+36	,	_		{}
+37	at	_		{}
+38	Ronaldo	_		{}
+39	nu	_		{}
+40	havde	_		{}
+41	scoret	_		{}
+42	mod	_		{}
+43	samtlige	_		{}
+44	af	_		{}
+45	de	_		{}
+46	øvrige	_		{}
+47	19	_		{}
+48	hold	_	Organization	{"Organization": "48"}
+49	i	_		{}
+50	Premier	_		{}
+51	League	_		{}
+52	.	_		{}

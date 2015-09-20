@@ -1,0 +1,41 @@
+1	Interpretó	_		{}
+2	el	_		{}
+3	personaje	_	Performers_and_roles	{"Medium": "14", "Performer1": "6", "Performer2": "9", "Script": "6", "Role": "7", "Performance": "7"}
+4	del	_		{}
+5	videojuego	_		{}
+6	Tomb	_		{}
+7	Raider	_		{}
+8	,	_		{}
+9	Lara	_		{}
+10	Croft	_		{}
+11	,	_		{}
+12	en	_		{}
+13	la	_		{}
+14	película	_	Physical_artworks	{"Descriptor": "5", "Type": "5", "Name": "6", "Artifact": "14"}
+15	,	_		{}
+16	y	_		{}
+17	gracias	_	Judgment_direct_address	{"Topic": "19", "Reason": "19", "Degree": "28", "Grounds": "28"}
+18	al	_		{}
+19	éxito	_	Success_or_failure	{"Place": "40", "Degree": "20", "Agent": "19", "Means": "22"}
+20	taquillero	_		{}
+21	del	_		{}
+22	filme	_	Physical_artworks	{"Represented": "9", "Place": "40", "Name": "6", "Artifact": "22"}
+23	,	_		{}
+24	desde	_		{}
+25	entonces	_	Sufficiency	{"Item": "27", "Scale": "28", "Degree": "37", "Enabled_situation": "36"}
+26	obtuvo	_	Becoming	{"Reason": "38", "Manner": "1", "Circumstances": "19"}
+27	fama	_	Fame	{"Degree": "28", "Means": "22", "Explanation": "22", "Entity": "9", "Reason": "22", "Role": "9", "Place": "28"}
+28	internacional	_	Political_locales	{"Locale": "28"}
+29	y	_	Simultaneity	{"Profiled_event": "31", "Landmark_event": "27"}
+30	es	_	Being_in_category	{"Category": "36", "Item": "9", "Criteria": "27", "Manner": "37", "Means": "22"}
+31	considerada	_	Being_in_category	{"Category": "36", "Item": "9", "Criteria": "22", "Circumstances": "22"}
+32	como	_		{}
+33	una	_		{}
+34	de	_		{}
+35	las	_		{}
+36	actrices	_	People_by_vocation	{"Persistent_characteristic": "38", "Person": "9", "Rank": "37", "Descriptor": "38"}
+37	mejores	_	Cause_to_make_progress	{"Domain": "36", "Explanation": "40", "Place": "40", "Manner": "27", "Agent": "9"}
+38	pagadas	_	Earnings_and_losses	{"Buyer": "40", "Earner": "9", "Rate": "37", "Means": "36"}
+39	en	_		{}
+40	Hollywood	_		{}
+41	.	_		{}

@@ -1,0 +1,14 @@
+1	There	_		{}
+2	were	_	Existence	{"Entity": "3"}
+3	concerns	_	Fear	{"Stimulus": "7"}
+4	that	_		{}
+5	Google's	_		{}
+6	IPO	_		{}
+7	would	_		{}
+8	lead	_	Causation	{"Cause": "6", "Affected": "13"}
+9	to	_		{}
+10	changes	_	Diversity	{"Group": "12"}
+11	in	_		{}
+12	company	_	Businesses	{"Business": "12"}
+13	culture	_		{}
+14	.	_		{}

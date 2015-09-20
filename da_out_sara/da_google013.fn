@@ -1,0 +1,22 @@
+1	I	_		{}
+2	efteråret	_	Calendric_unit	{"Relative_time": "3", "Unit": "2"}
+3	2004	_		{}
+4	lanceredes	_		{}
+5	Google	_		{}
+6	Scholar	_		{}
+7	,	_		{}
+8	der	_		{}
+9	er	_		{}
+10	beregnet	_		{}
+11	på	_		{}
+12	at	_		{}
+13	hjælpe	_	Assistance	{"Benefited_party": "14", "Goal": "19", "Helper": "5"}
+14	studerende	_	People_by_vocation	{"Person": "14"}
+15	og	_	Simultaneity	{"Profiled_event": "14", "Landmark_event": "16"}
+16	forskere	_	People_by_vocation	{"Person": "16"}
+17	med	_		{}
+18	at	_		{}
+19	finde	_	Seeking	{"Cognizer_agent": "14", "Sought_entity": "21", "Means": "5"}
+20	relevant	_		{}
+21	materiale	_	Text	{"Text": "21"}
+22	.	_		{}

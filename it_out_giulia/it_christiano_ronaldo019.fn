@@ -1,0 +1,42 @@
+1	Curiosamente	_		{}
+2	,	_		{}
+3	il	_		{}
+4	1º	_		{}
+5	aprile	_	Calendric_unit	{"Whole": "6", "Unit": "4"}
+6	2011	_		{}
+7	,	_		{}
+8	nel	_		{}
+9	giorno	_	Calendric_unit	{"Name": "12", "Unit": "9"}
+10	del	_		{}
+11	tradizionale	_	Custom	{}
+12	Pesce	_		{}
+13	d'aprile	_		{}
+14	,	_		{}
+15	il	_		{}
+16	giornale	_	Text	{"Text": "16", "Title": "20"}
+17	inglese	_		{}
+18	"	_		{}
+19	The	_		{}
+20	Independent	_		{}
+21	"	_		{}
+22	scrisse	_	Text_creation	{}
+23	che	_		{}
+24	il	_		{}
+25	Portogallo	_		{}
+26	,	_		{}
+27	oppresso	_		{}
+28	dai	_		{}
+29	debiti	_	Being_obligated	{"Responsible_party": "25"}
+30	,	_		{}
+31	aveva	_		{}
+32	venduto	_		{}
+33	il	_		{}
+34	giocatore	_	Performers	{}
+35	alla	_		{}
+36	Spagna	_		{}
+37	per	_		{}
+38	160	_		{}
+39	milioni	_	Cardinal_numbers	{"Number": "39", "Entity": "41"}
+40	di	_		{}
+41	euro	_		{}
+42	.	_		{}

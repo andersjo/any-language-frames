@@ -1,0 +1,31 @@
+1	El	_		{}
+2	Sporting	_		{}
+3	de	_		{}
+4	Lisboa	_		{}
+5	informó	_		{}
+6	a	_		{}
+7	la	_		{}
+8	madre	_	Kinship	{"Ego": "10", "Alter": "8"}
+9	de	_		{}
+10	Cristiano	_		{}
+11	Ronaldo	_		{}
+12	cual	_		{}
+13	era	_	Being_in_category	{"Category": "15", "Item": "15"}
+14	el	_		{}
+15	problema	_		{}
+16	,	_		{}
+17	que	_		{}
+18	,	_		{}
+19	conscientes	_	Awareness	{"Content": "19", "Cognizer": "8", "Expressor": "2", "Topic": "22"}
+20	de	_		{}
+21	los	_		{}
+22	riesgos	_	Being_at_risk	{"Harmful_event": "15", "Dangerous_entity": "15"}
+23	,	_		{}
+24	le	_		{}
+25	dio	_	Giving	{"Donor": "2", "Theme": "26"}
+26	permiso	_	Grant_permission	{"Grantee": "10", "Grantor": "2"}
+27	para	_		{}
+28	ir	_	Motion	{"Direction": "30", "Theme": "10", "Goal": "30"}
+29	al	_		{}
+30	hospital	_	Buildings	{"Building": "30"}
+31	.	_		{}

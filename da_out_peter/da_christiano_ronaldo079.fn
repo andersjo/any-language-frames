@@ -1,0 +1,37 @@
+1	Den	_		{}
+2	5	_	Cardinal_numbers	{"Number": "2", "Entity": "4"}
+3	.	_		{}
+4	april	_	Calendric_unit	{"Whole": "5", "Unit": "4"}
+5	2009	_		{}
+6	scorede	_		{}
+7	Ronaldo	_		{}
+8	det	_		{}
+9	første	_	Ordinal_numbers	{"Comparison_set": "16", "Type": "14"}
+10	og	_		{}
+11	andet	_		{}
+12	af	_		{}
+13	Uniteds	_		{}
+14	mål	_	Purpose	{"Goal": "14", "Agent": "7"}
+15	i	_		{}
+16	3-2-sejren	_		{}
+17	over	_		{}
+18	Aston	_		{}
+19	Villa	_		{}
+20	,	_		{}
+21	en	_		{}
+22	kamp	_		{}
+23	der	_		{}
+24	blev	_		{}
+25	vundet	_		{}
+26	i	_		{}
+27	det	_		{}
+28	93	_		{}
+29	.	_		{}
+30	minut	_	Measure_duration	{"Count": "28", "Unit": "30"}
+31	på	_		{}
+32	grund	_	Causation	{"Cause": "25", "Actor": "36"}
+33	af	_		{}
+34	debutanten	_		{}
+35	Federico	_		{}
+36	Macheda	_		{}
+37	.	_		{}

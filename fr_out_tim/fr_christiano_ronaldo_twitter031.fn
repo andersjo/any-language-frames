@@ -1,0 +1,17 @@
+1	Christiano	_		{}
+2	Ronaldo	_		{}
+3	à	_		{}
+4	lui	_		{}
+5	tout	_		{}
+6	seul	_		{}
+7	y	_		{}
+8	domine	_	Dominate_competitor	{"Patient": "11", "Agent": "2"}
+9	toute	_	Quantity	{"Individuals": "11", "Quantity": "9"}
+10	les	_		{}
+11	équipes	_		{}
+12	sur	_		{}
+13	FIFA	_		{}
+14	Abusée	_		{}
+15	ce	_		{}
+16	joueur	_	Competition	{"Participant_1": "16", "Competition": "13"}
+17	!	_		{}

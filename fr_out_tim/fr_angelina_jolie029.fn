@@ -1,0 +1,25 @@
+1	Alors	_		{}
+2	qu'elle	_		{}
+3	n'a	_		{}
+4	que	_		{}
+5	19	_		{}
+6	ans	_	Age	{"Age": "5", "Entity": "2"}
+7	,	_		{}
+8	Angelina	_		{}
+9	achète	_		{}
+10	son	_		{}
+11	premier	_	First_experience	{"Experience": "9"}
+12	appartement	_	Building_subparts	{"Building_part": "12"}
+13	qui	_		{}
+14	se	_		{}
+15	trouve	_	Being_located	{"Theme": "12", "Location": "17"}
+16	seulement	_		{}
+17	à	_		{}
+18	quelques	_	Relational_quantity	{"Individuals": "19", "Denoted_quantity": "18"}
+19	pâtés	_		{}
+20	de	_		{}
+21	maisons	_	Buildings	{"Building": "21"}
+22	de	_		{}
+23	sa	_		{}
+24	mère	_	Kinship	{"Ego": "23", "Alter": "24"}
+25	.	_		{}

@@ -1,0 +1,15 @@
+1	Lego	_		{}
+2	Harry	_		{}
+3	Potter	_		{}
+4	Dark	_	Color	{"Color": "5", "Color_qualifier": "4", "Entity": "8"}
+5	Grey	_	Color	{"Color": "5", "Color_qualifier": "4", "Entity": "8"}
+6	Open	_	Openness	{"Theme": "7"}
+7	Shirt	_	Clothing	{"Garment": "7", "Wearer": "3", "Descriptor": "6"}
+8	Minifigure	_		{}
+9	4756	_		{}
+10	$2.55	_		{}
+11	Flat	_	Chemical	{}
+12	Shippin	_		{}
+13	RARE	_	Frequency	{"Salient_entity": "8"}
+14	-	_		{}
+15	http://t.co/BVYsZf8KKC	_		{}

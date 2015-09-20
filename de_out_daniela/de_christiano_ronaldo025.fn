@@ -1,0 +1,27 @@
+1	Die	_		{}
+2	Wahl	_	Deciding	{"Decision": "7"}
+3	fiel	_		{}
+4	schließlich	_	Temporal_collocation	{"Trajector_event": "2"}
+5	auf	_		{}
+6	den	_		{}
+7	kleineren	_		{}
+8	Verein	_	Organization	{"Organization": "7", "Place": "10"}
+9	von	_		{}
+10	Nacional	_		{}
+11	,	_		{}
+12	nachdem	_		{}
+13	Vertreter	_		{}
+14	von	_		{}
+15	Marítimo	_		{}
+16	ein	_		{}
+17	Treffen	_	Social_event_collective	{"Attendees": "13"}
+18	mit	_		{}
+19	dem	_		{}
+20	Berater	_		{}
+21	Ronaldos	_		{}
+22	bei	_		{}
+23	Andorinha	_		{}
+24	hatten	_		{}
+25	platzen	_		{}
+26	lassen	_	Make_possible_to_do	{"Enablement": "13", "Enabled_action": "17"}
+27	.	_		{}

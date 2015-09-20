@@ -1,0 +1,44 @@
+1	Cristiano	_		{}
+2	Ronaldo	_		{}
+3	dos	_		{}
+4	Santos	_		{}
+5	Aveiro	_		{}
+6	,	_		{}
+7	GOIH	_		{}
+8	,	_		{}
+9	known	_	Being_named	{"Name": "12", "Entity": "2"}
+10	as	_		{}
+11	Cristiano	_		{}
+12	Ronaldo	_		{}
+13	(;	_		{}
+14	born	_		{}
+15	5	_	Cardinal_numbers	{"Number": "15"}
+16	February	_	Calendric_unit	{"Whole": "17", "Name": "16"}
+17	1985	_		{}
+18	)	_		{}
+19	,	_		{}
+20	is	_	Being_in_category	{"Category": "24", "Item": "12"}
+21	a	_	Cardinal_numbers	{"Number": "21", "Entity": "24"}
+22	Portuguese	_	Origin	{"Origin": "22", "Entity": "12"}
+23	professional	_	Expertise	{"Protagonist": "24", "Focal_participant": "12"}
+24	footballer	_		{}
+25	who	_		{}
+26	plays	_	Being_employed	{"Employee": "12", "Position": "27", "Employer": "34"}
+27	as	_		{}
+28	a	_	Cardinal_numbers	{"Number": "28", "Entity": "29"}
+29	forward	_	Direction	{}
+30	for	_		{}
+31	Spanish	_		{}
+32	club	_	Organization	{"Organization": "34", "Name": "33"}
+33	Real	_	Actually_occurring_entity	{"Instance": "34"}
+34	Madrid	_		{}
+35	and	_		{}
+36	is	_	Being_in_category	{"Category": "38", "Item": "12"}
+37	the	_		{}
+38	captain	_	Subordinates_and_superiors	{"Superior": "38"}
+39	for	_		{}
+40	the	_		{}
+41	Portugal	_		{}
+42	national	_	Political_locales	{"Locale": "41"}
+43	team	_	Aggregate	{"Aggregate": "43", "Name": "41"}
+44	.	_		{}

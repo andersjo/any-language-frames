@@ -1,0 +1,29 @@
+1	Ronaldos	_		{}
+2	store	_	Size	{"Degree": "2", "Entity": "3"}
+3	talent	_		{}
+4	vakte	_		{}
+5	opmærksomhed	_	Attention	{"Perceiver": "10", "Figure": "3"}
+6	hos	_		{}
+7	Manchester	_		{}
+8	United-manageren	_		{}
+9	Alex	_		{}
+10	Ferguson	_		{}
+11	,	_		{}
+12	og	_	Temporal_collocation	{"Trajector_entity": "15", "Trajector_event": "14", "Landmark_period": "28"}
+13	han	_		{}
+14	skrev	_		{}
+15	kontrakt	_	Hiring	{"Employee": "1", "Employer": "10"}
+16	med	_		{}
+17	den	_		{}
+18	18-årige	_		{}
+19	portugiser	_		{}
+20	for	_		{}
+21	12	_	Cardinal_numbers	{"Entity": "25", "Number": "21", "Multiplier": "24"}
+22	,	_		{}
+23	24	_		{}
+24	millioner	_		{}
+25	£	_		{}
+26	i	_		{}
+27	sommeren	_	Calendric_unit	{"Whole": "28", "Unit": "27"}
+28	2003	_		{}
+29	.	_		{}

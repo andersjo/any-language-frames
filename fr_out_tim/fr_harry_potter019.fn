@@ -1,0 +1,35 @@
+1	Durant	_		{}
+2	ces	_		{}
+3	sept	_	Cardinal_numbers	{"Number": "3", "Entity": "4"}
+4	ans	_	Measure_duration	{"Count": "3", "Unit": "4"}
+5	,	_		{}
+6	le	_		{}
+7	jeune	_	People_by_age	{"Person": "8", "Age": "7"}
+8	sorcier	_		{}
+9	va	_		{}
+10	notamment	_		{}
+11	assister	_	Attending	{"Event": "13", "Agent": "8"}
+12	au	_		{}
+13	retour	_	Arriving	{"Theme": "27"}
+14	parmi	_		{}
+15	les	_		{}
+16	sorciers	_		{}
+17	et	_		{}
+18	à	_		{}
+19	la	_		{}
+20	seconde	_	Ordinal_numbers	{"Item": "21"}
+21	ascension	_	Path_shape	{"Goal": "24", "Path_shape": "21"}
+22	vers	_		{}
+23	le	_		{}
+24	pouvoir	_	Objective_influence	{"Influencing_entity": "27"}
+25	de	_		{}
+26	Lord	_		{}
+27	Voldemort	_		{}
+28	,	_		{}
+29	et	_		{}
+30	le	_		{}
+31	combattre	_	Hostile_encounter	{"Side_2": "27", "Side_1": "8"}
+32	jusqu'à	_		{}
+33	l'affrontement	_		{}
+34	final	_	Ordinal_numbers	{"Item": "33"}
+35	.	_		{}

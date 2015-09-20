@@ -1,0 +1,16 @@
+1	Primero	_	First_experience	{"Context": "3", "Experience": "2"}
+2	terminó	_		{}
+3	Harry	_		{}
+4	Potter	_		{}
+5	y	_		{}
+6	ahora	_	Time_vector	{"Event": "8"}
+7	se	_		{}
+8	termino	_	Activity_finish	{"Agent": "10", "Activity": "10"}
+9	El	_		{}
+10	Hobbit	_		{}
+11	:/	_		{}
+12	Parte	_	Aggregate	{"Aggregate": "12", "Individuals": "15"}
+13	de	_		{}
+14	mí	_		{}
+15	infancia	_	People_by_age	{"Age": "15"}
+16	:'(	_		{}

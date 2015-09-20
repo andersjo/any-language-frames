@@ -1,0 +1,46 @@
+1	Elle	_		{}
+2	joue	_	Performers_and_roles	{"Type": "10", "Performer": "1", "Role": "6"}
+3	le	_		{}
+4	rôle	_	Performers_and_roles	{}
+5	de	_		{}
+6	Gina	_		{}
+7	Malacici	_		{}
+8	dans	_		{}
+9	la	_		{}
+10	comédie	_		{}
+11	romantique	_		{}
+12	'	_		{}
+13	(	_		{}
+14	1996	_		{}
+15	)	_		{}
+16	,	_		{}
+17	une	_		{}
+18	adaptation	_		{}
+19	moderne	_		{}
+20	et	_		{}
+21	de	_		{}
+22	façon	_		{}
+23	assez	_	Degree	{"Gradable_attribute": "24"}
+24	libre	_		{}
+25	de	_		{}
+26	"	_		{}
+27	Roméo	_		{}
+28	et	_		{}
+29	Juliette	_		{}
+30	"	_		{}
+31	,	_		{}
+32	mettant	_		{}
+33	en	_		{}
+34	opposition	_	Hostile_encounter	{"Sides": "36"}
+35	deux	_	Cardinal_numbers	{"Number": "35", "Entity": "36"}
+36	familles	_	Kinship	{"Relatives": "36"}
+37	italiennes	_	People_by_origin	{"Origin": "37", "Person": "36"}
+38	rivales	_		{}
+39	dans	_		{}
+40	le	_		{}
+41	Bronx	_		{}
+42	,	_		{}
+43	à	_		{}
+44	New	_		{}
+45	York	_		{}
+46	.	_		{}

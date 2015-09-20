@@ -1,0 +1,83 @@
+1	Il	_		{}
+2	suo	_		{}
+3	lavoro	_	Employing	{"Task": "7"}
+4	la	_		{}
+5	porta	_	Causation	{"Cause": "3"}
+6	a	_		{}
+7	viaggiare	_	Travel	{"Area": "13"}
+8	tra	_		{}
+9	gli	_		{}
+10	Stati	_	Political_locales	{}
+11	Uniti	_		{}
+12	e	_		{}
+13	l'Europa	_		{}
+14	,	_		{}
+15	toccando	_	Arriving	{"Goal": "16"}
+16	città	_	Political_locales	{"Locale": "16"}
+17	come	_	Identicality	{"Set_of_instances": "16"}
+18	Londra	_		{}
+19	,	_		{}
+20	New	_		{}
+21	York	_		{}
+22	e	_		{}
+23	Los	_		{}
+24	Angeles	_		{}
+25	,	_		{}
+26	Milano	_		{}
+27	,	_		{}
+28	Napoli	_		{}
+29	;	_		{}
+30	in	_		{}
+31	quel	_		{}
+32	periodo	_	Timespan	{}
+33	appare	_		{}
+34	in	_		{}
+35	diversi	_		{}
+36	videoclip	_		{}
+37	musicali	_	Performing_arts	{"Performer": "39", "Medium": "36"}
+38	per	_		{}
+39	artisti	_	Create_physical_artwork	{"Creator": "39"}
+40	come	_	Identicality	{"Set_of_instances": "39"}
+41	Meat	_		{}
+42	Loaf	_		{}
+43	(	_		{}
+44	"	_		{}
+45	Rock	_		{}
+46	&	_		{}
+47	Roll	_		{}
+48	Dreams	_		{}
+49	Come	_		{}
+50	Through	_		{}
+51	"	_		{}
+52	)	_		{}
+53	,	_		{}
+54	Antonello	_		{}
+55	Venditti	_		{}
+56	(	_		{}
+57	"	_		{}
+58	Alta	_	Measurable_attributes	{"Entity": "59"}
+59	marea	_	Natural_features	{"Descriptor": "58"}
+60	"	_		{}
+61	)	_		{}
+62	,	_		{}
+63	Lenny	_		{}
+64	Kravitz	_		{}
+65	(	_		{}
+66	"	_		{}
+67	Stand	_		{}
+68	by	_		{}
+69	My	_		{}
+70	Woman	_		{}
+71	"	_		{}
+72	)	_		{}
+73	e	_		{}
+74	The	_		{}
+75	Lemonheads	_		{}
+76	(	_		{}
+77	"	_		{}
+78	It's	_		{}
+79	About	_		{}
+80	Time	_		{}
+81	"	_		{}
+82	)	_		{}
+83	.	_		{}

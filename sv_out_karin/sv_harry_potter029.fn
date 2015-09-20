@@ -1,0 +1,26 @@
+1	Trots	_		{}
+2	det	_		{}
+3	har	_		{}
+4	flera	_	Quantity	{"Individuals": "5"}
+5	personer	_		{}
+6	i	_		{}
+7	böckerna	_	Text	{"Text": "7"}
+8	tvingats	_		{}
+9	välja	_	Choosing	{"Possibilities": "14", "Cognizer": "5"}
+10	mellan	_		{}
+11	vad	_		{}
+12	som	_		{}
+13	är	_		{}
+14	rätt	_	Morality_evaluation	{"Behavior": "14", "Evaluee": "5"}
+15	och	_		{}
+16	vad	_		{}
+17	som	_		{}
+18	är	_		{}
+19	lätt	_	Difficulty	{"Experiencer": "5"}
+20	,	_		{}
+21	ett	_	Cardinal_numbers	{"Number": "21", "Entity": "25"}
+22	av	_		{}
+23	böckernas	_		{}
+24	centrala	_	Part_inner_outer	{"Part": "24", "Whole": "25"}
+25	teman	_		{}
+26	.	_		{}

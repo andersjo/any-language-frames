@@ -1,0 +1,18 @@
+1	Den	_		{}
+2	15	_		{}
+3	maj	_	Calendric_unit	{"Whole": "4", "Unit": "3"}
+4	2011	_		{}
+5	blev	_		{}
+6	Ronaldo	_		{}
+7	med	_		{}
+8	52	_		{}
+9	mål	_	Hit_or_miss	{"Outcome": "11", "Target_location": "9", "Degree": "8", "Agent": "6", "Time": "4"}
+10	den	_		{}
+11	bäste	_	Expertise	{"Focal_participant": "6", "Role": "12", "Manner": "13", "Time": "4"}
+12	målgöraren	_		{}
+13	någonsin	_		{}
+14	i	_		{}
+15	Real	_		{}
+16	Madrids	_		{}
+17	historia	_	Individual_history	{"Participant": "15", "Events": "5", "End_time": "4"}
+18	.	_		{}

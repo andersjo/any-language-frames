@@ -1,0 +1,29 @@
+1	Su	_		{}
+2	mayor	_	Importance	{"Undertaking": "3", "Degree": "2", "Field": "9"}
+3	éxito	_	Success_or_failure	{"Degree": "2", "Circumstances": "4"}
+4	comercial	_		{}
+5	fue	_	Being_in_category	{"Item": "3"}
+6	"	_		{}
+7	Kung	_		{}
+8	Fu	_		{}
+9	Panda	_	Aggregate	{}
+10	"	_		{}
+11	,	_		{}
+12	que	_		{}
+13	a	_		{}
+14	su	_		{}
+15	vez	_	Temporal_collocation	{"Trajector_entity": "17", "Landmark_entity": "9", "Trajector_event": "3"}
+16	fue	_	Being_in_category	{"Category": "9"}
+17	producida	_		{}
+18	por	_		{}
+19	la	_		{}
+20	empresa	_		{}
+21	Dreamworks	_		{}
+22	y	_		{}
+23	dirigida	_		{}
+24	por	_		{}
+25	el	_		{}
+26	cineasta	_		{}
+27	Mark	_		{}
+28	Osbourne	_		{}
+29	.	_		{}

@@ -1,0 +1,19 @@
+1	For	_		{}
+2	million	_	Cardinal_numbers	{"Number": "2", "Entity": "4"}
+3	of	_		{}
+4	years	_	Measure_duration	{"Count": "2", "Process": "8", "Agent": "6", "Unit": "4"}
+5	the	_		{}
+6	earth	_	Locale	{"Locale": "6"}
+7	almost	_	Relational_quantity	{"Individuals": "6", "Degree": "7"}
+8	died	_	Death	{"Protagonist": "6", "Degree": "7", "Time": "1"}
+9	,	_		{}
+10	that	_		{}
+11	was	_	Being_in_category	{"Category": "16", "Item": "10"}
+12	not	_		{}
+13	man	_	People	{"Person": "13"}
+14	made	_		{}
+15	global	_	Political_locales	{"Locale": "15"}
+16	warming	_		{}
+17	was	_	Being_in_category	{"Item": "19"}
+18	it	_		{}
+19	?	_		{}

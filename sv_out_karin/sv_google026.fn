@@ -1,0 +1,28 @@
+1	I	_		{}
+2	princip	_		{}
+3	genomsöks	_		{}
+4	Googles	_		{}
+5	hela	_		{}
+6	index	_		{}
+7	men	_		{}
+8	man	_	People	{}
+9	måste	_		{}
+10	specificera	_	Statement	{"Topic": "12", "Medium": "4", "Manner": "10"}
+11	sin	_		{}
+12	sökning	_	Scrutiny	{"Instrument": "4", "Cognizer": "8"}
+13	mer	_		{}
+14	om	_		{}
+15	man	_		{}
+16	vill	_	Desiring	{"Focal_participant": "15", "Event": "18"}
+17	ta	_		{}
+18	del	_		{}
+19	av	_		{}
+20	resultat	_		{}
+21	som	_		{}
+22	inte	_		{}
+23	finns	_	Existence	{"Place": "27", "Entity": "20"}
+24	i	_		{}
+25	en	_	Cardinal_numbers	{"Number": "25", "Entity": "27"}
+26	ospecificerad	_		{}
+27	sökning	_	Scrutiny	{"Instrument": "4"}
+28	.	_		{}

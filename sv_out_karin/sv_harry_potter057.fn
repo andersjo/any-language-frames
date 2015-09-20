@@ -1,0 +1,14 @@
+1	Den	_		{}
+2	första	_	Ordinal_numbers	{"Item": "3"}
+3	boken	_	Text	{"Text": "3"}
+4	har	_	Containing	{"Container": "3", "Contents": "5"}
+5	kommentarer	_		{}
+6	i	_		{}
+7	marginalerna	_		{}
+8	av	_		{}
+9	Harry	_		{}
+10	,	_		{}
+11	Ron	_		{}
+12	och	_		{}
+13	Hermione	_		{}
+14	.	_		{}

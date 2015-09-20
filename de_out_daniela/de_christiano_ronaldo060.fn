@@ -1,0 +1,22 @@
+1	Im	_		{}
+2	Finale	_	Process_end	{"Process": "6"}
+3	um	_		{}
+4	den	_		{}
+5	FA	_		{}
+6	Cup	_		{}
+7	traf	_	Hit_target	{"Agent": "8"}
+8	Ronaldo	_		{}
+9	zwar	_		{}
+10	im	_		{}
+11	Elfmeterschießen	_	Hostile_encounter	{"Side_2": "15", "Side_1": "8", "Issue": "11"}
+12	gegen	_		{}
+13	den	_		{}
+14	FC	_		{}
+15	Arsenal	_		{}
+16	,	_		{}
+17	dennoch	_	Concessive	{"Main_statement": "21", "Statement": "7"}
+18	ging	_		{}
+19	die	_		{}
+20	Partie	_		{}
+21	verloren	_	Finish_competition	{"Competitor": "8", "Competition": "20", "Opponent": "15"}
+22	.	_		{}

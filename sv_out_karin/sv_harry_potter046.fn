@@ -1,0 +1,18 @@
+1	Rowlings	_		{}
+2	egen	_		{}
+3	webbplats	_	Locale_by_use	{"Locale": "3"}
+4	har	_	Have_associated	{"Topical_entity": "9", "Entity": "3"}
+5	till	_		{}
+6	och	_		{}
+7	med	_		{}
+8	en	_	Cardinal_numbers	{"Number": "8", "Entity": "9"}
+9	sektion	_		{}
+10	för	_		{}
+11	att	_		{}
+12	förneka	_	Respond_to_proposal	{"Place": "3", "Proposal": "14", "Medium": "9", "Speaker": "1"}
+13	olika	_		{}
+14	rykten	_		{}
+15	om	_		{}
+16	kommande	_		{}
+17	böcker	_	Text	{"Text": "17", "Author": "1"}
+18	.	_		{}

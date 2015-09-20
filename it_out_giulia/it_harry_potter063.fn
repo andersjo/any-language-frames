@@ -1,0 +1,60 @@
+1	Tuttavia	_		{}
+2	,	_		{}
+3	dopo	_		{}
+4	lo	_		{}
+5	scontro	_	Hostile_encounter	{}
+6	a	_		{}
+7	fine	_		{}
+8	anno	_	Calendric_unit	{"Relative_time": "7", "Whole": "8"}
+9	nel	_		{}
+10	Ministero	_	Leadership	{"Activity": "12"}
+11	della	_		{}
+12	magia	_	Artifact	{"Artifact": "12"}
+13	tra	_		{}
+14	i	_		{}
+15	Mangiamorte	_		{}
+16	(	_		{}
+17	seguaci	_		{}
+18	di	_		{}
+19	Voldemort	_		{}
+20	)	_		{}
+21	e	_		{}
+22	l'Ordine	_		{}
+23	della	_		{}
+24	Fenice	_		{}
+25	(	_		{}
+26	associazione	_	Organization	{"Organization": "22", "Purpose": "33"}
+27	creata	_	Intentionally_create	{"Created_entity": "26", "Creator": "29"}
+28	da	_		{}
+29	Silente	_		{}
+30	anni	_		{}
+31	prima	_		{}
+32	per	_		{}
+33	contrastare	_	Hindering	{}
+34	Voldemort	_		{}
+35	)	_		{}
+36	,	_		{}
+37	il	_		{}
+38	mondo	_	Existence	{"Entity": "38"}
+39	magico	_	Ineffability	{}
+40	verrà	_		{}
+41	alla	_		{}
+42	conoscenza	_	Awareness	{"Topic": "45", "Cognizer": "38"}
+43	del	_		{}
+44	suo	_		{}
+45	ritorno	_		{}
+46	,	_		{}
+47	tra	_		{}
+48	cui	_		{}
+49	il	_		{}
+50	ministro	_	Leadership	{"Role": "50", "Activity": "52"}
+51	della	_		{}
+52	magia	_	Artifact	{"Artifact": "52"}
+53	,	_		{}
+54	che	_		{}
+55	l'anno	_		{}
+56	dopo	_	Relative_time	{"Focal_occasion": "59", "Focal_participant": "50", "Landmark_occasion": "42"}
+57	darà	_		{}
+58	le	_		{}
+59	dimissioni	_	Quitting	{"Field": "52", "Position": "50", "Employer": "38"}
+60	.	_		{}

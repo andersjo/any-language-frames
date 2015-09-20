@@ -1,0 +1,29 @@
+1	Den	_		{}
+2	15	_		{}
+3	augusti	_	Calendric_unit	{"Unit": "3"}
+4	lade	_		{}
+5	Google	_		{}
+6	ett	_	Cardinal_numbers	{"Number": "6", "Entity": "7"}
+7	bud	_	Statement	{"Speaker": "5"}
+8	på	_		{}
+9	Motorola	_		{}
+10	Mobility	_		{}
+11	(	_		{}
+12	mobiltelefoner	_		{}
+13	och	_		{}
+14	digital-TV-mottagare	_		{}
+15	)	_		{}
+16	värt	_		{}
+17	cirka	_	Estimating	{}
+18	12	_		{}
+19	,	_		{}
+20	5	_	Cardinal_numbers	{"Number": "20", "Entity": "21"}
+21	miljarder	_	Cardinal_numbers	{"Entity": "22", "Number": "21", "Multiplier": "20"}
+22	dollar	_		{}
+23	(	_		{}
+24	cirka	_		{}
+25	81	_		{}
+26	miljarder	_	Cardinal_numbers	{"Entity": "27", "Number": "26", "Multiplier": "25"}
+27	kronor	_		{}
+28	)	_		{}
+29	.	_		{}

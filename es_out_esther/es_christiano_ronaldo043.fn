@@ -1,0 +1,30 @@
+1	Se	_		{}
+2	afianzó	_		{}
+3	en	_		{}
+4	la	_		{}
+5	titularidad	_		{}
+6	del	_		{}
+7	equipo	_	Organization	{"Organization": "7"}
+8	y	_		{}
+9	se	_		{}
+10	propuso	_	Aiming	{"Targeted": "11"}
+11	mejorar	_	Cause_to_make_progress	{"Project": "13"}
+12	su	_		{}
+13	registro	_	Compliance	{"State_of_Affairs": "20", "Act": "14"}
+14	goleador	_		{}
+15	sobre	_		{}
+16	lo	_		{}
+17	que	_		{}
+18	su	_		{}
+19	entrenador	_	People_by_vocation	{"Person": "19"}
+20	declaró	_		{}
+21	al	_		{}
+22	respecto	_		{}
+23	tras	_		{}
+24	su	_		{}
+25	primer	_	First_experience	{"Experience": "26", "Context": "29"}
+26	gol	_	Purpose	{"Attribute": "25", "Goal": "26", "Means": "29"}
+27	de	_		{}
+28	la	_		{}
+29	temporada	_	Sequence	{}
+30	:	_		{}

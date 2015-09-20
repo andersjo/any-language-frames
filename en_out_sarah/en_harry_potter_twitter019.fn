@@ -1,0 +1,19 @@
+1	Nothing	_	Cardinal_numbers	{}
+2	like	_		{}
+3	spending	_	Body_movement	{"Duration": "4", "Coordinated_event": "10"}
+4	hours	_		{}
+5	curled	_	Body_movement	{"Duration": "4", "Coordinated_event": "3", "Cognate_event": "5", "Degree": "6", "Area": "9"}
+6	up	_		{}
+7	on	_		{}
+8	the	_		{}
+9	couch	_		{}
+10	reading	_		{}
+11	Harry	_		{}
+12	Potter	_		{}
+13	on	_		{}
+14	a	_	Cardinal_numbers	{"Number": "14", "Entity": "16"}
+15	rainy	_	Precipitation	{"Precipitation": "15", "Time": "16"}
+16	day	_		{}
+17	⚡️	_		{}
+18	…	_		{}
+19	http://t.co/ba10rMBUu9	_		{}

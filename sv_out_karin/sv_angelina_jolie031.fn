@@ -1,0 +1,24 @@
+1	Hon	_		{}
+2	har	_		{}
+3	jämfört	_		{}
+4	relationens	_		{}
+5	emotionella	_		{}
+6	intensitet	_		{}
+7	med	_		{}
+8	ett	_	Cardinal_numbers	{"Number": "8", "Entity": "9"}
+9	äktenskaps	_		{}
+10	och	_	Simultaneity	{"Profiled_event": "3", "Landmark_event": "12"}
+11	har	_		{}
+12	sagt	_		{}
+13	att	_		{}
+14	uppbrottet	_		{}
+15	drev	_		{}
+16	på	_		{}
+17	beslutet	_		{}
+18	att	_		{}
+19	söka	_	Seeking_to_achieve	{"Sought_entity": "21", "Agent": "1"}
+20	en	_		{}
+21	karriär	_		{}
+22	som	_		{}
+23	skådespelare	_	Performers	{"Person": "1"}
+24	.	_		{}

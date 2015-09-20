@@ -1,0 +1,17 @@
+1	Tatuajes	_	Body_decoration	{"Decoration": "1"}
+2	para	_		{}
+3	mujeres	_	People	{"Person": "3"}
+4	en	_		{}
+5	el	_		{}
+6	brazo	_	Observable_body_parts	{"Body_part": "6", "Possessor": "3"}
+7	:	_		{}
+8	Las	_		{}
+9	mejores	_	Verdict	{}
+10	ideas	_	Subjective_influence	{"Action": "1", "Product": "10", "Behavior": "1"}
+11	[	_		{}
+12	FOTOS	_	Optical_image	{"Source": "17", "Image": "12"}
+13	]	_		{}
+14	-	_		{}
+15	Ella	_		{}
+16	Hoy	_	Temporal_collocation	{"Landmark_period": "16"}
+17	http://t.co/V9MTJoqkQp	_		{}

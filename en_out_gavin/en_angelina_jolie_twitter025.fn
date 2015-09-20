@@ -1,0 +1,13 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	and	_		{}
+4	Brad	_		{}
+5	Pitt	_		{}
+6	may	_	Calendric_unit	{}
+7	already	_	Time_vector	{"Event": "8"}
+8	be	_	Being_in_category	{"Category": "9", "Item": "2"}
+9	parents	_	Kinship	{"Relatives": "9"}
+10	of	_		{}
+11	the	_		{}
+12	year	_	Calendric_unit	{"Unit": "12"}
+13	.	_		{}

@@ -1,0 +1,30 @@
+1	Stör	_		{}
+2	mig	_		{}
+3	så	_	Degree	{"Gradable_attribute": "4"}
+4	otroligt	_		{}
+5	på	_		{}
+6	när	_	Event_instance	{"Event": "8"}
+7	folk	_	People	{"Person": "7"}
+8	skriver	_		{}
+9	"	_		{}
+10	bild	_	Exemplar	{"Instance": "10"}
+11	lånad	_		{}
+12	från	_		{}
+13	google	_		{}
+14	"	_		{}
+15	.	_		{}
+16	VIA	_		{}
+17	google	_		{}
+18	,	_		{}
+19	du	_		{}
+20	har	_		{}
+21	hittat	_		{}
+22	bilden	_	Exemplar	{"Instance": "22"}
+23	VIA	_		{}
+24	google	_		{}
+25	.	_		{}
+26	Google	_		{}
+27	äger	_	Possession	{"Owner": "26", "Possession": "29", "Manner": "28"}
+28	inte	_		{}
+29	bilden	_	Exemplar	{"Instance": "29"}
+30	.	_		{}

@@ -1,0 +1,19 @@
+1	Ich	_		{}
+2	glaube	_	Coming_to_believe	{"Cognizer": "1"}
+3	,	_		{}
+4	ich	_		{}
+5	habe	_		{}
+6	in	_		{}
+7	diesen	_		{}
+8	4	_	Cardinal_numbers	{"Number": "8", "Precision": "7", "Entity": "9"}
+9	Tagen	_	Calendric_unit	{"Count": "8", "Unit": "9"}
+10	öfter	_		{}
+11	Harry	_		{}
+12	Potter	_		{}
+13	gesehen	_	Perception_active	{"Phenomenon": "12", "Perceiver_agentive": "4"}
+14	,	_		{}
+15	als	_		{}
+16	meine	_		{}
+17	Familie	_	Kinship	{"Ego": "4", "Alter": "17"}
+18	.	_		{}
+19	#HarryPotter	_		{}

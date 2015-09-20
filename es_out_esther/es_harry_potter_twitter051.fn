@@ -1,0 +1,22 @@
+1	A	_		{}
+2	veces	_	Temporal_pattern	{"Process": "3", "Subevent": "3"}
+3	recuerdo	_	Remembering_experience	{"Cognizer": "7", "State": "11", "Salient_entity": "10", "Experience": "5", "Impression": "21"}
+4	el	_		{}
+5	pastón	_		{}
+6	que	_		{}
+7	me	_	Proper_reference	{"Intended_referent": "7", "Entity": "7"}
+8	gasté	_		{}
+9	en	_		{}
+10	Londres	_		{}
+11	comprando	_	Shopping	{"Goods": "12", "Shopper": "7"}
+12	cosas	_	Substance	{"Substance": "14"}
+13	de	_		{}
+14	Harry	_		{}
+15	Potter	_		{}
+16	y	_		{}
+17	me	_	Proper_reference	{"Intended_referent": "17", "Entity": "7"}
+18	siento	_		{}
+19	un	_		{}
+20	poquito	_		{}
+21	mal	_	Morality_evaluation	{"Expressor": "17", "Behavior": "18", "Evaluee": "17"}
+22	.	_		{}

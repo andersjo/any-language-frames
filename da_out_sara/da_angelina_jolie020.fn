@@ -1,0 +1,15 @@
+1	Man	_		{}
+2	har	_		{}
+3	brugt	_		{}
+4	make-up	_	Body_decoration	{"Decoration": "4", "Use": "7"}
+5	til	_		{}
+6	at	_		{}
+7	dække	_	Eclipse	{"Obstruction": "4", "Eclipsed": "9"}
+8	hendes	_		{}
+9	tatoveringer	_	Body_decoration	{"Decoration": "9"}
+10	under	_		{}
+11	mange	_	Quantity	{"Degree": "11", "Quantity": "14"}
+12	af	_		{}
+13	hendes	_		{}
+14	produktioner	_		{}
+15	.	_		{}

@@ -1,0 +1,28 @@
+1	The	_		{}
+2	first	_	First_experience	{"Experience": "3"}
+3	funding	_	Store	{"Supply": "3"}
+4	for	_		{}
+5	Google	_		{}
+6	was	_		{}
+7	an	_	Cardinal_numbers	{"Number": "7", "Entity": "10"}
+8	August	_	Calendric_unit	{"Unit": "8"}
+9	1998	_	Cardinal_numbers	{"Number": "9"}
+10	contribution	_	Part_whole	{"Part": "10", "Part_Prop": "9"}
+11	of	_		{}
+12	$	_		{}
+13	100,000	_		{}
+14	from	_		{}
+15	Andy	_		{}
+16	Bechtolsheim	_		{}
+17	,	_		{}
+18	co-founder	_		{}
+19	of	_		{}
+20	Sun	_	Weather	{}
+21	Microsystems	_		{}
+22	,	_		{}
+23	given	_	Giving	{"Donor": "16", "Theme": "10", "Recipient": "5", "Time": "24"}
+24	before	_	Relative_time	{"Focal_occasion": "10", "Landmark_occasion": "26"}
+25	Google	_		{}
+26	was	_	Being_in_category	{"Category": "27"}
+27	incorporated	_	Inclusion	{}
+28	.	_		{}

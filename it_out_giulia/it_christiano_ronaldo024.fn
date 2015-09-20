@@ -1,0 +1,22 @@
+1	A	_		{}
+2	fine	_		{}
+3	ottobre	_	Calendric_unit	{"Unit": "3"}
+4	2013	_		{}
+5	lancia	_		{}
+6	la	_		{}
+7	propria	_	Possession	{"Possession": "8"}
+8	linea	_		{}
+9	di	_		{}
+10	intimo	_	Clothing	{"Garment": "10", "Name": "12"}
+11	"	_		{}
+12	CR7	_		{}
+13	"	_		{}
+14	,	_		{}
+15	disegnata	_	Create_physical_artwork	{"Representation": "8"}
+16	insieme	_	Collaboration	{"Undertaking": "8", "Partner_2": "20"}
+17	al	_		{}
+18	progettista	_		{}
+19	americano	_	People_by_origin	{"Origin": "19", "Person": "20"}
+20	Richard	_		{}
+21	Chai	_		{}
+22	.	_		{}

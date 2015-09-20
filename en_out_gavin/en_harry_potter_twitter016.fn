@@ -1,0 +1,27 @@
+1	I'm	_		{}
+2	going	_	Self_motion	{"Self_mover": "1"}
+3	to	_		{}
+4	bring	_	Bringing	{"Theme": "6", "Goal": "15", "Agent": "1"}
+5	the	_		{}
+6	box	_	Containers	{"Container": "6", "Contents": "7"}
+7	of	_		{}
+8	Special	_	Idiosyncrasy	{"Idiosyncrasy": "8", "Entity": "9"}
+9	K	_		{}
+10	and	_		{}
+11	a	_	Cardinal_numbers	{"Number": "11", "Entity": "12"}
+12	carton	_	Containers	{"Container": "12", "Contents": "13"}
+13	of	_		{}
+14	milk	_	Food	{"Food": "14"}
+15	to	_		{}
+16	my	_		{}
+17	room	_	Building_subparts	{"Building_part": "17"}
+18	and	_		{}
+19	watch	_	Perception_active	{"Perceiver_agentive": "1", "Phenomenon": "23"}
+20	as	_		{}
+21	much	_	Frequency	{}
+22	Harry	_		{}
+23	Potter	_		{}
+24	as	_		{}
+25	I	_		{}
+26	can	_	Capability	{"Entity": "25"}
+27	handle	_	Operating_a_system	{"Operator": "25", "System": "23"}

@@ -1,0 +1,19 @@
+1	Es	_	Being_in_category	{"Item": "2", "Criteria": "5"}
+2	reconocida	_	Becoming_aware	{"Instrument": "5", "Phenomenon": "13"}
+3	por	_		{}
+4	sus	_		{}
+5	trabajos	_	Businesses	{"Descriptor": "6", "Place": "9", "Business": "6"}
+6	humanitarios	_		{}
+7	en	_		{}
+8	diversos	_		{}
+9	países	_	Political_locales	{"Relative_location": "8"}
+10	,	_		{}
+11	y	_		{}
+12	ha	_		{}
+13	recibido	_	Getting	{"Theme": "15", "Means": "18"}
+14	varios	_	Diversity	{}
+15	reconocimientos	_	Judgment	{"Reason": "18"}
+16	por	_		{}
+17	su	_		{}
+18	labor	_	Being_employed	{"Field": "5", "Compensation": "15", "Place_of_employment": "9"}
+19	.	_		{}

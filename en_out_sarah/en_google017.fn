@@ -1,0 +1,15 @@
+1	In	_		{}
+2	December	_	Calendric_unit	{"Name": "2"}
+3	2013	_		{}
+4	Alexa	_		{}
+5	listed	_	Appointing	{"Degree": "9", "Official": "6", "Selector": "4", "Role": "11", "Time": "1", "Place": "14"}
+6	google.com	_		{}
+7	as	_		{}
+8	the	_		{}
+9	most	_	Relational_quantity	{"Individuals": "11", "Reference_quantity": "9"}
+10	visited	_	Visiting	{"Entity": "11"}
+11	website	_	Locale	{"Locale": "11"}
+12	in	_		{}
+13	the	_		{}
+14	world	_		{}
+15	.	_		{}

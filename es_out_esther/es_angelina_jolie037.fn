@@ -1,0 +1,37 @@
+1	En	_		{}
+2	los	_		{}
+3	últimos	_	Relative_time	{"Focal_occasion": "4"}
+4	tiempos	_	Timespan	{"Duration": "3"}
+5	,	_		{}
+6	se	_		{}
+7	ha	_		{}
+8	referido	_	Relating_concepts	{"Concept_1": "11", "Concept_2": "16"}
+9	a	_		{}
+10	su	_		{}
+11	período	_	Temporal_pattern	{"Subevent": "13"}
+12	de	_		{}
+13	adolescencia	_	People_by_age	{"Persistent_characteristic": "16"}
+14	con	_		{}
+15	la	_		{}
+16	frase	_	Sentencing	{"Term_of_sentence": "19"}
+17	:	_		{}
+18	"	_		{}
+19	Todavía	_		{}
+20	estas	_	Proper_reference	{"Intended_referent": "21"}
+21	épocas	_		{}
+22	están	_		{}
+23	en	_		{}
+24	mi	_		{}
+25	corazón	_	Observable_body_parts	{"Body_part": "25", "Possessor": "24"}
+26	,	_		{}
+27	me	_		{}
+28	encantaba	_	Emotions_of_mental_activity	{"Stimulus": "29"}
+29	ser	_	Being_in_category	{"Item": "30"}
+30	chica	_	People	{}
+31	punk	_		{}
+32	,	_		{}
+33	llena	_	Bringing	{"Source": "16", "Goal": "35"}
+34	de	_		{}
+35	tatuajes	_	Body_decoration	{"Body_location": "33"}
+36	"	_		{}
+37	.	_		{}

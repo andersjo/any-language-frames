@@ -1,0 +1,31 @@
+1	@iamareckless	_		{}
+2	no	_		{}
+3	guarda	_	Being_awake	{}
+4	che	_		{}
+5	non	_		{}
+6	è	_		{}
+7	molto	_	Measurable_attributes	{}
+8	lontano	_	Locative_relation	{}
+9	eh	_		{}
+10	...	_		{}
+11	se	_		{}
+12	non	_		{}
+13	erro	_		{}
+14	(	_		{}
+15	google	_		{}
+16	maps	_		{}
+17	grazie	_		{}
+18	)	_		{}
+19	è	_		{}
+20	vicino	_	Locative_relation	{"Ground": "22"}
+21	a	_		{}
+22	Linate	_		{}
+23	...	_		{}
+24	ho	_		{}
+25	visto	_		{}
+26	oggi	_	Temporal_collocation	{"Landmark_period": "26"}
+27	.	_		{}
+28	Quando	_	Event_instance	{"Event": "29"}
+29	andranno	_	Motion	{}
+30	li	_		{}
+31	?	_		{}

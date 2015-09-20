@@ -1,0 +1,42 @@
+1	Élevé	_		{}
+2	dans	_		{}
+3	le	_		{}
+4	quartier	_	Political_locales	{"Locale": "4"}
+5	de	_		{}
+6	Santo	_		{}
+7	Antonio	_		{}
+8	sur	_		{}
+9	l'île	_		{}
+10	de	_		{}
+11	Madère	_		{}
+12	,	_		{}
+13	Cristiano	_		{}
+14	Ronaldo	_		{}
+15	intègre	_		{}
+16	le	_		{}
+17	centre	_	Locale_by_use	{"Locale": "17"}
+18	de	_		{}
+19	formation	_	Education_teaching	{"Institution": "17", "Student": "14"}
+20	du	_		{}
+21	Sporting	_		{}
+22	Portugal	_		{}
+23	à	_		{}
+24	l'âge	_		{}
+25	de	_		{}
+26	12	_	Cardinal_numbers	{"Number": "26", "Entity": "27"}
+27	ans	_	Age	{"Attribute": "24", "Age": "26", "Entity": "14"}
+28	où	_		{}
+29	il	_		{}
+30	passe	_	Duration_relation	{"Duration": "31", "Entity": "29"}
+31	cinq	_	Cardinal_numbers	{"Number": "31", "Entity": "32"}
+32	ans	_	Measure_duration	{"Process": "30", "Count": "31", "Unit": "32"}
+33	avant	_	Relative_time	{"Focal_occasion": "35", "Focal_participant": "29", "Landmark_occasion": "30"}
+34	de	_		{}
+35	signer	_	Sign_agreement	{"Signatory": "29", "Agreement": "38"}
+36	son	_		{}
+37	premier	_	First_experience	{"Experience": "35"}
+38	contrat	_	Sign_agreement	{}
+39	professionnel	_		{}
+40	en	_		{}
+41	2002	_		{}
+42	.	_		{}

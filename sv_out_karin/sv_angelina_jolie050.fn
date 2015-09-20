@@ -1,0 +1,15 @@
+1	Jolie	_		{}
+2	var	_		{}
+3	så	_	Degree	{"Gradable_attribute": "4"}
+4	besviken	_		{}
+5	med	_		{}
+6	filmen	_	Physical_artworks	{"Artifact": "6"}
+7	att	_		{}
+8	hon	_		{}
+9	inte	_	Success_or_failure	{"Agent": "1"}
+10	provspelade	_		{}
+11	igen	_		{}
+12	på	_		{}
+13	ett	_	Cardinal_numbers	{"Number": "13", "Entity": "14"}
+14	år	_	Measure_duration	{"Process": "10", "Count": "13", "Unit": "14", "Agent": "1"}
+15	.	_		{}

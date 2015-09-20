@@ -1,0 +1,30 @@
+1	1997	_		{}
+2	zunächst	_		{}
+3	als	_		{}
+4	Kleinauflage	_		{}
+5	von	_		{}
+6	500	_	Cardinal_numbers	{"Number": "6", "Entity": "7"}
+7	Stück	_	Entity	{"Entity": "7"}
+8	im	_		{}
+9	britischen	_		{}
+10	Bloomsbury-Verlag	_		{}
+11	veröffentlicht	_		{}
+12	,	_		{}
+13	entwickelte	_	Progress	{"Post_state": "29", "Entity": "17"}
+14	sich	_		{}
+15	der	_		{}
+16	erste	_		{}
+17	Band	_	Predicament	{}
+18	"	_		{}
+19	Harry	_		{}
+20	Potter	_		{}
+21	und	_		{}
+22	der	_		{}
+23	Stein	_		{}
+24	der	_		{}
+25	Weisen	_		{}
+26	"	_		{}
+27	schnell	_	Speed	{"Attribute": "13", "Speed": "27"}
+28	zum	_		{}
+29	Verkaufserfolg	_		{}
+30	.	_		{}

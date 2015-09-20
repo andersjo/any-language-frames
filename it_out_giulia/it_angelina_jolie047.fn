@@ -1,0 +1,38 @@
+1	Dopo	_	Relative_time	{"Focal_occasion": "13", "Landmark_occasion": "3"}
+2	il	_		{}
+3	successo	_	Success_or_failure	{}
+4	di	_		{}
+5	"	_		{}
+6	Lara	_		{}
+7	Croft	_		{}
+8	:	_		{}
+9	Tomb	_		{}
+10	Raider	_		{}
+11	"	_		{}
+12	,	_		{}
+13	recita	_	Performers_and_roles	{"Performance": "13", "Type": "22"}
+14	in	_		{}
+15	"	_		{}
+16	Una	_		{}
+17	vita	_	Existence	{}
+18	quasi	_		{}
+19	perfetta	_		{}
+20	"	_		{}
+21	,	_		{}
+22	film	_	Physical_artworks	{"Artifact": "22"}
+23	che	_		{}
+24	non	_		{}
+25	riscontra	_		{}
+26	molto	_	Measurable_attributes	{"Degree": "26", "Entity": "27"}
+27	successo	_	Success_or_failure	{}
+28	al	_		{}
+29	botteghino	_		{}
+30	e	_		{}
+31	la	_		{}
+32	critica	_		{}
+33	non	_		{}
+34	apprezza	_	Judgment	{"Cognizer": "32", "Evaluee": "37"}
+35	la	_		{}
+36	sua	_		{}
+37	interpretazione	_	Performing_arts	{"Performance": "37", "Type": "22"}
+38	.	_		{}

@@ -1,0 +1,41 @@
+1	In	_		{}
+2	other	_		{}
+3	regions	_	Locale	{"Locale": "3"}
+4	,	_		{}
+5	however	_	Concessive	{"Main_statement": "1", "Statement": "18"}
+6	,	_		{}
+7	the	_		{}
+8	political	_	Organization	{"Organization": "12"}
+9	and	_		{}
+10	human	_	People	{"Person": "10"}
+11	rights	_	Morality_evaluation	{}
+12	theme	_	Topic	{"Topic": "11"}
+13	designated	_	Appointing	{"Body": "12", "Selector": "14"}
+14	by	_		{}
+15	the	_		{}
+16	United	_	Amalgamation	{"Depictive": "16", "Parts": "17"}
+17	Nations	_	Political_locales	{"Locale": "17", "Name": "16"}
+18	runs	_	Self_motion	{"Manner": "19", "Self_mover": "12"}
+19	strong	_	Exertive_force	{"Entity": "12"}
+20	,	_		{}
+21	and	_		{}
+22	political	_	Organization	{"Organization": "25"}
+23	and	_		{}
+24	social	_	Social_event	{}
+25	awareness	_	Awareness	{"Content": "26"}
+26	of	_		{}
+27	the	_		{}
+28	struggles	_	Hostile_encounter	{"Side_1": "30"}
+29	of	_		{}
+30	women	_	People	{"Person": "30"}
+31	worldwide	_	Political_locales	{"Locale": "31"}
+32	are	_		{}
+33	brought	_		{}
+34	out	_	Part_inner_outer	{}
+35	and	_		{}
+36	examined	_	Scrutiny	{"Manner": "37"}
+37	in	_		{}
+38	a	_	Cardinal_numbers	{"Number": "38", "Entity": "40"}
+39	hopeful	_	Location_of_light	{"Figure": "28"}
+40	manner	_	Means	{}
+41	.	_		{}

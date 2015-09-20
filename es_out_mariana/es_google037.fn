@@ -1,0 +1,12 @@
+1	En	_		{}
+2	noviembre	_	Calendric_unit	{"Salient_event": "4", "Name": "2", "Unit": "2"}
+3	se	_		{}
+4	presenta	_	Have_associated	{"Entity": "5", "Topical_entity": "6", "Time": "2"}
+5	Google	_		{}
+6	Analytics	_		{}
+7	y	_	Simultaneity	{"Profiled_event": "11", "Landmark_event": "6"}
+8	en	_		{}
+9	diciembre	_	Calendric_unit	{"Salient_event": "11", "Name": "9", "Unit": "9"}
+10	Google	_		{}
+11	Transit	_		{}
+12	.	_		{}

@@ -1,0 +1,19 @@
+1	Nel	_		{}
+2	febbraio	_	Calendric_unit	{"Whole": "3", "Unit": "2"}
+3	2010	_		{}
+4	ha	_		{}
+5	firmato	_		{}
+6	un	_		{}
+7	contratto	_	Documents	{"Document": "7", "Issuer": "13"}
+8	di	_		{}
+9	4	_	Cardinal_numbers	{"Number": "9", "Entity": "10"}
+10	anni	_	Measure_duration	{"Count": "4", "Unit": "10"}
+11	con	_		{}
+12	la	_		{}
+13	Nike	_		{}
+14	di	_		{}
+15	24	_		{}
+16	milioni	_	Cardinal_numbers	{"Number": "15", "Entity": "18"}
+17	di	_		{}
+18	euro	_		{}
+19	.	_		{}

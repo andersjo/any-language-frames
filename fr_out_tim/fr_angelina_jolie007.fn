@@ -1,0 +1,23 @@
+1	Elle	_		{}
+2	a	_		{}
+3	déjà	_		{}
+4	été	_		{}
+5	désignée	_		{}
+6	comme	_		{}
+7	l'une	_		{}
+8	des	_		{}
+9	plus	_		{}
+10	belles	_	Aesthetics	{"Attribute": "10", "Degree": "9", "Entity": "1"}
+11	femmes	_	People	{"Person": "11"}
+12	du	_		{}
+13	monde	_	Locale	{"Locale": "13"}
+14	et	_		{}
+15	sa	_		{}
+16	vie	_	Existence	{"Entity": "1"}
+17	hors-caméras	_		{}
+18	est	_		{}
+19	suivie	_	Scrutiny	{}
+20	de	_		{}
+21	très	_	Degree	{"Gradable_attribute": "22"}
+22	près	_		{}
+23	.	_		{}

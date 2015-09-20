@@ -1,0 +1,32 @@
+1	Dopo	_	Relative_time	{"Focal_occasion": "25", "Landmark_occasion": "4"}
+2	che	_		{}
+3	Harry	_		{}
+4	uccide	_	Killing	{"Killer": "3"}
+5	quest'ultimo	_		{}
+6	grazie	_		{}
+7	alla	_		{}
+8	protezione	_		{}
+9	di	_		{}
+10	Lily	_		{}
+11	,	_		{}
+12	che	_		{}
+13	gli	_		{}
+14	aveva	_		{}
+15	trasmesso	_		{}
+16	salvandolo	_		{}
+17	dallo	_		{}
+18	stesso	_		{}
+19	Voldemort	_		{}
+20	quando	_		{}
+21	era	_		{}
+22	neonato	_	People_by_age	{"Person": "3"}
+23	,	_		{}
+24	Voldemort	_		{}
+25	torna	_	Resurrection	{"Protagonist": "24"}
+26	a	_		{}
+27	vivere	_	Existence	{"Entity": "24"}
+28	sotto	_		{}
+29	forma	_	Shapes	{"Substance": "31"}
+30	di	_		{}
+31	anima	_		{}
+32	.	_		{}

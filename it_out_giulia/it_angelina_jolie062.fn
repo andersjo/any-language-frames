@@ -1,0 +1,45 @@
+1	Nel	_		{}
+2	2010	_		{}
+3	lavora	_	Being_employed	{}
+4	al	_		{}
+5	fianco	_		{}
+6	di	_		{}
+7	Johnny	_		{}
+8	Depp	_		{}
+9	nel	_		{}
+10	film	_	Physical_artworks	{"Name": "12", "Artifact": "10", "Time_of_creation": "2"}
+11	"	_		{}
+12	The	_		{}
+13	Tourist	_		{}
+14	"	_		{}
+15	,	_		{}
+16	per	_		{}
+17	la	_		{}
+18	regia	_	Behind_the_scenes	{"Production": "13", "Artist": "21"}
+19	di	_		{}
+20	Florian	_		{}
+21	Henckel	_		{}
+22	von	_		{}
+23	Donnersmarck	_		{}
+24	,	_		{}
+25	remake	_		{}
+26	del	_		{}
+27	film	_	Physical_artworks	{"Descriptor": "28", "Name": "30", "Artifact": "27"}
+28	francese	_	Origin	{"Origin": "28", "Entity": "27"}
+29	"	_		{}
+30	Anthony	_		{}
+31	Zimmer	_		{}
+32	"	_		{}
+33	,	_		{}
+34	per	_		{}
+35	la	_		{}
+36	cui	_		{}
+37	interpretazione	_	Performing_arts	{"Performance": "37", "Type": "10"}
+38	ottiene	_	Win_prize	{"Prize": "42", "Time": "44"}
+39	una	_		{}
+40	candidatura	_		{}
+41	al	_		{}
+42	Golden	_		{}
+43	Globe	_		{}
+44	2011	_		{}
+45	.	_		{}

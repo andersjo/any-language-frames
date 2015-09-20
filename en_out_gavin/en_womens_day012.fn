@@ -1,0 +1,32 @@
+1	The	_		{}
+2	following	_	Relative_time	{"Focal_occasion": "12", "Focal_participant": "11"}
+3	year	_	Calendric_unit	{"Unit": "3"}
+4	,	_		{}
+5	on	_		{}
+6	March	_	Calendric_unit	{"Unit": "6"}
+7	19	_		{}
+8	,	_		{}
+9	1911	_		{}
+10	,	_		{}
+11	IWD	_		{}
+12	was	_	Being_in_category	{"Category": "13", "Item": "11"}
+13	marked	_	Body_mark	{"Possessor": "11"}
+14	for	_		{}
+15	the	_		{}
+16	first	_	First_experience	{"Experience": "12"}
+17	time	_	Event_instance	{"Instance": "17", "Instance_Prop": "16", "Event": "12"}
+18	,	_		{}
+19	by	_		{}
+20	over	_	Completeness	{"Whole": "23", "Time": "3"}
+21	a	_	Cardinal_numbers	{"Number": "21", "Entity": "22"}
+22	million	_	Cardinal_numbers	{"Entity": "23", "Number": "22", "Precision": "20", "Multiplier": "21"}
+23	people	_	People_by_jurisdiction	{"Person": "23"}
+24	in	_		{}
+25	Austria	_		{}
+26	,	_		{}
+27	Denmark	_		{}
+28	,	_		{}
+29	Germany	_	People_by_origin	{"Origin": "29"}
+30	and	_		{}
+31	Switzerland	_		{}
+32	.	_		{}

@@ -1,0 +1,25 @@
+1	Angelina	_		{}
+2	jolie	_		{}
+3	con	_		{}
+4	un	_		{}
+5	pucho	_		{}
+6	en	_		{}
+7	la	_		{}
+8	boca	_	Observable_body_parts	{"Body_part": "8", "Possessor": "1"}
+9	,	_		{}
+10	drogona	_		{}
+11	y	_		{}
+12	con	_		{}
+13	una	_		{}
+14	historia	_	Individual_history	{"Participant": "1", "Events": "16"}
+15	de	_		{}
+16	amor	_	Personal_relationship	{"Partner_1": "1"}
+17	lesbica	_		{}
+18	,	_		{}
+19	vean	_	Attention	{"Figure": "1"}
+20	"	_		{}
+21	gia	_		{}
+22	"	_		{}
+23	q	_		{}
+24	es	_	Being_in_category	{"Item": "1"}
+25	tODO	_	Degree	{"Gradable_attribute": "21"}

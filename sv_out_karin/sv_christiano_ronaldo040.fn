@@ -1,0 +1,54 @@
+1	Chelsea	_		{}
+2	kvitterade	_		{}
+3	dock	_	Concessive	{"Topic": "2"}
+4	i	_		{}
+5	den	_		{}
+6	45	_		{}
+7	:	_		{}
+8	e	_		{}
+9	minuten	_		{}
+10	och	_	Simultaneity	{"Profiled_event": "2", "Landmark_event": "12"}
+11	matchen	_		{}
+12	slutade	_		{}
+13	1	_		{}
+14	–	_		{}
+15	1	_		{}
+16	efter	_		{}
+17	övertid	_		{}
+18	och	_	Simultaneity	{"Profiled_event": "12", "Landmark_event": "21"}
+19	tvingades	_		{}
+20	att	_		{}
+21	avgöras	_		{}
+22	på	_		{}
+23	straffar	_		{}
+24	där	_		{}
+25	Ronaldo	_		{}
+26	missade	_		{}
+27	sin	_		{}
+28	straff	_		{}
+29	,	_		{}
+30	vilket	_		{}
+31	satte	_		{}
+32	Chelsea	_		{}
+33	i	_		{}
+34	överläge	_		{}
+35	,	_		{}
+36	men	_		{}
+37	John	_		{}
+38	Terry	_		{}
+39	halkade	_		{}
+40	och	_	Simultaneity	{"Profiled_event": "39", "Landmark_event": "41"}
+41	missade	_		{}
+42	även	_		{}
+43	han	_		{}
+44	,	_		{}
+45	och	_	Simultaneity	{"Profiled_event": "41", "Landmark_event": "48"}
+46	Manchester	_		{}
+47	United	_		{}
+48	vann	_		{}
+49	straffläggningen	_		{}
+50	med	_		{}
+51	6	_		{}
+52	–	_		{}
+53	5	_		{}
+54	.	_		{}

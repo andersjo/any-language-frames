@@ -1,0 +1,29 @@
+1	The	_		{}
+2	USA	_	Aggregate	{"Aggregate": "2"}
+3	lied	_		{}
+4	for	_		{}
+5	decades	_	Measure_duration	{"Unit": "5"}
+6	about	_		{}
+7	Ice	_	Substance	{"Substance": "7"}
+8	Caps	_	Clothing	{"Descriptor": "7", "Garment": "8"}
+9	&	_		{}
+10	Global	_	Political_locales	{"Locale": "10"}
+11	Warming	_	Temperature	{"Temperature": "11", "Entity": "10"}
+12	?	_		{}
+13	The	_		{}
+14	Ocean	_	Natural_features	{"Locale": "14"}
+15	is	_		{}
+16	hydrated	_	Cause_to_be_wet	{"Means": "17", "Time": "24"}
+17	from	_		{}
+18	400	_	Cardinal_numbers	{"Number": "18", "Entity": "19"}
+19	miles	_	Measure_linear_extent	{"Count": "18", "Unit": "19"}
+20	below	_		{}
+21	every	_		{}
+22	100	_	Cardinal_numbers	{"Multiplier": "23", "Number": "22", "Entity": "23"}
+23	million	_	Cardinal_numbers	{"Multiplier": "22", "Number": "23", "Entity": "24"}
+24	yrs	_	Calendric_unit	{"Unit": "24"}
+25	?	_		{}
+26	Keep	_	Activity_ongoing	{"Activity": "27"}
+27	it	_		{}
+28	up	_	Direction	{"Path": "28"}
+29	?	_		{}

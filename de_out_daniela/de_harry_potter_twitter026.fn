@@ -1,0 +1,27 @@
+1	@pandarochen_	_		{}
+2	ich	_		{}
+3	versteh	_		{}
+4	nicht	_		{}
+5	was	_		{}
+6	das	_		{}
+7	soll	_		{}
+8	.	_		{}
+9	"	_		{}
+10	Leute	_	People	{"Person": "10"}
+11	die	_		{}
+12	Harry	_		{}
+13	Potter	_		{}
+14	nicht	_		{}
+15	mögen	_	Experiencer_focus	{"Content": "13", "Experiencer": "10"}
+16	haben	_		{}
+17	keine	_	Quantity	{"Mass": "18", "Quantity": "17"}
+18	Fantasie	_		{}
+19	.	_		{}
+20	"	_		{}
+21	das	_		{}
+22	hat	_		{}
+23	nichts	_		{}
+24	miteinander	_		{}
+25	zu	_		{}
+26	tun	_		{}
+27	.	_		{}

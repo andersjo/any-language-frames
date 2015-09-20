@@ -1,0 +1,18 @@
+1	Die	_		{}
+2	eine	_		{}
+3	ist	_		{}
+4	die	_		{}
+5	dem	_		{}
+6	Leser	_	Reading	{"Reader": "6"}
+7	bekannte	_	Familiarity	{"Cognizer": "6", "Entity": "8"}
+8	Welt	_	Locale	{"Locale": "8"}
+9	,	_		{}
+10	genauer	_		{}
+11	das	_		{}
+12	Vereinigte	_		{}
+13	Königreich	_	Political_locales	{"Locale": "13", "Descriptor": "12"}
+14	gegen	_		{}
+15	Ende	_		{}
+16	des	_		{}
+17	20	_	Cardinal_numbers	{"Number": "17"}
+18	.	_		{}

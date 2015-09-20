@@ -1,0 +1,16 @@
+1	Bon	_		{}
+2	,	_		{}
+3	on	_		{}
+4	va	_		{}
+5	pas	_		{}
+6	rester	_	Activity_ongoing	{"Agent": "3"}
+7	3000	_		{}
+8	ans	_	Measure_duration	{"Count": "7", "Unit": "9"}
+9	dessus	_		{}
+10	.	_		{}
+11	Christiano	_		{}
+12	Ronaldo	_		{}
+13	mérite	_	Deserving	{"State_of_affairs": "15"}
+14	le	_		{}
+15	ballon	_		{}
+16	d'or	_		{}

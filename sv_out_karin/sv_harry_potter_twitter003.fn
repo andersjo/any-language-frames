@@ -1,0 +1,20 @@
+1	@radonhalt	_		{}
+2	tänkte	_		{}
+3	precis	_		{}
+4	på	_		{}
+5	att	_		{}
+6	jag	_	Proper_reference	{"Intended_referent": "6"}
+7	måste	_		{}
+8	ha	_	Possession	{"Owner": "6", "Possession": "11", "Manner": "19"}
+9	Harry	_		{}
+10	Potter	_		{}
+11	maraton	_		{}
+12	igen	_		{}
+13	..	_		{}
+14	Böckerna	_		{}
+15	och	_		{}
+16	filmerna	_		{}
+17	.	_		{}
+18	Med	_		{}
+19	chips	_		{}
+20	.	_		{}

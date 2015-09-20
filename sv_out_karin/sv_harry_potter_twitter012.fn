@@ -1,0 +1,17 @@
+1	Edvin	_		{}
+2	när	_		{}
+3	vi	_		{}
+4	såg	_		{}
+5	Harry	_		{}
+6	Potter	_		{}
+7	igår-	_		{}
+8	undra	_	Questioning	{"Topic": "12", "Addressee": "1"}
+9	hur	_		{}
+10	det	_		{}
+11	skulle	_		{}
+12	kännas	_		{}
+13	att	_		{}
+14	få	_	Feeling	{"Emotion": "15"}
+15	gåshud	_	Perception_body	{"Body_part": "17"}
+16	i	_		{}
+17	munnen	_	Observable_body_parts	{"Body_part": "17"}

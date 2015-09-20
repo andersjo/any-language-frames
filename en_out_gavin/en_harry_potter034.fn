@@ -1,0 +1,21 @@
+1	As	_		{}
+2	its	_		{}
+3	inadvertent	_		{}
+4	saviour	_		{}
+5	from	_		{}
+6	Voldemort's	_		{}
+7	reign	_	Dominate_situation	{"Situation": "7", "Agent": "6"}
+8	of	_		{}
+9	terror	_	Fear	{"State": "9"}
+10	,	_		{}
+11	Harry	_		{}
+12	has	_		{}
+13	become	_	Becoming	{"Place": "17", "Entity": "11"}
+14	a	_	Cardinal_numbers	{"Number": "14", "Entity": "16"}
+15	living	_	Dead_or_alive	{"Protagonist": "11"}
+16	legend	_	Text	{"Text": "16"}
+17	in	_		{}
+18	the	_		{}
+19	wizarding	_	Performers_and_roles	{"Performance": "19"}
+20	world	_	Locale	{"Locale": "20", "Descriptor": "19"}
+21	.	_		{}

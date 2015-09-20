@@ -1,0 +1,23 @@
+1	Ses	_		{}
+2	performances	_		{}
+3	sportives	_	Competition	{"Participant_1": "1"}
+4	sont	_		{}
+5	alors	_		{}
+6	excellentes	_	Expertise	{"Skill": "2", "Protagonist": "1"}
+7	mais	_		{}
+8	son	_		{}
+9	comportement	_	Conduct	{"Manner": "12", "Agent": "8"}
+10	devient	_	Becoming	{"Entity": "9"}
+11	très	_	Degree	{"Gradable_attribute": "12"}
+12	mauvais	_	Desirability	{"Evaluee": "9"}
+13	,	_		{}
+14	ne	_		{}
+15	supportant	_	Tolerating	{"Content": "18", "Experiencer": "8"}
+16	plus	_		{}
+17	de	_		{}
+18	vivre	_	Residence	{"Resident": "8"}
+19	loin	_		{}
+20	de	_		{}
+21	sa	_		{}
+22	famille	_	Kinship	{"Ego": "21", "Alter": "22"}
+23	.	_		{}

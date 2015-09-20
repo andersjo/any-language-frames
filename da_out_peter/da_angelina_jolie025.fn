@@ -1,0 +1,41 @@
+1	Gennem	_		{}
+2	tiden	_		{}
+3	har	_		{}
+4	hun	_	People	{"Person": "4"}
+5	skjult	_		{}
+6	eller	_		{}
+7	fået	_		{}
+8	laserfjernet	_		{}
+9	adskillige	_		{}
+10	andre	_	Increment	{"Class": "11"}
+11	tatoveringer	_	Body_decoration	{"Decoration": "11", "Decorated_individual": "4"}
+12	,	_		{}
+13	deriblandt	_		{}
+14	“	_		{}
+15	Billy	_		{}
+16	Bob	_		{}
+17	”	_		{}
+18	,	_		{}
+19	navnet	_	Being_named	{"Name": "25", "Entity": "22"}
+20	på	_		{}
+21	hendes	_		{}
+22	eksmand	_		{}
+23	Billy	_		{}
+24	Bob	_		{}
+25	Thornton	_		{}
+26	,	_		{}
+27	et	_		{}
+28	kinesisk	_	Origin	{"Origin": "28", "Entity": "29"}
+29	tegn	_	Sign	{"Indicator": "29", "Indicated": "31"}
+30	for	_		{}
+31	død	_		{}
+32	(死)	_		{}
+33	og	_		{}
+34	et	_		{}
+35	vindue	_	Connecting_architecture	{"Part": "35"}
+36	på	_		{}
+37	det	_		{}
+38	nederste	_		{}
+39	af	_		{}
+40	ryggen	_		{}
+41	.	_		{}

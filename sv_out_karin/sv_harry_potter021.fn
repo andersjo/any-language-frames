@@ -1,0 +1,42 @@
+1	Rowling	_		{}
+2	menar	_	Purpose	{"Goal": "7", "Agent": "1"}
+3	dock	_	Concessive	{"Statement": "7"}
+4	att	_		{}
+5	hon	_		{}
+6	inte	_		{}
+7	skriver	_		{}
+8	för	_		{}
+9	någon	_	People	{"Person": "11"}
+10	särskild	_		{}
+11	målgrupp	_		{}
+12	,	_		{}
+13	och	_		{}
+14	böckerna	_	Text	{"Text": "14", "Author": "1"}
+15	har	_	Possession	{"Possession": "18", "Owner": "14"}
+16	också	_		{}
+17	fått	_		{}
+18	beundrare	_		{}
+19	i	_		{}
+20	alla	_	Quantity	{"Individuals": "21"}
+21	åldrar	_		{}
+22	(	_		{}
+23	Dessutom	_		{}
+24	sträcker	_		{}
+25	de	_		{}
+26	sig	_		{}
+27	tills	_		{}
+28	huvudpersonen	_		{}
+29	är	_		{}
+30	18	_		{}
+31	år	_	Age	{"Age": "30", "Entity": "28"}
+32	,	_		{}
+33	37	_		{}
+34	år	_	Age	{"Age": "33", "Entity": "28"}
+35	gammal	_	Age	{"Attribute": "35", "Age": "33", "Entity": "28"}
+36	om	_		{}
+37	man	_		{}
+38	räknar	_		{}
+39	med	_		{}
+40	epilogen	_		{}
+41	)	_		{}
+42	.	_		{}

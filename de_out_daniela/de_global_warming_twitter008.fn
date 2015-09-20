@@ -1,0 +1,24 @@
+1	Tea	_		{}
+2	Party	_		{}
+3	USA	_		{}
+4	und	_		{}
+5	ähnl	_		{}
+6	.	_		{}
+7	Bewegungen	_	Aggregate	{"Aggregate": "7"}
+8	:	_		{}
+9	Leugnen	_		{}
+10	global	_		{}
+11	warming	_		{}
+12	bzw	_		{}
+13	.	_		{}
+14	climate	_		{}
+15	change	_		{}
+16	und	_		{}
+17	sind	_	Compliance	{"Protagonist": "7", "State_of_Affairs": "20"}
+18	selber	_		{}
+19	für	_		{}
+20	Erstarken	_	Cause_change_of_strength	{"Patient": "22", "Agent": "7"}
+21	sozialer	_		{}
+22	Kälte	_		{}
+23	verantwortlich	_	Being_obligated	{"Responsible_party": "7"}
+24	.	_		{}

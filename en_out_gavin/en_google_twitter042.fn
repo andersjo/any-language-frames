@@ -1,0 +1,18 @@
+1	AQR	_		{}
+2	gives	_	Giving	{"Donor": "1", "Theme": "6", "Recipient": "5", "Purpose": "8"}
+3	London	_		{}
+4	Business	_	Businesses	{"Place": "3", "Business": "4"}
+5	School	_	Locale_by_use	{"Locale": "5", "Container_possessor": "3", "Name": "4"}
+6	£10m	_		{}
+7	to	_		{}
+8	build	_	Building	{"Created_entity": "10", "Agent": "5"}
+9	'	_		{}
+10	Davos	_		{}
+11	of	_		{}
+12	finance	_		{}
+13	'	_		{}
+14	-	_		{}
+15	Financial	_		{}
+16	Times	_	Text	{"Text": "16", "Title": "15"}
+17	http://t.co/gYs3vleJv2	_		{}
+18	#finance	_		{}

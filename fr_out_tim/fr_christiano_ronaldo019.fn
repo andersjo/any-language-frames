@@ -1,0 +1,27 @@
+1	Il	_		{}
+2	intègre	_		{}
+3	le	_		{}
+4	centre	_	Locale_by_use	{"Locale": "4"}
+5	de	_		{}
+6	formation	_	Education_teaching	{"Institution": "7", "Student": "1"}
+7	d’Alcochete	_		{}
+8	à	_		{}
+9	l'âge	_		{}
+10	de	_		{}
+11	11	_		{}
+12	ans	_	Age	{"Attribute": "9", "Age": "11", "Entity": "1"}
+13	et	_		{}
+14	fait	_		{}
+15	ainsi	_		{}
+16	six	_	Cardinal_numbers	{"Number": "16", "Entity": "17"}
+17	saisons	_		{}
+18	dans	_		{}
+19	le	_		{}
+20	club	_	Organization	{"Organization": "23", "Members": "1"}
+21	junior	_		{}
+22	du	_		{}
+23	Sporting	_		{}
+24	Club	_		{}
+25	du	_		{}
+26	Portugal	_		{}
+27	.	_		{}

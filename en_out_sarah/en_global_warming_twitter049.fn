@@ -1,0 +1,20 @@
+1	Within	_		{}
+2	the	_		{}
+3	first	_	First_rank	{"Item": "5"}
+4	5	_		{}
+5	minutes	_	Measure_duration	{"Process": "8", "Count": "4", "Unit": "5"}
+6	of	_		{}
+7	Celebrity	_		{}
+8	Apprentice	_		{}
+9	,	_		{}
+10	Trump	_		{}
+11	takes	_	Activity_start	{"Agent": "10", "Activity": "13"}
+12	a	_		{}
+13	swipe	_		{}
+14	at	_		{}
+15	global	_	Political_locales	{"Locale": "15"}
+16	warming	_		{}
+17	.	_		{}
+18	Of	_		{}
+19	course	_		{}
+20	.	_		{}

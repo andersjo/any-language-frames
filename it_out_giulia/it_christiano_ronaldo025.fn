@@ -1,0 +1,28 @@
+1	È	_		{}
+2	dotato	_		{}
+3	di	_		{}
+4	grande	_	Measurable_attributes	{"Entity": "5"}
+5	velocità	_	Speed	{"Attribute": "4"}
+6	palla	_		{}
+7	al	_		{}
+8	piede	_	Observable_body_parts	{"Body_part": "8"}
+9	(è	_		{}
+10	uno	_		{}
+11	dei	_		{}
+12	giocatori	_	Performers	{"Persistent_characteristic": "14"}
+13	più	_		{}
+14	veloci	_	Speed	{"Attribute": "14", "Degree": "13", "Entity": "12"}
+15	al	_		{}
+16	mondo	_	Locale	{"Locale": "16"}
+17	,	_		{}
+18	con	_		{}
+19	una	_		{}
+20	velocità	_	Speed	{"Attribute": "21", "Speed": "23"}
+21	massima	_		{}
+22	di	_		{}
+23	33	_		{}
+24	,	_		{}
+25	6	_		{}
+26	km/h	_		{}
+27	)	_		{}
+28	.	_		{}

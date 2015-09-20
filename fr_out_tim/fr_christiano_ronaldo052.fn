@@ -1,0 +1,31 @@
+1	En	_		{}
+2	finale	_	Process_end	{"Process": "5"}
+3	de	_		{}
+4	FA	_		{}
+5	Cup	_		{}
+6	face	_	Hostile_encounter	{"Side_2": "8", "Side_1": "23"}
+7	à	_		{}
+8	Millwall	_		{}
+9	,	_		{}
+10	il	_		{}
+11	ouvre	_		{}
+12	le	_		{}
+13	score	_		{}
+14	de	_		{}
+15	la	_		{}
+16	tête	_	Observable_body_parts	{"Body_part": "16", "Possessor": "10"}
+17	et	_		{}
+18	remporte	_	Win_prize	{"Competitor": "10", "Prize": "5"}
+19	son	_		{}
+20	premier	_	First_experience	{"Experience": "21"}
+21	trophée	_		{}
+22	avec	_		{}
+23	Manchester	_		{}
+24	United	_		{}
+25	après	_		{}
+26	la	_		{}
+27	victoire	_	Finish_competition	{"Competitor": "10", "Competition": "5", "Opponent": "8"}
+28	3-0	_		{}
+29	des	_		{}
+30	siens	_		{}
+31	.	_		{}

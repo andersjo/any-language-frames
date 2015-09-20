@@ -1,0 +1,25 @@
+1	Zu	_		{}
+2	Beginn	_	Temporal_subregion	{"Time_period": "4", "Sub_part": "2"}
+3	seiner	_	Possession	{"Owner": "3", "Possession": "4"}
+4	Karriere	_		{}
+5	im	_		{}
+6	rechten	_	Part_orientational	{"Part": "6", "Whole": "7"}
+7	Mittelfeld	_		{}
+8	eingesetzt	_	Employing	{"Employee": "11", "Position": "7", "Duration": "2"}
+9	,	_		{}
+10	wechselte	_	Undergo_change	{"Initial_category": "7", "Final_category": "15", "Entity": "11"}
+11	er	_		{}
+12	später	_	Time_vector	{"Direction": "12", "Landmark_event": "7", "Event": "10"}
+13	auf	_		{}
+14	den	_		{}
+15	linken	_	Part_orientational	{"Part": "15", "Whole": "16"}
+16	Flügel	_		{}
+17	und	_		{}
+18	wurde	_	Cause_change	{"Final_category": "22", "Final_value": "21"}
+19	einer	_		{}
+20	der	_		{}
+21	torgefährlichsten	_		{}
+22	Spieler	_	Intentionally_act	{"Agent": "11"}
+23	seiner	_		{}
+24	Zeit	_	Timespan	{"State": "21", "Whole": "24"}
+25	.	_		{}

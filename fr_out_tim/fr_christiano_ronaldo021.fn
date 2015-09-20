@@ -1,0 +1,24 @@
+1	Cristiano	_		{}
+2	Aveiro	_		{}
+3	,	_		{}
+4	à	_		{}
+5	l'âge	_		{}
+6	de	_		{}
+7	11	_		{}
+8	ans	_	Age	{"Attribute": "5", "Age": "7", "Entity": "2"}
+9	,	_		{}
+10	arrive	_	Arriving	{"Theme": "2", "Goal": "12"}
+11	à	_		{}
+12	Lisbonne	_		{}
+13	,	_		{}
+14	après	_	Relative_time	{"Focal_occasion": "10", "Landmark_occasion": "17"}
+15	avoir	_		{}
+16	été	_		{}
+17	remarqué	_		{}
+18	par	_		{}
+19	le	_		{}
+20	Sporting	_		{}
+21	Clube	_		{}
+22	de	_		{}
+23	Portugal	_		{}
+24	.	_		{}

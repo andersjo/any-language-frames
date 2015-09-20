@@ -1,0 +1,27 @@
+1	Su	_		{}
+2	debut	_	Arriving	{"Theme": "5", "Goal": "2"}
+3	en	_		{}
+4	Primera	_	First_rank	{"Item": "5"}
+5	División	_		{}
+6	se	_		{}
+7	produjo	_	Accomplishment	{"Goal": "5", "Agent": "2", "Means": "15"}
+8	el	_		{}
+9	30	_	Cardinal_numbers	{"Number": "9", "Entity": "11"}
+10	de	_		{}
+11	septiembre	_	Calendric_unit	{"Relative_time": "11", "Unit": "9"}
+12	frente	_		{}
+13	al	_		{}
+14	Sporting	_		{}
+15	Clube	_		{}
+16	de	_		{}
+17	Braga	_		{}
+18	en	_		{}
+19	la	_		{}
+20	que	_		{}
+21	su	_		{}
+22	equipo	_	Organization	{"Members": "22"}
+23	cayó	_		{}
+24	derrotado	_	Beat_opponent	{"Winner": "15", "Loser": "22"}
+25	por	_		{}
+26	4-2	_		{}
+27	.	_		{}

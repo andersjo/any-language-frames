@@ -1,0 +1,17 @@
+1	Obwohl	_		{}
+2	die	_		{}
+3	Geschichte	_	Individual_history	{"Participant": "5"}
+4	von	_		{}
+5	Maddy	_		{}
+6	erzählt	_	Speak_on_topic	{"Topic": "3"}
+7	wird	_		{}
+8	,	_		{}
+9	ist	_		{}
+10	Legs	_		{}
+11	das	_		{}
+12	Thema	_	Topic	{"Topic": "10"}
+13	und	_	Simultaneity	{"Profiled_event": "12", "Landmark_event": "15"}
+14	der	_		{}
+15	Katalysator	_		{}
+16	.	_		{}
+17	“	_		{}

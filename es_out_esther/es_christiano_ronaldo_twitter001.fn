@@ -1,0 +1,28 @@
+1	Le	_		{}
+2	di	_		{}
+3	a	_		{}
+4	uno	_		{}
+5	re	_		{}
+6	lindo	_	Aesthetics	{"Attribute": "6", "Degree": "5", "Entity": "4"}
+7	que	_		{}
+8	se	_		{}
+9	re	_		{}
+10	parecía	_		{}
+11	a	_		{}
+12	Christiano	_		{}
+13	Ronaldo	_		{}
+14	y	_		{}
+15	dsp	_		{}
+16	este	_	Proper_reference	{"Intended_referent": "17", "Entity": "17"}
+17	flaco	_	Body_description_holistic	{"Individual": "17", "Figure": "17"}
+18	me	_		{}
+19	decía	_		{}
+20	corte	_		{}
+21	celoso	_	Emotion_directed	{"Stimulus": "17", "Topic": "21", "State": "21", "Experiencer": "25", "Expressor": "17", "Event": "19"}
+22	que	_		{}
+23	era	_	Being_in_category	{"Category": "21", "Item": "25", "Criteria": "17"}
+24	re	_		{}
+25	yo	_		{}
+26	jajajajaj	_		{}
+27	,	_		{}
+28	andaaaa	_		{}

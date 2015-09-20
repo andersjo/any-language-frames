@@ -1,0 +1,14 @@
+1	#Orleans	_		{}
+2	#Saints	_		{}
+3	New	_	Age	{"Age": "3", "Entity": "4"}
+4	Orleans	_		{}
+5	Saints	_	People_by_morality	{"Origin": "4", "Person": "5"}
+6	Superbowl	_		{}
+7	Flag	_	Rewards_and_punishments	{}
+8	2010	_		{}
+9	New	_	Age	{"Age": "9", "Entity": "7"}
+10	in	_		{}
+11	Package	_	Aggregate	{"Aggregate": "11"}
+12	http://t.co/vYWH2luI1D	_		{}
+13	#Google	_		{}
+14	#Trends	_		{}

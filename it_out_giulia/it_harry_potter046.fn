@@ -1,0 +1,40 @@
+1	Le	_		{}
+2	indiscrezioni	_		{}
+3	circolate	_	Dispersal	{"Individuals": "2"}
+4	nel	_		{}
+5	2004	_		{}
+6	,	_		{}
+7	che	_		{}
+8	davano	_	Statement	{"Topic": "12"}
+9	come	_		{}
+10	possibile	_		{}
+11	la	_		{}
+12	stesura	_		{}
+13	da	_		{}
+14	parte	_		{}
+15	della	_		{}
+16	Rowling	_		{}
+17	di	_		{}
+18	un	_		{}
+19	ottavo	_	Ordinal_numbers	{"Comparison_set": "22", "Item": "20"}
+20	libro	_	Text	{"Text": "20"}
+21	della	_		{}
+22	serie	_	Sequence	{}
+23	,	_		{}
+24	sono	_		{}
+25	state	_		{}
+26	smentite	_		{}
+27	dalla	_		{}
+28	scrittrice	_		{}
+29	dichiarando	_	Speak_on_topic	{"Speaker": "28"}
+30	che	_		{}
+31	con	_		{}
+32	il	_		{}
+33	settimo	_		{}
+34	libro	_	Text	{"Text": "34"}
+35	vengono	_	Becoming	{"Entity": "39"}
+36	risolti	_		{}
+37	tutti	_	Quantity	{"Individuals": "39", "Quantity": "37"}
+38	i	_		{}
+39	quesiti	_	Questioning	{}
+40	.	_		{}

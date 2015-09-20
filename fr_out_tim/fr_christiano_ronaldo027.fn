@@ -1,0 +1,24 @@
+1	Du	_		{}
+2	fait	_		{}
+3	de	_		{}
+4	sa	_		{}
+5	qualité	_	Capability	{"Entity": "9"}
+6	de	_		{}
+7	jeu	_	Competition	{"Participant_1": "9"}
+8	,	_		{}
+9	il	_		{}
+10	joue	_	Competition	{"Participant_2": "14", "Participant_1": "9"}
+11	fréquemment	_	Frequency	{"Event": "10"}
+12	contre	_		{}
+13	des	_		{}
+14	joueurs	_	Competition	{"Participants": "14"}
+15	de	_		{}
+16	un	_	Cardinal_numbers	{"Number": "16", "Entity": "19"}
+17	ou	_		{}
+18	deux	_	Cardinal_numbers	{"Number": "18", "Entity": "19"}
+19	ans	_	Age	{"Age": "18", "Entity": "14"}
+20	de	_		{}
+21	plus	_		{}
+22	que	_		{}
+23	lui	_		{}
+24	.	_		{}

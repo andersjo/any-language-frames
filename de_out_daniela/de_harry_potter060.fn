@@ -1,0 +1,23 @@
+1	Umgekehrt	_		{}
+2	können	_		{}
+3	sich	_		{}
+4	Zauberer	_		{}
+5	und	_	Simultaneity	{"Profiled_event": "6", "Landmark_event": "4"}
+6	Hexen	_		{}
+7	ungehindert	_		{}
+8	in	_		{}
+9	der	_		{}
+10	nichtmagischen	_		{}
+11	Welt	_	Locale	{"Locale": "11"}
+12	bewegen	_	Self_motion	{"Self_mover": "4", "Area": "11"}
+13	,	_		{}
+14	viele	_	Quantity	{"Individuals": "16", "Quantity": "14"}
+15	von	_		{}
+16	ihnen	_		{}
+17	meiden	_	Avoiding	{"Agent": "16", "Undesirable_situation": "20"}
+18	jedoch	_		{}
+19	die	_		{}
+20	Gesellschaft	_		{}
+21	von	_		{}
+22	Muggeln	_		{}
+23	.	_		{}

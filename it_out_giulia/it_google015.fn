@@ -1,0 +1,27 @@
+1	Il	_		{}
+2	18	_		{}
+3	ottobre	_	Calendric_unit	{"Whole": "4", "Unit": "2"}
+4	2013	_		{}
+5	il	_		{}
+6	valore	_		{}
+7	delle	_		{}
+8	azioni	_		{}
+9	Google	_		{}
+10	sale	_		{}
+11	del	_		{}
+12	13	_	Quantity	{"Individuals": "8"}
+13	,	_		{}
+14	8%	_		{}
+15	,	_		{}
+16	superando	_	Surpassing	{"Attribute": "24", "Standard_item": "6", "Profiled_item": "22", "Extent": "12"}
+17	per	_		{}
+18	la	_		{}
+19	prima	_	First_experience	{"Experience": "20"}
+20	volta	_	Event_instance	{"Instance": "19", "Event": "10"}
+21	il	_		{}
+22	valore	_	Quantity	{}
+23	di	_		{}
+24	1000$	_		{}
+25	per	_		{}
+26	azione	_	Documents	{"Issuer": "9"}
+27	.	_		{}

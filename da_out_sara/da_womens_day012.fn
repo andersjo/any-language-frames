@@ -1,0 +1,31 @@
+1	I	_		{}
+2	praksis	_	Practice	{"Occasion": "2"}
+3	ville	_		{}
+4	man	_		{}
+5	vægte	_		{}
+6	fire	_	Cardinal_numbers	{"Number": "6", "Entity": "7"}
+7	hovedpunkter	_		{}
+8	:	_		{}
+9	kampen	_	Hostile_encounter	{"Purpose": "11"}
+10	for	_		{}
+11	kvindevalgretten	_		{}
+12	,	_		{}
+13	kampen	_	Hostile_encounter	{}
+14	for	_		{}
+15	,	_		{}
+16	kampen	_	Hostile_encounter	{"Issue": "18"}
+17	for	_		{}
+18	krigsfaren	_		{}
+19	,	_		{}
+20	kampen	_	Hostile_encounter	{"Purpose": "22"}
+21	for	_		{}
+22	omsorg	_		{}
+23	af	_		{}
+24	mødre	_	Aggregate	{"Individuals": "24"}
+25	og	_		{}
+26	børn	_	People_by_age	{"Person": "26"}
+27	,	_		{}
+28	kampen	_	Hostile_encounter	{"Issue": "30"}
+29	mod	_		{}
+30	prisstigninger	_		{}
+31	.	_		{}

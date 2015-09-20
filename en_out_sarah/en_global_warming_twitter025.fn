@@ -1,0 +1,23 @@
+1	"	_		{}
+2	Do	_		{}
+3	you	_		{}
+4	believe	_	Certainty	{"Topic": "7", "Content": "7", "Cognizer": "3"}
+5	in	_		{}
+6	Global	_	Political_locales	{"Locale": "6"}
+7	Warming	_		{}
+8	?	_		{}
+9	Yet	_	Simultaneity	{"Profiled_event": "10", "Landmark_event": "4"}
+10	you're	_		{}
+11	cold	_	Subjective_temperature	{"Experiencer": "10"}
+12	"	_		{}
+13	..	_		{}
+14	face	_	Facial_expression	{"Expression": "16"}
+15	meet	_	Come_together	{"Party_2": "16", "Party_1": "14"}
+16	palm	_		{}
+17	,	_		{}
+18	Donald	_		{}
+19	Trump	_		{}
+20	that	_		{}
+21	was	_	Being_in_category	{"Category": "22", "Item": "18"}
+22	idiotic	_		{}
+23	#CelebrityApprentice	_		{}

@@ -1,0 +1,47 @@
+1	Nach	_	Relative_time	{"Focal_occasion": "35", "Focal_participant": "15", "Landmark_occasion": "6"}
+2	einer	_		{}
+3	Rolle	_		{}
+4	in	_		{}
+5	dem	_		{}
+6	Thriller	_		{}
+7	"	_		{}
+8	Without	_		{}
+9	Evidence	_		{}
+10	"	_		{}
+11	(	_		{}
+12	1995	_		{}
+13	)	_		{}
+14	spielte	_	Performers_and_roles	{"Performer": "15", "Performer1": "22", "Performer2": "25", "Role": "32", "Time": "45", "Type": "35"}
+15	Jolie	_		{}
+16	an	_		{}
+17	der	_		{}
+18	Seite	_		{}
+19	von	_		{}
+20	Jonny	_		{}
+21	Lee	_		{}
+22	Miller	_		{}
+23	und	_	Simultaneity	{"Profiled_event": "22", "Landmark_event": "25"}
+24	Matthew	_		{}
+25	Lillard	_		{}
+26	die	_		{}
+27	Hackerin	_		{}
+28	Kate	_		{}
+29	„Acid	_		{}
+30	Burn	_		{}
+31	“	_		{}
+32	Libby	_		{}
+33	in	_		{}
+34	dem	_		{}
+35	Spielfilm	_	Physical_artworks	{"Artifact": "35", "Time_of_creation": "45"}
+36	"	_		{}
+37	Hackers	_		{}
+38	–	_		{}
+39	Im	_		{}
+40	Netz	_	Network	{"Network": "42"}
+41	des	_		{}
+42	FBI	_		{}
+43	"	_		{}
+44	(	_		{}
+45	1995	_		{}
+46	)	_		{}
+47	.	_		{}

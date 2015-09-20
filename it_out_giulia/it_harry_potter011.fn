@@ -1,0 +1,58 @@
+1	La	_		{}
+2	serie	_	Sequence	{}
+3	di	_		{}
+4	film	_	Physical_artworks	{"Artifact": "4"}
+5	tratti	_	Create_representation	{"Represented": "7"}
+6	dalla	_		{}
+7	saga	_	Text	{"Text": "7"}
+8	è	_		{}
+9	stata	_		{}
+10	la	_		{}
+11	più	_		{}
+12	remunerativa	_		{}
+13	della	_		{}
+14	storia	_	History	{"Topic": "16"}
+15	di	_		{}
+16	Hollywood	_		{}
+17	,	_		{}
+18	e	_		{}
+19	l'opera	_		{}
+20	nel	_		{}
+21	suo	_		{}
+22	complesso	_		{}
+23	ha	_		{}
+24	avuto	_		{}
+25	e	_		{}
+26	ha	_		{}
+27	tuttora	_	Continued_state_of_affairs	{"State_of_affairs": "29"}
+28	un	_		{}
+29	impatto	_	Objective_influence	{"Influencing_entity": "19", "Dependent_entity": "32"}
+30	fortissimo	_		{}
+31	sulla	_		{}
+32	cultura	_		{}
+33	popolare	_		{}
+34	di	_		{}
+35	tutto	_	Quantity	{"Mass": "37", "Quantity": "35"}
+36	il	_		{}
+37	mondo	_	Locale	{"Locale": "37"}
+38	(	_		{}
+39	anche	_		{}
+40	nella	_		{}
+41	musica	_	Performing_arts	{}
+42	,	_		{}
+43	dando	_		{}
+44	vita	_		{}
+45	addirittura	_		{}
+46	ad	_		{}
+47	un	_		{}
+48	genere	_	Type	{"Category": "41", "Subtype": "55"}
+49	totalmente	_	Completeness	{}
+50	correlato	_		{}
+51	alla	_		{}
+52	serie	_	Sequence	{}
+53	,	_		{}
+54	il	_		{}
+55	wizard	_		{}
+56	rock	_		{}
+57	)	_		{}
+58	.	_		{}

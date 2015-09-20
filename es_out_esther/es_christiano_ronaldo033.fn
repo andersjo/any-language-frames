@@ -1,0 +1,13 @@
+1	Fue	_		{}
+2	observado	_	Perception_active	{"Perceiver_agentive": "8"}
+3	por	_		{}
+4	primera	_	First_experience	{"Experience": "5", "Context": "2"}
+5	vez	_	Event_instance	{"Instance": "2", "Instance_Prop": "8", "Event": "2"}
+6	por	_		{}
+7	Gérard	_		{}
+8	Houllier	_		{}
+9	el	_		{}
+10	gerente	_	Leadership	{"Role": "10", "Governed": "12", "Activity": "10"}
+11	del	_		{}
+12	Liverpool	_		{}
+13	F.C.	_		{}

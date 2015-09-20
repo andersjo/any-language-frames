@@ -1,0 +1,42 @@
+1	Ferguson	_		{}
+2	suchte	_	Seeking	{"Cognizer_agent": "1", "Sought_entity": "15"}
+3	nach	_	Time_vector	{"Direction": "3", "Landmark_event": "5", "Event": "2"}
+4	dem	_		{}
+5	Wechsel	_		{}
+6	von	_		{}
+7	David	_		{}
+8	Beckham	_		{}
+9	zu	_		{}
+10	Real	_		{}
+11	Madrid	_		{}
+12	primär	_		{}
+13	nach	_		{}
+14	einem	_		{}
+15	Nachfolger	_	Take_place_of	{"Function": "15", "New": "28", "Old": "8", "Role": "19"}
+16	auf	_		{}
+17	der	_		{}
+18	rechten	_	Part_orientational	{"Part": "18", "Whole": "19"}
+19	Mittelfeldposition	_		{}
+20	und	_	Simultaneity	{"Profiled_event": "2", "Landmark_event": "21"}
+21	entschied	_		{}
+22	sich	_		{}
+23	schließlich	_	Time_vector	{"Landmark_event": "5", "Event": "25"}
+24	zur	_		{}
+25	Verpflichtung	_	Being_obligated	{"Responsible_party": "28"}
+26	von	_		{}
+27	Cristiano	_		{}
+28	Ronaldo	_		{}
+29	,	_		{}
+30	der	_		{}
+31	damit	_		{}
+32	zum	_		{}
+33	ersten	_	Ordinal_numbers	{"Item": "28", "Type": "34"}
+34	Portugiesen	_		{}
+35	in	_		{}
+36	der	_		{}
+37	Vereinsgeschichte	_		{}
+38	von	_		{}
+39	Manchester	_		{}
+40	United	_		{}
+41	wurde	_		{}
+42	.	_		{}

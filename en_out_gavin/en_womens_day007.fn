@@ -1,0 +1,42 @@
+1	The	_		{}
+2	earliest	_	Relative_time	{"Focal_occasion": "6", "Focal_participant": "5"}
+3	Women’s	_		{}
+4	Day	_	Calendric_unit	{"Name": "3", "Unit": "4"}
+5	observance	_	Compliance	{"Time": "8", "Act": "5"}
+6	was	_		{}
+7	held	_		{}
+8	on	_		{}
+9	February	_	Calendric_unit	{"Unit": "9"}
+10	28	_		{}
+11	,	_		{}
+12	1909	_		{}
+13	,	_		{}
+14	in	_		{}
+15	New	_	Age	{"Age": "15", "Entity": "16"}
+16	York	_		{}
+17	;	_		{}
+18	it	_		{}
+19	was	_		{}
+20	organized	_	Activity_prepare	{"Agent": "21", "Activity": "18"}
+21	by	_		{}
+22	the	_		{}
+23	Socialist	_		{}
+24	Party	_	Membership	{"Group": "24"}
+25	of	_		{}
+26	America	_	People_by_origin	{"Origin": "26", "Person": "24"}
+27	in	_		{}
+28	remembrance	_	Memory	{"Topic": "29"}
+29	of	_		{}
+30	the	_		{}
+31	1908	_		{}
+32	strike	_	Hit_target	{"Agent": "41"}
+33	of	_		{}
+34	the	_		{}
+35	International	_	Foreign_or_domestic_country	{"Current_country": "35"}
+36	Ladies	_	People	{"Origin": "35", "Person": "36"}
+37	'	_		{}
+38	Garment	_	Clothing	{"Garment": "38"}
+39	Workers	_	Employing	{"Employee": "39", "Field": "38"}
+40	'	_		{}
+41	Union	_	Organization	{"Organization": "41", "Name": "35", "Members": "39"}
+42	.	_		{}

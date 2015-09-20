@@ -1,0 +1,13 @@
+1	Planet	_		{}
+2	Green	_	Color	{"Color": "2", "Entity": "3"}
+3	Socks	_	Clothing	{"Descriptor": "2", "Garment": "3"}
+4	–	_		{}
+5	January	_	Calendric_unit	{"Unit": "5"}
+6	3	_	Cardinal_numbers	{"Number": "6"}
+7	,	_		{}
+8	2015	_		{}
+9	:	_		{}
+10	Adjusting	_	Adjusting	{}
+11	.	_		{}
+12	#twentysomething	_		{}
+13	http://t.co/cuYVdN3rFY	_		{}

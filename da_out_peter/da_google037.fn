@@ -1,0 +1,31 @@
+1	TrackMeNot	_		{}
+2	udsender	_		{}
+3	periodisk	_	Frequency	{"Interval": "3", "Salient_entity": "1", "Event": "2"}
+4	tilfælde	_	Coincidence	{"State_of_affairs": "5"}
+5	søgninger	_		{}
+6	i	_		{}
+7	forskellige	_	Similarity	{"Entities": "8"}
+8	søgemaskiner	_		{}
+9	,	_		{}
+10	såsom	_		{}
+11	AOL	_		{}
+12	,	_		{}
+13	Yahoo	_		{}
+14	!,	_		{}
+15	ASK	_		{}
+16	,	_		{}
+17	Google	_		{}
+18	,	_		{}
+19	og	_		{}
+20	Bing	_		{}
+21	som	_		{}
+22	derved	_		{}
+23	forvirrer	_		{}
+24	diverse	_	Diversity	{"Group": "25"}
+25	søgemaskiner	_		{}
+26	i	_		{}
+27	deres	_		{}
+28	logging	_		{}
+29	af	_		{}
+30	brugerinformationer	_		{}
+31	.	_		{}

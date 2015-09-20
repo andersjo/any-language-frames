@@ -1,0 +1,29 @@
+1	Dort	_	Locative_relation	{"Ground": "1"}
+2	hatten	_		{}
+3	Frauen	_	People	{"Person": "3"}
+4	der	_		{}
+5	Sozialistischen	_		{}
+6	Partei	_		{}
+7	Amerikas	_	People_by_origin	{"Origin": "7"}
+8	(	_		{}
+9	SPA	_		{}
+10	)	_		{}
+11	1908	_		{}
+12	ein	_		{}
+13	Nationales	_	Political_locales	{"Locale": "13"}
+14	Frauenkomitee	_		{}
+15	gegründet	_		{}
+16	,	_		{}
+17	welches	_		{}
+18	beschloss	_		{}
+19	,	_		{}
+20	einen	_		{}
+21	besonderen	_		{}
+22	nationalen	_	Political_locales	{"Locale": "22"}
+23	Kampftag	_		{}
+24	für	_		{}
+25	das	_		{}
+26	Frauenstimmrecht	_		{}
+27	zu	_		{}
+28	initiieren	_		{}
+29	.	_		{}

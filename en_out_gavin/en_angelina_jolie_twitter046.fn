@@ -1,0 +1,31 @@
+1	What	_		{}
+2	I	_		{}
+3	have	_		{}
+4	learned	_	Awareness	{"Content": "1", "Cognizer": "2", "Time": "6"}
+5	this	_	Proper_reference	{}
+6	day	_	Calendric_unit	{"Unit": "6"}
+7	.	_		{}
+8	Wow	_		{}
+9	.	_		{}
+10	Never	_	Frequency	{"Event": "11"}
+11	assume	_	Awareness	{"Content": "12", "Topic": "13"}
+12	what	_		{}
+13	God	_	Existence	{"Entity": "13"}
+14	can	_	Capability	{"Entity": "13"}
+15	and	_		{}
+16	will	_		{}
+17	do	_		{}
+18	,	_		{}
+19	and	_		{}
+20	who	_		{}
+21	He	_		{}
+22	will	_		{}
+23	use	_	Using	{"Instrument": "20", "Purpose": "25", "Agent": "21"}
+24	to	_		{}
+25	do	_		{}
+26	it	_		{}
+27	.	_		{}
+28	I	_		{}
+29	am	_	Existence	{"Entity": "28"}
+30	...	_		{}
+31	http://t.co/SOB9UUkMVy	_		{}

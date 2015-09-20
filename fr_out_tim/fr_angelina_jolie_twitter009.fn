@@ -1,0 +1,21 @@
+1	À	_		{}
+2	la	_		{}
+3	Une	_		{}
+4	de	_		{}
+5	Télé	_		{}
+6	2	_		{}
+7	semaines	_		{}
+8	:	_		{}
+9	les	_		{}
+10	25	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	films	_	Physical_artworks	{"Artifact": "11"}
+12	événements	_	Event	{"Time": "14"}
+13	de	_		{}
+14	2015	_		{}
+15	et	_		{}
+16	interview	_	Discussion	{"Interlocutor_1": "17"}
+17	d'Angelina	_		{}
+18	Jolie	_		{}
+19	>>	_		{}
+20	http://t.co/XAYH3Ewd9g	_		{}
+21	http://t.co/S9R2knyCNg	_		{}

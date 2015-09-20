@@ -1,0 +1,22 @@
+1	In	_		{}
+2	May	_	Calendric_unit	{"Whole": "3", "Unit": "2"}
+3	2012	_		{}
+4	,	_		{}
+5	he	_		{}
+6	become	_	Becoming	{"Entity": "5", "Time": "1"}
+7	the	_		{}
+8	first	_	Ordinal_numbers	{"Comparison_set": "9", "Basis_of_order": "11"}
+9	footballer	_		{}
+10	to	_		{}
+11	score	_	Successful_action	{"Protagonist": "5"}
+12	against	_		{}
+13	every	_		{}
+14	team	_	Organization	{"Organization": "14"}
+15	in	_		{}
+16	a	_	Cardinal_numbers	{"Number": "16", "Entity": "18"}
+17	single	_	Sole_instance	{"Item": "18"}
+18	season	_	Sequence	{"Entity1": "18"}
+19	in	_		{}
+20	La	_		{}
+21	Liga	_		{}
+22	.	_		{}

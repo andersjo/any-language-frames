@@ -1,0 +1,26 @@
+1	Men	_		{}
+2	det	_		{}
+3	handler	_		{}
+4	også	_		{}
+5	om	_		{}
+6	hvem	_		{}
+7	der	_		{}
+8	skal	_		{}
+9	bestemme	_	Control	{"Controlling_entity": "6"}
+10	,	_		{}
+11	hvilken	_		{}
+12	side	_	Locale_by_ownership	{"Locale": "12"}
+13	,	_		{}
+14	der	_		{}
+15	skal	_		{}
+16	vises	_	Coming_to_be	{"Entity": "12", "Time": "17"}
+17	først	_	First_experience	{"Experience": "16", "Context": "22"}
+18	i	_		{}
+19	forbindelse	_	Connectors	{"Connector": "22"}
+20	med	_		{}
+21	en	_		{}
+22	internetsøgning	_		{}
+23	(	_		{}
+24	rangordning	_		{}
+25	)	_		{}
+26	.	_		{}

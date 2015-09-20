@@ -1,0 +1,23 @@
+1	Lmaooo	_		{}
+2	how	_		{}
+3	embarrassing	_	Emotion_directed	{"Stimulus": "5"}
+4	is	_	Being_in_category	{"Category": "3", "Item": "5"}
+5	it	_		{}
+6	to	_		{}
+7	trash	_	Substance	{"Substance": "7"}
+8	talk	_	Communication	{"Topic": "7", "Addressee": "10", "Time": "12"}
+9	Christiano	_		{}
+10	Ronaldo	_		{}
+11	right	_		{}
+12	before	_	Relative_time	{"Focal_occasion": "8", "Landmark_occasion": "15"}
+13	a	_	Cardinal_numbers	{"Number": "13", "Entity": "15"}
+14	penalty	_	Rewards_and_punishments	{}
+15	kick	_	Cause_harm	{}
+16	and	_		{}
+17	then	_	Temporal_collocation	{"Trajector_event": "21", "Landmark_event": "15"}
+18	have	_		{}
+19	him	_		{}
+20	completely	_	Degree	{"Gradable_attribute": "21"}
+21	fool	_	Manipulate_into_doing	{"Manipulator": "19", "Degree": "20", "Victim": "22"}
+22	you	_	Awareness	{}
+23	?	_		{}

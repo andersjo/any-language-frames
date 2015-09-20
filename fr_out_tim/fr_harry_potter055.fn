@@ -1,0 +1,21 @@
+1	Le	_		{}
+2	deuxième	_	Ordinal_numbers	{"Item": "3"}
+3	agent	_	People_by_vocation	{"Person": "3"}
+4	contacté	_		{}
+5	,	_		{}
+6	Christopher	_		{}
+7	Little	_		{}
+8	,	_		{}
+9	s'est	_		{}
+10	proposé	_		{}
+11	de	_		{}
+12	la	_		{}
+13	représenter	_	Representing	{"Phenomenon": "3", "Entity": "12"}
+14	et	_		{}
+15	a	_		{}
+16	transmis	_	Transfer	{"Donor": "3", "Theme": "18", "Recipient": "20"}
+17	le	_		{}
+18	manuscrit	_	Text	{"Text": "18"}
+19	à	_		{}
+20	Bloomsbury	_		{}
+21	.	_		{}

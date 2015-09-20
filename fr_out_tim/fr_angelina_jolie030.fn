@@ -1,0 +1,53 @@
+1	Elle	_		{}
+2	reprend	_	Activity_resume	{"Agent": "1", "Activity": "4"}
+3	ses	_		{}
+4	études	_		{}
+5	de	_		{}
+6	comédie	_		{}
+7	et	_		{}
+8	obtient	_	Receiving	{"Theme": "10", "Recipient": "1"}
+9	son	_		{}
+10	diplôme	_	Documents	{"Status": "11", "Document": "10", "Bearer": "9"}
+11	d'études	_		{}
+12	secondaires	_		{}
+13	;	_		{}
+14	récemment	_	Temporal_collocation	{"Trajector_event": "17"}
+15	,	_		{}
+16	elle	_		{}
+17	évoquait	_	Speak_on_topic	{"Topic": "19", "Speaker": "16"}
+18	cette	_		{}
+19	période	_	Location_in_time	{}
+20	en	_		{}
+21	disant	_		{}
+22	:	_		{}
+23	Elle	_		{}
+24	évoque	_	Speak_on_topic	{"Topic": "27", "Speaker": "23"}
+25	plus	_		{}
+26	tard	_	Temporal_collocation	{"Trajector_event": "24"}
+27	l'époque	_		{}
+28	où	_		{}
+29	elle	_		{}
+30	était	_		{}
+31	étudiante	_	Education_teaching	{"Student": "29"}
+32	à	_		{}
+33	la	_		{}
+34	ainsi	_		{}
+35	que	_		{}
+36	son	_		{}
+37	sentiment	_		{}
+38	de	_		{}
+39	solitude	_		{}
+40	parmi	_		{}
+41	les	_		{}
+42	enfants	_	Kinship	{"Ego": "46", "Alter": "42"}
+43	de	_		{}
+44	certaines	_		{}
+45	des	_		{}
+46	familles	_	Kinship	{}
+47	les	_		{}
+48	plus	_		{}
+49	riches	_	Wealthiness	{"Person": "46"}
+50	de	_		{}
+51	la	_		{}
+52	région	_	Political_locales	{"Locale": "52"}
+53	.	_		{}

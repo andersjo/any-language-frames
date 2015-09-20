@@ -1,0 +1,34 @@
+1	"	_		{}
+2	Harry	_		{}
+3	Potter	_		{}
+4	"	_		{}
+5	è	_		{}
+6	esploso	_		{}
+7	nel	_		{}
+8	1997	_		{}
+9	come	_		{}
+10	fenomeno	_		{}
+11	letterario	_		{}
+12	in	_		{}
+13	Inghilterra	_		{}
+14	,	_		{}
+15	dove	_		{}
+16	in	_		{}
+17	quell'anno	_		{}
+18	il	_		{}
+19	primo	_	Ordinal_numbers	{"Comparison_set": "22", "Item": "20"}
+20	romanzo	_	Text	{"Text": "20"}
+21	della	_		{}
+22	serie	_	Sequence	{"Entity1": "20"}
+23	usciva	_		{}
+24	col	_		{}
+25	titolo	_		{}
+26	"	_		{}
+27	Harry	_		{}
+28	Potter	_		{}
+29	and	_		{}
+30	the	_		{}
+31	Philosopher's	_		{}
+32	Stone	_		{}
+33	"	_		{}
+34	.	_		{}

@@ -1,0 +1,21 @@
+1	Jolie	_		{}
+2	tiene	_	Possession	{"Owner": "1", "Possession": "3"}
+3	Ascendencia	_	Boundary	{"Boundary": "3", "Entity": "1"}
+4	alemana	_	People_by_origin	{"Persistent_characteristic": "3", "Person": "1"}
+5	y	_		{}
+6	checoslovaca	_		{}
+7	,	_		{}
+8	y	_		{}
+9	su	_		{}
+10	madre	_	Kinship	{"Relatives": "1"}
+11	era	_	Being_in_category	{"Category": "10", "Item": "13"}
+12	de	_		{}
+13	ascendencia	_	Origin	{"Origin": "14", "Entity": "10"}
+14	franco-canadiense	_		{}
+15	,	_		{}
+16	nacida	_	Birth	{"Place": "18", "Child": "10"}
+17	en	_		{}
+18	Riverdale	_		{}
+19	,	_		{}
+20	Illinois	_		{}
+21	.	_		{}

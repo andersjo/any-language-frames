@@ -1,0 +1,28 @@
+1	g	_		{}
+2	prêter	_		{}
+3	2sec	_		{}
+4	mon	_		{}
+5	portable	_		{}
+6	à	_		{}
+7	mon	_		{}
+8	frère	_	Kinship	{"Ego": "7", "Alter": "8"}
+9	jvois	_		{}
+10	quoi	_		{}
+11	sur	_		{}
+12	l'historique	_		{}
+13	de	_		{}
+14	recherche	_	Research	{"Researcher": "8", "Question": "19"}
+15	google	_		{}
+16	"	_		{}
+17	-	_		{}
+18	le	_		{}
+19	plus	_		{}
+20	beau	_	Desirability	{"Evaluee": "21"}
+21	kebape	_		{}
+22	;	_		{}
+23	xbox	_		{}
+24	one	_		{}
+25	;	_		{}
+26	moche	_	Aesthetics	{}
+27	"	_		{}
+28	mdddddr	_		{}

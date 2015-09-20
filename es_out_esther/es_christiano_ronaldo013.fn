@@ -1,0 +1,42 @@
+1	Internacional	_	Foreign_or_domestic_country	{"Current_country": "6", "Discourse_salient_country": "1"}
+2	absoluto	_	Fullness	{}
+3	con	_		{}
+4	la	_		{}
+5	selección	_	Taking_sides	{"Side": "6"}
+6	portuguesa	_	Origin	{"Origin": "6", "Entity": "5"}
+7	desde	_		{}
+8	2003	_		{}
+9	,	_		{}
+10	ha	_		{}
+11	disputado	_	Quarreling	{}
+12	tres	_	Cardinal_numbers	{"Number": "12", "Entity": "13"}
+13	Eurocopas	_		{}
+14	y	_		{}
+15	tres	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	Mundiales	_	Political_locales	{"Locale": "16"}
+17	en	_		{}
+18	donde	_		{}
+19	sus	_		{}
+20	máximos	_	Extreme_value	{"Attribute": "21", "Entity": "21"}
+21	logros	_	Accomplishment	{"Goal": "25"}
+22	fueron	_	Being_in_category	{"Category": "25"}
+23	en	_		{}
+24	las	_		{}
+25	Eurocopas	_		{}
+26	de	_		{}
+27	Portugal	_		{}
+28	2004	_		{}
+29	y	_		{}
+30	Polonia	_		{}
+31	y	_		{}
+32	Ucrania	_		{}
+33	2012	_		{}
+34	en	_		{}
+35	las	_		{}
+36	que	_		{}
+37	fue	_	Being_in_category	{"Category": "38", "Item": "38"}
+38	subcampeón	_		{}
+39	y	_		{}
+40	semifinalista	_		{}
+41	respectivamente	_	Diversity	{"Group": "38"}
+42	.	_		{}

@@ -1,0 +1,31 @@
+1	Par	_		{}
+2	exemple	_		{}
+3	,	_		{}
+4	Caffeine	_		{}
+5	a	_		{}
+6	pour	_		{}
+7	but	_	Purpose	{"Attribute": "10", "Goal": "8", "Agent": "4"}
+8	d'augmenter	_		{}
+9	la	_		{}
+10	rapidité	_	Speed	{"Attribute": "10", "Entity": "12"}
+11	du	_		{}
+12	traitement	_		{}
+13	des	_		{}
+14	pages	_		{}
+15	web	_	Network	{"Nodes": "14", "Network": "15"}
+16	afin	_		{}
+17	de	_		{}
+18	les	_		{}
+19	indexer	_		{}
+20	plus	_		{}
+21	rapidement	_	Speed	{"Speed": "21", "Entity": "19"}
+22	(	_		{}
+23	il	_		{}
+24	aurait	_		{}
+25	ainsi	_		{}
+26	gagné	_		{}
+27	50	_	Cardinal_numbers	{"Number": "27", "Entity": "28"}
+28	%	_		{}
+29	en	_		{}
+30	rapidité)	_		{}
+31	.	_		{}

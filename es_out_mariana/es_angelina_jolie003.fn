@@ -1,0 +1,14 @@
+1	Actualmente	_	Temporal_collocation	{"Trajector_entity": "13", "Trajector_event": "3", "Landmark_period": "1"}
+2	forma	_	Aggregate	{"Aggregate": "5", "Domain": "9", "Individuals": "3", "Container_possessor": "9", "Name": "5"}
+3	parte	_	Membership	{"Standing": "9", "Group": "5"}
+4	del	_		{}
+5	Alto	_		{}
+6	Comisario	_	Leadership	{"Role": "5", "Governed": "13", "Activity": "13"}
+7	de	_		{}
+8	las	_		{}
+9	Naciones	_		{}
+10	Unidas	_		{}
+11	para	_		{}
+12	los	_		{}
+13	Refugiados	_		{}
+14	.	_		{}

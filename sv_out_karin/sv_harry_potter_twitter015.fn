@@ -1,0 +1,28 @@
+1	Jag	_		{}
+2	har	_		{}
+3	lallat	_		{}
+4	runt	_		{}
+5	hela	_		{}
+6	dagen	_	Timespan	{"Duration": "5", "State": "3"}
+7	och	_	Simultaneity	{"Profiled_event": "3", "Landmark_event": "8"}
+8	tränat	_		{}
+9	på	_		{}
+10	"	_		{}
+11	medvetande	_	Awareness	{"Topic": "13"}
+12	i	_		{}
+13	nuet	_		{}
+14	"	_		{}
+15	,	_		{}
+16	klappat	_		{}
+17	hästar	_		{}
+18	och	_	Simultaneity	{"Profiled_event": "16", "Landmark_event": "19"}
+19	läst	_		{}
+20	Harry	_		{}
+21	Potter	_		{}
+22	,	_		{}
+23	så	_	Temporal_collocation	{"Trajector_event": "27", "Landmark_event": "19"}
+24	jag	_	Proper_reference	{"Intended_referent": "24"}
+25	är	_		{}
+26	lite	_	Degree	{"Gradable_attribute": "27"}
+27	efter	_		{}
+28	.	_		{}

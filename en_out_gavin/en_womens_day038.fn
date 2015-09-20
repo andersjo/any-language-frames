@@ -1,0 +1,27 @@
+1	On	_		{}
+2	the	_		{}
+3	occasion	_	Contingency	{}
+4	of	_		{}
+5	2010	_		{}
+6	International	_	Foreign_or_domestic_country	{"Current_country": "6"}
+7	Women's	_		{}
+8	Day	_	Calendric_unit	{"Name": "7", "Unit": "8"}
+9	the	_		{}
+10	International	_	Foreign_or_domestic_country	{"Current_country": "10"}
+11	Committee	_	Organization	{"Organization": "11", "Name": "10"}
+12	of	_		{}
+13	the	_		{}
+14	Red	_	Color	{"Color": "14", "Entity": "15"}
+15	Cross	_	Adorning	{}
+16	(	_		{}
+17	ICRC	_		{}
+18	)	_		{}
+19	drew	_	Cause_to_perceive	{"Phenomenon": "21", "Agent": "11", "Time": "1"}
+20	attention	_	Attention	{"Figure": "21"}
+21	to	_		{}
+22	the	_		{}
+23	hardships	_	Hindering	{"Action": "26", "Protagonist": "25", "Hindrance": "23"}
+24	displaced	_	Cause_motion	{"Theme": "25"}
+25	women	_	People	{"Descriptor": "24", "Person": "25"}
+26	endure	_	Tolerating	{"Content": "23", "Experiencer": "25"}
+27	.	_		{}

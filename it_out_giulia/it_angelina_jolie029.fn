@@ -1,0 +1,84 @@
+1	Tornata	_		{}
+2	negli	_		{}
+3	Stati	_	Political_locales	{}
+4	Uniti	_		{}
+5	,	_		{}
+6	ritorna	_		{}
+7	a	_		{}
+8	recitare	_	Performers_and_roles	{"Type": "8", "Place": "10"}
+9	in	_		{}
+10	teatro	_	Locale_by_event	{"Locale": "10"}
+11	dove	_		{}
+12	interpreta	_	Performers_and_roles	{"Type": "12", "Role": "17"}
+13	il	_		{}
+14	ruolo	_	Performers_and_roles	{}
+15	di	_		{}
+16	una	_		{}
+17	mistress	_		{}
+18	tedesca	_	People_by_origin	{"Origin": "18", "Person": "17"}
+19	,	_		{}
+20	inoltre	_		{}
+21	partecipa	_		{}
+22	a	_		{}
+23	cinque	_	Cardinal_numbers	{"Number": "23", "Entity": "24"}
+24	film	_	Physical_artworks	{"Artifact": "24"}
+25	studenteschi	_		{}
+26	realizzati	_	Intentionally_create	{"Created_entity": "24", "Creator": "28"}
+27	dal	_		{}
+28	fratello	_	Kinship	{"Alter": "28"}
+29	,	_		{}
+30	mentre	_		{}
+31	frequentava	_	Attending	{"Place": "34", "Agent": "28"}
+32	la	_		{}
+33	USC	_		{}
+34	School	_		{}
+35	of	_		{}
+36	Cinematic	_		{}
+37	Arts	_		{}
+38	,	_		{}
+39	la	_		{}
+40	scuola	_		{}
+41	di	_		{}
+42	cinema	_		{}
+43	della	_		{}
+44	University	_		{}
+45	of	_		{}
+46	Southern	_		{}
+47	California	_		{}
+48	,	_		{}
+49	ma	_	Concessive	{"Topic": "52"}
+50	la	_		{}
+51	sua	_		{}
+52	carriera	_		{}
+53	cinematografica	_		{}
+54	da	_		{}
+55	professionista	_	Expertise	{"Knowledge": "53"}
+56	inizia	_	Activity_start	{"Time": "58", "Activity": "52", "Means": "62"}
+57	nel	_		{}
+58	1993	_		{}
+59	quando	_	Event_instance	{"Event": "60"}
+60	partecipa	_	Participation	{"Event": "62"}
+61	al	_		{}
+62	film	_	Physical_artworks	{"Name": "67", "Artifact": "62", "Time_of_creation": "58"}
+63	a	_		{}
+64	basso	_	Measurable_attributes	{"Entity": "65"}
+65	costo	_	Expensiveness	{"Goods": "62"}
+66	"	_		{}
+67	Cyborg	_		{}
+68	2	_		{}
+69	"	_		{}
+70	,	_		{}
+71	dove	_		{}
+72	interpreta	_	Performers_and_roles	{"Role": "73", "Type": "62"}
+73	Casella	_		{}
+74	"	_		{}
+75	Cash	_		{}
+76	"	_		{}
+77	Reese	_		{}
+78	,	_		{}
+79	un	_		{}
+80	robot	_		{}
+81	dalle	_		{}
+82	sembianze	_		{}
+83	umane	_		{}
+84	.	_		{}

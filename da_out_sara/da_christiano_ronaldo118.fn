@@ -1,0 +1,13 @@
+1	Begge	_		{}
+2	butikker	_		{}
+3	ligger	_	Being_located	{"Theme": "2", "Location": "6"}
+4	to	_	Cardinal_numbers	{"Number": "4", "Entity": "2"}
+5	i	_		{}
+6	Portugal	_		{}
+7	henholdsvis	_		{}
+8	i	_		{}
+9	Lissabon	_		{}
+10	og	_		{}
+11	på	_		{}
+12	Madeira	_		{}
+13	.	_		{}

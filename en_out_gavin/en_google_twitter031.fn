@@ -1,0 +1,19 @@
+1	When	_		{}
+2	you	_		{}
+3	google	_		{}
+4	your	_		{}
+5	laptops	_		{}
+6	error	_	Judgment	{"Evaluee": "6"}
+7	and	_		{}
+8	it's	_		{}
+9	referred	_	Referring_by_name	{"Time": "1", "Name": "14", "Entity": "8"}
+10	to	_		{}
+11	as	_		{}
+12	"	_		{}
+13	blue	_	Color	{"Color": "13", "Entity": "14"}
+14	screen	_	Eclipse	{"Obstruction": "14"}
+15	of	_		{}
+16	death	_	Death	{}
+17	"	_		{}
+18	😨	_		{}
+19	😰	_		{}

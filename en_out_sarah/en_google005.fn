@@ -1,0 +1,21 @@
+1	Together	_	Collaboration	{"Partners": "2", "Degree": "4", "Undertaking": "3"}
+2	they	_		{}
+3	own	_		{}
+4	about	_		{}
+5	14	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	percent	_		{}
+7	of	_		{}
+8	its	_		{}
+9	shares	_	Part_whole	{"Part": "9", "Whole": "8"}
+10	but	_	Simultaneity	{"Profiled_event": "11", "Landmark_event": "3"}
+11	control	_	Be_in_control	{"Manner": "18", "Dependent_entity": "17", "Controlling_entity": "2"}
+12	56	_		{}
+13	of	_		{}
+14	the	_		{}
+15	stockholder	_		{}
+16	voting	_		{}
+17	power	_	Leadership	{"Governed": "15", "Activity": "16"}
+18	through	_		{}
+19	supervoting	_		{}
+20	stock	_		{}
+21	.	_		{}

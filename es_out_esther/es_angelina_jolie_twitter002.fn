@@ -1,0 +1,29 @@
+1	Como	_	Similarity	{"Entity_1": "3", "Dimension": "8"}
+2	el	_		{}
+3	trailer	_		{}
+4	de	_		{}
+5	Unbroken	_		{}
+6	,	_		{}
+7	que	_		{}
+8	dice	_	Sentencing	{"Term_of_sentence": "12", "Sentence": "10"}
+9	"	_		{}
+10	de	_		{}
+11	la	_		{}
+12	DIRECTORA	_	People_by_vocation	{"Person": "13"}
+13	Angelina	_		{}
+14	Jolie	_		{}
+15	"	_		{}
+16	y	_	Simultaneity	{"Profiled_event": "10", "Landmark_event": "17"}
+17	ya	_	Temporal_collocation	{"Trajector_event": "19"}
+18	no	_	Quantity	{}
+19	quieres	_	Desiring	{"Event": "20", "Degree": "21", "Time": "17"}
+20	ver	_	Attention	{"Degree": "21"}
+21	ni	_		{}
+22	madres	_	Kinship	{}
+23	y	_	Simultaneity	{"Profiled_event": "19", "Landmark_event": "24"}
+24	salir	_	Escaping	{"Undesirable_location": "12"}
+25	huyendo	_	Escaping	{"Undesirable_location": "12"}
+26	a	_		{}
+27	la	_		{}
+28	chingada	_	Motion_noise	{}
+29	.	_		{}

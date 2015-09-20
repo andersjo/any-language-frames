@@ -1,0 +1,25 @@
+1	Ако	_		{}
+2	пробие	_		{}
+3	подкрепата	_		{}
+4	,	_		{}
+5	то	_		{}
+6	двойката	_	Cardinal_numbers	{"Entity": "6"}
+7	ще	_		{}
+8	пада	_		{}
+9	още	_	Increment	{}
+10	доста	_	Degree	{"Gradable_attribute": "10"}
+11	и	_		{}
+12	за	_		{}
+13	дълъг	_	Duration_attribute	{"Period": "13"}
+14	период	_	Calendric_unit	{"Relative_time": "14"}
+15	от	_		{}
+16	време	_	Timespan	{"Duration": "16"}
+17	,	_		{}
+18	но	_		{}
+19	не	_		{}
+20	изключвам	_		{}
+21	и	_		{}
+22	възможността	_	Likelihood	{"Hypothetical_event": "22"}
+23	за	_		{}
+24	…	_		{}
+25	https://t.co/y4V36nUlkA	_		{}

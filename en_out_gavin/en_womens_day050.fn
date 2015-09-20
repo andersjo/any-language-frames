@@ -1,0 +1,13 @@
+1	In	_		{}
+2	Egypt	_		{}
+3	however	_	Concessive	{"Statement": "7"}
+4	,	_		{}
+5	the	_		{}
+6	day	_	Calendric_unit	{"Unit": "6"}
+7	was	_	Existence	{"Place": "1", "Entity": "6"}
+8	a	_	Cardinal_numbers	{"Number": "8", "Entity": "9"}
+9	step	_	Self_motion	{"Direction": "10", "Self_mover": "12"}
+10	back	_	Self_motion	{"Direction": "10", "Self_mover": "12"}
+11	for	_		{}
+12	women	_	People	{"Person": "12"}
+13	.	_		{}

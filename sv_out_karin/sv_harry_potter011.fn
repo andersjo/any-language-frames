@@ -1,0 +1,22 @@
+1	Böckerna	_		{}
+2	handlar	_		{}
+3	om	_		{}
+4	den	_		{}
+5	föräldralöse	_		{}
+6	Harry	_		{}
+7	Potter	_		{}
+8	som	_		{}
+9	har	_		{}
+10	vuxit	_		{}
+11	upp	_		{}
+12	hos	_		{}
+13	sin	_		{}
+14	döda	_	Dead_or_alive	{"Protagonist": "15"}
+15	mors	_		{}
+16	släktingar	_	Kinship	{"Ego": "15", "Alter": "21"}
+17	,	_		{}
+18	den	_		{}
+19	stränga	_		{}
+20	familjen	_	Aggregate	{"Aggregate": "21", "Name": "21", "AggregateProperty": "20"}
+21	Dursley	_		{}
+22	.	_		{}

@@ -1,0 +1,12 @@
+1	Ordet	_		{}
+2	bruges	_		{}
+3	i	_		{}
+4	bøgerne	_		{}
+5	til	_		{}
+6	at	_		{}
+7	få	_	Causation	{"Cause": "1", "Affected": "8", "Place": "4"}
+8	ting	_	Aggregate	{"Aggregate": "8"}
+9	til	_		{}
+10	at	_		{}
+11	flyve	_	Self_motion	{"Goal": "11"}
+12	.	_		{}

@@ -1,0 +1,34 @@
+1	Entre	_		{}
+2	ellos	_	Measure_volume	{}
+3	se	_		{}
+4	destacan	_	Differentiation	{"Phenomenon_1": "9", "Quality": "8"}
+5	el	_		{}
+6	ser	_	Being_in_category	{"Category": "17", "Item": "9", "Criteria": "22"}
+7	el	_		{}
+8	máximo	_	Extreme_value	{"Attribute": "9", "Period": "12", "Value": "8", "Entity": "9"}
+9	goleador	_		{}
+10	de	_		{}
+11	la	_		{}
+12	historia	_	History	{"Topic": "17", "Domain": "15", "Time_span": "25"}
+13	de	_		{}
+14	la	_		{}
+15	selección	_	Change_of_leadership	{"Body": "17"}
+16	de	_		{}
+17	fútbol	_		{}
+18	de	_		{}
+19	Portugal	_		{}
+20	con	_		{}
+21	52	_		{}
+22	tantos	_	Frequency	{"Degree": "21", "Time_span": "25"}
+23	en	_		{}
+24	118	_		{}
+25	partidos	_	Social_event	{}
+26	,	_		{}
+27	superando	_	Surpassing	{"Attribute": "22", "Standard_item": "30", "Profiled_item": "22", "Standard_attribute": "33"}
+28	por	_		{}
+29	5	_	Cardinal_numbers	{"Number": "29", "Entity": "30"}
+30	tantos	_	Frequency	{"Attribute": "29"}
+31	a	_		{}
+32	Pedro	_		{}
+33	Pauleta	_		{}
+34	.	_		{}

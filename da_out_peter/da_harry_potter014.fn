@@ -1,0 +1,17 @@
+1	Filmene	_		{}
+2	bærer	_		{}
+3	samme	_	Identicality	{"Previous_instance": "6", "Current_instance": "1", "Type": "4"}
+4	navn	_	Being_named	{"Name_source": "6", "Entity": "1"}
+5	som	_		{}
+6	bøgerne	_		{}
+7	omend	_		{}
+8	den	_		{}
+9	sidste	_	Version_sequence	{"Item": "10"}
+10	bog	_	Text	{"Text": "10"}
+11	er	_		{}
+12	delt	_		{}
+13	op	_		{}
+14	i	_		{}
+15	to	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	film	_	Behind_the_scenes	{"Medium": "16"}
+17	.	_		{}

@@ -1,0 +1,57 @@
+1	Ils	_		{}
+2	peuvent	_	Possibility	{}
+3	être	_		{}
+4	assimilés	_		{}
+5	à	_		{}
+6	un	_		{}
+7	genre	_	Type	{"Category": "8", "Subtype": "7"}
+8	littéraire	_	Text	{"Text": "1"}
+9	britannique	_		{}
+10	décrivant	_		{}
+11	la	_		{}
+12	vie	_		{}
+13	en	_		{}
+14	internat	_		{}
+15	,	_		{}
+16	dont	_		{}
+17	les	_		{}
+18	titres	_		{}
+19	les	_		{}
+20	plus	_		{}
+21	emblématiques	_	Exemplariness	{"Comparison_set": "7", "Entity": "18"}
+22	sont	_		{}
+23	les	_		{}
+24	romans	_	Text	{"Text": "24"}
+25	d'Enid	_		{}
+26	Blyton	_		{}
+27	(	_		{}
+28	"	_		{}
+29	Malory	_		{}
+30	School	_		{}
+31	"	_		{}
+32	,	_		{}
+33	la	_		{}
+34	série	_	Sequence	{}
+35	"	_		{}
+36	St.	_		{}
+37	Clare's	_		{}
+38	"	_		{}
+39	et	_		{}
+40	"	_		{}
+41	The	_		{}
+42	Naughtiest	_		{}
+43	Girl	_		{}
+44	"	_		{}
+45	)	_		{}
+46	et	_		{}
+47	ceux	_		{}
+48	de	_		{}
+49	Charles	_		{}
+50	Hamilton	_		{}
+51	sur	_		{}
+52	le	_		{}
+53	personnage	_	People	{"Person": "53"}
+54	de	_		{}
+55	Billy	_		{}
+56	Bunter	_		{}
+57	.	_		{}

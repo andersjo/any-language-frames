@@ -1,0 +1,16 @@
+1	En	_		{}
+2	2005	_		{}
+3	,	_		{}
+4	fue	_	Being_in_category	{"Category": "10", "Circumstances": "6", "Criteria": "11", "Time": "2"}
+5	la	_		{}
+6	novena	_	Ordinal_numbers	{"Comparison_set": "15", "Basis_of_order": "11", "Type": "10"}
+7	persona	_	Exemplar	{"Instance": "7", "Instance_prop": "15", "Type": "10", "Domain": "11"}
+8	con	_		{}
+9	el	_		{}
+10	ingreso	_	Earnings_and_losses	{"Earner": "7"}
+11	anual	_	Frequency	{"Interval": "11", "Degree": "11", "Time_span": "11"}
+12	más	_	Increment	{"Class": "10"}
+13	alto	_	Position_on_a_scale	{"Variable": "10", "Item": "7", "Domain": "10", "Degree": "12"}
+14	del	_		{}
+15	mundo	_		{}
+16	.	_		{}

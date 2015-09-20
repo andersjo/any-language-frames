@@ -1,0 +1,36 @@
+1	Ha	_		{}
+2	un	_		{}
+3	fratello	_	Kinship	{"Alter": "6", "Degree": "4"}
+4	maggiore	_	Position_on_a_scale	{"Item": "3"}
+5	,	_		{}
+6	Hugo	_		{}
+7	(	_		{}
+8	nato	_		{}
+9	nel	_		{}
+10	1975	_		{}
+11	)	_		{}
+12	,	_		{}
+13	e	_		{}
+14	due	_	Cardinal_numbers	{"Number": "14", "Entity": "15"}
+15	sorelle	_	Kinship	{"Alter": "15", "Degree": "16"}
+16	maggiori	_		{}
+17	,	_		{}
+18	Elma	_		{}
+19	(	_		{}
+20	nata	_		{}
+21	nel	_		{}
+22	1974	_		{}
+23	)	_		{}
+24	e	_		{}
+25	Liliana	_		{}
+26	Cátia	_		{}
+27	(	_		{}
+28	nata	_		{}
+29	a	_		{}
+30	Madera	_		{}
+31	il	_		{}
+32	5	_	Cardinal_numbers	{"Number": "32"}
+33	ottobre	_	Calendric_unit	{"Unit": "32"}
+34	1976	_		{}
+35	)	_		{}
+36	.	_		{}

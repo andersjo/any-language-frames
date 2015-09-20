@@ -1,0 +1,25 @@
+1	Den	_		{}
+2	26	_		{}
+3	juni	_	Calendric_unit	{"Whole": "4", "Unit": "3"}
+4	2009	_		{}
+5	bekräftade	_		{}
+6	Real	_		{}
+7	Madrid	_		{}
+8	att	_		{}
+9	Ronaldo	_		{}
+10	hade	_		{}
+11	skrivit	_		{}
+12	på	_		{}
+13	ett	_	Cardinal_numbers	{"Number": "13", "Entity": "17"}
+14	sex	_	Cardinal_numbers	{"Number": "14", "Entity": "15"}
+15	år	_	Measure_duration	{"Process": "17", "Count": "14", "Unit": "15", "Agent": "9"}
+16	långt	_	Degree	{"Gradable_attribute": "17"}
+17	kontrakt	_	Documents	{"Issuer": "6"}
+18	som	_		{}
+19	skulle	_		{}
+20	börja	_	Activity_start	{"Activity": "21"}
+21	gälla	_		{}
+22	den	_		{}
+23	1	_		{}
+24	juli	_	Calendric_unit	{"Unit": "24"}
+25	.	_		{}

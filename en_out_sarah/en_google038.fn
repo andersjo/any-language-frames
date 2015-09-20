@@ -1,0 +1,32 @@
+1	On	_		{}
+2	June	_	Calendric_unit	{"Name": "2"}
+3	7	_	Cardinal_numbers	{"Number": "3", "Entity": "2"}
+4	,	_		{}
+5	1999	_		{}
+6	,	_		{}
+7	a	_	Cardinal_numbers	{"Entity": "10", "Number": "7", "Multiplier": "9"}
+8	$25	_		{}
+9	million	_		{}
+10	round	_		{}
+11	of	_		{}
+12	funding	_		{}
+13	was	_		{}
+14	announced	_	Statement	{"Topic": "12", "Medium": "14"}
+15	,	_		{}
+16	with	_		{}
+17	major	_	Importance	{"Factor": "18"}
+18	investors	_		{}
+19	including	_		{}
+20	the	_		{}
+21	venture	_		{}
+22	capital	_		{}
+23	firms	_	Businesses	{"Business_Name": "24", "Business": "23", "Descriptor": "22"}
+24	Kleiner	_		{}
+25	Perkins	_		{}
+26	Caufield	_		{}
+27	&	_		{}
+28	Byers	_		{}
+29	and	_	Simultaneity	{"Profiled_event": "24", "Landmark_event": "30"}
+30	Sequoia	_		{}
+31	Capital	_		{}
+32	.	_		{}

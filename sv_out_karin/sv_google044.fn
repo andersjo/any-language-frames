@@ -1,0 +1,28 @@
+1	Google	_		{}
+2	säger	_	Expressing_publicly	{"Content": "5", "Communicator": "1"}
+3	sig	_		{}
+4	själva	_		{}
+5	tro	_	Opinion	{"Cognizer": "1", "Opinion": "11"}
+6	att	_		{}
+7	de	_		{}
+8	på	_		{}
+9	längre	_		{}
+10	sikt	_		{}
+11	tjänar	_		{}
+12	på	_		{}
+13	att	_		{}
+14	göra	_	Conduct	{"Manner": "15", "Agent": "1"}
+15	goda	_		{}
+16	saker	_		{}
+17	för	_		{}
+18	världen	_	Political_locales	{"Locale": "18"}
+19	,	_		{}
+20	trots	_		{}
+21	att	_		{}
+22	det	_		{}
+23	på	_		{}
+24	kort	_	Duration_attribute	{"Eventuality": "26", "Period": "25"}
+25	sikt	_		{}
+26	kostar	_		{}
+27	pengar	_	Money	{"Money": "27", "Use": "14", "Possessor": "1"}
+28	.	_		{}

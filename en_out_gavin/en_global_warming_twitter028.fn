@@ -1,0 +1,25 @@
+1	I	_		{}
+2	hate	_	Experiencer_focus	{"Content": "4", "Experiencer": "1"}
+3	global	_	Political_locales	{"Locale": "3"}
+4	warming	_	Temperature	{"Temperature": "4", "Entity": "3"}
+5	...	_		{}
+6	you	_		{}
+7	know	_	Awareness	{"Content": "13", "Cognizer": "6"}
+8	how	_		{}
+9	many	_	Quantity	{"Individuals": "10", "Quantity": "9"}
+10	days	_	Calendric_unit	{"Count": "9", "Unit": "10"}
+11	we	_		{}
+12	would	_		{}
+13	have	_		{}
+14	had	_	Have_associated	{"Circumstances": "18", "Topical_entity": "11", "Entity": "10"}
+15	off	_	Hit_or_miss	{}
+16	from	_		{}
+17	school	_	Locale_by_use	{"Locale": "17"}
+18	if	_		{}
+19	people	_	People	{"Person": "19"}
+20	just	_		{}
+21	recycled	_	Processing_materials	{"Agent": "19"}
+22	and	_		{}
+23	drove	_	Aggregate	{}
+24	hybrids	_	Quantity	{"Individuals": "24"}
+25	???	_		{}

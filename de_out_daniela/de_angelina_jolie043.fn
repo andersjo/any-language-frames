@@ -1,0 +1,29 @@
+1	Sie	_		{}
+2	zieht	_	Body_movement	{"Body_part": "6", "Agent": "1"}
+3	ein	_		{}
+4	noch	_		{}
+5	mürrischeres	_		{}
+6	Gesicht	_	Facial_expression	{"Expression": "6", "Conveyed_emotion": "5", "Possessor": "1"}
+7	als	_		{}
+8	die	_		{}
+9	übrigen	_		{}
+10	Darsteller	_	Performers	{"Person": "1"}
+11	und	_		{}
+12	sie	_		{}
+13	ist	_		{}
+14	diese	_		{}
+15	seltene	_	Scarcity	{"Collection": "17", "Quantity": "15"}
+16	weibliche	_		{}
+17	Hackerin	_		{}
+18	,	_		{}
+19	die	_		{}
+20	bewusst	_	Awareness	{"Topic": "28", "Expressor": "1"}
+21	in	_		{}
+22	einem	_		{}
+23	durchsichtigen	_		{}
+24	Top	_		{}
+25	an	_		{}
+26	ihrer	_		{}
+27	Tastatur	_		{}
+28	sitzt	_	Posture	{"Location": "27", "Agent": "1"}
+29	.	_		{}

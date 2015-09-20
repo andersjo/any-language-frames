@@ -1,0 +1,30 @@
+1	Efter	_		{}
+2	en	_		{}
+3	periode	_	Timespan	{"State": "3"}
+4	,	_		{}
+5	der	_		{}
+6	indbragte	_		{}
+7	flere	_	Quantity	{"Individuals": "8", "Quantity": "7"}
+8	titler	_		{}
+9	,	_		{}
+10	tog	_	Self_motion	{"Goal": "15", "Self_mover": "11"}
+11	han	_		{}
+12	på	_		{}
+13	et	_		{}
+14	tredages	_		{}
+15	træningsophold	_		{}
+16	med	_		{}
+17	Sporting	_		{}
+18	CP	_		{}
+19	,	_		{}
+20	hvor	_		{}
+21	han	_		{}
+22	senere	_	Relative_time	{"Focal_occasion": "23", "Focal_participant": "21", "Landmark_occasion": "15"}
+23	underskrev	_		{}
+24	en	_		{}
+25	kontrakt	_	Hiring	{"Employee": "21", "Employer": "17"}
+26	for	_		{}
+27	et	_		{}
+28	ukendt	_	Awareness	{"Content": "29", "Degree": "28"}
+29	beløb	_	Quantity	{"Mass": "29", "Quantity": "28"}
+30	.	_		{}

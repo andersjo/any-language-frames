@@ -1,0 +1,23 @@
+1	A	_		{}
+2	14	_	Cardinal_numbers	{"Number": "2", "Entity": "3"}
+3	ans	_	Age	{"Age": "2", "Entity": "6"}
+4	,	_		{}
+5	le	_		{}
+6	fils	_	Kinship	{"Ego": "8", "Alter": "6"}
+7	de	_		{}
+8	Ronaldo	_		{}
+9	embrasse	_		{}
+10	une	_		{}
+11	institutrice	_	Education_teaching	{"Teacher": "11", "Student": "6"}
+12	de	_		{}
+13	27	_		{}
+14	ans	_		{}
+15	!	_		{}
+16	On	_		{}
+17	connaissait	_		{}
+18	Christiano	_		{}
+19	Ronaldo	_		{}
+20	pour	_		{}
+21	son	_		{}
+22	...	_		{}
+23	http://t.co/CYO8eWRxpH	_		{}

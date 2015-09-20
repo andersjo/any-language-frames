@@ -1,0 +1,27 @@
+1	@buckysbae	_		{}
+2	the	_		{}
+3	hobbit	_		{}
+4	and	_	Simultaneity	{"Profiled_event": "5", "Landmark_event": "3"}
+5	lotr	_		{}
+6	(	_		{}
+7	and	_		{}
+8	a	_	Cardinal_numbers	{"Number": "8", "Entity": "9"}
+9	quote	_		{}
+10	from	_		{}
+11	Harry	_		{}
+12	Potter	_		{}
+13	)	_		{}
+14	helped	_	Assistance	{"Benefited_party": "15", "Goal": "16", "Helper": "4"}
+15	me	_		{}
+16	through	_		{}
+17	self	_	Proper_reference	{"Intended_referent": "15"}
+18	harm	_	Damaging	{"Manner": "17"}
+19	and	_	Simultaneity	{"Profiled_event": "20", "Landmark_event": "18"}
+20	depression	_	Emotion_directed	{"State": "20", "Experiencer": "15"}
+21	.	_		{}
+22	It	_		{}
+23	means	_	Stimulus_focus	{"Stimulus": "22", "Experiencer": "27", "Degree": "25"}
+24	a	_	Cardinal_numbers	{"Number": "2425"}
+25	lot	_		{}
+26	to	_		{}
+27	me	_		{}

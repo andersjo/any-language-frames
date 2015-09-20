@@ -1,0 +1,32 @@
+1	Ron's	_		{}
+2	younger	_	People_by_age	{"Person": "3", "Age": "2"}
+3	sister	_	Kinship	{"Ego": "1", "Alter": "3"}
+4	,	_		{}
+5	Ginny	_		{}
+6	Weasley	_		{}
+7	,	_		{}
+8	enrols	_	Becoming_a_member	{"New_member": "3", "Place": "13"}
+9	in	_		{}
+10	her	_		{}
+11	first	_	First_experience	{"Experience": "12"}
+12	year	_	Calendric_unit	{"Unit": "12"}
+13	at	_		{}
+14	Hogwarts	_		{}
+15	,	_		{}
+16	and	_		{}
+17	finds	_	Encounter	{"Party_2": "20", "Party_1": "3"}
+18	an	_	Cardinal_numbers	{"Number": "18", "Entity": "20"}
+19	old	_	Age	{"Age": "19", "Entity": "20"}
+20	notebook	_		{}
+21	which	_		{}
+22	turns	_	Becoming	{"Entity": "20"}
+23	out	_	Part_inner_outer	{}
+24	to	_		{}
+25	be	_	Existence	{"Entity": "19"}
+26	Voldemort's	_		{}
+27	diary	_	Text	{"Text": "27", "Author": "26", "Time_of_creation": "28"}
+28	from	_		{}
+29	his	_		{}
+30	school	_	Locale_by_use	{"Locale": "30"}
+31	days	_	Timespan	{"State": "30"}
+32	.	_		{}

@@ -1,0 +1,21 @@
+1	@DanielaScalcob	_		{}
+2	@LucaLombroso	_		{}
+3	Quelli	_		{}
+4	che	_		{}
+5	parlano	_	Speak_on_topic	{"Topic": "7"}
+6	di	_		{}
+7	Global	_		{}
+8	Warming	_		{}
+9	e	_		{}
+10	non	_		{}
+11	sanno	_		{}
+12	fare	_		{}
+13	il	_		{}
+14	bilancio	_		{}
+15	idrologico	_		{}
+16	di	_		{}
+17	un	_		{}
+18	semplice	_	Ranked_expectation	{"Entity": "19"}
+19	bacino	_	Natural_features	{"Locale": "19", "Type": "20"}
+20	alpino	_		{}
+21	...	_		{}

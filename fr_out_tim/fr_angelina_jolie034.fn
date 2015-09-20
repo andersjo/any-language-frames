@@ -1,0 +1,9 @@
+1	Elle	_		{}
+2	commence	_	Activity_start	{"Agent": "1", "Activity": "4"}
+3	à	_		{}
+4	s'automutiler	_		{}
+5	,	_		{}
+6	commentant	_	Statement	{"Speaker": "1"}
+7	plus	_		{}
+8	tard	_	Temporal_collocation	{"Trajector_event": "6"}
+9	:	_		{}

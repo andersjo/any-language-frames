@@ -1,0 +1,14 @@
+1	@AlexHmpf	_		{}
+2	@YouTube	_		{}
+3	Die	_		{}
+4	ändert	_	Cause_change	{"Agent": "3", "Entity": "7"}
+5	ja	_		{}
+6	ihre	_		{}
+7	Intros	_		{}
+8	öfter	_		{}
+9	als	_		{}
+10	Christiano	_		{}
+11	Ronaldo	_		{}
+12	seine	_	Possession	{"Possession": "13", "Owner": "11"}
+13	Frisur	_	Hair_configuration	{"Hair": "13", "Possessor": "11"}
+14	.	_		{}

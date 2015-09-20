@@ -1,0 +1,21 @@
+1	Lo	_		{}
+2	último	_	Version_sequence	{"Item": "4", "Degree": "2"}
+3	en	_		{}
+4	dietas	_		{}
+5	pseudocientíficas	_		{}
+6	:	_		{}
+7	vestir	_	Dressing	{"Clothing": "8"}
+8	chalecos	_	Clothing	{"Garment": "8"}
+9	d	_		{}
+10	hielo	_	Substance	{"Substance": "10"}
+11	y	_		{}
+12	pasear	_	Self_motion	{"Source": "21"}
+13	sin	_		{}
+14	camiseta	_	Clothing	{"Garment": "14"}
+15	en	_		{}
+16	invierno	_	Calendric_unit	{"Relative_time": "16"}
+17	para	_		{}
+18	quemar	_	Apply_heat	{"Food": "20"}
+19	+	_		{}
+20	grasa	_	Food	{"Food": "20"}
+21	http://t.co/vHGiscJwS2	_		{}

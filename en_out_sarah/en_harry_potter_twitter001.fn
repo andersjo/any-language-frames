@@ -1,0 +1,14 @@
+1	Harry	_		{}
+2	Potter	_		{}
+3	just	_		{}
+4	bought	_		{}
+5	a	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	friend	_	Personal_relationship	{"Source_of_relationship": "7", "Relationship": "6", "Partner_1": "1"}
+7	by	_		{}
+8	buying	_	Commerce_buy	{"Buyer": "1", "Goods": "10", "Place": "13"}
+9	the	_		{}
+10	lot	_		{}
+11	from	_		{}
+12	the	_		{}
+13	trolley	_	Vehicle	{"Use": "8", "Vehicle": "13"}
+14	.	_		{}

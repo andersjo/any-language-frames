@@ -1,0 +1,22 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	är	_		{}
+4	ju	_		{}
+5	den	_		{}
+6	snyggaste	_		{}
+7	människan	_	People	{"Persistent_characteristic": "6", "Person": "2"}
+8	i	_	Political_locales	{"Locale": "9"}
+9	universum	_	Political_locales	{"Locale": "9"}
+10	PLUS	_		{}
+11	jätteengagerad	_		{}
+12	i	_		{}
+13	världsproblem	_		{}
+14	och	_		{}
+15	viktiga	_		{}
+16	frågor	_	Point_of_dispute	{"Question": "13"}
+17	,	_		{}
+18	plz	_		{}
+19	låt	_	Make_possible_to_do	{"Enabled_action": "21"}
+20	mig	_		{}
+21	vara	_	Being_in_category	{"Category": "2", "Item": "20"}
+22	dig	_		{}

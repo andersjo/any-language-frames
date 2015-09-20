@@ -1,0 +1,17 @@
+1	@DasHufi	_		{}
+2	Hufi	_		{}
+3	!	_		{}
+4	Such	_		{}
+5	mal	_		{}
+6	auf	_		{}
+7	Google	_		{}
+8	Bilder	_	Physical_artworks	{"Artifact": "8"}
+9	nach	_		{}
+10	hufi	_		{}
+11	D:	_		{}
+12	Man	_	People	{"Person": "12"}
+13	hat	_		{}
+14	deine	_		{}
+15	Bilder	_	Physical_artworks	{"Artifact": "15", "Creator": "14"}
+16	entfernt	_	Removing	{"Theme": "15", "Agent": "12"}
+17	;-;	_		{}

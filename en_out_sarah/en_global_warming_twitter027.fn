@@ -1,0 +1,21 @@
+1	global	_	Political_locales	{"Locale": "1"}
+2	warming	_	Temperature	{}
+3	&	_		{}
+4	wheat	_		{}
+5	:	_		{}
+6	rising	_	Growing_food	{"Food": "8", "Means": "10"}
+7	CO2(food	_		{}
+8	)	_		{}
+9	offset	_	Cause_to_start	{"Cause": "12", "Effect": "7"}
+10	by	_		{}
+11	higher	_	Measurable_attributes	{"Degree": "11", "Entity": "12"}
+12	temps	_		{}
+13	(	_		{}
+14	lower	_	Cause_change_of_position_on_a_scale	{"Item": "15"}
+15	germination	_		{}
+16	,	_		{}
+17	H2O	_	Substance	{"Substance": "17"}
+18	avail	_	Assistance	{"Helper": "17"}
+19	)	_		{}
+20	http://t.co/r5DxftJbJh	_		{}
+21	http://t.co/BVbbq07Lo3	_		{}

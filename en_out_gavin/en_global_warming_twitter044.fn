@@ -1,0 +1,21 @@
+1	@blondpidge	_		{}
+2	Let's	_	Permitting	{"State_of_affairs": "3"}
+3	face	_	Confronting_problem	{"Issue": "4", "Agent": "2"}
+4	it	_		{}
+5	,	_		{}
+6	you'll	_		{}
+7	never	_	Frequency	{"Event": "8"}
+8	be	_	Being_in_category	{"Category": "13", "Time": "7"}
+9	a	_	Cardinal_numbers	{"Number": "9", "Entity": "13"}
+10	global	_	Political_locales	{"Locale": "10"}
+11	warming	_	Cause_temperature_change	{"Item": "10"}
+12	True	_	Artificiality	{"Type": "13", "Entity": "6"}
+13	Believer	_		{}
+14	if	_		{}
+15	you	_		{}
+16	can't	_	Capability	{"Entity": "15"}
+17	falsify	_	Forging	{"Agent": "15", "Standard": "20"}
+18	simple	_	Difficulty	{"Activity": "20"}
+19	maths	_	Fields	{"Type": "18", "Activity": "20"}
+20	stuff	_	Substance	{"Descriptor": "18", "Substance": "20", "Type": "19"}
+21	.	_		{}

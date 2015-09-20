@@ -1,0 +1,32 @@
+1	She	_		{}
+2	expanded	_	Cause_expansion	{"Item": "5", "Agent": "1", "Means": "6"}
+3	her	_		{}
+4	film	_	Behind_the_scenes	{"Medium": "4", "Artist": "1"}
+5	career	_		{}
+6	by	_		{}
+7	directing	_	Behind_the_scenes	{"Production": "12", "Medium": "4", "Artist": "1"}
+8	and	_		{}
+9	producing	_		{}
+10	the	_		{}
+11	wartime	_		{}
+12	dramas	_		{}
+13	"	_		{}
+14	In	_		{}
+15	the	_		{}
+16	Land	_	Locale	{"Locale": "16"}
+17	of	_		{}
+18	Blood	_	Medical_conditions	{}
+19	and	_		{}
+20	Honey	_	Food	{"Food": "20"}
+21	"	_		{}
+22	(	_		{}
+23	2011	_		{}
+24	)	_		{}
+25	and	_		{}
+26	"	_		{}
+27	Unbroken	_		{}
+28	"	_		{}
+29	(	_		{}
+30	2014	_		{}
+31	)	_		{}
+32	.	_		{}

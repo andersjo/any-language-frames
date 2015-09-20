@@ -1,0 +1,25 @@
+1	@RoteGunde	_		{}
+2	du	_		{}
+3	behöver	_	Required_event	{"Required_situation": "5", "Degree": "4"}
+4	inte	_		{}
+5	övertyga	_	Suasion	{"Topic": "12", "Addressee": "6", "Speaker": "2"}
+6	mig	_		{}
+7	.	_		{}
+8	jag	_	Proper_reference	{"Intended_referent": "8"}
+9	gjorde	_		{}
+10	jobbet	_		{}
+11	att	_		{}
+12	lägga	_	Cause_to_be_included	{"New_member": "15", "Group": "18", "Agent": "8"}
+13	in	_		{}
+14	mina	_		{}
+15	rutter	_		{}
+16	på	_		{}
+17	Google	_		{}
+18	Earth	_		{}
+19	.	_		{}
+20	det	_		{}
+21	har	_		{}
+22	jag	_	Proper_reference	{"Intended_referent": "22"}
+23	aldrig	_	Frequency	{"Attribute": "24"}
+24	ångrat	_		{}
+25	!	_		{}

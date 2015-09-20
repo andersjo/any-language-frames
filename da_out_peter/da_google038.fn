@@ -1,0 +1,28 @@
+1	I	_		{}
+2	2014	_		{}
+3	blev	_		{}
+4	Google	_		{}
+5	idømt	_		{}
+6	en	_		{}
+7	bøde	_	Fining	{"Speaker": "15", "Reason": "20", "Fine": "9", "Payer": "4"}
+8	på	_		{}
+9	150.000	_		{}
+10	€	_		{}
+11	af	_		{}
+12	det	_		{}
+13	franske	_	Origin	{"Origin": "13", "Entity": "15"}
+14	datatilsyn	_		{}
+15	CNIL	_		{}
+16	,	_		{}
+17	for	_		{}
+18	ikke	_		{}
+19	at	_		{}
+20	overholde	_		{}
+21	fransk	_	Origin	{"Origin": "21", "Entity": "22"}
+22	lovgivning	_	Law	{"Required": "24"}
+23	om	_		{}
+24	beskyttelse	_		{}
+25	af	_		{}
+26	personlige	_		{}
+27	oplysninger	_	Information	{"Topic": "26"}
+28	.	_		{}

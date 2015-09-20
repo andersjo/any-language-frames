@@ -1,0 +1,19 @@
+1	The	_		{}
+2	technology	_	Artifact	{"Artifact": "2"}
+3	in	_		{}
+4	RankDex	_		{}
+5	was	_		{}
+6	patented	_	Obviousness	{"Phenomenon": "2"}
+7	in	_		{}
+8	July	_	Calendric_unit	{"Unit": "8"}
+9	1999	_		{}
+10	and	_		{}
+11	used	_	Using	{"Instrument": "2", "Time": "12"}
+12	later	_	Relative_time	{"Focal_occasion": "5", "Focal_participant": "2", "Landmark_occasion": "15"}
+13	when	_		{}
+14	Li	_		{}
+15	founded	_	Intentionally_create	{"Created_entity": "16", "Place": "17", "Creator": "14"}
+16	Baidu	_		{}
+17	in	_		{}
+18	China	_		{}
+19	.	_		{}

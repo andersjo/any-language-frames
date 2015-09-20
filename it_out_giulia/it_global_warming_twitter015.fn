@@ -1,0 +1,27 @@
+1	Mi	_		{}
+2	chiedo	_	Questioning	{}
+3	se	_		{}
+4	anche	_	Continued_state_of_affairs	{"Reference_occasion": "5"}
+5	quest'anno	_		{}
+6	,	_		{}
+7	col	_		{}
+8	global	_		{}
+9	warming	_		{}
+10	,	_		{}
+11	le	_		{}
+12	anatre	_		{}
+13	abbiano	_	Taking	{"Source": "19", "Theme": "17", "Agent": "12"}
+14	portato	_		{}
+15	via	_		{}
+16	le	_		{}
+17	penne	_		{}
+18	dal	_		{}
+19	laghetto	_	Natural_features	{"Locale": "19"}
+20	(	_		{}
+21	ghiacciato	_	Temperature	{"Attribute": "21", "Entity": "19"}
+22	?	_		{}
+23	)	_		{}
+24	a	_		{}
+25	Central	_		{}
+26	Park	_		{}
+27	.	_		{}

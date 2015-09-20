@@ -1,0 +1,12 @@
+1	@Irenussa	_		{}
+2	pelis24	_		{}
+3	pero	_		{}
+4	no	_		{}
+5	hay	_	Existence	{"Time": "9", "Place": "12", "Entity": "2"}
+6	y	_		{}
+7	llevo	_	Activity_start	{"Activity": "10"}
+8	30	_	Cardinal_numbers	{"Number": "8", "Entity": "8"}
+9	minutos	_	Measure_duration	{"Count": "8", "Process": "10", "Unit": "9"}
+10	buscando	_	Seeking	{"Sought_entity": "2"}
+11	en	_		{}
+12	google	_		{}

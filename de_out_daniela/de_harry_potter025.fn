@@ -1,0 +1,9 @@
+1	Die	_		{}
+2	Dursleys	_		{}
+3	sind	_	Being_in_category	{"Category": "8", "Item": "2"}
+4	Harrys	_		{}
+5	letzte	_		{}
+6	noch	_		{}
+7	lebende	_	Dead_or_alive	{"Protagonist": "8"}
+8	Verwandte	_	Kinship	{"Ego": "4", "Alter": "2"}
+9	.	_		{}

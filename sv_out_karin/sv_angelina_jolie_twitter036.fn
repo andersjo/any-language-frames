@@ -1,0 +1,27 @@
+1	Mår	_		{}
+2	typ	_		{}
+3	dåligt	_		{}
+4	nu	_	Temporal_collocation	{"Trajector_event": "1", "Landmark_period": "4"}
+5	för	_		{}
+6	jag	_	Proper_reference	{"Intended_referent": "6"}
+7	ligger	_	Being_located	{"Theme": "6"}
+8	och	_	Simultaneity	{"Profiled_event": "9", "Landmark_event": "7"}
+9	beklagar	_		{}
+10	mig	_		{}
+11	över	_		{}
+12	att	_		{}
+13	man	_	People	{"Person": "6"}
+14	aldrig	_	Frequency	{"Event": "17", "Degree": "14"}
+15	kommer	_		{}
+16	att	_		{}
+17	se	_	Appearance	{"Characterization": "21"}
+18	ut	_		{}
+19	som	_	Similarity	{"Entity_1": "6", "Entity_2": "21"}
+20	Angelina	_		{}
+21	Jolie	_		{}
+22	.	_		{}
+23	Snyggaste	_		{}
+24	kvinnan	_	People	{"Persistent_characteristic": "23", "Person": "21"}
+25	som	_		{}
+26	existerar	_	Existence	{"Entity": "21"}
+27	.	_		{}

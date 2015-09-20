@@ -1,0 +1,27 @@
+1	Ο	_		{}
+2	πρώτος	_	Ordinal_numbers	{"Comparison_set": "4", "Starting_point": "3", "Item": "4"}
+3	σοβαρός	_	Importance	{"Interested_party": "4"}
+4	τραυματισμός	_	Medical_conditions	{"Ailment": "4"}
+5	έρχεται	_		{}
+6	μετά	_	Time_vector	{"Distance": "6", "Landmark_event": "8", "Event": "10"}
+7	το	_		{}
+8	Ευρωπαϊκό	_		{}
+9	του	_		{}
+10	2008	_		{}
+11	,	_		{}
+12	αναγκάζεται	_		{}
+13	να	_		{}
+14	χειρουργηθεί	_		{}
+15	για	_		{}
+16	πρώτη	_		{}
+17	φορά	_	Timespan	{"Duration": "16"}
+18	,	_		{}
+19	με	_		{}
+20	αποτέλεσμα	_	Event	{"Place": "26", "Time": "23"}
+21	να	_		{}
+22	μένει	_		{}
+23	δύο	_	Cardinal_numbers	{"Number": "23", "Entity": "24"}
+24	μήνες	_	Calendric_unit	{"Relative_time": "24"}
+25	εκτός	_		{}
+26	δράσης	_		{}
+27	.	_		{}

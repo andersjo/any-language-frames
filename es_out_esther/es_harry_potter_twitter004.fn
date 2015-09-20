@@ -1,0 +1,11 @@
+1	Felizmente	_	Emotion_directed	{"Topic": "2", "Stimulus": "6", "State": "1", "Event": "2"}
+2	estás	_		{}
+3	tú	_		{}
+4	ahí	_	Locative_relation	{"Figure": "6", "Ground": "2"}
+5	,	_		{}
+6	Harry	_		{}
+7	Potter	_		{}
+8	.	_		{}
+9	Te	_		{}
+10	amo	_	Experiencer_focus	{"Topic": "10", "Content": "10", "Event": "10"}
+11	.	_		{}

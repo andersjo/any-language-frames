@@ -1,0 +1,13 @@
+1	La	_		{}
+2	reivindicación	_		{}
+3	de	_		{}
+4	la	_		{}
+5	igualdad	_	Identicality	{"Set_of_instances": "8", "Current_instance": "5"}
+6	de	_		{}
+7	la	_		{}
+8	mujer	_	People	{"Person": "8"}
+9	y	_		{}
+10	el	_		{}
+11	movimiento	_	Front_for	{"Front": "12", "Illicit_activity": "11", "Illicit_organization": "12"}
+12	obrero	_	Emotions_of_mental_activity	{"Stimulus": "11", "Experiencer": "12"}
+13	.	_		{}

@@ -1,0 +1,19 @@
+1	Hur	_		{}
+2	tänker	_	Awareness	{"Cognizer": "3"}
+3	tv4film	_		{}
+4	när	_	Event_instance	{"Instance": "6"}
+5	dom	_		{}
+6	körde	_		{}
+7	första	_	Ordinal_numbers	{"Item": "10", "Type": "9"}
+8	Harry	_		{}
+9	Potter	_		{}
+10	filmen	_	Physical_artworks	{"Name": "9", "Artifact": "10"}
+11	igår	_	Calendric_unit	{"Relative_time": "11"}
+12	men	_		{}
+13	ingen	_		{}
+14	idag	_	Calendric_unit	{"Relative_time": "14"}
+15	?	_		{}
+16	Det	_		{}
+17	är	_		{}
+18	en	_	Cardinal_numbers	{"Number": "18", "Entity": "19"}
+19	principsak	_		{}

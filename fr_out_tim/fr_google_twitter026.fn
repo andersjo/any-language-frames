@@ -1,0 +1,28 @@
+1	harry	_		{}
+2	pour	_		{}
+3	sa	_		{}
+4	bio	_		{}
+5	je	_		{}
+6	le	_		{}
+7	vois	_	Perception_experience	{"Phenomenon": "6", "Perceiver_passive": "5"}
+8	bien	_		{}
+9	aller	_	Self_motion	{"Goal": "11", "Self_mover": "6"}
+10	sur	_		{}
+11	google	_		{}
+12	traduction	_	Translating	{"Target_representation": "24", "Cognizer": "6", "Source_representation": "22", "Source_symbol": "17"}
+13	mettre	_		{}
+14	en	_		{}
+15	anglais	_		{}
+16	"	_		{}
+17	raconteur	_		{}
+18	.	_		{}
+19	"	_		{}
+20	et	_		{}
+21	faire	_	Cause_change	{"Final_category": "24", "Initial_category": "22"}
+22	anglais	_		{}
+23	→	_		{}
+24	francais	_		{}
+25	et	_		{}
+26	copier	_	Duplication	{}
+27	coller	_	Attaching	{}
+28	mdr	_		{}

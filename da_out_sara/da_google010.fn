@@ -1,0 +1,23 @@
+1	Til	_		{}
+2	gengæld	_	Revenge	{"Avenger": "4", "Punishment": "9"}
+3	forbeholder	_		{}
+4	Google	_		{}
+5	sig	_		{}
+6	retten	_		{}
+7	til	_		{}
+8	at	_		{}
+9	præsentere	_	Cause_to_perceive	{"Medium": "22", "Phenomenon": "10", "Agent": "4"}
+10	reklamer	_		{}
+11	,	_		{}
+12	der	_		{}
+13	knytter	_		{}
+14	sig	_		{}
+15	til	_		{}
+16	ord	_	Text	{"Text": "16", "Medium": "22"}
+17	og	_	Simultaneity	{"Profiled_event": "16", "Landmark_event": "18"}
+18	begreber	_	Simple_name	{"Term": "18"}
+19	i	_		{}
+20	den	_		{}
+21	modtagne	_		{}
+22	post	_	Sent_items	{"Sent_item": "22"}
+23	.	_		{}

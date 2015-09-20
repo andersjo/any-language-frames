@@ -1,0 +1,48 @@
+1	The	_		{}
+2	corporation	_	Businesses	{"Business": "2"}
+3	has	_		{}
+4	been	_		{}
+5	estimated	_	Estimating	{"Item": "2", "Question": "7"}
+6	to	_		{}
+7	run	_	Operating_a_system	{"Operator": "2", "Place": "13", "System": "12"}
+8	more	_	Increment	{}
+9	than	_		{}
+10	one	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	million	_	Cardinal_numbers	{"Multiplier": "10", "Number": "11", "Entity": "12"}
+12	servers	_	Public_services	{"Institution": "12"}
+13	in	_		{}
+14	data	_	Information	{"Information": "14"}
+15	centers	_	Locale_by_use	{"Locale": "15", "Descriptor": "14", "Relative_location": "16"}
+16	around	_	Relational_quantity	{}
+17	the	_		{}
+18	world	_	Locale	{"Locale": "18"}
+19	(	_		{}
+20	as	_		{}
+21	of	_		{}
+22	2007	_		{}
+23	);	_		{}
+24	and	_		{}
+25	to	_		{}
+26	process	_	Process	{"Time": "42"}
+27	over	_	Completeness	{"Whole": "31"}
+28	one	_	Cardinal_numbers	{"Number": "28", "Entity": "29"}
+29	billion	_	Cardinal_numbers	{"Entity": "31", "Number": "29", "Multiplier": "28"}
+30	search	_	Seeking	{}
+31	requests	_	Request	{"Topic": "30"}
+32	,	_		{}
+33	and	_		{}
+34	about	_	Relational_quantity	{"Denoted_quantity": "34"}
+35	24	_		{}
+36	petabytes	_		{}
+37	of	_		{}
+38	user-generated	_		{}
+39	data	_	Information	{"Information": "39"}
+40	,	_		{}
+41	each	_		{}
+42	day	_	Calendric_unit	{"Unit": "42"}
+43	(	_		{}
+44	as	_		{}
+45	of	_		{}
+46	2009	_		{}
+47	)	_		{}
+48	.	_		{}

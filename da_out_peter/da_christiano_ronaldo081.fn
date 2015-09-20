@@ -1,0 +1,26 @@
+1	Dette	_		{}
+2	mål	_	Purpose	{"Goal": "2", "Agent": "10"}
+3	blev	_		{}
+4	rost	_		{}
+5	af	_		{}
+6	Alex	_		{}
+7	Ferguson	_		{}
+8	,	_		{}
+9	og	_		{}
+10	Ronaldo	_		{}
+11	slog	_		{}
+12	fast	_		{}
+13	efter	_		{}
+14	kampen	_		{}
+15	at	_		{}
+16	dette	_	Proper_reference	{"Intended_referent": "16", "Entity": "20"}
+17	var	_		{}
+18	det	_		{}
+19	bedste	_		{}
+20	mål	_	Purpose	{"Goal": "20", "Agent": "22"}
+21	,	_		{}
+22	han	_		{}
+23	havde	_		{}
+24	scoret	_		{}
+25	nogensinde	_		{}
+26	.	_		{}

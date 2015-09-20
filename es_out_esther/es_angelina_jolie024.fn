@@ -1,0 +1,55 @@
+1	Smith	_		{}
+2	"	_		{}
+3	,	_		{}
+4	que	_		{}
+5	ingresó	_		{}
+6	$478	_		{}
+7	millones	_	Quantity	{"Quantity": "6"}
+8	;	_		{}
+9	"	_		{}
+10	Wanted	_		{}
+11	"	_		{}
+12	,	_		{}
+13	que	_		{}
+14	ingresó	_		{}
+15	$341	_		{}
+16	millones	_	Quantity	{"Quantity": "15"}
+17	;	_		{}
+18	"	_		{}
+19	Salt	_		{}
+20	"	_		{}
+21	con	_		{}
+22	$293	_		{}
+23	millones	_	Quantity	{"Quantity": "22"}
+24	de	_		{}
+25	ingresos	_	Earnings_and_losses	{"Earnings": "23"}
+26	;	_		{}
+27	"	_		{}
+28	The	_		{}
+29	Tourist	_		{}
+30	"	_		{}
+31	,	_		{}
+32	que	_		{}
+33	ingresó	_		{}
+34	$278	_		{}
+35	millones	_	Quantity	{"Quantity": "34"}
+36	;	_		{}
+37	""	_		{}
+38	,	_		{}
+39	que	_		{}
+40	ingresó	_		{}
+41	$275	_		{}
+42	millones	_	Quantity	{"Quantity": "41"}
+43	y	_		{}
+44	"	_		{}
+45	60	_	Cardinal_numbers	{"Entity": "46"}
+46	segundos	_	Measure_duration	{"Count": "45"}
+47	"	_		{}
+48	con	_		{}
+49	una	_		{}
+50	recaudación	_	Earnings_and_losses	{"Place": "51", "Earnings": "54"}
+51	mundial	_	Political_locales	{}
+52	de	_		{}
+53	$237	_		{}
+54	millones	_	Quantity	{"Quantity": "53"}
+55	.	_		{}

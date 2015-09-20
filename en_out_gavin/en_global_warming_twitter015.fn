@@ -1,0 +1,18 @@
+1	Global	_	Political_locales	{"Locale": "1"}
+2	warming	_	Temperature	{"Temperature": "2", "Entity": "1"}
+3	is	_	Being_in_category	{"Category": "4", "Item": "2"}
+4	real	_	Actually_occurring_entity	{"Instance": "2"}
+5	....	_		{}
+6	it's	_		{}
+7	winter	_	Calendric_unit	{"Unit": "7"}
+8	I	_		{}
+9	turned	_	Change_operational_state	{"Device": "12", "Agent": "8"}
+10	on	_		{}
+11	the	_		{}
+12	BBQ	_	Social_event	{}
+13	,	_		{}
+14	and	_		{}
+15	it	_		{}
+16	started	_	Activity_start	{"Agent": "15", "Activity": "17"}
+17	raining	_	Precipitation	{"Precipitation": "17"}
+18	!	_		{}

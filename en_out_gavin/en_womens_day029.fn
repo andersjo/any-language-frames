@@ -1,0 +1,43 @@
+1	But	_	Concessive	{"Statement": "14"}
+2	in	_		{}
+3	morning	_	Temporal_subregion	{"Sub_part": "3"}
+4	,	_		{}
+5	despite	_	Judgment	{}
+6	the	_		{}
+7	orders	_	Leadership	{"Activity": "8"}
+8	to	_		{}
+9	the	_		{}
+10	contrary	_	Compliance	{"Protagonist": "13", "Norm": "7", "Act": "14"}
+11	,	_		{}
+12	textile	_	Substance	{"Substance": "12"}
+13	workers	_	Employing	{"Employee": "13", "Field": "12", "Place": "17"}
+14	left	_	Change_direction	{"Source": "16", "Theme": "13", "Time": "2"}
+15	their	_		{}
+16	work	_	Working_on	{"Place": "17", "Agent": "13"}
+17	in	_		{}
+18	several	_	Quantity	{"Individuals": "19", "Quantity": "18"}
+19	factories	_	Locale_by_use	{"Locale": "19"}
+20	and	_		{}
+21	sent	_		{}
+22	delegates	_	Appointing	{"Official": "22", "Selector": "13"}
+23	to	_		{}
+24	ask	_	Request	{"Message": "26", "Speaker": "22", "Time": "2"}
+25	for	_		{}
+26	support	_	Supporting	{"Supported": "29"}
+27	of	_		{}
+28	the	_		{}
+29	strike	_	Hit_target	{}
+30	…	_		{}
+31	which	_		{}
+32	led	_		{}
+33	to	_		{}
+34	mass	_	Quantity	{"Individuals": "35", "Quantity": "34"}
+35	strike	_	Hit_target	{}
+36	...	_		{}
+37	all	_	Quantity	{"Mass": "37"}
+38	went	_	Self_motion	{"Direction": "39", "Goal": "40", "Self_mover": "37"}
+39	out	_	Part_inner_outer	{}
+40	into	_		{}
+41	the	_		{}
+42	streets	_	Roadways	{"Roadway": "42"}
+43	.	_		{}

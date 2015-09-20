@@ -1,0 +1,66 @@
+1	Jolie	_		{}
+2	apareció	_		{}
+3	en	_		{}
+4	cinco	_	Cardinal_numbers	{"Entity": "5"}
+5	películas	_	Physical_artworks	{}
+6	de	_		{}
+7	su	_		{}
+8	hermano	_	Kinship	{"Ego": "1", "Alter": "8"}
+9	mientras	_		{}
+10	él	_		{}
+11	asistía	_		{}
+12	a	_		{}
+13	la	_		{}
+14	escuela	_	Locale_by_use	{"Locale": "16"}
+15	"	_		{}
+16	USC	_		{}
+17	school	_		{}
+18	of	_		{}
+19	cinema	_		{}
+20	arts	_		{}
+21	"	_		{}
+22	,	_		{}
+23	pero	_		{}
+24	su	_		{}
+25	carrera	_	Performers_and_roles	{"Performer": "1"}
+26	profesional	_	People_by_vocation	{"Person": "1"}
+27	se	_		{}
+28	inició	_	Locale_by_use	{}
+29	formalmente	_		{}
+30	en	_		{}
+31	1993	_		{}
+32	,	_		{}
+33	cuando	_		{}
+34	desempeñó	_		{}
+35	su	_		{}
+36	primer	_	First_experience	{"Experience": "38"}
+37	papel	_	Performers_and_roles	{"Performer1": "1", "Script": "38"}
+38	protagonista	_	First_rank	{"Item": "1"}
+39	en	_		{}
+40	la	_		{}
+41	película	_	Physical_artworks	{}
+42	de	_		{}
+43	bajo	_	Position_on_a_scale	{"Item": "44"}
+44	presupuesto	_	Estimated_value	{}
+45	"	_		{}
+46	Cyborg	_		{}
+47	2	_		{}
+48	"	_		{}
+49	,	_		{}
+50	como	_		{}
+51	"	_		{}
+52	Casella	_		{}
+53	Reese	_		{}
+54	"	_		{}
+55	,	_		{}
+56	un	_		{}
+57	robot-humano	_		{}
+58	concebido	_	Birth	{"Child": "57"}
+59	para	_		{}
+60	seducir	_	Getting	{"Recipient": "63"}
+61	a	_		{}
+62	los	_		{}
+63	rivales	_	Competition	{"Participant_2": "63", "Participant_1": "65"}
+64	del	_		{}
+65	fabricante	_	Manufacturing	{"Product": "57"}
+66	.	_		{}

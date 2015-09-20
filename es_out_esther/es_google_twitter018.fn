@@ -1,0 +1,18 @@
+1	Cuba	_		{}
+2	registra	_	Recording	{"Attribute": "6", "Phenomenon": "3", "Agent": "1", "Entity": "1"}
+3	mortalidad	_	Death	{"Protagonist": "1"}
+4	infantil	_	People_by_age	{}
+5	más	_	Increment	{"Initial_set": "3", "Added_set": "6", "Class": "3"}
+6	baja	_	Undergoing	{"Event": "6", "Entity": "3"}
+7	de	_		{}
+8	su	_		{}
+9	historia	_	History	{"Topic": "3"}
+10	-	_		{}
+11	teleSUR	_		{}
+12	TV	_		{}
+13	:	_		{}
+14	teleSUR	_		{}
+15	TV	_		{}
+16	Cuba	_		{}
+17	…	_		{}
+18	http://t.co/drd6RzOhPL	_		{}

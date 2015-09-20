@@ -1,0 +1,24 @@
+1	OK	_		{}
+2	Google	_		{}
+3	:	_		{}
+4	"	_		{}
+5	comment	_		{}
+6	faire	_		{}
+7	pour	_		{}
+8	ne	_		{}
+9	pas	_		{}
+10	tomber	_	Undergo_change	{"Final_category": "11"}
+11	amoureuse	_	Feeling	{"Emotion": "11"}
+12	?	_		{}
+13	"	_		{}
+14	error	_		{}
+15	404	_		{}
+16	not	_		{}
+17	found	_		{}
+18	ok	_		{}
+19	ta	_		{}
+20	mer	_		{}
+21	tu	_		{}
+22	vas	_		{}
+23	souffrir	_	Experience_bodily_harm	{"Experiencer": "21"}
+24	connasse	_		{}

@@ -1,0 +1,25 @@
+1	Jolie	_		{}
+2	has	_		{}
+3	said	_		{}
+4	that	_		{}
+5	she	_		{}
+6	is	_		{}
+7	part	_	Part_whole	{"Part": "8", "Whole": "5"}
+8	Iroquois	_		{}
+9	,	_		{}
+10	although	_		{}
+11	her	_		{}
+12	only	_	Sole_instance	{"Item": "15", "Type": "13"}
+13	known	_	Awareness	{"Topic": "13"}
+14	indigenous	_	Indigenous_origin	{"Origin": "18", "Entity": "15"}
+15	ancestor	_	Kinship	{"Relatives": "15", "Ego": "11", "Alter": "19"}
+16	was	_		{}
+17	a	_	Cardinal_numbers	{"Number": "17", "Entity": "18"}
+18	Huron	_		{}
+19	woman	_	People	{"Person": "19"}
+20	born	_		{}
+21	in	_		{}
+22	1649	_		{}
+23	in	_		{}
+24	Quebec	_		{}
+25	.	_		{}

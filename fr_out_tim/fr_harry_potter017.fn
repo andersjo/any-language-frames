@@ -1,0 +1,39 @@
+1	Une	_		{}
+2	fois	_	Temporal_collocation	{"Trajector_event": "8", "Landmark_period": "4"}
+3	à	_		{}
+4	Poudlard	_		{}
+5	,	_		{}
+6	Harry	_		{}
+7	va	_		{}
+8	apprendre	_	Education_teaching	{"Skill": "10", "Institution": "4", "Student": "6"}
+9	à	_		{}
+10	maîtriser	_	Control	{"Controlling_entity": "6", "Dependent_entity": "15"}
+11	et	_		{}
+12	à	_		{}
+13	utiliser	_	Using	{"Instrument": "15", "Agent": "6"}
+14	les	_		{}
+15	pouvoirs	_	Expertise	{"Skill": "15", "Protagonist": "6"}
+16	magiques	_		{}
+17	qu'il	_		{}
+18	possède	_		{}
+19	et	_		{}
+20	va	_		{}
+21	se	_		{}
+22	faire	_	Getting	{"Theme": "24", "Recipient": "6"}
+23	deux	_	Cardinal_numbers	{"Number": "23", "Entity": "24"}
+24	amis	_	Personal_relationship	{"Partners": "24"}
+25	inséparables	_		{}
+26	:	_		{}
+27	Ronald	_		{}
+28	Weasley	_		{}
+29	et	_		{}
+30	Hermione	_		{}
+31	Granger	_		{}
+32	,	_		{}
+33	qui	_		{}
+34	l'accompagneront	_		{}
+35	dans	_		{}
+36	toutes	_	Quantity	{"Individuals": "38", "Quantity": "36"}
+37	ses	_		{}
+38	péripéties	_		{}
+39	.	_		{}

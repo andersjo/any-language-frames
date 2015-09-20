@@ -1,0 +1,26 @@
+1	adgang	_	Having_or_lacking_access	{"Useful_location": "4"}
+2	til	_		{}
+3	følsomme	_	Health_response	{"Protagonist": "4"}
+4	data	_	Information	{"Source": "6"}
+5	fra	_		{}
+6	brugerne	_		{}
+7	,	_		{}
+8	hvilket	_		{}
+9	af	_		{}
+10	nogle	_		{}
+11	betragtes	_		{}
+12	som	_		{}
+13	en	_		{}
+14	trussel	_	Endangering	{"Cause": "1", "Valued_entity": "16"}
+15	mod	_		{}
+16	privatlivets	_		{}
+17	fred	_	Become_silent	{"Expressor": "16"}
+18	og	_		{}
+19	som	_	Similarity	{"Entities": "21"}
+20	et	_		{}
+21	skridt	_	Self_motion	{"Direction": "25"}
+22	nærmere	_		{}
+23	det	_		{}
+24	totale	_		{}
+25	overvågningssamfund	_		{}
+26	.	_		{}

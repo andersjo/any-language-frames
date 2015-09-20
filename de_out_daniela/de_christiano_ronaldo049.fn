@@ -1,0 +1,18 @@
+1	August	_	Calendric_unit	{"Whole": "2", "Unit": "1"}
+2	2003	_		{}
+3	,	_		{}
+4	dem	_		{}
+5	ersten	_	Ordinal_numbers	{"Type": "6"}
+6	Spieltag	_		{}
+7	der	_		{}
+8	Saison	_		{}
+9	2003/04	_		{}
+10	,	_		{}
+11	feierte	_		{}
+12	Ronaldo	_		{}
+13	sein	_	Possession	{"Possession": "14", "Owner": "12"}
+14	Debüt	_		{}
+15	im	_		{}
+16	Old	_		{}
+17	Trafford	_		{}
+18	.	_		{}

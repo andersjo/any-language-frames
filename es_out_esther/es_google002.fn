@@ -1,0 +1,70 @@
+1	El	_		{}
+2	principal	_	Importance	{"Interested_party": "5", "Field": "14", "Undertaking": "3"}
+3	producto	_	Manufacturing	{"Product": "8", "Factory": "5", "Manufacturer": "5"}
+4	de	_		{}
+5	Google	_		{}
+6	es	_	Being_in_category	{"Category": "8", "Item": "5"}
+7	el	_		{}
+8	motor	_		{}
+9	de	_		{}
+10	búsqueda	_	Scrutiny	{"Instrument": "8", "Cognizer": "5", "Medium": "14", "Ground": "12"}
+11	de	_		{}
+12	contenido	_	Topic	{"Topic": "14"}
+13	en	_		{}
+14	Internet	_	Network	{"Nodes": "12", "Network": "14"}
+15	del	_		{}
+16	mismo	_	Identicality	{"Previous_instance": "5", "Previous_context": "5", "Type": "3", "Current_instance": "16"}
+17	nombre	_	Being_named	{"Name": "5", "Entity": "8"}
+18	,	_		{}
+19	aunque	_		{}
+20	ofrece	_	Offering	{"Potential_recipient": "23", "Theme": "23", "Offerer": "5"}
+21	también	_	Sufficiency	{}
+22	otros	_	Increment	{"Initial_set": "8", "Class": "23", "Added_set": "23"}
+23	servicios	_	Public_services	{"Domain": "14", "Target_group": "26", "Institution": "5"}
+24	como	_	Similarity	{"Entity_1": "37", "Entity_2": "8", "Dimension": "14"}
+25	un	_		{}
+26	servicio	_	Public_services	{"Domain": "14", "Service_action": "28", "Institution": "5"}
+27	de	_		{}
+28	correo	_	Sending	{"Theme": "28", "Transport_means": "29"}
+29	electrónico	_		{}
+30	llamado	_	Being_named	{"Name": "31", "Entity": "28"}
+31	Gmail	_		{}
+32	,	_		{}
+33	sus	_		{}
+34	servicios	_	Public_services	{"Domain": "36", "Service_action": "36", "Institution": "5"}
+35	de	_		{}
+36	mapas	_		{}
+37	Google	_		{}
+38	Maps	_		{}
+39	y	_		{}
+40	Google	_		{}
+41	Earth	_		{}
+42	,	_		{}
+43	el	_		{}
+44	sitio	_	Locale_by_use	{"Locale": "48"}
+45	web	_	Network	{"Connections": "44", "Nodes": "47", "Network": "14", "Possessor": "5"}
+46	de	_		{}
+47	vídeos	_	Physical_artworks	{"Name": "48", "Artifact": "47"}
+48	YouTube	_		{}
+49	,	_		{}
+50	otras	_	Increment	{"Initial_set": "51", "Class": "51", "Added_set": "51"}
+51	utilidades	_	Usefulness	{"Purpose": "52", "Entity": "52"}
+52	web	_	Network	{"Connections": "55", "Nodes": "55", "Network": "55"}
+53	como	_		{}
+54	Google	_		{}
+55	Libros	_		{}
+56	o	_		{}
+57	Google	_		{}
+58	Noticias	_		{}
+59	,	_		{}
+60	el	_		{}
+61	navegador	_		{}
+62	web	_	Network	{"Connections": "61", "Nodes": "64"}
+63	Google	_		{}
+64	Chrome	_		{}
+65	,	_		{}
+66	la	_		{}
+67	red	_	Network	{"Connections": "68", "Nodes": "68", "Network": "69"}
+68	social	_	Sociability	{"Content": "68", "Company": "69", "Protagonist": "68"}
+69	Google+	_		{}
+70	.	_		{}

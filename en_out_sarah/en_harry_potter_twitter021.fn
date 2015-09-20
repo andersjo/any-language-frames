@@ -1,0 +1,23 @@
+1	@sarahodedina	_		{}
+2	I	_		{}
+3	was	_		{}
+4	just	_		{}
+5	wondering	_	Cogitation	{"Topic": "11", "Cognizer": "2", "Means": "5", "Time": "4"}
+6	if	_		{}
+7	you	_		{}
+8	still	_	Continued_state_of_affairs	{"Reference_occasion": "9", "State_of_affairs": "5"}
+9	have	_	Possession	{"Owner": "7", "Possession": "13", "Duration": "8", "Depictive": "11"}
+10	any	_	Quantity	{"Individuals": "13", "Quantity": "10"}
+11	Harry	_		{}
+12	Potter	_		{}
+13	items	_	Entity	{"Type": "11", "Entity": "13"}
+14	like	_	Similarity	{"Entity_1": "13", "Entity_2": "15"}
+15	this	_		{}
+16	you	_		{}
+17	might	_		{}
+18	be	_		{}
+19	looking	_		{}
+20	to	_		{}
+21	sell	_	Commerce_sell	{"Goods": "13", "Seller": "16"}
+22	.	_		{}
+23	jdclar3@gmail.com	_		{}

@@ -1,0 +1,18 @@
+1	In	_		{}
+2	January	_	Calendric_unit	{"Whole": "2"}
+3	2014	_		{}
+4	,	_		{}
+5	Ronaldo	_		{}
+6	scored	_	Successful_action	{"Goal": "8"}
+7	his	_		{}
+8	400th	_		{}
+9	senior	_	Age	{"Attribute": "9", "Entity": "11"}
+10	career	_		{}
+11	goal	_	Aiming	{"Targeted": "11", "Agent": "5"}
+12	for	_		{}
+13	club	_	Organization	{}
+14	and	_	Simultaneity	{}
+15	country	_	Locale	{"Locale": "15"}
+16	aged	_	Age	{"Age": "17", "Entity": "5"}
+17	28	_		{}
+18	.	_		{}

@@ -1,0 +1,9 @@
+1	@Unearned	_		{}
+2	dann	_	Temporal_collocation	{"Trajector_event": "4", "Landmark_period": "2"}
+3	Harry	_		{}
+4	Potter	_		{}
+5	,	_		{}
+6	aber	_	Concessive	{"Main_statement": "8"}
+7	auf	_		{}
+8	Englisch	_	People_by_origin	{"Origin": "8"}
+9	.	_		{}

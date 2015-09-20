@@ -1,0 +1,22 @@
+1	La	_		{}
+2	protagonista	_	Performers_and_roles	{"Performer": "2", "Script": "8", "Audience": "12", "Score": "14", "Role": "4", "Medium": "8", "Performance": "6", "Type": "9"}
+3	,	_		{}
+4	Lisístrata	_		{}
+5	,	_		{}
+6	realiza	_	Intentionally_act	{"Agent": "2"}
+7	una	_		{}
+8	huelga	_	Attack	{"Assailant": "2", "Victim": "12"}
+9	sexual	_		{}
+10	contra	_		{}
+11	los	_		{}
+12	hombres	_	People	{"Person": "12"}
+13	para	_		{}
+14	forzar	_	Subjective_influence	{"Product": "18", "Agent": "2", "Entity": "2", "Cognizer": "12", "Behavior": "18", "Action": "14", "Situation": "21"}
+15	que	_		{}
+16	estos	_	Proper_reference	{"Intended_referent": "12", "Entity": "12"}
+17	pongan	_	Bail_decision	{"Status": "18", "Judge": "2", "Accused": "12"}
+18	fin	_	Cause_to_end	{"Process": "21", "State": "17", "Cause": "2", "Agent": "12"}
+19	a	_		{}
+20	la	_		{}
+21	guerra	_	Hostile_encounter	{"Side_1": "122", "Issue": "14", "Sides": "12", "Purpose": "18"}
+22	.	_		{}

@@ -1,0 +1,27 @@
+1	In	_		{}
+2	der	_		{}
+3	Jugendakademie	_		{}
+4	von	_		{}
+5	Sporting	_		{}
+6	Lissabon	_		{}
+7	ausgebildet	_		{}
+8	,	_		{}
+9	wurde	_		{}
+10	Ronaldo	_		{}
+11	mit	_		{}
+12	18	_		{}
+13	Jahren	_	Calendric_unit	{"Count": "12", "Unit": "13"}
+14	von	_		{}
+15	Manchester	_		{}
+16	United	_		{}
+17	unter	_		{}
+18	Vertrag	_	Documents	{"Document": "18", "Bearer": "10", "Issuer": "15"}
+19	genommen	_		{}
+20	und	_		{}
+21	entwickelte	_	Cause_to_make_progress	{"Project": "26", "Agent": "10"}
+22	sich	_		{}
+23	dort	_	Locative_relation	{"Figure": "22", "Ground": "15"}
+24	zu	_		{}
+25	einem	_		{}
+26	Spitzenfußballer	_		{}
+27	.	_		{}

@@ -1,0 +1,20 @@
+1	Does	_	Capacity	{"Theme": "4", "Entity": "2"}
+2	methane	_		{}
+3	trap	_	Fastener	{"Fastener": "2", "Container": "4"}
+4	heat	_		{}
+5	?	_		{}
+6	Yes	_		{}
+7	.	_		{}
+8	But	_	Simultaneity	{"Profiled_event": "11", "Landmark_event": "3"}
+9	CO2	_		{}
+10	has	_		{}
+11	caused	_	Causation	{"Cause": "15", "Actor": "9"}
+12	3x	_		{}
+13	more	_	Increment	{"Class": "15", "Increment": "12"}
+14	global	_	Political_locales	{"Locale": "14"}
+15	warming	_		{}
+16	than	_		{}
+17	methane	_	Substance	{"Substance": "17"}
+18	.	_		{}
+19	@RealityDrop	_		{}
+20	http://t.co/bJIYOSkFlt	_		{}

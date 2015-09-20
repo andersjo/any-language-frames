@@ -1,0 +1,58 @@
+1	Chiede	_	Request	{"Topic": "3"}
+2	di	_		{}
+3	indossare	_	Dressing	{"Clothing": "5"}
+4	la	_		{}
+5	maglia	_	Clothing	{"Garment": "5"}
+6	numero	_	Instance	{"Instance": "5", "Type": "7"}
+7	28	_		{}
+8	(	_		{}
+9	come	_		{}
+10	allo	_		{}
+11	Sporting	_		{}
+12	)	_		{}
+13	,	_		{}
+14	per	_		{}
+15	evitare	_	Avoiding	{"Undesirable_situation": "16"}
+16	pressioni	_		{}
+17	ed	_		{}
+18	eventuali	_		{}
+19	paragoni	_	Evaluative_comparison	{"Profiled_item": "39"}
+20	nel	_		{}
+21	caso	_	Possibilities	{"Event": "22"}
+22	scegliesse	_		{}
+23	la	_		{}
+24	numero	_	Instance	{"Instance": "5", "Type": "25"}
+25	7	_	Cardinal_numbers	{"Number": "25"}
+26	,	_		{}
+27	storicamente	_	History	{"Topic": "25"}
+28	amata	_		{}
+29	dai	_		{}
+30	tifosi	_		{}
+31	del	_		{}
+32	Manchester	_		{}
+33	,	_		{}
+34	essendo	_		{}
+35	stata	_		{}
+36	in	_		{}
+37	passato	_	Individual_history	{}
+38	di	_		{}
+39	campioni	_		{}
+40	come	_		{}
+41	George	_		{}
+42	Best	_		{}
+43	,	_		{}
+44	Bryan	_		{}
+45	Robson	_		{}
+46	,	_		{}
+47	Eric	_		{}
+48	Cantona	_		{}
+49	e	_		{}
+50	,	_		{}
+51	fino	_	Continued_state_of_affairs	{"Reference_occasion": "53"}
+52	alla	_		{}
+53	stagione	_		{}
+54	precedente	_	Relative_time	{"Landmark_occasion": "53"}
+55	,	_		{}
+56	David	_		{}
+57	Beckham	_		{}
+58	.	_		{}

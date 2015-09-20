@@ -1,0 +1,15 @@
+1	Jennifer	_		{}
+2	Aniston	_		{}
+3	es	_	Being_in_category	{"Category": "7", "Item": "1"}
+4	mil	_	Cardinal_numbers	{"Number": "4", "Entity": "1"}
+5	veces	_	Event_instance	{"Instance": "7", "Event": "4"}
+6	mas	_		{}
+7	linda	_		{}
+8	que	_		{}
+9	Angelina	_		{}
+10	Jolie	_		{}
+11	,	_		{}
+12	no	_	Quantity	{}
+13	me	_	Proper_reference	{}
+14	jodan	_		{}
+15	.	_		{}

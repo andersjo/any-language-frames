@@ -1,0 +1,37 @@
+1	Women	_	People	{"Person": "1"}
+2	in	_		{}
+3	Saint	_	People_by_morality	{"Person": "3"}
+4	Petersburg	_		{}
+5	went	_	Self_motion	{"Goal": "6", "Self_mover": "1"}
+6	on	_		{}
+7	strike	_	Hit_target	{}
+8	that	_		{}
+9	day	_	Calendric_unit	{"Unit": "9"}
+10	for	_		{}
+11	“	_		{}
+12	Bread	_	Food	{"Food": "12"}
+13	and	_		{}
+14	Peace	_		{}
+15	"	_		{}
+16	-	_		{}
+17	demanding	_		{}
+18	the	_		{}
+19	end	_	Cause_to_end	{"State": "22"}
+20	of	_		{}
+21	World	_	Locale	{"Locale": "21"}
+22	War	_	Hostile_encounter	{"Place": "21"}
+23	I	_		{}
+24	,	_		{}
+25	an	_	Cardinal_numbers	{"Number": "25", "Entity": "26"}
+26	end	_	Process_end	{"Process": "30", "Place": "28"}
+27	to	_		{}
+28	Russian	_	Origin	{"Origin": "28", "Entity": "30"}
+29	food	_	Food	{"Food": "29", "Descriptor": "28"}
+30	shortages	_	Scarcity	{"Place": "28", "Collection": "29"}
+31	,	_		{}
+32	and	_		{}
+33	the	_		{}
+34	end	_	Cause_to_end	{"Process": "36"}
+35	of	_		{}
+36	czarism	_	Leadership	{"Activity": "36"}
+37	.	_		{}

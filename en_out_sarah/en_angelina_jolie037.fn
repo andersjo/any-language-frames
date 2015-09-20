@@ -1,0 +1,20 @@
+1	She	_		{}
+2	found	_	Being_in_category	{"Cognizer": "1"}
+3	it	_		{}
+4	difficult	_	Difficulty	{"Experiencer": "1", "Activity": "6"}
+5	to	_		{}
+6	emotionally	_	Feeling	{"Evaluation": "4", "Experiencer": "1"}
+7	connect	_	Communication	{"Topic": "6", "Communicator": "1", "Addressee": "9"}
+8	with	_		{}
+9	other	_	Increment	{"Class": "10"}
+10	people	_	People	{"Person": "10"}
+11	,	_		{}
+12	and	_		{}
+13	as	_		{}
+14	a	_	Cardinal_numbers	{"Number": "14", "Entity": "15"}
+15	result	_	Causation	{"Cause": "4", "Actor": "1"}
+16	she	_		{}
+17	started	_	Activity_start	{"Agent": "16", "Activity": "19"}
+18	to	_		{}
+19	self-harm	_		{}
+20	.	_		{}

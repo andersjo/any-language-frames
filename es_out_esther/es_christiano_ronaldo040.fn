@@ -1,0 +1,28 @@
+1	Marcó	_		{}
+2	su	_		{}
+3	primer	_	First_experience	{"Context": "6", "Experience": "1"}
+4	gol	_	Purpose	{"Attribute": "3", "Goal": "4", "Means": "6"}
+5	de	_		{}
+6	falta	_	Opportunity	{"Desirable_situation": "7", "Opportunity": "6"}
+7	directa	_	Sharpness	{"Attribute": "6", "Degree": "7", "Entity": "6"}
+8	,	_		{}
+9	en	_		{}
+10	la	_		{}
+11	victoria	_	Finish_competition	{"Opponent": "16"}
+12	por	_		{}
+13	3-0	_		{}
+14	sobre	_		{}
+15	el	_		{}
+16	Portsmouth	_		{}
+17	F	_		{}
+18	.	_		{}
+19	C	_		{}
+20	.	_		{}
+21	el	_		{}
+22	1	_	Cardinal_numbers	{"Number": "22", "Entity": "24"}
+23	de	_		{}
+24	noviembre	_	Calendric_unit	{"Relative_time": "24", "Whole": "26", "Unit": "22"}
+25	en	_		{}
+26	Old	_		{}
+27	Trafford	_		{}
+28	.	_		{}

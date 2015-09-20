@@ -1,0 +1,77 @@
+1	Malgré	_		{}
+2	les	_		{}
+3	tentatives	_	Attempt	{"Agent": "6"}
+4	de	_		{}
+5	son	_		{}
+6	oncle	_	Kinship	{"Ego": "5", "Alter": "6"}
+7	et	_		{}
+8	de	_		{}
+9	sa	_		{}
+10	tante	_	Kinship	{"Ego": "9", "Alter": "10"}
+11	pour	_		{}
+12	l'empêcher	_		{}
+13	de	_		{}
+14	s'y	_		{}
+15	rendre	_	Arriving	{"Theme": "14", "Goal": "14"}
+16	,	_		{}
+17	Rubeus	_		{}
+18	Hagrid	_		{}
+19	,	_		{}
+20	un	_		{}
+21	«	_		{}
+22	demi-géant	_		{}
+23	»	_		{}
+24	envoyé	_		{}
+25	par	_		{}
+26	Albus	_		{}
+27	Dumbledore	_		{}
+28	,	_		{}
+29	le	_		{}
+30	directeur	_	Leadership	{"Role": "30", "Leader": "27", "Governed": "32"}
+31	de	_		{}
+32	Poudlard	_		{}
+33	,	_		{}
+34	va	_		{}
+35	faire	_		{}
+36	découvrir	_	Perception_experience	{"Phenomenon": "40", "Perceiver_passive": "38"}
+37	à	_		{}
+38	Harry	_		{}
+39	le	_		{}
+40	monde	_	Locale	{"Locale": "40"}
+41	des	_		{}
+42	sorciers	_		{}
+43	et	_		{}
+44	l'emmener	_		{}
+45	à	_		{}
+46	la	_		{}
+47	gare	_	Locale_by_use	{"Locale": "47"}
+48	de	_		{}
+49	King's	_		{}
+50	Cross	_		{}
+51	de	_		{}
+52	Londres	_		{}
+53	,	_		{}
+54	où	_		{}
+55	il	_		{}
+56	prendra	_	Board_vehicle	{"Traveller": "55", "Vehicle": "58"}
+57	le	_		{}
+58	Poudlard	_		{}
+59	Express	_		{}
+60	(	_		{}
+61	qui	_		{}
+62	se	_		{}
+63	situe	_	Being_located	{"Theme": "58", "Location": "66"}
+64	sur	_		{}
+65	la	_		{}
+66	voie	_	Roadways	{"Roadway": "66"}
+67	9	_		{}
+68	3/4	_		{}
+69	)	_		{}
+70	qui	_		{}
+71	le	_		{}
+72	conduira	_	Bringing	{"Path": "66", "Theme": "71", "Carrier": "58", "Goal": "76"}
+73	jusqu'à	_		{}
+74	sa	_		{}
+75	nouvelle	_	Age	{"Age": "75", "Entity": "76"}
+76	école	_	Locale_by_use	{"Locale": "76"}
+77	.	_		{}

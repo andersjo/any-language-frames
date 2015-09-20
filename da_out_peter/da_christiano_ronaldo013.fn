@@ -1,0 +1,23 @@
+1	I	_		{}
+2	en	_		{}
+3	alder	_	Age	{"Age": "5", "Entity": "8"}
+4	af	_		{}
+5	otte	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	år	_	Age	{"Age": "5", "Entity": "8"}
+7	spillede	_		{}
+8	han	_		{}
+9	på	_		{}
+10	amatørholdet	_		{}
+11	Andorinha	_		{}
+12	,	_		{}
+13	hvor	_		{}
+14	hans	_		{}
+15	far	_	Kinship	{"Ego": "8", "Alter": "15"}
+16	var	_		{}
+17	den	_		{}
+18	,	_		{}
+19	der	_		{}
+20	stod	_		{}
+21	for	_		{}
+22	spilledragterne	_		{}
+23	.	_		{}

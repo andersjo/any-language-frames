@@ -1,0 +1,29 @@
+1	Her	_		{}
+2	bliver	_		{}
+3	han	_		{}
+4	venner	_	Personal_relationship	{"Partner_2": "6", "Relationship": "4"}
+5	med	_		{}
+6	Hermione	_		{}
+7	Granger	_		{}
+8	og	_	Simultaneity	{"Profiled_event": "6", "Landmark_event": "9"}
+9	Ron	_		{}
+10	Weasley	_		{}
+11	,	_		{}
+12	som	_		{}
+13	han	_		{}
+14	kommer	_		{}
+15	til	_		{}
+16	at	_		{}
+17	bo	_	Residence	{"Location": "26", "Co_resident": "9"}
+18	sammen	_	Collaboration	{"Undertaking": "17", "Place": "26", "Partner_2": "9"}
+19	med	_		{}
+20	på	_		{}
+21	det	_		{}
+22	ene	_		{}
+23	af	_		{}
+24	skolens	_		{}
+25	fire	_	Cardinal_numbers	{"Number": "25", "Entity": "26"}
+26	kollegier	_	Buildings	{"Building": "26", "Relative_location": "24", "Name": "28"}
+27	,	_		{}
+28	Gryffindor-kollegiet	_		{}
+29	.	_		{}

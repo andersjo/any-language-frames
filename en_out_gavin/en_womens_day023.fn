@@ -1,0 +1,19 @@
+1	Sylvia	_		{}
+2	Pankhurst	_		{}
+3	was	_	Being_in_category	{"Category": "4"}
+4	arrested	_	Arrest	{"Place": "5", "Suspect": "2"}
+5	in	_		{}
+6	front	_	Presence	{"Location": "5", "Entity": "2"}
+7	of	_		{}
+8	Charing	_		{}
+9	Cross	_	Traversing	{}
+10	station	_	Locale_by_use	{"Locale": "10", "Name": "9"}
+11	on	_		{}
+12	her	_		{}
+13	way	_	Path_traveled	{"Path": "13", "Theme": "12", "Goal": "14"}
+14	to	_		{}
+15	speak	_	Speak_on_topic	{"Place": "16", "Speaker": "12"}
+16	in	_		{}
+17	Trafalgar	_		{}
+18	Square	_	Locale_by_use	{"Locale": "18", "Name": "17"}
+19	.	_		{}

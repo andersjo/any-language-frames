@@ -1,0 +1,18 @@
+1	Anche	_		{}
+2	il	_		{}
+3	fratello	_	Kinship	{"Descriptor": "4", "Alter": "3"}
+4	maggiore	_	Position_on_a_scale	{"Item": "5", "Domain": "3"}
+5	James	_		{}
+6	si	_		{}
+7	fece	_		{}
+8	togliere	_	Removing	{"Theme": "10", "Cause": "3"}
+9	il	_		{}
+10	cognome	_	Being_named	{"Name_source": "12", "Entity": "3"}
+11	del	_		{}
+12	padre	_	Kinship	{"Ego": "5", "Alter": "12"}
+13	facendosi	_		{}
+14	accreditare	_		{}
+15	come	_	Identicality	{"Set_of_instances": "10", "Current_instance": "17"}
+16	James	_		{}
+17	Haven	_		{}
+18	.	_		{}

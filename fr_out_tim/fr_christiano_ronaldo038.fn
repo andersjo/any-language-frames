@@ -1,0 +1,33 @@
+1	Le	_		{}
+2	jeune	_	People_by_age	{"Person": "3", "Age": "2"}
+3	lusitanien	_		{}
+4	attire	_	Experiencer_obj	{"Stimulus": "3", "Experiencer": "7"}
+5	l'attention	_		{}
+6	du	_		{}
+7	Milan	_		{}
+8	AC	_		{}
+9	et	_		{}
+10	est	_		{}
+11	présenté	_		{}
+12	par	_		{}
+13	son	_		{}
+14	agent	_	People_by_vocation	{"Person": "16"}
+15	Jorge	_		{}
+16	Mendes	_		{}
+17	au	_		{}
+18	FC	_		{}
+19	Barcelone	_		{}
+20	,	_		{}
+21	mais	_		{}
+22	le	_		{}
+23	club	_	Organization	{"Organization": "19"}
+24	catalan	_		{}
+25	trouve	_	Judgment	{"Cognizer": "23", "Evaluee": "27"}
+26	le	_		{}
+27	montant	_	Quantity	{}
+28	de	_		{}
+29	son	_		{}
+30	transfert	_	Transfer	{"Theme": "3", "Recipient": "23"}
+31	trop	_	Sufficiency	{"Item": "27", "Scale": "32"}
+32	élevé	_	Position_on_a_scale	{"Item": "27"}
+33	.	_		{}

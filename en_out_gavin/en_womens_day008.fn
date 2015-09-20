@@ -1,0 +1,16 @@
+1	There	_		{}
+2	was	_	Existence	{"Entity": "5"}
+3	no	_	Quantity	{"Individuals": "5", "Quantity": "3"}
+4	specific	_		{}
+5	strike	_	Attack	{}
+6	happening	_		{}
+7	in	_		{}
+8	March	_	Calendric_unit	{"Unit": "8"}
+9	8	_	Cardinal_numbers	{"Number": "9"}
+10	,	_		{}
+11	despite	_	Judgment	{}
+12	later	_	Relative_time	{"Focal_occasion": "14", "Focal_participant": "13", "Landmark_occasion": "2"}
+13	sources	_	Attributed_information	{"Proposition": "15", "Speaker": "13"}
+14	claiming	_	Statement	{"Message": "15", "Speaker": "13"}
+15	so	_		{}
+16	.	_		{}

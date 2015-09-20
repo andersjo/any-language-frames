@@ -1,0 +1,31 @@
+1	,	_		{}
+2	the	_		{}
+3	books	_	Text	{"Text": "3"}
+4	had	_		{}
+5	sold	_		{}
+6	between	_		{}
+7	400	_	Cardinal_numbers	{"Number": "7", "Entity": "10"}
+8	and	_		{}
+9	450	_	Cardinal_numbers	{"Number": "9", "Entity": "10"}
+10	million	_	Cardinal_numbers	{"Entity": "11", "Number": "10", "Multiplier": "7"}
+11	copies	_	Duplication	{"Copy": "11"}
+12	,	_		{}
+13	making	_		{}
+14	them	_		{}
+15	one	_	Cardinal_numbers	{"Number": "15", "Entity": "20"}
+16	of	_		{}
+17	the	_		{}
+18	best-selling	_		{}
+19	book	_	Text	{"Text": "19"}
+20	series	_	Sequence	{"Entity1": "19"}
+21	in	_		{}
+22	history	_	History	{}
+23	,	_		{}
+24	and	_		{}
+25	had	_		{}
+26	been	_		{}
+27	translated	_	Translating	{"Content": "3", "Target_representation": "29"}
+28	into	_		{}
+29	73	_		{}
+30	languages	_	Communication	{"Medium": "30"}
+31	.	_		{}

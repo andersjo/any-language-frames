@@ -1,0 +1,13 @@
+1	Fue	_	Cause_to_perceive	{"Explanation": "10", "Frequency": "4", "Perceiver": "7", "Manner": "4"}
+2	observado	_	Becoming_aware	{"Particular_iteration": "4", "Manner": "4", "Cognizer": "7"}
+3	por	_		{}
+4	primera	_	First_experience	{"Context": "10"}
+5	vez	_	Event_instance	{"Instance": "4", "Event": "2"}
+6	por	_		{}
+7	Gérard	_		{}
+8	Houllier	_		{}
+9	el	_		{}
+10	gerente	_	Leadership	{"Depictive": "12", "Type": "13", "Role": "10", "Leader": "7", "Activity": "12"}
+11	del	_		{}
+12	Liverpool	_		{}
+13	F.C.	_		{}

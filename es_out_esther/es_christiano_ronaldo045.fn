@@ -1,0 +1,103 @@
+1	Tras	_		{}
+2	un	_		{}
+3	mal	_	Damaging	{"Patient": "4"}
+4	inicio	_	Process_start	{"Place": "7", "Time": "1"}
+5	en	_		{}
+6	la	_		{}
+7	Liga	_	Finish_competition	{"Competitor": "25"}
+8	2005-06	_		{}
+9	,	_		{}
+10	en	_		{}
+11	la	_		{}
+12	que	_		{}
+13	sin	_		{}
+14	embargo	_		{}
+15	anotó	_		{}
+16	en	_		{}
+17	los	_		{}
+18	primeros	_	First_experience	{"Experience": "19"}
+19	partidos	_	Social_event	{}
+20	el	_		{}
+21	gol	_	Purpose	{"Attribute": "22", "Goal": "23", "Value": "23"}
+22	número	_	Quantity	{"Individuals": "21", "Quantity": "23"}
+23	1.000	_		{}
+24	del	_		{}
+25	club	_	Organization	{"Organization": "25"}
+26	en	_		{}
+27	la	_		{}
+28	Premier	_		{}
+29	League	_		{}
+30	,	_		{}
+31	fue	_		{}
+32	nombrado	_		{}
+33	por	_		{}
+34	la	_		{}
+35	FIFPro	_		{}
+36	como	_	Similarity	{"Differentiating_fact": "39"}
+37	«	_		{}
+38	Mejor	_	Expertise	{"Role": "39", "Behavior_product": "39", "Protagonist": "40", "Focal_participant": "39", "Knowledge": "39"}
+39	jugador	_	Performers	{"Person": "40"}
+40	joven	_	People_by_age	{"Person": "39", "Age": "40"}
+41	del	_		{}
+42	año	_	Calendric_unit	{"Whole": "42"}
+43	»	_		{}
+44	,	_		{}
+45	fimando	_		{}
+46	algunas	_		{}
+47	de	_		{}
+48	sus	_		{}
+49	mejores	_	Compliance	{"State_of_Affairs": "50", "Act": "50"}
+50	actuaciones	_		{}
+51	como	_	Identicality	{}
+52	jugador	_	Performers	{"Person": "52"}
+53	«	_		{}
+54	red	_	Network	{"Nodes": "52", "Network": "52"}
+55	»	_		{}
+56	en	_		{}
+57	partidos	_	Social_event	{"Attendee": "61"}
+58	frente	_		{}
+59	al	_		{}
+60	Bolton	_		{}
+61	Wanderers	_		{}
+62	F	_		{}
+63	.	_		{}
+64	C	_		{}
+65	.,	_		{}
+66	el	_		{}
+67	Fulham	_		{}
+68	F	_		{}
+69	.	_		{}
+70	C	_		{}
+71	.,	_		{}
+72	el	_		{}
+73	Portsmouth	_		{}
+74	F	_		{}
+75	.	_		{}
+76	C	_		{}
+77	.,	_		{}
+78	o	_		{}
+79	el	_		{}
+80	Wigan	_		{}
+81	Athletic	_		{}
+82	F	_		{}
+83	.	_		{}
+84	C	_		{}
+85	.	_		{}
+86	en	_		{}
+87	la	_		{}
+88	final	_	Version_sequence	{"Item": "92"}
+89	de	_		{}
+90	la	_		{}
+91	Carling	_		{}
+92	Cup	_		{}
+93	,	_		{}
+94	donde	_		{}
+95	se	_		{}
+96	proclamaron	_	Communication_noise	{"Topic": "97", "Message": "97"}
+97	campeones	_		{}
+98	después	_	Relative_time	{"Focal_occasion": "100", "Landmark_occasion": "100"}
+99	de	_		{}
+100	vencer	_	Beat_opponent	{}
+101	por	_		{}
+102	4-0	_		{}
+103	.	_		{}

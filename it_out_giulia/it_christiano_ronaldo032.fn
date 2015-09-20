@@ -1,0 +1,65 @@
+1	Cresciuto	_		{}
+2	nell'Andorinha	_		{}
+3	,	_		{}
+4	dove	_		{}
+5	ha	_		{}
+6	iniziato	_		{}
+7	a	_		{}
+8	giocare	_	Performers_and_roles	{}
+9	all'età	_		{}
+10	di	_		{}
+11	7	_	Cardinal_numbers	{"Number": "11", "Entity": "12"}
+12	anni	_	Age	{"Age": "12"}
+13	,	_		{}
+14	squadra	_	Aggregate	{}
+15	in	_		{}
+16	cui	_		{}
+17	suo	_		{}
+18	padre	_	Kinship	{"Alter": "18"}
+19	faceva	_	Being_employed	{"Employee": "18", "Position": "21", "Employer": "14"}
+20	il	_		{}
+21	magazziniere	_		{}
+22	,	_		{}
+23	i	_		{}
+24	ragazzi	_		{}
+25	di	_		{}
+26	dodici	_	Cardinal_numbers	{"Number": "26", "Entity": "27"}
+27	anni	_	Age	{"Age": "27", "Entity": "24"}
+28	già	_		{}
+29	all'epoca	_		{}
+30	lo	_		{}
+31	volevano	_	Desiring	{"Event": "33", "Experiencer": "24"}
+32	a	_		{}
+33	giocare	_	Performers_and_roles	{"Performer2": "24"}
+34	assieme	_	Collaboration	{"Partner_2": "24"}
+35	a	_		{}
+36	loro	_		{}
+37	e	_		{}
+38	pare	_		{}
+39	non	_		{}
+40	passasse	_	Passing	{"Theme": "43"}
+41	mai	_	Frequency	{"Attribute": "41", "Event": "40"}
+42	la	_		{}
+43	palla	_		{}
+44	,	_		{}
+45	nel	_		{}
+46	1995	_		{}
+47	si	_		{}
+48	trasferisce	_	Transfer	{"Recipient": "50"}
+49	al	_		{}
+50	Nacional	_		{}
+51	,	_		{}
+52	che	_		{}
+53	ne	_		{}
+54	rileva	_		{}
+55	le	_		{}
+56	prestazioni	_	Performing_arts	{}
+57	in	_		{}
+58	cambio	_	Exchange	{"Theme_1": "56", "Theme_2": "61", "Exchanger_2": "50"}
+59	di	_		{}
+60	due	_	Cardinal_numbers	{"Number": "60", "Entity": "61"}
+61	mute	_		{}
+62	di	_		{}
+63	divise	_	Clothing	{"Garment": "63", "Descriptor": "64"}
+64	nuove	_		{}
+65	.	_		{}

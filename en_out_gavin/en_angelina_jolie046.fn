@@ -1,0 +1,24 @@
+1	In	_		{}
+2	response	_	Communication_response	{}
+3	,	_		{}
+4	Jolie	_		{}
+5	released	_	Releasing	{"Theme": "7", "Agent": "4"}
+6	a	_	Cardinal_numbers	{"Number": "6", "Entity": "7"}
+7	statement	_		{}
+8	in	_		{}
+9	which	_		{}
+10	she	_		{}
+11	indicated	_	Communication	{"Communicator": "10", "Message": "16"}
+12	that	_		{}
+13	she	_		{}
+14	no	_		{}
+15	longer	_	Duration_attribute	{"Degree": "14"}
+16	wished	_	Desiring	{"Experiencer": "13", "Manner": "15", "Event": "18"}
+17	to	_		{}
+18	pursue	_	Intentionally_act	{"Agent": "13"}
+19	a	_	Cardinal_numbers	{"Number": "19", "Entity": "20"}
+20	relationship	_		{}
+21	with	_		{}
+22	her	_		{}
+23	father	_	Kinship	{"Ego": "22", "Alter": "23"}
+24	.	_		{}

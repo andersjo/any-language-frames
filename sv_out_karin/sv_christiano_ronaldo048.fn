@@ -1,0 +1,24 @@
+1	Enligt	_		{}
+2	obekräftade	_		{}
+3	uppgifter	_	Information	{"Topic": "5", "Cognizer": "2", "Information": "6"}
+4	skulle	_		{}
+5	Ronaldo	_		{}
+6	tjäna	_	Earnings_and_losses	{"Earner": "5", "Earnings": "11"}
+7	cirka	_	Estimated_value	{"Item": "5", "Value": "11"}
+8	2	_		{}
+9	,	_		{}
+10	7	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	miljoner	_	Quantity	{"Individuals": "10"}
+12	i	_		{}
+13	veckan	_		{}
+14	i	_		{}
+15	den	_		{}
+16	spanska	_		{}
+17	klubben	_	Organization	{"Place": "16", "Members": "5"}
+18	med	_		{}
+19	en	_	Cardinal_numbers	{"Entity": "21", "Number": "19", "Multiplier": "20"}
+20	25-procentig	_		{}
+21	löneökning	_		{}
+22	varje	_		{}
+23	säsong	_		{}
+24	.	_		{}

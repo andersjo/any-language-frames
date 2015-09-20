@@ -1,0 +1,32 @@
+1	Während	_	Duration_relation	{"Eventuality": "4"}
+2	der	_		{}
+3	finalen	_		{}
+4	Schlacht	_	Fighting_activity	{"Fight": "4"}
+5	in	_		{}
+6	Hogwarts	_		{}
+7	erfährt	_		{}
+8	Harry	_		{}
+9	,	_		{}
+10	dass	_		{}
+11	er	_		{}
+12	sterben	_	Death	{"Protagonist": "8"}
+13	muss	_		{}
+14	,	_		{}
+15	um	_		{}
+16	Lord	_		{}
+17	Voldemort	_		{}
+18	sterblich	_		{}
+19	zu	_		{}
+20	machen	_	Cause_change	{"Final_value": "18", "Entity": "17"}
+21	,	_		{}
+22	weil	_		{}
+23	er	_		{}
+24	einen	_		{}
+25	Teil	_	Part_whole	{"Part": "25", "Whole": "27"}
+26	der	_		{}
+27	Seele	_		{}
+28	Voldemorts	_		{}
+29	in	_		{}
+30	sich	_		{}
+31	trägt	_		{}
+32	.	_		{}

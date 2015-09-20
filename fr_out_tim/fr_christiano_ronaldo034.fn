@@ -1,0 +1,26 @@
+1	Il	_		{}
+2	inscrit	_	Recording	{"Phenomenon": "5", "Value": "4"}
+3	également	_		{}
+4	deux	_	Cardinal_numbers	{"Number": "4", "Entity": "5"}
+5	buts	_		{}
+6	en	_		{}
+7	trois	_	Cardinal_numbers	{"Number": "7", "Entity": "8"}
+8	matchs	_	Competition	{"Participant_1": "1", "Competition": "8"}
+9	de	_		{}
+10	Coupe	_		{}
+11	du	_		{}
+12	Portugal	_		{}
+13	et	_		{}
+14	fait	_		{}
+15	ses	_		{}
+16	débuts	_	Process_start	{}
+17	en	_		{}
+18	Ligue	_		{}
+19	des	_		{}
+20	champions	_		{}
+21	face	_	Hostile_encounter	{"Side_2": "23", "Side_1": "1"}
+22	à	_		{}
+23	l'Inter	_		{}
+24	de	_		{}
+25	Milan	_		{}
+26	.	_		{}

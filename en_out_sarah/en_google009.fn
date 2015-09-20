@@ -1,0 +1,20 @@
+1	"	_		{}
+2	In	_		{}
+3	2004	_		{}
+4	,	_		{}
+5	Google	_		{}
+6	moved	_	Body_movement	{"Sub": "12", "Area": "12", "Agent": "5", "Place": "15", "Time": "3", "Goal": "10"}
+7	to	_		{}
+8	its	_		{}
+9	new	_	Age	{"Age": "9"}
+10	headquarters	_	Locale_by_use	{"Locale": "10"}
+11	in	_		{}
+12	Mountain	_		{}
+13	View	_		{}
+14	,	_		{}
+15	California	_		{}
+16	,	_		{}
+17	nicknamed	_	Being_named	{"Name": "19", "Entity": "10"}
+18	the	_		{}
+19	Googleplex	_		{}
+20	.	_		{}

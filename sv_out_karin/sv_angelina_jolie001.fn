@@ -1,0 +1,25 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	,	_		{}
+4	född	_	Birth	{"Child": "2"}
+5	Angelina	_		{}
+6	Jolie	_		{}
+7	Voight	_		{}
+8	,	_		{}
+9	DCMG	_		{}
+10	,	_		{}
+11	den	_		{}
+12	4	_	Cardinal_numbers	{}
+13	juni	_	Calendric_unit	{}
+14	1975	_		{}
+15	i	_	Political_locales	{"Locale": "17"}
+16	Los	_		{}
+17	Angeles	_		{}
+18	,	_		{}
+19	Kalifornien	_		{}
+20	,	_		{}
+21	är	_		{}
+22	en	_	Cardinal_numbers	{"Number": "2"}
+23	amerikansk	_	Origin	{"Entity": "2"}
+24	skådespelare	_	Performers	{"Person": "2"}
+25	.	_		{}

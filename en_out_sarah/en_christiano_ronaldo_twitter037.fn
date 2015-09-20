@@ -1,0 +1,10 @@
+1	Christiano	_		{}
+2	Ronaldo	_		{}
+3	looks	_	Appearance	{"Phenomenon": "1", "Characterization": "5"}
+4	nothing	_	Cardinal_numbers	{"Number": "4"}
+5	like	_	Similarity	{"Entity_1": "2", "Entity_2": "7"}
+6	the	_		{}
+7	Fifa	_		{}
+8	version	_	Similarity	{"Entity_1": "7", "Entity_2": "10"}
+9	of	_		{}
+10	him	_		{}

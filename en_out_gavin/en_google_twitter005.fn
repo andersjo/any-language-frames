@@ -1,0 +1,9 @@
+1	30	_	Cardinal_numbers	{"Number": "1", "Entity": "3"}
+2	Compelling	_		{}
+3	Photographs	_	Physical_artworks	{"Descriptor": "2", "Artifact": "3"}
+4	Taken	_	Experiencer_focus	{}
+5	By	_		{}
+6	Google	_		{}
+7	Street	_	Roadways	{"Roadway": "7", "Name": "6"}
+8	View	_	Perception_experience	{"Phenomenon": "8"}
+9	http://t.co/gBB3bQIcfm	_		{}

@@ -1,0 +1,22 @@
+1	Min	_		{}
+2	sambo	_	Personal_relationship	{"Partner_2": "2", "Partner_1": "6"}
+3	frågade	_		{}
+4	just	_		{}
+5	om	_	Questioning	{"Topic": "8", "Addressee": "6", "Speaker": "2"}
+6	jag	_		{}
+7	skulle	_		{}
+8	följa	_		{}
+9	med	_		{}
+10	Angelina	_		{}
+11	Jolie	_		{}
+12	till	_		{}
+13	ett	_	Cardinal_numbers	{"Number": "13", "Entity": "14"}
+14	hotell	_	Buildings	{"Function": "14", "Building": "14", "Type": "14"}
+15	.	_		{}
+16	Jag	_		{}
+17	tror	_	Judgment	{"Cognizer": "16", "Evaluee": "18"}
+18	det	_		{}
+19	är	_		{}
+20	en	_	Cardinal_numbers	{"Number": "20", "Entity": "21"}
+21	trickfråga	_		{}
+22	.	_		{}

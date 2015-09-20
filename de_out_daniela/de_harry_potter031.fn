@@ -1,0 +1,20 @@
+1	Die	_		{}
+2	Handlung	_		{}
+3	der	_		{}
+4	Bände	_		{}
+5	1	_	Cardinal_numbers	{"Number": "5", "Entity": "4"}
+6	bis	_		{}
+7	6	_	Cardinal_numbers	{"Number": "7", "Entity": "4"}
+8	spielt	_	Performers_and_roles	{"Medium": "4", "Script": "2"}
+9	vor	_		{}
+10	allem	_		{}
+11	im	_		{}
+12	Internat	_		{}
+13	Hogwarts	_		{}
+14	,	_		{}
+15	das	_		{}
+16	zu	_		{}
+17	Harrys	_		{}
+18	Lebensmittelpunkt	_		{}
+19	wird	_		{}
+20	.	_		{}

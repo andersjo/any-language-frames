@@ -1,0 +1,46 @@
+1	Heriblandt	_		{}
+2	har	_		{}
+3	hun	_	People	{"Person": "3"}
+4	skrevet	_	Text	{"Text": "8", "Author": "3", "Title": "8"}
+5	”	_		{}
+6	know	_		{}
+7	your	_		{}
+8	rights	_		{}
+9	”	_		{}
+10	på	_		{}
+11	det	_		{}
+12	øverste	_		{}
+13	af	_		{}
+14	ryggen	_		{}
+15	,	_		{}
+16	og	_		{}
+17	på	_		{}
+18	underarmen	_	Observable_body_parts	{"Body_part": "18", "Possessor": "3"}
+19	har	_	Have_associated	{"Place": "18", "Topical_entity": "23", "Entity": "20"}
+20	hun	_		{}
+21	et	_		{}
+22	Tennessee	_		{}
+23	Williams-citat	_		{}
+24	,	_		{}
+25	”	_		{}
+26	A	_		{}
+27	prayer	_		{}
+28	for	_		{}
+29	the	_		{}
+30	wild	_		{}
+31	at	_		{}
+32	heart	_		{}
+33	,	_		{}
+34	kept	_		{}
+35	in	_		{}
+36	cages	_		{}
+37	”	_		{}
+38	,	_		{}
+39	som	_		{}
+40	hun	_	People	{"Person": "40"}
+41	fik	_		{}
+42	sammen	_	Collaboration	{"Partner_2": "45", "Partner_1": "40"}
+43	med	_		{}
+44	sin	_		{}
+45	mor	_	Kinship	{"Ego": "40", "Alter": "45"}
+46	.	_		{}

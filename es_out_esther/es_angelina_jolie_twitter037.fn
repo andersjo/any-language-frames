@@ -1,0 +1,28 @@
+1	Tip	_		{}
+2	:	_		{}
+3	Para	_		{}
+4	que	_		{}
+5	los	_		{}
+6	labios	_	Observable_body_parts	{"Body_part": "6"}
+7	parezcan	_	Appearance	{"Phenomenon": "9"}
+8	más	_	Change_position_on_a_scale	{"Final_value": "9"}
+9	gruesos	_	Body_description_holistic	{}
+10	,	_		{}
+11	os	_		{}
+12	aconsejo	_	Telling	{"Topic": "14", "Message": "16", "Addressee": "11"}
+13	una	_		{}
+14	serie	_		{}
+15	de	_		{}
+16	puñetazos	_		{}
+17	en	_		{}
+18	la	_		{}
+19	boca	_	Observable_body_parts	{"Body_part": "19"}
+20	.	_		{}
+21	A	_		{}
+22	más	_	Increment	{"Added_set": "23"}
+23	puñetazos	_	Hostile_encounter	{}
+24	,	_		{}
+25	más	_	Change_position_on_a_scale	{"Attribute": "9", "Final_value": "26"}
+26	Angelina	_		{}
+27	Jolie	_		{}
+28	.	_		{}

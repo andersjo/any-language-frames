@@ -1,0 +1,49 @@
+1	Conformément	_		{}
+2	au	_		{}
+3	format	_		{}
+4	du	_		{}
+5	roman	_	Text	{"Text": "5"}
+6	d'initiation	_		{}
+7	,	_		{}
+8	Harry	_		{}
+9	grandit	_	Progress	{"Entity": "8"}
+10	prématurément	_		{}
+11	dans	_		{}
+12	le	_		{}
+13	dernier	_	Ordinal_numbers	{"Item": "14"}
+14	tome	_	Text	{"Text": "14"}
+15	,	_		{}
+16	en	_		{}
+17	perdant	_		{}
+18	la	_		{}
+19	chance	_	Opportunity	{"Desirable_situation": "21", "Agent": "8"}
+20	de	_		{}
+21	suivre	_		{}
+22	sa	_		{}
+23	dernière	_		{}
+24	année	_	Calendric_unit	{"Unit": "24"}
+25	d'études	_		{}
+26	et	_		{}
+27	se	_		{}
+28	trouve	_		{}
+29	dans	_		{}
+30	la	_		{}
+31	nécessité	_	Being_necessary	{"Requirement": "32"}
+32	d'adopter	_		{}
+33	un	_		{}
+34	comportement	_	Conduct	{"Manner": "35", "Agent": "8"}
+35	adulte	_	People_by_age	{"Age": "35"}
+36	dont	_		{}
+37	les	_		{}
+38	décisions	_		{}
+39	influencent	_	Subjective_influence	{"Situation": "38", "Cognizer": "43"}
+40	tous	_		{}
+41	les	_		{}
+42	autres	_		{}
+43	personnages	_	People	{}
+44	–	_		{}
+45	y	_		{}
+46	compris	_	Inclusion	{"Total": "43", "Part": "48"}
+47	les	_		{}
+48	adultes	_	People_by_age	{"Person": "48", "Age": "48"}
+49	.	_		{}

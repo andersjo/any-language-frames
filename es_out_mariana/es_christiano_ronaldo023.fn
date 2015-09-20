@@ -1,0 +1,12 @@
+1	Todo	_	Degree	{"Gradable_attribute": "8"}
+2	ello	_		{}
+3	contribuyó	_		{}
+4	a	_		{}
+5	su	_		{}
+6	formación	_	Creating	{"Depictive": "11", "Created_entity": "8", "Means": "1"}
+7	como	_	Similarity	{"Entities": "8", "Cause": "1", "Entity_1": "8", "Entity_2": "11"}
+8	persona	_	Exemplar	{"Instance": "8", "Type": "8"}
+9	y	_	Simultaneity	{"Profiled_event": "11", "Landmark_event": "8"}
+10	como	_	Similarity	{"Entities": "11", "Entity_1": "11", "Entity_2": "8"}
+11	futbolista	_		{}
+12	.	_		{}

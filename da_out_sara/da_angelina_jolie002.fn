@@ -1,0 +1,36 @@
+1	Hun	_		{}
+2	har	_		{}
+3	modtaget	_		{}
+4	en	_	Cardinal_numbers	{"Number": "4", "Entity": "5"}
+5	Academy	_		{}
+6	Award	_		{}
+7	,	_		{}
+8	to	_	Cardinal_numbers	{"Number": "8", "Entity": "12"}
+9	Screen	_		{}
+10	Actors	_		{}
+11	Guild	_		{}
+12	Awards	_		{}
+13	,	_		{}
+14	tre	_	Cardinal_numbers	{"Number": "14", "Entity": "17"}
+15	Golden	_		{}
+16	Globe	_		{}
+17	Awards	_		{}
+18	og	_		{}
+19	blev	_		{}
+20	udnævnt	_		{}
+21	til	_		{}
+22	at	_		{}
+23	være	_	Communicate_categorization	{"Category": "27", "Item": "1", "Medium": "30"}
+24	Hollywoods	_		{}
+25	højest	_		{}
+26	betalte	_		{}
+27	skuespillerinde	_	Performers	{"Person": "1"}
+28	af	_		{}
+29	"	_		{}
+30	Forbes	_		{}
+31	"	_		{}
+32	i	_		{}
+33	2009	_		{}
+34	og	_		{}
+35	2011	_		{}
+36	.	_		{}

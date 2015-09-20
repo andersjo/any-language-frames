@@ -1,0 +1,15 @@
+1	In	_		{}
+2	December	_	Calendric_unit	{"Unit": "2"}
+3	2013	_		{}
+4	Alexa	_		{}
+5	listed	_	Placing	{"Theme": "6", "Agent": "4", "Time": "1"}
+6	google.com	_		{}
+7	as	_		{}
+8	the	_		{}
+9	most	_	Relational_quantity	{}
+10	visited	_	Visiting	{"Entity": "11"}
+11	website	_	Locale_by_use	{"Locale": "11"}
+12	in	_		{}
+13	the	_		{}
+14	world	_	Locale	{"Locale": "14"}
+15	.	_		{}

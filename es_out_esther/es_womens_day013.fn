@@ -1,0 +1,22 @@
+1	Durante	_		{}
+2	la	_		{}
+3	Revolución	_		{}
+4	francesa	_	Origin	{"Origin": "4", "Entity": "3"}
+5	la	_		{}
+6	mujer	_	People	{"Person": "6"}
+7	tomó	_		{}
+8	conciencia	_	Awareness	{"Topic": "8", "Content": "8", "Expressor": "6", "Cognizer": "6"}
+9	,	_		{}
+10	por	_		{}
+11	primera	_	First_experience	{"Context": "3", "Experience": "12"}
+12	vez	_	Event_instance	{"Instance": "12", "Event": "3"}
+13	y	_		{}
+14	de	_		{}
+15	manera	_	Means	{"Agent": "6", "Means": "15"}
+16	colectiva	_	Aggregate	{"Aggregate": "16", "Individuals": "6"}
+17	,	_		{}
+18	de	_		{}
+19	su	_		{}
+20	situación	_	Placing	{"Theme": "21", "Agent": "6"}
+21	social	_	Social_interaction_evaluation	{"Topic": "20", "Expressor": "6", "Evaluee": "6", "Behavior": "8", "Affected_party": "6"}
+22	.	_		{}

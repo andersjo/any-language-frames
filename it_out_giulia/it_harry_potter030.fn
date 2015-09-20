@@ -1,0 +1,52 @@
+1	Tutta	_	Degree	{"Gradable_attribute": "1"}
+2	l'opera	_		{}
+3	è	_		{}
+4	caratterizzata	_	Distinctiveness	{"Feature": "6", "Entity": "2"}
+5	da	_		{}
+6	regole	_		{}
+7	appositamente	_		{}
+8	create	_		{}
+9	per	_		{}
+10	rendere	_		{}
+11	logico	_		{}
+12	l'iter	_		{}
+13	della	_		{}
+14	trama	_	Text	{}
+15	,	_		{}
+16	e	_		{}
+17	l'insieme	_		{}
+18	di	_		{}
+19	queste	_		{}
+20	costituisce	_		{}
+21	un	_		{}
+22	corredo	_		{}
+23	di	_		{}
+24	preziose	_	Usefulness	{"Purpose": "32", "Entity": "25"}
+25	nozioni	_		{}
+26	messe	_		{}
+27	a	_		{}
+28	disposizione	_		{}
+29	del	_		{}
+30	lettore	_	Reading	{"Reader": "30"}
+31	per	_		{}
+32	risolvere	_	Resolve_problem	{"Problem": "40", "Agent": "30"}
+33	,	_		{}
+34	potenzialmente	_	Capability	{"Entity": "30"}
+35	,	_		{}
+36	i	_		{}
+37	vari	_		{}
+38	enigmi	_		{}
+39	e	_		{}
+40	misteri	_		{}
+41	che	_		{}
+42	libro	_	Text	{"Text": "42"}
+43	dopo	_		{}
+44	libro	_	Text	{"Text": "44"}
+45	si	_		{}
+46	accumulano	_		{}
+47	fino	_		{}
+48	a	_		{}
+49	risolversi	_		{}
+50	nel	_		{}
+51	finale	_	Process_end	{}
+52	.	_		{}

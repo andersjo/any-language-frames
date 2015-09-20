@@ -1,0 +1,38 @@
+1	Dopo	_	Relative_time	{"Focal_occasion": "15", "Focal_participant": "10", "Landmark_occasion": "3"}
+2	la	_		{}
+3	separazione	_	Forming_relationships	{"Partners": "5", "Time": "8"}
+4	dei	_		{}
+5	genitori	_	Kinship	{"Ego": "10", "Alter": "5"}
+6	,	_		{}
+7	nel	_		{}
+8	1976	_		{}
+9	,	_		{}
+10	Angelina	_		{}
+11	Jolie	_		{}
+12	e	_	Simultaneity	{}
+13	il	_		{}
+14	fratello	_	Kinship	{"Ego": "10"}
+15	crebbero	_	Aging	{"Place": "17", "Entity": "10"}
+16	a	_		{}
+17	Palisades	_		{}
+18	,	_		{}
+19	nello	_		{}
+20	Stato	_	Political_locales	{"Locale": "20", "Name": "23"}
+21	di	_		{}
+22	New	_		{}
+23	York	_		{}
+24	,	_		{}
+25	con	_		{}
+26	la	_		{}
+27	madre	_	Kinship	{"Ego": "27", "Alter": "37"}
+28	che	_		{}
+29	abbandonò	_		{}
+30	ogni	_	Quantity	{"Individuals": "31", "Quantity": "30"}
+31	aspirazione	_	Desiring	{"Experiencer": "27"}
+32	artistica	_	Fields	{"Practitioner": "27"}
+33	per	_		{}
+34	prendersi	_		{}
+35	cura	_	Attention	{"Perceiver": "27", "Figure": "37"}
+36	dei	_		{}
+37	figli	_	Kinship	{"Ego": "27", "Alter": "37"}
+38	.	_		{}

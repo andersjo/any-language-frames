@@ -1,0 +1,72 @@
+1	Som	_		{}
+2	sjuåring	_		{}
+3	hade	_		{}
+4	Angelina	_		{}
+5	Jolie	_		{}
+6	en	_	Cardinal_numbers	{"Number": "6", "Entity": "8"}
+7	liten	_	Size	{"Entity": "8"}
+8	roll	_	Performers_and_roles	{"Performer": "5", "Script": "11", "Medium": "22", "Time": "18"}
+9	i	_		{}
+10	"	_		{}
+11	Lookin	_		{}
+12	'	_		{}
+13	to	_		{}
+14	Get	_		{}
+15	Out	_		{}
+16	"	_		{}
+17	(	_		{}
+18	1982	_		{}
+19	)	_		{}
+20	,	_		{}
+21	en	_	Cardinal_numbers	{"Number": "21", "Entity": "22"}
+22	film	_	Physical_artworks	{"Creator": "30", "Name": "11", "Artifact": "22", "Time_of_creation": "18"}
+23	som	_		{}
+24	bland	_		{}
+25	andra	_		{}
+26	hennes	_		{}
+27	far	_	Kinship	{"Ego": "5", "Alter": "30"}
+28	(	_		{}
+29	Jon	_		{}
+30	Voight	_		{}
+31	)	_		{}
+32	skrev	_		{}
+33	och	_	Simultaneity	{"Profiled_event": "32", "Landmark_event": "36"}
+34	som	_		{}
+35	han	_		{}
+36	spelade	_		{}
+37	huvudrollen	_		{}
+38	i	_		{}
+39	.	_		{}
+40	Hon	_		{}
+41	bestämde	_		{}
+42	sig	_		{}
+43	för	_		{}
+44	att	_		{}
+45	bli	_	Becoming	{"Time": "50", "Entity": "5"}
+46	skådespelare	_	Performers	{"Person": "5"}
+47	när	_	Event_instance	{"Instance": "50", "Event": "41"}
+48	hon	_		{}
+49	var	_		{}
+50	16	_		{}
+51	men	_		{}
+52	hade	_		{}
+53	till	_		{}
+54	att	_		{}
+55	börja	_	Activity_start	{"Agent": "5", "Activity": "46"}
+56	med	_		{}
+57	svårt	_	Difficulty	{"Time": "55", "Experiencer": "5", "Activity": "60"}
+58	att	_		{}
+59	få	_	Getting	{"Theme": "60", "Recipient": "5"}
+60	roller	_		{}
+61	och	_	Simultaneity	{"Profiled_event": "59", "Landmark_event": "64"}
+62	fick	_		{}
+63	ofta	_	Frequency	{"Degree": "63"}
+64	höra	_	Hear	{"Topic": "70", "Message": "67", "Hearer": "5"}
+65	att	_		{}
+66	hon	_		{}
+67	var	_		{}
+68	"	_		{}
+69	för	_	Sufficiency	{"Enabled_situation": "60"}
+70	dyster	_		{}
+71	"	_		{}
+72	.	_		{}

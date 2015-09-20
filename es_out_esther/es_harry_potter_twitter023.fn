@@ -1,0 +1,20 @@
+1	estoy	_	State_continue	{}
+2	contenta	_		{}
+3	con	_		{}
+4	mis	_		{}
+5	lentes	_	Accoutrements	{}
+6	nuevos	_	Age	{"Degree": "6", "Entity": "5"}
+7	por	_		{}
+8	lo	_		{}
+9	menos	_		{}
+10	en	_		{}
+11	la	_		{}
+12	foto	_	Physical_artworks	{"Artifact": "12"}
+13	que	_		{}
+14	subí	_		{}
+15	hoy	_	Calendric_unit	{"Whole": "15"}
+16	doy	_	Eventive_affecting	{"Entity": "17"}
+17	corte	_	Clothing	{"Garment": "5"}
+18	harry	_		{}
+19	potter	_		{}
+20	psicodelico	_		{}

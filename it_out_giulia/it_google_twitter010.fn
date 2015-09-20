@@ -1,0 +1,21 @@
+1	Crollo	_	Change_position_on_a_scale	{}
+2	del	_		{}
+3	Made	_		{}
+4	in	_		{}
+5	Italy	_		{}
+6	:	_		{}
+7	allarme	_		{}
+8	per	_		{}
+9	l'olio	_		{}
+10	e	_		{}
+11	il	_		{}
+12	miele	_	Food	{"Food": "12"}
+13	italiano	_	Origin	{"Origin": "13", "Entity": "12"}
+14	http://t.co/vEQKECjRA2	_		{}
+15	Condivisa	_		{}
+16	da	_		{}
+17	Google	_		{}
+18	News	_		{}
+19	e	_		{}
+20	Google	_		{}
+21	Weather	_		{}

@@ -1,0 +1,41 @@
+1	I	_		{}
+2	suoi	_		{}
+3	più	_		{}
+4	grandi	_	Prominence	{"Entity": "5"}
+5	successi	_	Success_or_failure	{}
+6	commerciali	_		{}
+7	sono	_	Being_in_category	{"Category": "5", "Item": "9", "Criteria": "6"}
+8	il	_		{}
+9	film	_	Physical_artworks	{"Name": "11", "Artifact": "9", "Time_of_creation": "17"}
+10	"	_		{}
+11	Mr.	_		{}
+12	&	_		{}
+13	Mrs.	_		{}
+14	Smith	_		{}
+15	"	_		{}
+16	(	_		{}
+17	2005	_		{}
+18	)	_		{}
+19	,	_		{}
+20	il	_		{}
+21	film	_	Physical_artworks	{"Type": "22", "Name": "24", "Artifact": "21", "Time_of_creation": "2008"}
+22	d'animazione	_		{}
+23	"	_		{}
+24	Kung	_		{}
+25	Fu	_		{}
+26	Panda	_		{}
+27	"	_		{}
+28	(	_		{}
+29	2008	_		{}
+30	)	_		{}
+31	e	_		{}
+32	il	_		{}
+33	film	_	Physical_artworks	{"Type": "34", "Name": "36", "Artifact": "33", "Time_of_creation": "39"}
+34	fantasy	_		{}
+35	"	_		{}
+36	Maleficent	_		{}
+37	"	_		{}
+38	(	_		{}
+39	2014	_		{}
+40	)	_		{}
+41	.	_		{}

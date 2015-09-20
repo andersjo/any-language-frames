@@ -1,0 +1,23 @@
+1	Mangiare	_	Ingestion	{"Ingestibles": "3"}
+2	le	_		{}
+3	caramelle	_		{}
+4	al	_		{}
+5	gusto	_	Tasting	{"Food": "3"}
+6	più	_		{}
+7	schifoso	_		{}
+8	di	_		{}
+9	harry	_		{}
+10	potter	_		{}
+11	con	_		{}
+12	mia	_		{}
+13	sorella	_	Kinship	{"Alter": "13"}
+14	e	_		{}
+15	ridere	_	Make_noise	{"Noisy_event": "15"}
+16	come	_		{}
+17	delle	_		{}
+18	cretine	_		{}
+19	,	_		{}
+20	cose	_		{}
+21	alle	_		{}
+22	03:00	_		{}
+23	a.m	_		{}

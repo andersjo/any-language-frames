@@ -1,0 +1,20 @@
+1	La	_		{}
+2	historia	_	History	{"Topic": "5"}
+3	de	_		{}
+4	la	_		{}
+5	mujer	_	People	{"Person": "5"}
+6	en	_		{}
+7	la	_		{}
+8	antigüedad	_	Rank	{"Item": "5", "Rank": "8"}
+9	está	_		{}
+10	en	_		{}
+11	buena	_	Quantity	{"Individuals": "12", "Mass": "12", "Quantity": "11"}
+12	medida	_	Measure_linear_extent	{"Count": "11", "Stuff": "12", "Unit": "12"}
+13	sesgada	_	Partiality	{"Side_2": "19", "Side_1": "5", "Decision_maker": "19", "Dispute": "2"}
+14	por	_		{}
+15	quienes	_		{}
+16	la	_		{}
+17	contaban	_	Telling	{"Topic": "5", "Message": "2", "Addressee": "5", "Speaker": "19", "Medium": "19"}
+18	,	_		{}
+19	hombres	_	People	{"Person": "19"}
+20	.	_		{}

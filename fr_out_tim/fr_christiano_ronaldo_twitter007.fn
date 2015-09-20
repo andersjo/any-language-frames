@@ -1,0 +1,26 @@
+1	je	_		{}
+2	viens	_		{}
+3	devoir	_		{}
+4	une	_		{}
+5	photo	_	Physical_artworks	{"Artifact": "5"}
+6	de	_		{}
+7	christiano	_		{}
+8	ronaldo	_		{}
+9	et	_		{}
+10	son	_		{}
+11	fils	_	Kinship	{"Ego": "10", "Alter": "11"}
+12	sortir	_	Departing	{"Source": "14", "Theme": "8"}
+13	d'une	_		{}
+14	mosquée	_		{}
+15	et	_		{}
+16	askip	_		{}
+17	son	_		{}
+18	fils	_	Kinship	{"Ego": "17", "Alter": "18"}
+19	s'apelle	_		{}
+20	Saïd	_		{}
+21	,	_		{}
+22	mdddddr	_		{}
+23	bande	_	Aggregate	{"Aggregate": "23", "Individuals": "25"}
+24	de	_		{}
+25	forceur	_		{}
+26	😂	_		{}

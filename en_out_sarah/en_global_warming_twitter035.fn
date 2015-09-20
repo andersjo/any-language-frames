@@ -1,0 +1,15 @@
+1	@DoctorKarl	_		{}
+2	@MothyEcho	_		{}
+3	So	_		{}
+4	can	_	Capability	{"Cause": "6", "Entity": "5"}
+5	this	_		{}
+6	affect	_	Impact	{"Impactee": "8", "Impactor": "5"}
+7	our	_		{}
+8	climate	_	Weather	{}
+9	and	_	Simultaneity	{"Profiled_event": "8", "Landmark_event": "13"}
+10	not	_		{}
+11	a	_	Cardinal_numbers	{"Number": "11", "Entity": "13"}
+12	global	_	Political_locales	{"Locale": "12"}
+13	warming	_		{}
+14	issue	_		{}
+15	?	_		{}

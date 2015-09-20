@@ -1,0 +1,16 @@
+1	my	_		{}
+2	profile	_		{}
+3	represents	_	Representing	{"Phenomenon": "8", "Entity": "2"}
+4	5sos	_		{}
+5	larry	_		{}
+6	and	_		{}
+7	harry	_		{}
+8	potter	_		{}
+9	all	_	Quantity	{}
+10	at	_		{}
+11	once	_	Event_instance	{"Instance": "11", "Event": "3"}
+12	you	_		{}
+13	should	_		{}
+14	follow	_	Cotheme	{"Theme": "12", "Cotheme": "15"}
+15	me	_	Proper_reference	{"Intended_referent": "15"}
+16	@NiallOfficial	_		{}

@@ -1,0 +1,13 @@
+1	I	_		{}
+2	blame	_	Judgment	{"Cognizer": "1", "Reason": "5", "Evaluee": "4"}
+3	global	_	Political_locales	{"Locale": "3"}
+4	warming	_		{}
+5	for	_		{}
+6	Detroit	_		{}
+7	blowing	_	Bungling	{"Action": "7", "Patient": "9", "Agent": "4"}
+8	the	_		{}
+9	lead	_		{}
+10	,	_		{}
+11	and	_	Simultaneity	{"Profiled_event": "12", "Landmark_event": "4"}
+12	Barack	_		{}
+13	Obama	_		{}

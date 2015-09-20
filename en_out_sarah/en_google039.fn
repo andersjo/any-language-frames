@@ -1,0 +1,18 @@
+1	Google's	_		{}
+2	initial	_	Version_sequence	{"Item": "4"}
+3	public	_	Secrecy_status	{"Phenomenon": "4"}
+4	offering	_		{}
+5	(	_		{}
+6	IPO	_		{}
+7	)	_		{}
+8	took	_	Activity_start	{"Depictive": "8", "Time": "17", "Agent": "1", "Activity": "4"}
+9	place	_		{}
+10	five	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	years	_		{}
+12	later	_	Relative_time	{"Focal_occasion": "4"}
+13	on	_		{}
+14	August	_	Calendric_unit	{"Count": "19", "Name": "14"}
+15	19	_		{}
+16	,	_		{}
+17	2004	_		{}
+18	.	_		{}

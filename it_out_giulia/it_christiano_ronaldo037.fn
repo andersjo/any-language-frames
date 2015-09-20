@@ -1,0 +1,21 @@
+1	Ha	_		{}
+2	esordito	_		{}
+3	in	_		{}
+4	prima	_	Ordinal_numbers	{"Comparison_set": "5"}
+5	squadra	_	Aggregate	{"Aggregate": "5"}
+6	durante	_		{}
+7	una	_		{}
+8	gara	_	Competition	{"Participant_2": "10", "Competition": "8"}
+9	contro	_		{}
+10	l'Inter	_		{}
+11	valevole	_	Being_in_effect	{"Binding_principle": "8"}
+12	per	_		{}
+13	il	_		{}
+14	terzo	_	Ordinal_numbers	{"Item": "15"}
+15	turno	_		{}
+16	preliminare	_	Preliminaries	{"Preparatory_phase": "16", "Purpose": "18", "Preparatory_act": "8"}
+17	della	_		{}
+18	Champions	_		{}
+19	League	_		{}
+20	2002-2003	_		{}
+21	.	_		{}

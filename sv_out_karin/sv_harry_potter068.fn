@@ -1,0 +1,23 @@
+1	De	_		{}
+2	har	_		{}
+3	i	_	Political_locales	{"Locale": "5"}
+4	hela	_		{}
+5	världen	_	Political_locales	{"Locale": "5"}
+6	spelat	_		{}
+7	in	_		{}
+8	över	_		{}
+9	2	_		{}
+10	,	_		{}
+11	6	_	Cardinal_numbers	{"Number": "11", "Entity": "12"}
+12	miljarder	_	Cardinal_numbers	{"Multiplier": "11", "Number": "12", "Entity": "13"}
+13	dollar	_		{}
+14	(	_		{}
+15	ungefär	_	Relational_quantity	{"Denoted_quantity": "19", "Reference_quantity": "5"}
+16	17	_		{}
+17	,	_		{}
+18	5	_	Cardinal_numbers	{"Number": "18", "Entity": "19"}
+19	miljarder	_	Cardinal_numbers	{"Multiplier": "5", "Number": "19", "Precision": "20", "Entity": "21"}
+20	svenska	_		{}
+21	kronor	_		{}
+22	)	_		{}
+23	.	_		{}

@@ -1,0 +1,25 @@
+1	Google	_		{}
+2	Inc	_		{}
+3	.	_		{}
+4	es	_	Being_in_category	{"Category": "6", "Item": "1"}
+5	una	_		{}
+6	empresa	_	Businesses	{"Business": "1"}
+7	multinacional	_		{}
+8	estadounidense	_	Origin	{"Origin": "8", "Entity": "1"}
+9	especializada	_		{}
+10	en	_		{}
+11	productos	_	Intentionally_create	{"Created_entity": "11", "Creator": "1"}
+12	y	_		{}
+13	servicios	_	Public_services	{"Domain": "16", "Target_group": "7", "Service_action": "16", "Institution": "1"}
+14	relacionados	_	Attaching	{"Connector": "16", "Items": "13", "Goal": "16", "Agent": "1", "Item": "13"}
+15	con	_		{}
+16	Internet	_	Network	{}
+17	,	_		{}
+18	software	_	Aggregate	{}
+19	,	_		{}
+20	dispositivos	_	Gizmo	{"Power_source": "21", "Gizmo": "20"}
+21	electrónicos	_		{}
+22	y	_		{}
+23	otras	_	Increment	{"Added_set": "24", "Initial_set": "24"}
+24	tecnologías	_	Artifact	{"Artifact": "24"}
+25	.	_		{}

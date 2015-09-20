@@ -1,0 +1,18 @@
+1	At	_		{}
+2	the	_		{}
+3	age	_	Age	{"Age": "5", "Entity": "7"}
+4	of	_		{}
+5	14	_	Cardinal_numbers	{"Number": "5"}
+6	,	_		{}
+7	Ronaldo	_		{}
+8	agreed	_	Agree_or_refuse_to_act	{"Proposed_action": "14", "Interlocutor": "11", "Speaker": "7", "Time": "1"}
+9	with	_		{}
+10	his	_		{}
+11	mother	_	Kinship	{"Ego": "7", "Alter": "11"}
+12	to	_		{}
+13	then	_	Temporal_collocation	{"Trajector_event": "14", "Landmark_period": "1"}
+14	focus	_	Attention	{"Perceiver": "7", "Degree": "15", "Figure": "17"}
+15	entirely	_	Degree	{"Gradable_attribute": "14"}
+16	on	_		{}
+17	football	_		{}
+18	.	_		{}

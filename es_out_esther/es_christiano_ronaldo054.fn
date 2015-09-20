@@ -1,0 +1,36 @@
+1	Concluyó	_		{}
+2	su	_		{}
+3	temporada	_	Sequence	{}
+4	obteniendo	_	Getting	{"Theme": "6"}
+5	el	_		{}
+6	campeonato	_	Competition	{}
+7	de	_		{}
+8	la	_		{}
+9	Premier	_		{}
+10	League	_		{}
+11	y	_		{}
+12	fue	_		{}
+13	galardonado	_	Cause_to_perceive	{"Medium": "16", "Phenomenon": "25", "Agent": "16", "Entity": "16"}
+14	por	_		{}
+15	la	_		{}
+16	Asociación	_		{}
+17	de	_		{}
+18	Futbolistas	_		{}
+19	Profesionales	_	Expertise	{"Focal_participant": "16", "Skill": "18", "Role": "13", "Knowledge": "18"}
+20	con	_		{}
+21	los	_		{}
+22	premios	_	Judgment	{"Cognizer": "16", "Expressor": "16", "Reason": "6"}
+23	a	_		{}
+24	«	_		{}
+25	Jugador	_	Performers	{"Person": "25"}
+26	del	_		{}
+27	año	_	Calendric_unit	{"Relative_time": "27"}
+28	»	_		{}
+29	y	_		{}
+30	«	_		{}
+31	Jugador	_	Performers	{"Person": "31"}
+32	joven	_	People_by_age	{"Person": "31", "Age": "32"}
+33	del	_		{}
+34	año	_	Calendric_unit	{"Whole": "34"}
+35	»	_		{}
+36	.	_		{}

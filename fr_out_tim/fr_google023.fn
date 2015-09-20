@@ -1,0 +1,13 @@
+1	Il	_		{}
+2	lui	_		{}
+3	demanda	_	Request	{"Message": "4", "Addressee": "2", "Speaker": "1"}
+4	d'aller	_		{}
+5	enregistrer	_	Recording	{"Agent": "2", "Entity": "7"}
+6	le	_		{}
+7	nom	_	Name_conferral	{"Name": "11", "Entity": "9"}
+8	de	_		{}
+9	domaine	_	Building_subparts	{"Building_part": "9"}
+10	«	_		{}
+11	googol	_		{}
+12	»	_		{}
+13	.	_		{}

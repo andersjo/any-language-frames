@@ -1,0 +1,23 @@
+1	Finalmente	_	Relative_time	{"Focal_occasion": "3", "Landmark_occasion": "5"}
+2	se	_		{}
+3	proclamó	_		{}
+4	también	_		{}
+5	campeón	_		{}
+6	de	_		{}
+7	liga	_	Finish_competition	{}
+8	por	_		{}
+9	segundo	_	Ordinal_numbers	{"Comparison_set": "10", "Starting_point": "10", "Item": "10", "Basis_of_order": "11"}
+10	año	_	Calendric_unit	{"Relative_time": "9", "Whole": "10"}
+11	consecutivo	_	Candidness	{}
+12	,	_		{}
+13	y	_		{}
+14	sus	_		{}
+15	números	_		{}
+16	mejoraron	_	Surpassing	{"Attribute": "18", "Standard_item": "19", "Standard_attribute": "19"}
+17	a	_		{}
+18	12	_	Cardinal_numbers	{"Number": "18", "Entity": "19"}
+19	goles	_	Purpose	{"Goal": "19", "Value": "18"}
+20	en	_		{}
+21	47	_		{}
+22	partidos	_	Social_event	{}
+23	.	_		{}

@@ -1,0 +1,23 @@
+1	Ho	_		{}
+2	avuto	_	Experiencer_obj	{}
+3	un	_		{}
+4	incubo	_		{}
+5	:	_		{}
+6	ho	_		{}
+7	sognato	_		{}
+8	che	_		{}
+9	Angelina	_		{}
+10	Jolie	_		{}
+11	e	_		{}
+12	mia	_		{}
+13	moglie	_	Personal_relationship	{"Partner_2": "13"}
+14	si	_		{}
+15	azzuffavano	_		{}
+16	per	_		{}
+17	me	_		{}
+18	,	_		{}
+19	e	_		{}
+20	mia	_		{}
+21	moglie	_	Personal_relationship	{"Partner_2": "21"}
+22	vinceva	_	Beat_opponent	{"Winner": "21", "Loser": "10"}
+23	.	_		{}

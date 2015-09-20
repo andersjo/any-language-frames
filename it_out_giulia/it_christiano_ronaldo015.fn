@@ -1,0 +1,38 @@
+1	Il	_		{}
+2	nome	_	Being_named	{"Name": "3"}
+3	Cristiano	_		{}
+4	è	_		{}
+5	dovuto	_		{}
+6	alla	_		{}
+7	fede	_		{}
+8	cristiana	_	People_by_religion	{"Person": "10", "Religion": "8"}
+9	della	_		{}
+10	madre	_	Kinship	{"Ego": "3", "Alter": "10"}
+11	,	_		{}
+12	mentre	_		{}
+13	il	_		{}
+14	secondo	_	Ordinal_numbers	{"Comparison_set": "15"}
+15	nome	_	Being_named	{"Name": "17"}
+16	,	_		{}
+17	Ronaldo	_		{}
+18	,	_		{}
+19	fu	_		{}
+20	scelto	_		{}
+21	in	_		{}
+22	onore	_		{}
+23	di	_		{}
+24	Ronald	_		{}
+25	Reagan	_		{}
+26	,	_		{}
+27	attore	_	Performers	{"Person": "25"}
+28	preferito	_		{}
+29	del	_		{}
+30	padre	_	Kinship	{"Ego": "3", "Alter": "30"}
+31	e	_		{}
+32	Presidente	_	Leadership	{"Role": "32", "Leader": "25", "Governed": "34"}
+33	degli	_		{}
+34	Stati	_	Political_locales	{"Locale": "34"}
+35	Uniti	_		{}
+36	a	_		{}
+37	quell'epoca	_		{}
+38	.	_		{}

@@ -1,0 +1,24 @@
+1	Nello	_		{}
+2	stesso	_	Identicality	{"Current_instance": "3"}
+3	anno	_	Calendric_unit	{"Unit": "3"}
+4	è	_		{}
+5	protagonista	_		{}
+6	di	_		{}
+7	"	_		{}
+8	Beyond	_		{}
+9	Borders	_		{}
+10	-	_		{}
+11	Amore	_		{}
+12	senza	_		{}
+13	confini	_		{}
+14	"	_		{}
+15	,	_		{}
+16	storia	_	Individual_history	{"Participant": "20"}
+17	d'amore	_		{}
+18	tra	_		{}
+19	due	_	Personal_relationship	{"Partners": "20", "Relationship": "17"}
+20	operatori	_	People_by_vocation	{"Person": "20", "Type": "21"}
+21	umanitari	_		{}
+22	in	_		{}
+23	Africa	_		{}
+24	.	_		{}

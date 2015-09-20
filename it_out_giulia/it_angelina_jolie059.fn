@@ -1,0 +1,28 @@
+1	Interpreta	_	Performers_and_roles	{"Performance": "1", "Role": "5"}
+2	il	_		{}
+3	ruolo	_	Performers_and_roles	{"Performance": "1", "Role": "5"}
+4	della	_		{}
+5	madre	_	Kinship	{"Alter": "7"}
+6	di	_		{}
+7	Grendel	_		{}
+8	ne	_		{}
+9	"	_		{}
+10	La	_		{}
+11	leggenda	_		{}
+12	di	_		{}
+13	Beowulf	_		{}
+14	"	_		{}
+15	di	_		{}
+16	Robert	_		{}
+17	Zemeckis	_		{}
+18	,	_		{}
+19	film	_	Physical_artworks	{"Name": "11", "Artifact": "19", "Creator": "17"}
+20	interamente	_		{}
+21	realizzato	_	Manufacturing	{"Product": "19", "Means": "24"}
+22	con	_		{}
+23	la	_		{}
+24	tecnica	_	Means	{"Means": "26"}
+25	della	_		{}
+26	motion	_		{}
+27	capture	_		{}
+28	.	_		{}

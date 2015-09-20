@@ -1,0 +1,17 @@
+1	Hoy	_	Temporal_collocation	{"Landmark_event": "5", "Landmark_period": "1"}
+2	:	_		{}
+3	Guía	_		{}
+4	dietética	_		{}
+5	parece	_	Appearance	{"Inference": "6", "Phenomenon": "10"}
+6	tomar	_	Becoming_aware	{"Topic": "4", "Phenomenon": "10"}
+7	en	_		{}
+8	cuenta	_	Awareness	{"Topic": "10", "Content": "4"}
+9	el	_		{}
+10	ambiente	_		{}
+11	.	_		{}
+12	Entérate	_		{}
+13	aquí	_	Locative_relation	{"Ground": "15"}
+14	.	_		{}
+15	http://t.co/3T1WpQu27u	_		{}
+16	...	_		{}
+17	http://t.co/yiSGLV4vyV	_		{}

@@ -1,0 +1,25 @@
+1	"	_		{}
+2	Si	_		{}
+3	quieres	_	Desiring	{"Event": "4"}
+4	saber	_	Awareness	{"Content": "7", "Topic": "4", "Expressor": "24"}
+5	cómo	_		{}
+6	es	_	Being_in_category	{"Category": "5", "Item": "7", "Criteria": "9"}
+7	alguien	_	People	{"Person": "7"}
+8	,	_		{}
+9	mira	_	Sensation	{"Source": "12", "Perceiver_passive": "16"}
+10	de	_		{}
+11	qué	_		{}
+12	manera	_	Means	{"Means": "12"}
+13	trata	_	Attempt_means	{"Agent": "7", "Means": "12"}
+14	a	_		{}
+15	sus	_		{}
+16	inferiores	_	Position_on_a_scale	{"Variable": "16"}
+17	,	_		{}
+18	no	_		{}
+19	a	_		{}
+20	sus	_		{}
+21	iguales	_	Compatibility	{"Items": "21", "Parameter": "13"}
+22	"	_		{}
+23	-	_		{}
+24	Harry	_		{}
+25	Potter	_		{}

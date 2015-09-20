@@ -1,0 +1,36 @@
+1	"	_		{}
+2	I	_		{}
+3	forståelse	_	Be_in_agreement_on_assessment	{"Cognizer_2": "10", "Cognizer_1": "17"}
+4	med	_		{}
+5	proletariatets	_		{}
+6	klassebevidste	_		{}
+7	politiske	_		{}
+8	og	_		{}
+9	faglige	_	People_by_vocation	{"Person": "10"}
+10	organisationer	_	Organization	{"Organization": "10"}
+11	i	_		{}
+12	hvert	_		{}
+13	land	_	Political_locales	{"Locale": "13"}
+14	arrangerer	_		{}
+15	de	_		{}
+16	socialistiske	_		{}
+17	kvinder	_	People	{"Person": "17"}
+18	i	_		{}
+19	alle	_	Quantity	{"Individuals": "20", "Quantity": "19"}
+20	lande	_	Political_locales	{"Locale": "20"}
+21	hvert	_		{}
+22	år	_	Frequency	{"Rate": "21", "Event": "24", "Time_span": "22"}
+23	en	_		{}
+24	kvindedag	_		{}
+25	,	_		{}
+26	som	_		{}
+27	i	_		{}
+28	første	_	Ordinal_numbers	{"Item": "29"}
+29	række	_		{}
+30	skal	_		{}
+31	bruges	_		{}
+32	som	_		{}
+33	agitation	_		{}
+34	for	_		{}
+35	kvindevalgretten	_		{}
+36	.	_		{}

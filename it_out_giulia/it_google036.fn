@@ -1,0 +1,25 @@
+1	L'azienda	_		{}
+2	è	_		{}
+3	stata	_		{}
+4	ripresa	_	Opinion	{}
+5	diverse	_	Quantity	{"Individuals": "6", "Quantity": "5"}
+6	volte	_		{}
+7	perché	_		{}
+8	grazie	_		{}
+9	a	_		{}
+10	manovre	_		{}
+11	di	_		{}
+12	ingegneria	_		{}
+13	fiscale	_		{}
+14	paga	_	Repayment	{"Debtor": "1"}
+15	poche	_		{}
+16	tasse	_		{}
+17	sia	_		{}
+18	a	_		{}
+19	livello	_		{}
+20	italiano	_	Origin	{"Origin": "20"}
+21	sia	_		{}
+22	a	_		{}
+23	livello	_		{}
+24	globale	_	Political_locales	{}
+25	.	_		{}

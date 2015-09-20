@@ -1,0 +1,26 @@
+1	Nel	_		{}
+2	luglio	_	Calendric_unit	{"Whole": "3", "Unit": "2"}
+3	2010	_		{}
+4	annuncia	_		{}
+5	su	_		{}
+6	Facebook	_		{}
+7	di	_		{}
+8	essere	_	Becoming	{}
+9	diventato	_	Becoming	{}
+10	padre	_	Kinship	{}
+11	,	_		{}
+12	affermando	_	Speak_on_topic	{"Topic": "17"}
+13	che	_		{}
+14	si	_		{}
+15	prenderà	_		{}
+16	la	_		{}
+17	custodia	_		{}
+18	del	_		{}
+19	bambino	_	People_by_age	{"Person": "19"}
+20	e	_		{}
+21	che	_		{}
+22	la	_		{}
+23	madre	_	Kinship	{"Ego": "19", "Alter": "23"}
+24	resterà	_		{}
+25	anonima	_	Being_named	{"Entity": "23"}
+26	.	_		{}

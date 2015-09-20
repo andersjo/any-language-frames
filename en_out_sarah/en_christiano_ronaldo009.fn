@@ -1,0 +1,58 @@
+1	With	_		{}
+2	Manchester	_		{}
+3	United	_	Amalgamation	{"Part_1": "2"}
+4	and	_	Simultaneity	{}
+5	Real	_		{}
+6	Madrid	_		{}
+7	,	_		{}
+8	Ronaldo	_		{}
+9	has	_		{}
+10	won	_	Win_prize	{"Competitor": "8", "Prize": "12"}
+11	three	_	Cardinal_numbers	{"Number": "11", "Entity": "12"}
+12	Premier	_	Leadership	{}
+13	Leagues	_	Organization	{"Organization": "12"}
+14	,	_		{}
+15	one	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	La	_		{}
+17	Liga	_		{}
+18	,	_		{}
+19	one	_	Cardinal_numbers	{"Number": "19", "Entity": "20"}
+20	FA	_		{}
+21	Cup	_	Containers	{"Container": "21"}
+22	,	_		{}
+23	two	_	Cardinal_numbers	{"Number": "23", "Entity": "24"}
+24	Football	_		{}
+25	League	_	Organization	{"Organization": "24"}
+26	Cups	_	Containers	{"Container": "26"}
+27	,	_		{}
+28	two	_	Cardinal_numbers	{"Number": "28", "Entity": "29"}
+29	Copas	_		{}
+30	del	_		{}
+31	Rey	_		{}
+32	,	_		{}
+33	one	_	Cardinal_numbers	{"Number": "33", "Entity": "34"}
+34	FA	_		{}
+35	Community	_	Aggregate	{"Aggregate": "35"}
+36	Shield	_	Weapon	{"Weapon": "36"}
+37	,	_		{}
+38	one	_	Cardinal_numbers	{"Number": "38", "Entity": "39"}
+39	Supercopas	_		{}
+40	de	_		{}
+41	España	_		{}
+42	,	_		{}
+43	two	_	Cardinal_numbers	{"Number": "43", "Entity": "44"}
+44	UEFA	_		{}
+45	Champions	_	Performers_and_roles	{"Performer": "45"}
+46	Leagues	_	Organization	{"Organization": "44"}
+47	,	_		{}
+48	one	_	Cardinal_numbers	{"Number": "48", "Entity": "49"}
+49	UEFA	_		{}
+50	Super	_	Expertise	{}
+51	Cup	_	Containers	{"Container": "31"}
+52	and	_	Simultaneity	{}
+53	two	_	Cardinal_numbers	{"Number": "53", "Entity": "54"}
+54	FIFA	_		{}
+55	Club	_	Organization	{"Organization": "55"}
+56	World	_	Locale	{"Locale": "56"}
+57	Cups	_	Containers	{"Container": "57"}
+58	.	_		{}

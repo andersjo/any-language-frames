@@ -1,0 +1,19 @@
+1	Jolie	_		{}
+2	hat	_	Possession	{"Owner": "1", "Possession": "6"}
+3	deutsche	_	People_by_origin	{"Origin": "3", "Person": "6"}
+4	und	_	Simultaneity	{"Profiled_event": "3", "Landmark_event": "5"}
+5	slowakische	_		{}
+6	Vorfahren	_	Kinship	{"Ego": "1", "Alter": "6", "Degree": "7"}
+7	väterlicherseits	_	Kinship	{"Ego": "1", "Alter": "6"}
+8	sowie	_		{}
+9	kanadische	_	Origin	{"Origin": "9", "Entity": "17"}
+10	,	_		{}
+11	niederländische	_	Origin	{"Origin": "11", "Entity": "17"}
+12	,	_		{}
+13	deutsche	_	People_by_origin	{"Origin": "13", "Person": "17"}
+14	und	_		{}
+15	angeblich	_	Unattributed_information	{"Reported_fact": "16"}
+16	irokesische	_		{}
+17	Vorfahren	_	Kinship	{"Ego": "1", "Alter": "17", "Degree": "18"}
+18	mütterlicherseits	_	Kinship	{"Ego": "1", "Alter": "17"}
+19	.	_		{}

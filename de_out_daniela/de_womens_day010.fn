@@ -1,0 +1,42 @@
+1	Während	_		{}
+2	die	_		{}
+3	US-Amerikanerin	_	People_by_origin	{"Origin": "3", "Person": "5"}
+4	May	_		{}
+5	Wood-Simons	_		{}
+6	die	_		{}
+7	Idee	_	Cogitation	{"Topic": "11", "Cognizer": "5"}
+8	zu	_		{}
+9	einem	_		{}
+10	solchen	_		{}
+11	Tag	_	Calendric_unit	{"Unit": "11"}
+12	nach	_		{}
+13	Kopenhagen	_		{}
+14	brachte	_	Causation	{"Affected": "7", "Actor": "5"}
+15	,	_		{}
+16	waren	_		{}
+17	es	_		{}
+18	die	_		{}
+19	deutschen	_	People_by_origin	{"Origin": "19", "Person": "20"}
+20	Sozialistinnen	_		{}
+21	Clara	_		{}
+22	Zetkin	_		{}
+23	und	_	Simultaneity	{"Profiled_event": "25", "Landmark_event": "22"}
+24	Käte	_		{}
+25	Duncker	_		{}
+26	,	_		{}
+27	die	_		{}
+28	sich	_		{}
+29	auf	_		{}
+30	dem	_		{}
+31	Treffen	_	Social_event_collective	{"Attendees": "20"}
+32	in	_		{}
+33	Kopenhagen	_		{}
+34	für	_		{}
+35	den	_		{}
+36	Frauentag	_		{}
+37	einsetzten	_	Cause_change	{"Agent": "27", "Entity": "36"}
+38	und	_	Simultaneity	{"Profiled_event": "41", "Landmark_event": "37"}
+39	den	_		{}
+40	Beschluss	_	Deciding	{}
+41	forcierten	_		{}
+42	.	_		{}

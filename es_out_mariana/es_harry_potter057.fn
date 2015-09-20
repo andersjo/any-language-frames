@@ -1,0 +1,65 @@
+1	En	_		{}
+2	esta	_	Proper_reference	{"Intended_referent": "3", "Entity": "3"}
+3	oportunidad	_	Opportunity	{"Opportunity": "3"}
+4	se	_		{}
+5	introducen	_	Cause_to_perceive	{"Phenomenon": "5", "Explanation": "59", "Actor": "9", "Entity": "7", "Place": "23", "Agent": "3"}
+6	las	_		{}
+7	figuras	_	Performers_and_roles	{"Performance": "23", "Performer1": "9", "Performer2": "12", "Script": "23"}
+8	de	_		{}
+9	Remus	_		{}
+10	Lupin	_		{}
+11	y	_	Simultaneity	{"Profiled_event": "12", "Landmark_event": "10"}
+12	Sirius	_		{}
+13	Black	_		{}
+14	(	_		{}
+15	aunque	_		{}
+16	este	_	Proper_reference	{"Intended_referent": "17"}
+17	último	_	Ordinal_numbers	{"Basis_of_order": "5", "Item": "5"}
+18	fue	_	Cause_to_perceive	{"Medium": "23", "Phenomenon": "17", "Means": "23"}
+19	mencionado	_		{}
+20	en	_		{}
+21	"	_		{}
+22	la	_		{}
+23	piedra	_		{}
+24	filosofal	_		{}
+25	"	_		{}
+26	)	_		{}
+27	,	_		{}
+28	quien	_		{}
+29	escapa	_	Escaping	{"Escapee": "9", "Undesirable_location": "32", "Goal": "36"}
+30	de	_		{}
+31	la	_		{}
+32	prisión	_	Prison	{"Penal_institution": "32", "Location": "34", "Name": "34"}
+33	de	_		{}
+34	Azkaban	_		{}
+35	para	_		{}
+36	matar	_	Killing	{"Killer": "9", "Victim": "38"}
+37	a	_		{}
+38	Peter	_		{}
+39	Pettigrew	_		{}
+40	,	_		{}
+41	mientras	_		{}
+42	el	_		{}
+43	mundo	_	People	{"Persistent_characteristic": "44", "Person": "44", "Origin": "44"}
+44	mágico	_	Stimulus_focus	{}
+45	piensa	_	Coming_to_believe	{"Content": "51", "Cognizer": "43", "Topic": "51"}
+46	que	_		{}
+47	lo	_		{}
+48	que	_		{}
+49	quiere	_	Desiring	{"Focal_participant": "9", "Degree": "47", "Purpose_of_Event": "51", "Role_of_focal_participant": "51", "Experiencer": "9", "Event": "51"}
+50	es	_		{}
+51	matar	_	Killing	{"Killer": "9", "Victim": "53"}
+52	a	_		{}
+53	Harry	_		{}
+54	,	_		{}
+55	además	_	Sufficiency	{"Enabled_situation": "57"}
+56	de	_		{}
+57	desarrollar	_	Progress	{"Domain": "59", "Circumstance": "62", "Entity": "59"}
+58	la	_		{}
+59	historia	_	History	{"Topic": "62"}
+60	de	_		{}
+61	los	_		{}
+62	padres	_	Kinship	{"Descriptor": "64", "Relatives": "62"}
+63	de	_		{}
+64	Harry	_		{}
+65	.	_		{}

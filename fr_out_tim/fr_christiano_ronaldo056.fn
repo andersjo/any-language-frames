@@ -1,0 +1,19 @@
+1	Il	_		{}
+2	commence	_	Process_start	{}
+3	à	_		{}
+4	s'imposer	_		{}
+5	en	_		{}
+6	tant	_		{}
+7	que	_		{}
+8	titulaire	_		{}
+9	au	_		{}
+10	sein	_	Part_orientational	{}
+11	de	_		{}
+12	l'équipe	_		{}
+13	malgré	_		{}
+14	quelques	_	Relational_quantity	{"Individuals": "15", "Denoted_quantity": "14"}
+15	difficultés	_	Hindering	{"Action": "4", "Protagonist": "1", "Hindrance": "15"}
+16	au	_		{}
+17	niveau	_		{}
+18	collectif	_		{}
+19	.	_		{}

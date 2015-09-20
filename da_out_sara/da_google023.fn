@@ -1,0 +1,24 @@
+1	Google	_		{}
+2	er	_		{}
+3	eksperter	_	Expertise	{"Behavior_product": "13", "Skill": "3", "Protagonist": "1", "Knowledge": "6"}
+4	i	_		{}
+5	at	_		{}
+6	skabe	_	Creating	{"Created_entity": "13", "Place": "16", "Creator": "1"}
+7	netop	_		{}
+8	de	_		{}
+9	få	_	Quantity	{"Individuals": "13", "Mass": "9"}
+10	,	_		{}
+11	men	_		{}
+12	rigtige	_		{}
+13	reklamer	_		{}
+14	på	_		{}
+15	en	_		{}
+16	websted	_	Locale	{"Locale": "16"}
+17	eller	_		{}
+18	i	_		{}
+19	forbindelse	_	Make_cognitive_connection	{"Concept_1": "23"}
+20	med	_		{}
+21	et	_		{}
+22	elektronisk	_		{}
+23	brev	_	Text	{"Text": "23", "Medium": "22"}
+24	.	_		{}

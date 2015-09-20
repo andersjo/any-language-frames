@@ -1,0 +1,26 @@
+1	Da	_		{}
+2	han	_		{}
+3	var	_		{}
+4	15	_	Cardinal_numbers	{"Number": "4"}
+5	,	_		{}
+6	blev	_		{}
+7	Ronaldo	_		{}
+8	diagnosticeret	_		{}
+9	med	_		{}
+10	en	_		{}
+11	hjertefejl	_		{}
+12	,	_		{}
+13	en	_		{}
+14	tilstand	_	Medical_conditions	{"Body_Part": "11", "Patient": "7", "Ailment": "11"}
+15	der	_		{}
+16	kunne	_		{}
+17	have	_		{}
+18	tvunget	_		{}
+19	ham	_		{}
+20	til	_		{}
+21	at	_		{}
+22	opgive	_	Quitting	{"Employee": "7", "Field": "25"}
+23	at	_		{}
+24	spille	_	Intentionally_act	{"Agent": "7"}
+25	fodbold	_		{}
+26	.	_		{}

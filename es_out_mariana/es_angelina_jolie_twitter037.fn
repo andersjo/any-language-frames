@@ -1,0 +1,28 @@
+1	Tip	_		{}
+2	:	_		{}
+3	Para	_	Sufficiency	{"Item": "6", "Scale": "9", "Degree": "8", "Enabled_situation": "9"}
+4	que	_	Causation	{"Affected": "6", "Cause": "16", "Manner": "19", "Means": "16"}
+5	los	_		{}
+6	labios	_	Observable_body_parts	{"Descriptor": "9", "Subregion": "19", "Body_part": "6"}
+7	parezcan	_	Appearance	{"Inference": "9", "Phenomenon": "9", "Degree": "8", "Characterization": "9", "Body_part": "6", "Appraisal": "9", "Ground": "19"}
+8	más	_		{}
+9	gruesos	_		{}
+10	,	_		{}
+11	os	_		{}
+12	aconsejo	_		{}
+13	una	_		{}
+14	serie	_		{}
+15	de	_		{}
+16	puñetazos	_		{}
+17	en	_		{}
+18	la	_		{}
+19	boca	_		{}
+20	.	_		{}
+21	A	_		{}
+22	más	_		{}
+23	puñetazos	_		{}
+24	,	_		{}
+25	más	_		{}
+26	Angelina	_		{}
+27	Jolie	_		{}
+28	.	_		{}

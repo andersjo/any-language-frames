@@ -1,0 +1,42 @@
+1	Dopo	_	Relative_time	{"Focal_occasion": "14", "Focal_participant": "12", "Landmark_occasion": "3"}
+2	aver	_		{}
+3	pagato	_		{}
+4	un	_		{}
+5	periodo	_	Timespan	{"State": "7"}
+6	di	_		{}
+7	adattamento	_	Adjusting	{"Part": "12", "Feature": "9"}
+8	al	_		{}
+9	calcio	_		{}
+10	inglese	_	People_by_origin	{"Origin": "10"}
+11	,	_		{}
+12	Ronaldo	_		{}
+13	si	_		{}
+14	rende	_	Intentionally_act	{"Agent": "12"}
+15	protagonista	_		{}
+16	di	_		{}
+17	una	_		{}
+18	buona	_		{}
+19	stagione	_		{}
+20	d'esordio	_		{}
+21	,	_		{}
+22	collezionando	_		{}
+23	29	_		{}
+24	presenze	_	Attending	{"Event": "26", "Agent": "12"}
+25	in	_		{}
+26	campionato	_		{}
+27	(	_		{}
+28	40	_	Cardinal_numbers	{"Number": "28", "Entity": "24"}
+29	totali	_	Quantity	{"Individuals": "24", "Quantity": "28"}
+30	)	_		{}
+31	e	_		{}
+32	segnando	_	Hit_target	{"Target": "36", "Agent": "12"}
+33	anche	_		{}
+34	il	_		{}
+35	primo	_	Ordinal_numbers	{"Item": "36"}
+36	gol	_		{}
+37	nella	_		{}
+38	finale	_		{}
+39	di	_		{}
+40	Coppa	_		{}
+41	d'Inghilterra	_		{}
+42	.	_		{}

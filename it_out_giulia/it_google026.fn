@@ -1,0 +1,13 @@
+1	Progetto	_	Project	{"Goal": "3"}
+2	per	_		{}
+3	costruire	_	Building	{"Created_entity": "4"}
+4	città	_		{}
+5	e	_		{}
+6	aeroporti	_	Locale_by_use	{"Locale": "6"}
+7	per	_		{}
+8	rimediare	_		{}
+9	all’inefficienza	_		{}
+10	delle	_		{}
+11	strutture	_	Buildings	{"Building": "11"}
+12	attuali	_	Temporal_collocation	{"Landmark_entity": "11", "Landmark_period": "12"}
+13	.	_		{}

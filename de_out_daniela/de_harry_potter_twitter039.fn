@@ -1,0 +1,15 @@
+1	Eventuell	_	Likelihood	{"Hypothetical_event": "2"}
+2	sitze	_	Being_located	{"Theme": "3", "Location": "6"}
+3	ich	_		{}
+4	jetzt	_	Temporal_collocation	{"Trajector_event": "2", "Landmark_period": "4"}
+5	im	_		{}
+6	Wohnzimmer	_	Building_subparts	{"Building_part": "6"}
+7	und	_		{}
+8	schaue	_	Perception_active	{"Perceiver_agentive": "3", "Phenomenon": "11"}
+9	den	_		{}
+10	Harry	_		{}
+11	Potter	_		{}
+12	von	_		{}
+13	gestern	_		{}
+14	.	_		{}
+15	#Prokrastination	_		{}

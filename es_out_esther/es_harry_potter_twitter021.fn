@@ -1,0 +1,13 @@
+1	AHora	_	Time_vector	{"Landmark_event": "5", "Event": "2"}
+2	cambie	_	Cause_change	{"Final_value": "5", "Final_category": "7", "Initial_category": "4"}
+3	de	_		{}
+4	opinion	_	Opinion	{"Opinion": "7"}
+5	quiero	_	Desiring	{"Location_of_Event": "9", "Focal_participant": "9", "Event": "7"}
+6	una	_		{}
+7	torta	_	Food	{"Food": "7"}
+8	de	_		{}
+9	harry	_		{}
+10	potter	_		{}
+11	si	_		{}
+12	si	_		{}
+13	si	_		{}

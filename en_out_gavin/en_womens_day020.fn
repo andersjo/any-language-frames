@@ -1,0 +1,32 @@
+1	In	_		{}
+2	1914	_		{}
+3	International	_	Foreign_or_domestic_country	{"Current_country": "3"}
+4	Women's	_		{}
+5	Day	_	Calendric_unit	{"Unit": "5"}
+6	was	_		{}
+7	held	_		{}
+8	on	_		{}
+9	March	_	Calendric_unit	{"Unit": "9"}
+10	8	_	Cardinal_numbers	{"Number": "10"}
+11	,	_		{}
+12	possibly	_	Likelihood	{}
+13	because	_		{}
+14	that	_		{}
+15	day	_	Calendric_unit	{"Unit": "15"}
+16	was	_	Existence	{"Entity": "15"}
+17	a	_	Cardinal_numbers	{"Number": "17", "Entity": "18"}
+18	Sunday	_	Calendric_unit	{"Unit": "18"}
+19	,	_		{}
+20	and	_		{}
+21	now	_	Temporal_collocation	{"Landmark_period": "21", "Landmark_event": "25"}
+22	it	_		{}
+23	is	_		{}
+24	always	_	Frequency	{"Interval": "24", "Event": "25"}
+25	held	_		{}
+26	on	_		{}
+27	March	_	Calendric_unit	{"Unit": "27"}
+28	8	_	Cardinal_numbers	{"Number": "28"}
+29	in	_		{}
+30	all	_	Quantity	{"Individuals": "31", "Quantity": "30"}
+31	countries	_		{}
+32	.	_		{}

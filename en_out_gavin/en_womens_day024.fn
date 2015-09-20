@@ -1,0 +1,32 @@
+1	In	_		{}
+2	1917	_		{}
+3	demonstrations	_	Reasoning	{}
+4	marking	_		{}
+5	International	_	Foreign_or_domestic_country	{"Current_country": "5"}
+6	Women's	_		{}
+7	Day	_	Calendric_unit	{"Unit": "7"}
+8	in	_		{}
+9	Saint	_	People_by_morality	{"Person": "9"}
+10	Petersburg	_		{}
+11	on	_		{}
+12	the	_		{}
+13	last	_	Version_sequence	{"Item": "14"}
+14	Sunday	_	Calendric_unit	{"Whole": "16", "Unit": "14"}
+15	in	_		{}
+16	February	_	Calendric_unit	{"Unit": "16"}
+17	(	_		{}
+18	which	_		{}
+19	fell	_	Motion	{"Theme": "14"}
+20	on	_		{}
+21	March	_	Calendric_unit	{"Unit": "21"}
+22	8	_	Cardinal_numbers	{"Number": "22"}
+23	on	_		{}
+24	the	_		{}
+25	Gregorian	_		{}
+26	calendar	_		{}
+27	)	_		{}
+28	initiated	_	Process_start	{"Initial_subevent": "3", "Result": "31", "Time": "1"}
+29	the	_		{}
+30	February	_	Calendric_unit	{"Unit": "30"}
+31	Revolution	_	Change_of_leadership	{}
+32	.	_		{}

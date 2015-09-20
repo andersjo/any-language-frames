@@ -1,0 +1,14 @@
+1	Quando	_	Event_instance	{"Event": "2"}
+2	parli	_	Speak_on_topic	{"Topic": "7"}
+3	o	_		{}
+4	senti	_		{}
+5	parlare	_	Speak_on_topic	{"Topic": "7"}
+6	di	_		{}
+7	Harry	_		{}
+8	Potter	_		{}
+9	ti	_		{}
+10	si	_		{}
+11	illumina	_		{}
+12	lo	_		{}
+13	sguardo	_	Facial_expression	{"Expression": "11"}
+14	#cosedapotterheads	_		{}

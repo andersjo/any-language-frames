@@ -1,0 +1,10 @@
+1	„Ausbildungsentschädigung	_		{}
+2	“	_		{}
+3	)	_		{}
+4	wechselte	_	Exchange	{}
+5	Ronaldo	_		{}
+6	später	_	Time_vector	{"Direction": "6", "Event": "4"}
+7	schließlich	_	Temporal_collocation	{"Trajector_event": "4", "Trajector_entity": "5", "Landmark_period": "6"}
+8	zum	_		{}
+9	Hauptstadtverein	_		{}
+10	.	_		{}

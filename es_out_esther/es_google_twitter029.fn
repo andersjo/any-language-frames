@@ -1,0 +1,21 @@
+1	Echa	_	Cause_motion	{"Path": "20", "Theme": "7", "Goal": "3", "Area": "7"}
+2	un	_		{}
+3	vistazo	_	Perception_active	{"Phenomenon": "7"}
+4	a	_		{}
+5	el	_		{}
+6	nuevo	_	Age	{"Degree": "6", "Entity": "7"}
+7	juego	_	Performing_arts	{"Type": "7", "Script": "7"}
+8	"	_		{}
+9	Adivina	_	Estimating	{"Item": "11"}
+10	el	_		{}
+11	club	_	Organization	{"Organization": "13", "Members": "11"}
+12	de	_		{}
+13	fútbol	_		{}
+14	"	_		{}
+15	!	_		{}
+16	Únete	_		{}
+17	ahora	_	Temporal_collocation	{"Landmark_period": "17"}
+18	!	_		{}
+19	@GameLikeApps	_		{}
+20	https://t.co/kugWLoFDq4	_		{}
+21	http://t.co/mbs4VQxMwM	_		{}

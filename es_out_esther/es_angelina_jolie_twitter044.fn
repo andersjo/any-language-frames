@@ -1,0 +1,13 @@
+1	Si	_		{}
+2	Angelina	_		{}
+3	Jolie	_		{}
+4	tuviera	_	Possession	{"Owner": "2", "Possession": "6"}
+5	un	_		{}
+6	hijo	_	Kinship	{"Ego": "7", "Alter": "6"}
+7	mío	_		{}
+8	el	_		{}
+9	primer	_	First_experience	{"Experience": "10", "Context": "1"}
+10	sorprendido	_	Emotion_directed	{"Topic": "6", "Stimulus": "1", "Expressor": "12", "Experiencer": "12", "Event": "4"}
+11	sería	_	Becoming	{"Entity": "12"}
+12	yo	_	Proper_reference	{"Intended_referent": "12"}
+13	.	_		{}

@@ -1,0 +1,20 @@
+1	"	_		{}
+2	@PerfectGirlsFR_	_		{}
+3	:	_		{}
+4	Angelina	_		{}
+5	Jolie	_		{}
+6	elle	_		{}
+7	porte	_	Wearing	{}
+8	bien	_	Degree	{"Gradable_attribute": "7"}
+9	son	_		{}
+10	nom	_	Referring_by_name	{"Name": "5", "Entity": "4"}
+11	.	_		{}
+12	🙌	_		{}
+13	http://t.co/NNjUkaQGFt	_		{}
+14	"	_		{}
+15	Gauche	_	Part_orientational	{"Part": "15"}
+16	carrément	_		{}
+17	droite	_	Part_orientational	{"Part": "17"}
+18	moyen	_	Desirability	{}
+19	quand	_		{}
+20	même	_		{}

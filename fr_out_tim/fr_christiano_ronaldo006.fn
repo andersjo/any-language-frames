@@ -1,0 +1,27 @@
+1	Recruté	_		{}
+2	15	_	Cardinal_numbers	{"Number": "2", "Entity": "3"}
+3	millions	_	Quantity	{"Individuals": "4", "Quantity": "3"}
+4	d'euros	_		{}
+5	durant	_		{}
+6	l'été	_		{}
+7	2003	_		{}
+8	par	_		{}
+9	Manchester	_		{}
+10	United	_		{}
+11	,	_		{}
+12	il	_		{}
+13	révèle	_		{}
+14	son	_		{}
+15	talent	_	Expertise	{"Protagonist": "14"}
+16	lors	_	Temporal_collocation	{"Trajector_event": "13", "Landmark_event": "18"}
+17	de	_		{}
+18	l'Euro	_		{}
+19	2004	_		{}
+20	à	_		{}
+21	seulement	_		{}
+22	19	_		{}
+23	ans	_	Age	{"Age": "22", "Entity": "12"}
+24	avec	_		{}
+25	le	_		{}
+26	Portugal	_		{}
+27	.	_		{}

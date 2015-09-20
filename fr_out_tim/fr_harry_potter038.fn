@@ -1,0 +1,24 @@
+1	Dans	_		{}
+2	la	_		{}
+3	partie	_	Part_whole	{"Part": "4", "Whole": "7"}
+4	centrale	_	Part_inner_outer	{"Part": "4", "Whole": "7"}
+5	de	_		{}
+6	chaque	_		{}
+7	livre	_	Text	{"Text": "7"}
+8	,	_		{}
+9	la	_		{}
+10	confrontation	_		{}
+11	de	_		{}
+12	Harry	_		{}
+13	à	_		{}
+14	divers	_	Diversity	{"Group": "15"}
+15	problèmes	_	Predicament	{"Situation": "15", "Experiencer": "12"}
+16	le	_		{}
+17	pousse	_	Causation	{"Cause": "10", "Actor": "12"}
+18	à	_		{}
+19	violer	_	Compliance	{"Protagonist": "16", "Norm": "21", "Act": "19"}
+20	les	_		{}
+21	règles	_	Law	{"Law": "21"}
+22	de	_		{}
+23	l'école	_		{}
+24	.	_		{}

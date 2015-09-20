@@ -1,0 +1,15 @@
+1	schwarzer	_	Color	{"Color": "1", "Entity": "2"}
+2	Humor	_	Mental_property	{}
+3	ist	_		{}
+4	erst	_		{}
+5	dann	_	Temporal_collocation	{"Trajector_event": "13"}
+6	richtig	_		{}
+7	schwarz	_	Color	{"Color": "7", "Degree": "6"}
+8	,	_		{}
+9	wenn	_		{}
+10	Angelina	_		{}
+11	Jolie	_		{}
+12	ihn	_		{}
+13	adoptieren	_	Adopt_selection	{"Attribute": "2", "Agent": "11"}
+14	will	_	Desiring	{"Focal_participant": "2", "Experiencer": "11", "Event": "13"}
+15	.	_		{}

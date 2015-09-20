@@ -1,0 +1,21 @@
+1	Cuando	_		{}
+2	tenía	_		{}
+3	once	_		{}
+4	años	_	Age	{"Age": "3", "Time": "1", "Degree": "3", "Entity": "16"}
+5	,	_		{}
+6	su	_		{}
+7	familia	_	Kinship	{"Relatives": "7", "Ego": "16"}
+8	se	_		{}
+9	mudó	_		{}
+10	de	_		{}
+11	nuevo	_		{}
+12	a	_		{}
+13	Los	_		{}
+14	Ángeles	_		{}
+15	y	_		{}
+16	Angelina	_		{}
+17	quiso	_	Desiring	{"Focal_participant": "16", "Reason": "9", "Place": "14", "Experiencer": "16", "Time": "1", "Location_of_Event": "18", "Event": "20"}
+18	volver	_	Self_motion	{"Goal": "20", "Self_mover": "16", "Time": "1"}
+19	a	_		{}
+20	actuar	_	Performers	{"Person": "16"}
+21	.	_		{}

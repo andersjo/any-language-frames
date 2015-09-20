@@ -1,0 +1,14 @@
+1	There	_		{}
+2	were	_	Cause_to_perceive	{"Phenomenon": "3", "Actor": "5", "Entity": "6"}
+3	concerns	_	Fear	{"Stimulus": "6"}
+4	that	_		{}
+5	Google's	_		{}
+6	IPO	_		{}
+7	would	_		{}
+8	lead	_	Cause_impact	{"Impactee": "13", "Cause": "6", "Impactor": "5"}
+9	to	_		{}
+10	changes	_	Cause_change	{"Entity": "13"}
+11	in	_		{}
+12	company	_	Businesses	{"Business": "12"}
+13	culture	_		{}
+14	.	_		{}

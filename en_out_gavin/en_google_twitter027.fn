@@ -1,0 +1,13 @@
+1	School	_	Education_teaching	{"Student": "3"}
+2	Your	_		{}
+3	School	_	Locale_by_use	{"Locale": "3"}
+4	With	_		{}
+5	These	_		{}
+6	8	_	Cardinal_numbers	{"Number": "6", "Entity": "8"}
+7	Digital	_	Medical_specialties	{}
+8	Tools	_	Gizmo	{"Descriptor": "7", "Gizmo": "8"}
+9	-	_		{}
+10	Huffington	_		{}
+11	Post	_	Sent_items	{"Descriptor": "10", "Sent_item": "11"}
+12	http://t.co/KbLDIfeYaP	_		{}
+13	#opensource	_		{}

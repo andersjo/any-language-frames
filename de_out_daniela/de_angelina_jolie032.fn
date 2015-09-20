@@ -1,0 +1,18 @@
+1	Voight	_		{}
+2	beschrieb	_	Statement	{"Topic": "4", "Message": "16", "Speaker": "1"}
+3	das	_		{}
+4	Verhalten	_	Conduct	{"Manner": "16", "Agent": "8", "Time": "14"}
+5	seiner	_	Possession	{"Owner": "1", "Possession": "8"}
+6	damals	_		{}
+7	fünfjährigen	_		{}
+8	Tochter	_	Kinship	{"Descriptor": "7", "Ego": "1", "Alter": "8"}
+9	während	_	Duration_relation	{"Eventuality": "11"}
+10	der	_		{}
+11	Dreharbeiten	_		{}
+12	im	_	Location_in_time	{"Whole": "13"}
+13	Jahr	_	Calendric_unit	{"Whole": "14", "Unit": "13"}
+14	1980	_		{}
+15	als	_		{}
+16	„gelangweilt	_		{}
+17	“	_		{}
+18	.	_		{}

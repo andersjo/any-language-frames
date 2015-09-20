@@ -1,0 +1,14 @@
+1	Harry	_		{}
+2	Potter	_		{}
+3	:	_		{}
+4	Vamos	_	Cause_impact	{"Impactee": "5", "Impactor": "1", "Agent": "1", "Impactors": "5"}
+5	Tom	_		{}
+6	,	_		{}
+7	terminemos	_	Activity_finish	{"Agent": "1", "Activity": "8"}
+8	esto	_		{}
+9	como	_	Similarity	{"Differentiating_fact": "7", "Dimension": "11", "Entity_2": "5", "Entity_1": "1"}
+10	lo	_		{}
+11	empezamos	_	Activity_start	{"Agent": "1", "Activity": "8"}
+12	..	_		{}
+13	¡Juntos	_		{}
+14	!	_		{}

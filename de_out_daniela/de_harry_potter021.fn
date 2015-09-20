@@ -1,0 +1,27 @@
+1	Beim	_		{}
+2	Versuch	_	Attempt	{"Agent": "20"}
+3	,	_		{}
+4	auch	_		{}
+5	ihren	_		{}
+6	15	_	Cardinal_numbers	{"Number": "6", "Entity": "7"}
+7	Monate	_	Calendric_unit	{"Count": "15", "Unit": "7"}
+8	alten	_	Age	{"Attribute": "8", "Age": "6", "Entity": "9"}
+9	Sohn	_	Kinship	{"Ego": "5", "Alter": "10"}
+10	Harry	_		{}
+11	zu	_		{}
+12	töten	_	Killing	{"Killer": "20", "Victim": "10"}
+13	,	_		{}
+14	fällt	_		{}
+15	der	_		{}
+16	Todesfluch	_		{}
+17	von	_		{}
+18	Harry	_		{}
+19	auf	_		{}
+20	Voldemort	_		{}
+21	selbst	_	Proper_reference	{"Intended_referent": "20"}
+22	zurück	_		{}
+23	und	_		{}
+24	vernichtet	_	Destroying	{"Undergoer": "26", "Cause": "16"}
+25	seinen	_	Possession	{"Possession": "26", "Owner": "20"}
+26	Körper	_	Observable_body_parts	{"Body_part": "26", "Possessor": "20"}
+27	.	_		{}

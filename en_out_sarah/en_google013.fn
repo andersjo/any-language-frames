@@ -1,0 +1,24 @@
+1	The	_		{}
+2	company	_	Businesses	{"Business": "2"}
+3	leads	_	Leadership	{"Leader": "2", "Governed": "11", "Activity": "5"}
+4	the	_		{}
+5	development	_	Cause_to_make_progress	{"Project": "11", "Agent": "2"}
+6	of	_		{}
+7	the	_		{}
+8	Android	_		{}
+9	mobile	_		{}
+10	operating	_	Being_in_operation	{"Device": "9"}
+11	system	_	System	{"Function": "10"}
+12	and	_	Simultaneity	{"Profiled_event": "11", "Landmark_event": "16"}
+13	the	_		{}
+14	browser-only	_		{}
+15	Chrome	_		{}
+16	OS	_		{}
+17	for	_		{}
+18	a	_	Cardinal_numbers	{"Number": "18", "Entity": "19"}
+19	netbook	_		{}
+20	known	_	Awareness	{"Content": "16"}
+21	as	_		{}
+22	a	_	Cardinal_numbers	{"Number": "22", "Entity": "23"}
+23	Chromebook	_		{}
+24	.	_		{}

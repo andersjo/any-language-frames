@@ -1,0 +1,34 @@
+1	Може	_		{}
+2	да	_		{}
+3	съдържа	_	Containing	{"Container": "3"}
+4	много	_	Quantity	{"Mass": "4"}
+5	приставки	_		{}
+6	като	_	Similarity	{}
+7	календар	_		{}
+8	,	_		{}
+9	RSS	_		{}
+10	потоци	_	Quantity	{"Mass": "10"}
+11	с	_		{}
+12	новини	_	Information	{"Information": "12"}
+13	,	_		{}
+14	YouTube	_		{}
+15	канали	_		{}
+16	,	_		{}
+17	часовници	_	Accoutrements	{}
+18	,	_		{}
+19	цитат	_		{}
+20	на	_		{}
+21	деня	_	Calendric_unit	{"Unit": "21"}
+22	,	_		{}
+23	търсене	_	Request	{"Topic": "23"}
+24	на	_		{}
+25	продукти	_		{}
+26	в	_		{}
+27	eBay	_		{}
+28	,	_		{}
+29	таймери	_		{}
+30	и	_		{}
+31	още	_	Increment	{"Class": "31"}
+32	много	_	Quantity	{"Mass": "32"}
+33	други	_	Increment	{"Class": "33"}
+34	.	_		{}

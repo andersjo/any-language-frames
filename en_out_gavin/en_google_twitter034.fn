@@ -1,0 +1,20 @@
+1	@alldiscountsher	_		{}
+2	Hello	_		{}
+3	!	_		{}
+4	Can	_	Capability	{"Entity": "5", "Circumstances": "8"}
+5	you	_		{}
+6	support	_	Supporting	{"Supported": "7", "Supporter": "5"}
+7	me	_	Proper_reference	{"Intended_referent": "7"}
+8	in	_		{}
+9	promoting	_	Subjective_influence	{"Product": "12", "Agent": "5"}
+10	my	_		{}
+11	mobile	_	Building_subparts	{"Building_part": "11"}
+12	app	_	Purpose	{}
+13	?	_		{}
+14	I'll	_		{}
+15	really	_	Degree	{"Gradable_attribute": "16"}
+16	appreciate	_	Judgment	{"Cognizer": "14", "Evaluee": "18"}
+17	your	_		{}
+18	support	_	Supporting	{"Supported": "14", "Supporter": "17"}
+19	!	_		{}
+20	http://t.co/RI9UrAvtvg	_		{}

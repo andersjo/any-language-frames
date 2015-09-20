@@ -1,0 +1,32 @@
+1	Durant	_		{}
+2	cette	_		{}
+3	période	_	Timespan	{"State": "8"}
+4	,	_		{}
+5	la	_		{}
+6	future	_		{}
+7	actrice	_	Performers	{}
+8	porte	_	Wearing	{"Clothing": "10", "Wearer": "7"}
+9	des	_		{}
+10	vêtements	_	Clothing	{"Garment": "10"}
+11	noirs	_	Color	{"Color": "11", "Entity": "10"}
+12	,	_		{}
+13	teint	_	Color	{}
+14	ses	_		{}
+15	cheveux	_	Observable_body_parts	{"Body_part": "15", "Possessor": "7"}
+16	en	_		{}
+17	noir	_	Color	{"Color": "17", "Entity": "15"}
+18	et	_		{}
+19	danse	_	Self_motion	{"Self_mover": "7"}
+20	le	_		{}
+21	Mosh	_		{}
+22	avec	_		{}
+23	son	_		{}
+24	petit	_		{}
+25	ami	_	Personal_relationship	{"Partner_2": "26", "Partner_1": "7"}
+26	Anton	_		{}
+27	qui	_		{}
+28	a	_		{}
+29	emménagé	_		{}
+30	chez	_		{}
+31	elle	_		{}
+32	.	_		{}

@@ -1,0 +1,21 @@
+1	5	_		{}
+2	minutes	_	Measure_duration	{"Count": "1", "Process": "6", "Unit": "2"}
+3	into	_		{}
+4	the	_		{}
+5	Celebrity	_		{}
+6	Apprentice	_		{}
+7	and	_	Simultaneity	{"Profiled_event": "12"}
+8	Donald	_		{}
+9	Trump	_		{}
+10	is	_		{}
+11	already	_	Time_vector	{"Landmark_event": "3", "Event": "12"}
+12	showing	_		{}
+13	that	_		{}
+14	he	_		{}
+15	doesn't	_		{}
+16	understand	_	Awareness	{"Topic": "18", "Cognizer": "8", "Degree": "20", "Time": "3"}
+17	Global	_	Political_locales	{"Locale": "17"}
+18	Warming	_	Cause_temperature_change	{}
+19	at	_		{}
+20	all	_		{}
+21	.	_		{}

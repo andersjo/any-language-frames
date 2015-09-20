@@ -1,0 +1,37 @@
+1	En	_		{}
+2	la	_		{}
+3	siguiente	_	Relative_time	{"Landmark_occasion": "4"}
+4	temporada	_	Sequence	{}
+5	destacó	_		{}
+6	especialmente	_	Idiosyncrasy	{}
+7	su	_		{}
+8	nueva	_	Age	{"Attribute": "9", "Age": "8", "Degree": "8", "Entity": "9"}
+9	faceta	_	Distinctiveness	{"Feature": "9", "Entity": "9"}
+10	de	_		{}
+11	asistente	_	Assistance	{"Benefited_party": "20", "Goal": "17", "Focal_entity": "17"}
+12	que	_		{}
+13	dejaba	_	Releasing	{"Theme": "14"}
+14	patente	_	Obviousness	{"Attribute": "17", "Phenomenon": "17", "Degree": "14"}
+15	su	_		{}
+16	enorme	_	Size	{"Entity": "17"}
+17	evolución	_	Progress	{"Entity": "17"}
+18	en	_		{}
+19	un	_		{}
+20	equipo	_	Organization	{"Organization": "20"}
+21	donde	_		{}
+22	sus	_		{}
+23	actuaciones	_		{}
+24	empezaban	_	Activity_start	{"Activity": "23"}
+25	a	_		{}
+26	ser	_	Being_in_category	{"Category": "28", "Item": "23"}
+27	muy	_	Degree	{"Gradable_attribute": "28"}
+28	destacadas	_	Obviousness	{"Perceiver": "35", "Phenomenon": "23", "Degree": "27", "Evidence": "28"}
+29	e	_		{}
+30	importantes	_	Importance	{"Interested_party": "35", "Field": "35", "Undertaking": "23"}
+31	para	_		{}
+32	el	_		{}
+33	devenir	_		{}
+34	del	_		{}
+35	club	_	Organization	{"Organization": "35"}
+36	inglés	_	People_by_origin	{"Origin": "36", "Person": "35"}
+37	.	_		{}

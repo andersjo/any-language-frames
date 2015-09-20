@@ -1,0 +1,57 @@
+1	Les	_		{}
+2	préoccupations	_		{}
+3	politiques	_		{}
+4	vont	_		{}
+5	plus	_		{}
+6	loin	_		{}
+7	,	_		{}
+8	la	_		{}
+9	volonté	_	Willingness	{"Cognizer": "11", "Activity": "13"}
+10	de	_		{}
+11	Voldemort	_		{}
+12	de	_		{}
+13	supprimer	_	Killing	{"Killer": "11", "Victim": "16"}
+14	les	_		{}
+15	«	_		{}
+16	Sang-de-bourbe	_		{}
+17	»	_		{}
+18	(	_		{}
+19	sorciers	_		{}
+20	nés	_		{}
+21	de	_		{}
+22	parents	_	Kinship	{"Alter": "22"}
+23	moldus	_		{}
+24	,	_		{}
+25	c'est-à-dire	_		{}
+26	de	_		{}
+27	non-sorciers	_		{}
+28	)	_		{}
+29	de	_		{}
+30	la	_		{}
+31	société	_		{}
+32	magique	_		{}
+33	évoquant	_	Evoking	{"Stimulus": "9", "Phenomenon": "35"}
+34	la	_		{}
+35	persécution	_		{}
+36	et	_		{}
+37	le	_		{}
+38	massacre	_	Killing	{"Killer": "44", "Victim": "41"}
+39	de	_		{}
+40	différents	_	Diversity	{"Group": "41"}
+41	groupes	_		{}
+42	sous	_		{}
+43	l'Allemagne	_		{}
+44	nazie	_		{}
+45	(	_		{}
+46	que	_		{}
+47	ce	_		{}
+48	soit	_		{}
+49	pour	_		{}
+50	leurs	_		{}
+51	origines	_	Origin	{"Entity": "50"}
+52	ou	_		{}
+53	leurs	_		{}
+54	appartenances	_	Membership	{"Member": "53"}
+55	politiques	_		{}
+56	)	_		{}
+57	.	_		{}

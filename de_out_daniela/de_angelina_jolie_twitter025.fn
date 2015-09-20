@@ -1,0 +1,21 @@
+1	In	_		{}
+2	dem	_		{}
+3	Film	_	Physical_artworks	{"Artifact": "3"}
+4	"	_		{}
+5	Gia	_		{}
+6	-	_		{}
+7	Preis	_		{}
+8	der	_		{}
+9	Schönheit	_		{}
+10	"	_		{}
+11	ist	_		{}
+12	Angelina	_		{}
+13	Jolie	_		{}
+14	nackt	_	Wearing	{"Wearer": "13"}
+15	und	_		{}
+16	macht	_	Intentionally_act	{"Agent": "13"}
+17	mit	_		{}
+18	einer	_		{}
+19	anderen	_	Increment	{"Class": "20", "Added_set": "19"}
+20	Frau	_	People	{"Person": "20"}
+21	rum	_		{}

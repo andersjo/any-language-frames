@@ -1,0 +1,64 @@
+1	Nel	_		{}
+2	gennaio	_	Calendric_unit	{"Unit": "2"}
+3	2004	_		{}
+4	è	_		{}
+5	stata	_		{}
+6	annunciata	_		{}
+7	l'assunzione	_		{}
+8	di	_		{}
+9	Morgan	_		{}
+10	Stanley	_		{}
+11	e	_		{}
+12	Goldman	_		{}
+13	Sachs	_		{}
+14	Group	_		{}
+15	per	_		{}
+16	organizzare	_	Arranging	{"Theme": "17"}
+17	l'offerta	_		{}
+18	pubblica	_		{}
+19	iniziale	_	Version_sequence	{"Item": "17"}
+20	,	_		{}
+21	che	_		{}
+22	ha	_		{}
+23	raggiunto	_		{}
+24	il	_		{}
+25	primo	_	Ordinal_numbers	{"Item": "26"}
+26	giorno	_	Calendric_unit	{"Unit": "26"}
+27	circa	_	Estimating	{"Item": "32", "Value": "30"}
+28	i	_		{}
+29	2	_	Cardinal_numbers	{"Number": "30", "Entity": "32"}
+30	miliardi	_		{}
+31	di	_		{}
+32	dollari	_		{}
+33	americani	_	Origin	{"Origin": "33", "Entity": "32"}
+34	(	_		{}
+35	19	_		{}
+36	,	_		{}
+37	6	_	Cardinal_numbers	{"Number": "37", "Entity": "40"}
+38	milioni	_	Cardinal_numbers	{"Number": "38", "Entity": "40"}
+39	di	_		{}
+40	azioni	_		{}
+41	a	_		{}
+42	circa	_	Estimated_value	{"Item": "40", "Value": "43"}
+43	100	_	Cardinal_numbers	{"Number": "43", "Entity": "44"}
+44	dollari	_		{}
+45	l'una	_		{}
+46	);	_		{}
+47	la	_		{}
+48	quotazione	_		{}
+49	ha	_		{}
+50	iniziato	_		{}
+51	subito	_		{}
+52	a	_		{}
+53	salire	_	Change_position_on_a_scale	{"Item": "48", "Final_value": "60", "Initial_value": "43"}
+54	,	_		{}
+55	raggiungendo	_		{}
+56	a	_		{}
+57	novembre	_	Calendric_unit	{"Unit": "57"}
+58	2004	_		{}
+59	i	_		{}
+60	200	_	Cardinal_numbers	{"Number": "60", "Entity": "61"}
+61	dollari	_		{}
+62	per	_		{}
+63	azione	_	Documents	{"Document": "63"}
+64	.	_		{}

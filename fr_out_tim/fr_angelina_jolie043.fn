@@ -1,0 +1,21 @@
+1	Elle	_		{}
+2	apprend	_	Becoming_aware	{"Cognizer": "1", "Phenomenon": "4", "Means": "8"}
+3	des	_		{}
+4	choses	_		{}
+5	grâce	_	Means	{"Purpose": "2", "Agent": "1", "Means": "8"}
+6	à	_		{}
+7	son	_		{}
+8	père	_	Kinship	{"Ego": "7", "Alter": "8"}
+9	,	_		{}
+10	qui	_		{}
+11	préconise	_	Attempt_suasion	{"Topic": "13", "Content": "14", "Addressee": "1", "Speaker": "8"}
+12	comme	_		{}
+13	méthode	_	Process	{}
+14	d'observer	_		{}
+15	les	_		{}
+16	gens	_	People	{"Person": "16"}
+17	pour	_		{}
+18	devenir	_	Becoming	{}
+19	comme	_	Similarity	{"Entity_1": "16"}
+20	eux	_		{}
+21	.	_		{}

@@ -1,0 +1,16 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	es	_	Being_in_category	{"Category": "4", "Item": "1"}
+4	guapa	_	Aesthetics	{"Entity": "1"}
+5	,	_		{}
+6	pero	_	Concessive	{"Topic": "4", "Main_statement": "7", "Statement": "1"}
+7	no	_	Quantity	{}
+8	creo	_	Judgment	{"Evaluee": "1"}
+9	que	_		{}
+10	la	_		{}
+11	más	_	Change_position_on_a_scale	{"Final_state": "12", "Final_value": "11", "Initial_value": "4"}
+12	guapa	_	Aesthetics	{"Place": "14", "Degree": "11", "Entity": "1"}
+13	del	_		{}
+14	mundo	_	Locale	{"Locale": "14"}
+15	srsly	_		{}
+16	.	_		{}

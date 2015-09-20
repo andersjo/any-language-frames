@@ -1,0 +1,29 @@
+1	L'opera	_		{}
+2	,	_		{}
+3	ambientata	_		{}
+4	nell'Inghilterra	_		{}
+5	degli	_		{}
+6	anni	_	Calendric_unit	{"Whole": "6"}
+7	'	_		{}
+8	90	_		{}
+9	,	_		{}
+10	descrive	_	Explaining_the_facts	{"Fact": "12"}
+11	le	_		{}
+12	avventure	_		{}
+13	del	_		{}
+14	giovane	_	People_by_age	{"Person": "15", "Age": "14"}
+15	mago	_	Expertise	{}
+16	Harry	_		{}
+17	Potter	_		{}
+18	e	_		{}
+19	dei	_		{}
+20	suoi	_		{}
+21	migliori	_		{}
+22	amici	_	Personal_relationship	{"Partner_2": "22", "Partner_1": "15"}
+23	,	_		{}
+24	Ronald	_		{}
+25	Weasley	_		{}
+26	ed	_		{}
+27	Hermione	_		{}
+28	Granger	_		{}
+29	.	_		{}

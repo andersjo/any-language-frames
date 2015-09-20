@@ -1,0 +1,24 @@
+1	El	_		{}
+2	mismo	_	Identicality	{"Current_instance": "3"}
+3	año	_	Calendric_unit	{"Relative_time": "2"}
+4	desempeñó	_		{}
+5	el	_		{}
+6	papel	_	Performers_and_roles	{}
+7	de	_		{}
+8	"	_		{}
+9	Margret	_		{}
+10	Sadovsky	_		{}
+11	"	_		{}
+12	,	_		{}
+13	uno	_	Cardinal_numbers	{"Entity": "17"}
+14	de	_		{}
+15	las	_		{}
+16	cinco	_	Cardinal_numbers	{"Entity": "17"}
+17	protagonistas	_	Performers_and_roles	{}
+18	en	_		{}
+19	la	_		{}
+20	película	_	Physical_artworks	{"Name": "22"}
+21	"	_		{}
+22	Foxfire	_		{}
+23	"	_		{}
+24	.	_		{}

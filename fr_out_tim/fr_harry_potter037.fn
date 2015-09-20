@@ -1,0 +1,60 @@
+1	L'histoire	_		{}
+2	est	_		{}
+3	écrite	_	Text_creation	{"Text": "1"}
+4	selon	_		{}
+5	un	_		{}
+6	point	_		{}
+7	de	_		{}
+8	vue	_	Scrutiny	{}
+9	narratif	_		{}
+10	interne	_	Part_inner_outer	{"Part": "10", "Whole": "6"}
+11	à	_		{}
+12	la	_		{}
+13	troisième	_	Ordinal_numbers	{"Item": "14"}
+14	personne	_		{}
+15	,	_		{}
+16	à	_		{}
+17	quelques	_		{}
+18	exceptions	_		{}
+19	(	_		{}
+20	le	_		{}
+21	premier	_	Ordinal_numbers	{"Item": "22"}
+22	chapitre	_		{}
+23	de	_		{}
+24	"	_		{}
+25	Harry	_		{}
+26	Potter	_		{}
+27	à	_		{}
+28	l'école	_		{}
+29	des	_		{}
+30	sorciers	_		{}
+31	"	_		{}
+32	et	_		{}
+33	"	_		{}
+34	Harry	_		{}
+35	Potter	_		{}
+36	et	_		{}
+37	les	_		{}
+38	Reliques	_		{}
+39	de	_		{}
+40	la	_		{}
+41	Mort	_		{}
+42	"	_		{}
+43	,	_		{}
+44	et	_		{}
+45	les	_		{}
+46	deux	_	Cardinal_numbers	{"Number": "46", "Entity": "47"}
+47	premiers	_	Ordinal_numbers	{"Item": "48"}
+48	chapitres	_		{}
+49	de	_		{}
+50	"	_		{}
+51	Harry	_		{}
+52	Potter	_		{}
+53	et	_		{}
+54	le	_		{}
+55	Prince	_		{}
+56	de	_		{}
+57	sang-mêlé	_		{}
+58	"	_		{}
+59	)	_		{}
+60	.	_		{}

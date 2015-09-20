@@ -1,0 +1,15 @@
+1	ES	_	Being_in_category	{"Category": "2", "Item": "4"}
+2	NOTICIA	_	Information	{"Topic": "4", "Information": "5"}
+3	|	_		{}
+4	Coldplay	_		{}
+5	promociona	_		{}
+6	'	_		{}
+7	Unbroken	_		{}
+8	'	_		{}
+9	de	_		{}
+10	Angelina	_		{}
+11	Jolie	_		{}
+12	con	_		{}
+13	esta	_	Proper_reference	{"Intended_referent": "14"}
+14	canción	_	Text	{"Text": "15"}
+15	http://t.co/k3SoSKEeBv	_		{}

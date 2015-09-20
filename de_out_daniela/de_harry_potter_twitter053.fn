@@ -1,0 +1,21 @@
+1	Ich	_		{}
+2	mag	_		{}
+3	ja	_		{}
+4	Harry	_		{}
+5	Potter	_		{}
+6	aber	_		{}
+7	mein	_		{}
+8	hass	_	Experiencer_focus	{"Topic": "5", "Content": "9", "Experiencer": "1"}
+9	Teil	_	Part_whole	{"Part": "9"}
+10	ist	_		{}
+11	und	_		{}
+12	bleibt	_	Activity_ongoing	{"Agent": "1", "Activity": "8"}
+13	"	_		{}
+14	Harry	_		{}
+15	Potter	_		{}
+16	und	_		{}
+17	der	_		{}
+18	Orden	_		{}
+19	des	_		{}
+20	Phönix	_		{}
+21	"	_		{}

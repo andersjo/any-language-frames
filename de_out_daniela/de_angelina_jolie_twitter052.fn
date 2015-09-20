@@ -1,0 +1,23 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	:	_		{}
+4	Der	_		{}
+5	Tod	_	Dead_or_alive	{"Protagonist": "7"}
+6	ihrer	_		{}
+7	Mutter	_	Kinship	{"Ego": "6", "Alter": "7"}
+8	rüttelte	_		{}
+9	sie	_		{}
+10	wach	_	Being_awake	{"Protagonist": "9"}
+11	-	_		{}
+12	Angelina	_		{}
+13	Jolie	_		{}
+14	verlor	_	Losing	{"Possession": "21", "Owner": "13"}
+15	nach	_	Time_vector	{"Direction": "15", "Landmark_event": "17", "Event": "14"}
+16	dem	_		{}
+17	Tod	_	Dead_or_alive	{"Protagonist": "19"}
+18	ihrer	_		{}
+19	Mutter	_	Kinship	{"Ego": "13", "Alter": "19"}
+20	die	_		{}
+21	Lust	_	Experiencer_focus	{"Content": "21", "Event": "17", "Experiencer": "13"}
+22	...	_		{}
+23	http://t.co/uNDjwcKGHb	_		{}

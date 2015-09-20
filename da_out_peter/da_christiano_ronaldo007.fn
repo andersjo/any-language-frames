@@ -1,0 +1,35 @@
+1	Herfter	_		{}
+2	blev	_		{}
+3	han	_		{}
+4	kåret	_		{}
+5	som	_		{}
+6	FIFPro	_		{}
+7	World	_		{}
+8	Player	_		{}
+9	of	_		{}
+10	the	_		{}
+11	Year	_		{}
+12	og	_		{}
+13	FIFA	_		{}
+14	World	_		{}
+15	Player	_		{}
+16	of	_		{}
+17	the	_		{}
+18	Year	_		{}
+19	,	_		{}
+20	samtidig	_	Simultaneity	{"Profiled_event": "28", "Landmark_event": "4"}
+21	med	_		{}
+22	at	_		{}
+23	han	_		{}
+24	blev	_		{}
+25	Manchester	_		{}
+26	Uniteds	_		{}
+27	første	_	Ordinal_numbers	{"Basis_of_order": "27", "Type": "26", "Item": "28"}
+28	vinder	_	Finish_competition	{"Competitor": "23", "Prize": "30"}
+29	af	_		{}
+30	Ballon	_		{}
+31	d'Or	_		{}
+32	i	_		{}
+33	40	_	Cardinal_numbers	{"Number": "33", "Entity": "34"}
+34	år	_	Frequency	{"Time_span": "33"}
+35	.	_		{}

@@ -1,0 +1,32 @@
+1	For	_		{}
+2	some	_	Relational_quantity	{}
+3	reason	_	Reason	{"Action": "29", "State_of_Affairs": "6", "Agent": "31"}
+4	,	_		{}
+5	the	_		{}
+6	ritual	_	Rite	{"Object": "10", "Desired_state": "12"}
+7	of	_		{}
+8	having	_	Causation	{"Cause": "9", "Actor": "10"}
+9	cut	_	Cutting	{"Item": "10"}
+10	myself	_		{}
+11	and	_	Simultaneity	{}
+12	feeling	_	Sensation	{"Source": "9", "Perceiver_passive": "31"}
+13	the	_		{}
+14	pain	_	Cause_harm	{"Cause": "9", "Agent": "31", "Victim": "10"}
+15	,	_		{}
+16	maybe	_	Likelihood	{"Hypothetical_event": "17", "Circumstances": "9"}
+17	feeling	_	Sensation	{"Source": "12", "Perceiver_passive": "31"}
+18	alive	_	Dead_or_alive	{"Protagonist": "31"}
+19	,	_		{}
+20	feeling	_	Sensation	{}
+21	some	_	Relational_quantity	{}
+22	kind	_	Type	{"Category": "24", "Subtype": "21"}
+23	of	_		{}
+24	release	_	Releasing	{}
+25	,	_		{}
+26	it	_		{}
+27	was	_		{}
+28	somehow	_		{}
+29	therapeutic	_	Cure	{"Patient": "31"}
+30	to	_		{}
+31	me	_	Proper_reference	{"Intended_referent": "10"}
+32	.	_		{}

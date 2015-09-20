@@ -1,0 +1,20 @@
+1	Alors	_	Temporal_collocation	{"Trajector_event": "13", "Landmark_period": "5"}
+2	que	_		{}
+3	le	_		{}
+4	moteur	_		{}
+5	est	_		{}
+6	toujours	_	Continued_state_of_affairs	{"State_of_affairs": "5"}
+7	en	_		{}
+8	phase	_		{}
+9	version	_	Categorization	{"Category": "10", "Item": "4"}
+10	bêta	_		{}
+11	,	_		{}
+12	il	_		{}
+13	répond	_	Response	{"Trigger": "17", "Agent": "12"}
+14	à	_		{}
+15	près	_	Relational_quantity	{"Individuals": "17", "Reference_quantity": "15"}
+16	de	_		{}
+17	requêtes	_	Request	{"Addressee": "12"}
+18	par	_		{}
+19	jour	_	Calendric_unit	{"Unit": "19"}
+20	.	_		{}

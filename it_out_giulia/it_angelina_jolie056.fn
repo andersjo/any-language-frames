@@ -1,0 +1,22 @@
+1	Il	_		{}
+2	film	_	Physical_artworks	{"Artifact": "2"}
+3	ha	_		{}
+4	guadagnato	_		{}
+5	478	_		{}
+6	milioni	_	Cardinal_numbers	{"Number": "6", "Entity": "8"}
+7	di	_		{}
+8	dollari	_		{}
+9	in	_		{}
+10	tutto	_	Quantity	{"Quantity": "10"}
+11	il	_		{}
+12	mondo	_		{}
+13	,	_		{}
+14	divenendo	_	Becoming	{"Entity": "2"}
+15	uno	_		{}
+16	dei	_		{}
+17	più	_		{}
+18	grandi	_	Trendiness	{"Evaluee": "2", "Degree": "18"}
+19	successi	_	Success_or_failure	{}
+20	del	_		{}
+21	2005	_		{}
+22	.	_		{}

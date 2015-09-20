@@ -1,0 +1,14 @@
+1	Kravet	_		{}
+2	må	_		{}
+3	belyses	_		{}
+4	i	_		{}
+5	sin	_		{}
+6	sammenhæng	_	Relation	{"Entity1": "1", "Entity2": "10"}
+7	med	_		{}
+8	den	_		{}
+9	socialistiske	_		{}
+10	opfattelse	_	Opinion	{"Cognizer": "9", "Opinion": "10"}
+11	af	_		{}
+12	hele	_	Ranked_expectation	{"Entity": "13"}
+13	kvindespørgsmålet	_		{}
+14	.	_		{}

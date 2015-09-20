@@ -1,0 +1,22 @@
+1	The	_		{}
+2	Sporting	_		{}
+3	staff	_	Set_of_interrelated_entities	{"Component_entities": "3"}
+4	were	_		{}
+5	made	_		{}
+6	aware	_	Awareness	{"Content": "9", "Cognizer": "2"}
+7	of	_		{}
+8	the	_		{}
+9	condition	_	Medical_conditions	{}
+10	and	_		{}
+11	Ronaldo's	_		{}
+12	mother	_	Kinship	{"Ego": "11", "Alter": "12"}
+13	gave	_	Giving	{"Donor": "12", "Theme": "15"}
+14	her	_		{}
+15	authorisation	_	Grant_permission	{"Grantee": "17", "Grantor": "12"}
+16	for	_		{}
+17	him	_		{}
+18	to	_		{}
+19	go	_	Motion	{"Theme": "17", "Goal": "21"}
+20	into	_		{}
+21	hospital	_	Buildings	{"Building": "21"}
+22	.	_		{}

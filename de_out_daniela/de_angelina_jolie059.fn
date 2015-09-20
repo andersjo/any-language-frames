@@ -1,0 +1,25 @@
+1	Vanessa	_		{}
+2	Vance	_		{}
+3	von	_		{}
+4	Reel.com	_		{}
+5	schrieb	_	Text_creation	{"Author": "2"}
+6	:	_		{}
+7	„Angelina	_		{}
+8	Jolie	_		{}
+9	erntete	_		{}
+10	große	_	Size	{"Entity": "11"}
+11	Anerkennung	_	Judgment	{"Cognizer": "2", "Reason": "14", "Evaluee": "8"}
+12	für	_		{}
+13	ihre	_		{}
+14	Rolle	_		{}
+15	als	_		{}
+16	Gia	_		{}
+17	,	_		{}
+18	und	_		{}
+19	es	_		{}
+20	ist	_		{}
+21	leicht	_	Difficulty	{"Activity": "23"}
+22	zu	_		{}
+23	verstehen	_	Awareness	{"Topic": "19", "Content": "11"}
+24	warum	_	Reason	{}
+25	.	_		{}

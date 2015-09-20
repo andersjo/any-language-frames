@@ -1,0 +1,23 @@
+1	Bourrez	_	Filling	{"Theme": "3"}
+2	les	_		{}
+3	dons	_	Giving	{"Theme": "3"}
+4	comme	_	Similarity	{"Entity_1": "3", "Entity_2": "6"}
+5	des	_		{}
+6	sacs	_	Containers	{"Container": "6"}
+7	!	_		{}
+8	https://t.co/chJPbn1G3N	_		{}
+9	Je	_		{}
+10	commente	_	Statement	{"Message": "12", "Speaker": "9"}
+11	:	_		{}
+12	Whizz	_		{}
+13	,	_		{}
+14	Goof	_		{}
+15	Troop	_		{}
+16	,	_		{}
+17	SMW1	_		{}
+18	et	_		{}
+19	2	_	Cardinal_numbers	{"Number": "19"}
+20	et	_		{}
+21	Oot	_		{}
+22	!	_		{}
+23	#AGDQ2015FR	_		{}

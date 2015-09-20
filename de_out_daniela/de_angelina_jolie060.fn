@@ -1,0 +1,56 @@
+1	Jolie	_		{}
+2	ist	_		{}
+3	ergreifend	_	Bringing	{}
+4	in	_		{}
+5	ihrer	_		{}
+6	Darstellung	_	Create_physical_artwork	{"Creator": "1"}
+7	,	_		{}
+8	die	_		{}
+9	den	_		{}
+10	Film	_	Physical_artworks	{"Artifact": "10"}
+11	mit	_		{}
+12	Nerv	_		{}
+13	,	_		{}
+14	Charme	_		{}
+15	und	_		{}
+16	Verzweiflung	_	Emotion_directed	{"Stimulus": "1", "Topic": "10", "State": "16"}
+17	füllt	_	Adorning	{"Theme": "16", "Location": "10"}
+18	,	_		{}
+19	und	_		{}
+20	ihre	_		{}
+21	Rolle	_		{}
+22	ist	_		{}
+23	möglicherweise	_	Likelihood	{"Hypothetical_event": "21"}
+24	das	_		{}
+25	schönste	_		{}
+26	Wrack	_		{}
+27	,	_		{}
+28	das	_		{}
+29	jemals	_		{}
+30	gefilmt	_	Behind_the_scenes	{}
+31	wurde	_		{}
+32	.	_		{}
+33	“	_		{}
+34	Jolie	_		{}
+35	gewann	_		{}
+36	ihren	_		{}
+37	zweiten	_		{}
+38	Golden	_		{}
+39	Globe	_		{}
+40	und	_		{}
+41	erhielt	_	Receiving	{"Theme": "44", "Recipient": "34"}
+42	erneut	_		{}
+43	eine	_		{}
+44	Nominierung	_		{}
+45	für	_		{}
+46	den	_		{}
+47	Emmy	_		{}
+48	,	_		{}
+49	außerdem	_		{}
+50	ihren	_		{}
+51	ersten	_	Ordinal_numbers	{"Item": "55"}
+52	Screen	_		{}
+53	Actors	_		{}
+54	Guild	_		{}
+55	Award	_		{}
+56	.	_		{}

@@ -1,0 +1,35 @@
+1	En	_		{}
+2	sus	_		{}
+3	inicios	_	Origin	{"Origin": "5", "Entity": "15"}
+4	,	_		{}
+5	finales	_	Temporal_subregion	{"Time_period": "7", "Sub_part": "8"}
+6	del	_		{}
+7	siglo	_	Calendric_unit	{"Relative_time": "5", "Whole": "8", "Unit": "7"}
+8	XVIII	_		{}
+9	y	_		{}
+10	principios	_	Temporal_subregion	{"Time_period": "12", "Sub_part": "12"}
+11	del	_		{}
+12	XIX	_		{}
+13	,	_		{}
+14	el	_		{}
+15	movimiento	_	Front_for	{"Front": "16", "Illicit_activity": "16", "Illicit_organization": "16"}
+16	obrero	_		{}
+17	mantenía	_		{}
+18	una	_		{}
+19	posición	_	Locale	{"Locale": "19"}
+20	tradicional	_	Custom	{"Society": "22", "Protagonist": "15", "Behavior": "20"}
+21	de	_		{}
+22	corte	_	Performers_and_roles	{"Performer": "15", "Script": "23", "Audience": "31", "Role": "23", "Performance": "20", "Type": "23"}
+23	patriarcal	_		{}
+24	en	_		{}
+25	relación	_	Relation	{"Entity1": "15", "Entity2": "31"}
+26	con	_		{}
+27	la	_		{}
+28	igualdad	_	Identicality	{"Set_of_instances": "31", "Current_instance": "28", "Type": "31"}
+29	de	_		{}
+30	la	_		{}
+31	mujer	_	People	{"Person": "31"}
+32	y	_		{}
+33	sus	_		{}
+34	reivindicaciones	_		{}
+35	.	_		{}

@@ -1,0 +1,37 @@
+1	For	_		{}
+2	the	_		{}
+3	first	_	First_experience	{"Experience": "4"}
+4	time	_	Event_instance	{"Instance": "4", "Instance_Prop": "3", "Event": "7"}
+5	,	_		{}
+6	Harry	_		{}
+7	realises	_	Becoming_aware	{"Cognizer": "6", "Phenomenon": "8"}
+8	that	_		{}
+9	racial	_	Type	{"Category": "9"}
+10	prejudice	_	Partiality	{"Domain": "9"}
+11	exists	_	Existence	{"Place": "12", "Entity": "10"}
+12	in	_		{}
+13	the	_		{}
+14	wizarding	_	Performers_and_roles	{"Performance": "14"}
+15	world	_	Locale	{"Locale": "15", "Descriptor": "14"}
+16	even	_		{}
+17	before	_	Relative_time	{}
+18	,	_		{}
+19	and	_		{}
+20	he	_		{}
+21	learns	_	Becoming_aware	{"Cognizer": "20", "Phenomenon": "22"}
+22	that	_		{}
+23	Voldemort's	_		{}
+24	reign	_	Dominate_situation	{"Situation": "24", "Agent": "23"}
+25	of	_		{}
+26	terror	_	Fear	{}
+27	was	_		{}
+28	often	_	Frequency	{"Interval": "28", "Event": "29"}
+29	directed	_	Aiming	{"Instrument": "24", "Target_location": "30"}
+30	at	_		{}
+31	wizards	_	Performers_and_roles	{"Performer": "31"}
+32	who	_		{}
+33	were	_	Being_in_category	{"Category": "34", "Item": "31"}
+34	descended	_	Colonization	{}
+35	from	_		{}
+36	Muggles	_		{}
+37	.	_		{}

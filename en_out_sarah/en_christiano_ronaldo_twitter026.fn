@@ -1,0 +1,21 @@
+1	Who	_		{}
+2	kids	_	People_by_age	{"Person": "2"}
+3	most	_		{}
+4	want	_	Desiring	{"Focal_participant": "10", "Experiencer": "2", "Event": "5"}
+5	to	_		{}
+6	meet	_	Make_acquaintance	{"Individual_1": "2", "Individual_2": "5"}
+7	:	_		{}
+8	#WorldCup	_		{}
+9	players	_	Performers	{"Person": "10"}
+10	Christiano	_		{}
+11	Ronaldo	_		{}
+12	and	_		{}
+13	Lionel	_		{}
+14	Messi	_		{}
+15	made	_		{}
+16	the	_		{}
+17	long	_	Measurable_attributes	{"Entity": "18"}
+18	list	_	Text	{"Text": "18"}
+19	.	_		{}
+20	#kidscoop	_		{}
+21	http://t.co/TuXDY8aiOx	_		{}

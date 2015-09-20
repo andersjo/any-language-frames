@@ -1,0 +1,43 @@
+1	In	_		{}
+2	2008	_		{}
+3	,	_		{}
+4	he	_		{}
+5	won	_	Win_prize	{"Competitor": "4", "Prize": "14"}
+6	3	_	Cardinal_numbers	{"Number": "6", "Entity": "14"}
+7	of	_		{}
+8	the	_		{}
+9	4	_	Cardinal_numbers	{"Number": "9", "Entity": "14"}
+10	main	_	First_rank	{"Item": "14"}
+11	PFA	_		{}
+12	and	_		{}
+13	FWA	_		{}
+14	trophies	_		{}
+15	and	_		{}
+16	was	_		{}
+17	named	_	Being_named	{"Name": "21", "Entity": "4"}
+18	the	_		{}
+19	FIFA	_		{}
+20	World	_	Locale	{"Locale": "20"}
+21	Player	_	Performers	{"Person": "4"}
+22	of	_		{}
+23	the	_		{}
+24	Year	_	Calendric_unit	{"Unit": "24"}
+25	,	_		{}
+26	FIFPro	_		{}
+27	Player	_	Performers	{"Person": "27"}
+28	of	_		{}
+29	the	_		{}
+30	Year	_	Calendric_unit	{"Unit": "30"}
+31	,	_		{}
+32	World	_	Locale	{"Locale": "32"}
+33	Soccer	_		{}
+34	Player	_	Performers	{"Person": "4"}
+35	of	_		{}
+36	the	_		{}
+37	Year	_	Calendric_unit	{"Unit": "37"}
+38	,	_		{}
+39	and	_		{}
+40	the	_		{}
+41	Onze	_		{}
+42	d'Or	_		{}
+43	.	_		{}

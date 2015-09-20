@@ -1,0 +1,55 @@
+1	Nel	_		{}
+2	1996	_		{}
+3	cerca	_	Seeking_to_achieve	{"Place": "6", "Sought_entity": "4", "Time": "2"}
+4	fortuna	_	Opportunity	{"Opportunity": "11"}
+5	in	_		{}
+6	Italia	_		{}
+7	,	_		{}
+8	sottoponendosi	_		{}
+9	ad	_		{}
+10	un	_		{}
+11	provino	_	Examination	{"Examiner": "48", "Qualification": "54"}
+12	per	_		{}
+13	"	_		{}
+14	Jolly	_		{}
+15	Blu	_	Color	{"Color": "15"}
+16	"	_		{}
+17	,	_		{}
+18	un	_		{}
+19	film	_	Physical_artworks	{"Creator": "22", "Name": "14", "Artifact": "19", "Time_of_creation": "2"}
+20	di	_		{}
+21	Stefano	_		{}
+22	Salvati	_		{}
+23	il	_		{}
+24	quale	_		{}
+25	l'aveva	_		{}
+26	già	_	Event_instance	{"Event": "27"}
+27	diretta	_		{}
+28	nel	_		{}
+29	videoclip	_		{}
+30	di	_		{}
+31	Antonello	_		{}
+32	Venditti	_		{}
+33	"	_		{}
+34	Alta	_	Measurable_attributes	{"Entity": "35"}
+35	marea	_	Natural_features	{"Descriptor": "34", "Type": "35"}
+36	"	_		{}
+37	,	_		{}
+38	ma	_	Concessive	{"Topic": "39"}
+39	le	_		{}
+40	fu	_		{}
+41	preferita	_		{}
+42	Alessia	_		{}
+43	Merz	_		{}
+44	perché	_	Reason	{"Action": "41", "State_of_Affairs": "51", "Agent": "48"}
+45	a	_		{}
+46	detta	_		{}
+47	del	_		{}
+48	regista	_	Behind_the_scenes	{"Place": "6", "Time": "2", "Production": "14", "Type": "48", "Artist": "22"}
+49	era	_		{}
+50	troppo	_		{}
+51	sexy	_		{}
+52	per	_		{}
+53	la	_		{}
+54	parte	_	Performers_and_roles	{"Type": "19"}
+55	.	_		{}

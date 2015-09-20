@@ -1,0 +1,13 @@
+1	remember	_	Remembering_information	{"Mental_content": "4"}
+2	the	_		{}
+3	second	_	Ordinal_numbers	{"Item": "4"}
+4	reason	_	Reason	{"Action": "7", "Agent": "6"}
+5	why	_	Reason	{"Action": "7", "Agent": "6"}
+6	seungri	_		{}
+7	likes	_	Experiencer_focus	{"Content": "8", "Experiencer": "6"}
+8	christiano	_		{}
+9	ronaldo	_		{}
+10	lol	_		{}
+11	u	_		{}
+12	lil	_		{}
+13	rascal	_		{}

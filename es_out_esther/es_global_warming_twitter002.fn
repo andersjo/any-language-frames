@@ -1,0 +1,24 @@
+1	#Huercalovera	_		{}
+2	en	_		{}
+3	#Navidad	_		{}
+4	es	_	Being_in_category	{"Category": "6", "Item": "1"}
+5	pura	_	Morality_evaluation	{"Behavior": "3", "Evaluee": "1"}
+6	magia	_	Artifact	{"Artifact": "1"}
+7	.	_		{}
+8	Hoy	_	Temporal_collocation	{"Landmark_entity": "10", "Landmark_period": "8"}
+9	la	_		{}
+10	película	_	Physical_artworks	{"Artifact": "12"}
+11	'	_		{}
+12	Río	_		{}
+13	2	_	Cardinal_numbers	{"Number": "13", "Entity": "12"}
+14	'	_		{}
+15	en	_		{}
+16	el	_		{}
+17	Cine	_	Physical_artworks	{"Artifact": "17"}
+18	,	_		{}
+19	y	_		{}
+20	mañana	_	Temporal_subregion	{"Time_period": "20", "Sub_part": "21"}
+21	espectáculo	_	Sensation	{"Source": "23", "Ground": "21"}
+22	en	_		{}
+23	@TeatroVillaH_O	_		{}
+24	http://t.co/ipdFr4UnbP	_		{}

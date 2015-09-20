@@ -1,0 +1,18 @@
+1	En	_		{}
+2	marzo	_	Calendric_unit	{"Relative_time": "2"}
+3	adquiere	_	Taking	{"Theme": "4"}
+4	Writely	_		{}
+5	para	_		{}
+6	más	_	Increment	{"Initial_set": "2", "Added_set": "7"}
+7	tarde	_	Relative_time	{"Focal_occasion": "7", "Focal_participant": "4", "Landmark_occasion": "8"}
+8	lanzar	_	Communicate_categorization	{"Category": "10", "Item": "10"}
+9	Google	_		{}
+10	Docs	_		{}
+11	y	_		{}
+12	presenta	_	Communicate_categorization	{"Category": "17", "Item": "17"}
+13	ese	_		{}
+14	mismo	_	Identicality	{"Previous_instance": "2", "Current_instance": "15", "Previous_context": "2"}
+15	mes	_		{}
+16	Google	_		{}
+17	Finance	_		{}
+18	.	_		{}

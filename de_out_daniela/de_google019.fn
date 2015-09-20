@@ -1,0 +1,19 @@
+1	66	_		{}
+2	%	_		{}
+3	der	_		{}
+4	Einnahmen	_		{}
+5	erfolgten	_		{}
+6	über	_	Leadership	{"Leader": "7"}
+7	Google-Webseiten	_		{}
+8	,	_		{}
+9	30	_	Cardinal_numbers	{"Number": "9", "Entity": "10"}
+10	%	_		{}
+11	über	_	Leadership	{"Leader": "12"}
+12	Google-Network-Seiten	_		{}
+13	und	_		{}
+14	4	_	Cardinal_numbers	{"Number": "14", "Entity": "15"}
+15	%	_		{}
+16	über	_	Leadership	{"Leader": "18"}
+17	andere	_	Increment	{"Class": "18", "Added_set": "17"}
+18	Quellen	_	Source_of_getting	{"Source": "18", "Theme": "4"}
+19	.	_		{}

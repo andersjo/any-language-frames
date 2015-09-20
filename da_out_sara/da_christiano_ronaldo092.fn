@@ -1,0 +1,33 @@
+1	Han	_		{}
+2	blev	_		{}
+3	efterfølgende	_	Relative_time	{"Focal_occasion": "4", "Focal_participant": "1"}
+4	valgt	_		{}
+5	ind	_		{}
+6	på	_		{}
+7	turneringens	_		{}
+8	hold	_	Organization	{"Organization": "8"}
+9	på	_		{}
+10	trods	_		{}
+11	af	_		{}
+12	,	_		{}
+13	at	_		{}
+14	han	_		{}
+15	sluttede	_		{}
+16	med	_		{}
+17	kun	_		{}
+18	at	_		{}
+19	have	_		{}
+20	scoret	_		{}
+21	to	_	Cardinal_numbers	{"Number": "21", "Entity": "22"}
+22	mål	_	Aiming	{"Targeted": "22"}
+23	Det	_		{}
+24	samme	_	Identicality	{"Current_instance": "25"}
+25	år	_	Calendric_unit	{"Unit": "25"}
+26	repræsenterede	_		{}
+27	han	_		{}
+28	også	_		{}
+29	Portugal	_		{}
+30	i	_		{}
+31	Sommer-OL	_		{}
+32	2004	_		{}
+33	.	_		{}

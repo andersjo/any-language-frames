@@ -1,0 +1,29 @@
+1	Its	_		{}
+2	market	_		{}
+3	dominance	_	Dominate_competitor	{"Agent": "1"}
+4	has	_		{}
+5	led	_		{}
+6	to	_		{}
+7	prominent	_	Prominence	{"Entity": "9"}
+8	media	_		{}
+9	coverage	_		{}
+10	,	_		{}
+11	including	_		{}
+12	criticism	_	Judgment_communication	{"Topic": "17", "Reason": "3", "Evaluee": "15"}
+13	of	_		{}
+14	the	_		{}
+15	company	_	Businesses	{"Business": "15"}
+16	over	_		{}
+17	issues	_	Point_of_dispute	{"Question": "21"}
+18	such	_		{}
+19	as	_		{}
+20	search	_	Seeking	{}
+21	neutrality	_	Partiality	{"Domain": "20"}
+22	,	_		{}
+23	copyright	_		{}
+24	,	_		{}
+25	censorship	_		{}
+26	,	_		{}
+27	and	_		{}
+28	privacy	_		{}
+29	.	_		{}

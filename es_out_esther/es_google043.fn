@@ -1,0 +1,23 @@
+1	Un	_		{}
+2	año	_	Calendric_unit	{"Relative_time": "3", "Whole": "2"}
+3	después	_	Relative_time	{"Focal_occasion": "6", "Focal_participant": "8", "Landmark_occasion": "9"}
+4	,	_		{}
+5	en	_		{}
+6	2007	_		{}
+7	,	_		{}
+8	Google	_		{}
+9	lanzó	_		{}
+10	el	_		{}
+11	sistema	_	System	{"Function": "12", "Salient_entity": "8", "Component_entities": "15", "Complex": "12"}
+12	operativo	_	Being_operational	{"Artifact": "11"}
+13	abierto	_	Openness	{"Theme": "15", "Useful_location": "12"}
+14	para	_		{}
+15	móviles	_	Building_subparts	{"Building_part": "15"}
+16	Android	_		{}
+17	y	_		{}
+18	creó	_		{}
+19	la	_		{}
+20	Open	_		{}
+21	Handset	_		{}
+22	Alliance	_		{}
+23	.	_		{}

@@ -1,0 +1,25 @@
+1	En	_		{}
+2	1996	_		{}
+3	,	_		{}
+4	Angelina	_		{}
+5	Jolie	_		{}
+6	joue	_	Performers_and_roles	{"Role": "11", "Performer": "4", "Type": "23"}
+7	également	_		{}
+8	le	_		{}
+9	rôle	_	Performers_and_roles	{}
+10	de	_		{}
+11	Margret	_		{}
+12	Sadovsky	_		{}
+13	,	_		{}
+14	une	_		{}
+15	des	_		{}
+16	cinq	_	Cardinal_numbers	{"Number": "16", "Entity": "17"}
+17	jeunes	_	Age	{"Age": "17", "Entity": "18"}
+18	filles	_	People_by_age	{"Person": "18", "Age": "17"}
+19	rebelles	_		{}
+20	au	_		{}
+21	centre	_		{}
+22	du	_		{}
+23	film	_	Physical_artworks	{"Artifact": "23"}
+24	'	_		{}
+25	.	_		{}

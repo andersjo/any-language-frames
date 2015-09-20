@@ -1,0 +1,47 @@
+1	Eventually	_	Time_vector	{"Landmark_event": "1", "Event": "4"}
+2	,	_		{}
+3	they	_		{}
+4	changed	_	Cause_change	{"Initial_value": "11", "Entity": "6", "Final_value": "7", "Agent": "3", "Time": "1"}
+5	the	_		{}
+6	name	_	Labeling	{"Label": "8"}
+7	to	_		{}
+8	Google	_		{}
+9	,	_		{}
+10	originating	_	Motion_directional	{"Source": "11", "Theme": "6"}
+11	from	_		{}
+12	a	_	Cardinal_numbers	{"Number": "12", "Entity": "13"}
+13	misspelling	_	Spelling_and_pronouncing	{}
+14	of	_		{}
+15	the	_		{}
+16	word	_	Simple_name	{"Term": "18", "Entity": "23"}
+17	"	_		{}
+18	googol	_		{}
+19	"	_		{}
+20	,	_		{}
+21	the	_		{}
+22	number	_	Quantity	{"Quantity": "23"}
+23	one	_	Cardinal_numbers	{"Number": "23"}
+24	followed	_	Cotheme	{"Theme": "22", "Cotheme": "28"}
+25	by	_		{}
+26	one	_	Cardinal_numbers	{"Multiplier": "27", "Number": "26", "Entity": "28"}
+27	hundred	_	Cardinal_numbers	{"Entity": "28", "Number": "27", "Multiplier": "26"}
+28	zeros	_	Cardinal_numbers	{"Entity": "28"}
+29	,	_		{}
+30	which	_		{}
+31	was	_		{}
+32	picked	_	Choosing	{"Chosen": "18", "Larger_purpose": "34"}
+33	to	_		{}
+34	signify	_	Sign	{"Indicator": "18", "Indicated": "35"}
+35	that	_		{}
+36	the	_		{}
+37	search	_	Seeking	{}
+38	engine	_		{}
+39	was	_		{}
+40	intended	_	Purpose	{"Goal": "41", "Agent": "38"}
+41	to	_		{}
+42	provide	_	Giving	{"Donor": "38", "Theme": "44"}
+43	large	_	Size	{"Entity": "44"}
+44	quantities	_	Quantity	{"Q_Prop": "43", "Mass": "45", "Quantity": "44"}
+45	of	_		{}
+46	information	_	Information	{"Information": "46"}
+47	.	_		{}

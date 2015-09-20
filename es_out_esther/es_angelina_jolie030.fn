@@ -1,0 +1,31 @@
+1	Como	_	Similarity	{"Differentiating_fact": "8", "Entity_1": "3", "Time": "1"}
+2	una	_		{}
+3	niña	_	People_by_age	{"Person": "7"}
+4	normal	_	Typicality	{"Comparison_set": "3", "Entity": "7"}
+5	,	_		{}
+6	la	_		{}
+7	actriz	_	Performers	{"Persistent_characteristic": "8"}
+8	vio	_		{}
+9	películas	_	Physical_artworks	{}
+10	con	_		{}
+11	su	_		{}
+12	madre	_	Kinship	{"Ego": "3"}
+13	,	_		{}
+14	y	_		{}
+15	más	_	Increment	{"Initial_set": "16"}
+16	tarde	_	Relative_time	{"Degree": "15", "Landmark_occasion": "17"}
+17	dijo	_	Communication	{"Topic": "20", "Communicator": "7", "Message": "20"}
+18	que	_		{}
+19	su	_		{}
+20	interés	_	Emotion_directed	{"Topic": "20", "Experiencer": "7", "Circumstances": "27"}
+21	en	_		{}
+22	actuar	_	Performers	{"Person": "7"}
+23	no	_	Quantity	{}
+24	se	_		{}
+25	había	_		{}
+26	visto	_	Have_associated	{"Topical_entity": "27"}
+27	influido	_	Influence_of_event_on_cognizer	{"Action": "22", "Cognizer": "7", "Activity": "20"}
+28	por	_		{}
+29	su	_		{}
+30	padre	_	Kinship	{"Ego": "7"}
+31	.	_		{}

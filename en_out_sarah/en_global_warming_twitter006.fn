@@ -1,0 +1,22 @@
+1	We	_		{}
+2	can	_	Capability	{"Entity": "1", "Cause": "9", "Circumstances": "9"}
+3	make	_	Manufacturing	{"Product": "5", "Means": "12", "Instrument": "8", "Purpose": "5", "Manufacturer": "1", "Manner": "13"}
+4	big	_	Size	{"Entity": "5"}
+5	changes	_		{}
+6	with	_		{}
+7	small	_	Size	{"Entity": "8"}
+8	actions	_		{}
+9	when	_		{}
+10	we	_		{}
+11	all	_	Quantity	{"Individuals": "10"}
+12	work	_		{}
+13	together	_	Collaboration	{"Partners": "10", "Manner": "13", "Undertaking": "12"}
+14	.	_		{}
+15	See	_	Attention	{"Figure": "16"}
+16	how	_		{}
+17	quickly	_	Speed	{"Speed": "17", "Entity": "18"}
+18	it	_		{}
+19	adds	_	Amounting_to	{"Time_span": "17"}
+20	up	_		{}
+21	.	_		{}
+22	https://t.co/yrpnTtyBLq	_		{}

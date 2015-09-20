@@ -1,0 +1,17 @@
+1	It's	_		{}
+2	53	_		{}
+3	'	_		{}
+4	degrees	_	Quantity	{"Individuals": "4", "Quantity": "2"}
+5	now	_	Temporal_collocation	{"Landmark_period": "5", "Landmark_event": "1"}
+6	&	_		{}
+7	it's	_		{}
+8	gonna	_		{}
+9	be	_	Existence	{"Entity": "7", "Time": "11"}
+10	28	_		{}
+11	tomorrow	_	Temporal_collocation	{"Landmark_period": "11", "Landmark_event": "7"}
+12	.	_		{}
+13	DAMN	_	Judgment	{"Evaluee": "16"}
+14	YOU	_		{}
+15	GLOBAL	_	Political_locales	{"Locale": "15"}
+16	WARMING	_	Cause_temperature_change	{"Item": "15"}
+17	!	_		{}

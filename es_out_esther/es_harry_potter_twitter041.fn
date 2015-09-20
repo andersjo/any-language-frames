@@ -1,0 +1,15 @@
+1	Estoy	_	State_continue	{"Entity": "6"}
+2	viendo	_	Attention	{"Expressor": "6", "Perceiver": "6", "Figure": "3"}
+3	Harry	_		{}
+4	Potter	_		{}
+5	,	_		{}
+6	me	_	Proper_reference	{"Intended_referent": "6", "Entity": "6"}
+7	falta	_	Possession	{"Owner": "6", "Possession": "9"}
+8	el	_		{}
+9	kilo	_	Measure_mass	{"Count": "9", "Stuff": "11", "Unit": "9"}
+10	de	_		{}
+11	helado	_		{}
+12	y	_		{}
+13	estoy	_	State_continue	{"Entity": "6"}
+14	hecha	_	Food_gathering	{"Source": "9"}
+15	...	_		{}

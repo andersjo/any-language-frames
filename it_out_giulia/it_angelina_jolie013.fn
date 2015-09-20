@@ -1,0 +1,41 @@
+1	Influenzata	_		{}
+2	dalla	_		{}
+3	recitazione	_		{}
+4	della	_		{}
+5	madre	_	Kinship	{"Ego": "14"}
+6	,	_		{}
+7	dopo	_	Relative_time	{"Focal_occasion": "15", "Focal_participant": "14", "Landmark_occasion": "9"}
+8	aver	_		{}
+9	visto	_		{}
+10	i	_		{}
+11	suoi	_		{}
+12	film	_	Physical_artworks	{"Artifact": "12"}
+13	,	_		{}
+14	Angelina	_		{}
+15	aspira	_		{}
+16	a	_		{}
+17	diventare	_	Becoming	{"Entity": "14"}
+18	attrice	_	Performers	{"Person": "14", "Type": "18"}
+19	,	_		{}
+20	debuttando	_		{}
+21	a	_		{}
+22	soli	_		{}
+23	sette	_	Cardinal_numbers	{"Number": "23", "Entity": "24"}
+24	anni	_	Age	{"Age": "23", "Entity": "14"}
+25	,	_		{}
+26	al	_		{}
+27	fianco	_	Taking_sides	{"Action": "20"}
+28	del	_		{}
+29	padre	_	Kinship	{"Ego": "14"}
+30	,	_		{}
+31	nel	_		{}
+32	film	_	Physical_artworks	{"Name": "34", "Artifact": "32", "Creator": "40"}
+33	"	_		{}
+34	Cercando	_	Attempt	{}
+35	di	_		{}
+36	uscire	_	Escaping	{}
+37	"	_		{}
+38	di	_		{}
+39	Hal	_		{}
+40	Ashby	_		{}
+41	.	_		{}

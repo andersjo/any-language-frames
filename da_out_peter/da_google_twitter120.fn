@@ -1,0 +1,28 @@
+1	@Jeakh	_		{}
+2	Jeg	_		{}
+3	spillede	_		{}
+4	tidligere	_	Relative_time	{"Focal_occasion": "3", "Focal_participant": "2"}
+5	Google	_		{}
+6	Ingress	_		{}
+7	,	_		{}
+8	men	_	Concessive	{"Topic": "6", "Main_statement": "3", "Statement": "10"}
+9	synes	_	Opinion	{"Cognizer": "2", "Opinion": "16"}
+10	aldrig	_		{}
+11	helt	_	Degree	{"Gradable_attribute": "10"}
+12	,	_		{}
+13	at	_		{}
+14	jeg	_		{}
+15	blev	_		{}
+16	fanget	_		{}
+17	af	_		{}
+18	det	_		{}
+19	.	_		{}
+20	For	_		{}
+21	indviklet	_		{}
+22	.	_		{}
+23	Jeg	_		{}
+24	giver	_		{}
+25	Turf	_		{}
+26	en	_		{}
+27	chance	_	Opportunity	{"Desirable_situation": "25", "Opportunity": "27", "Agent": "2"}
+28	.	_		{}

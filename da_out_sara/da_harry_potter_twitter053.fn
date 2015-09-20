@@ -1,0 +1,25 @@
+1	jeg	_		{}
+2	er	_		{}
+3	den	_		{}
+4	der	_		{}
+5	irriterende	_	Emotion_directed	{"Stimulus": "6", "State": "5", "Event": "8"}
+6	type	_	Type	{"Category": "6", "Subtype": "5"}
+7	,	_		{}
+8	som	_		{}
+9	siger	_	Expressing_publicly	{"Content": "11", "Communicator": "6"}
+10	alle	_	Quantity	{"Individuals": "11", "Quantity": "10"}
+11	replikkerne	_		{}
+12	,	_		{}
+13	griner	_		{}
+14	,	_		{}
+15	før	_		{}
+16	de	_		{}
+17	sjove	_		{}
+18	scener	_		{}
+19	sker	_		{}
+20	og	_		{}
+21	laver	_		{}
+22	kommentarspor	_		{}
+23	under	_		{}
+24	harry	_		{}
+25	potter	_		{}

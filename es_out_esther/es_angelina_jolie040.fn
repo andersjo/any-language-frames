@@ -1,0 +1,24 @@
+1	Aunque	_		{}
+2	también	_		{}
+3	dijo	_	Speak_on_topic	{"Topic": "11"}
+4	de	_		{}
+5	su	_		{}
+6	padre	_	Kinship	{}
+7	que	_		{}
+8	"	_		{}
+9	Y	_		{}
+10	mi	_		{}
+11	papá	_	Kinship	{}
+12	,	_		{}
+13	eres	_	Being_in_category	{"Item": "16"}
+14	un	_		{}
+15	gran	_	Size	{"Entity": "16"}
+16	actor	_	Performers	{"Person": "11"}
+17	,	_		{}
+18	pero	_	Concessive	{"Topic": "22", "Main_statement": "19", "Statement": "13"}
+19	eres	_	Being_in_category	{"Item": "22"}
+20	un	_		{}
+21	mejor	_	Relational_quantity	{"Individuals": "22", "Reference_quantity": "15"}
+22	padre	_	Kinship	{}
+23	"	_		{}
+24	.	_		{}

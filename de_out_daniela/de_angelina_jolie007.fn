@@ -1,0 +1,13 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	ist	_		{}
+4	die	_		{}
+5	Tochter	_	Kinship	{"Ego": "7", "Alter": "2"}
+6	der	_		{}
+7	Schauspieler	_	Performers	{"Person": "7"}
+8	Jon	_		{}
+9	Voight	_		{}
+10	und	_	Simultaneity	{"Profiled_event": "9", "Landmark_event": "12"}
+11	Marcheline	_		{}
+12	Bertrand	_		{}
+13	.	_		{}

@@ -1,0 +1,18 @@
+1	@sugusgali	_		{}
+2	fijate	_		{}
+3	buscando	_	Seeking	{"Cognizer_agent": "1", "Sought_entity": "14"}
+4	por	_		{}
+5	Google	_		{}
+6	.	_		{}
+7	Nosotros	_		{}
+8	transmitimos	_	Communication	{"Topic": "14", "Communicator": "7", "Medium": "10"}
+9	vía	_	Means	{"Purpose": "14", "Agent": "7", "Means": "10"}
+10	twitter	_	Sounds	{}
+11	,	_		{}
+12	con	_		{}
+13	las	_		{}
+14	ventajas	_		{}
+15	que	_		{}
+16	ello	_		{}
+17	ofrece	_	Offering	{"Potential_recipient": "1", "Theme": "14", "Offerer": "7"}
+18	...	_		{}

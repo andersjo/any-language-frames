@@ -1,0 +1,23 @@
+1	Brad	_		{}
+2	Pitt	_		{}
+3	and	_		{}
+4	Angelina	_		{}
+5	Jolie	_		{}
+6	understanding	_	Awareness	{"Content": "11", "Cognizer": "2", "Topic": "13"}
+7	and	_		{}
+8	supporting	_	Supporting	{"Supported": "11", "Supporter": "2"}
+9	their	_		{}
+10	child's	_		{}
+11	right	_	Morality_evaluation	{"Behavior": "13"}
+12	to	_		{}
+13	identity	_		{}
+14	as	_		{}
+15	a	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	boy	_		{}
+17	is	_	Being_in_category	{"Category": "18", "Item": "6"}
+18	incredible	_	Desirability	{"Evaluee": "6"}
+19	sets	_	Placing	{"Theme": "22", "Agent": "6"}
+20	a	_	Cardinal_numbers	{"Number": "20", "Entity": "22"}
+21	great	_	Desirability	{"Degree": "22"}
+22	example	_	Exemplar	{"Instance": "6"}
+23	.	_		{}

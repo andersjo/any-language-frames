@@ -1,0 +1,16 @@
+1	Property	_	Locale_by_ownership	{"Locale": "1"}
+2	price	_	Expensiveness	{"Goods": "1"}
+3	index	_	Sign	{"Indicator": "3", "Indicated": "2"}
+4	breaking	_		{}
+5	new	_	Age	{"Age": "5", "Entity": "6"}
+6	territories	_	Locale_by_ownership	{"Locale": "6"}
+7	then	_	Temporal_collocation	{"Trajector_entity": "10", "Landmark_entity": "6", "Landmark_event": "4", "Trajector_event": "8"}
+8	forced	_		{}
+9	new	_	Age	{"Age": "9"}
+10	highs	_		{}
+11	http://t.co/LeZx7mbtx7	_		{}
+12	:	_		{}
+13	Auto	_		{}
+14	pickup	_		{}
+15	by	_		{}
+16	wikyou	_		{}

@@ -1,0 +1,19 @@
+1	@tumorliebende	_		{}
+2	hat	_		{}
+3	mich	_	Proper_reference	{}
+4	angesteckt	_	Cause_to_start	{"Cause": "1"}
+5	.	_		{}
+6	Ich	_		{}
+7	gucke	_	Perception_active	{"Perceiver_agentive": "6", "Phenomenon": "12"}
+8	jetzt	_	Temporal_collocation	{"Trajector_event": "7", "Landmark_period": "8"}
+9	zum	_		{}
+10	13x	_		{}
+11	Harry	_		{}
+12	Potter	_		{}
+13	und	_		{}
+14	der	_		{}
+15	Feuerkelch	_		{}
+16	.	_		{}
+17	(	_		{}
+18	Sat1	_		{}
+19	)	_		{}

@@ -1,0 +1,27 @@
+1	Mit	_		{}
+2	einem	_		{}
+3	Startkapital	_		{}
+4	von	_		{}
+5	1.100.000	_		{}
+6	US-Dollar	_		{}
+7	,	_		{}
+8	aufgebracht	_		{}
+9	von	_		{}
+10	den	_		{}
+11	Familien	_	Kinship	{"Ego": "21", "Alter": "11"}
+12	,	_		{}
+13	Freunden	_		{}
+14	und	_		{}
+15	Andy	_		{}
+16	Bechtolsheim	_		{}
+17	,	_		{}
+18	entwickelten	_	Cause_to_make_progress	{"Project": "26", "Agent": "21"}
+19	und	_	Simultaneity	{"Profiled_event": "20", "Landmark_event": "18"}
+20	veröffentlichten	_	Releasing	{"Theme": "26", "Agent": "21"}
+21	sie	_		{}
+22	die	_		{}
+23	erste	_		{}
+24	Testversion	_		{}
+25	des	_		{}
+26	Programms	_	Project	{"Agent": "21"}
+27	.	_		{}

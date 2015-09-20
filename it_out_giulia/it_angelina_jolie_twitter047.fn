@@ -1,0 +1,24 @@
+1	Dopo	_		{}
+2	il	_		{}
+3	clamore	_		{}
+4	per	_		{}
+5	la	_		{}
+6	scelta	_	Choosing	{"Possibilities": "11", "Cognizer": "8", "Chosen": "12"}
+7	della	_		{}
+8	figlia	_	Kinship	{"Ego": "19", "Alter": "8"}
+9	di	_		{}
+10	indossare	_	Dressing	{"Clothing": "11", "Wearer": "8"}
+11	abiti	_	Clothing	{"Garment": "11", "Style": "12"}
+12	maschili	_		{}
+13	,	_		{}
+14	a	_		{}
+15	parlare	_	Speak_on_topic	{"Topic": "6", "Speaker": "18"}
+16	è	_		{}
+17	proprio	_	Identicality	{"Current_instance": "18"}
+18	Angelina	_		{}
+19	Jolie	_		{}
+20	.	_		{}
+21	E	_		{}
+22	le	_		{}
+23	...	_		{}
+24	http://t.co/UkOZZZqpZ8	_		{}

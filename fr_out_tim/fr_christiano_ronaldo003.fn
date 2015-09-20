@@ -1,0 +1,24 @@
+1	Avec	_		{}
+2	un	_		{}
+3	ratio	_		{}
+4	de	_		{}
+5	plus	_		{}
+6	d'un	_		{}
+7	but	_		{}
+8	par	_		{}
+9	match	_	Competition	{"Participant_1": "11", "Competition": "9"}
+10	,	_		{}
+11	CR7	_		{}
+12	fait	_		{}
+13	partie	_	Be_subset_of	{"Part": "11", "Total": "17"}
+14	des	_		{}
+15	plus	_		{}
+16	grands	_	Expertise	{"Skill": "19", "Protagonist": "17", "Role": "17"}
+17	joueurs	_	Competition	{"Participants": "17", "Competition": "23"}
+18	a	_		{}
+19	marquer	_	Hit_target	{"Target": "21", "Agent": "11"}
+20	plusieurs	_	Quantity	{"Individuals": "21", "Quantity": "20"}
+21	buts	_	Aiming	{"Targeted": "21", "Agent": "11"}
+22	par	_		{}
+23	matchs	_	Competition	{"Participants": "17", "Participant_1": "11", "Competition": "23"}
+24	.	_		{}

@@ -1,0 +1,19 @@
+1	Den	_		{}
+2	16	_		{}
+3	april	_	Calendric_unit	{"Whole": "4", "Unit": "3"}
+4	2011	_		{}
+5	gjorde	_		{}
+6	Ronaldo	_		{}
+7	sitt	_		{}
+8	första	_	Ordinal_numbers	{"Comparison_set": "9"}
+9	mål	_	Hit_target	{"Purpose": "4", "Agent": "6", "Target": "9"}
+10	på	_		{}
+11	straff	_		{}
+12	mot	_		{}
+13	Barcelona	_		{}
+14	i	_		{}
+15	en	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	match	_		{}
+17	i	_		{}
+18	ligan	_	Organization	{"Organization": "18", "Members": "6"}
+19	.	_		{}

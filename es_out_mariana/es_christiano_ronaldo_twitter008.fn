@@ -1,0 +1,12 @@
+1	La	_		{}
+2	secretaria	_	Leadership	{"Role": "2", "Manner": "8", "Governed": "4"}
+3	del	_		{}
+4	cum	_		{}
+5	juro	_	Statement	{"Event_description": "5", "Message": "8", "Degree": "9"}
+6	que	_	Self_motion	{}
+7	ha	_	Have_associated	{"Entity": "2"}
+8	corrido	_	Self_motion	{}
+9	mas	_	Concessive	{"Topic": "2", "Main_statement": "8"}
+10	que	_		{}
+11	Christiano	_		{}
+12	Ronaldo😂	_		{}

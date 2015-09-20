@@ -1,0 +1,20 @@
+1	Con	_		{}
+2	Google	_		{}
+3	Street	_		{}
+4	View	_		{}
+5	puoi	_		{}
+6	guardare	_	Seeking	{"Sought_entity": "8"}
+7	qualsiasi	_		{}
+8	cosa	_	Entity	{"Entity": "8"}
+9	,	_		{}
+10	ma	_		{}
+11	la	_		{}
+12	prima	_	Ordinal_numbers	{"Item": "13"}
+13	cosa	_	Entity	{"Entity": "13"}
+14	che	_		{}
+15	vai	_		{}
+16	a	_		{}
+17	cercare	_	Seeking	{"Sought_entity": "19"}
+18	è	_		{}
+19	casa	_	Buildings	{"Building": "19"}
+20	tua	_		{}

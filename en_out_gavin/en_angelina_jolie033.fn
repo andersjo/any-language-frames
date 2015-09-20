@@ -1,0 +1,29 @@
+1	In	_		{}
+2	2005	_		{}
+3	she	_		{}
+4	referred	_	Statement	{"Topic": "7", "Message": "13", "Speaker": "3", "Time": "2"}
+5	to	_		{}
+6	this	_		{}
+7	period	_	Calendric_unit	{"Relative_time": "6", "Unit": "7"}
+8	,	_		{}
+9	saying	_	Expressing_publicly	{"Content": "13", "Communicator": "3", "Time": "2"}
+10	,	_		{}
+11	"	_		{}
+12	I	_		{}
+13	am	_	Being_in_category	{"Category": "26", "Item": "12", "Cognizer": "2"}
+14	still	_	Continued_state_of_affairs	{"State_of_affairs": "13"}
+15	at	_		{}
+16	heart	_	Observable_body_parts	{"Body_part": "16"}
+17	—	_		{}
+18	and	_		{}
+19	always	_	Frequency	{"Time_span": "19"}
+20	will	_		{}
+21	be	_		{}
+22	—	_		{}
+23	just	_		{}
+24	a	_	Cardinal_numbers	{"Number": "24", "Entity": "26"}
+25	punk	_		{}
+26	kid	_	People_by_age	{"Persistent_characteristic": "25", "Person": "26"}
+27	with	_		{}
+28	tattoos	_	Body_decoration	{"Decoration": "28", "Decorated_individual": "26"}
+29	.	_		{}

@@ -1,0 +1,19 @@
+1	Btw	_		{}
+2	.	_		{}
+3	Harry	_		{}
+4	Potter	_		{}
+5	zwei	_	Cardinal_numbers	{"Number": "5", "Entity": "4"}
+6	hab	_		{}
+7	’	_		{}
+8	ich	_		{}
+9	dann	_		{}
+10	auch	_		{}
+11	mal	_		{}
+12	durch	_		{}
+13	.	_		{}
+14	Jetzt	_	Temporal_collocation	{"Trajector_event": "17", "Landmark_period": "14"}
+15	gehts	_		{}
+16	mir	_		{}
+17	drei	_	Cardinal_numbers	{"Number": "17", "Entity": "4"}
+18	weiter	_	Activity_ongoing	{"Agent": "8"}
+19	xD	_		{}

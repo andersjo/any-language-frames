@@ -1,0 +1,11 @@
+1	Negative	_		{}
+2	thinking	_	Assessing	{"Manner": "1"}
+3	destroys	_	Destroying	{"Undergoer": "6", "Destroyer": "2"}
+4	your	_		{}
+5	brain	_	Observable_body_parts	{"Body_part": "5", "Possessor": "4"}
+6	cells	_		{}
+7	and	_	Simultaneity	{"Profiled_event": "8", "Landmark_event": "3"}
+8	causes	_	Causation	{"Reason": "2", "Cause": "2"}
+9	global	_	Political_locales	{"Locale": "9"}
+10	warming	_		{}
+11	.	_		{}

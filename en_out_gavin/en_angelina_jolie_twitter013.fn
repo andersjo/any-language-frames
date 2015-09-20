@@ -1,0 +1,15 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	has	_	Have_associated	{"Topical_entity": "2", "Entity": "5"}
+4	them	_		{}
+5	eyes	_	Observable_body_parts	{"Body_part": "5", "Possessor": "2"}
+6	that	_		{}
+7	you	_		{}
+8	want	_	Desiring	{"Focal_participant": "5", "Experiencer": "7", "Time": "13"}
+9	looking	_	Perception_active	{"Phenomenon": "12", "Perceiver_agentive": "5", "Time": "13"}
+10	up	_	Direction	{"Path": "10"}
+11	at	_		{}
+12	your	_		{}
+13	during	_		{}
+14	head	_	Observable_body_parts	{"Body_part": "14"}
+15	.	_		{}

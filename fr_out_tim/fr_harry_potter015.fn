@@ -1,0 +1,26 @@
+1	Il	_		{}
+2	s'en	_		{}
+3	est	_		{}
+4	ensuite	_		{}
+5	pris	_	Attack	{"Assailant": "1", "Victim": "7"}
+6	à	_		{}
+7	Harry	_		{}
+8	,	_		{}
+9	mais	_		{}
+10	a	_		{}
+11	échoué	_		{}
+12	car	_		{}
+13	son	_		{}
+14	sortilège	_		{}
+15	a	_		{}
+16	ricoché	_		{}
+17	:	_		{}
+18	Harry	_		{}
+19	survit	_	Surviving	{"Dangerous_situation": "14", "Survivor": "18"}
+20	,	_		{}
+21	alors	_		{}
+22	que	_		{}
+23	Lord	_		{}
+24	Voldemort	_		{}
+25	disparaît	_		{}
+26	.	_		{}

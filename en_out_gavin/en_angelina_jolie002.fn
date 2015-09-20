@@ -1,0 +1,37 @@
+1	She	_		{}
+2	has	_		{}
+3	received	_	Receiving	{"Theme": "6", "Recipient": "1"}
+4	an	_	Cardinal_numbers	{"Number": "4", "Entity": "6"}
+5	Academy	_	Locale_by_use	{"Locale": "5"}
+6	Award	_	Judgment	{"Cognizer": "5", "Evaluee": "1"}
+7	,	_		{}
+8	two	_	Cardinal_numbers	{"Number": "8", "Entity": "12"}
+9	Screen	_	Eclipse	{"Obstruction": "9"}
+10	Actors	_	Performers	{"Person": "10", "Type": "9"}
+11	Guild	_	Organization	{"Organization": "11", "Members": "10"}
+12	Awards	_	Judgment	{"Cognizer": "11", "Evaluee": "1"}
+13	,	_		{}
+14	and	_	Simultaneity	{}
+15	three	_	Cardinal_numbers	{"Number": "15", "Entity": "18"}
+16	Golden	_	Wealthiness	{}
+17	Globe	_	Shapes	{"Shape": "17"}
+18	Awards	_	Judgment	{"Evaluee": "1"}
+19	,	_		{}
+20	and	_	Simultaneity	{}
+21	was	_		{}
+22	named	_	Labeling	{"Entity": "1", "Speaker": "28", "Label": "25", "Time": "31"}
+23	Hollywood's	_		{}
+24	highest-paid	_		{}
+25	actress	_		{}
+26	by	_		{}
+27	"	_		{}
+28	Forbes	_		{}
+29	"	_		{}
+30	in	_		{}
+31	2009	_		{}
+32	,	_		{}
+33	2011	_		{}
+34	,	_		{}
+35	and	_		{}
+36	2013	_		{}
+37	.	_		{}

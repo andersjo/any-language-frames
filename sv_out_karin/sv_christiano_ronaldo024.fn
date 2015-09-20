@@ -1,0 +1,38 @@
+1	Ronaldo	_		{}
+2	gjorde	_		{}
+3	sin	_		{}
+4	debut	_	Process_start	{"Manner": "9", "Time": "30"}
+5	för	_		{}
+6	United	_		{}
+7	då	_	Temporal_collocation	{"Trajector_event": "4", "Landmark_event": "9"}
+8	han	_		{}
+9	hoppade	_		{}
+10	in	_		{}
+11	efter	_		{}
+12	60	_	Cardinal_numbers	{"Number": "12", "Entity": "14"}
+13	spelade	_		{}
+14	minuter	_		{}
+15	i	_		{}
+16	en	_	Cardinal_numbers	{"Number": "16", "Entity": "17"}
+17	hemmavinst	_		{}
+18	mot	_		{}
+19	Bolton	_		{}
+20	Wanderers	_		{}
+21	och	_	Simultaneity	{"Profiled_event": "9", "Landmark_event": "22"}
+22	gjorde	_		{}
+23	Uniteds	_		{}
+24	tusende	_		{}
+25	Premier	_		{}
+26	League-mål	_		{}
+27	den	_		{}
+28	29	_		{}
+29	oktober	_	Calendric_unit	{"Whole": "30", "Unit": "29"}
+30	2005	_		{}
+31	i	_		{}
+32	en	_	Cardinal_numbers	{"Number": "32", "Entity": "35"}
+33	4	_		{}
+34	–	_		{}
+35	1-förlust	_		{}
+36	mot	_		{}
+37	Middlesbrough	_		{}
+38	.	_		{}

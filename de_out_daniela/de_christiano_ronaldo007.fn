@@ -1,0 +1,23 @@
+1	Mit	_		{}
+2	Manchester	_		{}
+3	United	_		{}
+4	gewann	_		{}
+5	er	_		{}
+6	u	_		{}
+7	.	_		{}
+8	a	_		{}
+9	.	_		{}
+10	drei	_	Cardinal_numbers	{"Number": "10", "Entity": "12"}
+11	nationale	_	Origin	{"Origin": "11", "Entity": "12"}
+12	Meisterschaften	_		{}
+13	in	_		{}
+14	Folge	_	Relative_time	{"Focal_occasion": "12", "Focal_participant": "5"}
+15	und	_		{}
+16	im	_		{}
+17	Jahr	_	Calendric_unit	{"Whole": "18", "Unit": "17"}
+18	2008	_		{}
+19	die	_		{}
+20	UEFA	_		{}
+21	Champions	_		{}
+22	League	_		{}
+23	.	_		{}

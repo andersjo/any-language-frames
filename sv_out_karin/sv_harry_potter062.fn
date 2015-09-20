@@ -1,0 +1,35 @@
+1	När	_		{}
+2	det	_		{}
+3	stod	_		{}
+4	klart	_		{}
+5	att	_		{}
+6	Harry	_		{}
+7	Potter-böckerna	_		{}
+8	inte	_		{}
+9	bara	_		{}
+10	var	_		{}
+11	en	_	Cardinal_numbers	{"Number": "11", "Entity": "13"}
+12	kortvarig	_	Duration_attribute	{"Period": "13", "Eventuality": "7"}
+13	fluga	_		{}
+14	,	_		{}
+15	sedan	_		{}
+16	den	_		{}
+17	fjärde	_		{}
+18	boken	_	Part_ordered_segments	{"Ordinality": "17", "Whole": "7", "Part": "18"}
+19	blivit	_		{}
+20	en	_	Cardinal_numbers	{"Number": "20", "Entity": "21"}
+21	succé	_		{}
+22	,	_		{}
+23	började	_		{}
+24	filmbolaget	_		{}
+25	Warner	_		{}
+26	Bros	_		{}
+27	arbeta	_	Working_on	{"Salient_entity": "7", "Goal": "31", "Agent": "24"}
+28	med	_		{}
+29	en	_	Cardinal_numbers	{"Multiplier": "30", "Entity": "31"}
+30	serie	_	Sequence	{"Entity1": "31"}
+31	filmer	_	Physical_artworks	{"Represented": "7", "Artifact": "31", "Creator": "25"}
+32	baserade	_		{}
+33	på	_		{}
+34	böckerna	_	Text	{"Topic": "6", "Text": "34", "Genre": "7"}
+35	.	_		{}

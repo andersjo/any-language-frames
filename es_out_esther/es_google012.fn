@@ -1,0 +1,22 @@
+1	Este	_	Proper_reference	{"Intended_referent": "1", "Entity": "2"}
+2	motor	_		{}
+3	de	_		{}
+4	búsqueda	_	Scrutiny	{"Cognizer": "2"}
+5	superó	_		{}
+6	al	_		{}
+7	otro	_	Increment	{"Initial_set": "2", "Added_set": "7", "Class": "4"}
+8	más	_	Increment	{"Initial_set": "2", "Added_set": "7", "Class": "4"}
+9	popular	_	Popularity	{"Evaluee": "2"}
+10	de	_		{}
+11	la	_		{}
+12	época	_	Age	{"Age": "12", "Entity": "2"}
+13	,	_		{}
+14	AltaVista	_		{}
+15	,	_		{}
+16	que	_		{}
+17	había	_		{}
+18	sido	_		{}
+19	creado	_	Creating	{"Created_entity": "2", "Creator": "14"}
+20	en	_		{}
+21	1995	_		{}
+22	.	_		{}

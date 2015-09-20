@@ -1,0 +1,52 @@
+1	En	_		{}
+2	imaginant	_	Coming_up_with	{"Cognizer": "19", "Idea": "4"}
+3	le	_		{}
+4	monde	_	Locale	{"Locale": "4"}
+5	fictif	_	Artificiality	{"Entity": "4"}
+6	dans	_		{}
+7	lequel	_		{}
+8	évolue	_		{}
+9	le	_		{}
+10	personnage	_	People	{"Person": "10"}
+11	de	_		{}
+12	Harry	_		{}
+13	Potter	_		{}
+14	,	_		{}
+15	J	_		{}
+16	.	_		{}
+17	K	_		{}
+18	.	_		{}
+19	Rowling	_		{}
+20	crée	_	Creating	{"Created_entity": "22", "Creator": "19"}
+21	un	_		{}
+22	univers	_	Political_locales	{"Locale": "22"}
+23	et	_		{}
+24	une	_		{}
+25	société	_		{}
+26	spécifiques	_		{}
+27	regroupant	_	Amalgamation	{"Part_1": "29", "Part_2": "32", "Whole": "25"}
+28	des	_		{}
+29	hommes	_	People	{"Person": "29"}
+30	et	_		{}
+31	des	_		{}
+32	femmes	_	People	{"Person": "32"}
+33	capables	_	Capability	{"Entity": "29"}
+34	de	_		{}
+35	magie	_		{}
+36	,	_		{}
+37	une	_		{}
+38	faculté	_	Capability	{}
+39	en	_		{}
+40	général	_		{}
+41	héréditaire	_		{}
+42	mais	_		{}
+43	qui	_		{}
+44	peut	_	Possibility	{}
+45	aussi	_		{}
+46	apparaître	_	Coming_to_be	{"Entity": "38"}
+47	chez	_		{}
+48	des	_		{}
+49	enfants	_	Kinship	{"Ego": "51", "Alter": "49"}
+50	de	_		{}
+51	Moldus	_		{}
+52	.	_		{}

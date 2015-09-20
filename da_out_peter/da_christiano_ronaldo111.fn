@@ -1,0 +1,10 @@
+1	Ronaldo	_		{}
+2	indtager	_		{}
+3	i	_		{}
+4	dag	_	Timespan	{"State": "5"}
+5	ikke	_	Abandonment	{"Theme": "6", "Agent": "1"}
+6	alkohol	_	Intoxicants	{"Intoxicant": "6"}
+7	og	_		{}
+8	ryger	_		{}
+9	ikke	_	Abandonment	{"Theme": "8", "Agent": "1"}
+10	.	_		{}

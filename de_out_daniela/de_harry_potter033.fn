@@ -1,0 +1,23 @@
+1	Der	_		{}
+2	Leser	_	Reading	{"Reader": "2"}
+3	verfolgt	_		{}
+4	aus	_		{}
+5	Harrys	_		{}
+6	Perspektive	_		{}
+7	dessen	_		{}
+8	Entwicklung	_	Progress	{"Entity": "10"}
+9	vom	_		{}
+10	Elfjährigen	_		{}
+11	,	_		{}
+12	der	_		{}
+13	die	_		{}
+14	magische	_		{}
+15	Welt	_	Locale	{"Locale": "15"}
+16	kennenlernt	_		{}
+17	,	_		{}
+18	bis	_	Continued_state_of_affairs	{"Reference_occasion": "10", "State_of_affairs": "22"}
+19	zum	_		{}
+20	fast	_		{}
+21	erwachsenen	_	People_by_age	{"Person": "22", "Age": "21"}
+22	Teenager	_	People_by_age	{"Person": "22", "Age": "21"}
+23	.	_		{}

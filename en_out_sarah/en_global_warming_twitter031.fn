@@ -1,0 +1,12 @@
+1	@MattBesler	_		{}
+2	if	_		{}
+3	that's	_		{}
+4	Everest	_		{}
+5	,	_		{}
+6	then	_		{}
+7	global	_	Political_locales	{"Locale": "7"}
+8	warming	_		{}
+9	is	_	Being_in_category	{"Category": "11", "Item": "8", "Criteria": "2"}
+10	outta	_		{}
+11	control	_	Be_in_control	{"Dependent_entity": "8"}
+12	.	_		{}

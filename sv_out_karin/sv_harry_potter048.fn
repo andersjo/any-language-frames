@@ -1,0 +1,19 @@
+1	På	_		{}
+2	utgivningsnatten	_		{}
+3	anordnade	_		{}
+4	The	_		{}
+5	Swedish	_		{}
+6	Rowling	_		{}
+7	Fanclub	_		{}
+8	i	_		{}
+9	samverkan	_	Collaboration	{"Undertaking": "3", "Partner_2": "11", "Place": "18", "Partner_1": "7"}
+10	med	_		{}
+11	SF-bokhandeln	_		{}
+12	en	_	Cardinal_numbers	{"Number": "12", "Entity": "13"}
+13	kö	_		{}
+14	i	_	Political_locales	{"Locale": "15", "Container_possessor": "18"}
+15	Gamla	_		{}
+16	Stan	_		{}
+17	i	_	Political_locales	{"Locale": "18"}
+18	Stockholm	_		{}
+19	.	_		{}

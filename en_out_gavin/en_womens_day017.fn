@@ -1,0 +1,14 @@
+1	Americans	_	People_by_origin	{"Person": "1"}
+2	continued	_	Activity_ongoing	{"Activity": "4", "Agent": "1", "Time": "8"}
+3	to	_		{}
+4	celebrate	_		{}
+5	National	_	Origin	{"Origin": "5", "Entity": "7"}
+6	Women's	_		{}
+7	Day	_	Calendric_unit	{"Unit": "7"}
+8	on	_		{}
+9	the	_		{}
+10	last	_	Version_sequence	{"Item": "11"}
+11	Sunday	_	Calendric_unit	{"Unit": "11"}
+12	in	_		{}
+13	February	_	Calendric_unit	{"Unit": "13"}
+14	.	_		{}

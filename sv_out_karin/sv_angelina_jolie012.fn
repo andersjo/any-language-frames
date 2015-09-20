@@ -1,0 +1,15 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	har	_		{}
+4	varit	_		{}
+5	gift	_	Personal_relationship	{"Partners": "2", "Partner_2": "10"}
+6	med	_		{}
+7	skådespelarna	_	Performers	{"Person": "10"}
+8	Jonny	_		{}
+9	Lee	_		{}
+10	Miller	_		{}
+11	och	_	Simultaneity	{"Profiled_event": "10", "Landmark_event": "14"}
+12	Billy	_		{}
+13	Bob	_		{}
+14	Thornton	_		{}
+15	.	_		{}

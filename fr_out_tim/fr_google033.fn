@@ -1,0 +1,20 @@
+1	Les	_		{}
+2	fondements	_	Preliminaries	{"Preparatory_phase": "2"}
+3	de	_		{}
+4	l'histoire	_		{}
+5	de	_		{}
+6	l'entreprise	_		{}
+7	Google	_		{}
+8	commencent	_	Activity_start	{"Activity": "2"}
+9	par	_		{}
+10	la	_		{}
+11	rencontre	_	Make_acquaintance	{"Individuals": "14"}
+12	de	_		{}
+13	deux	_	Cardinal_numbers	{"Number": "13", "Entity": "14"}
+14	étudiants	_	People_by_vocation	{"Person": "14"}
+15	de	_		{}
+16	l'université	_		{}
+17	Stanford	_		{}
+18	en	_		{}
+19	1995	_		{}
+20	.	_		{}

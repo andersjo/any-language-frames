@@ -1,0 +1,34 @@
+1	Lors	_	Temporal_collocation	{"Trajector_event": "18", "Landmark_event": "3"}
+2	de	_		{}
+3	l'inauguration	_		{}
+4	du	_		{}
+5	nouveau	_		{}
+6	stade	_	Buildings	{"Building": "6"}
+7	du	_		{}
+8	Sporting	_		{}
+9	,	_		{}
+10	le	_		{}
+11	stade	_	Buildings	{"Building": "11"}
+12	José	_		{}
+13	Alvalade	_		{}
+14	XXI	_		{}
+15	,	_		{}
+16	son	_		{}
+17	équipe	_	Organization	{"Organization": "8", "Members": "23"}
+18	affronte	_	Hostile_encounter	{"Side_2": "19", "Side_1": "8"}
+19	Manchester	_		{}
+20	United	_		{}
+21	,	_		{}
+22	où	_		{}
+23	Cristiano	_		{}
+24	fait	_		{}
+25	un	_		{}
+26	match	_	Competition	{"Participant_2": "19", "Participant_1": "23", "Competition": "26"}
+27	remarquable	_	Prominence	{"Entity": "26"}
+28	qui	_		{}
+29	va	_		{}
+30	faire	_		{}
+31	basculer	_		{}
+32	sa	_		{}
+33	carrière	_		{}
+34	…	_		{}

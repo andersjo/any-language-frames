@@ -1,0 +1,23 @@
+1	También	_		{}
+2	se	_	Performers_and_roles	{"Medium": "13", "Performer1": "15", "Performer2": "18"}
+3	introducen	_	Placing	{}
+4	nuevos	_	Familiarity	{"Degree": "4", "Context": "13", "Entity": "5"}
+5	personajes	_	Performers_and_roles	{"Performer": "5", "Medium": "13"}
+6	que	_		{}
+7	tendrán	_		{}
+8	participación	_	Participation	{"Participant_2": "15", "Participant_1": "18", "Place": "13", "Event": "13", "Degree_of_involvement": "9"}
+9	significativa	_	Importance	{"Degree": "9"}
+10	en	_		{}
+11	los	_		{}
+12	siguientes	_	Relative_time	{"Reason": "8", "Focal_participant": "13"}
+13	libros	_	Text	{"Text": "13"}
+14	como	_	Similarity	{"Entity_1": "15", "Entity_2": "18", "Dimension": "13"}
+15	Lucius	_		{}
+16	Malfoy	_		{}
+17	o	_		{}
+18	Arthur	_		{}
+19	Weasley	_		{}
+20	,	_		{}
+21	entre	_		{}
+22	otros	_		{}
+23	.	_		{}

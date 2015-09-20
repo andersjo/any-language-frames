@@ -1,0 +1,15 @@
+1	Lego	_		{}
+2	Harry	_		{}
+3	Potter	_		{}
+4	Hagrid	_		{}
+5	Reddish	_	Color	{"Color": "5", "Entity": "6"}
+6	Brown	_	Color	{"Color": "6", "Attribute": "5", "Entity": "7"}
+7	Coat	_	Clothing	{"Descriptor": "6", "Garment": "7"}
+8	Minifigure	_		{}
+9	4754	_		{}
+10	5378	_		{}
+11	$2.55	_		{}
+12	Flat	_	Building_subparts	{"Building_part": "12"}
+13	Ship	_	Sending	{"Theme": "8"}
+14	-	_		{}
+15	http://t.co/RfGNPKPCjp	_		{}

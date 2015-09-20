@@ -1,0 +1,37 @@
+1	écrit	_		{}
+2	:	_		{}
+3	Dans	_		{}
+4	le	_		{}
+5	"	_		{}
+6	road	_		{}
+7	movie	_		{}
+8	"	_		{}
+9	'	_		{}
+10	(	_		{}
+11	1996	_		{}
+12	)	_		{}
+13	,	_		{}
+14	elle	_		{}
+15	interprète	_		{}
+16	une	_		{}
+17	jeune	_	Age	{"Age": "17", "Entity": "18"}
+18	fille	_	People_by_age	{"Person": "18", "Age": "17"}
+19	,	_		{}
+20	Eleanor	_		{}
+21	Rigby	_		{}
+22	,	_		{}
+23	qui	_		{}
+24	tombe	_		{}
+25	amoureuse	_	Feeling	{"Emotion": "25", "Experiencer": "20"}
+26	du	_		{}
+27	personnage	_	Performers_and_roles	{"Performer": "29"}
+28	de	_		{}
+29	Danny	_		{}
+30	Aiello	_		{}
+31	et	_		{}
+32	qui	_		{}
+33	fait	_	Intentionally_act	{"Agent": "20"}
+34	des	_		{}
+35	gestes	_	Intentionally_act	{"Agent": "20"}
+36	sexuels	_		{}
+37	.	_		{}

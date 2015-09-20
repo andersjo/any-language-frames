@@ -1,0 +1,44 @@
+1	Als	_		{}
+2	Voldemort	_		{}
+3	Hogwarts	_		{}
+4	’	_		{}
+5	Verteidigern	_	Defend	{"Defender": "5", "Assailant": "2", "Victim": "3"}
+6	den	_		{}
+7	Körper	_	Observable_body_parts	{"Body_part": "7", "Possessor": "10"}
+8	des	_		{}
+9	totgeglaubten	_		{}
+10	Harry	_		{}
+11	präsentiert	_	Cause_to_perceive	{"Perceiver": "5", "Phenomenon": "7", "Agent": "2"}
+12	,	_		{}
+13	stirbt	_	Death	{"Protagonist": "16"}
+14	seine	_	Possession	{"Possession": "15", "Owner": "2"}
+15	Schlange	_		{}
+16	Nagini	_		{}
+17	,	_		{}
+18	die	_		{}
+19	der	_		{}
+20	siebte	_	Cardinal_numbers	{"Number": "20", "Entity": "23"}
+21	und	_		{}
+22	letzte	_		{}
+23	Horkrux	_		{}
+24	war	_		{}
+25	,	_		{}
+26	als	_		{}
+27	ihr	_		{}
+28	Neville	_		{}
+29	Longbottom	_		{}
+30	,	_		{}
+31	ein	_		{}
+32	Schulfreund	_		{}
+33	Harrys	_		{}
+34	,	_		{}
+35	mit	_		{}
+36	dem	_		{}
+37	Schwert	_		{}
+38	von	_		{}
+39	Godric	_		{}
+40	Griffindor	_		{}
+41	den	_		{}
+42	Kopf	_	Observable_body_parts	{"Body_part": "42", "Possessor": "16"}
+43	abschlägt	_		{}
+44	.	_		{}

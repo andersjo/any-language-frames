@@ -1,0 +1,22 @@
+1	Mrs.	_		{}
+2	Shazia	_		{}
+3	Ashfaq	_		{}
+4	Mattu	_		{}
+5	,	_		{}
+6	MPA	_		{}
+7	and	_		{}
+8	GRAP	_		{}
+9	officer	_	Leadership	{"Descriptor": "8", "Leader": "14"}
+10	Mr.	_		{}
+11	Dr.	_		{}
+12	Yasir	_		{}
+13	Nawaz	_		{}
+14	Manj	_		{}
+15	organized	_	Activity_prepare	{"Manner": "18", "Agent": "4", "Activity": "17"}
+16	the	_		{}
+17	events	_	Event	{}
+18	in	_		{}
+19	very	_	Degree	{"Gradable_attribute": "20"}
+20	effective	_	Usefulness	{"Degree": "19", "Entity": "21"}
+21	manners	_	Means	{"Descriptor": "20", "Means": "21"}
+22	.	_		{}

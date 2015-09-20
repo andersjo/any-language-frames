@@ -1,0 +1,29 @@
+1	Saker	_		{}
+2	som	_		{}
+3	gör	_	Causation	{"Cause": "13", "Actor": "11"}
+4	de	_		{}
+5	värt	_		{}
+6	å	_		{}
+7	leva	_	Existence	{"Entity": "18"}
+8	1	_		{}
+9	.	_		{}
+10	Messiah	_		{}
+11	Hallberg	_		{}
+12	vill	_	Desiring	{"Focal_participant": "18", "Experiencer": "11", "Event": "13"}
+13	dejta	_		{}
+14	mig	_		{}
+15	<3	_		{}
+16	2	_		{}
+17	.	_		{}
+18	Ja	_		{}
+19	finns	_	Existence	{"Entity": "18", "Place": "22", "Circumstances": "27"}
+20	m	_		{}
+21	på	_		{}
+22	google	_		{}
+23	under	_		{}
+24	"	_		{}
+25	pad	_		{}
+26	thai	_		{}
+27	thaioasen	_		{}
+28	"	_		{}
+29	http://t.co/6JxhKlA6zd	_		{}

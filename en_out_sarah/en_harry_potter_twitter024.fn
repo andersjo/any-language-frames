@@ -1,0 +1,16 @@
+1	my	_		{}
+2	profile	_		{}
+3	represents	_	Being_in_category	{"Category": "6", "Item": "2"}
+4	5sos	_		{}
+5	larry	_		{}
+6	and	_	Simultaneity	{"Profiled_event": "7", "Landmark_event": "5"}
+7	harry	_		{}
+8	potter	_		{}
+9	all	_	Range	{}
+10	at	_		{}
+11	once	_	Event_instance	{"Instance": "11", "Instance_Prop": "9", "Event": "3"}
+12	you	_		{}
+13	should	_		{}
+14	follow	_	Becoming_aware	{"Instrument": "16", "Phenomenon": "15", "Means": "14"}
+15	me	_		{}
+16	@NiallOfficial	_		{}

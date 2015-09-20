@@ -1,0 +1,33 @@
+1	Efter	_		{}
+2	"	_		{}
+3	Playing	_		{}
+4	God	_		{}
+5	"	_		{}
+6	medverkade	_		{}
+7	Jolie	_		{}
+8	i	_		{}
+9	tv-filmen	_		{}
+10	"	_		{}
+11	True	_		{}
+12	Women	_		{}
+13	"	_		{}
+14	,	_		{}
+15	ett	_	Cardinal_numbers	{"Number": "15", "Entity": "18"}
+16	historiskt	_	Domain	{"Predicate": "18", "Domain": "16"}
+17	romantiskt	_		{}
+18	drama	_	Text	{"Genre": "17", "Text": "11", "Topic": "22", "Author": "32"}
+19	i	_	Political_locales	{"Locale": "22", "Container_possessor": "21"}
+20	den	_		{}
+21	amerikanska	_	Political_locales	{"Locale": "22"}
+22	västern	_		{}
+23	som	_		{}
+24	är	_		{}
+25	baserad	_		{}
+26	på	_		{}
+27	en	_	Cardinal_numbers	{"Number": "27", "Entity": "28"}
+28	roman	_	Text	{"Text": "28", "Author": "32"}
+29	av	_		{}
+30	Janice	_		{}
+31	Woods	_		{}
+32	Windle	_		{}
+33	.	_		{}

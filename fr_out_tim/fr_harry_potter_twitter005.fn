@@ -1,0 +1,19 @@
+1	Je	_		{}
+2	vais	_		{}
+3	me	_		{}
+4	refaire	_		{}
+5	tous	_	Quantity	{"Individuals": "7", "Quantity": "5"}
+6	les	_		{}
+7	Harry	_		{}
+8	Potter	_		{}
+9	cette	_		{}
+10	semaine	_	Calendric_unit	{"Whole": "10"}
+11	,	_		{}
+12	ça	_		{}
+13	fait	_		{}
+14	beaucoup	_	Degree	{"Gradable_attribute": "16"}
+15	trop	_	Sufficiency	{"Item": "12", "Scale": "16"}
+16	longtemps	_		{}
+17	j'ai	_		{}
+18	pas	_		{}
+19	regarder	_	Perception_experience	{"Phenomenon": "7", "Perceiver_passive": "17"}

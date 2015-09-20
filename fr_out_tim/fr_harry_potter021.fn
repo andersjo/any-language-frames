@@ -1,0 +1,41 @@
+1	Les	_		{}
+2	sorciers	_		{}
+3	lancent	_	Cause_motion	{"Theme": "5", "Agent": "2"}
+4	des	_		{}
+5	sorts	_		{}
+6	,	_		{}
+7	la	_		{}
+8	plupart	_		{}
+9	du	_		{}
+10	temps	_	Event_instance	{"Instance": "8", "Event": "3"}
+11	grâce	_	Means	{"Purpose": "3", "Agent": "2", "Means": "14"}
+12	à	_		{}
+13	des	_		{}
+14	baguettes	_		{}
+15	magiques	_		{}
+16	(	_		{}
+17	certains	_		{}
+18	peuvent	_	Possibility	{}
+19	cependant	_		{}
+20	lancer	_	Cause_motion	{"Theme": "22", "Agent": "17"}
+21	des	_		{}
+22	maléfices	_		{}
+23	sans	_		{}
+24	cet	_		{}
+25	accessoire	_	Accoutrements	{"Accoutrement": "14"}
+26	)	_		{}
+27	,	_		{}
+28	et	_		{}
+29	préparent	_	Intentionally_create	{"Created_entity": "31", "Creator": "2"}
+30	des	_		{}
+31	potions	_		{}
+32	ou	_		{}
+33	volent	_	Self_motion	{"Self_mover": "2"}
+34	sur	_		{}
+35	des	_		{}
+36	balais	_		{}
+37	créés	_		{}
+38	à	_		{}
+39	cet	_		{}
+40	effet	_		{}
+41	.	_		{}

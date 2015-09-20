@@ -1,0 +1,20 @@
+1	En	_		{}
+2	febrero	_	Calendric_unit	{"Relative_time": "2", "Whole": "4"}
+3	de	_		{}
+4	2001	_		{}
+5	Google	_		{}
+6	compra	_	Commerce_sell	{"Buyer": "5", "Goods": "8", "Seller": "13"}
+7	el	_		{}
+8	servicio	_	Public_services	{"Domain": "10", "Target_group": "13", "Service_action": "13", "Institution": "5"}
+9	de	_		{}
+10	debate	_		{}
+11	Usenet	_		{}
+12	Deja	_		{}
+13	News	_		{}
+14	y	_		{}
+15	lo	_		{}
+16	transforma	_	Cause_change	{"Final_value": "19", "Initial_value": "13", "Agent": "5", "Entity": "13", "Final_category": "19", "Initial_category": "13"}
+17	en	_		{}
+18	Google	_		{}
+19	Grupos	_		{}
+20	.	_		{}

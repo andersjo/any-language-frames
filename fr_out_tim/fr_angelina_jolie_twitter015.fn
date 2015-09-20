@@ -1,0 +1,23 @@
+1	défaite	_		{}
+2	de	_		{}
+3	l'OM:J'imagine	_		{}
+4	l'autre	_		{}
+5	grosse	_	Size	{"Entity": "6"}
+6	pute	_		{}
+7	façon	_	Conduct	{"Manner": "10", "Agent": "6"}
+8	Angelina	_		{}
+9	Jolie	_		{}
+10	vulgaire	_		{}
+11	qui	_		{}
+12	s'est	_		{}
+13	bouffé	_		{}
+14	1	_	Cardinal_numbers	{"Number": "14", "Entity": "15"}
+15	parpaing	_		{}
+16	qui	_		{}
+17	doit	_	Being_obligated	{"Duty": "18", "Responsible_party": "6"}
+18	faire	_		{}
+19	la	_		{}
+20	pute	_		{}
+21	de	_		{}
+22	bas	_	Part_orientational	{"Part": "22"}
+23	étage	_	Architectural_part	{"Part": "23"}

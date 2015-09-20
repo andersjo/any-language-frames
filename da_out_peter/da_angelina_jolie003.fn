@@ -1,0 +1,29 @@
+1	Jolie	_		{}
+2	fremmer	_		{}
+3	humanitære	_		{}
+4	årsager	_		{}
+5	og	_	Simultaneity	{}
+6	er	_		{}
+7	desuden	_		{}
+8	kendt	_	Being_named	{}
+9	for	_	Sufficiency	{}
+10	sit	_		{}
+11	arbejde	_	Working_on	{"Goal": "13", "Agent": "1"}
+12	med	_		{}
+13	flygtninge	_		{}
+14	som	_	Identicality	{}
+15	en	_		{}
+16	særlig	_		{}
+17	udsending	_		{}
+18	og	_	Temporal_collocation	{}
+19	så	_	Temporal_collocation	{}
+20	er	_		{}
+21	hun	_	People	{"Person": "1"}
+22	også	_	Sufficiency	{}
+23	tidligere	_	Relative_time	{}
+24	Goodwill	_		{}
+25	ambassadør	_		{}
+26	for	_		{}
+27	FN's	_		{}
+28	Flygtningehøjkommissariat	_		{}
+29	.	_		{}

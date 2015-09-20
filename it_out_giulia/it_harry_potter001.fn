@@ -1,0 +1,35 @@
+1	Harry	_		{}
+2	Potter	_		{}
+3	è	_		{}
+4	una	_		{}
+5	serie	_	Sequence	{}
+6	di	_		{}
+7	romanzi	_	Text	{"Genre": "8", "Text": "7", "Title": "1"}
+8	fantasy	_		{}
+9	suddivisa	_		{}
+10	in	_		{}
+11	7	_	Cardinal_numbers	{"Number": "11", "Entity": "12"}
+12	volumi	_	Text	{}
+13	,	_		{}
+14	ideata	_		{}
+15	dalla	_		{}
+16	scrittrice	_		{}
+17	J	_		{}
+18	.	_		{}
+19	K	_		{}
+20	.	_		{}
+21	Rowling	_		{}
+22	all'inizio	_		{}
+23	degli	_		{}
+24	anni	_	Calendric_unit	{"Whole": "24"}
+25	'	_		{}
+26	90	_		{}
+27	e	_		{}
+28	concretizzata	_	Accomplishment	{}
+29	tra	_		{}
+30	il	_		{}
+31	1997	_		{}
+32	e	_		{}
+33	il	_		{}
+34	2007	_		{}
+35	.	_		{}

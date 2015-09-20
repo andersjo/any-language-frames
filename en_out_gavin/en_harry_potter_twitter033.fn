@@ -1,0 +1,9 @@
+1	Desperately	_		{}
+2	want	_	Desiring	{"Event": "4", "Degree": "1"}
+3	to	_		{}
+4	go	_	Self_motion	{"Goal": "5"}
+5	to	_		{}
+6	Harry	_		{}
+7	Potter	_		{}
+8	studio	_	Building_subparts	{"Building_part": "8", "Type": "7"}
+9	tour	_	Touring	{"Attraction": "8"}

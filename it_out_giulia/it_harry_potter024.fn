@@ -1,0 +1,22 @@
+1	Il	_		{}
+2	numero	_		{}
+3	sette	_	Cardinal_numbers	{"Number": "3"}
+4	,	_		{}
+5	in	_		{}
+6	particolare	_		{}
+7	,	_		{}
+8	ricorre	_		{}
+9	spessissimo	_	Frequency	{"Attribute": "9", "Salient_entity": "2"}
+10	,	_		{}
+11	non	_		{}
+12	a	_		{}
+13	caso	_		{}
+14	anche	_		{}
+15	la	_		{}
+16	storia	_	Text	{"Text": "16"}
+17	è	_		{}
+18	divisa	_		{}
+19	in	_		{}
+20	sette	_	Cardinal_numbers	{"Number": "20", "Entity": "21"}
+21	volumi	_	Text	{}
+22	.	_		{}

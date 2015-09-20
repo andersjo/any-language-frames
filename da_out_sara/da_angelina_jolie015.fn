@@ -1,0 +1,31 @@
+1	Efter	_		{}
+2	skilsmisser	_	Forming_relationships	{"Partner_1": "5"}
+3	fra	_		{}
+4	skuespillerne	_		{}
+5	Jonny	_		{}
+6	Lee	_		{}
+7	Miller	_		{}
+8	og	_		{}
+9	Billy	_		{}
+10	Bob	_		{}
+11	Thornton	_		{}
+12	bor	_	Practice	{"Action": "12", "Co_participant": "18", "Agent": "13", "Time": "15"}
+13	hun	_	People	{"Person": "13"}
+14	i	_		{}
+15	dag	_	Calendric_unit	{"Unit": "15"}
+16	sammen	_	Collaboration	{"Undertaking": "12", "Time": "15", "Partner_2": "18", "Partner_1": "13"}
+17	med	_		{}
+18	skuespilleren	_		{}
+19	Brad	_		{}
+20	Pitt	_		{}
+21	–	_		{}
+22	et	_		{}
+23	forhold	_	Cognitive_connection	{"Concepts": "23"}
+24	der	_		{}
+25	er	_		{}
+26	præget	_		{}
+27	af	_		{}
+28	opmærksomhed	_	Attention	{"Perceiver": "30", "Figure": "23"}
+29	i	_		{}
+30	medierne	_		{}
+31	.	_		{}

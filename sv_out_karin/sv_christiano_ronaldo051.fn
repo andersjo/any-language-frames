@@ -1,0 +1,36 @@
+1	Under	_		{}
+2	de	_		{}
+3	två	_	Cardinal_numbers	{"Number": "3", "Entity": "5"}
+4	första	_	Ordinal_numbers	{"Comparison_set": "5"}
+5	timmarna	_		{}
+6	efter	_		{}
+7	presentationen	_		{}
+8	såldes	_		{}
+9	15	_	Cardinal_numbers	{"Number": "9", "Entity": "12"}
+10	Ronaldo	_		{}
+11	–	_		{}
+12	tröjor	_	Clothing	{"Descriptor": "10", "Garment": "12"}
+13	i	_		{}
+14	minuten	_		{}
+15	,	_		{}
+16	till	_		{}
+17	ett	_	Cardinal_numbers	{"Number": "17", "Entity": "19"}
+18	sammanlagt	_		{}
+19	värde	_		{}
+20	av	_		{}
+21	cirka	_		{}
+22	1	_		{}
+23	,	_		{}
+24	70	_	Cardinal_numbers	{"Number": "24", "Entity": "25"}
+25	miljoner	_	Quantity	{"Individuals": "24"}
+26	kronor	_		{}
+27	(	_		{}
+28	då	_		{}
+29	en	_	Cardinal_numbers	{"Number": "29", "Entity": "30"}
+30	matchtröja	_		{}
+31	kostar	_		{}
+32	runt	_		{}
+33	940	_		{}
+34	kronor	_		{}
+35	)	_		{}
+36	.	_		{}

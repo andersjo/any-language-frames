@@ -1,0 +1,10 @@
+1	En	_		{}
+2	,	_		{}
+3	c'est	_		{}
+4	requêtes	_	Request	{"Addressee": "7"}
+5	journalières	_		{}
+6	que	_		{}
+7	Google	_		{}
+8	doit	_	Being_obligated	{"Duty": "9", "Responsible_party": "7"}
+9	gérer	_	Manipulation	{"Agent": "7", "Entity": "4"}
+10	.	_		{}

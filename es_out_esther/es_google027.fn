@@ -1,0 +1,45 @@
+1	El	_		{}
+2	19	_		{}
+3	de	_		{}
+4	agosto	_	Calendric_unit	{"Relative_time": "4"}
+5	Google	_		{}
+6	Inc	_		{}
+7	.	_		{}
+8	saldría	_		{}
+9	a	_		{}
+10	la	_		{}
+11	bolsa	_	Exchange	{"Exchangers": "13"}
+12	de	_		{}
+13	valores	_	Categorization	{"Category": "13", "Cognizer": "5", "Item": "18", "Criteria": "24"}
+14	bajo	_		{}
+15	el	_		{}
+16	símbolo	_	Sign	{"Indicator": "18", "Indicated": "5"}
+17	de	_		{}
+18	NASDAQ	_		{}
+19	:	_		{}
+20	GOOG	_		{}
+21	,	_		{}
+22	con	_		{}
+23	una	_		{}
+24	oferta	_	Offering	{"Potential_recipient": "18", "Theme": "13", "Offerer": "5"}
+25	inicial	_	Version_sequence	{"Item": "24"}
+26	de	_		{}
+27	25	_	Cardinal_numbers	{"Number": "25", "Entity": "30"}
+28	,	_		{}
+29	7	_		{}
+30	millones	_	Quantity	{"Individuals": "32", "Mass": "32", "Quantity": "27"}
+31	de	_		{}
+32	acciones	_	Store	{"Resource": "32", "Supply": "32"}
+33	,	_		{}
+34	y	_		{}
+35	con	_		{}
+36	un	_		{}
+37	rango	_	Range	{"Instrument": "44", "Event": "39", "Distance": "41"}
+38	de	_		{}
+39	precios	_	Expensiveness	{"Goods": "32", "Asset": "32", "Intended_event": "24"}
+40	de	_		{}
+41	85	_		{}
+42	a	_		{}
+43	95	_		{}
+44	dólares	_		{}
+45	.	_		{}

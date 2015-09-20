@@ -1,0 +1,21 @@
+1	Respuesta	_	Communication_response	{"Topic": "6", "Message": "6", "Addressee": "3", "Speaker": "3"}
+2	de	_		{}
+3	Scioli	_		{}
+4	:	_		{}
+5	"	_		{}
+6	Voy	_	Motion	{"Source": "3", "Theme": "10", "Direction": "10", "Goal": "10"}
+7	a	_		{}
+8	todos	_	Quantity	{"Individuals": "10", "Quantity": "8"}
+9	los	_		{}
+10	eventos	_	Event	{}
+11	a	_		{}
+12	los	_		{}
+13	que	_		{}
+14	me	_		{}
+15	invitan	_	Request	{"Topic": "10", "Addressee": "3", "Speaker": "3"}
+16	"	_		{}
+17	-	_		{}
+18	Urgente	_		{}
+19	24	_		{}
+20	http://t.co/er2gWPABVp	_		{}
+21	#Argentina	_		{}

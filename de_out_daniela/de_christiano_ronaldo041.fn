@@ -1,0 +1,34 @@
+1	Im	_		{}
+2	Sommer	_	Calendric_unit	{"Whole": "3", "Unit": "2"}
+3	2003	_		{}
+4	kam	_		{}
+5	es	_		{}
+6	dann	_	Temporal_collocation	{}
+7	jedoch	_	Concessive	{"Topic": "9"}
+8	zur	_		{}
+9	Begegnung	_	Social_event	{"Attendee": "12"}
+10	mit	_		{}
+11	Alex	_		{}
+12	Ferguson	_		{}
+13	und	_	Simultaneity	{"Profiled_event": "12", "Landmark_event": "15"}
+14	dessen	_		{}
+15	Verein	_	Organization	{"Organization": "16"}
+16	Manchester	_		{}
+17	United	_		{}
+18	,	_		{}
+19	als	_		{}
+20	Sporting	_		{}
+21	den	_		{}
+22	englischen	_		{}
+23	Großverein	_		{}
+24	anlässlich	_		{}
+25	der	_		{}
+26	Eröffnungsfeierlichkeiten	_		{}
+27	des	_		{}
+28	José-Alvalade-Stadions	_		{}
+29	in	_		{}
+30	Lissabon	_		{}
+31	mit	_		{}
+32	3:1	_		{}
+33	besiegte	_	Beat_opponent	{"Winner": "20", "Competition": "26", "Loser": "23"}
+34	.	_		{}

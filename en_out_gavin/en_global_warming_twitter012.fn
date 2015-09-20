@@ -1,0 +1,19 @@
+1	Scientific	_	Craft	{"Activity": "2"}
+2	research	_	Research	{}
+3	shows	_	Evidence	{"Support": "2", "Proposition": "14"}
+4	that	_		{}
+5	with	_		{}
+6	global	_	Political_locales	{"Locale": "6"}
+7	warming	_	Temperature	{"Temperature": "7", "Entity": "6"}
+8	accelerating	_	Departing	{"Theme": "7"}
+9	in	_		{}
+10	50	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	years	_		{}
+12	there	_		{}
+13	will	_		{}
+14	be	_	Existence	{"Time": "9", "Entity": "17"}
+15	an	_	Cardinal_numbers	{"Number": "15", "Entity": "17"}
+16	ice	_	Substance	{"Substance": "16"}
+17	age	_	Calendric_unit	{"Count": "15", "Unit": "17"}
+18	....	_		{}
+19	0_0	_		{}

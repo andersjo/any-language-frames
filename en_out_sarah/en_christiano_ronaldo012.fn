@@ -1,0 +1,23 @@
+1	In	_		{}
+2	2003	_		{}
+3	he	_		{}
+4	caught	_		{}
+5	the	_		{}
+6	attention	_	Attention	{"Perceiver": "8", "Figure": "3"}
+7	of	_		{}
+8	Manchester	_		{}
+9	United	_	Amalgamation	{"Part_1": "8"}
+10	manager	_	People_by_vocation	{"Person": "11", "Place_of_employment": "8", "Rank": "10", "Employer": "9"}
+11	Alex	_		{}
+12	Ferguson	_		{}
+13	,	_		{}
+14	who	_		{}
+15	signed	_	Sign_agreement	{"Signatory": "11"}
+16	him	_		{}
+17	for	_		{}
+18	£12.2	_		{}
+19	million	_	Cardinal_numbers	{"Number": "19", "Multiplier": "18"}
+20	(€15	_		{}
+21	million	_	Cardinal_numbers	{"Number": "21", "Multiplier": "20"}
+22	)	_		{}
+23	.	_		{}

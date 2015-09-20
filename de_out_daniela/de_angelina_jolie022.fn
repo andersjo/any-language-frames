@@ -1,0 +1,15 @@
+1	Dort	_	Locative_relation	{"Figure": "3", "Ground": "1"}
+2	besuchte	_	Attending	{"Event": "10", "Agent": "3"}
+3	sie	_		{}
+4	bis	_	Continued_state_of_affairs	{"Reference_occasion": "5", "State_of_affairs": "2"}
+5	1989	_		{}
+6	die	_		{}
+7	El	_		{}
+8	Rodeo	_		{}
+9	Elementary	_		{}
+10	School	_		{}
+11	im	_		{}
+12	Stadtteil	_	Part_whole	{"Part": "12"}
+13	Beverly	_		{}
+14	Hills	_		{}
+15	.	_		{}

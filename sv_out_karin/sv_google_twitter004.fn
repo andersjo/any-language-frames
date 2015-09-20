@@ -1,0 +1,26 @@
+1	Snälla	_		{}
+2	kan	_		{}
+3	inte	_		{}
+4	alla	_	Quantity	{}
+5	bara	_		{}
+6	söka	_	Scrutiny	{"Instrument": "11", "Cognizer": "4", "Medium": "8", "Ground": "11"}
+7	upp	_		{}
+8	ordet	_		{}
+9	hora	_		{}
+10	på	_		{}
+11	Google	_		{}
+12	och	_	Simultaneity	{"Profiled_event": "6", "Landmark_event": "13"}
+13	lära	_	Education_teaching	{"Material": "11", "Fact": "17", "Student": "4"}
+14	sig	_		{}
+15	den	_		{}
+16	simpla	_		{}
+17	innebörden	_		{}
+18	istället	_		{}
+19	för	_		{}
+20	att	_		{}
+21	använda	_	Using	{"Instrument": "8", "Manner": "25", "Agent": "4"}
+22	de	_		{}
+23	hur	_		{}
+24	som	_		{}
+25	helst	_		{}
+26	?!?!	_		{}

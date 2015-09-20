@@ -1,0 +1,26 @@
+1	Ma	_		{}
+2	non	_		{}
+3	è	_		{}
+4	possibile	_		{}
+5	che	_		{}
+6	ogni	_	Frequency	{"Attribute": "6", "Interval": "8"}
+7	fottuta	_		{}
+8	volta	_	Event_instance	{"Instance": "8", "Event": "10"}
+9	che	_		{}
+10	finisco	_	Activity_finish	{"Activity": "12"}
+11	di	_		{}
+12	vedermi	_		{}
+13	i	_		{}
+14	film	_	Physical_artworks	{"Artifact": "14"}
+15	di	_		{}
+16	harry	_		{}
+17	potter	_		{}
+18	,	_		{}
+19	mi	_		{}
+20	sento	_	Feeling	{"Emotional_state": "21"}
+21	male	_		{}
+22	e	_		{}
+23	piango	_		{}
+24	,	_		{}
+25	bah	_		{}
+26	.	_		{}

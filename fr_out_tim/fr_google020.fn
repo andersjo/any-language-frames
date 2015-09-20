@@ -1,0 +1,34 @@
+1	Le	_		{}
+2	nom	_	Name_conferral	{"Name": "5", "Entity": "4"}
+3	de	_		{}
+4	l'entreprise	_		{}
+5	Google	_		{}
+6	a	_		{}
+7	pour	_		{}
+8	origine	_	Origin	{"Origin": "10", "Entity": "2"}
+9	le	_		{}
+10	terme	_	Simple_name	{"Term": "13", "Entity": "5"}
+11	mathématique	_		{}
+12	«	_		{}
+13	googol	_		{}
+14	»	_		{}
+15	ou	_		{}
+16	gogol	_		{}
+17	en	_		{}
+18	français	_		{}
+19	,	_		{}
+20	qui	_		{}
+21	désigne	_	Linguistic_meaning	{"Meaning": "22", "Form": "16"}
+22	10	_		{}
+23	,	_		{}
+24	c'est-à-dire	_		{}
+25	un	_		{}
+26	nombre	_		{}
+27	commençant	_	Process_start	{}
+28	par	_		{}
+29	1	_	Cardinal_numbers	{"Number": "29"}
+30	suivi	_		{}
+31	de	_		{}
+32	cent	_	Cardinal_numbers	{"Number": "32", "Entity": "33"}
+33	zéros	_	Cardinal_numbers	{"Number": "33"}
+34	.	_		{}

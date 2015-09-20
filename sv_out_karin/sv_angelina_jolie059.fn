@@ -1,0 +1,35 @@
+1	Samma	_		{}
+2	år	_	Frequency	{"Event": "3"}
+3	porträtterar	_		{}
+4	Jolie	_		{}
+5	också	_		{}
+6	i	_		{}
+7	filmen	_	Physical_artworks	{"Artifact": "9"}
+8	"	_		{}
+9	Foxfire	_		{}
+10	"	_		{}
+11	Margret	_		{}
+12	"	_		{}
+13	Legs	_		{}
+14	"	_		{}
+15	Sadovsky	_		{}
+16	,	_		{}
+17	en	_	Cardinal_numbers	{"Number": "17", "Entity": "20"}
+18	av	_		{}
+19	fem	_	Cardinal_numbers	{"Number": "19", "Entity": "20"}
+20	tonårsflickor	_		{}
+21	som	_		{}
+22	trots	_		{}
+23	olikheter	_		{}
+24	kommer	_		{}
+25	samman	_	Amalgamation	{"Parts": "20"}
+26	och	_	Simultaneity	{"Profiled_event": "24", "Landmark_event": "27"}
+27	misshandlar	_		{}
+28	en	_	Cardinal_numbers	{"Number": "28", "Entity": "29"}
+29	lärare	_	People_by_vocation	{"Descriptor": "32", "Person": "29"}
+30	som	_		{}
+31	har	_		{}
+32	trakasserat	_		{}
+33	dem	_		{}
+34	sexuellt	_		{}
+35	.	_		{}

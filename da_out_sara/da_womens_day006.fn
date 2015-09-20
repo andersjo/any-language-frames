@@ -1,0 +1,31 @@
+1	Ideen	_		{}
+2	om	_		{}
+3	"	_		{}
+4	Kvindernes	_		{}
+5	internationale	_	Foreign_or_domestic_country	{}
+6	kampdag	_		{}
+7	"	_		{}
+8	blev	_		{}
+9	fremsat	_		{}
+10	af	_		{}
+11	Clara	_		{}
+12	Zetkin	_		{}
+13	på	_		{}
+14	et	_		{}
+15	stort	_		{}
+16	kvindemøde	_		{}
+17	arrangeret	_	Arranging	{"Theme": "16", "Agent": "19"}
+18	af	_		{}
+19	Socialistisk	_		{}
+20	internationale	_	Political_locales	{"Locale": "20"}
+21	i	_		{}
+22	København	_		{}
+23	den	_		{}
+24	26	_		{}
+25	.	_		{}
+26	og	_		{}
+27	27	_		{}
+28	.	_		{}
+29	august	_	Calendric_unit	{"Relative_time": "30", "Whole": "27", "Unit": "29"}
+30	1910	_		{}
+31	.	_		{}

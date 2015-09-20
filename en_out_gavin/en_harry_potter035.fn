@@ -1,0 +1,55 @@
+1	However	_	Concessive	{"Statement": "18"}
+2	,	_		{}
+3	at	_		{}
+4	the	_		{}
+5	orders	_	Request	{"Speaker": "13"}
+6	of	_		{}
+7	the	_		{}
+8	venerable	_		{}
+9	and	_		{}
+10	well-known	_		{}
+11	wizard	_	Performers_and_roles	{"Performer": "12", "Role": "11"}
+12	Albus	_		{}
+13	Dumbledore	_		{}
+14	,	_		{}
+15	the	_		{}
+16	orphaned	_	Personal_relationship	{"Partner_1": "17"}
+17	Harry	_		{}
+18	had	_		{}
+19	been	_		{}
+20	placed	_	Placing	{"Theme": "17", "Goal": "21"}
+21	in	_		{}
+22	the	_		{}
+23	home	_	Locale_by_use	{"Locale": "23"}
+24	of	_		{}
+25	his	_		{}
+26	unpleasant	_	Stimulus_focus	{"Stimulus": "28"}
+27	Muggle	_		{}
+28	relatives	_	Kinship	{"Relatives": "28"}
+29	,	_		{}
+30	the	_		{}
+31	Dursleys	_		{}
+32	,	_		{}
+33	who	_		{}
+34	kept	_		{}
+35	him	_	People_by_age	{"Person": "35"}
+36	safe	_	Being_at_risk	{"Asset": "35"}
+37	,	_		{}
+38	but	_	Simultaneity	{"Profiled_event": "39", "Landmark_event": "34"}
+39	hid	_	Hiding_objects	{"Agent": "28", "Hidden_object": "42"}
+40	his	_		{}
+41	true	_	Artificiality	{"Entity": "42"}
+42	heritage	_		{}
+43	from	_		{}
+44	him	_	People_by_age	{"Person": "44"}
+45	in	_		{}
+46	hopes	_	Desiring	{"Focal_participant": "48", "Event": "49", "Experiencer": "28"}
+47	that	_		{}
+48	he	_		{}
+49	would	_		{}
+50	grow	_	Aging	{"Manner": "53", "Entity": "48"}
+51	up	_	Direction	{"Path": "51"}
+52	"	_		{}
+53	normal	_	Typicality	{"Entity": "48"}
+54	"	_		{}
+55	.	_		{}

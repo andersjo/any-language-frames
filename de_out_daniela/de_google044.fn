@@ -1,0 +1,24 @@
+1	Googles	_		{}
+2	Suchtechnik	_		{}
+3	wird	_		{}
+4	auch	_		{}
+5	an	_		{}
+6	Internetportale	_		{}
+7	lizenziert	_	Permitting	{"State_of_affairs": "2"}
+8	,	_		{}
+9	um	_		{}
+10	dort	_	Locative_relation	{"Figure": "12", "Ground": "6"}
+11	eine	_		{}
+12	Websuche	_		{}
+13	anbieten	_	Offering	{"Potential_recipient": "19", "Theme": "12"}
+14	zu	_		{}
+15	können	_		{}
+16	,	_		{}
+17	ohne	_		{}
+18	dass	_		{}
+19	Benutzer	_		{}
+20	das	_		{}
+21	Portal	_		{}
+22	verlassen	_	Quitting_a_place	{"Source": "21", "Self_mover": "19"}
+23	müssen	_		{}
+24	.	_		{}

@@ -1,0 +1,11 @@
+1	Google	_		{}
+2	gehört	_		{}
+3	seit	_		{}
+4	Jahren	_	Calendric_unit	{"Unit": "4"}
+5	zu	_		{}
+6	den	_		{}
+7	wertvollsten	_		{}
+8	Marken	_	Type	{"Subtype": "8", "Type_Property": "7"}
+9	der	_		{}
+10	Welt	_	Political_locales	{"Locale": "10"}
+11	.	_		{}

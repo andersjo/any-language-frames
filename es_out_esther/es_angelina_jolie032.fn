@@ -1,0 +1,27 @@
+1	Su	_		{}
+2	autoestima	_	Regard	{"Evaluee": "1"}
+3	se	_		{}
+4	vio	_		{}
+5	disminuida	_	Cause_change_of_position_on_a_scale	{"Item": "2", "Cause": "23", "Agent": "21"}
+6	tras	_		{}
+7	un	_		{}
+8	intento	_	Attempt	{"Time": "13", "Agent": "1", "Purpose": "12", "Degree": "7", "Means": "10"}
+9	de	_		{}
+10	convertirse	_	Becoming	{"Time": "13", "Entity": "1"}
+11	en	_		{}
+12	modelo	_	Exemplar	{}
+13	mientras	_		{}
+14	cursaba	_	Education_teaching	{"Institution": "16", "Student": "1"}
+15	la	_		{}
+16	educación	_	Education_teaching	{}
+17	secundaria	_	Extreme_value	{"Attribute": "16"}
+18	;	_		{}
+19	todos	_	Quantity	{"Individuals": "21"}
+20	sus	_		{}
+21	compañeros	_	Personal_relationship	{}
+22	se	_		{}
+23	burlaban	_	Cause_harm	{"Body_part": "26", "Agent": "21"}
+24	de	_		{}
+25	su	_		{}
+26	aspecto	_	Observable_body_parts	{"Possessor": "1"}
+27	.	_		{}

@@ -1,0 +1,24 @@
+1	Parallel	_		{}
+2	zu	_		{}
+3	den	_		{}
+4	Büchern	_		{}
+5	entstand	_	Coming_to_be	{"Entity": "12"}
+6	zwischen	_		{}
+7	2001	_		{}
+8	und	_	Simultaneity	{"Profiled_event": "9", "Landmark_event": "7"}
+9	2011	_		{}
+10	eine	_		{}
+11	achtteilige	_		{}
+12	Verfilmung	_		{}
+13	derselben	_		{}
+14	,	_		{}
+15	die	_		{}
+16	mit	_		{}
+17	einem	_		{}
+18	Gesamteinspielergebnis	_		{}
+19	von	_		{}
+20	7	_	Cardinal_numbers	{"Number": "20", "Entity": "23"}
+21	,	_		{}
+22	7	_	Cardinal_numbers	{"Number": "22", "Entity": "23"}
+23	Mrd	_	Cardinal_numbers	{"Number": "23", "Multiplier": "20"}
+24	.	_		{}

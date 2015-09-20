@@ -1,0 +1,23 @@
+1	The	_		{}
+2	novel	_	Text	{"Text": "2"}
+3	delves	_		{}
+4	into	_		{}
+5	the	_		{}
+6	history	_	History	{"Topic": "7"}
+7	of	_		{}
+8	Hogwarts	_		{}
+9	and	_		{}
+10	a	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	legend	_	Text	{"Text": "11"}
+12	revolving	_	Change_direction	{"Direction": "13", "Theme": "11"}
+13	around	_	Dimension	{"Object": "15"}
+14	the	_		{}
+15	Chamber	_	Building_subparts	{"Building_part": "15"}
+16	that	_		{}
+17	soon	_	Speed	{"Speed": "17"}
+18	frightened	_	Experiencer_obj	{"Stimulus": "11", "Experiencer": "19"}
+19	everyone	_		{}
+20	in	_		{}
+21	the	_		{}
+22	school	_	Locale_by_use	{"Locale": "22"}
+23	.	_		{}

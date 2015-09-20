@@ -1,0 +1,15 @@
+1	En	_		{}
+2	marzo	_	Calendric_unit	{"Relative_time": "2", "Whole": "5"}
+3	del	_		{}
+4	mismo	_	Identicality	{"Current_instance": "5"}
+5	año	_	Calendric_unit	{"Relative_time": "4", "Whole": "5", "Unit": "2"}
+6	Eric	_		{}
+7	Schmidt	_		{}
+8	es	_	Being_in_category	{"Category": "10", "Item": "7"}
+9	nombrado	_		{}
+10	presidente	_	Leadership	{"Role": "10", "Governed": "7", "Activity": "9"}
+11	de	_		{}
+12	la	_		{}
+13	junta	_	Aggregate	{"Individuals": "7"}
+14	directiva	_	Leadership	{"Role": "10", "Leader": "7", "Governed": "7", "Activity": "13"}
+15	.	_		{}

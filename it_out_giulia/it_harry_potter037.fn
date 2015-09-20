@@ -1,0 +1,18 @@
+1	Altre	_		{}
+2	ambientazioni	_		{}
+3	risultano	_		{}
+4	secondarie	_		{}
+5	se	_		{}
+6	confrontate	_	Evaluative_comparison	{"Profiled_item": "2", "Profiled_attribute": "4"}
+7	alle	_		{}
+8	precedenti	_		{}
+9	ma	_		{}
+10	restano	_		{}
+11	comunque	_		{}
+12	scenari	_	Locale_by_event	{"Locale": "2", "Defining_event": "15"}
+13	di	_		{}
+14	importanti	_	Importance	{"Factor": "15"}
+15	svolte	_		{}
+16	nella	_		{}
+17	serie	_	Sequence	{}
+18	.	_		{}

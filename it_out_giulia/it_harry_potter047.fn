@@ -1,0 +1,35 @@
+1	La	_		{}
+2	Rowling	_		{}
+3	tuttavia	_	Concessive	{"Topic": "9"}
+4	dichiarò	_		{}
+5	che	_		{}
+6	avrebbe	_		{}
+7	semmai	_		{}
+8	potuto	_		{}
+9	scrivere	_	Text_creation	{"Text": "11", "Author": "2"}
+10	un	_		{}
+11	volume	_	Text	{"Text": "11"}
+12	enciclopedico	_		{}
+13	su	_		{}
+14	tutta	_	Quantity	{"Mass": "16", "Quantity": "14"}
+15	la	_		{}
+16	serie	_	Sequence	{}
+17	,	_		{}
+18	dove	_		{}
+19	avrebbero	_		{}
+20	trovato	_		{}
+21	posto	_		{}
+22	tutte	_	Quantity	{"Individuals": "24", "Quantity": "22"}
+23	le	_		{}
+24	idee	_	Cogitation	{}
+25	,	_		{}
+26	gli	_		{}
+27	appunti	_		{}
+28	e	_		{}
+29	i	_		{}
+30	tagli	_	Removing	{}
+31	non	_		{}
+32	inseriti	_		{}
+33	nei	_		{}
+34	libri	_	Text	{"Text": "34"}
+35	.	_		{}

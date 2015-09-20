@@ -1,0 +1,14 @@
+1	När	_		{}
+2	Jolie	_		{}
+3	var	_		{}
+4	fjorton	_	Cardinal_numbers	{"Number": "4", "Entity": "5"}
+5	år	_	Age	{"Age": "4", "Entity": "2"}
+6	hoppade	_		{}
+7	hon	_		{}
+8	av	_		{}
+9	skolan	_	Locale_by_use	{}
+10	och	_	Simultaneity	{"Profiled_event": "6", "Landmark_event": "13"}
+11	ville	_		{}
+12	bli	_	Becoming	{"Entity": "2"}
+13	begravningsentreprenör	_		{}
+14	.	_		{}

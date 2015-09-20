@@ -1,0 +1,26 @@
+1	Actualmente	_	Actually_occurring_entity	{}
+2	tiene	_	Possession	{"Possession": "4", "Time": "1"}
+3	una	_		{}
+4	relación	_	Relation	{"Entity1": "10"}
+5	con	_		{}
+6	el	_		{}
+7	también	_		{}
+8	actor	_	Performers	{"Person": "10"}
+9	,	_		{}
+10	Brad	_		{}
+11	Pitt	_		{}
+12	,	_		{}
+13	que	_		{}
+14	ha	_		{}
+15	atraído	_		{}
+16	la	_		{}
+17	atención	_	Attention	{"Perceiver": "19", "Figure": "4"}
+18	de	_		{}
+19	todos	_	Quantity	{"Individuals": "21", "Quantity": "19"}
+20	los	_		{}
+21	medios	_	Organization	{}
+22	de	_		{}
+23	comunicación	_	Telling	{"Place": "25"}
+24	del	_		{}
+25	mundo	_	Locale	{"Locale": "25"}
+26	.	_		{}

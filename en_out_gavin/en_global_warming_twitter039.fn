@@ -1,0 +1,16 @@
+1	He	_		{}
+2	is	_	Being_in_category	{"Category": "3", "Item": "1"}
+3	off	_	Hit_or_miss	{}
+4	to	_		{}
+5	a	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	start	_	Activity_start	{"Agent": "1"}
+7	...	_		{}
+8	@realDonaldTrump	_		{}
+9	thinks	_	Cogitation	{"Topic": "11", "Cognizer": "8"}
+10	cold	_	Ambient_temperature	{"Weather": "11", "Temperature": "10"}
+11	weather	_	Weather	{"Specification": "10"}
+12	negates	_	Evidence	{"Cognizer": "8", "Support": "11", "Proposition": "14"}
+13	global	_	Political_locales	{"Locale": "13"}
+14	warming	_	Cause_temperature_change	{"Item": "13"}
+15	@ApprenticeNBC	_		{}
+16	#dumbashelooks	_		{}

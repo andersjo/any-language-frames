@@ -1,0 +1,24 @@
+1	@Agron_94	_		{}
+2	Angelina	_		{}
+3	Jolie	_		{}
+4	elle	_		{}
+5	rhabille	_		{}
+6	la	_		{}
+7	mère	_	Kinship	{"Ego": "9", "Alter": "7"}
+8	de	_		{}
+9	tout	_	Quantity	{"Mass": "11", "Quantity": "9"}
+10	le	_		{}
+11	monde	_	People	{}
+12	😍	_		{}
+13	mais	_	Concessive	{"Main_statement": "5", "Statement": "17"}
+14	je	_		{}
+15	parle	_	Statement	{"Topic": "17", "Speaker": "14"}
+16	de	_		{}
+17	Kylie	_		{}
+18	pcq	_		{}
+19	elle	_		{}
+20	est	_		{}
+21	+	_		{}
+22	jeune	_	Age	{"Age": "22", "Degree": "21", "Entity": "19"}
+23	que	_		{}
+24	moi	_		{}

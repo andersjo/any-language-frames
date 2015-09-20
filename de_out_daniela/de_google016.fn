@@ -1,0 +1,22 @@
+1	2010	_		{}
+2	erzielte	_		{}
+3	es	_		{}
+4	einen	_		{}
+5	Umsatz	_	Earnings_and_losses	{"Earner": "3", "Earnings": "10"}
+6	von	_		{}
+7	29	_		{}
+8	,	_		{}
+9	3	_	Cardinal_numbers	{"Number": "9", "Entity": "10"}
+10	Milliarden	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	US-Dollar	_		{}
+12	und	_		{}
+13	machte	_		{}
+14	einen	_		{}
+15	Gewinn	_	Earnings_and_losses	{"Earner": "3", "Earnings": "20"}
+16	von	_		{}
+17	8	_	Cardinal_numbers	{"Number": "17", "Entity": "20"}
+18	,	_		{}
+19	5	_	Cardinal_numbers	{"Number": "19", "Entity": "20"}
+20	Milliarden	_	Cardinal_numbers	{"Number": "20", "Entity": "21"}
+21	US-Dollar	_		{}
+22	.	_		{}

@@ -1,0 +1,12 @@
+1	Die	_		{}
+2	Handlung	_		{}
+3	der	_		{}
+4	Harry-Potter-Romane	_		{}
+5	findet	_	Event	{"Place": "10"}
+6	in	_		{}
+7	zwei	_	Cardinal_numbers	{"Number": "7", "Entity": "10"}
+8	nebeneinander	_		{}
+9	existierenden	_		{}
+10	Welten	_	Locale	{"Locale": "10"}
+11	statt	_		{}
+12	.	_		{}

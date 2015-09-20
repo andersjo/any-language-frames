@@ -1,0 +1,36 @@
+1	The	_		{}
+2	last	_	Version_sequence	{"Item": "4"}
+3	four	_	Cardinal_numbers	{"Number": "3", "Entity": "4"}
+4	books	_	Text	{"Text": "4"}
+5	consecutively	_		{}
+6	set	_	Placing	{"Theme": "7", "Agent": "4"}
+7	records	_	Text	{"Text": "7"}
+8	as	_		{}
+9	the	_		{}
+10	fastest-selling	_		{}
+11	books	_	Text	{"Text": "11"}
+12	in	_		{}
+13	history	_	History	{}
+14	,	_		{}
+15	with	_		{}
+16	the	_		{}
+17	final	_	Version_sequence	{"Item": "18"}
+18	instalment	_	Installing	{"Component": "18"}
+19	selling	_	Commerce_sell	{"Goods": "18", "Place": "24", "Time": "28"}
+20	approximately	_	Estimated_value	{"Item": "23", "Value": "22"}
+21	11	_		{}
+22	million	_	Cardinal_numbers	{"Multiplier": "21", "Number": "22", "Entity": "23"}
+23	copies	_	Duplication	{"Copy": "23"}
+24	in	_		{}
+25	the	_		{}
+26	United	_	Amalgamation	{"Parts": "27"}
+27	States	_	Political_locales	{"Locale": "27", "Name": "26"}
+28	within	_		{}
+29	the	_		{}
+30	first	_	Ordinal_numbers	{"Comparison_set": "32"}
+31	twenty-four	_		{}
+32	hours	_	Measure_duration	{"Process": "35", "Count": "31", "Unit": "32"}
+33	of	_		{}
+34	its	_		{}
+35	release	_	Releasing	{"Theme": "34"}
+36	.	_		{}

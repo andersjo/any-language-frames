@@ -1,0 +1,54 @@
+1	Unter	_		{}
+2	der	_		{}
+3	Regie	_	Leadership	{"Leader": "6"}
+4	von	_		{}
+5	John	_		{}
+6	Frankenheimer	_		{}
+7	sowie	_		{}
+8	an	_		{}
+9	der	_		{}
+10	Seite	_		{}
+11	von	_		{}
+12	Gary	_		{}
+13	Sinise	_		{}
+14	und	_	Simultaneity	{"Profiled_event": "13", "Landmark_event": "16"}
+15	Mare	_		{}
+16	Winningham	_		{}
+17	verkörperte	_		{}
+18	Jolie	_		{}
+19	in	_		{}
+20	dem	_		{}
+21	Film	_	Physical_artworks	{"Artifact": "21"}
+22	Cornelia	_		{}
+23	Wallace	_		{}
+24	,	_		{}
+25	die	_		{}
+26	zweite	_		{}
+27	Ehefrau	_	Personal_relationship	{"Partner_2": "30", "Partner_1": "27"}
+28	von	_		{}
+29	George	_		{}
+30	Wallace	_		{}
+31	,	_		{}
+32	seinerzeit	_		{}
+33	Gouverneur	_	Leadership	{"Leader": "30", "Governed": "35"}
+34	von	_		{}
+35	Alabama	_		{}
+36	und	_	Simultaneity	{"Profiled_event": "37", "Landmark_event": "33"}
+37	Anhänger	_	Taking_sides	{"Cognizer": "30", "Issue": "39"}
+38	der	_		{}
+39	Rassentrennung	_		{}
+40	,	_		{}
+41	der	_		{}
+42	angeschossen	_		{}
+43	und	_	Simultaneity	{"Profiled_event": "44", "Landmark_event": "42"}
+44	querschnittsgelähmt	_		{}
+45	wurde	_		{}
+46	,	_		{}
+47	als	_		{}
+48	er	_		{}
+49	für	_		{}
+50	die	_		{}
+51	US-amerikanische	_	Origin	{"Origin": "51", "Entity": "52"}
+52	Präsidentschaft	_	Leadership	{"Leader": "30"}
+53	kandidierte	_		{}
+54	.	_		{}

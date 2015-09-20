@@ -1,0 +1,24 @@
+1	Der	_		{}
+2	Kunde	_		{}
+3	legt	_	Placing	{}
+4	die	_		{}
+5	maximale	_	Extreme_value	{"Attribute": "6"}
+6	Vergütung	_	Earnings_and_losses	{"Earner": "2", "Earnings": "6"}
+7	pro	_		{}
+8	Klick	_	Event	{}
+9	selbst	_	Proper_reference	{"Entity": "2"}
+10	fest	_		{}
+11	,	_		{}
+12	wobei	_		{}
+13	eine	_		{}
+14	höhere	_		{}
+15	Vergütung	_	Earnings_and_losses	{"Earnings": "15"}
+16	eine	_		{}
+17	höhere	_		{}
+18	Position	_		{}
+19	gegenüber	_		{}
+20	konkurrierenden	_		{}
+21	Anzeigen	_		{}
+22	erzielen	_		{}
+23	kann	_		{}
+24	.	_		{}

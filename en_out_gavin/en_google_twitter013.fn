@@ -1,0 +1,16 @@
+1	#Tech	_		{}
+2	You	_		{}
+3	Can	_	Capability	{"Entity": "2"}
+4	Now	_	Temporal_collocation	{"Trajector_entity": "2", "Trajector_period": "4", "Landmark_event": "5"}
+5	Get	_	Getting	{"Place": "8", "Theme": "7", "Recipient": "2", "Time": "4"}
+6	Google	_		{}
+7	Play	_	Performing_arts	{"Performance": "7"}
+8	on	_		{}
+9	Your	_		{}
+10	Amazon	_		{}
+11	Fire	_		{}
+12	Phone	_	Contacting	{}
+13	Without	_		{}
+14	Rooting	_	Infrastructure	{"Infrastructure": "14"}
+15	http://t.co/SPHWiPCzN6	_		{}
+16	#Onlireeks	_		{}

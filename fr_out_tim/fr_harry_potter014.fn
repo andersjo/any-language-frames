@@ -1,0 +1,82 @@
+1	Harry	_		{}
+2	découvre	_	Perception_experience	{"Phenomenon": "6", "Perceiver_passive": "1"}
+3	ainsi	_		{}
+4	non	_		{}
+5	seulement	_		{}
+6	l'existence	_		{}
+7	des	_		{}
+8	sorciers	_		{}
+9	,	_		{}
+10	qui	_		{}
+11	vivent	_	Existence	{"Entity": "8"}
+12	parmi	_		{}
+13	les	_		{}
+14	«	_		{}
+15	Moldus	_		{}
+16	»	_		{}
+17	(	_		{}
+18	les	_		{}
+19	personnes	_	People	{"Person": "19"}
+20	ne	_		{}
+21	possédant	_	Possession	{"Possession": "23", "Owner": "19"}
+22	aucun	_		{}
+23	pouvoir	_	Expertise	{"Skill": "23", "Protagonist": "15"}
+24	magique	_		{}
+25	)	_		{}
+26	tout	_		{}
+27	en	_		{}
+28	se	_		{}
+29	dissimulant	_		{}
+30	d'eux	_		{}
+31	,	_		{}
+32	mais	_		{}
+33	aussi	_		{}
+34	l'immense	_		{}
+35	célébrité	_		{}
+36	dont	_		{}
+37	il	_		{}
+38	jouit	_	Experiencer_focus	{"Topic": "35", "Experiencer": "37"}
+39	parmi	_		{}
+40	eux	_		{}
+41	:	_		{}
+42	il	_		{}
+43	est	_		{}
+44	en	_		{}
+45	effet	_		{}
+46	considéré	_		{}
+47	comme	_		{}
+48	«	_		{}
+49	le	_		{}
+50	Survivant	_		{}
+51	»	_		{}
+52	depuis	_		{}
+53	que	_		{}
+54	,	_		{}
+55	dix	_	Cardinal_numbers	{"Number": "55", "Entity": "56"}
+56	ans	_	Measure_duration	{"Count": "55", "Unit": "56"}
+57	plus	_		{}
+58	tôt	_	Time_vector	{"Distance": "55", "Direction": "58", "Landmark_event": "73", "Event": "46"}
+59	,	_		{}
+60	ses	_		{}
+61	parents	_	Kinship	{"Ego": "60", "Alter": "61"}
+62	,	_		{}
+63	les	_		{}
+64	sorciers	_		{}
+65	Lily	_		{}
+66	Evans	_		{}
+67	et	_		{}
+68	James	_		{}
+69	Potter	_		{}
+70	,	_		{}
+71	ont	_		{}
+72	été	_		{}
+73	tués	_		{}
+74	par	_		{}
+75	Lord	_		{}
+76	Voldemort	_		{}
+77	,	_		{}
+78	un	_		{}
+79	puissant	_	Exertive_force	{"Force": "79", "Entity": "80"}
+80	mage	_		{}
+81	noir	_		{}
+82	.	_		{}

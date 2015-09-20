@@ -1,0 +1,45 @@
+1	Nel	_		{}
+2	2004	_		{}
+3	presta	_	Giving	{"Theme": "6", "Recipient": "10"}
+4	la	_		{}
+5	sua	_		{}
+6	voce	_	Performers_and_roles	{"Role": "10"}
+7	al	_		{}
+8	pesce	_		{}
+9	angelo	_		{}
+10	Lola	_		{}
+11	nel	_		{}
+12	film	_	Physical_artworks	{"Type": "13", "Name": "17", "Artifact": "12", "Time_of_creation": "2"}
+13	d'animazione	_		{}
+14	della	_		{}
+15	DreamWorks	_		{}
+16	"	_		{}
+17	Shark	_		{}
+18	Tale	_		{}
+19	"	_		{}
+20	e	_		{}
+21	ottiene	_		{}
+22	un	_		{}
+23	ruolo	_	Performers_and_roles	{"Type": "26"}
+24	minore	_		{}
+25	nel	_		{}
+26	film	_	Physical_artworks	{"Type": "28", "Name": "31", "Artifact": "26"}
+27	di	_		{}
+28	fantascienza	_		{}
+29	"	_		{}
+30	Sky	_		{}
+31	Captain	_		{}
+32	and	_		{}
+33	the	_		{}
+34	World	_		{}
+35	of	_		{}
+36	Tomorrow	_		{}
+37	"	_		{}
+38	,	_		{}
+39	realizzato	_	Manufacturing	{"Instrument": "44", "Product": "26"}
+40	interamente	_	Degree	{"Gradable_attribute": "39"}
+41	di	_		{}
+42	fronte	_		{}
+43	al	_		{}
+44	bluescreen	_		{}
+45	.	_		{}

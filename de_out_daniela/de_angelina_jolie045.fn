@@ -1,0 +1,43 @@
+1	In	_		{}
+2	der	_		{}
+3	Komödie	_	Text	{"Text": "3"}
+4	"	_		{}
+5	Liebe	_	Emotions_of_mental_activity	{}
+6	und	_		{}
+7	andere	_	Increment	{"Added_set": "7"}
+8	…	_		{}
+9	"	_		{}
+10	(	_		{}
+11	1996	_		{}
+12	)	_		{}
+13	,	_		{}
+14	einer	_		{}
+15	modernen	_	Stage_of_progress	{"Entity": "16"}
+16	Adaption	_	Adjusting	{"Part": "18"}
+17	von	_		{}
+18	Romeo	_		{}
+19	und	_	Simultaneity	{"Profiled_event": "18", "Landmark_event": "20"}
+20	Julia	_		{}
+21	unter	_		{}
+22	zwei	_	Cardinal_numbers	{"Number": "22", "Entity": "25"}
+23	rivalisierenden	_		{}
+24	italienischen	_	People_by_origin	{"Origin": "24", "Person": "25"}
+25	Restauranteigentümern	_		{}
+26	in	_		{}
+27	der	_		{}
+28	New	_		{}
+29	Yorker	_		{}
+30	Bronx	_		{}
+31	,	_		{}
+32	trat	_		{}
+33	sie	_		{}
+34	in	_		{}
+35	der	_		{}
+36	Rolle	_		{}
+37	der	_		{}
+38	Gina	_		{}
+39	Malacici	_		{}
+40	vor	_	Direction	{"Path": "40", "Base_position": "42"}
+41	die	_		{}
+42	Kamera	_		{}
+43	.	_		{}

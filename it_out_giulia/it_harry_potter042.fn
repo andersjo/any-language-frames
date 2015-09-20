@@ -1,0 +1,37 @@
+1	Ogni	_	Quantity	{"Individuals": "2", "Quantity": "1"}
+2	libro	_	Text	{"Text": "2"}
+3	della	_		{}
+4	serie	_	Sequence	{}
+5	rappresenta	_	Representing	{"Phenomenon": "7", "Entity": "9"}
+6	un	_		{}
+7	anno	_	Calendric_unit	{"Whole": "7"}
+8	nella	_		{}
+9	vita	_	Existence	{"Entity": "11"}
+10	di	_		{}
+11	Harry	_		{}
+12	dagli	_		{}
+13	undici	_		{}
+14	ai	_		{}
+15	diciassette	_		{}
+16	anni	_	Age	{}
+17	;	_		{}
+18	i	_		{}
+19	primi	_	Ordinal_numbers	{"Comparison_set": "21"}
+20	sei	_	Cardinal_numbers	{"Number": "20", "Entity": "21"}
+21	libri	_	Text	{"Text": "21"}
+22	descrivono	_	Create_representation	{"Represented": "26"}
+23	anche	_		{}
+24	ogni	_	Quantity	{"Individuals": "26", "Quantity": "24"}
+25	singolo	_		{}
+26	anno	_	Calendric_unit	{"Whole": "26"}
+27	scolastico	_		{}
+28	trascorso	_		{}
+29	nella	_		{}
+30	scuola	_	Locale_by_use	{"Locale": "30"}
+31	di	_		{}
+32	magia	_	Artifact	{"Artifact": "32"}
+33	e	_		{}
+34	stregoneria	_		{}
+35	di	_		{}
+36	Hogwarts	_		{}
+37	.	_		{}

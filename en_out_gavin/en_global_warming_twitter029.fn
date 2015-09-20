@@ -1,0 +1,7 @@
+1	Lol	_		{}
+2	trump	_	Observable_body_parts	{"Body_part": "2"}
+3	bringing	_	Bringing	{"Theme": "6"}
+4	up	_	Direction	{"Path": "4"}
+5	global	_	Political_locales	{"Locale": "5"}
+6	warming	_	Temperature	{"Temperature": "6", "Entity": "5"}
+7	🐸☕️	_		{}

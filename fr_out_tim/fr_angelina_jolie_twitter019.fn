@@ -1,0 +1,22 @@
+1	@YounesRin	_		{}
+2	mais	_		{}
+3	moi	_		{}
+4	jte	_		{}
+5	disait	_	Statement	{"Message": "12", "Speaker": "3"}
+6	au	_		{}
+7	sens	_		{}
+8	genre	_		{}
+9	Angelina	_		{}
+10	jolie	_		{}
+11	ça	_		{}
+12	time	_		{}
+13	avec	_		{}
+14	Brad	_		{}
+15	belle	_	Aesthetics	{"Attribute": "15", "Entity": "16"}
+16	actrice	_	Performers	{}
+17	,	_		{}
+18	tu	_		{}
+19	vois	_	Grasp	{"Cognizer": "18", "Phenomenon": "21"}
+20	le	_		{}
+21	truc	_		{}
+22	?	_		{}

@@ -1,0 +1,73 @@
+1	Par	_		{}
+2	cette	_		{}
+3	faute	_		{}
+4	,	_		{}
+5	choisie	_	Choosing	{"Chosen": "3"}
+6	ou	_		{}
+7	subie	_		{}
+8	,	_		{}
+9	"	_		{}
+10	Google	_		{}
+11	"	_		{}
+12	prend	_	Taking	{"Theme": "14", "Agent": "10"}
+13	la	_		{}
+14	place	_		{}
+15	de	_		{}
+16	"	_		{}
+17	googol	_		{}
+18	"	_		{}
+19	,	_		{}
+20	plus	_		{}
+21	simple	_	Difficulty	{}
+22	et	_		{}
+23	plus	_		{}
+24	facile	_	Difficulty	{"Activity": "26"}
+25	à	_		{}
+26	retenir	_	Memory	{"Content": "17", "Cognizer": "29"}
+27	pour	_		{}
+28	un	_		{}
+29	anglophone	_		{}
+30	et	_		{}
+31	deviendra	_	Becoming	{"Entity": "17"}
+32	célèbre	_	Fame	{"Entity": "17"}
+33	dans	_		{}
+34	le	_		{}
+35	monde	_	Locale	{"Locale": "35"}
+36	entier	_		{}
+37	:	_		{}
+38	en	_		{}
+39	2006	_		{}
+40	,	_		{}
+41	le	_		{}
+42	nom	_	Being_named	{"Entity": "44"}
+43	du	_		{}
+44	moteur	_		{}
+45	de	_		{}
+46	recherche	_	Research	{}
+47	,	_		{}
+48	puis	_		{}
+49	de	_		{}
+50	l'entreprise	_		{}
+51	,	_		{}
+52	figurait	_	Be_subset_of	{"Total": "55", "Part": "42"}
+53	parmi	_		{}
+54	les	_		{}
+55	10	_	Cardinal_numbers	{"Number": "55", "Entity": "42"}
+56	plus	_		{}
+57	connus	_		{}
+58	au	_		{}
+59	monde	_	Locale	{"Locale": "59"}
+60	et	_		{}
+61	serait	_		{}
+62	devenue	_	Becoming	{"Entity": "42"}
+63	,	_		{}
+64	depuis	_		{}
+65	,	_		{}
+66	la	_		{}
+67	première	_	Extreme_value	{"Entity": "42"}
+68	marque	_		{}
+69	connue	_		{}
+70	au	_		{}
+71	niveau	_		{}
+72	mondial	_	Political_locales	{"Locale": "72"}
+73	.	_		{}

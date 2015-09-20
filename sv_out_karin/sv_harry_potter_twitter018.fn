@@ -1,0 +1,16 @@
+1	Här	_		{}
+2	sitter	_		{}
+3	han	_		{}
+4	.	_		{}
+5	Mannen	_		{}
+6	jag	_	Proper_reference	{"Intended_referent": "6"}
+7	älskar	_	Experiencer_focus	{"Content": "5", "Experiencer": "6"}
+8	.	_		{}
+9	Och	_		{}
+10	läser	_		{}
+11	Harry	_		{}
+12	Potter	_		{}
+13	i	_		{}
+14	minusgrader	_		{}
+15	.	_		{}
+16	http://t.co/06nVVbugQF	_		{}

@@ -1,0 +1,53 @@
+1	As	_		{}
+2	Harry	_		{}
+3	develops	_	Coming_to_be	{"Entity": "2"}
+4	through	_		{}
+5	his	_		{}
+6	adolescence	_		{}
+7	,	_		{}
+8	he	_		{}
+9	learns	_	Education_teaching	{"Skill": "11", "Student": "8"}
+10	to	_		{}
+11	overcome	_	Beat_opponent	{"Winner": "8", "Loser": "13"}
+12	the	_		{}
+13	problems	_	Predicament	{"Situation": "13", "Experiencer": "8"}
+14	that	_		{}
+15	face	_	Confronting_problem	{"Issue": "13", "Agent": "8"}
+16	him	_	People_by_age	{"Person": "16"}
+17	:	_		{}
+18	magical	_	Ineffability	{"Stimulus": "13"}
+19	,	_		{}
+20	social	_	Social_event	{}
+21	and	_		{}
+22	emotional	_	Experiencer_focus	{"Event": "13"}
+23	,	_		{}
+24	including	_		{}
+25	ordinary	_	Typicality	{"Entity": "27"}
+26	teenage	_		{}
+27	challenges	_	Difficulty	{"Activity": "30"}
+28	such	_		{}
+29	as	_		{}
+30	friendships	_	Personal_relationship	{"Relationship": "30"}
+31	,	_		{}
+32	infatuation	_	Personal_relationship	{"Relationship": "32"}
+33	and	_		{}
+34	exams	_	Examination	{"Examination": "34"}
+35	,	_		{}
+36	and	_		{}
+37	the	_		{}
+38	greater	_	Size	{"Entity": "39"}
+39	test	_	Examination	{"Examination": "39"}
+40	of	_		{}
+41	preparing	_	Grooming	{"Patient": "42", "Agent": "8"}
+42	himself	_		{}
+43	for	_		{}
+44	the	_		{}
+45	confrontation	_	Hostile_encounter	{"Place": "46"}
+46	in	_		{}
+47	the	_		{}
+48	real	_	Actually_occurring_entity	{"Type": "49"}
+49	world	_		{}
+50	that	_		{}
+51	lies	_	Being_located	{"Theme": "45", "Location": "46", "Time": "52"}
+52	ahead	_	Relative_time	{"Focal_occasion": "45"}
+53	.	_		{}

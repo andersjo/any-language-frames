@@ -1,0 +1,41 @@
+1	Ayant	_		{}
+2	marqué	_		{}
+3	plus	_		{}
+4	de	_		{}
+5	450	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	buts	_	Aiming	{"Targeted": "6"}
+7	depuis	_		{}
+8	le	_		{}
+9	début	_	Process_start	{}
+10	de	_		{}
+11	sa	_		{}
+12	carrière	_		{}
+13	,	_		{}
+14	ses	_		{}
+15	qualités	_	Capability	{"Entity": "14"}
+16	techniques	_	Expertise	{"Skill": "16", "Protagonist": "14"}
+17	,	_		{}
+18	ses	_		{}
+19	capacités	_	Capability	{"Entity": "18"}
+20	physiques	_		{}
+21	et	_		{}
+22	son	_		{}
+23	sens	_	Awareness	{"Content": "25", "Cognizer": "22"}
+24	du	_		{}
+25	but	_	Aiming	{"Targeted": "25", "Agent": "22"}
+26	l'amènent	_		{}
+27	à	_		{}
+28	être	_		{}
+29	considéré	_		{}
+30	comme	_		{}
+31	un	_		{}
+32	des	_		{}
+33	attaquants	_		{}
+34	des	_		{}
+35	plus	_		{}
+36	complets	_	Completeness	{"Whole": "33"}
+37	de	_		{}
+38	tous	_		{}
+39	les	_		{}
+40	temps	_	Location_in_time	{}
+41	.	_		{}

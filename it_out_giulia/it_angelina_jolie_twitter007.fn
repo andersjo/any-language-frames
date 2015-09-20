@@ -1,0 +1,23 @@
+1	Quando	_	Event_instance	{"Event": "2"}
+2	vado	_		{}
+3	in	_		{}
+4	bagno	_	Building_subparts	{"Building_part": "4"}
+5	a	_		{}
+6	fumare	_		{}
+7	passo	_		{}
+8	il	_		{}
+9	tempo	_	Timespan	{"Whole": "9"}
+10	davanti	_		{}
+11	allo	_		{}
+12	specchio	_		{}
+13	a	_		{}
+14	provare	_	Trying_out	{"Experience": "16"}
+15	le	_		{}
+16	espressioni	_	Facial_expression	{"Possessor": "20"}
+17	facciali	_		{}
+18	di	_		{}
+19	Angelina	_		{}
+20	Jolie	_		{}
+21	in	_		{}
+22	ragazze	_	People_by_age	{"Person": "22"}
+23	interrotte	_		{}

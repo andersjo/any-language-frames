@@ -1,0 +1,36 @@
+1	Prosegue	_	Activity_ongoing	{"Activity": "4"}
+2	i	_		{}
+3	suoi	_		{}
+4	studi	_	Education_teaching	{"Course": "6"}
+5	di	_		{}
+6	magia	_		{}
+7	per	_		{}
+8	6	_	Cardinal_numbers	{"Number": "8", "Entity": "9"}
+9	anni	_	Measure_duration	{"Count": "8", "Process": "4", "Unit": "9"}
+10	fino	_		{}
+11	allo	_		{}
+12	scontro	_	Hostile_encounter	{"Side_2": "15", "Issue": "19"}
+13	finale	_		{}
+14	con	_		{}
+15	Lord	_		{}
+16	Voldemort	_		{}
+17	,	_		{}
+18	responsabile	_		{}
+19	dell'assassinio	_		{}
+20	dei	_		{}
+21	genitori	_	Kinship	{"Ego": "21", "Alter": "23"}
+22	di	_		{}
+23	Harry	_		{}
+24	e	_		{}
+25	di	_		{}
+26	altre	_		{}
+27	innumerevoli	_		{}
+28	morti	_	Death	{}
+29	,	_		{}
+30	in	_		{}
+31	cui	_		{}
+32	Harry	_		{}
+33	avrà	_		{}
+34	la	_		{}
+35	meglio	_		{}
+36	.	_		{}

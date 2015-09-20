@@ -1,0 +1,12 @@
+1	Su	_		{}
+2	relación	_	Relation	{"Entity1": "1", "Entity2": "5"}
+3	con	_		{}
+4	su	_		{}
+5	padre	_	Kinship	{}
+6	durante	_		{}
+7	este	_		{}
+8	tiempo	_	Measure_duration	{"Count": "7"}
+9	no	_	Quantity	{}
+10	fue	_	Being_in_category	{"Criteria": "11"}
+11	tensa	_	Inchoative_attaching	{}
+12	.	_		{}

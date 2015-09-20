@@ -1,0 +1,40 @@
+1	Ayant	_		{}
+2	établit	_		{}
+3	de	_		{}
+4	nombreux	_	Quantity	{"Individuals": "5", "Quantity": "4"}
+5	records	_		{}
+6	au	_		{}
+7	cours	_		{}
+8	de	_		{}
+9	sa	_		{}
+10	carrière	_		{}
+11	,	_		{}
+12	Ronaldo	_		{}
+13	est	_		{}
+14	le	_		{}
+15	joueur	_	Competition	{"Participant_1": "12"}
+16	ayant	_		{}
+17	marqué	_		{}
+18	le	_		{}
+19	plus	_		{}
+20	de	_		{}
+21	buts	_	Aiming	{"Targeted": "21", "Agent": "12"}
+22	en	_		{}
+23	ligue	_		{}
+24	des	_		{}
+25	champions	_		{}
+26	sur	_		{}
+27	une	_		{}
+28	année	_	Calendric_unit	{"Unit": "28"}
+29	en	_		{}
+30	marquant	_		{}
+31	17	_		{}
+32	buts	_	Aiming	{"Targeted": "32", "Agent": "12"}
+33	et	_		{}
+34	9	_		{}
+35	buts	_	Aiming	{"Targeted": "35", "Agent": "12"}
+36	en	_		{}
+37	phases	_		{}
+38	de	_		{}
+39	poules	_		{}
+40	.	_		{}

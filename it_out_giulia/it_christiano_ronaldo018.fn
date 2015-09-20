@@ -1,0 +1,35 @@
+1	Il	_		{}
+2	23	_		{}
+3	febbraio	_	Calendric_unit	{"Whole": "4", "Unit": "3"}
+4	2010	_		{}
+5	,	_		{}
+6	in	_		{}
+7	collaborazione	_	Collaboration	{"Partner_2": "10"}
+8	con	_		{}
+9	la	_		{}
+10	Nike	_		{}
+11	,	_		{}
+12	di	_		{}
+13	cui	_		{}
+14	è	_		{}
+15	testimonial	_		{}
+16	,	_		{}
+17	gli	_		{}
+18	è	_		{}
+19	stata	_		{}
+20	dedicata	_		{}
+21	una	_		{}
+22	statua	_	Physical_artworks	{"Artifact": "22"}
+23	di	_		{}
+24	10	_	Cardinal_numbers	{"Number": "24", "Entity": "25"}
+25	metri	_	Measure_linear_extent	{"Count": "24", "Unit": "25"}
+26	raffigurante	_	Representing	{"Entity": "22"}
+27	lui	_		{}
+28	stesso	_	Identicality	{}
+29	nel	_		{}
+30	centro	_	Part_inner_outer	{"Part": "30", "Whole": "34"}
+31	della	_		{}
+32	città	_	Political_locales	{"Locale": "34"}
+33	di	_		{}
+34	Madrid	_		{}
+35	.	_		{}

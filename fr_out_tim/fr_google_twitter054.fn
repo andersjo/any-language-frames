@@ -1,0 +1,23 @@
+1	TU	_		{}
+2	as	_		{}
+3	dejà	_		{}
+4	eu	_	Possession	{"Possession": "6", "Owner": "1"}
+5	un	_		{}
+6	truc	_		{}
+7	très	_	Degree	{"Gradable_attribute": "8"}
+8	précis	_	Accuracy	{"Degree": "7", "Agent": "6"}
+9	que	_		{}
+10	tu	_		{}
+11	cherches	_	Seeking	{"Cognizer_agent": "10", "Sought_entity": "6"}
+12	et	_		{}
+13	sur	_		{}
+14	Google	_		{}
+15	tu	_		{}
+16	ne	_		{}
+17	sais	_	Awareness	{"Topic": "19", "Cognizer": "15"}
+18	pas	_		{}
+19	comment	_		{}
+20	le	_		{}
+21	formuler	_	Text_creation	{"Text": "20", "Author": "15"}
+22	.?	_		{}
+23	HUM	_		{}

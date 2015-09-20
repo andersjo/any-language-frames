@@ -1,0 +1,33 @@
+1	Als	_		{}
+2	zentrales	_	Part_inner_outer	{"Part_Prop": "2", "Part": "3", "Whole": "5"}
+3	Thema	_	Topic	{"Topic": "11", "Text": "5"}
+4	der	_		{}
+5	Geschichte	_	Individual_history	{"Participant": "10", "Events": "5"}
+6	kristallisiert	_		{}
+7	sich	_		{}
+8	immer	_		{}
+9	mehr	_		{}
+10	Harrys	_		{}
+11	Auseinandersetzung	_	Hostile_encounter	{"Side_2": "14", "Side_1": "10"}
+12	mit	_		{}
+13	Lord	_		{}
+14	Voldemort	_		{}
+15	heraus	_		{}
+16	,	_		{}
+17	der	_		{}
+18	nach	_	Time_vector	{"Direction": "18", "Landmark_event": "20", "Event": "28"}
+19	dem	_		{}
+20	Angriff	_	Attack	{"Assailant": "14", "Victim": "22"}
+21	auf	_		{}
+22	Harry	_		{}
+23	als	_		{}
+24	geistähnliches	_		{}
+25	Wesen	_	Entity	{"Entity": "25"}
+26	weiterexistiert	_		{}
+27	und	_		{}
+28	versucht	_	Attempt	{"Agent": "14"}
+29	,	_		{}
+30	seinen	_	Possession	{"Possession": "31", "Owner": "30"}
+31	Körper	_	Observable_body_parts	{"Body_part": "31", "Possessor": "30"}
+32	wiederzuerlangen	_		{}
+33	.	_		{}

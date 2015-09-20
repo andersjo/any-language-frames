@@ -1,0 +1,63 @@
+1	Trots	_		{}
+2	att	_		{}
+3	rykten	_		{}
+4	cirkulerade	_		{}
+5	i	_		{}
+6	mars	_	Calendric_unit	{"Whole": "7", "Unit": "6"}
+7	2007	_		{}
+8	att	_		{}
+9	Real	_		{}
+10	Madrid	_		{}
+11	var	_		{}
+12	villiga	_		{}
+13	att	_		{}
+14	betala	_	Commerce_pay	{"Buyer": "9", "Money": "18", "Goods": "25", "Seller": "32", "Time": "38"}
+15	omkring	_		{}
+16	80	_		{}
+17	miljoner	_	Quantity	{"Individuals": "16"}
+18	euro	_		{}
+19	(	_		{}
+20	54	_		{}
+21	miljoner	_	Quantity	{"Individuals": "20"}
+22	pund	_	Money	{"Money": "20", "Name": "22"}
+23	)	_		{}
+24	för	_		{}
+25	Ronaldo	_		{}
+26	,	_		{}
+27	valde	_		{}
+28	han	_		{}
+29	att	_		{}
+30	stanna	_	State_continue	{"Time": "38", "Place": "32", "Entity": "25"}
+31	i	_		{}
+32	United	_		{}
+33	och	_	Simultaneity	{"Profiled_event": "30", "Landmark_event": "34"}
+34	skrev	_		{}
+35	den	_		{}
+36	13	_		{}
+37	april	_	Calendric_unit	{"Whole": "38", "Unit": "37"}
+38	2007	_		{}
+39	på	_		{}
+40	ett	_	Cardinal_numbers	{"Number": "40", "Entity": "42"}
+41	nytt	_		{}
+42	femårskontrakt	_		{}
+43	med	_		{}
+44	klubben	_	Organization	{"Organization": "32", "Members": "25"}
+45	som	_		{}
+46	innebar	_		{}
+47	120	_		{}
+48	000	_		{}
+49	pund	_	Money	{"Money": "47", "Name": "49"}
+50	i	_		{}
+51	veckan	_		{}
+52	och	_	Simultaneity	{"Profiled_event": "46", "Landmark_event": "53"}
+53	gjorde	_		{}
+54	honom	_		{}
+55	till	_		{}
+56	den	_		{}
+57	högst	_		{}
+58	betalade	_		{}
+59	spelaren	_		{}
+60	i	_		{}
+61	lagets	_		{}
+62	historia	_	Individual_history	{"Participant": "25", "Events": "53"}
+63	.	_		{}

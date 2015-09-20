@@ -1,0 +1,16 @@
+1	Property	_	Locale_by_ownership	{"Locale": "1"}
+2	price	_	Expensiveness	{"Goods": "1", "Asset": "2"}
+3	index	_	Sign	{"Indicator": "3"}
+4	breaking	_	Cause_to_fragment	{"Whole_patient": "6", "Agent": "3"}
+5	new	_	Age	{"Age": "5", "Entity": "6"}
+6	territories	_	Political_locales	{"Locale": "6", "Descriptor": "5"}
+7	then	_	Temporal_collocation	{"Trajector_entity": "3", "Trajector_event": "8", "Trajector_period": "7", "Landmark_event": "4"}
+8	forced	_	Cause_change_of_position_on_a_scale	{"Cause": "3"}
+9	new	_	Age	{"Age": "9", "Entity": "10"}
+10	highs	_	Extreme_value	{"Value": "10"}
+11	http://t.co/LeZx7mbtx7	_		{}
+12	:	_		{}
+13	Auto	_	Vehicle	{"Vehicle": "13"}
+14	pickup	_	Entity	{"Entity": "14"}
+15	by	_		{}
+16	wikyou	_		{}

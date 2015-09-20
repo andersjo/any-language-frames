@@ -1,0 +1,23 @@
+1	Subaru	_		{}
+2	hits	_	Getting	{"Recipient": "1", "Theme": "4", "Place": "5", "Time": "8"}
+3	500000	_		{}
+4	sales	_	Commerce_sell	{"Goods": "4", "Seller": "1"}
+5	in	_		{}
+6	the	_		{}
+7	US	_	People_by_origin	{"Origin": "7"}
+8	in	_		{}
+9	2014	_		{}
+10	,	_		{}
+11	a	_	Cardinal_numbers	{"Number": "11", "Entity": "12"}
+12	record	_	Text	{"Text": "12"}
+13	for	_		{}
+14	the	_		{}
+15	brand	_	Type	{"Category": "15"}
+16	:	_		{}
+17	In	_		{}
+18	addition	_	Change_position_on_a_scale	{}
+19	to	_		{}
+20	making	_		{}
+21	...	_		{}
+22	http://t.co/gRG1xlYtPK	_		{}
+23	BetterBusinessChoice	_		{}

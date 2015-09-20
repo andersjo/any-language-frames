@@ -1,0 +1,27 @@
+1	Her	_		{}
+2	mother	_	Kinship	{"Ego": "1", "Alter": "2"}
+3	survived	_	Surviving	{"Survivor": "2"}
+4	on	_		{}
+5	a	_	Cardinal_numbers	{"Number": "5"}
+6	more	_	Increment	{}
+7	modest	_	Position_on_a_scale	{"Variable": "7", "Item": "8"}
+8	income	_	Earnings_and_losses	{"Earner": "2", "Earnings": "8"}
+9	,	_		{}
+10	and	_	Simultaneity	{}
+11	Jolie	_		{}
+12	was	_		{}
+13	teased	_	Besieging	{}
+14	by	_		{}
+15	other	_		{}
+16	students	_	People_by_vocation	{"Person": "16"}
+17	for	_		{}
+18	being	_	Existence	{"Entity": "11"}
+19	extremely	_		{}
+20	thin	_	Body_description_holistic	{"Individual": "11", "Figure": "20"}
+21	,	_		{}
+22	and	_	Simultaneity	{}
+23	wearing	_	Wearing	{"Clothing": "24", "Wearer": "11"}
+24	glasses	_	Accoutrements	{"Accoutrement": "24", "Wearer": "11"}
+25	and	_	Simultaneity	{}
+26	braces	_	Clothing	{"Garment": "26", "Wearer": "11"}
+27	.	_		{}

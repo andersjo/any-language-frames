@@ -1,0 +1,24 @@
+1	The	_		{}
+2	family	_	Kinship	{"Relatives": "2"}
+3	was	_	Being_in_category	{"Category": "5", "Item": "2"}
+4	staunchly	_		{}
+5	Catholic	_		{}
+6	and	_		{}
+7	Ronaldo	_		{}
+8	later	_	Relative_time	{"Focal_occasion": "9", "Focal_participant": "7"}
+9	claimed	_	Statement	{"Message": "12", "Speaker": "7"}
+10	that	_		{}
+11	he	_		{}
+12	lived	_	Residence	{"Resident": "11"}
+13	in	_		{}
+14	poverty	_	Wealthiness	{"Person": "1"}
+15	,	_		{}
+16	sharing	_	Part_whole	{"Whole": "18"}
+17	a	_	Cardinal_numbers	{"Number": "17", "Entity": "18"}
+18	room	_	Building_subparts	{"Building_part": "18"}
+19	with	_		{}
+20	his	_		{}
+21	brother	_	Kinship	{"Ego": "20", "Alter": "21"}
+22	and	_		{}
+23	sisters	_	Kinship	{"Ego": "20", "Alter": "23"}
+24	.	_		{}

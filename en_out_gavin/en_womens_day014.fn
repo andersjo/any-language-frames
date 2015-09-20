@@ -1,0 +1,19 @@
+1	In	_		{}
+2	Vienna	_		{}
+3	,	_		{}
+4	women	_	People	{"Person": "4"}
+5	paraded	_	Mass_motion	{"Mass_theme": "4", "Area": "6"}
+6	on	_		{}
+7	the	_		{}
+8	Ringstrasse	_		{}
+9	and	_		{}
+10	carried	_	Carry_goods	{"Distributor": "4", "Goods": "11", "Place": "1"}
+11	banners	_		{}
+12	honouring	_	Rewards_and_punishments	{"Evaluee": "14", "Agent": "11"}
+13	the	_		{}
+14	martyrs	_		{}
+15	of	_		{}
+16	the	_		{}
+17	Paris	_		{}
+18	Commune	_	Political_locales	{"Locale": "18", "Container_possessor": "17"}
+19	.	_		{}

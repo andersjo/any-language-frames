@@ -1,0 +1,52 @@
+1	El	_		{}
+2	nombre	_	Being_named	{"Name": "2", "Entity": "7"}
+3	original	_	Idiosyncrasy	{"Idiosyncrasy": "3", "Entity": "2"}
+4	del	_		{}
+5	buscador	_		{}
+6	era	_	Being_in_category	{"Category": "2", "Item": "5"}
+7	BackRub	_		{}
+8	,	_		{}
+9	en	_		{}
+10	1997	_		{}
+11	los	_		{}
+12	fundadores	_	Activity_start	{"Agent": "12", "Activity": "5"}
+13	deciden	_	Deciding	{"Cognizer": "12", "Decision": "14"}
+14	cambiar	_	Cause_change	{"Final_value": "18", "Initial_value": "7", "Agent": "12", "Entity": "5", "Final_category": "18", "Initial_category": "7"}
+15	el	_		{}
+16	nombre	_	Being_named	{"Name": "16", "Entity": "18"}
+17	a	_		{}
+18	Google	_		{}
+19	inspirados	_	Subjective_influence	{"Product": "23", "Agent": "12", "Entity": "12", "Cognizer": "12", "Behavior": "14", "Action": "14", "Situation": "22"}
+20	por	_		{}
+21	el	_		{}
+22	término	_	Simple_name	{"Term": "25", "Entity": "22"}
+23	matemático	_	Fields	{"Salient_entity": "25", "Practitioner": "12"}
+24	"	_		{}
+25	gúgol	_		{}
+26	"	_		{}
+27	que	_		{}
+28	se	_		{}
+29	refiere	_	Referring_by_name	{"Name": "32", "Entity": "25"}
+30	al	_		{}
+31	número	_	Part_ordered_segments	{"Ordinality": "31", "Whole": "32", "Part": "32"}
+32	uno	_	Cardinal_numbers	{"Number": "32", "Entity": "31"}
+33	seguido	_	State_continue	{"Entity": "32"}
+34	por	_		{}
+35	100	_	Cardinal_numbers	{"Number": "35", "Entity": "36"}
+36	ceros	_	Cardinal_numbers	{"Number": "35", "Entity": "36"}
+37	en	_		{}
+38	referencia	_	Attributed_information	{"Text": "41", "Proposition": "41"}
+39	a	_		{}
+40	su	_		{}
+41	objetivo	_	Aiming	{"Targeted": "43", "Target_location": "51"}
+42	de	_		{}
+43	organizar	_	Activity_prepare	{"Activity": "43"}
+44	la	_		{}
+45	enorme	_	Size	{"Entity": "46"}
+46	cantidad	_	Amounting_to	{"Attribute": "48", "Numbers": "45", "Value": "46"}
+47	de	_		{}
+48	información	_	Information	{"Topic": "48", "Information": "48"}
+49	en	_		{}
+50	la	_		{}
+51	Web	_	Network	{"Nodes": "51", "Network": "51"}
+52	.	_		{}

@@ -1,0 +1,17 @@
+1	Lors	_		{}
+2	de	_		{}
+3	la	_		{}
+4	saison	_		{}
+5	2002-2003	_		{}
+6	,	_		{}
+7	il	_		{}
+8	joue	_	Competition	{"Participant_1": "7", "Competition": "10"}
+9	25	_	Cardinal_numbers	{"Number": "9", "Entity": "10"}
+10	matches	_	Competition	{"Participant_1": "7", "Competition": "10"}
+11	et	_		{}
+12	marque	_	Hit_target	{"Target": "14", "Agent": "7"}
+13	trois	_	Cardinal_numbers	{"Number": "13", "Entity": "14"}
+14	buts	_		{}
+15	en	_		{}
+16	championnat	_		{}
+17	.	_		{}

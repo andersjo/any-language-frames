@@ -1,0 +1,38 @@
+1	Nel	_		{}
+2	film	_	Physical_artworks	{"Artifact": "2"}
+3	veste	_		{}
+4	i	_		{}
+5	panni	_		{}
+6	della	_		{}
+7	sensuale	_		{}
+8	eroina	_		{}
+9	Lara	_		{}
+10	Croft	_		{}
+11	del	_		{}
+12	videogioco	_		{}
+13	"	_		{}
+14	Tomb	_		{}
+15	Raider	_		{}
+16	"	_		{}
+17	,	_		{}
+18	per	_		{}
+19	il	_		{}
+20	ruolo	_	Performers_and_roles	{"Role": "9"}
+21	l'attrice	_		{}
+22	si	_		{}
+23	è	_		{}
+24	sottoposta	_		{}
+25	a	_		{}
+26	molte	_	Measurable_attributes	{"Degree": "26", "Entity": "27"}
+27	scene	_	Physical_artworks	{"Artifact": "2"}
+28	di	_		{}
+29	combattimento	_	Fighting_activity	{"Issue": "27"}
+30	dopo	_		{}
+31	essersi	_		{}
+32	esercitata	_		{}
+33	per	_		{}
+34	mesi	_	Calendric_unit	{"Unit": "34"}
+35	nelle	_		{}
+36	arti	_		{}
+37	marziali	_		{}
+38	.	_		{}

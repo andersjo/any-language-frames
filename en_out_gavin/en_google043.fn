@@ -1,0 +1,15 @@
+1	The	_		{}
+2	sale	_	Commerce_sell	{"Money": "4", "Goods": "2"}
+3	of	_		{}
+4	$1.67	_		{}
+5	bn	_		{}
+6	gave	_	Giving	{"Donor": "2", "Theme": "10", "Recipient": "7"}
+7	Google	_		{}
+8	a	_		{}
+9	market	_		{}
+10	capitalization	_		{}
+11	of	_		{}
+12	more	_	Increment	{"Class": "10"}
+13	than	_		{}
+14	$23bn	_		{}
+15	.	_		{}

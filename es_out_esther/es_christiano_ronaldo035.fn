@@ -1,0 +1,33 @@
+1	Sin	_		{}
+2	embargo	_		{}
+3	en	_		{}
+4	verano	_	Calendric_unit	{"Relative_time": "4", "Whole": "6"}
+5	de	_		{}
+6	2003	_		{}
+7	,	_		{}
+8	Sporting	_		{}
+9	de	_		{}
+10	Lisboa	_		{}
+11	y	_		{}
+12	Manchester	_		{}
+13	United	_		{}
+14	Football	_		{}
+15	Club	_	Organization	{"Organization": "15"}
+16	disputaron	_	Quarreling	{"Issue": "18", "Arguer2": "8", "Arguer1": "12"}
+17	un	_		{}
+18	encuentro	_	Social_event	{"Attendee": "8"}
+19	amistoso	_	Social_interaction_evaluation	{"Topic": "18", "Behavior": "19", "Evaluee": "8", "Affected_party": "12"}
+20	con	_		{}
+21	motivo	_	Reason	{"Action": "16", "State_of_Affairs": "24", "Agent": "8"}
+22	de	_		{}
+23	la	_		{}
+24	inauguración	_		{}
+25	del	_		{}
+26	Estadio	_	Buildings	{"Function": "31", "Building": "26"}
+27	José	_		{}
+28	Alvalade	_		{}
+29	para	_		{}
+30	la	_		{}
+31	Eurocopa	_		{}
+32	2004	_		{}
+33	.	_		{}

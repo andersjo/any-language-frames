@@ -1,0 +1,15 @@
+1	The	_		{}
+2	Harry	_		{}
+3	Potter	_		{}
+4	Movies	_	Physical_artworks	{"Name": "3", "Artifact": "4"}
+5	are	_	Existence	{"Entity": "4"}
+6	the	_		{}
+7	only	_	Sole_instance	{"Item": "4", "Type": "8"}
+8	movies	_	Physical_artworks	{"Artifact": "8"}
+9	that	_		{}
+10	did	_		{}
+11	the	_		{}
+12	books	_	Text	{"Text": "12"}
+13	any	_	Quantity	{"Mass": "14", "Quantity": "13"}
+14	justice	_		{}
+15	.	_		{}

@@ -1,0 +1,23 @@
+1	Sie	_		{}
+2	stehen	_	Tolerating	{"Content": "5"}
+3	der	_		{}
+4	magischen	_		{}
+5	Welt	_	Locale	{"Locale": "5"}
+6	ablehnend	_		{}
+7	gegenüber	_		{}
+8	,	_		{}
+9	behandeln	_		{}
+10	Harry	_		{}
+11	sehr	_	Degree	{"Gradable_attribute": "12"}
+12	schlecht	_	Morality_evaluation	{"Evaluee": "1", "Behavior": "9"}
+13	und	_		{}
+14	versuchen	_	Attempt	{"Agent": "1"}
+15	,	_		{}
+16	die	_		{}
+17	Entwicklung	_	Progress	{"Domain": "19", "Entity": "20"}
+18	seiner	_	Possession	{"Possession": "20", "Owner": "10"}
+19	magischen	_		{}
+20	Fähigkeiten	_	Expertise	{"Skill": "19", "Protagonist": "10", "Behavior_product": "20"}
+21	zu	_		{}
+22	verhindern	_	Thwarting	{"Action": "17", "Protagonist": "10", "Preventing_cause": "1"}
+23	.	_		{}

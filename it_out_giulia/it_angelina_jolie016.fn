@@ -1,0 +1,34 @@
+1	Durante	_		{}
+2	gli	_		{}
+3	anni	_	Measure_duration	{"Process": "5"}
+4	degli	_		{}
+5	studi	_	Education_teaching	{}
+6	era	_		{}
+7	oggetto	_	Instance	{}
+8	delle	_		{}
+9	prese	_		{}
+10	in	_		{}
+11	giro	_		{}
+12	di	_		{}
+13	alcuni	_	Quantity	{"Individuals": "14"}
+14	studenti	_	Education_teaching	{}
+15	,	_		{}
+16	per	_		{}
+17	il	_		{}
+18	suo	_		{}
+19	fisico	_		{}
+20	esile	_		{}
+21	e	_	Simultaneity	{}
+22	per	_		{}
+23	il	_		{}
+24	fatto	_		{}
+25	di	_		{}
+26	portare	_		{}
+27	gli	_		{}
+28	occhiali	_	Accoutrements	{"Accoutrement": "28"}
+29	e	_		{}
+30	l'apparecchio	_		{}
+31	per	_		{}
+32	i	_		{}
+33	denti	_	Observable_body_parts	{"Body_part": "33"}
+34	.	_		{}

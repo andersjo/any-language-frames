@@ -1,0 +1,27 @@
+1	No	_		{}
+2	saber	_	Certainty	{"Topic": "7", "Content": "4"}
+3	el	_		{}
+4	nombre	_	Referring_by_name	{"Name": "4", "Entity": "7"}
+5	de	_		{}
+6	una	_		{}
+7	canción	_	Text	{"Text": "7"}
+8	.	_		{}
+9	Oír	_	Hear	{"Topic": "7", "Message": "12"}
+10	cuidadosamente	_	Accuracy	{"Instrument": "12", "Means": "9"}
+11	cual	_		{}
+12	palabra	_	Information	{"Topic": "12", "Information": "12"}
+13	dice	_	Speak_on_topic	{"Topic": "12"}
+14	mas	_		{}
+15	veces	_	Temporal_pattern	{"Pattern": "12", "Subevent": "15"}
+16	.	_		{}
+17	Buscarla	_	Seeking	{"Cognizer_agent": "19", "Sought_entity": "12"}
+18	en	_		{}
+19	google	_		{}
+20	.	_		{}
+21	Encontrar	_	Achieving_first	{"New_idea": "23"}
+22	la	_		{}
+23	canción	_	Text	{"Text": "23"}
+24	y	_		{}
+25	vivir	_	Existence	{"Entity": "25"}
+26	feliz	_	Emotion_directed	{"Topic": "23", "Stimulus": "21", "State": "25", "Event": "26"}
+27	.	_		{}

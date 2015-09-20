@@ -1,0 +1,22 @@
+1	New	_	Age	{"Age": "1", "Entity": "2"}
+2	York	_		{}
+3	City	_	Political_locales	{"Locale": "3", "Name": "2"}
+4	Prices	_	Expensiveness	{"Asset": "4"}
+5	in	_		{}
+6	Miami	_		{}
+7	-	_		{}
+8	New	_	Age	{"Age": "8", "Entity": "9"}
+9	York	_		{}
+10	Times	_	Text	{"Text": "10", "Title": "9"}
+11	:	_		{}
+12	New	_	Age	{"Age": "12", "Entity": "13"}
+13	York	_		{}
+14	Times	_	Text	{"Text": "14", "Title": "13"}
+15	New	_	Age	{"Age": "15", "Entity": "16"}
+16	York	_		{}
+17	City	_	Political_locales	{"Locale": "17", "Name": "16"}
+18	Prices	_	Expensiveness	{"Asset": "18"}
+19	in	_		{}
+20	Miami	_		{}
+21	…	_		{}
+22	http://t.co/KZx3V6ThJb	_		{}

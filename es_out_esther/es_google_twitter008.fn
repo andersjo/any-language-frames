@@ -1,0 +1,31 @@
+1	¡Ayudame	_		{}
+2	a	_		{}
+3	adivinar	_	Estimating	{"Item": "5", "Estimation": "5", "Question": "1", "Feature": "11", "Value": "10"}
+4	la	_		{}
+5	club	_	Organization	{"Organization": "5"}
+6	de	_		{}
+7	fútbol	_		{}
+8	!	_		{}
+9	(	_		{}
+10	7	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	letras	_	Instance	{"Instance": "11", "Type": "10"}
+12	)	_		{}
+13	Posible	_	Likelihood	{"Hypothetical_event": "14"}
+14	letras	_	Text	{"Text": "16"}
+15	:	_		{}
+16	K	_		{}
+17	N	_		{}
+18	F	_		{}
+19	W	_		{}
+20	M	_		{}
+21	D	_		{}
+22	A	_		{}
+23	T	_		{}
+24	R	_		{}
+25	P	_		{}
+26	I	_		{}
+27	Y	_		{}
+28	C	_		{}
+29	J	_		{}
+30	https://t.co/qShyYXaYRA	_		{}
+31	http://t.co/IJexaNMy1l	_		{}

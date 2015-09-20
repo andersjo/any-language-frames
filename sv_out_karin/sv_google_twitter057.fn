@@ -1,0 +1,30 @@
+1	En	_		{}
+2	del	_	Part_whole	{"Part": "2", "Whole": "3"}
+3	skräpmail	_		{}
+4	blir	_	Becoming	{"Entity": "3"}
+5	faktiskt	_		{}
+6	kul	_	Emotion_directed	{"Stimulus": "3"}
+7	m	_		{}
+8	h	_		{}
+9	a	_		{}
+10	google	_		{}
+11	translate	_		{}
+12	.	_		{}
+13	"	_		{}
+14	Jag	_		{}
+15	är	_		{}
+16	BJ	_		{}
+17	,	_		{}
+18	dotter	_	Kinship	{"Ego": "21", "Alter": "16"}
+19	till	_		{}
+20	sena	_		{}
+21	XJ	_		{}
+22	och	_		{}
+23	YJ	_		{}
+24	...	_		{}
+25	Undrar	_		{}
+26	hur	_		{}
+27	sena	_		{}
+28	de	_		{}
+29	var	_		{}
+30	?	_		{}

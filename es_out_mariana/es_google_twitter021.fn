@@ -1,0 +1,17 @@
+1	Hoy	_	Calendric_unit	{"Whole": "1", "Unit": "1"}
+2	:	_		{}
+3	Guía	_		{}
+4	dietética	_		{}
+5	parece	_	Coming_to_be	{"Place": "13", "Time": "1", "Role": "4", "Manner": "6", "Entity": "3"}
+6	tomar	_	Eventive_affecting	{"Time": "1", "Entity": "3"}
+7	en	_		{}
+8	cuenta	_	Awareness	{"Topic": "3", "Time": "1"}
+9	el	_		{}
+10	ambiente	_		{}
+11	.	_		{}
+12	Entérate	_		{}
+13	aquí	_	Locative_relation	{"Figure": "3", "Ground": "13"}
+14	.	_		{}
+15	http://t.co/3T1WpQu27u	_		{}
+16	...	_		{}
+17	http://t.co/yiSGLV4vyV	_		{}

@@ -1,0 +1,16 @@
+1	Harry	_		{}
+2	a	_		{}
+3	gardé	_		{}
+4	comme	_		{}
+5	marque	_	Damaging	{"Patient": "1", "Cause": "7"}
+6	de	_		{}
+7	l'affrontement	_		{}
+8	une	_		{}
+9	cicatrice	_	Body_mark	{"Body_mark": "9", "Possessor": "1"}
+10	en	_		{}
+11	forme	_	Shapes	{"Shape": "11", "Substance": "12"}
+12	d'éclair	_		{}
+13	sur	_		{}
+14	le	_		{}
+15	front	_	Observable_body_parts	{"Body_part": "15", "Possessor": "1"}
+16	.	_		{}

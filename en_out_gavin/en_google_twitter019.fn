@@ -1,0 +1,27 @@
+1	Intel	_	Information	{"Information": "1"}
+2	Releases	_	Releasing	{"Theme": "4", "Purpose": "11", "Agent": "1"}
+3	Case	_	Exemplar	{"Instance": "3"}
+4	Study	_	Text	{"Topic": "6", "Text": "4"}
+5	on	_		{}
+6	Collaboration	_	Collaboration	{"Partners": "10"}
+7	with	_		{}
+8	Portland	_		{}
+9	State	_	Political_locales	{"Locale": "9", "Name": "8"}
+10	University	_	Locale_by_use	{"Locale": "10", "Name": "9"}
+11	for	_		{}
+12	the	_		{}
+13	<	_		{}
+14	b	_		{}
+15	>	_		{}
+16	Big	_	Size	{"Entity": "17"}
+17	Data	_	Information	{"Information": "17"}
+18	<	_		{}
+19	/b	_		{}
+20	>	_		{}
+21	Smart	_	Mental_property	{}
+22	<	_		{}
+23	b	_		{}
+24	>...</	_		{}
+25	b	_		{}
+26	>	_		{}
+27	http://t.co/jZasQk2L81	_		{}

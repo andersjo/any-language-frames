@@ -1,0 +1,18 @@
+1	Enrique	_		{}
+2	Iglesia	_		{}
+3	puede	_	Capability	{"Status": "4", "Role": "4", "Entity": "1"}
+4	usar	_	Using	{"Instrument": "5", "Means": "6", "Manner": "9", "Agent": "1", "Circumstances": "9"}
+5	Armani	_		{}
+6	Exchange	_		{}
+7	y	_	Simultaneity	{"Profiled_event": "3", "Landmark_event": "11"}
+8	verse	_	Regard	{"Judgment": "8", "Extent_of_acclaim": "9", "Manner": "9", "Evaluee": "1"}
+9	bien	_	Expertise	{"Focal_participant": "1", "Knowledge": "6", "Degree": "9", "Behavior_product": "8", "Protagonist": "1", "Skill": "8"}
+10	.	_		{}
+11	Como	_	Similarity	{"Entities": "12", "Entity_1": "1", "Entity_2": "12"}
+12	Christiano	_		{}
+13	Ronaldo	_		{}
+14	con	_		{}
+15	el	_		{}
+16	Gel	_		{}
+17	Rolda	_		{}
+18	.	_		{}

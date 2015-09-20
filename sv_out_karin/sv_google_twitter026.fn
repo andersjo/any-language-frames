@@ -1,0 +1,22 @@
+1	@RoteGunde	_		{}
+2	har	_	Possession	{"Owner": "3", "Possession": "5"}
+3	du	_		{}
+4	Google	_		{}
+5	Earth	_		{}
+6	i	_		{}
+7	så	_		{}
+8	fall	_		{}
+9	kan	_		{}
+10	jag	_	Proper_reference	{"Intended_referent": "10"}
+11	skick	_		{}
+12	den	_		{}
+13	filen	_		{}
+14	?	_		{}
+15	inget	_		{}
+16	märkvärdigt	_		{}
+17	,	_		{}
+18	men	_		{}
+19	bara	_		{}
+20	om	_		{}
+21	du	_		{}
+22	vill	_	Desiring	{"Event": "11", "Experiencer": "2"}

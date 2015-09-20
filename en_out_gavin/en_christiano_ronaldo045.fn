@@ -1,0 +1,26 @@
+1	While	_		{}
+2	there	_	Locative_relation	{"Figure": "4", "Ground": "2"}
+3	,	_		{}
+4	he	_		{}
+5	had	_	Have_associated	{"Topical_entity": "4", "Entity": "7"}
+6	an	_	Cardinal_numbers	{"Number": "6", "Entity": "7"}
+7	operation	_	Process	{"Place": "2", "Time": "1"}
+8	in	_		{}
+9	which	_		{}
+10	a	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	laser	_		{}
+12	was	_		{}
+13	used	_	Using	{"Instrument": "11", "Purpose": "15"}
+14	to	_		{}
+15	cauterise	_	Cause_harm	{"Instrument": "11", "Body_part": "17"}
+16	the	_		{}
+17	area	_	Shapes	{"Shape": "17"}
+18	of	_		{}
+19	his	_		{}
+20	heart	_	Observable_body_parts	{"Body_part": "20", "Subregion": "17", "Possessor": "19"}
+21	that	_		{}
+22	was	_		{}
+23	causing	_	Causation	{"Actor": "17"}
+24	the	_		{}
+25	problem	_	Predicament	{"Situation": "25"}
+26	.	_		{}

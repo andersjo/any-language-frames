@@ -1,0 +1,20 @@
+1	Project	_	Project	{"Project": "1", "Field": "2", "Activity": "3"}
+2	Gender	_		{}
+3	Reform	_		{}
+4	Action	_	Intentionally_act	{"Agent": "3"}
+5	Plan	_	Project	{"Project": "5", "Field": "2", "Activity": "3", "Descriptor": "4"}
+6	,	_		{}
+7	District	_	Political_locales	{"Locale": "7", "Name": "8"}
+8	Gujranwala	_		{}
+9	celebrated	_	Social_event	{"Place": "15", "Manner": "12"}
+10	this	_		{}
+11	day	_	Calendric_unit	{"Unit": "11"}
+12	in	_		{}
+13	large	_	Size	{"Entity": "14"}
+14	scale	_		{}
+15	in	_		{}
+16	the	_		{}
+17	Gift	_		{}
+18	University	_	Locale_by_use	{"Locale": "18", "Container_possessor": "19", "Name": "17"}
+19	Gujranwala	_		{}
+20	.	_		{}

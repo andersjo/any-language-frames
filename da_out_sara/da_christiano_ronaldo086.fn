@@ -1,0 +1,9 @@
+1	og	_		{}
+2	scorede	_		{}
+3	sit	_		{}
+4	første	_	Ordinal_numbers	{"Item": "5"}
+5	mål	_	Aiming	{"Targeted": "5"}
+6	en	_		{}
+7	uge	_	Measure_duration	{"Count": "6", "Unit": "7"}
+8	senere	_	Relative_time	{"Focal_occasion": "5"}
+9	.	_		{}

@@ -1,0 +1,27 @@
+1	@buckysbae	_		{}
+2	the	_		{}
+3	hobbit	_		{}
+4	and	_		{}
+5	lotr	_		{}
+6	(	_		{}
+7	and	_		{}
+8	a	_	Cardinal_numbers	{"Number": "8", "Entity": "9"}
+9	quote	_	Adducing	{"Speaker": "12"}
+10	from	_		{}
+11	Harry	_		{}
+12	Potter	_		{}
+13	)	_		{}
+14	helped	_	Assistance	{"Benefited_party": "15", "Goal": "16", "Helper": "3"}
+15	me	_	Proper_reference	{"Intended_referent": "15"}
+16	through	_		{}
+17	self	_	Proper_reference	{"Intended_referent": "15"}
+18	harm	_	Damaging	{"Patient": "17"}
+19	and	_		{}
+20	depression	_	Medical_conditions	{"Ailment": "20"}
+21	.	_		{}
+22	It	_		{}
+23	means	_	Linguistic_meaning	{"Referent": "22"}
+24	a	_	Cardinal_numbers	{"Number": "24", "Entity": "25"}
+25	lot	_	Quantity	{"Mass": "25", "Quantity": "24"}
+26	to	_		{}
+27	me	_	Proper_reference	{"Intended_referent": "27"}

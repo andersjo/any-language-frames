@@ -1,0 +1,17 @@
+1	Ronaldo	_		{}
+2	made	_		{}
+3	his	_		{}
+4	international	_	Foreign_or_domestic_country	{"Current_country": "7"}
+5	debut	_	Arriving	{"Theme": "1", "Goal": "7", "Time": "9"}
+6	for	_		{}
+7	Portugal	_		{}
+8	in	_		{}
+9	August	_	Calendric_unit	{"Whole": "9"}
+10	2003	_		{}
+11	,	_		{}
+12	at	_		{}
+13	the	_		{}
+14	age	_	Age	{"Age": "16", "Entity": "1"}
+15	of	_		{}
+16	18	_		{}
+17	.	_		{}

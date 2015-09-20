@@ -1,0 +1,23 @@
+1	Selon	_		{}
+2	le	_		{}
+3	magazine	_	Text	{"Text": "3"}
+4	"	_		{}
+5	Forbes	_		{}
+6	"	_		{}
+7	Angelina	_		{}
+8	Jolie	_		{}
+9	est	_		{}
+10	l'actrice	_	Performers	{"Person": "7"}
+11	la	_		{}
+12	mieux	_		{}
+13	payée	_		{}
+14	d'Hollywood	_		{}
+15	entre	_		{}
+16	juin	_	Calendric_unit	{}
+17	2012	_		{}
+18	et	_		{}
+19	juin	_	Calendric_unit	{}
+20	2013	_		{}
+21	avec	_		{}
+22	$	_		{}
+23	.	_		{}

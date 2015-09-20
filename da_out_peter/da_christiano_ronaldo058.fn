@@ -1,0 +1,43 @@
+1	Det	_		{}
+2	andet	_		{}
+3	af	_		{}
+4	målene	_		{}
+5	var	_		{}
+6	hans	_		{}
+7	33	_		{}
+8	.	_		{}
+9	i	_		{}
+10	den	_		{}
+11	sæson	_		{}
+12	,	_		{}
+13	og	_		{}
+14	han	_		{}
+15	satte	_		{}
+16	dermed	_		{}
+17	en	_		{}
+18	ny	_	Age	{"Attribute": "18"}
+19	scoringsrekord	_		{}
+20	på	_		{}
+21	en	_		{}
+22	enkelt	_		{}
+23	sæson	_		{}
+24	for	_		{}
+25	en	_		{}
+26	United-midtbanespiller	_		{}
+27	,	_		{}
+28	og	_		{}
+29	han	_		{}
+30	overgik	_		{}
+31	dermed	_		{}
+32	George	_		{}
+33	Bests	_		{}
+34	fyrre	_	Cardinal_numbers	{"Number": "34", "Entity": "35"}
+35	år	_	Age	{"Age": "34", "Entity": "37"}
+36	gamle	_		{}
+37	rekord	_		{}
+38	på	_		{}
+39	32	_		{}
+40	mål	_	Purpose	{"Goal": "40", "Agent": "33"}
+41	i	_		{}
+42	1967-68-sæsonen	_		{}
+43	.	_		{}

@@ -1,0 +1,56 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	indique	_	Statement	{"Message": "7", "Speaker": "1"}
+4	ensuite	_	Temporal_collocation	{"Trajector_event": "3"}
+5	qu'elle	_		{}
+6	ne	_		{}
+7	souhaite	_	Desiring	{"Event": "10", "Experiencer": "5"}
+8	plus	_		{}
+9	se	_		{}
+10	rapprocher	_		{}
+11	de	_		{}
+12	son	_		{}
+13	père	_	Kinship	{"Ego": "12", "Alter": "13"}
+14	et	_		{}
+15	fait	_		{}
+16	remarquer	_	Statement	{"Speaker": "5"}
+17	:	_		{}
+18	Elle	_		{}
+19	déclare	_	Statement	{"Message": "22", "Speaker": "18"}
+20	qu'elle	_		{}
+21	ne	_		{}
+22	souhaite	_	Desiring	{"Event": "24", "Experiencer": "20"}
+23	pas	_		{}
+24	communiquer	_	Communication	{"Topic": "26", "Communicator": "20"}
+25	la	_		{}
+26	raison	_	Reason	{"Action": "29", "Agent": "20"}
+27	de	_		{}
+28	son	_		{}
+29	éloignement	_		{}
+30	avec	_		{}
+31	son	_		{}
+32	père	_	Kinship	{"Ego": "31", "Alter": "32"}
+33	;	_		{}
+34	mais	_		{}
+35	parce	_		{}
+36	qu'elle	_		{}
+37	a	_		{}
+38	adopté	_		{}
+39	son	_		{}
+40	fils	_	Kinship	{"Ego": "39", "Alter": "40"}
+41	,	_		{}
+42	elle	_		{}
+43	estime	_	Opinion	{"Cognizer": "42", "Opinion": "45"}
+44	qu'il	_		{}
+45	n'est	_		{}
+46	pas	_		{}
+47	essentiel	_	Importance	{"Interested_party": "49", "Field": "50"}
+48	pour	_		{}
+49	elle	_		{}
+50	d'entretenir	_		{}
+51	des	_		{}
+52	liens	_	Social_connection	{"Individual1": "49", "Individual2": "55", "Connection": "52"}
+53	avec	_		{}
+54	son	_		{}
+55	père	_	Kinship	{"Ego": "54", "Alter": "55"}
+56	.	_		{}

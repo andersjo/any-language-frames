@@ -1,0 +1,28 @@
+1	Herfra	_		{}
+2	følger	_		{}
+3	vi	_		{}
+4	Harry	_		{}
+5	gennem	_		{}
+6	de	_		{}
+7	følgende	_	Relative_time	{"Focal_occasion": "2", "Focal_participant": "4", "Landmark_occasion": "1"}
+8	7	_	Cardinal_numbers	{"Number": "8", "Entity": "9"}
+9	år	_	Measure_duration	{"Count": "8", "Process": "2", "Unit": "9"}
+10	,	_		{}
+11	primært	_		{}
+12	på	_		{}
+13	kostskolen	_		{}
+14	Hogwarts	_		{}
+15	og	_		{}
+16	i	_		{}
+17	det	_		{}
+18	magiske	_		{}
+19	univers	_	Existence	{"Entity": "18"}
+20	som	_		{}
+21	skjuler	_		{}
+22	sig	_		{}
+23	midt	_		{}
+24	mellem	_		{}
+25	almindelige	_	Typicality	{"Entity": "27"}
+26	uvidende	_		{}
+27	mennesker	_	People	{"Person": "27"}
+28	.	_		{}

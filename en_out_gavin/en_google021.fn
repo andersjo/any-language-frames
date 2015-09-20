@@ -1,0 +1,33 @@
+1	They	_		{}
+2	called	_	Name_conferral	{"Speaker": "1", "Name": "6", "Entity": "5"}
+3	this	_		{}
+4	new	_	Age	{"Age": "4", "Entity": "6"}
+5	technology	_	Gizmo	{"Descriptor": "4", "Gizmo": "5"}
+6	PageRank	_		{}
+7	;	_		{}
+8	it	_		{}
+9	determined	_	Deciding	{"Cognizer": "8", "Decision": "12"}
+10	a	_		{}
+11	website's	_		{}
+12	relevance	_		{}
+13	by	_		{}
+14	the	_		{}
+15	number	_	Quantity	{"Individuals": "17", "Quantity": "15"}
+16	of	_		{}
+17	pages	_	Contacting	{}
+18	,	_		{}
+19	and	_		{}
+20	the	_		{}
+21	importance	_	Importance	{}
+22	of	_		{}
+23	those	_		{}
+24	pages	_	Contacting	{}
+25	,	_		{}
+26	that	_		{}
+27	linked	_	Attaching	{"Item": "24", "Goal": "28"}
+28	back	_	Self_motion	{"Goal": "29"}
+29	to	_		{}
+30	the	_		{}
+31	original	_	Expertise	{"Protagonist": "32"}
+32	site	_	Locale	{"Locale": "32", "Descriptor": "31"}
+33	.	_		{}

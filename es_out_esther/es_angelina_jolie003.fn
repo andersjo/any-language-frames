@@ -1,0 +1,14 @@
+1	Actualmente	_	Temporal_collocation	{"Trajector_event": "2"}
+2	forma	_	Influence_of_event_on_cognizer	{"Activity": "3"}
+3	parte	_	Membership	{"Place": "9", "Group": "6", "Time": "1"}
+4	del	_		{}
+5	Alto	_	Position_on_a_scale	{"Variable": "6", "Domain": "9"}
+6	Comisario	_	Leadership	{"Activity": "9", "Type": "5", "Governed": "9", "Time": "1"}
+7	de	_		{}
+8	las	_		{}
+9	Naciones	_		{}
+10	Unidas	_	Amalgamation	{"Parts": "9"}
+11	para	_		{}
+12	los	_		{}
+13	Refugiados	_		{}
+14	.	_		{}

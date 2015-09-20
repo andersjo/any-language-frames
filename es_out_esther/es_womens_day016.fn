@@ -1,0 +1,19 @@
+1	Durante	_		{}
+2	la	_		{}
+3	Revolución	_		{}
+4	francesa	_	Origin	{"Origin": "4", "Entity": "3"}
+5	se	_		{}
+6	produjeron	_	Coming_to_be	{"Entity": "9"}
+7	las	_		{}
+8	primeras	_	First_experience	{"Context": "3", "Experience": "9"}
+9	peticiones	_	Request	{"Topic": "12", "Message": "12", "Addressee": "18", "Speaker": "18", "Medium": "3"}
+10	formales	_	Leadership	{"Leader": "18", "Governed": "18", "Activity": "9"}
+11	de	_		{}
+12	derechos	_	Claim_ownership	{"Property": "13", "Claimant": "18"}
+13	políticos	_	Leadership	{"Role": "18", "Leader": "18", "Governed": "18", "Activity": "12"}
+14	y	_		{}
+15	ciudadanía	_	People_by_jurisdiction	{"Person": "18"}
+16	para	_		{}
+17	la	_		{}
+18	mujer	_	People	{"Person": "18"}
+19	.	_		{}

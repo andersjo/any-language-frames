@@ -1,0 +1,25 @@
+1	jeg	_		{}
+2	er	_		{}
+3	den	_		{}
+4	der	_		{}
+5	irriterende	_	Stimulus_focus	{"Stimulus": "9"}
+6	type	_	Type	{"Subtype": "9"}
+7	,	_		{}
+8	som	_		{}
+9	siger	_		{}
+10	alle	_	Quantity	{"Individuals": "11", "Quantity": "10"}
+11	replikkerne	_		{}
+12	,	_		{}
+13	griner	_		{}
+14	,	_		{}
+15	før	_	Time_vector	{"Direction": "15", "Landmark_event": "13", "Event": "18"}
+16	de	_		{}
+17	sjove	_		{}
+18	scener	_		{}
+19	sker	_		{}
+20	og	_		{}
+21	laver	_		{}
+22	kommentarspor	_		{}
+23	under	_		{}
+24	harry	_		{}
+25	potter	_		{}

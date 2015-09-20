@@ -1,0 +1,11 @@
+1	@jenessacordero	_		{}
+2	@michaelstoppler	_		{}
+3	@IndiannVishnu	_		{}
+4	Google	_		{}
+5	docs	_	Medical_professionals	{"Professional": "5"}
+6	bringing	_	Bringing	{"Theme": "9", "Agent": "5"}
+7	together	_	Collaboration	{"Partner_2": "11", "Partner_1": "9"}
+8	canyon	_	Natural_features	{"Locale": "8"}
+9	park	_	Locale_by_use	{"Locale": "9", "Name": "8"}
+10	and	_		{}
+11	skyview	_		{}

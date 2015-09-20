@@ -1,0 +1,16 @@
+1	Die	_		{}
+2	Marke	_	Type	{"Subtype": "2", "Item_Property": "5"}
+3	"	_		{}
+4	Harry	_		{}
+5	Potter	_		{}
+6	"	_		{}
+7	hat	_		{}
+8	heute	_	Temporal_collocation	{"Trajector_entity": "11"}
+9	einen	_		{}
+10	geschätzten	_		{}
+11	Wert	_		{}
+12	von	_		{}
+13	15	_	Cardinal_numbers	{"Number": "13", "Entity": "14"}
+14	Milliarden	_	Cardinal_numbers	{"Entity": "15", "Number": "14", "Multiplier": "13"}
+15	US-Dollar	_		{}
+16	.	_		{}

@@ -1,0 +1,14 @@
+1	Google	_		{}
+2	försöker	_	Attempt	{"Agent": "1"}
+3	mäta	_	Dimension	{"Object": "4"}
+4	resan	_	Travel	{"Source": "6", "Goal": "13"}
+5	från	_		{}
+6	Google	_		{}
+7	annons	_		{}
+8	till	_		{}
+9	besök	_	Visiting	{"Entity": "13"}
+10	i	_		{}
+11	din	_		{}
+12	fysiska	_		{}
+13	butik	_	Businesses	{"Descriptor": "12", "Business": "13"}
+14	http://t.co/leSwjDD8Qf	_		{}

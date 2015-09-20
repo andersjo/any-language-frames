@@ -1,0 +1,27 @@
+1	Observant	_	Perception_experience	{"Phenomenon": "3", "Perceiver_passive": "16"}
+2	des	_		{}
+3	gains	_	Change_of_quantity_of_possession	{"Owner": "16", "Possession": "5"}
+4	de	_		{}
+5	parts	_	Part_whole	{"Part": "5", "Whole": "7"}
+6	de	_		{}
+7	marché	_	Exchange	{}
+8	qui	_		{}
+9	se	_		{}
+10	traduisent	_		{}
+11	par	_		{}
+12	plus	_		{}
+13	de	_		{}
+14	consultations	_	Visiting	{"Entity": "16"}
+15	,	_		{}
+16	Google	_		{}
+17	mise	_	Wagering	{"Outcome": "25", "Gambler": "16", "Asset": "20"}
+18	sur	_		{}
+19	des	_		{}
+20	changements	_	Undergo_change	{"Entity": "21"}
+21	d'infrastructure	_		{}
+22	pour	_		{}
+23	améliorer	_	Cause_to_make_progress	{"Project": "25", "Agent": "16"}
+24	sa	_		{}
+25	capacité	_	Capability	{"Entity": "16"}
+26	technique	_	Expertise	{"Skill": "25", "Protagonist": "16"}
+27	.	_		{}

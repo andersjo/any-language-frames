@@ -1,0 +1,23 @@
+1	Giants	_		{}
+2	Free	_		{}
+3	Agency	_	Organization	{"Organization": "3"}
+4	:	_		{}
+5	Exploring	_	Research	{"Topic": "6"}
+6	Impact	_	Impact	{"Place": "9", "Impactor": "11", "Time": "14"}
+7	of	_		{}
+8	New	_		{}
+9	York's	_		{}
+10	Salary	_	Earnings_and_losses	{"Place": "9", "Earnings": "10"}
+11	Cap	_	Closure	{"Place": "9", "Containing_object": "10"}
+12	:	_		{}
+13	The	_		{}
+14	2015	_		{}
+15	NFL	_		{}
+16	salary	_	Earnings_and_losses	{"Earnings": "16"}
+17	cap	_	Closure	{"Containing_object": "16", "Time": "211"}
+18	is	_	Relative_time	{"Focal_participant": "17"}
+19	still	_		{}
+20	several	_		{}
+21	weeks	_	Calendric_unit	{"Unit": "21"}
+22	...	_		{}
+23	http://t.co/JB4uq5IHSJ	_		{}

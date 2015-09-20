@@ -1,0 +1,12 @@
+1	En	_		{}
+2	1997	_		{}
+3	actuó	_		{}
+4	en	_	Connectors	{"Connector": "7"}
+5	la	_		{}
+6	polémica	_	Reasoning	{"Medium": "7"}
+7	película	_	Physical_artworks	{"Descriptor": "6", "Type": "6", "Name": "9", "Artifact": "7", "Time_of_creation": "2"}
+8	"	_		{}
+9	George	_		{}
+10	Wallace	_		{}
+11	"	_		{}
+12	.	_		{}

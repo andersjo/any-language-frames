@@ -1,0 +1,28 @@
+1	Due	_	Cardinal_numbers	{"Number": "1", "Entity": "2"}
+2	anni	_	Measure_duration	{"Count": "1", "Unit": "2"}
+3	più	_		{}
+4	tardi	_	Relative_time	{"Focal_occasion": "10"}
+5	,	_		{}
+6	a	_		{}
+7	12	_	Cardinal_numbers	{"Number": "7", "Entity": "8"}
+8	anni	_	Age	{"Attribute": "7", "Age": "8"}
+9	,	_		{}
+10	approda	_		{}
+11	allo	_		{}
+12	Sporting	_		{}
+13	Clube	_		{}
+14	de	_		{}
+15	Portugal	_		{}
+16	in	_		{}
+17	cambio	_	Exchange	{"Theme_2": "19", "Exchanger_2": "12"}
+18	di	_		{}
+19	€	_		{}
+20	,	_		{}
+21	divenendo	_	Becoming	{"Entity": "23"}
+22	il	_		{}
+23	ragazzino	_	People_by_age	{"Person": "23"}
+24	più	_		{}
+25	pagato	_		{}
+26	del	_		{}
+27	Paese	_	Political_locales	{"Locale": "27"}
+28	.	_		{}

@@ -1,0 +1,31 @@
+1	He	_		{}
+2	took	_	Taking	{"Theme": "5", "Agent": "1"}
+3	over	_	Process_completed_state	{"Process": "2"}
+4	captaincy	_		{}
+5	in	_		{}
+6	July	_	Calendric_unit	{"Whole": "6"}
+7	2008	_		{}
+8	,	_		{}
+9	and	_	Simultaneity	{"Profiled_event": "2", "Landmark_event": "11"}
+10	he	_		{}
+11	led	_		{}
+12	Portugal	_		{}
+13	to	_		{}
+14	the	_		{}
+15	semi-finals	_		{}
+16	at	_		{}
+17	Euro	_		{}
+18	2012	_		{}
+19	,	_		{}
+20	finishing	_	Process_end	{"Process": "22"}
+21	the	_		{}
+22	competition	_	Competition	{"Participant_1": "1"}
+23	as	_		{}
+24	join	_		{}
+25	t-t	_		{}
+26	op	_		{}
+27	scorer	_	Behind_the_scenes	{"Performer": "1"}
+28	in	_		{}
+29	the	_		{}
+30	process	_	Process	{}
+31	.	_		{}

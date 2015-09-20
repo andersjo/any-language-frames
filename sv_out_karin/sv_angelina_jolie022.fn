@@ -1,0 +1,17 @@
+1	Hon	_		{}
+2	gick	_		{}
+3	på	_		{}
+4	teaterskolan	_		{}
+5	Lee	_		{}
+6	Strasberg	_		{}
+7	Theatre	_		{}
+8	Institute	_		{}
+9	under	_		{}
+10	två	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	år	_	Measure_duration	{"Count": "10", "Unit": "11"}
+12	och	_	Simultaneity	{"Profiled_event": "2", "Landmark_event": "13"}
+13	medverkade	_		{}
+14	i	_		{}
+15	flera	_	Quantity	{"Individuals": "16"}
+16	teateruppsättningar	_		{}
+17	.	_		{}

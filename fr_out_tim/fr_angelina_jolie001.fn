@@ -1,0 +1,27 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	(	_		{}
+4	née	_	Being_named	{"Name": "5", "Entity": "1"}
+5	Angelina	_		{}
+6	Jolie	_		{}
+7	Voight	_		{}
+8	)	_		{}
+9	,	_		{}
+10	née	_		{}
+11	le	_		{}
+12	à	_	Bond_maturation	{}
+13	Los	_		{}
+14	Angeles	_		{}
+15	,	_		{}
+16	est	_		{}
+17	une	_		{}
+18	actrice	_	Performers	{"Person": "1"}
+19	,	_		{}
+20	réalisatrice	_	Behind_the_scenes	{"Artist": "1"}
+21	et	_	Simultaneity	{}
+22	ambassadrice	_		{}
+23	de	_		{}
+24	bonne	_		{}
+25	volonté	_		{}
+26	américano-cambodgienne	_		{}
+27	.	_		{}

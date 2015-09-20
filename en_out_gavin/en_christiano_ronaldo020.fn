@@ -1,0 +1,20 @@
+1	In	_		{}
+2	a	_	Cardinal_numbers	{"Number": "2", "Entity": "5"}
+3	2014	_		{}
+4	UEFA	_		{}
+5	poll	_	Accoutrements	{"Accoutrement": "5"}
+6	,	_		{}
+7	he	_		{}
+8	was	_		{}
+9	named	_	Being_named	{"Name": "12", "Entity": "7"}
+10	the	_		{}
+11	greatest	_	Expertise	{"Skill": "12", "Protagonist": "7"}
+12	goalscorer	_		{}
+13	to	_		{}
+14	play	_	Competition	{"Participant_1": "7", "Competition": "19"}
+15	in	_		{}
+16	the	_		{}
+17	UEFA	_		{}
+18	Champions	_	Expertise	{}
+19	League	_	Organization	{"Organization": "19", "Name": "18"}
+20	.	_		{}

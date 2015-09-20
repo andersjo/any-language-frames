@@ -1,0 +1,24 @@
+1	Man	_		{}
+2	vill	_	Desiring	{"Experiencer": "1", "Event": "3"}
+3	ge	_	Giving	{"Donor": "1", "Theme": "6", "Recipient": "4"}
+4	dem	_		{}
+5	opartisk	_	Partiality	{}
+6	tillgång	_	Having_or_lacking_access	{"Theme": "8", "Degree": "5"}
+7	till	_		{}
+8	information	_	Information	{"Source": "1", "Cognizer": "4"}
+9	och	_	Simultaneity	{"Profiled_event": "3", "Landmark_event": "10"}
+10	behandla	_	Attention	{"Perceiver": "1", "Manner": "13", "Figure": "4"}
+11	dem	_		{}
+12	med	_		{}
+13	respekt	_	Regard	{"Cognizer": "1", "Judgment": "13", "Evaluee": "11"}
+14	,	_		{}
+15	samt	_		{}
+16	att	_		{}
+17	allmänt	_		{}
+18	göra	_	Conduct	{"Manner": "20", "Agent": "1"}
+19	det	_		{}
+20	rätta	_		{}
+21	och	_	Simultaneity	{"Profiled_event": "20", "Landmark_event": "22"}
+22	agera	_	Conduct	{"Manner": "23", "Agent": "1"}
+23	hederligt	_		{}
+24	.	_		{}

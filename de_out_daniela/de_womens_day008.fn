@@ -1,0 +1,32 @@
+1	Dieser	_		{}
+2	erste	_		{}
+3	Frauentag	_		{}
+4	in	_		{}
+5	den	_		{}
+6	USA	_		{}
+7	im	_		{}
+8	Februar	_	Calendric_unit	{"Whole": "9", "Unit": "8"}
+9	1909	_		{}
+10	war	_		{}
+11	ein	_		{}
+12	voller	_	Completeness	{"Whole": "13"}
+13	Erfolg	_	Successful_action	{"Means": "3", "Place": "6", "Time": "9"}
+14	–	_		{}
+15	auch	_		{}
+16	weil	_		{}
+17	sich	_		{}
+18	bürgerliche	_	People	{"Person": "19"}
+19	Frauenrechtlerinnen	_		{}
+20	den	_		{}
+21	Forderungen	_		{}
+22	nach	_		{}
+23	einem	_		{}
+24	Wahlrecht	_		{}
+25	anschlossen	_		{}
+26	und	_		{}
+27	gemeinsam	_	Collaboration	{"Undertaking": "31", "Partner_2": "30", "Partner_1": "19"}
+28	mit	_		{}
+29	den	_		{}
+30	Sozialistinnen	_		{}
+31	demonstrierten	_		{}
+32	.	_		{}

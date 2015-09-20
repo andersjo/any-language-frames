@@ -1,0 +1,14 @@
+1	Have	_	Grasp	{"Cognizer": "2", "Completeness": "3", "Phenomenon": "5"}
+2	scientists	_	People_by_vocation	{"Person": "2", "Type": "2"}
+3	under-predicted	_		{}
+4	global	_	Political_locales	{"Locale": "4"}
+5	warming	_		{}
+6	?	_		{}
+7	@NYTimes	_		{}
+8	OpEd	_		{}
+9	:	_		{}
+10	Playing	_	Intentionally_act	{"Means": "10"}
+11	Dumb	_	Mental_property	{"Practice": "11", "Behavior": "10"}
+12	on	_		{}
+13	#ClimateChange	_		{}
+14	http://t.co/SPF4HMfy9a	_		{}

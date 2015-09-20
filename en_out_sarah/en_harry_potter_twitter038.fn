@@ -1,0 +1,16 @@
+1	i	_		{}
+2	hate	_	Experiencer_focus	{"Topic": "4", "Experiencer": "1", "Content": "4", "Event": "11", "Time": "10"}
+3	the	_		{}
+4	fact	_		{}
+5	that	_		{}
+6	the	_		{}
+7	harry	_		{}
+8	potter	_		{}
+9	movies	_	Physical_artworks	{"Name": "7", "Artifact": "9"}
+10	just	_		{}
+11	killed	_	Killing	{"Killer": "9", "Victim": "13"}
+12	neville's	_		{}
+13	parents	_	Kinship	{"Relatives": "13", "Ego": "12"}
+14	i	_		{}
+15	mean	_	Morality_evaluation	{"Expressor": "1", "Degree": "16"}
+16	really	_		{}

@@ -1,0 +1,34 @@
+1	Raggiunge	_	Accomplishment	{"Time": "2001", "Goal": "3", "Means": "5"}
+2	la	_		{}
+3	fama	_	Fame	{"Reason": "5", "Means": "5", "Role": "12", "Degree": "4", "Time": "19"}
+4	internazionale	_	Foreign_or_domestic_country	{}
+5	interpretando	_	Performers_and_roles	{"Performance": "23", "Type": "16", "Role": "12", "Time": "19"}
+6	la	_		{}
+7	sexy	_		{}
+8	eroina	_		{}
+9	dei	_		{}
+10	videogiochi	_		{}
+11	,	_		{}
+12	Lara	_		{}
+13	Croft	_		{}
+14	,	_		{}
+15	nei	_		{}
+16	film	_	Physical_artworks	{"Name": "23", "Artifact": "16", "Time_of_creation": "19"}
+17	""	_		{}
+18	(	_		{}
+19	2001	_		{}
+20	)	_		{}
+21	e	_		{}
+22	"	_		{}
+23	Tomb	_		{}
+24	Raider	_		{}
+25	-	_		{}
+26	La	_		{}
+27	culla	_		{}
+28	della	_		{}
+29	vita	_	Existence	{}
+30	"	_		{}
+31	(	_		{}
+32	2003	_		{}
+33	)	_		{}
+34	.	_		{}

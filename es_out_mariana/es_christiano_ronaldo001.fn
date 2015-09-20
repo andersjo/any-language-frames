@@ -1,0 +1,43 @@
+1	Cristiano	_		{}
+2	Ronaldo	_		{}
+3	dos	_		{}
+4	Santos	_		{}
+5	Aveiro	_		{}
+6	(	_		{}
+7	Funchal	_		{}
+8	,	_		{}
+9	5	_	Cardinal_numbers	{}
+10	de	_		{}
+11	febrero	_	Calendric_unit	{"Whole": "11", "Unit": "13"}
+12	de	_		{}
+13	1985	_		{}
+14	)	_		{}
+15	,	_		{}
+16	mejor	_	Relational_quantity	{"Individuals": "1"}
+17	conocido	_	Being_named	{"Name": "1", "Entity": "19"}
+18	como	_	Identicality	{"Previous_instance": "1", "Current_instance": "19", "Previous_context": "1"}
+19	Cristiano	_		{}
+20	Ronaldo	_		{}
+21	es	_	People	{"Persistent_characteristic": "23", "Person": "1", "Origin": "7", "Context_of_acquaintance": "31"}
+22	un	_		{}
+23	futbolista	_		{}
+24	portugués	_	Origin	{"Origin": "7", "Entity": "1"}
+25	que	_	Submitting_documents	{}
+26	juega	_	Performers_and_roles	{"Performance": "31", "Performer": "1", "Type": "39", "Medium": "35", "Role": "23"}
+27	como	_	Similarity	{"Entities": "1", "Entity_1": "28"}
+28	extremo	_	Expertise	{"Role": "23", "Skill": "28", "Protagonist": "1", "Focal_participant": "1", "Knowledge": "35"}
+29	en	_	Connectors	{}
+30	el	_		{}
+31	Real	_		{}
+32	Madrid	_		{}
+33	Club	_	Organization	{"Organization": "31", "Place": "32", "Purpose": "35", "Members": "35", "Name": "31"}
+34	de	_		{}
+35	Fútbol	_		{}
+36	,	_		{}
+37	de	_		{}
+38	la	_		{}
+39	Primera	_	First_rank	{"Item": "31", "Limits_of_consideration": "42"}
+40	División	_		{}
+41	de	_		{}
+42	España	_		{}
+43	.	_		{}

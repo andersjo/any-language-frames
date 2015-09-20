@@ -1,0 +1,17 @@
+1	los	_		{}
+2	que	_	Causation	{"Cause": "3", "Affected": "5", "Actor": "1", "Means": "5"}
+3	imitan	_	Imitating	{"Characteristic": "5"}
+4	a	_		{}
+5	1d	_		{}
+6	son	_	Causation	{"Affected": "5", "Cause": "3", "Actor": "1", "Means": "5"}
+7	como	_	Similarity	{"Depictive": "13", "Entity_1": "9", "Entity_2": "1", "Circumstances": "10"}
+8	cuando	_		{}
+9	yo	_	Proper_reference	{"Intended_referent": "9", "Entity": "9"}
+10	quiero	_	Desiring	{"Manner": "11", "Focal_participant": "9", "Experiencer": "9", "Event": "11"}
+11	hacerme	_	Becoming	{"Entity": "9", "Circumstances": "11"}
+12	la	_		{}
+13	angelina	_		{}
+14	jolie	_		{}
+15	en	_		{}
+16	las	_		{}
+17	fotos	_	Physical_artworks	{"Artifact": "17"}

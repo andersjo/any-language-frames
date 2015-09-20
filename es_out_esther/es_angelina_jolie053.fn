@@ -1,0 +1,51 @@
+1	Después	_		{}
+2	de	_		{}
+3	varios	_	Diversity	{"Group": "4"}
+4	proyectos	_	Project	{"Field": "7"}
+5	de	_		{}
+6	bajo	_	Position_on_a_scale	{"Item": "7"}
+7	presupuesto	_	Estimated_value	{"Estimation": "6"}
+8	,	_		{}
+9	volvió	_		{}
+10	a	_		{}
+11	tener	_	Possession	{"Possession": "13"}
+12	un	_		{}
+13	papel	_	Performers_and_roles	{"Script": "14"}
+14	protagónico	_		{}
+15	;	_		{}
+16	esta	_		{}
+17	vez	_	Temporal_collocation	{}
+18	trabajó	_		{}
+19	como	_		{}
+20	"	_		{}
+21	Kate	_		{}
+22	Libby	_		{}
+23	"	_		{}
+24	,	_		{}
+25	su	_		{}
+26	primer	_	First_experience	{"Experience": "27"}
+27	papel	_	Performers_and_roles	{}
+28	en	_		{}
+29	Hollywood	_		{}
+30	,	_		{}
+31	en	_		{}
+32	la	_		{}
+33	película	_	Physical_artworks	{"Artifact": "35"}
+34	"	_		{}
+35	Hackers	_		{}
+36	"	_		{}
+37	(	_		{}
+38	1995	_		{}
+39	)	_		{}
+40	,	_		{}
+41	donde	_		{}
+42	conoció	_		{}
+43	a	_		{}
+44	su	_		{}
+45	primer	_	First_experience	{"Experience": "42"}
+46	marido	_	Personal_relationship	{"Partner_2": "48"}
+47	,	_		{}
+48	Jonny	_		{}
+49	Lee	_		{}
+50	Miller	_		{}
+51	.	_		{}

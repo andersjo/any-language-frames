@@ -1,0 +1,32 @@
+1	Mit	_		{}
+2	14	_	Cardinal_numbers	{"Number": "2", "Entity": "3"}
+3	Jahren	_	Calendric_unit	{"Count": "2", "Unit": "3"}
+4	erhielt	_	Receiving	{"Donor": "12", "Theme": "7", "Recipient": "5"}
+5	sie	_		{}
+6	einen	_		{}
+7	Vertrag	_	Documents	{"Document": "7", "Bearer": "5", "Issuer": "12"}
+8	als	_		{}
+9	Fotomodell	_	Exemplar	{"Instance": "5", "Type": "9"}
+10	bei	_		{}
+11	der	_		{}
+12	Agentur	_	Organization	{"Organization": "12"}
+13	Finesse	_		{}
+14	Model	_		{}
+15	Management	_		{}
+16	;	_		{}
+17	ihre	_		{}
+18	Versuche	_	Attempt	{"Agent": "17"}
+19	,	_		{}
+20	in	_		{}
+21	diesem	_		{}
+22	Geschäft	_		{}
+23	Fuß	_	Observable_body_parts	{"Body_part": "23"}
+24	zu	_		{}
+25	fassen	_	Taking	{"Theme": "23", "Agent": "17"}
+26	,	_		{}
+27	blieben	_		{}
+28	jedoch	_		{}
+29	ohne	_		{}
+30	nennenswerten	_		{}
+31	Erfolg	_	Successful_action	{"Goal": "31", "Means": "18"}
+32	.	_		{}

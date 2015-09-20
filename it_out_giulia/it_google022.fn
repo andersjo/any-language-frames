@@ -1,0 +1,36 @@
+1	Secondo	_		{}
+2	alcune	_	Quantity	{"Individuals": "3", "Quantity": "2"}
+3	fonti	_	Attributed_information	{}
+4	inoltre	_		{}
+5	starebbe	_	Activity_ongoing	{"Activity": "6"}
+6	elaborando	_		{}
+7	progetti	_	Project	{"Project": "9"}
+8	quali	_		{}
+9	Hoverboard	_		{}
+10	,	_		{}
+11	un	_		{}
+12	ascensore	_	Connecting_architecture	{}
+13	spaziale	_		{}
+14	lunare	_		{}
+15	e	_		{}
+16	altri	_	Increment	{"Class": "7"}
+17	,	_		{}
+18	molti	_	Quantity	{"Individuals": "7", "Quantity": "18"}
+19	dei	_		{}
+20	quali	_		{}
+21	accantonati	_		{}
+22	per	_		{}
+23	poi	_		{}
+24	essere	_		{}
+25	ripresi	_	Activity_resume	{"Activity": "7"}
+26	in	_		{}
+27	futuro	_	Temporal_collocation	{"Landmark_period": "27"}
+28	,	_		{}
+29	a	_		{}
+30	causa	_	Causation	{"Cause": "32", "Affected": "7"}
+31	dei	_		{}
+32	limiti	_		{}
+33	della	_		{}
+34	tecnologia	_	Gizmo	{"Gizmo": "34"}
+35	contemporanea	_	Temporal_collocation	{"Landmark_entity": "34", "Landmark_period": "35"}
+36	.	_		{}

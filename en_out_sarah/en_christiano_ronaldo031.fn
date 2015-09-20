@@ -1,0 +1,23 @@
+1	His	_		{}
+2	second	_	Ordinal_numbers	{"Comparison_set": "4", "Item": "6"}
+3	given	_		{}
+4	name	_	Being_named	{"Name": "6", "Entity": "1"}
+5	"	_		{}
+6	Ronaldo	_		{}
+7	"	_		{}
+8	was	_		{}
+9	chosen	_	Choosing	{}
+10	after	_		{}
+11	then-	_		{}
+12	U.S.	_		{}
+13	president	_	Leadership	{"Role": "12", "Leader": "14", "Governed": "12"}
+14	Ronald	_		{}
+15	Reagan	_		{}
+16	,	_		{}
+17	who	_		{}
+18	was	_		{}
+19	his	_		{}
+20	father's	_		{}
+21	favourite	_		{}
+22	actor	_	Performers	{"Person": "14", "Ethnicity": "12"}
+23	.	_		{}

@@ -1,0 +1,27 @@
+1	I	_		{}
+2	oktober	_	Calendric_unit	{"Whole": "3", "Unit": "2"}
+3	2009	_		{}
+4	meddelte	_		{}
+5	designer	_	People_by_vocation	{"Person": "7"}
+6	Giorgio	_		{}
+7	Armani	_		{}
+8	,	_		{}
+9	at	_		{}
+10	Ronaldo	_		{}
+11	ville	_		{}
+12	overtage	_	Hiring	{"Employee": "10", "Position": "15", "Employer": "18"}
+13	pladsen	_		{}
+14	som	_		{}
+15	model	_		{}
+16	for	_		{}
+17	Emporio	_		{}
+18	Armanis	_		{}
+19	undertøj	_	Clothing	{"Garment": "19"}
+20	og	_		{}
+21	jeans	_	Clothing	{"Garment": "21"}
+22	for	_		{}
+23	mænd	_	People	{"Person": "23"}
+24	efter	_		{}
+25	David	_		{}
+26	Beckham	_		{}
+27	.	_		{}

@@ -1,0 +1,17 @@
+1	Cada	_		{}
+2	vez	_	Event_instance	{"Instance": "2", "Event": "8"}
+3	me	_	Proper_reference	{"Intended_referent": "3", "Entity": "3"}
+4	doy	_	Opinion	{"Topic": "12", "Opinion": "9", "Cognizer": "3"}
+5	más	_	Increment	{"Initial_set": "9", "Added_set": "5"}
+6	cuenta	_	Awareness	{"Content": "12", "Cognizer": "3", "Degree": "5", "Topic": "9"}
+7	de	_		{}
+8	lo	_		{}
+9	maravillosos	_	Aesthetics	{"Judge": "3", "Attribute": "9", "Entity": "12"}
+10	que	_		{}
+11	son	_	Cause_to_perceive	{"Perceiver": "2", "Phenomenon": "9", "Entity": "12"}
+12	Angelina	_		{}
+13	Jolie	_		{}
+14	y	_	Simultaneity	{"Profiled_event": "15", "Landmark_event": "12"}
+15	Brad	_		{}
+16	Pitt	_		{}
+17	.	_		{}

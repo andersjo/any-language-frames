@@ -1,0 +1,40 @@
+1	He	_		{}
+2	has	_		{}
+3	since	_		{}
+4	been	_		{}
+5	capped	_		{}
+6	over	_		{}
+7	100	_	Cardinal_numbers	{"Number": "7", "Entity": "8"}
+8	times	_	Event_instance	{"Instance": "7", "Event": "5"}
+9	and	_	Simultaneity	{}
+10	has	_		{}
+11	participated	_	Activity_start	{"Agent": "1", "Activity": "15"}
+12	in	_		{}
+13	6	_	Cardinal_numbers	{"Number": "13", "Entity": "15"}
+14	major	_	Importance	{}
+15	tournaments	_	Competition	{"Participant_1": "1", "Competition": "28"}
+16	:	_		{}
+17	three	_	Cardinal_numbers	{"Number": "17", "Entity": "18"}
+18	UEFA	_		{}
+19	European	_	Origin	{"Origin": "19", "Entity": "20"}
+20	Championships	_		{}
+21	(	_		{}
+22	2004	_		{}
+23	,	_		{}
+24	2008	_		{}
+25	and	_		{}
+26	2012	_		{}
+27	)	_		{}
+28	and	_		{}
+29	three	_	Cardinal_numbers	{"Number": "29", "Entity": "30"}
+30	FIFA	_		{}
+31	World	_	Locale	{"Locale": "31"}
+32	Cups	_	Containers	{"Container": "32"}
+33	(	_		{}
+34	2006	_		{}
+35	,	_		{}
+36	2010	_		{}
+37	and	_		{}
+38	2014	_		{}
+39	)	_		{}
+40	.	_		{}

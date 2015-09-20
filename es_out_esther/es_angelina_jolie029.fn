@@ -1,0 +1,44 @@
+1	Después	_		{}
+2	de	_		{}
+3	la	_		{}
+4	separación	_	Personal_relationship	{"Partners": "7"}
+5	de	_		{}
+6	sus	_		{}
+7	padres	_	Kinship	{"Relatives": "11"}
+8	en	_		{}
+9	1976	_		{}
+10	,	_		{}
+11	Angelina	_		{}
+12	y	_		{}
+13	su	_		{}
+14	hermano	_	Kinship	{"Alter": "11"}
+15	,	_		{}
+16	el	_		{}
+17	también	_		{}
+18	actor	_	Performers	{"Person": "14"}
+19	James	_		{}
+20	Haven	_		{}
+21	,	_		{}
+22	fueron	_	Self_motion	{"Direction": "25", "Self_mover": "11"}
+23	con	_		{}
+24	su	_		{}
+25	madre	_	Kinship	{"Alter": "11"}
+26	que	_		{}
+27	actuaba	_	Performers_and_roles	{"Performer1": "25", "Performer2": "29"}
+28	con	_		{}
+29	ellos	_		{}
+30	,	_		{}
+31	pero	_		{}
+32	poco	_	Degree	{"Gradable_attribute": "33"}
+33	después	_	Relative_time	{"Focal_occasion": "35", "Focal_participant": "22", "Degree": "32"}
+34	ella	_		{}
+35	abandonó	_		{}
+36	su	_		{}
+37	carrera	_	Performers_and_roles	{"Performer": "34", "Role": "27", "Time": "33"}
+38	y	_		{}
+39	se	_		{}
+40	mudó	_		{}
+41	a	_		{}
+42	Nueva	_		{}
+43	York	_		{}
+44	.	_		{}

@@ -1,0 +1,25 @@
+1	Wir	_		{}
+2	haben	_		{}
+3	Träume	_	Desiring	{"Event": "3", "Experiencer": "1"}
+4	–	_		{}
+5	sogar	_		{}
+6	ne	_		{}
+7	ganze	_	Degree	{"Gradable_attribute": "8"}
+8	Menge	_	Quantity	{"Q_Prop": "7", "Quantity": "8"}
+9	...	_		{}
+10	Ohne	_		{}
+11	Geld	_	Money	{"Money": "11"}
+12	wird	_		{}
+13	aus	_		{}
+14	denen	_		{}
+15	aber	_		{}
+16	nix	_		{}
+17	.	_		{}
+18	Wir	_		{}
+19	träumen	_	Desiring	{"Time": "20", "Focal_participant": "21", "Experiencer": "18", "Event": "19"}
+20	derzeit	_	Temporal_collocation	{"Trajector_event": "19"}
+21	davon	_		{}
+22	,	_		{}
+23	unseren	_		{}
+24	...	_		{}
+25	http://t.co/vSubcCw076	_		{}

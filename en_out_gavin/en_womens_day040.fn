@@ -1,0 +1,9 @@
+1	It	_		{}
+2	affects	_	Eventive_affecting	{"Manner": "4", "Entity": "3"}
+3	women	_	People	{"Person": "3"}
+4	in	_		{}
+5	a	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	host	_	Aggregate	{"Aggregate": "7", "Individuals": "8"}
+7	of	_		{}
+8	ways	_	Means	{"Means": "8"}
+9	.	_		{}

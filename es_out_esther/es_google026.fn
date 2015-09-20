@@ -1,0 +1,17 @@
+1	En	_		{}
+2	abril	_	Calendric_unit	{"Relative_time": "2"}
+3	Google	_		{}
+4	presentó	_		{}
+5	GMail	_		{}
+6	,	_		{}
+7	su	_		{}
+8	servicio	_	Public_services	{"Domain": "10", "Service_action": "10", "Institution": "3"}
+9	de	_		{}
+10	correo	_	Sending	{"Transport_means": "14"}
+11	electrónico	_		{}
+12	con	_		{}
+13	1	_	Cardinal_numbers	{"Number": "13", "Entity": "14"}
+14	Gb	_		{}
+15	de	_		{}
+16	almacenamiento	_	Containers	{"Container": "10"}
+17	.	_		{}

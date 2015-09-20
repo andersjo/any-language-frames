@@ -1,0 +1,16 @@
+1	I	_		{}
+2	believe	_	Certainty	{"Content": "5", "Cognizer": "1", "Explanation": "6"}
+3	in	_		{}
+4	global	_	Political_locales	{"Locale": "4"}
+5	warming	_		{}
+6	because	_		{}
+7	Detroit	_		{}
+8	is	_		{}
+9	having	_	Getting	{"Place": "13", "Recipient": "7"}
+10	a	_		{}
+11	meltdown	_		{}
+12	right	_		{}
+13	before	_		{}
+14	my	_		{}
+15	eyes	_	Observable_body_parts	{"Body_part": "15", "Possessor": "14"}
+16	#DETvsDAL	_		{}

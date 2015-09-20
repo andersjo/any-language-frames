@@ -1,0 +1,38 @@
+1	Den	_		{}
+2	tredobbelte	_		{}
+3	Ballon	_		{}
+4	d'Or-vinder	_		{}
+5	Johan	_		{}
+6	Cruijff	_		{}
+7	sagde	_		{}
+8	i	_		{}
+9	et	_		{}
+10	interview	_		{}
+11	den	_		{}
+12	2	_	Cardinal_numbers	{"Number": "12"}
+13	.	_		{}
+14	april	_	Calendric_unit	{"Relative_time": "15", "Whole": "12", "Unit": "14"}
+15	2008	_		{}
+16	,	_		{}
+17	"	_		{}
+18	Ronaldo	_		{}
+19	er	_		{}
+20	bedre	_		{}
+21	end	_		{}
+22	George	_		{}
+23	Best	_		{}
+24	og	_		{}
+25	Denis	_		{}
+26	Law	_		{}
+27	,	_		{}
+28	som	_		{}
+29	var	_		{}
+30	to	_	Cardinal_numbers	{"Number": "30", "Entity": "34"}
+31	fantastiske	_		{}
+32	og	_	Simultaneity	{"Profiled_event": "33", "Landmark_event": "31"}
+33	gode	_	Expertise	{"Protagonist": "34"}
+34	spillere	_	Performing_arts	{"Performer": "22"}
+35	i	_		{}
+36	Uniteds	_		{}
+37	historie	_	History	{"Topic": "36"}
+38	.	_		{}

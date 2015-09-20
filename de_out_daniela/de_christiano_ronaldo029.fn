@@ -1,0 +1,20 @@
+1	In	_		{}
+2	der	_		{}
+3	Kaderschmiede	_		{}
+4	von	_		{}
+5	Sporting	_		{}
+6	Lissabon	_		{}
+7	trainierte	_	Exercising	{"Agent": "8"}
+8	Ronaldo	_		{}
+9	fortan	_		{}
+10	in	_		{}
+11	Alcochete	_		{}
+12	mit	_		{}
+13	anderen	_	Increment	{"Added_set": "8", "Class": "14", "Initial_set": "13"}
+14	Jugendspielern	_		{}
+15	des	_		{}
+16	Vereins	_	Organization	{"Organization": "16", "Members": "14"}
+17	unter	_		{}
+18	professioneller	_	People_by_vocation	{"Person": "19"}
+19	Führung	_	Leadership	{"Leader": "19", "Activity": "7"}
+20	.	_		{}

@@ -1,0 +1,29 @@
+1	In	_		{}
+2	2005	_		{}
+3	she	_		{}
+4	referred	_	Adducing	{"Specified_entity": "6", "Speaker": "3"}
+5	to	_		{}
+6	this	_	Proper_reference	{}
+7	period	_	Calendric_unit	{"Relative_time": "6", "Unit": "7"}
+8	,	_		{}
+9	saying	_	Expressing_publicly	{"Content": "13", "Communicator": "3"}
+10	,	_		{}
+11	"	_		{}
+12	I	_		{}
+13	am	_		{}
+14	still	_	Continued_state_of_affairs	{"State_of_affairs": "14"}
+15	at	_		{}
+16	heart	_	Observable_body_parts	{"Body_part": "16", "Possessor": "3"}
+17	—	_		{}
+18	and	_	Simultaneity	{}
+19	always	_	Frequency	{"Degree": "19"}
+20	will	_		{}
+21	be	_		{}
+22	—	_		{}
+23	just	_		{}
+24	a	_	Cardinal_numbers	{"Number": "24", "Entity": "25"}
+25	punk	_		{}
+26	kid	_	People_by_age	{"Age": "26"}
+27	with	_		{}
+28	tattoos	_	Body_decoration	{"Decoration": "28"}
+29	.	_		{}

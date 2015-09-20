@@ -1,0 +1,20 @@
+1	@Piskeriset	_		{}
+2	Jeg	_		{}
+3	skal	_		{}
+4	totalt	_		{}
+5	meget	_	Degree	{"Gradable_attribute": "6"}
+6	skrive	_	Text_creation	{"Text": "7", "Author": "2"}
+7	noget	_	Being_in_category	{"Category": "8", "Item": "7"}
+8	filmatiserbart	_		{}
+9	næste	_	Relative_time	{"Focal_occasion": "10"}
+10	gang	_	Event_instance	{"Instance": "10"}
+11	!	_		{}
+12	Jeg	_		{}
+13	tænker	_	Cogitation	{"Topic": "14", "Cognizer": "12"}
+14	Harry	_		{}
+15	Potter	_		{}
+16	møder	_	Social_event	{"Attendee": "14"}
+17	Twilight	_		{}
+18	eller	_		{}
+19	lign	_		{}
+20	...	_		{}

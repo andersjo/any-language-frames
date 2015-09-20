@@ -1,0 +1,77 @@
+1	Les	_		{}
+2	sorciers	_		{}
+3	ont	_		{}
+4	leurs	_		{}
+5	propres	_		{}
+6	organisations	_	Organization	{"Organization": "6", "Members": "2"}
+7	gouvernementales	_		{}
+8	(	_		{}
+9	le	_		{}
+10	Ministère	_		{}
+11	de	_		{}
+12	la	_		{}
+13	Magie	_		{}
+14	pour	_		{}
+15	la	_		{}
+16	Grande-Bretagne	_		{}
+17	)	_		{}
+18	,	_		{}
+19	leurs	_		{}
+20	lois	_	Law	{"Law": "20"}
+21	,	_		{}
+22	leur	_		{}
+23	monnaie	_	Money	{"Money": "23"}
+24	,	_		{}
+25	leurs	_		{}
+26	décorations	_	Accoutrements	{"Accoutrement": "26"}
+27	(	_		{}
+28	l'ordre	_		{}
+29	de	_		{}
+30	Merlin	_		{}
+31	)	_		{}
+32	,	_		{}
+33	leurs	_		{}
+34	moyens	_	Means	{"Purpose": "36", "Agent": "33", "Means": "34"}
+35	de	_		{}
+36	communication	_		{}
+37	et	_		{}
+38	de	_		{}
+39	transport	_		{}
+40	particuliers	_	Distinctiveness	{"Entity": "34"}
+41	,	_		{}
+42	leurs	_		{}
+43	établissements	_	Institutions	{"Institution": "46"}
+44	spécifiques	_		{}
+45	(	_		{}
+46	l'hôpital	_		{}
+47	Sainte-Mangouste	_		{}
+48	ou	_		{}
+49	l'école	_		{}
+50	de	_		{}
+51	sorcellerie	_		{}
+52	de	_		{}
+53	Poudlard	_		{}
+54	notamment	_		{}
+55	)	_		{}
+56	et	_		{}
+57	leurs	_		{}
+58	références	_		{}
+59	culturelles	_		{}
+60	(	_		{}
+61	comme	_		{}
+62	le	_		{}
+63	quidditch	_		{}
+64	,	_		{}
+65	un	_		{}
+66	sport	_		{}
+67	de	_		{}
+68	sorciers	_		{}
+69	qui	_		{}
+70	se	_		{}
+71	joue	_	Competition	{"Participants": "68", "Competition": "63"}
+72	sur	_		{}
+73	des	_		{}
+74	balais	_		{}
+75	volants	_		{}
+76	)	_		{}
+77	.	_		{}

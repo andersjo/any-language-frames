@@ -1,0 +1,37 @@
+1	En	_		{}
+2	2009	_		{}
+3	,	_		{}
+4	il	_		{}
+5	est	_		{}
+6	l'objet	_		{}
+7	du	_		{}
+8	transfert	_	Transfer	{"Donor": "20", "Theme": "4", "Recipient": "24"}
+9	le	_		{}
+10	plus	_		{}
+11	élevé	_	Measurable_attributes	{"Degree": "11", "Entity": "8"}
+12	de	_		{}
+13	l'histoire	_		{}
+14	du	_		{}
+15	football	_		{}
+16	,	_		{}
+17	quand	_	Relative_time	{"Focal_occasion": "5", "Focal_participant": "18", "Landmark_occasion": "19"}
+18	il	_		{}
+19	quitte	_	Quitting_a_place	{"Source": "20", "Self_mover": "18"}
+20	Manchester	_		{}
+21	United	_		{}
+22	pour	_		{}
+23	le	_		{}
+24	Real	_		{}
+25	Madrid	_		{}
+26	de	_		{}
+27	la	_		{}
+28	capitale	_	Relational_political_locales	{"Locale": "28", "Container_possessor": "29"}
+29	espagnole	_		{}
+30	contre	_		{}
+31	une	_		{}
+32	indemnité	_	Reparation	{"Gift": "36"}
+33	d'environ	_		{}
+34	94	_		{}
+35	millions	_	Quantity	{"Individuals": "36", "Quantity": "35"}
+36	d'euros	_		{}
+37	.	_		{}

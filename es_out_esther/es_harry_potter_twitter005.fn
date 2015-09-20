@@ -1,0 +1,20 @@
+1	@MizuKuroki	_		{}
+2	ya	_	Time_vector	{"Landmark_event": "4", "Event": "4"}
+3	no	_		{}
+4	quiero	_	Desiring	{"Focal_participant": "1"}
+5	.	_		{}
+6	Por	_		{}
+7	criticar	_	Judgment_communication	{"Topic": "8", "Reason": "8", "Evaluee": "8"}
+8	Harry	_		{}
+9	Potter	_		{}
+10	y	_		{}
+11	decir	_	Telling	{"Topic": "13", "Addressee": "13"}
+12	que	_		{}
+13	Rowling	_		{}
+14	no	_		{}
+15	merece	_	Deserving	{"Action": "17", "State_of_affairs": "17"}
+16	la	_		{}
+17	fama	_	Fame	{"Entity": "13"}
+18	que	_		{}
+19	tiene	_	Possession	{"Possession": "17", "Owner": "13"}
+20	.	_		{}

@@ -1,0 +1,37 @@
+1	Som	_		{}
+2	svar	_	Communication_response	{"Trigger": "5", "Speaker": "7"}
+3	på	_		{}
+4	de	_		{}
+5	spekulationerne	_		{}
+6	sendte	_		{}
+7	Ferguson	_		{}
+8	den	_		{}
+9	portugisiske	_		{}
+10	assistentmanager	_		{}
+11	Carlos	_		{}
+12	Queiroz	_		{}
+13	ud	_		{}
+14	for	_		{}
+15	at	_		{}
+16	tale	_	Communication	{"Communicator": "11", "Addressee": "18"}
+17	med	_		{}
+18	Ronaldo	_		{}
+19	,	_		{}
+20	i	_		{}
+21	et	_		{}
+22	forsøg	_	Attempt	{"Agent": "11"}
+23	på	_		{}
+24	at	_		{}
+25	få	_	Cause_change	{"Final_category": "29", "Agent": "11", "Entity": "18"}
+26	ham	_		{}
+27	på	_		{}
+28	andre	_		{}
+29	tanker	_		{}
+30	,	_		{}
+31	hvilket	_		{}
+32	blev	_		{}
+33	bakket	_		{}
+34	op	_		{}
+35	af	_		{}
+36	Rooney	_		{}
+37	.	_		{}

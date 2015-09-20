@@ -1,0 +1,19 @@
+1	No	_	Quantity	{"Individuals": "2", "Quantity": "1"}
+2	idea	_	Estimating	{"Question": "3"}
+3	how	_		{}
+4	he	_		{}
+5	doesn't	_		{}
+6	know	_	Familiarity	{"Cognizer": "4", "Entity": "7"}
+7	who	_		{}
+8	or	_		{}
+9	what	_		{}
+10	Harry	_		{}
+11	Potter	_		{}
+12	is	_	Existence	{"Entity": "11"}
+13	.	_		{}
+14	Just	_		{}
+15	too	_	Sufficiency	{"Item": "16"}
+16	funny	_	Stimulus_focus	{"Stimulus": "6", "Experiencer": "17", "Degree": "15"}
+17	to	_		{}
+18	me	_	Proper_reference	{"Intended_referent": "18"}
+19	.	_		{}

@@ -1,0 +1,21 @@
+1	Hon	_		{}
+2	medverkade	_		{}
+3	i	_		{}
+4	fem	_	Cardinal_numbers	{"Number": "4", "Entity": "8"}
+5	av	_		{}
+6	sin	_		{}
+7	brors	_		{}
+8	studentfilmer	_		{}
+9	som	_		{}
+10	gjordes	_		{}
+11	när	_	Event_instance	{"Event": "10"}
+12	han	_		{}
+13	var	_		{}
+14	student	_	Education_teaching	{"Subject": "19", "Result": "8", "Student": "7", "Institution": "16"}
+15	vid	_		{}
+16	USC	_		{}
+17	School	_		{}
+18	of	_		{}
+19	Cinematic	_		{}
+20	Arts	_		{}
+21	.	_		{}

@@ -1,0 +1,37 @@
+1	Erzählt	_	Telling	{"Topic": "5"}
+2	wird	_		{}
+3	die	_		{}
+4	siebenteilige	_		{}
+5	Geschichte	_	Text	{"Text": "5"}
+6	des	_		{}
+7	Titelhelden	_		{}
+8	"	_		{}
+9	Harry	_		{}
+10	James	_		{}
+11	Potter	_		{}
+12	"	_		{}
+13	,	_		{}
+14	eines	_		{}
+15	Schülers	_	Education_teaching	{"Institution": "19", "Student": "11"}
+16	des	_		{}
+17	britischen	_		{}
+18	Zaubererinternats	_		{}
+19	Hogwarts	_		{}
+20	,	_		{}
+21	und	_		{}
+22	seiner	_	Possession	{"Possession": "23", "Owner": "15"}
+23	Konfrontationen	_		{}
+24	mit	_		{}
+25	dem	_		{}
+26	bösen	_	Morality_evaluation	{"Evaluee": "27"}
+27	Magier	_	Expertise	{"Protagonist": "29", "Role": "27"}
+28	Lord	_		{}
+29	Voldemort	_		{}
+30	und	_	Simultaneity	{"Profiled_event": "32", "Landmark_event": "29"}
+31	dessen	_		{}
+32	Gefolgsleuten	_		{}
+33	,	_		{}
+34	den	_		{}
+35	sogenannten	_		{}
+36	Todessern	_		{}
+37	.	_		{}

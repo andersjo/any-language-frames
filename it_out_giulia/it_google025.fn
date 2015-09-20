@@ -1,0 +1,84 @@
+1	Inoltre	_		{}
+2	,	_		{}
+3	grazie	_		{}
+4	all'acquisto	_		{}
+5	della	_		{}
+6	Titan	_		{}
+7	Aerospace	_		{}
+8	Google	_		{}
+9	ha	_		{}
+10	a	_		{}
+11	disposizione	_		{}
+12	i	_		{}
+13	suoi	_		{}
+14	droni	_		{}
+15	router	_		{}
+16	per	_		{}
+17	poterli	_		{}
+18	accoppiare	_	Cause_to_amalgamate	{"Part_1": "14", "Part_2": "20"}
+19	a	_		{}
+20	Project	_		{}
+21	Loon	_		{}
+22	,	_		{}
+23	e	_		{}
+24	con	_		{}
+25	la	_		{}
+26	successiva	_	Relative_time	{"Focal_occasion": "35", "Landmark_occasion": "27"}
+27	acquisizione	_	Accomplishment	{"Goal": "27"}
+28	della	_		{}
+29	Skybox	_		{}
+30	Imaging	_		{}
+31	,	_		{}
+32	Google	_		{}
+33	prevede	_	Expectation	{"Phenomenon": "35"}
+34	di	_		{}
+35	sfruttare	_	Working_on	{"Salient_entity": "38"}
+36	i	_		{}
+37	suoi	_		{}
+38	satelliti	_		{}
+39	(	_		{}
+40	oltre	_		{}
+41	che	_		{}
+42	per	_		{}
+43	migliorare	_	Cause_to_make_progress	{}
+44	Google	_		{}
+45	Maps	_		{}
+46	)	_		{}
+47	come	_		{}
+48	dei	_		{}
+49	"	_		{}
+50	ponti	_		{}
+51	radio	_		{}
+52	"	_		{}
+53	in	_		{}
+54	grado	_	Capability	{"Entity": "50"}
+55	di	_		{}
+56	amplificare	_	Cause_expansion	{"Item": "58", "Agent": "50"}
+57	la	_		{}
+58	diffusione	_	Cause_proliferation_in_number	{"Set": "60", "Agent": "50"}
+59	del	_		{}
+60	segnale	_		{}
+61	wireless	_		{}
+62	in	_		{}
+63	modo	_		{}
+64	da	_		{}
+65	portare	_	Bringing	{"Theme": "67", "Goal": "71"}
+66	la	_		{}
+67	connettività	_		{}
+68	internet	_	Network	{"Network": "68"}
+69	anche	_		{}
+70	in	_		{}
+71	zone	_	Locale	{"Locale": "71"}
+72	difficili	_	Difficulty	{"Activity": "74"}
+73	da	_		{}
+74	raggiungere	_	Arriving	{"Goal": "71"}
+75	con	_		{}
+76	i	_		{}
+77	mezzi	_	Vehicle	{"Vehicle": "77"}
+78	comuni	_		{}
+79	o	_		{}
+80	colpite	_	Impact	{"Impactee": "71", "Impactor": "82"}
+81	da	_		{}
+82	calamità	_	Catastrophe	{"Undergoer": "71"}
+83	naturali	_		{}
+84	.	_		{}

@@ -1,0 +1,29 @@
+1	Every	_		{}
+2	time	_	Timespan	{"Duration": "2"}
+3	I	_		{}
+4	see	_	Perception_experience	{"Phenomenon": "5", "Perceiver_passive": "3"}
+5	American	_	People_by_origin	{"Origin": "5"}
+6	Sniper	_	People_by_vocation	{"Person": "6", "Ethnicity": "5"}
+7	on	_		{}
+8	tv	_		{}
+9	I	_		{}
+10	think	_	Assessing	{"Medium": "8", "Phenomenon": "5", "Assessor": "9"}
+11	of	_		{}
+12	how	_		{}
+13	much	_		{}
+14	of	_		{}
+15	a	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	let	_		{}
+17	down	_	Emotion_directed	{"Stimulus": "18", "Experiencer": "9"}
+18	Unbroken	_		{}
+19	was	_	Being_in_category	{"Category": "16", "Item": "18"}
+20	.	_		{}
+21	Thanks	_	Judgment_direct_address	{"Topic": "18", "Reason": "27", "Addressee": "22"}
+22	Angelina	_		{}
+23	Jolie	_		{}
+24	,	_		{}
+25	thanks	_		{}
+26	for	_		{}
+27	the	_		{}
+28	let	_		{}
+29	down	_		{}

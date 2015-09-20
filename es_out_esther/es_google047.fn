@@ -1,0 +1,73 @@
+1	En	_		{}
+2	julio	_	Calendric_unit	{"Relative_time": "2", "Whole": "4"}
+3	de	_		{}
+4	2007	_		{}
+5	,	_		{}
+6	Google	_		{}
+7	compró	_		{}
+8	Panoramio	_		{}
+9	,	_		{}
+10	un	_		{}
+11	sitio	_	Locale_by_ownership	{"Locale": "8"}
+12	web	_	Network	{"Connections": "11"}
+13	dedicado	_	Commitment	{"Topic": "17", "Addressee": "21", "Medium": "12"}
+14	a	_		{}
+15	exhibir	_	Communication	{"Topic": "17", "Communicator": "8", "Medium": "12"}
+16	las	_		{}
+17	fotografías	_	Physical_artworks	{"Artifact": "17"}
+18	que	_		{}
+19	los	_		{}
+20	propios	_	Proper_reference	{"Intended_referent": "21", "Entity": "21"}
+21	usuarios	_		{}
+22	crean	_	Coming_to_be	{"Entity": "17"}
+23	y	_		{}
+24	geoposicionan	_		{}
+25	,	_		{}
+26	siendo	_	Being_in_category	{"Category": "30", "Item": "17"}
+27	algunas	_		{}
+28	de	_		{}
+29	ellas	_		{}
+30	subidas	_		{}
+31	al	_		{}
+32	sitio	_	Locale_by_use	{"Locale": "32"}
+33	para	_		{}
+34	que	_		{}
+35	puedan	_	Capability	{"Entity": "17"}
+36	ser	_		{}
+37	vistas	_	Distinctiveness	{"Feature": "41", "Entity": "17"}
+38	a	_		{}
+39	través	_		{}
+40	del	_		{}
+41	software	_	Aggregate	{"Aggregate": "43"}
+42	Google	_		{}
+43	Earth	_		{}
+44	,	_		{}
+45	cuyo	_		{}
+46	objetivo	_	Aiming	{"Targeted": "48", "Instrument": "43", "Target_location": "54"}
+47	es	_	Being_in_category	{"Category": "48", "Item": "43"}
+48	permitir	_	Grant_permission	{"Grantee": "51", "Grantor": "43"}
+49	a	_		{}
+50	los	_		{}
+51	usuarios	_		{}
+52	del	_		{}
+53	mencionado	_		{}
+54	software	_	Aggregate	{"Aggregate": "54"}
+55	aprender	_	Education_teaching	{"Material": "62", "Student": "51", "Skill": "59", "Teacher": "54", "Fact": "64", "Subject": "59"}
+56	más	_	Increment	{"Class": "55", "Added_set": "56"}
+57	sobre	_		{}
+58	una	_		{}
+59	zona	_	Fields	{"Salient_entity": "59"}
+60	específica	_		{}
+61	del	_		{}
+62	mapa	_	Contingency	{}
+63	,	_		{}
+64	observando	_	Inspecting	{"Inspector": "51", "Desired_state": "55", "Purpose": "55", "Ground": "66"}
+65	las	_		{}
+66	fotografías	_	Physical_artworks	{"Artifact": "66"}
+67	que	_		{}
+68	otros	_	Increment	{"Added_set": "68", "Initial_set": "51", "Class": "69"}
+69	usuarios	_		{}
+70	han	_		{}
+71	tomado	_	Taking	{"Source": "72", "Theme": "66", "Agent": "69"}
+72	ahí	_	Locative_relation	{"Figure": "62", "Ground": "59"}
+73	.	_		{}

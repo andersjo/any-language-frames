@@ -1,0 +1,43 @@
+1	Den	_		{}
+2	Abschluss	_	Completeness	{"Whole": "5"}
+3	des	_		{}
+4	letzten	_	Ordinal_numbers	{"Type": "5"}
+5	Bandes	_	Text	{"Text": "5"}
+6	bildet	_		{}
+7	ein	_		{}
+8	Kapitel	_	Part_ordered_segments	{"Part": "8", "Whole": "5"}
+9	,	_		{}
+10	das	_		{}
+11	einen	_		{}
+12	Blick	_	Perception_active	{"Phenomenon": "17"}
+13	19	_		{}
+14	Jahre	_	Calendric_unit	{"Count": "13", "Unit": "14"}
+15	in	_		{}
+16	die	_		{}
+17	Zukunft	_		{}
+18	wirft	_		{}
+19	:	_		{}
+20	Sowohl	_		{}
+21	Harry	_		{}
+22	und	_	Simultaneity	{"Profiled_event": "23", "Landmark_event": "21"}
+23	Ginny	_		{}
+24	(	_		{}
+25	Rons	_		{}
+26	jüngere	_		{}
+27	Schwester	_	Kinship	{"Descriptor": "26", "Ego": "25", "Alter": "23"}
+28	)	_		{}
+29	als	_		{}
+30	auch	_		{}
+31	Ron	_		{}
+32	und	_	Simultaneity	{"Profiled_event": "33", "Landmark_event": "31"}
+33	Hermine	_		{}
+34	haben	_		{}
+35	geheiratet	_	Forming_relationships	{"Partner_2": "33", "Partner_1": "31"}
+36	und	_		{}
+37	ihre	_		{}
+38	Kinder	_	Kinship	{"Ego": "37", "Alter": "38"}
+39	gehen	_	Self_motion	{"Direction": "41", "Goal": "42", "Self_mover": "38"}
+40	gemeinsam	_	Collaboration	{"Undertaking": "39", "Partners": "38"}
+41	nach	_		{}
+42	Hogwarts	_		{}
+43	.	_		{}

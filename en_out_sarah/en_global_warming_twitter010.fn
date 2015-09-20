@@ -1,0 +1,12 @@
+1	Donald	_		{}
+2	Trump	_		{}
+3	schooled	_	Education_teaching	{"Teacher": "1", "Student": "4"}
+4	me	_		{}
+5	,	_		{}
+6	global	_	Political_locales	{"Locale": "6"}
+7	warming	_		{}
+8	does	_		{}
+9	NOT	_		{}
+10	exist	_	Existence	{"Entity": "7"}
+11	.	_		{}
+12	#CelebApprentice	_		{}

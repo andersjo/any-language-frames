@@ -1,0 +1,21 @@
+1	Senior	_		{}
+2	Sales	_		{}
+3	Manager	_	People_by_vocation	{"Person": "3"}
+4	(	_		{}
+5	m/f	_		{}
+6	):	_		{}
+7	Aktuelles	_	Actually_occurring_entity	{"Instance": "8"}
+8	Stellenangebot	_		{}
+9	als	_		{}
+10	Senior	_		{}
+11	Sales	_		{}
+12	Manager	_	People_by_vocation	{"Person": "12"}
+13	(	_		{}
+14	m/f	_		{}
+15	)	_		{}
+16	bei	_		{}
+17	dem	_		{}
+18	...	_		{}
+19	http://t.co/KMyiJbeHkf	_		{}
+20	#sales	_		{}
+21	#management	_		{}

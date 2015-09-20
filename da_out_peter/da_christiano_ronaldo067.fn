@@ -1,0 +1,29 @@
+1	Manchester	_		{}
+2	United	_		{}
+3	afgav	_		{}
+4	en	_		{}
+5	manipulationsklage	_		{}
+6	til	_		{}
+7	FIFA	_		{}
+8	den	_		{}
+9	9	_		{}
+10	.	_		{}
+11	juni	_	Calendric_unit	{"Whole": "11", "Unit": "9"}
+12	,	_		{}
+13	da	_		{}
+14	de	_		{}
+15	påstod	_		{}
+16	,	_		{}
+17	at	_		{}
+18	Real	_		{}
+19	Madrid	_		{}
+20	forfulgte	_		{}
+21	Ronaldo	_		{}
+22	,	_		{}
+23	men	_	Concessive	{"Main_statement": "5", "Statement": "25"}
+24	FIFA	_		{}
+25	afviste	_		{}
+26	at	_		{}
+27	træffe	_	Meet_with_response	{"Trigger": "5", "Response": "28"}
+28	foranstaltninger	_		{}
+29	.	_		{}

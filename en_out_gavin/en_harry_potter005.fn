@@ -1,0 +1,18 @@
+1	The	_		{}
+2	series	_	Sequence	{"Entity1": "2"}
+3	has	_		{}
+4	also	_		{}
+5	had	_	Have_associated	{"Topical_entity": "2", "Entity": "7"}
+6	some	_	Relational_quantity	{"Mass": "7", "Denoted_quantity": "6"}
+7	share	_	Part_whole	{"Part": "7", "Whole": "9"}
+8	of	_		{}
+9	criticism	_	Judgment_communication	{"Evaluee": "2"}
+10	,	_		{}
+11	including	_		{}
+12	concern	_	Emotion_active	{"Topic": "13"}
+13	for	_		{}
+14	the	_		{}
+15	increasingly	_	Change_position_on_a_scale	{"Item": "17", "Final_value": "16"}
+16	dark	_	Color	{"Color": "16", "Degree": "15", "Entity": "17"}
+17	tone	_	Type	{"Category": "17"}
+18	.	_		{}

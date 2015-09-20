@@ -1,0 +1,18 @@
+1	Estudia	_	Studying	{"Depictive": "3", "Manner": "4", "Place": "5", "Institution": "4", "Subject": "2"}
+2	Marketing	_		{}
+3	Digital	_		{}
+4	Cursos	_	Project	{"Name": "6", "Descriptor": "10", "Project": "2", "Field": "3", "Place": "5", "Manner": "3", "Activity": "1", "Goal": "1"}
+5	Google	_		{}
+6	AdWords	_		{}
+7	,	_		{}
+8	Analytics	_		{}
+9	,	_		{}
+10	Social	_	Social_interaction_evaluation	{"Topic": "1"}
+11	Media	_		{}
+12	y	_	Simultaneity	{"Profiled_event": "13", "Landmark_event": "10"}
+13	SEO	_		{}
+14	.	_		{}
+15	Infórmate	_		{}
+16	!	_		{}
+17	http://t.co/vZzLfLSMVp	_		{}
+18	http://t.co/69F5RzDq6L	_		{}

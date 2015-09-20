@@ -1,0 +1,29 @@
+1	Han	_		{}
+2	gjorde	_		{}
+3	även	_		{}
+4	mål	_	Hit_target	{"Target": "4", "Agent": "1"}
+5	i	_		{}
+6	sin	_		{}
+7	andra	_		{}
+8	ligamatch	_		{}
+9	,	_		{}
+10	mot	_		{}
+11	Espanyol	_		{}
+12	,	_		{}
+13	efter	_		{}
+14	att	_		{}
+15	ha	_		{}
+16	kommit	_	Arriving	{"Theme": "1", "Goal": "8"}
+17	in	_		{}
+18	som	_		{}
+19	avbytare	_	Replacing	{"New": "1", "Role": "19", "Old": "22", "Time": "25"}
+20	för	_		{}
+21	Karim	_		{}
+22	Benzema	_		{}
+23	i	_		{}
+24	den	_		{}
+25	66	_		{}
+26	:	_		{}
+27	e	_		{}
+28	minuten	_		{}
+29	.	_		{}

@@ -1,0 +1,29 @@
+1	Bahebeck	_		{}
+2	est	_		{}
+3	annoncé	_		{}
+4	au	_		{}
+5	real	_		{}
+6	de	_		{}
+7	madrid	_		{}
+8	,	_		{}
+9	Exigeance	_		{}
+10	de	_		{}
+11	christiano	_		{}
+12	ronaldo	_		{}
+13	,	_		{}
+14	il	_		{}
+15	a	_		{}
+16	dit	_	Statement	{"Message": "23", "Speaker": "12"}
+17	je	_		{}
+18	cite	_	Mention	{"Communicator": "17", "Message": "23"}
+19	:	_		{}
+20	"	_		{}
+21	je	_		{}
+22	ne	_		{}
+23	veux	_	Desiring	{"Event": "25", "Experiencer": "21"}
+24	être	_		{}
+25	entourer	_		{}
+26	que	_		{}
+27	des	_		{}
+28	meilleurs	_	Expertise	{"Protagonist": "28"}
+29	"	_		{}

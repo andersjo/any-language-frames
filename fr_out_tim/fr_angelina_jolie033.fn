@@ -1,0 +1,15 @@
+1	Son	_		{}
+2	estime	_	Opinion	{"Cognizer": "1"}
+3	de	_		{}
+4	soi	_		{}
+5	diminue	_	Expansion	{"Item": "2"}
+6	encore	_	Continued_state_of_affairs	{"Reference_occasion": "6", "State_of_affairs": "5"}
+7	lorsque	_		{}
+8	ses	_		{}
+9	velléités	_		{}
+10	de	_		{}
+11	devenir	_	Becoming	{"Entity": "8"}
+12	mannequin	_		{}
+13	s'avèrent	_		{}
+14	infructueuses	_	Success_or_failure	{"Agent": "8"}
+15	.	_		{}

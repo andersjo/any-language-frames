@@ -1,0 +1,23 @@
+1	wenn	_		{}
+2	man	_	People	{"Person": "2"}
+3	mir	_	Proper_reference	{}
+4	etwas	_		{}
+5	schenken	_		{}
+6	will	_	Desiring	{"Event": "5"}
+7	muss	_		{}
+8	man	_	People	{"Person": "8"}
+9	einfach	_		{}
+10	nur	_		{}
+11	was	_		{}
+12	von	_		{}
+13	harry	_		{}
+14	potter	_		{}
+15	besorgen	_		{}
+16	.	_		{}
+17	egal	_		{}
+18	was	_		{}
+19	,	_		{}
+20	ich	_		{}
+21	liebe	_	Emotions_of_mental_activity	{"Stimulus": "22", "Experiencer": "20"}
+22	alles	_		{}
+23	.	_		{}

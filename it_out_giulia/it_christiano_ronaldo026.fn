@@ -1,0 +1,31 @@
+1	Dotato	_		{}
+2	di	_		{}
+3	una	_		{}
+4	grandissima	_	Measurable_attributes	{"Degree": "4", "Entity": "5"}
+5	tecnica	_	Expertise	{}
+6	individuale	_		{}
+7	,	_		{}
+8	nel	_		{}
+9	suo	_		{}
+10	bagaglio	_		{}
+11	tecnico	_	Expertise	{}
+12	rientrano	_		{}
+13	varie	_	Quantity	{"Individuals": "14", "Quantity": "13"}
+14	finte	_		{}
+15	,	_		{}
+16	tra	_		{}
+17	cui	_		{}
+18	dribbling	_		{}
+19	,	_		{}
+20	doppi	_		{}
+21	passi	_		{}
+22	,	_		{}
+23	rapidi	_	Speed	{"Attribute": "23", "Entity": "24"}
+24	cambi	_		{}
+25	di	_		{}
+26	direzione	_		{}
+27	e	_		{}
+28	la	_		{}
+29	cosiddetta	_	Being_named	{"Name": "30"}
+30	rabona	_		{}
+31	.	_		{}

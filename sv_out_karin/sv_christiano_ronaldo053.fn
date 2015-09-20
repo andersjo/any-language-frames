@@ -1,0 +1,26 @@
+1	Den	_		{}
+2	29	_		{}
+3	augusti	_	Calendric_unit	{"Whole": "4", "Unit": "3"}
+4	2009	_		{}
+5	spelade	_		{}
+6	Ronaldo	_		{}
+7	sin	_		{}
+8	första	_	Ordinal_numbers	{"Comparison_set": "10"}
+9	La	_		{}
+10	Liga-match	_		{}
+11	och	_	Simultaneity	{"Profiled_event": "5", "Landmark_event": "13"}
+12	gjorde	_		{}
+13	mål	_	Hit_target	{"Target": "13", "Agent": "6", "Time": "4"}
+14	på	_		{}
+15	straff	_		{}
+16	mot	_		{}
+17	Deportivo	_		{}
+18	La	_		{}
+19	Coruña	_		{}
+20	när	_	Event_instance	{"Instance": "23", "Event": "13"}
+21	Real	_		{}
+22	Madrid	_		{}
+23	vann	_		{}
+24	med	_		{}
+25	3-2	_		{}
+26	.	_		{}

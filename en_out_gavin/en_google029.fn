@@ -1,0 +1,17 @@
+1	Craig	_		{}
+2	Silverstein	_		{}
+3	,	_		{}
+4	a	_	Cardinal_numbers	{"Number": "4", "Entity": "7"}
+5	fellow	_	Personal_relationship	{"Partner_1": "2"}
+6	PhD	_		{}
+7	student	_	People_by_vocation	{"Descriptor": "5", "Type": "6", "Person": "2"}
+8	at	_		{}
+9	Stanford	_		{}
+10	,	_		{}
+11	was	_		{}
+12	hired	_	Hiring	{"Employee": "2"}
+13	as	_		{}
+14	the	_		{}
+15	first	_	Ordinal_numbers	{"Item": "2", "Type": "16"}
+16	employee	_		{}
+17	.	_		{}

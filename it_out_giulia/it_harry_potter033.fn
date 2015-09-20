@@ -1,0 +1,79 @@
+1	I	_		{}
+2	romanzi	_	Text	{"Text": "2"}
+3	sono	_		{}
+4	ambientati	_		{}
+5	principalmente	_		{}
+6	nella	_		{}
+7	scuola	_	Locale_by_use	{"Locale": "7"}
+8	di	_		{}
+9	magia	_	Artifact	{"Artifact": "9"}
+10	e	_		{}
+11	di	_		{}
+12	stregoneria	_		{}
+13	di	_		{}
+14	Hogwarts	_		{}
+15	,	_		{}
+16	in	_		{}
+17	un	_		{}
+18	castello	_	Buildings	{"Building": "18"}
+19	nel	_		{}
+20	mezzo	_		{}
+21	di	_		{}
+22	una	_		{}
+23	catena	_	Natural_features	{"Locale": "23"}
+24	di	_		{}
+25	montagne	_	Natural_features	{"Locale": "25"}
+26	,	_		{}
+27	che	_		{}
+28	gli	_		{}
+29	studenti	_	People_by_vocation	{"Person": "29"}
+30	raggiungono	_	Arriving	{"Theme": "29", "Goal": "7"}
+31	prendendo	_	Ride_vehicle	{"Theme": "29", "Goal": "7", "Vehicle": "33"}
+32	il	_		{}
+33	treno	_	Vehicle	{"Vehicle": "33"}
+34	Espresso	_		{}
+35	per	_		{}
+36	Hogwarts	_		{}
+37	dal	_		{}
+38	binario	_	Architectural_part	{"Part": "38", "Whole": "43"}
+39	9	_		{}
+40	e	_		{}
+41	¾	_		{}
+42	della	_		{}
+43	stazione	_	Locale_by_use	{"Locale": "43"}
+44	di	_		{}
+45	King's	_		{}
+46	Cross	_		{}
+47	a	_		{}
+48	Londra	_		{}
+49	(	_		{}
+50	se	_		{}
+51	per	_		{}
+52	caso	_	Event	{}
+53	un	_		{}
+54	babbano	_		{}
+55	giungesse	_	Arriving	{"Goal": "57"}
+56	al	_		{}
+57	castello	_	Buildings	{"Building": "57"}
+58	tutto	_	Degree	{"Gradable_attribute": "58"}
+59	quello	_		{}
+60	che	_		{}
+61	vedrebbe	_	Perception_active	{"Phenomenon": "61"}
+62	sarebbe	_		{}
+63	un	_		{}
+64	ammasso	_	Aggregate	{"Aggregate": "64", "Individuals": "66"}
+65	di	_		{}
+66	rovine	_		{}
+67	e	_		{}
+68	un	_		{}
+69	cartello	_	Sign	{"Indicator": "69", "Indicated": "73"}
+70	con	_		{}
+71	scritto	_	Text	{}
+72	"	_		{}
+73	attenzione	_		{}
+74	non	_		{}
+75	entrare	_		{}
+76	pericolo	_	Risky_situation	{"Situation": "76"}
+77	"	_		{}
+78	)	_		{}
+79	.	_		{}

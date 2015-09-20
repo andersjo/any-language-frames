@@ -1,0 +1,28 @@
+1	Harry	_		{}
+2	learns	_	Becoming_aware	{"Cognizer": "1", "Phenomenon": "8"}
+3	that	_		{}
+4	as	_		{}
+5	a	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	baby	_	People_by_age	{"Person": "6"}
+7	he	_		{}
+8	witnessed	_	Perception_experience	{"Phenomenon": "12", "Perceiver_passive": "7", "Circumstances": "4"}
+9	his	_		{}
+10	parents	_	Kinship	{"Ego": "7", "Alter": "10"}
+11	'	_		{}
+12	murder	_	Execution	{"Executioner": "17", "Executed": "10"}
+13	by	_		{}
+14	the	_		{}
+15	power-obsessed	_		{}
+16	Dark	_	Color	{"Color": "16", "Entity": "17"}
+17	wizard	_	Performers_and_roles	{"Performer": "19", "Role": "17"}
+18	Lord	_	Leadership	{"Leader": "18"}
+19	Voldemort	_		{}
+20	,	_		{}
+21	who	_		{}
+22	then	_	Temporal_collocation	{"Trajector_event": "23", "Trajector_entity": "17", "Trajector_period": "22", "Landmark_event": "12"}
+23	attempted	_	Attempt	{"Agent": "17", "Time": "22"}
+24	to	_		{}
+25	kill	_	Killing	{"Killer": "17", "Victim": "26"}
+26	him	_	People_by_age	{"Person": "6"}
+27	also	_		{}
+28	.	_		{}

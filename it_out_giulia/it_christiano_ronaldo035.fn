@@ -1,0 +1,32 @@
+1	Nel	_		{}
+2	2001	_		{}
+3	,	_		{}
+4	appena	_	Temporal_collocation	{}
+5	sedicenne	_		{}
+6	,	_		{}
+7	era	_		{}
+8	stato	_		{}
+9	notato	_	Becoming_aware	{"Cognizer": "12", "Phenomenon": "9"}
+10	da	_		{}
+11	Gérard	_		{}
+12	Houllier	_		{}
+13	,	_		{}
+14	allenatore	_	People_by_vocation	{"Person": "12"}
+15	del	_		{}
+16	Liverpool	_		{}
+17	,	_		{}
+18	ma	_		{}
+19	l'inesperienza	_		{}
+20	e	_		{}
+21	la	_		{}
+22	giovane	_	Age	{"Attribute": "22"}
+23	età	_	Age	{"Attribute": "22"}
+24	avevano	_	Causation	{"Cause": "23", "Affected": "30"}
+25	impedito	_		{}
+26	un	_		{}
+27	reale	_	Actually_occurring_entity	{"Instance": "28"}
+28	interessamento	_		{}
+29	del	_		{}
+30	club	_	Organization	{"Descriptor": "31", "Organization": "30"}
+31	inglese	_		{}
+32	.	_		{}

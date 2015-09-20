@@ -1,0 +1,31 @@
+1	Early	_	Relative_time	{"Focal_occasion": "1", "Landmark_occasion": "3"}
+2	in	_		{}
+3	1999	_		{}
+4	,	_		{}
+5	while	_		{}
+6	graduate	_	Education_teaching	{"Student": "7"}
+7	students	_	People_by_vocation	{"Person": "7", "Type": "6"}
+8	,	_		{}
+9	Brin	_		{}
+10	and	_		{}
+11	Page	_		{}
+12	decided	_	Deciding	{"Cognizer": "9", "Decision": "13", "Time": "1"}
+13	that	_		{}
+14	the	_		{}
+15	search	_	Seeking	{}
+16	engine	_		{}
+17	they	_		{}
+18	had	_		{}
+19	developed	_	Creating	{"Created_entity": "16", "Creator": "17"}
+20	was	_		{}
+21	taking	_		{}
+22	up	_	Direction	{"Path": "22"}
+23	too	_	Sufficiency	{"Item": "24"}
+24	much	_	Frequency	{"Attribute": "25"}
+25	time	_	Measure_duration	{"Unit": "25"}
+26	and	_		{}
+27	distracting	_	Redirecting	{"Theme": "30", "Cause": "16"}
+28	their	_		{}
+29	academic	_		{}
+30	pursuits	_	Attempt	{}
+31	.	_		{}

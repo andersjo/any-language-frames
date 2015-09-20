@@ -1,0 +1,27 @@
+1	A	_		{}
+2	continuación	_		{}
+3	,	_		{}
+4	se	_		{}
+5	sometió	_		{}
+6	a	_		{}
+7	una	_		{}
+8	operación	_	Means	{"Purpose": "12", "Means": "16"}
+9	en	_		{}
+10	la	_		{}
+11	que	_		{}
+12	analizó	_		{}
+13	a	_		{}
+14	través	_		{}
+15	de	_		{}
+16	cirugía	_	Using	{"Instrument": "17", "Purpose": "12"}
+17	láser	_		{}
+18	el	_		{}
+19	área	_	Fields	{"Work": "16", "Salient_entity": "21", "Activity": "12"}
+20	del	_		{}
+21	corazón	_	Observable_body_parts	{"Body_part": "21"}
+22	que	_		{}
+23	estaba	_		{}
+24	causando	_	Causation	{"Cause": "26", "Affected": "21"}
+25	el	_		{}
+26	problema	_	Medical_conditions	{"Ailment": "21"}
+27	.	_		{}

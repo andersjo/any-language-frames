@@ -1,0 +1,16 @@
+1	why	_		{}
+2	tf	_		{}
+3	did	_		{}
+4	i	_		{}
+5	get	_	Getting	{"Source": "13", "Theme": "9", "Recipient": "4"}
+6	a	_	Cardinal_numbers	{"Number": "6", "Entity": "9"}
+7	harry	_		{}
+8	potter	_		{}
+9	question	_	Communication_response	{"Topic": "7"}
+10	in	_		{}
+11	the	_		{}
+12	art	_	Craft	{}
+13	section	_	Part_whole	{"Part_Prop": "12", "Part": "13", "Whole": "15"}
+14	of	_		{}
+15	trivia	_		{}
+16	crack	_		{}

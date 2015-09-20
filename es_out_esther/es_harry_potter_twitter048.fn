@@ -1,0 +1,19 @@
+1	Pues	_		{}
+2	hoy	_	Calendric_unit	{"Relative_time": "2"}
+3	hemos	_		{}
+4	visto	_		{}
+5	Harry	_		{}
+6	Potter	_		{}
+7	y	_	Simultaneity	{}
+8	la	_		{}
+9	Cámara	_		{}
+10	Secreta	_		{}
+11	y	_	Simultaneity	{}
+12	ha	_		{}
+13	sido	_	Being_in_category	{"Category": "15", "Item": "5", "Criteria": "17"}
+14	tan	_	Degree	{"Gradable_attribute": "15"}
+15	genial	_	Expertise	{"Behavior_product": "15", "Protagonist": "5", "Focal_participant": "5"}
+16	como	_	Similarity	{"Entities": "5", "Differentiating_fact": "15", "Dimension": "15"}
+17	siempre	_	Frequency	{"Attribute": "15", "Salient_entity": "5", "Event": "15", "Degree": "17"}
+18	.	_		{}
+19	<3	_		{}

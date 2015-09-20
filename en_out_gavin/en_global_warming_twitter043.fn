@@ -1,0 +1,23 @@
+1	@doyleclan1	_		{}
+2	Point	_	Evidence	{"Support": "2"}
+3	I'm	_		{}
+4	trying	_	Stimulus_focus	{}
+5	to	_		{}
+6	make	_	Manufacturing	{"Product": "2", "Manufacturer": "3"}
+7	is	_	Being_in_category	{"Category": "8", "Item": "2"}
+8	simple	_	Difficulty	{"Activity": "2"}
+9	.	_		{}
+10	Some	_	Relational_quantity	{"Individuals": "12", "Denoted_quantity": "10"}
+11	potential	_	Likelihood	{"Hypothetical_event": "12"}
+12	solutions	_	Causation	{}
+13	to	_		{}
+14	global	_	Political_locales	{"Locale": "14"}
+15	warming	_	Cause_temperature_change	{"Item": "14"}
+16	r	_		{}
+17	safe	_	Risky_situation	{"Dangerous_entity": "12"}
+18	&	_		{}
+19	insurable	_		{}
+20	.	_		{}
+21	Not	_		{}
+22	nuclear	_	Nuclear_process	{}
+23	@CarlsonEngineer	_		{}

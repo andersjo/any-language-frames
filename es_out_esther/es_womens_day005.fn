@@ -1,0 +1,34 @@
+1	En	_		{}
+2	1977	_		{}
+3	la	_		{}
+4	Asamblea	_	Aggregate	{"Aggregate": "5", "Individuals": "4"}
+5	General	_	Dimension	{"Object": "4", "Dimension": "5"}
+6	de	_		{}
+7	la	_		{}
+8	Organización	_		{}
+9	de	_		{}
+10	las	_		{}
+11	Naciones	_		{}
+12	Unidas	_	Attaching	{"Items": "11", "Goal": "11", "Item": "11"}
+13	(	_		{}
+14	ONU	_		{}
+15	)	_		{}
+16	proclamó	_		{}
+17	el	_		{}
+18	8	_	Cardinal_numbers	{"Number": "18", "Entity": "20"}
+19	de	_		{}
+20	marzo	_	Calendric_unit	{"Relative_time": "20", "Unit": "18"}
+21	como	_	Identicality	{"Previous_context": "2022"}
+22	Día	_		{}
+23	Internacional	_	Foreign_or_domestic_country	{"Current_country": "23", "Discourse_salient_country": "23"}
+24	por	_		{}
+25	los	_		{}
+26	Derechos	_	Law	{"Required": "26"}
+27	de	_		{}
+28	la	_		{}
+29	Mujer	_	People	{"Person": "29"}
+30	y	_		{}
+31	la	_		{}
+32	Paz	_	Compatibility	{"Parameter": "33"}
+33	Internacional	_	Foreign_or_domestic_country	{"Current_country": "33"}
+34	.	_		{}

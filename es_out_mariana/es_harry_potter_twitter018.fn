@@ -1,0 +1,23 @@
+1	El	_		{}
+2	único	_	Beyond_compare	{"Competitors": "13", "Standard": "8"}
+3	que	_		{}
+4	no	_		{}
+5	pudo	_	Capability	{"Status": "6", "Circumstances": "10", "Entity": "16"}
+6	superar	_	Dominate_situation	{}
+7	su	_		{}
+8	personaje	_	Performers_and_roles	{"Performer": "13", "Role": "10", "Script": "10"}
+9	de	_		{}
+10	Harry	_		{}
+11	Potter	_		{}
+12	fue	_	Performers_and_roles	{"Performer": "13", "Role": "10", "Performer1": "10"}
+13	Rupert	_		{}
+14	Grint	_		{}
+15	;	_		{}
+16	Mi	_		{}
+17	teoría	_	Opinion	{"Cognizer": "16", "Opinion": "17", "Circumstances": "22"}
+18	es	_	Causation	{"Affected": "8", "Cause": "22"}
+19	que	_		{}
+20	fue	_		{}
+21	por	_	Direction	{}
+22	Pelirrojo	_		{}
+23	.	_		{}

@@ -1,0 +1,9 @@
+1	"	_		{}
+2	Desperdicias	_	Bungling	{"Patient": "7", "Area": "5", "Means": "2", "Agent": "2", "Manner": "2", "Action": "4"}
+3	mi	_		{}
+4	pinche	_	Cause_harm	{"Reason": "2", "Explanation": "5", "Cause": "2", "Result": "5", "Victim": "2"}
+5	tiempo	_	Timespan	{"Descriptor": "4"}
+6	"	_		{}
+7	Angelina	_		{}
+8	jolie	_		{}
+9	jajajaajja	_		{}

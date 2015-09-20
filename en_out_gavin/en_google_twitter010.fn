@@ -1,0 +1,23 @@
+1	and	_		{}
+2	even	_		{}
+3	worse	_		{}
+4	is	_	Being_in_category	{"Category": "3", "Item": "5"}
+5	that	_		{}
+6	google	_		{}
+7	wants	_	Desiring	{"Focal_participant": "8", "Event": "9", "Experiencer": "6"}
+8	everything	_		{}
+9	connected	_	Being_attached	{"Connector": "10", "Items": "8"}
+10	with	_		{}
+11	fucking	_	Motion_noise	{}
+12	google+	_		{}
+13	so	_	Temporal_collocation	{"Trajector_entity": "14", "Trajector_event": "15", "Landmark_event": "9"}
+14	u	_		{}
+15	sign	_	Sign_agreement	{"Signatory": "14"}
+16	up	_	Direction	{"Path": "16"}
+17	for	_		{}
+18	everything	_	Difficulty	{}
+19	with	_		{}
+20	a	_	Cardinal_numbers	{"Number": "20", "Entity": "22"}
+21	gmail	_		{}
+22	address	_	Text	{"Text": "22"}
+23	.....	_		{}

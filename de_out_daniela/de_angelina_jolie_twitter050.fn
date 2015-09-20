@@ -1,0 +1,26 @@
+1	@beecakeparade	_		{}
+2	Nur	_		{}
+3	von	_		{}
+4	Smaug	_		{}
+5	und	_		{}
+6	da	_		{}
+7	muss	_		{}
+8	ich	_		{}
+9	ehrlich	_	Candidness	{"Topic": "4", "Message": "13", "Speaker": "8"}
+10	sagen	_	Statement	{"Topic": "4", "Message": "13", "Speaker": "8"}
+11	-	_		{}
+12	er	_		{}
+13	kann	_		{}
+14	schauspielern	_	Intentionally_act	{"Agent": "12"}
+15	.	_		{}
+16	Keine	_		{}
+17	Frage	_	Questioning	{"Speaker": "20"}
+18	.	_		{}
+19	Für	_		{}
+20	mich	_	Proper_reference	{"Intended_referent": "8"}
+21	'	_		{}
+22	ne	_		{}
+23	männliche	_		{}
+24	Angelina	_		{}
+25	Jolie	_		{}
+26	.	_		{}

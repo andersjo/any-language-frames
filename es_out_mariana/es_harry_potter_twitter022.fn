@@ -1,0 +1,13 @@
+1	Harry	_		{}
+2	potter	_		{}
+3	se	_	Performers_and_roles	{"Event_description": "10", "Performer": "1", "Place": "12", "Time": "7"}
+4	va	_		{}
+5	a	_		{}
+6	presentar	_	Communication	{"Topic": "1", "Communicator": "10", "Medium": "10", "Means": "10"}
+7	hoy	_	Calendric_unit	{"Relative_time": "7"}
+8	a	_		{}
+9	la	_		{}
+10	pretemporada	_		{}
+11	del	_		{}
+12	Bojo	_		{}
+13	.	_		{}

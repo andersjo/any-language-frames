@@ -1,0 +1,16 @@
+1	Han	_		{}
+2	har	_	Have_associated	{"Topical_entity": "1", "Entity": "4"}
+3	en	_	Cardinal_numbers	{"Number": "3", "Entity": "4"}
+4	storebror	_		{}
+5	,	_		{}
+6	Hugo	_		{}
+7	,	_		{}
+8	og	_		{}
+9	to	_	Cardinal_numbers	{"Number": "9", "Entity": "10"}
+10	storesøstre	_		{}
+11	,	_		{}
+12	Elma	_		{}
+13	og	_		{}
+14	Liliana	_		{}
+15	Cátia	_		{}
+16	.	_		{}

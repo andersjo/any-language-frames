@@ -1,0 +1,6 @@
+1	Forever	_	Frequency	{"Event": "2", "Time_span": "1"}
+2	wishing	_	Desiring	{"Event": "6"}
+3	for	_		{}
+4	Angelina	_		{}
+5	Jolie	_		{}
+6	lips	_	Observable_body_parts	{"Body_part": "6", "Possessor": "4"}

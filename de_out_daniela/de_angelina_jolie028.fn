@@ -1,0 +1,27 @@
+1	Mit	_		{}
+2	16	_		{}
+3	Jahren	_	Calendric_unit	{"Count": "2", "Unit": "3"}
+4	machte	_	Getting	{"Theme": "13", "Recipient": "5"}
+5	Jolie	_		{}
+6	im	_		{}
+7	Rahmen	_	Terms_of_agreement	{"Regulated_entity": "10", "Desired_state_of_affairs": "13"}
+8	eines	_		{}
+9	eigenverantwortlichen	_		{}
+10	Lernprogramms	_		{}
+11	vorzeitig	_		{}
+12	ihren	_		{}
+13	Schulabschluss	_		{}
+14	und	_	Simultaneity	{"Profiled_event": "19", "Landmark_event": "13"}
+15	mietete	_	Renting	{"Goods": "19", "Lessee": "5"}
+16	sich	_		{}
+17	ein	_		{}
+18	eigenes	_		{}
+19	Apartment	_	Building_subparts	{"Building_part": "19", "Use": "15"}
+20	in	_		{}
+21	der	_		{}
+22	Nähe	_		{}
+23	der	_		{}
+24	Wohnung	_	Building_subparts	{"Building_part": "24", "Place_holder": "26"}
+25	ihrer	_		{}
+26	Mutter	_	Kinship	{"Ego": "25", "Alter": "26"}
+27	.	_		{}

@@ -1,0 +1,27 @@
+1	Ebba	_		{}
+2	9år	_		{}
+3	såg	_		{}
+4	Harry	_		{}
+5	Potter	_		{}
+6	.	_		{}
+7	Skit	_		{}
+8	rädd	_	Fear	{"Stimulus": "5", "Experiencer": "1"}
+9	och	_		{}
+10	sover	_	Sleep	{"Place": "13", "Manner": "8", "Sleeper": "1"}
+11	i	_		{}
+12	min	_		{}
+13	säng	_		{}
+14	.	_		{}
+15	"	_		{}
+16	Kan	_		{}
+17	jag	_	Proper_reference	{"Intended_referent": "1"}
+18	hålla	_	Placing	{"Theme": "20", "Cause": "8", "Goal": "20", "Agent": "1"}
+19	din	_		{}
+20	hand	_	Observable_body_parts	{"Body_part": "20", "Possessor": "19"}
+21	,	_		{}
+22	somnar	_		{}
+23	snabbare	_		{}
+24	då	_	Temporal_collocation	{"Trajector_event": "22", "Landmark_event": "18"}
+25	"	_		{}
+26	Stackars	_		{}
+27	liten	_	Size	{"Entity": "1"}

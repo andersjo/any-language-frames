@@ -1,0 +1,26 @@
+1	Yo	_	Proper_reference	{"Intended_referent": "1", "Entity": "1"}
+2	te	_		{}
+3	perdono	_	Pardon	{"Offender": "4"}
+4	@ConMdeMordor	_		{}
+5	.	_		{}
+6	Tres	_	Cardinal_numbers	{"Number": "6", "Entity": "7"}
+7	maratones	_		{}
+8	de	_		{}
+9	Harry	_		{}
+10	Potter	_		{}
+11	y	_		{}
+12	lectura	_	Speak_on_topic	{"Topic": "15"}
+13	de	_		{}
+14	dos	_	Cardinal_numbers	{"Number": "14", "Entity": "15"}
+15	libros	_	Text	{"Text": "15"}
+16	.	_		{}
+17	Patronus	_		{}
+18	te	_		{}
+19	salve	_	Process_end	{"Process": "19"}
+20	,	_		{}
+21	llena	_	Fullness	{"Contents": "24"}
+22	eres	_		{}
+23	de	_		{}
+24	gracia	_	Rite	{"Guardian": "17", "New_Status": "21", "Desired_state": "24"}
+25	.	_		{}
+26	@DearLaura5	_		{}

@@ -1,0 +1,15 @@
+1	Gioca	_	Competition	{"Competition": "6"}
+2	per	_		{}
+3	cinque	_	Cardinal_numbers	{"Number": "3", "Entity": "4"}
+4	anni	_	Measure_duration	{"Count": "3", "Process": "1", "Unit": "4"}
+5	nelle	_		{}
+6	giovanili	_		{}
+7	della	_		{}
+8	squadra	_	Aggregate	{"Aggregate": "8"}
+9	e	_		{}
+10	dimostrando	_		{}
+11	presto	_	Relative_time	{"Focal_occasion": "10"}
+12	il	_		{}
+13	proprio	_	Possession	{"Possession": "14"}
+14	talento	_		{}
+15	.	_		{}

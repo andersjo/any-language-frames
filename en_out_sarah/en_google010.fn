@@ -1,0 +1,20 @@
+1	Rapid	_	Speed	{"Speed": "1", "Entity": "2"}
+2	growth	_	Cause_expansion	{"Rate": "1"}
+3	since	_		{}
+4	incorporation	_		{}
+5	has	_		{}
+6	triggered	_	Cause_to_start	{"Medium": "4", "Cause": "2", "Effect": "8"}
+7	a	_	Cardinal_numbers	{"Number": "7", "Entity": "8"}
+8	chain	_	Range	{}
+9	of	_		{}
+10	products	_	Manufacturing	{"Product": "10"}
+11	,	_		{}
+12	acquisitions	_		{}
+13	and	_	Simultaneity	{"Profiled_event": "12", "Landmark_event": "14"}
+14	partnerships	_	Personal_relationship	{"Depictive": "15"}
+15	beyond	_		{}
+16	Google's	_		{}
+17	core	_		{}
+18	search	_	Seeking	{}
+19	engine	_		{}
+20	.	_		{}

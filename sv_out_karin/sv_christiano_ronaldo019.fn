@@ -1,0 +1,31 @@
+1	Ronaldo	_		{}
+2	var	_		{}
+3	då	_	Temporal_collocation	{"Landmark_event": "12"}
+4	bara	_		{}
+5	sexton	_		{}
+6	år	_	Age	{"Attribute": "4", "Age": "5", "Entity": "1", "Circumstances": "12", "Time": "3"}
+7	gammal	_	Age	{"Age": "5", "Entity": "1"}
+8	,	_		{}
+9	varför	_	Reason	{"Action": "12", "Agent": "10", "State_of_Affairs": "5"}
+10	Liverpool	_		{}
+11	slutligen	_	Time_vector	{"Landmark_event": "5", "Event": "12"}
+12	beslöt	_		{}
+13	sig	_		{}
+14	för	_		{}
+15	att	_		{}
+16	inte	_		{}
+17	värva	_		{}
+18	honom	_		{}
+19	,	_		{}
+20	eftersom	_		{}
+21	han	_		{}
+22	var	_		{}
+23	för	_		{}
+24	ung	_	Age	{"Age": "5", "Entity": "1"}
+25	och	_	Simultaneity	{"Profiled_event": "24", "Landmark_event": "27"}
+26	behövde	_		{}
+27	utvecklas	_		{}
+28	ytterligare	_	Continued_state_of_affairs	{"State_of_affairs": "27", "Circumstances": "24"}
+29	som	_		{}
+30	spelare	_	Competition	{"Participant_1": "1"}
+31	.	_		{}

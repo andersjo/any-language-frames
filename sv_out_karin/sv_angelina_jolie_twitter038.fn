@@ -1,0 +1,9 @@
+1	dör	_	Death	{"Reason": "7", "Protagonist": "6", "Cause": "9", "Degree": "2"}
+2	lite	_		{}
+3	inombords	_		{}
+4	varje	_		{}
+5	gång	_	Event_instance	{"Event": "1"}
+6	jag	_	Proper_reference	{"Intended_referent": "6"}
+7	ser	_	Perception_experience	{"Phenomenon": "9", "Perceiver_passive": "6"}
+8	Angelina	_		{}
+9	Jolie	_		{}

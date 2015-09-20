@@ -1,0 +1,19 @@
+1	"	_		{}
+2	Per	_		{}
+3	Ronaldo	_		{}
+4	è	_		{}
+5	inoltre	_		{}
+6	lo	_		{}
+7	stesso	_		{}
+8	numero	_	Instance	{"Type": "8"}
+9	di	_		{}
+10	Luís	_		{}
+11	Figo	_		{}
+12	,	_		{}
+13	futuro	_	Temporal_collocation	{"Trajector_entity": "14"}
+14	compagno	_	Collaboration	{"Undertaking": "16", "Partner_2": "11", "Partner_1": "3"}
+15	di	_		{}
+16	squadra	_	Aggregate	{"Aggregate": "16"}
+17	nel	_		{}
+18	Portogallo	_		{}
+19	.	_		{}

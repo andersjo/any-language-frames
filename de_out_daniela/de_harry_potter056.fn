@@ -1,0 +1,20 @@
+1	Diese	_		{}
+2	Zauberergesellschaft	_		{}
+3	verfügt	_	Have_associated	{"Topical_entity": "2", "Entity": "9"}
+4	in	_		{}
+5	Großbritannien	_		{}
+6	über	_		{}
+7	eine	_		{}
+8	eigene	_		{}
+9	Regierung	_	Leadership	{"Leader": "9", "Governed": "2"}
+10	und	_	Simultaneity	{"Profiled_event": "11", "Landmark_event": "9"}
+11	Verwaltung	_	Leadership	{"Leader": "11", "Governed": "2"}
+12	,	_		{}
+13	das	_		{}
+14	Zaubereiministerium	_		{}
+15	,	_		{}
+16	sowie	_		{}
+17	ein	_		{}
+18	eigenes	_		{}
+19	Wirtschaftssystem	_	Economy	{"Political_region": "2", "Economy": "19"}
+20	.	_		{}

@@ -1,0 +1,38 @@
+1	Nel	_		{}
+2	1999	_		{}
+3	lavora	_	Being_employed	{"Task": "10"}
+4	per	_		{}
+5	il	_		{}
+6	regista	_	Behind_the_scenes	{"Medium": "10", "Production": "12", "Artist": "8"}
+7	Mike	_		{}
+8	Newell	_		{}
+9	nel	_		{}
+10	film	_	Physical_artworks	{"Name": "12", "Artifact": "10", "Creator": "8"}
+11	"	_		{}
+12	Falso	_	Artificiality	{"Entity": "13"}
+13	tracciato	_		{}
+14	"	_		{}
+15	,	_		{}
+16	la	_		{}
+17	pellicola	_	Physical_artworks	{"Name": "12", "Artifact": "17", "Creator": "8"}
+18	ottiene	_	Verdict	{}
+19	una	_		{}
+20	tiepida	_		{}
+21	accoglienza	_	Response	{"Responding_entity": "17", "Manner": "20", "Agent": "24"}
+22	e	_		{}
+23	la	_		{}
+24	stampa	_		{}
+25	,	_		{}
+26	tra	_		{}
+27	cui	_		{}
+28	il	_		{}
+29	"	_		{}
+30	Washington	_		{}
+31	Post	_		{}
+32	"	_		{}
+33	,	_		{}
+34	critica	_	Judgment	{"Topic": "35", "Cognizer": "24", "Evaluee": "37"}
+35	l'interpretazione	_		{}
+36	della	_		{}
+37	Jolie	_		{}
+38	.	_		{}

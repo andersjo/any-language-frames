@@ -1,0 +1,18 @@
+1	Miranda	_		{}
+2	presenta	_	Performers_and_roles	{"Performance": "8", "Type": "16", "Performer1": "1", "Script": "4"}
+3	“	_		{}
+4	Felicidad	_		{}
+5	”	_		{}
+6	,	_		{}
+7	una	_		{}
+8	canción	_	Text	{"Text": "4"}
+9	que	_		{}
+10	rinde	_	Giving_in	{"Compeller": "1", "Capitulator": "8", "Issue": "13"}
+11	tributo	_		{}
+12	al	_		{}
+13	grupo	_	Aggregate	{"Aggregate": "1", "Individuals": "16"}
+14	...	_		{}
+15	-	_		{}
+16	Estereofonica	_		{}
+17	(	_		{}
+18	http://t.co/VfaZG2NnZR	_		{}

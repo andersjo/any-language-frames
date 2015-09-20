@@ -1,0 +1,32 @@
+1	Google	_		{}
+2	Inc	_		{}
+3	.	_		{}
+4	ist	_	Being_in_category	{"Category": "6", "Item": "1"}
+5	ein	_		{}
+6	Unternehmen	_	Businesses	{"Place": "10", "Business": "1"}
+7	mit	_		{}
+8	Hauptsitz	_	Locale_by_use	{"Locale": "8"}
+9	in	_		{}
+10	Mountain	_		{}
+11	View	_		{}
+12	(	_		{}
+13	Santa	_		{}
+14	Clara	_		{}
+15	County	_	Political_locales	{"Locale": "15"}
+16	)	_		{}
+17	,	_		{}
+18	das	_		{}
+19	durch	_		{}
+20	Internetdienstleistungen	_		{}
+21	–	_		{}
+22	insbesondere	_		{}
+23	durch	_		{}
+24	die	_		{}
+25	gleichnamige	_		{}
+26	Suchmaschine	_		{}
+27	„Google	_		{}
+28	“	_		{}
+29	–	_		{}
+30	bekannt	_	Familiarity	{"Context": "26", "Entity": "1"}
+31	wurde	_	Becoming	{"Entity": "1"}
+32	.	_		{}

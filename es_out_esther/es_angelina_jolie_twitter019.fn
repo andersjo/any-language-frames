@@ -1,0 +1,12 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	explica	_	Telling	{"Topic": "8", "Message": "4", "Addressee": "11", "Speaker": "1"}
+4	cómo	_		{}
+5	le	_	Experiencer_obj	{"Stimulus": "6", "Experiencer": "1"}
+6	afectó	_		{}
+7	la	_		{}
+8	muerte	_	Death	{"Protagonist": "11"}
+9	de	_		{}
+10	su	_		{}
+11	madre	_	Kinship	{"Ego": "1", "Alter": "11"}
+12	http://t.co/GEYvHHVxds	_		{}

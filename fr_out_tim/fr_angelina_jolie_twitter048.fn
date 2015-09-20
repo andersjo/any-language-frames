@@ -1,0 +1,22 @@
+1	Bon	_		{}
+2	si	_		{}
+3	personne	_		{}
+4	n’est	_		{}
+5	intéressé	_	Desiring	{"Event": "8", "Experiencer": "3"}
+6	par	_		{}
+7	le	_		{}
+8	film	_	Physical_artworks	{"Artifact": "8"}
+9	d’Angelina	_		{}
+10	Jolie	_		{}
+11	,	_		{}
+12	ptet	_		{}
+13	que	_		{}
+14	ça	_		{}
+15	,	_		{}
+16	ça	_		{}
+17	intéressera	_	Cause_emotion	{"Experiencer": "20", "Event": "16"}
+18	plus	_	Quantity	{"Mass": "20", "Quantity": "18"}
+19	de	_		{}
+20	monde	_	People	{}
+21	8D	_		{}
+22	http://t.co/1gy0H5rnZP	_		{}

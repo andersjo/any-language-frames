@@ -1,0 +1,34 @@
+1	Lancer	_	Cause_motion	{"Theme": "3"}
+2	un	_		{}
+3	sortilège	_		{}
+4	nécessite	_	Required_event	{"Required_situation": "15"}
+5	le	_		{}
+6	plus	_		{}
+7	souvent	_	Frequency	{"Event": "4"}
+8	,	_		{}
+9	mais	_		{}
+10	pas	_		{}
+11	systématiquement	_		{}
+12	,	_		{}
+13	l'usage	_		{}
+14	d'une	_		{}
+15	baguette	_		{}
+16	magique	_		{}
+17	et	_		{}
+18	la	_		{}
+19	prononciation	_		{}
+20	d'une	_		{}
+21	formule	_	Statement	{"Message": "21"}
+22	magique	_		{}
+23	;	_		{}
+24	les	_		{}
+25	sorts	_		{}
+26	sont	_		{}
+27	nombreux	_	Quantity	{"Individuals": "25", "Quantity": "27"}
+28	et	_		{}
+29	peuvent	_	Possibility	{}
+30	avoir	_		{}
+31	des	_		{}
+32	effets	_		{}
+33	variés	_	Diversity	{"Group": "32"}
+34	.	_		{}

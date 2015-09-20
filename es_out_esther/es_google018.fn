@@ -1,0 +1,12 @@
+1	En	_		{}
+2	mayo	_	Calendric_unit	{"Relative_time": "2"}
+3	lanza	_	Creating	{"Created_entity": "5"}
+4	Google	_		{}
+5	Labs	_		{}
+6	que	_		{}
+7	cerrará	_		{}
+8	9	_		{}
+9	años	_	Calendric_unit	{"Relative_time": "9"}
+10	más	_	Increment	{"Class": "9", "Initial_set": "9"}
+11	tarde	_	Relative_time	{"Focal_occasion": "9", "Focal_participant": "5", "Landmark_occasion": "9"}
+12	.	_		{}

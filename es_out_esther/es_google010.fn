@@ -1,0 +1,38 @@
+1	Page	_		{}
+2	y	_		{}
+3	Brin	_		{}
+4	fundan	_	Execute_plan	{"Medium": "21", "Plan": "14", "Agent": "1"}
+5	,	_		{}
+6	el	_		{}
+7	4	_	Cardinal_numbers	{"Number": "7", "Entity": "9"}
+8	de	_		{}
+9	septiembre	_	Calendric_unit	{"Relative_time": "7", "Whole": "11", "Unit": "9"}
+10	de	_		{}
+11	1998	_		{}
+12	,	_		{}
+13	la	_		{}
+14	compañía	_	Businesses	{"Business": "15"}
+15	Google	_		{}
+16	Inc	_		{}
+17	.,	_		{}
+18	que	_		{}
+19	estrena	_		{}
+20	en	_		{}
+21	Internet	_	Network	{"Network": "25"}
+22	su	_		{}
+23	motor	_		{}
+24	de	_		{}
+25	búsqueda	_	Scrutiny	{"Cognizer": "14"}
+26	el	_		{}
+27	27	_		{}
+28	de	_		{}
+29	septiembre	_	Calendric_unit	{"Relative_time": "27", "Whole": "30", "Unit": "29"}
+30	siguiente	_	Relative_time	{"Focal_occasion": "19", "Focal_participant": "27", "Landmark_occasion": "36"}
+31	(	_		{}
+32	considerada	_	Assessing	{"Phenomenon": "36", "Feature": "34"}
+33	la	_		{}
+34	fecha	_	Location_in_time	{"Relative_time": "27", "Whole": "34", "Unit": "29"}
+35	de	_		{}
+36	aniversario	_	Commemorative	{"Dedicated_type": "34", "Dedicated_entity": "15", "Honored_entity": "15"}
+37	)	_		{}
+38	.	_		{}

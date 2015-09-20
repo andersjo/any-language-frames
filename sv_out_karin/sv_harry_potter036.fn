@@ -1,0 +1,61 @@
+1	Författaren	_		{}
+2	Joanne	_		{}
+3	Katleen	_		{}
+4	Rowling	_		{}
+5	(	_		{}
+6	”	_		{}
+7	It’s	_		{}
+8	Rowling	_		{}
+9	like	_		{}
+10	’	_		{}
+11	bowling	_		{}
+12	’”	_		{}
+13	svarade	_		{}
+14	hon	_		{}
+15	–	_		{}
+16	med	_		{}
+17	en	_	Cardinal_numbers	{"Number": "17", "Entity": "19"}
+18	underförstådd	_	Volubility	{"Speaker": "4"}
+19	ordvits	_		{}
+20	till	_		{}
+21	engelska	_		{}
+22	ordet	_		{}
+23	’	_		{}
+24	rolling	_		{}
+25	’	_		{}
+26	,	_		{}
+27	rullande	_		{}
+28	–	_		{}
+29	när	_		{}
+30	ett	_	Cardinal_numbers	{"Number": "30", "Entity": "31"}
+31	fan	_	Personal_relationship	{"Partner_2": "31", "Partner_1": "4"}
+32	undrade	_		{}
+33	hur	_		{}
+34	man	_		{}
+35	uttalade	_		{}
+36	hennes	_		{}
+37	namn	_	Being_named	{"Name": "4"}
+38	)	_		{}
+39	har	_		{}
+40	vid	_		{}
+41	flera	_	Quantity	{"Individuals": "42"}
+42	tillfällen	_		{}
+43	berättat	_		{}
+44	att	_		{}
+45	idén	_		{}
+46	till	_		{}
+47	Harry	_		{}
+48	Potter-böckerna	_		{}
+49	uppstod	_		{}
+50	,	_		{}
+51	relativt	_		{}
+52	färdig	_	Activity_done_state	{"Place": "56", "Agent": "4", "Activity": "45"}
+53	,	_		{}
+54	under	_		{}
+55	en	_	Cardinal_numbers	{"Number": "55", "Entity": "56"}
+56	tågresa	_		{}
+57	mellan	_		{}
+58	Manchester	_		{}
+59	och	_		{}
+60	London	_		{}
+61	.	_		{}

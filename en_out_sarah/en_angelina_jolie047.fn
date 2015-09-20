@@ -1,0 +1,25 @@
+1	She	_		{}
+2	explained	_	Explaining_the_facts	{"Fact": "15", "State_of_affairs": "7"}
+3	that	_		{}
+4	because	_		{}
+5	she	_		{}
+6	had	_		{}
+7	adopted	_	Getting	{"Theme": "8", "Recipient": "5"}
+8	her	_		{}
+9	son	_	Kinship	{"Ego": "8", "Alter": "9"}
+10	Maddox	_		{}
+11	,	_		{}
+12	she	_		{}
+13	did	_		{}
+14	not	_		{}
+15	think	_	Regard	{"Cognizer": "12", "Judgment": "18", "Evaluee": "24"}
+16	it	_		{}
+17	was	_		{}
+18	healthy	_	Medical_conditions	{"Patient": "20"}
+19	for	_		{}
+20	her	_		{}
+21	to	_		{}
+22	associate	_	Personal_relationship	{"Partner_2": "24", "Partner_1": "29"}
+23	with	_		{}
+24	Voight	_		{}
+25	.	_		{}

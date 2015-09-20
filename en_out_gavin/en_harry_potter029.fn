@@ -1,0 +1,23 @@
+1	Harry's	_		{}
+2	first	_	First_experience	{"Experience": "3"}
+3	contact	_	Come_together	{"Party_2": "7", "Party_1": "1"}
+4	with	_		{}
+5	the	_		{}
+6	wizarding	_	Performers_and_roles	{"Performance": "6"}
+7	world	_	Locale	{"Locale": "7", "Descriptor": "6"}
+8	is	_		{}
+9	through	_		{}
+10	a	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	half-giant	_		{}
+12	,	_		{}
+13	Rubeus	_		{}
+14	Hagrid	_		{}
+15	,	_		{}
+16	keeper	_		{}
+17	of	_		{}
+18	grounds	_	Locale	{"Locale": "18", "Relative_location": "21"}
+19	and	_		{}
+20	keys	_	Natural_features	{"Locale": "20"}
+21	at	_		{}
+22	Hogwarts	_		{}
+23	.	_		{}

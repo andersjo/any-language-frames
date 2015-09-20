@@ -1,0 +1,25 @@
+1	@AhmedACM_	_		{}
+2	@Inter_Data	_		{}
+3	Simone	_		{}
+4	Barone	_		{}
+5	won	_	Win_prize	{"Competitor": "4", "Prize": "6"}
+6	WC	_		{}
+7	,	_		{}
+8	Christiano	_		{}
+9	Ronaldo	_		{}
+10	and	_		{}
+11	Messi	_		{}
+12	didn't	_		{}
+13	win	_	Win_prize	{"Competitor": "9", "Prize": "14", "Circumstances": "15"}
+14	WC	_	Containers	{"Container": "14"}
+15	yet	_	Continued_state_of_affairs	{"State_of_affairs": "13"}
+16	,	_		{}
+17	so	_		{}
+18	Barone	_		{}
+19	better	_	Surpassing	{"Standard_item": "21", "Profiled_item": "18"}
+20	than	_		{}
+21	two	_	Cardinal_numbers	{"Number": "21", "Entity": "23"}
+22	of	_		{}
+23	them	_		{}
+24	.	_		{}
+25	#whatalogic	_		{}

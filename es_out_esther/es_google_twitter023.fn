@@ -1,0 +1,24 @@
+1	Boca	_		{}
+2	no	_		{}
+3	podes	_		{}
+4	perder	_	Losing	{"Owner": "1"}
+5	,	_		{}
+6	yo	_	Proper_reference	{"Intended_referent": "6"}
+7	siempre	_	Frequency	{"Interval": "7", "Salient_entity": "6", "Event": "11", "Degree": "7"}
+8	te	_		{}
+9	vengo	_		{}
+10	a	_		{}
+11	ver	_	Attending	{"Event": "11", "Agent": "6"}
+12	la	_		{}
+13	vuelta	_	Undergo_change	{"Initial_category": "4", "Final_category": "16", "Entity": "1"}
+14	vamos	_	Cause_change_of_position_on_a_scale	{"Cause": "4", "Agent": "1"}
+15	a	_		{}
+16	dar	_	Cause_change	{"Initial_value": "4", "Final_value": "13", "Agent": "1", "Entity": "1"}
+17	.	_		{}
+18	Bajate	_		{}
+19	la	_		{}
+20	app	_		{}
+21	@La12Tuitea	_		{}
+22	http://t.co/WdUK2KRRx4	_		{}
+23	#TeExtra	_		{}
+24	ñoBoca	_		{}

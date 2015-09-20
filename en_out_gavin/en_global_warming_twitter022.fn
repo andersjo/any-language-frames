@@ -1,0 +1,16 @@
+1	I	_		{}
+2	believe	_	Religious_belief	{"Believer": "1", "Element": "3"}
+3	in	_		{}
+4	global	_	Political_locales	{"Locale": "4"}
+5	warming	_	Temperature	{"Temperature": "5", "Entity": "4"}
+6	because	_		{}
+7	Detroit	_		{}
+8	is	_		{}
+9	having	_	Have_associated	{"Topical_entity": "7", "Entity": "11"}
+10	a	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	meltdown	_		{}
+12	right	_		{}
+13	before	_	Relative_time	{"Focal_occasion": "11", "Focal_participant": "7", "Landmark_occasion": "15"}
+14	my	_		{}
+15	eyes	_	Observable_body_parts	{"Body_part": "15", "Possessor": "14"}
+16	#DETvsDAL	_		{}

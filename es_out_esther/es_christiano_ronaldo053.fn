@@ -1,0 +1,41 @@
+1	Unos	_	Cardinal_numbers	{"Number": "1", "Entity": "2"}
+2	días	_	Calendric_unit	{"Relative_time": "3", "Whole": "2", "Unit": "1"}
+3	después	_	Relative_time	{}
+4	,	_		{}
+5	el	_		{}
+6	13	_	Quantity	{"Individuals": "8", "Quantity": "6"}
+7	de	_		{}
+8	abril	_	Calendric_unit	{"Whole": "8", "Unit": "6"}
+9	,	_		{}
+10	amplió	_		{}
+11	su	_		{}
+12	contrato	_	Being_obligated	{"Duty": "12", "Responsible_party": "15"}
+13	con	_		{}
+14	el	_		{}
+15	United	_		{}
+16	hasta	_		{}
+17	2012	_		{}
+18	,	_		{}
+19	y	_		{}
+20	su	_		{}
+21	renovación	_	Reforming_a_system	{"Entity": "15"}
+22	le	_		{}
+23	aseguró	_		{}
+24	ocho	_	Cardinal_numbers	{"Number": "24", "Entity": "25"}
+25	millones	_	Quantity	{"Individuals": "24", "Quantity": "25"}
+26	de	_		{}
+27	euros	_		{}
+28	netos	_	Earnings_and_losses	{"Earnings": "25"}
+29	por	_		{}
+30	temporada	_	Sequence	{}
+31	,	_		{}
+32	situándolo	_		{}
+33	dentro	_		{}
+34	de	_		{}
+35	los	_		{}
+36	futbolistas	_		{}
+37	mejor	_		{}
+38	pagados	_		{}
+39	del	_		{}
+40	mundo	_	Locale	{"Locale": "40"}
+41	.	_		{}

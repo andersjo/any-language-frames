@@ -1,0 +1,23 @@
+1	Google	_		{}
+2	har	_		{}
+3	för	_		{}
+4	vana	_	Custom	{"Protagonist": "1", "Behavior": "6"}
+5	att	_		{}
+6	specialanpassa	_		{}
+7	sin	_		{}
+8	logotyp	_		{}
+9	vid	_		{}
+10	olika	_		{}
+11	evenemang	_	Event	{"Place": "1"}
+12	eller	_		{}
+13	för	_		{}
+14	att	_		{}
+15	hylla	_	Judgment_communication	{"Communicator": "1", "Manner": "6", "Evaluee": "16", "Means": "22"}
+16	personligheter	_		{}
+17	till	_		{}
+18	en	_	Cardinal_numbers	{"Number": "18", "Entity": "22"}
+19	så	_		{}
+20	kallad	_		{}
+21	Google	_		{}
+22	Doodle	_		{}
+23	.	_		{}

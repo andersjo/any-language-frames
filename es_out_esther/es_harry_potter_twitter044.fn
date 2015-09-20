@@ -1,0 +1,18 @@
+1	harry	_		{}
+2	potter	_		{}
+3	y	_	Simultaneity	{}
+4	el	_		{}
+5	misterio	_	Text	{"Text": "5"}
+6	de	_		{}
+7	como	_		{}
+8	sentirse	_	Feeling	{"Emotion": "8", "Evaluation": "9", "Emotional_state": "8"}
+9	guapa	_	Aesthetics	{"Attribute": "9"}
+10	cuando	_		{}
+11	eres	_	Being_in_category	{"Category": "13"}
+12	mas	_		{}
+13	fea	_	Fear	{}
+14	que	_		{}
+15	un	_		{}
+16	cerdo	_		{}
+17	comiendo	_	Ingestion	{"Ingestibles": "18", "Ingestor": "16"}
+18	mierda	_		{}

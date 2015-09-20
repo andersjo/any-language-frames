@@ -1,0 +1,24 @@
+1	In	_		{}
+2	November	_	Calendric_unit	{"Whole": "2"}
+3	2002	_		{}
+4	,	_		{}
+5	Ronaldo	_		{}
+6	was	_		{}
+7	invited	_	Request	{"Addressee": "5"}
+8	to	_		{}
+9	Arsenal's	_		{}
+10	training	_	Education_teaching	{"Institution": "9"}
+11	ground	_	Locale_by_ownership	{"Locale": "9", "Name": "13"}
+12	,	_		{}
+13	London	_		{}
+14	Colney	_		{}
+15	to	_		{}
+16	meet	_	Make_acquaintance	{"Individual_1": "5", "Individual_2": "18", "Place": "13", "Time": "3"}
+17	manager	_	People_by_vocation	{"Person": "18"}
+18	Arsène	_		{}
+19	Wenger	_		{}
+20	and	_		{}
+21	his	_		{}
+22	coaching	_	People_by_vocation	{"Person": "23"}
+23	staff	_	Set_of_interrelated_entities	{"Component_entities": "23"}
+24	.	_		{}

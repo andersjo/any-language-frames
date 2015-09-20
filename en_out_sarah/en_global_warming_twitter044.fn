@@ -1,0 +1,21 @@
+1	@blondpidge	_		{}
+2	Let's	_		{}
+3	face	_	Confronting_problem	{"Issue": "4", "Agent": "2", "Means": "17"}
+4	it	_		{}
+5	,	_		{}
+6	you'll	_		{}
+7	never	_	Frequency	{"Time_span": "7"}
+8	be	_	Being_in_category	{"Category": "13", "Item": "6", "Criteria": "14"}
+9	a	_	Cardinal_numbers	{"Number": "9", "Entity": "11"}
+10	global	_	Political_locales	{"Locale": "10"}
+11	warming	_		{}
+12	True	_	Artificiality	{"Type": "12", "Entity": "13"}
+13	Believer	_		{}
+14	if	_		{}
+15	you	_		{}
+16	can't	_	Capability	{"Role": "13", "Entity": "15"}
+17	falsify	_	Forging	{"Forgery": "19", "Agent": "15"}
+18	simple	_	Difficulty	{"Activity": "19"}
+19	maths	_		{}
+20	stuff	_		{}
+21	.	_		{}

@@ -1,0 +1,31 @@
+1	Söktjänsten	_		{}
+2	Google	_		{}
+3	har	_	Have_associated	{"Topical_entity": "8", "Entity": "2"}
+4	en	_	Cardinal_numbers	{"Number": "4", "Precision": "5", "Entity": "6"}
+5	stark	_	Being_strong	{"Place": "8", "Entity": "6"}
+6	ställning	_		{}
+7	i	_	Political_locales	{"Locale": "8"}
+8	Sverige	_		{}
+9	och	_	Simultaneity	{"Profiled_event": "6", "Landmark_event": "14"}
+10	över	_		{}
+11	90%	_		{}
+12	av	_		{}
+13	internetsökningarna	_		{}
+14	sker	_		{}
+15	via	_		{}
+16	Google	_		{}
+17	,	_		{}
+18	jämfört	_		{}
+19	med	_		{}
+20	t	_		{}
+21	ex	_		{}
+22	mellan	_		{}
+23	65%	_		{}
+24	och	_		{}
+25	70%	_		{}
+26	i	_	Political_locales	{"Locale": "27"}
+27	USA	_		{}
+28	(	_		{}
+29	2010	_		{}
+30	)	_		{}
+31	.	_		{}

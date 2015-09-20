@@ -1,0 +1,34 @@
+1	Cristiano	_		{}
+2	Ronaldo	_		{}
+3	fait	_		{}
+4	ses	_		{}
+5	débuts	_	Process_start	{"Time": "11"}
+6	dans	_		{}
+7	le	_		{}
+8	championnat	_		{}
+9	portugais	_		{}
+10	le	_		{}
+11	29	_		{}
+12	septembre	_	Calendric_unit	{"Whole": "11"}
+13	2002	_		{}
+14	avec	_		{}
+15	le	_		{}
+16	Sporting	_		{}
+17	Clube	_		{}
+18	de	_		{}
+19	Portugal	_		{}
+20	à	_		{}
+21	dix-sept	_		{}
+22	ans	_	Age	{"Age": "21", "Entity": "2"}
+23	contre	_		{}
+24	Moreirense	_		{}
+25	au	_		{}
+26	cours	_		{}
+27	d'un	_		{}
+28	match	_	Competition	{"Participant_2": "24", "Participant_1": "2", "Competition": "28"}
+29	où	_		{}
+30	il	_		{}
+31	marque	_	Hit_target	{"Agent": "30"}
+32	un	_		{}
+33	doublé	_		{}
+34	.	_		{}

@@ -1,0 +1,18 @@
+1	@EvilQueen_Erase	_		{}
+2	sabes	_	Awareness	{"Content": "4", "Topic": "6"}
+3	lo	_		{}
+4	peor	_	Continued_state_of_affairs	{"Reference_occasion": "6", "State_of_affairs": "6"}
+5	de	_		{}
+6	todo	_	Quantity	{"Individuals": "4", "Mass": "6"}
+7	?	_		{}
+8	Ella	_		{}
+9	se	_		{}
+10	atrevió	_		{}
+11	a	_		{}
+12	decirme	_	Telling	{"Topic": "14", "Message": "14", "Speaker": "8"}
+13	que	_		{}
+14	Harry	_		{}
+15	Potter	_		{}
+16	era	_	Being_in_category	{"Category": "17", "Item": "14"}
+17	ficción	_	Text	{"Text": "17"}
+18	!	_		{}

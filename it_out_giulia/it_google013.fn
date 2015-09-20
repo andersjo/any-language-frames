@@ -1,0 +1,32 @@
+1	Quest'importante	_		{}
+2	acquisizione	_		{}
+3	strategica	_		{}
+4	ha	_		{}
+5	rafforzato	_		{}
+6	il	_		{}
+7	portfolio	_		{}
+8	di	_		{}
+9	brevetti	_		{}
+10	dell'azienda	_		{}
+11	,	_		{}
+12	oltre	_		{}
+13	a	_		{}
+14	garantire	_		{}
+15	in	_		{}
+16	futuro	_	Possibilities	{"Salient_entity": "10", "Event": "20"}
+17	la	_		{}
+18	possibilità	_	Possibilities	{"Salient_entity": "10", "Event": "20"}
+19	di	_		{}
+20	produrre	_	Manufacturing	{"Product": "23", "Manufacturer": "10"}
+21	i	_		{}
+22	propri	_		{}
+23	dispositivi	_	Gizmo	{"Gizmo": "23"}
+24	anziché	_		{}
+25	limitarsi	_		{}
+26	alla	_		{}
+27	progettazione	_	Coming_up_with	{"Cognizer": "10", "Idea": "27"}
+28	del	_		{}
+29	solo	_	Sole_instance	{"Item": "30"}
+30	sistema	_	Gizmo	{"Descriptor": "31", "Gizmo": "30"}
+31	operativo	_	Being_in_operation	{}
+32	.	_		{}

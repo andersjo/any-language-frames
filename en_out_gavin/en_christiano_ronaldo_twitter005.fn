@@ -1,0 +1,21 @@
+1	@RaypowerNetwork	_		{}
+2	my	_		{}
+3	favourite	_		{}
+4	man	_	People	{"Person": "10"}
+5	of	_		{}
+6	the	_		{}
+7	year	_	Calendric_unit	{"Unit": "7"}
+8	is	_		{}
+9	christiano	_		{}
+10	ronaldo	_		{}
+11	...!!!	_		{}
+12	Cos	_		{}
+13	he	_		{}
+14	achieved	_	Accomplishment	{"Goal": "20", "Agent": "13", "Time": "21"}
+15	and	_		{}
+16	broke	_	Wealthiness	{}
+17	a	_	Cardinal_numbers	{"Number": "17", "Entity": "18"}
+18	lot	_	Quantity	{"Individuals": "20", "Quantity": "18"}
+19	of	_		{}
+20	record	_	Text	{"Text": "20"}
+21	2014	_		{}

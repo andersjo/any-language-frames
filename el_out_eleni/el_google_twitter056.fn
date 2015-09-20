@@ -1,0 +1,23 @@
+1	News	_		{}
+2	:	_		{}
+3	Ανοιχτή	_		{}
+4	προπόνηση	_	Practice	{"Action": "4", "Occasion": "3"}
+5	,	_		{}
+6	Τρίτη	_		{}
+7	στις	_		{}
+8	12	_	Cardinal_numbers	{"Number": "8", "Entity": "10"}
+9	το	_		{}
+10	μεσημέρι	_	Calendric_unit	{"Relative_time": "8", "Whole": "10"}
+11	...	_		{}
+12	Ανοιχτή	_		{}
+13	προπόνηση	_	Practice	{"Action": "13", "Occasion": "12"}
+14	,	_		{}
+15	Τρίτη	_		{}
+16	στις	_		{}
+17	12	_	Cardinal_numbers	{"Number": "17", "Entity": "19"}
+18	το	_		{}
+19	μεσημέρι	_	Calendric_unit	{"Relative_time": "17", "Whole": "19"}
+20	...	_		{}
+21	Γήπεδο	_		{}
+22	...	_		{}
+23	http://t.co/WTBkRR2LsT	_		{}

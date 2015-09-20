@@ -1,0 +1,14 @@
+1	“	_		{}
+2	@CuteEmergency	_		{}
+3	:	_		{}
+4	please	_		{}
+5	stop	_	Process_stop	{"Process": "7"}
+6	global	_	Political_locales	{"Locale": "6"}
+7	warming	_	Temperature	{"Temperature": "7", "Entity": "6"}
+8	..	_		{}
+9	http://t.co/sredu0FdT8	_		{}
+10	”	_		{}
+11	THIS	_	Proper_reference	{"Intended_referent": "9"}
+12	MAKES	_	Causation	{"Affected": "13", "Cause": "11"}
+13	ME	_	Proper_reference	{"Intended_referent": "13"}
+14	SAD	_	Emotion_directed	{"Stimulus": "11", "Experiencer": "13"}

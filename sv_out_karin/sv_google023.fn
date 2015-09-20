@@ -1,0 +1,31 @@
+1	Logotypen	_		{}
+2	hade	_		{}
+3	vid	_		{}
+4	första	_	Ordinal_numbers	{"Comparison_set": "5"}
+5	början	_	Process_start	{"Time": "6"}
+6	1996	_		{}
+7	ett	_	Cardinal_numbers	{"Number": "7", "Entity": "9"}
+8	grönt	_	Color	{"Color": "8", "Entity": "9"}
+9	G	_		{}
+10	,	_		{}
+11	sedan	_	Temporal_collocation	{"Trajector_event": "22", "Landmark_event": "8"}
+12	ändrades	_		{}
+13	det	_		{}
+14	gröna	_	Color	{"Color": "14", "Entity": "15"}
+15	G	_		{}
+16	:	_		{}
+17	et	_		{}
+18	i	_		{}
+19	Google	_		{}
+20	till	_		{}
+21	ett	_	Cardinal_numbers	{"Number": "21", "Precision": "22", "Entity": "15"}
+22	mörkblått	_		{}
+23	samtidigt	_	Simultaneity	{"Profiled_event": "26", "Landmark_event": "22"}
+24	som	_		{}
+25	ett	_	Cardinal_numbers	{"Number": "25", "Entity": "26"}
+26	utropstecken	_		{}
+27	i	_		{}
+28	företagsnamnet	_		{}
+29	lades	_		{}
+30	till	_		{}
+31	.	_		{}

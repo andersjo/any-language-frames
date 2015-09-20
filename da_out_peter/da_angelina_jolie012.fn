@@ -1,0 +1,22 @@
+1	I	_		{}
+2	foråret	_	Calendric_unit	{"Whole": "3", "Unit": "2"}
+3	2013	_		{}
+4	meddelte	_		{}
+5	hun	_	People	{"Person": "5"}
+6	,	_		{}
+7	at	_		{}
+8	hun	_	People	{"Person": "8"}
+9	havde	_		{}
+10	fået	_		{}
+11	foretaget	_		{}
+12	en	_		{}
+13	brystoperation	_		{}
+14	,	_		{}
+15	hvor	_		{}
+16	hun	_	People	{"Person": "16"}
+17	havde	_		{}
+18	fået	_		{}
+19	fjernet	_		{}
+20	begge	_		{}
+21	bryster	_	Observable_body_parts	{"Body_part": "21", "Possessor": "16"}
+22	.	_		{}

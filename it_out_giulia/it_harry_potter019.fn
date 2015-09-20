@@ -1,0 +1,21 @@
+1	La	_		{}
+2	saga	_	Text	{"Genre": "12", "Text": "2"}
+3	di	_		{}
+4	"	_		{}
+5	Harry	_		{}
+6	Potter	_		{}
+7	"	_		{}
+8	appartiene	_	Membership	{"Member": "2", "Group": "11"}
+9	sia	_		{}
+10	al	_		{}
+11	genere	_	Type	{"Subtype": "12"}
+12	fantasy	_		{}
+13	che	_		{}
+14	al	_		{}
+15	genere	_	Type	{"Subtype": "18"}
+16	classico	_		{}
+17	del	_		{}
+18	romanzo	_	Text	{"Text": "18"}
+19	di	_		{}
+20	formazione	_		{}
+21	.	_		{}

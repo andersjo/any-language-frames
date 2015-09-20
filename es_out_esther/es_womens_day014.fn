@@ -1,0 +1,27 @@
+1	Marchando	_	Moving_in_place	{"Theme": "1"}
+2	hacia	_	Direction	{"Path": "3"}
+3	Versalles	_		{}
+4	,	_		{}
+5	junto	_	Collaboration	{"Partner_2": "8", "Partner_1": "11"}
+6	a	_		{}
+7	los	_		{}
+8	hombres	_	People	{"Person": "8"}
+9	,	_		{}
+10	las	_		{}
+11	mujeres	_	People	{"Person": "11"}
+12	parisinas	_		{}
+13	reclamaron	_	Request	{"Topic": "15", "Message": "19", "Medium": "19", "Speaker": "11", "Addressee": "8"}
+14	la	_		{}
+15	igualdad	_	Identicality	{"Current_instance": "15", "Type": "16"}
+16	social	_	Social_interaction_evaluation	{"Topic": "15", "Expressor": "11", "Evaluee": "11", "Behavior": "13", "Affected_party": "11"}
+17	bajo	_		{}
+18	el	_		{}
+19	lema	_		{}
+20	«	_		{}
+21	libertad	_		{}
+22	,	_		{}
+23	igualdad	_	Identicality	{"Current_instance": "23"}
+24	y	_		{}
+25	fraternidad	_	Organization	{}
+26	»	_		{}
+27	.	_		{}

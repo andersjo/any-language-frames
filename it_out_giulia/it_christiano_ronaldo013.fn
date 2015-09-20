@@ -1,0 +1,27 @@
+1	Al	_		{}
+2	2014	_		{}
+3	,	_		{}
+4	con	_		{}
+5	un	_		{}
+6	patrimonio	_	Possession	{"Possession": "6"}
+7	di	_		{}
+8	148	_		{}
+9	milioni	_	Cardinal_numbers	{"Number": "9", "Entity": "11"}
+10	di	_		{}
+11	euro	_		{}
+12	,	_		{}
+13	è	_		{}
+14	il	_		{}
+15	calciatore	_		{}
+16	più	_		{}
+17	ricco	_	Wealthiness	{}
+18	del	_		{}
+19	mondo	_	Locale	{"Locale": "19"}
+20	davanti	_		{}
+21	a	_		{}
+22	Lionel	_		{}
+23	Messi	_		{}
+24	e	_		{}
+25	Samuel	_		{}
+26	Eto'o	_		{}
+27	.	_		{}

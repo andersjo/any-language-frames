@@ -1,0 +1,14 @@
+1	Si	_		{}
+2	ça	_		{}
+3	devait	_		{}
+4	arriver	_	Coming_to_be	{"Entity": "2"}
+5	j'espère	_	Desiring	{"Event": "2"}
+6	du	_		{}
+7	fond	_	Part_orientational	{"Part": "7", "Whole": "9"}
+8	du	_		{}
+9	coeur	_	Observable_body_parts	{"Body_part": "9"}
+10	être	_		{}
+11	Angelina	_		{}
+12	Jolie	_		{}
+13	ds	_		{}
+14	l'histoire	_		{}

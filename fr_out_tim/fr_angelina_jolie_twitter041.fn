@@ -1,0 +1,21 @@
+1	Pour	_		{}
+2	comprendre	_	Grasp	{"Phenomenon": "3"}
+3	l'admiration	_		{}
+4	que	_		{}
+5	j'ai	_		{}
+6	pour	_		{}
+7	Angelina	_		{}
+8	Jolie	_		{}
+9	et	_		{}
+10	ses	_		{}
+11	semblables	_	Similarity	{"Entity_1": "7", "Entity_2": "11"}
+12	,	_		{}
+13	je	_		{}
+14	vous	_		{}
+15	recommande	_	Attempt_suasion	{"Content": "17", "Addressee": "14", "Speaker": "13"}
+16	son	_		{}
+17	portrait	_		{}
+18	dans	_		{}
+19	le	_		{}
+20	dernier	_	Version_sequence	{"Item": "21"}
+21	@VanityFairFR	_		{}

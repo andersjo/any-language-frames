@@ -1,0 +1,34 @@
+1	After	_	Relative_time	{"Focal_occasion": "9", "Focal_participant": "8", "Landmark_occasion": "4"}
+2	the	_		{}
+3	introductory	_	Preliminaries	{"Preparatory_phase": "4"}
+4	chapter	_	Part_ordered_segments	{"Ordinality": "3", "Whole": "7", "Part": "4"}
+5	,	_		{}
+6	the	_		{}
+7	book	_	Text	{"Text": "7"}
+8	leaps	_	Self_motion	{"Direction": "9", "Goal": "10", "Self_mover": "7"}
+9	forward	_	Direction	{"Path": "9"}
+10	to	_		{}
+11	a	_	Cardinal_numbers	{"Number": "11", "Entity": "12"}
+12	time	_	Event_instance	{"Instance": "12"}
+13	shortly	_	Speed	{"Speed": "13"}
+14	before	_	Relative_time	{"Focal_occasion": "9", "Focal_participant": "8", "Landmark_occasion": "18"}
+15	Harry	_		{}
+16	Potter's	_		{}
+17	eleventh	_		{}
+18	birthday	_	Commemorative	{"Dedicated_entity": "18", "Honored_entity": "16"}
+19	,	_		{}
+20	and	_		{}
+21	it	_		{}
+22	is	_	Existence	{"Time": "23", "Entity": "21"}
+23	at	_		{}
+24	this	_	Proper_reference	{"Intended_referent": "25"}
+25	point	_		{}
+26	that	_		{}
+27	his	_		{}
+28	magical	_	Ineffability	{"Stimulus": "29"}
+29	background	_	Attributed_information	{"Text": "29"}
+30	begins	_	Activity_start	{"Time": "32", "Activity": "32"}
+31	to	_		{}
+32	be	_		{}
+33	revealed	_	Reveal_secret	{"Information": "29"}
+34	.	_		{}

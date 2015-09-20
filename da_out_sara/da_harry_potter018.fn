@@ -1,0 +1,37 @@
+1	Han	_		{}
+2	møder	_	Social_event	{"Attendee": "5"}
+3	også	_		{}
+4	drengen	_	People_by_age	{"Persistent_characteristic": "13", "Person": "5", "Ethnicity": "8"}
+5	Draco	_		{}
+6	Malfoy	_		{}
+7	fra	_		{}
+8	Slytherin-kollegiet	_		{}
+9	,	_		{}
+10	der	_		{}
+11	bliver	_	Installing	{"Component": "5", "Fixed_location": "13"}
+12	Harrys	_		{}
+13	ærkerival	_		{}
+14	på	_		{}
+15	skolen	_	Locale_by_use	{"Locale": "15"}
+16	,	_		{}
+17	og	_		{}
+18	han	_		{}
+19	kommer	_		{}
+20	til	_		{}
+21	at	_		{}
+22	kæmpe	_	Hostile_encounter	{"Side_2": "27", "Side_1": "12"}
+23	mod	_		{}
+24	den	_		{}
+25	onde	_	People_by_morality	{"Persistent_characteristic": "25", "Person": "26"}
+26	troldmand	_	Expertise	{"Behavior_product": "25", "Protagonist": "27", "Role": "26"}
+27	Lord	_		{}
+28	Voldemort	_		{}
+29	,	_		{}
+30	der	_		{}
+31	forsøgte	_		{}
+32	at	_		{}
+33	dræbe	_	Killing	{"Killer": "27", "Victim": "34", "Time": "36"}
+34	Harry	_		{}
+35	som	_		{}
+36	spæd	_		{}
+37	.	_		{}

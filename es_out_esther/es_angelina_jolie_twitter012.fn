@@ -1,0 +1,20 @@
+1	Una	_		{}
+2	fotografía	_	Physical_artworks	{"Artifact": "2"}
+3	que	_		{}
+4	se	_		{}
+5	pasa	_	Arriving	{"Theme": "2", "Goal": "7"}
+6	de	_		{}
+7	buena	_	Correctness	{"Topic": "2", "Communicative_act": "5"}
+8	y	_		{}
+9	una	_		{}
+10	dirección	_	Be_in_control	{"Controlling_entity": "14", "Dependent_entity": "10"}
+11	por	_		{}
+12	parte	_	Cause_change_of_position_on_a_scale	{"Agent": "14"}
+13	de	_		{}
+14	Angelina	_		{}
+15	Jolie	_		{}
+16	muy	_	Degree	{"Gradable_attribute": "17"}
+17	bien	_	Degree	{"Gradable_attribute": "18"}
+18	trabajada	_	Manipulation	{"Agent": "14"}
+19	.	_		{}
+20	#Invencible	_		{}

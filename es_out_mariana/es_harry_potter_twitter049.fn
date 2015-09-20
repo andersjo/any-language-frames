@@ -1,0 +1,26 @@
+1	Todos	_	Quantity	{"Individuals": "19", "Mass": "23"}
+2	tenemos	_	Containing	{"Container": "1", "Contents": "3"}
+3	luz	_	Substance	{}
+4	y	_	Simultaneity	{"Profiled_event": "5", "Landmark_event": "3"}
+5	oscuridad	_		{}
+6	en	_		{}
+7	nuestro	_		{}
+8	interior	_	Part_inner_outer	{"Part": "8", "Whole": "1"}
+9	lo	_		{}
+10	que	_	Submitting_documents	{}
+11	importa	_	Importance	{"Interested_party": "1", "Degree": "14", "Undertaking": "16", "Explanation": "16", "Field": "16", "Reason": "16", "Factor": "1"}
+12	es	_	Causation	{"Affected": "15", "Cause": "15", "Actor": "1"}
+13	que	_		{}
+14	parte	_	Possibilities	{"Number_of_possibilities": "3", "Salient_entity": "1", "Event": "16", "Agent": "1"}
+15	decidimos	_	Deciding	{"Possibilities": "3", "Cognizer": "1", "Decision": "1"}
+16	potenciar	_	Progress	{"Domain": "8", "Entity": "8"}
+17	.	_		{}
+18	(	_		{}
+19	Harry	_		{}
+20	Potter	_		{}
+21	y	_	Simultaneity	{}
+22	la	_		{}
+23	orden	_	Organization	{"Descriptor": "25", "Name": "23", "Members": "19", "Organization": "25"}
+24	del	_		{}
+25	Fenix	_		{}
+26	)	_		{}

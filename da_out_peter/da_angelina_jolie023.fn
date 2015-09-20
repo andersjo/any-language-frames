@@ -1,0 +1,49 @@
+1	Desuden	_		{}
+2	har	_	Have_associated	{"Topical_entity": "3", "Entity": "4"}
+3	hun	_	People	{"Person": "3"}
+4	tatoveringer	_	Body_decoration	{"Decoration": "4", "Picture": "10", "Decorated_individual": "3"}
+5	med	_		{}
+6	den	_		{}
+7	arabiske	_		{}
+8	frase	_		{}
+9	"	_		{}
+10	العزيمة	_		{}
+11	"	_		{}
+12	(	_		{}
+13	viljestyrke	_		{}
+14	)	_		{}
+15	,	_		{}
+16	det	_		{}
+17	latinske	_		{}
+18	ordsprog	_		{}
+19	"	_		{}
+20	quod	_		{}
+21	me	_		{}
+22	nutrit	_		{}
+23	me	_		{}
+24	destruit	_		{}
+25	"	_		{}
+26	(	_		{}
+27	hvad	_		{}
+28	nærer	_		{}
+29	mig	_		{}
+30	,	_		{}
+31	ødelægger	_		{}
+32	mig	_		{}
+33	)	_		{}
+34	,	_		{}
+35	og	_		{}
+36	en	_		{}
+37	Yantra-bøn	_		{}
+38	skrevet	_	Text	{"Genre": "37", "Text": "37", "Medium": "44"}
+39	på	_		{}
+40	de	_		{}
+41	ældgamle	_		{}
+42	khmer-	_		{}
+43	og	_		{}
+44	pali-skriftsprog	_		{}
+45	for	_		{}
+46	sin	_		{}
+47	søn	_	Kinship	{"Ego": "3", "Alter": "48"}
+48	Madox	_		{}
+49	.	_		{}

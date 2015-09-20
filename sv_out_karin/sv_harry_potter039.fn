@@ -1,0 +1,25 @@
+1	Flera	_		{}
+2	större	_		{}
+3	förlag	_		{}
+4	tackade	_		{}
+5	nej	_		{}
+6	till	_		{}
+7	Rowlings	_		{}
+8	bokförslag	_		{}
+9	,	_		{}
+10	eftersom	_		{}
+11	de	_		{}
+12	inte	_		{}
+13	var	_		{}
+14	beredda	_		{}
+15	att	_		{}
+16	skriva	_	Text_creation	{"Text": "17", "Author": "3"}
+17	kontrakt	_	Documents	{"Document": "17", "Bearer": "7", "Issuer": "3"}
+18	på	_		{}
+19	sju	_	Cardinal_numbers	{"Number": "19", "Entity": "20"}
+20	böcker	_	Text	{"Text": "20"}
+21	med	_		{}
+22	en	_	Cardinal_numbers	{"Number": "22", "Entity": "24"}
+23	okänd	_		{}
+24	författare	_	Text	{"Text": "20", "Author": "7"}
+25	.	_		{}

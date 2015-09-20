@@ -1,0 +1,19 @@
+1	In	_		{}
+2	2012	_		{}
+3	,	_		{}
+4	a	_	Cardinal_numbers	{"Number": "4", "Entity": "6"}
+5	fiber-optic	_		{}
+6	infrastructure	_	Infrastructure	{"Descriptor": "5", "Infrastructure": "6"}
+7	was	_		{}
+8	installed	_	Installing	{"Component": "6", "Purpose": "13", "Fixed_location": "9", "Time": "1"}
+9	in	_		{}
+10	Kansas	_		{}
+11	City	_	Political_locales	{"Locale": "11", "Name": "10"}
+12	to	_		{}
+13	facilitate	_	Assistance	{}
+14	a	_	Cardinal_numbers	{"Number": "14", "Entity": "18"}
+15	Google	_		{}
+16	Fiber	_	Performers_and_roles	{}
+17	broadband	_		{}
+18	service	_	Public_services	{"Domain": "17", "Institution": "18"}
+19	.	_		{}

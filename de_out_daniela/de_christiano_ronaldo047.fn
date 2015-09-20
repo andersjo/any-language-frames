@@ -1,0 +1,20 @@
+1	Um	_		{}
+2	diesem	_		{}
+3	Druck	_	Attempt_suasion	{"Addressee": "3"}
+4	zu	_		{}
+5	entgehen	_	Avoiding	{"Agent": "8", "Undesirable_situation": "3"}
+6	,	_		{}
+7	hatte	_		{}
+8	er	_		{}
+9	ursprünglich	_		{}
+10	mit	_		{}
+11	der	_		{}
+12	28	_		{}
+13	die	_		{}
+14	gleiche	_	Identicality	{"Previous_instance": "16", "Type": "15"}
+15	Trikotnummer	_		{}
+16	wie	_	Identicality	{"Previous_instance": "12", "Type": "15"}
+17	bei	_		{}
+18	Sporting	_		{}
+19	gewählt	_		{}
+20	.	_		{}

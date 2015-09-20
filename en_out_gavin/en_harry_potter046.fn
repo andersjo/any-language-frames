@@ -1,0 +1,31 @@
+1	The	_		{}
+2	book	_	Text	{"Text": "2"}
+3	also	_		{}
+4	introduces	_	Placing	{"Theme": "4", "Agent": "2"}
+5	a	_	Cardinal_numbers	{"Number": "5", "Entity": "12"}
+6	new	_	Age	{"Age": "6", "Entity": "12"}
+7	Defence	_	Defend	{"Assailant": "11"}
+8	Against	_		{}
+9	the	_		{}
+10	Dark	_	Color	{"Color": "10", "Entity": "11"}
+11	Arts	_	Craft	{"Activity": "11"}
+12	teacher	_	Education_teaching	{"Skill": "7", "Teacher": "12"}
+13	,	_		{}
+14	Gilderoy	_		{}
+15	Lockhart	_		{}
+16	,	_		{}
+17	a	_	Cardinal_numbers	{"Number": "17", "Entity": "22"}
+18	highly	_		{}
+19	cheerful	_		{}
+20	,	_		{}
+21	self-conceited	_		{}
+22	know-it-all	_		{}
+23	who	_		{}
+24	later	_	Relative_time	{"Focal_occasion": "25", "Focal_participant": "15", "Landmark_occasion": "4"}
+25	turns	_	Becoming	{"Time": "24", "Entity": "15"}
+26	out	_	Part_inner_outer	{}
+27	to	_		{}
+28	be	_	Being_in_category	{"Category": "30", "Item": "15"}
+29	a	_	Cardinal_numbers	{"Number": "29", "Entity": "30"}
+30	fraud	_		{}
+31	.	_		{}

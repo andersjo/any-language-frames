@@ -1,0 +1,35 @@
+1	Jolie	_		{}
+2	belönades	_		{}
+3	1999	_		{}
+4	med	_		{}
+5	en	_	Cardinal_numbers	{"Number": "6"}
+6	Oscar	_		{}
+7	i	_		{}
+8	kategorin	_		{}
+9	bästa	_	Expertise	{"Protagonist": "1"}
+10	kvinnliga	_	People	{"Person": "1"}
+11	biroll	_		{}
+12	för	_		{}
+13	sin	_		{}
+14	insats	_	Attempt	{"Agent": "1"}
+15	i	_		{}
+16	"	_		{}
+17	Stulna	_		{}
+18	år	_	Calendric_unit	{"Unit": "17"}
+19	"	_		{}
+20	och	_	Simultaneity	{"Profiled_event": "2", "Landmark_event": "23"}
+21	har	_		{}
+22	även	_	Sufficiency	{}
+23	vunnit	_		{}
+24	tre	_	Cardinal_numbers	{"Number": "24", "Entity": "27"}
+25	Golden	_		{}
+26	Globe	_		{}
+27	Awards	_		{}
+28	,	_		{}
+29	samt	_		{}
+30	två	_	Cardinal_numbers	{"Number": "30", "Entity": "34"}
+31	Screen	_		{}
+32	Actors	_		{}
+33	Guild	_		{}
+34	Awards	_		{}
+35	.	_		{}

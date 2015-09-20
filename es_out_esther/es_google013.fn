@@ -1,0 +1,19 @@
+1	En	_		{}
+2	el	_		{}
+3	2000	_		{}
+4	Google	_		{}
+5	presentó	_		{}
+6	AdWords	_		{}
+7	,	_		{}
+8	su	_		{}
+9	sistema	_	System	{"Function": "11", "Component_entities": "11", "Salient_entity": "6"}
+10	de	_		{}
+11	publicidad	_		{}
+12	en	_		{}
+13	línea	_	Roadways	{"Roadway": "13"}
+14	y	_		{}
+15	la	_		{}
+16	llamada	_	Statement	{"Topic": "18", "Message": "17"}
+17	Barra	_	Shapes	{"Shape": "17", "Substance": "18"}
+18	Google	_		{}
+19	.	_		{}

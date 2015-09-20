@@ -1,0 +1,22 @@
+1	Cómo	_		{}
+2	es	_	Being_in_category	{"Category": "3", "Item": "5"}
+3	posible	_	Capability	{"Entity": "5"}
+4	que	_		{}
+5	@google	_		{}
+6	siendo	_	Being_in_category	{"Category": "10", "Item": "5"}
+7	una	_		{}
+8	de	_		{}
+9	las	_		{}
+10	empresas	_	Businesses	{"Business": "5"}
+11	más	_	Increment	{"Added_set": "12", "Initial_set": "12", "Class": "10"}
+12	creativas	_	Fields	{"Salient_entity": "10", "Work": "5", "Practitioner": "5", "Activity": "6"}
+13	del	_		{}
+14	mundo	_	Locale	{"Locale": "14"}
+15	haga	_	Create_physical_artwork	{"Representation": "16", "Creator": "5"}
+16	videos	_	Shapes	{"Shape": "16", "Substance": "18"}
+17	tan	_	Degree	{"Gradable_attribute": "18"}
+18	monótonos	_	Sounds	{"Sound_source": "16"}
+19	y	_		{}
+20	aburridos	_	Emotion_directed	{"Stimulus": "16", "Topic": "22", "Event": "15"}
+21	para	_		{}
+22	#GoogleAnalytics	_		{}

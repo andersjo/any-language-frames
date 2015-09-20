@@ -1,0 +1,23 @@
+1	@CBlythe92	_		{}
+2	hehe	_		{}
+3	can't	_		{}
+4	wait	_	Waiting	{"Expected_event": "8"}
+5	for	_		{}
+6	Harry	_		{}
+7	Potter	_		{}
+8	world	_	Locale	{"Locale": "8", "Name": "7"}
+9	next	_	Relative_time	{"Focal_occasion": "8", "Landmark_occasion": "10"}
+10	week	_	Calendric_unit	{"Unit": "10"}
+11	,	_		{}
+12	I	_		{}
+13	imagine	_	Cogitation	{"Topic": "20", "Cognizer": "13"}
+14	on	_		{}
+15	the	_		{}
+16	way	_	Path_traveled	{"Path": "16", "Direction": "17"}
+17	down	_	Direction	{"Path": "17"}
+18	every	_		{}
+19	electrical	_	Electricity	{"Electricity": "19"}
+20	device	_	Gizmo	{"Power_source": "19", "Gizmo": "20"}
+21	for	_		{}
+22	entertainment	_	Emotion_directed	{}
+23	.....	_		{}

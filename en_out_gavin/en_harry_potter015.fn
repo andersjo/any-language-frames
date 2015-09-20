@@ -1,0 +1,40 @@
+1	Because	_		{}
+2	of	_		{}
+3	the	_		{}
+4	success	_	Success_or_failure	{"Agent": "7"}
+5	of	_		{}
+6	the	_		{}
+7	books	_	Text	{"Text": "7"}
+8	and	_		{}
+9	films	_	Physical_artworks	{"Artifact": "9"}
+10	,	_		{}
+11	"	_		{}
+12	Harry	_		{}
+13	Potter	_		{}
+14	"	_		{}
+15	-themed	_		{}
+16	areas	_	Locale	{"Locale": "16", "Descriptor": "15"}
+17	,	_		{}
+18	known	_	Familiarity	{"Entity": "16"}
+19	as	_		{}
+20	"	_		{}
+21	The	_		{}
+22	Wizarding	_	Performers_and_roles	{"Performer": "22"}
+23	World	_	Locale	{"Locale": "23"}
+24	of	_		{}
+25	Harry	_		{}
+26	Potter	_		{}
+27	"	_		{}
+28	,	_		{}
+29	have	_		{}
+30	been	_		{}
+31	created	_	Creating	{"Created_entity": "16", "Place": "32"}
+32	at	_		{}
+33	several	_	Quantity	{"Individuals": "35", "Quantity": "33"}
+34	Universal	_		{}
+35	Parks	_	Locale_by_use	{"Locale": "35", "Name": "34"}
+36	&	_		{}
+37	Resorts	_	Self_motion	{}
+38	theme	_	Topic	{"Topic": "38", "Text": "39"}
+39	parks	_	Locale_by_use	{"Locale": "39", "Descriptor": "38", "Name": "34"}
+40	.	_		{}

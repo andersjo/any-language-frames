@@ -1,0 +1,28 @@
+1	Familjen	_		{}
+2	vägrar	_		{}
+3	låta	_	Grant_permission	{"Allowed_category": "5", "Grantee": "4", "Grantor": "1"}
+4	Harry	_		{}
+5	se	_	Becoming_aware	{"Cognizer": "4", "Phenomenon": "6"}
+6	brevet	_		{}
+7	från	_		{}
+8	Hogwarts	_		{}
+9	,	_		{}
+10	varför	_	Reason	{"Action": "14", "State_of_Affairs": "2", "Agent": "11"}
+11	Hagrid	_		{}
+12	kommer	_		{}
+13	och	_		{}
+14	hämtar	_		{}
+15	honom	_		{}
+16	,	_		{}
+17	och	_	Simultaneity	{"Profiled_event": "14", "Landmark_event": "18"}
+18	visar	_	Sign	{"Indicator": "11", "Indicated": "20"}
+19	sedan	_		{}
+20	vägen	_	Path_traveled	{"Path": "20", "Theme": "4", "Direction": "21", "Goal": "22"}
+21	till	_		{}
+22	Hogwarts	_		{}
+23	skola	_	Education_teaching	{"Skill": "25", "Institution": "22", "Student": "4"}
+24	för	_		{}
+25	häxkonster	_		{}
+26	och	_		{}
+27	trolldom	_		{}
+28	.	_		{}

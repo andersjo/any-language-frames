@@ -1,0 +1,15 @@
+1	Quand	_	Relative_time	{"Focal_occasion": "11", "Focal_participant": "10", "Landmark_occasion": "2"}
+2	j'envoie	_		{}
+3	un	_		{}
+4	message	_	Statement	{"Message": "4", "Speaker": "2"}
+5	en	_		{}
+6	anglais	_		{}
+7	à	_		{}
+8	@Stanislas_Dvcx	_		{}
+9	:	_		{}
+10	il	_		{}
+11	va	_	Self_motion	{"Goal": "13", "Self_mover": "10"}
+12	sur	_		{}
+13	Google	_		{}
+14	traduction	_	Translating	{}
+15	…	_		{}

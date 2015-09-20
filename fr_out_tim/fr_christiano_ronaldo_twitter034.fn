@@ -1,0 +1,22 @@
+1	Christiano	_		{}
+2	Ronaldo	_		{}
+3	me	_		{}
+4	tchop	_		{}
+5	juste	_		{}
+6	comme	_		{}
+7	ça	_		{}
+8	...	_		{}
+9	c'est	_		{}
+10	seulement	_	Sole_instance	{"Item": "9", "Type": "12"}
+11	mon	_		{}
+12	ami	_	Personal_relationship	{"Partner_2": "12", "Partner_1": "11"}
+13	à	_		{}
+14	Fifa	_		{}
+15	quand	_		{}
+16	il	_		{}
+17	me	_		{}
+18	fait	_		{}
+19	win	_	Finish_competition	{"Competitor": "16", "Competition": "14"}
+20	les	_		{}
+21	dos	_		{}
+22	...	_		{}

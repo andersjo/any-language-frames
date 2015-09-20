@@ -1,0 +1,20 @@
+1	"	_		{}
+2	@morgancarole_	_		{}
+3	:	_		{}
+4	My	_		{}
+5	God	_	Existence	{"Entity": "5"}
+6	,	_		{}
+7	is	_	Existence	{"Entity": "11"}
+8	there	_		{}
+9	anything	_		{}
+10	Angelina	_		{}
+11	Jolie	_		{}
+12	can't	_	Capability	{"Entity": "11"}
+13	do	_	Manufacturing	{"Product": "9"}
+14	"	_		{}
+15	eat	_	Ingestion	{"Ingestibles": "17", "Ingestor": "11"}
+16	a	_	Cardinal_numbers	{"Number": "16", "Entity": "17"}
+17	watermelon	_		{}
+18	in	_		{}
+19	one	_	Cardinal_numbers	{"Number": "19", "Entity": "20"}
+20	bite	_		{}

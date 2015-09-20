@@ -1,0 +1,24 @@
+1	In	_		{}
+2	response	_	Response	{"Agent": "4"}
+3	,	_		{}
+4	Jolie	_		{}
+5	released	_	Emitting	{"Source_emitter": "4", "Emission": "a"}
+6	a	_	Cardinal_numbers	{"Number": "6", "Entity": "7"}
+7	statement	_	Statement	{"Message": "13", "Speaker": "4"}
+8	in	_		{}
+9	which	_		{}
+10	she	_		{}
+11	indicated	_	Cause_to_perceive	{"Medium": "7", "Actor": "10"}
+12	that	_		{}
+13	she	_		{}
+14	no	_		{}
+15	longer	_	Desiring	{"Focal_participant": "18", "Experiencer": "13"}
+16	wished	_	Desiring	{"Focal_participant": "18", "Experiencer": "13"}
+17	to	_		{}
+18	pursue	_	Seeking_to_achieve	{"Sought_entity": "20", "Agent": "13"}
+19	a	_	Cardinal_numbers	{"Number": "19", "Entity": "20"}
+20	relationship	_	Kinship	{"Ego": "22", "Alter": "23"}
+21	with	_		{}
+22	her	_		{}
+23	father	_	Kinship	{"Ego": "22", "Alter": "23"}
+24	.	_		{}

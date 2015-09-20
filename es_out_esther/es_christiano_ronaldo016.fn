@@ -1,0 +1,50 @@
+1	Ronaldo	_		{}
+2	comenzó	_		{}
+3	a	_		{}
+4	destacar	_	Differentiation	{"Cognizer": "1", "Phenomena": "4"}
+5	entre	_		{}
+6	sus	_		{}
+7	compañeros	_	Personal_relationship	{"Partners": "7"}
+8	del	_		{}
+9	Andorinha	_		{}
+10	,	_		{}
+11	donde	_		{}
+12	trabajaba	_	Being_employed	{"Employee": "14", "Place_of_employment": "9", "Employer": "18"}
+13	su	_		{}
+14	padre	_	Kinship	{"Ego": "1", "Alter": "14"}
+15	y	_		{}
+16	su	_		{}
+17	primer	_	First_experience	{"Experience": "18"}
+18	club	_	Organization	{"Organization": "18"}
+19	,	_		{}
+20	y	_		{}
+21	al	_		{}
+22	cumplir	_	Accomplishment	{"Goal": "25", "Agent": "1"}
+23	los	_		{}
+24	diez	_	Cardinal_numbers	{"Number": "24", "Entity": "25"}
+25	años	_	Age	{"Age": "24"}
+26	los	_		{}
+27	grandes	_	Size	{"Entity": "28"}
+28	equipos	_	Organization	{"Organization": "30", "Members": "36"}
+29	de	_		{}
+30	Madeira	_		{}
+31	,	_		{}
+32	C	_		{}
+33	.	_		{}
+34	S	_		{}
+35	.	_		{}
+36	Marítimo	_	Natural_features	{"Locale": "36"}
+37	y	_		{}
+38	C	_		{}
+39	.	_		{}
+40	D	_		{}
+41	.	_		{}
+42	Nacional	_	Foreign_or_domestic_country	{"Current_country": "42"}
+43	ya	_	Temporal_collocation	{}
+44	se	_		{}
+45	habían	_		{}
+46	interasado	_		{}
+47	en	_		{}
+48	su	_		{}
+49	contratación	_	Being_employed	{"Employee": "1", "Place_of_employment": "36", "Employer": "36"}
+50	.	_		{}

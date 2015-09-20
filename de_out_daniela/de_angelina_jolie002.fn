@@ -1,0 +1,23 @@
+1	Juni	_	Calendric_unit	{"Whole": "2", "Unit": "1"}
+2	1975	_		{}
+3	als	_		{}
+4	"	_		{}
+5	Angelina	_		{}
+6	Jolie	_		{}
+7	Voight	_		{}
+8	"	_		{}
+9	in	_		{}
+10	Los	_		{}
+11	Angeles	_		{}
+12	)	_		{}
+13	ist	_		{}
+14	eine	_		{}
+15	US-amerikanische	_	Origin	{"Origin": "15", "Entity": "16"}
+16	Schauspielerin	_	People_by_vocation	{"Person": "5", "Ethnicity": "15"}
+17	,	_		{}
+18	Regisseurin	_	Behind_the_scenes	{"Nationality": "15", "Artist": "6"}
+19	,	_		{}
+20	Drehbuchautorin	_	Text	{"Author": "6"}
+21	und	_		{}
+22	Filmproduzentin	_	Behind_the_scenes	{"Nationality": "15", "Artist": "6"}
+23	.	_		{}

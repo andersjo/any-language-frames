@@ -1,0 +1,23 @@
+1	@doyleclan1	_		{}
+2	Point	_		{}
+3	I'm	_		{}
+4	trying	_	Stimulus_focus	{"Stimulus": "2", "Experiencer": "3"}
+5	to	_		{}
+6	make	_	Activity_prepare	{"Agent": "3", "Activity": "4"}
+7	is	_	Being_in_category	{"Category": "8", "Item": "2"}
+8	simple	_		{}
+9	.	_		{}
+10	Some	_	Relational_quantity	{"Q_Prop": "11", "Individuals": "12", "Reference_quantity": "10"}
+11	potential	_	Likelihood	{"Hypothetical_event": "12"}
+12	solutions	_		{}
+13	to	_		{}
+14	global	_	Political_locales	{"Locale": "14"}
+15	warming	_		{}
+16	r	_		{}
+17	safe	_	Risky_situation	{"Situation": "12", "Domain": "15"}
+18	&	_		{}
+19	insurable	_		{}
+20	.	_		{}
+21	Not	_		{}
+22	nuclear	_	Weapon	{"Material": "22"}
+23	@CarlsonEngineer	_		{}

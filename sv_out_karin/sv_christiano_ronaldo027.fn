@@ -1,0 +1,34 @@
+1	Han	_		{}
+2	gjorde	_		{}
+3	sitt	_		{}
+4	femtionde	_		{}
+5	mål	_	Instance	{"Instance": "5", "Type": "4"}
+6	i	_		{}
+7	karriären	_		{}
+8	för	_		{}
+9	Manchester	_		{}
+10	United	_		{}
+11	(	_		{}
+12	totalt	_	Amounting_to	{"Value": "13", "Time_span": "16"}
+13	23	_		{}
+14	under	_		{}
+15	säsongen	_		{}
+16	2006/2007	_		{}
+17	)	_		{}
+18	mot	_		{}
+19	rivalerna	_		{}
+20	Manchester	_		{}
+21	City	_		{}
+22	FC	_		{}
+23	,	_		{}
+24	då	_	Temporal_collocation	{"Trajector_event": "26", "Landmark_event": "2"}
+25	United	_		{}
+26	vann	_		{}
+27	sin	_		{}
+28	första	_	Ordinal_numbers	{"Item": "30"}
+29	Premier	_		{}
+30	League-titel	_		{}
+31	på	_		{}
+32	fyra	_	Cardinal_numbers	{"Number": "32", "Entity": "33"}
+33	år	_	Measure_duration	{"Process": "26", "Count": "32", "Agent": "25", "Unit": "33"}
+34	.	_		{}

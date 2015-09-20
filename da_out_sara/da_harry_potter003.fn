@@ -1,0 +1,20 @@
+1	Bøgerne	_		{}
+2	starter	_		{}
+3	omtrent	_	Relational_quantity	{"Individuals": "5"}
+4	på	_		{}
+5	Harry's	_		{}
+6	11	_		{}
+7	års	_		{}
+8	fødselsdag	_	Commemorative	{"Honored_entity": "5"}
+9	,	_		{}
+10	hvor	_		{}
+11	han	_		{}
+12	får	_	Getting	{"Theme": "14", "Recipient": "5"}
+13	at	_		{}
+14	vide	_	Awareness	{"Topic": "19", "Cognizer": "5", "Content": "17"}
+15	at	_		{}
+16	han	_		{}
+17	er	_		{}
+18	en	_		{}
+19	troldmand	_	Expertise	{"Protagonist": "5", "Role": "19"}
+20	.	_		{}

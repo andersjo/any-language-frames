@@ -1,0 +1,33 @@
+1	While	_		{}
+2	conventional	_		{}
+3	search	_		{}
+4	engines	_		{}
+5	ranked	_	Rank	{"Item": "6"}
+6	results	_		{}
+7	by	_		{}
+8	counting	_		{}
+9	how	_		{}
+10	many	_	Quantity	{"Individuals": "11", "Quantity": "10"}
+11	times	_		{}
+12	the	_		{}
+13	search	_		{}
+14	terms	_	Simple_name	{"Term": "14", "Entity": "13"}
+15	appeared	_	Coming_to_be	{"Place": "18", "Entity": "14"}
+16	on	_		{}
+17	the	_		{}
+18	page	_		{}
+19	,	_		{}
+20	the	_		{}
+21	two	_		{}
+22	theorized	_	Opinion	{"Cognizer": "21", "Opinion": "26"}
+23	about	_		{}
+24	a	_	Cardinal_numbers	{"Number": "24", "Entity": "26"}
+25	better	_		{}
+26	system	_	System	{"Descriptor": "26"}
+27	that	_		{}
+28	analyzed	_	Examination	{"Examinee": "30", "Examiner": "26"}
+29	the	_		{}
+30	relationships	_	Cognitive_connection	{"Concepts": "32"}
+31	between	_		{}
+32	websites	_		{}
+33	.	_		{}

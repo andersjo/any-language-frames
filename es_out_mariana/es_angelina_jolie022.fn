@@ -1,0 +1,50 @@
+1	En	_		{}
+2	mayo	_	Calendric_unit	{"Whole": "4", "Name": "2", "Unit": "2"}
+3	del	_		{}
+4	2013	_		{}
+5	,	_		{}
+6	Angelina	_		{}
+7	Jolie	_		{}
+8	se	_		{}
+9	sometió	_		{}
+10	a	_		{}
+11	una	_		{}
+12	doble	_	Cardinal_numbers	{"Number": "12", "Entity": "13"}
+13	mastectomía	_		{}
+14	preventiva	_	Preventing	{"Time": "4", "Agent": "13", "Preventing_cause": "13", "Event": "22"}
+15	ante	_	Relative_time	{"Focal_occasion": "13", "Reason": "17", "Focal_participant": "6", "Manner": "14", "Landmark_occasion": "22"}
+16	su	_		{}
+17	propensión	_		{}
+18	genética	_		{}
+19	a	_		{}
+20	sufrir	_	Perception_body	{"Body_part": "24", "Reason": "22", "Subregion": "24", "Experiencer": "6"}
+21	un	_		{}
+22	cáncer	_	Medical_conditions	{"Body_Part": "24", "Cause": "17", "Ailment": "22"}
+23	de	_		{}
+24	mama	_	Observable_body_parts	{"Body_part": "24", "Possessor": "6"}
+25	,	_		{}
+26	reabriendo	_		{}
+27	así	_		{}
+28	,	_		{}
+29	debates	_	Discussion	{"Topic": "32", "Place": "35", "Interlocutor_2": "35", "Time": "4"}
+30	sobre	_		{}
+31	la	_		{}
+32	mastectomía	_		{}
+33	preventiva	_	Preventing	{"Preventing_cause": "32", "Place": "35", "Event": "32", "Agent": "32", "Time": "4"}
+34	en	_		{}
+35	Estados	_	Political_locales	{"Locale": "35", "Name": "35"}
+36	Unidos	_		{}
+37	,	_		{}
+38	ya	_	Temporal_collocation	{"Trajector_event": "41", "Landmark_entity": "32"}
+39	que	_	Cause_change	{"Place": "35", "Purpose": "41", "Final_value": "43"}
+40	fue	_	Cause_change	{"Manner": "41", "Final_value": "43"}
+41	pronosticado	_	Predicting	{"Descriptor": "45"}
+42	un	_		{}
+43	87%	_		{}
+44	de	_		{}
+45	posibilidades	_	Possibilities	{"Salient_entity": "47", "Purpose": "41", "Number_of_possibilities": "43", "Event": "41"}
+46	de	_		{}
+47	contraer	_		{}
+48	esta	_	Proper_reference	{"Intended_referent": "48", "Entity": "49"}
+49	enfermedad	_	Medical_conditions	{"Body_Part": "24", "Ailment": "49"}
+50	.	_		{}

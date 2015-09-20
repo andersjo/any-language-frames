@@ -1,0 +1,25 @@
+1	Sometimes	_	Frequency	{"Salient_entity": "2", "Event": "3"}
+2	I	_		{}
+3	see	_	Perception_experience	{"Phenomenon": "5", "Perceiver_passive": "2", "Time": "1"}
+4	people	_	People	{"Person": "4"}
+5	talking	_	Speak_on_topic	{"Topic": "6", "Speaker": "4"}
+6	about	_		{}
+7	Harry	_		{}
+8	Potter	_		{}
+9	and	_		{}
+10	think	_	Cogitation	{"Topic": "13", "Cognizer": "2"}
+11	I	_		{}
+12	really	_	Degree	{"Gradable_attribute": "13"}
+13	should	_		{}
+14	try	_	Attempt	{"Agent": "11"}
+15	reading	_	Linguistic_meaning	{}
+16	them	_		{}
+17	but	_		{}
+18	I	_		{}
+19	just	_		{}
+20	can't	_		{}
+21	justify	_	Justifying	{"Agent": "18", "Act": "22"}
+22	buying	_	Commerce_buy	{"Buyer": "18", "Goods": "24"}
+23	more	_	Increment	{"Initial_set": "24"}
+24	books	_	Text	{"Text": "24"}
+25	.	_		{}

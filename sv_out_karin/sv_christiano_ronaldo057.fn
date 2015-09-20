@@ -1,0 +1,26 @@
+1	När	_		{}
+2	Real	_		{}
+3	Madrid	_		{}
+4	besegrade	_		{}
+5	Xerez	_		{}
+6	med	_		{}
+7	5-0	_		{}
+8	den	_		{}
+9	20	_		{}
+10	september	_	Calendric_unit	{"Unit": "10"}
+11	stod	_		{}
+12	Ronaldo	_		{}
+13	återigen	_		{}
+14	för	_		{}
+15	två	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	mål	_	Hit_target	{"Target": "16", "Agent": "12"}
+17	,	_		{}
+18	varav	_		{}
+19	det	_		{}
+20	första	_	Ordinal_numbers	{"Comparison_set": "16"}
+21	kom	_		{}
+22	redan	_	Time_vector	{"Event": "16"}
+23	efter	_		{}
+24	45	_		{}
+25	sekunder	_	Calendric_unit	{"Count": "24", "Unit": "25"}
+26	.	_		{}

@@ -1,0 +1,26 @@
+1	@cdh_art	_		{}
+2	global	_	Political_locales	{"Locale": "2"}
+3	warming	_	Temperature	{"Temperature": "3", "Entity": "2"}
+4	is	_	Being_in_category	{"Category": "5", "Item": "3"}
+5	real	_	Actually_occurring_entity	{"Instance": "3"}
+6	.	_		{}
+7	Tell	_	Telling	{"Message": "11", "Addressee": "9"}
+8	the	_		{}
+9	girls	_	People	{"Person": "9"}
+10	to	_		{}
+11	go	_	Motion	{"Theme": "9", "Goal": "12", "Manner": "14"}
+12	to	_		{}
+13	bed	_	Part_orientational	{"Part": "13"}
+14	with	_		{}
+15	their	_		{}
+16	PJ's	_		{}
+17	inside	_	Part_inner_outer	{"Part": "16"}
+18	out	_	Part_inner_outer	{"Part": "16"}
+19	and	_		{}
+20	backwards	_		{}
+21	.	_		{}
+22	Fool	_	Behind_the_scenes	{}
+23	proof	_	Evidence	{"Support": "23"}
+24	snow	_	Precipitation	{"Precipitation": "24"}
+25	day	_	Calendric_unit	{"Unit": "25"}
+26	superstition	_	Calendric_unit	{"Unit": "26"}

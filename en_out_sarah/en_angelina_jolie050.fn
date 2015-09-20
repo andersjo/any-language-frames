@@ -1,0 +1,36 @@
+1	When	_		{}
+2	she	_		{}
+3	was	_		{}
+4	seven	_	Cardinal_numbers	{"Number": "4", "Entity": "5"}
+5	years	_	Calendric_unit	{"Whole": "5"}
+6	old	_	Age	{"Age": "4", "Entity": "2"}
+7	,	_		{}
+8	Jolie	_		{}
+9	had	_	Performers_and_roles	{"Performer": "8", "Role": "11", "Performer1": "8", "Performer2": "34", "Time": "22"}
+10	a	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	small	_	Size	{"Entity": "12"}
+12	part	_	Performers_and_roles	{"Performer1": "8", "Performer2": "34", "Time": "22"}
+13	in	_		{}
+14	"	_		{}
+15	Lookin	_		{}
+16	'	_		{}
+17	to	_		{}
+18	Get	_	Cause_to_end	{}
+19	Out	_	Part_inner_outer	{}
+20	"	_		{}
+21	(	_		{}
+22	1982	_		{}
+23	)	_		{}
+24	,	_		{}
+25	a	_	Cardinal_numbers	{"Number": "25", "Entity": "26"}
+26	movie	_	Physical_artworks	{"Time_of_creation": "22", "Name": "15", "Artifact": "26", "Creator": "34"}
+27	co-written	_		{}
+28	by	_		{}
+29	and	_	Simultaneity	{}
+30	starring	_	Performers_and_roles	{"Performer": "34", "Role": "30", "Time": "22"}
+31	her	_		{}
+32	father	_	Kinship	{"Ego": "31", "Alter": "32"}
+33	,	_		{}
+34	Jon	_		{}
+35	Voight	_		{}
+36	.	_		{}

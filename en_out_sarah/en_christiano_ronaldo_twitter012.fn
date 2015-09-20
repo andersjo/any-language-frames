@@ -1,0 +1,15 @@
+1	On	_		{}
+2	some	_	Relational_quantity	{"Mass": "4", "Denoted_quantity": "2"}
+3	real	_	Artificiality	{"Entity": "4"}
+4	shit	_	Excreting	{"Excreta": "4"}
+5	Christiano	_		{}
+6	Ronaldo	_		{}
+7	looks	_	Appearance	{"Phenomenon": "5", "Characterization": "8"}
+8	like	_	Similarity	{"Entity_1": "5", "Entity_2": "11"}
+9	a	_	Cardinal_numbers	{"Number": "9", "Entity": "11"}
+10	fucking	_	Certainty	{"Topic": "7", "Degree": "10"}
+11	doll	_		{}
+12	with	_		{}
+13	all	_	Quantity	{"Individuals": "15", "Quantity": "13"}
+14	that	_		{}
+15	surgery	_	Businesses	{"Business": "15"}

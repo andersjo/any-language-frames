@@ -1,0 +1,22 @@
+1	El	_		{}
+2	cuerpo	_	Observable_body_parts	{"Body_part": "2"}
+3	gasta	_	Exhaust_resource	{"Resource": "5", "Agent": "2"}
+4	mucha	_	Aggregate	{"Aggregate": "4", "Individuals": "5"}
+5	energía	_	Electricity	{"Electricity": "5"}
+6	en	_		{}
+7	mantener	_	Preserving	{"Undergoer": "9", "Medium": "5", "Agent": "2"}
+8	la	_		{}
+9	temperatura	_	Temperature	{"Attribute": "10", "Temperature": "9", "Entity": "2"}
+10	corporal	_		{}
+11	,	_		{}
+12	algo	_		{}
+13	que	_		{}
+14	ya	_	Continued_state_of_affairs	{"Reference_occasion": "14", "State_of_affairs": "19"}
+15	había	_		{}
+16	leido	_		{}
+17	en	_		{}
+18	el	_		{}
+19	libro	_	Text	{"Text": "19"}
+20	de	_		{}
+21	@johndurant	_		{}
+22	http://t.co/aVRRBmAQPL	_		{}

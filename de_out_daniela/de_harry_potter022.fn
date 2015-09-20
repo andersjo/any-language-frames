@@ -1,0 +1,14 @@
+1	Der	_		{}
+2	Junge	_		{}
+3	ist	_		{}
+4	die	_		{}
+5	einzige	_	Sole_instance	{"Item": "7", "Type": "12"}
+6	bekannte	_	Familiarity	{"Entity": "7"}
+7	Person	_	People	{"Person": "7"}
+8	,	_		{}
+9	die	_		{}
+10	diesen	_		{}
+11	Fluch	_		{}
+12	überlebt	_	Surviving	{"Survivor": "2", "Dangerous_situation": "11"}
+13	hat	_		{}
+14	.	_		{}

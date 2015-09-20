@@ -1,0 +1,26 @@
+1	At	_		{}
+2	the	_		{}
+3	age	_	Age	{"Age": "5", "Entity": "6"}
+4	of	_		{}
+5	15	_	Cardinal_numbers	{"Number": "5"}
+6	Ronaldo	_		{}
+7	was	_		{}
+8	diagnosed	_	Adducing	{"Specified_entity": "6"}
+9	with	_		{}
+10	a	_	Cardinal_numbers	{"Number": "10", "Entity": "12"}
+11	racing	_	Type	{"Category": "12", "Item_Property": "11"}
+12	heart	_	Observable_body_parts	{"Descriptor": "11", "Possessor": "6", "Body_part": "12"}
+13	,	_		{}
+14	a	_	Cardinal_numbers	{"Number": "14", "Entity": "15"}
+15	condition	_		{}
+16	that	_		{}
+17	might	_	Electricity	{}
+18	have	_		{}
+19	forced	_	Causation	{"Affected": "20", "Cause": "15"}
+20	him	_		{}
+21	to	_		{}
+22	give	_	Giving	{"Donor": "20", "Theme": "23"}
+23	up	_	Direction	{"Path": "23"}
+24	playing	_	Performers_and_roles	{"Performer": "20"}
+25	football	_		{}
+26	.	_		{}

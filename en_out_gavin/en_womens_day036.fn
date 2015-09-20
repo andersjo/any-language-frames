@@ -1,0 +1,40 @@
+1	In	_		{}
+2	the	_		{}
+3	West	_	Part_orientational	{"Part": "3"}
+4	,	_		{}
+5	International	_	Foreign_or_domestic_country	{"Current_country": "5"}
+6	Women's	_		{}
+7	Day	_	Calendric_unit	{"Name": "6", "Unit": "7"}
+8	was	_	Being_in_category	{"Category": "10", "Item": "7"}
+9	first	_	First_experience	{"Experience": "10", "Context": "1"}
+10	observed	_	Perception_active	{"Place": "1", "Phenomenon": "7", "Time": "15"}
+11	as	_		{}
+12	a	_	Cardinal_numbers	{"Number": "12", "Entity": "14"}
+13	popular	_	Popularity	{"Place": "1", "Evaluee": "14", "Time": "15"}
+14	event	_	Event	{"Place": "1", "Time": "15"}
+15	after	_	Relative_time	{"Focal_occasion": "8", "Focal_participant": "7", "Landmark_occasion": "23"}
+16	1977	_		{}
+17	when	_		{}
+18	the	_		{}
+19	United	_	Amalgamation	{"Parts": "20"}
+20	Nations	_	Political_locales	{"Locale": "20", "Name": "19"}
+21	General	_		{}
+22	Assembly	_	Aggregate	{"Aggregate": "22", "Name": "20", "AggregateProperty": "21"}
+23	invited	_	Request	{"Message": "27", "Addressee": "25", "Speaker": "22", "Time": "15"}
+24	member	_	Membership	{"Member": "25", "Group": "22"}
+25	states	_	Political_locales	{"Locale": "25", "Descriptor": "24"}
+26	to	_		{}
+27	proclaim	_	Statement	{"Message": "29", "Speaker": "25"}
+28	March	_	Calendric_unit	{"Unit": "28"}
+29	8	_	Cardinal_numbers	{"Number": "29"}
+30	as	_		{}
+31	the	_		{}
+32	UN	_	People	{"Person": "32"}
+33	Day	_	Calendric_unit	{"Name": "32", "Unit": "33"}
+34	for	_		{}
+35	women's	_	People	{"Person": "35"}
+36	rights	_		{}
+37	and	_		{}
+38	world	_	Locale	{"Locale": "38"}
+39	peace	_		{}
+40	.	_		{}

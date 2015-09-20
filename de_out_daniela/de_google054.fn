@@ -1,0 +1,9 @@
+1	Ein	_		{}
+2	solches	_		{}
+3	Unternehmen	_	Businesses	{"Descriptor": "2", "Business": "3"}
+4	existierte	_	Existence	{"Entity": "3"}
+5	aber	_	Concessive	{}
+6	bis	_	Continued_state_of_affairs	{"Reference_occasion": "7"}
+7	dahin	_		{}
+8	nicht	_		{}
+9	.	_		{}

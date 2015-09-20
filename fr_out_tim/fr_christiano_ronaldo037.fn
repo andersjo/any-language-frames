@@ -1,0 +1,22 @@
+1	S’il	_		{}
+2	sait	_		{}
+3	rester	_	State_continue	{"Entity": "1"}
+4	modeste	_	Morality_evaluation	{"Behavior": "4"}
+5	comme	_	Similarity	{"Dimension": "4", "Entity_2": "7", "Entity_1": "1"}
+6	Luís	_		{}
+7	Figo	_		{}
+8	,	_		{}
+9	il	_		{}
+10	peut	_	Possibility	{}
+11	devenir	_	Becoming	{"Entity": "9"}
+12	le	_		{}
+13	plus	_		{}
+14	grand	_	Expertise	{"Protagonist": "9", "Role": "15"}
+15	joueur	_	Competition	{"Participant_1": "9"}
+16	portugais	_	Origin	{"Origin": "16", "Entity": "15"}
+17	de	_		{}
+18	tous	_		{}
+19	les	_		{}
+20	temps	_	Location_in_time	{}
+21	»	_		{}
+22	.	_		{}

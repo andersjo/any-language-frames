@@ -1,0 +1,21 @@
+1	In	_		{}
+2	London	_		{}
+3	there	_		{}
+4	was	_	Existence	{"Entity": "6", "Place": "1", "Time": "17"}
+5	a	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	march	_	Mass_motion	{"Source": "7", "Goal": "9", "Purpose": "12"}
+7	from	_		{}
+8	Bow	_	Weapon	{"Weapon": "8"}
+9	to	_		{}
+10	Trafalgar	_		{}
+11	Square	_	Locale_by_use	{"Locale": "11", "Name": "10"}
+12	in	_		{}
+13	support	_	Supporting	{"Supported": "16", "Place": "7", "Time": "17"}
+14	of	_		{}
+15	women's	_	People	{"Person": "15"}
+16	suffrage	_		{}
+17	on	_		{}
+18	8	_	Cardinal_numbers	{"Number": "18"}
+19	March	_	Calendric_unit	{"Whole": "20", "Unit": "19"}
+20	1914	_		{}
+21	.	_		{}

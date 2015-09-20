@@ -1,0 +1,42 @@
+1	La	_		{}
+2	figura	_	Exemplar	{"Instance": "2", "Type": "8"}
+3	de	_		{}
+4	la	_		{}
+5	matemática	_	Fields	{"Practitioner": "8", "Activity": "5", "Work": "5", "Salient_entity": "8", "Time": "12", "Place": "10"}
+6	y	_		{}
+7	astrónoma	_		{}
+8	Hipatia	_		{}
+9	de	_		{}
+10	Alejandría	_		{}
+11	(	_		{}
+12	370-415	_		{}
+13	)	_		{}
+14	,	_		{}
+15	asesinada	_	Killing	{"Cause": "5", "Victim": "8", "Means": "16"}
+16	brutalmente	_	Rashness	{"Action": "15"}
+17	,	_		{}
+18	se	_		{}
+19	reivindica	_	Statement	{"Topic": "24", "Message": "21"}
+20	como	_	Similarity	{"Entities": "24", "Differentiating_fact": "21", "Dimension": "2525"}
+21	paradigma	_	Exemplar	{"Instance": "24", "Type": "25"}
+22	de	_		{}
+23	la	_		{}
+24	mujer	_	People	{"Person": "24"}
+25	científica	_	People_by_vocation	{"Person": "24"}
+26	y	_		{}
+27	libre	_	Being_detached	{"Item": "24", "Items": "27"}
+28	,	_		{}
+29	icono	_	Pattern	{"Entities": "24"}
+30	de	_		{}
+31	la	_		{}
+32	libertad	_		{}
+33	de	_		{}
+34	pensamiento	_	Perception_active	{"Perceiver_agentive": "24", "Phenomenon": "34"}
+35	y	_		{}
+36	la	_		{}
+37	autonomía	_	Natural_features	{"Locale": "38"}
+38	personal	_	Set_of_interrelated_entities	{"Component_entities": "38", "Complex": "37"}
+39	de	_		{}
+40	la	_		{}
+41	mujer	_	People	{"Person": "41"}
+42	.	_		{}

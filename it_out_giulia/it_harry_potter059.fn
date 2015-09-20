@@ -1,0 +1,37 @@
+1	Harry	_		{}
+2	viene	_		{}
+3	a	_		{}
+4	conoscenza	_	Awareness	{"Topic": "6", "Cognizer": "1"}
+5	del	_		{}
+6	passato	_	Individual_history	{"Participant": "9"}
+7	di	_		{}
+8	suo	_		{}
+9	padre	_	Kinship	{"Ego": "1", "Alter": "10"}
+10	James	_		{}
+11	Potter	_		{}
+12	(	_		{}
+13	Ramoso	_		{}
+14	)	_		{}
+15	e	_		{}
+16	conosce	_		{}
+17	i	_		{}
+18	suoi	_		{}
+19	due	_	Cardinal_numbers	{"Number": "19", "Entity": "21"}
+20	migliori	_		{}
+21	amici	_	Personal_relationship	{"Partner_2": "23", "Partner_1": "1"}
+22	,	_		{}
+23	Remus	_		{}
+24	Lupin	_		{}
+25	(	_		{}
+26	Lunastorta	_		{}
+27	)	_		{}
+28	e	_		{}
+29	Sirius	_		{}
+30	Black	_		{}
+31	(	_		{}
+32	Felpato	_		{}
+33	)	_		{}
+34	,	_		{}
+35	suo	_		{}
+36	padrino	_	Kinship	{"Ego": "1", "Alter": "29"}
+37	.	_		{}

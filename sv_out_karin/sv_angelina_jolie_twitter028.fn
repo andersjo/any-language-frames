@@ -1,0 +1,15 @@
+1	alltså	_		{}
+2	angelina	_		{}
+3	jolie	_		{}
+4	är	_		{}
+5	så	_	Degree	{"Gradable_attribute": "7"}
+6	jävla	_		{}
+7	SNYGG	_		{}
+8	vrf	_		{}
+9	ser	_	Appearance	{"Appraisal": "10", "Phenomenon": "7"}
+10	jag	_	Proper_reference	{"Intended_referent": "10"}
+11	inte	_		{}
+12	ut	_		{}
+13	som	_	Similarity	{"Entity_1": "10", "Entity_2": "3"}
+14	henne	_		{}
+15	:(((	_		{}

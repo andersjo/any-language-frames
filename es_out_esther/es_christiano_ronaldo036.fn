@@ -1,0 +1,41 @@
+1	En	_		{}
+2	ese	_		{}
+3	partido	_	Social_event	{"Attendee": "5"}
+4	el	_		{}
+5	joven	_	People_by_age	{"Person": "5", "Age": "5"}
+6	extremo	_	Expertise	{"Focal_participant": "5", "Knowledge": "6", "Behavior_product": "6", "Protagonist": "5", "Role": "6", "Skill": "6"}
+7	cuajó	_		{}
+8	una	_		{}
+9	magnífica	_		{}
+10	actuación	_	Performers	{"Person": "5"}
+11	que	_		{}
+12	asombraría	_		{}
+13	tanto	_		{}
+14	a	_		{}
+15	los	_		{}
+16	propios	_	Proper_reference	{"Intended_referent": "17", "Entity": "17"}
+17	jugadores	_	Performers	{"Person": "17"}
+18	rivales	_	Competition	{"Participants": "18"}
+19	como	_		{}
+20	a	_		{}
+21	su	_		{}
+22	entrenador	_	People_by_vocation	{"Person": "24"}
+23	Alex	_		{}
+24	Ferguson	_		{}
+25	,	_		{}
+26	que	_		{}
+27	consiguió	_		{}
+28	el	_		{}
+29	traspaso	_	Transfer	{"Donor": "31", "Theme": "5", "Recipient": "5", "Transferors": "33"}
+30	del	_		{}
+31	portugués	_	Origin	{"Origin": "31"}
+32	al	_		{}
+33	club	_	Organization	{"Organization": "33", "Members": "34"}
+34	inglés	_	People_by_origin	{"Origin": "34"}
+35	poco	_	Degree	{"Gradable_attribute": "36"}
+36	después	_	Relative_time	{}
+37	en	_		{}
+38	ese	_		{}
+39	mismo	_	Identicality	{"Current_instance": "40"}
+40	verano	_	Calendric_unit	{"Relative_time": "39", "Whole": "40"}
+41	.	_		{}

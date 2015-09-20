@@ -1,0 +1,40 @@
+1	Es	_	Being_in_category	{"Category": "6", "Criteria": "9"}
+2	uno	_	Cardinal_numbers	{"Number": "2", "Entity": "6"}
+3	de	_		{}
+4	los	_		{}
+5	primeros	_	First_experience	{"Experience": "6"}
+6	documentos	_	Documents	{"Status": "7", "Obligation": "18", "Document": "6", "Right": "11", "Bearer": "12"}
+7	históricos	_	History	{"Topic": "6"}
+8	que	_		{}
+9	propone	_	Aiming	{"Targeted": "11", "Instrument": "6", "Target_location": "18", "Agent": "6"}
+10	la	_		{}
+11	emancipación	_		{}
+12	femenina	_	People	{"Person": "12"}
+13	en	_		{}
+14	el	_		{}
+15	sentido	_	Perception_experience	{"Body_part": "18", "Phenomenon": "18", "Perceiver_passive": "29"}
+16	de	_		{}
+17	la	_		{}
+18	igualdad	_	Identicality	{"Set_of_instances": "20", "Current_instance": "18", "Type": "20"}
+19	de	_		{}
+20	derechos	_	Law	{"Required": "18", "Law": "6"}
+21	o	_		{}
+22	la	_		{}
+23	equiparación	_		{}
+24	jurídica	_	Judicial_body	{"Domain": "23", "Task": "23", "Jurisdiction": "29"}
+25	y	_		{}
+26	legal	_	Legality	{"Action": "23", "Object": "18"}
+27	de	_		{}
+28	las	_		{}
+29	mujeres	_	People	{"Person": "29"}
+30	en	_		{}
+31	relación	_	Relation	{"Entity1": "29", "Entity2": "34"}
+32	a	_		{}
+33	los	_		{}
+34	varones	_	People	{"Person": "34"}
+35	así	_		{}
+36	como	_		{}
+37	el	_		{}
+38	sufragio	_		{}
+39	femenino	_		{}
+40	.	_		{}

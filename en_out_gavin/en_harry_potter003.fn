@@ -1,0 +1,44 @@
+1	The	_		{}
+2	main	_	Importance	{}
+3	story	_	History	{}
+4	arc	_	Weapon	{"Weapon": "4"}
+5	concerns	_	Topic	{"Topic": "7", "Text": "4"}
+6	Harry's	_		{}
+7	quest	_	Attempt	{"Agent": "6"}
+8	to	_		{}
+9	overcome	_	Beat_opponent	{"Winner": "6", "Loser": "12"}
+10	the	_		{}
+11	Dark	_	Color	{"Color": "11", "Entity": "12"}
+12	wizard	_	Performers_and_roles	{"Performer": "14", "Role": "12"}
+13	Lord	_	Leadership	{"Leader": "14"}
+14	Voldemort	_		{}
+15	,	_		{}
+16	who	_		{}
+17	aims	_	Aiming	{"Agent": "14"}
+18	to	_		{}
+19	become	_	Becoming	{"Entity": "14"}
+20	immortal	_	Electricity	{}
+21	,	_		{}
+22	conquer	_	Conquering	{"Conqueror": "14", "Theme": "25"}
+23	the	_		{}
+24	wizarding	_	Performers_and_roles	{}
+25	world	_	Locale	{"Locale": "25", "Descriptor": "24"}
+26	,	_		{}
+27	subjugate	_	Cause_change_of_position_on_a_scale	{"Item": "29", "Agent": "14"}
+28	non-magical	_		{}
+29	people	_	People	{"Persistent_characteristic": "28", "Person": "29"}
+30	,	_		{}
+31	and	_		{}
+32	destroy	_	Destroying	{"Undergoer": "34", "Destroyer": "14"}
+33	all	_	Quantity	{"Individuals": "34", "Quantity": "33"}
+34	those	_		{}
+35	who	_		{}
+36	stand	_	Being_located	{"Theme": "34", "Location": "37"}
+37	in	_		{}
+38	his	_		{}
+39	way	_	Roadways	{"Roadway": "39"}
+40	,	_		{}
+41	especially	_		{}
+42	Harry	_		{}
+43	Potter	_		{}
+44	.	_		{}

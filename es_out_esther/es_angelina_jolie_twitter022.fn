@@ -1,0 +1,10 @@
+1	angelina	_		{}
+2	jolie	_		{}
+3	podes	_		{}
+4	venir	_	Arriving	{"Theme": "6", "Goal": "8"}
+5	a	_		{}
+6	jugar	_	Competition	{"Participant_2": "1", "Competition": "6"}
+7	a	_		{}
+8	casa	_	Buildings	{"Building": "8"}
+9	cuando	_		{}
+10	quieras	_	Desiring	{"Location_of_Event": "8", "Focal_participant": "6", "Event": "4"}

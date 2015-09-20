@@ -1,0 +1,22 @@
+1	In	_		{}
+2	der	_		{}
+3	Meisterschaft	_		{}
+4	belegten	_		{}
+5	die	_		{}
+6	"	_		{}
+7	Red	_		{}
+8	Devils	_		{}
+9	"	_		{}
+10	zwar	_		{}
+11	nur	_		{}
+12	den	_		{}
+13	dritten	_	Part_whole	{"Part": "13", "Whole": "14"}
+14	Rang	_		{}
+15	,	_		{}
+16	sie	_		{}
+17	gewannen	_		{}
+18	aber	_	Concessive	{"Main_statement": "17", "Statement": "11"}
+19	den	_		{}
+20	FA	_		{}
+21	Cup	_		{}
+22	.	_		{}

@@ -1,0 +1,31 @@
+1	När	_		{}
+2	Google	_		{}
+3	var	_		{}
+4	ett	_	Cardinal_numbers	{"Number": "4", "Entity": "5"}
+5	projekt	_	Project	{"Salient_entity": "2", "Place": "7", "Name": "11", "Field": "15"}
+6	på	_		{}
+7	Stanford	_		{}
+8	hette	_		{}
+9	det	_		{}
+10	"	_		{}
+11	Backrub	_		{}
+12	"	_		{}
+13	,	_		{}
+14	eftersom	_		{}
+15	sökmotorn	_		{}
+16	studerade	_	Education_teaching	{"Student": "15"}
+17	vilka	_		{}
+18	som	_		{}
+19	länkade	_		{}
+20	till	_		{}
+21	en	_	Cardinal_numbers	{"Number": "21", "Precision": "22", "Entity": "23"}
+22	viss	_		{}
+23	sida	_		{}
+24	för	_		{}
+25	att	_		{}
+26	avgöra	_	Deciding	{"Cognizer": "15", "Decision": "28"}
+27	hur	_		{}
+28	viktig	_	Importance	{"Interested_party": "15", "Factor": "23"}
+29	den	_		{}
+30	var	_		{}
+31	.	_		{}

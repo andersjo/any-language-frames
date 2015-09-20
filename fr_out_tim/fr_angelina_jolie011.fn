@@ -1,0 +1,27 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	remporte	_	Win_prize	{"Competitor": "1", "Prize": "6"}
+4	aussi	_		{}
+5	un	_		{}
+6	oscar	_		{}
+7	de	_		{}
+8	la	_		{}
+9	meilleure	_	Expertise	{"Skill": "10", "Protagonist": "1", "Role": "10"}
+10	actrice	_	Performers	{"Person": "1"}
+11	dans	_		{}
+12	un	_		{}
+13	second	_	Ordinal_numbers	{"Type": "14"}
+14	rôle	_	Performers_and_roles	{"Performance": "17", "Performer": "1", "Role": "10"}
+15	pour	_		{}
+16	sa	_		{}
+17	prestation	_	Performing_arts	{"Performance": "17", "Performer": "1"}
+18	dans	_		{}
+19	"	_		{}
+20	Une	_		{}
+21	Vie	_		{}
+22	Volée	_		{}
+23	"	_		{}
+24	(	_		{}
+25	1999	_		{}
+26	)	_		{}
+27	.	_		{}

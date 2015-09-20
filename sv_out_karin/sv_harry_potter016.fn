@@ -1,0 +1,38 @@
+1	Under	_		{}
+2	sin	_		{}
+3	utbildning	_	Education_teaching	{"Student": "5"}
+4	får	_		{}
+5	han	_		{}
+6	reda	_		{}
+7	på	_		{}
+8	mer	_		{}
+9	och	_		{}
+10	mer	_	Increment	{"Class": "13"}
+11	om	_		{}
+12	sina	_		{}
+13	föräldrar	_	Kinship	{"Descriptor": "15", "Ego": "5", "Alter": "13"}
+14	,	_		{}
+15	Lily	_		{}
+16	(	_		{}
+17	född	_	Birth	{"Child": "15"}
+18	Evans	_		{}
+19	)	_		{}
+20	och	_		{}
+21	James	_		{}
+22	Potter	_		{}
+23	,	_		{}
+24	som	_		{}
+25	dog	_	Death	{"Protagonist": "21", "Sub_event": "28"}
+26	medan	_		{}
+27	de	_		{}
+28	kämpade	_		{}
+29	mot	_		{}
+30	den	_		{}
+31	ondaste	_		{}
+32	trollkarlen	_		{}
+33	genom	_		{}
+34	tiderna	_		{}
+35	,	_		{}
+36	Lord	_		{}
+37	Voldemort	_		{}
+38	.	_		{}

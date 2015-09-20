@@ -1,0 +1,21 @@
+1	@InAnselsArms	_		{}
+2	-avessi	_		{}
+3	continuato	_	Duration_attribute	{"Eventuality": "5"}
+4	a	_		{}
+5	leggere	_	Reading	{"Text": "7"}
+6	il	_		{}
+7	discorso	_	Chatting	{"Interlocutor_2": "10"}
+8	con	_		{}
+9	quella	_		{}
+10	ragazza	_	People	{"Person": "10"}
+11	avresti	_		{}
+12	visto	_		{}
+13	che	_		{}
+14	ho	_		{}
+15	scritto	_	Text	{}
+16	che	_		{}
+17	anche	_		{}
+18	lo	_		{}
+19	stesso	_	Proper_reference	{"Intended_referent": "20"}
+20	Harry	_		{}
+21	Potter-	_		{}

@@ -1,0 +1,29 @@
+1	Ginny	_		{}
+2	becomes	_	Becoming	{"Entity": "1"}
+3	possessed	_	Possession	{"Owner": "5", "Possession": "1"}
+4	by	_		{}
+5	Voldemort	_		{}
+6	through	_		{}
+7	the	_		{}
+8	diary	_	Text	{"Text": "8"}
+9	and	_		{}
+10	unconsciously	_		{}
+11	opens	_	Openness	{"Theme": "16"}
+12	the	_		{}
+13	"	_		{}
+14	Chamber	_	Building_subparts	{"Building_part": "14"}
+15	of	_		{}
+16	Secrets	_	Secrecy_status	{"Phenomenon": "16"}
+17	,	_		{}
+18	"	_		{}
+19	unleashing	_	Releasing	{"Theme": "22", "Agent": "1", "Means": "11"}
+20	an	_	Cardinal_numbers	{"Number": "20", "Entity": "22"}
+21	ancient	_	Age	{"Age": "21", "Entity": "22"}
+22	monster	_	Aggregate	{"Aggregate": "22"}
+23	which	_		{}
+24	begins	_	Activity_start	{"Place": "27", "Agent": "22", "Activity": "25"}
+25	attacking	_	Attack	{"Assailant": "22", "Place": "27", "Victim": "26"}
+26	students	_	People_by_vocation	{"Person": "26", "Place_of_employment": "27"}
+27	at	_		{}
+28	Hogwarts	_		{}
+29	.	_		{}

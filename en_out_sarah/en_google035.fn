@@ -1,0 +1,31 @@
+1	Early	_		{}
+2	in	_		{}
+3	1999	_		{}
+4	,	_		{}
+5	while	_		{}
+6	graduate	_	Education_teaching	{"Student": "10"}
+7	students	_	Education_teaching	{"Student": "10", "Qualification": "6"}
+8	,	_		{}
+9	Brin	_		{}
+10	and	_	Simultaneity	{"Profiled_event": "9", "Landmark_event": "11"}
+11	Page	_		{}
+12	decided	_	Deciding	{"Cognizer": "10", "Decision": "21", "Time": "1"}
+13	that	_		{}
+14	the	_		{}
+15	search	_		{}
+16	engine	_		{}
+17	they	_		{}
+18	had	_		{}
+19	developed	_	Manufacturing	{"Product": "16", "Means": "19", "Manufacturer": "10"}
+20	was	_		{}
+21	taking	_		{}
+22	up	_		{}
+23	too	_		{}
+24	much	_	Frequency	{"Attribute": "25", "Degree": "23"}
+25	time	_		{}
+26	and	_	Simultaneity	{"Profiled_event": "27", "Landmark_event": "21"}
+27	distracting	_	Becoming_detached	{"Source": "30", "Manner": "27"}
+28	their	_		{}
+29	academic	_		{}
+30	pursuits	_	Seeking_to_achieve	{"Sought_entity": "29", "Agent": "10"}
+31	.	_		{}

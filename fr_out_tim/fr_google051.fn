@@ -1,0 +1,34 @@
+1	Devenant	_	Becoming	{"Entity": "11"}
+2	trop	_	Sufficiency	{"Item": "11", "Scale": "3"}
+3	grand	_	Size	{"Entity": "11"}
+4	pour	_		{}
+5	le	_		{}
+6	garage	_	Buildings	{"Building": "6"}
+7	Google	_		{}
+8	qui	_		{}
+9	l'héberge	_		{}
+10	,	_		{}
+11	Google	_		{}
+12	se	_		{}
+13	déplace	_	Motion	{"Source": "6", "Theme": "11", "Goal": "20"}
+14	,	_		{}
+15	en	_		{}
+16	mars	_	Calendric_unit	{"Whole": "16"}
+17	,	_		{}
+18	dans	_		{}
+19	un	_		{}
+20	bureau	_	Building_subparts	{"Building_part": "20"}
+21	sur	_		{}
+22	l'avenue	_		{}
+23	de	_		{}
+24	l'université	_		{}
+25	de	_		{}
+26	Palo	_		{}
+27	Alto	_		{}
+28	et	_		{}
+29	8	_	Cardinal_numbers	{"Number": "29", "Entity": "30"}
+30	personnes	_	People	{"Person": "30"}
+31	y	_		{}
+32	travaillent	_	Being_employed	{"Employee": "30", "Place_of_employment": "20", "Employer": "11"}
+33	désormais	_		{}
+34	.	_		{}

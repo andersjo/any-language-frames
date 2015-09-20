@@ -1,0 +1,20 @@
+1	I	_		{}
+2	Champions	_		{}
+3	League-finalen	_		{}
+4	2007/2008	_		{}
+5	den	_		{}
+6	21	_		{}
+7	maj	_	Calendric_unit	{"Whole": "8", "Unit": "7"}
+8	2008	_		{}
+9	mot	_		{}
+10	ligarivalerna	_		{}
+11	Chelsea	_		{}
+12	gjorde	_		{}
+13	Ronaldo	_		{}
+14	matchens	_		{}
+15	första	_	Ordinal_numbers	{"Comparison_set": "16"}
+16	mål	_	Instance	{"Instance": "16"}
+17	efter	_		{}
+18	26	_		{}
+19	minuter	_	Measure_duration	{"Process": "16", "Count": "18", "Agent": "13", "Unit": "19"}
+20	.	_		{}

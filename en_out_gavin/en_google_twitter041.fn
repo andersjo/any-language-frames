@@ -1,0 +1,16 @@
+1	@davehogg	_		{}
+2	@skenatron	_		{}
+3	@dannimal	_		{}
+4	@merriehaskell	_		{}
+5	@CodexMagnolia	_		{}
+6	I	_		{}
+7	almost	_		{}
+8	panicked	_	Emotion_directed	{"Stimulus": "13", "Experiencer": "6", "Degree": "7"}
+9	today	_	Temporal_collocation	{"Trajector_event": "8", "Trajector_entity": "6", "Trajector_period": "9"}
+10	because	_		{}
+11	Google	_		{}
+12	inbox	_		{}
+13	logged	_	Self_motion	{"Goal": "15", "Self_mover": "11"}
+14	me	_	Proper_reference	{"Intended_referent": "6"}
+15	out	_		{}
+16	.	_		{}

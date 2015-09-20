@@ -1,0 +1,29 @@
+1	Google	_		{}
+2	vill	_	Desiring	{"Experiencer": "1", "Event": "4"}
+3	"	_		{}
+4	ordna	_	Arranging	{"Instrument": "28", "Theme": "7", "Agent": "1"}
+5	världens	_		{}
+6	samlade	_		{}
+7	information	_	Information	{"Cognizer": "5", "Source": "28"}
+8	och	_	Simultaneity	{"Profiled_event": "4", "Landmark_event": "11"}
+9	göra	_		{}
+10	den	_		{}
+11	tillgänglig	_	Having_or_lacking_access	{"Theme": "7"}
+12	användbar	_	Usefulness	{"Entity": "7"}
+13	för	_		{}
+14	alla	_		{}
+15	"	_		{}
+16	och	_	Simultaneity	{"Profiled_event": "9", "Landmark_event": "18"}
+17	har	_		{}
+18	tagit	_		{}
+19	sig	_		{}
+20	an	_		{}
+21	detta	_	Proper_reference	{"Intended_referent": "23"}
+22	självpåkallade	_		{}
+23	uppdrag	_	Attempt	{"Agent": "1", "Means": "28"}
+24	med	_		{}
+25	en	_	Cardinal_numbers	{"Number": "25", "Entity": "27"}
+26	hel	_		{}
+27	familj	_	Aggregate	{"Individuals": "28"}
+28	söktjänster	_		{}
+29	.	_		{}

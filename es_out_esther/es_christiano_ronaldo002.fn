@@ -1,0 +1,55 @@
+1	Identificado	_		{}
+2	en	_		{}
+3	los	_		{}
+4	medios	_	Organization	{"Organization": "6"}
+5	de	_		{}
+6	comunicación	_	Network	{"Network": "4"}
+7	con	_		{}
+8	el	_		{}
+9	numerónimo	_		{}
+10	CR7	_		{}
+11	,	_		{}
+12	es	_	Being_in_category	{"Category": "13", "Item": "10", "Criteria": "38"}
+13	considerado	_	Assessing	{"Medium": "4", "Phenomenon": "49", "Feature": "18", "Method": "41", "Place": "20", "Assessor": "38"}
+14	uno	_	Cardinal_numbers	{"Number": "14", "Entity": "18"}
+15	de	_		{}
+16	los	_		{}
+17	mejores	_	Surpassing	{"Attribute": "17", "Standard_item": "18", "Extent": "20"}
+18	futbolistas	_		{}
+19	del	_		{}
+20	mundo	_	Locale	{"Locale": "20"}
+21	,	_		{}
+22	llegando	_	Accomplishment	{"Time": "54", "Goal": "25", "Agent": "10", "Means": "41"}
+23	incluso	_	Calendric_unit	{"Relative_time": "54"}
+24	a	_		{}
+25	ser	_	Being_in_category	{"Category": "27", "Item": "18", "Time": "54", "Criteria": "38", "Means": "40"}
+26	el	_		{}
+27	mejor	_	Expertise	{"Focal_participant": "10", "Knowledge": "18", "Behavior_product": "30", "Protagonist": "10", "Role": "18", "Time": "54", "Judge": "36"}
+28	y	_		{}
+29	más	_	Increment	{"Class": "30", "Initial_set": "30"}
+30	completo	_	Completeness	{"Degree": "30", "Time": "54"}
+31	para	_		{}
+32	un	_		{}
+33	elevado	_	Dimension	{"Object": "34"}
+34	número	_	Quantity	{"Individuals": "36", "Mass": "38", "Quantity": "33"}
+35	de	_		{}
+36	personas	_	People	{"Person": "36"}
+37	y	_		{}
+38	prensa	_	Attempt_suasion	{"Topic": "41"}
+39	vinculadas	_	Attaching	{}
+40	al	_		{}
+41	deporte	_		{}
+42	,	_		{}
+43	así	_		{}
+44	como	_		{}
+45	también	_		{}
+46	una	_		{}
+47	de	_		{}
+48	las	_		{}
+49	figuras	_	Performers_and_roles	{"Performer": "10", "Medium": "51", "Time": "54"}
+50	más	_	Increment	{"Class": "51", "Initial_set": "49"}
+51	mediáticas	_		{}
+52	de	_		{}
+53	la	_		{}
+54	actualidad	_	Temporal_collocation	{"Landmark_period": "54"}
+55	.	_		{}

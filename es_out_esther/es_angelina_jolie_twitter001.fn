@@ -1,0 +1,24 @@
+1	Si	_		{}
+2	eso	_		{}
+3	es	_	Being_in_category	{"Category": "4", "Criteria": "2"}
+4	ser	_	Being_in_category	{"Category": "5", "Criteria": "2"}
+5	perfecta	_	Correctness	{"Topic": "2"}
+6	,	_		{}
+7	yo	_	Proper_reference	{}
+8	soy	_	Being_in_category	{"Category": "10", "Criteria": "2"}
+9	la	_		{}
+10	angelina	_		{}
+11	jolie	_		{}
+12	de	_		{}
+13	la	_		{}
+14	villa	_	Buildings	{"Type": "15"}
+15	31	_		{}
+16	!	_	Statement	{}
+17	obvio	_	Obviousness	{"Phenomenon": "8"}
+18	!	_	Statement	{}
+19	porque	_		{}
+20	villera	_		{}
+21	toda	_	Degree	{"Gradable_attribute": "23"}
+22	mi	_		{}
+23	vida	_	Existence	{"Entity": "7", "Place": "14", "Time": "21"}
+24	guachsssssss	_		{}

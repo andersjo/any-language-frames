@@ -1,0 +1,11 @@
+1	I	_		{}
+2	really	_	Degree	{"Gradable_attribute": "3"}
+3	enjoy	_	Experiencer_obj	{"Stimulus": "5", "Experiencer": "1", "Degree": "2"}
+4	Christiano	_		{}
+5	Ronaldo	_		{}
+6	in	_		{}
+7	a	_	Cardinal_numbers	{"Number": "7", "Entity": "10"}
+8	black	_	Color	{"Color": "8", "Entity": "10"}
+9	football	_		{}
+10	kit	_	Clothing	{"Garment": "10", "Style": "9"}
+11	😍😭	_		{}

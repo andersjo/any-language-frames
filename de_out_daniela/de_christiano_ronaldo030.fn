@@ -1,0 +1,28 @@
+1	Dabei	_		{}
+2	hatte	_		{}
+3	er	_		{}
+4	anfänglich	_		{}
+5	Akzeptanzprobleme	_		{}
+6	bei	_		{}
+7	den	_		{}
+8	Kameraden	_	Personal_relationship	{"Partner_2": "8", "Partner_1": "3"}
+9	,	_		{}
+10	die	_		{}
+11	zumeist	_		{}
+12	aus	_		{}
+13	der	_		{}
+14	näheren	_		{}
+15	Umgebung	_	Political_locales	{"Locale": "16", "Relative_location": "14"}
+16	Lissabons	_		{}
+17	stammten	_		{}
+18	und	_		{}
+19	sich	_		{}
+20	über	_		{}
+21	Ronaldos	_		{}
+22	spezifischen	_		{}
+23	Dialekt	_		{}
+24	aus	_		{}
+25	Madeira	_		{}
+26	lustig	_	Stimulus_focus	{"Stimulus": "23"}
+27	machten	_		{}
+28	.	_		{}

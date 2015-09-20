@@ -1,0 +1,37 @@
+1	Ha	_		{}
+2	conseguido	_	Accomplishment	{"Goal": "4", "Means": "9"}
+3	este	_	Proper_reference	{"Intended_referent": "4"}
+4	puesto	_	Posture	{}
+5	gracias	_	Judgment_direct_address	{}
+6	a	_		{}
+7	la	_		{}
+8	exitosa	_	Success_or_failure	{}
+9	película	_	Physical_artworks	{}
+10	"	_		{}
+11	Salt	_		{}
+12	"	_		{}
+13	,	_		{}
+14	que	_		{}
+15	recaudó	_		{}
+16	en	_		{}
+17	Estados	_	Political_locales	{"Name": "18"}
+18	Unidos	_	Being_attached	{"Item": "17"}
+19	300	_		{}
+20	millones	_	Quantity	{"Individuals": "22"}
+21	de	_		{}
+22	dólares	_	Observable_body_parts	{}
+23	,	_		{}
+24	y	_		{}
+25	a	_		{}
+26	"	_		{}
+27	The	_		{}
+28	Tourist	_		{}
+29	"	_		{}
+30	,	_		{}
+31	que	_		{}
+32	consiguió	_		{}
+33	280	_		{}
+34	millones	_	Quantity	{}
+35	de	_		{}
+36	dólares	_	Observable_body_parts	{}
+37	.	_		{}

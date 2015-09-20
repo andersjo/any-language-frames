@@ -1,0 +1,11 @@
+1	Dennoch	_	Concessive	{"Main_statement": "5"}
+2	ließ	_		{}
+3	der	_		{}
+4	erste	_		{}
+5	Titel	_	Part_ordered_segments	{"Ordinality": "4", "Part": "5"}
+6	nicht	_		{}
+7	lange	_	Duration_attribute	{"Eventuality": "10"}
+8	auf	_		{}
+9	sich	_		{}
+10	warten	_	Waiting	{"Duration": "7", "Expected_event": "5"}
+11	.	_		{}

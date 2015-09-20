@@ -1,0 +1,25 @@
+1	She	_		{}
+2	explained	_	Explaining_the_facts	{"Fact": "7", "State_of_affairs": "4"}
+3	that	_		{}
+4	because	_		{}
+5	she	_		{}
+6	had	_		{}
+7	adopted	_		{}
+8	her	_		{}
+9	son	_	Kinship	{"Ego": "5", "Alter": "10"}
+10	Maddox	_		{}
+11	,	_		{}
+12	she	_		{}
+13	did	_		{}
+14	not	_		{}
+15	think	_	Opinion	{"Cognizer": "12", "Opinion": "17"}
+16	it	_		{}
+17	was	_	Being_in_category	{"Category": "18", "Item": "16"}
+18	healthy	_	Body_description_holistic	{"Figure": "16"}
+19	for	_		{}
+20	her	_		{}
+21	to	_		{}
+22	associate	_	Collaboration	{"Partner_2": "24", "Partner_1": "20"}
+23	with	_		{}
+24	Voight	_		{}
+25	.	_		{}

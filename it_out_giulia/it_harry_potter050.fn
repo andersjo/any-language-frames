@@ -1,0 +1,35 @@
+1	Il	_		{}
+2	libro	_	Text	{"Text": "2"}
+3	più	_		{}
+4	lungo	_	Measurable_attributes	{"Degree": "4", "Entity": "2"}
+5	della	_		{}
+6	serie	_	Sequence	{}
+7	è	_		{}
+8	il	_		{}
+9	quinto	_	Ordinal_numbers	{"Comparison_set": "6"}
+10	,	_		{}
+11	"	_		{}
+12	Harry	_		{}
+13	Potter	_		{}
+14	e	_		{}
+15	l'Ordine	_		{}
+16	della	_		{}
+17	Fenice	_		{}
+18	"	_		{}
+19	,	_		{}
+20	il	_		{}
+21	più	_		{}
+22	corto	_	Size	{"Entity": "2"}
+23	è	_		{}
+24	il	_		{}
+25	primo	_	Ordinal_numbers	{"Comparison_set": "6", "Item": "2"}
+26	,	_		{}
+27	"	_		{}
+28	Harry	_		{}
+29	Potter	_		{}
+30	e	_		{}
+31	la	_		{}
+32	pietra	_		{}
+33	filosofale	_		{}
+34	"	_		{}
+35	.	_		{}

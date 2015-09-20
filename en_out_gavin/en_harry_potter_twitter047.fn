@@ -1,0 +1,16 @@
+1	i	_		{}
+2	just	_		{}
+3	wanna	_		{}
+4	be	_	Existence	{"Place": "5", "Entity": "1"}
+5	in	_		{}
+6	harry	_		{}
+7	potter	_		{}
+8	world	_	Locale	{"Locale": "8"}
+9	already	_	Time_vector	{"Event": "4"}
+10	so	_	Temporal_collocation	{"Trajector_event": "14", "Landmark_entity": "1", "Landmark_event": "4", "Trajector_entity": "13"}
+11	all	_	Quantity	{"Individuals": "13", "Quantity": "11"}
+12	my	_		{}
+13	problems	_	Predicament	{"Situation": "13", "Experiencer": "12"}
+14	can	_	Capability	{"Entity": "13"}
+15	magically	_	Ineffability	{"Stimulus": "16"}
+16	disappear	_	Ceasing_to_be	{"Manner": "15", "Entity": "13"}

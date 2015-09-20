@@ -1,0 +1,9 @@
+1	Pourquoi	_	Reason	{}
+2	je	_		{}
+3	cherche	_	Seeking	{"Cognizer_agent": "2", "Sought_entity": "5"}
+4	des	_		{}
+5	techniques	_	Means	{"Purpose": "7", "Means": "5"}
+6	pour	_		{}
+7	s'endormir	_	Fall_asleep	{}
+8	sur	_		{}
+9	Google	_		{}

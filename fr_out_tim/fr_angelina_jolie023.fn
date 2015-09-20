@@ -1,0 +1,52 @@
+1	Cependant	_		{}
+2	,	_		{}
+3	Jon	_		{}
+4	Voight	_		{}
+5	fait	_		{}
+6	valoir	_		{}
+7	que	_		{}
+8	son	_		{}
+9	ex-femme	_		{}
+10	,	_		{}
+11	Marcheline	_		{}
+12	Bertrand	_		{}
+13	,	_		{}
+14	n'était	_		{}
+15	Après	_		{}
+16	la	_		{}
+17	séparation	_	Forming_relationships	{"Partners": "20"}
+18	de	_		{}
+19	ses	_		{}
+20	parents	_	Kinship	{"Ego": "19", "Alter": "20"}
+21	en	_		{}
+22	1978	_		{}
+23	,	_		{}
+24	Angelina	_		{}
+25	Jolie	_		{}
+26	et	_		{}
+27	son	_		{}
+28	frère	_	Kinship	{"Ego": "27", "Alter": "28"}
+29	sont	_		{}
+30	élevés	_		{}
+31	par	_		{}
+32	leur	_		{}
+33	mère	_	Kinship	{"Ego": "32", "Alter": "33"}
+34	,	_		{}
+35	qui	_		{}
+36	abandonne	_	Abandonment	{"Theme": "38", "Agent": "33"}
+37	ses	_		{}
+38	ambitions	_	Desiring	{"Experiencer": "33"}
+39	d'actrice	_		{}
+40	et	_		{}
+41	déménage	_		{}
+42	avec	_		{}
+43	eux	_		{}
+44	à	_		{}
+45	Palisades	_		{}
+46	,	_		{}
+47	dans	_		{}
+48	l'État	_	Political_locales	{"Locale": "48"}
+49	de	_		{}
+50	New	_		{}
+51	York	_		{}
+52	.	_		{}

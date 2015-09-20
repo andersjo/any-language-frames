@@ -1,0 +1,24 @@
+1	Ver	_	Attention	{"Perceiver": "2"}
+2	Harry	_		{}
+3	Potter	_		{}
+4	y	_	Simultaneity	{}
+5	la	_		{}
+6	piedra	_		{}
+7	filosofal	_		{}
+8	y	_	Simultaneity	{}
+9	que	_		{}
+10	se	_		{}
+11	te	_		{}
+12	venga	_		{}
+13	a	_		{}
+14	la	_		{}
+15	cabeza	_	Observable_body_parts	{"Body_part": "15"}
+16	recuerdos	_	Memory	{"Content": "20", "Topic": "20"}
+17	de	_		{}
+18	cuando	_		{}
+19	era	_	Being_in_category	{"Category": "20"}
+20	crio	_		{}
+21	...	_		{}
+22	Lo	_		{}
+23	mejor	_	Surpassing	{"Standard_item": "23"}
+24	...	_		{}

@@ -1,0 +1,40 @@
+1	En	_		{}
+2	noviembre	_	Calendric_unit	{"Relative_time": "2", "Whole": "4"}
+3	de	_		{}
+4	1909	_		{}
+5	comenzó	_		{}
+6	la	_		{}
+7	huelga	_	Attack	{"Assailant": "10", "Victim": "10"}
+8	de	_		{}
+9	las	_		{}
+10	camiseras	_		{}
+11	(	_		{}
+12	"	_		{}
+13	New	_		{}
+14	York	_		{}
+15	shirtwaist	_		{}
+16	strike	_		{}
+17	of	_		{}
+18	1909	_		{}
+19	"	_		{}
+20	)	_		{}
+21	,	_		{}
+22	también	_	Sufficiency	{}
+23	conocido	_	Familiarity	{"Entity": "7"}
+24	como	_	Identicality	{}
+25	el	_		{}
+26	"	_		{}
+27	Levantamiento	_		{}
+28	de	_		{}
+29	las	_		{}
+30	20.000	_		{}
+31	"	_		{}
+32	(	_		{}
+33	"	_		{}
+34	Uprising	_		{}
+35	of	_		{}
+36	the	_		{}
+37	20.000	_		{}
+38	"	_		{}
+39	)	_		{}
+40	.	_		{}

@@ -1,0 +1,21 @@
+1	Wenn	_		{}
+2	ihr	_		{}
+3	Schlauchboot	_		{}
+4	Lippen	_	Observable_body_parts	{"Body_part": "4", "Possessor": "2", "Descriptor": "3"}
+5	a	_		{}
+6	la	_		{}
+7	Angelina	_		{}
+8	jolie	_		{}
+9	wollt	_	Desiring	{"Focal_participant": "4", "Event": "3", "Experiencer": "2"}
+10	einfach	_	Difficulty	{"Experiencer": "2", "Activity": "11"}
+11	Herpes	_		{}
+12	in	_		{}
+13	der	_		{}
+14	Mitte	_		{}
+15	der	_		{}
+16	Lippe	_	Observable_body_parts	{"Body_part": "16"}
+17	bekommen	_	Getting	{"Theme": "11"}
+18	.	_		{}
+19	Sieht	_	Appearance	{"Inference": "19", "Appraisal": "20"}
+20	Super	_		{}
+21	aus✌	_		{}

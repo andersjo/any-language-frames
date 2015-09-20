@@ -1,0 +1,9 @@
+1	"	_		{}
+2	Google	_		{}
+3	rovina	_	Damaging	{"Patient": "4", "Agent": "2"}
+4	famiglie	_	Kinship	{"Relatives": "4"}
+5	"	_		{}
+6	cit	_		{}
+7	.	_		{}
+8	nonna	_	Kinship	{"Alter": "8"}
+9	Bruna	_		{}

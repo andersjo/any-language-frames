@@ -1,0 +1,20 @@
+1	En	_		{}
+2	enero	_	Calendric_unit	{"Relative_time": "2", "Whole": "4"}
+3	de	_		{}
+4	2010	_		{}
+5	Google	_		{}
+6	presenta	_	Communicate_categorization	{"Category": "9", "Item": "9", "Medium": "10", "Speaker": "5"}
+7	su	_		{}
+8	primer	_	First_experience	{"Experience": "9"}
+9	teléfono	_	Building_subparts	{"Building_part": "10"}
+10	móvil	_	Building_subparts	{"Building_part": "9"}
+11	,	_		{}
+12	el	_		{}
+13	Nexus	_		{}
+14	One	_		{}
+15	,	_		{}
+16	que	_		{}
+17	funciona	_	Being_operational	{"Artifact": "9"}
+18	con	_		{}
+19	Android	_		{}
+20	.	_		{}

@@ -1,0 +1,17 @@
+1	@cestlaviolett	_		{}
+2	I	_		{}
+3	just	_		{}
+4	finished	_	Activity_finish	{"Activity": "6", "Agent": "2", "Time": "3"}
+5	my	_		{}
+6	rewatch	_		{}
+7	this	_	Proper_reference	{"Intended_referent": "8"}
+8	morning	_	Calendric_unit	{"Unit": "8"}
+9	!	_		{}
+10	Christmas	_	Commemorative	{"Dedicated_type": "11"}
+11	break	_	Activity_pause	{}
+12	and	_		{}
+13	harry	_		{}
+14	potter	_		{}
+15	go	_	Compatibility	{"Item_2": "14", "Degree": "16", "Item_1": "11"}
+16	great	_	Desirability	{"Evaluee": "15"}
+17	together	_	Collaboration	{"Partner_2": "14", "Degree": "16", "Partner_1": "11"}

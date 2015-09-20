@@ -1,0 +1,43 @@
+1	En	_		{}
+2	su	_		{}
+3	primera	_	First_experience	{"Experience": "4"}
+4	temporada	_	Sequence	{"Entity1": "4"}
+5	ganó	_		{}
+6	la	_		{}
+7	FA	_		{}
+8	Cup	_		{}
+9	al	_		{}
+10	imponerse	_	Beat_opponent	{"Loser": "16"}
+11	en	_		{}
+12	Cardiff	_		{}
+13	por	_		{}
+14	3-0	_		{}
+15	al	_		{}
+16	Millwall	_		{}
+17	F	_		{}
+18	.	_		{}
+19	C	_		{}
+20	.	_		{}
+21	de	_		{}
+22	la	_		{}
+23	Football	_		{}
+24	League	_		{}
+25	One	_		{}
+26	,	_		{}
+27	tercera	_	Part_whole	{"Part": "27", "Whole": "28"}
+28	categoría	_	Type	{"Category": "28", "Subtype": "27"}
+29	inglesa	_	People_by_origin	{"Origin": "29", "Person": "28"}
+30	,	_		{}
+31	donde	_		{}
+32	Ronaldo	_		{}
+33	abrió	_		{}
+34	el	_		{}
+35	marcador	_	Behind_the_scenes	{"Performer": "32", "Score": "35", "Production": "33", "Scene": "28", "Artist": "32"}
+36	y	_		{}
+37	fue	_		{}
+38	nombrado	_		{}
+39	el	_		{}
+40	hombre	_	People	{"Person": "40"}
+41	del	_		{}
+42	partido	_	Social_event	{}
+43	.	_		{}

@@ -1,0 +1,38 @@
+1	Han	_		{}
+2	sluttede	_		{}
+3	2007	_		{}
+4	med	_		{}
+5	at	_		{}
+6	komme	_	Change_position_on_a_scale	{"Item": "1", "Final_value": "8"}
+7	på	_		{}
+8	andenpladsen	_		{}
+9	i	_		{}
+10	Ballon	_		{}
+11	d'Or	_		{}
+12	efter	_	Change_position_on_a_scale	{"Item": "1"}
+13	Kaká	_		{}
+14	og	_		{}
+15	foran	_	Relative_time	{"Focal_participant": "1", "Landmark_occasion": "16"}
+16	Messi	_		{}
+17	på	_		{}
+18	tredjepladsen	_		{}
+19	,	_		{}
+20	og	_		{}
+21	endte	_		{}
+22	på	_		{}
+23	tredjepladsen	_		{}
+24	i	_		{}
+25	kampen	_	Hostile_encounter	{"Side_1": "1", "Issue": "27"}
+26	om	_		{}
+27	FIFA	_		{}
+28	World	_		{}
+29	Player	_		{}
+30	of	_		{}
+31	the	_		{}
+32	Year-prisen	_		{}
+33	,	_		{}
+34	bagved	_		{}
+35	Kaká	_		{}
+36	og	_		{}
+37	Messi	_		{}
+38	.	_		{}

@@ -1,0 +1,27 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	,	_		{}
+4	Emma	_		{}
+5	Watson	_		{}
+6	o	_		{}
+7	Natalie	_		{}
+8	Portman	_		{}
+9	?	_		{}
+10	—	_		{}
+11	Ufff	_		{}
+12	si	_		{}
+13	me	_	Proper_reference	{}
+14	hubieses	_		{}
+15	puesto	_	Aggregate	{"Individuals": "17"}
+16	a	_		{}
+17	P	_		{}
+18	!	_		{}
+19	nk	_		{}
+20	en	_		{}
+21	la	_		{}
+22	pregunta	_	Questioning	{"Topic": "17", "Message": "1", "Speaker": "13"}
+23	me	_	Proper_reference	{"Intended_referent": "13"}
+24	vuelvo	_	Becoming	{"Entity": "23"}
+25	loca	_	Mental_stimulus_exp_focus	{"Stimulus": "24", "Expressor": "23", "Experiencer": "23", "State": "25"}
+26	...	_		{}
+27	http://t.co/2O2ROAIhTO	_		{}

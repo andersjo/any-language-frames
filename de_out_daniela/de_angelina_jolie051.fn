@@ -1,0 +1,28 @@
+1	Der	_		{}
+2	Film	_	Physical_artworks	{"Artifact": "2"}
+3	erzählt	_	Telling	{"Topic": "5", "Medium": "2"}
+4	die	_		{}
+5	Geschichte	_	Individual_history	{"Participant": "7"}
+6	eines	_		{}
+7	Chirurgen	_	Medical_professionals	{"Professional": "7"}
+8	,	_		{}
+9	der	_		{}
+10	seine	_	Possession	{"Possession": "11", "Owner": "7"}
+11	Approbation	_		{}
+12	verliert	_	Losing	{"Owner": "7", "Possession": "11"}
+13	und	_		{}
+14	tief	_	Extreme_value	{"Attribute": "17", "Value": "14", "Entity": "7"}
+15	in	_		{}
+16	die	_		{}
+17	kriminelle	_		{}
+18	Unterwelt	_		{}
+19	hineingezogen	_		{}
+20	wird	_		{}
+21	,	_		{}
+22	wo	_		{}
+23	er	_		{}
+24	Jolies	_		{}
+25	Figur	_	Performers_and_roles	{"Performer": "24", "Role": "26"}
+26	Claire	_		{}
+27	trifft	_	Make_acquaintance	{"Individual_1": "23", "Individual_2": "26", "Place": "18"}
+28	.	_		{}

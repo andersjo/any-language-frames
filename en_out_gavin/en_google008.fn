@@ -1,0 +1,32 @@
+1	Its	_		{}
+2	mission	_	Organization	{"Organization": "2"}
+3	statement	_	Statement	{"Topic": "2", "Message": "10", "Speaker": "1", "Time": "4"}
+4	from	_		{}
+5	the	_		{}
+6	outset	_	Temporal_subregion	{"Time_period": "6"}
+7	was	_	Being_in_category	{"Category": "10"}
+8	"	_		{}
+9	to	_		{}
+10	organize	_	Reshaping	{"Undergoer": "13", "Deformer": "3"}
+11	the	_		{}
+12	world's	_		{}
+13	information	_	Information	{"Topic": "12", "Information": "13"}
+14	and	_		{}
+15	make	_	Cause_change	{"Final_category": "18", "Agent": "3", "Entity": "13"}
+16	it	_		{}
+17	universally	_		{}
+18	accessible	_	Having_or_lacking_access	{"Theme": "13", "Degree": "17"}
+19	and	_		{}
+20	useful	_	Usefulness	{"Entity": "13"}
+21	,	_		{}
+22	"	_		{}
+23	and	_		{}
+24	its	_		{}
+25	unofficial	_	Leadership	{}
+26	slogan	_	Judgment_direct_address	{}
+27	was	_	Existence	{"Entity": "26"}
+28	"	_		{}
+29	Don't	_		{}
+30	be	_	Being_in_category	{"Category": "31"}
+31	evil	_	Morality_evaluation	{}
+32	.	_		{}

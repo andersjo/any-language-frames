@@ -1,0 +1,17 @@
+1	Insgesamt	_		{}
+2	bestritt	_		{}
+3	er	_		{}
+4	im	_		{}
+5	Laufe	_		{}
+6	seiner	_	Possession	{"Possession": "8", "Owner": "3"}
+7	ersten	_	Ordinal_numbers	{"Item": "8", "Type": "8"}
+8	Spielzeit	_		{}
+9	in	_		{}
+10	England	_		{}
+11	40	_	Cardinal_numbers	{"Number": "11", "Entity": "12"}
+12	Pflichtspiele	_		{}
+13	und	_	Simultaneity	{"Profiled_event": "2", "Landmark_event": "14"}
+14	schoss	_		{}
+15	sechs	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	Tore	_		{}
+17	.	_		{}

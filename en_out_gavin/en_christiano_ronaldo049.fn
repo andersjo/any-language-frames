@@ -1,0 +1,37 @@
+1	Of	_		{}
+2	a	_	Cardinal_numbers	{"Number": "2", "Entity": "4"}
+3	possible	_	Likelihood	{"Hypothetical_event": "4"}
+4	move	_	Motion	{"Goal": "5"}
+5	to	_		{}
+6	Liverpool	_		{}
+7	,	_		{}
+8	he	_		{}
+9	said	_		{}
+10	"	_		{}
+11	Liverpool	_		{}
+12	are	_	Being_in_category	{"Category": "17", "Item": "11", "Cognizer": "8", "Criteria": "18"}
+13	one	_	Cardinal_numbers	{"Number": "13", "Entity": "17"}
+14	of	_		{}
+15	the	_		{}
+16	best	_	Expertise	{"Judge": "8", "Protagonist": "11", "Focal_participant": "17"}
+17	clubs	_	Organization	{"Organization": "17", "Name": "11"}
+18	in	_		{}
+19	England	_		{}
+20	and	_		{}
+21	it	_		{}
+22	would	_		{}
+23	be	_	Being_in_category	{"Category": "25", "Item": "21", "Cognizer": "8"}
+24	a	_	Cardinal_numbers	{"Number": "24", "Entity": "25"}
+25	dream	_		{}
+26	for	_		{}
+27	any	_	Quantity	{"Individuals": "28", "Quantity": "27"}
+28	player	_	Performers	{"Person": "28"}
+29	to	_		{}
+30	represent	_	Representing	{"Phenomenon": "32", "Entity": "28"}
+31	a	_	Cardinal_numbers	{"Number": "31", "Entity": "32"}
+32	club	_	Organization	{"Organization": "32"}
+33	of	_		{}
+34	such	_		{}
+35	traditions	_	Custom	{"Behavior": "35"}
+36	"	_		{}
+37	.	_		{}

@@ -1,0 +1,22 @@
+1	Известна	_		{}
+2	е	_		{}
+3	с	_		{}
+4	активната	_		{}
+5	си	_		{}
+6	позиция	_	Opinion	{"Opinion": "6"}
+7	и	_	Simultaneity	{"Profiled_event": "7"}
+8	благотворителните	_		{}
+9	си	_		{}
+10	акции	_		{}
+11	по	_		{}
+12	ред	_		{}
+13	наболели	_		{}
+14	хуманитарни	_		{}
+15	въпроси	_	Point_of_dispute	{"Domain": "15"}
+16	(например	_		{}
+17	образованието	_	Education_teaching	{"Institution": "17"}
+18	и	_	Simultaneity	{"Profiled_event": "18"}
+19	изхранването	_		{}
+20	в	_	Aggregate	{"Container_possessor": "20"}
+21	Африка)	_		{}
+22	.	_		{}

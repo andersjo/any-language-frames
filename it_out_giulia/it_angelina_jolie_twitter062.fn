@@ -1,0 +1,19 @@
+1	Huffingtonpost.it	_		{}
+2	-	_		{}
+3	Angelina	_		{}
+4	Jolie	_		{}
+5	orgogliosa	_		{}
+6	della	_		{}
+7	figlia	_	Kinship	{"Ego": "4", "Alter": "8"}
+8	Shiloh	_		{}
+9	alla	_		{}
+10	premier	_		{}
+11	di	_		{}
+12	Unbroken	_		{}
+13	:	_		{}
+14	"	_		{}
+15	Indossava	_	Dressing	{"Clothing": "17", "Wearer": "8"}
+16	le	_		{}
+17	scarpe	_	Clothing	{"Garment": "17"}
+18	…	_		{}
+19	http://t.co/kPriSrm6Hh	_		{}

@@ -1,0 +1,24 @@
+1	Ver	_	Grasp	{"Category": "16", "Manner": "23", "Phenomenon": "2"}
+2	Harry	_		{}
+3	Potter	_		{}
+4	y	_	Simultaneity	{"Profiled_event": "6", "Landmark_event": "2"}
+5	la	_		{}
+6	piedra	_		{}
+7	filosofal	_		{}
+8	y	_	Simultaneity	{"Profiled_event": "16", "Landmark_event": "1"}
+9	que	_	Experiencer_obj	{"Stimulus": "2", "Degree": "23", "Means": "15"}
+10	se	_		{}
+11	te	_		{}
+12	venga	_		{}
+13	a	_		{}
+14	la	_		{}
+15	cabeza	_	Observable_body_parts	{"Descriptor": "16", "Body_part": "15"}
+16	recuerdos	_	Memory	{"Topic": "2", "Degree": "23", "Means": "1", "Experience": "1", "Content": "20", "Manner": "1", "Circumstances": "20"}
+17	de	_		{}
+18	cuando	_		{}
+19	era	_		{}
+20	crio	_		{}
+21	...	_		{}
+22	Lo	_		{}
+23	mejor	_		{}
+24	...	_		{}

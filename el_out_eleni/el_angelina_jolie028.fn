@@ -1,0 +1,27 @@
+1	Ένα	_		{}
+2	χρόνο	_	Calendric_unit	{"Relative_time": "1", "Whole": "2"}
+3	αργότερα	_	Time_vector	{"Distance": "3"}
+4	,	_		{}
+5	αφού	_		{}
+6	βγήκε	_		{}
+7	το	_		{}
+8	διαζύγιο	_	Forming_relationships	{"Partners": "9"}
+9	Άνιστον-Πιτ	_		{}
+10	,	_		{}
+11	η	_		{}
+12	Τζολί	_		{}
+13	επιβεβαίωσε	_		{}
+14	την	_		{}
+15	σχέση	_	Personal_relationship	{"Partner_1": "12"}
+16	της	_		{}
+17	μαζί	_	Collaboration	{"Undertaking": "15", "Partner_1": "12"}
+18	του	_		{}
+19	αλλά	_		{}
+20	και	_		{}
+21	ότι	_		{}
+22	περιμένει	_		{}
+23	του	_		{}
+24	πρώτο	_	Being_named	{"Name": "24", "Entity": "26"}
+25	τους	_		{}
+26	παιδί	_	People_by_age	{"Person": "26", "Age": "26"}
+27	.	_		{}

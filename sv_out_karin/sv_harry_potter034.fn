@@ -1,0 +1,29 @@
+1	Andra	_		{}
+2	har	_		{}
+3	jämfört	_		{}
+4	Harry	_		{}
+5	Potter	_		{}
+6	med	_		{}
+7	Luke	_		{}
+8	Skywalker	_		{}
+9	i	_		{}
+10	"	_		{}
+11	Stjärnornas	_		{}
+12	krig	_	Hostile_encounter	{"Sides": "11"}
+13	"	_		{}
+14	,	_		{}
+15	som	_		{}
+16	bor	_		{}
+17	med	_		{}
+18	sin	_		{}
+19	moster	_	Kinship	{"Ego": "8", "Alter": "19"}
+20	och	_		{}
+21	morbror	_	Kinship	{"Ego": "8", "Alter": "21"}
+22	som	_		{}
+23	ljuger	_		{}
+24	om	_		{}
+25	hans	_		{}
+26	föräldrars	_		{}
+27	verkliga	_	Existence	{"Entity": "26"}
+28	öden	_		{}
+29	.	_		{}

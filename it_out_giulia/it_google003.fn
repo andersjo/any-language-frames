@@ -1,0 +1,44 @@
+1	Convinti	_	Certainty	{}
+2	che	_		{}
+3	le	_		{}
+4	pagine	_		{}
+5	citate	_	Mention	{"Specified_content": "4"}
+6	con	_		{}
+7	un	_		{}
+8	maggior	_		{}
+9	numero	_	Quantity	{"Individuals": "11"}
+10	di	_		{}
+11	link	_		{}
+12	fossero	_		{}
+13	le	_		{}
+14	più	_		{}
+15	importanti	_	Importance	{}
+16	e	_		{}
+17	meritevoli	_		{}
+18	(	_		{}
+19	Teoria	_		{}
+20	delle	_		{}
+21	Reti	_		{}
+22	)	_		{}
+23	,	_		{}
+24	decisero	_	Deciding	{"Decision": "29"}
+25	di	_		{}
+26	approfondire	_	Cause_expansion	{"Item": "29"}
+27	la	_		{}
+28	loro	_		{}
+29	teoria	_		{}
+30	all'interno	_		{}
+31	dei	_		{}
+32	loro	_		{}
+33	studi	_		{}
+34	e	_		{}
+35	posero	_	Intentionally_create	{"Created_entity": "41"}
+36	le	_		{}
+37	basi	_	Infrastructure	{"Infrastructure": "37", "Resource": "41"}
+38	per	_		{}
+39	il	_		{}
+40	loro	_		{}
+41	motore	_		{}
+42	di	_		{}
+43	ricerca	_	Seeking	{}
+44	.	_		{}

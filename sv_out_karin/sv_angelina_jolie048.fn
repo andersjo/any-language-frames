@@ -1,0 +1,24 @@
+1	Jolies	_		{}
+2	professionella	_	People_by_vocation	{"Person": "1"}
+3	filmkarriär	_		{}
+4	började	_		{}
+5	1993	_		{}
+6	när	_	Event_instance	{"Instance": "5", "Event": "8"}
+7	hon	_		{}
+8	fick	_		{}
+9	sin	_		{}
+10	första	_	Ordinal_numbers	{"Item": "11"}
+11	huvudroll	_		{}
+12	,	_		{}
+13	i	_		{}
+14	lågbudgetfilmen	_		{}
+15	"	_		{}
+16	Cyborg	_		{}
+17	2	_		{}
+18	"	_		{}
+19	som	_		{}
+20	bara	_		{}
+21	distribuerades	_		{}
+22	på	_		{}
+23	video	_		{}
+24	.	_		{}

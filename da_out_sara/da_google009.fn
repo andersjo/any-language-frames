@@ -1,0 +1,21 @@
+1	Som	_		{}
+2	en	_		{}
+3	nyhed	_	Information	{"Topic": "3", "Information": "11", "Cognizer": "5"}
+4	tilbød	_		{}
+5	man	_	People	{"Person": "5"}
+6	fra	_		{}
+7	start	_	Process_start	{}
+8	1	_	Cardinal_numbers	{"Number": "8", "Entity": "9"}
+9	GB	_		{}
+10	gratis	_	Expensiveness	{"Goods": "11", "Asset": "10"}
+11	lagerplads	_		{}
+12	,	_		{}
+13	hvilket	_		{}
+14	siden	_		{}
+15	er	_		{}
+16	vokset	_		{}
+17	til	_		{}
+18	over	_		{}
+19	10	_	Cardinal_numbers	{"Number": "19", "Entity": "20"}
+20	GB	_		{}
+21	.	_		{}

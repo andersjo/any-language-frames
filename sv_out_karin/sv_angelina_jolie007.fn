@@ -1,0 +1,35 @@
+1	Jolie	_		{}
+2	filmdebuterade	_		{}
+3	som	_		{}
+4	barn	_	People_by_age	{"Person": "1"}
+5	1982	_		{}
+6	i	_		{}
+7	"	_		{}
+8	Lookin	_		{}
+9	'	_		{}
+10	to	_		{}
+11	Get	_		{}
+12	Out	_		{}
+13	"	_		{}
+14	i	_		{}
+15	vilken	_		{}
+16	även	_		{}
+17	hennes	_		{}
+18	far	_	Kinship	{"Ego": "1", "Alter": "20"}
+19	Jon	_		{}
+20	Voight	_		{}
+21	spelade	_		{}
+22	i	_		{}
+23	.	_		{}
+24	Karriären	_		{}
+25	började	_		{}
+26	på	_		{}
+27	allvar	_		{}
+28	1993	_		{}
+29	med	_		{}
+30	filmen	_	Physical_artworks	{"Artifact": "32"}
+31	"	_		{}
+32	Cyborg	_		{}
+33	2	_		{}
+34	"	_		{}
+35	.	_		{}

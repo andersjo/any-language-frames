@@ -1,0 +1,15 @@
+1	D-EU-USA-	_		{}
+2	<	_		{}
+3	b	_		{}
+4	>	_		{}
+5	Handel	_	Commerce_scenario	{"Buyer": "9"}
+6	<	_		{}
+7	/b	_		{}
+8	>	_		{}
+9	-Lebensmittel-Verbraucher	_		{}
+10	:	_		{}
+11	Lebensmittelwirtschaft	_		{}
+12	kritisiert	_	Judgment_communication	{"Communicator": "11", "Evaluee": "13"}
+13	Schmidts	_		{}
+14	…	_		{}
+15	http://t.co/ElS0ZwHqfp	_		{}

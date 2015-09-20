@@ -1,0 +1,35 @@
+1	Ronaldo	_		{}
+2	blev	_		{}
+3	kåret	_		{}
+4	som	_		{}
+5	UEFA	_		{}
+6	Fans	_		{}
+7	'	_		{}
+8	Man	_		{}
+9	of	_		{}
+10	the	_		{}
+11	Match	_		{}
+12	,	_		{}
+13	og	_		{}
+14	han	_		{}
+15	sluttede	_		{}
+16	sæsonen	_		{}
+17	med	_		{}
+18	en	_		{}
+19	karriererekord	_		{}
+20	i	_		{}
+21	antal	_	Quantity	{"Individuals": "22", "Quantity": "21"}
+22	mål	_	Purpose	{"Goal": "22", "Agent": "1"}
+23	,	_		{}
+24	da	_		{}
+25	han	_		{}
+26	havde	_		{}
+27	scoret	_		{}
+28	42	_		{}
+29	mål	_	Purpose	{"Goal": "29", "Agent": "25"}
+30	i	_		{}
+31	alt	_	Amounting_to	{"Attribute": "29", "Numbers": "28"}
+32	i	_		{}
+33	alle	_	Quantity	{"Individuals": "34", "Quantity": "33"}
+34	turneringer	_	Competition	{"Participant_1": "1", "Competition": "34"}
+35	.	_		{}

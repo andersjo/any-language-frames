@@ -1,0 +1,47 @@
+1	En	_		{}
+2	del	_	Aggregate	{"Aggregate": "2", "Individuals": "8"}
+3	af	_		{}
+4	"	_		{}
+5	Harry	_		{}
+6	Potter	_		{}
+7	"	_		{}
+8	-bøgerne	_		{}
+9	er	_		{}
+10	inspireret	_		{}
+11	af	_		{}
+12	"	_		{}
+13	Narnia	_		{}
+14	"	_		{}
+15	-bøgerne	_		{}
+16	(	_		{}
+17	som	_		{}
+18	er	_		{}
+19	inspireret	_		{}
+20	af	_		{}
+21	Biblen	_		{}
+22	,	_		{}
+23	som	_		{}
+24	gør	_	Causation	{"Cause": "19", "Affected": "26"}
+25	"	_		{}
+26	Narnia	_		{}
+27	"	_		{}
+28	til	_		{}
+29	en	_		{}
+30	såkaldt	_		{}
+31	"	_		{}
+32	kristen	_	People_by_religion	{"Religion": "32"}
+33	fantasy	_		{}
+34	"	_		{}
+35	)	_		{}
+36	,	_		{}
+37	og	_		{}
+38	Harry	_		{}
+39	Potter-skikkelsen	_		{}
+40	kan	_		{}
+41	ses	_		{}
+42	som	_		{}
+43	en	_		{}
+44	parallel	_	Similarity	{"Entity_1": "39", "Entity_2": "46"}
+45	til	_		{}
+46	Kristus	_		{}
+47	.	_		{}

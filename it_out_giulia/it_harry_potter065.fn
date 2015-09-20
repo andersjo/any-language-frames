@@ -1,0 +1,32 @@
+1	Albus	_		{}
+2	Silente	_		{}
+3	rivela	_	Reveal_secret	{"Topic": "8", "Information": "16", "Speaker": "1"}
+4	a	_		{}
+5	Harry	_		{}
+6	la	_		{}
+7	sua	_		{}
+8	teoria	_		{}
+9	a	_		{}
+10	proposito	_		{}
+11	degli	_		{}
+12	Horcrux	_		{}
+13	di	_		{}
+14	Voldemort	_		{}
+15	:	_		{}
+16	sono	_		{}
+17	sette	_	Cardinal_numbers	{"Number": "17"}
+18	,	_		{}
+19	e	_		{}
+20	vi	_		{}
+21	tiene	_	Containing	{"Container": "12", "Contents": "23"}
+22	dentro	_	Part_inner_outer	{}
+23	pezzi	_	Part_whole	{"Part": "23", "Whole": "26"}
+24	della	_		{}
+25	sua	_		{}
+26	anima	_		{}
+27	in	_		{}
+28	modo	_		{}
+29	da	_		{}
+30	essere	_		{}
+31	immortale	_		{}
+32	.	_		{}

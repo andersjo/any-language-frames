@@ -1,0 +1,40 @@
+1	Google	_		{}
+2	var	_		{}
+3	på	_		{}
+4	et	_		{}
+5	tidspunkt	_	Location_in_time	{"Whole": "5"}
+6	i	_		{}
+7	færd	_		{}
+8	med	_		{}
+9	en	_		{}
+10	digitalisering	_		{}
+11	af	_		{}
+12	store	_	Size	{"Standard": "12", "Entity": "14"}
+13	amerikanske	_	Origin	{"Origin": "13", "Entity": "14"}
+14	biblioteker	_	Buildings	{"Building": "14", "Place": "13"}
+15	,	_		{}
+16	hvor	_		{}
+17	ophavsretten	_		{}
+18	også	_		{}
+19	kunne	_		{}
+20	krænkes	_		{}
+21	,	_		{}
+22	samtidig	_	Simultaneity	{"Profiled_event": "33", "Landmark_event": "20"}
+23	med	_		{}
+24	at	_		{}
+25	relevante	_		{}
+26	annoncer	_		{}
+27	i	_		{}
+28	forbindelse	_	Connectors	{"Connector": "31"}
+29	med	_		{}
+30	bøgernes	_		{}
+31	indhold	_	Statement	{"Message": "31", "Medium": "30"}
+32	ikke	_		{}
+33	var/er	_		{}
+34	lige	_	Evaluative_comparison	{"Attribute": "35", "Profiled_item": "26"}
+35	populært	_		{}
+36	i	_		{}
+37	alle	_	Quantity	{"Individuals": "39", "Quantity": "37"}
+38	litterære	_	Fields	{"Type": "38", "Practitioner": "39"}
+39	kredse	_		{}
+40	.	_		{}

@@ -1,0 +1,14 @@
+1	Paret	_		{}
+2	har	_	Birth	{"Parents": "1"}
+3	sex	_	Cardinal_numbers	{"Number": "3", "Entity": "4"}
+4	barn	_	Kinship	{"Ego": "1"}
+5	,	_		{}
+6	varav	_		{}
+7	tre	_	Cardinal_numbers	{"Number": "7", "Entity": "4"}
+8	är	_		{}
+9	adopterade	_		{}
+10	och	_		{}
+11	två	_	Cardinal_numbers	{"Number": "2", "Entity": "13"}
+12	är	_		{}
+13	tvillingar	_		{}
+14	.	_		{}

@@ -1,0 +1,15 @@
+1	Als	_		{}
+2	Jolie	_		{}
+3	elf	_		{}
+4	Jahre	_	Calendric_unit	{"Count": "3", "Unit": "4"}
+5	alt	_	Age	{"Age": "3", "Entity": "2"}
+6	war	_		{}
+7	,	_		{}
+8	zog	_	Motion	{"Theme": "10", "Direction": "12", "Goal": "13"}
+9	die	_		{}
+10	Familie	_	Kinship	{"Relatives": "10"}
+11	zurück	_	Arriving	{"Theme": "10", "Goal": "13"}
+12	nach	_		{}
+13	Los	_		{}
+14	Angeles	_		{}
+15	.	_		{}

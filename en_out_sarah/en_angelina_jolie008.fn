@@ -1,0 +1,48 @@
+1	She	_		{}
+2	starred	_	Performers_and_roles	{"Event_description": "5", "Performer": "1", "Type": "8", "Medium": "9", "Time": "15"}
+3	in	_		{}
+4	the	_		{}
+5	critically	_		{}
+6	acclaimed	_	Judgment	{"Evaluee": "8"}
+7	biographical	_		{}
+8	television	_		{}
+9	films	_	Behind_the_scenes	{"Performer": "1", "Production": "11", "Medium": "8"}
+10	"	_		{}
+11	George	_		{}
+12	Wallace	_		{}
+13	"	_		{}
+14	(	_		{}
+15	1997	_	Cardinal_numbers	{"Number": "15"}
+16	)	_		{}
+17	and	_	Simultaneity	{}
+18	"	_		{}
+19	Gia	_		{}
+20	"	_		{}
+21	(	_		{}
+22	1998	_	Cardinal_numbers	{"Number": "22"}
+23	)	_		{}
+24	,	_		{}
+25	and	_		{}
+26	won	_	Win_prize	{"Competitor": "1", "Prize": "28", "Rank": "26", "Time": "46"}
+27	an	_	Cardinal_numbers	{"Number": "27", "Entity": "28"}
+28	Academy	_		{}
+29	Award	_	Judgment	{"Cognizer": "28", "Reason": "36", "Evaluee": "1"}
+30	for	_		{}
+31	Best	_	Relational_quantity	{"Mass": "32", "Reference_quantity": "31"}
+32	Supporting	_	Supporting	{"Supporter": "1", "Degree": "31", "Time": "46"}
+33	Actress	_	Performers	{"Person": "1"}
+34	for	_		{}
+35	her	_		{}
+36	performance	_	Performing_arts	{"Performer": "1"}
+37	in	_		{}
+38	the	_		{}
+39	drama	_	Performing_arts	{"Performer": "1"}
+40	"	_		{}
+41	Girl	_	People	{"Descriptor": "43", "Person": "41"}
+42	,	_		{}
+43	Interrupted	_	Breaking_apart	{"Whole": "41"}
+44	"	_		{}
+45	(	_		{}
+46	1999	_		{}
+47	)	_		{}
+48	.	_		{}

@@ -1,0 +1,22 @@
+1	Filmfredag	_		{}
+2	tillbaka	_		{}
+3	imorgon	_	Calendric_unit	{"Relative_time": "3"}
+4	med	_		{}
+5	exklusiv	_		{}
+6	intervju	_		{}
+7	med	_		{}
+8	Angelina	_		{}
+9	Jolie	_		{}
+10	,	_		{}
+11	Mark	_		{}
+12	Wahlberg	_		{}
+13	som	_	Similarity	{"Entity_1": "12", "Entity_2": "14"}
+14	speltorsk	_		{}
+15	i	_		{}
+16	"	_		{}
+17	The	_		{}
+18	Gambler	_		{}
+19	"	_		{}
+20	m	_		{}
+21	m	_		{}
+22	http://t.co/l8fzHu3SZ2	_		{}

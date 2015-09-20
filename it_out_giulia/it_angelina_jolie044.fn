@@ -1,0 +1,20 @@
+1	Nonostante	_		{}
+2	critiche	_	Judgment	{"Evaluee": "5"}
+3	negative	_		{}
+4	il	_		{}
+5	film	_	Physical_artworks	{"Artifact": "5"}
+6	diviene	_		{}
+7	il	_		{}
+8	suo	_		{}
+9	primo	_	Ordinal_numbers	{"Comparison_set": "10", "Item": "5"}
+10	successo	_		{}
+11	a	_		{}
+12	livello	_		{}
+13	internazionale	_	Foreign_or_domestic_country	{}
+14	incassando	_		{}
+15	oltre	_		{}
+16	200	_	Cardinal_numbers	{"Number": "16", "Entity": "19"}
+17	milioni	_	Cardinal_numbers	{"Number": "17", "Entity": "19"}
+18	di	_		{}
+19	dollari	_		{}
+20	.	_		{}

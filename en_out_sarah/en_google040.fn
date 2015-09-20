@@ -1,0 +1,27 @@
+1	At	_		{}
+2	that	_		{}
+3	time	_	Location_in_time	{"Relative_time": "2", "Unit": "3"}
+4	Larry	_		{}
+5	Page	_		{}
+6	,	_		{}
+7	Sergey	_		{}
+8	Brin	_		{}
+9	,	_		{}
+10	and	_	Simultaneity	{"Profiled_event": "4", "Landmark_event": "7"}
+11	Eric	_		{}
+12	Schmidt	_		{}
+13	agreed	_	Agree_or_refuse_to_act	{"Proposed_action": "15", "Interlocutor": "4"}
+14	to	_		{}
+15	work	_	Working_on	{"Duration": "19", "Time": "21", "Place": "18", "Agent": "4", "Means": "16"}
+16	together	_		{}
+17	at	_		{}
+18	Google	_		{}
+19	for	_		{}
+20	20	_	Cardinal_numbers	{"Number": "20", "Entity": "21"}
+21	years	_		{}
+22	,	_		{}
+23	until	_		{}
+24	the	_		{}
+25	year	_	Calendric_unit	{"Count": "26", "Unit": "25"}
+26	2024	_		{}
+27	.	_		{}

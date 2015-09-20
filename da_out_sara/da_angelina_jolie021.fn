@@ -1,0 +1,13 @@
+1	Jolie	_		{}
+2	har	_		{}
+3	i	_		{}
+4	øjeblikket	_	Temporal_collocation	{"Trajector_entity": "1", "Landmark_period": "4"}
+5	,	_		{}
+6	så	_		{}
+7	vidt	_		{}
+8	man	_		{}
+9	ved	_	Awareness	{"Content": "12", "Cognizer": "8"}
+10	,	_		{}
+11	tretten	_	Quantity	{"Individuals": "12"}
+12	tatoveringer	_	Body_decoration	{"Decoration": "12", "Decorated_individual": "1"}
+13	.	_		{}

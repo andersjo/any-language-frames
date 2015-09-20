@@ -1,0 +1,13 @@
+1	I	_		{}
+2	blame	_	Judgment	{"Cognizer": "1", "Reason": "5", "Evaluee": "4"}
+3	global	_	Political_locales	{"Locale": "3"}
+4	warming	_	Cause_temperature_change	{"Item": "3"}
+5	for	_		{}
+6	Detroit	_		{}
+7	blowing	_	Bungling	{"Patient": "9", "Agent": "6"}
+8	the	_		{}
+9	lead	_	Biological_area	{}
+10	,	_		{}
+11	and	_		{}
+12	Barack	_		{}
+13	Obama	_		{}

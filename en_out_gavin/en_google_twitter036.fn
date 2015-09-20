@@ -1,0 +1,23 @@
+1	Join	_	Becoming_a_member	{"Place": "8", "Group": "2", "Time": "3"}
+2	us	_	People_by_origin	{"Person": "2"}
+3	Jan	_	Calendric_unit	{"Unit": "3"}
+4	22nd	_	Weapon	{}
+5	,	_		{}
+6	2:00	_		{}
+7	PM	_	Leadership	{}
+8	at	_		{}
+9	Morrisville	_		{}
+10	Presbyterian	_		{}
+11	Church	_	Buildings	{"Building": "11", "Type": "10", "Name": "9"}
+12	,	_		{}
+13	as	_		{}
+14	Guardian	_	Defend	{"Defender": "15"}
+15	Angels	_	People_by_morality	{"Persistent_characteristic": "14", "Person": "15"}
+16	of	_		{}
+17	Home	_	Locale	{"Locale": "17"}
+18	Health	_	Medical_specialties	{"Type": "17", "Specialty": "18"}
+19	co-hosts	_		{}
+20	with	_		{}
+21	The	_		{}
+22	…	_		{}
+23	https://t.co/EbBGmCuccX	_		{}

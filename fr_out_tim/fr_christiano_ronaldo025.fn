@@ -1,0 +1,30 @@
+1	Il	_		{}
+2	est	_		{}
+3	même	_		{}
+4	au	_		{}
+5	bord	_	Boundary	{"Boundary": "5", "Entity": "7"}
+6	de	_		{}
+7	l'exclusion	_		{}
+8	,	_		{}
+9	mais	_		{}
+10	son	_		{}
+11	comportement	_	Conduct	{"Manner": "12", "Agent": "10"}
+12	s'améliore	_		{}
+13	par	_		{}
+14	la	_		{}
+15	suite	_		{}
+16	lorsque	_	Relative_time	{"Focal_occasion": "12", "Focal_participant": "1", "Landmark_occasion": "19"}
+17	sa	_		{}
+18	mère	_	Kinship	{"Ego": "17", "Alter": "18"}
+19	quitte	_	Quitting	{"Employee": "18", "Position": "23"}
+20	son	_		{}
+21	emploi	_	Being_employed	{"Employee": "18", "Position": "23"}
+22	de	_		{}
+23	cuisinière	_		{}
+24	à	_		{}
+25	Madère	_		{}
+26	pour	_		{}
+27	s'installer	_		{}
+28	avec	_		{}
+29	lui	_		{}
+30	.	_		{}

@@ -1,0 +1,25 @@
+1	Me	_	Proper_reference	{"Intended_referent": "1", "Entity": "1"}
+2	ha	_		{}
+3	gustado	_	Satisfying	{"Entity": "5", "Agent": "1", "Standard": "5"}
+4	un	_		{}
+5	vídeo	_		{}
+6	de	_		{}
+7	@YouTube	_		{}
+8	de	_		{}
+9	@cafuentes_1	_		{}
+10	(	_		{}
+11	http://t.co/B04A5Ua5Tc	_		{}
+12	-	_		{}
+13	Harry	_		{}
+14	Potter	_		{}
+15	y	_	Simultaneity	{}
+16	las	_		{}
+17	Reliquias	_		{}
+18	de	_		{}
+19	la	_		{}
+20	Muerte	_	Death	{"Protagonist": "13"}
+21	Pt2	_		{}
+22	|	_		{}
+23	Cap	_		{}
+24	:	_		{}
+25	6	_	Cardinal_numbers	{"Number": "25", "Entity": "13"}

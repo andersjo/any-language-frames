@@ -1,0 +1,55 @@
+1	L'anno	_		{}
+2	successivo	_	Relative_time	{"Focal_occasion": "10"}
+3	,	_		{}
+4	sempre	_		{}
+5	in	_		{}
+6	una	_		{}
+7	produzione	_	Intentionally_create	{"Created_entity": "7"}
+8	televisiva	_		{}
+9	,	_		{}
+10	vince	_	Finish_competition	{"Prize": "15", "Means": "17"}
+11	il	_		{}
+12	suo	_		{}
+13	secondo	_	Ordinal_numbers	{"Item": "15"}
+14	Golden	_		{}
+15	Globe	_		{}
+16	per	_		{}
+17	l'interpretazione	_		{}
+18	in	_		{}
+19	"	_		{}
+20	Gia	_		{}
+21	-	_		{}
+22	Una	_		{}
+23	donna	_	People	{"Person": "23"}
+24	oltre	_		{}
+25	ogni	_	Quantity	{"Individuals": "26", "Quantity": "25"}
+26	limite	_	Boundary	{"Boundary": "26"}
+27	"	_		{}
+28	del	_		{}
+29	controverso	_	Quarreling	{"Issue": "30"}
+30	ruolo	_	Performers_and_roles	{"Role": "34"}
+31	della	_		{}
+32	modella	_		{}
+33	Gia	_		{}
+34	Carangi	_		{}
+35	,	_		{}
+36	morta	_		{}
+37	di	_		{}
+38	AIDS	_	Medical_conditions	{"Patient": "32", "Name": "38"}
+39	a	_		{}
+40	soli	_		{}
+41	26	_		{}
+42	anni	_	Age	{"Age": "41", "Entity": "32"}
+43	;	_		{}
+44	per	_		{}
+45	la	_		{}
+46	stessa	_	Identicality	{"Previous_instance": "17", "Current_instance": "47"}
+47	interpretazione	_		{}
+48	vince	_	Finish_competition	{"Prize": "54"}
+49	anche	_		{}
+50	un	_		{}
+51	Screen	_		{}
+52	Actors	_		{}
+53	Guild	_		{}
+54	Awards	_		{}
+55	.	_		{}

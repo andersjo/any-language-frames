@@ -1,0 +1,23 @@
+1	Brad	_		{}
+2	Pitt	_		{}
+3	and	_	Simultaneity	{}
+4	Angelina	_		{}
+5	Jolie	_		{}
+6	understanding	_	Be_in_agreement_on_action	{"Topic": "11", "Party_2": "9", "Party_1": "3"}
+7	and	_	Simultaneity	{}
+8	supporting	_	Supporting	{"Supported": "9", "Supporter": "3"}
+9	their	_		{}
+10	child's	_		{}
+11	right	_	Morality_evaluation	{"Evaluee": "9", "Behavior": "13"}
+12	to	_		{}
+13	identity	_		{}
+14	as	_		{}
+15	a	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	boy	_	People_by_age	{"Person": "16"}
+17	is	_	Being_in_category	{"Category": "18", "Item": "7"}
+18	incredible	_	Desirability	{"Degree": "18", "Evaluee": "3"}
+19	sets	_	Placing	{"Theme": "22", "Agent": "6"}
+20	a	_	Cardinal_numbers	{"Number": "20", "Entity": "21"}
+21	great	_	Measurable_attributes	{"Degree": "21", "Entity": "22"}
+22	example	_	Exemplar	{"Instance": "7"}
+23	.	_		{}

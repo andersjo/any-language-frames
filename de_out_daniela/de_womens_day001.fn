@@ -1,0 +1,23 @@
+1	Der	_		{}
+2	Internationale	_	Political_locales	{"Locale": "2"}
+3	Frauentag	_		{}
+4	,	_		{}
+5	Weltfrauentag	_		{}
+6	,	_		{}
+7	Frauenkampftag	_		{}
+8	,	_		{}
+9	Internationaler	_	Political_locales	{"Locale": "9"}
+10	Frauenkampftag	_		{}
+11	oder	_		{}
+12	Frauentag	_		{}
+13	ist	_		{}
+14	ein	_		{}
+15	Welttag	_		{}
+16	,	_		{}
+17	der	_		{}
+18	von	_		{}
+19	politischen	_	Organization	{"Organization": "20"}
+20	Organisationen	_	Organization	{"Organization": "20"}
+21	am	_		{}
+22	8	_	Cardinal_numbers	{"Number": "22"}
+23	.	_		{}

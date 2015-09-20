@@ -1,0 +1,21 @@
+1	<	_		{}
+2	b	_		{}
+3	>	_		{}
+4	zeyko	_		{}
+5	<	_		{}
+6	/b	_		{}
+7	>	_		{}
+8	Einbauk�che	_		{}
+9	:	_		{}
+10	K�che	_		{}
+11	bestehend	_		{}
+12	aus	_		{}
+13	links	_	Direction	{"Base_position": "10"}
+14	4	_	Cardinal_numbers	{"Number": "14", "Entity": "15"}
+15	Unterschr�nken	_		{}
+16	und	_	Simultaneity	{"Profiled_event": "18", "Landmark_event": "15"}
+17	4	_	Cardinal_numbers	{"Number": "17", "Entity": "18"}
+18	Oberschr�nken	_		{}
+19	und	_		{}
+20	…	_		{}
+21	http://t.co/b17bFxzHaC	_		{}

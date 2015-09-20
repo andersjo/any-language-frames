@@ -1,0 +1,22 @@
+1	Ronaldo	_		{}
+2	began	_	Activity_start	{"Agent": "1", "Activity": "4"}
+3	his	_		{}
+4	career	_		{}
+5	as	_		{}
+6	a	_	Cardinal_numbers	{"Number": "6", "Entity": "7"}
+7	youth	_	People_by_age	{"Person": "1", "Age": "7"}
+8	player	_	Competition	{"Participant_1": "1"}
+9	for	_		{}
+10	Andorinha	_		{}
+11	,	_		{}
+12	where	_		{}
+13	he	_		{}
+14	played	_	Performers_and_roles	{"Duration": "16", "Performer": "1"}
+15	for	_		{}
+16	two	_	Cardinal_numbers	{"Number": "16", "Entity": "17"}
+17	years	_	Calendric_unit	{"Whole": "17"}
+18	,	_		{}
+19	before	_	Relative_time	{"Focal_occasion": "12", "Focal_participant": "13", "Landmark_occasion": "20"}
+20	moving	_		{}
+21	to	_		{}
+22	C.D.	_		{}

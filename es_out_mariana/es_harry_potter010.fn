@@ -1,0 +1,10 @@
+1	La	_		{}
+2	historia	_	History	{"Topic": "8", "Domain": "9", "Start_time": "6", "Time": "6"}
+3	comienza	_	Process_start	{"Depictive": "6", "Initial_subevent": "6", "Manner": "6"}
+4	con	_		{}
+5	la	_		{}
+6	celebración	_	Social_event	{"Style": "9", "Honoree": "8", "Attendee": "8", "Descriptor": "9", "Manner": "6", "Occasion": "9"}
+7	del	_		{}
+8	mundo	_	People	{"Persistent_characteristic": "9", "Person": "8", "Context_of_acquaintance": "9"}
+9	mágico	_	Ineffability	{}
+10	.	_		{}

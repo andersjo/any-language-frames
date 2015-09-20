@@ -1,0 +1,11 @@
+1	Letzteres	_	Ordinal_numbers	{"Item": "1"}
+2	wurde	_		{}
+3	von	_		{}
+4	Jon	_		{}
+5	Voight	_		{}
+6	in	_		{}
+7	einem	_		{}
+8	Interview	_		{}
+9	allerdings	_	Likelihood	{"Hypothetical_event": "1", "Place": "8"}
+10	bestritten	_	Statement	{"Medium": "8", "Speaker": "5"}
+11	.	_		{}

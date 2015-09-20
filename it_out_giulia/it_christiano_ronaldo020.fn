@@ -1,0 +1,35 @@
+1	È	_		{}
+2	stato	_		{}
+3	scelto	_		{}
+4	come	_		{}
+5	testimonial	_		{}
+6	della	_		{}
+7	campagna	_		{}
+8	pubblicitaria	_		{}
+9	di	_		{}
+10	Giorgio	_		{}
+11	Armani	_		{}
+12	Underwear	_		{}
+13	e	_		{}
+14	Jeans	_	Clothing	{"Garment": "14"}
+15	Primavera/Estate	_		{}
+16	2010	_		{}
+17	insieme	_	Collaboration	{"Undertaking": "7", "Partner_2": "22"}
+18	alla	_		{}
+19	modella	_		{}
+20	e	_		{}
+21	attrice	_	People_by_vocation	{"Person": "22"}
+22	Megan	_		{}
+23	Fox	_		{}
+24	e	_		{}
+25	riconfermato	_		{}
+26	anche	_		{}
+27	per	_		{}
+28	la	_		{}
+29	campagna	_		{}
+30	Autunno/Inverno	_		{}
+31	Armani	_		{}
+32	Underwear	_		{}
+33	e	_		{}
+34	Jeans	_	Clothing	{"Garment": "34"}
+35	.	_		{}

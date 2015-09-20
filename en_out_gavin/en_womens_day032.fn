@@ -1,0 +1,13 @@
+1	But	_	Concessive	{"Statement": "6"}
+2	still	_	Continued_state_of_affairs	{"State_of_affairs": "6"}
+3	,	_		{}
+4	women's	_	People	{"Person": "4"}
+5	day	_	Calendric_unit	{"Name": "4", "Unit": "6"}
+6	must	_		{}
+7	be	_	Being_in_category	{"Category": "8", "Item": "5"}
+8	celebrated	_	Social_event	{"Honoree": "4"}
+9	as	_		{}
+10	are	_	Being_in_category	{"Category": "8", "Item": "4"}
+11	other	_		{}
+12	holidays	_		{}
+13	.	_		{}

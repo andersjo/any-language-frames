@@ -1,0 +1,44 @@
+1	Nel	_		{}
+2	2014	_		{}
+3	,	_		{}
+4	dopo	_		{}
+5	tre	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	anni	_	Calendric_unit	{"Unit": "6"}
+7	di	_		{}
+8	assenza	_		{}
+9	sul	_		{}
+10	grande	_	Diversity	{"Group": "11", "Dimension": "10"}
+11	schermo	_		{}
+12	,	_		{}
+13	Angelina	_		{}
+14	è	_		{}
+15	protagonista	_		{}
+16	del	_		{}
+17	film	_	Physical_artworks	{"Name": "23", "Artifact": "17"}
+18	della	_		{}
+19	Walt	_		{}
+20	Disney	_		{}
+21	Pictures	_		{}
+22	"	_		{}
+23	Maleficent	_		{}
+24	"	_		{}
+25	,	_		{}
+26	trasposizione	_		{}
+27	cinematografica	_		{}
+28	nel	_		{}
+29	cartone	_		{}
+30	animato	_		{}
+31	"	_		{}
+32	La	_		{}
+33	bella	_		{}
+34	addormentata	_	Sleep	{}
+35	nel	_		{}
+36	bosco	_	Biological_area	{"Locale": "36"}
+37	"	_		{}
+38	,	_		{}
+39	dove	_		{}
+40	la	_		{}
+41	Jolie	_		{}
+42	interpreta	_	Performers_and_roles	{"Performance": "42", "Performer": "41", "Type": "17", "Role": "43"}
+43	Malefica	_		{}
+44	.	_		{}

@@ -1,0 +1,39 @@
+1	In	_		{}
+2	some	_	Relational_quantity	{"Individuals": "3", "Denoted_quantity": "2"}
+3	regions	_	Political_locales	{"Locale": "3"}
+4	,	_		{}
+5	the	_		{}
+6	day	_	Calendric_unit	{"Unit": "6"}
+7	lost	_	Part_inner_outer	{}
+8	its	_		{}
+9	political	_	Leadership	{}
+10	flavor	_	Chemical	{"sense_description": "9"}
+11	,	_		{}
+12	and	_		{}
+13	became	_	Becoming	{"Place": "1", "Entity": "6"}
+14	simply	_		{}
+15	an	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	occasion	_	Contingency	{}
+17	for	_		{}
+18	men	_	People	{"Person": "18"}
+19	to	_		{}
+20	express	_	Expressing_publicly	{"Content": "22", "Communicator": "18"}
+21	their	_		{}
+22	love	_	Experiencer_focus	{"Content": "23", "Experiencer": "18"}
+23	for	_		{}
+24	women	_	People	{"Person": "24"}
+25	in	_		{}
+26	a	_	Cardinal_numbers	{"Number": "26", "Entity": "27"}
+27	way	_	Means	{"Agent": "18", "Means": "27"}
+28	somewhat	_	Degree	{"Gradable_attribute": "29"}
+29	similar	_	Similarity	{"Degree": "28", "Entity_2": "32", "Entity_1": "20"}
+30	to	_		{}
+31	a	_	Cardinal_numbers	{"Number": "31", "Entity": "32"}
+32	mixture	_	Aggregate	{"Aggregate": "32", "Individuals": "35"}
+33	of	_		{}
+34	Mother's	_		{}
+35	Day	_	Calendric_unit	{"Unit": "35"}
+36	and	_		{}
+37	Valentine's	_		{}
+38	Day	_	Calendric_unit	{"Unit": "38"}
+39	.	_		{}

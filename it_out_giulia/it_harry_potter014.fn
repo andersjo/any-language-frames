@@ -1,0 +1,59 @@
+1	Silente	_		{}
+2	stesso	_		{}
+3	è	_		{}
+4	riluttante	_	Willingness	{"Cognizer": "1", "Activity": "6"}
+5	nel	_		{}
+6	compiere	_	Accomplishment	{"Goal": "8", "Agent": "1"}
+7	tale	_		{}
+8	scelta	_	Deciding	{"Decision": "8"}
+9	,	_		{}
+10	per	_		{}
+11	quanto	_		{}
+12	nobile	_	Morality_evaluation	{"Behavior": "17"}
+13	nel	_		{}
+14	suo	_		{}
+15	intento	_	Purpose	{"Goal": "17"}
+16	di	_		{}
+17	garantire	_		{}
+18	al	_		{}
+19	piccolo	_	People_by_age	{"Person": "20"}
+20	mago	_	Expertise	{"Role": "20"}
+21	un	_		{}
+22	luogo	_	Locale	{"Locale": "22"}
+23	sicuro	_		{}
+24	dove	_		{}
+25	,	_		{}
+26	a	_		{}
+27	causa	_	Causation	{"Cause": "30"}
+28	di	_		{}
+29	un'antica	_		{}
+30	magia	_		{}
+31	tenuta	_		{}
+32	in	_		{}
+33	vita	_		{}
+34	dalla	_		{}
+35	presenza	_	Presence	{"Entity": "38"}
+36	di	_		{}
+37	un	_		{}
+38	consanguineo	_	Kinship	{"Ego": "40", "Alter": "38"}
+39	della	_		{}
+40	mamma	_	Kinship	{"Ego": "20", "Alter": "40"}
+41	(	_		{}
+42	evocatrice	_		{}
+43	della	_		{}
+44	magia	_		{}
+45	in	_		{}
+46	questione	_		{}
+47	)	_		{}
+48	,	_		{}
+49	egli	_		{}
+50	non	_		{}
+51	potrà	_		{}
+52	essere	_		{}
+53	colpito	_	Cause_harm	{"Agent": "58", "Victim": "20"}
+54	dal	_		{}
+55	suo	_		{}
+56	rivale	_	Competition	{"Participant_2": "57", "Participant_1": "20"}
+57	Lord	_		{}
+58	Voldemort	_		{}
+59	.	_		{}

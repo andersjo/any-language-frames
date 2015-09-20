@@ -1,0 +1,46 @@
+1	Con	_		{}
+2	más	_	Increment	{"Class": "7", "Initial_set": "5"}
+3	de	_		{}
+4	un	_		{}
+5	millón	_	Cardinal_numbers	{"Entity": "7", "Precision": "2", "Number": "5"}
+6	de	_		{}
+7	servidores	_		{}
+8	y	_	Simultaneity	{"Profiled_event": "9", "Landmark_event": "7"}
+9	centros	_	Gizmo	{"Gizmo": "9"}
+10	de	_		{}
+11	datos	_	Information	{"Topic": "11"}
+12	repartidos	_		{}
+13	por	_		{}
+14	todo	_	Degree	{"Gradable_attribute": "12"}
+15	el	_		{}
+16	mundo	_	Locale	{"Locale": "16", "Related_event": "11"}
+17	,	_		{}
+18	Google	_		{}
+19	es	_	Existence	{"Entity": "18"}
+20	capaz	_	Capability	{"Relevant_feature": "22", "Role": "22", "Degree": "23", "Entity": "18"}
+21	de	_		{}
+22	procesar	_	Processing_materials	{"Material": "28", "Place": "40", "Dimension": "45", "Agent": "18"}
+23	más	_	Increment	{"Class": "28", "Initial_set": "25"}
+24	de	_		{}
+25	1000	_	Cardinal_numbers	{"Number": "25", "Entity": "28"}
+26	millones	_	Cardinal_numbers	{"Entity": "28", "Number": "26", "Precision": "23"}
+27	de	_		{}
+28	peticiones	_	Request	{"Topic": "30", "Medium": "40", "Time": "31"}
+29	de	_		{}
+30	búsqueda	_	Scrutiny	{"Instrument": "18", "Medium": "40", "Manner": "31", "Time": "31"}
+31	diarias	_	Frequency	{"Interval": "30"}
+32	y	_		{}
+33	su	_		{}
+34	motor	_		{}
+35	de	_		{}
+36	búsqueda	_	Scrutiny	{"Instrument": "18", "Medium": "40"}
+37	es	_		{}
+38	el	_		{}
+39	sitio	_	Locale_by_use	{"Locale": "40"}
+40	web	_	Network	{"Network": "39"}
+41	más	_		{}
+42	visitado	_	Visiting	{"Place": "40", "Means": "28", "Entity": "36", "Purpose": "30", "Time": "31"}
+43	a	_		{}
+44	nivel	_	Rank	{}
+45	mundial	_		{}
+46	.	_		{}

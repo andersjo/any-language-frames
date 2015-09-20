@@ -1,0 +1,25 @@
+1	Die	_		{}
+2	nachfolgenden	_	Relative_time	{"Focal_participant": "3"}
+3	Teile	_	Part_whole	{"Part": "3"}
+4	fünf	_	Cardinal_numbers	{"Number": "4", "Entity": "3"}
+5	bis	_		{}
+6	sieben	_	Cardinal_numbers	{"Number": "6", "Entity": "3"}
+7	brachen	_		{}
+8	allesamt	_		{}
+9	Vorbestellungsrekorde	_		{}
+10	in	_		{}
+11	Großbritannien	_		{}
+12	und	_		{}
+13	den	_		{}
+14	USA	_		{}
+15	,	_		{}
+16	was	_		{}
+17	die	_		{}
+18	Harry-Potter-Reihe	_		{}
+19	zum	_		{}
+20	größten	_		{}
+21	Bucherfolg	_		{}
+22	der	_		{}
+23	2000er-Jahre	_		{}
+24	machte	_	Becoming	{"Entity": "18"}
+25	.	_		{}

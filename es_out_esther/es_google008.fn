@@ -1,0 +1,32 @@
+1	Larry	_		{}
+2	Page	_		{}
+3	y	_		{}
+4	Serguéi	_		{}
+5	Brin	_		{}
+6	comienzan	_	Process_start	{"Place": "29", "Manner": "10", "Time": "15"}
+7	Google	_		{}
+8	como	_		{}
+9	un	_		{}
+10	proyecto	_	Project	{"Goal": "11", "Agent": "2", "Project": "7", "Field": "23", "Salient_entity": "7", "Activity": "6"}
+11	universitario	_		{}
+12	en	_		{}
+13	enero	_	Calendric_unit	{"Whole": "15", "Unit": "13"}
+14	de	_		{}
+15	1996	_		{}
+16	cuando	_		{}
+17	ambos	_		{}
+18	eran	_	Being_in_category	{"Category": "19", "Item": "2"}
+19	estudiantes	_	People_by_vocation	{"Person": "2"}
+20	de	_		{}
+21	posgrado	_		{}
+22	en	_		{}
+23	ciencias	_	Craft	{"Culture": "26", "Practitioner": "2", "Activity": "29"}
+24	de	_		{}
+25	la	_		{}
+26	computación	_		{}
+27	en	_		{}
+28	la	_		{}
+29	Universidad	_	Locale_by_use	{"Locale": "31"}
+30	de	_		{}
+31	Stanford	_		{}
+32	.	_		{}

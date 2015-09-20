@@ -1,0 +1,30 @@
+1	Bei	_		{}
+2	der	_		{}
+3	Appliance	_		{}
+4	handelt	_		{}
+5	es	_		{}
+6	sich	_		{}
+7	um	_		{}
+8	einen	_		{}
+9	Server	_		{}
+10	mit	_		{}
+11	vorinstallierter	_		{}
+12	Software	_		{}
+13	,	_		{}
+14	der	_		{}
+15	im	_		{}
+16	unternehmenseigenen	_		{}
+17	Netz	_	Network	{"Descriptor": "16", "Network": "17"}
+18	dieselbe	_		{}
+19	Aufgabe	_	Project	{"Agent": "9", "Activity": "19"}
+20	übernimmt	_	Activity_start	{"Agent": "9", "Activity": "19"}
+21	,	_		{}
+22	die	_		{}
+23	Google	_		{}
+24	für	_		{}
+25	das	_		{}
+26	World	_		{}
+27	Wide	_		{}
+28	Web	_	Network	{"Network": "28"}
+29	leistet	_		{}
+30	.	_		{}

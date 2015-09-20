@@ -1,0 +1,23 @@
+1	En	_		{}
+2	abril	_	Calendric_unit	{"Relative_time": "2", "Whole": "4"}
+3	de	_		{}
+4	2007	_		{}
+5	,	_		{}
+6	Google	_		{}
+7	compró	_		{}
+8	DoubleClick	_		{}
+9	,	_		{}
+10	una	_		{}
+11	empresa	_	Businesses	{"Business": "8"}
+12	especializado	_	Expertise	{"Focal_participant": "8", "Knowledge": "14", "Behavior_product": "16", "Protagonist": "8", "Role": "14", "Skill": "14"}
+13	en	_		{}
+14	publicidad	_		{}
+15	en	_		{}
+16	Internet	_	Network	{"Network": "14"}
+17	,	_		{}
+18	por	_		{}
+19	3100	_		{}
+20	millones	_	Quantity	{"Individuals": "22", "Mass": "20", "Quantity": "19"}
+21	de	_		{}
+22	dólares	_		{}
+23	.	_		{}

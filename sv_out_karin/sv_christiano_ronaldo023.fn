@@ -1,0 +1,10 @@
+1	Ferguson	_		{}
+2	insisterade	_		{}
+3	dock	_	Concessive	{"Statement": "2"}
+4	att	_		{}
+5	han	_		{}
+6	skulle	_		{}
+7	bära	_	Wearing	{"Clothing": "9", "Wearer": "5"}
+8	nummer	_	Text	{"Text": "9"}
+9	7	_		{}
+10	.	_		{}

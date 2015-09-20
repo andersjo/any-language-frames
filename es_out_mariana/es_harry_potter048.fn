@@ -1,0 +1,33 @@
+1	En	_		{}
+2	el	_		{}
+3	segundo	_	Ordinal_numbers	{"Comparison_set": "4", "Basis_of_order": "8", "Item": "4"}
+4	año	_	Calendric_unit	{"Count": "3", "Relative_time": "4", "Whole": "4", "Unit": "4"}
+5	de	_		{}
+6	Harry	_		{}
+7	en	_		{}
+8	Hogwarts	_		{}
+9	se	_		{}
+10	introduce	_	Cause_to_perceive	{"Medium": "31", "Phenomenon": "10", "Co_participant": "26", "Means": "31", "Explanation": "32", "Actor": "6", "Entity": "14", "Place": "8", "Agent": "6", "Time": "3"}
+11	la	_		{}
+12	figura	_	Performers_and_roles	{"Medium": "32", "Performer1": "14", "Performer2": "26", "Place": "8", "Performer": "12", "Role": "14", "Time": "3", "Performance": "6"}
+13	del	_		{}
+14	elfo	_		{}
+15	doméstico	_		{}
+16	,	_		{}
+17	además	_	Sufficiency	{"Circumstances": "15", "Degree": "21", "Enabled_situation": "19"}
+18	de	_		{}
+19	revelar	_	Reveal_secret	{"Information": "24", "Medium": "31", "Completeness": "21", "Means": "31", "Topic": "26", "Place": "6", "Manner": "32", "Time": "3", "Speaker": "6"}
+20	un	_		{}
+21	poco	_	Degree	{"Gradable_attribute": "21"}
+22	más	_	Increment	{"Class": "24", "Added_set": "21"}
+23	del	_		{}
+24	pasado	_	Individual_history	{"Start_time": "3", "Domain": "24", "Participant": "26", "Events": "14"}
+25	de	_		{}
+26	Voldemort	_		{}
+27	a	_		{}
+28	través	_		{}
+29	de	_		{}
+30	su	_		{}
+31	diario	_	Text	{"Use": "31", "Medium": "31", "Containing_text": "31", "Author": "26", "Text": "31", "Genre": "31"}
+32	personal	_		{}
+33	.	_		{}

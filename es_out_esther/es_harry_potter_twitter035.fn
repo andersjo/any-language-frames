@@ -1,0 +1,11 @@
+1	Todo	_	Degree	{"Gradable_attribute": "2"}
+2	bien	_	Desirability	{"Evaluee": "4"}
+3	con	_		{}
+4	Depredadores	_		{}
+5	pero	_		{}
+6	Harry	_		{}
+7	Potter	_		{}
+8	es	_	Being_in_category	{"Category": "9", "Item": "6"}
+9	harry	_		{}
+10	potter	_		{}
+11	.	_		{}

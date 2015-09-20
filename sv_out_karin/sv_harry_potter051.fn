@@ -1,0 +1,33 @@
+1	Resultatet	_		{}
+2	av	_		{}
+3	försäljningssuccéerna	_		{}
+4	har	_		{}
+5	varit	_		{}
+6	att	_		{}
+7	Rowling	_		{}
+8	blev	_		{}
+9	miljardär	_		{}
+10	(	_		{}
+11	i	_		{}
+12	kronor	_		{}
+13	)	_		{}
+14	efter	_		{}
+15	fyra	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	böcker	_	Text	{"Text": "16", "Author": "7"}
+17	,	_		{}
+18	och	_		{}
+19	numera	_	Temporal_collocation	{"Trajector_event": "23"}
+20	är	_		{}
+21	hon	_		{}
+22	den	_		{}
+23	rikaste	_		{}
+24	kvinnan	_	People	{"Origin": "26", "Person": "7", "Persistent_characteristic": "24"}
+25	i	_	Political_locales	{"Locale": "26"}
+26	Storbritannien	_		{}
+27	,	_		{}
+28	långt	_	Degree	{"Gradable_attribute": "29"}
+29	mer	_		{}
+30	förmögen	_		{}
+31	än	_		{}
+32	drottningen	_	Leadership	{"Role": "32"}
+33	.	_		{}

@@ -1,0 +1,36 @@
+1	Die	_		{}
+2	Los	_		{}
+3	Angeles	_		{}
+4	Times	_		{}
+5	schrieb	_	Text_creation	{"Author": "4"}
+6	über	_		{}
+7	Jolies	_		{}
+8	Leistung	_	Performing_arts	{"Performance": "8", "Performer": "7"}
+9	:	_		{}
+10	„Es	_		{}
+11	bedurfte	_		{}
+12	einer	_		{}
+13	Menge	_	Aggregate	{"Aggregate": "13"}
+14	,	_		{}
+15	diese	_		{}
+16	Figur	_	Performers_and_roles	{"Performer": "21", "Role": "15"}
+17	zu	_		{}
+18	entwickeln	_	Progress	{"Entity": "16"}
+19	,	_		{}
+20	aber	_		{}
+21	Jolie	_		{}
+22	,	_		{}
+23	Jon	_		{}
+24	Voights	_		{}
+25	umwerfende	_		{}
+26	Tochter	_	Kinship	{"Descriptor": "25", "Ego": "24", "Alter": "21"}
+27	,	_		{}
+28	hat	_		{}
+29	die	_		{}
+30	Präsenz	_		{}
+31	,	_		{}
+32	das	_		{}
+33	Stereotyp	_		{}
+34	zu	_		{}
+35	überwinden	_	Successful_action	{"Protagonist": "21", "Means": "30"}
+36	.	_		{}

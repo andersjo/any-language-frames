@@ -1,0 +1,13 @@
+1	@kindpuss	_		{}
+2	jag	_	Proper_reference	{"Intended_referent": "2"}
+3	är	_		{}
+4	väl	_		{}
+5	medveten	_	Awareness	{"Topic": "7", "Cognizer": "2"}
+6	om	_	Questioning	{"Topic": "7"}
+7	detta	_		{}
+8	.	_		{}
+9	Google	_		{}
+10	är	_		{}
+11	din	_		{}
+12	kompis	_	Personal_relationship	{"Partner_2": "9", "Relationship": "12", "Partner_1": "11"}
+13	.	_		{}

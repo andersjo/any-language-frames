@@ -1,0 +1,78 @@
+1	El	_		{}
+2	5	_	Cardinal_numbers	{"Number": "2", "Entity": "4"}
+3	de	_		{}
+4	agosto	_	Calendric_unit	{"Relative_time": "4", "Unit": "2"}
+5	suma	_	Amounting_to	{"Attribute": "8", "Numbers": "7"}
+6	un	_		{}
+7	nuevo	_	Age	{"Attribute": "8", "Degree": "7"}
+8	título	_	Documents	{"Status": "8", "Document": "8", "Issuer": "16"}
+9	a	_		{}
+10	sus	_		{}
+11	vitrinas	_		{}
+12	al	_		{}
+13	conquistar	_	Conquering	{"Theme": "16"}
+14	la	_		{}
+15	Community	_		{}
+16	Shield	_		{}
+17	tras	_		{}
+18	vencer	_	Beat_opponent	{"Loser": "25"}
+19	en	_		{}
+20	la	_		{}
+21	tanda	_		{}
+22	de	_		{}
+23	penaltis	_	Rewards_and_punishments	{}
+24	al	_		{}
+25	Chelsea	_		{}
+26	F	_		{}
+27	.	_		{}
+28	C	_		{}
+29	.,	_		{}
+30	y	_		{}
+31	tras	_		{}
+32	un	_		{}
+33	nuevo	_	Age	{"Attribute": "34", "Degree": "33", "Entity": "37"}
+34	dudoso	_	Mental_property	{"Practice": "35", "Behavior": "34"}
+35	inicio	_	Process_start	{"Place": "37", "Manner": "34", "Time": "35"}
+36	de	_		{}
+37	torneo	_	Competition	{"Competition": "37"}
+38	,	_		{}
+39	amplió	_		{}
+40	su	_		{}
+41	número	_	Quantity	{"Individuals": "43", "Quantity": "41"}
+42	de	_		{}
+43	goles	_	Purpose	{"Goal": "43", "Means": "39"}
+44	hasta	_		{}
+45	convertirse	_	Becoming	{"Entity": "48"}
+46	en	_		{}
+47	el	_		{}
+48	extremo	_	Expertise	{"Focal_participant": "48", "Knowledge": "48", "Behavior_product": "53", "Protagonist": "48", "Role": "53", "Skill": "53"}
+49	que	_		{}
+50	más	_	Increment	{"Added_set": "50", "Class": "51", "Initial_set": "51"}
+51	goles	_	Purpose	{"Attribute": "50", "Goal": "51", "Means": "53"}
+52	ha	_		{}
+53	marcado	_		{}
+54	en	_		{}
+55	una	_		{}
+56	misma	_	Similarity	{"Differentiating_fact": "57", "Entity_1": "48", "Dimension": "57"}
+57	temporada	_	Sequence	{}
+58	en	_		{}
+59	el	_		{}
+60	United	_		{}
+61	,	_		{}
+62	superando	_	Surpassing	{"Attribute": "64", "Standard_item": "64", "Standard_attribute": "64"}
+63	la	_		{}
+64	marca	_	Impact	{"Impactee": "67", "Impactor": "73"}
+65	de	_		{}
+66	32	_		{}
+67	goles	_	Purpose	{"Attribute": "66", "Goal": "67", "Means": "62"}
+68	establecida	_		{}
+69	por	_		{}
+70	el	_		{}
+71	norirlandés	_		{}
+72	George	_		{}
+73	Best	_		{}
+74	durante	_		{}
+75	la	_		{}
+76	temporada	_	Sequence	{}
+77	1967-68	_		{}
+78	.	_		{}

@@ -1,0 +1,41 @@
+1	Interpretó	_		{}
+2	el	_		{}
+3	personaje	_	Performers_and_roles	{"Type": "14", "Role": "9", "Script": "14"}
+4	del	_		{}
+5	videojuego	_		{}
+6	Tomb	_		{}
+7	Raider	_		{}
+8	,	_		{}
+9	Lara	_		{}
+10	Croft	_		{}
+11	,	_		{}
+12	en	_		{}
+13	la	_		{}
+14	película	_	Physical_artworks	{"Name": "7"}
+15	,	_		{}
+16	y	_		{}
+17	gracias	_	Judgment_direct_address	{"Reason": "19"}
+18	al	_		{}
+19	éxito	_	Impact	{"Impactee": "22"}
+20	taquillero	_		{}
+21	del	_		{}
+22	filme	_	Physical_artworks	{"Name": "7"}
+23	,	_		{}
+24	desde	_		{}
+25	entonces	_	Temporal_collocation	{"Trajector_period": "27", "Landmark_event": "26"}
+26	obtuvo	_		{}
+27	fama	_	Fame	{"Degree": "28", "Means": "19", "Explanation": "19", "Reason": "3", "Role": "36", "Place": "40", "Circumstances": "38"}
+28	internacional	_		{}
+29	y	_		{}
+30	es	_		{}
+31	considerada	_		{}
+32	como	_		{}
+33	una	_		{}
+34	de	_		{}
+35	las	_		{}
+36	actrices	_		{}
+37	mejores	_		{}
+38	pagadas	_		{}
+39	en	_		{}
+40	Hollywood	_		{}
+41	.	_		{}

@@ -1,0 +1,36 @@
+1	Il	_		{}
+2	primo	_	Ordinal_numbers	{"Comparison_set": "4"}
+3	ruolo	_	Performers_and_roles	{"Type": "8"}
+4	da	_		{}
+5	protagonista	_		{}
+6	in	_		{}
+7	un	_		{}
+8	film	_	Physical_artworks	{"Name": "13", "Artifact": "8"}
+9	hollywoodiano	_		{}
+10	è	_		{}
+11	in	_		{}
+12	"	_		{}
+13	Hackers	_		{}
+14	"	_		{}
+15	del1995	_		{}
+16	,	_		{}
+17	il	_		{}
+18	film	_	Physical_artworks	{"Name": "13", "Artifact": "18"}
+19	riscuote	_		{}
+20	poco	_	Quantity	{"Mass": "21", "Quantity": "20"}
+21	successo	_	Success_or_failure	{"Agent": "18", "Degree": "20", "Time": "15"}
+22	al	_		{}
+23	botteghino	_		{}
+24	ma	_	Concessive	{"Topic": "18", "Main_statement": "20", "Statement": "33"}
+25	nel	_		{}
+26	corso	_		{}
+27	degli	_		{}
+28	anni	_	Measure_duration	{"Process": "29"}
+29	diventa	_	Becoming	{"Entity": "18"}
+30	un	_		{}
+31	piccolo	_		{}
+32	"	_		{}
+33	cult	_		{}
+34	movie	_		{}
+35	"	_		{}
+36	.	_		{}

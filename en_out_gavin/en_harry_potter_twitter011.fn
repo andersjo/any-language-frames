@@ -1,0 +1,15 @@
+1	I'm	_		{}
+2	a	_	Cardinal_numbers	{"Number": "2", "Entity": "7"}
+3	carry	_	Carry_goods	{}
+4	on	_		{}
+5	film	_	Physical_artworks	{"Descriptor": "3", "Artifact": "5"}
+6	kinda	_		{}
+7	girl	_	People	{"Person": "7", "Descriptor": "5"}
+8	:	_		{}
+9	harry	_		{}
+10	potter	_		{}
+11	,	_		{}
+12	narnia	_		{}
+13	,	_		{}
+14	hunger	_	Biological_urge	{"State": "14"}
+15	games	_	Aggregate	{"Individuals": "15"}

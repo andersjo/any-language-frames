@@ -1,0 +1,46 @@
+1	Han	_		{}
+2	blev	_		{}
+3	først	_	First_experience	{"Experience": "4"}
+4	opdaget	_		{}
+5	af	_		{}
+6	den	_		{}
+7	dagværende	_		{}
+8	Liverpool-manager	_		{}
+9	Gérard	_		{}
+10	Houllier	_		{}
+11	i	_		{}
+12	en	_		{}
+13	alder	_	Age	{"Age": "15", "Entity": "1"}
+14	af	_		{}
+15	16	_		{}
+16	,	_		{}
+17	men	_	Concessive	{"Main_statement": "4", "Statement": "19"}
+18	Liverpool	_		{}
+19	undlod	_		{}
+20	at	_		{}
+21	skrive	_	Text_creation	{"Text": "22", "Author": "18"}
+22	kontrakt	_	Hiring	{"Employee": "1", "Employer": "18"}
+23	med	_		{}
+24	ham	_		{}
+25	,	_		{}
+26	fordi	_		{}
+27	de	_		{}
+28	anså	_		{}
+29	ham	_		{}
+30	for	_		{}
+31	at	_		{}
+32	være	_	Being_in_category	{"Category": "34", "Item": "29"}
+33	for	_	Sufficiency	{"Item": "29", "Scale": "34", "Enabled_situation": "33"}
+34	ung	_		{}
+35	med	_		{}
+36	behov	_	Needing	{"Dependent": "29", "Cognizer": "18", "Requirement": "43"}
+37	for	_		{}
+38	noget	_	Degree	{"Gradable_attribute": "40"}
+39	mere	_	Increment	{"Class": "40", "Added_set": "39"}
+40	tid	_		{}
+41	til	_		{}
+42	at	_		{}
+43	udvikle	_	Progress	{"Entity": "29"}
+44	sine	_		{}
+45	færdigheder	_	Expertise	{"Skill": "45", "Protagonist": "29"}
+46	.	_		{}

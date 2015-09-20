@@ -1,0 +1,20 @@
+1	Harry	_		{}
+2	Potter	_		{}
+3	is	_	Being_in_category	{"Category": "5", "Item": "2"}
+4	a	_	Cardinal_numbers	{"Number": "4", "Entity": "5"}
+5	series	_	Sequence	{"Entity1": "9"}
+6	of	_		{}
+7	seven	_	Cardinal_numbers	{"Number": "7", "Entity": "9"}
+8	fantasy	_		{}
+9	novels	_	Text	{"Genre": "8", "Text": "9", "Author": "11"}
+10	written	_	Text_creation	{"Text": "9", "Author": "11"}
+11	by	_		{}
+12	the	_		{}
+13	British	_		{}
+14	author	_	Text_creation	{"Text": "9", "Author": "19"}
+15	J	_		{}
+16	.	_		{}
+17	K	_		{}
+18	.	_		{}
+19	Rowling	_		{}
+20	.	_		{}

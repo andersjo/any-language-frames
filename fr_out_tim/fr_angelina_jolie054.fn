@@ -1,0 +1,24 @@
+1	En	_		{}
+2	1997	_		{}
+3	,	_		{}
+4	Angelina	_		{}
+5	Jolie	_		{}
+6	est	_		{}
+7	la	_		{}
+8	vedette	_	Performers_and_roles	{"Performer": "4", "Type": "15", "Performer2": "11"}
+9	,	_		{}
+10	avec	_		{}
+11	David	_		{}
+12	Duchovny	_		{}
+13	,	_		{}
+14	du	_		{}
+15	thriller	_		{}
+16	""	_		{}
+17	,	_		{}
+18	qui	_		{}
+19	se	_		{}
+20	déroule	_	Event	{"Place": "22", "Time": "2"}
+21	à	_		{}
+22	Los	_		{}
+23	Angeles	_		{}
+24	.	_		{}

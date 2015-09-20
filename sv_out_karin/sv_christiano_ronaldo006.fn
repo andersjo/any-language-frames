@@ -1,0 +1,47 @@
+1	När	_		{}
+2	Ronaldo	_		{}
+3	i	_		{}
+4	juni	_	Calendric_unit	{"Whole": "5", "Unit": "4"}
+5	2009	_		{}
+6	lämnade	_		{}
+7	Manchester	_		{}
+8	United	_		{}
+9	och	_	Simultaneity	{"Profiled_event": "6", "Landmark_event": "10"}
+10	skrev	_		{}
+11	på	_		{}
+12	för	_		{}
+13	Real	_		{}
+14	Madrid	_		{}
+15	blev	_		{}
+16	övergångssumman	_		{}
+17	den	_		{}
+18	hittills	_	Continued_state_of_affairs	{"Reference_occasion": "10", "State_of_affairs": "19"}
+19	högsta	_		{}
+20	som	_		{}
+21	någonsin	_		{}
+22	betalats	_		{}
+23	för	_		{}
+24	en	_	Cardinal_numbers	{"Number": "24", "Entity": "25"}
+25	fotbollsspelare	_		{}
+26	–	_		{}
+27	80	_		{}
+28	miljoner	_	Cardinal_numbers	{"Entity": "29", "Number": "28", "Multiplier": "27"}
+29	pund	_		{}
+30	(	_		{}
+31	ca	_		{}
+32	en	_	Cardinal_numbers	{"Number": "32", "Entity": "33"}
+33	miljard	_	Cardinal_numbers	{"Multiplier": "32", "Number": "33", "Entity": "34"}
+34	kronor	_		{}
+35	)	_		{}
+36	-	_		{}
+37	senare	_	Relative_time	{"Focal_occasion": "39", "Landmark_occasion": "19"}
+38	endast	_		{}
+39	överträffad	_		{}
+40	av	_		{}
+41	Real	_		{}
+42	Madrids	_		{}
+43	köp	_		{}
+44	av	_		{}
+45	Gareth	_		{}
+46	Bale	_		{}
+47	.	_		{}

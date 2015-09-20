@@ -1,0 +1,32 @@
+1	Sommaren	_		{}
+2	2003	_		{}
+3	,	_		{}
+4	när	_	Event_instance	{"Event": "6"}
+5	Sporting	_		{}
+6	besegrade	_		{}
+7	Manchester	_		{}
+8	United	_		{}
+9	på	_		{}
+10	Estádio	_		{}
+11	José	_		{}
+12	Alvalade	_		{}
+13	i	_	Political_locales	{"Locale": "14", "Relative_location": "10"}
+14	Lissabon	_		{}
+15	,	_		{}
+16	blev	_		{}
+17	Uniteds	_		{}
+18	spelare	_	Competition	{"Participants": "17", "Venue": "10", "Time": "2"}
+19	så	_	Degree	{"Gradable_attribute": "20"}
+20	imponerade	_		{}
+21	av	_		{}
+22	Ronaldo	_		{}
+23	att	_		{}
+24	de	_		{}
+25	uppmanade	_		{}
+26	Sir	_		{}
+27	Alex	_		{}
+28	Ferguson	_		{}
+29	att	_		{}
+30	värva	_		{}
+31	honom	_		{}
+32	.	_		{}

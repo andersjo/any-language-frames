@@ -1,0 +1,45 @@
+1	On	_		{}
+2	her	_		{}
+3	father's	_		{}
+4	side	_	Part_orientational	{"Part": "4"}
+5	,	_		{}
+6	Jolie	_		{}
+7	is	_	Being_in_category	{"Category": "9"}
+8	of	_		{}
+9	German	_		{}
+10	and	_		{}
+11	Slovak	_		{}
+12	descent	_	Origin	{"Origin": "9", "Entity": "6"}
+13	,	_		{}
+14	and	_		{}
+15	on	_		{}
+16	her	_		{}
+17	mother's	_		{}
+18	side	_	Part_edge	{"Part": "18"}
+19	,	_		{}
+20	she	_		{}
+21	is	_		{}
+22	descended	_	Arriving	{"Source": "28", "Theme": "20"}
+23	from	_		{}
+24	maternal	_	Kinship	{}
+25	Dutch	_		{}
+26	and	_		{}
+27	German	_		{}
+28	immigrants	_		{}
+29	of	_		{}
+30	the	_		{}
+31	19th	_	Ordinal_numbers	{"Item": "32"}
+32	century	_	Calendric_unit	{"Count": "31", "Unit": "32"}
+33	,	_		{}
+34	and	_		{}
+35	paternal	_	Kinship	{}
+36	French	_	Origin	{"Origin": "36", "Entity": "37"}
+37	Canadians	_	Origin	{"Origin": "36", "Entity": "37"}
+38	going	_	Motion	{"Distance": "41", "Place": "44", "Goal": "42"}
+39	back	_		{}
+40	to	_		{}
+41	17th-century	_		{}
+42	colonists	_	Colonization	{"Colonists": "42", "Time": "41"}
+43	in	_		{}
+44	Quebec	_		{}
+45	.	_		{}

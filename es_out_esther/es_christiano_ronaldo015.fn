@@ -1,0 +1,44 @@
+1	Es	_	Being_in_category	{"Category": "18", "Item": "5", "Criteria": "27"}
+2	desde	_		{}
+3	2014	_		{}
+4	Gran	_	Expertise	{"Role": "5", "Knowledge": "5"}
+5	Oficial	_	Appellations	{"Name": "8", "Title": "5"}
+6	de	_		{}
+7	la	_		{}
+8	Orden	_	Organization	{"Organization": "8", "Members": "5"}
+9	del	_		{}
+10	Infante	_	Leadership	{"Role": "10", "Leader": "12", "Governed": "5"}
+11	Don	_		{}
+12	Enrique	_		{}
+13	,	_		{}
+14	uno	_	Cardinal_numbers	{"Number": "14", "Entity": "18"}
+15	de	_		{}
+16	los	_		{}
+17	máximos	_	Extreme_value	{"Attribute": "18", "Entity": "18"}
+18	reconocimientos	_	Judgment_communication	{"Topic": "18", "Reason": "25", "Medium": "21", "Place": "21"}
+19	otorgados	_	Giving	{"Donor": "21", "Theme": "18", "Place": "21"}
+20	en	_		{}
+21	Portugal	_		{}
+22	,	_		{}
+23	por	_		{}
+24	su	_		{}
+25	prestación	_		{}
+26	de	_		{}
+27	servicios	_	Public_services	{"Target_group": "32", "Service_action": "25", "Institution": "32"}
+28	relevantes	_	Importance	{"Field": "27"}
+29	otorgados	_	Giving	{"Theme": "27", "Recipient": "32"}
+30	a	_		{}
+31	su	_		{}
+32	país	_	Political_locales	{"Locale": "32"}
+33	,	_		{}
+34	así	_		{}
+35	como	_		{}
+36	su	_		{}
+37	expansión	_	Expansion	{"Item": "38"}
+38	cultural	_		{}
+39	,	_		{}
+40	histórica	_	Historic_event	{"Event": "40", "Entity": "37"}
+41	y	_		{}
+42	de	_		{}
+43	valores	_	Judgment	{"Cognizer": "32", "Reason": "37"}
+44	.	_		{}

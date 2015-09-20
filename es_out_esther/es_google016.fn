@@ -1,0 +1,12 @@
+1	En	_		{}
+2	julio	_	Calendric_unit	{"Relative_time": "2", "Whole": "4"}
+3	de	_		{}
+4	2001	_		{}
+5	lanza	_	Communicate_categorization	{"Category": "7", "Item": "7"}
+6	su	_		{}
+7	servicio	_	Public_services	{"Domain": "9", "Service_action": "9"}
+8	de	_		{}
+9	búsqueda	_	Scrutiny	{"Ground": "11"}
+10	de	_		{}
+11	imágenes	_	Pattern	{"Entities": "7"}
+12	.	_		{}

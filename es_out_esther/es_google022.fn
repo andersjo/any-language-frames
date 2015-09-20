@@ -1,0 +1,19 @@
+1	En	_		{}
+2	abril	_	Calendric_unit	{"Relative_time": "2"}
+3	se	_		{}
+4	presenta	_	Reveal_secret	{"Topic": "6", "Information": "6"}
+5	Google	_		{}
+6	Grants	_		{}
+7	,	_		{}
+8	un	_		{}
+9	servicio	_	Public_services	{"Domain": "11", "Target_group": "14", "Service_action": "11"}
+10	de	_		{}
+11	publicidad	_		{}
+12	gratuito	_	Expensiveness	{"Goods": "11", "Asset": "12", "Intended_event": "11"}
+13	para	_		{}
+14	organizaciones	_	Organization	{"Organization": "14", "Members": "16"}
+15	sin	_		{}
+16	ánimo	_	Part_orientational	{"Part": "16", "Whole": "18"}
+17	de	_		{}
+18	lucro	_	Earnings_and_losses	{"Earner": "14", "Earnings": "15"}
+19	.	_		{}

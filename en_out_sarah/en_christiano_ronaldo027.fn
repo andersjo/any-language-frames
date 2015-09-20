@@ -1,0 +1,23 @@
+1	He	_		{}
+2	scored	_	Successful_action	{"Protagonist": "1", "Goal": "6", "Time": "13"}
+3	his	_		{}
+4	first	_	Ordinal_numbers	{"Comparison_set": "6", "Item": "6", "Type": "5"}
+5	international	_	Foreign_or_domestic_country	{"Discourse_salient_country": "15"}
+6	goal	_	Purpose	{"Goal": "6", "Agent": "1"}
+7	in	_		{}
+8	the	_		{}
+9	opening	_		{}
+10	game	_		{}
+11	of	_		{}
+12	Euro	_		{}
+13	2004	_		{}
+14	against	_		{}
+15	Greece	_		{}
+16	,	_		{}
+17	and	_	Simultaneity	{}
+18	helped	_	Assistance	{"Benefited_party": "19", "Goal": "22", "Helper": "1"}
+19	Portugal	_		{}
+20	reach	_	Arriving	{"Theme": "19", "Goal": "22"}
+21	the	_		{}
+22	final	_	Version_sequence	{"Item": "22"}
+23	.	_		{}

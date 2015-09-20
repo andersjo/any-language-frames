@@ -1,0 +1,12 @@
+1	gerade	_	Temporal_collocation	{"Trajector_event": "5", "Landmark_period": "1"}
+2	am	_		{}
+3	Harry	_		{}
+4	Potter	_		{}
+5	schauen	_	Perception_active	{"Phenomenon": "4"}
+6	!	_		{}
+7	^^ewig	_		{}
+8	nicht	_		{}
+9	mehr	_		{}
+10	gesehen	_	Perception_active	{"Phenomenon": "4"}
+11	!	_		{}
+12	XD	_		{}

@@ -1,0 +1,33 @@
+1	Voy	_	Motion	{"Source": "5", "Theme": "7", "Goal": "3", "Area": "5"}
+2	a	_		{}
+3	buscar	_	Seeking	{"Sought_entity": "7"}
+4	en	_		{}
+5	Google	_		{}
+6	"	_		{}
+7	mujer	_	People	{"Person": "7"}
+8	luchadora	_		{}
+9	"	_		{}
+10	,	_		{}
+11	a	_		{}
+12	dar	_	Hit_target	{"Target": "15"}
+13	a	_		{}
+14	la	_		{}
+15	pestaña	_	Corporal_punishment	{"Reason": "28", "Evaluee": "7"}
+16	de	_		{}
+17	imágenes	_	Optical_image	{"Source": "5", "Image": "17"}
+18	,	_		{}
+19	y	_		{}
+20	lo	_		{}
+21	que	_		{}
+22	voy	_	Motion	{"Goal": "24"}
+23	a	_		{}
+24	hacer	_	Cause_impact	{"Cause": "28", "Impactor": "17"}
+25	,	_		{}
+26	es	_		{}
+27	porque	_		{}
+28	quiero	_	Desiring	{"Location_of_Event": "31", "Event": "32"}
+29	ver	_	Attention	{"Figure": "31"}
+30	el	_		{}
+31	mundo	_	Locale	{"Locale": "31"}
+32	arder	_	Emotion_heat	{"Emotion": "32", "Seat of emotion": "28"}
+33	.	_		{}

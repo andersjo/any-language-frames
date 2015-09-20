@@ -1,0 +1,24 @@
+1	Kvindernes	_		{}
+2	internationale	_	Political_locales	{"Locale": "2"}
+3	kampdag	_		{}
+4	eller	_		{}
+5	den	_		{}
+6	internationale	_	Political_locales	{"Locale": "6"}
+7	kvindedag	_		{}
+8	markeres	_		{}
+9	den	_		{}
+10	8	_	Cardinal_numbers	{"Number": "10", "Entity": "12"}
+11	.	_		{}
+12	marts	_	Calendric_unit	{"Whole": "12", "Unit": "10"}
+13	hvert	_		{}
+14	år	_	Frequency	{"Rate": "13", "Event": "7", "Time_span": "14"}
+15	for	_		{}
+16	at	_		{}
+17	sætte	_	Placing	{"Theme": "18", "Goal": "21"}
+18	fokus	_	Attention	{"Expressor": "7", "Figure": "21"}
+19	på	_		{}
+20	kvinders	_		{}
+21	stilling	_	Rank	{"Item": "20", "Rank": "21"}
+22	i	_		{}
+23	verden	_	Locale	{"Locale": "23"}
+24	.	_		{}

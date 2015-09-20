@@ -1,0 +1,15 @@
+1	El	_		{}
+2	18	_		{}
+3	de	_		{}
+4	agosto	_	Calendric_unit	{"Relative_time": "4", "Whole": "8", "Unit": "2"}
+5	de	_		{}
+6	ese	_		{}
+7	mismo	_	Identicality	{"Current_instance": "8"}
+8	año	_	Calendric_unit	{"Relative_time": "7", "Whole": "8", "Unit": "4"}
+9	Google	_		{}
+10	salió	_		{}
+11	a	_		{}
+12	bolsa	_	Exchange	{"Themes": "14", "Exchangers": "9"}
+13	en	_		{}
+14	WallStreet	_		{}
+15	.	_		{}

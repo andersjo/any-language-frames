@@ -1,0 +1,31 @@
+1	Teorier	_		{}
+2	om	_		{}
+3	at	_		{}
+4	et	_		{}
+5	skift	_	Undergo_change	{"Entity": "17", "Initial_category": "25"}
+6	ville	_		{}
+7	finde	_	Event	{}
+8	sted	_		{}
+9	fortsatte	_		{}
+10	indtil	_		{}
+11	den	_		{}
+12	6	_	Cardinal_numbers	{"Number": "12"}
+13	.	_		{}
+14	august	_	Calendric_unit	{"Whole": "12", "Unit": "14"}
+15	,	_		{}
+16	hvor	_		{}
+17	Ronaldo	_		{}
+18	beskræftede	_		{}
+19	,	_		{}
+20	at	_		{}
+21	han	_		{}
+22	ville	_		{}
+23	blive	_	Duration_relation	{"Duration": "29", "Eventuality": "23", "Entity": "17"}
+24	i	_		{}
+25	Manchester	_		{}
+26	i	_		{}
+27	mindst	_		{}
+28	et	_	Cardinal_numbers	{"Number": "28", "Entity": "29"}
+29	år	_	Measure_duration	{"Count": "28", "Unit": "29"}
+30	mere	_	Increment	{"Added_set": "29", "Increment": "30"}
+31	.	_		{}

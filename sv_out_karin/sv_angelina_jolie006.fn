@@ -1,0 +1,27 @@
+1	Jolie	_		{}
+2	är	_		{}
+3	engagerad	_		{}
+4	i	_		{}
+5	humanitära	_		{}
+6	insatser	_		{}
+7	för	_		{}
+8	barns	_		{}
+9	rättigheter	_		{}
+10	och	_	Simultaneity	{"Profiled_event": "6", "Landmark_event": "12"}
+11	i	_		{}
+12	arbete	_	Working_on	{"Salient_entity": "26", "Goal": "14", "Agent": "1"}
+13	mot	_		{}
+14	krig	_	Hostile_encounter	{}
+15	och	_	Simultaneity	{"Profiled_event": "14", "Landmark_event": "16"}
+16	svält	_	Biological_urge	{}
+17	,	_		{}
+18	inte	_		{}
+19	minst	_		{}
+20	som	_		{}
+21	goodwill-ambassadör	_		{}
+22	för	_		{}
+23	FN	_		{}
+24	:s	_		{}
+25	flyktingkommissariat	_		{}
+26	UNHCR	_		{}
+27	.	_		{}

@@ -1,0 +1,19 @@
+1	Le	_		{}
+2	récit	_	Text	{"Text": "2"}
+3	s'étend	_	Expansion	{"Item": "2"}
+4	sur	_		{}
+5	sept	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	volumes	_	Text	{"Text": "6"}
+7	,	_		{}
+8	chaque	_		{}
+9	tome	_	Text	{"Text": "9"}
+10	racontant	_	Telling	{"Topic": "12", "Medium": "9"}
+11	une	_	Cardinal_numbers	{"Number": "11", "Entity": "12"}
+12	année	_	Measure_duration	{"Count": "11", "Unit": "12"}
+13	d'études	_		{}
+14	de	_		{}
+15	Harry	_		{}
+16	Potter	_		{}
+17	à	_		{}
+18	Poudlard	_		{}
+19	.	_		{}

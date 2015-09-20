@@ -1,0 +1,21 @@
+1	Trøjenummer	_		{}
+2	7	_	Cardinal_numbers	{"Number": "2", "Entity": "1"}
+3	var	_		{}
+4	tidligere	_	Relative_time	{"Focal_participant": "7", "Landmark_occasion": "6"}
+5	blevet	_		{}
+6	båret	_		{}
+7	af	_		{}
+8	spillere	_		{}
+9	som	_	Similarity	{"Entities": "8"}
+10	George	_		{}
+11	Best	_		{}
+12	,	_		{}
+13	Bryan	_		{}
+14	Robson	_		{}
+15	,	_		{}
+16	Éric	_		{}
+17	Cantona	_		{}
+18	og	_		{}
+19	David	_		{}
+20	Beckham	_		{}
+21	.	_		{}

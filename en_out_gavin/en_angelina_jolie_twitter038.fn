@@ -1,0 +1,20 @@
+1	At	_		{}
+2	a	_	Cardinal_numbers	{"Number": "2", "Entity": "4"}
+3	Maleficent	_		{}
+4	photocall	_		{}
+5	in	_		{}
+6	London	_		{}
+7	,	_		{}
+8	Angelina	_		{}
+9	Jolie	_		{}
+10	swiped	_	Attaching	{"Item": "15", "Agent": "9"}
+11	on	_		{}
+12	a	_	Cardinal_numbers	{"Number": "12", "Entity": "15"}
+13	cherry-red	_	Color	{"Color": "13", "Entity": "15"}
+14	lip	_	Observable_body_parts	{"Body_part": "14", "Possessor": "9", "Descriptor": "13"}
+15	color	_	Color	{"Color": "13", "Entity": "15"}
+16	to	_		{}
+17	match	_	Compatibility	{"Item_2": "19", "Item_1": "15"}
+18	her	_		{}
+19	si	_	Text	{}
+20	http://t.co/JGOiP1r6CQ	_		{}

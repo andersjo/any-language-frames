@@ -1,0 +1,11 @@
+1	Negative	_		{}
+2	thinking	_	Cogitation	{}
+3	destroys	_	Destroying	{"Undergoer": "6", "Destroyer": "2"}
+4	your	_		{}
+5	brain	_	Observable_body_parts	{"Body_part": "5", "Subregion": "6", "Possessor": "4"}
+6	cells	_	Building_subparts	{"Building_part": "6", "Whole": "5"}
+7	and	_		{}
+8	causes	_	Causation	{"Cause": "2", "Actor": "9"}
+9	global	_	Political_locales	{"Locale": "9"}
+10	warming	_	Temperature	{"Temperature": "10", "Entity": "9"}
+11	.	_		{}

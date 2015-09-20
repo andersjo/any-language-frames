@@ -1,0 +1,23 @@
+1	Sus	_		{}
+2	películas	_	Physical_artworks	{"Name": "12"}
+3	más	_	Increment	{}
+4	exitosas	_	Success_or_failure	{"Degree": "3"}
+5	en	_		{}
+6	términos	_	Terms_of_agreement	{}
+7	comerciales	_		{}
+8	han	_		{}
+9	sido	_	Being_in_category	{}
+10	:	_		{}
+11	"	_		{}
+12	Maléfica	_		{}
+13	"	_		{}
+14	que	_		{}
+15	ingreso	_	Earnings_and_losses	{"Earner": "12", "Earnings": "17"}
+16	$758	_		{}
+17	millones	_	Quantity	{"Quantity": "16"}
+18	;	_		{}
+19	"	_		{}
+20	Sr.	_		{}
+21	y	_		{}
+22	Sra	_		{}
+23	.	_		{}

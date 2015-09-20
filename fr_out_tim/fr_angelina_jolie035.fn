@@ -1,0 +1,9 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	reste	_	Process_continue	{}
+4	longtemps	_	Timespan	{"Duration": "4", "State": "5"}
+5	séparée	_		{}
+6	de	_		{}
+7	son	_		{}
+8	père	_	Kinship	{"Ego": "7", "Alter": "8"}
+9	.	_		{}

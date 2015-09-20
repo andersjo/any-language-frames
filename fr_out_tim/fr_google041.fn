@@ -1,0 +1,30 @@
+1	David	_		{}
+2	Filo	_		{}
+3	,	_		{}
+4	fondateur	_		{}
+5	de	_		{}
+6	Yahoo	_		{}
+7	!,	_		{}
+8	convient	_		{}
+9	de	_		{}
+10	l'intérêt	_		{}
+11	de	_		{}
+12	leurs	_		{}
+13	recherches	_	Research	{"Researcher": "12"}
+14	,	_		{}
+15	mais	_		{}
+16	les	_		{}
+17	encourage	_	Attempt_suasion	{"Content": "19", "Addressee": "16", "Speaker": "2"}
+18	à	_		{}
+19	créer	_	Creating	{"Created_entity": "22", "Creator": "16"}
+20	leur	_		{}
+21	propre	_		{}
+22	moteur	_		{}
+23	de	_		{}
+24	recherche	_	Research	{}
+25	plutôt	_		{}
+26	que	_		{}
+27	vendre	_	Commerce_sell	{"Goods": "29", "Seller": "28"}
+28	leurs	_		{}
+29	travaux	_	Labor_product	{"Output": "29", "Agent": "28"}
+30	.	_		{}

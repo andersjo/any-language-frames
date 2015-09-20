@@ -1,0 +1,14 @@
+1	Voice	_	Sounds	{"Sound_source": "1"}
+2	A	_		{}
+3	True	_	Artificiality	{"Entity": "4"}
+4	Gogetta	_		{}
+5	-	_		{}
+6	Music	_	Performing_arts	{"Performance": "6"}
+7	on	_		{}
+8	Google	_		{}
+9	Play	_	Performing_arts	{"Performance": "9"}
+10	http://t.co/1dJsQDdJyS	_		{}
+11	Get	_	Getting	{"Theme": "13", "Recipient": "12", "Time": "14"}
+12	Your	_		{}
+13	Copy	_	Duplication	{"Copy": "13", "Original": "4"}
+14	Today659	_		{}

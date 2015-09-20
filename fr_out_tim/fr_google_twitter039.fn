@@ -1,0 +1,20 @@
+1	@dr_fatoumatine	_		{}
+2	(	_		{}
+3	NE	_		{}
+4	PAS	_		{}
+5	PRENDRE	_	Taking	{"Source": "12", "Theme": "10"}
+6	EN	_		{}
+7	COMPTE	_	Categorization	{"Item": "9"}
+8	LA	_		{}
+9	PREMIERE	_		{}
+10	IMAGE	_		{}
+11	SUR	_		{}
+12	GOOGLE	_		{}
+13	IMAGE	_		{}
+14	)	_		{}
+15	Mais	_		{}
+16	les	_		{}
+17	n	_		{}
+18	2	_	Cardinal_numbers	{"Number": "18", "Entity": "10"}
+19	et	_		{}
+20	3	_	Cardinal_numbers	{"Number": "20", "Entity": "10"}

@@ -1,0 +1,17 @@
+1	#Entertainment	_		{}
+2	#News	_		{}
+3	Tomb	_		{}
+4	Raider	_		{}
+5	Signed	_	Sign_agreement	{"Signatory": "11"}
+6	27x40	_		{}
+7	DS	_	Behind_the_scenes	{}
+8	Movie	_	Physical_artworks	{"Artifact": "9"}
+9	Poster	_	Physical_artworks	{"Name": "4", "Artifact": "9"}
+10	Angelina	_		{}
+11	Jolie	_		{}
+12	Jon	_		{}
+13	Voight	_		{}
+14	COA	_		{}
+15	http://t.co/kCvgKOyDm2	_		{}
+16	#AngelinaJolie	_		{}
+17	#Fans	_		{}

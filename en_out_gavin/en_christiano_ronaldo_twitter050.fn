@@ -1,0 +1,10 @@
+1	I	_		{}
+2	just	_		{}
+3	beat	_	Beat_opponent	{"Winner": "1", "Competition": "6", "Loser": "5", "Means": "9"}
+4	Christiano	_		{}
+5	Ronaldo	_		{}
+6	in	_		{}
+7	a	_	Cardinal_numbers	{"Number": "7", "Entity": "8"}
+8	race	_	Self_motion	{}
+9	running	_	Being_operational	{}
+10	backwards	_		{}

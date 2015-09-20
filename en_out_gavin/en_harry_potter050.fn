@@ -1,0 +1,24 @@
+1	The	_		{}
+2	third	_	Ordinal_numbers	{"Item": "3"}
+3	novel	_	Text	{"Text": "3"}
+4	,	_		{}
+5	"	_		{}
+6	Harry	_		{}
+7	Potter	_		{}
+8	and	_		{}
+9	the	_		{}
+10	Prisoner	_	Accoutrements	{"Accoutrement": "10"}
+11	of	_		{}
+12	Azkaban	_		{}
+13	"	_		{}
+14	,	_		{}
+15	follows	_	Cotheme	{"Theme": "16", "Cotheme": "3", "Area": "17"}
+16	Harry	_		{}
+17	in	_		{}
+18	his	_		{}
+19	third	_	Ordinal_numbers	{"Item": "20"}
+20	year	_	Calendric_unit	{"Unit": "20"}
+21	of	_		{}
+22	magical	_	Ineffability	{"Stimulus": "23"}
+23	education	_	Education_teaching	{}
+24	.	_		{}

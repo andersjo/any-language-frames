@@ -1,0 +1,23 @@
+1	@ZeerakW	_		{}
+2	Det	_		{}
+3	ER	_		{}
+4	sejt	_		{}
+5	og	_		{}
+6	det	_		{}
+7	er	_		{}
+8	en	_		{}
+9	totalt	_		{}
+10	undervurderet	_		{}
+11	film	_	Physical_artworks	{"Descriptor": "10", "Artifact": "11"}
+12	.	_		{}
+13	Der	_		{}
+14	hvor	_		{}
+15	Angelina	_		{}
+16	Jolie	_		{}
+17	ligger	_	Being_located	{"Theme": "15", "Location": "20"}
+18	i	_		{}
+19	en	_		{}
+20	pool	_	Natural_features	{"Locale": "20"}
+21	?	_		{}
+22	Miav	_		{}
+23	!	_		{}

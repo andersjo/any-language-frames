@@ -1,0 +1,31 @@
+1	Si	_		{}
+2	aggiungono	_		{}
+3	abitazioni	_	Buildings	{"Building": "3"}
+4	private	_		{}
+5	,	_		{}
+6	foreste	_	Biological_area	{"Locale": "6"}
+7	e	_		{}
+8	spazi	_		{}
+9	naturali	_		{}
+10	che	_		{}
+11	in	_		{}
+12	genere	_		{}
+13	fanno	_		{}
+14	da	_		{}
+15	supporto	_		{}
+16	alle	_		{}
+17	scene	_		{}
+18	di	_		{}
+19	transizione	_	Undergo_change	{}
+20	o	_		{}
+21	alle	_		{}
+22	vicende	_		{}
+23	del	_		{}
+24	mondo	_	Locale	{"Locale": "24"}
+25	magico	_	Ineffability	{"Stimulus": "24"}
+26	antecedenti	_	Relative_time	{"Focal_occasion": "17", "Landmark_occasion": "28"}
+27	la	_		{}
+28	nascita	_	Birth	{"Child": "30"}
+29	di	_		{}
+30	Harry	_		{}
+31	.	_		{}

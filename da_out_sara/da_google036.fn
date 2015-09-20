@@ -1,0 +1,39 @@
+1	Nyeste	_		{}
+2	skud	_	Attempt	{"Depictive": "1", "Agent": "6"}
+3	på	_		{}
+4	stammen	_	Topic	{"Topic": "4"}
+5	er	_		{}
+6	TrackMeNot	_		{}
+7	,	_		{}
+8	som	_		{}
+9	er	_		{}
+10	et	_		{}
+11	letvægts	_		{}
+12	baggrundsprogram	_		{}
+13	med	_		{}
+14	det	_		{}
+15	formål	_	Purpose	{"Goal": "17", "Agent": "6"}
+16	at	_		{}
+17	forvirre	_	Experiencer_obj	{"Stimulus": "6", "Experiencer": "19"}
+18	Googles	_		{}
+19	søgemaskine	_		{}
+20	,	_		{}
+21	for	_		{}
+22	derved	_		{}
+23	at	_		{}
+24	skjule	_	Hiding_objects	{"Agent": "6", "Hidden_object": "27"}
+25	brugernes	_		{}
+26	aktuelle	_		{}
+27	søgninger	_		{}
+28	,	_		{}
+29	så	_		{}
+30	Google	_		{}
+31	ikke	_		{}
+32	kan	_		{}
+33	lagre	_		{}
+34	faktisk	_		{}
+35	information	_	Information	{"Cognizer": "37", "Means_of_Gathering": "33", "Information": "38"}
+36	omkring	_		{}
+37	brugerens	_		{}
+38	søgning	_	Scrutiny	{"Instrument": "19", "Cognizer": "37"}
+39	.	_		{}

@@ -1,0 +1,27 @@
+1	Ronaldo	_		{}
+2	holds	_		{}
+3	the	_		{}
+4	record	_	Recording	{"Agent": "1"}
+5	for	_		{}
+6	most	_	Relational_quantity	{"Individuals": "7", "Reference_quantity": "6"}
+7	goals	_	Purpose	{"Goal": "7"}
+8	scored	_	Successful_action	{"Goal": "7"}
+9	in	_		{}
+10	a	_	Cardinal_numbers	{"Number": "10", "Entity": "15"}
+11	single	_	Sole_instance	{"Item": "15", "Type": "14"}
+12	UEFA	_		{}
+13	Champions	_	Expertise	{}
+14	League	_	Organization	{"Organization": "12"}
+15	season	_	Sequence	{}
+16	,	_		{}
+17	having	_		{}
+18	scored	_	Successful_action	{"Goal": "20"}
+19	17	_		{}
+20	goals	_	Purpose	{"Goal": "20", "Agent": "1"}
+21	in	_		{}
+22	the	_		{}
+23	2013	_		{}
+24	–	_		{}
+25	14	_	Cardinal_numbers	{"Number": "25"}
+26	season	_	Sequence	{}
+27	.	_		{}

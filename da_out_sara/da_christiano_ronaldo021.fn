@@ -1,0 +1,57 @@
+1	Alle	_		{}
+2	,	_		{}
+3	der	_		{}
+4	havde	_		{}
+5	noget	_	Be_subset_of	{"Part": "9"}
+6	at	_		{}
+7	gøre	_		{}
+8	med	_		{}
+9	Sporting	_		{}
+10	,	_		{}
+11	blev	_		{}
+12	gjort	_		{}
+13	bekendt	_	Familiarity	{"Cognizer": "1", "Entity": "16"}
+14	med	_		{}
+15	den	_		{}
+16	betingelse	_	Terms_of_agreement	{"Agreement": "16"}
+17	,	_		{}
+18	og	_		{}
+19	Ronaldos	_		{}
+20	mor	_	Kinship	{"Relatives": "20", "Ego": "19"}
+21	gav	_		{}
+22	tilladelsen	_		{}
+23	til	_		{}
+24	,	_		{}
+25	at	_		{}
+26	han	_		{}
+27	kunne	_		{}
+28	komme	_	Bringing	{"Goal": "30"}
+29	på	_		{}
+30	hospitalet	_		{}
+31	for	_		{}
+32	at	_		{}
+33	få	_		{}
+34	foretaget	_		{}
+35	en	_		{}
+36	operation	_	Using	{}
+37	,	_		{}
+38	som	_		{}
+39	skulle	_		{}
+40	udføres	_		{}
+41	med	_		{}
+42	laser	_		{}
+43	til	_		{}
+44	at	_		{}
+45	ætse	_		{}
+46	det	_		{}
+47	område	_	Part_whole	{"Part": "47", "Whole": "50"}
+48	i	_		{}
+49	hans	_		{}
+50	hjerte	_	Part_orientational	{"Part": "50"}
+51	,	_		{}
+52	der	_		{}
+53	var	_		{}
+54	skyld	_	Judgment	{"Reason": "54"}
+55	i	_		{}
+56	problemet	_		{}
+57	.	_		{}

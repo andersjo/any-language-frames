@@ -1,0 +1,20 @@
+1	In	_		{}
+2	2007	_		{}
+3	,	_		{}
+4	Ronaldo	_		{}
+5	was	_	Being_in_category	{"Category": "8", "Item": "4", "Time": "2"}
+6	the	_		{}
+7	first	_	Ordinal_numbers	{"Comparison_set": "8", "Item": "4"}
+8	player	_	Competition	{"Participant_1": "4", "Place": "10", "Time": "2"}
+9	in	_		{}
+10	England	_		{}
+11	to	_		{}
+12	win	_	Win_prize	{"Competitor": "4", "Prize": "17"}
+13	all	_	Quantity	{"Individuals": "19", "Quantity": "13"}
+14	four	_	Cardinal_numbers	{"Number": "14", "Entity": "19"}
+15	main	_	First_rank	{"Item": "19"}
+16	PFA	_		{}
+17	and	_		{}
+18	FWA	_		{}
+19	awards	_	Judgment	{"Cognizer": "18"}
+20	.	_		{}

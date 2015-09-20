@@ -1,0 +1,42 @@
+1	Google+	_		{}
+2	е	_		{}
+3	услуга	_	Public_services	{"Service_action": "3"}
+4	за	_		{}
+5	социална	_		{}
+6	мрежа	_	Network	{"Network": "6"}
+7	,	_		{}
+8	която	_		{}
+9	стартира	_		{}
+10	на	_		{}
+11	28	_		{}
+12	юни	_	Calendric_unit	{"Unit": "12"}
+13	2011	_		{}
+14	г	_	Measure_mass	{"Unit": "14"}
+15	.	_		{}
+16	Тя	_		{}
+17	интегрира	_		{}
+18	социални	_	Social_event	{}
+19	услуги	_	Public_services	{"Service_action": "19"}
+20	като	_	Similarity	{}
+21	Google	_		{}
+22	профили	_		{}
+23	и	_		{}
+24	Google	_		{}
+25	Buzz	_		{}
+26	,	_		{}
+27	но	_		{}
+28	и	_		{}
+29	въвежда	_		{}
+30	нови	_		{}
+31	услуги	_	Public_services	{"Service_action": "31"}
+32	като	_	Similarity	{}
+33	Circles	_		{}
+34	(Кръгове)	_		{}
+35	,	_		{}
+36	Hangouts	_		{}
+37	(Терени)	_		{}
+38	,	_		{}
+39	Sparks	_		{}
+40	и	_		{}
+41	Huddles	_		{}
+42	.	_		{}

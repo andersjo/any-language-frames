@@ -1,0 +1,14 @@
+1	Cada	_		{}
+2	vez	_	Event_instance	{"Instance": "1", "Event": "4"}
+3	que	_		{}
+4	veo	_	Attention	{"Expressor": "8", "Perceiver": "8", "Figure": "6"}
+5	a	_		{}
+6	Angelina	_		{}
+7	Jolie	_		{}
+8	me	_	Proper_reference	{"Intended_referent": "8"}
+9	brillan	_	Emitting	{"Source_emitter": "11", "Emission": "9"}
+10	los	_		{}
+11	ojos	_	Observable_body_parts	{"Body_part": "11", "Possessor": "8"}
+12	,	_		{}
+13	jurao	_		{}
+14	.	_		{}

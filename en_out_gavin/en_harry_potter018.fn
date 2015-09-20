@@ -1,0 +1,27 @@
+1	Harry	_		{}
+2	becomes	_	Becoming	{"Place": "5", "Entity": "1"}
+3	a	_		{}
+4	student	_		{}
+5	at	_		{}
+6	Hogwarts	_		{}
+7	School	_	Locale_by_use	{"Locale": "7", "Name": "6"}
+8	of	_		{}
+9	Witchcraft	_		{}
+10	and	_		{}
+11	Wizardry	_	Leadership	{"Activity": "11"}
+12	,	_		{}
+13	and	_		{}
+14	it	_		{}
+15	is	_	Existence	{"Place": "16", "Entity": "14"}
+16	here	_	Locative_relation	{"Figure": "21", "Ground": "16"}
+17	where	_		{}
+18	most	_	Relational_quantity	{"Individuals": "21"}
+19	of	_		{}
+20	the	_		{}
+21	events	_	Event	{"Place": "15"}
+22	in	_		{}
+23	the	_		{}
+24	series	_	Sequence	{"Entity1": "24"}
+25	take	_	Taking	{"Theme": "26", "Agent": "24"}
+26	place	_	Locale	{"Locale": "26"}
+27	.	_		{}

@@ -1,0 +1,36 @@
+1	Cristiano	_		{}
+2	Ronaldo	_		{}
+3	dos	_		{}
+4	Santos	_		{}
+5	Aveiro	_		{}
+6	(	_		{}
+7	portugisiskt	_		{}
+8	uttal	_		{}
+9	:	_		{}
+10	])	_		{}
+11	,	_		{}
+12	född	_	Birth	{"Child": "2", "Place": "20", "Time": "16"}
+13	den	_		{}
+14	5	_		{}
+15	februari	_	Calendric_unit	{"Whole": "16", "Unit": "15"}
+16	1985	_		{}
+17	i	_	Political_locales	{"Locale": "18"}
+18	Funchal	_		{}
+19	på	_		{}
+20	Madeira	_		{}
+21	,	_		{}
+22	är	_		{}
+23	en	_	Cardinal_numbers	{"Number": "23", "Entity": "25"}
+24	portugisisk	_	Origin	{"Origin": "24", "Entity": "2"}
+25	fotbollsspelare	_		{}
+26	som	_		{}
+27	spelar	_		{}
+28	som	_		{}
+29	yttermittfältare/anfallare	_		{}
+30	för	_		{}
+31	den	_		{}
+32	spanska	_		{}
+33	klubben	_	Organization	{"Organization": "34", "Place": "32", "Members": "2"}
+34	Real	_		{}
+35	Madrid	_		{}
+36	.	_		{}

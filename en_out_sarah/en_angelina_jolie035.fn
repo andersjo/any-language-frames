@@ -1,0 +1,19 @@
+1	She	_		{}
+2	felt	_		{}
+3	isolated	_	Being_detached	{"Item": "1"}
+4	at	_		{}
+5	Beverly	_		{}
+6	Hills	_	Natural_features	{"Locale": "6"}
+7	High	_	Position_on_a_scale	{"Variable": "7", "Item": "8"}
+8	School	_	Education_teaching	{"Institution": "5", "Student": "1"}
+9	among	_		{}
+10	the	_		{}
+11	children	_	People_by_age	{"Person": "11"}
+12	of	_		{}
+13	some	_	Relational_quantity	{}
+14	of	_		{}
+15	the	_		{}
+16	area's	_		{}
+17	affluent	_	Wealthiness	{"Person": "18"}
+18	families	_	Kinship	{"Relatives": "18"}
+19	.	_		{}

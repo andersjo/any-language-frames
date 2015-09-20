@@ -1,0 +1,12 @@
+1	И	_		{}
+2	аз	_	Proper_reference	{"Intended_referent": "2"}
+3	съм	_		{}
+4	на	_		{}
+5	това	_	Proper_reference	{"Entity": "5"}
+6	мнение	_	Opinion	{"Opinion": "6"}
+7	новата	_		{}
+8	седмица	_	Calendric_unit	{"Relative_time": "8", "Unit": "8"}
+9	с	_		{}
+10	дълги	_		{}
+11	.	_		{}
+12	https://t.co/2K8UCP6Sh7	_		{}

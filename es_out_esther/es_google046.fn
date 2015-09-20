@@ -1,0 +1,23 @@
+1	En	_		{}
+2	junio	_	Calendric_unit	{"Relative_time": "2"}
+3	lanza	_	Communicate_categorization	{"Category": "5", "Item": "5"}
+4	Google	_		{}
+5	Gears	_		{}
+6	que	_		{}
+7	más	_	Increment	{"Initial_set": "2", "Added_set": "8"}
+8	tarde	_	Relative_time	{"Focal_occasion": "2", "Landmark_occasion": "10"}
+9	será	_		{}
+10	abandonado	_		{}
+11	debido	_		{}
+12	a	_		{}
+13	que	_		{}
+14	lo	_		{}
+15	que	_		{}
+16	ofrecía	_		{}
+17	más	_	Increment	{"Initial_set": "7", "Added_set": "18"}
+18	tarde	_	Relative_time	{"Focal_occasion": "18", "Focal_participant": "5", "Landmark_occasion": "20"}
+19	fue	_		{}
+20	incorporado	_	Inclusion	{"Part": "5", "Total": "22"}
+21	en	_		{}
+22	HTML5	_		{}
+23	.	_		{}

@@ -1,0 +1,34 @@
+1	La	_		{}
+2	perdita	_	Earnings_and_losses	{}
+3	è	_		{}
+4	dovuta	_		{}
+5	alle	_		{}
+6	indicazioni	_		{}
+7	non	_		{}
+8	proprio	_		{}
+9	positive	_		{}
+10	degli	_		{}
+11	analisti	_		{}
+12	UBS	_		{}
+13	,	_		{}
+14	secondo	_		{}
+15	cui	_		{}
+16	il	_		{}
+17	tasso	_		{}
+18	di	_		{}
+19	crescita	_	Progress	{"Entity": "21"}
+20	del	_		{}
+21	titolo	_	Documents	{"Document": "21"}
+22	dovrebbe	_		{}
+23	segnare	_		{}
+24	nel	_		{}
+25	quarto	_	Calendric_unit	{"Unit": "26"}
+26	trimestre	_	Calendric_unit	{"Unit": "26"}
+27	un	_		{}
+28	brusco	_	Sharpness	{"Attribute": "28", "Entity": "29"}
+29	rallentamento	_		{}
+30	rispetto	_	Regard	{"Evaluee": "33"}
+31	al	_		{}
+32	precedente	_	Relative_time	{}
+33	trimestre	_	Calendric_unit	{"Unit": "33"}
+34	.	_		{}

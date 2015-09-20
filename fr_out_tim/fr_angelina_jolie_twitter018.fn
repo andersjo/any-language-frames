@@ -1,0 +1,26 @@
+1	Niveau	_		{}
+2	mentale	_		{}
+3	,	_		{}
+4	valeurs	_		{}
+5	,	_		{}
+6	Angelina	_		{}
+7	Jolie	_		{}
+8	est	_		{}
+9	l'exemple	_		{}
+10	féminine	_		{}
+11	parfaite	_		{}
+12	.	_		{}
+13	Elle	_		{}
+14	a	_		{}
+15	u	_		{}
+16	mentale	_	Social_interaction_evaluation	{}
+17	de	_		{}
+18	gagnante	_	Success_or_failure	{}
+19	,	_		{}
+20	Humble	_	Morality_evaluation	{"Evaluee": "6"}
+21	,	_		{}
+22	généreuse	_	Stinginess	{"Resource_controller": "6"}
+23	,	_		{}
+24	sensible	_	Mental_property	{"Protagonist": "6"}
+25	etc	_		{}
+26	...	_		{}

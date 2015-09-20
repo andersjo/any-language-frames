@@ -1,0 +1,8 @@
+1	someone	_	People	{"Person": "1"}
+2	tell	_	Telling	{"Topic": "5", "Addressee": "3", "Speaker": "1"}
+3	me	_	Proper_reference	{}
+4	who	_		{}
+5	Christiano	_		{}
+6	Ronaldo	_		{}
+7	is	_	Existence	{"Entity": "5"}
+8	?	_		{}

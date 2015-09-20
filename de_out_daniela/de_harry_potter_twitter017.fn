@@ -1,0 +1,26 @@
+1	@barbieloveslips	_		{}
+2	ich	_		{}
+3	kann	_		{}
+4	mich	_	Proper_reference	{"Intended_referent": "2"}
+5	mit	_		{}
+6	Harry	_		{}
+7	Potter	_		{}
+8	nicht	_		{}
+9	anfreunden	_		{}
+10	,	_		{}
+11	tut	_		{}
+12	mir	_	Proper_reference	{"Intended_referent": "2"}
+13	leid	_		{}
+14	,	_		{}
+15	aber	_		{}
+16	schön	_	Desirability	{"Evaluee": "18"}
+17	das	_		{}
+18	es	_		{}
+19	dir	_		{}
+20	Freude	_	Stimulus_focus	{"Stimulus": "18", "Experiencer": "19"}
+21	gemacht	_		{}
+22	.	_		{}
+23	Jedem	_		{}
+24	dem	_		{}
+25	seins	_		{}
+26	😊	_		{}

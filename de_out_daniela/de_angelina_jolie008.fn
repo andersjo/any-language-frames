@@ -1,0 +1,17 @@
+1	Sie	_		{}
+2	ist	_		{}
+3	die	_		{}
+4	jüngere	_		{}
+5	Schwester	_	Kinship	{"Ego": "9", "Alter": "1"}
+6	des	_		{}
+7	Schauspielers	_	Performers	{"Person": "9"}
+8	James	_		{}
+9	Haven	_		{}
+10	und	_	Simultaneity	{"Profiled_event": "5", "Landmark_event": "12"}
+11	die	_		{}
+12	Nichte	_		{}
+13	des	_		{}
+14	Songwriters	_		{}
+15	Chip	_		{}
+16	Taylor	_		{}
+17	.	_		{}

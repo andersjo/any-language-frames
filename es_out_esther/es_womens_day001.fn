@@ -1,0 +1,35 @@
+1	El	_		{}
+2	Día	_		{}
+3	Internacional	_	Foreign_or_domestic_country	{}
+4	de	_		{}
+5	la	_		{}
+6	Mujer	_	People	{"Person": "6"}
+7	conmemora	_	Remembering_experience	{"Impression": "12", "State": "9", "Salient_entity": "9", "Experience": "9"}
+8	la	_		{}
+9	lucha	_	Quarreling	{"Arguers": "12", "Issue": "15"}
+10	de	_		{}
+11	la	_		{}
+12	mujer	_		{}
+13	por	_		{}
+14	su	_		{}
+15	participación	_	Attending	{"Event": "15", "Agent": "12"}
+16	,	_		{}
+17	en	_		{}
+18	pie	_		{}
+19	de	_		{}
+20	igualdad	_	Identicality	{"Previous_instance": "12", "Current_instance": "20", "Type": "23", "Previous_context": "12"}
+21	con	_		{}
+22	el	_		{}
+23	hombre	_	People	{"Person": "23"}
+24	,	_		{}
+25	en	_		{}
+26	la	_		{}
+27	sociedad	_	Organization	{"Organization": "27"}
+28	y	_		{}
+29	en	_		{}
+30	su	_		{}
+31	desarrollo	_	Progress	{"Entity": "31"}
+32	íntegro	_	Morality_evaluation	{"Evaluee": "12", "Behavior": "31"}
+33	como	_	Identicality	{}
+34	persona	_	People	{"Person": "34"}
+35	.	_		{}

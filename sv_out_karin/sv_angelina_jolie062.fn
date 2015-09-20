@@ -1,0 +1,42 @@
+1	Roger	_		{}
+2	Ebert	_		{}
+3	skrev	_		{}
+4	:	_		{}
+5	"	_		{}
+6	Angelina	_		{}
+7	Jolie	_		{}
+8	finner	_		{}
+9	en	_	Cardinal_numbers	{"Number": "9", "Entity": "11"}
+10	viss	_	Idiosyncrasy	{"Idiosyncrasy": "11", "Entity": "7"}
+11	värme	_		{}
+12	i	_		{}
+13	den	_		{}
+14	här	_		{}
+15	typen	_		{}
+16	av	_		{}
+17	roll	_	Performers_and_roles	{"Audience": "2", "Performer": "7"}
+18	som	_		{}
+19	är	_		{}
+20	ovanligt	_		{}
+21	hård	_		{}
+22	och	_	Simultaneity	{"Profiled_event": "21", "Landmark_event": "23"}
+23	aggressiv	_		{}
+24	;	_		{}
+25	hon	_		{}
+26	verkar	_	Appearance	{"Inference": "28"}
+27	för	_	Sufficiency	{"Enabled_situation": "34"}
+28	snäll	_	Social_interaction_evaluation	{"Behavior": "28", "Evaluee": "7", "Affected_party": "33"}
+29	för	_		{}
+30	att	_		{}
+31	vara	_	Being_in_category	{"Category": "34", "Item": "7"}
+32	en	_	Cardinal_numbers	{"Number": "32", "Entity": "34"}
+33	kriminells	_		{}
+34	flickvän	_	Personal_relationship	{"Partner_2": "7", "Relationship": "34", "Partner_1": "33"}
+35	,	_		{}
+36	och	_		{}
+37	hon	_		{}
+38	är	_		{}
+39	kanske	_	Likelihood	{"Hypothetical_event": "34"}
+40	det	_		{}
+41	"	_		{}
+42	.	_		{}

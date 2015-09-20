@@ -1,0 +1,34 @@
+1	De	_		{}
+2	tre	_	Cardinal_numbers	{"Number": "2", "Entity": "4"}
+3	sista	_	Ordinal_numbers	{"Comparison_set": "4"}
+4	böckerna	_	Text	{"Text": "4"}
+5	,	_		{}
+6	nummer	_		{}
+7	fem	_		{}
+8	,	_		{}
+9	sex	_		{}
+10	och	_		{}
+11	sju	_		{}
+12	,	_		{}
+13	föregicks	_		{}
+14	av	_		{}
+15	ännu	_		{}
+16	större	_		{}
+17	spekulationer	_		{}
+18	om	_		{}
+19	vad	_		{}
+20	som	_		{}
+21	ska	_		{}
+22	hända	_	Event	{"Place": "4"}
+23	,	_		{}
+24	rykten	_		{}
+25	,	_		{}
+26	och	_		{}
+27	till	_		{}
+28	och	_		{}
+29	med	_		{}
+30	falska	_	Artificiality	{"Entity": "31"}
+31	kapitel	_	Part_ordered_segments	{"Part_prop": "30", "Part": "31", "Whole": "33"}
+32	ur	_		{}
+33	böckerna	_	Text	{"Text": "33"}
+34	.	_		{}

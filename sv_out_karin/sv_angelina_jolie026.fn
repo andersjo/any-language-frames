@@ -1,0 +1,43 @@
+1	Under	_		{}
+2	tonåren	_	People_by_age	{"Person": "8", "Age": "2"}
+3	och	_		{}
+4	senare	_	Relative_time	{"Focal_occasion": "7"}
+5	i	_		{}
+6	20-årsåldern	_		{}
+7	led	_		{}
+8	hon	_		{}
+9	av	_		{}
+10	depressioner	_	Medical_conditions	{"Patient": "8", "Ailment": "10", "Symptom": "12"}
+11	med	_		{}
+12	självmordstankar	_		{}
+13	Hon	_		{}
+14	skadade	_	Medical_conditions	{"Patient": "13"}
+15	sig	_		{}
+16	själv	_	Proper_reference	{"Intended_referent": "13"}
+17	som	_		{}
+18	hon	_		{}
+19	senare	_	Relative_time	{"Focal_occasion": "20"}
+20	förklarat	_		{}
+21	med	_		{}
+22	att	_		{}
+23	det	_		{}
+24	fick	_		{}
+25	henne	_		{}
+26	att	_		{}
+27	"	_		{}
+28	känna	_	Perception_experience	{"Phenomenon": "31"}
+29	att	_		{}
+30	hon	_		{}
+31	levde	_		{}
+32	,	_		{}
+33	ett	_		{}
+34	slags	_		{}
+35	utlopp	_		{}
+36	och	_		{}
+37	på	_		{}
+38	sätt	_		{}
+39	och	_		{}
+40	vis	_		{}
+41	terapeutiskt	_		{}
+42	"	_		{}
+43	.	_		{}

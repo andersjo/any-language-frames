@@ -1,0 +1,22 @@
+1	Watching	_	Perception_active	{"Phenomenon": "2"}
+2	@TheApprentice9	_		{}
+3	and	_		{}
+4	one	_	Cardinal_numbers	{"Number": "4", "Entity": "8"}
+5	of	_		{}
+6	the	_		{}
+7	1st	_	Ordinal_numbers	{"Comparison_set": "9", "Item": "8"}
+8	things	_		{}
+9	out	_	Emotion_directed	{}
+10	of	_		{}
+11	@realDonaldTrump's	_		{}
+12	mouth	_	Observable_body_parts	{"Body_part": "12", "Possessor": "11"}
+13	mockingly	_		{}
+14	is	_	Existence	{"Entity": "8"}
+15	do	_		{}
+16	you	_		{}
+17	believe	_	Religious_belief	{"Believer": "16", "Element": "18"}
+18	in	_		{}
+19	global	_	Political_locales	{"Locale": "19"}
+20	warming	_	Temperature	{"Temperature": "20", "Entity": "19"}
+21	?	_		{}
+22	#AreYouEn	_		{}

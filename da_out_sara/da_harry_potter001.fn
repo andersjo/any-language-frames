@@ -1,0 +1,18 @@
+1	Harry	_		{}
+2	Potter	_		{}
+3	er	_		{}
+4	titlen	_	Documents	{"Document": "10", "Issuer": "15"}
+5	på	_		{}
+6	en	_		{}
+7	serie	_	Sequence	{"Entity1": "10"}
+8	af	_		{}
+9	syv	_	Cardinal_numbers	{"Number": "9", "Entity": "10"}
+10	bøger	_	Text	{"Topic": "1", "Text": "10", "Author": "16", "Title": "1"}
+11	skrevet	_	Text	{"Text": "10", "Author": "16"}
+12	af	_		{}
+13	den	_		{}
+14	engelske	_		{}
+15	forfatter	_	Source_of_getting	{"Source": "16", "Theme": "10", "Descriptor": "14"}
+16	J.K.	_		{}
+17	Rowling	_		{}
+18	.	_		{}

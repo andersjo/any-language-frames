@@ -1,0 +1,11 @@
+1	Voy	_		{}
+2	a	_		{}
+3	aprovechar	_	Usefulness	{"Purpose": "5", "Entity": "7"}
+4	a	_		{}
+5	pedirle	_	Expectation	{"Topic": "7", "Cognizer": "7", "Phenomenon": "10"}
+6	a	_		{}
+7	Harry	_		{}
+8	Potter	_		{}
+9	tres	_	Cardinal_numbers	{"Number": "9", "Entity": "10"}
+10	deseos	_	Desiring	{"Location_of_Event": "7", "Experiencer": "7", "Event": "5"}
+11	.	_		{}

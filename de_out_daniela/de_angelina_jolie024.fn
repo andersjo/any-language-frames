@@ -1,0 +1,21 @@
+1	Jolie	_		{}
+2	trug	_	Wearing	{"Clothing": "3", "Wearer": "1"}
+3	Kleidung	_	Clothing	{"Garment": "3"}
+4	aus	_		{}
+5	Secondhand-Läden	_		{}
+6	und	_		{}
+7	wurde	_		{}
+8	von	_		{}
+9	anderen	_	Increment	{"Class": "10"}
+10	Schülern	_	People_by_vocation	{"Person": "10"}
+11	auf	_		{}
+12	Grund	_	Reason	{"Action": "20", "State_of_Affairs": "15", "Agent": "10"}
+13	ihrer	_		{}
+14	ausgeprägten	_		{}
+15	Gesichtszüge	_		{}
+16	und	_	Simultaneity	{"Profiled_event": "15", "Landmark_event": "19"}
+17	äußerst	_		{}
+18	schlanken	_		{}
+19	Erscheinung	_		{}
+20	geneckt	_		{}
+21	.	_		{}

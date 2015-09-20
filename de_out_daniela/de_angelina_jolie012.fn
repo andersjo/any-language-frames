@@ -1,0 +1,18 @@
+1	Die	_		{}
+2	irokesische	_		{}
+3	Abstammung	_	Origin	{"Origin": "2", "Entity": "4"}
+4	Bertrands	_		{}
+5	sei	_		{}
+6	erfunden	_	Forging	{"Forgery": "2", "Purpose": "15", "Standard": "3"}
+7	worden	_		{}
+8	,	_		{}
+9	um	_		{}
+10	ihr	_		{}
+11	aus	_		{}
+12	Karrieregründen	_		{}
+13	ein	_		{}
+14	exotisches	_		{}
+15	Image	_	Impression	{"Impression": "14", "Figure": "10"}
+16	zu	_		{}
+17	verleihen	_	Creating	{"Created_entity": "15", "Purpose_of_created_entity": "12"}
+18	.	_		{}

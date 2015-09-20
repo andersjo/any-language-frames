@@ -1,0 +1,22 @@
+1	@der_P82	_		{}
+2	@JudithBrandner	_		{}
+3	Regierung	_	Leadership	{"Leader": "3"}
+4	macht	_	Cause_change	{"Final_category": "6", "Agent": "3"}
+5	immer	_	Frequency	{"Rate": "5", "Event": "6"}
+6	kälter	_		{}
+7	&	_		{}
+8	Lügenpresse	_		{}
+9	erzählt	_	Prevarication	{"Topic": "13", "Speaker": "8"}
+10	v	_		{}
+11	.	_		{}
+12	Global	_		{}
+13	Warming	_		{}
+14	!	_		{}
+15	Gegen	_		{}
+16	d	_		{}
+17	.	_		{}
+18	Auskühlung	_		{}
+19	d	_		{}
+20	.	_		{}
+21	Abendlandes	_		{}
+22	#schneegida	_		{}

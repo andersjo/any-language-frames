@@ -1,0 +1,22 @@
+1	International	_	Foreign_or_domestic_country	{"Current_country": "1"}
+2	Women's	_		{}
+3	Day	_	Calendric_unit	{"Name": "2", "Unit": "3"}
+4	(	_		{}
+5	IWD	_		{}
+6	)	_		{}
+7	,	_		{}
+8	also	_		{}
+9	called	_	Being_named	{"Name": "13", "Entity": "3"}
+10	International	_	Foreign_or_domestic_country	{"Current_country": "10"}
+11	Working	_	Being_employed	{"Employee": "12"}
+12	Women's	_		{}
+13	Day	_	Calendric_unit	{"Name": "12", "Unit": "13"}
+14	,	_		{}
+15	is	_		{}
+16	celebrated	_	Social_event	{"Honoree": "13", "Time": "17"}
+17	on	_		{}
+18	March	_	Calendric_unit	{"Unit": "18"}
+19	8	_	Cardinal_numbers	{"Number": "19"}
+20	every	_		{}
+21	year	_	Calendric_unit	{"Count": "20", "Unit": "21"}
+22	.	_		{}

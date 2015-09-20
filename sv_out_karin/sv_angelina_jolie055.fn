@@ -1,0 +1,16 @@
+1	Filmen	_		{}
+2	gjorde	_		{}
+3	ingen	_	Quantity	{"Mass": "4"}
+4	vinst	_	Earnings_and_losses	{"Earner": "1"}
+5	på	_		{}
+6	biograferna	_		{}
+7	men	_	Concessive	{"Topic": "2", "Main_statement": "8"}
+8	fick	_		{}
+9	kultstatus	_		{}
+10	när	_	Event_instance	{"Event": "12"}
+11	den	_		{}
+12	kom	_		{}
+13	ut	_		{}
+14	på	_		{}
+15	video	_		{}
+16	.	_		{}

@@ -1,0 +1,39 @@
+1	Den	_		{}
+2	efterfølgende	_	Relative_time	{"Focal_occasion": "3", "Focal_participant": "5"}
+3	sæson	_		{}
+4	vandt	_		{}
+5	Ronaldo	_		{}
+6	sin	_		{}
+7	første	_	Ordinal_numbers	{"Item": "8"}
+8	turnering	_	Competition	{"Participant_1": "5", "Competition": "10"}
+9	,	_		{}
+10	FA	_		{}
+11	Cup	_		{}
+12	,	_		{}
+13	og	_	Simultaneity	{"Profiled_event": "17", "Landmark_event": "2"}
+14	nåede	_		{}
+15	til	_		{}
+16	EM	_		{}
+17	2004-finalen	_		{}
+18	med	_		{}
+19	Portugal	_		{}
+20	,	_		{}
+21	hvor	_		{}
+22	han	_		{}
+23	blandt	_		{}
+24	andet	_		{}
+25	scorede	_		{}
+26	sit	_		{}
+27	første	_	Ordinal_numbers	{"Item": "28"}
+28	landskampsmål	_		{}
+29	mod	_		{}
+30	Grækenland	_		{}
+31	i	_		{}
+32	åbningskampen	_		{}
+33	som	_		{}
+34	Portugal	_		{}
+35	dog	_		{}
+36	alligevel	_	Concessive	{"Main_statement": "25", "Statement": "37"}
+37	tabte	_		{}
+38	1-2	_		{}
+39	.	_		{}

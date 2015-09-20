@@ -1,0 +1,13 @@
+1	Unbroken	_		{}
+2	was	_	Being_in_category	{"Category": "7", "Item": "1"}
+3	one	_	Cardinal_numbers	{"Number": "3", "Entity": "7"}
+4	of	_		{}
+5	the	_		{}
+6	best	_	Relational_quantity	{"Individuals": "7", "Reference_quantity": "3"}
+7	movies	_	Physical_artworks	{"Artifact": "7"}
+8	yet	_	Concessive	{}
+9	.	_		{}
+10	Props	_	Expertise	{}
+11	to	_		{}
+12	Angelina	_		{}
+13	Jolie	_		{}

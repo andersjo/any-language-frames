@@ -1,0 +1,40 @@
+1	Así	_		{}
+2	,	_		{}
+3	en	_		{}
+4	la	_		{}
+5	obra	_	Part_piece	{"Piece": "5", "Substance": "7"}
+6	de	_		{}
+7	teatro	_	Locale_by_event	{"Locale": "7", "Defining_event": "7"}
+8	"	_		{}
+9	Lisístrata	_		{}
+10	"	_		{}
+11	,	_		{}
+12	de	_		{}
+13	Aristófanes	_		{}
+14	(	_		{}
+15	siglo	_	Measure_duration	{"Count": "16", "Process": "17", "Unit": "15"}
+16	V	_	Shapes	{"Shape": "16", "Substance": "15"}
+17	a	_		{}
+18	.	_		{}
+19	C	_		{}
+20	.	_		{}
+21	)	_		{}
+22	,	_		{}
+23	situada	_	Locating	{"Ground": "27", "Location": "27", "Sought_entity": "39"}
+24	en	_		{}
+25	la	_		{}
+26	antigua	_	Age	{"Attribute": "27", "Age": "26", "Degree": "26", "Entity": "27"}
+27	Grecia	_		{}
+28	,	_		{}
+29	se	_		{}
+30	encuentra	_	Locating	{"Location": "27", "Sought_entity": "39", "Ground": "32"}
+31	un	_		{}
+32	referente	_		{}
+33	literario	_	Text	{"Text": "32"}
+34	de	_		{}
+35	la	_		{}
+36	lucha	_	Quarreling	{"Issue": "36", "Arguers": "39"}
+37	de	_		{}
+38	la	_		{}
+39	mujer	_	People	{"Person": "39"}
+40	.	_		{}

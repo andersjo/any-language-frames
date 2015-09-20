@@ -1,0 +1,29 @@
+1	Allí	_	Locative_relation	{"Figure": "2"}
+2	le	_		{}
+3	asignaron	_	Grant_permission	{"Grantee": "2", "Grantor": "1"}
+4	,	_		{}
+5	junto	_	Collaboration	{"Partners": "10"}
+6	al	_		{}
+7	resto	_	Aggregate	{"Aggregate": "2", "Individuals": "10"}
+8	de	_		{}
+9	sus	_		{}
+10	compañeros	_	Personal_relationship	{"Partners": "10"}
+11	,	_		{}
+12	psicólogos	_	Medical_professionals	{"Professional": "12"}
+13	,	_		{}
+14	tutores	_	Education_teaching	{"Precept": "18", "Institution": "1", "Student": "10"}
+15	personalizados	_		{}
+16	que	_		{}
+17	le	_		{}
+18	orientaban	_		{}
+19	en	_		{}
+20	sus	_		{}
+21	estudios	_	Working_on	{"Salient_entity": "10", "Goal": "21", "Agent": "14"}
+22	y	_		{}
+23	médicos	_	Medical_professionals	{"Professional": "23"}
+24	que	_		{}
+25	observaban	_	Scrutiny	{"Medium": "25", "Ground": "27"}
+26	su	_		{}
+27	crecimiento	_	Progress	{"Entity": "27"}
+28	físico	_	Type	{"Category": "27"}
+29	.	_		{}

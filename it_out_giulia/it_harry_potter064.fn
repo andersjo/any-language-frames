@@ -1,0 +1,19 @@
+1	Durante	_		{}
+2	lo	_		{}
+3	scontro	_	Hostile_encounter	{"Side_2": "4"}
+4	Sirius	_		{}
+5	perde	_	Losing	{"Possession": "7", "Owner": "4"}
+6	la	_		{}
+7	vita	_	Existence	{"Entity": "4"}
+8	,	_		{}
+9	facendo	_	Causation	{"Cause": "5", "Affected": "12", "Actor": "4"}
+10	perdere	_	Losing_someone	{"Sufferer": "12", "Deceased": "4"}
+11	a	_		{}
+12	Harry	_		{}
+13	la	_		{}
+14	persona	_	People	{"Person": "4"}
+15	a	_		{}
+16	lui	_		{}
+17	più	_		{}
+18	cara	_		{}
+19	.	_		{}

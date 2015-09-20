@@ -1,0 +1,23 @@
+1	Idag	_		{}
+2	blev	_		{}
+3	jag	_	Proper_reference	{"Intended_referent": "3"}
+4	ledsen	_	Emotion_directed	{"Stimulus": "12", "Topic": "23", "Experiencer": "3"}
+5	över	_		{}
+6	att	_		{}
+7	folk	_	People	{"Person": "7"}
+8	inte	_		{}
+9	:	_		{}
+10	1	_		{}
+11	.	_		{}
+12	Vet	_		{}
+13	vem	_		{}
+14	Paul	_		{}
+15	McCartney	_		{}
+16	är	_		{}
+17	2	_		{}
+18	.	_		{}
+19	Vet	_		{}
+20	hur	_		{}
+21	man	_	People	{"Person": "7"}
+22	använder	_		{}
+23	Google	_		{}

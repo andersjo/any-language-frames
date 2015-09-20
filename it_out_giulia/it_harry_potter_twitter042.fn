@@ -1,0 +1,25 @@
+1	Sono	_		{}
+2	sotto	_		{}
+3	le	_		{}
+4	coperte	_		{}
+5	a	_		{}
+6	fare	_		{}
+7	teologia	_		{}
+8	con	_		{}
+9	la	_		{}
+10	torcia	_		{}
+11	elettrica	_	Electricity	{"Source": "10"}
+12	,	_		{}
+13	mi	_		{}
+14	sento	_	Feeling	{}
+15	tanto	_		{}
+16	Harry	_		{}
+17	Potter	_		{}
+18	che	_		{}
+19	faceva	_		{}
+20	i	_		{}
+21	compiti	_		{}
+22	di	_		{}
+23	nascosto	_	Secrecy_status	{"Phenomenon": "21"}
+24	la	_		{}
+25	notte	_	Calendric_unit	{"Relative_time": "25"}

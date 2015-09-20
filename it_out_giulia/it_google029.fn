@@ -1,0 +1,38 @@
+1	Più	_		{}
+2	in	_		{}
+3	particolare	_		{}
+4	,	_		{}
+5	il	_		{}
+6	piano	_	Project	{"Manner": "12", "Agent": "8", "Goal": "17"}
+7	di	_		{}
+8	Calico	_		{}
+9	è	_		{}
+10	quello	_		{}
+11	di	_		{}
+12	utilizzare	_	Using	{"Instrument": "14", "Purpose": "17"}
+13	la	_		{}
+14	tecnologia	_	Gizmo	{"Gizmo": "14"}
+15	avanzata	_	Progress	{"Entity": "14"}
+16	per	_		{}
+17	aumentare	_	Cause_expansion	{"Item": "19"}
+18	la	_		{}
+19	comprensione	_		{}
+20	della	_		{}
+21	biologia	_		{}
+22	che	_		{}
+23	controlla	_	Control	{"Controlling_entity": "25", "Dependent_entity": "21"}
+24	la	_		{}
+25	durata	_		{}
+26	della	_		{}
+27	vita	_	Existence	{}
+28	,	_		{}
+29	e	_		{}
+30	di	_		{}
+31	utilizzare	_	Using	{"Instrument": "33", "Purpose": "37"}
+32	tale	_		{}
+33	conoscenza	_	Expertise	{}
+34	per	_		{}
+35	aumentarne	_		{}
+36	la	_		{}
+37	longevità	_	Age	{"Attribute": "37"}
+38	.	_		{}

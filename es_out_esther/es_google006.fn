@@ -1,0 +1,35 @@
+1	La	_		{}
+2	empresa	_	Businesses	{"Business": "2"}
+3	es	_	Being_in_category	{"Category": "9", "Item": "2", "Criteria": "8"}
+4	y	_		{}
+5	ha	_		{}
+6	sido	_		{}
+7	criticada	_	Judgment_communication	{"Topic": "9", "Reason": "8", "Evaluee": "2"}
+8	por	_		{}
+9	colaborar	_	Collaboration	{"Undertaking": "15", "Partner_2": "12", "Partner_1": "2"}
+10	con	_		{}
+11	determinados	_	Purpose	{}
+12	países	_	Political_locales	{"Locale": "12"}
+13	en	_		{}
+14	la	_		{}
+15	censura	_	Judgment_communication	{"Topic": "15", "Reason": "20", "Medium": "17", "Evaluee": "2"}
+16	de	_		{}
+17	Internet	_	Network	{"Connections": "17"}
+18	con	_		{}
+19	el	_		{}
+20	afán	_	Desiring	{"Location_of_Event": "25", "Focal_participant": "2", "Experiencer": "12", "Event": "22"}
+21	de	_		{}
+22	expandirse	_	Expansion	{"Item": "2"}
+23	comercialmente	_		{}
+24	en	_		{}
+25	ellos	_	Measure_volume	{"Count": "12", "Stuff": "12", "Unit": "12"}
+26	y	_		{}
+27	por	_		{}
+28	la	_		{}
+29	infracción	_	Compliance	{"Protagonist": "2", "State_of_Affairs": "29", "Norm": "32", "Act": "29"}
+30	reiterada	_		{}
+31	de	_		{}
+32	derechos	_	Claim_ownership	{"Property": "32", "Claimant": "34"}
+33	de	_		{}
+34	autor	_	Performers	{"Person": "34"}
+35	.	_		{}

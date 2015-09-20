@@ -1,0 +1,20 @@
+1	Tout	_		{}
+2	a	_		{}
+3	l'heure	_		{}
+4	dans	_		{}
+5	la	_		{}
+6	voiture	_	Vehicle	{"Vehicle": "6"}
+7	j'ai	_		{}
+8	lu	_		{}
+9	la	_		{}
+10	moitié	_	Part_whole	{"Part": "10", "Whole": "11"}
+11	d'harry	_		{}
+12	potter	_		{}
+13	,	_		{}
+14	jme	_		{}
+15	sentais	_	Feeling	{"Emotion": "17", "Experiencer": "14"}
+16	en	_		{}
+17	L	_		{}
+18	pour	_		{}
+19	une	_		{}
+20	fois	_		{}

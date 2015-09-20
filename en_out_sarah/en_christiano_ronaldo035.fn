@@ -1,0 +1,22 @@
+1	Ronaldo	_		{}
+2	was	_	Being_in_category	{"Category": "3", "Item": "1"}
+3	popular	_	Popularity	{"Judge": "6", "Place": "7", "Evaluee": "1"}
+4	with	_		{}
+5	other	_		{}
+6	students	_	People_by_vocation	{"Person": "6"}
+7	at	_		{}
+8	school	_	Locale_by_use	{"Locale": "8"}
+9	,	_		{}
+10	but	_	Concessive	{"Topic": "12", "Main_statement": "2"}
+11	he	_		{}
+12	was	_		{}
+13	expelled	_	Exclude_member	{"Member": "11"}
+14	after	_	Relative_time	{"Focal_occasion": "12", "Focal_participant": "11", "Landmark_occasion": "16"}
+15	he	_		{}
+16	threw	_	Cause_motion	{"Theme": "18", "Goal": "19", "Agent": "15"}
+17	a	_		{}
+18	chair	_		{}
+19	at	_		{}
+20	his	_		{}
+21	teacher	_		{}
+22	.	_		{}

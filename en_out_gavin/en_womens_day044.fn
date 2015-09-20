@@ -1,0 +1,27 @@
+1	Secretary	_	Leadership	{"Domain": "2", "Leader": "5"}
+2	of	_		{}
+3	State	_	Political_locales	{"Locale": "3"}
+4	Hillary	_		{}
+5	Clinton	_		{}
+6	launched	_	Launch_process	{"Process": "11", "Agent": "5", "Time": "22"}
+7	the	_		{}
+8	"	_		{}
+9	100	_	Cardinal_numbers	{"Number": "9", "Entity": "10"}
+10	Women	_	People	{"Person": "10"}
+11	Initiative	_	Ordinal_numbers	{}
+12	:	_		{}
+13	Empowering	_	Grant_permission	{"Grantee": "14", "Grantor": "11", "Means": "17"}
+14	Women	_	People	{"Person": "14"}
+15	and	_		{}
+16	Girls	_	People	{"Person": "16"}
+17	through	_		{}
+18	International	_	Foreign_or_domestic_country	{"Current_country": "18"}
+19	Exchanges	_	Exchange	{}
+20	"	_		{}
+21	,	_		{}
+22	on	_		{}
+23	the	_		{}
+24	eve	_	Calendric_unit	{"Whole": "26", "Unit": "24"}
+25	of	_		{}
+26	IWD	_		{}
+27	.	_		{}

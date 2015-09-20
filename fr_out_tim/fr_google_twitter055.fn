@@ -1,0 +1,26 @@
+1	La	_		{}
+2	question	_	Questioning	{"Speaker": "3"}
+3	minitel	_		{}
+4	du	_		{}
+5	mâche	_		{}
+6	#ASSEASNL	_		{}
+7	est	_		{}
+8	là	_	Locative_relation	{"Figure": "2", "Ground": "8"}
+9	:	_		{}
+10	https://t.co/g2rHmHwglF	_		{}
+11	1e	_	Ordinal_numbers	{"Item": "12"}
+12	question	_	Questioning	{}
+13	de	_		{}
+14	l'année	_		{}
+15	,	_		{}
+16	ne	_		{}
+17	la	_		{}
+18	laisser	_	Make_possible_to_do	{"Enabled_action": "20"}
+19	pas	_		{}
+20	tomber	_	Motion_directional	{"Theme": "12"}
+21	(	_		{}
+22	elle	_		{}
+23	est	_		{}
+24	si	_	Degree	{"Gradable_attribute": "25"}
+25	fragile	_		{}
+26	)	_		{}

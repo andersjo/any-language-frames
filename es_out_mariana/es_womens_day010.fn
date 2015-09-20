@@ -1,0 +1,22 @@
+1	La	_		{}
+2	protagonista	_	Performers_and_roles	{"Performance": "4", "Performer": "2", "Role": "4", "Script": "4"}
+3	,	_		{}
+4	Lisístrata	_		{}
+5	,	_		{}
+6	realiza	_	Intentionally_create	{"Created_entity": "8", "Purpose": "14", "Creator": "2"}
+7	una	_		{}
+8	huelga	_		{}
+9	sexual	_		{}
+10	contra	_		{}
+11	los	_		{}
+12	hombres	_	People	{"Person": "12"}
+13	para	_		{}
+14	forzar	_	Enforcing	{"Medium": "8"}
+15	que	_		{}
+16	estos	_	Proper_reference	{"Intended_referent": "16", "Entity": "12"}
+17	pongan	_	Closure	{"Means": "8", "Agent": "12", "Containing_object": "21"}
+18	fin	_	Activity_stop	{"Explanation": "8", "Agent": "8"}
+19	a	_		{}
+20	la	_		{}
+21	guerra	_	Hostile_encounter	{"Side_2": "21"}
+22	.	_		{}

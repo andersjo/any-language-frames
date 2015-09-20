@@ -1,0 +1,16 @@
+1	There	_		{}
+2	are	_	Existence	{"Place": "7", "Entity": "6"}
+3	also	_		{}
+4	many	_	Quantity	{"Individuals": "6", "Quantity": "4"}
+5	other	_		{}
+6	themes	_	Topic	{"Topic": "6", "Text": "9"}
+7	in	_		{}
+8	the	_		{}
+9	series	_	Sequence	{"Entity1": "9"}
+10	,	_		{}
+11	such	_		{}
+12	as	_		{}
+13	prejudice	_	Partiality	{}
+14	and	_		{}
+15	corruption	_	Morality_evaluation	{}
+16	.	_		{}

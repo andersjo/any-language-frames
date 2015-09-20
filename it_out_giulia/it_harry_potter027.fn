@@ -1,0 +1,80 @@
+1	Dagli	_		{}
+2	aspetti	_		{}
+3	prettamente	_		{}
+4	adolescenziali	_		{}
+5	come	_		{}
+6	le	_		{}
+7	ribellioni	_		{}
+8	,	_		{}
+9	la	_		{}
+10	fiducia	_		{}
+11	in	_		{}
+12	sé	_	Proper_reference	{}
+13	stessi	_		{}
+14	,	_		{}
+15	la	_		{}
+16	curiosità	_		{}
+17	,	_		{}
+18	la	_		{}
+19	scoperta	_	Becoming_aware	{"Phenomenon": "20"}
+20	dell'amore	_		{}
+21	,	_		{}
+22	l'impulsività	_		{}
+23	e	_		{}
+24	i	_		{}
+25	relativi	_		{}
+26	errori	_		{}
+27	si	_		{}
+28	passa	_	Arriving	{"Goal": "30"}
+29	a	_		{}
+30	elementi	_		{}
+31	molto	_	Degree	{"Gradable_attribute": "31"}
+32	più	_		{}
+33	maturi	_	Progress	{"Entity": "30"}
+34	come	_		{}
+35	il	_		{}
+36	potere	_	Leadership	{"Type": "37"}
+37	politico	_		{}
+38	,	_		{}
+39	le	_		{}
+40	strumentalizzazioni	_		{}
+41	mediatiche	_		{}
+42	,	_		{}
+43	il	_		{}
+44	razzismo	_		{}
+45	,	_		{}
+46	l'immaturità	_		{}
+47	e	_		{}
+48	le	_		{}
+49	paure	_	Fear	{"Stimulus": "49"}
+50	degli	_		{}
+51	adulti	_	People_by_age	{"Person": "51"}
+52	,	_		{}
+53	l'oppressione	_		{}
+54	del	_		{}
+55	più	_		{}
+56	debole	_		{}
+57	,	_		{}
+58	la	_		{}
+59	vecchiaia	_	Age	{"Attribute": "59"}
+60	e	_		{}
+61	i	_		{}
+62	suoi	_		{}
+63	errori	_		{}
+64	,	_		{}
+65	la	_		{}
+66	depressione	_	Emotion_directed	{"State": "66"}
+67	e	_		{}
+68	la	_		{}
+69	morte	_	Death	{}
+70	,	_		{}
+71	a	_		{}
+72	detta	_		{}
+73	dell'autrice	_		{}
+74	stessa	_		{}
+75	come	_		{}
+76	tema	_	Topic	{"Topic": "69", "Text": "79"}
+77	principale	_	Importance	{"Interested_party": "79", "Undertaking": "69"}
+78	della	_		{}
+79	saga	_		{}
+80	.	_		{}

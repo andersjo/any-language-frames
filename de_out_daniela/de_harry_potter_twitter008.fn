@@ -1,0 +1,14 @@
+1	So	_		{}
+2	.	_		{}
+3	Jetzt	_	Temporal_collocation	{"Trajector_event": "8", "Landmark_period": "3"}
+4	wird	_		{}
+5	erstmal	_		{}
+6	Harry	_		{}
+7	Potter	_		{}
+8	geschaut	_	Perception_active	{"Phenomenon": "7"}
+9	.	_		{}
+10	Also	_		{}
+11	alle	_		{}
+12	Teile	_	Part_whole	{"Part": "12", "Part_Prop": "11"}
+13	…	_		{}
+14	xD	_		{}

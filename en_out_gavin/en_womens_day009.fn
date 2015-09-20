@@ -1,0 +1,25 @@
+1	In	_		{}
+2	August	_	Calendric_unit	{"Unit": "2"}
+3	1910	_		{}
+4	,	_		{}
+5	an	_	Cardinal_numbers	{"Number": "5"}
+6	International	_	Foreign_or_domestic_country	{"Current_country": "6"}
+7	Women's	_		{}
+8	Conference	_	Organization	{"Descriptor": "6", "Members": "7", "Organization": "8"}
+9	was	_		{}
+10	organized	_	Activity_prepare	{"Time": "1", "Activity": "8"}
+11	to	_		{}
+12	precede	_	Relative_time	{"Focal_occasion": "9", "Landmark_occasion": "15"}
+13	the	_		{}
+14	general	_	Appellations	{}
+15	meeting	_	Social_event	{"Descriptor": "14"}
+16	of	_		{}
+17	the	_		{}
+18	Socialist	_		{}
+19	Second	_	Ordinal_numbers	{"Item": "20"}
+20	International	_	Foreign_or_domestic_country	{"Current_country": "20"}
+21	in	_		{}
+22	Copenhagen	_		{}
+23	,	_		{}
+24	Denmark	_		{}
+25	.	_		{}

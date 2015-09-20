@@ -1,0 +1,24 @@
+1	Det	_		{}
+2	nyeste	_		{}
+3	påfund	_		{}
+4	er	_		{}
+5	Google	_		{}
+6	Earth	_		{}
+7	,	_		{}
+8	hvor	_		{}
+9	man	_	People	{"Person": "9"}
+10	tilbyder	_		{}
+11	adgang	_	Having_or_lacking_access	{"Theme": "13"}
+12	til	_		{}
+13	satellitfotografier	_		{}
+14	af	_		{}
+15	områder	_		{}
+16	på	_		{}
+17	jorden	_	Locale	{"Locale": "17", "Constituent_parts": "15"}
+18	,	_		{}
+19	herunder	_		{}
+20	især	_		{}
+21	den	_		{}
+22	vestlige	_	Part_orientational	{"Part": "22", "Whole": "23"}
+23	verden	_	Locale	{"Locale": "23", "Relative_location": "22"}
+24	.	_		{}

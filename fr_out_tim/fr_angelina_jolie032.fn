@@ -1,0 +1,18 @@
+1	Les	_		{}
+2	autres	_		{}
+3	élèves	_	Education_teaching	{"Student": "3"}
+4	se	_		{}
+5	moquent	_	Judgment_communication	{"Topic": "6", "Communicator": "3", "Evaluee": "7"}
+6	de	_		{}
+7	sa	_		{}
+8	minceur	_		{}
+9	,	_		{}
+10	de	_		{}
+11	ses	_		{}
+12	lunettes	_	Accoutrements	{"Accoutrement": "12"}
+13	et	_		{}
+14	de	_		{}
+15	son	_		{}
+16	appareil	_		{}
+17	dentaire	_		{}
+18	.	_		{}

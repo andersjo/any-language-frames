@@ -1,0 +1,13 @@
+1	@isabellagiove	_		{}
+2	@HogwartsLogics	_		{}
+3	whenever	_	Event_instance	{"Event": "5"}
+4	I	_		{}
+5	see	_	Perception_experience	{"Phenomenon": "6", "Perceiver_passive": "4"}
+6	harry	_		{}
+7	potter	_		{}
+8	I	_		{}
+9	automatically	_		{}
+10	think	_	Cogitation	{"Topic": "12", "Cognizer": "8", "Manner": "9"}
+11	of	_		{}
+12	you	_		{}
+13	😂	_		{}

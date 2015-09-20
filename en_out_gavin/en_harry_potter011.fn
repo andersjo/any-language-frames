@@ -1,0 +1,25 @@
+1	The	_		{}
+2	series	_	Sequence	{"Entity1": "2"}
+3	was	_		{}
+4	originally	_		{}
+5	printed	_	Text_creation	{"Text": "2", "Author": "8"}
+6	in	_		{}
+7	English	_	People_by_origin	{"Origin": "7"}
+8	by	_		{}
+9	two	_	Cardinal_numbers	{"Number": "9", "Entity": "11"}
+10	major	_	Importance	{}
+11	publishers	_		{}
+12	,	_		{}
+13	Bloomsbury	_		{}
+14	in	_		{}
+15	the	_		{}
+16	United	_	Amalgamation	{"Whole": "17"}
+17	Kingdom	_	Political_locales	{"Locale": "17", "Name": "16"}
+18	and	_		{}
+19	Scholastic	_		{}
+20	Press	_		{}
+21	in	_		{}
+22	the	_		{}
+23	United	_	Amalgamation	{"Parts": "24"}
+24	States	_	Political_locales	{"Locale": "24", "Name": "23"}
+25	.	_		{}

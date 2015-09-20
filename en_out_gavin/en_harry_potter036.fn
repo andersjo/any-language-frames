@@ -1,0 +1,17 @@
+1	With	_		{}
+2	Hagrid's	_		{}
+3	help	_	Assistance	{"Benefited_party": "5", "Place": "15", "Helper": "2"}
+4	,	_		{}
+5	Harry	_		{}
+6	prepares	_	Activity_prepare	{"Agent": "5", "Activity": "14"}
+7	for	_		{}
+8	and	_		{}
+9	undertakes	_	Attempt	{"Agent": "5"}
+10	his	_		{}
+11	first	_	First_experience	{"Experience": "12"}
+12	year	_	Calendric_unit	{"Unit": "12"}
+13	of	_		{}
+14	study	_	Studying	{"Student": "5"}
+15	at	_		{}
+16	Hogwarts	_		{}
+17	.	_		{}

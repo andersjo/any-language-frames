@@ -1,0 +1,32 @@
+1	Its	_		{}
+2	mission	_		{}
+3	statement	_	Statement	{"Topic": "2", "Message": "8", "Speaker": "1"}
+4	from	_		{}
+5	the	_		{}
+6	outset	_	Process_start	{"Time": "6"}
+7	was	_	Communicate_categorization	{"Category": "8", "Item": "2", "Medium": "3", "Speaker": "1"}
+8	"	_		{}
+9	to	_		{}
+10	organize	_	Reshaping	{"Undergoer": "13"}
+11	the	_		{}
+12	world's	_		{}
+13	information	_	Information	{"Information": "12"}
+14	and	_	Simultaneity	{"Profiled_event": "15", "Landmark_event": "10"}
+15	make	_	Cause_change	{"Final_value": "19", "Initial_category": "16"}
+16	it	_		{}
+17	universally	_		{}
+18	accessible	_	Having_or_lacking_access	{"Theme": "16"}
+19	and	_	Simultaneity	{"Profiled_event": "18", "Landmark_event": "20"}
+20	useful	_		{}
+21	,	_		{}
+22	"	_		{}
+23	and	_	Simultaneity	{"Profiled_event": "3", "Landmark_event": "26"}
+24	its	_		{}
+25	unofficial	_		{}
+26	slogan	_		{}
+27	was	_	Communicate_categorization	{}
+28	"	_		{}
+29	Don't	_		{}
+30	be	_		{}
+31	evil	_		{}
+32	.	_		{}

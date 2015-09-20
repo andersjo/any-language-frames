@@ -1,0 +1,18 @@
+1	La	_		{}
+2	madre	_	Kinship	{"Alter": "2"}
+3	scelse	_	Choosing	{"Possibilities": "7", "Cognizer": "2", "Chosen": "8"}
+4	come	_	Identicality	{}
+5	suo	_		{}
+6	secondo	_	Ordinal_numbers	{"Comparison_set": "7", "Item": "8", "Type": "7"}
+7	nome	_	Being_named	{"Name": "8"}
+8	Jolie	_		{}
+9	,	_		{}
+10	che	_		{}
+11	in	_		{}
+12	lingua	_		{}
+13	francese	_	Origin	{"Entity": "8"}
+14	significa	_	Linguistic_meaning	{"Meaning": "16", "Form": "8"}
+15	"	_		{}
+16	carina	_		{}
+17	"	_		{}
+18	.	_		{}

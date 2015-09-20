@@ -1,0 +1,39 @@
+1	The	_		{}
+2	series	_	Sequence	{"Entity1": "2"}
+3	chronicles	_	Individual_history	{"Participant": "9", "Events": "5"}
+4	the	_		{}
+5	adventures	_	Run_risk	{"Protagonist": "9"}
+6	of	_		{}
+7	a	_	Cardinal_numbers	{"Number": "7", "Entity": "9"}
+8	young	_	People_by_age	{"Person": "9", "Age": "8"}
+9	wizard	_	Performers_and_roles	{"Performer": "9"}
+10	,	_		{}
+11	Harry	_		{}
+12	Potter	_		{}
+13	,	_		{}
+14	the	_		{}
+15	titular	_		{}
+16	character	_	Performers_and_roles	{"Role": "16"}
+17	,	_		{}
+18	and	_		{}
+19	his	_		{}
+20	friends	_	Personal_relationship	{"Partner_2": "22", "Partner_1": "12"}
+21	Ronald	_		{}
+22	Weasley	_		{}
+23	and	_		{}
+24	Hermione	_		{}
+25	Granger	_		{}
+26	,	_		{}
+27	all	_	Quantity	{"Individuals": "29", "Quantity": "27"}
+28	of	_		{}
+29	whom	_		{}
+30	are	_	Being_in_category	{"Category": "31", "Item": "27"}
+31	students	_	People_by_vocation	{"Person": "27", "Place_of_employment": "32"}
+32	at	_		{}
+33	Hogwarts	_		{}
+34	School	_	Locale_by_use	{"Locale": "34", "Name": "33"}
+35	of	_		{}
+36	Witchcraft	_		{}
+37	and	_		{}
+38	Wizardry	_	Leadership	{"Activity": "38"}
+39	.	_		{}

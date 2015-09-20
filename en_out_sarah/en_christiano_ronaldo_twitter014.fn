@@ -1,0 +1,25 @@
+1	@TC_0fficial	_		{}
+2	that's	_		{}
+3	just	_		{}
+4	not	_		{}
+5	true	_	Artificiality	{"Entity": "2"}
+6	though	_		{}
+7	is	_	Being_in_category	{"Category": "5", "Item": "8"}
+8	it	_		{}
+9	,	_		{}
+10	OK	_		{}
+11	Scholes	_		{}
+12	won	_	Win_prize	{"Competitor": "11", "Prize": "14"}
+13	a	_	Cardinal_numbers	{"Number": "13", "Entity": "14"}
+14	league	_	Organization	{"Organization": "14"}
+15	title	_	Documents	{"Document": "15"}
+16	playing	_	Performers_and_roles	{"Performer1": "11", "Performer2": "18"}
+17	off	_		{}
+18	Christiano	_		{}
+19	Ronaldo	_		{}
+20	,	_		{}
+21	whilst	_		{}
+22	Gerrard	_		{}
+23	won	_	Win_prize	{"Competitor": "22", "Prize": "25"}
+24	a	_	Cardinal_numbers	{"Number": "24", "Entity": "25"}
+25	CL	_		{}

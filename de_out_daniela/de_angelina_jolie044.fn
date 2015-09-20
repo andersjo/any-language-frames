@@ -1,0 +1,53 @@
+1	Trotz	_		{}
+2	ihres	_		{}
+3	verdrießlichen	_		{}
+4	Auftretens	_		{}
+5	,	_		{}
+6	und	_		{}
+7	das	_		{}
+8	ist	_		{}
+9	alles	_		{}
+10	,	_		{}
+11	was	_		{}
+12	die	_		{}
+13	Rolle	_		{}
+14	erfordert	_	Required_event	{"Required_situation": "7"}
+15	,	_		{}
+16	hat	_	Inclusion	{}
+17	Frau	_	People	{"Person": "18"}
+18	Jolie	_		{}
+19	das	_		{}
+20	süße	_	Desirability	{"Evaluee": "22"}
+21	engelhafte	_		{}
+22	Aussehen	_	Appearance	{"Appraisal": "20", "Phenomenon": "22", "Characterization": "21"}
+23	ihres	_		{}
+24	Vaters	_	Kinship	{"Ego": "18", "Alter": "26"}
+25	Jon	_		{}
+26	Voight	_		{}
+27	geerbt	_		{}
+28	.	_		{}
+29	“	_		{}
+30	Der	_		{}
+31	Film	_	Physical_artworks	{"Artifact": "31"}
+32	spielte	_	Intentionally_affect	{"Patient": "34", "Agent": "31"}
+33	keinen	_		{}
+34	Gewinn	_	Earnings_and_losses	{"Earnings": "34"}
+35	an	_		{}
+36	den	_		{}
+37	Kinokassen	_		{}
+38	ein	_		{}
+39	,	_		{}
+40	entwickelte	_	Coming_to_be	{"Entity": "45"}
+41	sich	_		{}
+42	aber	_		{}
+43	zu	_		{}
+44	einem	_		{}
+45	Kulthit	_		{}
+46	,	_		{}
+47	nachdem	_		{}
+48	er	_		{}
+49	auf	_		{}
+50	Video	_		{}
+51	erschienen	_	Coming_to_be	{"Entity": "50"}
+52	war	_		{}
+53	.	_		{}

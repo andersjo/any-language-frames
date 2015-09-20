@@ -1,0 +1,11 @@
+1	In	_		{}
+2	the	_		{}
+3	Austro-Hungarian	_		{}
+4	Empire	_	Political_locales	{"Locale": "4", "Name": "3"}
+5	alone	_	Sole_instance	{}
+6	,	_		{}
+7	there	_		{}
+8	were	_	Existence	{"Place": "1", "Entity": "10"}
+9	300	_		{}
+10	demonstrations	_	Reasoning	{"Medium": "10"}
+11	.	_		{}

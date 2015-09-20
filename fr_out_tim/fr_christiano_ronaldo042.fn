@@ -1,0 +1,18 @@
+1	L'avenir	_		{}
+2	de	_		{}
+3	Cristiano	_		{}
+4	Ronaldo	_		{}
+5	bascule	_		{}
+6	à	_		{}
+7	18	_		{}
+8	ans	_	Age	{"Age": "7", "Entity": "4"}
+9	le	_		{}
+10	,	_		{}
+11	lors	_	Temporal_collocation	{"Trajector_event": "5", "Landmark_event": "13"}
+12	de	_		{}
+13	l'inauguration	_		{}
+14	du	_		{}
+15	stade	_	Buildings	{"Building": "15"}
+16	Alvalade	_		{}
+17	XXI	_		{}
+18	.	_		{}

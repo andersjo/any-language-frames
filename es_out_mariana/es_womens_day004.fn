@@ -1,0 +1,37 @@
+1	La	_		{}
+2	primera	_	First_experience	{"Context": "3", "Experience": "3"}
+3	celebración	_	Social_event	{"Attendee": "20", "Honoree": "10", "Degree": "7", "Descriptor": "7", "Place": "20", "Manner": "3", "Time": "18", "Duration": "6"}
+4	del	_		{}
+5	"	_		{}
+6	Día	_		{}
+7	Internacional	_		{}
+8	de	_		{}
+9	la	_		{}
+10	Mujer	_	People	{"Person": "10", "Context_of_acquaintance": "7"}
+11	"	_		{}
+12	tuvo	_	Becoming	{"Explanation": "3", "Entity": "3", "Reason": "3", "Place": "20", "Manner": "3", "Time": "18"}
+13	lugar	_		{}
+14	el	_		{}
+15	19	_		{}
+16	de	_		{}
+17	marzo	_	Calendric_unit	{"Salient_event": "6", "Whole": "18", "Name": "17", "Relative_time": "17"}
+18	1911	_		{}
+19	en	_		{}
+20	Alemania	_		{}
+21	,	_		{}
+22	Austria	_		{}
+23	,	_		{}
+24	Dinamarca	_		{}
+25	y	_	Simultaneity	{"Profiled_event": "26", "Landmark_event": "24"}
+26	Suiza	_	Origin	{"Origin": "26"}
+27	extendiéndose	_		{}
+28	su	_		{}
+29	conmemoración	_		{}
+30	,	_		{}
+31	desde	_		{}
+32	entonces	_	Temporal_collocation	{"Trajector_event": "35", "Landmark_entity": "4", "Landmark_period": "20"}
+33	,	_		{}
+34	a	_		{}
+35	numerosos	_	Quantity	{"Individuals": "36", "Mass": "36", "Degree": "35", "Quantity": "35"}
+36	países	_	Political_locales	{"Locale": "36"}
+37	.	_		{}

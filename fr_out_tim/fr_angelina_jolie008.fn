@@ -1,0 +1,28 @@
+1	Angelina	_		{}
+2	commence	_	Activity_start	{"Agent": "1", "Activity": "4"}
+3	sa	_		{}
+4	carrière	_		{}
+5	d'actrice	_		{}
+6	avec	_		{}
+7	le	_		{}
+8	film	_	Physical_artworks	{"Artifact": "8"}
+9	à	_		{}
+10	petit	_	Size	{"Entity": "11"}
+11	budget	_		{}
+12	"	_		{}
+13	Cyborg	_		{}
+14	2	_		{}
+15	"	_		{}
+16	(	_		{}
+17	1993	_		{}
+18	)	_		{}
+19	,	_		{}
+20	tandis	_		{}
+21	qu'elle	_		{}
+22	n'est	_		{}
+23	âgée	_		{}
+24	que	_		{}
+25	de	_		{}
+26	18	_		{}
+27	ans	_	Age	{"Age": "26", "Entity": "1"}
+28	.	_		{}

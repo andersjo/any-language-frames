@@ -1,0 +1,33 @@
+1	De	_		{}
+2	engelske	_		{}
+3	medier	_		{}
+4	spekulerede	_		{}
+5	i	_		{}
+6	,	_		{}
+7	om	_		{}
+8	Ronaldo	_		{}
+9	havde	_		{}
+10	indflydelse	_	Influence_of_event_on_cognizer	{"Action": "15", "Cognizer": "14", "Protagonist": "8"}
+11	på	_		{}
+12	dommer	_	People_by_vocation	{"Person": "14"}
+13	Horacio	_		{}
+14	Elizondos	_		{}
+15	beslutning	_	Deciding	{"Cognizer": "14", "Decision": "15"}
+16	med	_		{}
+17	aggressive	_		{}
+18	beklagelser	_		{}
+19	,	_		{}
+20	hvorefter	_		{}
+21	Ronaldo	_		{}
+22	var	_		{}
+23	blevet	_		{}
+24	set	_		{}
+25	blinke	_	Body_movement	{"Body_part": "25", "Agent": "21"}
+26	til	_		{}
+27	den	_		{}
+28	portugisiske	_		{}
+29	bænk	_		{}
+30	efter	_		{}
+31	Rooneys	_		{}
+32	udvisning	_		{}
+33	.	_		{}

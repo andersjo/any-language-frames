@@ -1,0 +1,33 @@
+1	Jolie	_		{}
+2	promotes	_	Subjective_influence	{"Product": "4", "Agent": "1"}
+3	humanitarian	_		{}
+4	causes	_		{}
+5	,	_		{}
+6	and	_	Simultaneity	{}
+7	is	_		{}
+8	noted	_	Fame	{"Reason": "10", "Role": "20", "Entity": "1"}
+9	for	_		{}
+10	her	_		{}
+11	work	_		{}
+12	with	_		{}
+13	refugees	_		{}
+14	as	_		{}
+15	a	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	Special	_	Idiosyncrasy	{"Idiosyncrasy": "16", "Entity": "1"}
+17	Envoy	_		{}
+18	and	_	Simultaneity	{}
+19	former	_	Age	{}
+20	Goodwill	_		{}
+21	Ambassador	_		{}
+22	for	_		{}
+23	the	_		{}
+24	United	_	Amalgamation	{"Parts": "25", "Whole": "24"}
+25	Nations	_	Political_locales	{"Locale": "25", "Name": "24"}
+26	High	_	Measurable_attributes	{"Entity": "27"}
+27	Commissioner	_		{}
+28	for	_		{}
+29	Refugees	_		{}
+30	(	_		{}
+31	UNHCR	_		{}
+32	)	_		{}
+33	.	_		{}

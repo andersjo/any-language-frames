@@ -1,0 +1,26 @@
+1	Page	_		{}
+2	and	_		{}
+3	Brin	_		{}
+4	originally	_		{}
+5	nicknamed	_	Name_conferral	{"Motivation": "14", "Speaker": "1", "Name": "11", "Entity": "9"}
+6	their	_		{}
+7	new	_	Age	{"Age": "7", "Entity": "9"}
+8	search	_	Seeking	{}
+9	engine	_		{}
+10	"	_		{}
+11	BackRub	_		{}
+12	"	_		{}
+13	,	_		{}
+14	because	_		{}
+15	the	_		{}
+16	system	_	System	{"Complex": "16"}
+17	checked	_	Inspecting	{"Inspector": "16", "Purpose": "20", "Ground": "18"}
+18	backlinks	_		{}
+19	to	_		{}
+20	estimate	_	Estimating	{"Cognizer": "16", "Item": "25", "Feature": "22", "Means": "17"}
+21	the	_		{}
+22	importance	_	Importance	{}
+23	of	_		{}
+24	a	_	Cardinal_numbers	{"Number": "24", "Entity": "25"}
+25	site	_	Locale	{"Locale": "25"}
+26	.	_		{}

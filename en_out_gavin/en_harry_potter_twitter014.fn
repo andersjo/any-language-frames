@@ -1,0 +1,13 @@
+1	Think	_	Cogitation	{"Topic": "3", "Cognizer": "2"}
+2	I	_		{}
+3	have	_	Have_associated	{"Entity": "7", "Topical_entity": "2", "Time": "11"}
+4	harry	_		{}
+5	potter	_		{}
+6	invisible	_		{}
+7	cloak	_	Clothing	{"Garment": "7", "Style": "6", "Creator": "5"}
+8	on	_		{}
+9	all	_	Quantity	{"Mass": "11", "Quantity": "9"}
+10	the	_		{}
+11	time	_	Event_instance	{}
+12	recently	_	Temporal_collocation	{"Trajector_entity": "2", "Trajector_event": "3", "Trajector_period": "12"}
+13	!	_		{}

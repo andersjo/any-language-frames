@@ -1,0 +1,22 @@
+1	@ImaBannedd	_		{}
+2	use	_	Using	{"Instrument": "5", "Purpose": "7", "Agent": "1"}
+3	a	_	Cardinal_numbers	{"Number": "3", "Entity": "5"}
+4	data	_	Information	{"Information": "4"}
+5	set	_	Aggregate	{"Aggregate": "5", "Individuals": "4"}
+6	corrected	_	Adjusting	{"Part": "4", "Feature": "9"}
+7	for	_		{}
+8	satellite	_	Buildings	{"Building": "8"}
+9	effect	_	Causation	{"Cause": "8"}
+10	,	_		{}
+11	temp	_		{}
+12	surged	_	Change_position_on_a_scale	{"Item": "11", "Final_value": "13", "Time": "14"}
+13	high	_	Measurable_attributes	{"Time": "14", "Entity": "11"}
+14	in	_		{}
+15	1998	_	Cardinal_numbers	{"Number": "15"}
+16	curve	_	Shapes	{"Shape": "16"}
+17	fit	_	Compatibility	{"Items": "16"}
+18	should	_		{}
+19	stilll	_		{}
+20	be	_	Being_in_category	{"Category": "21", "Item": "17"}
+21	sloped	_	Cause_motion	{"Theme": "17"}
+22	http://t.co/x9CZG8XXvv	_		{}

@@ -1,0 +1,20 @@
+1	"	_		{}
+2	"	_		{}
+3	Efter	_		{}
+4	jeg	_		{}
+5	var	_		{}
+6	kommet	_	Arriving	{"Theme": "4", "Goal": "8"}
+7	til	_		{}
+8	klubben	_		{}
+9	,	_		{}
+10	spurgte	_		{}
+11	træneren	_		{}
+12	mig	_		{}
+13	,	_		{}
+14	hvilket	_		{}
+15	nummer	_		{}
+16	jeg	_		{}
+17	gerne	_	Desiring	{"Focal_participant": "15", "Experiencer": "16"}
+18	ville	_	Possession	{"Possession": "15", "Owner": "16"}
+19	have	_	Have_associated	{"Topical_entity": "16", "Entity": "15"}
+20	.	_		{}

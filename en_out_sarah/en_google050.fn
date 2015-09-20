@@ -1,0 +1,27 @@
+1	In	_		{}
+2	2005	_		{}
+3	,	_		{}
+4	articles	_	Text	{"Topic": "18", "Text": "4", "Author": "6", "Time_of_creation": "2"}
+5	in	_		{}
+6	"	_		{}
+7	The	_		{}
+8	New	_		{}
+9	York	_		{}
+10	Times	_		{}
+11	"	_		{}
+12	and	_	Simultaneity	{"Profiled_event": "6", "Landmark_event": "14"}
+13	other	_		{}
+14	sources	_		{}
+15	began	_	Activity_start	{"Agent": "12", "Activity": "16"}
+16	suggesting	_		{}
+17	that	_		{}
+18	Google	_		{}
+19	had	_		{}
+20	lost	_		{}
+21	its	_		{}
+22	anti-corporate	_		{}
+23	,	_		{}
+24	no	_		{}
+25	evil	_	Morality_evaluation	{"Evaluee": "26", "Behavior": "25"}
+26	philosophy	_		{}
+27	.	_		{}

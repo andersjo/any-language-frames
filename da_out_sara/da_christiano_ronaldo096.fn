@@ -1,0 +1,26 @@
+1	Efter	_		{}
+2	kampen	_	Hostile_encounter	{"Issue": "2"}
+3	insisterede	_		{}
+4	Ronaldo	_		{}
+5	på	_		{}
+6	,	_		{}
+7	at	_		{}
+8	Rooney	_		{}
+9	var	_		{}
+10	hans	_		{}
+11	ven	_	Personal_relationship	{"Partner_2": "8", "Partner_1": "4"}
+12	,	_		{}
+13	og	_		{}
+14	at	_		{}
+15	han	_		{}
+16	ikke	_		{}
+17	havde	_		{}
+18	gjort	_		{}
+19	noget	_	Be_subset_of	{}
+20	for	_		{}
+21	at	_		{}
+22	få	_	Cause_to_start	{"Cause": "18", "Effect": "24"}
+23	Rooney	_		{}
+24	sendt	_		{}
+25	ud	_		{}
+26	.	_		{}

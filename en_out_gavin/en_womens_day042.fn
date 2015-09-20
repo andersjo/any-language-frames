@@ -1,0 +1,23 @@
+1	Events	_	Event	{"Place": "4", "Time": "9"}
+2	took	_	Taking	{}
+3	place	_	Locale	{}
+4	in	_		{}
+5	more	_	Increment	{"Initial_set": "8"}
+6	than	_		{}
+7	100	_	Cardinal_numbers	{"Number": "7", "Precision": "5", "Entity": "8"}
+8	countries	_	Political_locales	{"Locale": "8"}
+9	on	_		{}
+10	March	_	Calendric_unit	{"Unit": "10"}
+11	8	_	Cardinal_numbers	{"Number": "11"}
+12	,	_		{}
+13	2011	_		{}
+14	to	_		{}
+15	commemorate	_	Memory	{"Content": "18", "Topic": "22", "Place": "4", "Time": "9"}
+16	the	_		{}
+17	100th	_	Part_whole	{}
+18	anniversary	_		{}
+19	of	_		{}
+20	International	_	Foreign_or_domestic_country	{"Current_country": "20"}
+21	Women's	_		{}
+22	Day	_	Calendric_unit	{"Name": "21", "Unit": "22"}
+23	.	_		{}

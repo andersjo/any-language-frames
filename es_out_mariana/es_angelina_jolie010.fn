@@ -1,0 +1,17 @@
+1	Actuó	_		{}
+2	como	_	Identicality	{"Set_of_instances": "8", "Current_instance": "3", "Type": "8", "Previous_context": "1"}
+3	Jane	_		{}
+4	Smith	_		{}
+5	,	_		{}
+6	en	_		{}
+7	la	_		{}
+8	película	_	Physical_artworks	{"Represented": "3", "Use": "10", "Type": "8", "Name": "14", "Artifact": "8"}
+9	de	_		{}
+10	acción	_		{}
+11	y	_	Simultaneity	{"Profiled_event": "12", "Landmark_event": "10"}
+12	comedia	_	Text	{"Use": "8", "Medium": "8", "Title": "14", "Text": "14", "Topic": "14", "Genre": "12"}
+13	"	_		{}
+14	Sr.	_		{}
+15	y	_	Simultaneity	{"Profiled_event": "16", "Landmark_event": "14"}
+16	Sra	_		{}
+17	.	_		{}

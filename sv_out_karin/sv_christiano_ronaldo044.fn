@@ -1,0 +1,30 @@
+1	I	_		{}
+2	juni	_	Calendric_unit	{"Whole": "3", "Unit": "2"}
+3	2009	_		{}
+4	stod	_		{}
+5	det	_		{}
+6	klart	_		{}
+7	att	_		{}
+8	Manchester	_		{}
+9	United	_		{}
+10	hade	_		{}
+11	accepterat	_		{}
+12	ett	_	Cardinal_numbers	{"Number": "12", "Entity": "13"}
+13	rekordbud	_		{}
+14	från	_		{}
+15	Real	_		{}
+16	Madrid	_		{}
+17	på	_		{}
+18	80	_		{}
+19	miljoner	_	Quantity	{"Individuals": "18"}
+20	pund	_	Money	{"Money": "18", "Name": "20"}
+21	(	_		{}
+22	ca	_		{}
+23	1	_	Cardinal_numbers	{"Number": "1", "Entity": "24"}
+24	miljard	_	Cardinal_numbers	{"Multiplier": "23", "Entity": "25", "Precision": "22", "Number": "24"}
+25	kronor	_		{}
+26	)	_		{}
+27	för	_		{}
+28	Cristiano	_		{}
+29	Ronaldo	_		{}
+30	.	_		{}

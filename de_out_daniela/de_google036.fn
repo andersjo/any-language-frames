@@ -1,0 +1,25 @@
+1	Google	_		{}
+2	hat	_		{}
+3	angekündigt	_		{}
+4	,	_		{}
+5	sich	_		{}
+6	nicht	_		{}
+7	auf	_		{}
+8	die	_		{}
+9	Werbung	_		{}
+10	im	_		{}
+11	Internet	_		{}
+12	beschränken	_	Hindering	{"Action": "12", "Protagonist": "1"}
+13	zu	_		{}
+14	wollen	_	Desiring	{"Focal_participant": "9", "Event": "12", "Experiencer": "1"}
+15	,	_		{}
+16	sondern	_	Concessive	{"Topic": "9", "Main_statement": "11", "Statement": "22"}
+17	mittel-	_	Temporal_subregion	{}
+18	und	_	Simultaneity	{"Profiled_event": "17", "Landmark_event": "19"}
+19	langfristig	_		{}
+20	am	_		{}
+21	Werbemarkt	_		{}
+22	insgesamt	_	Quantity	{"Mass": "21"}
+23	zu	_		{}
+24	partizipieren	_		{}
+25	.	_		{}

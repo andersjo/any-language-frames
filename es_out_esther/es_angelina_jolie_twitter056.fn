@@ -1,0 +1,19 @@
+1	me	_	Proper_reference	{}
+2	quedé	_		{}
+3	sin	_	Misdeed	{"Misdeed": "4"}
+4	memoria	_	Memory	{"Content": "7", "Cognizer": "1"}
+5	en	_		{}
+6	el	_		{}
+7	teléfono	_	Building_subparts	{}
+8	por	_		{}
+9	guardar	_	Storing	{"Theme": "11", "Location": "7", "Agent": "1"}
+10	579538	_		{}
+11	fotos	_	Physical_artworks	{"Artifact": "11"}
+12	de	_		{}
+13	las	_		{}
+14	tetas	_	Observable_body_parts	{"Body_part": "14", "Possessor": "16"}
+15	de	_		{}
+16	angelina	_		{}
+17	jolie	_		{}
+18	que	_		{}
+19	triste	_	Emotion_directed	{"Stimulus": "4", "Expressor": "1", "Experiencer": "1", "Event": "3"}

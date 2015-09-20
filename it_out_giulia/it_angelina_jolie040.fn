@@ -1,0 +1,39 @@
+1	Nel	_		{}
+2	corso	_		{}
+3	della	_		{}
+4	premiazione	_		{}
+5	la	_		{}
+6	diva	_		{}
+7	scandalizza	_	Cause_emotion	{"Event": "11", "Agent": "6", "Experiencer": "8"}
+8	pubblico	_		{}
+9	e	_		{}
+10	critica	_		{}
+11	dichiarando	_	Telling	{"Topic": "14", "Addressee": "8", "Speaker": "6"}
+12	il	_		{}
+13	folle	_		{}
+14	amore	_		{}
+15	che	_		{}
+16	la	_		{}
+17	lega	_	Forming_relationships	{"Partner_2": "19", "Partner_1": "6"}
+18	al	_		{}
+19	fratello	_	Kinship	{"Ego": "6", "Alter": "19"}
+20	,	_		{}
+21	e	_		{}
+22	sul	_		{}
+23	palco	_		{}
+24	della	_		{}
+25	notte	_	Calendric_unit	{"Relative_time": "29", "Name": "27"}
+26	degli	_		{}
+27	Oscar	_		{}
+28	del	_		{}
+29	2000	_		{}
+30	,	_		{}
+31	i	_		{}
+32	due	_	Personal_relationship	{"Partner_2": "19", "Partner_1": "6"}
+33	si	_		{}
+34	scambiano	_	Exchange	{}
+35	un	_		{}
+36	bacio	_		{}
+37	sulle	_		{}
+38	labbra	_	Observable_body_parts	{"Body_part": "38", "Possessor": "32"}
+39	.	_		{}

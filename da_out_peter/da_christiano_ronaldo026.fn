@@ -1,0 +1,24 @@
+1	Ronaldo	_		{}
+2	blev	_		{}
+3	Manchester	_		{}
+4	Uniteds	_		{}
+5	første	_	Ordinal_numbers	{"Comparison_set": "7", "Item": "1", "Type": "6"}
+6	portugisiske	_		{}
+7	spiller	_	Competition	{"Participants": "7"}
+8	nogensinde	_		{}
+9	,	_		{}
+10	da	_		{}
+11	han	_		{}
+12	underskrev	_		{}
+13	kontrakten	_		{}
+14	for	_		{}
+15	12	_	Cardinal_numbers	{"Multiplier": "18", "Number": "15", "Entity": "19"}
+16	,	_		{}
+17	24	_		{}
+18	millioner	_	Cardinal_numbers	{"Number": "18", "Entity": "19"}
+19	pund	_	Money	{"Money": "19"}
+20	efter	_		{}
+21	2002	_		{}
+22	–	_		{}
+23	03-sæsonen	_		{}
+24	.	_		{}

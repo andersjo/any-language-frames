@@ -1,0 +1,23 @@
+1	Ron	_		{}
+2	Weasley	_		{}
+3	,	_		{}
+4	Hermione	_		{}
+5	Granger	_		{}
+6	&	_		{}
+7	Harry	_		{}
+8	Potter	_		{}
+9	.	_		{}
+10	<3	_		{}
+11	(	_		{}
+12	Why	_	Reason	{"State_of_Affairs": "13"}
+13	is	_	Existence	{"Entity": "14"}
+14	it	_		{}
+15	always	_	Frequency	{"Salient_entity": "14", "Event": "13"}
+16	you	_		{}
+17	three	_	Cardinal_numbers	{"Number": "17"}
+18	?	_		{}
+19	)	_		{}
+20	#HarryPotter	_		{}
+21	#HP	_		{}
+22	#Hogwarts	_		{}
+23	http://t.co/L4aOw2m4rk	_		{}

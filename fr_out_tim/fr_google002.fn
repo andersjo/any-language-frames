@@ -1,0 +1,24 @@
+1	L'entreprise	_		{}
+2	s'est	_		{}
+3	principalement	_		{}
+4	fait	_		{}
+5	connaître	_	Familiarity	{"Entity": "1"}
+6	à	_		{}
+7	travers	_	Means	{"Purpose": "5", "Agent": "1", "Means": "9"}
+8	la	_		{}
+9	situation	_	State_of_entity	{"Entity": "13"}
+10	monopolistique	_		{}
+11	de	_		{}
+12	son	_		{}
+13	moteur	_		{}
+14	de	_		{}
+15	recherche	_	Research	{}
+16	,	_		{}
+17	concurrencé	_		{}
+18	historiquement	_	History	{"Topic": "1"}
+19	par	_		{}
+20	AltaVista	_		{}
+21	puis	_		{}
+22	par	_		{}
+23	Yahoo	_		{}
+24	!	_		{}

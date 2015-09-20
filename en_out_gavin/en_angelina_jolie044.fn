@@ -1,0 +1,46 @@
+1	In	_		{}
+2	July	_	Calendric_unit	{"Name": "2"}
+3	2002	_		{}
+4	,	_		{}
+5	Jolie	_		{}
+6	—	_		{}
+7	who	_		{}
+8	had	_		{}
+9	long	_	Duration_attribute	{"Degree": "9"}
+10	used	_	Using	{"Instrument": "13", "Means": "10", "Purpose": "19", "Agent": "5", "Time": "3"}
+11	her	_		{}
+12	middle	_	Part_orientational	{"Part": "13"}
+13	name	_	Labeling	{"Label": "13"}
+14	as	_		{}
+15	a	_	Cardinal_numbers	{"Number": "15", "Entity": "17"}
+16	stage	_	Behind_the_scenes	{}
+17	name	_	Labeling	{"Label": "17"}
+18	to	_		{}
+19	establish	_	Intentionally_create	{"Created_entity": "22", "Means": "10", "Creator": "5"}
+20	her	_		{}
+21	own	_	Possession	{"Possession": "22", "Owner": "5"}
+22	identity	_		{}
+23	as	_		{}
+24	an	_	Cardinal_numbers	{"Number": "24", "Entity": "25"}
+25	actress	_	Performers	{"Person": "25"}
+26	—	_		{}
+27	filed	_	Submitting_documents	{"Submittor": "5", "Documents": "29"}
+28	a	_	Cardinal_numbers	{"Number": "28", "Entity": "29"}
+29	request	_	Request	{"Message": "32"}
+30	to	_		{}
+31	legally	_	Domain	{"Domain": "31"}
+32	drop	_	Removing	{"Theme": "33", "Agent": "5"}
+33	Voight	_		{}
+34	as	_		{}
+35	her	_		{}
+36	surname	_	Being_named	{"Name": "33", "Entity": "5"}
+37	,	_		{}
+38	which	_		{}
+39	was	_		{}
+40	granted	_	Giving	{"Recipient": "5", "Time": "45"}
+41	on	_		{}
+42	September	_	Calendric_unit	{"Name": "42"}
+43	12	_	Cardinal_numbers	{"Number": "43"}
+44	,	_		{}
+45	2002	_		{}
+46	.	_		{}

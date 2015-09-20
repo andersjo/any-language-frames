@@ -1,0 +1,25 @@
+1	Den	_		{}
+2	4	_	Cardinal_numbers	{"Number": "2"}
+3	.	_		{}
+4	juli	_	Calendric_unit	{"Whole": "2", "Unit": "4"}
+5	præciserede	_		{}
+6	Elizondo	_		{}
+7	,	_		{}
+8	at	_		{}
+9	det	_		{}
+10	røde	_		{}
+11	kort	_	Documents	{"Document": "11", "Bearer": "13", "Issuer": "6"}
+12	skyldtes	_		{}
+13	Rooneys	_		{}
+14	overtrædelse	_	Misdeed	{"Wrongdoer": "13", "Misdeed": "14"}
+15	og	_		{}
+16	ikke	_		{}
+17	skænderiet	_		{}
+18	mellem	_		{}
+19	Rooney	_		{}
+20	og	_	Simultaneity	{"Profiled_event": "19", "Landmark_event": "21"}
+21	Ronaldo	_		{}
+22	,	_		{}
+23	der	_		{}
+24	fulgte	_		{}
+25	.	_		{}

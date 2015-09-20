@@ -1,0 +1,25 @@
+1	@Diegoem1	_		{}
+2	llevo	_	Taking_time	{"Time_length": "4", "Activity": "5"}
+3	1	_	Cardinal_numbers	{"Number": "1", "Entity": "4"}
+4	hora	_	Event_instance	{"Instance": "3", "Event": "5"}
+5	tratando	_	Attempt	{"Time": "4", "Purpose": "7", "Means": "11"}
+6	de	_		{}
+7	ver	_	Attending	{"Means": "11", "Event": "9", "Time": "4"}
+8	el	_		{}
+9	partido	_	Social_event	{}
+10	por	_		{}
+11	estadiocdf	_		{}
+12	,	_		{}
+13	ni	_		{}
+14	google	_		{}
+15	me	_		{}
+16	carga	_	Sent_items	{"Sent_item": "9"}
+17	po	_		{}
+18	wn	_		{}
+19	xD	_		{}
+20	3	_	Cardinal_numbers	{"Number": "20", "Entity": "21"}
+21	minutos	_	Measure_duration	{"Count": "20", "Process": "24", "Unit": "21"}
+22	pa	_		{}
+23	que	_		{}
+24	abra	_	Grant_permission	{"Grantor": "11"}
+25	jajaja	_		{}

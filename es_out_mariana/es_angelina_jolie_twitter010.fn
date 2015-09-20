@@ -1,0 +1,19 @@
+1	voy	_	Attending	{"Event_description": "10", "Event": "5"}
+2	a	_		{}
+3	ver	_	Attending	{"Event": "5"}
+4	"	_		{}
+5	vidas	_	Dead_or_alive	{"Protagonist": "10"}
+6	ajenas	_		{}
+7	"	_		{}
+8	con	_		{}
+9	mi	_		{}
+10	amada	_	Personal_relationship	{"Source_of_relationship": "10", "Partners": "10", "Partner_2": "10"}
+11	angelina	_		{}
+12	jolie	_		{}
+13	nos	_		{}
+14	re	_		{}
+15	vimos	_	Attention	{"Expressor": "16", "Perceiver": "16"}
+16	me	_	Proper_reference	{"Intended_referent": "16", "Entity": "16"}
+17	voy	_	Body_movement	{"Addressee": "10", "Goal": "19", "Agent": "16", "Result": "19"}
+18	a	_		{}
+19	tocar	_		{}

@@ -1,0 +1,19 @@
+1	Baby	_	People_by_age	{"Person": "1"}
+2	missing	_		{}
+3	after	_	Relative_time	{"Focal_occasion": "2", "Focal_participant": "1", "Landmark_occasion": "5"}
+4	parents	_	Kinship	{"Relatives": "4", "Ego": "1"}
+5	shot	_	Killing	{"Place": "7", "Victim": "4", "Means": "5"}
+6	in	_		{}
+7	California	_		{}
+8	-	_		{}
+9	CNN	_		{}
+10	:	_		{}
+11	CNN	_		{}
+12	Baby	_		{}
+13	missing	_		{}
+14	after	_		{}
+15	parents	_		{}
+16	shot	_		{}
+17	in	_		{}
+18	…	_		{}
+19	http://t.co/IUZLNvpkyl	_		{}

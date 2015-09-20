@@ -1,0 +1,18 @@
+1	Global	_	Political_locales	{"Locale": "1"}
+2	warming	_		{}
+3	is	_	Being_in_category	{"Category": "4", "Item": "2"}
+4	real	_	Actually_occurring_entity	{"Type": "2"}
+5	....	_		{}
+6	it's	_		{}
+7	winter	_	Calendric_unit	{"Unit": "7"}
+8	I	_	Expertise	{"Focal_participant": "1"}
+9	turned	_	Change_operational_state	{"Device": "12", "Agent": "8"}
+10	on	_		{}
+11	the	_		{}
+12	BBQ	_		{}
+13	,	_		{}
+14	and	_	Simultaneity	{"Profiled_event": "16", "Landmark_event": "9"}
+15	it	_		{}
+16	started	_	Activity_start	{"Activity": "17"}
+17	raining	_	Precipitation	{}
+18	!	_		{}

@@ -1,0 +1,31 @@
+1	Dabei	_		{}
+2	demonstrierte	_	Cause_to_perceive	{"Phenomenon": "8", "Agent": "3"}
+3	Ronaldo	_		{}
+4	auf	_		{}
+5	beiden	_		{}
+6	Außenpositionen	_		{}
+7	seine	_	Possession	{"Owner": "3", "Possession": "8"}
+8	Leistungsfähigkeit	_		{}
+9	und	_	Simultaneity	{"Profiled_event": "2", "Landmark_event": "10"}
+10	beeindruckte	_		{}
+11	seine	_		{}
+12	Gegenspieler	_		{}
+13	durch	_		{}
+14	ein	_		{}
+15	trickreiches	_		{}
+16	Spiel	_		{}
+17	derart	_		{}
+18	,	_		{}
+19	dass	_		{}
+20	diese	_		{}
+21	ihren	_		{}
+22	Trainer	_	People_by_vocation	{"Person": "22"}
+23	auf	_		{}
+24	einen	_		{}
+25	möglichen	_	Capability	{"Entity": "29"}
+26	Transfer	_	Transfer	{"Theme": "29", "Recipient": "22"}
+27	des	_		{}
+28	jungen	_	Age	{"Entity": "29"}
+29	Portugiesen	_		{}
+30	ansprachen	_		{}
+31	.	_		{}

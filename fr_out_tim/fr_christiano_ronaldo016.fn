@@ -1,0 +1,32 @@
+1	Son	_		{}
+2	cousin	_	Kinship	{"Ego": "1", "Alter": "2"}
+3	lui	_		{}
+4	conseille	_	Communication	{"Communicator": "2", "Message": "6"}
+5	de	_		{}
+6	jouer	_	Competition	{"Participant_1": "1"}
+7	dans	_		{}
+8	un	_		{}
+9	club	_	Organization	{}
+10	,	_		{}
+11	et	_		{}
+12	il	_		{}
+13	débute	_	Activity_start	{"Agent": "12", "Activity": "6"}
+14	à	_		{}
+15	l'âge	_		{}
+16	de	_		{}
+17	huit	_	Cardinal_numbers	{"Number": "17", "Entity": "18"}
+18	ans	_	Age	{"Attribute": "15", "Age": "17", "Entity": "12"}
+19	dans	_		{}
+20	le	_		{}
+21	club	_	Organization	{"Organization": "24", "Members": "12"}
+22	du	_		{}
+23	FC	_		{}
+24	Andorinha	_		{}
+25	,	_		{}
+26	où	_		{}
+27	son	_		{}
+28	père	_	Kinship	{"Ego": "27", "Alter": "28"}
+29	travaille	_	Being_employed	{"Employee": "28", "Position": "31", "Place_of_employment": "24", "Employer": "24"}
+30	comme	_		{}
+31	intendant	_		{}
+32	.	_		{}

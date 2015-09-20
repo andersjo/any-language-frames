@@ -1,0 +1,62 @@
+1	La	_		{}
+2	saga	_	Text	{"Text": "2"}
+3	di	_		{}
+4	"	_		{}
+5	Harry	_		{}
+6	Potter	_		{}
+7	"	_		{}
+8	è	_		{}
+9	ambientata	_	Placing	{"Theme": "2", "Goal": "11"}
+10	nel	_		{}
+11	mondo	_	Locale	{"Locale": "11"}
+12	reale	_	Actually_occurring_entity	{"Instance": "11"}
+13	e	_		{}
+14	nei	_		{}
+15	decenni	_		{}
+16	contemporanei	_	Temporal_collocation	{"Landmark_entity": "2", "Landmark_period": "15"}
+17	(	_		{}
+18	1980-2017	_		{}
+19	);	_		{}
+20	in	_		{}
+21	altre	_		{}
+22	parole	_		{}
+23	,	_		{}
+24	il	_		{}
+25	mondo	_	Existence	{"Entity": "25"}
+26	magico	_		{}
+27	convivrebbe	_		{}
+28	da	_		{}
+29	sempre	_		{}
+30	con	_		{}
+31	quello	_		{}
+32	delle	_		{}
+33	persone	_	People	{"Person": "33"}
+34	comuni	_		{}
+35	,	_		{}
+36	non	_		{}
+37	magiche	_		{}
+38	(	_		{}
+39	che	_		{}
+40	vengono	_		{}
+41	chiamate	_	Being_named	{"Name": "42", "Entity": "33"}
+42	babbani	_		{}
+43	)	_		{}
+44	,	_		{}
+45	ma	_		{}
+46	da	_		{}
+47	esso	_		{}
+48	si	_		{}
+49	nasconderebbe	_	Hiding_objects	{"Hidden_object": "25"}
+50	(	_		{}
+51	dal	_		{}
+52	1600	_		{}
+53	circa	_		{}
+54	)	_		{}
+55	per	_		{}
+56	motivi	_	Reason	{"Action": "49", "State_of_Affairs": "58"}
+57	di	_		{}
+58	sicurezza	_		{}
+59	e	_		{}
+60	di	_		{}
+61	ordine	_		{}
+62	.	_		{}

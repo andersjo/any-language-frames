@@ -1,0 +1,33 @@
+1	Google	_		{}
+2	has	_		{}
+3	moved	_	Process_continue	{"Manner": "4"}
+4	increasingly	_	Change_position_on_a_scale	{}
+5	into	_		{}
+6	communications	_		{}
+7	hardware	_		{}
+8	:	_		{}
+9	it	_		{}
+10	partners	_	Collaboration	{"Undertaking": "17", "Partner_2": "14", "Partner_1": "9"}
+11	with	_		{}
+12	major	_	Importance	{"Factor": "13"}
+13	electronics	_		{}
+14	manufacturers	_	Manufacturing	{"Product": "25", "Factory": "13", "Manufacturer": "14"}
+15	in	_		{}
+16	the	_		{}
+17	production	_	Manufacturing	{"Product": "25"}
+18	of	_		{}
+19	its	_		{}
+20	"	_		{}
+21	high-quality	_		{}
+22	low-cost	_	Expensiveness	{"Goods": "25"}
+23	"	_		{}
+24	Nexus	_		{}
+25	devices	_		{}
+26	and	_	Simultaneity	{"Profiled_event": "25", "Landmark_event": "28"}
+27	acquired	_		{}
+28	Motorola	_		{}
+29	Mobility	_		{}
+30	in	_		{}
+31	May	_	Calendric_unit	{"Name": "31"}
+32	2012	_		{}
+33	.	_		{}

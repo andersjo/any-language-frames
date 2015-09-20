@@ -1,0 +1,27 @@
+1	2008	_		{}
+2	blev	_		{}
+3	han	_		{}
+4	utsedd	_		{}
+5	både	_		{}
+6	till	_		{}
+7	Europas	_		{}
+8	och	_		{}
+9	världens	_		{}
+10	bästa	_	Expertise	{"Skill": "11", "Focal_participant": "3", "Degree": "10", "Time": "1"}
+11	fotbollsspelare	_		{}
+12	och	_	Simultaneity	{"Profiled_event": "4", "Landmark_event": "14"}
+13	fick	_		{}
+14	ta	_		{}
+15	emot	_	Receiving	{"Theme": "16", "Recipient": "3"}
+16	utmärkelserna	_		{}
+17	Ballon	_		{}
+18	d'Or	_		{}
+19	samt	_		{}
+20	FIFA	_		{}
+21	World	_		{}
+22	Player	_		{}
+23	of	_		{}
+24	the	_		{}
+25	Year	_		{}
+26	Award	_		{}
+27	.	_		{}

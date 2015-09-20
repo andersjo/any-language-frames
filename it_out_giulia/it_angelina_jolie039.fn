@@ -1,0 +1,32 @@
+1	Sempre	_	Continued_state_of_affairs	{"Reference_occasion": "3", "State_of_affairs": "4"}
+2	nel	_		{}
+3	1999	_		{}
+4	ottiene	_		{}
+5	un	_		{}
+6	ruolo	_	Performers_and_roles	{"Performance": "15", "Type": "8", "Role": "19", "Time": "3"}
+7	nel	_		{}
+8	film	_	Physical_artworks	{"Name": "10", "Artifact": "8", "Time_of_creation": "3"}
+9	"	_		{}
+10	Ragazze	_	People	{"Person": "10"}
+11	interrotte	_		{}
+12	"	_		{}
+13	,	_		{}
+14	dove	_		{}
+15	impersona	_		{}
+16	la	_		{}
+17	sociopatica	_		{}
+18	Lisa	_		{}
+19	Rowe	_		{}
+20	,	_		{}
+21	per	_		{}
+22	la	_		{}
+23	sua	_		{}
+24	interpretazione	_	Performing_arts	{}
+25	vince	_	Finish_competition	{"Prize": "26"}
+26	l'Oscar	_		{}
+27	come	_		{}
+28	migliore	_		{}
+29	attrice	_	Performers	{"Type": "29"}
+30	non	_		{}
+31	protagonista	_		{}
+32	.	_		{}

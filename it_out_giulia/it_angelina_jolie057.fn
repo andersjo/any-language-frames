@@ -1,0 +1,54 @@
+1	Nel	_		{}
+2	2006	_		{}
+3	viene	_		{}
+4	diretta	_		{}
+5	da	_		{}
+6	Robert	_		{}
+7	De	_		{}
+8	Niro	_		{}
+9	in	_		{}
+10	"	_		{}
+11	The	_		{}
+12	Good	_		{}
+13	Shepherd	_		{}
+14	-	_		{}
+15	L'ombra	_		{}
+16	del	_		{}
+17	potere	_	Leadership	{}
+18	"	_		{}
+19	,	_		{}
+20	film	_	Physical_artworks	{"Time_of_creation": "2", "Name": "12", "Artifact": "20", "Creator": "6"}
+21	sulla	_		{}
+22	storia	_	History	{"Topic": "24"}
+23	della	_		{}
+24	CIA	_		{}
+25	raccontata	_	Telling	{"Topic": "24", "Message": "22", "Medium": "20"}
+26	dal	_		{}
+27	punto	_		{}
+28	di	_		{}
+29	vista	_	Opinion	{"Cognizer": "32"}
+30	di	_		{}
+31	Edward	_		{}
+32	Wilson	_		{}
+33	,	_		{}
+34	interpretato	_		{}
+35	da	_		{}
+36	Matt	_		{}
+37	Damon	_		{}
+38	,	_		{}
+39	nel	_		{}
+40	film	_	Physical_artworks	{"Artifact": "40"}
+41	la	_		{}
+42	Jolie	_		{}
+43	ricopre	_		{}
+44	la	_		{}
+45	parte	_	Performers_and_roles	{"Performer": "42", "Role": "47"}
+46	della	_		{}
+47	moglie	_	Personal_relationship	{"Partner_2": "52", "Partner_1": "50"}
+48	trascurata	_		{}
+49	di	_		{}
+50	Wilson	_		{}
+51	,	_		{}
+52	Margaret	_		{}
+53	Russell	_		{}
+54	.	_		{}

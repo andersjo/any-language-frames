@@ -1,0 +1,30 @@
+1	Pappa	_		{}
+2	nyss	_		{}
+3	till	_		{}
+4	mamma	_	Kinship	{"Alter": "4"}
+5	"	_		{}
+6	i	_		{}
+7	mina	_		{}
+8	ögon	_	Observable_body_parts	{"Body_part": "8", "Possessor": "1"}
+9	är	_		{}
+10	du	_		{}
+11	väldigt	_	Degree	{"Gradable_attribute": "12"}
+12	lik	_	Similarity	{"Entity_1": "4", "Entity_2": "14"}
+13	Angelina	_		{}
+14	Jolie	_		{}
+15	"	_		{}
+16	"	_		{}
+17	det	_		{}
+18	är	_		{}
+19	inte	_		{}
+20	alla	_	Quantity	{}
+21	som	_		{}
+22	har	_		{}
+23	legat	_		{}
+24	med	_		{}
+25	Angelina	_		{}
+26	jolie	_		{}
+27	,	_		{}
+28	det	_		{}
+29	ni	_		{}
+30	"	_		{}

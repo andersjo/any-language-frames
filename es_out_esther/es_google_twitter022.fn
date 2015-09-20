@@ -1,0 +1,19 @@
+1	@euthabs	_		{}
+2	Gata	_		{}
+3	,	_		{}
+4	usted	_		{}
+5	tiene	_	Possession	{"Possession": "7", "Owner": "4"}
+6	una	_		{}
+7	pierna	_	Observable_body_parts	{"Body_part": "7", "Possessor": "4"}
+8	más	_	Increment	{"Initial_set": "7", "Added_set": "9", "Class": "12"}
+9	alta	_	Body_description_holistic	{"Individual": "4", "Figure": "9"}
+10	que	_		{}
+11	la	_		{}
+12	otra	_	Increment	{"Initial_set": "7", "Added_set": "9"}
+13	?	_		{}
+14	(	_		{}
+15	cantadas	_	Chatting	{"Interlocutor_1": "16"}
+16	pedron	_		{}
+17	google	_		{}
+18	tradutor	_		{}
+19	)	_		{}

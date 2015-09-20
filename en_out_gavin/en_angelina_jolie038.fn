@@ -1,0 +1,14 @@
+1	She	_		{}
+2	said	_		{}
+3	,	_		{}
+4	"	_		{}
+5	I	_		{}
+6	collected	_	Amassing	{"Mass_theme": "7", "Recipient": "5"}
+7	knives	_	Weapon	{"Weapon": "7", "Wielder": "5"}
+8	and	_		{}
+9	always	_	Frequency	{"Interval": "9"}
+10	had	_	Possession	{"Possession": "12", "Owner": "5", "Time": "9"}
+11	certain	_	Idiosyncrasy	{"Idiosyncrasy": "11", "Entity": "12"}
+12	things	_		{}
+13	around	_		{}
+14	.	_		{}

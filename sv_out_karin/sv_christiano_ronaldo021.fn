@@ -1,0 +1,24 @@
+1	Ronaldo	_		{}
+2	blev	_		{}
+3	Manchester	_		{}
+4	Uniteds	_		{}
+5	första	_	Ordinal_numbers	{"Item": "7", "Type": "6"}
+6	portugisiska	_		{}
+7	spelare	_		{}
+8	någonsin	_		{}
+9	när	_	Event_instance	{"Event": "11"}
+10	han	_		{}
+11	kom	_		{}
+12	till	_		{}
+13	klubben	_	Organization	{"Organization": "4", "Members": "1"}
+14	den	_		{}
+15	12	_		{}
+16	augusti	_	Calendric_unit	{"Whole": "17", "Unit": "16"}
+17	2003	_		{}
+18	för	_		{}
+19	12	_	Cardinal_numbers	{"Number": "19"}
+20	,	_		{}
+21	24	_		{}
+22	miljoner	_	Cardinal_numbers	{"Entity": "23", "Number": "22", "Multiplier": "21"}
+23	pund	_	Money	{"Money": "23"}
+24	.	_		{}

@@ -1,0 +1,46 @@
+1	Jolie	_		{}
+2	fik	_		{}
+3	sin	_		{}
+4	filmdebut	_		{}
+5	som	_		{}
+6	barn	_	People_by_age	{"Person": "1", "Descriptor": "6"}
+7	sammen	_	Collaboration	{"Undertaking": "4", "Partner_2": "10", "Partner_1": "1"}
+8	med	_		{}
+9	sin	_		{}
+10	far	_	Kinship	{"Ego": "1", "Alter": "10"}
+11	,	_		{}
+12	Jon	_		{}
+13	Voight	_		{}
+14	i	_		{}
+15	"	_		{}
+16	Lookin	_		{}
+17	'	_		{}
+18	to	_		{}
+19	Get	_		{}
+20	Out	_		{}
+21	"	_		{}
+22	(	_		{}
+23	1982	_		{}
+24	)	_		{}
+25	,	_		{}
+26	men	_		{}
+27	hendes	_		{}
+28	egentlige	_		{}
+29	skuespillerkarriere	_		{}
+30	begyndte	_		{}
+31	for	_		{}
+32	alvor	_		{}
+33	først	_	First_experience	{"Experience": "29"}
+34	et	_		{}
+35	årti	_	Measure_duration	{"Count": "34", "Process": "29", "Unit": "35"}
+36	senere	_	Relative_time	{"Focal_occasion": "29", "Landmark_occasion": "23"}
+37	med	_		{}
+38	lavbudget-produktionen	_		{}
+39	"	_		{}
+40	Cyborg	_		{}
+41	2	_		{}
+42	"	_		{}
+43	(	_		{}
+44	1993	_		{}
+45	)	_		{}
+46	.	_		{}

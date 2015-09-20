@@ -1,0 +1,18 @@
+1	On	_		{}
+2	a	_		{}
+3	compris	_	Grasp	{"Cognizer": "1", "Phenomenon": "7"}
+4	que	_		{}
+5	Angelina	_		{}
+6	Jolie	_		{}
+7	portait	_	Wearing	{}
+8	bien	_	Degree	{"Gradable_attribute": "7"}
+9	son	_		{}
+10	nom	_	Referring_by_name	{"Name": "6", "Entity": "5"}
+11	,	_		{}
+12	pas	_		{}
+13	besoin	_	Needing	{"Dependent": "3"}
+14	de	_		{}
+15	plagier	_	Theft	{}
+16	273529191	_		{}
+17	fois	_	Event_instance	{"Instance": "16", "Event": "15"}
+18	.	_		{}

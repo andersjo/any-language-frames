@@ -1,0 +1,28 @@
+1	En	_		{}
+2	Harry	_		{}
+3	Potter	_		{}
+4	y	_		{}
+5	el	_		{}
+6	misterio	_	Text	{"Text": "6"}
+7	del	_		{}
+8	principe	_	Leadership	{"Leader": "8"}
+9	,	_		{}
+10	con	_		{}
+11	base	_		{}
+12	en	_		{}
+13	la	_		{}
+14	expresión	_	Expressing_publicly	{"Content": "16"}
+15	de	_		{}
+16	Dumbledore	_		{}
+17	al	_		{}
+18	tomar	_	Taking	{"Theme": "20", "Agent": "16"}
+19	la	_		{}
+20	pócima	_		{}
+21	,	_		{}
+22	deduzco	_	Reasoning	{"Content": "25"}
+23	que	_		{}
+24	era	_	Being_in_category	{"Category": "25", "Item": "20"}
+25	jugo	_	Food	{"Food": "25"}
+26	de	_		{}
+27	guayaba	_		{}
+28	.	_		{}

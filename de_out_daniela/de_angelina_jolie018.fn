@@ -1,0 +1,54 @@
+1	Nach	_	Time_vector	{"Direction": "1", "Event": "3"}
+2	der	_		{}
+3	Trennung	_	Forming_relationships	{"Partners": "5"}
+4	ihrer	_		{}
+5	Eltern	_	Kinship	{"Ego": "7", "Alter": "5"}
+6	wuchs	_	Becoming	{"Entity": "7"}
+7	Jolie	_		{}
+8	zusammen	_	Collaboration	{"Partner_2": "11", "Partner_1": "7"}
+9	mit	_		{}
+10	ihrem	_		{}
+11	Bruder	_	Kinship	{"Ego": "7", "Alter": "11"}
+12	bei	_		{}
+13	ihrer	_		{}
+14	Mutter	_	Kinship	{"Ego": "7", "Alter": "14"}
+15	auf	_		{}
+16	,	_		{}
+17	die	_		{}
+18	ihre	_		{}
+19	eigenen	_		{}
+20	Schauspielambitionen	_		{}
+21	aufgab	_	Activity_stop	{"Agent": "14"}
+22	und	_	Simultaneity	{"Profiled_event": "39", "Landmark_event": "21"}
+23	mit	_		{}
+24	den	_		{}
+25	Kindern	_	Kinship	{"Ego": "14", "Alter": "25"}
+26	und	_		{}
+27	ihrem	_		{}
+28	neuen	_	Familiarity	{"Cognizer": "17", "Entity": "29"}
+29	Lebensgefährten	_		{}
+30	Bill	_		{}
+31	Day	_		{}
+32	nach	_	Change_position_on_a_scale	{"Final_value": "33"}
+33	Palisades	_		{}
+34	in	_		{}
+35	den	_		{}
+36	US-Bundesstaat	_	Political_locales	{"Locale": "36", "Name": "38"}
+37	New	_		{}
+38	York	_		{}
+39	zog	_	Motion	{"Direction": "32", "Goal": "33"}
+40	,	_		{}
+41	wo	_		{}
+42	Jolie	_		{}
+43	im	_		{}
+44	Nachbarort	_		{}
+45	Tappan	_		{}
+46	die	_		{}
+47	William	_		{}
+48	O	_		{}
+49	.	_		{}
+50	Schaefer	_		{}
+51	Elementary	_		{}
+52	School	_		{}
+53	besuchte	_	Attending	{"Place": "45", "Event": "52", "Agent": "42"}
+54	.	_		{}

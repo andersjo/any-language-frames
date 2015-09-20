@@ -1,0 +1,22 @@
+1	En	_		{}
+2	août	_	Calendric_unit	{"Relative_time": "5", "Whole": "2"}
+3	de	_		{}
+4	la	_		{}
+5	même	_	Identicality	{"Type": "6"}
+6	année	_	Calendric_unit	{"Relative_time": "5", "Whole": "6"}
+7	,	_		{}
+8	Jon	_		{}
+9	Voight	_		{}
+10	déclare	_	Statement	{"Message": "11", "Speaker": "9"}
+11	que	_		{}
+12	sa	_		{}
+13	fille	_	Kinship	{"Ego": "13", "Alter": "12"}
+14	a	_		{}
+15	au	_		{}
+16	cours	_		{}
+17	du	_		{}
+18	programme	_		{}
+19	de	_		{}
+20	télévision	_		{}
+21	'	_		{}
+22	.	_		{}

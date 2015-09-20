@@ -1,0 +1,21 @@
+1	Au	_		{}
+2	retour	_		{}
+3	,	_		{}
+4	les	_		{}
+5	joueurs	_	Competition	{"Participants": "5"}
+6	de	_		{}
+7	Manchester	_		{}
+8	ne	_		{}
+9	parlent	_	Discussion	{"Topic": "11", "Interlocutors": "5"}
+10	que	_		{}
+11	de	_		{}
+12	lui	_		{}
+13	et	_		{}
+14	demandent	_	Request	{"Message": "20", "Addressee": "17", "Speaker": "5"}
+15	à	_		{}
+16	Alex	_		{}
+17	Ferguson	_		{}
+18	de	_		{}
+19	le	_		{}
+20	recruter	_	Becoming_a_member	{"New_member": "19", "Group": "7"}
+21	.	_		{}

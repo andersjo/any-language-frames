@@ -1,0 +1,25 @@
+1	The	_		{}
+2	novel	_	Text	{"Text": "2"}
+3	ends	_	Activity_finish	{"Time": "4", "Activity": "2"}
+4	after	_	Relative_time	{"Focal_occasion": "3", "Focal_participant": "2", "Landmark_occasion": "6"}
+5	Harry	_		{}
+6	saves	_	Preserving	{"Undergoer": "8", "Agent": "5", "Means": "9"}
+7	Ginny's	_		{}
+8	life	_	Dead_or_alive	{"Protagonist": "7"}
+9	by	_		{}
+10	destroying	_	Destroying	{"Undergoer": "12", "Destroyer": "5"}
+11	a	_	Cardinal_numbers	{"Number": "11", "Entity": "12"}
+12	basilisk	_		{}
+13	and	_		{}
+14	the	_		{}
+15	enchanted	_		{}
+16	diary	_	Text	{"Text": "16"}
+17	which	_		{}
+18	has	_		{}
+19	been	_		{}
+20	the	_		{}
+21	source	_	Source_of_getting	{"Source": "16", "Theme": "24"}
+22	of	_		{}
+23	the	_		{}
+24	problems	_	Predicament	{"Situation": "24"}
+25	.	_		{}

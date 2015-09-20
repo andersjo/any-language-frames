@@ -1,0 +1,41 @@
+1	Tuttavia	_	Concessive	{"Topic": "3"}
+2	le	_		{}
+3	differenze	_	Similarity	{"Differentiating_fact": "27", "Entity_1": "6", "Entity_2": "10"}
+4	tra	_		{}
+5	questa	_		{}
+6	serie	_	Sequence	{}
+7	e	_		{}
+8	altre	_		{}
+9	celebri	_		{}
+10	saghe	_	Text	{"Text": "10"}
+11	del	_		{}
+12	genere	_	Type	{"Subtype": "13"}
+13	fantasy	_		{}
+14	sono	_		{}
+15	da	_		{}
+16	rimarcarsi	_		{}
+17	:	_		{}
+18	le	_		{}
+19	storie	_	Text	{"Text": "19"}
+20	di	_		{}
+21	"	_		{}
+22	Harry	_		{}
+23	Potter	_		{}
+24	"	_		{}
+25	non	_		{}
+26	sono	_		{}
+27	ambientate	_		{}
+28	in	_		{}
+29	un'epoca	_		{}
+30	immaginaria	_		{}
+31	o	_		{}
+32	differente	_	Similarity	{"Entities": "29"}
+33	dalla	_		{}
+34	nostra	_		{}
+35	,	_		{}
+36	né	_		{}
+37	in	_		{}
+38	un	_		{}
+39	altro	_		{}
+40	universo	_		{}
+41	.	_		{}

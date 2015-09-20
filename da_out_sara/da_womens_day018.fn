@@ -1,0 +1,25 @@
+1	Rødstrømpernes	_		{}
+2	genoplivning	_	Rejuvenation	{"Entity": "1"}
+3	betød	_	Sensation	{"Source": "2"}
+4	også	_		{}
+5	at	_		{}
+6	temaer	_		{}
+7	som	_		{}
+8	krop	_	Observable_body_parts	{"Body_part": "8"}
+9	,	_		{}
+10	seksualitet	_		{}
+11	og	_		{}
+12	husholdning	_	Expected_location_of_person	{"Location": "12"}
+13	blev	_		{}
+14	vægtet	_		{}
+15	mere	_		{}
+16	,	_		{}
+17	heraf	_		{}
+18	parolen	_		{}
+19	"	_		{}
+20	det	_		{}
+21	private	_	People_by_vocation	{"Place_of_employment": "21"}
+22	er	_		{}
+23	politisk	_		{}
+24	"	_		{}
+25	.	_		{}

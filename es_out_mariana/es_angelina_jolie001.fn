@@ -1,0 +1,37 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	Voight	_		{}
+4	,	_		{}
+5	DCMG	_		{}
+6	(	_		{}
+7	honoraria	_		{}
+8	)	_		{}
+9	(	_		{}
+10	Los	_		{}
+11	Ángeles	_		{}
+12	,	_		{}
+13	)	_		{}
+14	es	_	Being_in_category	{}
+15	una	_		{}
+16	actriz	_	People_by_vocation	{"Origin": "11", "Person": "1", "Ethnicity": "36"}
+17	,	_		{}
+18	modelo	_	Leadership	{}
+19	,	_		{}
+20	filántropa	_		{}
+21	,	_		{}
+22	actriz	_	People_by_vocation	{"Origin": "36", "Person": "1", "Place_of_employment": "29", "Ethnicity": "11", "Descriptor": "26"}
+23	de	_		{}
+24	voz	_	Performers_and_roles	{"Performer": "1"}
+25	,	_		{}
+26	directora	_	People_by_vocation	{"Origin": "11", "Person": "1", "Ethnicity": "36"}
+27	y	_		{}
+28	guionista	_		{}
+29	estadounidense	_	People_by_origin	{"Origin": "29", "Person": "1"}
+30	,	_		{}
+31	que	_		{}
+32	también	_	Sufficiency	{}
+33	posee	_	Tolerating	{}
+34	la	_		{}
+35	nacionalidad	_		{}
+36	camboyana	_		{}
+37	.	_		{}

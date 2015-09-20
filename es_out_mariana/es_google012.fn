@@ -1,0 +1,22 @@
+1	Este	_	Part_orientational	{"Part": "4", "Whole": "2"}
+2	motor	_		{}
+3	de	_		{}
+4	búsqueda	_	Scrutiny	{"Instrument": "2", "Time": "21"}
+5	superó	_		{}
+6	al	_		{}
+7	otro	_	Increment	{"Class": "4", "Added_set": "14"}
+8	más	_	Increment	{"Initial_set": "9", "Added_set": "8", "Class": "12"}
+9	popular	_	Popularity	{"Degree": "8", "Time": "21"}
+10	de	_		{}
+11	la	_		{}
+12	época	_	Location_in_time	{"Whole": "12", "Salient_event": "14", "Measurement": "9"}
+13	,	_		{}
+14	AltaVista	_		{}
+15	,	_		{}
+16	que	_		{}
+17	había	_		{}
+18	sido	_	Existence	{"Duration": "12", "Depictive": "4", "Time": "21", "Entity": "2"}
+19	creado	_	Coming_to_be	{"Time": "21", "Role": "4", "Entity": "2"}
+20	en	_		{}
+21	1995	_		{}
+22	.	_		{}

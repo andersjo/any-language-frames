@@ -1,0 +1,30 @@
+1	These	_		{}
+2	Downton	_		{}
+3	Abbey	_	Buildings	{"Building": "3", "Name": "2"}
+4	DVD	_		{}
+5	hawkers	_		{}
+6	promising	_	Omen	{"Phenomenon_2": "8", "Outcome": "9", "Phenomenon_1": "5"}
+7	"	_		{}
+8	u'll	_		{}
+9	b	_		{}
+10	the	_		{}
+11	1st	_	Ordinal_numbers	{"Item": "8", "Basis_of_order": "12"}
+12	2c	_		{}
+13	it	_		{}
+14	"	_		{}
+15	=	_		{}
+16	as	_		{}
+17	bad	_	Morality_evaluation	{"Evaluee": "5", "Degree": "16"}
+18	as	_		{}
+19	global	_	Political_locales	{"Locale": "19"}
+20	warming	_	Temperature	{"Temperature": "20", "Entity": "19"}
+21	deniers~there's	_		{}
+22	more	_	Increment	{"Initial_set": "28"}
+23	2	_	Cardinal_numbers	{"Number": "23"}
+24	the	_		{}
+25	world	_	Locale	{"Locale": "25"}
+26	than	_		{}
+27	the	_		{}
+28	US	_	People_by_origin	{"Origin": "28"}
+29	!	_		{}
+30	#PBS	_		{}

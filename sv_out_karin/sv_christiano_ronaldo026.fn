@@ -1,0 +1,28 @@
+1	Han	_		{}
+2	gjorde	_		{}
+3	sammanlagt	_		{}
+4	10	_	Cardinal_numbers	{"Number": "4", "Entity": "5"}
+5	mål	_	Instance	{"Instance": "5"}
+6	i	_		{}
+7	samtliga	_		{}
+8	turneringar	_	Competition	{"Participant_1": "1", "Competition": "7"}
+9	och	_	Simultaneity	{"Profiled_event": "2", "Landmark_event": "11"}
+10	blev	_		{}
+11	framröstad	_		{}
+12	till	_		{}
+13	FIFPro	_		{}
+14	Special	_		{}
+15	Young	_		{}
+16	Player	_		{}
+17	of	_		{}
+18	the	_		{}
+19	Year	_		{}
+20	både	_		{}
+21	år	_	Calendric_unit	{"Whole": "22"}
+22	2005	_		{}
+23	och	_		{}
+24	2006	_		{}
+25	av	_		{}
+26	Uniteds	_		{}
+27	fans	_		{}
+28	.	_		{}

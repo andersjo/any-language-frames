@@ -1,0 +1,19 @@
+1	voy	_	Body_movement	{"Goal": "3"}
+2	a	_		{}
+3	ver	_	Attention	{"Figure": "5"}
+4	"	_		{}
+5	vidas	_	Existence	{}
+6	ajenas	_	Foreign_or_domestic_country	{}
+7	"	_		{}
+8	con	_		{}
+9	mi	_		{}
+10	amada	_	Personal_relationship	{"Partner_2": "11"}
+11	angelina	_		{}
+12	jolie	_		{}
+13	nos	_		{}
+14	re	_		{}
+15	vimos	_	Attention	{"Perceiver": "13", "Figure": "11"}
+16	me	_	Proper_reference	{}
+17	voy	_	Body_movement	{}
+18	a	_		{}
+19	tocar	_	Manipulation	{}

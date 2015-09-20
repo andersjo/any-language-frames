@@ -1,0 +1,35 @@
+1	Dadurch	_		{}
+2	zahlte	_	Commerce_pay	{"Buyer": "3", "Money": "18", "Goods": "13"}
+3	Google	_		{}
+4	auf	_		{}
+5	seine	_	Possession	{"Owner": "3", "Possession": "6"}
+6	Gewinne	_	Earnings_and_losses	{"Earner": "3", "Earnings": "6"}
+7	außerhalb	_		{}
+8	der	_		{}
+9	USA	_		{}
+10	nur	_		{}
+11	einen	_		{}
+12	effektiven	_		{}
+13	Steuersatz	_		{}
+14	von	_		{}
+15	2	_	Cardinal_numbers	{"Number": "15", "Entity": "18"}
+16	,	_		{}
+17	4	_	Cardinal_numbers	{"Number": "17", "Entity": "18"}
+18	%	_		{}
+19	und	_		{}
+20	hat	_		{}
+21	somit	_		{}
+22	von	_		{}
+23	2007	_		{}
+24	bis	_	Continued_state_of_affairs	{"Reference_occasion": "23", "State_of_affairs": "34"}
+25	2009	_		{}
+26	schätzungsweise	_		{}
+27	3	_	Cardinal_numbers	{"Number": "27", "Entity": "30"}
+28	,	_		{}
+29	1	_	Cardinal_numbers	{"Number": "29", "Entity": "30"}
+30	Milliarden	_	Cardinal_numbers	{"Number": "30", "Entity": "31"}
+31	US-Dollar	_		{}
+32	an	_		{}
+33	Steuern	_		{}
+34	umgangen	_	Avoiding	{"Undesirable_situation": "33", "Agent": "3"}
+35	.	_		{}

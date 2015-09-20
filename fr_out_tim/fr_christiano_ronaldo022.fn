@@ -1,0 +1,25 @@
+1	Il	_		{}
+2	y	_		{}
+3	passe	_		{}
+4	une	_		{}
+5	détection	_		{}
+6	qu'il	_		{}
+7	réussit	_	Success_or_failure	{"Agent": "6"}
+8	avec	_		{}
+9	succès	_	Success_or_failure	{"Agent": "6"}
+10	et	_		{}
+11	est	_		{}
+12	recruté	_		{}
+13	par	_		{}
+14	le	_		{}
+15	club	_	Organization	{"Organization": "15", "Members": "6"}
+16	dit	_		{}
+17	Paulo	_		{}
+18	Cardoso	_		{}
+19	,	_		{}
+20	son	_		{}
+21	premier	_	First_experience	{"Experience": "22"}
+22	entraîneur	_	Education_teaching	{"Teacher": "18", "Student": "1", "Institution": "24"}
+23	au	_		{}
+24	Sporting	_		{}
+25	.	_		{}

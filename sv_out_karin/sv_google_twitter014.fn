@@ -1,0 +1,20 @@
+1	@ViktorNerlander	_		{}
+2	De	_		{}
+3	hoppas	_	Desiring	{"Event": "2", "Experiencer": "4"}
+4	jag	_	Proper_reference	{"Intended_referent": "4"}
+5	,	_		{}
+6	annars	_		{}
+7	har	_		{}
+8	ju	_		{}
+9	vi	_		{}
+10	alla	_		{}
+11	en	_	Cardinal_numbers	{"Number": "11", "Entity": "13"}
+12	gemensam	_		{}
+13	vän	_	Personal_relationship	{"Partner_2": "9", "Relationship": "13", "Partner_1": "19"}
+14	som	_		{}
+15	kan	_		{}
+16	det	_		{}
+17	mesta	_		{}
+18	,	_		{}
+19	google	_		{}
+20	!	_		{}

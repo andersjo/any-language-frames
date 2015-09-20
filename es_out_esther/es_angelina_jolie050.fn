@@ -1,0 +1,25 @@
+1	Comenzó	_		{}
+2	a	_		{}
+3	aprender	_	Education_teaching	{"Skill": "15", "Teacher": "6"}
+4	de	_		{}
+5	su	_		{}
+6	padre	_	Kinship	{}
+7	,	_		{}
+8	notó	_		{}
+9	el	_		{}
+10	método	_	Means	{"Purpose": "21", "Agent": "6", "Means": "15"}
+11	que	_		{}
+12	él	_		{}
+13	tenía	_		{}
+14	al	_		{}
+15	observar	_	Examination	{"Examinee": "18", "Examiner": "12"}
+16	a	_		{}
+17	la	_		{}
+18	gente	_	People	{}
+19	y	_		{}
+20	lograr	_	Accomplishment	{"Goal": "21", "Agent": "12"}
+21	imitarlas	_	Imitating	{"Degree": "24"}
+22	a	_		{}
+23	la	_		{}
+24	perfección	_		{}
+25	.	_		{}

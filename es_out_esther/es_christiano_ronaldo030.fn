@@ -1,0 +1,55 @@
+1	Sin	_		{}
+2	embargo	_		{}
+3	,	_		{}
+4	en	_		{}
+5	su	_		{}
+6	segundo	_	Ordinal_numbers	{"Comparison_set": "7", "Item": "7", "Type": "9"}
+7	partido	_	Performers_and_roles	{"Medium": "7", "Performer1": "21", "Performer2": "19", "Audience": "19", "Score": "27", "Role": "22", "Performance": "40", "Type": "7"}
+8	de	_		{}
+9	Liga	_	Finish_competition	{"Competitor": "21", "Competition": "9", "Opponent": "19"}
+10	jugado	_	Performers_and_roles	{"Performer": "21", "Role": "22", "Medium": "10", "Performer1": "21"}
+11	el	_		{}
+12	7	_	Cardinal_numbers	{"Number": "12", "Entity": "14"}
+13	de	_		{}
+14	octubre	_	Calendric_unit	{"Relative_time": "12", "Unit": "14"}
+15	ante	_		{}
+16	el	_		{}
+17	Moreirense	_		{}
+18	Futebol	_		{}
+19	Clube	_		{}
+20	,	_		{}
+21	Cristiano	_		{}
+22	anotó	_		{}
+23	dos	_	Cardinal_numbers	{"Number": "23", "Entity": "24"}
+24	goles	_	Purpose	{"Value": "27", "Goal": "24", "Agent": "21", "Means": "22"}
+25	en	_		{}
+26	el	_		{}
+27	3-0	_		{}
+28	final	_		{}
+29	merced	_		{}
+30	a	_		{}
+31	los	_		{}
+32	cuales	_		{}
+33	causó	_		{}
+34	entre	_		{}
+35	afición	_	Emotion_directed	{"Event": "24"}
+36	y	_		{}
+37	prensa	_	Attempt_suasion	{"Topic": "24", "Content": "40", "Addressee": "21"}
+38	una	_		{}
+39	grata	_	Social_interaction_evaluation	{"Topic": "40", "Evaluee": "21", "Behavior": "22", "Affected_party": "21"}
+40	impresión	_	Opinion	{"Cognizer": "37", "Opinion": "40"}
+41	,	_		{}
+42	pasando	_	Ceasing_to_be	{"Entity": "21"}
+43	a	_		{}
+44	formar	_	Reshaping	{"Undergoer": "21", "Cause": "40"}
+45	parte	_	Part_piece	{"Piece": "45", "Substance": "47"}
+46	del	_		{}
+47	grupo	_	Natural_features	{}
+48	de	_		{}
+49	habituales	_	Frequency	{"Attribute": "52", "Salient_entity": "45"}
+50	del	_		{}
+51	primer	_	First_rank	{"Item": "52", "Limits_of_consideration": "54"}
+52	equipo	_	Organization	{"Organization": "54", "Members": "49"}
+53	del	_		{}
+54	Sporting	_		{}
+55	.	_		{}

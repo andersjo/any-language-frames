@@ -1,0 +1,41 @@
+1	Само	_		{}
+2	три	_	Cardinal_numbers	{"Number": "2"}
+3	дни	_	Calendric_unit	{"Unit": "3"}
+4	по-късно	_	Time_vector	{"Distance": "4"}
+5	прави	_		{}
+6	втори	_		{}
+7	хеттрик	_		{}
+8	като	_		{}
+9	отбелязва	_		{}
+10	цели	_		{}
+11	4	_	Cardinal_numbers	{"Number": "11"}
+12	гола	_		{}
+13	при	_		{}
+14	домакинската	_		{}
+15	победа	_	Finish_competition	{}
+16	с	_		{}
+17	5	_	Cardinal_numbers	{"Number": "17"}
+18	–	_		{}
+19	1	_	Cardinal_numbers	{"Number": "19"}
+20	над	_		{}
+21	отбора	_	Aggregate	{"Aggregate": "21"}
+22	на	_		{}
+23	Елче	_		{}
+24	,	_		{}
+25	а	_		{}
+26	този	_		{}
+27	му	_		{}
+28	хеттрик	_		{}
+29	се	_		{}
+30	превръща	_	Cause_change	{"Final_category": "30"}
+31	в	_		{}
+32	номер	_	Quantity	{"Mass": "32"}
+33	25	_	Cardinal_numbers	{"Number": "33"}
+34	с	_		{}
+35	екипа	_		{}
+36	на	_		{}
+37	Реал	_		{}
+38	във	_		{}
+39	всички	_	Quantity	{"Mass": "39", "Quantity": "39"}
+40	турнири	_	Competition	{"Competition": "40"}
+41	.	_		{}

@@ -1,0 +1,36 @@
+1	Ronaldo	_		{}
+2	was	_		{}
+3	born	_		{}
+4	in	_		{}
+5	Santo	_		{}
+6	António	_		{}
+7	,	_		{}
+8	a	_		{}
+9	neighbourhood	_	Political_locales	{"Relative_location": "11", "Name": "5"}
+10	of	_		{}
+11	Funchal	_		{}
+12	,	_		{}
+13	Madeira	_		{}
+14	,	_		{}
+15	the	_		{}
+16	youngest	_	People_by_age	{"Person": "1"}
+17	child	_	People_by_age	{"Person": "1"}
+18	of	_		{}
+19	Maria	_		{}
+20	Dolores	_		{}
+21	dos	_		{}
+22	Santos	_		{}
+23	Aveiro	_		{}
+24	,	_		{}
+25	a	_	Cardinal_numbers	{"Number": "25", "Entity": "26"}
+26	cook	_		{}
+27	,	_		{}
+28	and	_		{}
+29	José	_		{}
+30	Dinis	_		{}
+31	Aveiro	_		{}
+32	,	_		{}
+33	a	_	Cardinal_numbers	{"Number": "33", "Entity": "35"}
+34	municipal	_	Political_locales	{}
+35	gardener	_	People_by_vocation	{"Person": "29"}
+36	.	_		{}

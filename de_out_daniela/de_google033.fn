@@ -1,0 +1,32 @@
+1	Seit	_		{}
+2	Juni	_	Calendric_unit	{"Whole": "3", "Unit": "2"}
+3	2005	_		{}
+4	können	_		{}
+5	die	_		{}
+6	Kunden	_		{}
+7	über	_		{}
+8	das	_		{}
+9	„Site	_		{}
+10	Targeting	_		{}
+11	“	_		{}
+12	außerdem	_		{}
+13	gezielt	_		{}
+14	auf	_		{}
+15	bestimmten	_	Communicate_categorization	{"Item": "16"}
+16	Seiten	_		{}
+17	werben	_		{}
+18	,	_		{}
+19	statische	_		{}
+20	und	_		{}
+21	animierte	_		{}
+22	Werbebanner	_		{}
+23	einsetzen	_	Using	{"Instrument": "22", "Agent": "6"}
+24	und	_		{}
+25	diese	_		{}
+26	über	_		{}
+27	die	_		{}
+28	Zahl	_	Quantity	{"Individuals": "30"}
+29	der	_		{}
+30	Abrufe	_		{}
+31	bezahlen	_	Commerce_pay	{"Buyer": "6", "Goods": "22"}
+32	.	_		{}

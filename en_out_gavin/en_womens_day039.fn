@@ -1,0 +1,15 @@
+1	The	_		{}
+2	displacement	_	Undergo_change	{"Entity": "4"}
+3	of	_		{}
+4	populations	_	Aggregate	{"Aggregate": "4"}
+5	is	_	Existence	{"Entity": "2"}
+6	one	_	Cardinal_numbers	{"Number": "6", "Entity": "10"}
+7	of	_		{}
+8	the	_		{}
+9	gravest	_	Importance	{"Field": "14"}
+10	consequences	_	Causation	{"Affected": "4", "Cause": "14"}
+11	of	_		{}
+12	today's	_		{}
+13	armed	_	Bearing_arms	{"Protagonist": "14"}
+14	conflicts	_	Hostile_encounter	{}
+15	.	_		{}

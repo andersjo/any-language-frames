@@ -1,0 +1,18 @@
+1	Finito	_	Process_completed_state	{"Process": "3"}
+2	di	_		{}
+3	vedere	_	Perception_active	{"Phenomenon": "3"}
+4	Maleficent	_		{}
+5	,	_		{}
+6	delusa	_		{}
+7	un	_		{}
+8	po	_		{}
+9	'	_		{}
+10	ma	_	Concessive	{"Main_statement": "6", "Statement": "17"}
+11	Angelina	_		{}
+12	Jolie	_		{}
+13	è	_		{}
+14	molto	_	Degree	{"Gradable_attribute": "15"}
+15	bella	_		{}
+16	e	_		{}
+17	brava	_		{}
+18	.	_		{}

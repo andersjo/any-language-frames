@@ -1,0 +1,21 @@
+1	El	_		{}
+2	nombre	_	Referring_by_name	{"Name": "5", "Entity": "5"}
+3	de	_		{}
+4	"	_		{}
+5	Harry	_		{}
+6	Potter	_		{}
+7	"	_		{}
+8	se	_		{}
+9	menciona	_	Mention	{"Specified_content": "5", "Message": "5", "Medium": "18"}
+10	18.956	_		{}
+11	veces	_	Frequency	{"Attribute": "11", "Rate": "10", "Salient_entity": "5", "Event": "9", "Degree": "10"}
+12	a	_		{}
+13	lo	_		{}
+14	largo	_		{}
+15	de	_		{}
+16	toda	_	Quantity	{"Individuals": "18", "Mass": "16", "Quantity": "16"}
+17	la	_		{}
+18	serie	_	Sequence	{"Entity1": "21"}
+19	de	_		{}
+20	los	_		{}
+21	libros	_	Text	{"Text": "21"}

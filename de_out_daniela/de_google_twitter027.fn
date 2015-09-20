@@ -1,0 +1,11 @@
+1	@ParaSiempreSola	_		{}
+2	SIE	_		{}
+3	HABEN	_		{}
+4	AUF	_		{}
+5	GOOGLE	_		{}
+6	GEFRAGT	_		{}
+7	WARUM	_	Reason	{"Action": "8", "Agent": "9", "State_of_Affairs": "6"}
+8	WAREN	_	Being_in_category	{"Category": "11", "Item": "9"}
+9	WIR	_		{}
+10	NIXHT	_		{}
+11	DABEI	_		{}

@@ -1,0 +1,17 @@
+1	I	_		{}
+2	am	_	Existence	{"Depictive": "4", "Entity": "1"}
+3	honestly	_		{}
+4	scared	_	Emotion_directed	{"Stimulus": "5", "State": "4", "Manner": "3", "Experiencer": "1"}
+5	of	_		{}
+6	people	_	People	{"Persistent_characteristic": "7", "Person": "6"}
+7	that	_		{}
+8	are	_	Being_in_category	{"Category": "9", "Item": "6"}
+9	obsessed	_	Emotion_active	{"Topic": "12", "Experiencer": "6"}
+10	with	_		{}
+11	harry	_		{}
+12	potter	_		{}
+13	and	_		{}
+14	lord	_	Leadership	{"Leader": "14", "Governed": "15"}
+15	of	_		{}
+16	the	_		{}
+17	rings	_	Accoutrements	{"Accoutrement": "17"}

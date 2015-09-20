@@ -1,0 +1,25 @@
+1	last	_	Version_sequence	{"Item": "2"}
+2	time	_	Event_instance	{"Instance": "2"}
+3	??	_		{}
+4	wait	_		{}
+5	is	_		{}
+6	Riri	_		{}
+7	leaving	_	Departing	{"Theme": "6"}
+8	for	_		{}
+9	Korea	_		{}
+10	today	_	Temporal_collocation	{}
+11	??	_		{}
+12	how	_		{}
+13	i	_		{}
+14	wished	_	Desiring	{"Focal_participant": "15", "Event": "17", "Experiencer": "13"}
+15	he	_		{}
+16	could	_		{}
+17	meet	_	Make_acquaintance	{"Individual_1": "15", "Individual_2": "18"}
+18	christiano	_		{}
+19	ronaldo	_		{}
+20	and	_		{}
+21	take	_	Manufacturing	{"Product": "23"}
+22	a	_	Cardinal_numbers	{"Number": "22", "Entity": "23"}
+23	pic	_	Physical_artworks	{"Artifact": "23"}
+24	w/	_		{}
+25	him	_		{}

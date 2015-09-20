@@ -1,0 +1,18 @@
+1	He	_		{}
+2	has	_	Have_associated	{"Topical_entity": "1", "Entity": "5"}
+3	one	_	Cardinal_numbers	{"Number": "3", "Entity": "5"}
+4	older	_	Age	{"Age": "4", "Entity": "5"}
+5	brother	_	Kinship	{"Descriptor": "4", "Ego": "1", "Alter": "5"}
+6	,	_		{}
+7	Hugo	_		{}
+8	,	_		{}
+9	and	_		{}
+10	two	_	Cardinal_numbers	{"Number": "10", "Entity": "12"}
+11	older	_	Age	{"Age": "11", "Entity": "12"}
+12	sisters	_	Kinship	{"Descriptor": "11", "Ego": "1", "Alter": "12"}
+13	,	_		{}
+14	Elma	_		{}
+15	and	_		{}
+16	Liliana	_		{}
+17	Cátia	_		{}
+18	.	_		{}

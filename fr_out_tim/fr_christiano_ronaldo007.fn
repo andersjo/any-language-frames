@@ -1,0 +1,22 @@
+1	Il	_		{}
+2	réalise	_	Accomplishment	{"Goal": "4", "Agent": "1"}
+3	une	_		{}
+4	saison	_		{}
+5	2007-2008	_		{}
+6	énorme	_	Size	{"Entity": "4"}
+7	avec	_		{}
+8	Manchester	_		{}
+9	United	_		{}
+10	en	_		{}
+11	remportant	_	Win_prize	{"Competitor": "1", "Prize": "13"}
+12	la	_		{}
+13	Barclays	_		{}
+14	Premier	_		{}
+15	League	_		{}
+16	et	_		{}
+17	la	_		{}
+18	prestigieuse	_		{}
+19	Ligue	_		{}
+20	des	_		{}
+21	champions	_		{}
+22	.	_		{}

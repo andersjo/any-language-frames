@@ -1,0 +1,25 @@
+1	Numerous	_	Quantity	{"Individuals": "3", "Quantity": "1"}
+2	Google	_		{}
+3	sites	_	Locale	{"Locale": "3"}
+4	in	_		{}
+5	other	_		{}
+6	languages	_		{}
+7	figure	_	Categorization	{"Category": "10", "Item": "3"}
+8	in	_		{}
+9	the	_		{}
+10	top	_		{}
+11	one	_	Cardinal_numbers	{"Number": "11", "Entity": "12"}
+12	hundred	_		{}
+13	,	_		{}
+14	as	_		{}
+15	do	_		{}
+16	several	_	Quantity	{"Individuals": "19", "Quantity": "16"}
+17	other	_		{}
+18	Google-owned	_		{}
+19	sites	_	Locale	{"Locale": "19"}
+20	such	_		{}
+21	as	_		{}
+22	YouTube	_		{}
+23	and	_	Simultaneity	{"Profiled_event": "22", "Landmark_event": "24"}
+24	Blogger	_		{}
+25	.	_		{}

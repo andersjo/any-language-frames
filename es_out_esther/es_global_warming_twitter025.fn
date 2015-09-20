@@ -1,0 +1,14 @@
+1	La	_		{}
+2	encíclica	_		{}
+3	de	_		{}
+4	marzo	_	Calendric_unit	{"Relative_time": "4"}
+5	de	_		{}
+6	@vatican_va_es	_		{}
+7	tocará	_		{}
+8	el	_		{}
+9	tema	_	Topic	{"Topic": "11", "Text": "9", "Communicator": "2"}
+10	del	_		{}
+11	cambio	_	Cause_change	{"Initial_value": "12", "Final_value": "11", "Initial_category": "12", "Final_category": "11", "Entity": "9"}
+12	climático	_	Weather	{"Place": "11"}
+13	http://t.co/ft2gDspmqb	_		{}
+14	#PapaFrancisco	_		{}

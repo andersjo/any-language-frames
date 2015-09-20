@@ -1,0 +1,35 @@
+1	The	_		{}
+2	plot	_		{}
+3	concludes	_	Process_end	{"Process": "2"}
+4	with	_		{}
+5	Harry's	_		{}
+6	second	_	Ordinal_numbers	{"Item": "7"}
+7	confrontation	_	Hostile_encounter	{"Side_2": "10", "Side_1": "5"}
+8	with	_		{}
+9	Lord	_	Leadership	{"Leader": "10"}
+10	Voldemort	_		{}
+11	,	_		{}
+12	who	_		{}
+13	in	_		{}
+14	his	_		{}
+15	quest	_	Seeking_to_achieve	{"Sought_entity": "17", "Agent": "10"}
+16	for	_		{}
+17	immortality	_		{}
+18	,	_		{}
+19	yearns	_	Desiring	{"Experiencer": "10", "Event": "21"}
+20	to	_		{}
+21	gain	_	Getting	{"Theme": "23", "Recipient": "10"}
+22	the	_		{}
+23	power	_	Electricity	{"Electricity": "23", "Source": "24"}
+24	of	_		{}
+25	the	_		{}
+26	Philosopher's	_		{}
+27	Stone	_		{}
+28	,	_		{}
+29	a	_	Cardinal_numbers	{"Number": "29", "Entity": "30"}
+30	substance	_	Gizmo	{"Gizmo": "27"}
+31	that	_		{}
+32	bestows	_	Giving	{"Donor": "30", "Theme": "34"}
+33	everlasting	_	Duration_attribute	{"Period": "33", "Eventuality": "34"}
+34	life	_	Dead_or_alive	{}
+35	.	_		{}

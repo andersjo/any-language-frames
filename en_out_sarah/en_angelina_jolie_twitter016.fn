@@ -1,0 +1,20 @@
+1	#AngelinaJolie	_		{}
+2	#Fans	_		{}
+3	ANGELINA	_		{}
+4	JOLIE	_		{}
+5	*	_		{}
+6	SIGNED	_	Sign_agreement	{"Signatory": "3"}
+7	*	_		{}
+8	HOT	_	Subjective_temperature	{}
+9	Authentic	_	Artificiality	{"Entity": "17"}
+10	Real	_	Artificiality	{"Entity": "17"}
+11	Hand	_	Observable_body_parts	{"Body_part": "11", "Possessor": "3"}
+12	Signed	_	Sign_agreement	{"Signatory": "3"}
+13	SEXY	_		{}
+14	11	_		{}
+15	x	_		{}
+16	14	_	Cardinal_numbers	{"Number": "16"}
+17	PHOTO	_	Physical_artworks	{"Descriptor": "9", "Artifact": "17"}
+18	http://t.co/bLB92FS7Yj	_		{}
+19	#Collectibles	_		{}
+20	#Sale	_		{}

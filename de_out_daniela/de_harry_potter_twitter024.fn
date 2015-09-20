@@ -1,0 +1,16 @@
+1	Hab	_		{}
+2	heute	_	Temporal_collocation	{"Trajector_event": "5", "Landmark_period": "2"}
+3	Harry	_		{}
+4	Potter	_		{}
+5	geguckt	_	Perception_active	{"Phenomenon": "4"}
+6	und	_	Simultaneity	{"Profiled_event": "9", "Landmark_event": "5"}
+7	wieder	_		{}
+8	mal	_		{}
+9	festgestellt	_	Becoming_aware	{"Phenomenon": "13", "Means": "5"}
+10	das	_		{}
+11	#slytherin	_		{}
+12	viel	_		{}
+13	cooler	_	Popularity	{"Degree": "12", "Evaluee": "11"}
+14	ist	_		{}
+15	als	_		{}
+16	#Griffondor	_		{}

@@ -1,0 +1,18 @@
+1	Bei	_		{}
+2	seinem	_		{}
+3	neuen	_	Familiarity	{"Cognizer": "6", "Entity": "4"}
+4	Verein	_	Organization	{"Organization": "4", "Members": "6"}
+5	gewann	_		{}
+6	er	_		{}
+7	eine	_		{}
+8	Jugendmeisterschaft	_		{}
+9	und	_	Simultaneity	{"Profiled_event": "14", "Landmark_event": "8"}
+10	absolvierte	_		{}
+11	1997	_		{}
+12	ein	_		{}
+13	dreitägiges	_		{}
+14	Probetraining	_		{}
+15	bei	_		{}
+16	Sporting	_		{}
+17	Lissabon	_		{}
+18	.	_		{}

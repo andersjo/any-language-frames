@@ -1,0 +1,22 @@
+1	Leon	_		{}
+2	Trotsky	_		{}
+3	wrote	_	Text_creation	{"Author": "2"}
+4	,	_		{}
+5	"	_		{}
+6	23	_		{}
+7	February	_	Calendric_unit	{"Unit": "7"}
+8	(	_		{}
+9	8th	_	Ordinal_numbers	{"Item": "10"}
+10	March	_	Calendric_unit	{"Unit": "10"}
+11	)	_		{}
+12	was	_	Existence	{"Entity": "7"}
+13	International	_	Foreign_or_domestic_country	{"Current_country": "13"}
+14	Woman’s	_		{}
+15	Day	_	Calendric_unit	{"Unit": "15"}
+16	and	_		{}
+17	meetings	_	Social_event	{}
+18	and	_		{}
+19	actions	_	Intentionally_act	{}
+20	were	_	Being_in_category	{"Category": "21"}
+21	foreseen	_	Expectation	{"Phenomenon": "17"}
+22	.	_		{}

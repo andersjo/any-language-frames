@@ -1,0 +1,20 @@
+1	Antes	_	Relative_time	{"Focal_occasion": "5", "Landmark_occasion": "8"}
+2	de	_		{}
+3	su	_		{}
+4	primera	_	First_experience	{"Context": "14", "Experience": "5"}
+5	temporada	_	Sequence	{"Entity1": "5", "Entity2": "7"}
+6	el	_		{}
+7	equipo	_	Organization	{"Organization": "7", "Place": "11", "Members": "7"}
+8	ganó	_		{}
+9	la	_		{}
+10	la	_		{}
+11	Liga	_	Finish_competition	{"Competition": "11"}
+12	,	_		{}
+13	la	_		{}
+14	Copa	_	Accoutrements	{"Accoutrement": "14"}
+15	de	_		{}
+16	Portugal	_		{}
+17	y	_		{}
+18	la	_		{}
+19	Supercopa	_		{}
+20	.	_		{}

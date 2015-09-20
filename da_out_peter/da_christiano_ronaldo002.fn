@@ -1,0 +1,27 @@
+1	Ronaldo	_		{}
+2	begyndte	_		{}
+3	sin	_		{}
+4	karriere	_		{}
+5	som	_		{}
+6	ungdomsspiller	_		{}
+7	i	_	Natural_features	{"Locale": "8"}
+8	Nacional	_		{}
+9	,	_		{}
+10	og	_		{}
+11	hans	_		{}
+12	succes	_	Successful_action	{"Protagonist": "1", "Place": "14", "Goal": "12"}
+13	hos	_		{}
+14	Nacional	_		{}
+15	,	_		{}
+16	førte	_		{}
+17	til	_		{}
+18	et	_		{}
+19	skift	_	Cause_change	{"Final_category": "22", "Agent": "1", "Initial_category": "14"}
+20	til	_		{}
+21	hovedstadsklubben	_		{}
+22	Sporting	_		{}
+23	CP	_		{}
+24	to	_	Cardinal_numbers	{"Number": "24", "Entity": "25"}
+25	sæsoner	_		{}
+26	senere	_	Relative_time	{"Focal_occasion": "19", "Focal_participant": "1", "Landmark_occasion": "2"}
+27	.	_		{}

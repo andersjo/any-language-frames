@@ -1,0 +1,33 @@
+1	Cristiano	_		{}
+2	Ronaldo	_		{}
+3	dos	_		{}
+4	Santos	_		{}
+5	Aveiro	_		{}
+6	blev	_		{}
+7	født	_		{}
+8	den	_		{}
+9	5	_	Cardinal_numbers	{"Number": "9", "Entity": "11"}
+10	.	_		{}
+11	februar	_	Calendric_unit	{"Whole": "12", "Unit": "11"}
+12	1985	_		{}
+13	i	_	Natural_features	{"Locale": "14", "Relative_location": "16"}
+14	Funchal	_		{}
+15	,	_		{}
+16	Madeira	_		{}
+17	,	_		{}
+18	og	_		{}
+19	var	_	Type	{"Category": "22", "Subtype": "2"}
+20	det	_		{}
+21	yngste	_		{}
+22	barn	_	Kinship	{"Ego": "2", "Alter": "28"}
+23	af	_		{}
+24	Maria	_		{}
+25	Dolores	_		{}
+26	dos	_		{}
+27	Santos	_		{}
+28	Aveiro	_		{}
+29	og	_		{}
+30	José	_		{}
+31	Dinis	_		{}
+32	Aveiro	_		{}
+33	.	_		{}

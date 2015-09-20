@@ -1,0 +1,20 @@
+1	Sooooooo	_		{}
+2	cleaning	_		{}
+3	my	_		{}
+4	room	_	Building_subparts	{"Building_part": "4", "Type": "3"}
+5	is	_		{}
+6	going	_	Process_continue	{"Depictive": "10", "Manner": "8"}
+7	real	_	Degree	{"Gradable_attribute": "7"}
+8	will	_		{}
+9	.	_		{}
+10	So	_		{}
+11	far	_	Degree	{"Gradable_attribute": "10"}
+12	I	_		{}
+13	finished	_	Activity_finish	{"Agent": "12", "Activity": "2"}
+14	year	_	Calendric_unit	{"Count": "15", "Unit": "14"}
+15	two	_		{}
+16	on	_		{}
+17	Lego	_		{}
+18	Harry	_		{}
+19	Potter	_		{}
+20	.	_		{}

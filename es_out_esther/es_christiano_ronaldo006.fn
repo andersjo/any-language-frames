@@ -1,0 +1,67 @@
+1	También	_		{}
+2	madridista	_		{}
+3	que	_		{}
+4	menos	_	Non	{}
+5	partidos	_	Social_event	{"Attendee": "2"}
+6	necesitó	_		{}
+7	(	_		{}
+8	92	_		{}
+9	)	_		{}
+10	para	_		{}
+11	alcanzar	_	Arriving	{"Theme": "2", "Goal": "14"}
+12	los	_		{}
+13	cien	_	Cardinal_numbers	{"Number": "13", "Entity": "14"}
+14	goles	_	Purpose	{"Goal": "14"}
+15	en	_		{}
+16	el	_		{}
+17	campeonato	_	Competition	{"Participant_1": "2", "Competition": "19"}
+18	de	_		{}
+19	Liga	_	Finish_competition	{"Competitor": "2", "Competition": "17"}
+20	,	_		{}
+21	ser	_	Being_in_category	{"Category": "30", "Item": "24"}
+22	el	_		{}
+23	primer	_	First_experience	{"Context": "30", "Experience": "24"}
+24	futbolista	_		{}
+25	en	_		{}
+26	la	_		{}
+27	historia	_	History	{"Topic": "30"}
+28	de	_		{}
+29	la	_		{}
+30	Liga	_		{}
+31	que	_		{}
+32	consiguió	_		{}
+33	marcarle	_	Hit_or_miss	{"Target_location": "37", "Agent": "2"}
+34	a	_		{}
+35	todos	_	Quantity	{"Individuals": "37", "Quantity": "35"}
+36	los	_		{}
+37	equipos	_	Organization	{"Members": "37"}
+38	a	_		{}
+39	los	_		{}
+40	que	_		{}
+41	se	_		{}
+42	enfrentó	_		{}
+43	en	_		{}
+44	una	_		{}
+45	temporada	_	Sequence	{}
+46	,	_		{}
+47	o	_		{}
+48	ser	_	Being_in_category	{"Category": "57", "Item": "54"}
+49	hasta	_		{}
+50	el	_		{}
+51	momento	_	Location_in_time	{"Relative_time": "51"}
+52	el	_		{}
+53	único	_	Sole_instance	{"Item": "54", "Type": "54"}
+54	futbolista	_		{}
+55	de	_		{}
+56	la	_		{}
+57	historia	_	History	{"Topic": "30"}
+58	capaz	_	Being_up_to_it	{"Activity": "60", "Entity": "2"}
+59	de	_		{}
+60	marcar	_	Hit_or_miss	{"Target_location": "64", "Agent": "2"}
+61	en	_		{}
+62	seis	_	Cardinal_numbers	{"Number": "62", "Entity": "64"}
+63	«	_		{}
+64	Clásicos	_		{}
+65	»	_		{}
+66	consecutivos	_	Candidness	{}
+67	.	_		{}

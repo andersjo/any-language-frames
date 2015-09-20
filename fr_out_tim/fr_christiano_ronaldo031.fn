@@ -1,0 +1,16 @@
+1	Il	_		{}
+2	attire	_		{}
+3	également	_		{}
+4	l'attention	_		{}
+5	de	_		{}
+6	Lyon	_		{}
+7	mais	_	Concessive	{"Main_statement": "11", "Statement": "2"}
+8	le	_		{}
+9	club	_	Organization	{"Organization": "6"}
+10	français	_		{}
+11	refuse	_	Agree_or_refuse_to_act	{"Proposed_action": "12", "Speaker": "9"}
+12	l'échange	_		{}
+13	avec	_		{}
+14	Tony	_		{}
+15	Vairelles	_		{}
+16	.	_		{}

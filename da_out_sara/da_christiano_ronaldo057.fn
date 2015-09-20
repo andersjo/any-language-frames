@@ -1,0 +1,32 @@
+1	Den	_		{}
+2	19	_		{}
+3	.	_		{}
+4	marts	_	Calendric_unit	{"Relative_time": "5", "Whole": "2", "Unit": "4"}
+5	2008	_		{}
+6	var	_		{}
+7	Ronaldo	_		{}
+8	anfører	_	Leadership	{"Role": "8", "Leader": "7", "Governed": "10"}
+9	for	_		{}
+10	United	_		{}
+11	for	_		{}
+12	første	_	Ordinal_numbers	{"Item": "13"}
+13	gang	_	Event_instance	{"Instance": "8"}
+14	i	_		{}
+15	sin	_		{}
+16	karriere	_		{}
+17	i	_		{}
+18	en	_		{}
+19	hjemmesejr	_		{}
+20	over	_		{}
+21	Bolton	_		{}
+22	,	_		{}
+23	hvor	_		{}
+24	han	_		{}
+25	scorede	_		{}
+26	begge	_		{}
+27	mål	_	Aiming	{"Targeted": "27", "Agent": "7"}
+28	i	_		{}
+29	2	_	Cardinal_numbers	{"Number": "29"}
+30	–	_		{}
+31	0-sejren	_		{}
+32	.	_		{}

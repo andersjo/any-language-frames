@@ -1,0 +1,23 @@
+1	"	_		{}
+2	@classland	_		{}
+3	:	_		{}
+4	Qué	_		{}
+5	Disney	_		{}
+6	ni	_		{}
+7	Disney	_		{}
+8	...	_		{}
+9	Yo	_	Proper_reference	{"Intended_referent": "9", "Entity": "9"}
+10	quiero	_	Desiring	{"Location_of_Event": "13", "Focal_participant": "9", "Experiencer": "9", "Event": "16"}
+11	ir	_	Motion	{"Direction": "13", "Theme": "16", "Goal": "13", "Area": "21"}
+12	al	_		{}
+13	parque	_	Locale_by_use	{"Locale": "14"}
+14	temático	_		{}
+15	de	_		{}
+16	Harry	_		{}
+17	Potter	_		{}
+18	que	_		{}
+19	hay	_	Existence	{"Entity": "16"}
+20	en	_		{}
+21	Orlando	_		{}
+22	.	_		{}
+23	"	_		{}

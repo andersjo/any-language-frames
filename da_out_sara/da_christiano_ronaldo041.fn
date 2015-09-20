@@ -1,0 +1,52 @@
+1	)	_		{}
+2	for	_		{}
+3	Ronaldo	_		{}
+4	,	_		{}
+5	skrev	_		{}
+6	han	_		{}
+7	under	_		{}
+8	på	_		{}
+9	en	_		{}
+10	femårig	_		{}
+11	kontraktforlængelse	_		{}
+12	med	_		{}
+13	United	_		{}
+14	den	_		{}
+15	13	_	Quantity	{"Individuals": "15"}
+16	.	_		{}
+17	april	_	Calendric_unit	{"Relative_time": "18", "Whole": "15", "Unit": "17"}
+18	2007	_		{}
+19	,	_		{}
+20	med	_		{}
+21	en	_		{}
+22	tilsvarende	_		{}
+23	løn	_	Earnings_and_losses	{"Earner": "3", "Earnings": "23"}
+24	på	_		{}
+25	1	_	Cardinal_numbers	{"Number": "25", "Entity": "28"}
+26	,	_		{}
+27	2	_	Cardinal_numbers	{}
+28	millioner	_	Cardinal_numbers	{"Number": "25", "Entity": "28"}
+29	om	_		{}
+30	ugen	_		{}
+31	(	_		{}
+32	332	_		{}
+33	,	_		{}
+34	3	_	Cardinal_numbers	{"Number": "34", "Entity": "35"}
+35	millioner	_	Cardinal_numbers	{"Number": "34", "Entity": "35"}
+36	i	_		{}
+37	hele	_		{}
+38	perioden	_		{}
+39	)	_		{}
+40	,	_		{}
+41	som	_		{}
+42	gør	_	Causation	{"Affected": "43", "Cause": "23"}
+43	ham	_		{}
+44	til	_		{}
+45	den	_		{}
+46	højest	_		{}
+47	betalte	_		{}
+48	spiller	_	Competition	{"Participant_1": "3"}
+49	i	_		{}
+50	klubbens	_		{}
+51	historie	_	History	{"Topic": "50"}
+52	.	_		{}

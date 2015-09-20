@@ -1,0 +1,20 @@
+1	Questo	_	Proper_reference	{"Intended_referent": "3", "Entity": "7"}
+2	suo	_		{}
+3	disagio	_	Experiencer_obj	{"Experiencer": "7"}
+4	portò	_		{}
+5	la	_		{}
+6	giovane	_	Age	{"Entity": "7"}
+7	Angelina	_		{}
+8	all'autolesionismo	_		{}
+9	,	_		{}
+10	a	_		{}
+11	provocarsi	_		{}
+12	delle	_		{}
+13	ferite	_	Experience_bodily_harm	{"Experiencer": "7"}
+14	con	_		{}
+15	coltelli	_	Weapon	{"Weapon": "15", "Wielder": "7"}
+16	che	_		{}
+17	lei	_		{}
+18	stessa	_	Identicality	{"Previous_instance": "7", "Current_instance": "17"}
+19	collezionava	_		{}
+20	.	_		{}

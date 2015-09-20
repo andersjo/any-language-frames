@@ -1,0 +1,48 @@
+1	The	_		{}
+2	corporation	_	Businesses	{"Product": "12", "Place": "18", "Business": "2"}
+3	has	_		{}
+4	been	_		{}
+5	estimated	_	Estimating	{"Item": "2", "Feature": "12", "Value": "11"}
+6	to	_		{}
+7	run	_	Being_in_operation	{"Device": "2", "Time": "42"}
+8	more	_	Increment	{"Class": "12"}
+9	than	_		{}
+10	one	_	Cardinal_numbers	{"Number": "10", "Entity": "11"}
+11	million	_		{}
+12	servers	_		{}
+13	in	_		{}
+14	data	_	Information	{"Information": "14"}
+15	centers	_	Buildings	{"Building": "15", "Type": "14", "Place": "18"}
+16	around	_		{}
+17	the	_		{}
+18	world	_	Locale	{"Locale": "18"}
+19	(	_		{}
+20	as	_		{}
+21	of	_		{}
+22	2007	_		{}
+23	);	_		{}
+24	and	_	Simultaneity	{"Profiled_event": "26", "Landmark_event": "7"}
+25	to	_		{}
+26	process	_	Processing_materials	{"Agent": "2"}
+27	over	_		{}
+28	one	_	Cardinal_numbers	{"Number": "28", "Entity": "29"}
+29	billion	_		{}
+30	search	_	Seeking	{}
+31	requests	_	Request	{"Topic": "30"}
+32	,	_		{}
+33	and	_	Simultaneity	{"Profiled_event": "39", "Landmark_event": "31"}
+34	about	_		{}
+35	24	_		{}
+36	petabytes	_		{}
+37	of	_		{}
+38	user-generated	_		{}
+39	data	_	Information	{"Source": "38"}
+40	,	_		{}
+41	each	_		{}
+42	day	_		{}
+43	(	_		{}
+44	as	_		{}
+45	of	_		{}
+46	2009	_		{}
+47	)	_		{}
+48	.	_		{}

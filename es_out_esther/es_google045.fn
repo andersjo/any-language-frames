@@ -1,0 +1,37 @@
+1	Este	_	Proper_reference	{"Intended_referent": "3", "Entity": "3"}
+2	mismo	_	Identicality	{"Current_instance": "3", "Previous_context": "3"}
+3	mes	_	Calendric_unit	{"Relative_time": "2"}
+4	,	_		{}
+5	Google	_		{}
+6	se	_		{}
+7	convirtió	_	Cause_change	{"Final_value": "22", "Final_category": "12", "Entity": "5"}
+8	en	_		{}
+9	la	_		{}
+10	marca	_	Labeling	{"Label": "5", "Medium": "14", "Entity": "5"}
+11	más	_	Increment	{"Initial_set": "12", "Added_set": "12", "Class": "12"}
+12	valiosa	_	Usefulness	{"Entity": "5"}
+13	del	_		{}
+14	mundo	_	Locale	{"Locale": "14"}
+15	,	_		{}
+16	alcanzando	_	Arriving	{"Theme": "22", "Goal": "18"}
+17	la	_		{}
+18	suma	_	Quantity	{"Individuals": "24", "Mass": "22", "Quantity": "20"}
+19	de	_		{}
+20	66	_		{}
+21	000	_		{}
+22	millones	_	Quantity	{"Individuals": "24", "Mass": "22", "Quantity": "20"}
+23	de	_		{}
+24	dólares	_		{}
+25	,	_		{}
+26	superando	_	Beat_opponent	{"Winner": "5", "Loser": "29"}
+27	a	_		{}
+28	emblemáticas	_	Exemplariness	{"Comparison_set": "29", "Entity": "29"}
+29	empresas	_	Businesses	{"Business": "31"}
+30	como	_	Identicality	{"Previous_context": "29", "Current_instance": "31"}
+31	Microsoft	_		{}
+32	,	_		{}
+33	General	_		{}
+34	Electric	_		{}
+35	y	_		{}
+36	Coca-Cola	_		{}
+37	.	_		{}

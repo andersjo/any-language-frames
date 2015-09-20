@@ -1,0 +1,18 @@
+1	Sein	_	Possession	{"Owner": "9", "Depictive": "2", "Possession": "3"}
+2	erstes	_		{}
+3	Tor	_	Purpose	{"Goal": "3", "Agent": "9"}
+4	in	_		{}
+5	der	_		{}
+6	Premier	_		{}
+7	League	_		{}
+8	schoss	_		{}
+9	Ronaldo	_		{}
+10	Anfang	_	Temporal_subregion	{"Time_period": "11", "Sub_part": "10"}
+11	November	_	Calendric_unit	{"Unit": "11"}
+12	per	_		{}
+13	Freistoß	_		{}
+14	gegen	_		{}
+15	den	_		{}
+16	FC	_		{}
+17	Portsmouth	_		{}
+18	.	_		{}

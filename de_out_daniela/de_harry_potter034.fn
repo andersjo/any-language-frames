@@ -1,0 +1,24 @@
+1	Harry	_		{}
+2	erlebt	_	Perception_experience	{"Phenomenon": "8", "Perceiver_passive": "1"}
+3	zum	_		{}
+4	ersten	_	Ordinal_numbers	{"Type": "5"}
+5	Mal	_	Event_instance	{"Event": "2"}
+6	bewusst	_	Awareness	{"Content": "8", "Cognizer": "1"}
+7	familienähnliche	_		{}
+8	Geborgenheit	_		{}
+9	in	_		{}
+10	seinem	_	Possession	{"Possession": "11", "Owner": "1"}
+11	Haus	_		{}
+12	Gryffindor	_		{}
+13	,	_		{}
+14	dem	_		{}
+15	er	_		{}
+16	an	_		{}
+17	seinem	_	Possession	{"Possession": "19", "Owner": "15"}
+18	ersten	_	Ordinal_numbers	{"Type": "19"}
+19	Tag	_	Calendric_unit	{"Count": "18", "Unit": "19"}
+20	in	_		{}
+21	Hogwarts	_		{}
+22	zugeteilt	_		{}
+23	wird	_		{}
+24	.	_		{}

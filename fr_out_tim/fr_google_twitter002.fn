@@ -1,0 +1,14 @@
+1	L'autre	_		{}
+2	fdp	_		{}
+3	de	_		{}
+4	Quentin	_		{}
+5	il	_		{}
+6	a	_		{}
+7	utilisé	_		{}
+8	Google	_		{}
+9	trad	_		{}
+10	il	_		{}
+11	se	_		{}
+12	croit	_	Opinion	{"Opinion": "13", "Cognizer": "10"}
+13	intelligent	_	Mental_property	{"Protagonist": "10", "Behavior": "13"}
+14	!!	_		{}

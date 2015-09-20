@@ -1,0 +1,21 @@
+1	La	_		{}
+2	mère	_	Kinship	{"Ego": "3", "Alter": "2"}
+3	d'Angelina	_		{}
+4	Jolie	_		{}
+5	vit	_		{}
+6	avec	_		{}
+7	un	_		{}
+8	revenu	_	Earnings_and_losses	{"Earner": "2"}
+9	modeste	_	Size	{"Entity": "8"}
+10	,	_		{}
+11	et	_		{}
+12	Angelina	_		{}
+13	Jolie	_		{}
+14	porte	_	Wearing	{"Clothing": "17", "Wearer": "12"}
+15	souvent	_	Frequency	{"Event": "14"}
+16	des	_		{}
+17	vêtements	_	Clothing	{"Garment": "17"}
+18	de	_		{}
+19	seconde	_		{}
+20	main	_		{}
+21	.	_		{}

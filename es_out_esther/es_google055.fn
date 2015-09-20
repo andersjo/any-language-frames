@@ -1,0 +1,14 @@
+1	En	_		{}
+2	noviembre	_	Calendric_unit	{"Relative_time": "2"}
+3	presenta	_	Communicate_categorization	{"Category": "5", "Item": "5"}
+4	el	_		{}
+5	proyecto	_	Project	{"Project": "12", "Field": "7", "Salient_entity": "12", "Goal": "7", "Activity": "3"}
+6	de	_		{}
+7	sistema	_	System	{"Function": "8", "Component_entities": "10", "Salient_entity": "12"}
+8	operativo	_	Being_in_operation	{"Device": "7"}
+9	de	_		{}
+10	código	_		{}
+11	abierto	_	Openness	{"Theme": "10", "Useful_location": "12"}
+12	Chromium	_		{}
+13	OS	_		{}
+14	.	_		{}

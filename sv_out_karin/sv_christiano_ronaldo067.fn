@@ -1,0 +1,34 @@
+1	Säsongen	_		{}
+2	2010/2011	_		{}
+3	gjorde	_		{}
+4	Ronaldo	_		{}
+5	40	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	mål	_	Hit_target	{"Target": "6", "Agent": "4"}
+7	av	_		{}
+8	Reals	_		{}
+9	102	_		{}
+10	mål	_	Hit_target	{"Target": "10", "Agent": "8"}
+11	i	_		{}
+12	La	_		{}
+13	Liga	_		{}
+14	,	_		{}
+15	och	_	Simultaneity	{"Profiled_event": "3", "Landmark_event": "17"}
+16	han	_		{}
+17	gjorde	_		{}
+18	totalt	_	Amounting_to	{"Attribute": "20", "Numbers": "5", "Value": "19"}
+19	53	_		{}
+20	mål	_	Hit_target	{"Target": "20", "Agent": "4", "Time": "23"}
+21	under	_		{}
+22	hela	_		{}
+23	säsongen	_		{}
+24	,	_		{}
+25	första	_	Ordinal_numbers	{"Comparison_set": "26"}
+26	plats	_		{}
+27	i	_		{}
+28	hela	_		{}
+29	Europa	_		{}
+30	delad	_		{}
+31	med	_		{}
+32	Lionel	_		{}
+33	Messi	_		{}
+34	.	_		{}

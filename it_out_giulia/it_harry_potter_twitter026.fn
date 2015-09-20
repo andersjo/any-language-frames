@@ -1,0 +1,11 @@
+1	Sentirsi	_		{}
+2	chiamati	_		{}
+3	in	_		{}
+4	causa	_		{}
+5	quando	_	Event_instance	{"Event": "7"}
+6	qualcuno	_	People	{"Person": "6"}
+7	parla	_	Speak_on_topic	{"Topic": "9", "Speaker": "6"}
+8	di	_		{}
+9	Harry	_		{}
+10	Potter	_		{}
+11	#cosedapotterheads	_		{}

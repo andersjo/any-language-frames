@@ -1,0 +1,21 @@
+1	Su	_		{}
+2	progresión	_	Progress	{}
+3	le	_		{}
+4	llevó	_		{}
+5	a	_		{}
+6	ser	_	Being_in_category	{"Category": "7", "Criteria": "14"}
+7	designado	_	Assessing	{"Assessor": "14", "Medium": "14", "Method": "14", "Phenomenon": "17", "Feature": "17"}
+8	en	_		{}
+9	noviembre	_	Calendric_unit	{"Relative_time": "9", "Whole": "9"}
+10	por	_		{}
+11	la	_		{}
+12	Barclays	_		{}
+13	Premier	_		{}
+14	League	_		{}
+15	como	_	Similarity	{"Entities": "17", "Differentiating_fact": "17", "Dimension": "17", "Entity_1": "17"}
+16	«	_		{}
+17	Jugador	_	Performers	{"Person": "17"}
+18	del	_		{}
+19	mes	_	Calendric_unit	{"Relative_time": "19", "Unit": "9"}
+20	»	_		{}
+21	.	_		{}

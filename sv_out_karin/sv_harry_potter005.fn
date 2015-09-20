@@ -1,0 +1,17 @@
+1	Böckerna	_		{}
+2	om	_		{}
+3	Harry	_		{}
+4	Potter	_		{}
+5	har	_		{}
+6	fått	_		{}
+7	beröm	_	Judgment_communication	{"Topic": "14", "Reason": "16", "Evaluee": "1"}
+8	för	_		{}
+9	att	_		{}
+10	de	_		{}
+11	har	_		{}
+12	fått	_		{}
+13	många	_	Quantity	{"Individuals": "14"}
+14	barn	_	People_by_age	{"Person": "14"}
+15	att	_		{}
+16	läsa	_	Reading	{"Text": "4", "Reader": "14"}
+17	.	_		{}

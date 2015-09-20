@@ -1,0 +1,36 @@
+1	Ha	_		{}
+2	occupato	_		{}
+3	,	_		{}
+4	per	_		{}
+5	quattro	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	anni	_	Calendric_unit	{"Count": "5", "Unit": "6"}
+7	consecutivi	_	Relative_time	{"Focal_occasion": "2"}
+8	,	_		{}
+9	il	_		{}
+10	podio	_		{}
+11	dell'UEFA	_		{}
+12	Best	_		{}
+13	Player	_		{}
+14	in	_		{}
+15	Europe	_		{}
+16	Award	_		{}
+17	classificandosi	_		{}
+18	terzo	_	Ordinal_numbers	{"Item": "13"}
+19	(	_		{}
+20	nel	_		{}
+21	2011	_		{}
+22	e	_		{}
+23	nel	_		{}
+24	2013	_		{}
+25	)	_		{}
+26	,	_		{}
+27	secondo	_	Ordinal_numbers	{"Item": "13"}
+28	(	_		{}
+29	nel	_		{}
+30	2012	_		{}
+31	)	_		{}
+32	e	_		{}
+33	vincendolo	_		{}
+34	nel	_		{}
+35	2014	_		{}
+36	.	_		{}

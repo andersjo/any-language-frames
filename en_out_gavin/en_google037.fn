@@ -1,0 +1,27 @@
+1	He	_		{}
+2	rejected	_	Respond_to_proposal	{"Proposal": "4", "Speaker": "1"}
+3	the	_		{}
+4	offer	_	Offering	{}
+5	and	_		{}
+6	later	_	Relative_time	{"Focal_occasion": "7", "Focal_participant": "1", "Landmark_occasion": "2"}
+7	criticized	_	Judgment_communication	{"Communicator": "1", "Evaluee": "9", "Time": "6"}
+8	Vinod	_		{}
+9	Khosla	_		{}
+10	,	_		{}
+11	one	_	Cardinal_numbers	{"Number": "11", "Entity": "15"}
+12	of	_		{}
+13	Excite's	_		{}
+14	venture	_	Businesses	{"Business": "14"}
+15	capitalists	_		{}
+16	,	_		{}
+17	after	_	Relative_time	{"Focal_occasion": "7", "Focal_participant": "18", "Landmark_occasion": "19"}
+18	he	_		{}
+19	negotiated	_	Discussion	{"Interlocutor_2": "20", "Interlocutor_1": "18"}
+20	Brin	_		{}
+21	and	_		{}
+22	Page	_		{}
+23	down	_	Direction	{"Path": "23"}
+24	to	_		{}
+25	$	_		{}
+26	750,000	_		{}
+27	.	_		{}

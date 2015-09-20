@@ -1,0 +1,22 @@
+1	Les	_		{}
+2	deux	_	Cardinal_numbers	{"Number": "2", "Entity": "3"}
+3	entrepreneurs	_		{}
+4	sollicitent	_	Request	{"Topic": "21", "Addressee": "6", "Speaker": "3"}
+5	parallèlement	_		{}
+6	famille	_	Kinship	{"Alter": "6"}
+7	et	_		{}
+8	amis	_	Personal_relationship	{"Partners": "8"}
+9	et	_		{}
+10	parviennent	_	Successful_action	{"Goal": "19", "Means": "13"}
+11	finalement	_		{}
+12	à	_		{}
+13	réunir	_	Amassing	{"Recipient": "3", "Mass_theme": "17"}
+14	un	_	Cardinal_numbers	{"Number": "14", "Entity": "15"}
+15	million	_	Cardinal_numbers	{"Number": "15", "Entity": "17"}
+16	de	_		{}
+17	dollars	_		{}
+18	pour	_		{}
+19	fonder	_	Creating	{"Created_entity": "21", "Creator": "3"}
+20	la	_		{}
+21	compagnie	_	Businesses	{"Business": "21"}
+22	.	_		{}

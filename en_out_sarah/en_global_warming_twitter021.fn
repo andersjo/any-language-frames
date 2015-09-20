@@ -1,0 +1,26 @@
+1	@cdh_art	_		{}
+2	global	_	Political_locales	{"Locale": "2"}
+3	warming	_		{}
+4	is	_	Being_in_category	{"Category": "5", "Item": "3"}
+5	real	_	Artificiality	{"Type": "5", "Entity": "3"}
+6	.	_		{}
+7	Tell	_	Communication	{"Message": "11", "Addressee": "9"}
+8	the	_	Text	{}
+9	girls	_		{}
+10	to	_		{}
+11	go	_	Travel	{"Traveler": "9", "Goal": "13", "Manner": "14"}
+12	to	_		{}
+13	bed	_		{}
+14	with	_		{}
+15	their	_		{}
+16	PJ's	_		{}
+17	inside	_	Part_inner_outer	{}
+18	out	_		{}
+19	and	_	Simultaneity	{"Profiled_event": "20", "Landmark_event": "17"}
+20	backwards	_		{}
+21	.	_		{}
+22	Fool	_		{}
+23	proof	_		{}
+24	snow	_		{}
+25	day	_	Calendric_unit	{"Salient_event": "24", "Unit": "25"}
+26	superstition	_		{}

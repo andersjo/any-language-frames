@@ -1,0 +1,43 @@
+1	Huit	_	Cardinal_numbers	{"Number": "1", "Entity": "2"}
+2	films	_		{}
+3	à	_		{}
+4	succès	_	Success_or_failure	{}
+5	(	_		{}
+6	le	_		{}
+7	dernier	_	Ordinal_numbers	{"Item": "8"}
+8	roman	_	Text	{"Text": "8"}
+9	ayant	_		{}
+10	été	_		{}
+11	scindé	_		{}
+12	au	_		{}
+13	cinéma	_		{}
+14	en	_		{}
+15	deux	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	parties	_	Part_whole	{"Part": "16"}
+17	sorties	_		{}
+18	à	_		{}
+19	huit	_	Cardinal_numbers	{"Number": "19", "Entity": "20"}
+20	mois	_	Calendric_unit	{"Whole": "20"}
+21	d'écart	_		{}
+22	)	_		{}
+23	,	_		{}
+24	ainsi	_		{}
+25	que	_		{}
+26	des	_		{}
+27	jeux	_	Competition	{"Competition": "27"}
+28	vidéo	_		{}
+29	et	_		{}
+30	de	_		{}
+31	nombreux	_	Quantity	{"Individuals": "33", "Quantity": "31"}
+32	autres	_		{}
+33	produits	_	Manufacturing	{"Product": "33"}
+34	dérivés	_		{}
+35	ont	_		{}
+36	été	_		{}
+37	adaptés	_		{}
+38	de	_		{}
+39	la	_		{}
+40	série	_	Sequence	{"Entity1": "42"}
+41	de	_		{}
+42	romans	_	Text	{"Text": "42"}
+43	.	_		{}

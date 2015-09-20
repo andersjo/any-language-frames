@@ -1,0 +1,14 @@
+1	Google	_		{}
+2	wurde	_		{}
+3	dafür	_		{}
+4	kritisiert	_	Judgment_communication	{"Reason": "3", "Evaluee": "1"}
+5	,	_		{}
+6	dass	_		{}
+7	manche	_		{}
+8	Dienstleistungen	_	Public_services	{"Institution": "1"}
+9	den	_		{}
+10	Beta-Status	_		{}
+11	sehr	_	Degree	{"Gradable_attribute": "12"}
+12	lange	_	Duration_attribute	{"Period": "12", "Degree": "11", "Eventuality": "10"}
+13	behalten	_	Cause_to_continue	{"State": "10", "Agent": "1"}
+14	.	_		{}

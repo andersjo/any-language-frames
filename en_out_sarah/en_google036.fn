@@ -1,0 +1,18 @@
+1	They	_		{}
+2	went	_	Body_movement	{"Goal": "3", "Agent": "1"}
+3	to	_		{}
+4	Excite	_		{}
+5	CEO	_		{}
+6	George	_		{}
+7	Bell	_		{}
+8	and	_	Simultaneity	{"Profiled_event": "9", "Landmark_event": "2"}
+9	offered	_	Offering	{"Potential_recipient": "6", "Theme": "12", "Offerer": "1"}
+10	to	_		{}
+11	sell	_	Commerce_sell	{"Buyer": "6", "Money": "16", "Goods": "12", "Seller": "1"}
+12	it	_		{}
+13	to	_		{}
+14	him	_		{}
+15	for	_		{}
+16	$1	_		{}
+17	million	_		{}
+18	.	_		{}

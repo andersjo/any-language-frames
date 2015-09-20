@@ -1,0 +1,33 @@
+1	While	_		{}
+2	conventional	_	Custom	{"Behavior": "3"}
+3	search	_	Seeking	{}
+4	engines	_		{}
+5	ranked	_	Arranging	{"Theme": "6", "Agent": "4", "Means": "7"}
+6	results	_	Text	{"Text": "6"}
+7	by	_		{}
+8	counting	_	Scrutiny	{"Cognizer": "4"}
+9	how	_		{}
+10	many	_	Quantity	{"Individuals": "11", "Quantity": "10"}
+11	times	_	Event_instance	{"Instance": "11", "Event": "15"}
+12	the	_		{}
+13	search	_	Seeking	{}
+14	terms	_	Labeling	{"Label": "14"}
+15	appeared	_	Appearance	{"Frequency": "11", "Phenomenon": "14"}
+16	on	_		{}
+17	the	_		{}
+18	page	_	Contacting	{}
+19	,	_		{}
+20	the	_		{}
+21	two	_	Cardinal_numbers	{"Number": "21"}
+22	theorized	_	Opinion	{"Cognizer": "21", "Opinion": "23"}
+23	about	_		{}
+24	a	_	Cardinal_numbers	{"Number": "24", "Entity": "26"}
+25	better	_	Surpassing	{"Standard_item": "4", "Profiled_item": "26"}
+26	system	_	System	{"Function": "28", "Descriptor": "25"}
+27	that	_		{}
+28	analyzed	_	Examination	{"Examinee": "30", "Examiner": "26"}
+29	the	_		{}
+30	relationships	_	Cognitive_connection	{"Concepts": "32"}
+31	between	_		{}
+32	websites	_	Locale	{"Locale": "32"}
+33	.	_		{}

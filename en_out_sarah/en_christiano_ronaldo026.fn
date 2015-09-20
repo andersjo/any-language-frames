@@ -1,0 +1,35 @@
+1	Ronaldo	_		{}
+2	is	_	Being_in_category	{"Category": "5", "Item": "1"}
+3	the	_		{}
+4	first	_	First_experience	{"Experience": "8"}
+5	Portuguese	_	Origin	{"Origin": "5", "Entity": "1"}
+6	player	_	Competition	{"Participant_1": "1"}
+7	to	_		{}
+8	reach	_	Accomplishment	{"Goal": "9", "Agent": "1"}
+9	50	_	Cardinal_numbers	{"Number": "9", "Entity": "10"}
+10	international	_	Foreign_or_domestic_country	{"Current_country": "5"}
+11	goals	_	Purpose	{"Goal": "11", "Agent": "1"}
+12	,	_		{}
+13	making	_		{}
+14	him	_		{}
+15	Portugal's	_		{}
+16	top	_	Occupy_rank	{"Item": "17", "Rank": "16"}
+17	goalscorer	_		{}
+18	of	_		{}
+19	all	_	Quantity	{"Individuals": "20", "Quantity": "19"}
+20	time	_	Measure_duration	{"Unit": "20"}
+21	as	_		{}
+22	well	_		{}
+23	as	_		{}
+24	the	_		{}
+25	country's	_		{}
+26	top	_	Occupy_rank	{"Item": "1", "Rank": "26"}
+27	scorer	_		{}
+28	in	_		{}
+29	the	_		{}
+30	European	_	Origin	{"Origin": "30", "Entity": "31"}
+31	Championship	_		{}
+32	with	_		{}
+33	6	_	Cardinal_numbers	{"Number": "33", "Entity": "34"}
+34	goals	_	Purpose	{"Goal": "34", "Agent": "1"}
+35	.	_		{}

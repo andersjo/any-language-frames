@@ -1,0 +1,5 @@
+1	Paret	_		{}
+2	har	_	Birth	{"Parents": "1"}
+3	sex	_	Cardinal_numbers	{"Number": "3", "Entity": "4"}
+4	barn	_	Kinship	{"Ego": "4", "Alter": "1"}
+5	.	_		{}

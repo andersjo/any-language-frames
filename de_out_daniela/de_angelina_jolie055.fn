@@ -1,0 +1,42 @@
+1	Jolies	_		{}
+2	Karriere	_		{}
+3	erhielt	_	Getting	{"Theme": "4", "Recipient": "2"}
+4	Auftrieb	_		{}
+5	,	_		{}
+6	als	_		{}
+7	sie	_		{}
+8	im	_		{}
+9	Jahr	_	Calendric_unit	{"Whole": "10", "Unit": "9"}
+10	1998	_		{}
+11	für	_		{}
+12	ihre	_		{}
+13	Rolle	_		{}
+14	in	_		{}
+15	der	_		{}
+16	Filmbiografie	_		{}
+17	"	_		{}
+18	Wallace	_		{}
+19	"	_		{}
+20	(	_		{}
+21	1997	_		{}
+22	)	_		{}
+23	mit	_		{}
+24	dem	_		{}
+25	Golden	_		{}
+26	Globe	_		{}
+27	als	_		{}
+28	Beste	_		{}
+29	Nebendarstellerin	_		{}
+30	in	_		{}
+31	einem	_		{}
+32	Fernsehfilm	_		{}
+33	ausgezeichnet	_	Expertise	{"Behavior_product": "29", "Protagonist": "7", "Role": "13"}
+34	wurde	_		{}
+35	und	_	Simultaneity	{"Profiled_event": "33", "Landmark_event": "37"}
+36	eine	_		{}
+37	Nominierung	_		{}
+38	für	_		{}
+39	den	_		{}
+40	Emmy	_		{}
+41	erhielt	_	Receiving	{"Theme": "37", "Recipient": "7"}
+42	.	_		{}

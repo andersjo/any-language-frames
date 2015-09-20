@@ -1,0 +1,20 @@
+1	estoy	_	State_continue	{"Duration": "15", "Reason": "5", "Circumstances": "20", "Explanation": "12", "Time": "15"}
+2	contenta	_		{}
+3	con	_		{}
+4	mis	_		{}
+5	lentes	_		{}
+6	nuevos	_	Familiarity	{"Degree": "6", "Context": "12", "Entity": "5"}
+7	por	_	Event_instance	{"Instance": "12", "Event": "12"}
+8	lo	_		{}
+9	menos	_		{}
+10	en	_		{}
+11	la	_		{}
+12	foto	_	Optical_image	{"Source": "18", "Image": "20"}
+13	que	_		{}
+14	subí	_		{}
+15	hoy	_	Temporal_collocation	{"Landmark_entity": "15"}
+16	doy	_	Cause_change	{"Final_category": "20", "Initial_value": "18", "Manner": "20", "Entity": "18"}
+17	corte	_		{}
+18	harry	_		{}
+19	potter	_		{}
+20	psicodelico	_		{}

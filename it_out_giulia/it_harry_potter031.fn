@@ -1,0 +1,37 @@
+1	Tuttavia	_	Concessive	{"Topic": "8"}
+2	,	_		{}
+3	nonostante	_		{}
+4	la	_		{}
+5	ricca	_		{}
+6	componente	_	Part_whole	{"Part": "6"}
+7	di	_		{}
+8	norme	_		{}
+9	create	_	Intentionally_create	{"Created_entity": "8", "Creator": "12"}
+10	ad	_		{}
+11	hoc	_		{}
+12	dall'autrice	_		{}
+13	,	_		{}
+14	una	_		{}
+15	delle	_		{}
+16	principali	_	Importance	{}
+17	caratteristiche	_	Distinctiveness	{"Feature": "123", "Entity": "19"}
+18	della	_		{}
+19	serie	_	Sequence	{}
+20	è	_		{}
+21	proprio	_		{}
+22	quella	_		{}
+23	dell'imprevedibilità	_		{}
+24	dei	_		{}
+25	forti	_	Degree	{"Gradable_attribute": "25"}
+26	colpi	_		{}
+27	di	_		{}
+28	scena	_		{}
+29	,	_		{}
+30	con	_		{}
+31	cui	_		{}
+32	tutte	_	Quantity	{"Individuals": "34", "Quantity": "32"}
+33	le	_		{}
+34	regole	_		{}
+35	vengono	_		{}
+36	aggirate	_	Avoiding	{"Undesirable_situation": "34"}
+37	.	_		{}

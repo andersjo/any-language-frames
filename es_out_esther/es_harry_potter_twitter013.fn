@@ -1,0 +1,11 @@
+1	-Eres	_		{}
+2	Harry	_		{}
+3	Potter	_		{}
+4	!	_		{}
+5	Y	_	Simultaneity	{}
+6	tu	_		{}
+7	eres	_	Being_in_category	{"Category": "10", "Item": "6"}
+8	..	_		{}
+9	+Tu	_		{}
+10	futuro	_	Relative_time	{"Focal_occasion": "7", "Focal_participant": "9", "Landmark_occasion": "11"}
+11	marido	_	Personal_relationship	{"Partner_2": "11", "Partner_1": "9"}

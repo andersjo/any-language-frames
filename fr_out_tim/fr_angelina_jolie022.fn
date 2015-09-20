@@ -1,0 +1,28 @@
+1	Du	_		{}
+2	côté	_		{}
+3	de	_		{}
+4	son	_		{}
+5	père	_	Kinship	{"Ego": "4", "Alter": "5"}
+6	,	_		{}
+7	Angelina	_		{}
+8	Jolie	_		{}
+9	est	_		{}
+10	d'origine	_		{}
+11	allemande	_	People_by_origin	{"Origin": "11", "Person": "7"}
+12	et	_		{}
+13	tchèque	_		{}
+14	,	_		{}
+15	et	_		{}
+16	du	_		{}
+17	côté	_		{}
+18	de	_		{}
+19	sa	_		{}
+20	mère	_	Kinship	{"Ego": "19", "Alter": "20"}
+21	,	_		{}
+22	d'origine	_		{}
+23	canadienne	_	Origin	{"Origin": "23", "Entity": "7"}
+24	française	_	Origin	{}
+25	et	_		{}
+26	prétendument	_	Unattributed_information	{"Reported_fact": "27"}
+27	iroquoise	_		{}
+28	.	_		{}

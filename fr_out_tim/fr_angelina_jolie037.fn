@@ -1,0 +1,37 @@
+1	En	_	Time_vector	{}
+2	juillet	_	Calendric_unit	{"Whole": "2"}
+3	2002	_		{}
+4	,	_		{}
+5	Angelina	_		{}
+6	Jolie	_		{}
+7	dépose	_	Submitting_documents	{"Submittor": "5", "Documents": "9"}
+8	une	_		{}
+9	demande	_	Request	{"Message": "11", "Speaker": "5"}
+10	pour	_		{}
+11	changer	_	Cause_change	{"Entity": "14", "Final_value": "18", "Agent": "5", "Initial_value": "24"}
+12	légalement	_	Domain	{"Domain": "12", "Predicate": "11"}
+13	son	_		{}
+14	nom	_	Name_conferral	{"Name": "17", "Entity": "5"}
+15	en	_		{}
+16	«	_		{}
+17	Angelina	_		{}
+18	Jolie	_		{}
+19	»	_		{}
+20	,	_		{}
+21	délaissant	_	Abandonment	{"Theme": "23", "Agent": "5"}
+22	le	_		{}
+23	nom	_	Name_conferral	{"Name": "24", "Entity": "5"}
+24	Voight	_		{}
+25	;	_		{}
+26	le	_		{}
+27	changement	_	Undergo_change	{"Entity": "29"}
+28	de	_		{}
+29	nom	_	Name_conferral	{"Name": "17", "Entity": "5"}
+30	est	_		{}
+31	rendu	_	Becoming	{"Entity": "29"}
+32	officiel	_		{}
+33	le	_		{}
+34	12	_	Cardinal_numbers	{"Number": "34"}
+35	septembre	_	Calendric_unit	{"Whole": "35"}
+36	2002	_		{}
+37	.	_		{}

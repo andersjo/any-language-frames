@@ -1,0 +1,25 @@
+1	Larry	_		{}
+2	Page	_		{}
+3	et	_		{}
+4	Sergueï	_		{}
+5	Brin	_		{}
+6	demandèrent	_		{}
+7	en	_		{}
+8	1997	_		{}
+9	,	_		{}
+10	à	_		{}
+11	d'autres	_		{}
+12	étudiants	_	Education_teaching	{"Student": "2\\12", "Subject": "14"}
+13	en	_		{}
+14	informatique	_		{}
+15	,	_		{}
+16	de	_		{}
+17	l'aide	_		{}
+18	pour	_		{}
+19	nommer	_	Simple_naming	{"Entity": "21"}
+20	le	_		{}
+21	fruit	_	Intentionally_create	{"Created_entity": "21", "Creator": "2"}
+22	de	_		{}
+23	leur	_		{}
+24	travail	_	Labor_product	{"Output": "21", "Agent": "2"}
+25	.	_		{}

@@ -1,0 +1,31 @@
+1	Er	_		{}
+2	findet	_	Categorization	{"Category": "13", "Item": "6", "Cognizer": "1"}
+3	in	_		{}
+4	den	_		{}
+5	gleichaltrigen	_		{}
+6	Mitschülern	_		{}
+7	Ron	_		{}
+8	Weasley	_		{}
+9	und	_	Simultaneity	{"Profiled_event": "10", "Landmark_event": "7"}
+10	Hermine	_		{}
+11	Granger	_		{}
+12	enge	_	Social_connection	{"Individual1": "1", "Individual2": "6", "Connection": "13", "Degree": "12"}
+13	Freunde	_		{}
+14	–	_		{}
+15	das	_		{}
+16	Trio	_	Aggregate	{"Aggregate": "16"}
+17	steht	_		{}
+18	fast	_		{}
+19	alle	_		{}
+20	Abenteuer	_		{}
+21	gemeinsam	_	Collaboration	{"Undertaking": "20", "Partners": "16"}
+22	durch	_		{}
+23	–	_		{}
+24	und	_		{}
+25	in	_		{}
+26	Schuldirektor	_	Leadership	{"Role": "30", "Leader": "28"}
+27	Albus	_		{}
+28	Dumbledore	_		{}
+29	einen	_		{}
+30	Mentor	_		{}
+31	.	_		{}

@@ -1,0 +1,27 @@
+1	Er	_		{}
+2	ergibt	_		{}
+3	sich	_		{}
+4	diesem	_		{}
+5	Schicksal	_	Destiny	{"Protagonist": "1", "State_of_affairs": "5"}
+6	und	_		{}
+7	stellt	_		{}
+8	sich	_		{}
+9	dem	_		{}
+10	dunklen	_		{}
+11	Lord	_		{}
+12	unbewaffnet	_	Bearing_arms	{"Protagonist": "1"}
+13	,	_		{}
+14	überlebt	_	Surviving	{"Survivor": "1", "Dangerous_situation": "18"}
+15	jedoch	_		{}
+16	erneut	_		{}
+17	den	_		{}
+18	Todesfluch	_		{}
+19	,	_		{}
+20	während	_		{}
+21	Voldemorts	_		{}
+22	Seelenfragment	_		{}
+23	in	_		{}
+24	ihm	_		{}
+25	vernichtet	_	Destroying	{"Undergoer": "22", "Cause": "18"}
+26	wird	_		{}
+27	.	_		{}

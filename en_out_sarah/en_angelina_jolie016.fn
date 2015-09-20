@@ -1,0 +1,10 @@
+1	Jolie	_		{}
+2	and	_	Simultaneity	{}
+3	Pitt's	_		{}
+4	relationship	_	Kinship	{"Relatives": "2"}
+5	has	_		{}
+6	attracted	_	Create_representation	{"Represented": "4", "Creator": "2"}
+7	protracted	_	Duration_attribute	{}
+8	media	_		{}
+9	attention	_	Attention	{"Perceiver": "8", "Figure": "4"}
+10	.	_		{}

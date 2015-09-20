@@ -1,0 +1,16 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	ha	_		{}
+4	perso	_		{}
+5	la	_		{}
+6	madre	_	Kinship	{"Ego": "2", "Alter": "6"}
+7	per	_		{}
+8	un	_		{}
+9	cancro	_	Medical_conditions	{"Body_Part": "11", "Patient": "6", "Ailment": "9"}
+10	alle	_		{}
+11	ovaie	_		{}
+12	il	_		{}
+13	27	_		{}
+14	gennaio	_	Calendric_unit	{"Unit": "14"}
+15	2007	_		{}
+16	.	_		{}

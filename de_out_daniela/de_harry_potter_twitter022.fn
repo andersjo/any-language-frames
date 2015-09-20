@@ -1,0 +1,20 @@
+1	ich	_		{}
+2	glaub	_		{}
+3	ich	_		{}
+4	fang	_		{}
+5	wieder	_		{}
+6	an	_		{}
+7	alle	_		{}
+8	harry	_		{}
+9	potter	_		{}
+10	bände	_		{}
+11	zu	_		{}
+12	lesen	_	Reading	{"Text": "10", "Reader": "3"}
+13	.	_		{}
+14	ist	_		{}
+15	besser	_	Usefulness	{"Entity": "10"}
+16	und	_	Simultaneity	{"Profiled_event": "17", "Landmark_event": "15"}
+17	hilfreicher	_	Assistance	{"Helper": "10"}
+18	als	_		{}
+19	jede	_		{}
+20	therapiesitzung	_		{}

@@ -1,0 +1,34 @@
+1	Auf	_		{}
+2	diese	_		{}
+3	Weise	_		{}
+4	wird	_	Becoming	{"Entity": "5"}
+5	Werbung	_		{}
+6	angezeigt	_		{}
+7	,	_		{}
+8	die	_		{}
+9	inhaltlich	_		{}
+10	zur	_		{}
+11	Suchanfrage	_		{}
+12	passt	_	Suitability	{"Purpose": "11", "Evaluee": "5"}
+13	und	_		{}
+14	somit	_		{}
+15	den	_		{}
+16	werbenden	_		{}
+17	AdWords-Kunden	_		{}
+18	mit	_		{}
+19	der	_		{}
+20	Benutzerklientel	_		{}
+21	zusammenbringt	_		{}
+22	,	_		{}
+23	die	_		{}
+24	mit	_		{}
+25	höherer	_		{}
+26	Wahrscheinlichkeit	_	Likelihood	{"Hypothetical_event": "32", "Degree": "25"}
+27	an	_		{}
+28	seinen	_	Possession	{"Possession": "29", "Owner": "17"}
+29	Produkten	_	Manufacturing	{"Product": "29", "Manufacturer": "17"}
+30	und	_	Simultaneity	{"Profiled_event": "29", "Landmark_event": "31"}
+31	Dienstleistungen	_	Public_services	{"Domain": "31", "Target_group": "20"}
+32	interessiert	_	Mental_stimulus_exp_focus	{"Stimulus": "5", "State": "32", "Experiencer": "20"}
+33	ist	_		{}
+34	.	_		{}

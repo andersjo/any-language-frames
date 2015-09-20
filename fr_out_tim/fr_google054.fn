@@ -1,0 +1,16 @@
+1	Le	_		{}
+2	journal	_	Text	{"Text": "2"}
+3	français	_	Origin	{"Origin": "3", "Entity": "2"}
+4	"	_		{}
+5	Le	_		{}
+6	Monde	_		{}
+7	"	_		{}
+8	écrit	_	Text_creation	{"Text": "6"}
+9	ainsi	_		{}
+10	que	_		{}
+11	le	_		{}
+12	choix	_	Choosing	{"Cognizer": "15"}
+13	technologique	_		{}
+14	de	_		{}
+15	Google	_		{}
+16	.	_		{}

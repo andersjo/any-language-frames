@@ -1,0 +1,45 @@
+1	Il	_		{}
+2	s'agit	_		{}
+3	d'une	_		{}
+4	série	_	Sequence	{"Entity1": "8"}
+5	fantasy	_		{}
+6	de	_		{}
+7	sept	_	Cardinal_numbers	{"Number": "7", "Entity": "8"}
+8	romans	_	Text	{"Text": "8"}
+9	située	_		{}
+10	à	_		{}
+11	l'époque	_		{}
+12	contemporaine	_	Temporal_collocation	{"Trajector_period": "11"}
+13	,	_		{}
+14	racontant	_	Telling	{"Topic": "16", "Medium": "8"}
+15	la	_		{}
+16	jeunesse	_	People_by_age	{"Person": "18", "Age": "16"}
+17	d'un	_		{}
+18	sorcier	_		{}
+19	,	_		{}
+20	Harry	_		{}
+21	,	_		{}
+22	élevé	_		{}
+23	par	_		{}
+24	une	_		{}
+25	famille	_	Kinship	{"Alter": "25"}
+26	de	_		{}
+27	moldus	_		{}
+28	qui	_		{}
+29	découvre	_	Becoming_aware	{"Cognizer": "25", "Phenomenon": "32"}
+30	progressivement	_	Taking_time	{"Time_length": "30", "Agent": "25", "Activity": "29"}
+31	son	_		{}
+32	identité	_		{}
+33	de	_		{}
+34	sorcier	_		{}
+35	,	_		{}
+36	son	_		{}
+37	héritage	_		{}
+38	tragique	_	Catastrophe	{"Undergoer": "36", "Undesirable_Event": "37"}
+39	et	_		{}
+40	la	_		{}
+41	responsabilité	_	Being_obligated	{"Duty": "41", "Responsible_party": "43"}
+42	qui	_		{}
+43	lui	_		{}
+44	revient	_		{}
+45	.	_		{}

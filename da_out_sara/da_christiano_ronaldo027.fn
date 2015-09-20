@@ -1,0 +1,40 @@
+1	Han	_		{}
+2	anmodede	_		{}
+3	om	_		{}
+4	at	_		{}
+5	få	_	Receiving	{"Theme": "6", "Recipient": "1"}
+6	trøjenummer	_		{}
+7	28	_		{}
+8	(	_		{}
+9	som	_		{}
+10	var	_		{}
+11	hans	_		{}
+12	nummer	_	Performing_arts	{"Performer": "1"}
+13	i	_		{}
+14	Sporting	_		{}
+15	)	_		{}
+16	,	_		{}
+17	da	_		{}
+18	han	_		{}
+19	ikke	_		{}
+20	ønskede	_		{}
+21	at	_		{}
+22	blive	_	Cause_change	{"Agent": "26", "Entity": "18"}
+23	tynget	_		{}
+24	af	_		{}
+25	store	_	Size	{"Entity": "26"}
+26	forventninger	_		{}
+27	,	_		{}
+28	der	_		{}
+29	var	_		{}
+30	knyttet	_		{}
+31	til	_		{}
+32	tallet	_		{}
+33	7	_	Cardinal_numbers	{"Number": "33"}
+34	,	_		{}
+35	som	_		{}
+36	Ferguson	_		{}
+37	valgte	_		{}
+38	til	_		{}
+39	ham	_		{}
+40	.	_		{}

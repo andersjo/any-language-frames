@@ -1,0 +1,29 @@
+1	ho	_		{}
+2	appena	_		{}
+3	finito	_	Activity_done_state	{"Activity": "5"}
+4	di	_		{}
+5	vedere	_	Perception_active	{"Phenomenon": "5"}
+6	harry	_		{}
+7	potter	_		{}
+8	e	_		{}
+9	i	_		{}
+10	doni	_	Giving	{"Theme": "10"}
+11	della	_		{}
+12	morte	_	Death	{}
+13	parte	_	Part_whole	{}
+14	1	_	Cardinal_numbers	{"Number": "14", "Entity": "13"}
+15	e	_		{}
+16	2	_	Cardinal_numbers	{"Number": "16", "Entity": "13"}
+17	e	_		{}
+18	ho	_		{}
+19	certe	_		{}
+20	lacrime	_		{}
+21	scendenti	_		{}
+22	piene	_	Fullness	{"Container": "2", "Contents": "24"}
+23	di	_		{}
+24	feels	_		{}
+25	che	_		{}
+26	mi	_		{}
+27	sto	_		{}
+28	per	_		{}
+29	buttare	_		{}

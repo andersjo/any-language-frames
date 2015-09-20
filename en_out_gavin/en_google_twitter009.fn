@@ -1,0 +1,16 @@
+1	@dominos	_		{}
+2	https://t.co/IDNLEBiy92	_		{}
+3	always	_	Frequency	{"Salient_entity": "2", "Event": "4"}
+4	hangs	_	Activity_pause	{"Agent": "2"}
+5	when	_		{}
+6	I	_		{}
+7	try	_	Attempt	{"Agent": "6", "Time": "5"}
+8	to	_		{}
+9	load	_	Placing	{"Goal": "10", "Agent": "6"}
+10	up	_	Direction	{"Path": "10"}
+11	http://t.co/gZMjzBwbTW	_		{}
+12	,	_		{}
+13	using	_	Using	{"Instrument": "16", "Purpose": "9"}
+14	Google	_		{}
+15	Chrome	_		{}
+16	browser	_		{}

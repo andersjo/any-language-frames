@@ -1,0 +1,46 @@
+1	Con	_		{}
+2	más	_	Increment	{"Added_set": "7", "Class": "5", "Initial_set": "5"}
+3	de	_		{}
+4	un	_		{}
+5	millón	_	Cardinal_numbers	{"Number": "4", "Entity": "7"}
+6	de	_		{}
+7	servidores	_	Public_services	{}
+8	y	_		{}
+9	centros	_	Locale_by_use	{"Locale": "9"}
+10	de	_		{}
+11	datos	_	Information	{"Topic": "11", "Cognizer": "18"}
+12	repartidos	_	Dispersal	{"Individuals": "11", "Agent": "18"}
+13	por	_		{}
+14	todo	_	Quantity	{"Mass": "16"}
+15	el	_		{}
+16	mundo	_	Locale	{}
+17	,	_		{}
+18	Google	_		{}
+19	es	_	Being_in_category	{"Category": "20", "Item": "18"}
+20	capaz	_	Being_up_to_it	{"Entity": "18", "Activity": "22"}
+21	de	_		{}
+22	procesar	_	Processing_materials	{"Material": "28", "Agent": "18"}
+23	más	_	Increment	{"Initial_set": "28", "Added_set": "26", "Class": "28"}
+24	de	_		{}
+25	1000	_		{}
+26	millones	_		{}
+27	de	_		{}
+28	peticiones	_	Request	{"Topic": "30", "Message": "30", "Medium": "34"}
+29	de	_		{}
+30	búsqueda	_	Scrutiny	{"Instrument": "34", "Cognizer": "18"}
+31	diarias	_	Frequency	{"Interval": "31", "Salient_entity": "28", "Event": "22", "Degree": "31"}
+32	y	_		{}
+33	su	_		{}
+34	motor	_		{}
+35	de	_		{}
+36	búsqueda	_	Scrutiny	{"Cognizer": "18", "Instrument": "34", "Medium": "40", "Ground": "42"}
+37	es	_	Being_in_category	{"Category": "42", "Item": "40", "Criteria": "44"}
+38	el	_		{}
+39	sitio	_	Locale_by_event	{"Locale": "39", "Defining_event": "42"}
+40	web	_	Network	{"Connections": "34", "Nodes": "39", "Network": "36"}
+41	más	_	Increment	{"Added_set": "42", "Class": "34", "Initial_set": "42"}
+42	visitado	_	Visiting	{"Entity": "34"}
+43	a	_		{}
+44	nivel	_	Rank	{"Item": "44", "Rank": "45"}
+45	mundial	_	Political_locales	{"Locale": "45"}
+46	.	_		{}

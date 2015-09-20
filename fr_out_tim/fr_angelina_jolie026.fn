@@ -1,0 +1,13 @@
+1	À	_		{}
+2	l'âge	_		{}
+3	de	_		{}
+4	quatorze	_	Cardinal_numbers	{"Number": "4", "Entity": "5"}
+5	ans	_	Age	{"Attribute": "2", "Age": "4", "Entity": "7"}
+6	,	_		{}
+7	elle	_		{}
+8	abandonne	_	Activity_stop	{"Agent": "7"}
+9	ses	_		{}
+10	cours	_		{}
+11	de	_		{}
+12	comédie	_		{}
+13	.	_		{}

@@ -1,0 +1,25 @@
+1	Råka	_		{}
+2	få	_	Getting	{"Theme": "4", "Recipient": "9"}
+3	färsk	_	Desirability	{"Degree": "3", "Evaluee": "4"}
+4	chili	_	Food	{"Food": "4", "Descriptor": "3"}
+5	på	_		{}
+6	läppen	_	Observable_body_parts	{"Body_part": "6", "Possessor": "9"}
+7	.	_		{}
+8	Trodde	_		{}
+9	jag	_	Proper_reference	{"Intended_referent": "9"}
+10	skulle	_		{}
+11	se	_	Appearance	{"Characterization": "15"}
+12	ut	_		{}
+13	som	_	Similarity	{"Entity_1": "9", "Entity_2": "15", "Circumstances": "6"}
+14	Angelina	_		{}
+15	Jolie	_		{}
+16	så	_		{}
+17	såg	_		{}
+18	jag	_	Proper_reference	{"Intended_referent": "18"}
+19	ut	_		{}
+20	som	_		{}
+21	vanligt	_		{}
+22	?	_		{}
+23	Besviken	_		{}
+24	nu	_		{}
+25	.	_		{}

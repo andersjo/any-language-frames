@@ -1,0 +1,41 @@
+1	Året	_		{}
+2	innan	_	Time_vector	{"Direction": "2", "Landmark_event": "5"}
+3	hade	_		{}
+4	han	_		{}
+5	belönats	_		{}
+6	med	_		{}
+7	Guldskon	_		{}
+8	efter	_		{}
+9	att	_		{}
+10	ha	_		{}
+11	gjort	_		{}
+12	42	_		{}
+13	mål	_	Hit_or_miss	{"Outcome": "7", "Circumstances": "19", "Agent": "4", "Time": "2"}
+14	på	_		{}
+15	49	_		{}
+16	matcher	_		{}
+17	i	_	Being_employed	{"Employee": "4", "Place_of_employment": "18", "Employer": "19"}
+18	Manchester	_		{}
+19	United	_		{}
+20	,	_		{}
+21	där	_	Locative_relation	{"Figure": "19"}
+22	han	_		{}
+23	vann	_		{}
+24	tre	_	Cardinal_numbers	{"Number": "24", "Entity": "26"}
+25	Premier	_		{}
+26	League-titlar	_		{}
+27	(	_		{}
+28	2007	_		{}
+29	,	_		{}
+30	2008	_		{}
+31	och	_		{}
+32	2009	_		{}
+33	)	_		{}
+34	samt	_		{}
+35	en	_		{}
+36	Champions	_		{}
+37	League-titel	_		{}
+38	(	_		{}
+39	2008	_		{}
+40	)	_		{}
+41	.	_		{}

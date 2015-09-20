@@ -1,0 +1,25 @@
+1	The	_		{}
+2	1914	_		{}
+3	observance	_	Compliance	{"Act": "3"}
+4	of	_		{}
+5	the	_		{}
+6	Day	_	Calendric_unit	{"Unit": "6"}
+7	in	_		{}
+8	Germany	_	People_by_origin	{"Origin": "8"}
+9	was	_		{}
+10	dedicated	_	Giving	{"Theme": "3", "Recipient": "13"}
+11	to	_		{}
+12	women's	_	People	{"Person": "12"}
+13	right	_		{}
+14	to	_		{}
+15	vote	_		{}
+16	,	_		{}
+17	which	_		{}
+18	German	_	People_by_origin	{"Origin": "18", "Person": "19"}
+19	women	_	People	{"Origin": "18", "Person": "19"}
+20	did	_		{}
+21	not	_		{}
+22	win	_	Win_prize	{"Competitor": "19", "Prize": "13", "Time": "23"}
+23	until	_		{}
+24	1918	_		{}
+25	.	_		{}

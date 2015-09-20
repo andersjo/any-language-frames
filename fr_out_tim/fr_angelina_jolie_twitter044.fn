@@ -1,0 +1,12 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	a	_		{}
+4	réussi	_	Success_or_failure	{"Agent": "1"}
+5	à	_		{}
+6	rendre	_	Cause_change	{"Final_value": "10", "Agent": "1", "Entity": "8"}
+7	ses	_		{}
+8	gosses	_	Kinship	{"Ego": "7", "Alter": "8"}
+9	aussi	_	Degree	{"Gradable_attribute": "10"}
+10	dingues	_	Mental_property	{"Protagonist": "8"}
+11	qu'elle	_		{}
+12	.	_		{}

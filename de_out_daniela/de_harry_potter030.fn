@@ -1,0 +1,22 @@
+1	Erst	_		{}
+2	jetzt	_	Time_vector	{"Distance": "1", "Event": "3"}
+3	erfährt	_		{}
+4	er	_		{}
+5	etwas	_		{}
+6	über	_		{}
+7	seine	_	Possession	{"Owner": "7", "Possession": "8"}
+8	Herkunft	_	Origin	{"Entity": "4"}
+9	,	_		{}
+10	die	_		{}
+11	Existenz	_	Existence	{"Entity": "15"}
+12	der	_		{}
+13	geheimen	_	Secrecy_status	{"Phenomenon": "15"}
+14	magischen	_		{}
+15	Parallelwelt	_		{}
+16	und	_		{}
+17	seine	_	Possession	{"Possession": "19", "Owner": "4"}
+18	eigenen	_		{}
+19	Fähigkeiten	_	Expertise	{"Protagonist": "4", "Role": "21"}
+20	als	_		{}
+21	Zauberer	_		{}
+22	.	_		{}

@@ -1,0 +1,19 @@
+1	Watching	_	Perception_active	{"Manner": "3", "Phenomenon": "2"}
+2	Maleficent	_		{}
+3	again	_		{}
+4	.	_		{}
+5	Angelina	_		{}
+6	Jolie	_		{}
+7	is	_	Performers_and_roles	{"Performer": "6", "Role": "10"}
+8	the	_		{}
+9	only	_	Sole_instance	{"Item": "10"}
+10	person	_	People	{"Person": "6"}
+11	who	_		{}
+12	could've	_		{}
+13	played	_	Performing_arts	{"Performance": "15", "Performer": "6"}
+14	that	_		{}
+15	role	_	Performers_and_roles	{"Performer": "6", "Role": "15"}
+16	.	_		{}
+17	She	_		{}
+18	IS	_	Being_in_category	{"Category": "19", "Item": "17"}
+19	Maleficent	_		{}

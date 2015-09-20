@@ -1,0 +1,16 @@
+1	La	_		{}
+2	primera	_	Ordinal_numbers	{"Comparison_set": "3"}
+3	interpretación	_	Performing_arts	{"Performance": "10"}
+4	principal	_	Importance	{"Undertaking": "3", "Degree": "2"}
+5	que	_		{}
+6	hizo	_	Intentionally_act	{"Event_dscription": "3", "Time": "15"}
+7	fue	_	Being_in_category	{"Category": "3", "Item": "10", "Time": "15"}
+8	en	_		{}
+9	la	_		{}
+10	película	_	Physical_artworks	{"Name": "12", "Artifact": "12", "Time_of_creation": "15"}
+11	"	_		{}
+12	Hackers	_		{}
+13	"	_		{}
+14	de	_		{}
+15	1995	_		{}
+16	.	_		{}

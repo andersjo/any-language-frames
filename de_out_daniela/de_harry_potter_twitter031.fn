@@ -1,0 +1,27 @@
+1	kleiner	_		{}
+2	bruder	_	Kinship	{"Descriptor": "1", "Alter": "2"}
+3	meint	_	Opinion	{"Opinion": "5", "Cognizer": "2"}
+4	,	_		{}
+5	dass	_		{}
+6	die	_		{}
+7	totesser	_		{}
+8	bei	_		{}
+9	harry	_		{}
+10	potter	_		{}
+11	wegen	_		{}
+12	der	_		{}
+13	maske	_	Accoutrements	{"Accoutrement": "13"}
+14	aussehen	_	Appearance	{"Phenomenon": "7", "Characterization": "16"}
+15	,	_		{}
+16	wie	_	Similarity	{"Entity_1": "7", "Entity_2": "17"}
+17	sido	_		{}
+18	.	_		{}
+19	meine	_		{}
+20	narbe	_	Body_mark	{"Body_mark": "20", "Possessor": "19"}
+21	,	_		{}
+22	mein	_		{}
+23	zauber	_		{}
+24	,	_		{}
+25	mein	_		{}
+26	block	_		{}
+27	.	_		{}

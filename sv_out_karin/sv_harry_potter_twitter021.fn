@@ -1,0 +1,12 @@
+1	Nu	_		{}
+2	ska	_		{}
+3	jag	_	Proper_reference	{"Intended_referent": "3"}
+4	titta	_	Perception_active	{"Phenomenon": "7", "Perceiver_agentive": "3"}
+5	på	_	Perception_active	{"Perceiver_agentive": "3", "Phenomenon": "7"}
+6	Harry	_		{}
+7	Potter	_		{}
+8	och	_	Simultaneity	{"Profiled_event": "4", "Landmark_event": "9"}
+9	dricka	_	Ingestion	{"Ingestibles": "10", "Ingestor": "3"}
+10	te	_	Food	{"Food": "10"}
+11	see	_		{}
+12	yah	_		{}

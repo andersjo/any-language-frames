@@ -1,0 +1,40 @@
+1	Il	_		{}
+2	intègre	_		{}
+3	le	_		{}
+4	centre	_	Locale_by_use	{"Locale": "4"}
+5	de	_		{}
+6	formation	_	Education_teaching	{"Institution": "8", "Student": "1"}
+7	du	_		{}
+8	club	_	Organization	{"Organization": "8", "Members": "1"}
+9	mais	_		{}
+10	finit	_		{}
+11	,	_		{}
+12	en	_		{}
+13	1995	_		{}
+14	,	_		{}
+15	par	_		{}
+16	intégrer	_	Inclusion	{"Part": "1", "Total": "18"}
+17	le	_		{}
+18	Clube	_		{}
+19	Desportivo	_		{}
+20	Nacional	_		{}
+21	où	_		{}
+22	il	_		{}
+23	reste	_	Duration_relation	{"Duration": "25", "Eventuality": "16", "Entity": "22"}
+24	une	_		{}
+25	saison	_		{}
+26	avant	_	Time_vector	{"Distance": "25", "Direction": "26", "Landmark_event": "16", "Event": "29"}
+27	d'être	_		{}
+28	ensuite	_	Temporal_collocation	{"Trajector_event": "29", "Landmark_period": "25"}
+29	contracté	_		{}
+30	pour	_		{}
+31	au	_		{}
+32	Sporting	_		{}
+33	Clube	_		{}
+34	de	_		{}
+35	Portugal	_		{}
+36	après	_	Relative_time	{"Focal_occasion": "29", "Focal_participant": "22", "Landmark_occasion": "38"}
+37	sa	_		{}
+38	détection	_		{}
+39	réussie	_	Success_or_failure	{"Agent": "37"}
+40	.	_		{}

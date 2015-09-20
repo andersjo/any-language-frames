@@ -1,0 +1,31 @@
+1	Dès	_		{}
+2	lors	_	Temporal_collocation	{"Trajector_event": "5", "Landmark_period": "2"}
+3	,	_		{}
+4	il	_		{}
+5	intéresse	_	Cause_emotion	{"Experiencer": "6", "Agent": "4"}
+6	Liverpool	_		{}
+7	qui	_		{}
+8	le	_		{}
+9	repère	_		{}
+10	dans	_		{}
+11	un	_		{}
+12	tournoi	_	Competition	{"Participant_1": "8", "Competition": "12"}
+13	international	_	Political_locales	{}
+14	,	_		{}
+15	le	_		{}
+16	mondial	_		{}
+17	minimes	_		{}
+18	de	_		{}
+19	Montaigu	_		{}
+20	(	_		{}
+21	85	_		{}
+22	)	_		{}
+23	,	_		{}
+24	mais	_	Concessive	{"Main_statement": "5", "Statement": "28"}
+25	le	_		{}
+26	club	_		{}
+27	le	_		{}
+28	trouve	_	Judgment	{"Cognizer": "26", "Evaluee": "27"}
+29	trop	_	Sufficiency	{"Item": "27", "Scale": "30"}
+30	jeune	_	Age	{"Age": "30", "Entity": "27"}
+31	.	_		{}

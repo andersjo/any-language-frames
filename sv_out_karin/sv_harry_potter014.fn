@@ -1,0 +1,48 @@
+1	På	_		{}
+2	skolan	_		{}
+3	får	_		{}
+4	han	_		{}
+5	sina	_		{}
+6	första	_	Ordinal_numbers	{"Comparison_set": "7"}
+7	vänner	_		{}
+8	,	_		{}
+9	trollkarlen	_		{}
+10	Ron	_		{}
+11	Weasley	_		{}
+12	och	_		{}
+13	mugglarfödda	_		{}
+14	Hermione	_		{}
+15	Granger	_		{}
+16	,	_		{}
+17	ett	_	Cardinal_numbers	{"Number": "17", "Entity": "18"}
+18	par	_	Cardinal_numbers	{"Number": "18", "Entity": "19"}
+19	fiender	_		{}
+20	,	_		{}
+21	bland	_		{}
+22	andra	_		{}
+23	Draco	_		{}
+24	Malfoy	_		{}
+25	som	_		{}
+26	kommer	_		{}
+27	från	_		{}
+28	en	_	Cardinal_numbers	{"Number": "28", "Entity": "34"}
+29	av	_		{}
+30	de	_		{}
+31	”	_		{}
+32	renblodiga	_		{}
+33	”	_		{}
+34	trollkarlsfamiljerna	_		{}
+35	,	_		{}
+36	och	_		{}
+37	läraren	_		{}
+38	Severus	_		{}
+39	Snape	_		{}
+40	som	_		{}
+41	verkar	_	Appearance	{"Inference": "44", "Phenomenon": "42"}
+42	ha	_	Opinion	{"Opinion": "44", "Cognizer": "39"}
+43	något	_		{}
+44	emot	_		{}
+45	Harry	_		{}
+46	från	_		{}
+47	början	_		{}
+48	.	_		{}

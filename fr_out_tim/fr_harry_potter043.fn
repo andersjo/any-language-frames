@@ -1,0 +1,44 @@
+1	Dans	_		{}
+2	le	_		{}
+3	roman	_	Text	{"Text": "3"}
+4	final	_	Ordinal_numbers	{"Item": "3"}
+5	,	_		{}
+6	"	_		{}
+7	Harry	_		{}
+8	Potter	_		{}
+9	et	_		{}
+10	les	_		{}
+11	Reliques	_		{}
+12	de	_		{}
+13	la	_		{}
+14	Mort	_		{}
+15	"	_		{}
+16	,	_		{}
+17	Harry	_		{}
+18	et	_		{}
+19	ses	_		{}
+20	amis	_	Personal_relationship	{"Partner_2": "20", "Partner_1": "17"}
+21	passent	_	Process_continue	{}
+22	la	_		{}
+23	majeure	_	Size	{"Entity": "24"}
+24	partie	_	Part_whole	{"Part": "24", "Whole": "27"}
+25	de	_		{}
+26	leur	_		{}
+27	temps	_	Timespan	{"Duration": "23", "State": "28"}
+28	hors	_		{}
+29	de	_		{}
+30	Poudlard	_		{}
+31	,	_		{}
+32	et	_		{}
+33	n'y	_		{}
+34	retournent	_	Change_direction	{"Theme": "33"}
+35	que	_		{}
+36	pour	_		{}
+37	affronter	_	Hostile_encounter	{"Side_2": "38", "Side_1": "17"}
+38	Voldemort	_		{}
+39	lors	_		{}
+40	du	_		{}
+41	dénouement	_		{}
+42	de	_		{}
+43	l'intrigue	_		{}
+44	.	_		{}

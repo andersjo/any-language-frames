@@ -1,0 +1,15 @@
+1	Ich	_		{}
+2	weiß	_		{}
+3	grad	_		{}
+4	nicht	_		{}
+5	,	_		{}
+6	ob	_		{}
+7	ich	_		{}
+8	lieber	_	Choosing	{"Possibilities": "11", "Cognizer": "7"}
+9	Harry	_		{}
+10	Potter	_		{}
+11	oder	_		{}
+12	Star	_		{}
+13	Wars	_		{}
+14	gucken	_	Perception_active	{"Phenomenon": "11", "Perceiver_agentive": "7"}
+15	will	_	Desiring	{"Event": "14", "Experiencer": "7"}

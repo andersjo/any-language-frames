@@ -1,0 +1,18 @@
+1	På	_		{}
+2	faderns	_		{}
+3	sida	_		{}
+4	har	_	Possession	{"Owner": "5", "Possession": "9"}
+5	hon	_		{}
+6	tyskt	_		{}
+7	och	_	Simultaneity	{"Profiled_event": "6", "Landmark_event": "8"}
+8	slovakiskt	_		{}
+9	påbrå	_		{}
+10	,	_		{}
+11	på	_		{}
+12	moderns	_		{}
+13	franskt-kanadensiskt	_		{}
+14	,	_		{}
+15	holländskt	_		{}
+16	och	_	Simultaneity	{"Profiled_event": "15", "Landmark_event": "17"}
+17	tyskt	_		{}
+18	.	_		{}

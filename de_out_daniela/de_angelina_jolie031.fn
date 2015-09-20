@@ -1,0 +1,52 @@
+1	In	_		{}
+2	"	_		{}
+3	Zwei	_	Cardinal_numbers	{"Number": "3"}
+4	in	_		{}
+5	der	_		{}
+6	Tinte	_		{}
+7	"	_		{}
+8	(	_		{}
+9	1982	_		{}
+10	)	_		{}
+11	stand	_	Being_located	{"Theme": "12", "Location": "25"}
+12	Jolie	_		{}
+13	gemeinsam	_	Collaboration	{"Undertaking": "22", "Partner_2": "16", "Partner_1": "12"}
+14	mit	_		{}
+15	ihren	_		{}
+16	Eltern	_	Kinship	{"Ego": "12", "Alter": "16"}
+17	zum	_		{}
+18	ersten	_	Ordinal_numbers	{"Type": "19"}
+19	Mal	_	Event_instance	{"Instance": "19", "Instance_Prop": "18", "Event": "22"}
+20	für	_		{}
+21	einen	_		{}
+22	Film	_	Physical_artworks	{"Artifact": "22"}
+23	vor	_		{}
+24	der	_		{}
+25	Kamera	_		{}
+26	:	_		{}
+27	Während	_		{}
+28	ihr	_		{}
+29	Vater	_		{}
+30	in	_		{}
+31	der	_		{}
+32	Komödie	_	Text	{"Text": "312"}
+33	an	_		{}
+34	der	_		{}
+35	Seite	_	Part_orientational	{"Part": "35", "Whole": "37"}
+36	von	_		{}
+37	Ann-Margret	_		{}
+38	die	_		{}
+39	männliche	_		{}
+40	Hauptrolle	_		{}
+41	spielte	_	Performers_and_roles	{"Role": "40", "Performer1": "29", "Performer2": "37"}
+42	,	_		{}
+43	waren	_		{}
+44	Jolie	_		{}
+45	und	_		{}
+46	Bertrand	_		{}
+47	in	_		{}
+48	kleineren	_		{}
+49	Nebenrollen	_		{}
+50	zu	_		{}
+51	sehen	_	Perception_experience	{"Phenomenon": "44"}
+52	.	_		{}

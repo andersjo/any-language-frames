@@ -1,0 +1,27 @@
+1	e	_		{}
+2	auguri	_		{}
+3	per	_		{}
+4	un	_		{}
+5	2015	_		{}
+6	senza	_		{}
+7	:	_		{}
+8	insulse	_		{}
+9	paure	_	Fear	{"Stimulus": "18", "Topic": "9"}
+10	per	_		{}
+11	i	_		{}
+12	vaccini	_		{}
+13	,	_		{}
+14	paraguru	_		{}
+15	delle	_		{}
+16	staminali	_		{}
+17	,	_		{}
+18	omeopatia	_	Medical_specialties	{"Specialty": "18"}
+19	,	_		{}
+20	negazionisti	_		{}
+21	del	_		{}
+22	global	_		{}
+23	warming	_		{}
+24	.	_		{}
+25	siate	_		{}
+26	felici	_	Emotion_directed	{"Topic": "26"}
+27	.	_		{}

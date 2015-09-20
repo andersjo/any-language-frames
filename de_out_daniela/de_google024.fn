@@ -1,0 +1,28 @@
+1	In	_		{}
+2	den	_		{}
+3	USA	_		{}
+4	selbst	_	Proper_reference	{"Entity": "3"}
+5	gelang	_	Successful_action	{"Goal": "12"}
+6	es	_		{}
+7	Google	_		{}
+8	weniger	_	Degree	{"Gradable_attribute": "9"}
+9	drastisch	_		{}
+10	Steuern	_		{}
+11	zu	_		{}
+12	umgehen	_	Avoiding	{"Undesirable_situation": "10", "Degree": "9", "Agent": "7"}
+13	,	_		{}
+14	wodurch	_		{}
+15	der	_		{}
+16	effektive	_		{}
+17	Steuersatz	_		{}
+18	auf	_		{}
+19	die	_		{}
+20	ausgewiesenen	_		{}
+21	Gewinne	_	Earnings_and_losses	{"Earner": "7", "Earnings": "21"}
+22	insgesamt	_	Amounting_to	{"Attribute": "21", "Value": "23"}
+23	22	_		{}
+24	,	_		{}
+25	4	_	Cardinal_numbers	{"Number": "25", "Entity": "26"}
+26	%	_		{}
+27	betrug	_		{}
+28	.	_		{}

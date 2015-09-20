@@ -1,0 +1,17 @@
+1	Alternativet	_		{}
+2	Google	_		{}
+3	Maps	_		{}
+4	er	_		{}
+5	mindre	_	Attention_getting	{}
+6	krævende	_		{}
+7	udstyrsmæssigt	_		{}
+8	,	_		{}
+9	men	_		{}
+10	har	_	Possession	{"Possession": "16", "Owner": "2"}
+11	til	_		{}
+12	gengæld	_	Revenge	{"Avenger": "2", "Punishment": "16"}
+13	ikke	_		{}
+14	så	_	Degree	{"Gradable_attribute": "15"}
+15	mange	_	Quantity	{"Individuals": "16", "Mass": "15"}
+16	funktioner	_		{}
+17	.	_		{}

@@ -1,0 +1,27 @@
+1	At	_		{}
+2	that	_		{}
+3	time	_	Event_instance	{"Instance": "3", "Event": "13"}
+4	Larry	_		{}
+5	Page	_		{}
+6	,	_		{}
+7	Sergey	_		{}
+8	Brin	_		{}
+9	,	_		{}
+10	and	_		{}
+11	Eric	_		{}
+12	Schmidt	_		{}
+13	agreed	_	Make_agreement_on_action	{"Obligation": "15", "Parties": "5", "Time": "1"}
+14	to	_		{}
+15	work	_	Being_employed	{"Employee": "5", "Place_of_employment": "17", "Time": "23"}
+16	together	_	Collaboration	{"Partners": "5", "Undertaking": "15"}
+17	at	_		{}
+18	Google	_		{}
+19	for	_		{}
+20	20	_	Cardinal_numbers	{"Number": "20", "Entity": "21"}
+21	years	_	Measure_duration	{"Count": "20", "Process": "15", "Agent": "5", "Unit": "21"}
+22	,	_		{}
+23	until	_		{}
+24	the	_		{}
+25	year	_	Calendric_unit	{"Unit": "25"}
+26	2024	_		{}
+27	.	_		{}

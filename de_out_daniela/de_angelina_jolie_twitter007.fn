@@ -1,0 +1,22 @@
+1	Vielleicht	_	Likelihood	{"Hypothetical_event": "10"}
+2	war	_		{}
+3	die	_		{}
+4	Limette	_		{}
+5	in	_		{}
+6	meinem	_		{}
+7	Cocktail	_		{}
+8	gar	_		{}
+9	nicht	_		{}
+10	gespritzt	_		{}
+11	.	_		{}
+12	Vielleicht	_	Likelihood	{"Hypothetical_event": "16"}
+13	habe	_	Possession	{"Owner": "14", "Possession": "18"}
+14	ich	_		{}
+15	von	_		{}
+16	Natur	_	System	{"Complex": "16"}
+17	aus	_		{}
+18	Lippen	_	Observable_body_parts	{"Body_part": "18", "Possessor": "14"}
+19	wie	_	Similarity	{"Entities": "18"}
+20	Angelina	_		{}
+21	Jolie	_		{}
+22	?	_		{}

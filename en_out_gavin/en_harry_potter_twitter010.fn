@@ -1,0 +1,17 @@
+1	Currently	_	Temporal_collocation	{"Trajector_event": "2", "Trajector_period": "1"}
+2	laying	_	Placing	{"Place": "3"}
+3	in	_		{}
+4	bed	_		{}
+5	,	_		{}
+6	eating	_		{}
+7	chocolate	_	Food	{"Food": "7"}
+8	,	_		{}
+9	and	_		{}
+10	watching	_	Perception_active	{"Place": "3", "Phenomenon": "12"}
+11	harry	_		{}
+12	potter	_		{}
+13	.	_		{}
+14	Avoiding	_	Avoiding	{"Undesirable_situation": "16"}
+15	all	_	Quantity	{"Individuals": "16", "Quantity": "15"}
+16	responsibilities	_	Being_obligated	{"Duty": "16"}
+17	.	_		{}

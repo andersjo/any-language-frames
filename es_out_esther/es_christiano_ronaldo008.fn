@@ -1,0 +1,79 @@
+1	Su	_		{}
+2	consagración	_	Rite	{"Desired_state": "4"}
+3	como	_		{}
+4	futbolista	_		{}
+5	de	_		{}
+6	élite	_	Expertise	{"Knowledge": "4"}
+7	se	_		{}
+8	dio	_	Becoming	{}
+9	en	_		{}
+10	su	_		{}
+11	etapa	_	Locale	{}
+12	en	_		{}
+13	el	_		{}
+14	Manchester	_		{}
+15	United	_		{}
+16	Football	_		{}
+17	Club	_	Organization	{"Organization": "14", "Members": "4"}
+18	,	_		{}
+19	donde	_		{}
+20	tras	_		{}
+21	conquistar	_	Conquering	{"Conqueror": "4", "Theme": "24"}
+22	tres	_	Cardinal_numbers	{"Number": "3", "Entity": "24"}
+23	Premier	_	Leadership	{"Governed": "24"}
+24	League	_		{}
+25	,	_		{}
+26	dos	_	Cardinal_numbers	{"Number": "26", "Entity": "27"}
+27	Copas	_	Accoutrements	{"Accoutrement": "30"}
+28	de	_		{}
+29	la	_		{}
+30	liga	_	Organization	{"Organization": "30"}
+31	,	_		{}
+32	una	_		{}
+33	Copa	_	Accoutrements	{"Accoutrement": "33"}
+34	,	_		{}
+35	dos	_	Cardinal_numbers	{"Number": "35", "Entity": "37"}
+36	Community	_	Aggregate	{"Aggregate": "37"}
+37	Shield	_	Protecting	{}
+38	,	_		{}
+39	una	_		{}
+40	Liga	_	Knot_creation	{"Agent": "42", "Knot": "40"}
+41	de	_		{}
+42	Campeones	_		{}
+43	y	_		{}
+44	una	_		{}
+45	Copa	_	Accoutrements	{"Accoutrement": "45"}
+46	Mundial	_	Political_locales	{"Locale": "46"}
+47	de	_		{}
+48	Clubes	_	Organization	{"Organization": "48"}
+49	,	_		{}
+50	fue	_		{}
+51	galardonado	_	Cause_to_perceive	{"Phenomenon": "54"}
+52	con	_		{}
+53	el	_		{}
+54	Balón	_		{}
+55	de	_		{}
+56	Oro	_		{}
+57	,	_		{}
+58	el	_		{}
+59	,	_		{}
+60	y	_		{}
+61	la	_		{}
+62	Bota	_	Clothing	{"Garment": "62", "Style": "64"}
+63	de	_		{}
+64	Oro	_		{}
+65	,	_		{}
+66	trofeos	_		{}
+67	que	_		{}
+68	le	_		{}
+69	acreditaban	_	Appointing	{"Function": "72", "Official": "72"}
+70	como	_	Identicality	{"Current_instance": "72"}
+71	mejor	_	Expertise	{"Focal_participant": "72"}
+72	futbolista	_		{}
+73	del	_		{}
+74	mundo	_	Political_locales	{"Locale": "74"}
+75	en	_		{}
+76	el	_		{}
+77	año	_	Calendric_unit	{"Whole": "78", "Unit": "77"}
+78	2008	_		{}
+79	.	_		{}

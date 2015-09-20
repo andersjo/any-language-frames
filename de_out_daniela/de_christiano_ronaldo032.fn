@@ -1,0 +1,37 @@
+1	Dennoch	_	Concessive	{"Topic": "35"}
+2	sollte	_		{}
+3	Ronaldo	_		{}
+4	später	_	Relative_time	{"Focal_occasion": "35", "Focal_participant": "3"}
+5	der	_		{}
+6	erste	_		{}
+7	Jugendliche	_	People_by_age	{"Person": "7"}
+8	in	_		{}
+9	der	_		{}
+10	Vereinsgeschichte	_		{}
+11	von	_		{}
+12	Sporting	_		{}
+13	Lissabon	_		{}
+14	sein	_		{}
+15	,	_		{}
+16	der	_		{}
+17	binnen	_		{}
+18	einer	_		{}
+19	Saison	_		{}
+20	für	_		{}
+21	die	_		{}
+22	U-16-	_		{}
+23	,	_		{}
+24	U-17-	_		{}
+25	,	_		{}
+26	U-18-	_		{}
+27	,	_		{}
+28	die	_		{}
+29	Reserveauswahl	_		{}
+30	und	_		{}
+31	für	_		{}
+32	das	_		{}
+33	Profiteam	_		{}
+34	zum	_		{}
+35	Einsatz	_		{}
+36	kam	_	Becoming_a_member	{"New_member": "3", "Group": "33"}
+37	.	_		{}

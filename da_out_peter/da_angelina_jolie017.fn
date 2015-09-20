@@ -1,0 +1,12 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	har	_	Have_associated	{"Depictive": "9", "Cause": "11", "Topical_entity": "2", "Entity": "5"}
+4	seks	_	Cardinal_numbers	{"Number": "4", "Entity": "5"}
+5	børn	_	Kinship	{"Ego": "2", "Alter": "5"}
+6	,	_		{}
+7	hvoraf	_		{}
+8	de	_		{}
+9	tre	_	Cardinal_numbers	{"Number": "9", "Entity": "11"}
+10	er	_		{}
+11	adopterede	_		{}
+12	:	_		{}

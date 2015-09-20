@@ -1,0 +1,21 @@
+1	Straight	_	Candidness	{"Message": "4"}
+2	up	_	Direction	{"Path": "2"}
+3	,	_		{}
+4	I'm	_		{}
+5	high	_	Intoxication	{"Cognizer": "4", "Degree": "6"}
+6	as	_		{}
+7	balls	_	Shapes	{"Shape": "7"}
+8	and	_		{}
+9	I	_		{}
+10	just	_		{}
+11	wanna	_		{}
+12	watch	_	Perception_active	{"Perceiver_agentive": "9", "Phenomenon": "14"}
+13	Harry	_		{}
+14	potter	_		{}
+15	with	_		{}
+16	my	_		{}
+17	boyfriend	_	Personal_relationship	{"Partner_2": "17", "Partner_1": "9"}
+18	.	_		{}
+19	Or	_		{}
+20	someone	_	People	{"Person": "20"}
+21	.	_		{}

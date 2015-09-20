@@ -1,0 +1,32 @@
+1	En	_		{}
+2	el	_		{}
+3	2011	_		{}
+4	,	_		{}
+5	nuevamente	_	Temporal_collocation	{}
+6	ocupó	_		{}
+7	el	_		{}
+8	primer	_	First_rank	{"Item": "9", "Limits_of_consideration": "12"}
+9	lugar	_	Locale_by_event	{"Relative_location": "15"}
+10	en	_		{}
+11	la	_		{}
+12	lista	_	Text	{"Medium": "15"}
+13	de	_		{}
+14	la	_		{}
+15	revista	_	Text	{"Containing_text": "23", "Title": "17"}
+16	"	_		{}
+17	Forbes	_		{}
+18	"	_		{}
+19	de	_		{}
+20	las	_		{}
+21	actrices	_	Performers	{"Place_of_employment": "25"}
+22	mejor	_	Expertise	{}
+23	pagadas	_	Commerce_pay	{}
+24	de	_		{}
+25	Hollywood	_		{}
+26	,	_		{}
+27	junto	_		{}
+28	con	_		{}
+29	Sarah	_		{}
+30	Jessica	_		{}
+31	Parker	_		{}
+32	.	_		{}

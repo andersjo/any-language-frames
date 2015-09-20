@@ -1,0 +1,11 @@
+1	MA	_		{}
+2	SOEUR	_	Kinship	{"Ego": "1", "Alter": "2"}
+3	TROUVE	_	Opinion	{"Opinion": "7", "Cognizer": "2"}
+4	QUE	_		{}
+5	ANGELINA	_		{}
+6	JOLIE	_		{}
+7	N'EST	_		{}
+8	PAS	_		{}
+9	BELLE	_	Aesthetics	{"Attribute": "9", "Degree": "8", "Entity": "5"}
+10	MAIS	_		{}
+11	??????????????????????	_		{}

@@ -1,0 +1,24 @@
+1	Nachdem	_		{}
+2	Harry	_		{}
+3	in	_		{}
+4	der	_		{}
+5	Folge	_	Relative_time	{"Focal_occasion": "8", "Focal_participant": "2"}
+6	zwei	_	Cardinal_numbers	{"Number": "6", "Entity": "8"}
+7	weiteren	_		{}
+8	Mordversuchen	_		{}
+9	Voldemorts	_		{}
+10	entkommt	_		{}
+11	,	_		{}
+12	erlangt	_	Getting	{"Theme": "17", "Recipient": "13"}
+13	er	_		{}
+14	im	_		{}
+15	fünften	_		{}
+16	Band	_		{}
+17	Kenntnis	_	Awareness	{"Content": "20", "Cognizer": "13"}
+18	von	_		{}
+19	einer	_		{}
+20	Prophezeiung	_	Expectation	{"Cognizer": "12", "Phenomenon": "23"}
+21	über	_		{}
+22	dessen	_		{}
+23	Untergang	_	Death	{"Protagonist": "9"}
+24	.	_		{}

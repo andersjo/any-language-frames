@@ -1,0 +1,22 @@
+1	We	_		{}
+2	can	_	Capability	{"Entity": "1", "Circumstances": "9"}
+3	make	_	Creating	{"Created_entity": "5", "Time": "9", "Creator": "1", "Means": "6"}
+4	big	_	Size	{"Entity": "5"}
+5	changes	_	Cause_change	{}
+6	with	_		{}
+7	small	_	Size	{"Entity": "8"}
+8	actions	_		{}
+9	when	_		{}
+10	we	_		{}
+11	all	_	Quantity	{"Mass": "10", "Quantity": "11"}
+12	work	_	Intentionally_act	{"Manner": "13", "Agent": "10", "Result": "3"}
+13	together	_	Collaboration	{"Partners": "10", "Time": "9", "Undertaking": "12"}
+14	.	_		{}
+15	See	_	Perception_experience	{"Phenomenon": "19"}
+16	how	_		{}
+17	quickly	_	Speed	{"Speed": "17", "Degree": "16", "Entity": "19"}
+18	it	_		{}
+19	adds	_	Adding_up	{"Numbers": "18"}
+20	up	_	Direction	{"Path": "20"}
+21	.	_		{}
+22	https://t.co/yrpnTtyBLq	_		{}

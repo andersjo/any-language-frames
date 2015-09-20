@@ -1,0 +1,36 @@
+1	Den	_		{}
+2	första	_	Ordinal_numbers	{"Item": "3"}
+3	boken	_		{}
+4	,	_		{}
+5	"	_		{}
+6	Harry	_		{}
+7	Potter	_		{}
+8	och	_		{}
+9	de	_		{}
+10	vises	_		{}
+11	sten	_		{}
+12	"	_		{}
+13	,	_		{}
+14	fick	_		{}
+15	halvbra	_		{}
+16	recensioner	_	Judgment_communication	{"Evaluee": "3"}
+17	men	_	Concessive	{"Main_statement": "19"}
+18	gott	_	Desirability	{"Evaluee": "19", "Degree": "18"}
+19	rykte	_	Fame	{"Entity": "3"}
+20	bland	_		{}
+21	läsarna	_		{}
+22	och	_		{}
+23	blev	_		{}
+24	rätt	_	Degree	{"Gradable_attribute": "25"}
+25	oväntat	_		{}
+26	en	_	Cardinal_numbers	{"Number": "26", "Entity": "28"}
+27	stor	_	Size	{"Entity": "28"}
+28	framgång	_	Success_or_failure	{"Agent": "31"}
+29	,	_		{}
+30	och	_		{}
+31	Rowling	_		{}
+32	fick	_		{}
+33	flera	_	Quantity	{"Individuals": "35"}
+34	litterära	_	Fields	{"Work": "3", "Practitioner": "31"}
+35	priser	_		{}
+36	.	_		{}

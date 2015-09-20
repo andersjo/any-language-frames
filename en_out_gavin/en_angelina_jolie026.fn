@@ -1,0 +1,28 @@
+1	She	_		{}
+2	decided	_	Deciding	{"Cognizer": "1", "Decision": "4"}
+3	she	_		{}
+4	wanted	_	Desiring	{"Experiencer": "3", "Event": "6"}
+5	to	_		{}
+6	act	_	Performers_and_roles	{"Performer": "3"}
+7	and	_		{}
+8	enrolled	_	Becoming_a_member	{"New_member": "3"}
+9	at	_		{}
+10	the	_		{}
+11	Lee	_		{}
+12	Strasberg	_		{}
+13	Theatre	_	Locale_by_use	{"Locale": "13", "Name": "12"}
+14	Institute	_	Locale_by_use	{"Locale": "14", "Name": "13"}
+15	,	_		{}
+16	where	_		{}
+17	she	_		{}
+18	trained	_	Education_teaching	{"Student": "17"}
+19	for	_		{}
+20	two	_	Cardinal_numbers	{"Number": "20", "Entity": "21"}
+21	years	_		{}
+22	and	_		{}
+23	appeared	_	Coming_to_be	{"Place": "27"}
+24	in	_		{}
+25	several	_	Quantity	{"Individuals": "27", "Quantity": "25"}
+26	stage	_	Behind_the_scenes	{"Production": "27", "Medium": "26"}
+27	productions	_	Behind_the_scenes	{"Medium": "26", "Production": "27"}
+28	.	_		{}

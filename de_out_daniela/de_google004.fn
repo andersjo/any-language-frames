@@ -1,0 +1,25 @@
+1	Noch	_		{}
+2	am	_		{}
+3	selben	_	Identicality	{"Type": "4"}
+4	Tag	_	Calendric_unit	{"Relative_time": "3", "Unit": "4"}
+5	brachten	_	Delivery	{"Theme": "9", "Goal": "14", "Deliverer": "6"}
+6	sie	_		{}
+7	eine	_		{}
+8	erste	_		{}
+9	Testversion	_		{}
+10	des	_		{}
+11	Programms	_		{}
+12	auf	_		{}
+13	den	_		{}
+14	Markt	_		{}
+15	und	_	Simultaneity	{"Profiled_event": "21", "Landmark_event": "11"}
+16	im	_		{}
+17	selben	_	Identicality	{"Type": "18"}
+18	Jahr	_	Calendric_unit	{"Relative_time": "17", "Unit": "18"}
+19	ging	_	Activity_ongoing	{"Activity": "19"}
+20	die	_		{}
+21	Suchmaschine	_		{}
+22	offiziell	_		{}
+23	ans	_		{}
+24	Netz	_	Network	{"Network": "24"}
+25	.	_		{}

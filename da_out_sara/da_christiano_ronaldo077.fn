@@ -1,0 +1,42 @@
+1	Fire	_		{}
+2	dage	_	Timespan	{"Duration": "1", "State": "2"}
+3	senere	_	Relative_time	{"Focal_participant": "5"}
+4	blev	_		{}
+5	han	_		{}
+6	den	_		{}
+7	første	_	Ordinal_numbers	{"Item": "8"}
+8	Premier	_		{}
+9	League-spiller	_		{}
+10	nogensinde	_		{}
+11	,	_		{}
+12	der	_		{}
+13	blev	_		{}
+14	udnævnt	_		{}
+15	som	_		{}
+16	FIFA	_		{}
+17	World	_		{}
+18	Player	_		{}
+19	of	_		{}
+20	the	_		{}
+21	Year	_		{}
+22	,	_		{}
+23	samtidig	_	Simultaneity	{"Profiled_event": "35", "Landmark_event": "14"}
+24	med	_		{}
+25	at	_		{}
+26	han	_		{}
+27	også	_		{}
+28	var	_		{}
+29	den	_		{}
+30	første	_	Ordinal_numbers	{"Item": "32"}
+31	portugisiske	_		{}
+32	spiller	_	Competition	{"Participant_1": "32", "Prize": "36"}
+33	til	_		{}
+34	at	_		{}
+35	vinde	_	Win_prize	{"Competitor": "26", "Prize": "36"}
+36	prisen	_		{}
+37	siden	_		{}
+38	Luís	_		{}
+39	Figo	_		{}
+40	i	_		{}
+41	2001	_		{}
+42	.	_		{}

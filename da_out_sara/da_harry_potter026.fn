@@ -1,0 +1,50 @@
+1	Lige	_		{}
+2	fra	_		{}
+3	barndomshistorierne	_		{}
+4	om	_		{}
+5	det	_		{}
+6	lille	_	Size	{"Entity": "7"}
+7	barn	_	People_by_age	{"Descriptor": "6", "Person": "7"}
+8	,	_		{}
+9	der	_		{}
+10	trænger	_		{}
+11	ondskaben	_		{}
+12	tilbage	_		{}
+13	omgivet	_		{}
+14	af	_		{}
+15	sendebud	_		{}
+16	(	_		{}
+17	ugler/engle	_		{}
+18	)	_		{}
+19	,	_		{}
+20	himmelfænomener	_		{}
+21	(	_		{}
+22	stjerneskud/stjerne	_		{}
+23	)	_		{}
+24	og	_		{}
+25	en	_		{}
+26	jublende	_		{}
+27	menneskehed	_	People	{"Descriptor": "26", "Person": "27"}
+28	(	_		{}
+29	troldmænd/hyrder	_		{}
+30	og	_		{}
+31	de	_		{}
+32	tre	_	Cardinal_numbers	{"Number": "32", "Entity": "34"}
+33	vise	_		{}
+34	mænd	_	People	{"Descriptor": "33", "Person": "34"}
+35	)	_		{}
+36	frem	_		{}
+37	til	_		{}
+38	døden	_	Death	{"Protagonist": "43"}
+39	og	_		{}
+40	opstandelsen	_	Resurrection	{"Protagonist": "43"}
+41	,	_		{}
+42	minder	_		{}
+43	Harry	_		{}
+44	Potters	_		{}
+45	og	_	Simultaneity	{"Profiled_event": "43", "Landmark_event": "46"}
+46	Jesu	_		{}
+47	liv	_	Existence	{"Entity": "43"}
+48	om	_		{}
+49	hinanden	_		{}
+50	.	_		{}

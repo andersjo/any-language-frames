@@ -1,0 +1,20 @@
+1	MI	_		{}
+2	RACCOMANDO	_		{}
+3	CREDETE	_	Opinion	{}
+4	ANCORA	_	Continued_state_of_affairs	{"State_of_affairs": "3"}
+5	AGLI	_		{}
+6	ESPERTI	_		{}
+7	...	_		{}
+8	GLI	_		{}
+9	STESSI	_	Identicality	{"Set_of_instances": "6"}
+10	CHE	_		{}
+11	VI	_		{}
+12	DICONO	_	Speak_on_topic	{"Topic": "15", "Speaker": "6"}
+13	CHE	_		{}
+14	LA	_		{}
+15	GEOINGEGNERIA	_		{}
+16	...	_		{}
+17	NON	_		{}
+18	ESISTE	_	Existence	{"Entity": "15"}
+19	!	_		{}
+20	http://t.co/gZqFFsOq0R	_		{}

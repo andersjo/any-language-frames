@@ -1,0 +1,20 @@
+1	Google	_		{}
+2	traductor	_	Translating	{}
+3	hizo	_	Assistance	{"Benefited_party": "7", "Goal": "5", "Helper": "2", "Focal_entity": "2"}
+4	su	_		{}
+5	parte	_	Part_piece	{"Piece": "5", "Substance": "2"}
+6	y	_		{}
+7	yo	_	Proper_reference	{"Intended_referent": "7", "Entity": "7"}
+8	hice	_	Assistance	{"Benefited_party": "7", "Goal": "5", "Helper": "2", "Focal_entity": "7"}
+9	la	_		{}
+10	mia	_		{}
+11	jajaja	_	Sounds	{"Sound_source": "7"}
+12	espero	_	Expectation	{"Topic": "14", "Cognizer": "7", "Phenomenon": "14"}
+13	haberte	_		{}
+14	ayudado	_	Assistance	{"Benefited_party": "18", "Goal": "14", "Helper": "2", "Focal_entity": "7"}
+15	un	_		{}
+16	poquito	_		{}
+17	.	_		{}
+18	@JohannVera1	_		{}
+19	Saludos	_		{}
+20	♥	_		{}

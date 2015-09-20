@@ -1,0 +1,25 @@
+1	Declaro	_	Verdict	{"Charges": "6", "Case": "3"}
+2	a	_		{}
+3	Angelina	_		{}
+4	Jolie	_		{}
+5	como	_	Similarity	{"Entity_1": "6"}
+6	reina	_	Leadership	{}
+7	de	_		{}
+8	la	_		{}
+9	belleza	_	Containers	{"Container": "3"}
+10	en	_		{}
+11	todo	_	Degree	{"Gradable_attribute": "9"}
+12	el	_		{}
+13	universo	_	Political_locales	{"Locale": "13"}
+14	,	_		{}
+15	más	_	Change_position_on_a_scale	{}
+16	que	_		{}
+17	nada	_	Cardinal_numbers	{}
+18	en	_		{}
+19	la	_		{}
+20	película	_	Physical_artworks	{"Artifact": "22"}
+21	"	_		{}
+22	Se	_		{}
+23	busca	_	Seeking	{"Sought_entity": "22"}
+24	"	_		{}
+25	.	_		{}

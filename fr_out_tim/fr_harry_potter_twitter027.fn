@@ -1,0 +1,18 @@
+1	La	_		{}
+2	scène	_	Physical_artworks	{"Artifact": "2"}
+3	de	_		{}
+4	poursuite	_		{}
+5	dans	_		{}
+6	#SherlockHolmes	_		{}
+7	elle	_		{}
+8	ressemble	_	Similarity	{"Entity_1": "2", "Entity_2": "11"}
+9	tellement	_	Degree	{"Gradable_attribute": "8"}
+10	à	_		{}
+11	celle	_		{}
+12	dans	_		{}
+13	Harry	_		{}
+14	Potter	_		{}
+15	7	_		{}
+16	partie	_	Part_whole	{"Part": "16", "Whole": "13"}
+17	1	_		{}
+18	.	_		{}

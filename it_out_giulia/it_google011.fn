@@ -1,0 +1,33 @@
+1	Inoltre	_		{}
+2	,	_		{}
+3	nel	_		{}
+4	secondo	_	Ordinal_numbers	{"Comparison_set": "5"}
+5	trimestre	_	Calendric_unit	{"Count": "4", "Whole": "7", "Unit": "5"}
+6	del	_		{}
+7	2011	_		{}
+8	,	_		{}
+9	il	_		{}
+10	suo	_		{}
+11	primo	_	Ordinal_numbers	{"Item": "12"}
+12	sistema	_	Project	{"Project": "23", "Descriptor": "14", "Name": "19", "Manner": "26", "Time": "7"}
+13	operativo	_	Being_in_operation	{"Device": "12"}
+14	open	_		{}
+15	source	_		{}
+16	,	_		{}
+17	denominato	_	Being_named	{"Name": "19", "Entity": "12"}
+18	Google	_		{}
+19	Chrome	_		{}
+20	OS	_		{}
+21	,	_		{}
+22	verrà	_		{}
+23	pubblicato	_		{}
+24	e	_		{}
+25	sarà	_		{}
+26	destinato	_		{}
+27	almeno	_	Relational_quantity	{}
+28	inizialmente	_	Version_sequence	{"Item": "12"}
+29	al	_		{}
+30	mercato	_		{}
+31	dei	_		{}
+32	netbook	_		{}
+33	.	_		{}

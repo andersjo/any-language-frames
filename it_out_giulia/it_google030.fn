@@ -1,0 +1,40 @@
+1	Nel	_		{}
+2	mese	_	Calendric_unit	{"Whole": "4", "Unit": "2"}
+3	di	_		{}
+4	settembre	_	Calendric_unit	{"Unit": "4"}
+5	2014	_		{}
+6	,	_		{}
+7	è	_		{}
+8	stato	_		{}
+9	annunciato	_		{}
+10	che	_		{}
+11	Calico	_		{}
+12	,	_		{}
+13	in	_		{}
+14	collaborazione	_	Collaboration	{"Undertaking": "19", "Partner_2": "16", "Partner_1": "11"}
+15	con	_		{}
+16	AbbVie	_		{}
+17	,	_		{}
+18	avrebbe	_		{}
+19	aperto	_		{}
+20	una	_		{}
+21	struttura	_	Building	{"Created_entity": "21"}
+22	di	_		{}
+23	ricerca	_	Research	{"Topic": "27"}
+24	e	_		{}
+25	sviluppo	_		{}
+26	focalizzata	_		{}
+27	sull'invecchiamento	_		{}
+28	e	_		{}
+29	sulle	_		{}
+30	malattie	_	Medical_conditions	{}
+31	legate	_		{}
+32	all'età	_		{}
+33	,	_		{}
+34	quali	_		{}
+35	la	_		{}
+36	neurodegenerazione	_		{}
+37	e	_		{}
+38	il	_		{}
+39	cancro	_	Medical_conditions	{}
+40	.	_		{}

@@ -1,0 +1,20 @@
+1	J'me	_		{}
+2	rappelle	_	Remembering_experience	{"Cognizer": "1", "Experience": "9"}
+3	dans	_		{}
+4	mon	_		{}
+5	ancien	_	Temporal_collocation	{"Trajector_event": "9", "Landmark_period": "6"}
+6	appart	_		{}
+7	à	_		{}
+8	Paris	_		{}
+9	c'était	_		{}
+10	tlm	_		{}
+11	petit	_	Size	{"Entity": "19"}
+12	limite	_		{}
+13	j'habitais	_		{}
+14	dans	_		{}
+15	le	_		{}
+16	placard	_	Building_subparts	{"Building_part": "16"}
+17	sous	_		{}
+18	l'escalier	_		{}
+19	d'Harry	_		{}
+20	Potter	_		{}

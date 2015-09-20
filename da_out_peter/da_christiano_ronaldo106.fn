@@ -1,0 +1,49 @@
+1	Portugals	_		{}
+2	træner	_	People_by_vocation	{"Person": "5", "Place_of_employment": "1"}
+3	Luiz	_		{}
+4	Felipe	_		{}
+5	Scolari	_		{}
+6	forklarede	_		{}
+7	:	_		{}
+8	"	_		{}
+9	Mr.	_		{}
+10	Silva	_		{}
+11	spurgte	_		{}
+12	mig	_		{}
+13	,	_		{}
+14	om	_		{}
+15	jeg	_		{}
+16	ikke	_		{}
+17	kunne	_		{}
+18	gøre	_	Cause_change	{"Final_category": "21", "Agent": "5", "Entity": "19"}
+19	Ronaldo	_		{}
+20	til	_		{}
+21	anfører	_	Leadership	{"Role": "21", "Leader": "19"}
+22	som	_		{}
+23	en	_		{}
+24	gestus	_		{}
+25	...	_		{}
+26	han	_		{}
+27	er	_		{}
+28	for	_	Sufficiency	{"Item": "19", "Scale": "29"}
+29	ung	_	Age	{"Age": "29", "Degree": "28", "Entity": "19"}
+30	til	_		{}
+31	at	_		{}
+32	blive	_	Becoming	{"Entity": "19"}
+33	anfører	_	Leadership	{"Role": "33", "Leader": "19"}
+34	,	_		{}
+35	men	_	Concessive	{"Topic": "33", "Main_statement": "29", "Statement": "38"}
+36	Mr.	_		{}
+37	Silva	_		{}
+38	spurgte	_		{}
+39	mig	_		{}
+40	,	_		{}
+41	og	_		{}
+42	nu	_	Location_in_time	{"Relative_time": "42"}
+43	er	_		{}
+44	han	_		{}
+45	ikke	_		{}
+46	længere	_		{}
+47	blandt	_		{}
+48	os	_		{}
+49	.	_		{}

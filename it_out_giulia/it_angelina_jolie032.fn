@@ -1,0 +1,42 @@
+1	Nel	_		{}
+2	1997	_		{}
+3	recita	_	Performers_and_roles	{"Performance": "3", "Type": "5", "Medium": "6", "Role": "29"}
+4	nel	_		{}
+5	film	_	Physical_artworks	{"Type": "13", "Name": "9", "Artifact": "5", "Time_of_creation": "2"}
+6	televisivo	_		{}
+7	"	_		{}
+8	George	_		{}
+9	Wallace	_		{}
+10	"	_		{}
+11	,	_		{}
+12	"	_		{}
+13	bio-pic	_		{}
+14	"	_		{}
+15	sulla	_		{}
+16	vita	_	Existence	{"Entity": "18"}
+17	del	_		{}
+18	governatore	_	Leadership	{"Role": "18", "Leader": "21", "Governed": "19"}
+19	dell'Alabama	_		{}
+20	George	_		{}
+21	Wallace	_		{}
+22	,	_		{}
+23	interpretando	_	Performers_and_roles	{"Performance": "23", "Type": "5", "Role": "28"}
+24	il	_		{}
+25	ruolo	_	Performers_and_roles	{"Type": "5", "Medium": "6", "Role": "28"}
+26	della	_		{}
+27	seconda	_		{}
+28	moglie	_	Personal_relationship	{"Partner_2": "29", "Partner_1": "20"}
+29	Cornelia	_		{}
+30	Wallace	_		{}
+31	,	_		{}
+32	ruolo	_	Performers_and_roles	{"Role": "28", "Medium": "6", "Type": "5"}
+33	che	_		{}
+34	le	_		{}
+35	fa	_		{}
+36	vincere	_	Finish_competition	{"Prize": "40"}
+37	il	_		{}
+38	suo	_		{}
+39	primo	_	Ordinal_numbers	{"Item": "40"}
+40	Golden	_		{}
+41	Globe	_		{}
+42	.	_		{}

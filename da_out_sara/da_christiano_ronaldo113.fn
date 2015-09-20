@@ -1,0 +1,28 @@
+1	I	_		{}
+2	løbet	_	Path_traveled	{"Theme": "4"}
+3	af	_		{}
+4	marts	_	Calendric_unit	{"Relative_time": "5", "Unit": "4"}
+5	2009	_		{}
+6	donerede	_		{}
+7	han	_		{}
+8	£100.000	_		{}
+9	til	_		{}
+10	det	_		{}
+11	hospital	_	Buildings	{"Building": "11"}
+12	,	_		{}
+13	der	_		{}
+14	havde	_		{}
+15	reddet	_		{}
+16	hans	_		{}
+17	mors	_		{}
+18	liv	_	Existence	{"Entity": "17"}
+19	,	_		{}
+20	efter	_	Change_position_on_a_scale	{"Item": "25", "Time": "27"}
+21	hun	_		{}
+22	blev	_		{}
+23	diagnosticeret	_		{}
+24	med	_		{}
+25	brystkræft	_	Observable_body_parts	{"Body_part": "25", "Possessor": "17"}
+26	i	_		{}
+27	2007	_		{}
+28	.	_		{}

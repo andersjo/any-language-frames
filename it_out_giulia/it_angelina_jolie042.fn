@@ -1,0 +1,32 @@
+1	Contemporaneamente	_	Temporal_collocation	{"Trajector_event": "2", "Landmark_period": "1"}
+2	iniziato	_		{}
+3	le	_		{}
+4	riprese	_		{}
+5	di	_		{}
+6	"	_		{}
+7	Original	_		{}
+8	Sin	_		{}
+9	"	_		{}
+10	in	_		{}
+11	Messico	_		{}
+12	,	_		{}
+13	thriller	_	Text	{"Genre": "13", "Text": "16", "Author": "24", "Title": "18"}
+14	basato	_		{}
+15	sul	_		{}
+16	romanzo	_		{}
+17	"	_		{}
+18	Waltz	_		{}
+19	in	_		{}
+20	Darkness	_		{}
+21	"	_		{}
+22	di	_		{}
+23	Cornell	_		{}
+24	Woolrich	_		{}
+25	,	_		{}
+26	ma	_		{}
+27	non	_		{}
+28	ha	_		{}
+29	molto	_	Degree	{"Gradable_attribute": "30"}
+30	successo	_	Success_or_failure	{"Degree": "29"}
+31	al	_		{}
+32	botteghino	_		{}

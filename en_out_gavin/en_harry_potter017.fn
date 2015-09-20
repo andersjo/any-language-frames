@@ -1,0 +1,28 @@
+1	His	_		{}
+2	ability	_	Capability	{"Entity": "1"}
+3	is	_		{}
+4	inborn	_		{}
+5	,	_		{}
+6	and	_		{}
+7	such	_		{}
+8	children	_	People_by_age	{"Person": "8"}
+9	are	_		{}
+10	invited	_	Request	{"Message": "12", "Addressee": "8"}
+11	to	_		{}
+12	attend	_	Attending	{"Event": "16", "Agent": "8"}
+13	an	_	Cardinal_numbers	{"Number": "13", "Entity": "16"}
+14	exclusive	_	Sole_instance	{"Item": "16", "Type": "15"}
+15	magic	_	Artifact	{"Artifact": "15"}
+16	school	_	Locale_by_use	{"Locale": "16", "Descriptor": "15"}
+17	that	_		{}
+18	teaches	_	Education_teaching	{"Skill": "21", "Teacher": "16"}
+19	the	_		{}
+20	necessary	_	Being_necessary	{"Required_entity": "21"}
+21	skills	_	Expertise	{"Skill": "21"}
+22	to	_		{}
+23	succeed	_	Success_or_failure	{"Place": "24"}
+24	in	_		{}
+25	the	_		{}
+26	wizarding	_	Performers_and_roles	{"Performer": "26", "Place": "27"}
+27	world	_	Locale	{"Locale": "27"}
+28	.	_		{}

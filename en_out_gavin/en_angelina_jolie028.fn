@@ -1,0 +1,8 @@
+1	She	_		{}
+2	aspired	_	Desiring	{"Event": "4", "Experiencer": "1"}
+3	to	_		{}
+4	become	_	Becoming	{"Entity": "1"}
+5	a	_	Cardinal_numbers	{"Number": "5", "Entity": "7"}
+6	funeral	_		{}
+7	director	_	Leadership	{"Leader": "7", "Activity": "6"}
+8	.	_		{}

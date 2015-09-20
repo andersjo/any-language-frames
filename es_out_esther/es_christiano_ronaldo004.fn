@@ -1,0 +1,14 @@
+1	A	_		{}
+2	lo	_		{}
+3	largo	_	Duration_attribute	{"Period": "6", "Eventuality": "6"}
+4	de	_		{}
+5	su	_		{}
+6	carrera	_	Performers_and_roles	{"Performance": "11", "Performer": "8", "Score": "13"}
+7	profesional	_	Expertise	{"Behavior_product": "11", "Protagonist": "8", "Focal_participant": "8", "Knowledge": "6", "Degree": "12"}
+8	Cristiano	_		{}
+9	ha	_		{}
+10	conseguido	_	Accomplishment	{"Goal": "11", "Agent": "8"}
+11	batir	_	Beat_opponent	{"Winner": "8"}
+12	diversos	_		{}
+13	récords	_		{}
+14	.	_		{}

@@ -1,0 +1,35 @@
+1	The	_		{}
+2	novels	_	Text	{"Text": "2"}
+3	revolve	_	Moving_in_place	{"Direction": "4", "Theme": "2"}
+4	around	_		{}
+5	Harry	_		{}
+6	Potter	_		{}
+7	,	_		{}
+8	an	_	Cardinal_numbers	{"Number": "8", "Entity": "9"}
+9	orphan	_	Personal_relationship	{"Partner_1": "9"}
+10	who	_		{}
+11	discovers	_	Becoming_aware	{"Cognizer": "9", "Phenomenon": "17", "Time": "12"}
+12	at	_		{}
+13	the	_		{}
+14	age	_	Age	{"Age": "16", "Entity": "9"}
+15	of	_		{}
+16	eleven	_		{}
+17	that	_		{}
+18	he	_		{}
+19	is	_	Being_in_category	{"Category": "21", "Item": "18"}
+20	a	_	Cardinal_numbers	{"Number": "20", "Entity": "21"}
+21	wizard	_	Performers_and_roles	{"Performer": "18", "Role": "21"}
+22	,	_		{}
+23	living	_	Dead_or_alive	{"Protagonist": "18"}
+24	within	_		{}
+25	the	_		{}
+26	ordinary	_	Typicality	{"Entity": "27"}
+27	world	_	Locale	{"Locale": "27", "Descriptor": "26"}
+28	of	_		{}
+29	non-magical	_		{}
+30	people	_	People	{"Persistent_characteristic": "29", "Person": "30"}
+31	,	_		{}
+32	known	_	Familiarity	{"Entity": "30"}
+33	as	_		{}
+34	Muggles	_		{}
+35	.	_		{}

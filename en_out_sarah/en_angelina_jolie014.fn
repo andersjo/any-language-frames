@@ -1,0 +1,20 @@
+1	Divorced	_	Forming_relationships	{"Partner_2": "12", "Partner_1": "3"}
+2	from	_		{}
+3	actors	_	Performers	{"Person": "7"}
+4	Jonny	_		{}
+5	Lee	_		{}
+6	Miller	_		{}
+7	and	_		{}
+8	Billy	_		{}
+9	Bob	_		{}
+10	Thornton	_		{}
+11	,	_		{}
+12	Jolie	_		{}
+13	is	_		{}
+14	now	_	Temporal_collocation	{"Trajector_event": "15"}
+15	married	_	Forming_relationships	{"Partner_2": "18", "Partner_1": "12"}
+16	to	_		{}
+17	actor	_	Performers	{"Person": "18"}
+18	Brad	_		{}
+19	Pitt	_		{}
+20	.	_		{}

@@ -1,0 +1,12 @@
+1	angelina	_		{}
+2	jolie	_		{}
+3	is	_	Existence	{"Place": "4", "Entity": "1"}
+4	everywhere	_	Locative_relation	{"Figure": "1", "Ground": "4"}
+5	and	_	Simultaneity	{}
+6	i	_		{}
+7	cant	_		{}
+8	stop	_	Activity_stop	{"Agent": "6"}
+9	thinking	_	Cogitation	{"Topic": "11", "Cognizer": "6"}
+10	about	_		{}
+11	emelie	_		{}
+12	😌💖	_		{}

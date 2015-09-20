@@ -1,0 +1,18 @@
+1	@MissNaany	_		{}
+2	bien	_		{}
+3	évidemment	_	Obviousness	{"Degree": "2"}
+4	!	_		{}
+5	Mais	_	Concessive	{"Statement": "8"}
+6	ces	_		{}
+7	personnes	_	People	{}
+8	sont	_		{}
+9	plutôt	_	Degree	{"Gradable_attribute": "10"}
+10	rare	_	Scarcity	{"Collection": "7", "Quantity": "10"}
+11	,	_		{}
+12	Angelina	_		{}
+13	jolie	_		{}
+14	en	_		{}
+15	fait	_		{}
+16	partie	_	Be_subset_of	{"Part": "12", "Total": "7"}
+17	par	_		{}
+18	exemple	_		{}

@@ -1,0 +1,17 @@
+1	Ihm	_		{}
+2	folgten	_	Relative_time	{"Focal_occasion": "8", "Landmark_occasion": "1"}
+3	1998	_		{}
+4	und	_	Simultaneity	{"Profiled_event": "5", "Landmark_event": "3"}
+5	1999	_		{}
+6	zwei	_	Cardinal_numbers	{"Number": "6", "Entity": "8"}
+7	weitere	_		{}
+8	Teile	_	Part_whole	{"Part": "8"}
+9	,	_		{}
+10	die	_		{}
+11	jeweils	_		{}
+12	den	_		{}
+13	Erfolg	_	Success_or_failure	{"Agent": "10"}
+14	des	_		{}
+15	letzteren	_		{}
+16	übertrafen	_	Surpassing	{"Standard_item": "15", "Profiled_item": "10"}
+17	.	_		{}

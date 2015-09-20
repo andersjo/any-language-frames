@@ -1,0 +1,22 @@
+1	Harry	_		{}
+2	survived	_	Surviving	{"Survivor": "1"}
+3	with	_		{}
+4	only	_	Sole_instance	{"Item": "7"}
+5	a	_	Cardinal_numbers	{"Number": "5", "Entity": "7"}
+6	lightning-shaped	_		{}
+7	scar	_	Body_mark	{"Descriptor": "6", "Body_mark": "7", "Possessor": "1"}
+8	on	_		{}
+9	his	_		{}
+10	forehead	_	Observable_body_parts	{"Body_part": "10", "Possessor": "9"}
+11	as	_		{}
+12	a	_	Cardinal_numbers	{"Number": "12", "Entity": "13"}
+13	memento	_		{}
+14	of	_		{}
+15	the	_		{}
+16	attack	_	Attack	{}
+17	,	_		{}
+18	and	_		{}
+19	Voldemort	_		{}
+20	disappeared	_	Departing	{"Theme": "19", "Time": "21"}
+21	afterwards	_	Relative_time	{"Focal_occasion": "20", "Focal_participant": "19", "Landmark_occasion": "2"}
+22	.	_		{}

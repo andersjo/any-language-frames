@@ -1,0 +1,27 @@
+1	Att	_		{}
+2	upptäcka	_	Becoming_aware	{"Phenomenon": "12"}
+3	att	_		{}
+4	Brad	_		{}
+5	Pitt	_		{}
+6	och	_		{}
+7	Angelina	_		{}
+8	Jolie	_		{}
+9	går	_	Being_named	{"Name": "12", "Entity": "5"}
+10	under	_		{}
+11	namnet	_	Being_named	{"Name": "12", "Entity": "5"}
+12	Brangelina	_		{}
+13	,	_		{}
+14	var	_		{}
+15	inte	_		{}
+16	en	_	Cardinal_numbers	{"Number": "16", "Entity": "18"}
+17	bra	_	Desirability	{"Evaluee": "18"}
+18	start	_	Process_start	{"Manner": "2"}
+19	på	_		{}
+20	dagen	_	Measure_duration	{"Process": "2"}
+21	.	_		{}
+22	Fy	_		{}
+23	helvete	_		{}
+24	vilket	_		{}
+25	fult	_		{}
+26	namn	_	Being_named	{"Name": "12"}
+27	.	_		{}

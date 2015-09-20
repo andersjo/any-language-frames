@@ -1,0 +1,11 @@
+1	Difret	_		{}
+2	:	_		{}
+3	trailer	_		{}
+4	italiano	_	Origin	{"Origin": "4", "Entity": "6"}
+5	del	_		{}
+6	film	_	Physical_artworks	{"Artifact": "6"}
+7	prodotto	_	Creating	{"Created_entity": "6", "Creator": "10"}
+8	da	_		{}
+9	Angelina	_		{}
+10	Jolie	_		{}
+11	http://t.co/BZLob1dqMf	_		{}

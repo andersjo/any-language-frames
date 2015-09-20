@@ -1,0 +1,60 @@
+1	Presentato	_		{}
+2	fuori	_		{}
+3	concorso	_	Competition	{"Competition": "8"}
+4	al	_		{}
+5	60º	_		{}
+6	Festival	_	Social_event	{"Place": "8", "Time": "11"}
+7	di	_		{}
+8	Cannes	_		{}
+9	,	_		{}
+10	nel	_		{}
+11	2007	_		{}
+12	recita	_	Performers_and_roles	{"Performance": "12"}
+13	in	_		{}
+14	"	_		{}
+15	A	_		{}
+16	Mighty	_		{}
+17	Heart	_		{}
+18	-	_		{}
+19	Un	_		{}
+20	cuore	_		{}
+21	grande	_	Measurable_attributes	{"Degree": "21", "Entity": "20"}
+22	"	_		{}
+23	diMichael	_		{}
+24	Winterbottom	_		{}
+25	basato	_		{}
+26	sulle	_		{}
+27	memorie	_	Remembering_experience	{"Cognizer": "29"}
+28	di	_		{}
+29	Mariane	_		{}
+30	Pearl	_		{}
+31	,	_		{}
+32	vedova	_	Personal_relationship	{"Partner_2": "41", "Partner_1": "29"}
+33	del	_		{}
+34	giornalista	_	People_by_vocation	{"Person": "41", "Employer": "39"}
+35	del	_		{}
+36	"	_		{}
+37	Wall	_		{}
+38	Street	_		{}
+39	Journal	_		{}
+40	"	_		{}
+41	Daniel	_		{}
+42	Pearl	_		{}
+43	,	_		{}
+44	rapito	_	Kidnapping	{"Perpetrator": "53", "Victim": "34"}
+45	e	_		{}
+46	ucciso	_	Execution	{"Executioner": "53", "Executed": "34"}
+47	a	_		{}
+48	Karachi	_		{}
+49	in	_		{}
+50	Pakistan	_		{}
+51	,	_		{}
+52	dai	_		{}
+53	fondamentalisti	_		{}
+54	islamici	_	People_by_religion	{"Religion": "54", "Person": "53"}
+55	,	_		{}
+56	il	_		{}
+57	1º	_		{}
+58	febbraio	_	Calendric_unit	{"Unit": "58"}
+59	2002	_		{}
+60	.	_		{}

@@ -1,0 +1,28 @@
+1	We	_		{}
+2	could	_		{}
+3	slow	_	Hindering	{"Protagonist": "6", "Means": "7"}
+4	down	_	Direction	{"Path": "4"}
+5	global	_	Political_locales	{"Locale": "5"}
+6	warming	_	Cause_temperature_change	{"Item": "5"}
+7	if	_		{}
+8	on	_		{}
+9	one	_	Cardinal_numbers	{"Number": "9", "Entity": "10"}
+10	day	_	Calendric_unit	{"Count": "9", "Unit": "10"}
+11	each	_		{}
+12	year	_	Calendric_unit	{"Unit": "12"}
+13	everybody	_	Change_of_leadership	{}
+14	on	_		{}
+15	the	_		{}
+16	planet	_		{}
+17	cranked	_	Adjusting	{"Part": "20", "Agent": "13", "Time": "8"}
+18	up	_	Direction	{"Path": "18"}
+19	their	_		{}
+20	AC	_		{}
+21	and	_		{}
+22	left	_	Left_to_do	{"Agent": "13"}
+23	their	_		{}
+24	windows	_	Connecting_architecture	{"Part": "24"}
+25	open	_	Openness	{"Theme": "24"}
+26	all	_	Degree	{"Gradable_attribute": "27"}
+27	day	_	Timespan	{"Duration": "27"}
+28	.	_		{}

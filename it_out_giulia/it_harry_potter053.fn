@@ -1,0 +1,32 @@
+1	A	_		{}
+2	partire	_	Activity_start	{"Activity": "9"}
+3	dalle	_		{}
+4	edizioni	_		{}
+5	stampate	_	Text_creation	{}
+6	nel	_		{}
+7	gennaio	_	Calendric_unit	{"Unit": "7"}
+8	2002	_		{}
+9	appare	_		{}
+10	all'inizio	_		{}
+11	dei	_		{}
+12	volumi	_	Text	{"Text": "12"}
+13	una	_		{}
+14	"	_		{}
+15	Nota	_	Sign	{"Indicator": "15"}
+16	alla	_		{}
+17	traduzione	_	Translating	{}
+18	"	_		{}
+19	,	_		{}
+20	pertanto	_		{}
+21	non	_		{}
+22	presente	_	Presence	{"Entity": "15"}
+23	fino	_		{}
+24	alla	_		{}
+25	terza	_	Ordinal_numbers	{"Item": "26"}
+26	ristampa	_		{}
+27	del	_		{}
+28	quarto	_	Ordinal_numbers	{"Comparison_set": "31", "Item": "29"}
+29	libro	_	Text	{"Text": "29"}
+30	della	_		{}
+31	serie	_	Sequence	{}
+32	.	_		{}

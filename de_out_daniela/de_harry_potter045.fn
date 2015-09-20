@@ -1,0 +1,27 @@
+1	In	_		{}
+2	der	_		{}
+3	Schlüsselszene	_		{}
+4	scheitert	_	Success_or_failure	{"Agent": "6"}
+5	Draco	_		{}
+6	Malfoy	_		{}
+7	bei	_		{}
+8	seinem	_		{}
+9	Versuch	_	Attempt	{"Agent": "6"}
+10	,	_		{}
+11	Albus	_		{}
+12	Dumbledore	_		{}
+13	zu	_		{}
+14	töten	_	Killing	{"Killer": "6", "Victim": "12"}
+15	–	_		{}
+16	Severus	_		{}
+17	Snape	_		{}
+18	übernimmt	_	Taking	{"Theme": "20", "Agent": "17"}
+19	die	_		{}
+20	Aufgabe	_		{}
+21	und	_		{}
+22	flieht	_	Fleeing	{"Self_mover": "17"}
+23	anschließend	_	Relative_time	{"Focal_occasion": "22", "Focal_participant": "17", "Landmark_occasion": "18"}
+24	zusammen	_	Collaboration	{"Undertaking": "22", "Partner_2": "26", "Partner_1": "17"}
+25	mit	_		{}
+26	Draco	_		{}
+27	.	_		{}

@@ -1,0 +1,6 @@
+1	Idag	_		{}
+2	har	_	Have_associated	{"Topical_entity": "4", "Entity": "3"}
+3	jag	_	Proper_reference	{"Intended_referent": "3"}
+4	leukemi	_	Medical_conditions	{"Patient": "3", "Name": "4", "Ailment": "4"}
+5	enligt	_		{}
+6	google	_		{}

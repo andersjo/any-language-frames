@@ -1,0 +1,41 @@
+1	También	_		{}
+2	es	_	Causation	{"Place": "11", "Reason": "8", "Cause": "7", "Manner": "9"}
+3	objeto	_	Topic	{"Topic": "8", "Text": "5", "Explanation": "8", "Manner": "5"}
+4	de	_		{}
+5	críticas	_	Clarity_of_resolution	{"Outcome": "5", "Degree": "9", "Circumstances": "8"}
+6	por	_		{}
+7	presunta	_	Unattributed_information	{"Explanation": "32", "Reported_fact": "8", "Time": "40"}
+8	ingeniería	_		{}
+9	fiscal	_		{}
+10	en	_		{}
+11	diferentes	_	Diversity	{"Group": "12", "Cause": "12", "Manner": "11", "Time": "40"}
+12	países	_		{}
+13	,	_		{}
+14	y	_		{}
+15	por	_	Event_instance	{"Instance": "16", "Instance_Prop": "27", "Event": "22"}
+16	ser	_	Being_in_category	{"Category": "32", "Circumstances": "33", "Criteria": "22", "Time": "40"}
+17	una	_		{}
+18	de	_		{}
+19	las	_		{}
+20	empresas	_	Working_on	{"Domain": "32", "Goal": "32", "Degree": "33", "Means": "30", "Agent": "20", "Salient_entity": "30", "Purpose": "27"}
+21	que	_		{}
+22	colaboran	_	Collaboration	{"Partners": "20", "Degree": "33", "Means": "25", "Undertaking": "32", "Partner_1": "30", "Place": "33", "Manner": "27", "Time": "40"}
+23	con	_		{}
+24	las	_		{}
+25	agencias	_	Organization	{"Name": "30", "Descriptor": "32", "Place": "33", "Purpose": "32", "Members": "20", "Organization": "32"}
+26	de	_		{}
+27	inteligencia	_	Information	{"Topic": "32", "Information": "27", "Source": "25"}
+28	en	_		{}
+29	la	_		{}
+30	red	_	Network	{"Descriptor": "32", "Nodes": "25", "Network": "27"}
+31	de	_		{}
+32	vigilancia	_	Scrutiny	{"Phenomenon": "32", "Degree": "33", "Means": "20", "Manner": "33", "Purpose": "32", "Ground": "33"}
+33	mundial	_	Political_locales	{"Locale": "33"}
+34	,	_		{}
+35	sacada	_	Bringing	{"Goal": "38"}
+36	a	_		{}
+37	la	_		{}
+38	luz	_		{}
+39	en	_		{}
+40	2013	_		{}
+41	.	_		{}

@@ -1,0 +1,19 @@
+1	Heechul	_		{}
+2	por	_		{}
+3	qué	_		{}
+4	siempre	_	Frequency	{"Attribute": "5", "Interval": "4", "Salient_entity": "1", "Event": "5", "Degree": "4"}
+5	apareces	_	Coming_to_be	{"Entity": "1"}
+6	con	_		{}
+7	las	_		{}
+8	actrices/cantantes	_		{}
+9	que	_		{}
+10	busco	_	Seeking	{"Cognizer_agent": "1", "Sought_entity": "8"}
+11	en	_		{}
+12	google	_		{}
+13	...	_		{}
+14	como	_		{}
+15	eres	_	Being_in_category	{"Category": "17"}
+16	tan	_	Degree	{"Gradable_attribute": "17"}
+17	puto	_		{}
+18	?	_		{}
+19	http://t.co/eA2LtnuY9N	_		{}

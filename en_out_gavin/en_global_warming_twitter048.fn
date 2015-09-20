@@ -1,0 +1,15 @@
+1	wheres	_		{}
+2	the	_		{}
+3	global	_	Political_locales	{"Locale": "3"}
+4	warming	_	Cause_temperature_change	{"Item": "3"}
+5	when	_		{}
+6	its	_		{}
+7	needed	_	Being_necessary	{"Required_entity": "6", "Time": "5"}
+8	?	_		{}
+9	Cant	_		{}
+10	be	_		{}
+11	doing	_		{}
+12	with	_		{}
+13	this	_	Proper_reference	{"Intended_referent": "14"}
+14	iceyness	_		{}
+15	.	_		{}

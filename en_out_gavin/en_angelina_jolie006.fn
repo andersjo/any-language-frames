@@ -1,0 +1,21 @@
+1	Her	_		{}
+2	film	_	Behind_the_scenes	{"Medium": "2"}
+3	career	_		{}
+4	began	_	Process_start	{"Initial_subevent": "13", "Time": "9"}
+5	in	_		{}
+6	earnest	_	Candidness	{}
+7	a	_	Cardinal_numbers	{"Number": "7", "Entity": "8"}
+8	decade	_	Measure_duration	{"Count": "7", "Unit": "8"}
+9	later	_	Relative_time	{"Focal_occasion": "4", "Focal_participant": "3"}
+10	with	_		{}
+11	the	_		{}
+12	low-budget	_		{}
+13	production	_	Behind_the_scenes	{"Production": "15", "Time": "19"}
+14	"	_		{}
+15	Cyborg	_		{}
+16	2	_	Cardinal_numbers	{"Number": "16", "Entity": "15"}
+17	"	_		{}
+18	(	_		{}
+19	1993	_	Cardinal_numbers	{"Number": "19"}
+20	)	_		{}
+21	.	_		{}

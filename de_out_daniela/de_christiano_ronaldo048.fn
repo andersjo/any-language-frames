@@ -1,0 +1,18 @@
+1	Ferguson	_		{}
+2	bestand	_	Statement	{"Topic": "14", "Speaker": "1"}
+3	jedoch	_		{}
+4	darauf	_		{}
+5	,	_		{}
+6	dass	_		{}
+7	sein	_	Possession	{"Owner": "1", "Possession": "9"}
+8	neuer	_	Familiarity	{"Cognizer": "1", "Entity": "9"}
+9	Spieler	_		{}
+10	künftig	_		{}
+11	mit	_		{}
+12	der	_		{}
+13	geschichtsträchtigen	_		{}
+14	Nummer	_		{}
+15	7	_	Cardinal_numbers	{"Number": "15", "Entity": "14"}
+16	auflaufen	_		{}
+17	sollte	_	Being_obligated	{"Duty": "16", "Responsible_party": "9"}
+18	.	_		{}

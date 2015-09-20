@@ -1,0 +1,23 @@
+1	Rowling	_		{}
+2	a	_		{}
+3	terminé	_	Process_completed_state	{"Process": "4"}
+4	d'écrire	_		{}
+5	"	_		{}
+6	Harry	_		{}
+7	Potter	_		{}
+8	à	_		{}
+9	l'école	_		{}
+10	des	_		{}
+11	sorciers	_		{}
+12	"	_		{}
+13	en	_		{}
+14	1995	_		{}
+15	et	_		{}
+16	envoyé	_		{}
+17	le	_		{}
+18	manuscrit	_	Text	{"Text": "18"}
+19	à	_		{}
+20	plusieurs	_	Quantity	{"Individuals": "21", "Quantity": "20"}
+21	agents	_	People_by_vocation	{"Person": "21"}
+22	littéraires	_	Fields	{"Practitioner": "21"}
+23	.	_		{}

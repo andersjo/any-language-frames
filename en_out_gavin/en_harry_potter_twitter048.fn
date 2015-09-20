@@ -1,0 +1,15 @@
+1	But	_	Concessive	{"Statement": "5"}
+2	why	_	Reason	{"Action": "5", "Agent": "4"}
+3	did	_		{}
+4	they	_		{}
+5	change	_	Cause_change	{"Agent": "4", "Entity": "8"}
+6	the	_		{}
+7	fat	_	Body_description_holistic	{"Individual": "8"}
+8	lady	_	People	{"Persistent_characteristic": "7", "Person": "8"}
+9	portrait	_		{}
+10	in	_		{}
+11	the	_		{}
+12	Harry	_		{}
+13	Potter	_		{}
+14	movies	_	Physical_artworks	{"Name": "13", "Artifact": "14"}
+15	?	_		{}

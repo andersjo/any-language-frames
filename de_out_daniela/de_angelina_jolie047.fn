@@ -1,0 +1,42 @@
+1	Im	_		{}
+2	Jahr	_	Calendric_unit	{"Whole": "3", "Unit": "2"}
+3	1996	_		{}
+4	erschien	_		{}
+5	sie	_		{}
+6	außerdem	_		{}
+7	in	_		{}
+8	dem	_		{}
+9	Film	_	Physical_artworks	{"Artifact": "9", "Time_of_creation": "3"}
+10	"	_		{}
+11	Foxfire	_		{}
+12	"	_		{}
+13	als	_		{}
+14	Margret	_		{}
+15	„Legs	_		{}
+16	“	_		{}
+17	Sadovsky	_		{}
+18	,	_		{}
+19	eines	_		{}
+20	von	_		{}
+21	fünf	_	Cardinal_numbers	{"Number": "21", "Entity": "22"}
+22	Mädchen	_		{}
+23	,	_		{}
+24	die	_		{}
+25	einen	_		{}
+26	ungewöhnlichen	_		{}
+27	Bund	_	Organization	{"Organization": "27", "Members": "22"}
+28	eingehen	_		{}
+29	,	_		{}
+30	nachdem	_		{}
+31	sie	_		{}
+32	einen	_		{}
+33	Lehrer	_	Education_teaching	{"Teacher": "33", "Student": "22"}
+34	zusammengeschlagen	_	Cause_harm	{"Agent": "31", "Victim": "33"}
+35	haben	_		{}
+36	,	_		{}
+37	der	_		{}
+38	sie	_		{}
+39	sexuell	_		{}
+40	belästigt	_	Offenses	{"Offense": "40", "Specification": "39", "Victim": "38", "Perpetrator": "33"}
+41	hatte	_		{}
+42	.	_		{}

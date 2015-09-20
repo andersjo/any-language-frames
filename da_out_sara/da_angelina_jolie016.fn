@@ -1,0 +1,11 @@
+1	Jolie	_		{}
+2	og	_		{}
+3	Pitt	_		{}
+4	har	_	Birth	{"Child": "10", "Father": "3", "Mother": "1"}
+5	tre	_	Cardinal_numbers	{"Number": "5", "Entity": "10"}
+6	biologiske	_		{}
+7	og	_		{}
+8	tre	_	Cardinal_numbers	{"Number": "8", "Entity": "10"}
+9	adopterede	_		{}
+10	børn	_	Kinship	{"Relatives": "10", "Ego": "1", "Alter": "10"}
+11	.	_		{}

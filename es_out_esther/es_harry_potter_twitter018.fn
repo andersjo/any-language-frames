@@ -1,0 +1,23 @@
+1	El	_		{}
+2	único	_	Sole_instance	{"Item": "13", "Type": "6"}
+3	que	_		{}
+4	no	_		{}
+5	pudo	_	Capability	{"Entity": "2"}
+6	superar	_	Surpassing	{"Profiled_item": "8", "Standard_item": "8", "Standard_attribute": "8", "Profiled_attribute": "13", "Attribute": "8"}
+7	su	_		{}
+8	personaje	_	Performers_and_roles	{"Role": "13", "Performer1": "10", "Script": "10"}
+9	de	_		{}
+10	Harry	_		{}
+11	Potter	_		{}
+12	fue	_	Being_in_category	{"Category": "13", "Item": "2", "Criteria": "17"}
+13	Rupert	_		{}
+14	Grint	_		{}
+15	;	_		{}
+16	Mi	_		{}
+17	teoría	_	Likelihood	{"Hypothetical_event": "22"}
+18	es	_	Being_in_category	{"Category": "22", "Item": "2", "Criteria": "17"}
+19	que	_		{}
+20	fue	_		{}
+21	por	_		{}
+22	Pelirrojo	_		{}
+23	.	_		{}

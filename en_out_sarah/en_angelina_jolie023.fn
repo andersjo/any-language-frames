@@ -1,0 +1,30 @@
+1	After	_	Relative_time	{"Focal_occasion": "9", "Focal_participant": "3", "Landmark_occasion": "5"}
+2	her	_		{}
+3	parents	_	Kinship	{"Ego": "2", "Alter": "3"}
+4	'	_		{}
+5	separation	_	Forming_relationships	{"Partners": "3", "Time": "7", "Means": "5"}
+6	in	_		{}
+7	1976	_		{}
+8	,	_		{}
+9	Jolie	_		{}
+10	and	_	Simultaneity	{}
+11	her	_		{}
+12	brother	_	Kinship	{"Relatives": "10", "Ego": "9", "Alter": "12"}
+13	lived	_	Residence	{"Resident": "16", "Co_resident": "10"}
+14	with	_		{}
+15	their	_		{}
+16	mother	_	Kinship	{"Ego": "10", "Alter": "16"}
+17	,	_		{}
+18	who	_		{}
+19	had	_		{}
+20	abandoned	_	Abandonment	{"Theme": "22", "Agent": "18"}
+21	her	_		{}
+22	acting	_		{}
+23	ambitions	_	Desiring	{"Experiencer": "21"}
+24	to	_		{}
+25	focus	_	Place_weight_on	{"Action": "25", "Competing_consideration": "22", "Agent": "21", "Artifact": "27"}
+26	on	_		{}
+27	raising	_		{}
+28	her	_		{}
+29	children	_	Kinship	{"Ego": "28", "Alter": "29"}
+30	.	_		{}

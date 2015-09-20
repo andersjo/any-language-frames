@@ -1,0 +1,13 @@
+1	In	_		{}
+2	1997	_	Cardinal_numbers	{"Number": "2"}
+3	,	_		{}
+4	he	_		{}
+5	made	_		{}
+6	a	_	Cardinal_numbers	{"Number": "6", "Entity": "7"}
+7	move	_	Travel	{"Traveler": "4", "Goal": "11"}
+8	to	_		{}
+9	Portuguese	_	Origin	{"Origin": "9", "Entity": "11"}
+10	giants	_		{}
+11	Sporting	_		{}
+12	CP	_		{}
+13	.	_		{}

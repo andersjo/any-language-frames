@@ -1,0 +1,27 @@
+1	Testar	_		{}
+2	fenix	_		{}
+3	efter	_		{}
+4	ett	_	Cardinal_numbers	{"Number": "4", "Entity": "5"}
+5	namedroppande	_		{}
+6	av	_		{}
+7	den	_		{}
+8	appen	_		{}
+9	här	_	Locative_relation	{"Ground": "9"}
+10	idag	_	Temporal_collocation	{"Trajector_event": "1", "Landmark_event": "5"}
+11	.	_		{}
+12	Känns	_		{}
+13	,	_		{}
+14	bra	_	Usefulness	{"Entity": "8"}
+15	men	_	Concessive	{"Main_statement": "12"}
+16	inte	_		{}
+17	bäst	_		{}
+18	!	_		{}
+19	Tack	_		{}
+20	för	_		{}
+21	2h	_		{}
+22	Google	_		{}
+23	,	_		{}
+24	back	_		{}
+25	ta	_		{}
+26	Talon	_		{}
+27	:)	_		{}

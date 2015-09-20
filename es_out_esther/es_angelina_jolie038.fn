@@ -1,0 +1,26 @@
+1	Jolie	_		{}
+2	ha	_		{}
+3	tenido	_	Possession	{"Owner": "1", "Possession": "6"}
+4	una	_		{}
+5	mala	_	Morality_evaluation	{"Expressor": "1", "Evaluee": "6"}
+6	relación	_	Relation	{"Entity1": "1", "Entity2": "9"}
+7	con	_		{}
+8	su	_		{}
+9	padre	_	Kinship	{"Ego": "1", "Alter": "9"}
+10	,	_		{}
+11	aunque	_		{}
+12	en	_		{}
+13	julio	_	Calendric_unit	{"Whole": "15"}
+14	de	_		{}
+15	2002	_		{}
+16	hubo	_	Existence	{"Place": "24", "Entity": "18"}
+17	un	_		{}
+18	intento	_	Attempt	{"Manner": "20", "Agent": "1", "Time": "13"}
+19	de	_		{}
+20	reconciliación	_	Rite	{"Desired_state": "20"}
+21	y	_		{}
+22	ambos	_		{}
+23	aparecieron	_	Appearance	{}
+24	en	_		{}
+25	""	_		{}
+26	.	_		{}

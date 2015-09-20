@@ -1,0 +1,27 @@
+1	Trots	_		{}
+2	hennes	_		{}
+3	buttra	_		{}
+4	poserande	_		{}
+5	,	_		{}
+6	vilket	_		{}
+7	är	_		{}
+8	allt	_		{}
+9	denna	_		{}
+10	roll	_	Performers_and_roles	{"Performer": "15"}
+11	kräver	_	Have_as_requirement	{"Dependent": "3", "Requirement": "4"}
+12	,	_		{}
+13	har	_		{}
+14	Ms.	_		{}
+15	Jolie	_		{}
+16	samma	_	Similarity	{"Differentiating_fact": "19", "Entity_1": "15", "Entity_2": "25", "Manner": "18"}
+17	ljuvliga	_		{}
+18	änglalika	_		{}
+19	utseende	_	Facial_expression	{"Conveyed_emotion": "18", "Possessor": "15"}
+20	som	_		{}
+21	sin	_		{}
+22	far	_	Kinship	{"Ego": "15", "Alter": "25"}
+23	,	_		{}
+24	Jon	_		{}
+25	Voight	_		{}
+26	"	_		{}
+27	.	_		{}

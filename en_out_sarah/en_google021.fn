@@ -1,0 +1,33 @@
+1	They	_		{}
+2	called	_	Being_named	{"Speaker": "1", "Name": "6", "Entity": "5"}
+3	this	_	Proper_reference	{"Intended_referent": "5", "Entity": "6"}
+4	new	_	Age	{"Age": "4", "Entity": "5"}
+5	technology	_		{}
+6	PageRank	_		{}
+7	;	_		{}
+8	it	_		{}
+9	determined	_	Categorization	{"Category": "12", "Cognizer": "8", "Criteria": "13", "Item": "11"}
+10	a	_		{}
+11	website's	_		{}
+12	relevance	_		{}
+13	by	_		{}
+14	the	_		{}
+15	number	_	Quantity	{"Individuals": "17", "Quantity": "15"}
+16	of	_		{}
+17	pages	_		{}
+18	,	_		{}
+19	and	_	Simultaneity	{"Profiled_event": "21", "Landmark_event": "12"}
+20	the	_		{}
+21	importance	_	Importance	{"Factor": "24"}
+22	of	_		{}
+23	those	_		{}
+24	pages	_		{}
+25	,	_		{}
+26	that	_		{}
+27	linked	_	Make_cognitive_connection	{"Concept_1": "24", "Concept_2": "32"}
+28	back	_		{}
+29	to	_		{}
+30	the	_		{}
+31	original	_		{}
+32	site	_		{}
+33	.	_		{}

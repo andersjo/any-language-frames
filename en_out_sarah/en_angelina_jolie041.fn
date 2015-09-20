@@ -1,0 +1,10 @@
+1	Jolie	_		{}
+2	has	_		{}
+3	had	_	Have_associated	{"Topical_entity": "6", "Entity": "1"}
+4	a	_	Cardinal_numbers	{"Number": "4", "Entity": "6"}
+5	difficult	_	Difficulty	{"Experiencer": "1", "Activity": "6"}
+6	relationship	_	Kinship	{"Ego": "8", "Alter": "9"}
+7	with	_		{}
+8	her	_		{}
+9	father	_	Kinship	{"Ego": "8", "Alter": "9"}
+10	.	_		{}

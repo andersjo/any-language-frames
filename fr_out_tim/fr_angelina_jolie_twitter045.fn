@@ -1,0 +1,24 @@
+1	L'enfant	_		{}
+2	de	_		{}
+3	Brad	_		{}
+4	Pitt	_		{}
+5	et	_		{}
+6	Angelina	_		{}
+7	Jolie	_		{}
+8	que	_		{}
+9	vous	_		{}
+10	trouvez	_	Opinion	{"Cognizer": "9", "Opinion": "10"}
+11	trop	_	Sufficiency	{"Item": "1", "Scale": "12"}
+12	mignon	_	Aesthetics	{"Attribute": "12", "Degree": "11", "Entity": "1"}
+13	,	_		{}
+14	bah	_		{}
+15	en	_		{}
+16	fait	_		{}
+17	c'est	_		{}
+18	une	_		{}
+19	fille	_	People	{"Person": "1"}
+20	,	_		{}
+21	je	_		{}
+22	suis	_		{}
+23	brusquée	_		{}
+24	...	_		{}

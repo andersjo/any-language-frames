@@ -1,0 +1,20 @@
+1	När	_		{}
+2	FIFA	_		{}
+3	utsåg	_		{}
+4	världens	_		{}
+5	bästa	_	Expertise	{"Judge": "2", "Role": "6", "Focal_participant": "10", "Degree": "5", "Time": "8"}
+6	fotbollsspelare	_		{}
+7	år	_	Calendric_unit	{"Unit": "7"}
+8	2007	_		{}
+9	var	_		{}
+10	Ronaldo	_		{}
+11	återigen	_		{}
+12	en	_	Cardinal_numbers	{"Number": "12", "Entity": "16"}
+13	av	_		{}
+14	de	_		{}
+15	tre	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	spelare	_	Competition	{"Participant_1": "10", "Time": "8"}
+17	som	_		{}
+18	blev	_		{}
+19	nominerade	_		{}
+20	.	_		{}

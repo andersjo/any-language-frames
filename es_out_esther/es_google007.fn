@@ -1,0 +1,41 @@
+1	También	_		{}
+2	es	_	Being_in_category	{"Category": "3", "Criteria": "8"}
+3	objeto	_	Aiming	{"Instrument": "8", "Agent": "12"}
+4	de	_		{}
+5	críticas	_	Judgment	{"Cognizer": "12", "Expressor": "12", "Reason": "8"}
+6	por	_		{}
+7	presunta	_	Unattributed_information	{"Reported_fact": "8"}
+8	ingeniería	_	Gizmo	{"Gizmo": "9"}
+9	fiscal	_		{}
+10	en	_		{}
+11	diferentes	_	Diversity	{"Group": "12", "Dimension": "11"}
+12	países	_	Political_locales	{"Locale": "12"}
+13	,	_		{}
+14	y	_		{}
+15	por	_		{}
+16	ser	_	Being_in_category	{"Category": "20", "Criteria": "35"}
+17	una	_		{}
+18	de	_		{}
+19	las	_		{}
+20	empresas	_	Businesses	{"Business": "20"}
+21	que	_		{}
+22	colaboran	_	Collaboration	{"Partners": "20", "Partner_2": "25", "Undertaking": "30"}
+23	con	_		{}
+24	las	_		{}
+25	agencias	_	Building_subparts	{"Building_part": "25"}
+26	de	_		{}
+27	inteligencia	_	Organization	{"Organization": "25", "Members": "20"}
+28	en	_		{}
+29	la	_		{}
+30	red	_	Network	{"Connections": "32", "Network": "32"}
+31	de	_		{}
+32	vigilancia	_	Scrutiny	{"Instrument": "20", "Ground": "33", "Medium": "25", "Cognizer": "20"}
+33	mundial	_	Political_locales	{"Locale": "33"}
+34	,	_		{}
+35	sacada	_	Releasing	{}
+36	a	_		{}
+37	la	_		{}
+38	luz	_		{}
+39	en	_		{}
+40	2013	_		{}
+41	.	_		{}

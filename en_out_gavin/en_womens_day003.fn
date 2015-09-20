@@ -1,0 +1,24 @@
+1	Started	_	Activity_start	{"Activity": "9"}
+2	as	_		{}
+3	a	_	Cardinal_numbers	{"Number": "3", "Entity": "6"}
+4	Socialist	_		{}
+5	political	_	Organization	{"Organization": "6"}
+6	event	_	Event	{}
+7	,	_		{}
+8	the	_		{}
+9	holiday	_		{}
+10	blended	_	Cause_to_amalgamate	{"Parts": "13", "Agent": "9"}
+11	in	_		{}
+12	the	_		{}
+13	culture	_		{}
+14	of	_		{}
+15	many	_	Quantity	{"Individuals": "16", "Quantity": "15"}
+16	countries	_	Political_locales	{"Locale": "16"}
+17	,	_		{}
+18	primarily	_		{}
+19	in	_		{}
+20	Europe	_		{}
+21	,	_		{}
+22	including	_		{}
+23	Russia	_		{}
+24	.	_		{}

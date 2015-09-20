@@ -1,0 +1,14 @@
+1	Besökarna	_		{}
+2	röstade	_		{}
+3	med	_		{}
+4	fötterna	_	Observable_body_parts	{"Body_part": "4", "Possessor": "1"}
+5	,	_		{}
+6	och	_	Simultaneity	{"Profiled_event": "2", "Landmark_event": "12"}
+7	Google	_		{}
+8	blev	_		{}
+9	snabbt	_	Speed	{"Attribute": "9", "Entity": "8"}
+10	den	_		{}
+11	mest	_		{}
+12	använda	_	Using	{"Instrument": "7", "Agent": "1"}
+13	söktjänsten	_		{}
+14	.	_		{}

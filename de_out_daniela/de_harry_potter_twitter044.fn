@@ -1,0 +1,19 @@
+1	Ich	_		{}
+2	hab	_		{}
+3	immer	_		{}
+4	noch	_		{}
+5	meinen	_		{}
+6	Harry	_		{}
+7	Potter	_		{}
+8	Exhibition	_		{}
+9	Gutschein	_		{}
+10	.	_		{}
+11	Ich	_		{}
+12	hoffe	_	Desiring	{"Experiencer": "11", "Event": "18"}
+13	ich	_		{}
+14	kann	_		{}
+15	den	_		{}
+16	bald	_		{}
+17	endlich	_	Time_vector	{"Event": "18"}
+18	einlösen	_		{}
+19	.	_		{}

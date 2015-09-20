@@ -1,0 +1,32 @@
+1	När	_		{}
+2	Google	_		{}
+3	etablerade	_		{}
+4	sig	_		{}
+5	i	_	Political_locales	{"Locale": "6"}
+6	Kina	_		{}
+7	accepterade	_		{}
+8	de	_		{}
+9	att	_		{}
+10	bygga	_	Intentionally_create	{"Created_entity": "12", "Place": "6", "Purpose": "17", "Co_participant": "6", "Creator": "3"}
+11	in	_		{}
+12	spärrar	_		{}
+13	och	_		{}
+14	filter	_		{}
+15	som	_		{}
+16	skulle	_		{}
+17	förhindra	_	Hindering	{"Action": "28", "Protagonist": "31", "Hindrance": "12"}
+18	att	_		{}
+19	information	_	Information	{"Topic": "22", "Source": "1", "Information": "19", "Cognizer": "31"}
+20	som	_		{}
+21	ej	_		{}
+22	godkändes	_		{}
+23	av	_		{}
+24	den	_		{}
+25	kommunistiska	_		{}
+26	regimen	_		{}
+27	skulle	_		{}
+28	nå	_	Successfully_communicate_message	{"Message": "19", "Addressee": "31", "Medium": "2"}
+29	den	_		{}
+30	kinesiska	_	Origin	{"Origin": "6", "Entity": "31"}
+31	allmänheten	_		{}
+32	.	_		{}

@@ -1,0 +1,17 @@
+1	Voldemort	_		{}
+2	gelingt	_	Success_or_failure	{"Agent": "1"}
+3	es	_		{}
+4	,	_		{}
+5	das	_		{}
+6	Versteck	_	Building_subparts	{"Building_part": "6"}
+7	von	_		{}
+8	James	_		{}
+9	und	_	Simultaneity	{"Profiled_event": "10", "Landmark_event": "8"}
+10	Lily	_		{}
+11	Potter	_		{}
+12	aufzuspüren	_		{}
+13	und	_	Simultaneity	{"Profiled_event": "16", "Landmark_event": "12"}
+14	sie	_		{}
+15	zu	_		{}
+16	ermorden	_	Killing	{"Killer": "1", "Victim": "14"}
+17	.	_		{}

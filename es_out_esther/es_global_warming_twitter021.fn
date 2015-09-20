@@ -1,0 +1,16 @@
+1	La	_		{}
+2	Artic	_		{}
+3	Report	_		{}
+4	Card	_		{}
+5	ya	_	Continued_state_of_affairs	{"Reference_occasion": "5", "State_of_affairs": "7"}
+6	ha	_		{}
+7	salido	_	Activity_start	{"Agent": "4", "Activity": "7"}
+8	,	_		{}
+9	¿adivináis	_		{}
+10	qué	_		{}
+11	es	_	Being_in_category	{"Category": "14", "Item": "4"}
+12	lo	_		{}
+13	que	_		{}
+14	dice	_	Communication	{"Topic": "4", "Communicator": "4", "Message": "16"}
+15	?	_		{}
+16	http://t.co/mCKcDt1i9R	_		{}

@@ -1,0 +1,14 @@
+1	Wow	_	Experiencer_obj	{}
+2	Maleficent	_		{}
+3	is	_	Being_in_category	{"Category": "6", "Item": "2"}
+4	an	_	Cardinal_numbers	{"Number": "4", "Entity": "6"}
+5	amazing	_	Desirability	{"Comparison_set": "6", "Evaluee": "2"}
+6	movie	_	Physical_artworks	{"Descriptor": "5", "Name": "2", "Artifact": "6"}
+7	👏👏👏👏👏	_		{}
+8	Angelina	_		{}
+9	Jolie	_		{}
+10	always	_	Frequency	{"Event": "11", "Time_span": "10"}
+11	blows	_	Breathing	{"Goal": "13", "Agent": "9"}
+12	me	_	Proper_reference	{}
+13	away	_	Part_inner_outer	{}
+14	#bae	_		{}

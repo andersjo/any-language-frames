@@ -1,0 +1,27 @@
+1	@JoSeAmin24	_		{}
+2	@john11sb	_		{}
+3	venga	_		{}
+4	ese	_		{}
+5	google	_		{}
+6	traductor	_	Translating	{}
+7	!	_		{}
+8	Él	_		{}
+9	habla	_	Speak_on_topic	{"Topic": "10", "Speaker": "8"}
+10	Euskera	_		{}
+11	porque	_		{}
+12	es	_	Being_in_category	{"Category": "13", "Item": "8"}
+13	euskaldun	_		{}
+14	y	_		{}
+15	si	_		{}
+16	tú	_		{}
+17	lo	_		{}
+18	fueras	_	Being_in_category	{"Category": "13", "Item": "16"}
+19	no	_		{}
+20	le	_		{}
+21	dirías	_		{}
+22	a	_		{}
+23	nadie	_		{}
+24	que	_		{}
+25	no	_		{}
+26	lo	_		{}
+27	hable	_	Speak_on_topic	{"Topic": "10", "Audience": "23", "Speaker": "16"}

@@ -1,0 +1,26 @@
+1	Actualmente	_	Presence	{"Time": "1", "Entity": "4"}
+2	tiene	_	Have_associated	{"Depictive": "21", "Entity": "10", "Period_of_iterations": "1", "Topical_entity": "4", "Time": "1"}
+3	una	_		{}
+4	relación	_	Relation	{"Entity1": "10"}
+5	con	_		{}
+6	el	_		{}
+7	también	_		{}
+8	actor	_	Performers	{"Person": "10"}
+9	,	_		{}
+10	Brad	_		{}
+11	Pitt	_		{}
+12	,	_		{}
+13	que	_	Causation	{"Affected": "17", "Explanation": "8", "Actor": "10", "Reason": "4", "Manner": "7", "Time": "1", "Cause": "4"}
+14	ha	_	Have_associated	{"Depictive": "8", "Entity": "4", "Place": "25", "Time": "1", "Cause": "8", "Topical_entity": "17", "Circumstances": "8"}
+15	atraído	_		{}
+16	la	_		{}
+17	atención	_	Attention	{"Circumstances": "8", "Perceiver": "21", "Manner": "21", "Figure": "4", "Ground": "25"}
+18	de	_		{}
+19	todos	_	Quantity	{"Q_Prop": "23", "Individuals": "21", "Mass": "21", "Quantity": "21"}
+20	los	_		{}
+21	medios	_	Means	{"Descriptor": "23", "Means": "21", "Purpose": "23", "Time": "1"}
+22	de	_		{}
+23	comunicación	_	Network	{"Connections": "21", "Descriptor": "25", "Nodes": "21", "Network": "23"}
+24	del	_		{}
+25	mundo	_	People	{"Person": "25"}
+26	.	_		{}

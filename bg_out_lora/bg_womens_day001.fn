@@ -1,0 +1,12 @@
+1	Международният	_		{}
+2	ден	_	Calendric_unit	{"Name": "2", "Unit": "2"}
+3	на	_		{}
+4	жената	_		{}
+5	се	_		{}
+6	празнува	_		{}
+7	всяка	_		{}
+8	година	_	Calendric_unit	{"Relative_time": "8", "Unit": "8"}
+9	на	_		{}
+10	8	_	Cardinal_numbers	{"Number": "10"}
+11	март	_	Calendric_unit	{"Unit": "11"}
+12	.	_		{}

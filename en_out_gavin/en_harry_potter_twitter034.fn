@@ -1,0 +1,14 @@
+1	if	_		{}
+2	you	_	Awareness	{}
+3	like	_	Experiencer_focus	{"Content": "4", "Experiencer": "2"}
+4	looking	_	Perception_active	{"Perceiver_agentive": "2", "Phenomenon": "5"}
+5	for	_		{}
+6	alaska	_		{}
+7	percy	_		{}
+8	jackson	_		{}
+9	or	_		{}
+10	harry	_		{}
+11	potter	_		{}
+12	be	_	Being_in_category	{"Category": "13", "Item": "2", "Criteria": "1"}
+13	my	_		{}
+14	friend	_	Personal_relationship	{"Partner_2": "14", "Partner_1": "13"}

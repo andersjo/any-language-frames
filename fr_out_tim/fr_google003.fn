@@ -1,0 +1,41 @@
+1	Elle	_		{}
+2	a	_		{}
+3	ensuite	_		{}
+4	procédé	_	Process	{}
+5	à	_		{}
+6	de	_		{}
+7	nombreuses	_	Quantity	{"Individuals": "8", "Quantity": "7"}
+8	acquisitions	_	Amalgamation	{"Whole": "1"}
+9	et	_		{}
+10	développements	_	Progress	{"Entity": "10"}
+11	et	_		{}
+12	détient	_	Possession	{"Owner": "1", "Possession": "16"}
+13	aujourd'hui	_	Calendric_unit	{"Whole": "13"}
+14	de	_		{}
+15	nombreux	_	Quantity	{"Individuals": "16", "Quantity": "15"}
+16	logiciels	_		{}
+17	et	_		{}
+18	sites	_		{}
+19	web	_	Network	{"Nodes": "18", "Network": "19"}
+20	notables	_		{}
+21	parmi	_		{}
+22	lesquels	_		{}
+23	YouTube	_		{}
+24	,	_		{}
+25	le	_		{}
+26	système	_	System	{"Function": "27", "Salient_entity": "29"}
+27	d'exploitation	_		{}
+28	pour	_		{}
+29	téléphones	_		{}
+30	mobiles	_		{}
+31	Android	_		{}
+32	,	_		{}
+33	Google	_		{}
+34	Earth	_		{}
+35	,	_		{}
+36	Google	_		{}
+37	Maps	_		{}
+38	et	_		{}
+39	bien	_		{}
+40	d'autres	_		{}
+41	.	_		{}

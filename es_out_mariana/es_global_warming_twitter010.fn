@@ -1,0 +1,11 @@
+1	dicen	_	Categorization	{"Category": "10", "Item": "4", "Manner": "5", "Means": "4"}
+2	que	_		{}
+3	el	_		{}
+4	frio	_	Ambient_temperature	{"Attribute": "4"}
+5	puede	_	Capability	{"Status": "5", "Relevant_feature": "10", "Entity": "4"}
+6	ayudar	_	Assistance	{"Explanation": "5", "Goal": "8", "Helper": "4"}
+7	a	_		{}
+8	bajar	_	Cause_change_of_position_on_a_scale	{"Attribute": "10", "Cause": "4", "Agent": "4"}
+9	de	_		{}
+10	peso	_		{}
+11	http://t.co/sErYqTdTaU	_		{}

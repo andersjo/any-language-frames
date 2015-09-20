@@ -1,0 +1,22 @@
+1	Nel	_		{}
+2	2000	_		{}
+3	vince	_	Beat_opponent	{"Explanation": "13", "Prize": "4", "Time": "2"}
+4	l'Oscar	_		{}
+5	come	_	Identicality	{}
+6	migliore	_	Expertise	{"Skill": "7", "Knowledge": "13"}
+7	attrice	_		{}
+8	non	_		{}
+9	protagonista	_		{}
+10	per	_		{}
+11	la	_		{}
+12	sua	_		{}
+13	interpretazione	_	Performing_arts	{"Performance": "13", "Script": "16"}
+14	in	_		{}
+15	"	_		{}
+16	Ragazze	_	People_by_age	{"Descriptor": "17"}
+17	interrotte	_		{}
+18	"	_		{}
+19	(	_		{}
+20	1999	_		{}
+21	)	_		{}
+22	.	_		{}

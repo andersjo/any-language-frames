@@ -1,0 +1,16 @@
+1	But	_	Concessive	{"Statement": "3"}
+2	we	_		{}
+3	did	_		{}
+4	not	_		{}
+5	imagine	_	Cogitation	{"Topic": "6", "Cognizer": "2"}
+6	that	_		{}
+7	this	_	Proper_reference	{"Intended_referent": "10"}
+8	‘	_		{}
+9	Women’s	_		{}
+10	Day	_	Calendric_unit	{"Name": "9", "Unit": "10"}
+11	’	_		{}
+12	would	_		{}
+13	inaugurate	_	Sign	{"Indicator": "10", "Indicated": "15"}
+14	the	_		{}
+15	revolution	_	Change_of_leadership	{}
+16	.	_		{}

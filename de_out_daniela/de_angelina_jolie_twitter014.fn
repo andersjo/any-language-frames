@@ -1,0 +1,11 @@
+1	Selten	_	Frequency	{"Attribute": "1", "Event": "3"}
+2	jemanden	_	People	{"Person": "2"}
+3	gesehen	_	Perception_experience	{"Phenomenon": "2"}
+4	,	_		{}
+5	der	_		{}
+6	Angelina	_		{}
+7	Jolie	_		{}
+8	so	_	Degree	{"Gradable_attribute": "9"}
+9	ähnlich	_	Similarity	{"Entity_2": "7", "Entity_1": "2", "Degree": "8"}
+10	sieht	_	Appearance	{"Phenomenon": "2", "Characterization": "9"}
+11	!	_		{}

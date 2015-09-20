@@ -1,0 +1,17 @@
+1	La	_		{}
+2	fille	_	Kinship	{"Ego": "3", "Alter": "2"}
+3	d'Angelina	_		{}
+4	Jolie	_		{}
+5	elle	_		{}
+6	est	_		{}
+7	grave	_		{}
+8	mignonne	_	Aesthetics	{"Attribute": "8", "Degree": "7", "Entity": "2"}
+9	et	_		{}
+10	elle	_		{}
+11	veut	_	Desiring	{"Event": "12", "Experiencer": "10"}
+12	devenir	_	Undergo_change	{"Entity": "10", "Final_category": "14", "Initial_category": "2"}
+13	un	_		{}
+14	mec	_	People	{"Person": "10"}
+15	euuuuh	_		{}
+16	jcomprends	_		{}
+17	pas	_		{}

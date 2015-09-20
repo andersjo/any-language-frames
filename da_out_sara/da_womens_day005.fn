@@ -1,0 +1,59 @@
+1	I	_		{}
+2	en	_		{}
+3	del	_	Aggregate	{"Aggregate": "3", "Individuals": "4"}
+4	lande	_	State_of_entity	{"Entity": "4"}
+5	fejres	_		{}
+6	dagen	_	Calendric_unit	{}
+7	ved	_		{}
+8	at	_		{}
+9	kvinder	_	People	{"Person": "9"}
+10	får	_	Getting	{"Theme": "11", "Recipient": "9", "Time": "6"}
+11	gaver	_		{}
+12	og	_		{}
+13	blomster	_		{}
+14	og	_		{}
+15	et	_		{}
+16	"	_		{}
+17	tillykke	_		{}
+18	med	_		{}
+19	kvindedagen	_		{}
+20	"	_		{}
+21	–	_		{}
+22	en	_		{}
+23	gestus	_		{}
+24	som	_		{}
+25	mange	_	Quantity	{"Individuals": "26", "Quantity": "25"}
+26	feminister	_		{}
+27	dog	_		{}
+28	finder	_		{}
+29	malplaceret	_		{}
+30	,	_		{}
+31	da	_		{}
+32	de	_		{}
+33	ikke	_		{}
+34	finder	_		{}
+35	at	_		{}
+36	der	_		{}
+37	er	_		{}
+38	grund	_	Reason	{"Action": "41", "State_of_Affairs": "38"}
+39	til	_		{}
+40	at	_		{}
+41	ønske	_		{}
+42	til	_		{}
+43	lykke	_	Luck	{"State_of_affairs": "43"}
+44	med	_		{}
+45	en	_		{}
+46	dag	_	Calendric_unit	{"Whole": "46"}
+47	,	_		{}
+48	som	_		{}
+49	har	_		{}
+50	til	_		{}
+51	formål	_	Purpose	{"Goal": "54", "Means": "46"}
+52	at	_		{}
+53	rette	_		{}
+54	opmærksomheden	_		{}
+55	mod	_		{}
+56	kvinders	_		{}
+57	manglende	_	Sufficiency	{"Item": "58"}
+58	ligestilling	_		{}
+59	.	_		{}

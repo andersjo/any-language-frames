@@ -1,0 +1,53 @@
+1	Sin	_		{}
+2	duda	_	Certainty	{"Content": "6", "Cognizer": "6", "Degree": "1", "Topic": "7"}
+3	,	_		{}
+4	su	_		{}
+5	gran	_	Size	{"Entity": "6"}
+6	desarrollo	_	Cause_to_make_progress	{"Project": "7"}
+7	futbolístico	_		{}
+8	le	_		{}
+9	acabó	_		{}
+10	llevando	_	Bringing	{"Goal": "12", "Means": "31", "Area": "17", "Source": "6", "Theme": "12", "Carrier": "17", "Path": "12"}
+11	a	_		{}
+12	jugar	_	Performers_and_roles	{"Medium": "31", "Script": "15", "Place": "34", "Audience": "34", "Role": "17", "Performance": "17", "Type": "29"}
+13	sus	_		{}
+14	primeros	_	First_experience	{"Experience": "15", "Context": "17"}
+15	minutos	_	Measure_duration	{"Count": "14", "Process": "17", "Unit": "15"}
+16	como	_	Identicality	{"Previous_context": "6", "Current_instance": "17"}
+17	profesional	_	Expertise	{"Skill": "6", "Role": "17", "Knowledge": "29"}
+18	cuando	_		{}
+19	contaba	_	Being_in_category	{"Category": "24", "Item": "23"}
+20	con	_		{}
+21	tan	_		{}
+22	sólo	_		{}
+23	17	_		{}
+24	años	_	Age	{"Attribute": "26", "Age": "23", "Entity": "24"}
+25	de	_		{}
+26	edad	_	Age	{"Attribute": "24", "Age": "23", "Entity": "26"}
+27	en	_		{}
+28	el	_		{}
+29	partido	_	Social_event	{"Place": "34"}
+30	de	_		{}
+31	clasificación	_	Categorization	{"Category": "34"}
+32	para	_		{}
+33	la	_		{}
+34	Liga	_	Finish_competition	{}
+35	de	_		{}
+36	Campeones	_		{}
+37	de	_		{}
+38	la	_		{}
+39	UEFA	_		{}
+40	del	_		{}
+41	14	_	Cardinal_numbers	{"Number": "41", "Entity": "43"}
+42	de	_		{}
+43	agosto	_	Calendric_unit	{"Relative_time": "41", "Whole": "45", "Unit": "43"}
+44	de	_		{}
+45	2002	_		{}
+46	frente	_		{}
+47	al	_		{}
+48	F	_		{}
+49	.	_		{}
+50	C	_		{}
+51	.	_		{}
+52	Internazionale	_		{}
+53	.	_		{}

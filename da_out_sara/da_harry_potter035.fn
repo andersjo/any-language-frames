@@ -1,0 +1,27 @@
+1	Kvindelige	_		{}
+2	magi-kyndige	_		{}
+3	personer	_	People	{"Persistent_characteristic": "1", "Person": "3", "Descriptor": "2"}
+4	i	_		{}
+5	bøgerne	_		{}
+6	omtales	_		{}
+7	som	_		{}
+8	"	_		{}
+9	hekse	_		{}
+10	"	_		{}
+11	,	_		{}
+12	men	_		{}
+13	i	_		{}
+14	bøgernes	_		{}
+15	kontekst	_		{}
+16	er	_		{}
+17	dette	_		{}
+18	ikke	_		{}
+19	forbundet	_		{}
+20	med	_		{}
+21	nogen	_		{}
+22	form	_	Aggregate	{"Aggregate": "22", "Domain": "24"}
+23	for	_		{}
+24	religion	_	Trust	{"Information": "24"}
+25	eller	_		{}
+26	religionsdyrkelse	_		{}
+27	.	_		{}

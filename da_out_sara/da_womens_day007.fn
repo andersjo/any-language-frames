@@ -1,0 +1,34 @@
+1	Kongressen	_		{}
+2	blev	_		{}
+3	afholdt	_		{}
+4	på	_		{}
+5	Jagtvej	_		{}
+6	69	_		{}
+7	,	_		{}
+8	der	_		{}
+9	dengang	_		{}
+10	hed	_	Social_interaction_evaluation	{"Topic": "11", "Evaluee": "5"}
+11	Folkets	_		{}
+12	Hus	_		{}
+13	og	_		{}
+14	som	_		{}
+15	senere	_	Relative_time	{"Focal_participant": "18", "Landmark_occasion": "11"}
+16	blev	_		{}
+17	til	_		{}
+18	Ungdomshuset	_		{}
+19	,	_		{}
+20	indtil	_		{}
+21	det	_		{}
+22	blev	_		{}
+23	ryddet	_		{}
+24	1	_	Cardinal_numbers	{"Number": "24"}
+25	.	_		{}
+26	marts	_	Calendric_unit	{"Whole": "24", "Unit": "26"}
+27	og	_		{}
+28	derefter	_	Time_vector	{"Landmark_event": "26", "Event": "23"}
+29	nedrevet	_		{}
+30	5	_	Cardinal_numbers	{"Number": "30"}
+31	.	_		{}
+32	–	_		{}
+33	6	_	Cardinal_numbers	{"Number": "33"}
+34	.	_		{}

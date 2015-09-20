@@ -1,0 +1,12 @@
+1	Todo	_	Quantity	{"Individuals": "2", "Mass": "2", "Quantity": "1"}
+2	ello	_	Measure_volume	{"Count": "1"}
+3	contribuyó	_		{}
+4	a	_		{}
+5	su	_		{}
+6	formación	_	Education_teaching	{"Skill": "8", "Role": "8", "Qualification": "8", "Fact": "2", "Subject": "8"}
+7	como	_	Identicality	{"Current_instance": "8", "Previous_context": "6"}
+8	persona	_	People	{"Person": "8"}
+9	y	_		{}
+10	como	_	Identicality	{"Previous_context": "6", "Current_instance": "11"}
+11	futbolista	_		{}
+12	.	_		{}

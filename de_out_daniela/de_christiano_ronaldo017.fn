@@ -1,0 +1,26 @@
+1	Juli	_	Calendric_unit	{"Whole": "2", "Unit": "1"}
+2	2010	_		{}
+3	gab	_		{}
+4	Ronaldo	_		{}
+5	via	_		{}
+6	Facebook	_		{}
+7	und	_	Simultaneity	{"Profiled_event": "6", "Landmark_event": "8"}
+8	Twitter	_		{}
+9	bekannt	_		{}
+10	,	_		{}
+11	Vater	_		{}
+12	eines	_		{}
+13	Sohnes	_	Kinship	{"Ego": "11", "Alter": "13"}
+14	geworden	_		{}
+15	zu	_		{}
+16	sein	_		{}
+17	und	_		{}
+18	für	_		{}
+19	diesen	_		{}
+20	das	_		{}
+21	alleinige	_		{}
+22	Sorgerecht	_		{}
+23	übernommen	_	Taking	{"Theme": "22", "Agent": "4"}
+24	zu	_		{}
+25	haben	_		{}
+26	.	_		{}

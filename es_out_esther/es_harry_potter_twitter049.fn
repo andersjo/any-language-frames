@@ -1,0 +1,26 @@
+1	Todos	_	Quantity	{"Individuals": "1", "Quantity": "1"}
+2	tenemos	_	Possession	{"Owner": "1", "Possession": "3"}
+3	luz	_	Location_of_light	{"Light": "3", "Figure": "1", "Ground": "1"}
+4	y	_		{}
+5	oscuridad	_	Optical_image	{"Source": "1", "Image": "5"}
+6	en	_		{}
+7	nuestro	_		{}
+8	interior	_	Part_inner_outer	{"Part": "8", "Whole": "1"}
+9	lo	_		{}
+10	que	_		{}
+11	importa	_	Importance	{"Interested_party": "14", "Field": "3", "Factor": "15", "Undertaking": "16"}
+12	es	_	Being_in_category	{"Category": "14", "Item": "11", "Criteria": "19"}
+13	que	_		{}
+14	parte	_	Part_piece	{"Piece": "14", "Substance": "3"}
+15	decidimos	_	Deciding	{"Cognizer": "1", "Decision": "16"}
+16	potenciar	_	Progress	{"Entity": "16"}
+17	.	_		{}
+18	(	_		{}
+19	Harry	_		{}
+20	Potter	_		{}
+21	y	_	Simultaneity	{}
+22	la	_		{}
+23	orden	_		{}
+24	del	_		{}
+25	Fenix	_		{}
+26	)	_		{}

@@ -1,0 +1,28 @@
+1	Although	_		{}
+2	there	_		{}
+3	were	_	Existence	{"Time": "13", "Entity": "6"}
+4	some	_	Relational_quantity	{"Individuals": "6", "Denoted_quantity": "4"}
+5	women-led	_		{}
+6	strikes	_	Impact	{}
+7	,	_		{}
+8	marches	_	Mass_motion	{}
+9	,	_		{}
+10	and	_		{}
+11	other	_		{}
+12	protests	_	Repel	{}
+13	in	_		{}
+14	the	_		{}
+15	years	_	Calendric_unit	{"Unit": "15"}
+16	leading	_	Leadership	{}
+17	up	_	Direction	{"Path": "17"}
+18	to	_		{}
+19	1914	_		{}
+20	,	_		{}
+21	none	_		{}
+22	of	_		{}
+23	them	_		{}
+24	happened	_	Coincidence	{"State_of_affairs": "23", "Time": "25"}
+25	on	_		{}
+26	March	_	Calendric_unit	{"Unit": "26"}
+27	8	_	Cardinal_numbers	{"Number": "27"}
+28	.	_		{}

@@ -1,0 +1,26 @@
+1	More	_	Increment	{"Initial_set": "2"}
+2	ppl	_		{}
+3	know	_	Awareness	{"Content": "4", "Cognizer": "2"}
+4	Peyton	_		{}
+5	Manning	_		{}
+6	than	_		{}
+7	the	_		{}
+8	sitting	_		{}
+9	Vice	_		{}
+10	President	_	Leadership	{"Role": "10", "Type": "9"}
+11	.	_		{}
+12	While	_		{}
+13	global	_	Political_locales	{"Locale": "13"}
+14	warming	_		{}
+15	has	_	Causation	{"Cause": "14", "Affected": "21"}
+16	a	_	Cardinal_numbers	{}
+17	bigger	_	Measurable_attributes	{"Entity": "14"}
+18	impact	_	Impact	{"Impactee": "21", "Impactor": "14"}
+19	on	_		{}
+20	our	_		{}
+21	lives	_		{}
+22	than	_		{}
+23	any	_	Quantity	{"Individuals": "25", "Quantity": "23"}
+24	football	_		{}
+25	game	_		{}
+26	.	_		{}

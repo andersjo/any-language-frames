@@ -1,0 +1,31 @@
+1	Auch	_		{}
+2	ein	_		{}
+3	extremer	_		{}
+4	Wachstumsschub	_		{}
+5	sowie	_		{}
+6	eine	_		{}
+7	Herzrhythmusstörung	_		{}
+8	,	_		{}
+9	welche	_		{}
+10	die	_		{}
+11	Fortsetzung	_		{}
+12	seiner	_	Possession	{"Owner": "12", "Possession": "13"}
+13	Karriere	_		{}
+14	in	_		{}
+15	Frage	_		{}
+16	stellte	_		{}
+17	und	_		{}
+18	eine	_		{}
+19	Operation	_		{}
+20	erforderlich	_	Being_necessary	{"Dependent": "13", "Requirement": "19"}
+21	machte	_		{}
+22	,	_		{}
+23	standen	_		{}
+24	seiner	_	Possession	{"Owner": "24", "Possession": "27"}
+25	weiteren	_	Activity_ongoing	{"Agent": "24", "Activity": "27"}
+26	sportlichen	_		{}
+27	Entwicklung	_	Cause_to_make_progress	{"Project": "26", "Agent": "24"}
+28	zunächst	_		{}
+29	im	_		{}
+30	Wege	_		{}
+31	.	_		{}

@@ -1,0 +1,58 @@
+1	Con	_		{}
+2	l'uscita	_		{}
+3	del	_		{}
+4	quinto	_	Ordinal_numbers	{"Item": "5"}
+5	tomo	_	Text	{"Text": "5"}
+6	delle	_		{}
+7	avventure	_		{}
+8	di	_		{}
+9	Harry	_		{}
+10	,	_		{}
+11	la	_		{}
+12	Rowling	_		{}
+13	,	_		{}
+14	la	_		{}
+15	casa	_	Businesses	{"Business": "15"}
+16	editrice	_		{}
+17	inglese	_		{}
+18	(	_		{}
+19	Bloomsbury	_		{}
+20	)	_		{}
+21	e	_		{}
+22	la	_		{}
+23	casa	_	Businesses	{"Business": "23"}
+24	editrice	_		{}
+25	Salani	_		{}
+26	hanno	_		{}
+27	sposato	_		{}
+28	la	_		{}
+29	causa	_		{}
+30	della	_		{}
+31	salvaguardia	_	Protecting	{"Protection": "31", "Asset": "32"}
+32	dell'ambiente:	_		{}
+33	infatti	_		{}
+34	per	_		{}
+35	la	_		{}
+36	stampa	_		{}
+37	del	_		{}
+38	volume	_	Text	{"Text": "38"}
+39	è	_		{}
+40	stato	_		{}
+41	adottato	_		{}
+42	un	_		{}
+43	procedimento	_	Process	{}
+44	di	_		{}
+45	lavorazione	_	Manufacturing	{"Product": "36"}
+46	a	_		{}
+47	basso	_	Measurable_attributes	{"Degree": "47", "Entity": "48"}
+48	impatto	_		{}
+49	ambientale	_		{}
+50	ed	_		{}
+51	è	_		{}
+52	stata	_		{}
+53	usata	_		{}
+54	carta	_		{}
+55	in	_		{}
+56	parte	_		{}
+57	riciclata	_	Processing_materials	{"Material": "54"}
+58	.	_		{}

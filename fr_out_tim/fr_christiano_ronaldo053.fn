@@ -1,0 +1,14 @@
+1	Au	_		{}
+2	total	_	Amounting_to	{"Attribute": "7", "Value": "6"}
+3	,	_		{}
+4	il	_		{}
+5	joue	_	Competition	{"Participant_1": "4", "Competition": "7"}
+6	40	_	Cardinal_numbers	{"Number": "6", "Entity": "7"}
+7	matchs	_	Competition	{}
+8	dans	_		{}
+9	lesquels	_		{}
+10	il	_		{}
+11	marque	_	Hit_target	{"Target": "13", "Agent": "10"}
+12	6	_	Cardinal_numbers	{"Number": "12", "Entity": "13"}
+13	buts	_		{}
+14	.	_		{}

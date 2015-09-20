@@ -1,0 +1,47 @@
+1	In	_		{}
+2	December	_	Calendric_unit	{"Whole": "2"}
+3	2014	_		{}
+4	,	_		{}
+5	Ronaldo	_		{}
+6	became	_	Becoming	{"Time": "2", "Entity": "5"}
+7	the	_		{}
+8	fastest	_	Speed	{"Entity": "5", "Speed": "8", "Time": "3"}
+9	player	_	Competition	{"Participant_1": "5", "Competition": "15"}
+10	to	_		{}
+11	score	_	Successful_action	{"Goal": "13"}
+12	200	_	Cardinal_numbers	{"Number": "12", "Entity": "13"}
+13	goals	_	Purpose	{"Goal": "13", "Value": "12"}
+14	in	_		{}
+15	La	_		{}
+16	Liga	_		{}
+17	when	_		{}
+18	,	_		{}
+19	in	_		{}
+20	his	_		{}
+21	178th	_		{}
+22	La	_		{}
+23	Liga	_		{}
+24	game	_		{}
+25	,	_		{}
+26	he	_		{}
+27	scored	_	Successful_action	{"Goal": "29"}
+28	a	_		{}
+29	ha	_		{}
+30	t-t	_		{}
+31	rick	_		{}
+32	against	_		{}
+33	Celta	_		{}
+34	Vigo	_		{}
+35	;	_		{}
+36	his	_		{}
+37	23rd	_		{}
+38	ha	_		{}
+39	t-t	_		{}
+40	rick	_		{}
+41	was	_		{}
+42	also	_	Sufficiency	{}
+43	a	_	Cardinal_numbers	{"Number": "43", "Entity": "46"}
+44	La	_		{}
+45	Liga	_		{}
+46	record	_	Recording	{"Phenomenon": "46"}
+47	.	_		{}

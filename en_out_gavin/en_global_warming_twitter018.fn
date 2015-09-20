@@ -1,0 +1,20 @@
+1	From	_		{}
+2	his	_		{}
+3	man-made	_		{}
+4	global	_	Political_locales	{"Locale": "4"}
+5	warming	_	Temperature	{"Temperature": "5", "Entity": "4"}
+6	altar	_	Building_subparts	{"Building_part": "6", "Use": "5"}
+7	,	_		{}
+8	Al	_		{}
+9	Gore	_		{}
+10	conjures	_	Evoking	{"Cognizer": "9", "Phenomenon": "13"}
+11	a	_	Cardinal_numbers	{"Number": "11", "Entity": "13"}
+12	false	_	Artificiality	{"Entity": "12"}
+13	narrative	_		{}
+14	against	_		{}
+15	those	_		{}
+16	#opposing	_		{}
+17	his	_		{}
+18	superstitions	_	Calendric_unit	{"Unit": "18"}
+19	:	_		{}
+20	http://t.co/PbhHFTTVud	_		{}

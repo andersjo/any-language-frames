@@ -1,0 +1,20 @@
+1	Elle	_		{}
+2	joue	_	Performing_arts	{"Performer": "1", "Type": "14"}
+3	ensuite	_	Relative_time	{"Focal_occasion": "2", "Focal_participant": "1"}
+4	dans	_		{}
+5	"	_		{}
+6	George	_		{}
+7	Wallace	_		{}
+8	"	_		{}
+9	et	_		{}
+10	"	_		{}
+11	Gia	_		{}
+12	"	_		{}
+13	,	_		{}
+14	films	_	Physical_artworks	{"Artifact": "14"}
+15	biographiques	_		{}
+16	acclamés	_		{}
+17	par	_		{}
+18	la	_		{}
+19	critique	_	Judgment	{"Cognizer": "19", "Evaluee": "14"}
+20	.	_		{}

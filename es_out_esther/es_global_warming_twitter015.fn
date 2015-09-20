@@ -1,0 +1,16 @@
+1	llevo	_	Activity_ongoing	{"Activity": "6"}
+2	5	_	Cardinal_numbers	{"Number": "2", "Entity": "3"}
+3	dias	_	Measure_duration	{"Count": "2", "Process": "1", "Unit": "3"}
+4	a	_		{}
+5	puro	_	Morality_evaluation	{"Evaluee": "6", "Behavior": "6"}
+6	marisco	_	Food	{"Food": "6"}
+7	fresco	_	Temperature	{"Temperature": "7", "Degree": "5", "Entity": "6"}
+8	...	_		{}
+9	no	_		{}
+10	me	_		{}
+11	culpen	_	Judgment	{"Reason": "15"}
+12	x	_		{}
+13	mi	_		{}
+14	global	_		{}
+15	warming	_		{}
+16	interno	_	Part_inner_outer	{"Part": "16", "Whole": "16"}

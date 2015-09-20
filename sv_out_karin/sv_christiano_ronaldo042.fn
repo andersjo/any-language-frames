@@ -1,0 +1,23 @@
+1	För	_		{}
+2	sitt	_		{}
+3	ihärdiga	_		{}
+4	målgörande	_		{}
+5	belönades	_		{}
+6	han	_		{}
+7	både	_		{}
+8	med	_		{}
+9	Le	_		{}
+10	ballon	_		{}
+11	d'or	_		{}
+12	och	_		{}
+13	guldskon	_		{}
+14	och	_	Simultaneity	{"Profiled_event": "5", "Landmark_event": "15"}
+15	blev	_		{}
+16	då	_	Temporal_collocation	{"Trajector_entity": "15", "Landmark_event": "5"}
+17	den	_		{}
+18	första	_	Ordinal_numbers	{"Comparison_set": "19"}
+19	yttermittfältaren	_		{}
+20	som	_		{}
+21	vunnit	_		{}
+22	priset	_		{}
+23	.	_		{}

@@ -1,0 +1,31 @@
+1	“	_		{}
+2	@laconchadelloro	_		{}
+3	:	_		{}
+4	Harry	_		{}
+5	Potter	_		{}
+6	y	_	Simultaneity	{}
+7	el	_		{}
+8	misterio	_	Text	{"Text": "8"}
+9	de	_		{}
+10	porq	_		{}
+11	el	_		{}
+12	control	_	Be_in_control	{"Controlling_entity": "12", "Dependent_entity": "14"}
+13	del	_		{}
+14	DVD	_		{}
+15	tiene	_	Containing	{"Container": "12", "Contents": "17"}
+16	el	_		{}
+17	botón	_		{}
+18	de	_		{}
+19	ABRIR	_		{}
+20	sí	_		{}
+21	igual	_	Identicality	{}
+22	me	_	Proper_reference	{"Intended_referent": "22", "Entity": "22"}
+23	tengo	_		{}
+24	que	_		{}
+25	parar	_	Activity_stop	{"Agent": "22"}
+26	a	_		{}
+27	poner	_	Operating_a_system	{"Operator": "22", "System": "29"}
+28	el	_		{}
+29	CD	_		{}
+30	.	_		{}
+31	”	_		{}

@@ -1,0 +1,49 @@
+1	La	_		{}
+2	editora	_		{}
+3	Bloomsbury	_		{}
+4	Publishing	_		{}
+5	tiene	_	Possession	{"Owner": "3", "Possession": "7", "Manner": "9"}
+6	los	_		{}
+7	derechos	_	Law	{"Use": "9", "Jurisdiction": "14", "Forbidden": "9", "Required": "11", "Law": "11", "Type": "20"}
+8	de	_		{}
+9	publicación	_	Text	{"Text": "9", "Use": "9"}
+10	en	_		{}
+11	inglés	_		{}
+12	para	_		{}
+13	el	_		{}
+14	Reino	_	Political_locales	{"Locale": "14", "Relative_location": "20", "Constituent_parts": "15", "Name": "14"}
+15	Unido	_		{}
+16	y	_	Simultaneity	{"Profiled_event": "20", "Landmark_event": "14"}
+17	el	_		{}
+18	resto	_	Part_piece	{"Piece": "20"}
+19	de	_		{}
+20	Europa	_		{}
+21	,	_		{}
+22	mientras	_		{}
+23	que	_		{}
+24	la	_		{}
+25	editorial	_		{}
+26	Scholastic	_		{}
+27	los	_		{}
+28	tiene	_	Possession	{"Depictive": "30", "Possession": "7", "Owner": "25", "Manner": "9"}
+29	para	_	Degree	{"Gradable_attribute": "7"}
+30	Estados	_	Political_locales	{"Locale": "31", "Relative_location": "30", "Name": "30"}
+31	Unidos	_		{}
+32	y	_	Simultaneity	{"Profiled_event": "34", "Landmark_event": "25"}
+33	la	_		{}
+34	Editorial	_		{}
+35	Salamandra	_		{}
+36	los	_		{}
+37	tiene	_	Possession	{"Possession": "7", "Owner": "34", "Explanation": "41", "Manner": "9"}
+38	para	_	Sufficiency	{"Item": "40", "Scale": "41", "Enabled_situation": "41", "Circumstances": "44"}
+39	el	_		{}
+40	idioma	_	Communication	{"Medium": "40"}
+41	español	_		{}
+42	y	_	Simultaneity	{"Profiled_event": "44", "Landmark_event": "40"}
+43	su	_		{}
+44	distribución	_	Delivery	{"Theme": "9", "Goal": "44", "Deliverer": "34"}
+45	por	_	Direction	{"Path": "46", "Domain": "44"}
+46	España	_		{}
+47	e	_	Simultaneity	{"Profiled_event": "48", "Landmark_event": "46"}
+48	Hispanoamérica	_		{}
+49	.	_		{}

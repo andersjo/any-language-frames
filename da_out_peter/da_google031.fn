@@ -1,0 +1,21 @@
+1	I	_		{}
+2	en	_		{}
+3	global	_	Political_locales	{"Locale": "4"}
+4	verden	_	Existence	{"Entity": "4"}
+5	kan	_		{}
+6	der	_		{}
+7	ligeledes	_		{}
+8	være	_	Existence	{"Entity": "9"}
+9	problemer	_	Predicament	{"Situation": "11"}
+10	med	_		{}
+11	håndtering	_		{}
+12	af	_		{}
+13	ophavsret	_		{}
+14	,	_		{}
+15	der	_		{}
+16	varierer	_	Similarity	{"Entities": "13", "Differentiating_fact": "18"}
+17	fra	_		{}
+18	land	_	Locale_by_ownership	{"Locale": "18"}
+19	til	_		{}
+20	land	_	Locale_by_ownership	{"Locale": "20"}
+21	.	_		{}

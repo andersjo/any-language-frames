@@ -1,0 +1,23 @@
+1	During	_		{}
+2	this	_		{}
+3	period	_	Calendric_unit	{"Relative_time": "2", "Salient_event": "5", "Unit": "3"}
+4	,	_		{}
+5	she	_		{}
+6	wore	_	Wearing	{"Clothing": "8", "Wearer": "5"}
+7	black	_	Color	{"Color": "7", "Entity": "8"}
+8	clothing	_	Clothing	{"Garment": "8", "Style": "7", "Wearer": "5"}
+9	,	_		{}
+10	experimented	_	Trying_out	{"Evaluator": "5", "Experience": "13", "Entity": "5"}
+11	with	_		{}
+12	knife	_	Weapon	{"Weapon": "12"}
+13	play	_	Intentionally_act	{"Agent": "5", "Time": "1"}
+14	,	_		{}
+15	and	_		{}
+16	went	_	Motion	{"Direction": "17"}
+17	out	_		{}
+18	moshing	_	Cause_impact	{}
+19	with	_		{}
+20	her	_		{}
+21	live-in	_		{}
+22	boyfriend	_	Personal_relationship	{"Partner_2": "22", "Partner_1": "5"}
+23	.	_		{}

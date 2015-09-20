@@ -1,0 +1,20 @@
+1	I	_		{}
+2	april	_	Calendric_unit	{"Relative_time": "3", "Unit": "2"}
+3	2007	_		{}
+4	opnåede	_		{}
+5	han	_		{}
+6	for	_		{}
+7	tredje	_	Part_whole	{"Part": "7", "Whole": "8"}
+8	år	_	Measure_duration	{"Count": "7", "Unit": "8"}
+9	i	_		{}
+10	træk	_	Version_sequence	{"Item": "8"}
+11	at	_		{}
+12	vinde	_	Win_prize	{"Competitor": "5", "Prize": "16"}
+13	PFA	_		{}
+14	Fans	_		{}
+15	'	_		{}
+16	Player	_		{}
+17	of	_		{}
+18	the	_		{}
+19	Year	_		{}
+20	.	_		{}

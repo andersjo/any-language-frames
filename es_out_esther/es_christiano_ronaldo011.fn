@@ -1,0 +1,35 @@
+1	Conquistó	_		{}
+2	como	_	Identicality	{"Current_instance": "3"}
+3	madridista	_		{}
+4	dos	_	Cardinal_numbers	{"Number": "4", "Entity": "5"}
+5	Copas	_	Accoutrements	{"Accoutrement": "5"}
+6	del	_		{}
+7	Rey	_	Leadership	{}
+8	,	_		{}
+9	una	_		{}
+10	Liga	_	Finish_competition	{"Competitor": "3"}
+11	,	_		{}
+12	y	_		{}
+13	una	_		{}
+14	Supercopa	_		{}
+15	de	_		{}
+16	España	_		{}
+17	,	_		{}
+18	completando	_	Accomplishment	{"Goal": "22", "Agent": "3"}
+19	así	_		{}
+20	la	_		{}
+21	triple	_	Aggregate	{"Aggregate": "21", "Individuals": "22"}
+22	corona	_	Accoutrements	{"Accoutrement": "22"}
+23	española	_		{}
+24	,	_		{}
+25	más	_	Increment	{"Added_set": "27", "Initial_set": "22", "Class": "10"}
+26	una	_		{}
+27	Liga	_	Finish_competition	{"Competitor": "3"}
+28	de	_		{}
+29	Campeones	_		{}
+30	y	_		{}
+31	una	_		{}
+32	Supercopa	_		{}
+33	de	_		{}
+34	Europa	_		{}
+35	.	_		{}

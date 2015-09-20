@@ -1,0 +1,36 @@
+1	Men	_		{}
+2	när	_	Event_instance	{"Event": "4"}
+3	Harry	_		{}
+4	kommer	_		{}
+5	till	_		{}
+6	Hogwarts	_		{}
+7	märker	_	Becoming_aware	{"Cognizer": "3", "Phenomenon": "11", "Means": "4"}
+8	han	_		{}
+9	allt	_		{}
+10	fler	_		{}
+11	tecken	_	Evidence	{"Proposition": "17"}
+12	på	_		{}
+13	att	_		{}
+14	Voldemort	_		{}
+15	är	_		{}
+16	på	_		{}
+17	väg	_	Arriving	{"Path": "17", "Theme": "14", "Goal": "18", "Purpose": "29"}
+18	tillbaka	_		{}
+19	och	_	Simultaneity	{"Profiled_event": "17", "Landmark_event": "23"}
+20	att	_		{}
+21	många	_	Quantity	{"Individuals": "22"}
+22	människor	_	People	{"Person": "22"}
+23	riskerar	_		{}
+24	att	_		{}
+25	dö	_	Death	{"Protagonist": "22"}
+26	i	_		{}
+27	den	_		{}
+28	stora	_	Size	{"Entity": "29"}
+29	kampen	_	Hostile_encounter	{"Side_2": "14", "Side_1": "22"}
+30	mot	_		{}
+31	honom	_		{}
+32	och	_		{}
+33	hans	_		{}
+34	anhängare	_	Taking_sides	{"Cognizer": "34", "Side": "14"}
+35	dödsätarna	_		{}
+36	.	_		{}

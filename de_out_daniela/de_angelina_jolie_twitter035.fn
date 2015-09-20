@@ -1,0 +1,21 @@
+1	Wie	_		{}
+2	desillusionierend	_		{}
+3	muss	_		{}
+4	es	_		{}
+5	sein	_		{}
+6	,	_		{}
+7	man	_	People	{"Person": "7"}
+8	ist	_		{}
+9	mit	_		{}
+10	Angelina	_		{}
+11	Jolie	_		{}
+12	im	_		{}
+13	Bett	_	Part_orientational	{"Whole": "13"}
+14	und	_		{}
+15	sie	_		{}
+16	lässt	_		{}
+17	dann	_	Temporal_collocation	{"Trajector_event": "19", "Trajector_period": "17"}
+18	einen	_		{}
+19	fahren	_		{}
+20	#nurmalso	_		{}
+21	http://t.co/MY9B8jD19d	_		{}

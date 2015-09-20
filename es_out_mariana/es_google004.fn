@@ -1,0 +1,9 @@
+1	Asimismo	_	Sufficiency	{"Item": "4", "Circumstances": "7"}
+2	existen	_	Existence	{"Entity": "4"}
+3	otros	_	Increment	{"Initial_set": "4", "Added_set": "4"}
+4	proyectos	_	Project	{"Project": "7", "Name": "8"}
+5	como	_	Similarity	{"Entity_1": "8"}
+6	el	_		{}
+7	Project	_		{}
+8	Loon	_		{}
+9	.	_		{}

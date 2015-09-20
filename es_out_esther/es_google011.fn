@@ -1,0 +1,18 @@
+1	Contaban	_	Amounting_to	{"Attribute": "4", "Numbers": "10", "Value": "11"}
+2	con	_		{}
+3	un	_		{}
+4	armario	_	Containers	{"Container": "4"}
+5	lleno	_	Fullness	{"Container": "4", "Contents": "7"}
+6	de	_		{}
+7	servidores	_	Public_services	{"Service_action": "1"}
+8	(	_		{}
+9	unos	_		{}
+10	80	_		{}
+11	procesadores	_		{}
+12	)	_		{}
+13	,	_		{}
+14	y	_		{}
+15	dos	_		{}
+16	routers	_		{}
+17	HP	_		{}
+18	.	_		{}

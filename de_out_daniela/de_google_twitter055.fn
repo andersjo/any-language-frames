@@ -1,0 +1,22 @@
+1	auch	_		{}
+2	2015	_		{}
+3	#Partystadt	_		{}
+4	#Berlin	_		{}
+5	https://t.co/7iEx7r0QN7	_		{}
+6	(	_		{}
+7	auf	_		{}
+8	google+	_		{}
+9	gepostet	_		{}
+10	)	_		{}
+11	kaum	_	Relational_quantity	{"Denoted_quantity": "11"}
+12	ist	_		{}
+13	eine	_		{}
+14	#B	_		{}
+15	ühne	_		{}
+16	abgebaut	_		{}
+17	,	_		{}
+18	kommt	_	Activity_start	{"Activity": "21"}
+19	das	_		{}
+20	nächste	_	Relative_time	{"Focal_occasion": "21", "Landmark_occasion": "16"}
+21	#Event	_		{}
+22	#Urlaub	_		{}

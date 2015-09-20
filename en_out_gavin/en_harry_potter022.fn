@@ -1,0 +1,16 @@
+1	The	_		{}
+2	environment	_	Political_locales	{"Locale": "2"}
+3	Rowling	_		{}
+4	created	_	Creating	{"Created_entity": "2", "Creator": "3"}
+5	is	_	Existence	{"Entity": "2"}
+6	completely	_	Degree	{"Gradable_attribute": "7"}
+7	separate	_	Becoming_separated	{"Part_1": "2", "Part_2": "9"}
+8	from	_		{}
+9	reality	_	Political_locales	{"Locale": "9"}
+10	yet	_	Concessive	{"Main_statement": "5", "Statement": "13"}
+11	also	_		{}
+12	intimately	_	Attention	{}
+13	connected	_	Being_attached	{"Item": "2", "Goal": "15", "Manner": "12"}
+14	to	_		{}
+15	it	_		{}
+16	.	_		{}

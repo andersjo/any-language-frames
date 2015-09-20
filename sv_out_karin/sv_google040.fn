@@ -1,0 +1,17 @@
+1	Indexeringen	_		{}
+2	av	_		{}
+3	Usenetarkivet	_		{}
+4	påbörjades	_		{}
+5	redan	_	Time_vector	{"Landmark_event": "13", "Event": "4"}
+6	1998	_		{}
+7	,	_		{}
+8	då	_		{}
+9	Google	_		{}
+10	fortfarande	_	Continued_state_of_affairs	{"Reference_occasion": "6", "State_of_affairs": "13"}
+11	var	_		{}
+12	en	_	Cardinal_numbers	{"Number": "12", "Entity": "14"}
+13	liten	_	Size	{"Entity": "14"}
+14	spelare	_	Participation	{"Participant_1": "9", "Institution": "16"}
+15	på	_		{}
+16	söktjänstmarknaden	_		{}
+17	.	_		{}

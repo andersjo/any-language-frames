@@ -1,0 +1,41 @@
+1	L'azienda	_		{}
+2	,	_		{}
+3	che	_		{}
+4	ha	_		{}
+5	il	_		{}
+6	proprio	_	Possession	{"Owner": "1", "Possession": "7"}
+7	quartier	_		{}
+8	generale	_		{}
+9	a	_		{}
+10	Mountain	_		{}
+11	View	_		{}
+12	in	_		{}
+13	California	_		{}
+14	,	_		{}
+15	nel	_		{}
+16	cosiddetto	_	Being_named	{"Name": "17"}
+17	Googleplex	_		{}
+18	,	_		{}
+19	è	_		{}
+20	al	_		{}
+21	momento	_	Timespan	{"Duration": "21", "State": "22"}
+22	gestita	_		{}
+23	con	_		{}
+24	capitali	_	Money	{"Origin": "24", "Type": "25"}
+25	privati	_		{}
+26	,	_		{}
+27	i	_		{}
+28	maggiori	_		{}
+29	detentori	_		{}
+30	di	_		{}
+31	quote	_		{}
+32	sono	_		{}
+33	Kleiner	_		{}
+34	Perkins	_		{}
+35	Caufield	_		{}
+36	&	_		{}
+37	Byers	_		{}
+38	and	_		{}
+39	Sequoia	_		{}
+40	Capital	_		{}
+41	.	_		{}

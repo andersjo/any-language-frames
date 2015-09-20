@@ -1,0 +1,23 @@
+1	Écouter	_	Perception_experience	{"Phenomenon": "2", "Perceiver_passive": "4"}
+2	Harry	_		{}
+3	Potter	_		{}
+4	me	_		{}
+5	rappel	_	Evoking	{"Stimulus": "1", "Cognizer": "4", "Phenomenon": "11"}
+6	à	_		{}
+7	quel	_		{}
+8	point	_		{}
+9	Robert	_		{}
+10	pattinson	_		{}
+11	est	_		{}
+12	beau	_	Aesthetics	{"Attribute": "12", "Entity": "9"}
+13	comme	_		{}
+14	un	_		{}
+15	dieu	_		{}
+16	!	_		{}
+17	Sa	_		{}
+18	me	_		{}
+19	donne	_	Giving	{"Donor": "17", "Theme": "20", "Recipient": "18"}
+20	envie	_	Desiring	{"Experiencer": "18", "Event": "21"}
+21	d'écouter	_		{}
+22	twilight	_		{}
+23	haha	_		{}

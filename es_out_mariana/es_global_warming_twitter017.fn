@@ -1,0 +1,21 @@
+1	Me	_	Proper_reference	{"Intended_referent": "1"}
+2	ha	_	Have_associated	{"Place": "7", "Topical_entity": "1", "Entity": "5"}
+3	gustado	_	Satisfying	{"Standard": "3", "Event": "5", "Agent": "1", "Means": "7"}
+4	un	_		{}
+5	vídeo	_	Physical_artworks	{"Name": "18", "Artifact": "5", "Creator": "13"}
+6	de	_		{}
+7	@YouTube	_		{}
+8	de	_		{}
+9	@descargadetodo1	_		{}
+10	(	_		{}
+11	http://t.co/6Z8btFkTci	_		{}
+12	-	_		{}
+13	Bajar	_		{}
+14	Musica	_		{}
+15	Pitbull	_		{}
+16	Album	_		{}
+17	2012	_		{}
+18	Global	_	Dimension	{"Domain": "19", "Dimension": "18"}
+19	Warming	_		{}
+20	)	_		{}
+21	.	_		{}

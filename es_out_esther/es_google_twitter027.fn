@@ -1,0 +1,17 @@
+1	Gana	_	Win_prize	{"Prize": "2"}
+2	crédito	_	Trust	{"Source": "8", "Expressor": "4"}
+3	de	_		{}
+4	Google	_		{}
+5	Play	_		{}
+6	respondiendo	_	Response	{"Trigger": "4"}
+7	a	_		{}
+8	encuestas	_	Scrutiny	{"Instrument": "8", "Medium": "6"}
+9	breves	_	Duration_attribute	{"Eventuality": "8", "Period": "9"}
+10	.	_		{}
+11	Descarga	_		{}
+12	Google	_		{}
+13	Opinion	_		{}
+14	Rewards	_		{}
+15	ahora	_	Temporal_collocation	{"Landmark_period": "15"}
+16	:	_		{}
+17	https://t.co/XeKtvWsI7Q	_		{}

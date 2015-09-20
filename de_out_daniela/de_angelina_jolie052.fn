@@ -1,0 +1,86 @@
+1	Der	_		{}
+2	Film	_	Physical_artworks	{"Artifact": "2"}
+3	fand	_	Receiving	{"Donor": "6", "Theme": "8", "Recipient": "2"}
+4	bei	_		{}
+5	den	_		{}
+6	Kritikern	_	Judgment_communication	{"Topic": "2", "Communicator": "6"}
+7	wenig	_	Degree	{"Gradable_attribute": "8"}
+8	Beifall	_		{}
+9	,	_		{}
+10	sodass	_		{}
+11	Roger	_		{}
+12	Ebert	_		{}
+13	zu	_		{}
+14	erklären	_	Statement	{"Topic": "2", "Speaker": "12"}
+15	versuchte	_	Attempt_means	{"Agent": "12", "Means": "14"}
+16	:	_		{}
+17	„Angelina	_		{}
+18	Jolie	_		{}
+19	findet	_	Seeking	{"Cognizer_agent": "18", "Sought_entity": "22"}
+20	eine	_		{}
+21	gewisse	_		{}
+22	Wärme	_		{}
+23	in	_		{}
+24	einer	_		{}
+25	Rolle	_		{}
+26	,	_		{}
+27	die	_		{}
+28	normalerweise	_		{}
+29	hart	_		{}
+30	und	_	Simultaneity	{"Profiled_event": "29", "Landmark_event": "31"}
+31	aggressiv	_		{}
+32	ist	_		{}
+33	;	_		{}
+34	sie	_		{}
+35	erscheint	_	Appearance	{"Appraisal": "36", "Phenomenon": "34", "Characterization": "37"}
+36	zu	_	Sufficiency	{"Item": "34", "Scale": "37"}
+37	nett	_	Social_interaction_evaluation	{"Evaluee": "34", "Behavior": "35"}
+38	,	_		{}
+39	um	_		{}
+40	die	_		{}
+41	Freundin	_	Personal_relationship	{"Partner_2": "43", "Relationship": "41", "Partner_1": "34"}
+42	eines	_		{}
+43	Verbrechers	_	People_by_morality	{"Person": "43"}
+44	zu	_		{}
+45	sein	_		{}
+46	,	_		{}
+47	und	_		{}
+48	vielleicht	_	Likelihood	{"Hypothetical_event": "37"}
+49	ist	_		{}
+50	sie	_		{}
+51	es	_		{}
+52	auch	_		{}
+53	.	_		{}
+54	“	_		{}
+55	Danach	_	Relative_time	{"Focal_occasion": "60", "Focal_participant": "57", "Landmark_occasion": "2"}
+56	wirkte	_		{}
+57	sie	_		{}
+58	in	_		{}
+59	dem	_		{}
+60	Fernsehfilm	_		{}
+61	"	_		{}
+62	True	_		{}
+63	Women	_		{}
+64	"	_		{}
+65	(	_		{}
+66	1997	_		{}
+67	)	_		{}
+68	mit	_		{}
+69	,	_		{}
+70	einem	_		{}
+71	historisch-romantischen	_		{}
+72	Drama	_	Text	{"Text": "72"}
+73	im	_		{}
+74	Wilden	_		{}
+75	Westen	_	Part_orientational	{"Part": "74", "Whole": "75"}
+76	,	_		{}
+77	basierend	_	Intentionally_create	{"Created_entity": "72"}
+78	auf	_		{}
+79	dem	_		{}
+80	gleichnamigen	_	Being_named	{"Name": "62", "Entity": "81"}
+81	Roman	_	Text	{"Text": "81", "Author": "85"}
+82	von	_		{}
+83	Janice	_		{}
+84	Woods	_		{}
+85	Windle	_		{}
+86	.	_		{}

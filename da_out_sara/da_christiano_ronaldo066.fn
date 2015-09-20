@@ -1,0 +1,40 @@
+1	Den	_		{}
+2	5	_	Cardinal_numbers	{"Number": "2"}
+3	.	_		{}
+4	juni	_	Calendric_unit	{"Relative_time": "5", "Whole": "2", "Unit": "4"}
+5	2008	_		{}
+6	meddelte	_		{}
+7	Sky	_		{}
+8	Sports	_		{}
+9	,	_		{}
+10	at	_		{}
+11	Ronaldo	_		{}
+12	havde	_		{}
+13	udtrykt	_		{}
+14	interesse	_	Emotion_directed	{"Expressor": "11", "Event": "17"}
+15	for	_		{}
+16	et	_		{}
+17	skift	_	Undergo_change	{"Final_category": "19", "Entity": "11"}
+18	til	_		{}
+19	Real	_		{}
+20	Madrid	_		{}
+21	,	_		{}
+22	hvis	_		{}
+23	de	_		{}
+24	tilbød	_		{}
+25	ham	_		{}
+26	den	_		{}
+27	samme	_	Identicality	{"Type": "28"}
+28	mængde	_	Quantity	{"Mass": "29", "Quantity": "28"}
+29	penge	_	Money	{"Money": "29"}
+30	,	_		{}
+31	som	_		{}
+32	holdet	_		{}
+33	angiveligt	_	Unattributed_information	{"Reported_fact": "35"}
+34	havde	_		{}
+35	lovet	_		{}
+36	ham	_		{}
+37	tidligere	_	Relative_time	{"Focal_occasion": "35", "Focal_participant": "32"}
+38	på	_		{}
+39	året	_		{}
+40	.	_		{}

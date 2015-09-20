@@ -1,0 +1,37 @@
+1	Tutto	_		{}
+2	inizia	_	Process_start	{}
+3	con	_		{}
+4	Albus	_		{}
+5	Silente	_		{}
+6	che	_		{}
+7	è	_		{}
+8	costretto	_	Being_obligated	{"Duty": "10"}
+9	ad	_		{}
+10	affidare	_		{}
+11	il	_		{}
+12	piccolo	_	People_by_age	{"Person": "13"}
+13	Harry	_		{}
+14	Potter	_		{}
+15	ai	_		{}
+16	suoi	_		{}
+17	zii	_	Kinship	{"Ego": "13", "Alter": "17"}
+18	materni	_		{}
+19	,	_		{}
+20	Vernon	_		{}
+21	e	_		{}
+22	Petunia	_		{}
+23	Dursley	_		{}
+24	,	_		{}
+25	data	_		{}
+26	la	_		{}
+27	mancata	_		{}
+28	presenza	_		{}
+29	di	_		{}
+30	membri	_		{}
+31	con	_		{}
+32	grado	_	Rank	{}
+33	di	_		{}
+34	parentela	_	Kinship	{}
+35	più	_		{}
+36	stretto	_		{}
+37	.	_		{}

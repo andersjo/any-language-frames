@@ -1,0 +1,43 @@
+1	Skiftet	_		{}
+2	til	_		{}
+3	Real	_		{}
+4	Madrid	_		{}
+5	blev	_		{}
+6	endeligt	_		{}
+7	bekræftet	_		{}
+8	26	_		{}
+9	.	_		{}
+10	juni	_	Calendric_unit	{"Whole": "10", "Unit": "8"}
+11	2009	_		{}
+12	med	_		{}
+13	virkning	_		{}
+14	allerede	_		{}
+15	fra	_		{}
+16	1	_	Cardinal_numbers	{"Number": "16", "Entity": "18"}
+17	.	_		{}
+18	juli	_	Calendric_unit	{"Whole": "18", "Unit": "16"}
+19	og	_		{}
+20	på	_		{}
+21	en	_		{}
+22	seksårig	_		{}
+23	kontrakt	_	Hiring	{"Employer": "3"}
+24	..	_		{}
+25	Kontraktens	_		{}
+26	værdi	_	Commerce_scenario	{"Buyer": "3", "Money": "28"}
+27	er	_		{}
+28	ikke	_		{}
+29	offentliggjort	_		{}
+30	,	_		{}
+31	men	_		{}
+32	analytikere	_		{}
+33	vurderer	_		{}
+34	den	_		{}
+35	til	_		{}
+36	at	_		{}
+37	være	_		{}
+38	på	_		{}
+39	13	_	Quantity	{"Mass": "40", "Quantity": "39"}
+40	millioner	_	Cardinal_numbers	{"Number": "40", "Entity": "41"}
+41	euro	_		{}
+42	pr	_		{}
+43	.	_		{}

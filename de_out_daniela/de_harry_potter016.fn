@@ -1,0 +1,48 @@
+1	Neben	_		{}
+2	der	_		{}
+3	Einordnung	_		{}
+4	als	_		{}
+5	Fantasy-Literatur	_		{}
+6	weist	_		{}
+7	sie	_		{}
+8	zumindest	_	Relational_quantity	{}
+9	gleichrangig	_		{}
+10	deutliche	_	Obviousness	{"Phenomenon": "11", "Degree": "10"}
+11	Eigenschaften	_		{}
+12	eines	_		{}
+13	Kriminalromans	_	Text	{"Text": "13"}
+14	,	_		{}
+15	Entwicklungsromans	_		{}
+16	oder	_		{}
+17	Bildungsromans	_		{}
+18	auf	_		{}
+19	,	_		{}
+20	und	_		{}
+21	wird	_		{}
+22	zudem	_		{}
+23	in	_		{}
+24	der	_		{}
+25	Regel	_	Pattern	{"Descriptor": "25"}
+26	als	_		{}
+27	Jugendliteratur	_		{}
+28	eingeordnet	_	Placing	{"Theme": "7", "Goal": "27"}
+29	,	_		{}
+30	obgleich	_		{}
+31	die	_		{}
+32	Leserschaft	_	Linguistic_meaning	{"Referent": "32"}
+33	auch	_		{}
+34	viele	_	Quantity	{"Individuals": "35"}
+35	Erwachsene	_	People_by_age	{"Person": "35"}
+36	umfasst	_		{}
+37	,	_		{}
+38	wobei	_		{}
+39	dies	_		{}
+40	zusammengenommen	_	Summarizing	{"State_of_affairs": "39"}
+41	auch	_		{}
+42	die	_		{}
+43	Einordnung	_		{}
+44	als	_		{}
+45	modernes	_	Temporal_collocation	{"Trajector_entity": "46", "Landmark_period": "45"}
+46	Märchen	_		{}
+47	erlaubt	_	Make_possible_to_do	{"Enablement": "39", "Enabled_action": "43"}
+48	.	_		{}

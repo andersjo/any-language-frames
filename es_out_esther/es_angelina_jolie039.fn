@@ -1,0 +1,42 @@
+1	Después	_		{}
+2	de	_		{}
+3	esto	_		{}
+4	,	_		{}
+5	Angelina	_		{}
+6	presentó	_		{}
+7	una	_		{}
+8	solicitud	_	Request	{}
+9	para	_		{}
+10	cambiar	_	Change_position_on_a_scale	{"Item": "13", "Manner": "11", "Final_value": "19", "Initial_value": "23"}
+11	legalmente	_	Legality	{"Action": "10", "Object": "13"}
+12	su	_		{}
+13	nombre	_	Being_named	{"Name": "19", "Entity": "18"}
+14	por	_		{}
+15	el	_		{}
+16	de	_		{}
+17	"	_		{}
+18	Angelina	_		{}
+19	Jolie	_		{}
+20	"	_		{}
+21	,	_		{}
+22	pasando	_	Change_position_on_a_scale	{"Difference": "13", "Final_value": "19", "Initial_value": "23"}
+23	Voight	_		{}
+24	como	_	Identicality	{}
+25	su	_		{}
+26	segundo	_	Ordinal_numbers	{"Comparison_set": "27", "Item": "13", "Starting_point": "23"}
+27	apellido	_	Being_named	{"Name": "23", "Entity": "18"}
+28	;	_		{}
+29	el	_		{}
+30	cambio	_	Replacing	{"New": "19", "Old": "3", "Time": "41"}
+31	de	_		{}
+32	nombre	_	Being_named	{"Name": "19", "Entity": "18"}
+33	se	_		{}
+34	hizo	_	Intentionally_act	{"Means": "35", "Agent": "18", "Time": "41"}
+35	oficial	_	Appellations	{}
+36	el	_		{}
+37	12	_	Cardinal_numbers	{"Entity": "39"}
+38	de	_		{}
+39	septiembre	_	Calendric_unit	{"Relative_time": "37", "Whole": "41"}
+40	de	_		{}
+41	2002	_		{}
+42	.	_		{}

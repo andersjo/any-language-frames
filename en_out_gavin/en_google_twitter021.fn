@@ -1,0 +1,20 @@
+1	#Google	_		{}
+2	#Windows8	_		{}
+3	.	_		{}
+4	1	_	Cardinal_numbers	{"Number": "4"}
+5	-	_		{}
+6	A	_	Cardinal_numbers	{"Number": "6", "Entity": "8"}
+7	Google	_		{}
+8	researcher	_	People_by_vocation	{"Person": "8", "Place_of_employment": "7"}
+9	has	_		{}
+10	disclosed	_	Reveal_secret	{"Information": "13", "Speaker": "8"}
+11	an	_	Cardinal_numbers	{"Number": "11", "Entity": "13"}
+12	unpatched	_		{}
+13	vulnerability	_	Being_at_risk	{"Asset": "15"}
+14	in	_		{}
+15	Windows	_	Connecting_architecture	{"Part": "15"}
+16	8.1	_		{}
+17	after	_	Relative_time	{"Focal_occasion": "10", "Focal_participant": "8", "Landmark_occasion": "19"}
+18	…	_		{}
+19	http://t.co/QgG7pQsNtq	_		{}
+20	#WindowsOS	_		{}

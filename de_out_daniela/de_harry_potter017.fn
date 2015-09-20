@@ -1,0 +1,34 @@
+1	Einhergehend	_	Causation	{"Cause": "5"}
+2	mit	_		{}
+3	der	_		{}
+4	anhaltenden	_		{}
+5	Begeisterung	_	Experiencer_focus	{"Content": "8", "Degree": "4"}
+6	für	_		{}
+7	die	_		{}
+8	Harry-Potter-Bücher	_		{}
+9	und	_	Simultaneity	{"Profiled_event": "10", "Landmark_event": "8"}
+10	-Filme	_		{}
+11	wurde	_		{}
+12	eine	_		{}
+13	Vielzahl	_	Aggregate	{"Individuals": "15"}
+14	an	_		{}
+15	Merchandising-Produkten	_		{}
+16	produziert	_	Manufacturing	{"Product": "15"}
+17	und	_	Simultaneity	{"Profiled_event": "21", "Landmark_event": "16"}
+18	mit	_		{}
+19	großem	_		{}
+20	Erfolg	_	Successful_action	{"Means": "21"}
+21	vermarktet	_		{}
+22	,	_		{}
+23	worauf	_		{}
+24	ebenfalls	_		{}
+25	ein	_		{}
+26	Themenpark	_		{}
+27	,	_		{}
+28	sowie	_		{}
+29	eine	_		{}
+30	Vielzahl	_		{}
+31	an	_		{}
+32	Computerspielen	_		{}
+33	folgten	_		{}
+34	.	_		{}

@@ -1,0 +1,17 @@
+1	Wieso	_		{}
+2	schneidet	_	Cutting	{"Item": "5", "Agent": "3"}
+3	Sat1	_		{}
+4	Harry	_		{}
+5	Potter	_		{}
+6	4	_	Cardinal_numbers	{"Number": "6", "Entity": "5"}
+7	der	_		{}
+8	eh	_		{}
+9	ab	_		{}
+10	12	_	Cardinal_numbers	{"Number": "10"}
+11	ist	_		{}
+12	?	_		{}
+13	Das	_		{}
+14	ist	_		{}
+15	doch	_		{}
+16	lächerlich	_	Stimulus_focus	{"Stimulus": "13"}
+17	Oo	_		{}

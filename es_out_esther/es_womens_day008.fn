@@ -1,0 +1,13 @@
+1	No	_		{}
+2	obstante	_		{}
+3	,	_		{}
+4	destacan	_	Mention	{"Specified_content": "6", "Medium": "9"}
+5	algunas	_		{}
+6	figuras	_	Exemplar	{"Instance": "6", "Type": "9"}
+7	,	_		{}
+8	unas	_		{}
+9	literarias	_	Text	{"Text": "9"}
+10	y	_		{}
+11	otras	_	Increment	{"Added_set": "12"}
+12	reales	_	Existence	{"Entity": "6"}
+13	.	_		{}

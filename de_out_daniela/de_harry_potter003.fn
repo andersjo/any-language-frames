@@ -1,0 +1,20 @@
+1	Jeder	_		{}
+2	der	_		{}
+3	sieben	_	Cardinal_numbers	{"Number": "3", "Entity": "4"}
+4	Bände	_		{}
+5	beschreibt	_	Create_representation	{"Represented": "9", "Material": "4"}
+6	ein	_		{}
+7	Schul-	_		{}
+8	und	_	Simultaneity	{"Profiled_event": "9", "Landmark_event": "7"}
+9	Lebensjahr	_		{}
+10	von	_		{}
+11	Harry	_		{}
+12	Potter	_		{}
+13	,	_		{}
+14	beginnend	_	Activity_start	{"Agent": "12", "Activity": "9"}
+15	kurz	_		{}
+16	vor	_		{}
+17	seinem	_	Possession	{"Possession": "19", "Owner": "12"}
+18	elften	_		{}
+19	Geburtstag	_	Commemorative	{"Dedicated_entity": "19", "Honored_entity": "17"}
+20	.	_		{}

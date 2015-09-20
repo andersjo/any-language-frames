@@ -1,0 +1,14 @@
+1	RETWEET	_		{}
+2	if	_		{}
+3	you	_		{}
+4	think	_	Cogitation	{"Topic": "7", "Cognizer": "3"}
+5	Christiano	_		{}
+6	Ronaldo	_		{}
+7	is	_	Being_in_category	{"Category": "9", "Item": "5"}
+8	the	_		{}
+9	best	_	Expertise	{"Protagonist": "5", "Focal_participant": "10"}
+10	player	_	Performers	{"Person": "5"}
+11	in	_		{}
+12	the	_		{}
+13	world	_	Locale	{"Locale": "13"}
+14	.	_		{}

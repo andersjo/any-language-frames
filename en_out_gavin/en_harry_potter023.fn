@@ -1,0 +1,50 @@
+1	While	_		{}
+2	the	_		{}
+3	fantasy	_		{}
+4	land	_	Political_locales	{"Locale": "4"}
+5	of	_		{}
+6	Narnia	_		{}
+7	is	_	Being_in_category	{"Category": "10", "Item": "4"}
+8	an	_	Cardinal_numbers	{"Number": "8", "Entity": "10"}
+9	alternative	_	Possibilities	{"Event": "10"}
+10	universe	_	Natural_features	{"Locale": "10", "Type": "9"}
+11	and	_		{}
+12	the	_		{}
+13	"	_		{}
+14	Lord	_	Leadership	{"Leader": "14"}
+15	of	_		{}
+16	the	_		{}
+17	Rings	_	Accoutrements	{"Accoutrement": "17"}
+18	"'	_		{}
+19	Middle-earth	_		{}
+20	a	_	Cardinal_numbers	{"Number": "20", "Entity": "22"}
+21	mythic	_	Desirability	{"Evaluee": "22"}
+22	past	_	Relative_time	{"Focal_occasion": "22"}
+23	,	_		{}
+24	the	_		{}
+25	wizarding	_	Performers_and_roles	{"Performance": "25"}
+26	world	_	Locale	{"Locale": "26"}
+27	of	_		{}
+28	"	_		{}
+29	Harry	_		{}
+30	Potter	_		{}
+31	"	_		{}
+32	exists	_	Existence	{"Place": "35", "Entity": "26"}
+33	in	_		{}
+34	parallel	_	Duplication	{"Copy": "26"}
+35	within	_		{}
+36	the	_		{}
+37	real	_	Actually_occurring_entity	{"Instance": "38"}
+38	world	_	Locale	{"Locale": "38"}
+39	and	_		{}
+40	contains	_	Containing	{"Container": "26", "Contents": "42"}
+41	magical	_	Ineffability	{"Stimulus": "42"}
+42	versions	_	Type	{"Category": "46"}
+43	of	_		{}
+44	the	_		{}
+45	ordinary	_	Typicality	{"Entity": "46"}
+46	elements	_	Ingredients	{"Material": "46"}
+47	of	_		{}
+48	everyday	_	Frequency	{"Event": "49"}
+49	life	_	Dead_or_alive	{}
+50	.	_		{}

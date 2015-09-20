@@ -1,0 +1,37 @@
+1	Since	_		{}
+2	the	_		{}
+3	release	_	Releasing	{"Theme": "7"}
+4	of	_		{}
+5	the	_		{}
+6	first	_	Ordinal_numbers	{"Item": "7"}
+7	novel	_	Text	{"Text": "7", "Title": "11"}
+8	,	_		{}
+9	"	_		{}
+10	Harry	_		{}
+11	Potter	_		{}
+12	and	_		{}
+13	the	_		{}
+14	Philosopher's	_		{}
+15	Stone	_		{}
+16	"	_		{}
+17	,	_		{}
+18	on	_		{}
+19	30	_	Cardinal_numbers	{"Number": "19"}
+20	June	_	Calendric_unit	{"Unit": "20"}
+21	1997	_	Cardinal_numbers	{"Number": "21"}
+22	,	_		{}
+23	the	_		{}
+24	books	_	Text	{"Text": "24"}
+25	have	_		{}
+26	gained	_	Getting	{"Theme": "28", "Recipient": "24", "Time": "1"}
+27	immense	_	Size	{"Entity": "28"}
+28	popularity	_		{}
+29	,	_		{}
+30	critical	_	Judgment	{"Evaluee": "24"}
+31	acclaim	_	Judgment	{"Extent_of_acclaim": "27", "Evaluee": "24"}
+32	,	_		{}
+33	and	_		{}
+34	commercial	_		{}
+35	success	_	Success_or_failure	{"Agent": "24", "Time": "1"}
+36	worldwide	_	Political_locales	{"Locale": "36"}
+37	.	_		{}

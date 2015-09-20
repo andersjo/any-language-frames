@@ -1,0 +1,19 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	Voight	_		{}
+4	(	_		{}
+5	født	_		{}
+6	4	_		{}
+7	.	_		{}
+8	juni	_	Calendric_unit	{"Relative_time": "9", "Whole": "6", "Unit": "8"}
+9	1975	_		{}
+10	)	_		{}
+11	er	_		{}
+12	en	_		{}
+13	amerikansk	_	People_by_origin	{"Origin": "13", "Person": "1"}
+14	skuespiller	_	Performers	{"Person": "1", "Ethnicity": "13"}
+15	,	_		{}
+16	filminstruktør	_	Behind_the_scenes	{"Nationality": "13", "Artist": "1"}
+17	og	_		{}
+18	manuskriptforfatter	_		{}
+19	.	_		{}

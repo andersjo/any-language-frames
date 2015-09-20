@@ -1,0 +1,8 @@
+1	Australia	_		{}
+2	issued	_	Creating	{"Created_entity": "7", "Creator": "1"}
+3	a	_	Cardinal_numbers	{"Number": "3", "Entity": "7"}
+4	100th	_	Part_whole	{}
+5	anniversary	_		{}
+6	commemorative	_		{}
+7	coin	_	Money	{"Money": "7", "Use": "6", "Type": "5", "Creator": "1"}
+8	.	_		{}

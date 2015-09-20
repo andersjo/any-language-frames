@@ -1,0 +1,17 @@
+1	Actuó	_		{}
+2	como	_		{}
+3	Jane	_		{}
+4	Smith	_		{}
+5	,	_		{}
+6	en	_		{}
+7	la	_		{}
+8	película	_	Physical_artworks	{"Type": "10", "Name": "14"}
+9	de	_		{}
+10	acción	_	Instance	{"Instance": "10", "Type": "8"}
+11	y	_		{}
+12	comedia	_	Text	{"Genre": "12", "Text": "14"}
+13	"	_		{}
+14	Sr.	_		{}
+15	y	_		{}
+16	Sra	_		{}
+17	.	_		{}

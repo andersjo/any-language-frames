@@ -1,0 +1,15 @@
+1	I	_		{}
+2	always	_	Frequency	{"Salient_entity": "1", "Event": "3"}
+3	end	_	Remainder	{"Original_owner": "1", "Remainder": "7", "Time": "2"}
+4	up	_	Direction	{"Path": "4"}
+5	with	_		{}
+6	an	_	Cardinal_numbers	{"Number": "6", "Entity": "7"}
+7	ocean	_	Natural_features	{"Locale": "7"}
+8	of	_		{}
+9	tears	_	Damaging	{}
+10	I	_		{}
+11	love	_	Experiencer_focus	{"Content": "13", "Experiencer": "10", "Degree": "15"}
+12	Harry	_		{}
+13	Potter	_		{}
+14	so	_	Degree	{"Gradable_attribute": "15"}
+15	much	_	Frequency	{"Salient_entity": "10", "Event": "11"}

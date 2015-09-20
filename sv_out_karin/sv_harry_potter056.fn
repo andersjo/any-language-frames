@@ -1,0 +1,20 @@
+1	2001	_		{}
+2	skrev	_		{}
+3	J.K.	_		{}
+4	Rowling	_		{}
+5	två	_	Cardinal_numbers	{"Number": "5", "Entity": "6"}
+6	böcker	_	Text	{"Text": "6", "Honoree": "14", "Author": "4"}
+7	till	_		{}
+8	förmån	_		{}
+9	för	_		{}
+10	Comic	_		{}
+11	relief	_		{}
+12	,	_		{}
+13	en	_	Cardinal_numbers	{"Number": "13", "Entity": "14"}
+14	välgörenhetsorganisation	_	Giving	{"Donor": "10", "Purpose": "14"}
+15	,	_		{}
+16	under	_		{}
+17	två	_	Cardinal_numbers	{"Number": "17", "Entity": "19"}
+18	olika	_	Diversity	{"Group": "19"}
+19	pseudonymer	_	Being_named	{"Type": "19", "Entity": "4"}
+20	.	_		{}

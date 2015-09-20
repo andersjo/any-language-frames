@@ -1,0 +1,15 @@
+1	Seit	_		{}
+2	seiner	_	Possession	{"Owner": "5", "Possession": "3"}
+3	Gründung	_	Intentionally_create	{"Created_entity": "5"}
+4	hat	_		{}
+5	Google	_		{}
+6	seinen	_	Possession	{"Possession": "7", "Owner": "5"}
+7	Umsatz	_	Earnings_and_losses	{"Earner": "5", "Earnings": "7"}
+8	und	_	Simultaneity	{"Profiled_event": "7", "Landmark_event": "9"}
+9	Gewinn	_	Earnings_and_losses	{"Earner": "5", "Earnings": "9"}
+10	deutlich	_	Obviousness	{"Phenomenon": "11"}
+11	gesteigert	_		{}
+12	,	_		{}
+13	siehe	_		{}
+14	Tabelle	_		{}
+15	.	_		{}

@@ -1,0 +1,12 @@
+1	Follow	_	Perception_active	{"Phenomenon": "4"}
+2	my	_		{}
+3	Google	_		{}
+4	Plus	_	Quantity	{}
+5	for	_		{}
+6	all	_		{}
+7	my	_		{}
+8	latest	_	Relative_time	{"Focal_participant": "9"}
+9	Blog	_		{}
+10	post	_	Sent_items	{"Descriptor": "9", "Sent_item": "10"}
+11	.	_		{}
+12	https://t.co/J2F4aiS7QE	_		{}

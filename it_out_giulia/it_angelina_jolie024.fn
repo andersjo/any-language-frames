@@ -1,0 +1,67 @@
+1	Angelina	_		{}
+2	Jolie	_		{}
+3	è	_		{}
+4	stata	_	Being_located	{"Theme": "1", "Location": "6", "Time": "27"}
+5	al	_		{}
+6	centro	_	Part_inner_outer	{}
+7	di	_		{}
+8	alcune	_	Quantity	{"Individuals": "9", "Quantity": "8"}
+9	controversie	_	Quarreling	{"Issue": "15", "Arguer2": "2"}
+10	a	_		{}
+11	proposito	_		{}
+12	del	_		{}
+13	suo	_		{}
+14	profondo	_	Dimension	{"Object": "15", "Dimension": "14"}
+15	legame	_	Social_connection	{"Individual1": "2", "Connection": "15", "Individual2": "18", "Degree": "14"}
+16	con	_		{}
+17	il	_		{}
+18	fratello	_	Kinship	{"Ego": "2", "Alter": "18"}
+19	:	_		{}
+20	sul	_		{}
+21	palco	_		{}
+22	della	_		{}
+23	notte	_	Calendric_unit	{"Name": "25"}
+24	degli	_		{}
+25	Oscar	_		{}
+26	del	_		{}
+27	2000	_		{}
+28	,	_		{}
+29	l'attrice	_		{}
+30	dichiarò	_		{}
+31	il	_		{}
+32	suo	_		{}
+33	profondo	_	Dimension	{"Object": "34", "Dimension": "33"}
+34	amore	_		{}
+35	per	_		{}
+36	il	_		{}
+37	fratello	_	Kinship	{"Ego": "2", "Alter": "37"}
+38	e	_		{}
+39	in	_		{}
+40	seguito	_	Relative_time	{"Focal_participant": "42", "Landmark_occasion": "23"}
+41	i	_		{}
+42	due	_	Personal_relationship	{"Partner_2": "37", "Partner_1": "1"}
+43	furono	_	Cause_to_perceive	{"Phenomenon": "45", "Actor": "42", "Entity": "47"}
+44	visti	_		{}
+45	scambiarsi	_		{}
+46	un	_		{}
+47	bacio	_		{}
+48	sulle	_		{}
+49	labbra	_	Observable_body_parts	{"Body_part": "49", "Possessor": "42"}
+50	,	_		{}
+51	alimentando	_		{}
+52	i	_		{}
+53	pettegolezzi	_	Chatting	{"Topic": "58"}
+54	su	_		{}
+55	un	_		{}
+56	loro	_		{}
+57	possibile	_	Likelihood	{"Hypothetical_event": "58"}
+58	rapporto	_	Relation	{"Entity1": "2", "Entity2": "37"}
+59	incestuoso	_		{}
+60	,	_		{}
+61	che	_		{}
+62	l'attrice	_		{}
+63	si	_		{}
+64	affrettò	_		{}
+65	a	_		{}
+66	negare	_	Agree_or_refuse_to_act	{"Proposed_action": "58", "Speaker": "2"}
+67	.	_		{}

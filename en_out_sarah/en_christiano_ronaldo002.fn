@@ -1,0 +1,20 @@
+1	By	_		{}
+2	the	_		{}
+3	age	_	Age	{"Age": "5", "Entity": "7"}
+4	of	_		{}
+5	22	_		{}
+6	,	_		{}
+7	Ronaldo	_		{}
+8	had	_		{}
+9	received	_	Receiving	{"Theme": "10", "Recipient": "7"}
+10	Ballon	_		{}
+11	d'Or	_		{}
+12	and	_	Simultaneity	{}
+13	FIFA	_		{}
+14	World	_	Locale	{"Locale": "14"}
+15	Player	_	Competition	{"Participant_1": "7", "Competition": "15"}
+16	of	_		{}
+17	the	_		{}
+18	Year	_	Calendric_unit	{"Whole": "18"}
+19	nominations	_		{}
+20	.	_		{}

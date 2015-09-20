@@ -1,0 +1,41 @@
+1	Im	_		{}
+2	Roadmovie	_		{}
+3	"	_		{}
+4	Nichts	_		{}
+5	als	_		{}
+6	Trouble	_		{}
+7	mit	_		{}
+8	den	_		{}
+9	Frauen	_	People	{"Person": "9"}
+10	"	_		{}
+11	(	_		{}
+12	1996	_		{}
+13	)	_		{}
+14	spielte	_	Performers_and_roles	{"Role": "17", "Performer": "15", "Type": "2"}
+15	sie	_		{}
+16	den	_		{}
+17	Teenager	_	People_by_age	{"Person": "19"}
+18	Eleanor	_		{}
+19	Rigby	_		{}
+20	,	_		{}
+21	der	_		{}
+22	sich	_		{}
+23	in	_		{}
+24	Danny	_		{}
+25	Aiello’s	_		{}
+26	Filmcharakter	_		{}
+27	verliebt	_	Personal_relationship	{"Partner_2": "26", "Partner_1": "17"}
+28	,	_		{}
+29	während	_		{}
+30	dieser	_		{}
+31	versucht	_	Attempt	{"Purpose": "40", "Agent": "30"}
+32	,	_		{}
+33	ihre	_		{}
+34	Mutter	_	Kinship	{"Ego": "33", "Alter": "34"}
+35	(	_		{}
+36	Anne	_		{}
+37	Archer	_		{}
+38	)	_		{}
+39	zu	_		{}
+40	erobern	_		{}
+41	.	_		{}

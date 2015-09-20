@@ -1,0 +1,24 @@
+1	@DanielaBayona_	_		{}
+2	“	_		{}
+3	@classland	_		{}
+4	:	_		{}
+5	Tú	_		{}
+6	.	_		{}
+7	Yo	_	Proper_reference	{"Intended_referent": "7", "Entity": "7"}
+8	.	_		{}
+9	Noche	_	Calendric_unit	{"Relative_time": "11", "Whole": "9"}
+10	de	_		{}
+11	Reyes	_		{}
+12	.	_		{}
+13	Maratón	_		{}
+14	de	_		{}
+15	Harry	_		{}
+16	Potter	_		{}
+17	.	_		{}
+18	¿Te	_		{}
+19	lo	_		{}
+20	tienes	_		{}
+21	que	_		{}
+22	pensar	_	Assessing	{"Feature": "12", "Assessor": "5", "Phenomenon": "9"}
+23	?	_		{}
+24	”	_		{}

@@ -1,0 +1,49 @@
+1	Wenger	_		{}
+2	,	_		{}
+3	who	_		{}
+4	was	_		{}
+5	interested	_	Mental_stimulus_exp_focus	{"Stimulus": "7", "Experiencer": "1"}
+6	in	_		{}
+7	signing	_	Hiring	{"Employee": "9", "Employer": "1"}
+8	the	_		{}
+9	midfielder	_	Defend	{"Defender": "9"}
+10	,	_		{}
+11	had	_		{}
+12	arranged	_	Arranging	{"Theme": "14", "Agent": "1"}
+13	to	_		{}
+14	meet	_	Come_together	{"Party_2": "15", "Party_1": "1"}
+15	Ronaldo's	_		{}
+16	representatives	_	Leadership	{"Leader": "15", "Governed": "16"}
+17	,	_		{}
+18	Formation	_	Organization	{"Name": "18", "Members": "15"}
+19	(	_		{}
+20	who	_		{}
+21	suggested	_	Communication	{"Topic": "23", "Communicator": "20"}
+22	the	_		{}
+23	player	_		{}
+24	originally	_		{}
+25	to	_		{}
+26	Gérard	_		{}
+27	Houllier	_		{}
+28	,	_		{}
+29	then	_		{}
+30	Liverpool's	_		{}
+31	manager	_	People_by_vocation	{"Person": "31"}
+32	and	_		{}
+33	Joan	_		{}
+34	Laporta	_		{}
+35	,	_		{}
+36	then	_		{}
+37	Barcelona's	_		{}
+38	president	_	Leadership	{"Role": "38", "Leader": "33", "Governed": "37"}
+39	)	_		{}
+40	in	_		{}
+41	the	_		{}
+42	subsequent	_	Relative_time	{}
+43	months	_	Calendric_unit	{"Unit": "43"}
+44	to	_		{}
+45	discuss	_	Discussion	{"Topic": "47", "Interlocutor_2": "26", "Interlocutor_1": "20"}
+46	a	_	Cardinal_numbers	{"Number": "46", "Entity": "47"}
+47	transfer	_	Exchange	{}
+48	arrangement	_	Arranging	{}
+49	.	_		{}

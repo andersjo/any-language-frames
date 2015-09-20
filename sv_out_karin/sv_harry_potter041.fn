@@ -1,0 +1,34 @@
+1	Därför	_		{}
+2	förkortade	_		{}
+3	hon	_		{}
+4	sitt	_		{}
+5	förnamn	_	Being_named	{"Name": "7", "Entity": "3"}
+6	,	_		{}
+7	Joanne	_		{}
+8	,	_		{}
+9	och	_		{}
+10	eftersom	_		{}
+11	hon	_		{}
+12	inte	_		{}
+13	har	_	Possession	{"Owner": "29", "Possession": "15"}
+14	något	_		{}
+15	mellannamn	_	Being_named	{"Name_source": "21", "Name": "24", "Entity": "29"}
+16	,	_		{}
+17	lade	_		{}
+18	hon	_		{}
+19	till	_		{}
+20	sin	_		{}
+21	farmors	_		{}
+22	namn	_	Being_named	{"Name": "24", "Entity": "21"}
+23	,	_		{}
+24	Kathleen	_		{}
+25	,	_		{}
+26	och	_		{}
+27	fick	_		{}
+28	J.K.	_		{}
+29	Rowling	_		{}
+30	,	_		{}
+31	en	_	Cardinal_numbers	{"Number": "31", "Entity": "33"}
+32	acceptabel	_		{}
+33	kompromiss	_		{}
+34	.	_		{}

@@ -1,0 +1,30 @@
+1	Som	_		{}
+2	barn	_	People_by_age	{"Person": "4"}
+3	såg	_		{}
+4	Jolie	_		{}
+5	filmer	_	Physical_artworks	{"Artifact": "5"}
+6	regelbundet	_	Frequency	{"Event": "3"}
+7	tillsammans	_	Collaboration	{"Undertaking": "3", "Partner_2": "10", "Partner_1": "4"}
+8	med	_		{}
+9	sin	_		{}
+10	mamma	_	Kinship	{"Ego": "10", "Alter": "4"}
+11	och	_	Simultaneity	{"Profiled_event": "3", "Landmark_event": "14"}
+12	har	_		{}
+13	senare	_		{}
+14	förklarat	_		{}
+15	att	_		{}
+16	detta	_		{}
+17	inspirerade	_		{}
+18	henne	_		{}
+19	att	_		{}
+20	bli	_	Becoming	{"Entity": "4"}
+21	skådespelare	_	Performers	{"Person": "4"}
+22	;	_		{}
+23	hon	_		{}
+24	hade	_		{}
+25	inte	_	Success_or_failure	{"Agent": "29"}
+26	påverkats	_		{}
+27	av	_		{}
+28	sin	_		{}
+29	far	_	Kinship	{"Ego": "29", "Alter": "4"}
+30	.	_		{}

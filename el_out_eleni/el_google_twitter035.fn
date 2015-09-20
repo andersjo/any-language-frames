@@ -1,0 +1,16 @@
+1	Ο	_		{}
+2	τέως	_		{}
+3	πρόεδρος	_	Leadership	{"Leader": "3"}
+4	είχε	_		{}
+5	δίκαιο	_	Legality	{"Action": "8", "Object": "11"}
+6	σε	_		{}
+7	2	_	Cardinal_numbers	{"Number": "7", "Entity": "8"}
+8	πράγματα	_	Text	{"Text": "8"}
+9	,	_		{}
+10	την	_		{}
+11	οικονομία	_	Economy	{"Economy": "11"}
+12	και	_		{}
+13	ασφάλεια	_	Being_at_risk	{"Asset": "13"}
+14	#Cyprus	_		{}
+15	…	_		{}
+16	https://t.co/uUmBHAwxFY	_		{}

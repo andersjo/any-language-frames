@@ -1,0 +1,27 @@
+1	Également	_		{}
+2	,	_		{}
+3	10gogol	_		{}
+4	(	_		{}
+5	un	_		{}
+6	chiffre	_		{}
+7	1	_	Cardinal_numbers	{"Number": "7"}
+8	suivi	_		{}
+9	d'un	_		{}
+10	gogol	_		{}
+11	de	_		{}
+12	zéros	_	Cardinal_numbers	{"Number": "12"}
+13	)	_		{}
+14	s'appelle	_		{}
+15	un	_		{}
+16	gogolplex	_		{}
+17	,	_		{}
+18	dont	_		{}
+19	vient	_		{}
+20	le	_		{}
+21	nom	_	Being_named	{"Name": "16", "Entity": "23"}
+22	du	_		{}
+23	Quartier	_	Locale_by_use	{"Locale": "23"}
+24	général	_		{}
+25	de	_		{}
+26	Google	_		{}
+27	.	_		{}

@@ -1,0 +1,31 @@
+1	Mine	_		{}
+2	#fredagsbog	_		{}
+3	-tanker	_		{}
+4	er	_		{}
+5	endt	_		{}
+6	med	_		{}
+7	,	_		{}
+8	at	_		{}
+9	jeg	_		{}
+10	er	_		{}
+11	startet	_		{}
+12	forfra	_		{}
+13	på	_		{}
+14	Harry	_		{}
+15	Potter	_		{}
+16	(	_		{}
+17	nået	_		{}
+18	til	_		{}
+19	bog	_	Text	{"Text": "19", "Title": "14"}
+20	3	_	Cardinal_numbers	{"Number": "20", "Entity": "19"}
+21	)	_		{}
+22	.	_		{}
+23	Nu	_		{}
+24	et	_		{}
+25	dejligt	_		{}
+26	univers	_	Existence	{"State": "25", "Entity": "26"}
+27	at	_		{}
+28	vende	_	Change_direction	{"Direction": "26"}
+29	tilbage	_		{}
+30	til	_		{}
+31	.	_		{}

@@ -1,0 +1,17 @@
+1	Filmene	_		{}
+2	bærer	_		{}
+3	samme	_	Identicality	{"Set_of_instances": "1", "Type": "4"}
+4	navn	_	Being_named	{"Entity": "1"}
+5	som	_		{}
+6	bøgerne	_		{}
+7	omend	_		{}
+8	den	_		{}
+9	sidste	_	Ordinal_numbers	{"Item": "10", "Basis_of_order": "9"}
+10	bog	_		{}
+11	er	_		{}
+12	delt	_		{}
+13	op	_		{}
+14	i	_		{}
+15	to	_	Cardinal_numbers	{"Number": "15", "Entity": "16"}
+16	film	_	Physical_artworks	{"Artifact": "16"}
+17	.	_		{}

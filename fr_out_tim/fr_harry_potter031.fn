@@ -1,0 +1,64 @@
+1	De	_		{}
+2	plus	_		{}
+3	,	_		{}
+4	la	_		{}
+5	série	_	Sequence	{}
+6	comporte	_	Inclusion	{"Total": "5", "Part": "9"}
+7	de	_		{}
+8	nombreuses	_	Quantity	{"Individuals": "9", "Quantity": "8"}
+9	références	_		{}
+10	à	_		{}
+11	des	_		{}
+12	événements	_	Event	{"Time": "13"}
+13	passés	_		{}
+14	,	_		{}
+15	datés	_		{}
+16	avec	_		{}
+17	plus	_		{}
+18	ou	_		{}
+19	moins	_		{}
+20	de	_		{}
+21	précision	_	Accuracy	{"Degree": "17"}
+22	,	_		{}
+23	issus	_		{}
+24	du	_		{}
+25	passé	_	Individual_history	{"Participant": "27", "Events": "12"}
+26	des	_		{}
+27	personnages	_	People	{"Person": "27"}
+28	,	_		{}
+29	voire	_		{}
+30	issus	_		{}
+31	de	_		{}
+32	l'histoire	_		{}
+33	du	_		{}
+34	monde	_	Locale	{"Locale": "34"}
+35	magique	_		{}
+36	:	_		{}
+37	toutes	_	Quantity	{"Individuals": "39", "Quantity": "37"}
+38	ces	_		{}
+39	informations	_	Information	{"Topic": "9"}
+40	donnent	_	Giving	{"Donor": "39", "Theme": "42", "Recipient": "44"}
+41	du	_		{}
+42	relief	_		{}
+43	à	_		{}
+44	l'univers	_		{}
+45	créé	_		{}
+46	par	_		{}
+47	Rowling	_		{}
+48	,	_		{}
+49	un	_		{}
+50	univers	_		{}
+51	à	_		{}
+52	la	_		{}
+53	fois	_		{}
+54	ancré	_		{}
+55	dans	_		{}
+56	le	_		{}
+57	monde	_	Locale	{"Locale": "57"}
+58	réel	_	Artificiality	{"Entity": "57"}
+59	et	_		{}
+60	avec	_		{}
+61	son	_		{}
+62	histoire	_	History	{"Topic": "50"}
+63	propre	_	Proper_reference	{"Intended_referent": "62", "Entity": "62"}
+64	.	_		{}

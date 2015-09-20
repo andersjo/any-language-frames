@@ -1,0 +1,26 @@
+1	La	_		{}
+2	squadra	_	Aggregate	{"Aggregate": "2"}
+3	inglese	_	People_by_origin	{"Origin": "3"}
+4	perde	_	Success_or_failure	{"Agent": "2"}
+5	l'incontro	_		{}
+6	per	_		{}
+7	2-0	_		{}
+8	anche	_		{}
+9	per	_		{}
+10	merito	_		{}
+11	del	_		{}
+12	giovane	_	People_by_age	{"Origin": "14", "Person": "13"}
+13	talento	_		{}
+14	portoghese	_	Origin	{"Origin": "14", "Entity": "13"}
+15	,	_		{}
+16	che	_		{}
+17	diviene	_	Becoming	{"Entity": "13"}
+18	così	_		{}
+19	un	_		{}
+20	obiettivo	_	Aiming	{"Targeted": "13", "Agent": "24"}
+21	di	_		{}
+22	calciomercato	_		{}
+23	del	_		{}
+24	club	_	Organization	{"Organization": "24"}
+25	inglese	_		{}
+26	.	_		{}

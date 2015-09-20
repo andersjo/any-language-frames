@@ -1,0 +1,10 @@
+1	Christiano	_		{}
+2	Ronaldo	_		{}
+3	has	_	Have_associated	{"Entity": "5", "Topical_entity": "2", "Time": "10"}
+4	11	_		{}
+5	goals	_	Aiming	{"Targeted": "5"}
+6	from	_		{}
+7	penalty	_	Rewards_and_punishments	{"Evaluee": "8"}
+8	kicks	_	Cause_harm	{}
+9	this	_		{}
+10	season	_	Sequence	{"Entity1": "10"}

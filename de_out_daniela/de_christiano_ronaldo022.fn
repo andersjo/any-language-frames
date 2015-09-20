@@ -1,0 +1,10 @@
+1	Sein	_		{}
+2	erster	_	Version_sequence	{"Item": "3"}
+3	Verein	_	Organization	{"Organization": "7", "Members": "1"}
+4	war	_		{}
+5	aber	_	Concessive	{"Topic": "3", "Statement": "7"}
+6	der	_		{}
+7	Amateurklub	_		{}
+8	CF	_		{}
+9	Andorinha	_		{}
+10	.	_		{}

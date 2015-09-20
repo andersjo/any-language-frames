@@ -1,0 +1,24 @@
+1	As	_		{}
+2	Harry	_		{}
+3	begins	_	Activity_start	{"Agent": "2", "Activity": "5"}
+4	to	_		{}
+5	explore	_	Research	{"Topic": "8", "Researcher": "2"}
+6	the	_		{}
+7	magical	_	Ineffability	{"Stimulus": "8"}
+8	world	_	Locale	{"Locale": "8"}
+9	,	_		{}
+10	the	_		{}
+11	reader	_	Reading	{"Reader": "11"}
+12	is	_		{}
+13	introduced	_	Cause_to_perceive	{"Perceiver": "11", "Entity": "19"}
+14	to	_		{}
+15	many	_	Quantity	{"Individuals": "19", "Quantity": "15"}
+16	of	_		{}
+17	the	_		{}
+18	primary	_	First_rank	{"Item": "19"}
+19	locations	_	Locale	{"Locale": "19"}
+20	used	_	Using	{"Instrument": "19", "Time": "21"}
+21	throughout	_		{}
+22	the	_		{}
+23	series	_	Sequence	{"Entity1": "23"}
+24	.	_		{}

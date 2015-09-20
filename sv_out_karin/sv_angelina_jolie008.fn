@@ -1,0 +1,34 @@
+1	Hennes	_		{}
+2	första	_	Ordinal_numbers	{"Comparison_set": "3"}
+3	huvudroll	_		{}
+4	var	_		{}
+5	i	_	Being_employed	{"Employee": "1", "Position": "3", "Task": "3"}
+6	"	_		{}
+7	Hackers	_		{}
+8	"	_		{}
+9	(	_		{}
+10	1995	_		{}
+11	)	_		{}
+12	,	_		{}
+13	som	_		{}
+14	följdes	_		{}
+15	av	_		{}
+16	kritikerrosade	_		{}
+17	framträdanden	_		{}
+18	i	_		{}
+19	tv-filmerna	_		{}
+20	"	_		{}
+21	George	_		{}
+22	Wallace	_		{}
+23	"	_		{}
+24	(	_		{}
+25	1997	_		{}
+26	)	_		{}
+27	och	_	Simultaneity	{"Profiled_event": "22", "Landmark_event": "29"}
+28	"	_		{}
+29	Gia	_		{}
+30	"	_		{}
+31	(	_		{}
+32	1998	_		{}
+33	)	_		{}
+34	.	_		{}

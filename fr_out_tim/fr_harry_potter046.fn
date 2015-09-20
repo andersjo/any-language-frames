@@ -1,0 +1,28 @@
+1	Les	_		{}
+2	universitaires	_		{}
+3	et	_		{}
+4	journalistes	_	People_by_vocation	{"Person": "4"}
+5	abordent	_	Speak_on_topic	{"Topic": "15", "Speaker": "2"}
+6	dans	_		{}
+7	leurs	_		{}
+8	interprétations	_		{}
+9	du	_		{}
+10	texte	_	Text	{"Text": "10"}
+11	le	_		{}
+12	thème	_	Topic	{"Topic": "15", "Communicator": "2", "Text": "10"}
+13	de	_		{}
+14	la	_		{}
+15	normalité	_		{}
+16	,	_		{}
+17	de	_		{}
+18	l'oppression	_		{}
+19	,	_		{}
+20	de	_		{}
+21	la	_		{}
+22	survie	_	Surviving	{}
+23	,	_		{}
+24	et	_		{}
+25	de	_		{}
+26	la	_		{}
+27	différence	_	Diversity	{}
+28	.	_		{}
