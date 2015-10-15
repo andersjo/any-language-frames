@@ -1,0 +1,20 @@
+1	She	_	PRON	PRON	_	2	nsubj
+2	began	_	VERB	VERB	_	9	parataxis
+3	working	_	VERB	VERB	_	2	xcomp
+4	as	_	ADP	ADP	_	3	compound:prt
+5	a	_	DET	DET	_	7	det
+6	fashion	_	NOUN	NOUN	_	7	compound
+7	model	_	NOUN	NOUN	_	3	dobj
+8	,	_	PUNCT	PUNCT	_	2	punct
+9	mainly	_	ADV	ADV	_	10	advmod
+10	in	_	ADP	ADP	_	0	compound:prt
+11	Los	_	PROPN	PROPN	_	12	compound
+12	Angeles	_	PROPN	PROPN	_	7	appos
+13	,	_	PUNCT	PUNCT	_	12	punct
+14	New	_	PROPN	PROPN	_	15	compound
+15	York	_	PROPN	PROPN	_	12	conj
+16	,	_	PUNCT	PUNCT	_	2	punct
+17	and	_	CONJ	CONJ	_	12	cc
+18	London	_	PROPN	PROPN	_	12	conj
+19	.	_	PUNCT	PUNCT	_	2	punct
+

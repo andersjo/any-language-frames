@@ -1,0 +1,13 @@
+1	#AngelinaJolie	_	NOUN	NOUN	_	2	name
+2	#Fans	_	PROPN	PROPN	_	4	nmod:poss
+3	Angelina	_	PROPN	PROPN	_	2	name
+4	Jolie	_	NOUN	NOUN	_	9	name
+5	SIGNED	_	PROPN	PROPN	_	4	appos
+6	Salt	_	PROPN	PROPN	_	5	name
+7	AUTOGRAPHED	_	NOUN	NOUN	_	5	dep
+8	8x10	_	X	X	_	9	name
+9	Photo	_	PROPN	PROPN	_	12	nmod:poss
+10	http://t.co/I917xHqjJF	_	PROPN	PROPN	_	9	name
+11	#Collectibles	_	ADJ	ADJ	_	12	amod
+12	#Sale	_	NOUN	NOUN	_	0	root
+

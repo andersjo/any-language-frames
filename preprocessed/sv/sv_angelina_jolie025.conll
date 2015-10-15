@@ -1,0 +1,19 @@
+1	Några	_	DET	DET	_	2	det
+2	år	_	NOUN	NOUN	_	4	nmod
+3	senare	_	ADV	ADV	_	4	advmod
+4	återvände	_	VERB	VERB	_	0	root
+5	hon	_	PRON	PRON	_	4	dobj
+6	till	_	ADP	ADP	_	7	case
+7	teaterskolan	_	NOUN	NOUN	_	4	nmod
+8	och	_	CONJ	CONJ	_	4	cc
+9	tog	_	VERB	VERB	_	4	conj
+10	examen	_	NOUN	NOUN	_	9	dobj
+11	från	_	ADP	ADP	_	13	case
+12	High	_	ADJ	ADJ	_	13	amod
+13	School	_	NOUN	NOUN	_	9	nmod
+14	ett	_	DET	DET	_	15	det
+15	år	_	NOUN	NOUN	_	9	nmod
+16	i	_	ADP	ADP	_	17	case
+17	förtid	_	NOUN	NOUN	_	9	nmod
+18	.	_	PUNCT	PUNCT	_	4	punct
+

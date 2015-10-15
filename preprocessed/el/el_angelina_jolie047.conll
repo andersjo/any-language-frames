@@ -1,0 +1,18 @@
+1	Ένα	_	NUM	NUM	_	0	root
+2	από	_	ADP	ADP	_	3	case
+3	χωριό	_	NOUN	NOUN	_	1	nmod
+4	της	_	ADJ	ADJ	_	5	det
+5	Πνομ	_	NOUN	NOUN	_	3	nmod
+6	Πεν	_	NOUN	NOUN	_	5	nmod
+7	,	_	PUNCT	PUNCT	_	8	punct
+8	ένα	_	ADJ	ADJ	_	11	det
+9	από	_	ADP	ADP	_	11	case
+10	την	_	ADJ	ADJ	_	11	det
+11	Αιθιοπία	_	NOUN	NOUN	_	3	nmod
+12	και	_	CONJ	CONJ	_	11	cc
+13	ένα	_	ADJ	ADJ	_	16	det
+14	από	_	ADP	ADP	_	16	case
+15	το	_	ADJ	ADJ	_	16	det
+16	Βιετνάμ	_	NOUN	NOUN	_	8	nmod
+17	.	_	PUNCT	PUNCT	_	8	punct
+

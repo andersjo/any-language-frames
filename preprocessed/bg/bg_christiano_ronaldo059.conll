@@ -1,0 +1,21 @@
+1	2Други	_	ADJ	ADJ	_	2	amod
+2	турнири	_	NOUN	NOUN	_	3	nsubj
+3	включват	_	VERB	VERB	_	0	root
+4	Къмюнити	_	PROPN	PROPN	_	3	nsubj
+5	Шийлд	_	PROPN	PROPN	_	4	name
+6	,	_	PUNCT	PUNCT	_	7	punct
+7	Суперкупа	_	NOUN	NOUN	_	4	nmod
+8	на	_	ADP	ADP	_	9	case
+9	Испания	_	PROPN	PROPN	_	7	nmod
+10	,	_	PUNCT	PUNCT	_	11	punct
+11	Суперкупа	_	NOUN	NOUN	_	7	nmod
+12	на	_	ADP	ADP	_	13	case
+13	Европа	_	PROPN	PROPN	_	11	nmod
+14	и	_	CONJ	CONJ	_	3	cc
+15	Световно	_	VERB	VERB	_	3	conj
+16	клубно	_	ADJ	ADJ	_	17	amod
+17	първенство	_	NOUN	NOUN	_	15	dobj
+18	<	_	PUNCT	PUNCT	_	19	punct
+19	br	_	PROPN	PROPN	_	17	nmod
+20	>	_	PUNCT	PUNCT	_	3	punct
+

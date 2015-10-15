@@ -1,0 +1,244 @@
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1945	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+twenty	_	Cardinal_numbers
+-	_	
+seven	_	Cardinal_numbers
+-	_	
+year	_	Calendric_unit Measure_duration
+-	_	
+old	_	Age
+Anwar	_	
+al-Sadat	_	
+and	_	
+his	_	
+friends	_	Personal_relationship
+decided	_	Choosing Deciding
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+assassinate	_	Killing
+the	_	Self_motion Temporal_collocation
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+-	_	
+and	_	
+-	_	
+off	_	Accuracy Being_in_operation Locative_relation
+prime	_	
+minister	_	Leadership
+of	_	Age Domain Origin Partitive
+Egypt	_	
+,	_	
+Nahhas	_	
+Pasha	_	Leadership
+.	_	
+
+Religious	_	
+decrees	_	
+were	_	Existence
+used	_	Using
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+justify	_	Arranging Deserving Justifying
+the	_	Self_motion Temporal_collocation
+assassination	_	Killing
+of	_	Age Domain Origin Partitive
+Egyptian	_	Origin
+president	_	Leadership
+Anwar	_	
+Sadat	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Islambouli	_	
+Brigades	_	
+is	_	Existence
+named	_	Appointing Being_named Name_conferral
+after	_	Relative_time Time_vector
+Lt	_	
+.	_	
+Khaled	_	
+Islambouli	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+leader	_	First_rank Leadership
+of	_	Age Domain Origin Partitive
+a	_	Measure_duration Process_end Quantity
+group	_	Aggregate Organization
+of	_	Age Domain Origin Partitive
+militant	_	
+Islamists	_	
+who	_	
+assassinated	_	Killing
+Sadat	_	
+during	_	Temporal_collocation
+a	_	Measure_duration Process_end Quantity
+1981	_	
+military	_	Military
+parade	_	Mass_motion Self_motion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Cairo	_	
+.	_	
+
+Islambouli	_	
+and	_	
+four	_	Cardinal_numbers
+associates	_	Collaboration
+were	_	Existence
+captured	_	Conquering
+and	_	
+executed	_	Execution
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+plot	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+kill	_	Killing
+Sadat	_	
+,	_	
+which	_	
+was	_	Existence
+carried	_	Intentionally_act
+out	_	Departing Expected_location_of_person Intentionally_act Locative_relation Sleep Surviving
+by	_	Locative_relation Means
+Egyptian	_	Origin
+Islamic	_	
+Jihad	_	
+and	_	
+another	_	Increment
+Egyptian	_	Origin
+militant	_	
+group	_	Aggregate Organization
+,	_	
+al-Gamaa	_	
+al-Islamiyya	_	
+.	_	
+
+When	_	Temporal_collocation
+did	_	Intentionally_act
+Khaled	_	
+Islambouli	_	
+die	_	Death
+?	_	
+
+Islambouli	_	
+,	_	
+an	_	Cause_to_end Process_end Quantity
+Egyptian	_	Origin
+military	_	Military
+officer	_	Appellations Attention_getting Leadership People_by_vocation
+and	_	
+member	_	Membership Observable_body_parts
+of	_	Age Domain Origin Partitive
+Al-Jihad	_	
+Organization	_	Organization
+,	_	
+assassinated	_	Killing
+President	_	Leadership
+Anwar	_	
+Sadat	_	
+during	_	Temporal_collocation
+a	_	Measure_duration Process_end Quantity
+military	_	Military
+parade	_	Mass_motion Self_motion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Cairo	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+October	_	Calendric_unit
+1981	_	
+for	_	Causation Taking_sides
+signing	_	Sign_agreement Text_creation
+a	_	Measure_duration Process_end Quantity
+peace	_	
+treaty	_	Be_in_agreement_on_action Documents Make_agreement_on_action
+with	_	Accompaniment
+Israel	_	
+.	_	
+
+Lt	_	
+.	_	
+Khaled	_	
+Islambouli	_	
+was	_	Existence
+the	_	Self_motion Temporal_collocation
+leader	_	First_rank Leadership
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+group	_	Aggregate Organization
+of	_	Age Domain Origin Partitive
+soldiers	_	People_by_vocation
+who	_	
+assassinated	_	Killing
+Egyptian	_	Origin
+President	_	Leadership
+Anwar	_	
+Sadat	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Cairo	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1981	_	
+.	_	
+
+Lieutenant	_	
+Khaled	_	
+Islambouli	_	
+was	_	Existence
+the	_	Self_motion Temporal_collocation
+leader	_	First_rank Leadership
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+group	_	Aggregate Organization
+of	_	Age Domain Origin Partitive
+soldiers	_	People_by_vocation
+who	_	
+assassinated	_	Killing
+Egyptian	_	Origin
+President	_	Leadership
+Anwar	_	
+Sadat	_	
+during	_	Temporal_collocation
+a	_	Measure_duration Process_end Quantity
+military	_	Military
+parade	_	Mass_motion Self_motion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Cairo	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1981	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+group	_	Aggregate Organization
+'s	_	Existence Required_event
+late	_	Relative_time Temporal_subregion
+,	_	
+eponymous	_	Namesake
+leader	_	First_rank Leadership
+,	_	
+Lt	_	
+.	_	
+Khaled	_	
+Islambouli	_	
+,	_	
+killed	_	Killing
+Egyptian	_	Origin
+President	_	Leadership
+Anwar	_	
+Sadat	_	
+during	_	Temporal_collocation
+a	_	Measure_duration Process_end Quantity
+military	_	Military
+parade	_	Mass_motion Self_motion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Cairo	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1981	_	
+.	_	
+
+He	_	
+was	_	Existence
+executed	_	Execution
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+crime	_	Committing_crime
+a	_	Measure_duration Process_end Quantity
+year	_	Calendric_unit Measure_duration
+later	_	Relative_time Temporal_subregion Time_vector
+.	_	
+

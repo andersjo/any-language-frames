@@ -1,0 +1,10 @@
+1	CM	_	NOUN	NOUN	_	4	compound
+2	Battery	_	PROPN	PROPN	_	4	compound
+3	-	_	PUNCT	PUNCT	_	4	punct
+4	Android	_	NOUN	NOUN	_	5	compound
+5	Apps	_	NOUN	NOUN	_	8	nsubj
+6	on	_	ADP	ADP	_	8	mark
+7	Google	_	PROPN	PROPN	_	8	nsubj
+8	Play	_	VERB	VERB	_	0	root
+9	http://t.co/YXPt4eieQ1	_	X	X	_	8	dobj
+

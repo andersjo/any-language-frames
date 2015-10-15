@@ -1,0 +1,19 @@
+1	Contaban	_	VERB	VERB	_	0	root
+2	con	_	ADP	ADP	_	4	case
+3	un	_	DET	DET	_	4	det
+4	armario	_	NOUN	NOUN	_	1	nmod
+5	lleno	_	ADJ	ADJ	_	4	amod
+6	de	_	ADP	ADP	_	7	case
+7	servidores	_	NOUN	NOUN	_	4	nmod
+8	(	_	PUNCT	PUNCT	_	11	punct
+9	unos	_	DET	DET	_	10	advmod
+10	80	_	NUM	NUM	_	11	nummod
+11	procesadores	_	NOUN	NOUN	_	4	nmod
+12	)	_	PUNCT	PUNCT	_	11	punct
+13	,	_	PUNCT	PUNCT	_	4	punct
+14	y	_	CONJ	CONJ	_	11	cc
+15	dos	_	NUM	NUM	_	16	nummod
+16	routers	_	PROPN	PROPN	_	17	name
+17	HP	_	PROPN	PROPN	_	4	appos
+18	.	_	PUNCT	PUNCT	_	1	punct
+

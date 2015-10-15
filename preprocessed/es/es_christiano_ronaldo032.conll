@@ -1,0 +1,21 @@
+1	Antes	_	ADV	ADV	_	2	mwe
+2	de	_	ADP	ADP	_	5	case
+3	su	_	DET	DET	_	5	nmod:poss
+4	primera	_	NUM	NUM	_	5	nummod
+5	temporada	_	NOUN	NOUN	_	8	nmod
+6	el	_	DET	DET	_	7	det
+7	equipo	_	NOUN	NOUN	_	8	nsubj
+8	ganó	_	VERB	VERB	_	0	root
+9	la	_	DET	DET	_	11	det
+10	la	_	DET	DET	_	11	det
+11	Liga	_	NOUN	NOUN	_	8	dobj
+12	,	_	PUNCT	PUNCT	_	8	punct
+13	la	_	DET	DET	_	14	det
+14	Copa	_	PROPN	PROPN	_	8	dobj
+15	de	_	ADP	ADP	_	16	case
+16	Portugal	_	PROPN	PROPN	_	14	nmod
+17	y	_	CONJ	CONJ	_	14	cc
+18	la	_	DET	DET	_	19	det
+19	Supercopa	_	NOUN	NOUN	_	11	conj
+20	.	_	PUNCT	PUNCT	_	8	punct
+

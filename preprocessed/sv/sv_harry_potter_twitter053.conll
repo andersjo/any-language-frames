@@ -1,0 +1,17 @@
+1	Ett	_	DET	DET	_	2	det
+2	glas	_	NOUN	NOUN	_	3	det
+3	vin	_	NOUN	NOUN	_	6	nmod
+4	och	_	CONJ	CONJ	_	3	cc
+5	jag	_	PRON	PRON	_	6	nsubj
+6	härmar	_	VERB	VERB	_	0	root
+7	redan	_	ADV	ADV	_	6	advmod
+8	alla	_	DET	DET	_	9	det
+9	repliker	_	NOUN	NOUN	_	6	dobj
+10	i	_	ADP	ADP	_	12	case
+11	Harry	_	PROPN	PROPN	_	9	nmod
+12	Potter-filmen	_	NOUN	NOUN	_	9	nmod
+13	med	_	ADP	ADP	_	15	case
+14	skojig	_	ADJ	ADJ	_	15	amod
+15	dialekt	_	NOUN	NOUN	_	12	nmod
+16	.	_	PUNCT	PUNCT	_	6	punct
+

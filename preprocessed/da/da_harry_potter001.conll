@@ -1,0 +1,19 @@
+1	Harry	_	ADJ	ADJ	_	2	amod
+2	Potter	_	NOUN	NOUN	_	4	nsubj
+3	er	_	AUX	AUX	_	4	cop
+4	titlen	_	NOUN	NOUN	_	11	nsubj
+5	på	_	ADP	ADP	_	7	case
+6	en	_	DET	DET	_	7	det
+7	serie	_	NOUN	NOUN	_	4	nmod
+8	af	_	ADP	ADP	_	10	case
+9	syv	_	NUM	NUM	_	10	nummod
+10	bøger	_	NOUN	NOUN	_	7	nmod
+11	skrevet	_	VERB	VERB	_	0	root
+12	af	_	ADP	ADP	_	17	case
+13	den	_	DET	DET	_	15	det
+14	engelske	_	ADJ	ADJ	_	15	amod
+15	forfatter	_	NOUN	NOUN	_	11	nmod
+16	J.K.	_	NOUN	NOUN	_	15	nmod
+17	Rowling	_	NOUN	NOUN	_	16	nmod
+18	.	_	PUNCT	PUNCT	_	11	punct
+

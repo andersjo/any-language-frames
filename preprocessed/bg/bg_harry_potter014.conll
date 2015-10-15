@@ -1,0 +1,21 @@
+1	Във	_	ADP	ADP	_	2	case
+2	филма	_	NOUN	NOUN	_	3	iobj
+3	участва	_	VERB	VERB	_	0	root
+4	и	_	CONJ	CONJ	_	5	cc
+5	българинът	_	NOUN	NOUN	_	3	nsubj
+6	Станислав	_	PROPN	PROPN	_	5	nmod
+7	Яневски	_	PROPN	PROPN	_	6	name
+8	,	_	PUNCT	PUNCT	_	10	punct
+9	който	_	PRON	PRON	_	10	nsubj
+10	играе	_	VERB	VERB	_	5	acl
+11	ролята	_	NOUN	NOUN	_	10	dobj
+12	на	_	ADP	ADP	_	13	case
+13	Виктор	_	PROPN	PROPN	_	11	nmod
+14	Крум	_	PROPN	PROPN	_	13	name
+15	от	_	ADP	ADP	_	17	case
+16	българския	_	ADJ	ADJ	_	17	amod
+17	отбор	_	NOUN	NOUN	_	11	nmod
+18	по	_	ADP	ADP	_	19	case
+19	Куидич	_	NOUN	NOUN	_	17	nmod
+20	.	_	PUNCT	PUNCT	_	3	punct
+

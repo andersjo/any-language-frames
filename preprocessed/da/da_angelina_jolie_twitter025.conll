@@ -1,0 +1,15 @@
+1	Set	_	VERB	VERB	_	0	root
+2	de	_	DET	DET	_	3	det
+3	fotos	_	NOUN	NOUN	_	1	dobj
+4	:	_	PUNCT	PUNCT	_	1	punct
+5	angelinajoliearchive	_	NOUN	NOUN	_	3	dep
+6	:	_	PUNCT	PUNCT	_	5	punct
+7	Angelina	_	PROPN	PROPN	_	5	list
+8	Jolie	_	NOUN	NOUN	_	7	dep
+9	in	_	X	X	_	10	name
+10	Gia	_	PROPN	PROPN	_	7	conj
+11	(	_	PUNCT	PUNCT	_	12	punct
+12	1998	_	NUM	NUM	_	14	nummod
+13	)	_	PUNCT	PUNCT	_	12	punct
+14	http://t.co/MCAl7FEeTz	_	PROPN	PROPN	_	5	list
+

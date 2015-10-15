@@ -1,0 +1,11 @@
+1	По	_	ADP	ADP	_	2	case
+2	предложение	_	NOUN	NOUN	_	9	nmod
+3	на	_	ADP	ADP	_	5	case
+4	германската	_	ADJ	ADJ	_	5	amod
+5	социалистка	_	NOUN	NOUN	_	2	nmod
+6	Клара	_	PROPN	PROPN	_	5	nmod
+7	Цеткин	_	PROPN	PROPN	_	6	name
+8	се	_	PRON	PRON	_	9	expl
+9	приема	_	VERB	VERB	_	0	root
+10	:	_	PUNCT	PUNCT	_	9	punct
+

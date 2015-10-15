@@ -1,0 +1,20 @@
+1	Very	_	PROPN	PROPN	_	3	name
+2	much	_	PROPN	PROPN	_	3	name
+3	worth	_	PROPN	PROPN	_	4	amod
+4	passing	_	NOUN	NOUN	_	14	nmod
+5	this	_	PROPN	PROPN	_	10	name
+6	through	_	PROPN	PROPN	_	10	name
+7	Google	_	PROPN	PROPN	_	10	name
+8	Translate	_	PROPN	PROPN	_	10	name
+9	MT	_	PROPN	PROPN	_	10	name
+10	@adelaigue	_	PROPN	PROPN	_	4	appos
+11	:	_	PUNCT	PUNCT	_	10	punct
+12	La	_	DET	DET	_	13	det
+13	Grèce	_	PROPN	PROPN	_	14	nsubj
+14	passera-t-elle	_	VERB	VERB	_	0	root
+15	2015	_	NUM	NUM	_	14	nmod
+16	dans	_	ADP	ADP	_	17	case
+17	l’euro	_	PROPN	PROPN	_	14	nmod
+18	?	_	PUNCT	PUNCT	_	15	punct
+19	http://t.co/6keUwqbII3	_	X	X	_	17	appos
+

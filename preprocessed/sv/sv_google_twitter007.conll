@@ -1,0 +1,10 @@
+1	@jassegronlund	_	PROPN	PROPN	_	5	nsubj
+2	han	_	PRON	PRON	_	5	nsubj
+3	har	_	AUX	AUX	_	5	aux
+4	ju	_	ADV	ADV	_	5	advmod
+5	använt	_	VERB	VERB	_	0	root
+6	Google	_	PROPN	PROPN	_	8	nmod:poss
+7	översätt	_	ADJ	ADJ	_	8	amod
+8	elelr	_	NOUN	NOUN	_	5	dobj
+9	något	_	PRON	PRON	_	5	dobj
+

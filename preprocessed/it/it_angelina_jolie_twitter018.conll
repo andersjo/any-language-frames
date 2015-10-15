@@ -1,0 +1,15 @@
+1	Angelina	_	PROPN	PROPN	_	0	root
+2	orgogliosa	_	ADJ	ADJ	_	1	amod
+3	del	_	ADP	ADP	_	4	case
+4	look	_	NOUN	NOUN	_	2	nmod
+5	di	_	ADP	ADP	_	7	case
+6	sua	_	DET	DET	_	7	det:poss
+7	figlia	_	NOUN	NOUN	_	4	nmod
+8	Shiloh	_	PROPN	PROPN	_	7	nmod
+9	(	_	PUNCT	PUNCT	_	10	punct
+10	FOTO	_	NOUN	NOUN	_	8	nmod
+11	)	_	PUNCT	PUNCT	_	10	punct
+12	http://t.co/6slBGUAfDG	_	NOUN	NOUN	_	10	compound
+13	via	_	ADP	ADP	_	14	case
+14	@HuffPostItalia	_	PROPN	PROPN	_	12	nmod
+

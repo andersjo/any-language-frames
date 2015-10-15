@@ -1,0 +1,22 @@
+1	На	_	ADP	ADP	_	3	case
+2	5	_	NUM	NUM	_	3	nummod
+3	май	_	NOUN	NOUN	_	8	nmod
+4	2000	_	NUM	NUM	_	5	nummod
+5	г	_	NOUN	NOUN	_	3	nmod
+6	.	_	PUNCT	PUNCT	_	8	punct
+7	се	_	PRON	PRON	_	8	expl
+8	жени	_	VERB	VERB	_	0	root
+9	за	_	ADP	ADP	_	10	case
+10	актьора	_	NOUN	NOUN	_	8	iobj
+11	Били	_	PROPN	PROPN	_	10	nmod
+12	Боб	_	PROPN	PROPN	_	11	name
+13	Торнтон	_	PROPN	PROPN	_	11	name
+14	(развеждат	_	PROPN	PROPN	_	13	nmod
+15	се	_	PRON	PRON	_	10	expl
+16	на	_	ADP	ADP	_	18	case
+17	27	_	NUM	NUM	_	18	nummod
+18	май	_	NOUN	NOUN	_	8	nmod
+19	2003	_	NUM	NUM	_	20	nummod
+20	г	_	NOUN	NOUN	_	18	nmod
+21	.	_	PUNCT	PUNCT	_	8	punct
+

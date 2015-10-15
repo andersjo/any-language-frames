@@ -1,0 +1,25 @@
+1	Dans	_	ADP	ADP	_	3	case
+2	la	_	DET	DET	_	3	det
+3	partie	_	NOUN	NOUN	_	17	nsubj
+4	centrale	_	ADJ	ADJ	_	3	amod
+5	de	_	ADP	ADP	_	7	case
+6	chaque	_	DET	DET	_	7	det
+7	livre	_	NOUN	NOUN	_	3	nmod
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	la	_	DET	DET	_	10	det
+10	confrontation	_	NOUN	NOUN	_	17	nsubj
+11	de	_	ADP	ADP	_	12	case
+12	Harry	_	PROPN	PROPN	_	10	nmod
+13	à	_	ADP	ADP	_	15	case
+14	divers	_	DET	DET	_	15	det
+15	problèmes	_	NOUN	NOUN	_	10	nmod
+16	le	_	PRON	PRON	_	17	dobj
+17	pousse	_	VERB	VERB	_	0	root
+18	à	_	ADP	ADP	_	19	case
+19	violer	_	VERB	VERB	_	17	acl
+20	les	_	DET	DET	_	21	det
+21	règles	_	NOUN	NOUN	_	19	dobj
+22	de	_	ADP	ADP	_	23	case
+23	l'école	_	NOUN	NOUN	_	21	nmod
+24	.	_	PUNCT	PUNCT	_	17	punct
+

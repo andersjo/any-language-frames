@@ -1,0 +1,12 @@
+1	FRAUD	_	NOUN	NOUN	_	0	root
+2	!	_	PUNCT	PUNCT	_	1	punct
+3	Indian	_	PROPN	PROPN	_	1	appos
+4	Police	_	PROPN	PROPN	_	3	name
+5	arrest	_	NOUN	NOUN	_	3	nmod:poss
+6	four	_	PROPN	PROPN	_	5	appos
+7	Nigerians	_	PROPN	PROPN	_	6	name
+8	over	_	ADP	ADP	_	11	case
+9	internet	_	NOUN	NOUN	_	10	nmod:poss
+10	fraud	_	NOUN	NOUN	_	6	nmod
+11	http://t.co/DaVwRbUN8w	_	NOUN	NOUN	_	10	nmod
+

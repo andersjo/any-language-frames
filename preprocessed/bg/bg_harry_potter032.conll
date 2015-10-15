@@ -1,0 +1,15 @@
+1	Също	_	VERB	VERB	_	0	root
+2	така	_	ADV	ADV	_	3	advmod
+3	Черния	_	ADJ	ADJ	_	4	amod
+4	знак	_	NOUN	NOUN	_	5	nsubj
+5	бива	_	VERB	VERB	_	1	ccomp
+6	поставян	_	NOUN	NOUN	_	5	dobj
+7	над	_	ADP	ADP	_	8	case
+8	къща	_	NOUN	NOUN	_	6	nmod
+9	,	_	PUNCT	PUNCT	_	12	punct
+10	където	_	ADV	ADV	_	12	advmod
+11	е	_	AUX	AUX	_	12	aux
+12	станало	_	VERB	VERB	_	5	advcl
+13	убийство	_	NOUN	NOUN	_	12	dobj
+14	.	_	PUNCT	PUNCT	_	1	punct
+

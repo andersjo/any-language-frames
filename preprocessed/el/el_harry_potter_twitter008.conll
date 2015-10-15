@@ -1,0 +1,14 @@
+1	Πέθανε	_	VERB	VERB	_	0	root
+2	διάσημος	_	ADJ	ADJ	_	3	amod
+3	πρωταγωνιστής	_	NOUN	NOUN	_	1	dobj
+4	των	_	ADJ	ADJ	_	5	det
+5	ταινιών	_	NOUN	NOUN	_	3	nmod
+6	«	_	PUNCT	PUNCT	_	8	punct
+7	Harry	_	NOUN	NOUN	_	8	nmod
+8	Potter	_	NOUN	NOUN	_	3	appos
+9	»	_	PUNCT	PUNCT	_	8	punct
+10	(βίντεο)	_	NOUN	NOUN	_	8	conj
+11	-	_	PUNCT	PUNCT	_	8	punct
+12	hellasforce	_	NOUN	NOUN	_	13	nmod
+13	http://t.co/yA6IEfRVO6	_	NOUN	NOUN	_	8	appos
+

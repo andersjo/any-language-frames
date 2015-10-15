@@ -1,0 +1,22 @@
+1	Iδρύθηκε	_	NOUN	NOUN	_	0	root
+2	από	_	ADP	ADP	_	4	case
+3	τον	_	ADJ	ADJ	_	4	det
+4	Λάρρυ	_	NOUN	NOUN	_	1	nmod
+5	Πέιτζ	_	NOUN	NOUN	_	4	nmod
+6	και	_	CONJ	CONJ	_	4	cc
+7	τον	_	ADJ	ADJ	_	8	det
+8	Σεργκέι	_	NOUN	NOUN	_	4	conj
+9	Μπριν	_	NOUN	NOUN	_	8	nmod
+10	το	_	ADJ	ADJ	_	11	det
+11	1996	_	NOUN	NOUN	_	9	nmod
+12	,	_	PUNCT	PUNCT	_	15	punct
+13	όταν	_	CONJ	CONJ	_	15	mark
+14	αυτοί	_	PRON	PRON	_	15	nsubj
+15	κάνανε	_	VERB	VERB	_	11	acl:relcl
+16	το	_	ADJ	ADJ	_	17	det
+17	διδακτορικό	_	NOUN	NOUN	_	15	dobj
+18	στο	_	ADP	ADP	_	19	case
+19	Πανεπιστήμιο	_	NOUN	NOUN	_	15	nmod
+20	Στάνφορντ	_	NOUN	NOUN	_	19	nmod
+21	.	_	PUNCT	PUNCT	_	1	punct
+

@@ -1,0 +1,12 @@
+1	Il	_	PRON	PRON	_	2	nsubj
+2	joue	_	VERB	VERB	_	0	root
+3	alors	_	ADV	ADV	_	2	advmod
+4	pour	_	ADP	ADP	_	7	case
+5	toutes	_	DET	DET	_	7	det
+6	les	_	DET	DET	_	7	det
+7	catégories	_	NOUN	NOUN	_	2	nmod
+8	d'âge	_	NOUN	NOUN	_	7	appos
+9	du	_	ADP	ADP	_	10	case
+10	club	_	NOUN	NOUN	_	8	nmod
+11	.	_	PUNCT	PUNCT	_	2	punct
+

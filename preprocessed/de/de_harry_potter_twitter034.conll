@@ -1,0 +1,13 @@
+1	gerade	_	ADV	ADV	_	5	advmod
+2	am	_	ADP	ADP	_	4	case
+3	Harry	_	PROPN	PROPN	_	4	name
+4	Potter	_	PROPN	PROPN	_	5	nmod
+5	schauen	_	VERB	VERB	_	0	root
+6	!	_	PUNCT	PUNCT	_	5	punct
+7	^^ewig	_	ADJ	ADJ	_	10	advmod
+8	nicht	_	PART	PART	_	10	neg
+9	mehr	_	ADV	ADV	_	8	advmod
+10	gesehen	_	VERB	VERB	_	12	acl
+11	!	_	PUNCT	PUNCT	_	5	punct
+12	XD	_	VERB	VERB	_	5	parataxis
+

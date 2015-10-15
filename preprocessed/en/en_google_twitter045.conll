@@ -1,0 +1,24 @@
+1	Acer	_	PROPN	PROPN	_	2	nsubj
+2	announces	_	VERB	VERB	_	0	root
+3	4G-capable	_	ADJ	ADJ	_	0	name
+4	Liquid	_	PROPN	PROPN	_	5	compound
+5	Z410	_	PROPN	PROPN	_	6	nsubj
+6	smartphone	_	VERB	VERB	_	2	advcl
+7	ahead	_	ADV	ADV	_	6	advmod
+8	of	_	ADP	ADP	_	6	compound:prt
+9	CES	_	NOUN	NOUN	_	21	compound
+10	-	_	PUNCT	PUNCT	_	9	punct
+11	9	_	NUM	NUM	_	9	nummod
+12	to	_	ADP	ADP	_	6	reparandum
+13	5	_	NUM	NUM	_	14	nummod
+14	Google	_	PROPN	PROPN	_	6	nmod
+15	:	_	PUNCT	PUNCT	_	14	punct
+16	9	_	NUM	NUM	_	14	appos
+17	to	_	ADP	ADP	_	0	foreign
+18	5	_	NUM	NUM	_	20	nummod
+19	GoogleAcer	_	PROPN	PROPN	_	21	compound
+20	announces	_	NOUN	NOUN	_	21	compound
+21	4G-	_	NOUN	NOUN	_	6	dobj
+22	...	_	PUNCT	PUNCT	_	23	punct
+23	http://t.co/dRwyRB1wNk	_	X	X	_	21	appos
+

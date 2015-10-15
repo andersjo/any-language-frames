@@ -1,0 +1,24 @@
+1	No	_	DET	DET	_	3	neg
+2	b'day	_	NOUN	NOUN	_	3	compound
+3	gift	_	NOUN	NOUN	_	5	nsubj
+4	will	_	AUX	AUX	_	5	aux
+5	surpass	_	VERB	VERB	_	0	root
+6	that	_	SCONJ	SCONJ	_	8	mark
+7	of	_	ADP	ADP	_	5	compound:prt
+8	seeing	_	VERB	VERB	_	5	ccomp
+9	Christiano	_	PROPN	PROPN	_	10	compound
+10	Ronaldo	_	PROPN	PROPN	_	11	nsubj
+11	walking	_	VERB	VERB	_	8	ccomp
+12	up	_	ADV	ADV	_	11	advmod
+13	to	_	ADP	ADP	_	11	xcomp
+14	the	_	DET	DET	_	15	det
+15	stage	_	NOUN	NOUN	_	11	dobj
+16	to	_	PART	PART	_	17	mark
+17	collect	_	VERB	VERB	_	15	acl
+18	his	_	PRON	PRON	_	21	nmod:poss
+19	Ballon	_	NOUN	NOUN	_	20	compound
+20	D'Or	_	NOUN	NOUN	_	21	compound
+21	trophy	_	NOUN	NOUN	_	17	dobj
+22	.	_	PUNCT	PUNCT	_	5	punct
+23	#12thJanMyBirthday	_	NOUN	NOUN	_	17	dobj
+

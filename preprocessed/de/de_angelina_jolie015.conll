@@ -1,0 +1,10 @@
+1	Dezember	_	PROPN	PROPN	_	3	dep
+2	1971	_	NUM	NUM	_	1	nmod
+3	geheiratet	_	VERB	VERB	_	6	advcl
+4	hatten	_	AUX	AUX	_	3	aux
+5	,	_	PUNCT	PUNCT	_	3	punct
+6	trennten	_	VERB	VERB	_	0	root
+7	sich	_	PRON	PRON	_	6	dobj
+8	1976	_	NUM	NUM	_	6	nmod
+9	.	_	PUNCT	PUNCT	_	6	punct
+

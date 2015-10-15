@@ -1,0 +1,27 @@
+1	Lo	_	PRON	PRON	_	0	root
+2	que	_	SCONJ	SCONJ	_	3	mark
+3	hace	_	VERB	VERB	_	1	acl:relcl
+4	tener	_	VERB	VERB	_	3	xcomp
+5	plata	_	NOUN	NOUN	_	4	dobj
+6	y	_	CONJ	CONJ	_	4	cc
+7	conseguir	_	VERB	VERB	_	4	conj
+8	un	_	DET	DET	_	10	det
+9	buen	_	ADJ	ADJ	_	10	amod
+10	doctor	_	NOUN	NOUN	_	7	dobj
+11	.	_	PUNCT	PUNCT	_	1	punct
+12	Nunca	_	ADV	ADV	_	13	neg
+13	voy	_	VERB	VERB	_	10	parataxis
+14	a	_	ADP	ADP	_	15	case
+15	superar	_	VERB	VERB	_	13	acl
+16	como	_	ADP	ADP	_	17	case
+17	era	_	VERB	VERB	_	19	cop
+18	Christiano	_	PROPN	PROPN	_	20	name
+19	Ronaldo	_	PROPN	PROPN	_	20	name
+20	chabon	_	PROPN	PROPN	_	10	parataxis
+21	vos	_	PRON	PRON	_	20	compound
+22	así	_	ADV	ADV	_	21	advmod
+23	que	_	PRON	PRON	_	22	mwe
+24	eras	_	ADJ	ADJ	_	23	amod
+25	pero	_	CONJ	CONJ	_	13	cc
+26	fiero	_	VERB	VERB	_	24	conj
+

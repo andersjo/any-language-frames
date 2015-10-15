@@ -1,0 +1,21 @@
+1	"	_	PUNCT	PUNCT	_	6	punct
+2	In	_	ADP	ADP	_	0	punct
+3	2004	_	NUM	NUM	_	6	nmod
+4	,	_	PUNCT	PUNCT	_	6	punct
+5	Google	_	PROPN	PROPN	_	6	nsubj
+6	moved	_	VERB	VERB	_	17	advcl
+7	to	_	ADP	ADP	_	6	compound:prt
+8	its	_	PRON	PRON	_	10	nmod:poss
+9	new	_	ADJ	ADJ	_	0	punct
+10	headquarters	_	NOUN	NOUN	_	2	conj
+11	in	_	ADP	ADP	_	6	compound:prt
+12	Mountain	_	PROPN	PROPN	_	13	compound
+13	View	_	PROPN	PROPN	_	10	nmod
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	California	_	PROPN	PROPN	_	13	appos
+16	,	_	PUNCT	PUNCT	_	6	punct
+17	nicknamed	_	VERB	VERB	_	10	acl
+18	the	_	DET	DET	_	19	det
+19	Googleplex	_	PROPN	PROPN	_	17	dobj
+20	.	_	PUNCT	PUNCT	_	6	punct
+

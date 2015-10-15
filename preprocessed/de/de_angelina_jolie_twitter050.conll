@@ -1,0 +1,27 @@
+1	@beecakeparade	_	ADJ	ADJ	_	9	advmod
+2	Nur	_	ADV	ADV	_	4	advmod
+3	von	_	ADP	ADP	_	4	case
+4	Smaug	_	PROPN	PROPN	_	1	nmod
+5	und	_	CONJ	CONJ	_	4	cc
+6	da	_	PROPN	PROPN	_	4	conj
+7	muss	_	AUX	AUX	_	10	aux
+8	ich	_	PRON	PRON	_	9	nsubj
+9	ehrlich	_	ADJ	ADJ	_	14	advcl
+10	sagen	_	VERB	VERB	_	9	cop
+11	-	_	PUNCT	PUNCT	_	9	punct
+12	er	_	PRON	PRON	_	14	nsubj
+13	kann	_	AUX	AUX	_	14	aux
+14	schauspielern	_	VERB	VERB	_	0	root
+15	.	_	PUNCT	PUNCT	_	14	punct
+16	Keine	_	PRON	PRON	_	17	neg
+17	Frage	_	NOUN	NOUN	_	10	parataxis
+18	.	_	PUNCT	PUNCT	_	14	punct
+19	Für	_	ADP	ADP	_	20	case
+20	mich	_	PRON	PRON	_	25	det
+21	'	_	PUNCT	PUNCT	_	17	punct
+22	ne	_	DET	DET	_	25	det
+23	männliche	_	ADJ	ADJ	_	25	amod
+24	Angelina	_	PROPN	PROPN	_	25	name
+25	Jolie	_	PROPN	PROPN	_	17	appos
+26	.	_	PUNCT	PUNCT	_	14	punct
+

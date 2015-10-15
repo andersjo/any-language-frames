@@ -1,0 +1,18 @@
+1	Real	_	NOUN	NOUN	_	2	nsubj
+2	Madrid	_	VERB	VERB	_	0	root
+3	vann	_	NOUN	NOUN	_	4	nmod:poss
+4	matchen	_	NOUN	NOUN	_	2	dobj
+5	med	_	ADP	ADP	_	6	case
+6	5-2	_	NUM	NUM	_	4	nmod
+7	efter	_	ADP	ADP	_	15	case
+8	att	_	SCONJ	SCONJ	_	15	mark
+9	Raúl	_	NOUN	NOUN	_	15	nsubj
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	Higuaín	_	NOUN	NOUN	_	9	conj
+12	och	_	CONJ	CONJ	_	9	cc
+13	Guti	_	PROPN	PROPN	_	15	nsubj
+14	även	_	ADV	ADV	_	15	advmod
+15	gjort	_	VERB	VERB	_	2	advcl
+16	mål	_	NOUN	NOUN	_	15	dobj
+17	.	_	PUNCT	PUNCT	_	2	punct
+

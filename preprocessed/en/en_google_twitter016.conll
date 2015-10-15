@@ -1,0 +1,19 @@
+1	Listening	_	VERB	VERB	_	13	advcl
+2	to	_	ADP	ADP	_	1	compound:prt
+3	Mr.	_	PROPN	PROPN	_	4	compound
+4	Mister	_	PROPN	PROPN	_	1	dobj
+5	on	_	ADP	ADP	_	1	compound:prt
+6	#MilkMusic	_	ADJ	ADJ	_	0	foreign
+7	powered	_	NOUN	NOUN	_	9	compound
+8	by	_	ADP	ADP	_	9	compound
+9	Slacker	_	NOUN	NOUN	_	1	nmod
+10	.	_	PUNCT	PUNCT	_	1	punct
+11	Free	_	ADJ	ADJ	_	0	foreign
+12	on	_	ADP	ADP	_	13	mark
+13	select	_	VERB	VERB	_	0	root
+14	Samsung	_	PROPN	PROPN	_	15	compound
+15	Galaxy	_	PROPN	PROPN	_	16	compound
+16	devices	_	NOUN	NOUN	_	13	dobj
+17	:	_	PUNCT	PUNCT	_	16	punct
+18	http://t.co/I6vqyeD7Nd	_	X	X	_	16	appos
+

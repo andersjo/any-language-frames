@@ -1,0 +1,27 @@
+1	While	_	ADP	ADP	_	0	compound:prt
+2	there	_	DET	DET	_	5	expl
+3	,	_	PUNCT	PUNCT	_	5	punct
+4	he	_	PRON	PRON	_	5	nsubj
+5	had	_	VERB	VERB	_	0	root
+6	an	_	DET	DET	_	7	det
+7	operation	_	NOUN	NOUN	_	5	dobj
+8	in	_	ADP	ADP	_	5	compound:prt
+9	which	_	DET	DET	_	13	nsubjpass
+10	a	_	DET	DET	_	11	det
+11	laser	_	NOUN	NOUN	_	13	nsubjpass
+12	was	_	AUX	AUX	_	13	auxpass
+13	used	_	VERB	VERB	_	7	acl:relcl
+14	to	_	PART	PART	_	15	mark
+15	cauterise	_	VERB	VERB	_	13	xcomp
+16	the	_	DET	DET	_	17	det
+17	area	_	NOUN	NOUN	_	15	dobj
+18	of	_	ADP	ADP	_	15	compound:prt
+19	his	_	PRON	PRON	_	20	nmod:poss
+20	heart	_	NOUN	NOUN	_	15	dobj
+21	that	_	DET	DET	_	23	nsubj
+22	was	_	AUX	AUX	_	23	aux
+23	causing	_	VERB	VERB	_	20	acl:relcl
+24	the	_	DET	DET	_	25	det
+25	problem	_	NOUN	NOUN	_	23	dobj
+26	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,24 @@
+1	Lmaooo	_	NOUN	NOUN	_	0	root
+2	how	_	ADV	ADV	_	4	advmod
+3	embarrassing	_	ADJ	ADJ	_	0	nsubj
+4	is	_	VERB	VERB	_	5	cop
+5	it	_	PRON	PRON	_	1	expl
+6	to	_	ADP	ADP	_	4	compound:prt
+7	trash	_	NOUN	NOUN	_	8	nsubj
+8	talk	_	VERB	VERB	_	4	ccomp
+9	Christiano	_	PROPN	PROPN	_	10	compound
+10	Ronaldo	_	PROPN	PROPN	_	8	dobj
+11	right	_	ADV	ADV	_	8	advmod
+12	before	_	SCONJ	SCONJ	_	18	mark
+13	a	_	DET	DET	_	15	det
+14	penalty	_	NOUN	NOUN	_	15	compound
+15	kick	_	NOUN	NOUN	_	8	nmod
+16	and	_	CONJ	CONJ	_	15	cc
+17	then	_	ADV	ADV	_	18	advmod
+18	have	_	VERB	VERB	_	15	conj
+19	him	_	PRON	PRON	_	18	dobj
+20	completely	_	ADV	ADV	_	21	advmod
+21	fool	_	VERB	VERB	_	18	ccomp
+22	you	_	PRON	PRON	_	21	dobj
+23	?	_	PUNCT	PUNCT	_	8	punct
+

@@ -1,0 +1,18 @@
+1	Proscan	_	NOUN	NOUN	_	9	nsubj
+2	7	_	NUM	NUM	_	1	nmod
+3	"	_	PUNCT	PUNCT	_	5	punct
+4	Google	_	NOUN	NOUN	_	5	name
+5	Android	_	PROPN	PROPN	_	9	nsubj
+6	WiFi	_	PROPN	PROPN	_	5	name
+7	Internet	_	PROPN	PROPN	_	5	name
+8	Tablet	_	PROPN	PROPN	_	5	name
+9	eReader	_	VERB	VERB	_	0	root
+10	Model	_	NOUN	NOUN	_	11	nmod:poss
+11	PLT7223G	_	NOUN	NOUN	_	9	dobj
+12	-	_	PUNCT	PUNCT	_	9	punct
+13	RED	_	NOUN	NOUN	_	9	dep
+14	via	_	ADP	ADP	_	15	case
+15	eBay	_	PROPN	PROPN	_	13	nmod
+16	http://t.co/N7hbXRHnjr	_	NOUN	NOUN	_	15	dep
+17	#NatureIsSpeaking	_	NOUN	NOUN	_	16	nmod
+

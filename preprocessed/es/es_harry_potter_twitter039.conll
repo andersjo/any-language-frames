@@ -1,0 +1,12 @@
+1	Votadnos	_	PROPN	PROPN	_	6	nsubj
+2	aquí	_	ADV	ADV	_	3	advmod
+3	>>	_	X	X	_	4	compound
+4	http://t.co/KzWp3SjTg2	_	X	X	_	6	nsubj
+5	También	_	ADV	ADV	_	6	advmod
+6	estamos	_	VERB	VERB	_	0	root
+7	en	_	ADP	ADP	_	9	case
+8	esta	_	DET	DET	_	9	det
+9	otra	_	PRON	PRON	_	6	nmod
+10	:	_	PUNCT	PUNCT	_	9	punct
+11	http://t.co/HSLCLmxU45	_	PROPN	PROPN	_	9	appos
+

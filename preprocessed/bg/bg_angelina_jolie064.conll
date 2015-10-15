@@ -1,0 +1,19 @@
+1	Тя	_	PRON	PRON	_	3	nsubj
+2	се	_	PRON	PRON	_	3	expl
+3	записва	_	VERB	VERB	_	0	root
+4	в	_	ADP	ADP	_	5	case
+5	Университета	_	NOUN	NOUN	_	3	iobj
+6	на	_	ADP	ADP	_	7	case
+7	Ню	_	PROPN	PROPN	_	5	nmod
+8	Йорк	_	PROPN	PROPN	_	7	name
+9	да	_	PART	PART	_	10	aux
+10	учи	_	VERB	VERB	_	5	acl
+11	кино	_	NOUN	NOUN	_	10	dobj
+12	и	_	CONJ	CONJ	_	3	cc
+13	присъства	_	VERB	VERB	_	3	conj
+14	също	_	ADV	ADV	_	13	advmod
+15	при	_	ADP	ADP	_	17	case
+16	писмените	_	ADJ	ADJ	_	17	amod
+17	класове	_	NOUN	NOUN	_	13	iobj
+18	.	_	PUNCT	PUNCT	_	3	punct
+

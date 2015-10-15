@@ -1,0 +1,6 @@
+1	Böcker	_	NOUN	NOUN	_	0	root
+2	om	_	ADP	ADP	_	4	case
+3	Harry	_	PROPN	PROPN	_	4	nmod:poss
+4	Potter	_	NOUN	NOUN	_	1	nmod
+5	.	_	PUNCT	PUNCT	_	1	punct
+

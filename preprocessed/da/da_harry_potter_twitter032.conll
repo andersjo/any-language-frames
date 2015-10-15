@@ -1,0 +1,13 @@
+1	Siger	_	VERB	VERB	_	0	root
+2	ikke	_	ADV	ADV	_	1	neg
+3	at	_	PART	PART	_	1	dobj
+4	folk	_	NOUN	NOUN	_	3	dep
+5	burde	_	AUX	AUX	_	6	cop
+6	cosplaye	_	NOUN	NOUN	_	3	dep
+7	fra	_	ADP	ADP	_	9	case
+8	harry	_	ADJ	ADJ	_	9	amod
+9	Potter	_	NOUN	NOUN	_	6	nmod
+10	med	_	ADP	ADP	_	11	case
+11	mig	_	PRON	PRON	_	7	nmod
+12	men	_	CONJ	CONJ	_	11	cc
+

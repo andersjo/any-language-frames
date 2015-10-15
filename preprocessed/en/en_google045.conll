@@ -1,0 +1,25 @@
+1	The	_	DET	DET	_	3	det
+2	vast	_	ADJ	ADJ	_	0	iobj
+3	majority	_	NOUN	NOUN	_	9	nmod
+4	of	_	ADP	ADP	_	3	acl
+5	the	_	DET	DET	_	8	det
+6	271	_	NUM	NUM	_	7	compound
+7	million	_	NUM	NUM	_	8	nummod
+8	shares	_	NOUN	NOUN	_	9	nsubj
+9	remained	_	VERB	VERB	_	0	root
+10	under	_	ADP	ADP	_	9	compound:prt
+11	the	_	DET	DET	_	12	det
+12	control	_	NOUN	NOUN	_	9	dobj
+13	of	_	ADP	ADP	_	9	compound:prt
+14	Google	_	PROPN	PROPN	_	12	nmod
+15	,	_	PUNCT	PUNCT	_	9	punct
+16	and	_	CONJ	CONJ	_	9	cc
+17	many	_	ADJ	ADJ	_	0	conj
+18	Google	_	PROPN	PROPN	_	19	compound
+19	employees	_	NOUN	NOUN	_	20	nsubj
+20	became	_	VERB	VERB	_	9	conj
+21	instant	_	ADJ	ADJ	_	0	iobj
+22	paper	_	NOUN	NOUN	_	23	compound
+23	millionaires	_	NOUN	NOUN	_	20	dobj
+24	.	_	PUNCT	PUNCT	_	9	punct
+

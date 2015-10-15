@@ -1,0 +1,12 @@
+1	@jimrome	_	PROPN	PROPN	_	3	name
+2	Kirstie	_	PROPN	PROPN	_	3	name
+3	Alley	_	PROPN	PROPN	_	9	nsubj
+4	???	_	X	X	_	5	dep
+5	Val	_	PROPN	PROPN	_	6	name
+6	Kilmer	_	PROPN	PROPN	_	9	nsubj
+7	???	_	X	X	_	8	dep
+8	Global	_	PROPN	PROPN	_	9	nsubj
+9	warming	_	VERB	VERB	_	0	root
+10	???	_	X	X	_	11	dep
+11	#askthepros	_	PROPN	PROPN	_	9	nsubj
+

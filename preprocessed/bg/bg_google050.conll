@@ -1,0 +1,13 @@
+1	Осъществяването	_	NOUN	NOUN	_	4	nsubj
+2	на	_	ADP	ADP	_	3	case
+3	сделката	_	NOUN	NOUN	_	1	nmod
+4	зависи	_	VERB	VERB	_	0	root
+5	от	_	ADP	ADP	_	7	case
+6	регулаторните	_	ADJ	ADJ	_	7	amod
+7	органи	_	NOUN	NOUN	_	4	iobj
+8	в	_	ADP	ADP	_	9	case
+9	САЩ	_	PROPN	PROPN	_	7	nmod
+10	и	_	CONJ	CONJ	_	9	cc
+11	Европа	_	PROPN	PROPN	_	9	conj
+12	.	_	PUNCT	PUNCT	_	4	punct
+

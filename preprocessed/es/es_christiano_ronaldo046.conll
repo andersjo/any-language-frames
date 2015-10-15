@@ -1,0 +1,24 @@
+1	Finalmente	_	ADV	ADV	_	3	advmod
+2	se	_	PRON	PRON	_	3	iobj
+3	proclamó	_	VERB	VERB	_	5	cop
+4	también	_	ADV	ADV	_	5	advmod
+5	campeón	_	NOUN	NOUN	_	0	root
+6	de	_	ADP	ADP	_	7	case
+7	liga	_	NOUN	NOUN	_	5	nmod
+8	por	_	ADP	ADP	_	10	case
+9	segundo	_	NUM	NUM	_	10	nummod
+10	año	_	NOUN	NOUN	_	5	nmod
+11	consecutivo	_	ADJ	ADJ	_	10	amod
+12	,	_	PUNCT	PUNCT	_	5	punct
+13	y	_	CONJ	CONJ	_	5	cc
+14	sus	_	DET	DET	_	15	nmod:poss
+15	números	_	NOUN	NOUN	_	16	nsubj
+16	mejoraron	_	VERB	VERB	_	3	conj
+17	a	_	ADP	ADP	_	19	case
+18	12	_	NUM	NUM	_	19	nummod
+19	goles	_	NOUN	NOUN	_	16	nmod
+20	en	_	ADP	ADP	_	22	case
+21	47	_	NUM	NUM	_	22	nummod
+22	partidos	_	NOUN	NOUN	_	16	nmod
+23	.	_	PUNCT	PUNCT	_	3	punct
+

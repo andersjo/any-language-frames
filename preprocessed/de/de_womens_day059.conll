@@ -1,0 +1,9 @@
+1	März	_	PROPN	PROPN	_	7	dep
+2	1907	_	NUM	NUM	_	1	nmod
+3	erstmals	_	ADV	ADV	_	7	advmod
+4	an	_	ADP	ADP	_	6	case
+5	diese	_	PRON	PRON	_	6	det
+6	Vorfälle	_	NOUN	NOUN	_	7	nmod
+7	erinnert	_	VERB	VERB	_	0	root
+8	.	_	PUNCT	PUNCT	_	7	punct
+

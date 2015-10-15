@@ -1,0 +1,17 @@
+1	Google	_	PROPN	PROPN	_	4	nsubj
+2	Chrome	_	PROPN	PROPN	_	1	name
+3	:	_	PUNCT	PUNCT	_	1	punct
+4	progettato	_	VERB	VERB	_	0	root
+5	per	_	ADP	ADP	_	6	case
+6	l'efficienza	_	NOUN	NOUN	_	4	nmod
+7	e	_	CONJ	CONJ	_	4	cc
+8	la	_	DET	DET	_	9	det
+9	facilità	_	NOUN	NOUN	_	4	dobj
+10	di	_	ADP	ADP	_	11	case
+11	utilizzo	_	NOUN	NOUN	_	9	nmod
+12	http://t.co/iENZmaq6Uu	_	NOUN	NOUN	_	11	compound
+13	#video	_	ADJ	ADJ	_	12	amod
+14	sharing	_	ADJ	ADJ	_	15	amod
+15	#money	_	NOUN	NOUN	_	6	conj
+16	http://t.co/bcL0RYeVK0	_	NOUN	NOUN	_	15	compound
+

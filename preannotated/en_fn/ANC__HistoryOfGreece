@@ -1,0 +1,3177 @@
+a	_	Measure_duration Process_end Quantity
+brief	_	Documents Duration_attribute
+History	_	Fields History Individual_history Out_of_existence Text
+
+Prehistoric	_	Temporal_collocation
+man	_	People
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Asia	_	
+Minor	_	
+(	_	
+now	_	Temporal_collocation
+modern	_	Stage_of_progress Temporal_collocation
+Turkey	_	Food
+)	_	
+or	_	
+Greece	_	
+could	_	Capability Possibility
+look	_	Appearance Facial_expression Perception_active Scrutiny Seeking
+out	_	Departing Expected_location_of_person Intentionally_act Locative_relation Sleep Surviving
+across	_	Dimension
+the	_	Self_motion Temporal_collocation
+Aegean	_	
+toward	_	
+the	_	Self_motion Temporal_collocation
+horizon	_	
+and	_	
+see	_	Categorization Causation Grasp Perception_experience Reference_text Relational_political_locales Touring
+the	_	Self_motion Temporal_collocation
+faint	_	Fall_asleep
+silhouette	_	Optical_image
+of	_	Age Domain Origin Partitive
+land	_	Locale_by_ownership Natural_features Political_locales
+.	_	
+
+Their	_	
+curiosity	_	
+pushed	_	Cause_change_of_position_on_a_scale Cause_motion Subjective_influence
+them	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+build	_	Building
+vessels	_	Vehicle
+that	_	Degree
+were	_	Existence
+strong	_	Being_strong Exertive_force
+enough	_	Sufficiency
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+ford	_	Intentional_traversing Path_shape
+the	_	Self_motion Temporal_collocation
+open	_	Body_movement Candidness Closure Openness Secrecy_status
+seas	_	Natural_features
+and	_	
+reach	_	Arriving Change_position_on_a_scale Contacting Path_shape Range
+these	_	
+islands	_	Natural_features
+,	_	
+marking	_	Sign
+the	_	Self_motion Temporal_collocation
+start	_	Activity_start Process_start Temporal_subregion
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+long	_	Desiring Dimension Duration_attribute Likelihood Measurable_attributes
+legacy	_	
+of	_	Age Domain Origin Partitive
+Mediterranean	_	
+seafaring	_	
+.	_	
+
+Around	_	Dimension Locative_relation Relational_quantity Temporal_collocation
+7000	_	
+b.c.	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+Phoenicians	_	
+set	_	Activity_ready_state Aggregate Attack Bail_decision Cause_change_of_consistency Cause_to_start Change_of_consistency Departing Intentionally_create Placing
+out	_	Departing Expected_location_of_person Intentionally_act Locative_relation Sleep Surviving
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+what	_	
+is	_	Existence
+now	_	Temporal_collocation
+Iran	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+explore	_	Scrutiny
+their	_	
+surroundings	_	
+.	_	
+
+They	_	
+eventually	_	Time_vector
+reached	_	Arriving
+the	_	Self_motion Temporal_collocation
+islands	_	Natural_features
+,	_	
+and	_	
+founded	_	Intentionally_create
+colonies	_	Colonization
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+islands	_	Natural_features
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+northernmost	_	Part_orientational
+part	_	Membership Part_whole Performers_and_roles Separating
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Aegean	_	
+Sea	_	Natural_features
+.	_	
+
+An	_	Cause_to_end Process_end Quantity
+important	_	Importance
+early	_	Relative_time Temporal_collocation Temporal_subregion
+material	_	Ingredients Substance Text
+,	_	
+obsidian	_	
+,	_	
+was	_	Existence
+discovered	_	Becoming_aware
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+island	_	Natural_features
+of	_	Age Domain Origin Partitive
+Milos	_	
+.	_	
+
+Obsidian	_	
+is	_	Existence
+a	_	Measure_duration Process_end Quantity
+hard	_	Difficulty
+,	_	
+vitreous	_	
+volcanic	_	
+rock	_	Desirability Moving_in_place
+,	_	
+which	_	
+could	_	Capability Possibility
+be	_	Existence Performers_and_roles
+fashioned	_	Building
+into	_	Goal Into
+tools	_	Gizmo
+for	_	Causation Taking_sides
+cutting	_	Cutting
+and	_	
+stabbing	_	Cause_harm
+.	_	
+
+The	_	Self_motion Temporal_collocation
+high	_	Dimension Extreme_value Intoxication Measurable_attributes Position_on_a_scale
+quality	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+seam	_	Clothing_parts
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Milos	_	
+ensured	_	
+that	_	Degree
+the	_	Self_motion Temporal_collocation
+area	_	Dimension Fields Locale
+remained	_	State_continue
+popular	_	Desirability Popularity
+with	_	Accompaniment
+early	_	Relative_time Temporal_collocation Temporal_subregion
+travelers	_	Travel
+.	_	
+
+The	_	Self_motion Temporal_collocation
+basic	_	Being_necessary
+elements	_	Ingredients
+of	_	Age Domain Origin Partitive
+life	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Aegean	_	
+began	_	Activity_start Process_start
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+come	_	Amalgamation Arriving Becoming_aware Coming_up_with
+together	_	Building Cause_to_amalgamate Collaboration
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+early	_	Relative_time Temporal_collocation Temporal_subregion
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+5000	_	
+b.c.	_	
+,	_	
+and	_	
+were	_	Existence
+already	_	Time_vector
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+place	_	Event Locale Placing
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+late	_	Relative_time Temporal_subregion
+Bronze	_	Physical_artworks
+Age	_	Age Aging Calendric_unit
+(	_	
+c.	_	
+2700	_	
+b.c.	_	
+)	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+major	_	Importance
+changes	_	Undergo_change
+were	_	Existence
+not	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+daily	_	Frequency
+tasks	_	Being_obligated
+and	_	
+routines	_	
+,	_	
+but	_	Concessive
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+political	_	
+power	_	Electricity Leadership
+base	_	Infrastructure Locale_by_use Morality_evaluation Part_orientational
+,	_	
+which	_	
+changed	_	Cause_change Undergo_change
+regularly	_	Frequency
+and	_	
+not	_	
+necessarily	_	
+peacefully	_	
+throughout	_	Locative_relation
+the	_	Self_motion Temporal_collocation
+ages	_	Calendric_unit
+.	_	
+
+Cycladic	_	
+Culture	_	
+
+At	_	Locative_relation Relational_quantity Temporal_collocation
+around	_	Dimension Locative_relation Relational_quantity Temporal_collocation
+3500	_	
+b.c.	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+sophisticated	_	Stage_of_progress
+culture	_	
+evolved	_	Coming_to_be
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Cyclades	_	
+islands	_	Natural_features
+.	_	
+
+The	_	Self_motion Temporal_collocation
+distinctive	_	Distinctiveness
+,	_	
+sculpted	_	
+marble	_	
+figures	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+era	_	Calendric_unit
+are	_	Existence
+now	_	Temporal_collocation
+being	_	
+reproduced	_	Duplication
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+vast	_	
+quantities	_	Quantity
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+souvenirs	_	
+.	_	
+
+You	_	
+will	_	Desiring Documents Giving
+find	_	Becoming_aware Coming_to_believe Locating Verdict
+original	_	
+examples	_	Instance
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+archaeological	_	
+museums	_	Locale_by_use
+throughout	_	Locative_relation
+the	_	Self_motion Temporal_collocation
+Cyclades	_	
+,	_	
+although	_	Concessive
+one	_	Cardinal_numbers
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+earliest	_	Relative_time Temporal_collocation
+examples	_	Instance
+is	_	Existence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+museum	_	Locale_by_use
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Paros	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+people	_	Colonization People
+farmed	_	Agriculture
+and	_	
+fished	_	Hunting
+;	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+dawning	_	Temporal_subregion
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Bronze	_	Physical_artworks
+Age	_	Age Aging Calendric_unit
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+2700	_	
+b.c.	_	
+,	_	
+they	_	
+began	_	Activity_start Process_start
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+work	_	Being_employed Being_operational Collaboration Dimension Labor_product Locale_by_use Usefulness Working_on
+with	_	Accompaniment
+metals	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Cycladic	_	
+culture	_	
+was	_	Existence
+influenced	_	Objective_influence Subjective_influence
+by	_	Locative_relation Means
+societies	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+east	_	Direction Locative_relation Part_orientational
+,	_	
+importing	_	Import_export Importing
+the	_	Self_motion Temporal_collocation
+pottery	_	
+wheel	_	Artifact Bringing
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Mesopotamia	_	
+.	_	
+
+They	_	
+also	_	
+continued	_	Activity_ongoing Process_continue
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+trade	_	Change_tool Exchange
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+obsidian	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+local	_	Indigenous_origin Political_locales
+marble	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Minoans	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+Myceneans	_	
+
+Farther	_	
+south	_	Direction Locative_relation Part_orientational
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Crete	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+Minoan	_	
+culture	_	
+developed	_	Cause_to_make_progress Coming_to_be Progress Stage_of_progress
+after	_	Relative_time Time_vector
+2000	_	
+b.c.	_	
+into	_	Goal Into
+the	_	Self_motion Temporal_collocation
+most	_	Relational_quantity
+significant	_	Importance
+of	_	Age Domain Origin Partitive
+its	_	
+age	_	Age Aging Calendric_unit
+,	_	
+spreading	_	Dispersal Filling
+its	_	
+influence	_	Influence_of_event_on_cognizer Objective_influence Subjective_influence
+throughout	_	Locative_relation
+the	_	Self_motion Temporal_collocation
+region	_	Locale
+by	_	Locative_relation Means
+trade	_	Change_tool Exchange
+and	_	
+diplomacy	_	
+.	_	
+
+Santorini	_	
+(	_	
+Thira	_	
+)	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+next	_	Locative_relation Relative_time
+major	_	Importance
+island	_	Natural_features
+north	_	Direction Locative_relation Part_orientational
+,	_	
+was	_	Existence
+heavily	_	Degree
+influenced	_	Objective_influence Subjective_influence
+by	_	Locative_relation Means
+Crete	_	
+,	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+settlements	_	Colonization Locale_by_use
+of	_	Age Domain Origin Partitive
+Thira	_	
+and	_	
+Akrotiri	_	
+thrived	_	Thriving
+at	_	Locative_relation Relational_quantity Temporal_collocation
+this	_	
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+.	_	
+
+The	_	Self_motion Temporal_collocation
+magnificent	_	Desirability
+frescoes	_	
+and	_	
+mosaics	_	
+found	_	Becoming_aware Intentionally_create Locating Verdict
+at	_	Locative_relation Relational_quantity Temporal_collocation
+Akrotiri	_	
+are	_	Existence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Athens	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+present	_	Cause_to_perceive Presence Temporal_collocation
+,	_	
+but	_	Concessive
+the	_	Self_motion Temporal_collocation
+remains	_	Existence Left_to_do Remainder State_continue
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+buildings	_	Buildings
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+site	_	Locale Locale_by_event Locale_by_use
+provide	_	Supply
+ample	_	Sufficiency
+evidence	_	Evidence
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+sophistication	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+culture	_	
+here	_	Locative_relation
+.	_	
+
+Around	_	Dimension Locative_relation Relational_quantity Temporal_collocation
+1500	_	
+b.c.	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+massive	_	Dimension
+volcanic	_	
+eruption	_	Process_start
+at	_	Locative_relation Relational_quantity Temporal_collocation
+Santorini	_	
+destroyed	_	Destroying Killing
+not	_	
+only	_	Sole_instance
+Akrotiri	_	
+--	_	
+under	_	Locative_relation Relational_quantity
+feet	_	Measure_linear_extent Observable_body_parts
+of	_	Age Domain Origin Partitive
+ash	_	
+and	_	
+pumice	_	
+--	_	
+but	_	Concessive
+the	_	Self_motion Temporal_collocation
+whole	_	Ranked_expectation
+Minoan	_	
+civilization	_	
+.	_	
+
+Massive	_	Dimension
+tidal	_	
+waves	_	Quantity
+swept	_	
+over	_	Locative_relation Process_completed_state Relational_quantity
+Crete	_	
+,	_	
+and	_	
+other	_	Increment
+parts	_	Part_whole
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Mediterranean	_	
+,	_	
+smashing	_	Cause_to_fragment
+buildings	_	Buildings
+and	_	
+drowning	_	Killing
+many	_	Quantity
+thousands	_	Quantity
+of	_	Age Domain Origin Partitive
+people	_	Colonization People
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+wake	_	Cause_to_wake Waking_up
+of	_	Age Domain Origin Partitive
+this	_	
+tremendous	_	Desirability Expertise Usefulness
+natural	_	
+upheaval	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+Aegean	_	
+Islands	_	Natural_features
+next	_	Locative_relation Relative_time
+came	_	Arriving Process_end
+under	_	Locative_relation Relational_quantity
+the	_	Self_motion Temporal_collocation
+influence	_	Influence_of_event_on_cognizer Objective_influence Subjective_influence
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Mycenaeans	_	
+(	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+around	_	Dimension Locative_relation Relational_quantity Temporal_collocation
+1300	_	
+b.c.	_	
+)	_	
+,	_	
+who	_	
+had	_	Being_obligated Have_associated Possession Required_event
+a	_	Measure_duration Process_end Quantity
+base	_	Infrastructure Locale_by_use Morality_evaluation Part_orientational
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Peloponnese	_	
+region	_	Locale
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Greek	_	Origin People_by_origin
+mainland	_	Locative_relation
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Mycenaeans	_	
+were	_	Existence
+an	_	Cause_to_end Process_end Quantity
+acquisitive	_	Mental_property
+race	_	Type
+who	_	
+came	_	Arriving Process_end
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+conquer	_	Conquering
+,	_	
+not	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+trade	_	Change_tool Exchange
+.	_	
+
+Their	_	
+extensive	_	
+military	_	Military
+campaigns	_	
+were	_	Existence
+later	_	Relative_time Temporal_subregion Time_vector
+chronicled	_	Recording
+by	_	Locative_relation Means
+Homer	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+his	_	
+epic	_	Fame Importance Text
+poems	_	Text
+The	_	Self_motion Temporal_collocation
+Odyssey	_	Travel
+and	_	
+The	_	Self_motion Temporal_collocation
+Iliad	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Rise	_	Change_position_on_a_scale Change_posture Dough_rising Getting_up Motion_directional Path_shape Resurrection Rising_to_a_challenge Sidereal_appearance
+of	_	Age Domain Origin Partitive
+Athens	_	
+
+The	_	Self_motion Temporal_collocation
+Dorians	_	
+,	_	
+who	_	
+came	_	Arriving Process_end
+overland	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+northern	_	Part_orientational
+Europe	_	
+,	_	
+conquered	_	Conquering
+the	_	Self_motion Temporal_collocation
+Mycenaeans	_	
+.	_	
+
+They	_	
+were	_	Existence
+a	_	Measure_duration Process_end Quantity
+barbaric	_	Social_interaction_evaluation
+race	_	Type
+,	_	
+and	_	
+their	_	
+custody	_	Detaining Possession
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+area	_	Dimension Fields Locale
+brought	_	Bringing Causation
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+a	_	Measure_duration Process_end Quantity
+dark	_	Dimension
+period	_	Frequency
+during	_	Temporal_collocation
+which	_	
+the	_	Self_motion Temporal_collocation
+written	_	Statement Text_creation
+word	_	Encoding Simple_name
+was	_	Existence
+forgotten	_	Remembering_information
+and	_	
+art	_	Craft Fields
+disappeared	_	Ceasing_to_be
+.	_	
+
+They	_	
+held	_	Containing
+sway	_	
+over	_	Locative_relation Process_completed_state Relational_quantity
+islands	_	Natural_features
+off	_	Accuracy Being_in_operation Locative_relation
+the	_	Self_motion Temporal_collocation
+northern	_	Part_orientational
+Greek	_	Origin People_by_origin
+coast	_	Motion Relational_natural_features Ride_vehicle Self_motion
+,	_	
+but	_	Concessive
+the	_	Self_motion Temporal_collocation
+Phoenicians	_	
+kept	_	Activity_ongoing
+control	_	Be_in_control Control Prohibiting
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+main	_	First_rank Importance
+sea	_	Natural_features
+routes	_	Roadways
+;	_	
+south	_	Direction Locative_relation Part_orientational
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+area	_	Dimension Fields Locale
+,	_	
+trade	_	Change_tool Exchange
+continued	_	Activity_ongoing Process_continue
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+usual	_	
+.	_	
+
+At	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+same	_	Identicality
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+,	_	
+city-states	_	Political_locales
+began	_	Activity_start Process_start
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+grow	_	Becoming Cause_expansion Change_position_on_a_scale Expansion Growing_food
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+influence	_	Influence_of_event_on_cognizer Objective_influence Subjective_influence
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+southern	_	Part_orientational
+Greek	_	Origin People_by_origin
+mainland	_	Locative_relation
+.	_	
+
+Athens	_	
+became	_	Becoming
+the	_	Self_motion Temporal_collocation
+most	_	Relational_quantity
+powerful	_	
+,	_	
+heralding	_	Omen
+the	_	Self_motion Temporal_collocation
+start	_	Activity_start Process_start Temporal_subregion
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+classical	_	
+Greek	_	Origin People_by_origin
+period	_	Frequency
+.	_	
+
+However	_	Concessive
+,	_	
+Greece	_	
+was	_	Existence
+not	_	
+yet	_	Continued_state_of_affairs
+a	_	Measure_duration Process_end Quantity
+country	_	Locale_by_use Political_locales
+;	_	
+each	_	
+city-state	_	Political_locales
+was	_	Existence
+self-governing	_	
+and	_	
+autonomous	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+new	_	Age Expertise Familiarity
+culture	_	
+spread	_	Dispersal Filling
+throughout	_	Locative_relation
+the	_	Self_motion Temporal_collocation
+Mediterranean	_	
+,	_	
+helped	_	Assistance
+by	_	Locative_relation Means
+a	_	Measure_duration Process_end Quantity
+huge	_	Size
+increase	_	Cause_change_of_position_on_a_scale Change_position_on_a_scale
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+migration	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+mainland	_	Locative_relation
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+new	_	Age Expertise Familiarity
+settlements	_	Colonization Locale_by_use
+such	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+Carthage	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+Greek	_	Origin People_by_origin
+city	_	Locale_by_use Political_locales
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+African	_	
+coast	_	Motion Relational_natural_features Ride_vehicle Self_motion
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Mediterranean	_	
+.	_	
+
+Culture	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+arts	_	Craft Fields
+flourished	_	Thriving
+once	_	Event_instance
+again	_	
+.	_	
+
+Athletic	_	
+prowess	_	Expertise
+was	_	Existence
+admired	_	Judgment
+and	_	
+the	_	Self_motion Temporal_collocation
+Olympic	_	
+games	_	
+were	_	Existence
+constituted	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+776	_	
+b.c.	_	
+,	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+promote	_	Cause_change_of_position_on_a_scale
+friendly	_	Sociability Social_interaction_evaluation
+competition	_	Competition
+.	_	
+
+Homer	_	
+wrote	_	Contacting Text_creation
+his	_	
+epic	_	Fame Importance Text
+works	_	Being_employed Being_operational Usefulness
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Chios	_	
+;	_	
+and	_	
+lyrical	_	
+poetry	_	Text
+was	_	Existence
+much	_	Relational_quantity
+admired	_	Judgment
+,	_	
+particularly	_	
+the	_	Self_motion Temporal_collocation
+work	_	Being_employed Being_operational Collaboration Dimension Labor_product Locale_by_use Usefulness Working_on
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+poets	_	
+Archilochos	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Paros	_	
+and	_	
+Sappho	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Lesvos	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+preeminent	_	
+islands	_	Natural_features
+of	_	Age Domain Origin Partitive
+this	_	
+era	_	Calendric_unit
+were	_	Existence
+Delos	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+sacred	_	
+island	_	Natural_features
+and	_	
+center	_	Locale_by_use Part_inner_outer
+of	_	Age Domain Origin Partitive
+religion	_	
+ruled	_	Leadership
+by	_	Locative_relation Means
+Athens	_	
+;	_	
+Samos	_	
+,	_	
+ruled	_	Leadership
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+tyrant	_	
+Polycrates	_	
+;	_	
+and	_	
+Naxos	_	
+,	_	
+whose	_	
+ruler	_	Leadership
+Lygdamis	_	
+undertook	_	Attempt
+some	_	Relational_quantity
+major	_	Importance
+building	_	Building Buildings
+projects	_	Project
+.	_	
+
+Archaeology	_	
+shows	_	Evidence
+that	_	Degree
+,	_	
+during	_	Temporal_collocation
+this	_	
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+,	_	
+societies	_	
+lived	_	Residence
+mainly	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+coastal	_	Natural_features
+trading	_	
+towns	_	Political_locales
+with	_	Accompaniment
+little	_	Relational_quantity Size
+settlement	_	Colonization Locale_by_use
+inland	_	Locative_relation
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Persian	_	People_by_origin
+Wars	_	Hostile_encounter
+
+As	_	Continued_state_of_affairs Performers_and_roles Relative_time
+Athens	_	
+rose	_	Change_position_on_a_scale Change_posture Motion_directional
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+influence	_	Influence_of_event_on_cognizer Objective_influence Subjective_influence
+and	_	
+power	_	Electricity Leadership
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+West	_	Direction Locative_relation Part_orientational
+,	_	
+it	_	
+was	_	Existence
+matched	_	Evaluative_comparison
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+East	_	Direction Locative_relation Part_orientational
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+rise	_	Change_position_on_a_scale Change_posture Dough_rising Getting_up Motion_directional Path_shape Resurrection Rising_to_a_challenge Sidereal_appearance
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Persian	_	People_by_origin
+Empire	_	Political_locales
+.	_	
+
+From	_	Delimitation_of_diversity Evidence Origin Time_vector
+a	_	Measure_duration Process_end Quantity
+power	_	Electricity Leadership
+base	_	Infrastructure Locale_by_use Morality_evaluation Part_orientational
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Anatolia	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+Persians	_	People_by_origin
+overran	_	Invading
+the	_	Self_motion Temporal_collocation
+eastern	_	Part_orientational
+Aegean	_	
+Islands	_	Natural_features
+and	_	
+set	_	Activity_ready_state Aggregate Attack Bail_decision Cause_change_of_consistency Cause_to_start Change_of_consistency Departing Intentionally_create Placing
+their	_	
+sights	_	Sensation Touring
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+Cyclades	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+490	_	
+b.c.	_	
+,	_	
+they	_	
+captured	_	Conquering
+sacred	_	
+Delos	_	
+and	_	
+razed	_	Destroying
+the	_	Self_motion Temporal_collocation
+settlements	_	Colonization Locale_by_use
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Naxos	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+island	_	Natural_features
+communities	_	Aggregate
+were	_	Existence
+undecided	_	
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+which	_	
+side	_	Part_orientational Taking_sides
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+back	_	Observable_body_parts Part_orientational Self_motion Taking_sides
+for	_	Causation Taking_sides
+a	_	Measure_duration Process_end Quantity
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+.	_	
+
+Paros	_	
+and	_	
+Andros	_	
+contributed	_	Giving
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Persian	_	People_by_origin
+armory	_	
+,	_	
+while	_	Concessive Measure_duration Relative_time
+others	_	Increment
+supported	_	Taking_sides
+Athens	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+two	_	Cardinal_numbers
+superpowers	_	
+finally	_	Time_vector
+clashed	_	Hostile_encounter
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+epic	_	Fame Importance Text
+battles	_	Hostile_encounter
+of	_	Age Domain Origin Partitive
+Marathon	_	
+and	_	
+Salamis	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+480	_	
+b.c.	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Persians	_	People_by_origin
+were	_	Existence
+defeated	_	Beat_opponent
+,	_	
+and	_	
+Athens	_	
+duly	_	
+punished	_	Rewards_and_punishments
+the	_	Self_motion Temporal_collocation
+islands	_	Natural_features
+that	_	Degree
+had	_	Being_obligated Have_associated Possession Required_event
+turned	_	Becoming Cause_change Moving_in_place
+against	_	Locative_relation Taking_sides
+it	_	
+.	_	
+
+Following	_	Relative_time
+its	_	
+victory	_	Finish_competition
+,	_	
+Athens	_	
+introduced	_	
+the	_	Self_motion Temporal_collocation
+concept	_	
+of	_	Age Domain Origin Partitive
+a	_	Measure_duration Process_end Quantity
+mutual	_	
+protection	_	Protecting
+alliance	_	Alliance
+(	_	
+a	_	Measure_duration Process_end Quantity
+kind	_	Social_interaction_evaluation Type
+of	_	Age Domain Origin Partitive
+NATO	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+ancient	_	Age Temporal_collocation
+world	_	Political_locales
+)	_	
+.	_	
+
+Several	_	Quantity
+islands	_	Natural_features
+and	_	
+Greek	_	Origin People_by_origin
+city-states	_	Political_locales
+agreed	_	Agree_or_refuse_to_act Be_in_agreement_on_assessment Make_agreement_on_action
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+work	_	Being_employed Being_operational Collaboration Dimension Labor_product Locale_by_use Usefulness Working_on
+together	_	Building Cause_to_amalgamate Collaboration
+,	_	
+and	_	
+created	_	Cause_to_start Creating Intentionally_create
+a	_	Measure_duration Process_end Quantity
+treasury	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+fund	_	
+their	_	
+plans	_	Project Purpose
+,	_	
+which	_	
+was	_	Existence
+held	_	Containing
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+island	_	Natural_features
+of	_	Age Domain Origin Partitive
+Delos	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+alliance	_	Alliance
+became	_	Becoming
+known	_	Awareness Being_named
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+the	_	Self_motion Temporal_collocation
+Delian	_	
+League	_	Organization
+.	_	
+
+Although	_	Concessive
+there	_	Existence Locative_relation
+were	_	Existence
+minor	_	
+internal	_	
+wrangles	_	Quarreling
+,	_	
+the	_	Self_motion Temporal_collocation
+league	_	Organization
+controlled	_	Control
+the	_	Self_motion Temporal_collocation
+Aegean	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+greater	_	
+Athenian	_	
+Empire	_	Political_locales
+for	_	Causation Taking_sides
+most	_	Relational_quantity
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+fifth	_	Ordinal_numbers Part_whole
+century	_	Calendric_unit Measure_duration
+b.c.	_	
+.	_	
+
+Later	_	Relative_time Temporal_subregion Time_vector
+,	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+454	_	
+b.c.	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+treasury	_	
+was	_	Existence
+transferred	_	Transfer
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Athens	_	
+and	_	
+its	_	
+deposits	_	
+were	_	Existence
+used	_	Using
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+finance	_	
+the	_	Self_motion Temporal_collocation
+construction	_	Building
+of	_	Age Domain Origin Partitive
+many	_	Quantity
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+major	_	Importance
+buildings	_	Buildings
+and	_	
+temples	_	Buildings
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Classical	_	
+Age	_	Age Aging Calendric_unit
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+431	_	
+b.c.	_	
+,	_	
+Athens	_	
+began	_	Activity_start Process_start
+a	_	Measure_duration Process_end Quantity
+war	_	Hostile_encounter
+with	_	Accompaniment
+its	_	
+neighbor	_	Locative_relation People_by_residence
+and	_	
+league	_	Organization
+member	_	Membership Observable_body_parts
+Sparta	_	
+.	_	
+
+Although	_	Concessive
+the	_	Self_motion Temporal_collocation
+islands	_	Natural_features
+saw	_	Categorization Causation Perception_experience
+little	_	Relational_quantity Size
+action	_	Intentionally_act
+,	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+the	_	Self_motion Temporal_collocation
+war	_	Hostile_encounter
+went	_	Becoming Motion Process_continue
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+they	_	
+could	_	Capability Possibility
+see	_	Categorization Causation Grasp Perception_experience Reference_text Relational_political_locales Touring
+that	_	Degree
+Athens	_	
+was	_	Existence
+slowly	_	Taking_time
+losing	_	Earnings_and_losses Finish_competition
+its	_	
+power	_	Electricity Leadership
+.	_	
+
+Before	_	Time_vector
+the	_	Self_motion Temporal_collocation
+end	_	Becoming Cause_to_end Process_end Temporal_subregion
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+war	_	Hostile_encounter
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+401	_	
+b.c.	_	
+,	_	
+many	_	Quantity
+islands	_	Natural_features
+had	_	Being_obligated Have_associated Possession Required_event
+already	_	Time_vector
+transferred	_	Transfer
+their	_	
+allegiance	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+victors	_	Finish_competition
+,	_	
+who	_	
+were	_	Existence
+led	_	Causation Cotheme Leadership
+by	_	Locative_relation Means
+Philip	_	
+II	_	
+of	_	Age Domain Origin Partitive
+Macedon	_	
+.	_	
+
+He	_	
+was	_	Existence
+followed	_	Compliance Relative_time
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+336	_	
+b.c.	_	
+by	_	Locative_relation Means
+his	_	
+son	_	Kinship
+Alexander	_	
+the	_	Self_motion Temporal_collocation
+Great	_	Desirability Expertise Usefulness
+,	_	
+one	_	Cardinal_numbers
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+most	_	Relational_quantity
+remarkable	_	
+leaders	_	Leadership
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+history	_	Fields History Individual_history Out_of_existence Text
+.	_	
+
+His	_	
+rise	_	Change_position_on_a_scale Change_posture Dough_rising Getting_up Motion_directional Path_shape Resurrection Rising_to_a_challenge Sidereal_appearance
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+power	_	Electricity Leadership
+ushered	_	Sign
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Hellenistic	_	
+period	_	Frequency
+.	_	
+
+Hellenistic	_	
+and	_	
+Roman	_	Origin
+Periods	_	Frequency
+
+When	_	Temporal_collocation
+Alexander	_	
+went	_	Becoming Motion Process_continue
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+conquer	_	Conquering
+lands	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+far	_	Degree
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+east	_	Direction Locative_relation Part_orientational
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+India	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+Aegean	_	
+became	_	Becoming
+a	_	Measure_duration Process_end Quantity
+crossroads	_	
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+long	_	Desiring Dimension Duration_attribute Likelihood Measurable_attributes
+trading	_	
+routes	_	Process_continue Roadways
+.	_	
+
+Delos	_	
+became	_	Becoming
+one	_	Cardinal_numbers
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+largest	_	Dimension Size
+marketplaces	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+empire	_	Political_locales
+.	_	
+
+Following	_	Relative_time
+Alexander	_	
+'s	_	Existence Required_event
+death	_	Death
+,	_	
+his	_	
+lands	_	
+were	_	Existence
+divided	_	Separating
+among	_	Be_subset_of Inclusion Locative_relation
+his	_	
+generals	_	Leadership
+.	_	
+
+Much	_	Relational_quantity
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Aegean	_	
+came	_	Arriving Process_end
+under	_	Locative_relation Relational_quantity
+the	_	Self_motion Temporal_collocation
+rule	_	Leadership Ruling_legally
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Ptolemies	_	
+,	_	
+along	_	Accompaniment Locative_relation
+with	_	Accompaniment
+Egypt	_	
+.	_	
+
+Cleopatra	_	
+was	_	Existence
+a	_	Measure_duration Process_end Quantity
+member	_	Membership Observable_body_parts
+of	_	Age Domain Origin Partitive
+this	_	
+famous	_	Fame
+ruling	_	Documents Leadership Verdict
+clan	_	Kinship
+.	_	
+
+Although	_	Concessive
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+88	_	
+b.c.	_	
+,	_	
+Mithradates	_	
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+a	_	Measure_duration Process_end Quantity
+swift	_	Taking_time
+and	_	
+successful	_	Success_or_failure Successful_action
+raid	_	Attack
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+East	_	Direction Locative_relation Part_orientational
+across	_	Dimension
+Asia	_	
+Minor	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+Aegean	_	
+Islands	_	Natural_features
+,	_	
+the	_	Self_motion Temporal_collocation
+next	_	Locative_relation Relative_time
+major	_	Importance
+power	_	Electricity Leadership
+change	_	Cause_change Change_tool Exchange Exchange_currency Replacing Undergo_change
+brought	_	Bringing Causation
+influence	_	Influence_of_event_on_cognizer Objective_influence Subjective_influence
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+West	_	Direction Locative_relation Part_orientational
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Greek	_	Origin People_by_origin
+Hellenistic	_	
+Empire	_	Political_locales
+was	_	Existence
+gradually	_	Taking_time
+,	_	
+and	_	
+peacefully	_	
+,	_	
+absorbed	_	Mental_stimulus_exp_focus Soaking_up
+into	_	Goal Into
+the	_	Self_motion Temporal_collocation
+Roman	_	Origin
+Empire	_	Political_locales
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Byzantine	_	
+Empire	_	Political_locales
+and	_	
+the	_	Self_motion Temporal_collocation
+Coming	_	Arriving
+of	_	Age Domain Origin Partitive
+Christianity	_	
+
+The	_	Self_motion Temporal_collocation
+Romans	_	
+ruled	_	Leadership
+a	_	Measure_duration Process_end Quantity
+pagan	_	People_by_religion
+empire	_	Political_locales
+,	_	
+but	_	Concessive
+the	_	Self_motion Temporal_collocation
+Aegean	_	
+had	_	Being_obligated Have_associated Possession Required_event
+an	_	Cause_to_end Process_end Quantity
+important	_	Importance
+influence	_	Influence_of_event_on_cognizer Objective_influence Subjective_influence
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+early	_	Relative_time Temporal_collocation Temporal_subregion
+development	_	Cause_to_make_progress Event Progress
+of	_	Age Domain Origin Partitive
+Christianity	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+a.d.	_	
+95	_	
+,	_	
+St.	_	
+John	_	
+arrived	_	Arriving
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Patmos	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+small	_	Dimension Size
+rocky	_	
+island	_	Natural_features
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Dodecanese	_	
+,	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+a	_	Measure_duration Process_end Quantity
+political	_	
+prisoner	_	
+.	_	
+
+It	_	
+was	_	Existence
+here	_	Locative_relation
+that	_	Degree
+he	_	
+wrote	_	Contacting Text_creation
+what	_	
+was	_	Existence
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+become	_	Becoming
+the	_	Self_motion Temporal_collocation
+final	_	Ordinal_numbers Process_end Version_sequence
+book	_	Arrest Part_ordered_segments Text
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+New	_	Age Expertise Familiarity
+Testament	_	Documents
+,	_	
+the	_	Self_motion Temporal_collocation
+Book	_	Arrest Part_ordered_segments Text
+of	_	Age Domain Origin Partitive
+Revelation	_	Reveal_secret
+.	_	
+
+It	_	
+was	_	Existence
+n't	_	
+until	_	Time_vector
+a.d.	_	
+330	_	
+,	_	
+however	_	Concessive
+,	_	
+when	_	Temporal_collocation
+the	_	Self_motion Temporal_collocation
+newly	_	Temporal_collocation
+converted	_	Cause_change
+Emperor	_	Leadership
+Constantine	_	
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+Byzantium	_	
+,	_	
+renamed	_	Name_conferral
+Constantinople	_	
+,	_	
+capital	_	Money Relational_political_locales Severity_of_offense
+of	_	Age Domain Origin Partitive
+his	_	
+Eastern	_	Part_orientational
+Empire	_	Political_locales
+that	_	Degree
+Christianity	_	
+was	_	Existence
+assured	_	Likelihood Telling
+of	_	Age Domain Origin Partitive
+its	_	
+dominant	_	Dominate_competitor Dominate_situation
+role	_	Performers_and_roles
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+future	_	Possibilities Temporal_collocation
+Greek	_	Origin People_by_origin
+life	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Byzantine	_	
+Empire	_	Political_locales
+had	_	Being_obligated Have_associated Possession Required_event
+powerful	_	
+and	_	
+well-fortified	_	
+cities	_	Locale_by_use Political_locales
+,	_	
+but	_	Concessive
+the	_	Self_motion Temporal_collocation
+countryside	_	Locale_by_use
+and	_	
+the	_	Self_motion Temporal_collocation
+outlying	_	Locative_relation
+islands	_	Natural_features
+were	_	Existence
+ravaged	_	
+by	_	Locative_relation Means
+waves	_	Quantity
+of	_	Age Domain Origin Partitive
+invaders	_	Attack
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+an	_	Cause_to_end Process_end Quantity
+attempt	_	Attempt
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+counter	_	Architectural_part Communication_response Thwarting
+a	_	Measure_duration Process_end Quantity
+threat	_	Commitment Risky_situation
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+Saracen	_	
+Muslims	_	People_by_religion
+,	_	
+a	_	Measure_duration Process_end Quantity
+new	_	Age Expertise Familiarity
+potent	_	
+religious	_	
+force	_	Being_in_effect Causation Cause_motion Execute_plan Military
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+East	_	Direction Locative_relation Part_orientational
+,	_	
+the	_	Self_motion Temporal_collocation
+Byzantine	_	
+army	_	Aggregate Military
+forcefully	_	
+enlisted	_	Becoming_a_member
+the	_	Self_motion Temporal_collocation
+men	_	People
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+islands	_	Natural_features
+.	_	
+
+Disease	_	Medical_conditions
+took	_	Bringing Conquering Have_as_requirement Ride_vehicle Taking Taking_time
+a	_	Measure_duration Process_end Quantity
+further	_	Increment
+toll	_	Make_noise Sounds
+.	_	
+
+By	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Crusades	_	
+,	_	
+many	_	Quantity
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Aegean	_	
+islands	_	Natural_features
+had	_	Being_obligated Have_associated Possession Required_event
+been	_	Existence
+practically	_	
+depopulated	_	
+.	_	
+
+As	_	Continued_state_of_affairs Performers_and_roles Relative_time
+the	_	Self_motion Temporal_collocation
+Byzantine	_	
+Empire	_	Political_locales
+weakened	_	Cause_change_of_strength
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+end	_	Becoming Cause_to_end Process_end Temporal_subregion
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+first	_	First_experience Ordinal_numbers
+millennium	_	Calendric_unit Measure_duration
+,	_	
+Crusader	_	
+forces	_	Military
+were	_	Existence
+sent	_	Causation Sending
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Western	_	Part_orientational
+Europe	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+counter	_	Architectural_part Communication_response Thwarting
+the	_	Self_motion Temporal_collocation
+Muslim	_	People_by_religion
+forces	_	Military
+and	_	
+retake	_	
+Jerusalem	_	
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+Christian	_	People_by_religion
+faith	_	Trust
+.	_	
+
+Unfortunately	_	
+,	_	
+their	_	
+zeal	_	
+was	_	Existence
+not	_	
+matched	_	Evaluative_comparison
+by	_	Locative_relation Means
+their	_	
+discrimination	_	Differentiation
+.	_	
+
+The	_	Self_motion Temporal_collocation
+crusaders	_	
+swept	_	
+through	_	Activity_done_state Time_vector Used_up
+the	_	Self_motion Temporal_collocation
+land	_	Locale_by_ownership Natural_features Political_locales
+of	_	Age Domain Origin Partitive
+Byzantium	_	
+slaughtering	_	Killing
+Christians	_	People_by_religion
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+well	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+Muslims	_	People_by_religion
+,	_	
+civilians	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+well	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+soldiers	_	People_by_vocation
+.	_	
+
+Constantinople	_	
+was	_	Existence
+taken	_	Bringing Conquering Event Experiencer_focus Removing
+by	_	Locative_relation Means
+Crusader	_	
+forces	_	Military
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1204	_	
+,	_	
+and	_	
+they	_	
+stripped	_	Removing
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+of	_	Age Domain Origin Partitive
+many	_	Quantity
+of	_	Age Domain Origin Partitive
+its	_	
+finest	_	Desirability
+treasures	_	
+--	_	
+which	_	
+now	_	Temporal_collocation
+grace	_	
+the	_	Self_motion Temporal_collocation
+public	_	Secrecy_status
+buildings	_	Buildings
+of	_	Age Domain Origin Partitive
+Venice	_	
+--	_	
+although	_	Concessive
+a	_	Measure_duration Process_end Quantity
+large	_	Dimension Size
+consignment	_	
+of	_	Age Domain Origin Partitive
+books	_	Text
+and	_	
+manuscripts	_	Text
+was	_	Existence
+transferred	_	Transfer
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+monastery	_	Buildings
+at	_	Locative_relation Relational_quantity Temporal_collocation
+Patmos	_	
+before	_	Time_vector
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+fell	_	Change_position_on_a_scale Conquering Motion_directional Natural_features
+.	_	
+
+While	_	Concessive Measure_duration Relative_time
+Byzantine	_	
+land	_	Locale_by_ownership Natural_features Political_locales
+was	_	Existence
+being	_	
+divided	_	Separating
+,	_	
+there	_	Existence Locative_relation
+was	_	Existence
+no	_	Quantity
+one	_	Cardinal_numbers
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+control	_	Be_in_control Control Prohibiting
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+seas	_	Natural_features
+,	_	
+so	_	Causation Degree Sufficiency
+pirates	_	Piracy
+raided	_	Attack
+towns	_	Political_locales
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+many	_	Quantity
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+islands	_	Natural_features
+.	_	
+
+To	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+counter	_	Architectural_part Communication_response Thwarting
+this	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+populations	_	Aggregate
+moved	_	Cause_motion Motion
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+their	_	
+homes	_	Attention_getting Buildings
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+coast	_	Motion Relational_natural_features Ride_vehicle Self_motion
+and	_	
+built	_	Building
+settlements	_	Colonization Locale_by_use
+inland	_	Locative_relation
+,	_	
+out	_	Departing Expected_location_of_person Intentionally_act Locative_relation Sleep Surviving
+of	_	Age Domain Origin Partitive
+sight	_	Range Sensation
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+raiding	_	Attack
+parties	_	Aggregate Social_event
+.	_	
+
+This	_	
+created	_	Cause_to_start Creating Intentionally_create
+a	_	Measure_duration Process_end Quantity
+pattern	_	Pattern
+seen	_	Grasp Perception_experience
+today	_	Calendric_unit Temporal_collocation
+throughout	_	Locative_relation
+the	_	Self_motion Temporal_collocation
+Aegean	_	
+of	_	Age Domain Origin Partitive
+a	_	Measure_duration Process_end Quantity
+small	_	Dimension Size
+port	_	Locale_by_use
+(	_	
+skala	_	
+)	_	
+which	_	
+serves	_	Assistance
+an	_	Cause_to_end Process_end Quantity
+inland	_	Locative_relation
+settlement	_	Colonization Locale_by_use
+or	_	
+chora	_	
+,	_	
+making	_	Causation Cause_change Cooking_creation Earnings_and_losses Intentionally_create Manufacturing
+it	_	
+easier	_	Difficulty
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+protect	_	Protecting
+the	_	Self_motion Temporal_collocation
+island	_	Natural_features
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+attack	_	Attack
+.	_	
+
+The	_	Self_motion Temporal_collocation
+minor	_	
+Aegean	_	
+Islands	_	Natural_features
+were	_	Existence
+taken	_	Bringing Conquering Event Experiencer_focus Removing
+by	_	Locative_relation Means
+various	_	Diversity
+powerful	_	
+European	_	Origin
+noblemen	_	
+,	_	
+many	_	Quantity
+of	_	Age Domain Origin Partitive
+whom	_	
+were	_	Existence
+Genoese	_	
+or	_	
+Venetian	_	
+,	_	
+such	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+Marco	_	
+Sanudo	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Naxos	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+noblemen	_	
+had	_	Being_obligated Have_associated Possession Required_event
+free	_	Expensiveness
+rein	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+create	_	Cause_to_start Creating Intentionally_create
+their	_	
+own	_	Possession
+fiefdoms	_	Political_locales
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Venetians	_	
+fortified	_	Cause_change_of_strength
+their	_	
+main	_	First_rank Importance
+towns	_	Political_locales
+--	_	
+Naxos	_	
+Town	_	Political_locales
+and	_	
+Antiparos	_	
+Town	_	Political_locales
+are	_	Existence
+wonderful	_	Desirability Expertise Usefulness
+examples	_	Instance
+of	_	Age Domain Origin Partitive
+this	_	
+--	_	
+creating	_	Creating Intentionally_create
+labyrinths	_	
+of	_	Age Domain Origin Partitive
+narrow	_	Cause_expansion Clarity_of_resolution Dimension
+alleys	_	
+and	_	
+cul-de-sacs	_	Roadways
+that	_	Degree
+were	_	Existence
+designed	_	Coming_up_with
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+confuse	_	Experiencer_obj
+and	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+demoralize	_	
+invaders	_	Attack
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Genoese	_	
+took	_	Bringing Conquering Have_as_requirement Ride_vehicle Taking Taking_time
+control	_	Be_in_control Control Prohibiting
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+eastern	_	Part_orientational
+Aegean	_	
+Islands	_	Natural_features
+,	_	
+which	_	
+were	_	Existence
+considered	_	Categorization Cogitation
+the	_	Self_motion Temporal_collocation
+most	_	Relational_quantity
+valuable	_	Usefulness
+for	_	Causation Taking_sides
+agriculture	_	
+and	_	
+trade	_	Change_tool Exchange
+.	_	
+
+After	_	Relative_time Time_vector
+a	_	Measure_duration Process_end Quantity
+final	_	Ordinal_numbers Process_end Version_sequence
+bloody	_	
+defeat	_	Beat_opponent
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+Muslims	_	People_by_religion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1309	_	
+,	_	
+Christian	_	People_by_religion
+forces	_	Military
+were	_	Existence
+forced	_	Causation Cause_motion
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+Holy	_	
+Land	_	Locale_by_ownership Natural_features Political_locales
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Knights	_	
+of	_	Age Domain Origin Partitive
+St.	_	
+John	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+holy	_	
+military	_	Military
+force	_	Being_in_effect Causation Cause_motion Execute_plan Military
+,	_	
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+their	_	
+way	_	Means Possibilities Roadways Self_motion
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Rhodes	_	
+and	_	
+Kos	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Dodecanese	_	
+.	_	
+
+They	_	
+began	_	Activity_start Process_start
+the	_	Self_motion Temporal_collocation
+process	_	Means Process Processing_materials
+of	_	Age Domain Origin Partitive
+building	_	Building Buildings
+their	_	
+strong	_	Being_strong Exertive_force
+citadels	_	Buildings
+,	_	
+and	_	
+reinforcing	_	Cause_change_of_strength
+the	_	Self_motion Temporal_collocation
+Christian	_	People_by_religion
+faith	_	Trust
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+islands	_	Natural_features
+.	_	
+
+However	_	Concessive
+,	_	
+they	_	
+had	_	Being_obligated Have_associated Possession Required_event
+not	_	
+seen	_	Grasp Perception_experience
+the	_	Self_motion Temporal_collocation
+last	_	Duration_relation Ordinal_numbers Relative_time
+of	_	Age Domain Origin Partitive
+their	_	
+Muslim	_	People_by_religion
+foe	_	
+.	_	
+
+A	_	Measure_duration Process_end Quantity
+force	_	Being_in_effect Causation Cause_motion Execute_plan Military
+was	_	Existence
+gaining	_	Getting
+strength	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+east	_	Direction Locative_relation Part_orientational
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+threaten	_	Commitment Omen
+their	_	
+new	_	Age Expertise Familiarity
+bases	_	Locale_by_use
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Coming	_	Arriving
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Ottoman	_	Origin People_by_origin
+Turks	_	People_by_origin
+
+The	_	Self_motion Temporal_collocation
+Ottomans	_	People_by_origin
+were	_	Existence
+roving	_	
+invaders	_	Attack
+who	_	
+came	_	Arriving Process_end
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+east	_	Direction Locative_relation Part_orientational
+,	_	
+taking	_	Event Ingest_substance Taking
+land	_	Locale_by_ownership Natural_features Political_locales
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+what	_	
+is	_	Existence
+now	_	Temporal_collocation
+Turkey	_	Food
+.	_	
+
+By	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+end	_	Becoming Cause_to_end Process_end Temporal_subregion
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+13th	_	Ordinal_numbers
+century	_	Calendric_unit Measure_duration
+,	_	
+they	_	
+began	_	Activity_start Process_start
+their	_	
+first	_	First_experience Ordinal_numbers
+raids	_	Attack
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+Aegean	_	
+Islands	_	Natural_features
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1453	_	
+,	_	
+they	_	
+took	_	Bringing Conquering Have_as_requirement Ride_vehicle Taking Taking_time
+Constantinople	_	
+,	_	
+and	_	
+immediately	_	
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+it	_	
+their	_	
+capital	_	Money Relational_political_locales Severity_of_offense
+,	_	
+renaming	_	Name_conferral
+it	_	
+Istanbul	_	
+.	_	
+
+They	_	
+then	_	Temporal_collocation Time_vector
+set	_	Activity_ready_state Aggregate Attack Bail_decision Cause_change_of_consistency Cause_to_start Change_of_consistency Departing Intentionally_create Placing
+their	_	
+sights	_	Sensation Touring
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+islands	_	Natural_features
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Knights	_	
+of	_	Age Domain Origin Partitive
+St.	_	
+John	_	
+and	_	
+,	_	
+after	_	Relative_time Time_vector
+an	_	Cause_to_end Process_end Quantity
+unsuccessful	_	Success_or_failure Successful_action
+siege	_	Besieging
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1480	_	
+,	_	
+they	_	
+finally	_	Time_vector
+ejected	_	Removing
+the	_	Self_motion Temporal_collocation
+knights	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+Dodecanese	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1522	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1566	_	
+,	_	
+they	_	
+wrested	_	
+Chios	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+Genoese	_	
+,	_	
+bolstering	_	Supporting
+their	_	
+hold	_	Containing Defend Detaining Inhibit_movement Manipulation Opinion
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+eastern	_	Part_orientational
+Aegean	_	
+Islands	_	Natural_features
+,	_	
+but	_	Concessive
+the	_	Self_motion Temporal_collocation
+Cyclades	_	
+remained	_	State_continue
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Venetian	_	
+hands	_	Observable_body_parts
+for	_	Causation Taking_sides
+another	_	Increment
+generation	_	Intentionally_create Stage_of_progress
+or	_	
+more	_	Increment
+--	_	
+Tinos	_	
+was	_	Existence
+the	_	Self_motion Temporal_collocation
+last	_	Duration_relation Ordinal_numbers Relative_time
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+fall	_	Attack Becoming_aware Change_position_on_a_scale Conquering Motion_directional
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1715	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Ottomans	_	People_by_origin
+brought	_	Bringing Causation
+new	_	Age Expertise Familiarity
+influences	_	Objective_influence
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+islands	_	Natural_features
+that	_	Degree
+they	_	
+controlled	_	Control
+,	_	
+forming	_	Creating
+a	_	Measure_duration Process_end Quantity
+large	_	Dimension Size
+empire	_	Political_locales
+that	_	Degree
+stretched	_	Expansion
+around	_	Dimension Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+eastern	_	Part_orientational
+Mediterranean	_	
+.	_	
+
+Toward	_	
+Greek	_	Origin People_by_origin
+Independence	_	Change_of_leadership Contingency
+
+However	_	Concessive
+,	_	
+a	_	Measure_duration Process_end Quantity
+movement	_	
+was	_	Existence
+growing	_	Change_position_on_a_scale Expansion
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+Greek	_	Origin People_by_origin
+peninsula	_	Natural_features
+against	_	Locative_relation Taking_sides
+Ottoman	_	Origin People_by_origin
+rule	_	Leadership Ruling_legally
+and	_	
+for	_	Causation Taking_sides
+an	_	Cause_to_end Process_end Quantity
+independent	_	Contingency
+Greek	_	Origin People_by_origin
+state	_	Political_locales State_of_entity Statement
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1770	_	
+,	_	
+Russia	_	
+came	_	Arriving Process_end
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+aid	_	Assistance
+the	_	Self_motion Temporal_collocation
+Greeks	_	People_by_origin
+(	_	
+defined	_	Categorization Communicate_categorization
+by	_	Locative_relation Means
+their	_	
+Orthodox	_	
+religion	_	
+rather	_	Time_vector
+than	_	Time_vector
+by	_	Locative_relation Means
+historical	_	
+geographical	_	
+boundaries	_	Boundary
+)	_	
+,	_	
+declaring	_	Statement
+war	_	Hostile_encounter
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+Ottoman	_	Origin People_by_origin
+Empire	_	Political_locales
+and	_	
+occupying	_	
+several	_	Quantity
+Aegean	_	
+islands	_	Natural_features
+until	_	Time_vector
+1774	_	
+.	_	
+
+Graffiti	_	
+written	_	Statement Text_creation
+by	_	Locative_relation Means
+Russian	_	Origin
+soldiers	_	People_by_vocation
+can	_	Capability Containers Firing Likelihood Measure_volume Possibility Preserving
+be	_	Existence Performers_and_roles
+seen	_	Grasp Perception_experience
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+caves	_	Natural_features
+of	_	Age Domain Origin Partitive
+Antiparos	_	
+.	_	
+
+Although	_	Concessive
+this	_	
+attempt	_	Attempt
+was	_	Existence
+unsuccessful	_	Success_or_failure Successful_action
+,	_	
+the	_	Self_motion Temporal_collocation
+campaign	_	
+for	_	Causation Taking_sides
+a	_	Measure_duration Process_end Quantity
+Greek	_	Origin People_by_origin
+state	_	Political_locales State_of_entity Statement
+continued	_	Activity_ongoing Process_continue
+into	_	Goal Into
+the	_	Self_motion Temporal_collocation
+19th	_	Ordinal_numbers
+century	_	Calendric_unit Measure_duration
+and	_	
+began	_	Activity_start Process_start
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+grow	_	Becoming Cause_expansion Change_position_on_a_scale Expansion Growing_food
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+strength	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Aegean	_	
+Islands	_	Natural_features
+played	_	Performers_and_roles
+their	_	
+part	_	Membership Part_whole Performers_and_roles Separating
+.	_	
+
+Lesvos	_	
+,	_	
+Chios	_	
+,	_	
+and	_	
+Samos	_	
+lay	_	Attack Being_located Birth Placing Text
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+important	_	Importance
+shipping	_	Sending
+lanes	_	Roadways
+,	_	
+and	_	
+patriots	_	
+began	_	Activity_start Process_start
+disrupting	_	
+Ottoman	_	Origin People_by_origin
+cargo	_	Store
+traffic	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+return	_	Arriving Resurrection
+,	_	
+the	_	Self_motion Temporal_collocation
+Turks	_	People_by_origin
+violently	_	
+put	_	Causation Encoding Placing
+down	_	Being_operational Cause_change_of_position_on_a_scale Direction Ingestion Locative_relation Willingness
+every	_	Frequency
+insurrection	_	Change_of_leadership
+,	_	
+including	_	Inclusion
+the	_	Self_motion Temporal_collocation
+massacre	_	Killing
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Chios	_	
+,	_	
+when	_	Temporal_collocation
+22,000	_	
+people	_	Colonization People
+were	_	Existence
+slaughtered	_	Killing
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Ottoman	_	Origin People_by_origin
+Empire	_	Political_locales
+was	_	Existence
+weakening	_	
+,	_	
+however	_	Concessive
+,	_	
+and	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1821	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+peoples	_	People
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Greek	_	Origin People_by_origin
+mainland	_	Locative_relation
+achieved	_	Accomplishment
+nationhood	_	
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+first	_	First_experience Ordinal_numbers
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Cyclades	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+Sporades	_	
+island	_	Natural_features
+chains	_	Businesses
+were	_	Existence
+also	_	
+included	_	Inclusion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+this	_	
+new	_	Age Expertise Familiarity
+state	_	Political_locales State_of_entity Statement
+.	_	
+
+A	_	Measure_duration Process_end Quantity
+new	_	Age Expertise Familiarity
+sense	_	Linguistic_meaning Perception_experience Sensation
+of	_	Age Domain Origin Partitive
+identity	_	Identicality
+enveloped	_	Adorning
+Greek	_	Origin People_by_origin
+peoples	_	People
+throughout	_	Locative_relation
+the	_	Self_motion Temporal_collocation
+Aegean	_	
+,	_	
+thus	_	
+commencing	_	Activity_start
+a	_	Measure_duration Process_end Quantity
+movement	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+expand	_	Cause_expansion Expansion
+Greece	_	
+and	_	
+unify	_	Amalgamation Cause_to_amalgamate
+the	_	Self_motion Temporal_collocation
+disparate	_	Similarity
+Orthodox	_	
+populations	_	Aggregate
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Twentieth	_	
+Century	_	Calendric_unit Measure_duration
+
+A	_	Measure_duration Process_end Quantity
+series	_	Sequence
+of	_	Age Domain Origin Partitive
+disastrous	_	Catastrophe
+decisions	_	Deciding
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+beginning	_	Activity_start Process_start Temporal_subregion
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+20th	_	
+century	_	Calendric_unit Measure_duration
+began	_	Activity_start Process_start
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+sound	_	Appearance Make_noise Natural_features Sensation Sounds
+a	_	Measure_duration Process_end Quantity
+death	_	Death
+knell	_	
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+Ottoman	_	Origin People_by_origin
+Empire	_	Political_locales
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Turks	_	People_by_origin
+lost	_	Earnings_and_losses Finish_competition Mental_stimulus_exp_focus
+a	_	Measure_duration Process_end Quantity
+short	_	Body_description_holistic Change_event_duration Dimension Duration_attribute
+war	_	Hostile_encounter
+with	_	Accompaniment
+Italy	_	
+,	_	
+and	_	
+were	_	Existence
+forced	_	Causation Cause_motion
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+relinquish	_	Surrendering_possession
+the	_	Self_motion Temporal_collocation
+Dodecanese	_	
+islands	_	Natural_features
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Italians	_	People_by_origin
+.	_	
+
+Greece	_	
+took	_	Bringing Conquering Have_as_requirement Ride_vehicle Taking Taking_time
+this	_	
+opportunity	_	Opportunity
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+absorb	_	Soaking_up
+the	_	Self_motion Temporal_collocation
+islands	_	Natural_features
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+northern	_	Part_orientational
+and	_	
+eastern	_	Part_orientational
+Aegean	_	
+and	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+add	_	Cause_change_of_position_on_a_scale Cause_to_be_included Commutative_process Statement
+Macedonia	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+its	_	
+mainland	_	Locative_relation
+territories	_	Political_locales
+.	_	
+
+Following	_	Relative_time
+this	_	
+debacle	_	Catastrophe
+,	_	
+the	_	Self_motion Temporal_collocation
+Ottomans	_	People_by_origin
+then	_	Temporal_collocation Time_vector
+allied	_	
+themselves	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Germany	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+World	_	Political_locales
+War	_	Hostile_encounter
+I	_	
+,	_	
+losing	_	Earnings_and_losses Finish_competition
+more	_	Increment
+territory	_	Political_locales
+with	_	Accompaniment
+the	_	Self_motion Temporal_collocation
+defeat	_	Beat_opponent
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Germans	_	People_by_origin
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+that	_	Degree
+war	_	Hostile_encounter
+.	_	
+
+Greece	_	
+was	_	Existence
+handed	_	Giving
+a	_	Measure_duration Process_end Quantity
+strip	_	Emptying Removing Shapes
+of	_	Age Domain Origin Partitive
+land	_	Locale_by_ownership Natural_features Political_locales
+along	_	Accompaniment Locative_relation
+the	_	Self_motion Temporal_collocation
+western	_	Part_orientational
+coast	_	Motion Relational_natural_features Ride_vehicle Self_motion
+of	_	Age Domain Origin Partitive
+Asia	_	
+Minor	_	
+,	_	
+which	_	
+for	_	Causation Taking_sides
+over	_	Locative_relation Process_completed_state Relational_quantity
+2,000	_	
+years	_	Calendric_unit Measure_duration
+had	_	Being_obligated Have_associated Possession Required_event
+had	_	Being_obligated Have_associated Possession Required_event
+a	_	Measure_duration Process_end Quantity
+substantial	_	
+Greek	_	Origin People_by_origin
+population	_	Aggregate
+.	_	
+
+Greece	_	
+moved	_	Cause_motion Motion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+administer	_	Leadership
+the	_	Self_motion Temporal_collocation
+land	_	Locale_by_ownership Natural_features Political_locales
+,	_	
+but	_	Concessive
+a	_	Measure_duration Process_end Quantity
+new	_	Age Expertise Familiarity
+influence	_	Influence_of_event_on_cognizer Objective_influence Subjective_influence
+upset	_	Emotion_directed Experiencer_focus Experiencer_obj Preventing
+any	_	Quantity
+grand	_	Dimension
+dreams	_	
+of	_	Age Domain Origin Partitive
+making	_	Causation Cause_change Cooking_creation Earnings_and_losses Intentionally_create Manufacturing
+this	_	
+region	_	Locale
+a	_	Measure_duration Process_end Quantity
+part	_	Membership Part_whole Performers_and_roles Separating
+of	_	Age Domain Origin Partitive
+greater	_	
+Greece	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1923	_	
+,	_	
+Turkey	_	Food
+broke	_	Cause_to_fragment Wealthiness
+away	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+tired	_	Biological_urge
+Ottoman	_	Origin People_by_origin
+rulers	_	Leadership
+,	_	
+and	_	
+Kemal	_	
+Ataturk	_	
+rose	_	Change_position_on_a_scale Change_posture Motion_directional
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+power	_	Electricity Leadership
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+a	_	Measure_duration Process_end Quantity
+wave	_	Body_movement Gesture Hair_configuration Moving_in_place Quantity
+of	_	Age Domain Origin Partitive
+popular	_	Desirability Popularity
+support	_	Evidence Supporting Taking_sides
+.	_	
+
+He	_	
+promised	_	Commitment
+a	_	Measure_duration Process_end Quantity
+modern	_	Stage_of_progress Temporal_collocation
+state	_	Political_locales State_of_entity Statement
+for	_	Causation Taking_sides
+his	_	
+people	_	Colonization People
+,	_	
+but	_	Concessive
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+the	_	Self_motion Temporal_collocation
+situation	_	
+became	_	Becoming
+volatile	_	
+,	_	
+civil	_	Social_interaction_evaluation
+strife	_	Hostile_encounter
+broke	_	Cause_to_fragment Process_start Wealthiness
+out	_	Departing Expected_location_of_person Intentionally_act Locative_relation Sleep Surviving
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Turkish	_	Origin
+cities	_	Locale_by_use Political_locales
+,	_	
+and	_	
+those	_	
+considered	_	Categorization Cogitation
+Greek	_	Origin People_by_origin
+were	_	Existence
+victims	_	Undergoing
+of	_	Age Domain Origin Partitive
+threats	_	Commitment Risky_situation
+and	_	
+violence	_	
+.	_	
+
+Many	_	Quantity
+had	_	Being_obligated Have_associated Possession Required_event
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+leave	_	Abandonment Causation Departing Forming_relationships Giving Grant_permission Path_shape Quitting
+their	_	
+birthplaces	_	
+,	_	
+fleeing	_	Fleeing
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Lesvos	_	
+,	_	
+Chios	_	
+,	_	
+and	_	
+Samos	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+Greek-ruled	_	
+islands	_	Natural_features
+just	_	
+offshore	_	Locative_relation
+.	_	
+
+Thousands	_	Quantity
+of	_	Age Domain Origin Partitive
+people	_	Colonization People
+arrived	_	Arriving
+with	_	Accompaniment
+little	_	Relational_quantity Size
+more	_	Increment
+than	_	Time_vector
+the	_	Self_motion Temporal_collocation
+clothes	_	Clothing
+they	_	
+wore	_	Wearing
+,	_	
+putting	_	Cause_to_end Placing
+great	_	Desirability Expertise Usefulness
+strain	_	Experience_bodily_harm Type
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+resources	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+islands	_	Natural_features
+.	_	
+
+Finally	_	Time_vector
+,	_	
+Greece	_	
+was	_	Existence
+ousted	_	Removing
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+its	_	
+new	_	Age Expertise Familiarity
+territory	_	Political_locales
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Asia	_	
+Minor	_	
+,	_	
+which	_	
+became	_	Becoming
+part	_	Membership Part_whole Performers_and_roles Separating
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+new	_	Age Expertise Familiarity
+Turkish	_	Origin
+state	_	Political_locales State_of_entity Statement
+.	_	
+
+Greece	_	
+attempted	_	Attempt
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+stay	_	Residence State_continue Temporary_stay
+out	_	Departing Expected_location_of_person Intentionally_act Locative_relation Sleep Surviving
+of	_	Age Domain Origin Partitive
+World	_	Political_locales
+War	_	Hostile_encounter
+II	_	
+,	_	
+but	_	Concessive
+Mussolini	_	
+saw	_	Categorization Causation Perception_experience
+Greece	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+an	_	Cause_to_end Process_end Quantity
+ideal	_	Usefulness
+addition	_	Commutative_process
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+his	_	
+Italian	_	Origin People_by_origin
+empire	_	Political_locales
+.	_	
+
+His	_	
+forces	_	Military
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+a	_	Measure_duration Process_end Quantity
+series	_	Sequence
+of	_	Age Domain Origin Partitive
+attacks	_	Attack
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+their	_	
+bases	_	Locale_by_use
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Dodecanese	_	
+islands	_	Natural_features
+,	_	
+including	_	Inclusion
+sinking	_	
+a	_	Measure_duration Process_end Quantity
+Greek	_	Origin People_by_origin
+naval	_	Military
+vessel	_	Vehicle
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+harbor	_	Locale_by_use
+of	_	Age Domain Origin Partitive
+Tinos	_	
+Town	_	Political_locales
+,	_	
+but	_	Concessive
+they	_	
+only	_	Sole_instance
+succeeded	_	Success_or_failure Successful_action
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+strengthening	_	Cause_change_of_strength
+the	_	Self_motion Temporal_collocation
+resolve	_	Resolve_problem
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+population	_	Aggregate
+against	_	Locative_relation Taking_sides
+them	_	
+.	_	
+
+Later	_	Relative_time Temporal_subregion Time_vector
+the	_	Self_motion Temporal_collocation
+Germans	_	People_by_origin
+came	_	Arriving Process_end
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+force	_	Being_in_effect Causation Cause_motion Execute_plan Military
+and	_	
+occupied	_	
+many	_	Quantity
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+islands	_	Natural_features
+.	_	
+
+After	_	Relative_time Time_vector
+the	_	Self_motion Temporal_collocation
+war	_	Hostile_encounter
+,	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1949	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+Dodecanese	_	
+islands	_	Natural_features
+finally	_	Time_vector
+became	_	Becoming
+part	_	Membership Part_whole Performers_and_roles Separating
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Greek	_	Origin People_by_origin
+nation	_	Political_locales
+.	_	
+
+But	_	Concessive
+the	_	Self_motion Temporal_collocation
+country	_	Locale_by_use Political_locales
+was	_	Existence
+politically	_	
+fragmented	_	Cause_to_fragment
+,	_	
+with	_	Accompaniment
+arguments	_	Quarreling
+between	_	Locative_relation
+monarchists	_	
+and	_	
+republicans	_	
+,	_	
+right	_	Change_direction Correctness Direction Morality_evaluation Part_orientational Suitability
+and	_	
+left	_	Causation Change_direction Departing Direction Left_to_do Part_orientational People_along_political_spectrum Remainder
+,	_	
+and	_	
+tension	_	
+escalated	_	
+into	_	Goal Into
+civil	_	Social_interaction_evaluation
+war	_	Hostile_encounter
+.	_	
+
+The	_	Self_motion Temporal_collocation
+struggle	_	Hostile_encounter
+bypassed	_	
+most	_	Relational_quantity
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+islands	_	Natural_features
+,	_	
+although	_	Concessive
+there	_	Existence Locative_relation
+was	_	Existence
+fierce	_	
+fighting	_	Hostile_encounter
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Samos	_	
+.	_	
+
+Even	_	
+after	_	Relative_time Time_vector
+the	_	Self_motion Temporal_collocation
+fighting	_	Hostile_encounter
+stopped	_	Activity_stop Halt Preventing Process_stop
+more	_	Increment
+than	_	Time_vector
+a	_	Measure_duration Process_end Quantity
+decade	_	Calendric_unit Measure_duration
+later	_	Relative_time Temporal_subregion Time_vector
+,	_	
+the	_	Self_motion Temporal_collocation
+country	_	Locale_by_use Political_locales
+was	_	Existence
+not	_	
+stable	_	Buildings Placing
+.	_	
+
+At	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+same	_	Identicality
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+,	_	
+the	_	Self_motion Temporal_collocation
+massive	_	Dimension
+growth	_	Cause_change_of_position_on_a_scale Cause_expansion Change_position_on_a_scale
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+air	_	Expressing_publicly Self_motion
+and	_	
+road	_	Roadways
+transport	_	Bringing
+saw	_	Categorization Causation Perception_experience
+shipping	_	Sending
+decline	_	Agree_or_refuse_to_act Change_position_on_a_scale
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+importance	_	Importance
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Aegean	_	
+Islands	_	Natural_features
+,	_	
+which	_	
+for	_	Causation Taking_sides
+centuries	_	Measure_duration
+had	_	Being_obligated Have_associated Possession Required_event
+been	_	Existence
+important	_	Importance
+ports	_	Locale_by_use
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+trading	_	
+routes	_	Roadways
+,	_	
+became	_	Becoming
+the	_	Self_motion Temporal_collocation
+backwaters	_	Isolated_places
+of	_	Age Domain Origin Partitive
+this	_	
+new	_	Age Expertise Familiarity
+transport	_	Bringing
+network	_	Network
+and	_	
+the	_	Self_motion Temporal_collocation
+economies	_	Economy
+of	_	Age Domain Origin Partitive
+several	_	Quantity
+islands	_	Natural_features
+came	_	Arriving Process_end
+close	_	Attention Body_movement Clarity_of_resolution Closure Relational_quantity Social_connection
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+collapse	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1967	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+military	_	Military
+took	_	Bringing Conquering Have_as_requirement Ride_vehicle Taking Taking_time
+the	_	Self_motion Temporal_collocation
+reins	_	
+of	_	Age Domain Origin Partitive
+power	_	Electricity Leadership
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Athens	_	
+,	_	
+and	_	
+until	_	Time_vector
+1974	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+``	_	
+Colonels	_	
+''	_	
+held	_	Containing
+sway	_	
+with	_	Accompaniment
+a	_	Measure_duration Process_end Quantity
+repressive	_	
+and	_	
+brutal	_	
+regime	_	Law Leadership
+.	_	
+
+Many	_	Quantity
+Greek	_	Origin People_by_origin
+islanders	_	
+chose	_	Choosing
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+leave	_	Abandonment Causation Departing Forming_relationships Giving Grant_permission Path_shape Quitting
+rather	_	Time_vector
+than	_	Time_vector
+live	_	Residence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+poverty	_	Wealthiness
+and	_	
+terror	_	Fear Terrorism
+,	_	
+and	_	
+many	_	Quantity
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+new	_	Age Expertise Familiarity
+homes	_	Attention_getting Buildings
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+United	_	
+States	_	Political_locales Statement
+and	_	
+Australia	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+expansion	_	Cause_expansion Expansion
+of	_	Age Domain Origin Partitive
+air	_	Expressing_publicly Self_motion
+travel	_	Motion Travel
+began	_	Activity_start Process_start
+the	_	Self_motion Temporal_collocation
+age	_	Age Aging Calendric_unit
+of	_	Age Domain Origin Partitive
+mass	_	Quantity Rite
+tourism	_	Touring
+,	_	
+and	_	
+Greece	_	
+along	_	Accompaniment Locative_relation
+with	_	Accompaniment
+the	_	Self_motion Temporal_collocation
+Aegean	_	
+Islands	_	Natural_features
+became	_	Becoming
+exciting	_	Stimulus_focus
+destinations	_	
+for	_	Causation Taking_sides
+northern	_	Part_orientational
+Europeans	_	
+escaping	_	Avoiding
+their	_	
+damp	_	Being_wet
+,	_	
+cool	_	Ambient_temperature Cause_temperature_change Desirability Experiencer_focus Inchoative_change_of_temperature Popularity Stimulus_focus Subjective_temperature Temperature Trendiness
+summers	_	Calendric_unit
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1982	_	
+,	_	
+Greece	_	
+joined	_	Becoming_a_member
+the	_	Self_motion Temporal_collocation
+European	_	Origin
+Common	_	
+Market	_	
+(	_	
+now	_	Temporal_collocation
+the	_	Self_motion Temporal_collocation
+European	_	Origin
+Union	_	Organization
+)	_	
+.	_	
+
+Since	_	Causation Time_vector
+this	_	
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+,	_	
+membership	_	Membership
+has	_	Have_associated Inclusion Possession
+been	_	Existence
+of	_	Age Domain Origin Partitive
+great	_	Desirability Expertise Usefulness
+monetary	_	
+benefit	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+country	_	Locale_by_use Political_locales
+.	_	
+
+The	_	Self_motion Temporal_collocation
+EU	_	
+has	_	Have_associated Inclusion Possession
+given	_	Giving
+large	_	Dimension Size
+subsidies	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+develop	_	Cause_to_make_progress Coming_to_be Progress
+Greece	_	
+'s	_	Existence Required_event
+infrastructure	_	Infrastructure
+and	_	
+grants	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+excavate	_	
+and	_	
+protect	_	Protecting
+its	_	
+ancient	_	Age Temporal_collocation
+monuments	_	
+.	_	
+
+Airfields	_	Locale_by_use
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+been	_	Existence
+constructed	_	Building
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+a	_	Measure_duration Process_end Quantity
+number	_	Amounting_to Be_subset_of Quantity
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+islands	_	Natural_features
+,	_	
+and	_	
+road	_	Roadways
+systems	_	Gizmo System
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+been	_	Existence
+expanded	_	Cause_expansion
+and	_	
+improved	_	Cause_to_make_progress
+.	_	
+
+Private	_	
+investment	_	Besieging
+has	_	Have_associated Inclusion Possession
+even	_	
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+an	_	Cause_to_end Process_end Quantity
+increasingly	_	Change_position_on_a_scale
+modern	_	Stage_of_progress Temporal_collocation
+ferry	_	Bringing Vehicle
+fleet	_	
+possible	_	Likelihood
+.	_	
+
+Politically	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+1990s	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+been	_	Existence
+relatively	_	
+quite	_	
+times	_	Commutative_statement
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+islands	_	Natural_features
+,	_	
+although	_	Concessive
+the	_	Self_motion Temporal_collocation
+divorce	_	Forming_relationships
+of	_	Age Domain Origin Partitive
+Greek	_	Origin People_by_origin
+prime	_	
+minister	_	Leadership
+Andreas	_	
+Papandreou	_	
+and	_	
+his	_	
+subsequent	_	Relative_time
+marriage	_	Forming_relationships Personal_relationship
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+a	_	Measure_duration Process_end Quantity
+much	_	Relational_quantity
+younger	_	Age
+woman	_	People
+caused	_	Causation
+consternation	_	
+within	_	Temporal_collocation Within_distance
+conservative	_	People_along_political_spectrum
+Greek	_	Origin People_by_origin
+society	_	
+.	_	
+
+As	_	Continued_state_of_affairs Performers_and_roles Relative_time
+the	_	Self_motion Temporal_collocation
+Balkans	_	
+flared	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+war	_	Hostile_encounter
+once	_	Event_instance
+again	_	
+,	_	
+Greek	_	Origin People_by_origin
+nationalism	_	
+has	_	Have_associated Inclusion Possession
+stirred	_	
+,	_	
+and	_	
+there	_	Existence Locative_relation
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+been	_	Existence
+discussions	_	Discussion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+kafeneion	_	
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+the	_	Self_motion Temporal_collocation
+land	_	Locale_by_ownership Natural_features Political_locales
+of	_	Age Domain Origin Partitive
+Macedonia	_	
+returning	_	Arriving
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+fold	_	Reshaping
+of	_	Age Domain Origin Partitive
+its	_	
+forefathers	_	Kinship
+.	_	
+
+Whether	_	
+this	_	
+will	_	Desiring Documents Giving
+ever	_	
+happen	_	Becoming_aware Coincidence Event Eventive_affecting
+remains	_	Existence Left_to_do Remainder State_continue
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+be	_	Existence Performers_and_roles
+seen	_	Grasp Perception_experience
+,	_	
+but	_	Concessive
+perhaps	_	
+the	_	Self_motion Temporal_collocation
+aid	_	Assistance
+offered	_	
+by	_	Locative_relation Means
+Greece	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Turkey	_	Food
+after	_	Relative_time Time_vector
+1999	_	
+'s	_	Existence Required_event
+devastating	_	Destroying Stimulus_focus
+earthquake	_	Moving_in_place
+is	_	Existence
+a	_	Measure_duration Process_end Quantity
+sign	_	Hiring Sign Sign_agreement Text_creation
+that	_	Degree
+the	_	Self_motion Temporal_collocation
+animosity	_	
+between	_	Locative_relation
+these	_	
+two	_	Cardinal_numbers
+traditional	_	Custom
+enemies	_	
+is	_	Existence
+beginning	_	Activity_start Process_start Temporal_subregion
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+diminish	_	Cause_change_of_position_on_a_scale Change_position_on_a_scale
+.	_	
+

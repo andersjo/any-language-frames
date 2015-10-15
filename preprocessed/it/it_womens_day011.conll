@@ -1,0 +1,23 @@
+1	Fu	_	VERB	VERB	_	0	root
+2	così	_	ADV	ADV	_	1	advmod
+3	che	_	SCONJ	SCONJ	_	17	mark
+4	negli	_	ADP	ADP	_	5	case
+5	Stati	_	PROPN	PROPN	_	17	nmod
+6	Uniti	_	PROPN	PROPN	_	5	name
+7	la	_	DET	DET	_	12	det
+8	prima	_	ADJ	ADJ	_	12	amod
+9	e	_	CONJ	CONJ	_	8	cc
+10	ufficiale	_	ADJ	ADJ	_	8	conj
+11	"	_	PUNCT	PUNCT	_	12	punct
+12	giornata	_	NOUN	NOUN	_	17	nmod
+13	della	_	ADP	ADP	_	14	case
+14	donna	_	NOUN	NOUN	_	12	nmod
+15	"	_	PUNCT	PUNCT	_	12	punct
+16	fu	_	AUX	AUX	_	17	auxpass
+17	celebrata	_	VERB	VERB	_	1	ccomp
+18	il	_	DET	DET	_	19	det
+19	23	_	NUM	NUM	_	17	nummod
+20	febbraio	_	NOUN	NOUN	_	19	nmod
+21	1909	_	NUM	NUM	_	20	nummod
+22	.	_	PUNCT	PUNCT	_	17	punct
+

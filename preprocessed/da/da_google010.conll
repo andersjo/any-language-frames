@@ -1,0 +1,24 @@
+1	Til	_	ADP	ADP	_	2	case
+2	gengæld	_	NOUN	NOUN	_	3	nmod
+3	forbeholder	_	VERB	VERB	_	0	root
+4	Google	_	NOUN	NOUN	_	3	nsubj
+5	sig	_	PRON	PRON	_	3	dobj
+6	retten	_	NOUN	NOUN	_	3	dobj
+7	til	_	ADP	ADP	_	6	dep
+8	at	_	PART	PART	_	7	dep
+9	præsentere	_	VERB	VERB	_	8	dep
+10	reklamer	_	NOUN	NOUN	_	9	dobj
+11	,	_	PUNCT	PUNCT	_	13	punct
+12	der	_	PART	PART	_	13	nsubj
+13	knytter	_	VERB	VERB	_	10	acl:relcl
+14	sig	_	PRON	PRON	_	13	dobj
+15	til	_	ADP	ADP	_	16	case
+16	ord	_	NOUN	NOUN	_	13	nmod
+17	og	_	CONJ	CONJ	_	16	cc
+18	begreber	_	NOUN	NOUN	_	16	conj
+19	i	_	ADP	ADP	_	22	case
+20	den	_	DET	DET	_	21	det
+21	modtagne	_	NOUN	NOUN	_	16	nmod
+22	post	_	NOUN	NOUN	_	21	nmod
+23	.	_	PUNCT	PUNCT	_	3	punct
+

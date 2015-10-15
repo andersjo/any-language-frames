@@ -1,0 +1,17 @@
+1	NET	_	ADJ	ADJ	_	2	amod
+2	PERVERSION	_	NOUN	NOUN	_	3	nmod:poss
+3	>>>>>	_	NOUN	NOUN	_	9	dep
+4	BAD	_	PROPN	PROPN	_	3	appos
+5	<<<<<<	_	PROPN	PROPN	_	4	name
+6	MURDER	_	PROPN	PROPN	_	4	name
+7	PSOE	_	PROPN	PROPN	_	4	name
+8	e	_	X	X	_	9	name
+9	IU	_	PROPN	PROPN	_	11	nmod:poss
+10	piden	_	NOUN	NOUN	_	9	dep
+11	que	_	NOUN	NOUN	_	0	root
+12	la	_	X	X	_	11	dep
+13	traten	_	NOUN	NOUN	_	14	nmod:poss
+14	como	_	NOUN	NOUN	_	12	nmod:poss
+15	varón	_	NOUN	NOUN	_	16	nmod:poss
+16	http://t.co/FU4RDI1pt5	_	NOUN	NOUN	_	14	nmod
+

@@ -1,0 +1,24 @@
+1	"	_	PUNCT	PUNCT	_	3	punct
+2	Famous	_	NOUN	NOUN	_	3	nmod:poss
+3	ISTJs	_	NOUN	NOUN	_	0	root
+4	:	_	PUNCT	PUNCT	_	2	punct
+5	[	_	PUNCT	PUNCT	_	2	punct
+6	...	_	PUNCT	PUNCT	_	2	punct
+7	]	_	PUNCT	PUNCT	_	8	punct
+8	Natalie	_	PROPN	PROPN	_	15	nsubj
+9	Portman	_	PROPN	PROPN	_	8	name
+10	“	_	X	X	_	8	dep
+11	Hermione	_	X	X	_	10	dep
+12	Granger	_	NOUN	NOUN	_	14	nmod:poss
+13	”	_	ADJ	ADJ	_	14	amod
+14	from	_	NOUN	NOUN	_	15	nmod
+15	Harry	_	VERB	VERB	_	2	dep
+16	Potter	_	NOUN	NOUN	_	17	nmod:poss
+17	“	_	NOUN	NOUN	_	15	dobj
+18	Adrian	_	PROPN	PROPN	_	17	appos
+19	Monk	_	NOUN	NOUN	_	18	dep
+20	”	_	ADJ	ADJ	_	21	amod
+21	from	_	NOUN	NOUN	_	22	nmod:poss
+22	Monk	_	NOUN	NOUN	_	15	dobj
+23	"	_	PUNCT	PUNCT	_	15	punct
+

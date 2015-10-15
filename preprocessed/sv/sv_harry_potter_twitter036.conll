@@ -1,0 +1,11 @@
+1	Frågan	_	NOUN	NOUN	_	3	nsubj
+2	är	_	AUX	AUX	_	3	cop
+3	vrf	_	NOUN	NOUN	_	5	nmod:poss
+4	jag	_	PRON	PRON	_	5	nsubj
+5	kollar	_	NOUN	NOUN	_	0	root
+6	på	_	ADP	ADP	_	10	case
+7	en	_	DET	DET	_	9	det
+8	svenskdubbad	_	ADJ	ADJ	_	9	amod
+9	Harry	_	PROPN	PROPN	_	10	nmod:poss
+10	potter	_	NOUN	NOUN	_	5	nmod
+

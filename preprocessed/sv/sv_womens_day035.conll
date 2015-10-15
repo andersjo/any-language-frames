@@ -1,0 +1,26 @@
+1	2009	_	NUM	NUM	_	2	nummod
+2	argumenterade	_	VERB	VERB	_	0	root
+3	den	_	DET	DET	_	5	det
+4	luxemburgska	_	ADJ	ADJ	_	5	amod
+5	EU-kommissionären	_	NOUN	NOUN	_	2	dobj
+6	Viviane	_	VERB	VERB	_	2	xcomp
+7	Reding	_	NOUN	NOUN	_	6	dobj
+8	att	_	PART	PART	_	9	mark
+9	”	_	VERB	VERB	_	6	advcl
+10	Så	_	ADV	ADV	_	9	advmod
+11	länge	_	ADV	ADV	_	10	mwe
+12	vi	_	PRON	PRON	_	13	nsubj
+13	behöver	_	VERB	VERB	_	9	advcl
+14	fira	_	ADJ	ADJ	_	15	amod
+15	kvinnodagen	_	NOUN	NOUN	_	13	dobj
+16	,	_	PUNCT	PUNCT	_	17	punct
+17	betyder	_	VERB	VERB	_	9	parataxis
+18	det	_	PRON	PRON	_	17	nsubj
+19	att	_	SCONJ	SCONJ	_	22	mark
+20	vi	_	PRON	PRON	_	22	nsubj
+21	inte	_	ADV	ADV	_	22	neg
+22	har	_	VERB	VERB	_	17	ccomp
+23	lika	_	ADV	ADV	_	24	advmod
+24	rättigheter	_	NOUN	NOUN	_	22	dobj
+25	.	_	PUNCT	PUNCT	_	6	punct
+

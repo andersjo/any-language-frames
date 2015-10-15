@@ -1,0 +1,7 @@
+1	Caos	_	PROPN	PROPN	_	2	nsubj
+2	Trigger	_	VERB	VERB	_	0	root
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Golem	_	PROPN	PROPN	_	2	dep
+5	Demo	_	PROPN	PROPN	_	4	name
+6	http://t.co/IwrujleQCF	_	PROPN	PROPN	_	4	name
+

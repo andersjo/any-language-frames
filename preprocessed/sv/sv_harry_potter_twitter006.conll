@@ -1,0 +1,14 @@
+1	Hade	_	AUX	AUX	_	7	aux
+2	varit	_	AUX	AUX	_	4	cop
+3	bra	_	ADV	ADV	_	4	advmod
+4	....	_	ADV	ADV	_	7	mark
+5	Om	_	SCONJ	SCONJ	_	7	mark
+6	man	_	PRON	PRON	_	7	nsubj
+7	haft	_	VERB	VERB	_	0	root
+8	körkort	_	NOUN	NOUN	_	7	dobj
+9	och	_	CONJ	CONJ	_	8	cc
+10	bil	_	NOUN	NOUN	_	8	conj
+11	hehe	_	VERB	VERB	_	7	conj
+12	xD	_	ADJ	ADJ	_	13	amod
+13	http://t.co/eybj4PuIq5	_	NOUN	NOUN	_	11	dobj
+

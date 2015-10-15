@@ -1,0 +1,15 @@
+1	Diomedes	_	PROPN	PROPN	_	2	name
+2	Diaz	_	PROPN	PROPN	_	0	root
+3	-	_	PUNCT	PUNCT	_	2	punct
+4	Muchas	_	DET	DET	_	5	det
+5	Gracias	_	NOUN	NOUN	_	2	appos
+6	-	_	PUNCT	PUNCT	_	2	punct
+7	Me	_	PROPN	PROPN	_	8	iobj
+8	Mata	_	PROPN	PROPN	_	5	appos
+9	Mi	_	PROPN	PROPN	_	8	name
+10	Maye	_	PROPN	PROPN	_	14	name
+11	http://t.co/bFPKVH7LFG	_	PROPN	PROPN	_	14	name
+12	#Radio	_	PROPN	PROPN	_	14	name
+13	https://t.co/xyhLxHP7Zf	_	PROPN	PROPN	_	14	name
+14	#DiomedesdiazRadio	_	PROPN	PROPN	_	7	conj
+

@@ -1,0 +1,24 @@
+1	OHHHHH	_	PROPN	PROPN	_	3	name
+2	MONNNN	_	PROPN	PROPN	_	3	name
+3	DIEU	_	PROPN	PROPN	_	0	root
+4	!	_	PUNCT	PUNCT	_	3	punct
+5	le	_	DET	DET	_	7	det
+6	nouveau	_	ADJ	ADJ	_	7	amod
+7	film	_	NOUN	NOUN	_	3	appos
+8	d'Angelina	_	NOUN	NOUN	_	7	appos
+9	Jolie	_	PROPN	PROPN	_	7	appos
+10	à	_	ADP	ADP	_	11	case
+11	l'air	_	NOUN	NOUN	_	7	nmod
+12	juste	_	ADJ	ADJ	_	11	amod
+13	:	_	PUNCT	PUNCT	_	7	punct
+14	MAGNIIIIIIFIQUUUUUE	_	PROPN	PROPN	_	15	name
+15	*____*	_	PROPN	PROPN	_	7	appos
+16	et	_	CONJ	CONJ	_	15	cc
+17	c'est	_	PROPN	PROPN	_	18	name
+18	coldplay	_	PROPN	PROPN	_	15	conj
+19	qui	_	PRON	PRON	_	21	nsubj
+20	a	_	AUX	AUX	_	21	aux
+21	fait	_	VERB	VERB	_	18	acl:relcl
+22	la	_	DET	DET	_	23	det
+23	B.O	_	PROPN	PROPN	_	21	dobj
+

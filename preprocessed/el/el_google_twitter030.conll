@@ -1,0 +1,17 @@
+1	Το	_	ADJ	ADJ	_	2	det
+2	«τούβλο»	_	NOUN	NOUN	_	0	root
+3	του	_	ADJ	ADJ	_	4	det
+4	Κασεμίρο	_	NOUN	NOUN	_	2	nmod
+5	και	_	CONJ	CONJ	_	4	cc
+6	το	_	ADJ	ADJ	_	7	det
+7	τακουνάκι	_	NOUN	NOUN	_	2	conj
+8	του	_	ADJ	ADJ	_	9	det
+9	Μπρούνο	_	NOUN	NOUN	_	7	nmod
+10	Μάρτινς	_	NOUN	NOUN	_	9	nmod
+11	(	_	PUNCT	PUNCT	_	12	punct
+12	videos	_	NOUN	NOUN	_	10	conj
+13	)	_	PUNCT	PUNCT	_	12	punct
+14	-	_	PUNCT	PUNCT	_	16	punct
+15	http://t.co/n0Y44Mca9O	_	NOUN	NOUN	_	16	nmod
+16	#starbuzz	_	NOUN	NOUN	_	10	appos
+

@@ -1,0 +1,8 @@
+1	Има	_	VERB	VERB	_	0	root
+2	един	_	DET	DET	_	3	det
+3	брат	_	NOUN	NOUN	_	1	dobj
+4	и	_	CONJ	CONJ	_	1	cc
+5	две	_	NUM	NUM	_	6	nummod
+6	сестри	_	NOUN	NOUN	_	3	conj
+7	.	_	PUNCT	PUNCT	_	1	punct
+

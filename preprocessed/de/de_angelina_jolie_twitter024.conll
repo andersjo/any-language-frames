@@ -1,0 +1,15 @@
+1	@reidoiscanon	_	PROPN	PROPN	_	5	nsubj
+2	Ich	_	PRON	PRON	_	5	nsubj
+3	war	_	VERB	VERB	_	5	cop
+4	so	_	ADV	ADV	_	5	advmod
+5	verzweifelt	_	ADJ	ADJ	_	0	root
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	ich	_	PRON	PRON	_	12	nsubj
+8	habe	_	AUX	AUX	_	12	aux
+9	sogar	_	ADV	ADV	_	12	advmod
+10	Angelina	_	PROPN	PROPN	_	11	name
+11	Jolie	_	PROPN	PROPN	_	12	nsubj
+12	gemacht	_	VERB	VERB	_	5	acl
+13	.	_	PUNCT	PUNCT	_	5	punct
+14	xD	_	VERB	VERB	_	5	parataxis
+

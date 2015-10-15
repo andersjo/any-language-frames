@@ -1,0 +1,25 @@
+1	Diantre	_	PROPN	PROPN	_	5	nsubj
+2	.	_	PUNCT	PUNCT	_	5	punct
+3	Suis	_	AUX	AUX	_	5	aux
+4	plus	_	ADV	ADV	_	5	advmod
+5	âgée	_	VERB	VERB	_	0	root
+6	que	_	SCONJ	SCONJ	_	17	mark
+7	#Angelina	_	PROPN	PROPN	_	8	name
+8	#Jolie	_	PROPN	PROPN	_	10	name
+9	...	_	PUNCT	PUNCT	_	8	punct
+10	Lisez-la	_	PROPN	PROPN	_	17	nsubj
+11	sur	_	ADP	ADP	_	13	case
+12	la	_	DET	DET	_	13	det
+13	#vie	_	NOUN	NOUN	_	10	nmod
+14	gâchée	_	NOUN	NOUN	_	13	appos
+15	,	_	PUNCT	PUNCT	_	5	punct
+16	#identit	_	VERB	VERB	_	17	cop
+17	é	_	ADJ	ADJ	_	5	ccomp
+18	,	_	PUNCT	PUNCT	_	17	punct
+19	#sinc	_	PROPN	PROPN	_	20	nsubj
+20	érité	_	VERB	VERB	_	17	conj
+21	.	_	PUNCT	PUNCT	_	20	punct
+22	Via	_	ADP	ADP	_	24	case
+23	#lapresseplus	_	PROPN	PROPN	_	24	name
+24	http://t.co/WYLR44xd8L	_	PROPN	PROPN	_	20	nmod
+

@@ -1,0 +1,23 @@
+1	VA	_	NOUN	NOUN	_	9	nsubj
+2	I	_	ADP	ADP	_	3	case
+3	::::::	_	NOUN	NOUN	_	1	nmod
+4	LADDA	_	ADJ	ADJ	_	5	amod
+5	NER	_	NOUN	NOUN	_	6	nmod:poss
+6	HARRY	_	NOUN	NOUN	_	1	nmod
+7	POTTER	_	VERB	VERB	_	6	foreign
+8	SÅ	_	NOUN	NOUN	_	7	nsubj
+9	ÄR	_	VERB	VERB	_	0	root
+10	DET	_	ADJ	ADJ	_	11	amod
+11	ETT	_	NOUN	NOUN	_	9	nsubj
+12	LJUDSPÅR	_	VERB	VERB	_	9	advcl
+13	PÅ	_	ADJ	ADJ	_	14	amod
+14	ETT	_	NOUN	NOUN	_	12	dobj
+15	ANNAT	_	VERB	VERB	_	12	advcl
+16	SPRÅK	_	ADJ	ADJ	_	17	amod
+17	ÖVER	_	NOUN	NOUN	_	15	dobj
+18	DE	_	VERB	VERB	_	15	advcl
+19	VANLIGa	_	ADJ	ADJ	_	18	xcomp
+20	-	_	PUNCT	PUNCT	_	15	punct
+21	.	_	PUNCT	PUNCT	_	7	punct
+22	-	_	PUNCT	PUNCT	_	18	punct
+

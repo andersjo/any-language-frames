@@ -1,0 +1,8 @@
+1	@Crstian0Ronaldo	_	PROPN	PROPN	_	2	nsubj
+2	r	_	VERB	VERB	_	0	root
+3	u	_	PRON	PRON	_	2	iobj
+4	the	_	DET	DET	_	7	det
+5	real	_	ADJ	ADJ	_	0	remnant
+6	christiano	_	PROPN	PROPN	_	7	compound
+7	ronaldo	_	PROPN	PROPN	_	2	dobj
+

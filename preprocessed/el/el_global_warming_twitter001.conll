@@ -1,0 +1,19 @@
+1	@HliosSelini	_	NOUN	NOUN	_	7	nsubj
+2	Τα	_	ADJ	ADJ	_	3	amod
+3	ΒΠ	_	NOUN	NOUN	_	1	nmod
+4	δε	_	ADV	ADV	_	7	advmod
+5	θα	_	PART	PART	_	7	aux
+6	γινουν	_	VERB	VERB	_	7	aux
+7	ερημος	_	VERB	VERB	_	0	root
+8	με	_	ADP	ADP	_	10	case
+9	το	_	ADJ	ADJ	_	10	det
+10	Global	_	NOUN	NOUN	_	7	nmod
+11	Warming	_	NOUN	NOUN	_	10	nmod
+12	.	_	PUNCT	PUNCT	_	7	punct
+13	Θα	_	PART	PART	_	15	advmod
+14	εχουμε	_	ADJ	ADJ	_	15	amod
+15	κ	_	NOUN	NOUN	_	7	nmod
+16	νερο	_	ADJ	ADJ	_	17	amod
+17	εκει	_	NOUN	NOUN	_	15	nmod
+18	@mavrilista	_	NOUN	NOUN	_	17	nmod
+

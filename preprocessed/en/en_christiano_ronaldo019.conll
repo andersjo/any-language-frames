@@ -1,0 +1,10 @@
+1	His	_	PRON	PRON	_	3	nmod:poss
+2	buyout	_	NOUN	NOUN	_	3	compound
+3	clause	_	NOUN	NOUN	_	5	nsubjpass
+4	is	_	AUX	AUX	_	5	auxpass
+5	valued	_	VERB	VERB	_	0	root
+6	at	_	ADP	ADP	_	5	compound:prt
+7	€1	_	PROPN	PROPN	_	5	dobj
+8	billion	_	NUM	NUM	_	7	nummod
+9	.	_	PUNCT	PUNCT	_	5	punct
+

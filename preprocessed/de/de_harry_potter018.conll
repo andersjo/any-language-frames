@@ -1,0 +1,17 @@
+1	Die	_	DET	DET	_	2	det
+2	Marke	_	NOUN	NOUN	_	7	nsubj
+3	"	_	PUNCT	PUNCT	_	5	punct
+4	Harry	_	PROPN	PROPN	_	5	name
+5	Potter	_	PROPN	PROPN	_	2	appos
+6	"	_	PUNCT	PUNCT	_	5	punct
+7	hat	_	VERB	VERB	_	0	root
+8	heute	_	ADV	ADV	_	7	advmod
+9	einen	_	DET	DET	_	11	det
+10	geschätzten	_	ADJ	ADJ	_	11	amod
+11	Wert	_	NOUN	NOUN	_	7	dobj
+12	von	_	ADP	ADP	_	14	case
+13	15	_	NUM	NUM	_	14	nummod
+14	Milliarden	_	NOUN	NOUN	_	11	nmod
+15	US-Dollar	_	PROPN	PROPN	_	14	appos
+16	.	_	PUNCT	PUNCT	_	7	punct
+

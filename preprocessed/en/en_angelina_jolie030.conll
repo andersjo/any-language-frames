@@ -1,0 +1,24 @@
+1	During	_	ADP	ADP	_	0	compound:prt
+2	this	_	DET	DET	_	3	det
+3	period	_	NOUN	NOUN	_	1	dobj
+4	,	_	PUNCT	PUNCT	_	6	punct
+5	she	_	PRON	PRON	_	6	nsubj
+6	wore	_	VERB	VERB	_	3	parataxis
+7	black	_	ADJ	ADJ	_	0	foreign
+8	clothing	_	NOUN	NOUN	_	6	dobj
+9	,	_	PUNCT	PUNCT	_	6	punct
+10	experimented	_	VERB	VERB	_	6	conj
+11	with	_	ADP	ADP	_	10	compound:prt
+12	knife	_	NOUN	NOUN	_	13	compound
+13	play	_	NOUN	NOUN	_	10	dobj
+14	,	_	PUNCT	PUNCT	_	6	punct
+15	and	_	CONJ	CONJ	_	6	cc
+16	went	_	VERB	VERB	_	6	conj
+17	out	_	ADP	ADP	_	16	compound:prt
+18	moshing	_	NOUN	NOUN	_	16	dobj
+19	with	_	ADP	ADP	_	16	compound:prt
+20	her	_	PRON	PRON	_	22	nmod:poss
+21	live-in	_	NOUN	NOUN	_	22	compound
+22	boyfriend	_	NOUN	NOUN	_	16	nmod
+23	.	_	PUNCT	PUNCT	_	6	punct
+

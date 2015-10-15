@@ -1,0 +1,9 @@
+1	hasn't	_	NOUN	NOUN	_	3	nsubj
+2	не	_	INTJ	INTJ	_	3	neg
+3	имеет	_	VERB	VERB	_	0	root
+4	(от	_	PROPN	PROPN	_	3	nsubj
+5	has	_	PROPN	PROPN	_	4	name
+6	not	_	NOUN	NOUN	_	4	nmod
+7	);	_	PROPN	PROPN	_	6	nmod
+8	http://t.co/DnnW4MVIyL	_	PROPN	PROPN	_	7	name
+

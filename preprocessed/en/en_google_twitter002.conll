@@ -1,0 +1,20 @@
+1	Baby	_	NOUN	NOUN	_	2	nsubj
+2	missing	_	VERB	VERB	_	0	root
+3	after	_	ADP	ADP	_	2	compound:prt
+4	parents	_	NOUN	NOUN	_	5	compound
+5	shot	_	NOUN	NOUN	_	2	dobj
+6	in	_	ADP	ADP	_	2	compound:prt
+7	California	_	PROPN	PROPN	_	9	compound
+8	-	_	PUNCT	PUNCT	_	9	punct
+9	CNN	_	PROPN	PROPN	_	5	nmod
+10	:	_	PUNCT	PUNCT	_	9	punct
+11	CNN	_	PROPN	PROPN	_	12	compound
+12	Baby	_	PROPN	PROPN	_	13	nsubj
+13	missing	_	VERB	VERB	_	9	parataxis
+14	after	_	ADP	ADP	_	13	compound:prt
+15	parents	_	NOUN	NOUN	_	16	compound
+16	shot	_	NOUN	NOUN	_	13	dobj
+17	in	_	ADP	ADP	_	13	compound:prt
+18	…	_	PROPN	PROPN	_	19	compound
+19	http://t.co/IUZLNvpkyl	_	PROPN	PROPN	_	16	nmod
+

@@ -1,0 +1,15 @@
+1	Have	_	VERB	VERB	_	8	csubj
+2	scientists	_	NOUN	NOUN	_	1	dobj
+3	under-predicted	_	VERB	VERB	_	2	acl
+4	global	_	ADJ	ADJ	_	0	foreign
+5	warming	_	NOUN	NOUN	_	3	dobj
+6	?	_	PUNCT	PUNCT	_	5	punct
+7	@NYTimes	_	NOUN	NOUN	_	8	nsubj
+8	OpEd	_	VERB	VERB	_	0	root
+9	:	_	PUNCT	PUNCT	_	8	punct
+10	Playing	_	VERB	VERB	_	8	ccomp
+11	Dumb	_	PROPN	PROPN	_	10	dobj
+12	on	_	ADP	ADP	_	10	compound:prt
+13	#ClimateChange	_	NOUN	NOUN	_	10	dobj
+14	http://t.co/SPF4HMfy9a	_	X	X	_	13	appos
+

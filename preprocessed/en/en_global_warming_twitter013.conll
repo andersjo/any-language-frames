@@ -1,0 +1,12 @@
+1	#SICB2015	_	PROPN	PROPN	_	2	compound
+2	rummer	_	NOUN	NOUN	_	0	root
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Is	_	VERB	VERB	_	6	cop
+5	ocean	_	NOUN	NOUN	_	6	compound
+6	acidification	_	NOUN	NOUN	_	2	appos
+7	global	_	ADJ	ADJ	_	0	foreign
+8	warming's	_	NOUN	NOUN	_	9	compound
+9	evil	_	NOUN	NOUN	_	10	compound
+10	cousin	_	NOUN	NOUN	_	6	conj
+11	?	_	PUNCT	PUNCT	_	10	punct
+

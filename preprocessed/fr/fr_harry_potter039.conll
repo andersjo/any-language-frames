@@ -1,0 +1,20 @@
+1	Les	_	DET	DET	_	2	det
+2	sanctions	_	NOUN	NOUN	_	6	nsubj
+3	appliquées	_	VERB	VERB	_	2	acl
+4	lorsqu'il	_	NOUN	NOUN	_	3	dobj
+5	se	_	PRON	PRON	_	6	dobj
+6	fait	_	VERB	VERB	_	0	root
+7	attraper	_	VERB	VERB	_	6	xcomp
+8	sont	_	VERB	VERB	_	9	cop
+9	comparables	_	ADJ	ADJ	_	6	conj
+10	à	_	ADP	ADP	_	11	case
+11	celles	_	PRON	PRON	_	9	nmod
+12	décrites	_	VERB	VERB	_	11	acl
+13	dans	_	ADP	ADP	_	15	case
+14	le	_	DET	DET	_	15	det
+15	genre	_	NOUN	NOUN	_	12	nmod
+16	du	_	ADP	ADP	_	18	case
+17	roman	_	ADJ	ADJ	_	18	amod
+18	d'internat	_	NOUN	NOUN	_	15	nmod
+19	.	_	PUNCT	PUNCT	_	6	punct
+

@@ -1,0 +1,13 @@
+1	Оказва	_	VERB	VERB	_	0	root
+2	си	_	PRON	PRON	_	1	expl
+3	негативно	_	ADJ	ADJ	_	4	amod
+4	влияние	_	NOUN	NOUN	_	1	nsubj
+5	върху	_	ADP	ADP	_	6	case
+6	еврото	_	NOUN	NOUN	_	4	nmod
+7	и	_	CONJ	CONJ	_	6	cc
+8	кризата	_	NOUN	NOUN	_	6	conj
+9	в	_	ADP	ADP	_	10	case
+10	Гърция	_	PROPN	PROPN	_	6	nmod
+11	.	_	PUNCT	PUNCT	_	1	punct
+12	https://t.co/NgewFRQpAy	_	PROPN	PROPN	_	10	conj
+

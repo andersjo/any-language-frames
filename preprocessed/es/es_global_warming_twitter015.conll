@@ -1,0 +1,17 @@
+1	llevo	_	VERB	VERB	_	0	root
+2	5	_	NUM	NUM	_	3	nummod
+3	dias	_	NOUN	NOUN	_	1	dobj
+4	a	_	ADP	ADP	_	6	case
+5	puro	_	ADJ	ADJ	_	6	amod
+6	marisco	_	NOUN	NOUN	_	1	nmod
+7	fresco	_	ADJ	ADJ	_	6	amod
+8	...	_	PUNCT	PUNCT	_	1	punct
+9	no	_	ADV	ADV	_	11	neg
+10	me	_	PRON	PRON	_	11	iobj
+11	culpen	_	VERB	VERB	_	3	acl:relcl
+12	x	_	X	X	_	14	dep
+13	mi	_	DET	DET	_	15	nmod:poss
+14	global	_	ADJ	ADJ	_	15	amod
+15	warming	_	PROPN	PROPN	_	11	nmod
+16	interno	_	ADJ	ADJ	_	15	amod
+

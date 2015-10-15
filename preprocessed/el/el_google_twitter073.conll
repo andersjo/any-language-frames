@@ -1,0 +1,19 @@
+1	@Khlysty1	_	NOUN	NOUN	_	7	nmod
+2	@yX__	_	NOUN	NOUN	_	1	nmod
+3	@HarrisXan	_	NOUN	NOUN	_	2	nmod
+4	@Pexlibanis	_	NOUN	NOUN	_	3	nmod
+5	φυσικά	_	ADV	ADV	_	7	advmod
+6	&	_	NOUN	NOUN	_	4	nmod
+7	υπάρχει	_	VERB	VERB	_	0	root
+8	στοχευση	_	ADJ	ADJ	_	9	amod
+9	+	_	NOUN	NOUN	_	7	nsubj
+10	oτο	_	NOUN	NOUN	_	9	nmod
+11	Google	_	NOUN	NOUN	_	10	nmod
+12	κρατάει	_	ADJ	ADJ	_	13	amod
+13	search	_	NOUN	NOUN	_	11	nmod
+14	.	_	PUNCT	PUNCT	_	7	punct
+15	/επισκέψεις	_	NOUN	NOUN	_	13	nmod
+16	για	_	ADP	ADP	_	18	case
+17	προβολή	_	ADJ	ADJ	_	18	amod
+18	ads	_	NOUN	NOUN	_	15	nmod
+

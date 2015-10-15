@@ -1,0 +1,8 @@
+1	numpy	_	NOUN	NOUN	_	0	root
+2	.	_	PUNCT	PUNCT	_	1	punct
+3	linalg	_	NOUN	NOUN	_	1	conj
+4	.	_	PUNCT	PUNCT	_	1	punct
+5	norm	_	NOUN	NOUN	_	7	nmod:poss
+6	matrix	_	ADJ	ADJ	_	7	amod
+7	http://t.co/niEJuDqHXg	_	NOUN	NOUN	_	1	conj
+

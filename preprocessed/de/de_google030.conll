@@ -1,0 +1,9 @@
+1	Zusätzlich	_	ADV	ADV	_	2	advmod
+2	entstehen	_	VERB	VERB	_	0	root
+3	Gewinne	_	NOUN	NOUN	_	2	nsubj
+4	durch	_	ADP	ADP	_	7	case
+5	das	_	DET	DET	_	7	det
+6	Google	_	PROPN	PROPN	_	7	name
+7	AdSense-Partnerprogramm	_	PROPN	PROPN	_	3	nmod
+8	.	_	PUNCT	PUNCT	_	2	punct
+

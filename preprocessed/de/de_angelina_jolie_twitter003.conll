@@ -1,0 +1,16 @@
+1	Liebe	_	ADJ	ADJ	_	2	amod
+2	Mütter	_	NOUN	NOUN	_	0	root
+3	und	_	CONJ	CONJ	_	2	cc
+4	Väter	_	NOUN	NOUN	_	2	conj
+5	in	_	ADP	ADP	_	7	case
+6	meiner	_	PRON	PRON	_	7	det
+7	Timeline	_	NOUN	NOUN	_	4	nmod
+8	,	_	PUNCT	PUNCT	_	2	punct
+9	was	_	PRON	PRON	_	12	nsubj
+10	würdet	_	ADJ	ADJ	_	12	advmod
+11	Ihr	_	PRON	PRON	_	12	iobj
+12	tun	_	VERB	VERB	_	7	acl
+13	?	_	PUNCT	PUNCT	_	12	punct
+14	http://t.co/HUXMgrI4UH	_	PROPN	PROPN	_	15	name
+15	#Namenswahl	_	PROPN	PROPN	_	12	nsubj
+

@@ -1,0 +1,19 @@
+1	@RISK_144000	_	PROPN	PROPN	_	2	name
+2	a	_	PROPN	PROPN	_	16	nsubj
+3	paar	_	PRON	PRON	_	5	det
+4	seltene	_	ADJ	ADJ	_	5	amod
+5	Ausnahmen	_	NOUN	NOUN	_	16	nmod
+6	immer	_	ADV	ADV	_	7	advmod
+7	scho	_	PROPN	PROPN	_	5	appos
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	seit	_	ADP	ADP	_	11	case
+10	i	_	PROPN	PROPN	_	11	name
+11	mi	_	PROPN	PROPN	_	16	nmod
+12	in	_	ADP	ADP	_	15	case
+13	die	_	DET	DET	_	15	det
+14	Angelina	_	PROPN	PROPN	_	15	name
+15	jolie	_	PROPN	PROPN	_	16	nmod
+16	verliebt	_	VERB	VERB	_	0	root
+17	hab	_	AUX	AUX	_	16	aux
+18	😜	_	PROPN	PROPN	_	16	nsubjpass
+

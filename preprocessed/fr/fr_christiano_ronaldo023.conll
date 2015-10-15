@@ -1,0 +1,24 @@
+1	Ses	_	DET	DET	_	2	nmod:poss
+2	performances	_	NOUN	NOUN	_	6	nsubj
+3	sportives	_	ADJ	ADJ	_	2	amod
+4	sont	_	VERB	VERB	_	6	cop
+5	alors	_	ADV	ADV	_	6	advmod
+6	excellentes	_	ADJ	ADJ	_	0	root
+7	mais	_	CONJ	CONJ	_	6	cc
+8	son	_	DET	DET	_	9	nmod:poss
+9	comportement	_	NOUN	NOUN	_	12	nsubj
+10	devient	_	VERB	VERB	_	12	cop
+11	très	_	ADV	ADV	_	12	advmod
+12	mauvais	_	ADJ	ADJ	_	6	conj
+13	,	_	PUNCT	PUNCT	_	12	punct
+14	ne	_	ADV	ADV	_	15	neg
+15	supportant	_	VERB	VERB	_	12	conj
+16	plus	_	ADV	ADV	_	15	neg
+17	de	_	ADP	ADP	_	18	case
+18	vivre	_	VERB	VERB	_	15	acl
+19	loin	_	ADV	ADV	_	20	mwe
+20	de	_	ADP	ADP	_	22	case
+21	sa	_	DET	DET	_	22	nmod:poss
+22	famille	_	NOUN	NOUN	_	18	nmod
+23	.	_	PUNCT	PUNCT	_	6	punct
+

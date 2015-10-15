@@ -1,0 +1,19 @@
+1	Rowlings	_	ADJ	ADJ	_	3	det
+2	egen	_	ADJ	ADJ	_	3	det
+3	webbplats	_	NOUN	NOUN	_	4	nsubj
+4	har	_	VERB	VERB	_	0	root
+5	till	_	ADP	ADP	_	4	advmod
+6	och	_	CONJ	CONJ	_	5	cc
+7	med	_	ADP	ADP	_	9	case
+8	en	_	DET	DET	_	9	det
+9	sektion	_	NOUN	NOUN	_	4	nmod
+10	för	_	ADP	ADP	_	12	case
+11	att	_	PART	PART	_	12	mark
+12	förneka	_	VERB	VERB	_	4	advcl
+13	olika	_	ADJ	ADJ	_	14	amod
+14	rykten	_	NOUN	NOUN	_	12	dobj
+15	om	_	ADP	ADP	_	17	case
+16	kommande	_	ADJ	ADJ	_	17	amod
+17	böcker	_	NOUN	NOUN	_	12	nmod
+18	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,16 @@
+1	#Russian	_	PROPN	PROPN	_	8	nsubj
+2	#SaveDonbassPeople	_	PROPN	PROPN	_	1	nmod
+3	#КрымНаш	_	PROPN	PROPN	_	1	name
+4	Транспортная	_	ADJ	ADJ	_	5	amod
+5	блокада	_	NOUN	NOUN	_	8	nsubj
+6	в	_	ADP	ADP	_	7	case
+7	#Крым	_	PROPN	PROPN	_	5	nmod
+8	прорвана	_	VERB	VERB	_	0	root
+9	:	_	PUNCT	PUNCT	_	10	punct
+10	почти	_	ADV	ADV	_	11	advmod
+11	2000	_	NUM	NUM	_	7	nummod
+12	че	_	SCONJ	SCONJ	_	0	mwe
+13	...	_	PUNCT	PUNCT	_	14	punct
+14	http://t.co/A6Jic0AnVH	_	PROPN	PROPN	_	1	appos
+15	http://t.co/mzjBYuDftZ	_	PROPN	PROPN	_	14	name
+

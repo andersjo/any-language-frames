@@ -1,0 +1,11 @@
+1	Historien	_	NOUN	NOUN	_	8	nsubj
+2	om	_	ADP	ADP	_	4	case
+3	Harry	_	PROPN	PROPN	_	4	nmod:poss
+4	Potter	_	NOUN	NOUN	_	1	nmod
+5	er	_	AUX	AUX	_	8	cop
+6	jo	_	ADV	ADV	_	7	advmod
+7	faktisk	_	ADV	ADV	_	8	advmod
+8	sinsykt	_	ADJ	ADJ	_	10	amod
+9	trist	_	ADJ	ADJ	_	10	amod
+10	😭	_	NOUN	NOUN	_	0	root
+

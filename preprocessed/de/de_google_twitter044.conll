@@ -1,0 +1,17 @@
+1	Google	_	PROPN	PROPN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Klinkhammer	_	PROPN	PROPN	_	1	appos
+4	(	_	PUNCT	PUNCT	_	5	punct
+5	image	_	PROPN	PROPN	_	3	appos
+6	)	_	PUNCT	PUNCT	_	5	punct
+7	Future	_	PROPN	PROPN	_	8	name
+8	joke	_	PROPN	PROPN	_	3	conj
+9	:	_	PUNCT	PUNCT	_	8	punct
+10	Klinkhammer	_	PROPN	PROPN	_	11	name
+11	gets	_	PROPN	PROPN	_	8	appos
+12	the	_	PROPN	PROPN	_	13	det
+13	hook	_	PROPN	PROPN	_	14	amod
+14	#Oilers	_	PROPN	PROPN	_	16	name
+15	#HaHaNotReally	_	PROPN	PROPN	_	16	name
+16	http://t.co/e2fFCFRrc1	_	PROPN	PROPN	_	11	nmod
+

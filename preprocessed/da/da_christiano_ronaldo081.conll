@@ -1,0 +1,27 @@
+1	Dette	_	DET	DET	_	2	det
+2	mål	_	NOUN	NOUN	_	4	nsubjpass
+3	blev	_	AUX	AUX	_	4	auxpass
+4	rost	_	VERB	VERB	_	11	dep
+5	af	_	ADP	ADP	_	6	case
+6	Alex	_	PROPN	PROPN	_	4	nmod
+7	Ferguson	_	PROPN	PROPN	_	6	name
+8	,	_	PUNCT	PUNCT	_	4	punct
+9	og	_	CONJ	CONJ	_	6	cc
+10	Ronaldo	_	PROPN	PROPN	_	11	nsubj
+11	slog	_	VERB	VERB	_	0	root
+12	fast	_	ADV	ADV	_	11	advmod
+13	efter	_	ADP	ADP	_	14	case
+14	kampen	_	NOUN	NOUN	_	11	nmod
+15	at	_	SCONJ	SCONJ	_	20	mark
+16	dette	_	PRON	PRON	_	20	nsubj
+17	var	_	AUX	AUX	_	20	cop
+18	det	_	DET	DET	_	20	det
+19	bedste	_	ADJ	ADJ	_	20	amod
+20	mål	_	NOUN	NOUN	_	11	dobj
+21	,	_	PUNCT	PUNCT	_	20	punct
+22	han	_	PRON	PRON	_	24	nsubj
+23	havde	_	AUX	AUX	_	20	aux
+24	scoret	_	NOUN	NOUN	_	23	dobj
+25	nogensinde	_	ADV	ADV	_	24	advmod
+26	.	_	PUNCT	PUNCT	_	4	punct
+

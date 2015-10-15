@@ -1,0 +1,10 @@
+1	En	_	ADP	ADP	_	2	case
+2	febrero	_	PROPN	PROPN	_	5	nmod
+3	de	_	ADP	ADP	_	5	case
+4	2002	_	NUM	NUM	_	2	nmod
+5	lanza	_	NOUN	NOUN	_	0	root
+6	Google	_	PROPN	PROPN	_	8	name
+7	Search	_	PROPN	PROPN	_	8	name
+8	Apliance	_	PROPN	PROPN	_	5	appos
+9	.	_	PUNCT	PUNCT	_	5	punct
+

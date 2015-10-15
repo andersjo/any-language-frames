@@ -1,0 +1,19 @@
+1	En	_	ADP	ADP	_	4	case
+2	su	_	DET	DET	_	4	nmod:poss
+3	segundo	_	NUM	NUM	_	4	nummod
+4	año	_	NOUN	NOUN	_	5	nmod
+5	creció	_	VERB	VERB	_	0	root
+6	como	_	ADP	ADP	_	7	case
+7	futbolista	_	NOUN	NOUN	_	5	nmod
+8	asentándose	_	VERB	VERB	_	7	acl
+9	como	_	ADP	ADP	_	10	case
+10	uno	_	PRON	PRON	_	8	nmod
+11	de	_	ADP	ADP	_	14	case
+12	los	_	DET	DET	_	14	det
+13	mejores	_	ADJ	ADJ	_	14	amod
+14	jóvenes	_	NOUN	NOUN	_	10	nmod
+15	del	_	ADP	ADP	_	16	case
+16	fútbol	_	NOUN	NOUN	_	14	nmod
+17	mundial	_	ADJ	ADJ	_	16	amod
+18	.	_	PUNCT	PUNCT	_	5	punct
+

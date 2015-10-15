@@ -1,0 +1,24 @@
+1	Angelina	_	ADJ	ADJ	_	2	amod
+2	Jolie	_	NOUN	NOUN	_	3	nsubj
+3	hade	_	VERB	VERB	_	0	root
+4	en	_	DET	DET	_	5	det
+5	pojkvän	_	NOUN	NOUN	_	3	dobj
+6	under	_	ADP	ADP	_	8	case
+7	två	_	NUM	NUM	_	8	nummod
+8	år	_	NOUN	NOUN	_	3	nmod
+9	från	_	ADP	ADP	_	10	case
+10	det	_	PRON	PRON	_	8	nmod
+11	att	_	SCONJ	SCONJ	_	14	mark
+12	hon	_	PRON	PRON	_	14	nsubj
+13	var	_	AUX	AUX	_	14	cop
+14	fjorton	_	NOUN	NOUN	_	3	ccomp
+15	,	_	PUNCT	PUNCT	_	14	punct
+16	som	_	PRON	PRON	_	17	nsubj
+17	bodde	_	VERB	VERB	_	14	acl:relcl
+18	med	_	ADP	ADP	_	19	case
+19	henne	_	PRON	PRON	_	17	nmod
+20	i	_	ADP	ADP	_	22	case
+21	mammans	_	NOUN	NOUN	_	22	nmod:poss
+22	hus	_	NOUN	NOUN	_	17	nmod
+23	.	_	PUNCT	PUNCT	_	3	punct
+

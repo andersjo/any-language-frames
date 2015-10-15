@@ -1,0 +1,19 @@
+1	El	_	DET	DET	_	2	det
+2	cuerpo	_	NOUN	NOUN	_	6	nsubj
+3	de	_	ADP	ADP	_	4	case
+4	Voldemort	_	PROPN	PROPN	_	2	nmod
+5	resulta	_	AUX	AUX	_	6	aux
+6	destruido	_	VERB	VERB	_	0	root
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	pero	_	CONJ	CONJ	_	6	cc
+9	su	_	DET	DET	_	10	nmod:poss
+10	espíritu	_	NOUN	NOUN	_	11	nsubj
+11	sobrevive	_	VERB	VERB	_	6	conj
+12	:	_	PUNCT	PUNCT	_	11	punct
+13	no	_	ADV	ADV	_	14	neg
+14	está	_	VERB	VERB	_	15	cop
+15	muerto	_	ADJ	ADJ	_	11	parataxis
+16	ni	_	CONJ	CONJ	_	15	cc
+17	vivo	_	ADJ	ADJ	_	15	conj
+18	.	_	PUNCT	PUNCT	_	6	punct
+

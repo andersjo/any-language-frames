@@ -1,0 +1,6 @@
+1	Enganché	_	PROPN	PROPN	_	3	name
+2	harry	_	PROPN	PROPN	_	3	name
+3	potter	_	PROPN	PROPN	_	0	root
+4	.	_	PUNCT	PUNCT	_	3	punct
+5	Chau	_	PROPN	PROPN	_	3	nmod
+

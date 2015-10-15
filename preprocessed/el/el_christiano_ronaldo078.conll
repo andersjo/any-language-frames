@@ -1,0 +1,16 @@
+1	Ο	_	ADJ	ADJ	_	2	det
+2	Ρονάλντο	_	NOUN	NOUN	_	4	nsubj
+3	,	_	PUNCT	PUNCT	_	6	punct
+4	πέτυχε	_	VERB	VERB	_	0	root
+5	ένα	_	ADJ	ADJ	_	6	det
+6	γκολ	_	NOUN	NOUN	_	4	dobj
+7	,	_	PUNCT	PUNCT	_	4	punct
+8	στον	_	ADP	ADP	_	9	case
+9	αγώνα	_	NOUN	NOUN	_	4	nmod
+10	με	_	ADP	ADP	_	11	case
+11	αντίπαλο	_	NOUN	NOUN	_	9	nmod
+12	τη	_	ADJ	ADJ	_	14	det
+13	Βόρεια	_	ADJ	ADJ	_	14	amod
+14	Κορέα	_	NOUN	NOUN	_	11	nmod
+15	.	_	PUNCT	PUNCT	_	4	punct
+

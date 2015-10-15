@@ -1,0 +1,17 @@
+1	Μόνο	_	ADV	ADV	_	2	advmod
+2	δύο	_	NUM	NUM	_	3	nummod
+3	σύλλογοι	_	NOUN	NOUN	_	7	nsubj
+4	στον	_	ADP	ADP	_	5	case
+5	κόσμο	_	NOUN	NOUN	_	3	nmod
+6	,	_	PUNCT	PUNCT	_	7	punct
+7	πούλησαν	_	VERB	VERB	_	0	root
+8	πάνω	_	ADV	ADV	_	7	advmod
+9	από	_	ADP	ADP	_	11	case
+10	1	_	NUM	NUM	_	11	nummod
+11	εκατομμύριο	_	NOUN	NOUN	_	8	nmod
+12	φανέλες	_	VERB	VERB	_	7	ccomp
+13	εκείνη	_	PRON	PRON	_	15	det
+14	τη	_	ADJ	ADJ	_	15	det
+15	χρονιά	_	NOUN	NOUN	_	12	dobj
+16	.	_	PUNCT	PUNCT	_	7	punct
+

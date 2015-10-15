@@ -1,0 +1,25 @@
+1	Under	_	ADP	ADP	_	3	case
+2	en	_	DET	DET	_	3	det
+3	kvartfinalekamp	_	NOUN	NOUN	_	16	nmod
+4	mod	_	ADP	ADP	_	5	case
+5	England	_	PROPN	PROPN	_	3	nmod
+6	den	_	DET	DET	_	9	det
+7	1	_	NUM	NUM	_	9	nummod
+8	.	_	PUNCT	PUNCT	_	1	punct
+9	juli	_	NOUN	NOUN	_	5	list
+10	2006	_	NUM	NUM	_	9	nmod
+11	blev	_	AUX	AUX	_	16	auxpass
+12	Ronaldos	_	PROPN	PROPN	_	14	nmod:poss
+13	United-holdkammerat	_	NOUN	NOUN	_	12	dep
+14	Wayne	_	NOUN	NOUN	_	16	nsubj
+15	Rooney	_	PROPN	PROPN	_	14	appos
+16	udvist	_	VERB	VERB	_	0	root
+17	efter	_	ADP	ADP	_	19	case
+18	en	_	DET	DET	_	19	det
+19	tackling	_	NOUN	NOUN	_	16	nmod
+20	af	_	ADP	ADP	_	21	case
+21	forsvarsspilleren	_	NOUN	NOUN	_	19	nmod
+22	Ricardo	_	PROPN	PROPN	_	21	appos
+23	Carvalho	_	PROPN	PROPN	_	22	name
+24	.	_	PUNCT	PUNCT	_	16	punct
+

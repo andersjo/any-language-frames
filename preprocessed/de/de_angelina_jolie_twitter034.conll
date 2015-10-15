@@ -1,0 +1,22 @@
+1	"	_	PUNCT	PUNCT	_	5	punct
+2	Dies	_	PRON	PRON	_	5	nsubj
+3	ist	_	VERB	VERB	_	5	cop
+4	der	_	DET	DET	_	5	det
+5	Ort	_	NOUN	NOUN	_	0	root
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	an	_	ADP	ADP	_	10	case
+8	dem	_	DET	DET	_	10	det
+9	Angelina	_	PROPN	PROPN	_	10	amod
+10	Jolie	_	PROPN	PROPN	_	15	nmod
+11	'	_	PUNCT	PUNCT	_	10	case
+12	Tomb	_	PROPN	PROPN	_	13	name
+13	Raider	_	PROPN	PROPN	_	10	appos
+14	'	_	PUNCT	PUNCT	_	13	punct
+15	gedreht	_	VERB	VERB	_	5	acl
+16	hat	_	AUX	AUX	_	15	aux
+17	.	_	PUNCT	PUNCT	_	5	punct
+18	"	_	PUNCT	PUNCT	_	20	punct
+19	...	_	PUNCT	PUNCT	_	20	punct
+20	http://t.co/aGVHUYEyk5	_	PROPN	PROPN	_	21	nsubj
+21	#kopftisch	_	ADJ	ADJ	_	13	parataxis
+

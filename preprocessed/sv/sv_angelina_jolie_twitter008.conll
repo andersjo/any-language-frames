@@ -1,0 +1,19 @@
+1	"	_	PUNCT	PUNCT	_	4	punct
+2	För	_	ADP	ADP	_	4	case
+3	att	_	PART	PART	_	4	mark
+4	vara	_	VERB	VERB	_	11	advcl
+5	en	_	PRON	PRON	_	4	dobj
+6	av	_	ADP	ADP	_	9	case
+7	filmvärldens	_	NOUN	NOUN	_	9	nmod:poss
+8	mäktigaste	_	ADJ	ADJ	_	9	amod
+9	personer	_	NOUN	NOUN	_	4	nmod
+10	har	_	AUX	AUX	_	11	aux
+11	Angelina	_	VERB	VERB	_	0	root
+12	Jolie	_	NOUN	NOUN	_	11	dobj
+13	ett	_	DET	DET	_	16	det
+14	överraskande	_	ADV	ADV	_	15	advmod
+15	slappt	_	ADJ	ADJ	_	16	amod
+16	handslag	_	NOUN	NOUN	_	11	dobj
+17	.	_	PUNCT	PUNCT	_	11	punct
+18	"	_	PUNCT	PUNCT	_	11	punct
+

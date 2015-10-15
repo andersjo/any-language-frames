@@ -1,0 +1,9 @@
+1	Vorrei	_	AUX	AUX	_	3	aux
+2	essere	_	AUX	AUX	_	3	auxpass
+3	figa	_	VERB	VERB	_	0	root
+4	come	_	ADP	ADP	_	5	case
+5	Angelina	_	PROPN	PROPN	_	3	nmod
+6	Jolie	_	PROPN	PROPN	_	5	name
+7	in	_	ADP	ADP	_	8	case
+8	Maleficent	_	PROPN	PROPN	_	5	nmod
+

@@ -1,0 +1,18 @@
+1	Στις	_	ADP	ADP	_	3	case
+2	13	_	NUM	NUM	_	5	nmod
+3	Αυγούστου	_	NOUN	NOUN	_	2	nmod
+4	2002	_	NUM	NUM	_	3	nmod
+5	κάνει	_	VERB	VERB	_	0	root
+6	ντεμπούτο	_	NOUN	NOUN	_	5	dobj
+7	με	_	ADP	ADP	_	9	case
+8	τη	_	ADJ	ADJ	_	9	det
+9	Σπόρτινγκ	_	NOUN	NOUN	_	6	nmod
+10	στο	_	ADP	ADP	_	11	case
+11	Τσάμπιονς	_	NOUN	NOUN	_	9	nmod
+12	Λίγκ	_	NOUN	NOUN	_	11	nmod
+13	,	_	PUNCT	PUNCT	_	16	punct
+14	εναντίον	_	ADP	ADP	_	16	case
+15	της	_	ADJ	ADJ	_	16	det
+16	Ίντερ	_	NOUN	NOUN	_	12	nmod
+17	.	_	PUNCT	PUNCT	_	5	punct
+

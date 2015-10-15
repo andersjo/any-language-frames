@@ -1,0 +1,16 @@
+1	D-EU-USA-	_	PROPN	PROPN	_	9	dep
+2	<	_	PUNCT	PUNCT	_	1	punct
+3	b	_	X	X	_	1	appos
+4	>	_	PUNCT	PUNCT	_	3	punct
+5	Handel	_	PROPN	PROPN	_	7	name
+6	<	_	PUNCT	PUNCT	_	5	punct
+7	/b	_	PROPN	PROPN	_	9	name
+8	>	_	PUNCT	PUNCT	_	9	punct
+9	-Lebensmittel-Verbraucher	_	NOUN	NOUN	_	11	compound
+10	:	_	PUNCT	PUNCT	_	9	punct
+11	Lebensmittelwirtschaft	_	NOUN	NOUN	_	12	nsubj
+12	kritisiert	_	VERB	VERB	_	0	root
+13	Schmidts	_	PROPN	PROPN	_	15	name
+14	…	_	PROPN	PROPN	_	15	name
+15	http://t.co/ElS0ZwHqfp	_	PROPN	PROPN	_	12	nsubj
+

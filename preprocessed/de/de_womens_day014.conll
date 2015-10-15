@@ -1,0 +1,22 @@
+1	Mit	_	ADP	ADP	_	3	case
+2	der	_	DET	DET	_	3	det
+3	Wahl	_	NOUN	NOUN	_	12	nmod
+4	des	_	DET	DET	_	5	det
+5	Datums	_	NOUN	NOUN	_	3	det
+6	sollte	_	AUX	AUX	_	13	aux
+7	der	_	DET	DET	_	9	det
+8	revolutionäre	_	ADJ	ADJ	_	9	amod
+9	Charakter	_	NOUN	NOUN	_	12	nsubj
+10	des	_	DET	DET	_	11	det
+11	Frauentags	_	NOUN	NOUN	_	9	det
+12	hervorgehoben	_	ADJ	ADJ	_	0	root
+13	werden	_	VERB	VERB	_	12	cop
+14	,	_	PUNCT	PUNCT	_	12	punct
+15	denn	_	SCONJ	SCONJ	_	17	mark
+16	der	_	DET	DET	_	17	det
+17	Vortag	_	NOUN	NOUN	_	20	nsubj
+18	,	_	PUNCT	PUNCT	_	17	punct
+19	der	_	DET	DET	_	20	det
+20	18	_	NUM	NUM	_	9	dep
+21	.	_	PUNCT	PUNCT	_	12	punct
+

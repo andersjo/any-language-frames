@@ -1,0 +1,11 @@
+1	Kvindedagen	_	NOUN	NOUN	_	3	nsubj
+2	skal	_	AUX	AUX	_	3	aux
+3	have	_	VERB	VERB	_	8	dep
+4	international	_	ADJ	ADJ	_	5	amod
+5	karakter	_	NOUN	NOUN	_	3	dobj
+6	og	_	CONJ	CONJ	_	8	cc
+7	må	_	AUX	AUX	_	8	aux
+8	forberedes	_	VERB	VERB	_	0	root
+9	omhyggeligt	_	ADV	ADV	_	8	advmod
+10	.	_	PUNCT	PUNCT	_	8	punct
+

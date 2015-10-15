@@ -1,0 +1,25 @@
+1	@enzolarissa	_	VERB	VERB	_	0	root
+2	le	_	DET	DET	_	3	det
+3	match	_	NOUN	NOUN	_	1	dobj
+4	commence	_	VERB	VERB	_	3	acl
+5	dans	_	ADP	ADP	_	7	case
+6	10	_	NUM	NUM	_	7	nummod
+7	min	_	NOUN	NOUN	_	4	nmod
+8	.	_	PUNCT	PUNCT	_	3	punct
+9	L	_	DET	DET	_	10	det
+10	scrore	_	NOUN	NOUN	_	12	nsubj
+11	sera	_	VERB	VERB	_	12	cop
+12	3-1	_	NUM	NUM	_	7	conj
+13	en	_	ADP	ADP	_	14	case
+14	faveur	_	NOUN	NOUN	_	12	nmod
+15	du	_	ADP	ADP	_	16	case
+16	real	_	PROPN	PROPN	_	14	nmod
+17	et	_	CONJ	CONJ	_	16	cc
+18	au	_	ADP	ADP	_	19	case
+19	passage	_	NOUN	NOUN	_	16	conj
+20	le	_	DET	DET	_	21	det
+21	doublé	_	NOUN	NOUN	_	19	nmod
+22	de	_	ADP	ADP	_	24	case
+23	christiano	_	PROPN	PROPN	_	24	name
+24	Ronaldo✌	_	PROPN	PROPN	_	21	nmod
+

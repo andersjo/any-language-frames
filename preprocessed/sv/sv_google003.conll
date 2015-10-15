@@ -1,0 +1,10 @@
+1	Googles	_	ADJ	ADJ	_	2	amod
+2	söktjänst	_	NOUN	NOUN	_	4	nsubj
+3	är	_	AUX	AUX	_	4	cop
+4	världens	_	NOUN	NOUN	_	8	nsubj
+5	i	_	ADP	ADP	_	6	case
+6	särklass	_	NOUN	NOUN	_	4	nmod
+7	mest	_	ADV	ADV	_	8	advmod
+8	använda	_	VERB	VERB	_	0	root
+9	.	_	PUNCT	PUNCT	_	8	punct
+

@@ -1,0 +1,16 @@
+1	Παρασκευή	_	NOUN	NOUN	_	0	root
+2	βράδυ	_	NOUN	NOUN	_	1	nmod
+3	και	_	CONJ	CONJ	_	1	cc
+4	έχει	_	VERB	VERB	_	1	conj
+5	Harry	_	NOUN	NOUN	_	4	dobj
+6	Potter	_	NOUN	NOUN	_	5	nmod
+7	στο	_	ADP	ADP	_	8	case
+8	Star	_	NOUN	NOUN	_	5	nmod
+9	!!!	_	NOUN	NOUN	_	8	nmod
+10	Δεν	_	PART	PART	_	12	neg
+11	το	_	PRON	PRON	_	12	dobj
+12	μάθατε	_	VERB	VERB	_	8	acl:relcl
+13	από	_	ADP	ADP	_	14	case
+14	μένα	_	NOUN	NOUN	_	12	nmod
+15	!!!	_	NOUN	NOUN	_	14	nmod
+

@@ -1,0 +1,20 @@
+1	Τον	_	ADJ	ADJ	_	2	det
+2	ονόμασε	_	NOUN	NOUN	_	10	nsubj
+3	Μάντοξ	_	NOUN	NOUN	_	2	nmod
+4	παρόλο	_	ADV	ADV	_	8	advmod
+5	που	_	PRON	PRON	_	10	dobj
+6	το	_	ADJ	ADJ	_	7	det
+7	παιδάκι	_	NOUN	NOUN	_	8	nsubj
+8	γεννήθηκε	_	VERB	VERB	_	0	root
+9	ως	_	ADV	ADV	_	10	case
+10	Ραθ	_	NOUN	NOUN	_	8	dobj
+11	Βίμπολ	_	NOUN	NOUN	_	10	nmod
+12	το	_	ADJ	ADJ	_	13	det
+13	2001	_	NUM	NUM	_	8	remnant
+14	σε	_	ADP	ADP	_	16	case
+15	τοπικό	_	ADJ	ADJ	_	16	amod
+16	χωριό	_	NOUN	NOUN	_	13	nmod
+17	της	_	ADJ	ADJ	_	18	det
+18	περιοχής	_	NOUN	NOUN	_	16	nmod
+19	.	_	PUNCT	PUNCT	_	8	punct
+

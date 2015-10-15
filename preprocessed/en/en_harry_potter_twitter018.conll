@@ -1,0 +1,17 @@
+1	why	_	ADV	ADV	_	5	advmod
+2	tf	_	PROPN	PROPN	_	5	nsubj
+3	did	_	AUX	AUX	_	5	aux
+4	i	_	PRON	PRON	_	5	nsubj
+5	get	_	VERB	VERB	_	0	root
+6	a	_	DET	DET	_	9	det
+7	harry	_	PROPN	PROPN	_	9	compound
+8	potter	_	NOUN	NOUN	_	9	compound
+9	question	_	NOUN	NOUN	_	5	dobj
+10	in	_	ADP	ADP	_	5	compound:prt
+11	the	_	DET	DET	_	13	det
+12	art	_	NOUN	NOUN	_	13	compound
+13	section	_	NOUN	NOUN	_	5	dobj
+14	of	_	ADP	ADP	_	13	acl
+15	trivia	_	ADJ	ADJ	_	0	foreign
+16	crack	_	NOUN	NOUN	_	5	nmod:tmod
+

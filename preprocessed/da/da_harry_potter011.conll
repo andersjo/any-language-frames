@@ -1,0 +1,15 @@
+1	"	_	PUNCT	PUNCT	_	3	punct
+2	Harry	_	ADJ	ADJ	_	3	amod
+3	Potter	_	NOUN	NOUN	_	5	nmod:poss
+4	"	_	PUNCT	PUNCT	_	3	punct
+5	-bøgerne	_	NOUN	NOUN	_	8	nsubjpass
+6	er	_	AUX	AUX	_	8	auxpass
+7	dog	_	ADV	ADV	_	8	advmod
+8	beregnet	_	VERB	VERB	_	0	root
+9	for	_	ADP	ADP	_	10	case
+10	læsere	_	NOUN	NOUN	_	8	nmod
+11	i	_	ADP	ADP	_	13	case
+12	alle	_	ADJ	ADJ	_	13	amod
+13	aldre	_	NOUN	NOUN	_	8	nmod
+14	.	_	PUNCT	PUNCT	_	8	punct
+

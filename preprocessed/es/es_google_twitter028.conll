@@ -1,0 +1,21 @@
+1	Google	_	PROPN	PROPN	_	3	nsubj
+2	traductor	_	NOUN	NOUN	_	1	appos
+3	hizo	_	VERB	VERB	_	0	root
+4	su	_	DET	DET	_	5	nmod:poss
+5	parte	_	NOUN	NOUN	_	3	dobj
+6	y	_	CONJ	CONJ	_	3	cc
+7	yo	_	PRON	PRON	_	8	nsubj
+8	hice	_	VERB	VERB	_	3	conj
+9	la	_	DET	DET	_	10	det
+10	mia	_	NOUN	NOUN	_	8	dobj
+11	jajaja	_	X	X	_	10	appos
+12	espero	_	VERB	VERB	_	3	conj
+13	haberte	_	AUX	AUX	_	14	aux
+14	ayudado	_	VERB	VERB	_	12	xcomp
+15	un	_	DET	DET	_	16	det
+16	poquito	_	NOUN	NOUN	_	14	dobj
+17	.	_	PUNCT	PUNCT	_	3	punct
+18	@JohannVera1	_	X	X	_	19	dep
+19	Saludos	_	NOUN	NOUN	_	16	appos
+20	♥	_	X	X	_	19	appos
+

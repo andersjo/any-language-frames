@@ -1,0 +1,24 @@
+1	:	_	PUNCT	PUNCT	_	5	punct
+2	Maleficent	_	ADJ	ADJ	_	0	appos
+3	(	_	PUNCT	PUNCT	_	5	punct
+4	Theatrical	_	PROPN	PROPN	_	5	compound
+5	):	_	PROPN	PROPN	_	0	root
+6	Maleficent	_	ADJ	ADJ	_	0	appos
+7	(	_	PUNCT	PUNCT	_	8	punct
+8	Theatrical	_	PROPN	PROPN	_	5	list
+9	)	_	PUNCT	PUNCT	_	8	punct
+10	Amazon	_	PROPN	PROPN	_	11	compound
+11	Instant	_	PROPN	PROPN	_	12	compound
+12	Video	_	NOUN	NOUN	_	8	appos
+13	~	_	PUNCT	PUNCT	_	8	punct
+14	Angelina	_	PROPN	PROPN	_	15	compound
+15	Jolie	_	PROPN	PROPN	_	12	appos
+16	(	_	PUNCT	PUNCT	_	15	punct
+17	4919	_	NUM	NUM	_	15	amod
+18	)	_	PUNCT	PUNCT	_	19	punct
+19	Download	_	NOUN	NOUN	_	15	appos
+20	:	_	PUNCT	PUNCT	_	19	punct
+21	$4.99	_	X	X	_	19	appos
+22	…	_	X	X	_	21	cc
+23	http://t.co/g7mYhXZ0X2	_	X	X	_	21	conj
+

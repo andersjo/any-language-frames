@@ -1,0 +1,23 @@
+1	@Jorgeoneer	_	PROPN	PROPN	_	3	nsubj
+2	Están	_	AUX	AUX	_	3	aux
+3	relacionadas	_	VERB	VERB	_	0	root
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	la	_	PRON	PRON	_	6	dobj
+6	encontré	_	VERB	VERB	_	7	cop
+7	suelta	_	ADJ	ADJ	_	3	advcl
+8	por	_	ADP	ADP	_	9	case
+9	ahí	_	ADV	ADV	_	6	advmod
+10	,	_	PUNCT	PUNCT	_	11	punct
+11	buscando	_	VERB	VERB	_	7	acl
+12	en	_	ADP	ADP	_	13	case
+13	Google	_	PROPN	PROPN	_	11	nmod
+14	,	_	PUNCT	PUNCT	_	11	punct
+15	pero	_	CONJ	CONJ	_	11	cc
+16	estará	_	VERB	VERB	_	11	conj
+17	en	_	ADP	ADP	_	18	case
+18	descarga	_	NOUN	NOUN	_	16	nmod
+19	en	_	ADP	ADP	_	21	case
+20	mejor	_	ADJ	ADJ	_	21	amod
+21	calidad	_	NOUN	NOUN	_	18	nmod
+22	.	_	PUNCT	PUNCT	_	7	punct
+

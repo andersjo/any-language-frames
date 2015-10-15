@@ -1,0 +1,16 @@
+1	Google	_	PROPN	PROPN	_	5	nsubj
+2	is	_	VERB	VERB	_	5	cop
+3	a	_	DET	DET	_	5	det
+4	United	_	PROPN	PROPN	_	5	compound
+5	States-headquartered	_	NOUN	NOUN	_	9	nmod
+6	,	_	PUNCT	PUNCT	_	9	punct
+7	multinational	_	ADJ	ADJ	_	0	remnant
+8	corporation	_	NOUN	NOUN	_	9	nsubj
+9	specializing	_	VERB	VERB	_	0	root
+10	in	_	ADP	ADP	_	9	compound:prt
+11	Internet-related	_	PROPN	PROPN	_	12	compound
+12	services	_	NOUN	NOUN	_	9	dobj
+13	and	_	CONJ	CONJ	_	12	cc
+14	products	_	NOUN	NOUN	_	12	conj
+15	.	_	PUNCT	PUNCT	_	9	punct
+

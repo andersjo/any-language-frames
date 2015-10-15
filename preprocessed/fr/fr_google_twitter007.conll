@@ -1,0 +1,17 @@
+1	Il	_	PRON	PRON	_	6	nsubj
+2	y	_	PRON	PRON	_	6	expl
+3	a	_	AUX	AUX	_	6	aux
+4	dû	_	AUX	AUX	_	6	aux
+5	y	_	ADV	ADV	_	6	advmod
+6	avoir	_	VERB	VERB	_	0	root
+7	une	_	DET	DET	_	8	det
+8	tonne	_	NOUN	NOUN	_	6	dobj
+9	de	_	ADP	ADP	_	10	case
+10	recherches	_	NOUN	NOUN	_	8	nmod
+11	Google	_	PROPN	PROPN	_	10	appos
+12	"	_	PUNCT	PUNCT	_	13	punct
+13	raconteur	_	NOUN	NOUN	_	8	appos
+14	translate	_	ADJ	ADJ	_	13	amod
+15	"	_	PUNCT	PUNCT	_	16	punct
+16	mdr	_	PROPN	PROPN	_	13	appos
+

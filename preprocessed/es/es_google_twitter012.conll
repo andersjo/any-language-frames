@@ -1,0 +1,14 @@
+1	¡Unete	_	NOUN	NOUN	_	0	root
+2	a	_	ADP	ADP	_	3	case
+3	Castillo	_	NOUN	NOUN	_	1	nmod
+4	Furioso	_	ADJ	ADJ	_	3	amod
+5	:	_	PUNCT	PUNCT	_	1	punct
+6	Castle	_	PROPN	PROPN	_	7	name
+7	Clash	_	PROPN	PROPN	_	3	appos
+8	!	_	PUNCT	PUNCT	_	7	punct
+9	¡El	_	PROPN	PROPN	_	7	appos
+10	mejor	_	ADJ	ADJ	_	11	amod
+11	juego	_	NOUN	NOUN	_	9	nmod
+12	!	_	PUNCT	PUNCT	_	7	punct
+13	https://t.co/UZmsur5eRD	_	PROPN	PROPN	_	11	appos
+

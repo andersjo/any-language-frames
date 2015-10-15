@@ -1,0 +1,27 @@
+1	È	_	VERB	VERB	_	3	cop
+2	spesso	_	ADV	ADV	_	1	advmod
+3	autore	_	NOUN	NOUN	_	0	root
+4	di	_	ADP	ADP	_	5	case
+5	cross	_	NOUN	NOUN	_	3	nmod
+6	dalla	_	ADP	ADP	_	7	case
+7	fascia	_	NOUN	NOUN	_	5	nmod
+8	,	_	PUNCT	PUNCT	_	3	punct
+9	ma	_	CONJ	CONJ	_	1	cc
+10	ha	_	VERB	VERB	_	1	conj
+11	anche	_	ADV	ADV	_	12	advmod
+12	uno	_	PRON	PRON	_	13	nsubj
+13	spiccato	_	VERB	VERB	_	10	advcl
+14	senso	_	NOUN	NOUN	_	13	dobj
+15	del	_	ADP	ADP	_	16	case
+16	gol	_	NOUN	NOUN	_	14	nmod
+17	e	_	CONJ	CONJ	_	10	cc
+18	sa	_	AUX	AUX	_	19	aux
+19	segnare	_	VERB	VERB	_	13	conj
+20	sia	_	VERB	VERB	_	19	advcl
+21	di	_	ADP	ADP	_	22	case
+22	piede	_	NOUN	NOUN	_	20	nmod
+23	che	_	PRON	PRON	_	20	advmod
+24	di	_	ADP	ADP	_	25	case
+25	testa	_	NOUN	NOUN	_	23	nmod
+26	.	_	PUNCT	PUNCT	_	10	punct
+

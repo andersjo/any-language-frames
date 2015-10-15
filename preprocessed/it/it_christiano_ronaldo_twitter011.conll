@@ -1,0 +1,15 @@
+1	“	_	PUNCT	PUNCT	_	2	punct
+2	@saraa_Okam	_	PROPN	PROPN	_	0	root
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Christiano	_	PROPN	PROPN	_	2	nmod
+5	Ronaldo	_	PROPN	PROPN	_	4	name
+6	all	_	PROPN	PROPN	_	4	name
+7	the	_	DET	DET	_	8	det
+8	way	_	PROPN	PROPN	_	4	conj
+9	!!!	_	PROPN	PROPN	_	8	name
+10	👏💃💃	_	PROPN	PROPN	_	8	name
+11	”	_	PUNCT	PUNCT	_	8	punct
+12	Lionel	_	PROPN	PROPN	_	8	nmod
+13	messi	_	VERB	VERB	_	12	acl
+14	!!	_	PUNCT	PUNCT	_	13	punct
+

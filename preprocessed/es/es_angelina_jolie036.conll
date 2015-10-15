@@ -1,0 +1,14 @@
+1	Regresó	_	VERB	VERB	_	0	root
+2	a	_	ADP	ADP	_	4	case
+3	los	_	DET	DET	_	4	det
+4	estudios	_	NOUN	NOUN	_	1	nmod
+5	de	_	ADP	ADP	_	6	case
+6	teatro	_	NOUN	NOUN	_	4	nmod
+7	después	_	ADV	ADV	_	8	mwe
+8	de	_	ADP	ADP	_	10	case
+9	haberse	_	AUX	AUX	_	10	aux
+10	graduado	_	VERB	VERB	_	1	acl
+11	de	_	ADP	ADP	_	12	case
+12	secundaria	_	NOUN	NOUN	_	10	nmod
+13	.	_	PUNCT	PUNCT	_	1	punct
+

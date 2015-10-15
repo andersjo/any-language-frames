@@ -1,0 +1,11 @@
+1	1910	_	NUM	NUM	_	3	dep
+2	-	_	PUNCT	PUNCT	_	1	punct
+3	Proclamación	_	NOUN	NOUN	_	0	root
+4	del	_	ADP	ADP	_	5	case
+5	Día	_	PROPN	PROPN	_	3	nmod
+6	Internacional	_	PROPN	PROPN	_	5	amod
+7	de	_	ADP	ADP	_	9	case
+8	la	_	DET	DET	_	9	det
+9	Mujer	_	PROPN	PROPN	_	5	nmod
+10	.	_	PUNCT	PUNCT	_	1	punct
+

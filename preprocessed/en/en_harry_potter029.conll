@@ -1,0 +1,24 @@
+1	Harry's	_	PROPN	PROPN	_	3	compound
+2	first	_	ADJ	ADJ	_	0	iobj
+3	contact	_	NOUN	NOUN	_	7	nmod:poss
+4	with	_	ADP	ADP	_	3	acl
+5	the	_	DET	DET	_	7	det
+6	wizarding	_	ADJ	ADJ	_	0	remnant
+7	world	_	NOUN	NOUN	_	11	nsubj
+8	is	_	VERB	VERB	_	11	cop
+9	through	_	ADP	ADP	_	8	compound:prt
+10	a	_	DET	DET	_	11	det
+11	half-giant	_	NOUN	NOUN	_	0	root
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	Rubeus	_	PROPN	PROPN	_	14	compound
+14	Hagrid	_	PROPN	PROPN	_	11	appos
+15	,	_	PUNCT	PUNCT	_	14	punct
+16	keeper	_	NOUN	NOUN	_	18	compound
+17	of	_	ADP	ADP	_	16	compound
+18	grounds	_	NOUN	NOUN	_	11	conj
+19	and	_	CONJ	CONJ	_	18	cc
+20	keys	_	NOUN	NOUN	_	18	conj
+21	at	_	ADP	ADP	_	22	compound
+22	Hogwarts	_	NOUN	NOUN	_	18	conj
+23	.	_	PUNCT	PUNCT	_	3	punct
+

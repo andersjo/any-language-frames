@@ -1,0 +1,17 @@
+1	LA	_	DET	DET	_	3	det
+2	SOLITA	_	ADJ	ADJ	_	3	amod
+3	STORIA	_	NOUN	NOUN	_	5	nmod
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	ARRIVA	_	VERB	VERB	_	0	root
+6	IL	_	PROPN	PROPN	_	5	nsubj
+7	FREDDO	_	PROPN	PROPN	_	6	name
+8	E	_	CONJ	CONJ	_	6	cc
+9	CI	_	PROPN	PROPN	_	6	conj
+10	DIMENTICHIAMO	_	PROPN	PROPN	_	9	name
+11	DEL	_	PROPN	PROPN	_	9	name
+12	GLOBAL	_	PROPN	PROPN	_	9	name
+13	WARMING	_	PROPN	PROPN	_	9	name
+14	http://t.co/b2x9MFNvSp	_	NOUN	NOUN	_	13	mwe
+15	via	_	ADV	ADV	_	16	advmod
+16	@stati_generali	_	ADJ	ADJ	_	14	amod
+

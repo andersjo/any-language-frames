@@ -1,0 +1,8 @@
+1	Nine	_	PROPN	PROPN	_	3	nmod:poss
+2	social	_	ADJ	ADJ	_	3	amod
+3	media	_	NOUN	NOUN	_	4	nmod:poss
+4	resolutions	_	NOUN	NOUN	_	0	root
+5	for	_	ADP	ADP	_	7	case
+6	2015	_	NUM	NUM	_	7	nummod
+7	http://t.co/2X6nElqQJL	_	NOUN	NOUN	_	4	nmod
+

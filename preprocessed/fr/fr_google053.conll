@@ -1,0 +1,20 @@
+1	Dès	_	ADP	ADP	_	4	case
+2	,	_	PUNCT	PUNCT	_	6	punct
+3	la	_	DET	DET	_	4	det
+4	presse	_	NOUN	NOUN	_	6	nsubj
+5	mondiale	_	ADJ	ADJ	_	4	amod
+6	commence	_	VERB	VERB	_	0	root
+7	à	_	ADP	ADP	_	9	case
+8	se	_	PRON	PRON	_	9	dobj
+9	faire	_	VERB	VERB	_	6	acl
+10	l'écho	_	NOUN	NOUN	_	9	dobj
+11	des	_	ADP	ADP	_	12	case
+12	performances	_	NOUN	NOUN	_	10	nmod
+13	de	_	ADP	ADP	_	16	case
+14	ce	_	DET	DET	_	16	det
+15	nouveau	_	ADJ	ADJ	_	16	amod
+16	moteur	_	NOUN	NOUN	_	12	nmod
+17	de	_	ADP	ADP	_	18	case
+18	recherche	_	NOUN	NOUN	_	16	nmod
+19	.	_	PUNCT	PUNCT	_	6	punct
+

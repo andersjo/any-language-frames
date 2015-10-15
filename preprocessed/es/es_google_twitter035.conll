@@ -1,0 +1,17 @@
+1	Que	_	SCONJ	SCONJ	_	3	mark
+2	jamás	_	ADV	ADV	_	3	advmod
+3	vio	_	VERB	VERB	_	0	root
+4	luz	_	NOUN	NOUN	_	3	dobj
+5	al	_	ADP	ADP	_	6	case
+6	final	_	NOUN	NOUN	_	4	nmod
+7	del	_	ADP	ADP	_	8	case
+8	túnel	_	NOUN	NOUN	_	6	nmod
+9	y	_	CONJ	CONJ	_	3	cc
+10	no	_	ADV	ADV	_	11	neg
+11	encontró	_	VERB	VERB	_	3	conj
+12	paz	_	NOUN	NOUN	_	11	dobj
+13	ni	_	CONJ	CONJ	_	11	cc
+14	buscándola	_	VERB	VERB	_	3	conj
+15	en	_	ADP	ADP	_	16	case
+16	Google	_	PROPN	PROPN	_	14	nmod
+

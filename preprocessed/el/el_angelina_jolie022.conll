@@ -1,0 +1,17 @@
+1	Το	_	ADJ	ADJ	_	2	det
+2	2003	_	NOUN	NOUN	_	6	nmod
+3	,	_	PUNCT	PUNCT	_	6	punct
+4	η	_	ADJ	ADJ	_	5	det
+5	Τζολί	_	NOUN	NOUN	_	6	nsubj
+6	ρωτήθηκε	_	VERB	VERB	_	0	root
+7	αν	_	CONJ	CONJ	_	9	mark
+8	είναι	_	VERB	VERB	_	9	cop
+9	bisexual	_	NOUN	NOUN	_	6	ccomp
+10	και	_	CONJ	CONJ	_	8	cc
+11	εκείνη	_	PRON	PRON	_	12	nsubj
+12	απάντησε	_	VERB	VERB	_	9	acl:relcl
+13	"	_	PUNCT	PUNCT	_	14	punct
+14	Φυσικά	_	ADV	ADV	_	12	advmod
+15	"	_	PUNCT	PUNCT	_	14	punct
+16	.	_	PUNCT	PUNCT	_	6	punct
+

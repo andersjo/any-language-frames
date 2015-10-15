@@ -1,0 +1,14 @@
+1	I	_	DET	DET	_	2	det
+2	.	_	PUNCT	PUNCT	_	3	punct
+3	esperta	_	VERB	VERB	_	0	root
+4	di	_	ADP	ADP	_	5	case
+5	profili	_	NOUN	NOUN	_	3	nmod
+6	criminali	_	ADJ	ADJ	_	5	amod
+7	alla	_	ADP	ADP	_	8	case
+8	caccia	_	NOUN	NOUN	_	3	nmod
+9	di	_	ADP	ADP	_	12	case
+10	un	_	DET	DET	_	12	det
+11	serial	_	ADJ	ADJ	_	12	amod
+12	killer	_	NOUN	NOUN	_	8	nmod
+13	.	_	PUNCT	PUNCT	_	3	punct
+

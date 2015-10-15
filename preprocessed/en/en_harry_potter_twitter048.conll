@@ -1,0 +1,16 @@
+1	But	_	CONJ	CONJ	_	5	cc
+2	why	_	ADV	ADV	_	5	advmod
+3	did	_	AUX	AUX	_	5	aux
+4	they	_	PRON	PRON	_	5	nsubj
+5	change	_	VERB	VERB	_	0	root
+6	the	_	DET	DET	_	8	det
+7	fat	_	ADJ	ADJ	_	0	remnant
+8	lady	_	NOUN	NOUN	_	5	dobj
+9	portrait	_	ADJ	ADJ	_	0	punct
+10	in	_	ADP	ADP	_	5	compound:prt
+11	the	_	DET	DET	_	14	det
+12	Harry	_	PROPN	PROPN	_	13	compound
+13	Potter	_	PROPN	PROPN	_	14	compound
+14	movies	_	NOUN	NOUN	_	5	dobj
+15	?	_	PUNCT	PUNCT	_	5	punct
+

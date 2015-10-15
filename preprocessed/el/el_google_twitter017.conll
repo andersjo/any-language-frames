@@ -1,0 +1,17 @@
+1	Λιπαρά	_	NOUN	NOUN	_	0	root
+2	μαλλιά	_	ADJ	ADJ	_	3	amod
+3	τέλος	_	NOUN	NOUN	_	1	nmod
+4	με	_	ADP	ADP	_	6	case
+5	ένα	_	ADJ	ADJ	_	6	det
+6	υλικό	_	NOUN	NOUN	_	3	nmod
+7	που	_	PRON	PRON	_	8	dobj
+8	έχουμε	_	VERB	VERB	_	9	cop
+9	όλοι	_	ADJ	ADJ	_	6	acl:relcl
+10	στην	_	ADP	ADP	_	11	case
+11	κουζίνα	_	NOUN	NOUN	_	9	nmod
+12	μας	_	PRON	PRON	_	9	nmod
+13	!	_	PUNCT	PUNCT	_	11	amod
+14	-	_	PUNCT	PUNCT	_	16	punct
+15	http://t.co/jeZp7lgAdV	_	NOUN	NOUN	_	16	nmod
+16	#starbuzz	_	NOUN	NOUN	_	11	appos
+

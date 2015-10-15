@@ -1,0 +1,12 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	Datoer	_	NOUN	NOUN	_	4	nmod:poss
+3	"	_	PUNCT	PUNCT	_	2	punct
+4	Google	_	NOUN	NOUN	_	5	nmod:poss
+5	translate	_	NOUN	NOUN	_	9	nsubj
+6	af	_	ADP	ADP	_	7	case
+7	etiketter	_	NOUN	NOUN	_	5	nmod
+8	er	_	AUX	AUX	_	9	cop
+9	fesent	_	ADJ	ADJ	_	0	root
+10	.	_	PUNCT	PUNCT	_	9	punct
+11	http://t.co/0Pni2lmTj9	_	NOUN	NOUN	_	9	conj
+

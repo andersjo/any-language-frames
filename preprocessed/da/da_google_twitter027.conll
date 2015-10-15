@@ -1,0 +1,21 @@
+1	#escape	_	ADJ	ADJ	_	2	amod
+2	Police	_	NOUN	NOUN	_	3	nmod:poss
+3	called	_	NOUN	NOUN	_	4	nsubj
+4	regarding	_	VERB	VERB	_	10	dep
+5	loud	_	NOUN	NOUN	_	6	nmod:poss
+6	argument	_	NOUN	NOUN	_	4	dobj
+7	over	_	ADP	ADP	_	6	dep
+8	$10	_	X	X	_	7	dep
+9	:	_	PUNCT	PUNCT	_	4	punct
+10	Strongsville	_	VERB	VERB	_	0	root
+11	Police	_	PROPN	PROPN	_	10	nsubj
+12	Blotter	_	NOUN	NOUN	_	11	dep
+13	:	_	PUNCT	PUNCT	_	10	punct
+14	28	_	NUM	NUM	_	12	nummod
+15	,	_	PUNCT	PUNCT	_	14	punct
+16	police	_	NOUN	NOUN	_	17	nmod:poss
+17	no	_	NOUN	NOUN	_	10	dep
+18	...	_	PUNCT	PUNCT	_	16	punct
+19	http://t.co/64EQvgoqae	_	PROPN	PROPN	_	20	nsubj
+20	#fordescape	_	VERB	VERB	_	17	dep
+

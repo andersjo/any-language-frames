@@ -1,0 +1,17 @@
+1	Πρόσθεσα	_	NOUN	NOUN	_	0	root
+2	ένα	_	ADJ	ADJ	_	3	det
+3	βίντεο	_	NOUN	NOUN	_	1	nmod
+4	σε	_	ADP	ADP	_	6	case
+5	ένα	_	ADJ	ADJ	_	6	det
+6	playlist	_	NOUN	NOUN	_	3	nmod
+7	@YouTube	_	NOUN	NOUN	_	6	nmod
+8	http://t.co/k5ohZm4XoC	_	NOUN	NOUN	_	7	nmod
+9	Parodie	_	NOUN	NOUN	_	8	nmod
+10	Harry	_	NOUN	NOUN	_	11	nmod
+11	Potter	_	NOUN	NOUN	_	9	nmod
+12	"	_	PUNCT	PUNCT	_	15	punct
+13	Partir	_	NOUN	NOUN	_	15	nmod
+14	un	_	NOUN	NOUN	_	11	appos
+15	jour	_	NOUN	NOUN	_	14	nmod
+16	"	_	PUNCT	PUNCT	_	13	punct
+

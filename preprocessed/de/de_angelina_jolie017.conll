@@ -1,0 +1,6 @@
+1	April	_	PROPN	PROPN	_	4	dep
+2	1980	_	NUM	NUM	_	1	nmod
+3	rechtskräftig	_	ADJ	ADJ	_	0	root
+4	wurde	_	VERB	VERB	_	3	cop
+5	.	_	PUNCT	PUNCT	_	3	punct
+

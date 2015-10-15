@@ -1,0 +1,27 @@
+1	Ese	_	DET	DET	_	3	det
+2	mismo	_	ADJ	ADJ	_	3	amod
+3	año	_	NOUN	NOUN	_	5	nmod
+4	Google	_	PROPN	PROPN	_	3	appos
+5	compró	_	VERB	VERB	_	13	advcl
+6	Android	_	PROPN	PROPN	_	7	name
+7	Inc	_	PROPN	PROPN	_	5	dobj
+8	.	_	PUNCT	PUNCT	_	7	punct
+9	Vint	_	PROPN	PROPN	_	10	name
+10	Cerf	_	PROPN	PROPN	_	7	appos
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	considerado	_	VERB	VERB	_	13	cop
+13	uno	_	PRON	PRON	_	0	root
+14	de	_	ADP	ADP	_	16	case
+15	los	_	DET	DET	_	16	det
+16	padres	_	NOUN	NOUN	_	13	nmod
+17	de	_	ADP	ADP	_	18	case
+18	Internet	_	NOUN	NOUN	_	16	nmod
+19	,	_	PUNCT	PUNCT	_	16	punct
+20	fue	_	AUX	AUX	_	21	auxpass
+21	contratado	_	VERB	VERB	_	16	acl:relcl
+22	por	_	ADP	ADP	_	23	case
+23	Google	_	PROPN	PROPN	_	21	nmod
+24	en	_	ADP	ADP	_	25	case
+25	2005	_	NUM	NUM	_	21	nmod
+26	.	_	PUNCT	PUNCT	_	5	punct
+

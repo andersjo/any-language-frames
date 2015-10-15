@@ -1,0 +1,23 @@
+1	Η	_	ADJ	ADJ	_	2	det
+2	Αντζελίνα	_	NOUN	NOUN	_	4	nsubj
+3	Τζολί	_	NOUN	NOUN	_	2	nmod
+4	παντρεύτηκε	_	VERB	VERB	_	0	root
+5	τον	_	ADJ	ADJ	_	6	det
+6	Βρετανό	_	NOUN	NOUN	_	4	dobj
+7	ηθοποιό	_	NOUN	NOUN	_	6	nmod
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	Τζόνι	_	NOUN	NOUN	_	11	nmod
+10	Λι	_	NOUN	NOUN	_	7	appos
+11	Μίλλερ	_	NOUN	NOUN	_	10	nmod
+12	στις	_	ADP	ADP	_	13	case
+13	28	_	NUM	NUM	_	11	nummod
+14	Μαρτίου	_	NOUN	NOUN	_	13	nmod
+15	1996	_	NUM	NUM	_	14	nmod
+16	και	_	CONJ	CONJ	_	7	cc
+17	χώρισαν	_	NOUN	NOUN	_	15	conj
+18	στις	_	ADP	ADP	_	19	case
+19	3	_	NUM	NUM	_	15	conj
+20	Φεβρουαρίου	_	NOUN	NOUN	_	19	nmod
+21	1999	_	NUM	NUM	_	20	nmod
+22	.	_	PUNCT	PUNCT	_	4	punct
+

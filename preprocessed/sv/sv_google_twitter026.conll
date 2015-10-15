@@ -1,0 +1,23 @@
+1	@RoteGunde	_	NOUN	NOUN	_	2	nsubj
+2	har	_	VERB	VERB	_	0	root
+3	du	_	PRON	PRON	_	2	nsubj
+4	Google	_	PROPN	PROPN	_	5	nmod:poss
+5	Earth	_	NOUN	NOUN	_	2	dobj
+6	i	_	ADP	ADP	_	2	advmod
+7	så	_	ADV	ADV	_	6	mwe
+8	fall	_	NOUN	NOUN	_	6	mwe
+9	kan	_	AUX	AUX	_	13	aux
+10	jag	_	PRON	PRON	_	11	nsubj
+11	skick	_	NOUN	NOUN	_	13	nmod:poss
+12	den	_	DET	DET	_	13	det
+13	filen	_	NOUN	NOUN	_	2	dobj
+14	?	_	PUNCT	PUNCT	_	2	punct
+15	inget	_	DET	DET	_	16	det
+16	märkvärdigt	_	ADJ	ADJ	_	13	appos
+17	,	_	PUNCT	PUNCT	_	16	punct
+18	men	_	CONJ	CONJ	_	2	cc
+19	bara	_	ADV	ADV	_	21	advmod
+20	om	_	SCONJ	SCONJ	_	19	mwe
+21	du	_	PRON	PRON	_	2	acl
+22	vill	_	AUX	AUX	_	16	aux
+

@@ -1,0 +1,14 @@
+1	Ronaldo	_	PROPN	PROPN	_	3	nsubj
+2	later	_	ADV	ADV	_	3	advmod
+3	said	_	VERB	VERB	_	0	root
+4	of	_	ADP	ADP	_	3	compound:prt
+5	the	_	DET	DET	_	6	det
+6	incident	_	NOUN	NOUN	_	3	dobj
+7	:	_	PUNCT	PUNCT	_	3	punct
+8	"	_	PUNCT	PUNCT	_	3	punct
+9	He	_	PRON	PRON	_	10	nsubj
+10	disrespected	_	VERB	VERB	_	3	ccomp
+11	me	_	PRON	PRON	_	10	dobj
+12	"	_	PUNCT	PUNCT	_	10	punct
+13	.	_	PUNCT	PUNCT	_	3	punct
+

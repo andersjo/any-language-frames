@@ -1,0 +1,24 @@
+1	Les	_	DET	DET	_	2	det
+2	Enfants	_	PROPN	PROPN	_	3	nsubj
+3	Disent	_	VERB	VERB	_	0	root
+4	Il	_	PRON	PRON	_	5	nsubj
+5	Neige	_	VERB	VERB	_	3	xcomp
+6	Pas	_	ADV	ADV	_	5	neg
+7	Ici	_	ADV	ADV	_	5	advmod
+8	Parce	_	ADV	ADV	_	5	advmod
+9	:	_	PUNCT	PUNCT	_	3	punct
+10	-Christiano	_	PROPN	PROPN	_	12	name
+11	Ronaldo	_	PROPN	PROPN	_	12	name
+12	N'habite	_	PROPN	PROPN	_	5	dobj
+13	Pas	_	ADV	ADV	_	15	neg
+14	Ici	_	ADV	ADV	_	5	advmod
+15	-On	_	NOUN	NOUN	_	12	appos
+16	Prépare	_	VERB	VERB	_	15	acl
+17	Sur	_	ADP	ADP	_	20	case
+18	Charbons	_	PROPN	PROPN	_	20	name
+19	-On	_	PROPN	PROPN	_	20	name
+20	Vend	_	PROPN	PROPN	_	16	nmod
+21	Ça	_	PRON	PRON	_	20	dobj
+22	Au	_	ADP	ADP	_	23	case
+23	Glacier	_	PROPN	PROPN	_	16	nmod
+

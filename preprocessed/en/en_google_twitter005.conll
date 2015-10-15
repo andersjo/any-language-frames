@@ -1,0 +1,10 @@
+1	30	_	NUM	NUM	_	2	nummod
+2	Compelling	_	NOUN	NOUN	_	3	compound
+3	Photographs	_	NOUN	NOUN	_	4	nsubj
+4	Taken	_	VERB	VERB	_	0	root
+5	By	_	ADP	ADP	_	4	compound:prt
+6	Google	_	PROPN	PROPN	_	8	compound
+7	Street	_	PROPN	PROPN	_	8	compound
+8	View	_	PROPN	PROPN	_	4	nmod
+9	http://t.co/gBB3bQIcfm	_	X	X	_	8	list
+

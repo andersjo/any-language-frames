@@ -1,0 +1,12 @@
+1	La	_	DET	DET	_	2	det
+2	#Google	_	NOUN	NOUN	_	7	dobj
+3	House	_	PROPN	PROPN	_	2	nmod
+4	,	_	PUNCT	PUNCT	_	2	punct
+5	non	_	ADV	ADV	_	6	neg
+6	più	_	ADV	ADV	_	7	advmod
+7	solo	_	ADV	ADV	_	8	advmod
+8	l’icona	_	PROPN	PROPN	_	0	root
+9	@itermind	_	PROPN	PROPN	_	8	name
+10	http://t.co/Kx63pNg6ih	_	ADJ	ADJ	_	11	amod
+11	http://t.co/n7COLmzDH7	_	NOUN	NOUN	_	8	nmod
+

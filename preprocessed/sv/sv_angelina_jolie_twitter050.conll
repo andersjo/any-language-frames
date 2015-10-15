@@ -1,0 +1,12 @@
+1	Dör	_	NOUN	NOUN	_	0	root
+2	för	_	ADP	ADP	_	4	case
+3	Angelina	_	ADJ	ADJ	_	4	amod
+4	Jolie	_	NOUN	NOUN	_	1	nmod
+5	i	_	ADP	ADP	_	7	case
+6	The	_	ADJ	ADJ	_	7	amod
+7	Tourist	_	NOUN	NOUN	_	4	nmod
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	herregud	_	NOUN	NOUN	_	7	conj
+10	vad	_	PRON	PRON	_	11	nsubj
+11	vacker	_	VERB	VERB	_	9	acl:relcl
+

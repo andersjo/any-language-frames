@@ -1,0 +1,27 @@
+1	В	_	ADP	ADP	_	3	case
+2	следващият	_	ADJ	ADJ	_	3	amod
+3	сезон	_	NOUN	NOUN	_	8	nmod
+4	2011	_	NUM	NUM	_	7	nummod
+5	-	_	PUNCT	PUNCT	_	4	punct
+6	2012	_	NUM	NUM	_	7	nummod
+7	Роналдо	_	NOUN	NOUN	_	8	nsubj
+8	губи	_	VERB	VERB	_	0	root
+9	надпреварата	_	NOUN	NOUN	_	8	dobj
+10	с	_	ADP	ADP	_	11	case
+11	Лионел	_	PROPN	PROPN	_	9	nmod
+12	Меси	_	PROPN	PROPN	_	11	name
+13	,	_	PUNCT	PUNCT	_	15	punct
+14	който	_	PRON	PRON	_	15	nsubj
+15	отбелязва	_	VERB	VERB	_	9	acl
+16	73	_	NUM	NUM	_	17	nummod
+17	гола	_	NOUN	NOUN	_	15	dobj
+18	в	_	ADP	ADP	_	19	case
+19	рамките	_	NOUN	NOUN	_	17	nmod
+20	на	_	ADP	ADP	_	21	case
+21	сезона	_	NOUN	NOUN	_	19	nmod
+22	,	_	PUNCT	PUNCT	_	23	punct
+23	а	_	CONJ	CONJ	_	15	cc
+24	Роналдо	_	PROPN	PROPN	_	19	nmod
+25	60	_	PROPN	PROPN	_	24	name
+26	.	_	PUNCT	PUNCT	_	15	punct
+

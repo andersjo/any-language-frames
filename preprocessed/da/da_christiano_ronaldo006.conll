@@ -1,0 +1,11 @@
+1	Ronaldo	_	PROPN	PROPN	_	3	nsubjpass
+2	blev	_	AUX	AUX	_	3	auxpass
+3	kåret	_	VERB	VERB	_	0	root
+4	til	_	ADP	ADP	_	5	case
+5	finalens	_	NOUN	NOUN	_	3	nmod
+6	man	_	PRON	PRON	_	3	nmod
+7	of	_	X	X	_	6	dep
+8	the	_	X	X	_	7	dep
+9	match	_	NOUN	NOUN	_	8	dep
+10	.	_	PUNCT	PUNCT	_	3	punct
+

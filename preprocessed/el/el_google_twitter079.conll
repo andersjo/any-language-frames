@@ -1,0 +1,10 @@
+1	Το	_	ADJ	ADJ	_	2	det
+2	Google.gr	_	NOUN	NOUN	_	3	nsubj
+3	υπάρχει	_	VERB	VERB	_	0	root
+4	σε	_	ADP	ADP	_	6	case
+5	:	_	PUNCT	PUNCT	_	6	punct
+6	English	_	NOUN	NOUN	_	3	nsubj
+7	Πλακα	_	ADJ	ADJ	_	8	amod
+8	κανεις	_	NOUN	NOUN	_	6	nmod
+9	!	_	PUNCT	PUNCT	_	3	punct
+

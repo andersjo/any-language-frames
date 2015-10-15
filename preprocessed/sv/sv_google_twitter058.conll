@@ -1,0 +1,13 @@
+1	@tankesmulor	_	NOUN	NOUN	_	6	nsubj
+2	om	_	ADP	ADP	_	3	case
+3	man	_	PRON	PRON	_	1	nmod
+4	med	_	ADP	ADP	_	5	case
+5	sten	_	NOUN	NOUN	_	1	nmod
+6	tänkte	_	VERB	VERB	_	0	root
+7	dessa	_	PRON	PRON	_	6	dobj
+8	,	_	PUNCT	PUNCT	_	6	punct
+9	så	_	ADV	ADV	_	10	advmod
+10	ja	_	NOUN	NOUN	_	6	dobj
+11	:	_	PUNCT	PUNCT	_	10	punct
+12	https://t.co/caRouQh0mU	_	NOUN	NOUN	_	10	conj
+

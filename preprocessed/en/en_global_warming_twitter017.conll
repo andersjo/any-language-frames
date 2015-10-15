@@ -1,0 +1,18 @@
+1	Obamas	_	PROPN	PROPN	_	2	nsubj
+2	fiddled	_	VERB	VERB	_	0	root
+3	global	_	ADJ	ADJ	_	0	iobj
+4	warming	_	NOUN	NOUN	_	5	compound
+5	data	_	NOUN	NOUN	_	2	dobj
+6	:	_	PUNCT	PUNCT	_	5	punct
+7	*	_	PUNCT	PUNCT	_	9	punct
+8	Shamelessly	_	PROPN	PROPN	_	9	compound
+9	Manipulated	_	PROPN	PROPN	_	5	appos
+10	*	_	PUNCT	PUNCT	_	9	punct
+11	-	_	PUNCT	PUNCT	_	12	punct
+12	http://t.co/xxfCa9tJCs	_	X	X	_	9	list
+13	#ClimateScam	_	PROPN	PROPN	_	14	compound
+14	#GreenScam	_	PROPN	PROPN	_	17	compound
+15	#TeaParty	_	PROPN	PROPN	_	17	compound
+16	#tcot	_	PROPN	PROPN	_	17	compound
+17	#PJNet	_	PROPN	PROPN	_	9	list
+

@@ -1,0 +1,17 @@
+1	Angelina	_	PROPN	PROPN	_	0	root
+2	Jolie	_	PROPN	PROPN	_	1	name
+3	Hot	_	PROPN	PROPN	_	1	name
+4	a	_	ADP	ADP	_	6	case
+5	19	_	NUM	NUM	_	6	nummod
+6	anni	_	NOUN	NOUN	_	1	nmod
+7	.	_	PUNCT	PUNCT	_	1	punct
+8	Le	_	DET	DET	_	9	det
+9	foto	_	NOUN	NOUN	_	1	appos
+10	sexy	_	ADJ	ADJ	_	9	amod
+11	e	_	CONJ	CONJ	_	10	cc
+12	provocanti	_	VERB	VERB	_	10	conj
+13	dell'attrice	_	ADJ	ADJ	_	14	amod
+14	http://t.co/HkwhXJHFGL	_	NOUN	NOUN	_	12	dobj
+15	#Gossip	_	PROPN	PROPN	_	14	nmod
+16	#topless	_	PROPN	PROPN	_	15	name
+

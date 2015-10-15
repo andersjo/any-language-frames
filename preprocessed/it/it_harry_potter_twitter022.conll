@@ -1,0 +1,22 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	@xjnialler	_	PROPN	PROPN	_	5	nsubj
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	🐨	_	ADV	ADV	_	5	advmod
+5	cita	_	VERB	VERB	_	0	root
+6	e	_	CONJ	CONJ	_	5	cc
+7	rispondi	_	ADJ	ADJ	_	5	conj
+8	di	_	ADP	ADP	_	9	case
+9	xjnialler	_	NOUN	NOUN	_	7	nmod
+10	🐨	_	ADJ	ADJ	_	9	amod
+11	harry	_	PROPN	PROPN	_	9	nmod
+12	potter	_	PROPN	PROPN	_	11	name
+13	o	_	CONJ	CONJ	_	11	cc
+14	percy	_	PROPN	PROPN	_	11	conj
+15	jackson	_	PROPN	PROPN	_	14	name
+16	?	_	PUNCT	PUNCT	_	5	punct
+17	"	_	PUNCT	PUNCT	_	20	punct
+18	non	_	ADV	ADV	_	20	neg
+19	posso	_	AUX	AUX	_	20	aux
+20	decidere	_	VERB	VERB	_	5	conj
+21	!	_	PUNCT	PUNCT	_	20	punct
+

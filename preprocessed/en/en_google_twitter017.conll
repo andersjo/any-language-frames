@@ -1,0 +1,15 @@
+1	#Orleans	_	PROPN	PROPN	_	2	compound
+2	#Saints	_	PROPN	PROPN	_	3	compound
+3	New	_	PROPN	PROPN	_	4	compound
+4	Orleans	_	PROPN	PROPN	_	6	compound
+5	Saints	_	PROPN	PROPN	_	6	compound
+6	Superbowl	_	PROPN	PROPN	_	7	compound
+7	Flag	_	NOUN	NOUN	_	9	compound
+8	2010	_	NUM	NUM	_	7	nummod
+9	New	_	PROPN	PROPN	_	11	compound
+10	in	_	ADP	ADP	_	0	compound:prt
+11	Package	_	PROPN	PROPN	_	14	compound
+12	http://t.co/vYWH2luI1D	_	X	X	_	6	list
+13	#Google	_	ADJ	ADJ	_	0	foreign
+14	#Trends	_	NOUN	NOUN	_	10	dobj
+

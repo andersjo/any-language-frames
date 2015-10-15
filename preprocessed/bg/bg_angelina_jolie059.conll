@@ -1,0 +1,12 @@
+1	Джоли	_	PROPN	PROPN	_	2	nsubj
+2	участва	_	VERB	VERB	_	8	ccomp
+3	като	_	ADP	ADP	_	4	case
+4	Джия	_	PROPN	PROPN	_	2	iobj
+5	-	_	PUNCT	PUNCT	_	6	punct
+6	Gia	_	PROPN	PROPN	_	4	nmod
+7	,	_	PUNCT	PUNCT	_	2	punct
+8	изобразявайки	_	VERB	VERB	_	0	root
+9	Gia	_	PROPN	PROPN	_	8	nsubj
+10	Carangi	_	PROPN	PROPN	_	9	nmod
+11	.	_	PUNCT	PUNCT	_	8	punct
+

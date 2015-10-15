@@ -1,0 +1,23 @@
+1	Ο	_	ADJ	ADJ	_	2	det
+2	Ρονάλντο	_	NOUN	NOUN	_	3	nsubj
+3	έκανε	_	VERB	VERB	_	0	root
+4	ντεμπούτο	_	NOUN	NOUN	_	3	dobj
+5	με	_	ADP	ADP	_	8	case
+6	την	_	ADJ	ADJ	_	8	det
+7	Εθνική	_	ADJ	ADJ	_	8	amod
+8	ομάδα	_	NOUN	NOUN	_	4	nmod
+9	της	_	ADJ	ADJ	_	10	det
+10	Πορτογαλίας	_	NOUN	NOUN	_	8	nmod
+11	τον	_	ADJ	ADJ	_	12	det
+12	Αύγουστο	_	NOUN	NOUN	_	10	nmod
+13	του	_	ADJ	ADJ	_	14	det
+14	2003	_	NOUN	NOUN	_	12	nmod
+15	,	_	PUNCT	PUNCT	_	16	punct
+16	κόντρα	_	NOUN	NOUN	_	14	conj
+17	στο	_	ADP	ADP	_	19	case
+18	αντιπροσωπευτικό	_	ADJ	ADJ	_	19	amod
+19	συγκρότημα	_	NOUN	NOUN	_	16	nmod
+20	του	_	ADJ	ADJ	_	21	det
+21	Καζακστάν	_	NOUN	NOUN	_	19	nmod
+22	.	_	PUNCT	PUNCT	_	3	punct
+

@@ -1,0 +1,21 @@
+1	La	_	DET	DET	_	2	det
+2	Journée	_	PROPN	PROPN	_	9	nsubj
+3	internationale	_	ADJ	ADJ	_	2	amod
+4	pour	_	ADP	ADP	_	6	case
+5	les	_	DET	DET	_	6	det
+6	droits	_	NOUN	NOUN	_	2	nmod
+7	des	_	ADP	ADP	_	8	case
+8	femmes	_	NOUN	NOUN	_	6	nmod
+9	fait	_	VERB	VERB	_	0	root
+10	partie	_	NOUN	NOUN	_	9	dobj
+11	des	_	ADP	ADP	_	13	case
+12	87	_	NUM	NUM	_	13	nummod
+13	journées	_	NOUN	NOUN	_	10	nmod
+14	internationales	_	ADJ	ADJ	_	13	amod
+15	reconnues	_	ADJ	ADJ	_	13	amod
+16	ou	_	CONJ	CONJ	_	15	cc
+17	initiées	_	ADJ	ADJ	_	15	conj
+18	par	_	ADP	ADP	_	19	case
+19	l'ONU	_	NOUN	NOUN	_	2	nmod
+20	.	_	PUNCT	PUNCT	_	9	punct
+

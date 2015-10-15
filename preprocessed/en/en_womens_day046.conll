@@ -1,0 +1,7 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	Pakistan	_	PROPN	PROPN	_	5	compound
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	Punjab	_	PROPN	PROPN	_	5	compound
+5	Govt	_	NOUN	NOUN	_	1	dobj
+6	.	_	PUNCT	PUNCT	_	5	punct
+

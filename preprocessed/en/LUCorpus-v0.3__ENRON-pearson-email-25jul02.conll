@@ -1,0 +1,138 @@
+1	Date	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Wed	_	PROPN	PROPN	_	1	appos
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	25	_	NUM	NUM	_	6	nummod
+6	Jul	_	PROPN	PROPN	_	3	appos
+7	2001	_	NUM	NUM	_	6	nmod:tmod
+8	16:45:08	_	NUM	NUM	_	9	compound
+9	-0700	_	NUM	NUM	_	11	appos
+10	(	_	PUNCT	PUNCT	_	3	punct
+11	PDT	_	NOUN	NOUN	_	1	appos
+12	)	_	PUNCT	PUNCT	_	1	punct
+
+1	From	_	ADP	ADP	_	0	compound:prt
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	rpearson	_	NOUN	NOUN	_	2	dep
+4	@	_	ADP	ADP	_	3	compound
+5	oilstates.com	_	X	X	_	3	appos
+
+1	To	_	ADP	ADP	_	0	xcomp
+2	:	_	PUNCT	PUNCT	_	3	punct
+3	don.baughman	_	NOUN	NOUN	_	1	dobj
+4	@	_	ADP	ADP	_	3	compound
+5	enron.com	_	X	X	_	3	appos
+
+1	Subject	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	RE	_	X	X	_	1	appos
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	Unclassified	_	ADJ	ADJ	_	0	appos
+6	rules	_	NOUN	NOUN	_	1	appos
+
+1	HOWDY	_	PROPN	PROPN	_	0	root
+2	,	_	PUNCT	PUNCT	_	1	punct
+
+1	WHAT	_	PRON	PRON	_	3	nmod:poss
+2	'S	_	PART	PART	_	1	case
+3	BEEN	_	VERB	VERB	_	4	aux
+4	GOING	_	VERB	VERB	_	0	root
+5	ON	_	ADP	ADP	_	4	compound:prt
+6	AMIGO	_	PROPN	PROPN	_	4	nmod
+7	.	_	PUNCT	PUNCT	_	4	punct
+
+1	I	_	PRON	PRON	_	4	nsubj
+2	HAVE	_	AUX	AUX	_	4	aux
+3	NOT	_	ADV	ADV	_	4	neg
+4	TALKED	_	VERB	VERB	_	0	root
+5	TO	_	ADP	ADP	_	4	compound:prt
+6	YOU	_	PRON	PRON	_	4	dobj
+7	IN	_	ADP	ADP	_	4	compound:prt
+8	A	_	DET	DET	_	9	det
+9	WHILE	_	NOUN	NOUN	_	4	dobj
+10	.	_	PUNCT	PUNCT	_	4	punct
+
+1	GIVE	_	VERB	VERB	_	0	root
+2	YOU	_	PRON	PRON	_	1	iobj
+3	THE	_	DET	DET	_	4	det
+4	SCOPE	_	NOUN	NOUN	_	1	dobj
+5	OF	_	ADP	ADP	_	1	compound:prt
+6	WHATS	_	NOUN	NOUN	_	4	nmod
+7	BEEN	_	VERB	VERB	_	6	acl
+8	GOING	_	VERB	VERB	_	7	xcomp
+9	ON	_	ADP	ADP	_	8	compound:prt
+10	WITH	_	ADP	ADP	_	8	compound:prt
+11	ME	_	PRON	PRON	_	8	nmod
+12	.	_	PUNCT	PUNCT	_	1	punct
+
+1	I	_	PRON	PRON	_	2	nmod:poss
+2	LEFT	_	NOUN	NOUN	_	3	nsubj
+3	OILSTATES	_	VERB	VERB	_	0	root
+4	BACK	_	ADV	ADV	_	3	advmod
+5	IN	_	ADP	ADP	_	3	compound:prt
+6	MARCH	_	PROPN	PROPN	_	9	compound
+7	WITH	_	ADP	ADP	_	3	compound:prt
+8	ANOTHER	_	NOUN	NOUN	_	9	compound
+9	COMPANY	_	NOUN	NOUN	_	3	dobj
+10	.	_	PUNCT	PUNCT	_	3	punct
+
+1	DID	_	NOUN	NOUN	_	0	root
+2	A	_	DET	DET	_	3	det
+3	LOT	_	NOUN	NOUN	_	1	nmod:npmod
+4	OF	_	ADP	ADP	_	3	compound
+5	TRAVELING	_	NOUN	NOUN	_	3	nmod
+6	AND	_	CONJ	CONJ	_	1	cc
+7	THEY	_	PRON	PRON	_	9	nsubj
+8	(	_	PUNCT	PUNCT	_	9	punct
+9	OILSTATES	_	VERB	VERB	_	11	amod
+10	)	_	PUNCT	PUNCT	_	11	punct
+11	MADE	_	NOUN	NOUN	_	5	conj
+12	ME	_	PRON	PRON	_	9	iobj
+13	A	_	DET	DET	_	14	det
+14	SWEET	_	NOUN	NOUN	_	15	nsubj
+15	OFFER	_	VERB	VERB	_	11	acl:relcl
+16	TO	_	PART	PART	_	17	mark
+17	COME	_	VERB	VERB	_	15	xcomp
+18	BACK	_	ADV	ADV	_	17	advmod
+19	.	_	PUNCT	PUNCT	_	1	punct
+
+1	SO	_	ADV	ADV	_	0	root
+2	I	_	PRON	PRON	_	3	nmod:poss
+3	AM	_	NOUN	NOUN	_	1	nsubj
+4	BACK	_	ADV	ADV	_	3	advmod
+5	.	_	PUNCT	PUNCT	_	3	punct
+
+1	WHO	_	PRON	PRON	_	4	nsubj
+2	'S	_	VERB	VERB	_	4	cop
+3	GETTING	_	ADJ	ADJ	_	0	acl:relcl
+4	MARRIED	_	NOUN	NOUN	_	0	root
+5	?	_	PUNCT	PUNCT	_	4	punct
+
+1	SOUNDS	_	NOUN	NOUN	_	5	nsubj
+2	LIKE	_	INTJ	INTJ	_	5	discourse
+3	THIS	_	DET	DET	_	5	nsubj
+4	IS	_	AUX	AUX	_	5	aux
+5	GOING	_	VERB	VERB	_	0	root
+6	TO	_	PART	PART	_	11	mark
+7	BE	_	VERB	VERB	_	11	cop
+8	A	_	DET	DET	_	11	det
+9	GREAT	_	ADJ	ADJ	_	0	foreign
+10	BACHELOR	_	NOUN	NOUN	_	11	compound
+11	PARTY	_	NOUN	NOUN	_	5	xcomp
+12	.	_	PUNCT	PUNCT	_	1	punct
+
+1	GIVE	_	VERB	VERB	_	0	root
+2	ME	_	PRON	PRON	_	1	iobj
+3	A	_	DET	DET	_	5	det
+4	CALL	_	NOUN	NOUN	_	5	compound
+5	SOMETIME	_	NOUN	NOUN	_	1	dobj
+6	CELL	_	PROPN	PROPN	_	4	nmod
+7	:	_	PUNCT	PUNCT	_	6	punct
+8	713	_	NUM	NUM	_	9	nummod
+9	991	_	NUM	NUM	_	11	compound
+10	-	_	PUNCT	PUNCT	_	6	punct
+11	5621	_	NUM	NUM	_	6	appos
+12	.	_	PUNCT	PUNCT	_	1	punct
+
+1	ROB	_	PROPN	PROPN	_	0	root
+

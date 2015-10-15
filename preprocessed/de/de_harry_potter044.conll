@@ -1,0 +1,13 @@
+1	Mehrere	_	PRON	PRON	_	2	det
+2	Konflikte	_	NOUN	NOUN	_	3	dobj
+3	eskalieren	_	VERB	VERB	_	0	root
+4	und	_	CONJ	CONJ	_	3	cc
+5	bereiten	_	VERB	VERB	_	3	conj
+6	das	_	DET	DET	_	7	det
+7	Finale	_	NOUN	NOUN	_	5	dobj
+8	im	_	ADP	ADP	_	10	case
+9	abschließenden	_	ADJ	ADJ	_	10	amod
+10	Buch	_	NOUN	NOUN	_	5	nmod
+11	vor	_	ADP	ADP	_	5	mark
+12	.	_	PUNCT	PUNCT	_	3	punct
+

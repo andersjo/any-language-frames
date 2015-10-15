@@ -1,0 +1,17 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	Google.cn	_	VERB	VERB	_	0	root
+3	"	_	PUNCT	PUNCT	_	2	punct
+4	var	_	AUX	AUX	_	6	cop
+5	således	_	ADV	ADV	_	6	advmod
+6	censurerad	_	ADJ	ADJ	_	2	xcomp
+7	och	_	CONJ	CONJ	_	6	cc
+8	åtkomsten	_	NOUN	NOUN	_	6	conj
+9	till	_	ADP	ADP	_	10	case
+10	Googletjänster	_	NOUN	NOUN	_	8	nmod
+11	i	_	ADP	ADP	_	13	case
+12	andra	_	ADJ	ADJ	_	13	det
+13	länder	_	NOUN	NOUN	_	10	nmod
+14	var	_	AUX	AUX	_	15	aux
+15	stoppad	_	VERB	VERB	_	6	conj
+16	.	_	PUNCT	PUNCT	_	2	punct
+

@@ -1,0 +1,27 @@
+1	Ο	_	ADJ	ADJ	_	2	det
+2	εορτασμός	_	NOUN	NOUN	_	3	nsubj
+3	καθιερώθηκε	_	VERB	VERB	_	0	root
+4	το	_	ADJ	ADJ	_	5	det
+5	1910	_	NUM	NUM	_	3	dobj
+6	με	_	ADP	ADP	_	7	case
+7	πρόταση	_	NOUN	NOUN	_	3	nmod
+8	της	_	ADJ	ADJ	_	9	det
+9	Γερμανίδας	_	NOUN	NOUN	_	7	nmod
+10	σοσιαλίστριας	_	ADJ	ADJ	_	11	amod
+11	Clara	_	NOUN	NOUN	_	9	nmod
+12	Zetkin	_	NOUN	NOUN	_	11	nmod
+13	κατά	_	ADP	ADP	_	15	case
+14	τη	_	ADJ	ADJ	_	15	det
+15	διάρκεια	_	NOUN	NOUN	_	3	nmod
+16	της	_	ADJ	ADJ	_	17	det
+17	Δεύτερης	_	NOUN	NOUN	_	15	nmod
+18	Διεθνούς	_	NOUN	NOUN	_	17	nmod
+19	ενώ	_	CONJ	CONJ	_	3	cc
+20	εορτάσθηκε	_	VERB	VERB	_	3	conj
+21	για	_	ADP	ADP	_	23	case
+22	πρώτη	_	NUM	NUM	_	23	nummod
+23	φορά	_	NOUN	NOUN	_	20	nmod
+24	το	_	ADJ	ADJ	_	25	det
+25	1911	_	NOUN	NOUN	_	23	nmod
+26	.	_	PUNCT	PUNCT	_	3	punct
+

@@ -1,0 +1,24 @@
+1	Der	_	DET	DET	_	3	det
+2	Internationale	_	ADJ	ADJ	_	3	amod
+3	Frauentag	_	NOUN	NOUN	_	15	nsubj
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	Weltfrauentag	_	NOUN	NOUN	_	3	conj
+6	,	_	PUNCT	PUNCT	_	3	punct
+7	Frauenkampftag	_	NOUN	NOUN	_	3	conj
+8	,	_	PUNCT	PUNCT	_	3	punct
+9	Internationaler	_	ADJ	ADJ	_	10	amod
+10	Frauenkampftag	_	NOUN	NOUN	_	3	conj
+11	oder	_	CONJ	CONJ	_	10	cc
+12	Frauentag	_	NOUN	NOUN	_	10	conj
+13	ist	_	VERB	VERB	_	15	cop
+14	ein	_	DET	DET	_	15	det
+15	Welttag	_	NOUN	NOUN	_	0	root
+16	,	_	PUNCT	PUNCT	_	15	punct
+17	der	_	PRON	PRON	_	15	acl
+18	von	_	ADP	ADP	_	20	case
+19	politischen	_	ADJ	ADJ	_	20	amod
+20	Organisationen	_	NOUN	NOUN	_	17	nmod
+21	am	_	ADP	ADP	_	13	case
+22	8	_	NUM	NUM	_	21	dep
+23	.	_	PUNCT	PUNCT	_	15	punct
+

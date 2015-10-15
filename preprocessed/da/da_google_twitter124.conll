@@ -1,0 +1,16 @@
+1	[	_	PUNCT	PUNCT	_	3	punct
+2	Eugene	_	NOUN	NOUN	_	14	nsubj
+3	Volokh	_	PROPN	PROPN	_	2	appos
+4	]	_	PUNCT	PUNCT	_	3	punct
+5	No	_	PROPN	PROPN	_	2	list
+6	change	_	NOUN	NOUN	_	5	dep
+7	of	_	X	X	_	6	dep
+8	venue	_	NOUN	NOUN	_	10	nmod:poss
+9	in	_	ADJ	ADJ	_	10	amod
+10	Tsarnaev	_	NOUN	NOUN	_	11	dep
+11	Boston	_	PROPN	PROPN	_	14	nsubj
+12	Marathon	_	PROPN	PROPN	_	11	name
+13	bombing	_	PROPN	PROPN	_	11	name
+14	trial	_	VERB	VERB	_	0	root
+15	http://t.co/0FhIO73gWS	_	NOUN	NOUN	_	14	dobj
+

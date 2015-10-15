@@ -1,0 +1,24 @@
+1	Scusate	_	VERB	VERB	_	0	root
+2	ma	_	CONJ	CONJ	_	8	cc
+3	a	_	ADP	ADP	_	4	case
+4	me	_	PRON	PRON	_	8	nmod
+5	Ariana	_	PROPN	PROPN	_	8	nsubj
+6	Grande	_	PROPN	PROPN	_	5	name
+7	fa	_	ADV	ADV	_	8	advmod
+8	cagare	_	VERB	VERB	_	1	conj
+9	.	_	PUNCT	PUNCT	_	1	punct
+10	Messa	_	VERB	VERB	_	8	advcl
+11	a	_	ADP	ADP	_	12	case
+12	confronto	_	NOUN	NOUN	_	10	nmod
+13	ad	_	ADP	ADP	_	14	case
+14	Adriana	_	PROPN	PROPN	_	12	nmod
+15	Lima	_	PROPN	PROPN	_	14	name
+16	,	_	PUNCT	PUNCT	_	10	punct
+17	Angelina	_	PROPN	PROPN	_	14	conj
+18	Jolie	_	PROPN	PROPN	_	17	name
+19	e	_	CONJ	CONJ	_	10	cc
+20	altre	_	DET	DET	_	21	det
+21	sfigura	_	NOUN	NOUN	_	14	conj
+22	tantissimo	_	ADJ	ADJ	_	21	amod
+23	.	_	PUNCT	PUNCT	_	1	punct
+

@@ -1,0 +1,16 @@
+1	@Mattia1699	_	PROPN	PROPN	_	0	root
+2	@alexxio1988	_	PROPN	PROPN	_	1	name
+3	@CialeX	_	PROPN	PROPN	_	1	name
+4	ma	_	CONJ	CONJ	_	1	cc
+5	quando	_	SCONJ	SCONJ	_	6	mark
+6	google	_	ADJ	ADJ	_	1	amod
+7	ti	_	PRON	PRON	_	6	nsubj
+8	da	_	ADP	ADP	_	10	case
+9	10	_	NUM	NUM	_	10	nummod
+10	pagine	_	NOUN	NOUN	_	7	nmod
+11	di	_	ADP	ADP	_	12	case
+12	link	_	NOUN	NOUN	_	10	nmod
+13	sulla	_	ADP	ADP	_	15	case
+14	'	_	PUNCT	PUNCT	_	15	punct
+15	argomento	_	NOUN	NOUN	_	12	nmod
+

@@ -1,0 +1,12 @@
+1	@taycoccolamica	_	ADJ	ADJ	_	2	amod
+2	AMO	_	NOUN	NOUN	_	6	nmod
+3	A	_	ADP	ADP	_	4	case
+4	TE	_	PROPN	PROPN	_	2	nmod
+5	NON	_	PROPN	PROPN	_	4	name
+6	PIACEVA	_	VERB	VERB	_	0	root
+7	HARRY	_	PROPN	PROPN	_	6	dobj
+8	POTTER	_	PROPN	PROPN	_	7	name
+9	SEI	_	PROPN	PROPN	_	7	name
+10	BABBANA	_	PROPN	PROPN	_	7	name
+11	BASTA	_	PROPN	PROPN	_	7	name
+

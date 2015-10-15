@@ -1,0 +1,9 @@
+1	Check	_	PROPN	PROPN	_	7	nsubj
+2	out	_	PROPN	PROPN	_	1	name
+3	"	_	PUNCT	PUNCT	_	4	punct
+4	Sudokyuu	_	PROPN	PROPN	_	1	nmod
+5	"	_	PUNCT	PUNCT	_	1	punct
+6	https://t.co/lkDORPQCmv	_	PROPN	PROPN	_	7	nsubj
+7	Время	_	VERB	VERB	_	0	root
+8	дизайна	_	NOUN	NOUN	_	7	dobj
+

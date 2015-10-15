@@ -1,0 +1,20 @@
+1	Quiero	_	VERB	VERB	_	0	root
+2	que	_	SCONJ	SCONJ	_	3	mark
+3	pase	_	VERB	VERB	_	1	ccomp
+4	el	_	DET	DET	_	5	det
+5	tiempo	_	NOUN	NOUN	_	3	dobj
+6	muy	_	ADV	ADV	_	7	advmod
+7	rápido	_	ADJ	ADJ	_	5	amod
+8	y	_	CONJ	CONJ	_	1	cc
+9	ser	_	VERB	VERB	_	10	cop
+10	mayor	_	ADJ	ADJ	_	7	conj
+11	y	_	CONJ	CONJ	_	10	cc
+12	que	_	SCONJ	SCONJ	_	13	mark
+13	hagan	_	VERB	VERB	_	3	conj
+14	un	_	DET	DET	_	15	det
+15	remake	_	NOUN	NOUN	_	13	dobj
+16	de	_	ADP	ADP	_	18	case
+17	Harry	_	PROPN	PROPN	_	18	name
+18	Potter	_	PROPN	PROPN	_	15	nmod
+19	.	_	PUNCT	PUNCT	_	1	punct
+

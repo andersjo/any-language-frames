@@ -1,0 +1,11 @@
+1	Hon	_	PRON	PRON	_	5	nsubj
+2	är	_	AUX	AUX	_	5	cop
+3	sedan	_	ADV	ADV	_	4	advmod
+4	2014	_	NUM	NUM	_	5	nummod
+5	gift	_	ADJ	ADJ	_	0	root
+6	med	_	ADP	ADP	_	9	case
+7	skådespelaren	_	NOUN	NOUN	_	8	nmod:poss
+8	Brad	_	NOUN	NOUN	_	9	nmod:poss
+9	Pitt	_	NOUN	NOUN	_	5	nmod
+10	.	_	PUNCT	PUNCT	_	9	punct
+

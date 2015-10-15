@@ -1,0 +1,20 @@
+1	Det	_	PRON	PRON	_	2	nsubj
+2	blev	_	VERB	VERB	_	0	root
+3	den	_	DET	DET	_	6	det
+4	första	_	ADJ	ADJ	_	6	det
+5	nationella	_	ADJ	ADJ	_	6	amod
+6	kvinnodagen	_	NOUN	NOUN	_	2	xcomp
+7	och	_	CONJ	CONJ	_	2	cc
+8	man	_	PRON	PRON	_	9	nsubj
+9	fortsatte	_	VERB	VERB	_	2	conj
+10	att	_	SCONJ	SCONJ	_	14	mark
+11	fira	_	NOUN	NOUN	_	12	nmod:poss
+12	kvinnodagen	_	NOUN	NOUN	_	14	nmod:poss
+13	sista	_	ADJ	ADJ	_	14	det
+14	söndagen	_	NOUN	NOUN	_	9	ccomp
+15	i	_	ADP	ADP	_	16	case
+16	februari	_	NOUN	NOUN	_	14	nmod
+17	tills	_	ADP	ADP	_	18	case
+18	1913	_	NUM	NUM	_	14	nmod
+19	.	_	PUNCT	PUNCT	_	2	punct
+

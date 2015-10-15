@@ -1,0 +1,13 @@
+1	?	_	PUNCT	PUNCT	_	3	punct
+2	Angelina	_	PROPN	PROPN	_	3	compound
+3	Jolie	_	PROPN	PROPN	_	0	root
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	US	_	PRON	PRON	_	7	nsubj
+6	must	_	AUX	AUX	_	7	aux
+7	lead	_	VERB	VERB	_	3	acl:relcl
+8	on	_	ADP	ADP	_	7	compound:prt
+9	torture	_	NOUN	NOUN	_	10	compound
+10	policy	_	NOUN	NOUN	_	7	dobj
+11	on	_	ADP	ADP	_	7	compound:prt
+12	http://t.co/5IiY0cvzJx	_	X	X	_	10	appos
+

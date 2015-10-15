@@ -1,0 +1,9 @@
+1	En	_	ADP	ADP	_	2	case
+2	diciembre	_	PROPN	PROPN	_	4	nmod
+3	se	_	PRON	PRON	_	4	iobj
+4	lanza	_	VERB	VERB	_	0	root
+5	Google	_	PROPN	PROPN	_	7	name
+6	Friend	_	PROPN	PROPN	_	7	name
+7	Connect	_	PROPN	PROPN	_	4	nsubj
+8	.	_	PUNCT	PUNCT	_	4	punct
+

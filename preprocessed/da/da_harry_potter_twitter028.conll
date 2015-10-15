@@ -1,0 +1,11 @@
+1	Texto	_	NOUN	NOUN	_	3	nmod:poss
+2	nerd	_	ADJ	ADJ	_	3	amod
+3	pros	_	NOUN	NOUN	_	4	nsubj
+4	fã	_	VERB	VERB	_	0	root
+5	de	_	DET	DET	_	6	det
+6	Harry	_	NOUN	NOUN	_	4	dobj
+7	Potter	_	NOUN	NOUN	_	4	nsubj
+8	Always	_	PROPN	PROPN	_	10	nmod:poss
+9	!!!	_	ADJ	ADJ	_	10	amod
+10	http://t.co/dEtOxuE5WY	_	NOUN	NOUN	_	4	dobj
+

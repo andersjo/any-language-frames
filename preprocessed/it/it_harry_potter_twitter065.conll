@@ -1,0 +1,10 @@
+1	Tributo	_	NOUN	NOUN	_	0	root
+2	Ai	_	ADP	ADP	_	3	mark
+3	Caduti	_	VERB	VERB	_	1	acl
+4	Della	_	ADP	ADP	_	5	mark
+5	Saga	_	VERB	VERB	_	3	xcomp
+6	Di	_	ADP	ADP	_	7	case
+7	Harry	_	PROPN	PROPN	_	5	nmod
+8	Potter	_	PROPN	PROPN	_	7	name
+9	http://t.co/tRx68T0s98	_	PROPN	PROPN	_	7	name
+

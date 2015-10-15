@@ -1,0 +1,19 @@
+1	Wilkommen	_	NOUN	NOUN	_	0	root
+2	in	_	ADP	ADP	_	3	case
+3	Hogwarts	_	PROPN	PROPN	_	1	nmod
+4	!	_	PUNCT	PUNCT	_	1	punct
+5	#	_	X	X	_	6	dep
+6	Let´s	_	PROPN	PROPN	_	9	name
+7	Play	_	PROPN	PROPN	_	9	name
+8	Harry	_	PROPN	PROPN	_	9	name
+9	Potter	_	PROPN	PROPN	_	3	conj
+10	und	_	CONJ	CONJ	_	1	cc
+11	der	_	DET	DET	_	12	det
+12	Halbblutprinz	_	NOUN	NOUN	_	9	conj
+13	1#	_	PROPN	PROPN	_	14	name
+14	HauMiBlau	_	PROPN	PROPN	_	12	appos
+15	:	_	PUNCT	PUNCT	_	14	punct
+16	http://t.co/Wlz7jWnKmo	_	PROPN	PROPN	_	18	name
+17	via	_	PROPN	PROPN	_	18	name
+18	@YouTube	_	PROPN	PROPN	_	12	appos
+

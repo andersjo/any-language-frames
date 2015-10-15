@@ -1,0 +1,17 @@
+1	Han	_	PRON	PRON	_	4	nsubj
+2	har	_	AUX	AUX	_	4	aux
+3	en	_	DET	DET	_	4	det
+4	storebror	_	NOUN	NOUN	_	10	dep
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	Hugo	_	PROPN	PROPN	_	4	dep
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	og	_	CONJ	CONJ	_	10	dep
+9	to	_	NUM	NUM	_	10	nummod
+10	storesøstre	_	NOUN	NOUN	_	0	root
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	Elma	_	NOUN	NOUN	_	10	conj
+13	og	_	CONJ	CONJ	_	6	cc
+14	Liliana	_	PROPN	PROPN	_	12	conj
+15	Cátia	_	PROPN	PROPN	_	14	name
+16	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,14 @@
+1	@R8RtailG8R	_	VERB	VERB	_	0	root
+2	he	_	PRON	PRON	_	4	nsubj
+3	ain't	_	NOUN	NOUN	_	1	dobj
+4	getting	_	VERB	VERB	_	1	ccomp
+5	those	_	DET	DET	_	6	det
+6	type	_	NOUN	NOUN	_	4	dobj
+7	of	_	ADP	ADP	_	4	compound:prt
+8	endorsements	_	NOUN	NOUN	_	4	dobj
+9	over	_	ADP	ADP	_	4	compound:prt
+10	Christiano	_	PROPN	PROPN	_	11	compound
+11	Ronaldo	_	PROPN	PROPN	_	8	nmod
+12	anyways	_	ADV	ADV	_	4	advmod
+13	.	_	PUNCT	PUNCT	_	1	punct
+

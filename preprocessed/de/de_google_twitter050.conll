@@ -1,0 +1,19 @@
+1	Top-Bewertungen	_	NOUN	NOUN	_	9	nsubj
+2	bei	_	ADP	ADP	_	3	case
+3	Rassegeflügelschau	_	PROPN	PROPN	_	1	nmod
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	Filmblog	_	PROPN	PROPN	_	3	appos
+6	"	_	PUNCT	PUNCT	_	7	punct
+7	Filmverliebt	_	PROPN	PROPN	_	5	appos
+8	"	_	PUNCT	PUNCT	_	7	punct
+9	berichtet	_	VERB	VERB	_	0	root
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	sind	_	VERB	VERB	_	16	cop
+12	zu	_	ADP	ADP	_	14	case
+13	dem	_	DET	DET	_	14	det
+14	Film	_	NOUN	NOUN	_	9	conj
+15	…	_	PROPN	PROPN	_	16	name
+16	http://t.co/g4Rzmh7QDM	_	PROPN	PROPN	_	18	name
+17	#movie	_	PROPN	PROPN	_	18	name
+18	#reviews	_	PROPN	PROPN	_	14	appos
+

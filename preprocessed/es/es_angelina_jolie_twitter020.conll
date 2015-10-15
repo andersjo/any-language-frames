@@ -1,0 +1,26 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	jolie	_	PROPN	PROPN	_	19	nsubj
+3	con	_	ADP	ADP	_	5	case
+4	un	_	DET	DET	_	5	det
+5	pucho	_	NOUN	NOUN	_	1	nmod
+6	en	_	ADP	ADP	_	8	case
+7	la	_	DET	DET	_	8	det
+8	boca	_	NOUN	NOUN	_	5	nmod
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	drogona	_	NOUN	NOUN	_	8	conj
+11	y	_	CONJ	CONJ	_	8	cc
+12	con	_	ADP	ADP	_	14	case
+13	una	_	DET	DET	_	14	det
+14	historia	_	NOUN	NOUN	_	8	nmod
+15	de	_	ADP	ADP	_	16	case
+16	amor	_	NOUN	NOUN	_	14	nmod
+17	lesbica	_	ADJ	ADJ	_	16	amod
+18	,	_	PUNCT	PUNCT	_	19	punct
+19	vean	_	VERB	VERB	_	21	cop
+20	"	_	PUNCT	PUNCT	_	21	punct
+21	gia	_	ADJ	ADJ	_	23	amod
+22	"	_	PUNCT	PUNCT	_	21	punct
+23	q	_	X	X	_	25	nsubj
+24	es	_	VERB	VERB	_	25	cop
+25	tODO	_	NOUN	NOUN	_	0	root
+

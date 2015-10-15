@@ -1,0 +1,14 @@
+1	Ronaldo	_	NOUN	NOUN	_	8	nsubj
+2	är	_	AUX	AUX	_	8	cop
+3	sedan	_	ADV	ADV	_	5	advmod
+4	den	_	DET	DET	_	6	det
+5	20	_	NUM	NUM	_	6	nummod
+6	maj	_	NOUN	NOUN	_	7	nmod
+7	2008	_	NUM	NUM	_	8	nummod
+8	lagkapten	_	NOUN	NOUN	_	0	root
+9	i	_	ADP	ADP	_	12	case
+10	det	_	DET	DET	_	12	det
+11	portugisiska	_	ADJ	ADJ	_	12	amod
+12	landslaget	_	NOUN	NOUN	_	8	nmod
+13	.	_	PUNCT	PUNCT	_	8	punct
+

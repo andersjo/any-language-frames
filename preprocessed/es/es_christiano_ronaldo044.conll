@@ -1,0 +1,25 @@
+1	Ronaldo	_	PROPN	PROPN	_	3	nsubj
+2	no	_	ADV	ADV	_	3	neg
+3	consiguió	_	VERB	VERB	_	0	root
+4	cumplir	_	VERB	VERB	_	3	xcomp
+5	con	_	ADP	ADP	_	7	case
+6	su	_	DET	DET	_	7	nmod:poss
+7	propósito	_	NOUN	NOUN	_	4	nmod
+8	inicial	_	ADJ	ADJ	_	7	amod
+9	de	_	ADP	ADP	_	11	case
+10	12	_	NUM	NUM	_	11	nummod
+11	goles	_	NOUN	NOUN	_	7	nmod
+12	,	_	PUNCT	PUNCT	_	3	punct
+13	anotando	_	VERB	VERB	_	3	conj
+14	9	_	NUM	NUM	_	13	dobj
+15	en	_	ADP	ADP	_	18	case
+16	los	_	DET	DET	_	18	det
+17	50	_	NUM	NUM	_	18	nummod
+18	partidos	_	NOUN	NOUN	_	13	dobj
+19	que	_	SCONJ	SCONJ	_	20	mark
+20	disputó	_	VERB	VERB	_	18	acl:relcl
+21	en	_	ADP	ADP	_	23	case
+22	el	_	DET	DET	_	23	det
+23	año	_	NOUN	NOUN	_	20	nmod
+24	.	_	PUNCT	PUNCT	_	3	punct
+

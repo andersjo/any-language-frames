@@ -1,0 +1,19 @@
+1	Jorge	_	PROPN	PROPN	_	2	name
+2	Mendes	_	PROPN	PROPN	_	3	appos
+3	il	_	PRON	PRON	_	8	nsubj
+4	est	_	VERB	VERB	_	6	cop
+5	au	_	ADP	ADP	_	6	case
+6	calme	_	NOUN	NOUN	_	9	nmod
+7	lui	_	PRON	PRON	_	8	iobj
+8	multi	_	VERB	VERB	_	0	root
+9	millionnaire	_	NOUN	NOUN	_	8	dobj
+10	,	_	PUNCT	PUNCT	_	8	punct
+11	dans	_	ADP	ADP	_	13	case
+12	son	_	DET	DET	_	13	nmod:poss
+13	répertoire	_	NOUN	NOUN	_	8	nmod
+14	Christiano	_	PROPN	PROPN	_	15	name
+15	Ronaldo	_	PROPN	PROPN	_	13	appos
+16	et	_	CONJ	CONJ	_	13	cc
+17	tout	_	DET	DET	_	18	det
+18	la😱😍	_	X	X	_	15	conj
+

@@ -1,0 +1,27 @@
+1	http://t.co/8UtPNgmptD	_	PROPN	PROPN	_	0	root
+2	Après	_	ADP	ADP	_	3	case
+3	l'article	_	NOUN	NOUN	_	1	nmod
+4	sur	_	ADP	ADP	_	5	case
+5	Valve	_	NOUN	NOUN	_	3	nmod
+6	de	_	ADP	ADP	_	7	case
+7	tout	_	NOUN	NOUN	_	5	nmod
+8	à	_	ADP	ADP	_	9	case
+9	l'heure	_	NOUN	NOUN	_	7	nmod
+10	,	_	PUNCT	PUNCT	_	5	punct
+11	un	_	DET	DET	_	13	det
+12	autre	_	ADJ	ADJ	_	13	amod
+13	article	_	NOUN	NOUN	_	5	conj
+14	à	_	ADP	ADP	_	15	case
+15	charge	_	NOUN	NOUN	_	13	nmod
+16	contre	_	ADP	ADP	_	19	case
+17	les	_	DET	DET	_	19	det
+18	open	_	X	X	_	19	compound
+19	space	_	X	X	_	13	appos
+20	du	_	ADP	ADP	_	21	case
+21	côté	_	NOUN	NOUN	_	19	nmod
+22	du	_	ADP	ADP	_	23	case
+23	W	_	X	X	_	21	nmod
+24	.	_	PUNCT	PUNCT	_	13	punct
+25	Post	_	PROPN	PROPN	_	23	appos
+26	.	_	PUNCT	PUNCT	_	13	punct
+

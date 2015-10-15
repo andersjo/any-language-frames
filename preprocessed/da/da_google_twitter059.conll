@@ -1,0 +1,12 @@
+1	De	_	DET	DET	_	3	det
+2	roman	_	NOUN	NOUN	_	3	dep
+3	van	_	PROPN	PROPN	_	10	dep
+4	Frans	_	PROPN	PROPN	_	3	name
+5	Timmermans	_	PROPN	PROPN	_	3	name
+6	:	_	PUNCT	PUNCT	_	3	punct
+7	Ik	_	ADV	ADV	_	9	advmod
+8	en	_	DET	DET	_	10	det
+9	MH17	_	NOUN	NOUN	_	10	dep
+10	http://t.co/ggxIrZy7xJ	_	PROPN	PROPN	_	11	nmod:poss
+11	#MvDnl	_	NOUN	NOUN	_	0	root
+

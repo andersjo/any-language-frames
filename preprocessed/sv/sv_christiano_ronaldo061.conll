@@ -1,0 +1,18 @@
+1	När	_	ADV	ADV	_	3	advmod
+2	Raul	_	NOUN	NOUN	_	3	nsubj
+3	lämnade	_	VERB	VERB	_	10	advcl
+4	Real	_	NOUN	NOUN	_	3	nsubjpass
+5	Madrid	_	VERB	VERB	_	3	xcomp
+6	sommaren	_	NOUN	NOUN	_	7	det
+7	2010	_	NUM	NUM	_	5	nmod
+8	var	_	AUX	AUX	_	10	aux
+9	det	_	PRON	PRON	_	10	nsubj
+10	Ronaldo	_	VERB	VERB	_	0	root
+11	som	_	PRON	PRON	_	13	nsubjpass
+12	fick	_	AUX	AUX	_	13	aux
+13	ta	_	VERB	VERB	_	10	ccomp
+14	över	_	ADP	ADP	_	13	compound:prt
+15	tröjnummer	_	NOUN	NOUN	_	16	det
+16	7	_	NUM	NUM	_	13	nmod
+17	.	_	PUNCT	PUNCT	_	10	punct
+

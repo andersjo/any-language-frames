@@ -1,0 +1,8 @@
+1	@Football__Tweet	_	PROPN	PROPN	_	3	name
+2	Gerard	_	PROPN	PROPN	_	3	name
+3	Pique	_	PROPN	PROPN	_	0	root
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	Christiano	_	PROPN	PROPN	_	7	name
+6	Ronaldo	_	PROPN	PROPN	_	7	name
+7	.....	_	PROPN	PROPN	_	3	conj
+

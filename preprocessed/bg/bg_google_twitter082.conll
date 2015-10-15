@@ -1,0 +1,11 @@
+1	puzzled	_	PROPN	PROPN	_	2	nsubj
+2	озадачен	_	VERB	VERB	_	0	root
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	поставлен	_	VERB	VERB	_	2	conj
+5	в	_	ADP	ADP	_	6	case
+6	тупик	_	NOUN	NOUN	_	4	iobj
+7	(от	_	PROPN	PROPN	_	6	nmod
+8	puzzle	_	PROPN	PROPN	_	7	name
+9	);	_	PROPN	PROPN	_	7	name
+10	http://t.co/87Vs9LEBKj	_	PROPN	PROPN	_	9	nmod
+

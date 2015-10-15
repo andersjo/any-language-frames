@@ -1,0 +1,21 @@
+1	(	_	PUNCT	PUNCT	_	2	punct
+2	#Jorgee_x3	_	X	X	_	5	dep
+3	)	_	PUNCT	PUNCT	_	2	punct
+4	Angelina	_	PROPN	PROPN	_	5	name
+5	Jolie	_	PROPN	PROPN	_	6	nsubj
+6	defendió	_	VERB	VERB	_	14	advcl
+7	vestimenta	_	NOUN	NOUN	_	6	dobj
+8	masculina	_	ADJ	ADJ	_	7	amod
+9	de	_	ADP	ADP	_	10	case
+10	Shiloh	_	PROPN	PROPN	_	7	nmod
+11	:	_	PUNCT	PUNCT	_	10	punct
+12	Angelina	_	PROPN	PROPN	_	13	name
+13	Jolie	_	PROPN	PROPN	_	14	nsubj
+14	aseguró	_	VERB	VERB	_	0	root
+15	que	_	SCONJ	SCONJ	_	17	mark
+16	...	_	PUNCT	PUNCT	_	17	punct
+17	http://t.co/ZcgPhpgBkp	_	PROPN	PROPN	_	14	ccomp
+18	(	_	PUNCT	PUNCT	_	19	punct
+19	#Jorgee_x3	_	X	X	_	17	appos
+20	)	_	PUNCT	PUNCT	_	19	punct
+

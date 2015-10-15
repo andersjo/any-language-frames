@@ -1,0 +1,10 @@
+1	Jolies	_	NOUN	NOUN	_	2	nmod:poss
+2	brystoperation	_	NOUN	NOUN	_	3	nsubj
+3	satte	_	VERB	VERB	_	0	root
+4	efterfølgende	_	ADV	ADV	_	3	advmod
+5	massivt	_	ADV	ADV	_	3	advmod
+6	fokus	_	NOUN	NOUN	_	3	dobj
+7	på	_	ADP	ADP	_	8	case
+8	brystkræft	_	NOUN	NOUN	_	6	nmod
+9	.	_	PUNCT	PUNCT	_	3	punct
+

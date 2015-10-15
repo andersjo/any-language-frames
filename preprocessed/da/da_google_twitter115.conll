@@ -1,0 +1,15 @@
+1	http://t.co/Rief1icIcP	_	NOUN	NOUN	_	3	nmod:poss
+2	Defensive	_	ADJ	ADJ	_	3	amod
+3	coaches	_	NOUN	NOUN	_	5	nmod:poss
+4	must	_	ADJ	ADJ	_	5	amod
+5	form	_	NOUN	NOUN	_	6	nmod:poss
+6	plan	_	NOUN	NOUN	_	0	root
+7	for	_	ADP	ADP	_	8	case
+8	Kap	_	NOUN	NOUN	_	6	nmod
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	49ers	_	NOUN	NOUN	_	8	conj
+11	'	_	PUNCT	PUNCT	_	10	punct
+12	offense	_	X	X	_	10	dep
+13	#49ers	_	NOUN	NOUN	_	14	nmod:poss
+14	http://t.co/m88jf0vN84	_	NOUN	NOUN	_	12	dep
+

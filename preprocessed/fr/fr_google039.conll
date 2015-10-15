@@ -1,0 +1,14 @@
+1	Cette	_	DET	DET	_	2	det
+2	installation	_	NOUN	NOUN	_	5	nsubj
+3	sommaire	_	NOUN	NOUN	_	2	appos
+4	a	_	AUX	AUX	_	5	aux
+5	pris	_	VERB	VERB	_	0	root
+6	place	_	NOUN	NOUN	_	5	dobj
+7	dans	_	ADP	ADP	_	9	case
+8	la	_	DET	DET	_	9	det
+9	chambre	_	NOUN	NOUN	_	5	nmod
+10	de	_	ADP	ADP	_	12	case
+11	Larry	_	PROPN	PROPN	_	12	name
+12	Page	_	PROPN	PROPN	_	9	nmod
+13	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,26 @@
+1	Ronaldo	_	NOUN	NOUN	_	2	nsubj
+2	gjorde	_	VERB	VERB	_	0	root
+3	totalt	_	ADV	ADV	_	4	advmod
+4	42	_	NUM	NUM	_	5	nummod
+5	mål	_	NOUN	NOUN	_	2	dobj
+6	under	_	ADP	ADP	_	8	case
+7	säsongen	_	NOUN	NOUN	_	2	nmod
+8	2007/2008	_	NUM	NUM	_	7	nummod
+9	,	_	PUNCT	PUNCT	_	2	punct
+10	31	_	NUM	NUM	_	8	nummod
+11	av	_	ADP	ADP	_	12	case
+12	dem	_	PRON	PRON	_	10	nmod
+13	i	_	ADP	ADP	_	15	case
+14	Premier	_	NOUN	NOUN	_	15	nmod:poss
+15	League	_	NOUN	NOUN	_	10	nmod
+16	,	_	PUNCT	PUNCT	_	15	punct
+17	åtta	_	NUM	NUM	_	15	nummod
+18	i	_	ADP	ADP	_	20	case
+19	Champions	_	NOUN	NOUN	_	20	nmod:poss
+20	League	_	NOUN	NOUN	_	17	nmod
+21	och	_	CONJ	CONJ	_	20	cc
+22	tre	_	NUM	NUM	_	20	nummod
+23	i	_	ADP	ADP	_	24	case
+24	FA-cupen	_	NOUN	NOUN	_	22	nmod
+25	.	_	PUNCT	PUNCT	_	2	punct
+

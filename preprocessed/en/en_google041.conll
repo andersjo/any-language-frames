@@ -1,0 +1,14 @@
+1	The	_	DET	DET	_	2	det
+2	company	_	NOUN	NOUN	_	3	nsubj
+3	offered	_	VERB	VERB	_	0	root
+4	19,605,052	_	NUM	NUM	_	5	nummod
+5	shares	_	NOUN	NOUN	_	3	dobj
+6	at	_	ADP	ADP	_	3	compound:prt
+7	a	_	DET	DET	_	8	det
+8	price	_	NOUN	NOUN	_	12	compound
+9	of	_	ADP	ADP	_	3	compound:prt
+10	$85	_	PROPN	PROPN	_	12	compound
+11	per	_	ADP	ADP	_	12	compound
+12	share	_	NOUN	NOUN	_	3	nmod
+13	.	_	PUNCT	PUNCT	_	3	punct
+

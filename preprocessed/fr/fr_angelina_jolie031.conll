@@ -1,0 +1,22 @@
+1	La	_	DET	DET	_	2	det
+2	mère	_	NOUN	NOUN	_	14	nsubj
+3	d'Angelina	_	NOUN	NOUN	_	2	appos
+4	Jolie	_	PROPN	PROPN	_	2	appos
+5	vit	_	VERB	VERB	_	2	acl
+6	avec	_	ADP	ADP	_	8	case
+7	un	_	DET	DET	_	8	det
+8	revenu	_	NOUN	NOUN	_	5	nmod
+9	modeste	_	ADJ	ADJ	_	8	amod
+10	,	_	PUNCT	PUNCT	_	5	punct
+11	et	_	CONJ	CONJ	_	5	cc
+12	Angelina	_	PROPN	PROPN	_	13	name
+13	Jolie	_	PROPN	PROPN	_	14	nsubj
+14	porte	_	VERB	VERB	_	0	root
+15	souvent	_	ADV	ADV	_	14	advmod
+16	des	_	DET	DET	_	17	det
+17	vêtements	_	NOUN	NOUN	_	14	dobj
+18	de	_	ADP	ADP	_	20	case
+19	seconde	_	ADJ	ADJ	_	20	amod
+20	main	_	NOUN	NOUN	_	17	nmod
+21	.	_	PUNCT	PUNCT	_	5	punct
+

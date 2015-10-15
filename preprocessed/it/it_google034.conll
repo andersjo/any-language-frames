@@ -1,0 +1,10 @@
+1	Il	_	DET	DET	_	2	det
+2	dispositivo	_	NOUN	NOUN	_	3	nsubj
+3	adotta	_	VERB	VERB	_	0	root
+4	il	_	DET	DET	_	5	det
+5	sistema	_	NOUN	NOUN	_	3	dobj
+6	operativo	_	ADJ	ADJ	_	5	amod
+7	Chrome	_	PROPN	PROPN	_	5	nmod
+8	OS	_	PROPN	PROPN	_	7	name
+9	.	_	PUNCT	PUNCT	_	3	punct
+

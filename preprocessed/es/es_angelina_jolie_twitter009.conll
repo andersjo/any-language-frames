@@ -1,0 +1,20 @@
+1	Me	_	PRON	PRON	_	2	iobj
+2	pregunto	_	NOUN	NOUN	_	0	root
+3	si	_	SCONJ	SCONJ	_	10	mark
+4	cada	_	DET	DET	_	5	det
+5	vez	_	NOUN	NOUN	_	10	nmod
+6	que	_	SCONJ	SCONJ	_	10	mark
+7	Angelina	_	PROPN	PROPN	_	8	name
+8	Jolie	_	PROPN	PROPN	_	10	nsubj
+9	se	_	PRON	PRON	_	10	iobj
+10	mira	_	VERB	VERB	_	2	advcl
+11	en	_	ADP	ADP	_	13	case
+12	el	_	DET	DET	_	13	det
+13	espejo	_	NOUN	NOUN	_	10	nmod
+14	se	_	PRON	PRON	_	15	iobj
+15	va	_	VERB	VERB	_	16	cop
+16	directa	_	ADJ	ADJ	_	10	conj
+17	a	_	ADP	ADP	_	18	case
+18	tocarse	_	VERB	VERB	_	16	advcl
+19	.	_	PUNCT	PUNCT	_	2	punct
+

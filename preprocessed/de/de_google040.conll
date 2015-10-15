@@ -1,0 +1,12 @@
+1	Google	_	PROPN	PROPN	_	10	nsubj
+2	hat	_	AUX	AUX	_	10	aux
+3	insbesondere	_	ADV	ADV	_	10	advmod
+4	in	_	ADP	ADP	_	6	case
+5	den	_	DET	DET	_	6	det
+6	USA	_	PROPN	PROPN	_	8	nmod
+7	bereits	_	ADV	ADV	_	8	advmod
+8	vielfältige	_	ADJ	ADJ	_	9	amod
+9	Aktivitäten	_	NOUN	NOUN	_	10	nsubjpass
+10	entwickelt	_	VERB	VERB	_	0	root
+11	.	_	PUNCT	PUNCT	_	10	punct
+

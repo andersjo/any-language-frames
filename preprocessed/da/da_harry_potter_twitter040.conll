@@ -1,0 +1,12 @@
+1	@Sr_Dios	_	NOUN	NOUN	_	5	nsubj
+2	En	_	DET	DET	_	3	det
+3	plan	_	NOUN	NOUN	_	5	dep
+4	profesor	_	NOUN	NOUN	_	3	nmod
+5	Snape	_	VERB	VERB	_	0	root
+6	en	_	DET	DET	_	7	det
+7	Harry	_	NOUN	NOUN	_	5	dobj
+8	Potter	_	NOUN	NOUN	_	7	nmod
+9	,	_	PUNCT	PUNCT	_	5	punct
+10	mortifago	_	PROPN	PROPN	_	8	appos
+11	infiltrao	_	NOUN	NOUN	_	10	dep
+

@@ -1,0 +1,9 @@
+1	Firefox	_	PROPN	PROPN	_	2	nsubj
+2	cambia	_	VERB	VERB	_	0	root
+3	a	_	ADP	ADP	_	4	case
+4	Google	_	PROPN	PROPN	_	2	dobj
+5	por	_	ADP	ADP	_	6	case
+6	Yahoo	_	PROPN	PROPN	_	4	nmod
+7	!	_	PUNCT	PUNCT	_	6	punct
+8	http://t.co/E64N61Lycv	_	PROPN	PROPN	_	4	appos
+

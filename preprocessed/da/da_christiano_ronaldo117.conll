@@ -1,0 +1,9 @@
+1	Der	_	PART	PART	_	4	expl
+2	er	_	AUX	AUX	_	4	auxpass
+3	siden	_	ADV	ADV	_	4	advmod
+4	åbnet	_	VERB	VERB	_	0	root
+5	yderligere	_	ADV	ADV	_	4	advmod
+6	en	_	DET	DET	_	7	det
+7	CR7-butik	_	NOUN	NOUN	_	4	dobj
+8	.	_	PUNCT	PUNCT	_	4	punct
+

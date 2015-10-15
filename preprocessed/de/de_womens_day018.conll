@@ -1,0 +1,23 @@
+1	Dieses	_	PRON	PRON	_	2	det
+2	Anliegen	_	NOUN	NOUN	_	3	nsubj
+3	fußte	_	VERB	VERB	_	0	root
+4	auf	_	ADP	ADP	_	6	case
+5	den	_	DET	DET	_	6	det
+6	Erklärungen	_	NOUN	NOUN	_	3	nmod
+7	der	_	DET	DET	_	8	det
+8	Sozialdemokratie	_	NOUN	NOUN	_	6	det
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	die	_	PRON	PRON	_	20	nsubj
+11	sich	_	PRON	PRON	_	20	dobj
+12	als	_	ADP	ADP	_	14	case
+13	einzige	_	ADJ	ADJ	_	14	amod
+14	Partei	_	NOUN	NOUN	_	20	nmod
+15	vor	_	ADP	ADP	_	16	case
+16	1900	_	NUM	NUM	_	20	nmod
+17	für	_	ADP	ADP	_	19	case
+18	ein	_	DET	DET	_	19	det
+19	Frauenwahlrecht	_	NOUN	NOUN	_	20	nmod
+20	ausgesprochen	_	VERB	VERB	_	8	acl
+21	hatte	_	AUX	AUX	_	20	aux
+22	.	_	PUNCT	PUNCT	_	3	punct
+

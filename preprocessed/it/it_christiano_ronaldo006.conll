@@ -1,0 +1,13 @@
+1	Nel	_	ADP	ADP	_	2	case
+2	2004	_	NUM	NUM	_	5	nummod
+3	è	_	AUX	AUX	_	5	aux
+4	stato	_	AUX	AUX	_	5	auxpass
+5	inserito	_	VERB	VERB	_	0	root
+6	nella	_	ADP	ADP	_	7	case
+7	formazione	_	NOUN	NOUN	_	5	nmod
+8	ideale	_	ADJ	ADJ	_	7	amod
+9	di	_	ADP	ADP	_	10	case
+10	Euro	_	PROPN	PROPN	_	7	nmod
+11	2004	_	NUM	NUM	_	10	dobj
+12	.	_	PUNCT	PUNCT	_	5	punct
+

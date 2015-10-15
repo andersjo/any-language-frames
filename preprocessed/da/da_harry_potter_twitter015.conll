@@ -1,0 +1,25 @@
+1	Hur	_	NOUN	NOUN	_	0	root
+2	nördigt	_	ADV	ADV	_	1	advmod
+3	som	_	PART	PART	_	2	dep
+4	helst	_	ADV	ADV	_	3	advmod
+5	men	_	CONJ	CONJ	_	4	cc
+6	kom	_	VERB	VERB	_	4	conj
+7	igen	_	ADV	ADV	_	6	advmod
+8	.	_	PUNCT	PUNCT	_	1	punct
+9	Harry	_	ADJ	ADJ	_	10	amod
+10	Potter	_	NOUN	NOUN	_	6	dobj
+11	.	_	PUNCT	PUNCT	_	1	punct
+12	Doctor	_	PROPN	PROPN	_	10	dep
+13	Who	_	PROPN	PROPN	_	12	name
+14	.	_	PUNCT	PUNCT	_	12	punct
+15	Game	_	PROPN	PROPN	_	12	dep
+16	of	_	X	X	_	15	dep
+17	Thrones	_	PROPN	PROPN	_	16	dep
+18	.	_	PUNCT	PUNCT	_	1	punct
+19	NEED	_	NOUN	NOUN	_	20	nsubj
+20	TO	_	VERB	VERB	_	6	dep
+21	BE	_	ADJ	ADJ	_	22	amod
+22	THERE	_	NOUN	NOUN	_	20	dobj
+23	!	_	PUNCT	PUNCT	_	22	punct
+24	http://t.co/bwjXMSnaoW	_	PROPN	PROPN	_	22	appos
+

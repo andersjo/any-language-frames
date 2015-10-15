@@ -1,0 +1,20 @@
+1	The	_	DET	DET	_	2	det
+2	technology	_	NOUN	NOUN	_	6	nsubjpass
+3	in	_	ADP	ADP	_	2	compound
+4	RankDex	_	PROPN	PROPN	_	6	nsubjpass
+5	was	_	AUX	AUX	_	6	auxpass
+6	patented	_	VERB	VERB	_	0	root
+7	in	_	ADP	ADP	_	6	compound:prt
+8	July	_	PROPN	PROPN	_	6	nmod
+9	1999	_	NUM	NUM	_	8	nummod
+10	and	_	CONJ	CONJ	_	6	cc
+11	used	_	VERB	VERB	_	6	conj
+12	later	_	ADV	ADV	_	11	advmod
+13	when	_	ADV	ADV	_	15	advmod
+14	Li	_	ADV	ADV	_	15	advmod
+15	founded	_	VERB	VERB	_	6	conj
+16	Baidu	_	PROPN	PROPN	_	15	dobj
+17	in	_	ADP	ADP	_	15	compound:prt
+18	China	_	PROPN	PROPN	_	15	dobj
+19	.	_	PUNCT	PUNCT	_	6	punct
+

@@ -1,0 +1,21 @@
+1	Aja	_	PROPN	PROPN	_	3	nmod:poss
+2	more	_	ADJ	ADJ	_	3	amod
+3	specials	_	NOUN	NOUN	_	4	nmod:poss
+4	on	_	NOUN	NOUN	_	16	nsubj
+5	RCA	_	PROPN	PROPN	_	4	appos
+6	7	_	NUM	NUM	_	5	nummod
+7	"	_	PUNCT	PUNCT	_	16	punct
+8	Google	_	NOUN	NOUN	_	9	name
+9	Android	_	PROPN	PROPN	_	4	appos
+10	WiFi	_	PROPN	PROPN	_	9	name
+11	Internet	_	PROPN	PROPN	_	9	name
+12	Tablet	_	PROPN	PROPN	_	9	name
+13	PC	_	PROPN	PROPN	_	9	name
+14	eReader	_	VERB	VERB	_	15	dep
+15	Model	_	NOUN	NOUN	_	16	nsubj
+16	RCT6378W2	_	VERB	VERB	_	0	root
+17	here	_	ADV	ADV	_	18	advmod
+18	http://t.co/AUfgqh1s6M	_	ADJ	ADJ	_	19	amod
+19	#shopping	_	NOUN	NOUN	_	20	nmod:poss
+20	#apple	_	NOUN	NOUN	_	16	dobj
+

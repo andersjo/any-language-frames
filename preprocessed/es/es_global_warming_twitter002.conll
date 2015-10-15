@@ -1,0 +1,25 @@
+1	#Huercalovera	_	PROPN	PROPN	_	6	nsubj
+2	en	_	ADP	ADP	_	3	case
+3	#Navidad	_	NOUN	NOUN	_	1	nmod
+4	es	_	VERB	VERB	_	6	cop
+5	pura	_	ADJ	ADJ	_	6	amod
+6	magia	_	NOUN	NOUN	_	0	root
+7	.	_	PUNCT	PUNCT	_	10	punct
+8	Hoy	_	ADV	ADV	_	10	advmod
+9	la	_	DET	DET	_	10	det
+10	película	_	NOUN	NOUN	_	6	appos
+11	'	_	PUNCT	PUNCT	_	12	punct
+12	Río	_	PROPN	PROPN	_	10	appos
+13	2	_	NUM	NUM	_	12	nummod
+14	'	_	PUNCT	PUNCT	_	12	punct
+15	en	_	ADP	ADP	_	17	case
+16	el	_	DET	DET	_	17	det
+17	Cine	_	PROPN	PROPN	_	12	nmod
+18	,	_	PUNCT	PUNCT	_	12	punct
+19	y	_	CONJ	CONJ	_	10	cc
+20	mañana	_	ADV	ADV	_	21	advmod
+21	espectáculo	_	NOUN	NOUN	_	10	conj
+22	en	_	ADP	ADP	_	24	case
+23	@TeatroVillaH_O	_	PROPN	PROPN	_	24	name
+24	http://t.co/ipdFr4UnbP	_	PROPN	PROPN	_	21	nmod
+

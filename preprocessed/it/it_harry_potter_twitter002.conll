@@ -1,0 +1,9 @@
+1	Però	_	ADV	ADV	_	3	advmod
+2	voglio	_	AUX	AUX	_	3	aux
+3	finire	_	VERB	VERB	_	0	root
+4	di	_	ADP	ADP	_	5	mark
+5	vedere	_	VERB	VERB	_	3	xcomp
+6	Harry	_	PROPN	PROPN	_	5	dobj
+7	Potter	_	PROPN	PROPN	_	6	name
+8	!	_	PUNCT	PUNCT	_	3	punct
+

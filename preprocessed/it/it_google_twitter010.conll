@@ -1,0 +1,22 @@
+1	Crollo	_	NOUN	NOUN	_	0	root
+2	del	_	ADP	ADP	_	3	case
+3	Made	_	NOUN	NOUN	_	1	nmod
+4	in	_	ADP	ADP	_	5	case
+5	Italy	_	PROPN	PROPN	_	3	nmod
+6	:	_	PUNCT	PUNCT	_	1	punct
+7	allarme	_	NOUN	NOUN	_	1	conj
+8	per	_	ADP	ADP	_	9	case
+9	l'olio	_	NOUN	NOUN	_	7	nmod
+10	e	_	CONJ	CONJ	_	7	cc
+11	il	_	DET	DET	_	12	det
+12	miele	_	NOUN	NOUN	_	7	conj
+13	italiano	_	ADJ	ADJ	_	12	amod
+14	http://t.co/vEQKECjRA2	_	NOUN	NOUN	_	12	nmod
+15	Condivisa	_	PROPN	PROPN	_	14	nmod
+16	da	_	ADP	ADP	_	17	case
+17	Google	_	PROPN	PROPN	_	14	nmod
+18	News	_	NOUN	NOUN	_	17	nmod
+19	e	_	CONJ	CONJ	_	15	cc
+20	Google	_	PROPN	PROPN	_	17	conj
+21	Weather	_	PROPN	PROPN	_	20	name
+

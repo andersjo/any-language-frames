@@ -1,0 +1,20 @@
+1	La	_	DET	DET	_	2	det
+2	magrezza	_	NOUN	NOUN	_	7	nsubj
+3	estrema	_	ADJ	ADJ	_	2	amod
+4	di	_	ADP	ADP	_	5	case
+5	Angelina	_	PROPN	PROPN	_	2	nmod
+6	Jolie	_	PROPN	PROPN	_	5	name
+7	ha	_	VERB	VERB	_	0	root
+8	un	_	DET	DET	_	9	det
+9	motivo	_	NOUN	NOUN	_	7	dobj
+10	:	_	PUNCT	PUNCT	_	2	punct
+11	tutto	_	PRON	PRON	_	13	nsubjpass
+12	è	_	AUX	AUX	_	13	auxpass
+13	accaduto	_	VERB	VERB	_	9	acl:relcl
+14	sul	_	ADP	ADP	_	17	case
+15	...	_	PUNCT	PUNCT	_	17	punct
+16	:	_	PUNCT	PUNCT	_	9	punct
+17	http://t.co/6qB3t5Usex	_	NOUN	NOUN	_	13	nmod
+18	via	_	ADV	ADV	_	19	advmod
+19	@YouTube	_	VERB	VERB	_	17	acl
+

@@ -1,0 +1,13 @@
+1	@PrinsesseEmmy	_	NOUN	NOUN	_	4	nsubj
+2	Altså	_	ADV	ADV	_	1	advmod
+3	skal	_	AUX	AUX	_	5	aux
+4	vi	_	PRON	PRON	_	6	nsubj
+5	snart	_	ADV	ADV	_	6	advmod
+6	til	_	ADP	ADP	_	0	root
+7	at	_	PART	PART	_	6	dep
+8	inddrage	_	VERB	VERB	_	7	dep
+9	din	_	DET	DET	_	10	det
+10	Google	_	NOUN	NOUN	_	11	nmod:poss
+11	licens	_	NOUN	NOUN	_	8	dobj
+12	?	_	PUNCT	PUNCT	_	5	punct
+

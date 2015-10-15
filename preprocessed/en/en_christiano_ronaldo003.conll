@@ -1,0 +1,23 @@
+1	The	_	DET	DET	_	3	det
+2	following	_	VERB	VERB	_	3	amod
+3	year	_	NOUN	NOUN	_	9	nmod:tmod
+4	,	_	PUNCT	PUNCT	_	2	punct
+5	in	_	ADP	ADP	_	2	compound:prt
+6	2008	_	NUM	NUM	_	0	root
+7	,	_	PUNCT	PUNCT	_	9	punct
+8	he	_	PRON	PRON	_	9	nsubj
+9	won	_	VERB	VERB	_	6	parataxis
+10	his	_	PRON	PRON	_	13	nmod:poss
+11	first	_	ADJ	ADJ	_	0	iobj
+12	Ballon	_	NOUN	NOUN	_	13	compound
+13	d'Or	_	NOUN	NOUN	_	9	dobj
+14	and	_	CONJ	CONJ	_	13	cc
+15	FIFA	_	PROPN	PROPN	_	16	compound
+16	World	_	PROPN	PROPN	_	17	compound
+17	Player	_	NOUN	NOUN	_	13	conj
+18	of	_	ADP	ADP	_	17	acl
+19	the	_	DET	DET	_	21	det
+20	Year	_	NOUN	NOUN	_	21	compound
+21	awards	_	NOUN	NOUN	_	13	conj
+22	.	_	PUNCT	PUNCT	_	9	punct
+

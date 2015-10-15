@@ -1,0 +1,10 @@
+1	@Tom_jedusor33	_	PROPN	PROPN	_	3	name
+2	@malefoy_drago	_	PROPN	PROPN	_	3	name
+3	@EstebanCrochet	_	PROPN	PROPN	_	4	nsubj
+4	tombe	_	VERB	VERB	_	0	root
+5	par	_	ADP	ADP	_	6	case
+6	terre	_	NOUN	NOUN	_	4	nmod
+7	et	_	CONJ	CONJ	_	4	cc
+8	est	_	AUX	AUX	_	9	aux
+9	assomé	_	VERB	VERB	_	4	conj
+

@@ -1,0 +1,20 @@
+1	Στο	_	ADP	ADP	_	3	case
+2	Παγκόσμιο	_	ADJ	ADJ	_	3	amod
+3	Κύπελλο	_	NOUN	NOUN	_	9	nmod
+4	Ποδοσφαίρου	_	NOUN	NOUN	_	3	nmod
+5	,	_	PUNCT	PUNCT	_	7	punct
+6	το	_	ADJ	ADJ	_	7	det
+7	2010	_	NOUN	NOUN	_	3	appos
+8	,	_	PUNCT	PUNCT	_	10	punct
+9	ήταν	_	VERB	VERB	_	0	root
+10	το	_	ADJ	ADJ	_	11	det
+11	πρώτο	_	NUM	NUM	_	9	dobj
+12	που	_	PRON	PRON	_	13	nsubj
+13	έγινε	_	VERB	VERB	_	11	acl:relcl
+14	στα	_	ADP	ADP	_	15	case
+15	γήπεδα	_	NOUN	NOUN	_	13	nmod
+16	της	_	ADJ	ADJ	_	17	det
+17	Αφρικανικής	_	NOUN	NOUN	_	15	nmod
+18	Ηπείρου	_	NOUN	NOUN	_	17	nmod
+19	.	_	PUNCT	PUNCT	_	9	punct
+

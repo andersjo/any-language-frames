@@ -1,0 +1,22 @@
+1	Επίσης	_	ADV	ADV	_	5	advmod
+2	η	_	ADJ	ADJ	_	3	det
+3	συγγραφέας	_	NOUN	NOUN	_	5	nsubj
+4	έχει	_	VERB	VERB	_	5	aux
+5	αναφέρει	_	VERB	VERB	_	0	root
+6	πως	_	CONJ	CONJ	_	9	mark
+7	δε	_	ADV	ADV	_	9	advmod
+8	θα	_	PART	PART	_	9	aux
+9	γράψει	_	VERB	VERB	_	5	ccomp
+10	κάποιο	_	PRON	PRON	_	9	nsubj
+11	"	_	PUNCT	PUNCT	_	13	punct
+12	εισαγωγικό	_	ADJ	ADJ	_	13	amod
+13	βιβλίο	_	NOUN	NOUN	_	10	nmod
+14	"	_	PUNCT	PUNCT	_	16	punct
+15	(	_	PUNCT	PUNCT	_	16	punct
+16	prequel	_	NOUN	NOUN	_	13	nmod
+17	)	_	PUNCT	PUNCT	_	16	punct
+18	για	_	ADP	ADP	_	20	case
+19	τη	_	ADJ	ADJ	_	20	det
+20	σειρά	_	NOUN	NOUN	_	16	nmod
+21	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,19 @@
+1	On	_	PRON	PRON	_	3	nsubj
+2	a	_	AUX	AUX	_	3	aux
+3	compris	_	VERB	VERB	_	0	root
+4	que	_	SCONJ	SCONJ	_	7	mark
+5	Angelina	_	PROPN	PROPN	_	6	name
+6	Jolie	_	PROPN	PROPN	_	7	nsubj
+7	portait	_	VERB	VERB	_	3	ccomp
+8	bien	_	ADV	ADV	_	7	advmod
+9	son	_	DET	DET	_	10	nmod:poss
+10	nom	_	NOUN	NOUN	_	7	dobj
+11	,	_	PUNCT	PUNCT	_	7	punct
+12	pas	_	ADV	ADV	_	13	neg
+13	besoin	_	NOUN	NOUN	_	3	ccomp
+14	de	_	ADP	ADP	_	15	case
+15	plagier	_	PROPN	PROPN	_	13	nmod
+16	273529191	_	NUM	NUM	_	17	nummod
+17	fois	_	NOUN	NOUN	_	13	nmod
+18	.	_	PUNCT	PUNCT	_	3	punct
+

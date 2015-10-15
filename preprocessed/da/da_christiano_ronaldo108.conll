@@ -1,0 +1,12 @@
+1	Efterfølgende	_	NOUN	NOUN	_	2	nsubj
+2	deltog	_	VERB	VERB	_	0	root
+3	han	_	PRON	PRON	_	2	nsubj
+4	også	_	ADV	ADV	_	2	advmod
+5	ved	_	ADP	ADP	_	6	case
+6	VM	_	PROPN	PROPN	_	2	nmod
+7	i	_	ADP	ADP	_	2	dep
+8	2010	_	NUM	NUM	_	7	nummod
+9	i	_	ADP	ADP	_	10	case
+10	Sydafrika	_	PROPN	PROPN	_	6	nmod
+11	.	_	PUNCT	PUNCT	_	2	punct
+

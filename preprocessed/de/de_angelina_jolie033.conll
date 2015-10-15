@@ -1,0 +1,9 @@
+1	„Sie	_	ADJ	ADJ	_	5	nsubj
+2	war	_	VERB	VERB	_	5	cop
+3	nicht	_	PART	PART	_	2	neg
+4	gerade	_	ADV	ADV	_	5	advmod
+5	begeistert	_	ADJ	ADJ	_	0	root
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	mitzuwirken	_	VERB	VERB	_	5	conj
+8	.	_	PUNCT	PUNCT	_	7	punct
+

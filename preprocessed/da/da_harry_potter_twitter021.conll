@@ -1,0 +1,21 @@
+1	Jeg	_	PRON	PRON	_	9	nsubj
+2	la	_	X	X	_	1	dep
+3	til	_	ADP	ADP	_	5	case
+4	en	_	DET	DET	_	5	det
+5	video	_	NOUN	NOUN	_	2	nmod
+6	i	_	ADP	ADP	_	8	case
+7	en	_	DET	DET	_	8	det
+8	@YouTube	_	NOUN	NOUN	_	5	nmod
+9	-spilleliste	_	VERB	VERB	_	0	root
+10	–	_	ADJ	ADJ	_	11	amod
+11	http://t.co/gw8PnS24Mr	_	NOUN	NOUN	_	9	dobj
+12	I'm	_	NOUN	NOUN	_	9	dobj
+13	In	_	PROPN	PROPN	_	12	appos
+14	My	_	PROPN	PROPN	_	13	name
+15	Mum's	_	PROPN	PROPN	_	13	name
+16	Car	_	PROPN	PROPN	_	13	name
+17	-	_	PUNCT	PUNCT	_	13	punct
+18	Harry	_	PROPN	PROPN	_	19	nmod:poss
+19	Potter	_	NOUN	NOUN	_	12	nmod:poss
+20	Remix	_	PROPN	PROPN	_	19	appos
+

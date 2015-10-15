@@ -1,0 +1,10 @@
+1	εγώ	_	PRON	PRON	_	2	nsubj
+2	πήρα	_	VERB	VERB	_	0	root
+3	A	_	NOUN	NOUN	_	2	dobj
+4	!	_	PUNCT	PUNCT	_	3	punct
+5	πέρασααα	_	NOUN	NOUN	_	3	conj
+6	!	_	PUNCT	PUNCT	_	3	punct
+7	ααα	_	NOUN	NOUN	_	3	conj
+8	!	_	PUNCT	PUNCT	_	3	punct
+9	http://t.co/51nF4hcvF9	_	NOUN	NOUN	_	7	nmod
+

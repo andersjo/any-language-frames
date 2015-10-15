@@ -1,0 +1,18 @@
+1	Hoy	_	ADV	ADV	_	5	advmod
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Guía	_	NOUN	NOUN	_	5	nsubj
+4	dietética	_	ADJ	ADJ	_	3	amod
+5	parece	_	VERB	VERB	_	0	root
+6	tomar	_	VERB	VERB	_	5	xcomp
+7	en	_	ADP	ADP	_	8	case
+8	cuenta	_	VERB	VERB	_	6	acl
+9	el	_	DET	DET	_	10	det
+10	ambiente	_	NOUN	NOUN	_	8	dobj
+11	.	_	PUNCT	PUNCT	_	8	punct
+12	Entérate	_	VERB	VERB	_	8	acl
+13	aquí	_	ADV	ADV	_	12	advmod
+14	.	_	PUNCT	PUNCT	_	5	punct
+15	http://t.co/3T1WpQu27u	_	PROPN	PROPN	_	12	dobj
+16	...	_	PUNCT	PUNCT	_	15	punct
+17	http://t.co/yiSGLV4vyV	_	PROPN	PROPN	_	15	appos
+

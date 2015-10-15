@@ -1,0 +1,22 @@
+1	Είναι	_	VERB	VERB	_	4	cop
+2	,	_	PUNCT	PUNCT	_	4	punct
+3	ευρέως	_	ADV	ADV	_	4	advmod
+4	γνωστό	_	ADJ	ADJ	_	0	root
+5	ότι	_	CONJ	CONJ	_	9	mark
+6	ο	_	ADJ	ADJ	_	7	det
+7	Ρονάλντο	_	NOUN	NOUN	_	9	nsubj
+8	έχει	_	VERB	VERB	_	9	aux
+9	φτάσει	_	VERB	VERB	_	4	csubj
+10	σε	_	ADP	ADP	_	12	case
+11	ένα	_	ADJ	ADJ	_	12	det
+12	επίπεδο	_	NOUN	NOUN	_	9	nmod
+13	δημοτικότητας	_	NOUN	NOUN	_	12	nmod
+14	,	_	PUNCT	PUNCT	_	19	punct
+15	που	_	PRON	PRON	_	17	det
+16	το	_	ADJ	ADJ	_	17	det
+17	ποδόσφαιρο	_	NOUN	NOUN	_	19	nsubj
+18	δεν	_	PART	PART	_	19	neg
+19	είχε	_	VERB	VERB	_	9	ccomp
+20	παλιότερα	_	NOUN	NOUN	_	19	dobj
+21	.	_	PUNCT	PUNCT	_	4	punct
+

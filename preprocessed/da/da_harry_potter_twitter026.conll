@@ -1,0 +1,13 @@
+1	PJREVAT	_	NOUN	NOUN	_	0	root
+2	-	_	PUNCT	PUNCT	_	1	punct
+3	Harry	_	PROPN	PROPN	_	1	list
+4	Potter	_	NOUN	NOUN	_	3	dep
+5	Retrospective	_	NOUN	NOUN	_	4	nmod:poss
+6	:	_	PUNCT	PUNCT	_	3	punct
+7	Chris	_	PROPN	PROPN	_	5	dep
+8	Columbus	_	PROPN	PROPN	_	7	name
+9	(	_	PUNCT	PUNCT	_	10	punct
+10	1/4	_	NUM	NUM	_	12	nummod
+11	)	_	PUNCT	PUNCT	_	10	punct
+12	http://t.co/T3vmyAYVb4	_	NOUN	NOUN	_	7	conj
+

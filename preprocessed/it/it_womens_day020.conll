@@ -1,0 +1,25 @@
+1	Tra	_	ADP	ADP	_	4	case
+2	le	_	DET	DET	_	4	det
+3	molte	_	DET	DET	_	4	det
+4	promesse	_	NOUN	NOUN	_	9	acl:relcl
+5	che	_	PRON	PRON	_	6	nsubj
+6	fece	_	VERB	VERB	_	4	acl:relcl
+7	allora	_	ADV	ADV	_	6	advmod
+8	e	_	CONJ	CONJ	_	6	cc
+9	che	_	PRON	PRON	_	14	nsubj
+10	in	_	ADP	ADP	_	11	case
+11	seguito	_	NOUN	NOUN	_	14	nmod
+12	dimenticò	_	ADJ	ADJ	_	11	amod
+13	,	_	PUNCT	PUNCT	_	6	punct
+14	figurava	_	VERB	VERB	_	0	root
+15	il	_	DET	DET	_	16	det
+16	riconoscimento	_	NOUN	NOUN	_	14	dobj
+17	del	_	ADP	ADP	_	18	case
+18	diritto	_	NOUN	NOUN	_	16	nmod
+19	di	_	ADP	ADP	_	20	case
+20	voto	_	NOUN	NOUN	_	18	nmod
+21	alle	_	ADP	ADP	_	22	case
+22	donne	_	NOUN	NOUN	_	18	nmod
+23	»	_	PUNCT	PUNCT	_	14	punct
+24	.	_	PUNCT	PUNCT	_	6	punct
+

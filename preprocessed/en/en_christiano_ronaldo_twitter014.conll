@@ -1,0 +1,26 @@
+1	@TC_0fficial	_	ADJ	ADJ	_	0	cc
+2	that's	_	NOUN	NOUN	_	8	nsubj
+3	just	_	ADV	ADV	_	4	advmod
+4	not	_	ADV	ADV	_	7	neg
+5	true	_	ADJ	ADJ	_	0	remnant
+6	though	_	ADP	ADP	_	7	reparandum
+7	is	_	VERB	VERB	_	8	cop
+8	it	_	PRON	PRON	_	11	nsubj
+9	,	_	PUNCT	PUNCT	_	12	punct
+10	OK	_	ADJ	ADJ	_	0	neg
+11	Scholes	_	NOUN	NOUN	_	12	nsubj
+12	won	_	VERB	VERB	_	0	root
+13	a	_	DET	DET	_	15	det
+14	league	_	PROPN	PROPN	_	15	compound
+15	title	_	NOUN	NOUN	_	12	dobj
+16	playing	_	VERB	VERB	_	15	acl
+17	off	_	ADP	ADP	_	16	compound:prt
+18	Christiano	_	PROPN	PROPN	_	19	compound
+19	Ronaldo	_	PROPN	PROPN	_	16	dobj
+20	,	_	PUNCT	PUNCT	_	16	punct
+21	whilst	_	SCONJ	SCONJ	_	23	mark
+22	Gerrard	_	PROPN	PROPN	_	23	nsubj
+23	won	_	VERB	VERB	_	16	advcl
+24	a	_	DET	DET	_	25	det
+25	CL	_	NOUN	NOUN	_	23	dobj
+

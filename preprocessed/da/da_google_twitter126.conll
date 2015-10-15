@@ -1,0 +1,12 @@
+1	MENS-COLLEGE-BASKETBALL	_	PROPN	PROPN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	SDSU	_	PROPN	PROPN	_	1	list
+4	69	_	NUM	NUM	_	5	nummod
+5	@	_	NOUN	NOUN	_	6	dep
+6	NDSU	_	PROPN	PROPN	_	3	list
+7	72	_	NUM	NUM	_	8	nummod
+8	http://t.co/kgsEpkU8oK	_	NOUN	NOUN	_	9	dep
+9	-via	_	PROPN	PROPN	_	11	nmod:poss
+10	SportsCenter	_	NOUN	NOUN	_	9	dep
+11	http://t.co/Hnwe6JTcUy	_	NOUN	NOUN	_	1	list
+

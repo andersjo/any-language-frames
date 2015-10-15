@@ -1,0 +1,25 @@
+1	Доброто	_	ADJ	ADJ	_	3	amod
+2	му	_	PRON	PRON	_	1	case
+3	представяне	_	NOUN	NOUN	_	15	nsubj
+4	през	_	ADP	ADP	_	5	case
+5	календарната	_	NOUN	NOUN	_	3	nmod
+6	2013	_	NUM	NUM	_	7	nummod
+7	г	_	NOUN	NOUN	_	5	nmod
+8	.	_	PUNCT	PUNCT	_	15	punct
+9	на	_	ADP	ADP	_	13	case
+10	клубно	_	ADJ	ADJ	_	13	amod
+11	и	_	CONJ	CONJ	_	10	cc
+12	национално	_	ADJ	ADJ	_	10	conj
+13	ниво	_	NOUN	NOUN	_	15	nsubj
+14	му	_	PRON	PRON	_	15	iobj
+15	носи	_	VERB	VERB	_	0	root
+16	престижната	_	ADJ	ADJ	_	17	amod
+17	награда	_	NOUN	NOUN	_	15	dobj
+18	за	_	ADP	ADP	_	20	case
+19	всеки	_	DET	DET	_	20	det
+20	футболист	_	NOUN	NOUN	_	17	nmod
+21	-	_	PUNCT	PUNCT	_	23	punct
+22	Златната	_	ADJ	ADJ	_	23	amod
+23	топка	_	NOUN	NOUN	_	17	nmod
+24	.	_	PUNCT	PUNCT	_	15	punct
+

@@ -1,0 +1,20 @@
+1	Watching	_	VERB	VERB	_	0	root
+2	Maleficent	_	ADJ	ADJ	_	0	acl
+3	again	_	ADV	ADV	_	1	advmod
+4	.	_	PUNCT	PUNCT	_	10	punct
+5	Angelina	_	PROPN	PROPN	_	6	compound
+6	Jolie	_	PROPN	PROPN	_	10	nsubj
+7	is	_	VERB	VERB	_	10	cop
+8	the	_	DET	DET	_	10	det
+9	only	_	ADJ	ADJ	_	0	foreign
+10	person	_	NOUN	NOUN	_	13	nsubj
+11	who	_	PRON	PRON	_	12	nsubj
+12	could've	_	VERB	VERB	_	10	acl:relcl
+13	played	_	VERB	VERB	_	1	parataxis
+14	that	_	DET	DET	_	15	det
+15	role	_	NOUN	NOUN	_	13	dobj
+16	.	_	PUNCT	PUNCT	_	1	punct
+17	She	_	PRON	PRON	_	18	nsubj
+18	IS	_	VERB	VERB	_	7	parataxis
+19	Maleficent	_	ADJ	ADJ	_	0	punct
+

@@ -1,0 +1,19 @@
+1	Finito	_	VERB	VERB	_	0	root
+2	di	_	ADP	ADP	_	3	mark
+3	vedere	_	VERB	VERB	_	1	xcomp
+4	Maleficent	_	PROPN	PROPN	_	3	dobj
+5	,	_	PUNCT	PUNCT	_	1	punct
+6	delusa	_	VERB	VERB	_	1	conj
+7	un	_	DET	DET	_	8	det
+8	po	_	NOUN	NOUN	_	6	dobj
+9	'	_	PUNCT	PUNCT	_	10	punct
+10	ma	_	CONJ	CONJ	_	1	cc
+11	Angelina	_	PROPN	PROPN	_	15	nsubj
+12	Jolie	_	PROPN	PROPN	_	11	name
+13	è	_	VERB	VERB	_	15	cop
+14	molto	_	ADV	ADV	_	15	advmod
+15	bella	_	ADJ	ADJ	_	8	amod
+16	e	_	CONJ	CONJ	_	15	cc
+17	brava	_	ADJ	ADJ	_	15	conj
+18	.	_	PUNCT	PUNCT	_	6	punct
+

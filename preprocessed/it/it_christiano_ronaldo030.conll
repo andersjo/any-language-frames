@@ -1,0 +1,21 @@
+1	Nel	_	ADP	ADP	_	2	case
+2	novero	_	NOUN	NOUN	_	6	nmod
+3	delle	_	ADP	ADP	_	5	case
+4	sue	_	DET	DET	_	5	det:poss
+5	abilità	_	NOUN	NOUN	_	2	nmod
+6	rientrano	_	VERB	VERB	_	0	root
+7	infine	_	ADV	ADV	_	6	advmod
+8	i	_	DET	DET	_	9	det
+9	calci	_	NOUN	NOUN	_	6	dobj
+10	piazzati	_	VERB	VERB	_	9	acl
+11	:	_	PUNCT	PUNCT	_	2	punct
+12	è	_	VERB	VERB	_	15	cop
+13	un	_	DET	DET	_	15	det
+14	ottimo	_	ADJ	ADJ	_	15	amod
+15	rigorista	_	NOUN	NOUN	_	9	conj
+16	e	_	CONJ	CONJ	_	15	cc
+17	tiratore	_	NOUN	NOUN	_	15	conj
+18	di	_	ADP	ADP	_	19	case
+19	punizioni	_	NOUN	NOUN	_	17	nmod
+20	.	_	PUNCT	PUNCT	_	6	punct
+

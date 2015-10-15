@@ -1,0 +1,10 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	5	nsubj
+3	en	_	ADP	ADP	_	4	case
+4	se	_	PRON	PRON	_	5	iobj
+5	busca	_	VERB	VERB	_	0	root
+6	es	_	VERB	VERB	_	8	cop
+7	una	_	DET	DET	_	8	det
+8	cosa	_	NOUN	NOUN	_	5	nsubj
+9	increíble	_	ADJ	ADJ	_	8	amod
+

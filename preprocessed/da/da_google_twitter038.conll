@@ -1,0 +1,10 @@
+1	Sådan	_	ADV	ADV	_	2	advmod
+2	finder	_	VERB	VERB	_	0	root
+3	Google	_	NOUN	NOUN	_	2	nsubj
+4	dine	_	DET	DET	_	6	det
+5	gamle	_	ADJ	ADJ	_	6	amod
+6	artikler	_	NOUN	NOUN	_	8	nmod:poss
+7	|	_	ADJ	ADJ	_	8	amod
+8	Journalisten.dk	_	NOUN	NOUN	_	9	nmod:poss
+9	http://t.co/Y2y9rVl5Hw	_	NOUN	NOUN	_	2	nsubj
+

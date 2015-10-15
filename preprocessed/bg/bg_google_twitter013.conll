@@ -1,0 +1,8 @@
+1	ЛОЛИТА	_	NOUN	NOUN	_	0	root
+2	на	_	ADP	ADP	_	3	case
+3	GOOGLE	_	PROPN	PROPN	_	1	nmod
+4	PLAY	_	PROPN	PROPN	_	1	nmod
+5	BOOKS	_	PROPN	PROPN	_	4	name
+6	!	_	PUNCT	PUNCT	_	3	punct
+7	http://t.co/PHaXDYX2mq	_	PROPN	PROPN	_	3	conj
+

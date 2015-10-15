@@ -1,0 +1,9 @@
+1	Резултатите	_	NOUN	NOUN	_	4	nsubj
+2	от	_	ADP	ADP	_	3	case
+3	търсенето	_	NOUN	NOUN	_	1	nmod
+4	зависят	_	VERB	VERB	_	0	root
+5	от	_	ADP	ADP	_	7	case
+6	потребителските	_	ADJ	ADJ	_	7	amod
+7	настройки	_	NOUN	NOUN	_	4	iobj
+8	.	_	PUNCT	PUNCT	_	4	punct
+

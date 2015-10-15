@@ -1,0 +1,18 @@
+1	Her	_	PRON	PRON	_	4	nmod:poss
+2	biggest	_	ADJ	ADJ	_	0	nmod:npmod
+3	commercial	_	ADJ	ADJ	_	0	conj
+4	success	_	NOUN	NOUN	_	5	nsubj
+5	came	_	VERB	VERB	_	0	root
+6	with	_	ADP	ADP	_	5	compound:prt
+7	the	_	DET	DET	_	10	det
+8	Disney	_	PROPN	PROPN	_	10	compound
+9	fantasy	_	NOUN	NOUN	_	10	compound
+10	film	_	NOUN	NOUN	_	5	dobj
+11	"	_	PUNCT	PUNCT	_	10	punct
+12	Maleficent	_	ADJ	ADJ	_	0	discourse
+13	"	_	PUNCT	PUNCT	_	5	punct
+14	(	_	PUNCT	PUNCT	_	15	punct
+15	2014	_	NUM	NUM	_	10	list
+16	)	_	PUNCT	PUNCT	_	15	punct
+17	.	_	PUNCT	PUNCT	_	5	punct
+

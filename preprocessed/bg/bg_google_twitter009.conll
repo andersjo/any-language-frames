@@ -1,0 +1,8 @@
+1	iroda	_	PROPN	PROPN	_	6	nsubj
+2	офис	_	NOUN	NOUN	_	1	nmod
+3	;	_	PUNCT	PUNCT	_	4	punct
+4	контора	_	NOUN	NOUN	_	1	nmod
+5	;	_	PUNCT	PUNCT	_	4	punct
+6	канцелярия	_	VERB	VERB	_	0	root
+7	http://t.co/7ur7TWsgk0	_	PROPN	PROPN	_	6	dobj
+

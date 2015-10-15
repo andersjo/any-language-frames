@@ -1,0 +1,8 @@
+1	Christiano	_	PROPN	PROPN	_	2	name
+2	Ronaldo	_	PROPN	PROPN	_	3	nsubj
+3	lernt	_	VERB	VERB	_	4	xcomp
+4	rechnen	_	VERB	VERB	_	0	root
+5	-	_	PUNCT	PUNCT	_	6	punct
+6	YouTube	_	PROPN	PROPN	_	7	name
+7	http://t.co/VonVpyNPyK	_	PROPN	PROPN	_	4	nsubj
+

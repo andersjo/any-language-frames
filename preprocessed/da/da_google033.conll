@@ -1,0 +1,16 @@
+1	Krænkelser	_	NOUN	NOUN	_	10	nsubj
+2	af	_	ADP	ADP	_	3	case
+3	patenter	_	NOUN	NOUN	_	1	nmod
+4	på	_	ADP	ADP	_	5	case
+5	søgemaskiner	_	NOUN	NOUN	_	3	nmod
+6	kan	_	AUX	AUX	_	10	aux
+7	også	_	ADV	ADV	_	10	advmod
+8	blive	_	AUX	AUX	_	10	cop
+9	et	_	DET	DET	_	10	det
+10	problem	_	NOUN	NOUN	_	0	root
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	f	_	NOUN	NOUN	_	10	conj
+13	.	_	PUNCT	PUNCT	_	10	punct
+14	eks	_	NOUN	NOUN	_	10	conj
+15	.	_	PUNCT	PUNCT	_	10	punct
+

@@ -1,0 +1,16 @@
+1	Γιώργος	_	ADJ	ADJ	_	2	det
+2	Κωνσταντίνου	_	NOUN	NOUN	_	5	nmod
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	«Στον	_	NOUN	NOUN	_	2	nmod
+5	κινηματογράφο	_	VERB	VERB	_	0	root
+6	η	_	ADJ	ADJ	_	7	det
+7	καριέρα	_	NOUN	NOUN	_	5	nsubj
+8	μου	_	PRON	PRON	_	7	nmod
+9	σταμάτησε	_	VERB	VERB	_	5	conj
+10	γιατί	_	CONJ	CONJ	_	11	mark
+11	…	_	NOUN	NOUN	_	9	xcomp
+12	»	_	PUNCT	PUNCT	_	5	punct
+13	-	_	PUNCT	PUNCT	_	15	punct
+14	http://t.co/XGO8D4o9wO	_	NOUN	NOUN	_	15	nmod
+15	#starbuzz	_	NOUN	NOUN	_	11	appos
+

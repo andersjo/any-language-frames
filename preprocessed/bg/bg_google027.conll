@@ -1,0 +1,14 @@
+1	Потребителите	_	PROPN	PROPN	_	2	nsubj
+2	имат	_	VERB	VERB	_	0	root
+3	възможност	_	NOUN	NOUN	_	2	dobj
+4	да	_	PART	PART	_	5	aux
+5	получават	_	VERB	VERB	_	3	acl
+6	своите	_	DET	DET	_	7	det
+7	писма	_	NOUN	NOUN	_	5	dobj
+8	и	_	CONJ	CONJ	_	2	cc
+9	от	_	ADP	ADP	_	12	case
+10	други	_	ADJ	ADJ	_	12	amod
+11	локални	_	ADJ	ADJ	_	12	amod
+12	клиенти	_	NOUN	NOUN	_	7	conj
+13	.	_	PUNCT	PUNCT	_	2	punct
+

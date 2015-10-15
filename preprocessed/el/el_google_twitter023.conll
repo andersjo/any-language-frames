@@ -1,0 +1,15 @@
+1	Σπύρος	_	NOUN	NOUN	_	2	nmod
+2	Σούλης	_	NOUN	NOUN	_	9	nmod
+3	:	_	PUNCT	PUNCT	_	4	punct
+4	«Μόνο	_	NOUN	NOUN	_	1	conj
+5	τη	_	ADJ	ADJ	_	8	det
+6	δική	_	ADJ	ADJ	_	8	amod
+7	μας	_	PRON	PRON	_	8	nmod
+8	ζωή	_	NOUN	NOUN	_	4	nmod
+9	έχουμε	_	VERB	VERB	_	0	root
+10	να	_	PART	PART	_	11	aux
+11	ζήσουμε»	_	NOUN	NOUN	_	9	dobj
+12	-	_	PUNCT	PUNCT	_	14	punct
+13	http://t.co/FZK57IhR4K	_	NOUN	NOUN	_	14	nmod
+14	#starbuzz	_	NOUN	NOUN	_	11	appos
+

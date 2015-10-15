@@ -1,0 +1,25 @@
+1	Ύστερα	_	NOUN	NOUN	_	5	nsubj
+2	από	_	ADP	ADP	_	4	case
+3	δύο	_	NUM	NUM	_	4	nummod
+4	χρόνια	_	NOUN	NOUN	_	1	nmod
+5	πήγε	_	VERB	VERB	_	0	root
+6	στη	_	ADP	ADP	_	7	case
+7	Νασιονάλ	_	NOUN	NOUN	_	5	nmod
+8	,	_	PUNCT	PUNCT	_	11	punct
+9	η	_	ADJ	ADJ	_	10	det
+10	οποία	_	PRON	PRON	_	14	nsubj
+11	ήταν	_	VERB	VERB	_	14	cop
+12	η	_	ADJ	ADJ	_	14	det
+13	μεγάλη	_	ADJ	ADJ	_	14	amod
+14	ομάδα	_	NOUN	NOUN	_	23	nsubj
+15	του	_	ADJ	ADJ	_	16	det
+16	νησιού	_	NOUN	NOUN	_	14	nmod
+17	,	_	PUNCT	PUNCT	_	20	punct
+18	από	_	ADP	ADP	_	19	case
+19	τότε	_	ADV	ADV	_	20	advmod
+20	άρχισε	_	VERB	VERB	_	5	advcl
+21	να	_	PART	PART	_	23	aux
+22	γίνεται	_	VERB	VERB	_	23	cop
+23	γνωστός	_	ADJ	ADJ	_	20	csubj
+24	.	_	PUNCT	PUNCT	_	5	punct
+

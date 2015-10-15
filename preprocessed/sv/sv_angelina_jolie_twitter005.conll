@@ -1,0 +1,14 @@
+1	Angelina	_	ADJ	ADJ	_	2	amod
+2	Jolie	_	NOUN	NOUN	_	10	nsubj
+3	på	_	ADP	ADP	_	4	case
+4	tv	_	NOUN	NOUN	_	2	nmod
+5	.	_	PUNCT	PUNCT	_	4	punct
+6	Rip	_	NOUN	NOUN	_	4	conj
+7	mitt	_	DET	DET	_	8	nmod:poss
+8	liv	_	NOUN	NOUN	_	10	nsubj
+9	vill	_	AUX	AUX	_	10	aux
+10	se	_	VERB	VERB	_	0	root
+11	ut	_	ADV	ADV	_	10	compound:prt
+12	som	_	PRON	PRON	_	10	dobj
+13	henne	_	PRON	PRON	_	10	dobj
+

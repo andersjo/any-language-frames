@@ -1,0 +1,13 @@
+1	1Европейските	_	ADJ	ADJ	_	2	amod
+2	турнири	_	NOUN	NOUN	_	3	nsubj
+3	включват	_	VERB	VERB	_	0	root
+4	Шампионска	_	ADJ	ADJ	_	5	amod
+5	лига	_	NOUN	NOUN	_	3	dobj
+6	и	_	CONJ	CONJ	_	5	cc
+7	Купа	_	NOUN	NOUN	_	5	conj
+8	на	_	ADP	ADP	_	9	case
+9	УЕФА	_	NOUN	NOUN	_	7	nmod
+10	<	_	PUNCT	PUNCT	_	11	punct
+11	br	_	PROPN	PROPN	_	9	nmod
+12	>	_	PUNCT	PUNCT	_	3	punct
+

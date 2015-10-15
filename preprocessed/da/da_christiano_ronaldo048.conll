@@ -1,0 +1,26 @@
+1	Ronaldo	_	PROPN	PROPN	_	9	nsubj
+2	var	_	AUX	AUX	_	9	cop
+3	også	_	ADV	ADV	_	9	advmod
+4	en	_	DET	DET	_	9	det
+5	af	_	ADP	ADP	_	9	case
+6	de	_	DET	DET	_	9	det
+7	syv	_	NUM	NUM	_	8	nummod
+8	Manchester	_	PROPN	PROPN	_	23	dep
+9	United-spillere	_	NOUN	NOUN	_	8	dep
+10	,	_	PUNCT	PUNCT	_	13	punct
+11	der	_	PART	PART	_	13	nsubj
+12	var	_	AUX	AUX	_	13	cop
+13	med	_	ADV	ADV	_	0	root
+14	i	_	ADP	ADP	_	15	case
+15	PFA	_	PROPN	PROPN	_	13	nmod
+16	Premier	_	PROPN	PROPN	_	15	name
+17	League	_	PROPN	PROPN	_	15	name
+18	Team	_	PROPN	PROPN	_	15	name
+19	of	_	X	X	_	18	dep
+20	the	_	X	X	_	19	dep
+21	Year	_	PROPN	PROPN	_	20	dep
+22	2006	_	NUM	NUM	_	23	nummod
+23	–	_	NOUN	NOUN	_	21	list
+24	07	_	NUM	NUM	_	23	nmod
+25	.	_	PUNCT	PUNCT	_	9	punct
+

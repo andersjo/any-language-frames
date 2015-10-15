@@ -1,0 +1,22 @@
+1	Jugendfußball	_	NOUN	NOUN	_	11	nsubj
+2	im	_	ADP	ADP	_	3	case
+3	Jahre	_	NOUN	NOUN	_	1	nmod
+4	2015	_	NUM	NUM	_	3	nmod
+5	.	_	PUNCT	PUNCT	_	1	punct
+6	Jeder	_	PRON	PRON	_	12	nsubj
+7	will	_	AUX	AUX	_	12	aux
+8	der	_	DET	DET	_	11	det
+9	nächste	_	ADJ	ADJ	_	11	amod
+10	Christiano	_	PROPN	PROPN	_	11	amod
+11	Ronaldo	_	PROPN	PROPN	_	0	root
+12	sein	_	VERB	VERB	_	11	cop
+13	,	_	PUNCT	PUNCT	_	11	punct
+14	niemand	_	PRON	PRON	_	20	advmod
+15	der	_	DET	DET	_	18	det
+16	nächste	_	ADJ	ADJ	_	18	amod
+17	Mario	_	PROPN	PROPN	_	18	name
+18	Basler	_	PROPN	PROPN	_	14	det
+19	.	_	PUNCT	PUNCT	_	11	punct
+20	Schade	_	ADJ	ADJ	_	12	ccomp
+21	.	_	PUNCT	PUNCT	_	20	punct
+

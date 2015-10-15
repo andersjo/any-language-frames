@@ -1,0 +1,23 @@
+1	Vielleicht	_	ADV	ADV	_	10	advmod
+2	war	_	VERB	VERB	_	0	root
+3	die	_	DET	DET	_	4	det
+4	Limette	_	NOUN	NOUN	_	10	nsubj
+5	in	_	ADP	ADP	_	7	case
+6	meinem	_	PRON	PRON	_	7	det
+7	Cocktail	_	NOUN	NOUN	_	10	nmod
+8	gar	_	ADV	ADV	_	9	advmod
+9	nicht	_	PART	PART	_	10	neg
+10	gespritzt	_	VERB	VERB	_	2	acl
+11	.	_	PUNCT	PUNCT	_	10	punct
+12	Vielleicht	_	ADV	ADV	_	4	advmod
+13	habe	_	AUX	AUX	_	10	aux
+14	ich	_	PRON	PRON	_	13	nsubj
+15	von	_	ADP	ADP	_	16	case
+16	Natur	_	NOUN	NOUN	_	14	nmod
+17	aus	_	ADP	ADP	_	18	case
+18	Lippen	_	PROPN	PROPN	_	16	nmod
+19	wie	_	CONJ	CONJ	_	18	cc
+20	Angelina	_	PROPN	PROPN	_	21	name
+21	Jolie	_	PROPN	PROPN	_	18	conj
+22	?	_	PUNCT	PUNCT	_	10	punct
+

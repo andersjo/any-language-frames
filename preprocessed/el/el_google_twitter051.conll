@@ -1,0 +1,14 @@
+1	Αυτή	_	PRON	PRON	_	0	root
+2	είναι	_	VERB	VERB	_	1	cop
+3	η	_	ADJ	ADJ	_	4	det
+4	τοιχογραφία	_	NOUN	NOUN	_	1	nsubj
+5	της	_	ADJ	ADJ	_	6	det
+6	Παναγίας	_	NOUN	NOUN	_	4	nmod
+7	που	_	PRON	PRON	_	8	nsubj
+8	προκαλεί	_	VERB	VERB	_	6	acl:relcl
+9	δέος	_	NOUN	NOUN	_	8	dobj
+10	στους	_	ADP	ADP	_	11	case
+11	Τούρκους	_	NOUN	NOUN	_	8	nmod
+12	!	_	PUNCT	PUNCT	_	11	punct
+13	http://t.co/S6N0Xmx2V9	_	NOUN	NOUN	_	11	nmod
+

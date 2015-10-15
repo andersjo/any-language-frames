@@ -1,0 +1,13 @@
+1	L'auteur	_	NOUN	NOUN	_	0	root
+2	ancre	_	NOUN	NOUN	_	1	compound
+3	son	_	DET	DET	_	4	nmod:poss
+4	univers	_	NOUN	NOUN	_	2	dobj
+5	dans	_	ADP	ADP	_	7	case
+6	la	_	DET	DET	_	7	det
+7	société	_	NOUN	NOUN	_	4	nmod
+8	britannique	_	ADJ	ADJ	_	7	amod
+9	des	_	ADP	ADP	_	10	case
+10	années	_	NOUN	NOUN	_	7	nmod
+11	1990	_	NUM	NUM	_	10	nmod
+12	.	_	PUNCT	PUNCT	_	1	punct
+

@@ -1,0 +1,22 @@
+1	Je	_	PRON	PRON	_	2	nsubj
+2	pose	_	VERB	VERB	_	0	root
+3	ça	_	PRON	PRON	_	2	dobj
+4	là	_	ADV	ADV	_	2	advmod
+5	.	_	PUNCT	PUNCT	_	2	punct
+6	"	_	PUNCT	PUNCT	_	7	punct
+7	@MarkRMatthews	_	PROPN	PROPN	_	3	appos
+8	:	_	PUNCT	PUNCT	_	7	punct
+9	#TCOT	_	PROPN	PROPN	_	19	name
+10	What	_	X	X	_	13	compound
+11	the	_	X	X	_	14	compound
+12	mainstream	_	X	X	_	14	compound
+13	media	_	X	X	_	15	compound
+14	wont	_	PROPN	PROPN	_	17	name
+15	tell	_	PROPN	PROPN	_	17	name
+16	you	_	X	X	_	17	compound
+17	about	_	X	X	_	19	det
+18	global	_	ADJ	ADJ	_	19	amod
+19	warming	_	NOUN	NOUN	_	7	appos
+20	http://t.co/mfuFZQpB1r	_	ADJ	ADJ	_	19	amod
+21	”	_	PROPN	PROPN	_	19	appos
+

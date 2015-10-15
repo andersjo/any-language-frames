@@ -1,0 +1,10 @@
+1	White	_	PROPN	PROPN	_	2	compound
+2	Roofs	_	PROPN	PROPN	_	3	nsubj
+3	Help	_	VERB	VERB	_	0	root
+4	Combat	_	ADJ	ADJ	_	0	ccomp
+5	Global	_	ADJ	ADJ	_	0	foreign
+6	Warming	_	NOUN	NOUN	_	9	compound
+7	http://t.co/X7qU8lOcHT	_	X	X	_	8	compound
+8	#whiterooofs	_	NOUN	NOUN	_	9	compound
+9	#roofcoatings	_	NOUN	NOUN	_	3	nmod
+

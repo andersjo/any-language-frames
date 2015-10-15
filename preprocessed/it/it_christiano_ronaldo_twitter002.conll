@@ -1,0 +1,9 @@
+1	Lionel	_	PROPN	PROPN	_	0	root
+2	Messi	_	PROPN	PROPN	_	1	name
+3	X	_	PROPN	PROPN	_	1	name
+4	christiano	_	PROPN	PROPN	_	1	name
+5	Ronaldo	_	PROPN	PROPN	_	1	name
+6	,	_	PUNCT	PUNCT	_	1	punct
+7	living	_	NOUN	NOUN	_	1	appos
+8	legends	_	PROPN	PROPN	_	7	nmod
+

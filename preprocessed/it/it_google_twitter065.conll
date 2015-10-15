@@ -1,0 +1,18 @@
+1	@lauralayla14	_	PROPN	PROPN	_	5	nsubj
+2	@generationfaf	_	PROPN	PROPN	_	1	name
+3	l	_	X	X	_	1	nmod
+4	avevo	_	AUX	AUX	_	5	aux
+5	ccapito	_	VERB	VERB	_	0	root
+6	ma	_	CONJ	CONJ	_	5	cc
+7	non	_	ADV	ADV	_	8	neg
+8	so	_	VERB	VERB	_	5	conj
+9	rispondere	_	VERB	VERB	_	8	xcomp
+10	e	_	CONJ	CONJ	_	9	cc
+11	con	_	ADP	ADP	_	12	case
+12	google	_	NOUN	NOUN	_	15	nmod
+13	traslate	_	ADJ	ADJ	_	12	amod
+14	sono	_	AUX	AUX	_	15	auxpass
+15	pigro	_	VERB	VERB	_	5	conj
+16	per	_	ADP	ADP	_	17	mark
+17	cercare	_	VERB	VERB	_	15	advcl
+

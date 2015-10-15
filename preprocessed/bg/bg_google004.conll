@@ -1,0 +1,25 @@
+1	Компанията	_	NOUN	NOUN	_	2	nsubj
+2	разполага	_	VERB	VERB	_	0	root
+3	с	_	ADP	ADP	_	4	case
+4	хиляди	_	NOUN	NOUN	_	2	iobj
+5	сървъри	_	VERB	VERB	_	2	ccomp
+6	по	_	ADP	ADP	_	7	case
+7	света	_	NOUN	NOUN	_	5	iobj
+8	,	_	PUNCT	PUNCT	_	10	punct
+9	които	_	PRON	PRON	_	10	nsubj
+10	обработват	_	VERB	VERB	_	7	acl
+11	милиони	_	NOUN	NOUN	_	10	dobj
+12	заявки	_	NOUN	NOUN	_	11	nmod
+13	за	_	ADP	ADP	_	14	case
+14	търсене	_	NOUN	NOUN	_	12	nmod
+15	ежедневно	_	ADV	ADV	_	10	advmod
+16	и	_	CONJ	CONJ	_	19	cc
+17	около	_	ADP	ADP	_	19	case
+18	1	_	NUM	NUM	_	19	nummod
+19	петабайт	_	NOUN	NOUN	_	20	nsubj
+20	потребителски	_	VERB	VERB	_	10	conj
+21	данни	_	NOUN	NOUN	_	20	dobj
+22	всеки	_	DET	DET	_	23	det
+23	час	_	NOUN	NOUN	_	21	nmod
+24	.	_	PUNCT	PUNCT	_	5	punct
+

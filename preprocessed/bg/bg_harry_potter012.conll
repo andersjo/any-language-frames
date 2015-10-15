@@ -1,0 +1,18 @@
+1	През	_	ADP	ADP	_	3	case
+2	1999	_	NUM	NUM	_	3	nummod
+3	Роулинг	_	NOUN	NOUN	_	4	nmod
+4	продава	_	VERB	VERB	_	0	root
+5	филмовите	_	ADJ	ADJ	_	6	amod
+6	права	_	NOUN	NOUN	_	4	dobj
+7	на	_	ADP	ADP	_	8	case
+8	първата	_	ADJ	ADJ	_	6	nmod
+9	от	_	ADP	ADP	_	10	case
+10	книгите	_	NOUN	NOUN	_	8	nmod
+11	за	_	ADP	ADP	_	12	case
+12	Хари	_	PROPN	PROPN	_	10	nmod
+13	Потър	_	PROPN	PROPN	_	12	name
+14	на	_	ADP	ADP	_	15	case
+15	Уорнър	_	PROPN	PROPN	_	6	nmod
+16	Брадърс	_	PROPN	PROPN	_	15	name
+17	.	_	PUNCT	PUNCT	_	4	punct
+

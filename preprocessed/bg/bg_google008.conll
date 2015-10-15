@@ -1,0 +1,9 @@
+1	Сегашен	_	ADJ	ADJ	_	4	amod
+2	главен	_	ADJ	ADJ	_	4	amod
+3	изпълнителен	_	ADJ	ADJ	_	4	amod
+4	директор	_	NOUN	NOUN	_	5	cop
+5	е	_	VERB	VERB	_	0	root
+6	Лари	_	PROPN	PROPN	_	5	nsubj
+7	Пейдж	_	PROPN	PROPN	_	6	name
+8	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,8 @@
+1	Han	_	PRON	PRON	_	2	nsubj
+2	bestraffades	_	VERB	VERB	_	0	root
+3	med	_	ADP	ADP	_	6	case
+4	tre	_	NUM	NUM	_	5	nummod
+5	matchers	_	NOUN	NOUN	_	2	nmod
+6	avstängning	_	NOUN	NOUN	_	2	nmod
+7	.	_	PUNCT	PUNCT	_	2	punct
+

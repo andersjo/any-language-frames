@@ -1,0 +1,1109 @@
+ID:Cycorp-001	_	
+.	_	
+
+Sandy	_	
+owns	_	Possession
+a	_	Measure_duration Process_end Quantity
+Golden	_	Hair_configuration
+Retriever	_	
+,	_	
+Harley	_	
+,	_	
+with	_	Accompaniment
+whom	_	
+she	_	
+has	_	Have_associated Inclusion Possession
+won	_	
+a	_	Measure_duration Process_end Quantity
+Dog	_	Cotheme
+World	_	Political_locales
+Award	_	
+.	_	
+
+QN	_	
+:	_	
+Is	_	Existence
+Harley	_	
+a	_	Measure_duration Process_end Quantity
+herding	_	
+dog	_	Cotheme
+?	_	
+
+ID:Cycorp-002	_	
+.	_	
+
+Many	_	Quantity
+cellphones	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+built-in	_	
+digital	_	
+cameras	_	
+.	_	
+
+QN	_	
+:	_	
+Can	_	Capability Containers Firing Likelihood Measure_volume Possibility Preserving
+some	_	Relational_quantity
+cellphones	_	
+be	_	Existence Performers_and_roles
+used	_	Using
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+take	_	Bringing Capacity Conquering Create_physical_artwork Event Getting_vehicle_underway Have_as_requirement Ingest_substance Opinion Removing Ride_vehicle Self_motion Taking Taking_time
+pictures	_	Physical_artworks
+?	_	
+
+ID:Cycorp-003	_	
+.	_	
+
+One	_	Cardinal_numbers
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+four	_	Cardinal_numbers
+cellphones	_	
+sold	_	Commerce_sell
+has	_	Have_associated Inclusion Possession
+a	_	Measure_duration Process_end Quantity
+camera	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+it	_	
+.	_	
+
+QN	_	
+:	_	
+Do	_	Ingest_substance Intentionally_act Intentionally_affect Thriving Touring
+most	_	Relational_quantity
+cell	_	Building_subparts
+phones	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+a	_	Measure_duration Process_end Quantity
+lens	_	
+?	_	
+
+ID:Cycorp-004	_	
+.	_	
+
+Three	_	Cardinal_numbers
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+four	_	Cardinal_numbers
+cellphones	_	
+sold	_	Commerce_sell
+has	_	Have_associated Inclusion Possession
+a	_	Measure_duration Process_end Quantity
+camera	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+it	_	
+.	_	
+
+QN	_	
+:	_	
+Do	_	Ingest_substance Intentionally_act Intentionally_affect Thriving Touring
+most	_	Relational_quantity
+cell	_	Building_subparts
+phones	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+a	_	Measure_duration Process_end Quantity
+lens	_	
+.	_	
+
+ID:Cycorp-005	_	
+.	_	
+
+Mr	_	
+.	_	
+Radley	_	
+ordered	_	Request Sentencing
+a	_	Measure_duration Process_end Quantity
+16	_	
+ounce	_	Measure_mass Quantity
+slab	_	
+of	_	Age Domain Origin Partitive
+slowly	_	Taking_time
+roasted	_	
+Black	_	Color Race_descriptor
+Angus	_	
+Prime	_	
+Rib	_	
+.	_	
+
+QN	_	
+:	_	
+Is	_	Existence
+Radley	_	
+a	_	Measure_duration Process_end Quantity
+vegetarian	_	
+?	_	
+
+ID:Cycorp-006	_	
+.	_	
+
+Sue	_	
+ran	_	Self_motion
+down	_	Being_operational Cause_change_of_position_on_a_scale Direction Ingestion Locative_relation Willingness
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+McDonald's	_	
+and	_	
+got	_	Arriving Becoming Disembarking Getting Possession
+a	_	Measure_duration Process_end Quantity
+hamburger	_	
+happy	_	Emotion_directed Luck
+meal	_	
+with	_	Accompaniment
+a	_	Measure_duration Process_end Quantity
+large	_	Dimension Size
+Diet	_	
+Coke	_	Intoxicants
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Sue	_	
+get	_	Arriving Becoming Birth Board_vehicle Bringing Disembarking Getting Grasp
+a	_	Measure_duration Process_end Quantity
+cup	_	Containers Measure_volume
+?	_	
+
+ID:Cycorp-007	_	
+.	_	
+
+Angela	_	
+Drake	_	
+will	_	Desiring Documents Giving
+be	_	Existence Performers_and_roles
+moving	_	Motion
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+California	_	
+with	_	Accompaniment
+her	_	
+husband	_	Frugality Personal_relationship
+,	_	
+where	_	Locative_relation
+she	_	
+has	_	Have_associated Inclusion Possession
+accepted	_	Receiving Respond_to_proposal
+a	_	Measure_duration Process_end Quantity
+full-time	_	
+position	_	Placing Posture
+with	_	Accompaniment
+the	_	Self_motion Temporal_collocation
+San	_	
+Diego	_	
+Public	_	Secrecy_status
+Library	_	Buildings
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+Angela	_	
+Drake	_	
+live	_	Residence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Los	_	
+Angeles	_	
+?	_	
+
+ID:Cycorp-008	_	
+.	_	
+
+Ambassador	_	
+Richard	_	
+C.	_	
+Holbrooke	_	
+will	_	Desiring Documents Giving
+visit	_	Arriving Visiting
+Paris	_	
+,	_	
+France	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Saturday	_	Calendric_unit
+,	_	
+April	_	Calendric_unit
+22	_	
+until	_	Time_vector
+Tuesday	_	Calendric_unit
+,	_	
+April	_	Calendric_unit
+25	_	Cardinal_numbers
+.	_	
+
+QN	_	
+:	_	
+Will	_	Desiring Documents Giving
+Ambassador	_	
+Holbrooke	_	
+visit	_	Arriving Visiting
+France	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+April	_	Calendric_unit
+?	_	
+
+ID:Cycorp-009	_	
+.	_	
+
+A	_	Measure_duration Process_end Quantity
+full-time	_	
+administrative	_	
+assistant	_	Subordinates_and_superiors
+,	_	
+Janet	_	
+Smith	_	
+lives	_	
+close	_	Attention Body_movement Clarity_of_resolution Closure Relational_quantity Social_connection
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Long	_	Desiring Dimension Duration_attribute Likelihood Measurable_attributes
+Beach	_	Natural_features
+,	_	
+where	_	Locative_relation
+she	_	
+'s	_	Existence Required_event
+worked	_	Being_employed Working_on
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+past	_	Individual_history Locative_relation Relative_time
+12	_	Cardinal_numbers
+years	_	Calendric_unit Measure_duration
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+Janet	_	
+Smith	_	
+live	_	Residence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Long	_	Desiring Dimension Duration_attribute Likelihood Measurable_attributes
+Beach	_	Natural_features
+?	_	
+
+ID:Cycorp-010	_	
+.	_	
+
+Bob	_	Body_movement
+Appleton	_	
+,	_	
+33	_	
+,	_	
+lives	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Sacramento	_	
+but	_	Concessive
+commutes	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Davis	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+his	_	
+silver	_	
+Honda	_	
+CRV	_	
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+Appleton	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+a	_	Measure_duration Process_end Quantity
+California	_	
+Driver	_	
+'s	_	Existence Required_event
+license	_	
+?	_	
+
+ID:Cycorp-011	_	
+.	_	
+
+When	_	Temporal_collocation
+they	_	
+remodeled	_	
+their	_	
+house	_	Buildings Containing Provide_lodging
+,	_	
+the	_	Self_motion Temporal_collocation
+Kirchners	_	
+transformed	_	
+the	_	Self_motion Temporal_collocation
+original	_	
+kitchen	_	Building_subparts
+into	_	Goal Into
+a	_	Measure_duration Process_end Quantity
+game	_	
+room	_	Building_subparts Residence Temporary_stay
+with	_	Accompaniment
+dark	_	Dimension
+cherry	_	
+laminate	_	
+flooring	_	
+and	_	
+cabinets	_	
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+Krichners	_	
+'	_	
+kitchen	_	Building_subparts
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+cherry	_	
+cabinets	_	
+?	_	
+
+ID:Cycorp-012	_	
+.	_	
+
+Mark	_	Sign
+Jacobs	_	
+,	_	
+who	_	
+lives	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Edmonds	_	
+and	_	
+works	_	Being_employed Being_operational Usefulness
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Seattle	_	
+,	_	
+spends	_	
+2	_	Cardinal_numbers
+hours	_	Calendric_unit Measure_duration
+a	_	Measure_duration Process_end Quantity
+day	_	Calendric_unit Measure_duration Timespan
+commuting	_	
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+Jacobs	_	
+commute	_	Commutation Travel
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+work	_	Being_employed Being_operational Collaboration Dimension Labor_product Locale_by_use Usefulness Working_on
+during	_	Temporal_collocation
+rush	_	Fluidic_motion Self_motion
+hour	_	Calendric_unit Measure_duration
+?	_	
+
+ID:Cycorp-013	_	
+.	_	
+
+Terry	_	
+Parks	_	Locale_by_use
+married	_	Forming_relationships Personal_relationship
+Robert	_	
+Paulson	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1979	_	
+.	_	
+
+QN	_	
+:	_	
+Is	_	Existence
+Terry	_	
+Parks	_	Locale_by_use
+a	_	Measure_duration Process_end Quantity
+man	_	People
+?	_	
+
+ID:Cycorp-014	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Paulsons	_	
+celebrated	_	
+their	_	
+25th	_	
+anniversary	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+June	_	Calendric_unit
+14,	_	
+2004	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+Paulsons	_	
+get	_	Arriving Becoming Birth Board_vehicle Bringing Disembarking Getting Grasp
+married	_	Forming_relationships Personal_relationship
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Flag	_	
+Day	_	Calendric_unit Measure_duration Timespan
+?	_	
+
+ID:Cycorp-015	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Island	_	Natural_features
+Nut	_	Connectors Food
+Sampler	_	
+includes	_	Inclusion
+an	_	Cause_to_end Process_end Quantity
+8	_	
+ounce	_	Measure_mass Quantity
+box	_	Containers Measure_volume Placing
+of	_	Age Domain Origin Partitive
+milk	_	Food
+chocolate	_	Food
+covered	_	Abounding_with Adorning Eclipse
+macadamia	_	
+nuts	_	
+and	_	
+an	_	Cause_to_end Process_end Quantity
+8	_	
+ounce	_	Measure_mass Quantity
+box	_	Containers Measure_volume Placing
+of	_	Age Domain Origin Partitive
+white	_	Color Race_descriptor
+chocolate	_	Food
+covered	_	Abounding_with Adorning Eclipse
+macadamia	_	
+nuts	_	
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+it	_	
+include	_	Cause_to_be_included Inclusion
+a	_	Measure_duration Process_end Quantity
+pound	_	Measure_mass
+of	_	Age Domain Origin Partitive
+macadamia	_	
+nuts	_	
+?	_	
+
+ID:Cycorp-016	_	
+.	_	
+
+Nanolab	_	
+says	_	Statement
+it	_	
+ca	_	Capability
+n't	_	
+stay	_	Residence State_continue Temporary_stay
+profitable	_	
+if	_	
+the	_	Self_motion Temporal_collocation
+demand	_	Have_as_requirement Request
+for	_	Causation Taking_sides
+nanotubes	_	
+decreases	_	Change_position_on_a_scale
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+Nanolab	_	
+manufacture	_	Manufacturing
+nanotubes	_	
+?	_	
+
+ID:Cycorp-017	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Swedish	_	
+Embassy	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Bangkok	_	
+will	_	Desiring Documents Giving
+be	_	Existence Performers_and_roles
+closed	_	Closure Openness
+April	_	Calendric_unit
+13-17	_	
+during	_	Temporal_collocation
+the	_	Self_motion Temporal_collocation
+Songkran	_	
+Festival	_	Social_event
+.	_	
+
+QN	_	
+:	_	
+Is	_	Existence
+the	_	Self_motion Temporal_collocation
+Songkran	_	
+Festival	_	Social_event
+a	_	Measure_duration Process_end Quantity
+Swedish	_	
+holiday	_	
+?	_	
+
+ID:Cycorp-018	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Nut	_	Connectors Food
+Sampler	_	
+set	_	Activity_ready_state Aggregate Attack Bail_decision Cause_change_of_consistency Cause_to_start Change_of_consistency Departing Intentionally_create Placing
+includes	_	Inclusion
+two	_	Cardinal_numbers
+8	_	
+ounce	_	Measure_mass Quantity
+boxes	_	
+of	_	Age Domain Origin Partitive
+chocolate	_	Food
+covered	_	Abounding_with Adorning Eclipse
+nuts	_	
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+this	_	
+set	_	Activity_ready_state Aggregate Attack Bail_decision Cause_change_of_consistency Cause_to_start Change_of_consistency Departing Intentionally_create Placing
+contain	_	Containing Inclusion
+milk	_	Food
+chocolate	_	Food
+covered	_	Abounding_with Adorning Eclipse
+nuts	_	
+?	_	
+
+ID:Cycorp-019	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Mini	_	
+Mac	_	
+was	_	Existence
+introduced	_	
+by	_	Locative_relation Means
+Apple	_	Food
+CEO	_	Leadership
+Steve	_	
+Jobs	_	Being_employed Being_obligated
+at	_	Locative_relation Relational_quantity Temporal_collocation
+his	_	
+keynote	_	
+address	_	Referring_by_name Resolve_problem Speak_on_topic Statement Topic
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+January	_	Calendric_unit
+11	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Apple	_	Food
+Computer	_	
+release	_	Releasing
+a	_	Measure_duration Process_end Quantity
+new	_	Age Expertise Familiarity
+Macintosh	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+January	_	Calendric_unit
+?	_	
+
+ID:Cycorp-020	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Donald	_	
+criticized	_	Judgment_communication
+President	_	Leadership
+Bush	_	Biological_area
+over	_	Locative_relation Process_completed_state Relational_quantity
+his	_	
+decision	_	Deciding
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+go	_	Attempt Attending Becoming Being_named Compatibility Motion Scrutiny
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+war	_	Hostile_encounter
+with	_	Accompaniment
+Iraq	_	
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+Trump	_	
+support	_	Evidence Supporting Taking_sides
+W	_	
+'s	_	Existence Required_event
+decision	_	Deciding
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+go	_	Attempt Attending Becoming Being_named Compatibility Motion Scrutiny
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+war	_	Hostile_encounter
+?	_	
+
+ID:Cycorp-021	_	
+.	_	
+
+LEDs	_	
+can	_	Capability Containers Firing Likelihood Measure_volume Possibility Preserving
+last	_	Duration_relation Ordinal_numbers Relative_time
+ten	_	Cardinal_numbers
+years	_	Calendric_unit Measure_duration
+,	_	
+whereas	_	
+an	_	Cause_to_end Process_end Quantity
+incandescent	_	
+bulb	_	
+typically	_	
+lasts	_	
+5000	_	
+hours	_	Calendric_unit Measure_duration
+.	_	
+
+QN	_	
+:	_	
+Do	_	Ingest_substance Intentionally_act Intentionally_affect Thriving Touring
+incandescent	_	
+bulbs	_	
+last	_	Duration_relation Ordinal_numbers Relative_time
+longer	_	Duration_attribute
+than	_	Time_vector
+LEDs	_	
+?	_	
+
+ID:Cycorp-022	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+``	_	
+Just	_	
+Picture	_	Physical_artworks
+It	_	
+''	_	
+workshop	_	Building_subparts
+,	_	
+sponsored	_	
+by	_	Locative_relation Means
+Oceanside	_	
+Photo	_	Physical_artworks
+and	_	
+Video,	_	
+Inc.	_	
+and	_	
+taught	_	Education_teaching
+by	_	Locative_relation Means
+portrait	_	
+photographer	_	
+Gale	_	
+Carlson	_	
+,	_	
+has	_	Have_associated Inclusion Possession
+received	_	Receiving
+rave	_	Communication_manner Judgment_communication Social_event
+reviews	_	
+.	_	
+
+QN	_	
+:	_	
+Is	_	Existence
+``	_	
+Just	_	
+Picture	_	Physical_artworks
+It	_	
+''	_	
+a	_	Measure_duration Process_end Quantity
+photography	_	
+workshop	_	Building_subparts
+?	_	
+
+ID:Cycorp-023	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+equatorial	_	
+diameter	_	
+of	_	Age Domain Origin Partitive
+Saturn	_	
+is	_	Existence
+10%	_	
+larger	_	Dimension
+than	_	Time_vector
+its	_	
+polar	_	
+diameter	_	
+.	_	
+
+QN	_	
+:	_	
+Is	_	Existence
+Saturn	_	
+an	_	Cause_to_end Process_end Quantity
+ellipsoid	_	
+?	_	
+
+ID:Cycorp-024	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+equatorial	_	
+diameter	_	
+of	_	Age Domain Origin Partitive
+Saturn	_	
+is	_	Existence
+10%	_	
+larger	_	Dimension
+than	_	Time_vector
+its	_	
+polar	_	
+diameter	_	
+.	_	
+
+QN	_	
+:	_	
+Is	_	Existence
+Saturn	_	
+a	_	Measure_duration Process_end Quantity
+sphere	_	
+?	_	
+
+ID:Cycorp-025	_	
+.	_	
+
+Charlotte	_	
+Jones	_	
+gave	_	Giving
+birth	_	Birth
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+a	_	Measure_duration Process_end Quantity
+healthy	_	Medical_conditions
+baby	_	People_by_age
+boy	_	Attention_getting People_by_age
+,	_	
+Johnathan	_	
+Daniel	_	
+,	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+March	_	Calendric_unit Self_motion
+14th,	_	
+2004	_	
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+Charlotte	_	
+Jones	_	
+pregnant	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+December	_	Calendric_unit
+14,	_	
+2003	_	
+?	_	
+
+ID:Cycorp-026	_	
+.	_	
+
+Keikaimalu	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+wholphin	_	
+(	_	
+whale-dolphin	_	
+hybrid	_	
+)	_	
+,	_	
+has	_	Have_associated Inclusion Possession
+given	_	Giving
+birth	_	Birth
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+female	_	
+calf	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Keikaimalu	_	
+gave	_	Giving
+birth	_	Birth
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+a	_	Measure_duration Process_end Quantity
+ruminant	_	
+?	_	
+
+ID:Cycorp-027	_	
+.	_	
+
+A	_	Measure_duration Process_end Quantity
+wholphin	_	
+is	_	Existence
+a	_	Measure_duration Process_end Quantity
+whale-dolphin	_	
+hybrid	_	
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+term	_	Labeling Simple_name Simple_naming Terms_of_agreement
+``	_	
+wholphin	_	
+''	_	
+refer	_	Referring_by_name
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+a	_	Measure_duration Process_end Quantity
+type	_	Text_creation Type
+of	_	Age Domain Origin Partitive
+hybrid	_	
+?	_	
+
+ID:Cycorp-028	_	
+.	_	
+
+Marilyn	_	
+Connors	_	
+had	_	Being_obligated Have_associated Possession Required_event
+a	_	Measure_duration Process_end Quantity
+very	_	Degree
+difficult	_	Difficulty
+pregnancy	_	
+and	_	
+died	_	Death
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+childbirth	_	
+yesterday	_	Calendric_unit
+.	_	
+
+QN	_	
+:	_	
+Is	_	Existence
+Marilyn	_	
+Connors	_	
+pregnant	_	
+?	_	
+
+ID:Cycorp-029	_	
+.	_	
+
+Serena	_	
+Williams	_	
+is	_	Existence
+a	_	Measure_duration Process_end Quantity
+great	_	Desirability Expertise Usefulness
+tennis	_	
+player	_	Competition Gizmo Participation Performers
+,	_	
+perhaps	_	
+one	_	Cardinal_numbers
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+best	_	Desirability Expertise Required_event Usefulness
+ever	_	
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+Serena	_	
+Williams	_	
+play	_	Cause_to_make_noise Competition Performers_and_roles Performing_arts
+tennis	_	
+well	_	
+?	_	
+
+ID:Cycorp-30	_	
+.	_	
+
+War	_	Hostile_encounter
+and	_	
+Peace	_	
+is	_	Existence
+a	_	Measure_duration Process_end Quantity
+very	_	Degree
+long	_	Desiring Dimension Duration_attribute Likelihood Measurable_attributes
+novel	_	Text
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+War	_	Hostile_encounter
+and	_	
+Peace	_	
+contain	_	Containing Inclusion
+more	_	Increment
+pages	_	
+than	_	Time_vector
+the	_	Self_motion Temporal_collocation
+average	_	Desirability Typicality
+novel	_	Text
+?	_	
+
+ID:Cycorp-031	_	
+.	_	
+
+Ambassador	_	
+Richard	_	
+C.	_	
+Holbrooke	_	
+will	_	Desiring Documents Giving
+visit	_	Arriving Visiting
+Paris	_	
+,	_	
+France	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Saturday	_	Calendric_unit
+,	_	
+April	_	Calendric_unit
+22	_	
+until	_	Time_vector
+Tuesday	_	Calendric_unit
+,	_	
+April	_	Calendric_unit
+25	_	Cardinal_numbers
+.	_	
+
+QN	_	
+:	_	
+Will	_	Desiring Documents Giving
+Ambassador	_	
+Holbrooke	_	
+be	_	Existence Performers_and_roles
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Paris	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+April	_	Calendric_unit
+24th	_	
+?	_	
+
+ID:Cycorp-032	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Island	_	Natural_features
+Nut	_	Connectors Food
+Sampler	_	
+includes	_	Inclusion
+an	_	Cause_to_end Process_end Quantity
+8	_	
+ounce	_	Measure_mass Quantity
+box	_	Containers Measure_volume Placing
+of	_	Age Domain Origin Partitive
+milk	_	Food
+chocolate	_	Food
+covered	_	Abounding_with Adorning Eclipse
+macadamia	_	
+nuts	_	
+and	_	
+an	_	Cause_to_end Process_end Quantity
+8	_	
+ounce	_	Measure_mass Quantity
+box	_	Containers Measure_volume Placing
+of	_	Age Domain Origin Partitive
+white	_	Color Race_descriptor
+chocolate	_	Food
+covered	_	Abounding_with Adorning Eclipse
+macadamia	_	
+nuts	_	
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+it	_	
+include	_	Cause_to_be_included Inclusion
+any	_	Quantity
+dark-chocolate	_	
+covered	_	Abounding_with Adorning Eclipse
+macadamia	_	
+nuts	_	
+?	_	
+
+ID:Cycorp-033	_	
+.	_	
+
+A	_	Measure_duration Process_end Quantity
+quarter	_	Calendric_unit Part_whole Temporary_stay
+of	_	Age Domain Origin Partitive
+all	_	Quantity
+cellphones	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+built-in	_	
+cameras	_	
+.	_	
+
+QN	_	
+:	_	
+Do	_	Ingest_substance Intentionally_act Intentionally_affect Thriving Touring
+most	_	Relational_quantity
+cell	_	Building_subparts
+phones	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+a	_	Measure_duration Process_end Quantity
+lens	_	
+?	_	
+
+ID:Cycorp-034	_	
+.	_	
+
+Three	_	Cardinal_numbers
+quarters	_	
+of	_	Age Domain Origin Partitive
+all	_	Quantity
+cellphones	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+a	_	Measure_duration Process_end Quantity
+built-in	_	
+camera	_	
+.	_	
+
+QN	_	
+:	_	
+Do	_	Ingest_substance Intentionally_act Intentionally_affect Thriving Touring
+most	_	Relational_quantity
+cell	_	Building_subparts
+phones	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+a	_	Measure_duration Process_end Quantity
+lens	_	
+.	_	
+
+ID:Cycorp-035	_	
+.	_	
+
+Marilyn	_	
+Connors	_	
+had	_	Being_obligated Have_associated Possession Required_event
+a	_	Measure_duration Process_end Quantity
+very	_	Degree
+difficult	_	Difficulty
+pregnancy	_	
+and	_	
+died	_	Death
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+childbirth	_	
+yesterday	_	Calendric_unit
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+Marilyn	_	
+Connors	_	
+pregnant	_	
+?	_	
+
+ID:Cycorp-036	_	
+.	_	
+
+Marilyn	_	
+Connors	_	
+had	_	Being_obligated Have_associated Possession Required_event
+a	_	Measure_duration Process_end Quantity
+very	_	Degree
+difficult	_	Difficulty
+pregnancy	_	
+and	_	
+died	_	Death
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+childbirth	_	
+yesterday	_	Calendric_unit
+.	_	
+
+QN	_	
+:	_	
+Is	_	Existence
+Marilyn	_	
+Connors	_	
+dead	_	Dead_or_alive
+?	_	
+

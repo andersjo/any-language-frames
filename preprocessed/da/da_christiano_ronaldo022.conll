@@ -1,0 +1,27 @@
+1	Operationen	_	NOUN	NOUN	_	2	nsubj
+2	fandt	_	VERB	VERB	_	0	root
+3	sted	_	NOUN	NOUN	_	2	dobj
+4	om	_	ADP	ADP	_	5	case
+5	morgenen	_	NOUN	NOUN	_	2	nmod
+6	,	_	PUNCT	PUNCT	_	10	punct
+7	og	_	CONJ	CONJ	_	2	cc
+8	Ronaldo	_	PROPN	PROPN	_	10	nsubjpass
+9	blev	_	AUX	AUX	_	10	auxpass
+10	udskrevet	_	VERB	VERB	_	2	conj
+11	fra	_	ADP	ADP	_	12	case
+12	hospitalet	_	NOUN	NOUN	_	10	nmod
+13	sent	_	ADV	ADV	_	10	advmod
+14	på	_	ADP	ADP	_	15	case
+15	eftermiddagen	_	NOUN	NOUN	_	13	nmod
+16	,	_	PUNCT	PUNCT	_	10	punct
+17	og	_	CONJ	CONJ	_	10	cc
+18	herfter	_	ADV	ADV	_	19	advmod
+19	genoptog	_	VERB	VERB	_	2	conj
+20	han	_	PRON	PRON	_	19	nsubj
+21	fodboldtræningen	_	NOUN	NOUN	_	19	dobj
+22	et	_	DET	DET	_	23	det
+23	par	_	NOUN	NOUN	_	25	nmod:temp
+24	dage	_	NOUN	NOUN	_	23	nmod
+25	senere	_	ADV	ADV	_	19	advmod
+26	.	_	PUNCT	PUNCT	_	2	punct
+

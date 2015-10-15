@@ -1,0 +1,19 @@
+1	Die	_	DET	DET	_	3	det
+2	irokesische	_	ADJ	ADJ	_	3	amod
+3	Abstammung	_	NOUN	NOUN	_	6	nsubjpass
+4	Bertrands	_	PROPN	PROPN	_	3	appos
+5	sei	_	AUX	AUX	_	6	aux
+6	erfunden	_	VERB	VERB	_	0	root
+7	worden	_	AUX	AUX	_	6	auxpass
+8	,	_	PUNCT	PUNCT	_	6	punct
+9	um	_	ADP	ADP	_	17	mark
+10	ihr	_	PRON	PRON	_	17	iobj
+11	aus	_	ADP	ADP	_	12	case
+12	Karrieregründen	_	NOUN	NOUN	_	17	nmod
+13	ein	_	DET	DET	_	15	det
+14	exotisches	_	ADJ	ADJ	_	15	amod
+15	Image	_	NOUN	NOUN	_	17	dobj
+16	zu	_	PART	PART	_	17	aux
+17	verleihen	_	VERB	VERB	_	6	advcl
+18	.	_	PUNCT	PUNCT	_	6	punct
+

@@ -1,0 +1,11 @@
+1	Mmx	_	PROPN	PROPN	_	2	nmod:poss
+2	familyde	_	NOUN	NOUN	_	3	nsubj
+3	Harry	_	VERB	VERB	_	0	root
+4	Potter	_	NOUN	NOUN	_	5	nmod:poss
+5	maratonu	_	NOUN	NOUN	_	6	nsubj
+6	var	_	VERB	VERB	_	3	dep
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	aklimi	_	NOUN	NOUN	_	9	nmod:poss
+9	kaybedicem	_	NOUN	NOUN	_	6	nsubj
+10	🐰	_	NOUN	NOUN	_	9	nmod
+

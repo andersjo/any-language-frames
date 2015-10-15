@@ -1,0 +1,17 @@
+1	Ich	_	PRON	PRON	_	7	nsubj
+2	habe	_	AUX	AUX	_	7	aux
+3	ein	_	DET	DET	_	5	det
+4	@YouTube	_	PROPN	PROPN	_	5	amod
+5	-Video	_	PROPN	PROPN	_	7	nsubj
+6	positiv	_	ADJ	ADJ	_	7	advmod
+7	bewertet	_	VERB	VERB	_	0	root
+8	:	_	PUNCT	PUNCT	_	7	punct
+9	http://t.co/OhaXTAqBY4	_	PROPN	PROPN	_	10	name
+10	Angelina	_	PROPN	PROPN	_	11	name
+11	Jolie	_	PROPN	PROPN	_	12	name
+12	as	_	PROPN	PROPN	_	13	name
+13	Maleficent	_	PROPN	PROPN	_	14	name
+14	Custom	_	PROPN	PROPN	_	16	name
+15	Repainted	_	PROPN	PROPN	_	16	name
+16	Doll	_	PROPN	PROPN	_	6	dep
+

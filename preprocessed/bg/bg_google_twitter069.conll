@@ -1,0 +1,14 @@
+1	Сега	_	ADV	ADV	_	5	advmod
+2	много	_	ADV	ADV	_	3	advmod
+3	вероятно	_	ADV	ADV	_	5	advmod
+4	да	_	PART	PART	_	5	aux
+5	започне	_	VERB	VERB	_	0	root
+6	новата	_	ADJ	ADJ	_	7	amod
+7	седмица	_	NOUN	NOUN	_	5	dobj
+8	с	_	ADP	ADP	_	9	case
+9	корекция	_	NOUN	NOUN	_	7	nmod
+10	на	_	ADP	ADP	_	11	case
+11	север	_	NOUN	NOUN	_	9	nmod
+12	.	_	PUNCT	PUNCT	_	13	punct
+13	https://t.co/TSAzIrRig7	_	PROPN	PROPN	_	11	nmod
+

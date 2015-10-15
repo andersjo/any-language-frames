@@ -1,0 +1,14 @@
+1	Kön	_	NOUN	NOUN	_	2	nsubj
+2	ringlade	_	VERB	VERB	_	0	root
+3	sig	_	PRON	PRON	_	2	dobj
+4	längs	_	ADV	ADV	_	2	advmod
+5	med	_	ADP	ADP	_	6	case
+6	Västerlånggatan	_	NOUN	NOUN	_	2	nmod
+7	från	_	ADP	ADP	_	9	case
+8	SF-bokhandelns	_	NOUN	NOUN	_	9	nmod:poss
+9	butik	_	NOUN	NOUN	_	6	nmod
+10	ut	_	ADV	ADV	_	2	compound:prt
+11	på	_	ADP	ADP	_	12	case
+12	Mynttorget	_	NOUN	NOUN	_	10	nmod
+13	.	_	PUNCT	PUNCT	_	2	punct
+

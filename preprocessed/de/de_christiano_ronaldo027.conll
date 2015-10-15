@@ -1,0 +1,9 @@
+1	Für	_	ADP	ADP	_	5	case
+2	eine	_	DET	DET	_	5	det
+3	nicht	_	PART	PART	_	4	neg
+4	bekannte	_	ADJ	ADJ	_	5	amod
+5	Ablösesumme	_	NOUN	NOUN	_	0	root
+6	(	_	PUNCT	PUNCT	_	7	punct
+7	bzw	_	X	X	_	5	appos
+8	.	_	PUNCT	PUNCT	_	7	punct
+

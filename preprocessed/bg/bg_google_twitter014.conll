@@ -1,0 +1,9 @@
+1	Това	_	PRON	PRON	_	2	nsubj
+2	робче	_	VERB	VERB	_	0	root
+3	много	_	ADV	ADV	_	4	advmod
+4	пачки	_	NOUN	NOUN	_	6	dobj
+5	е	_	AUX	AUX	_	6	aux
+6	награбило	_	VERB	VERB	_	2	ccomp
+7	:)	_	PROPN	PROPN	_	6	nsubj
+8	https://t.co/YaJcahgJCg	_	PROPN	PROPN	_	7	name
+

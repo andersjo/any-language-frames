@@ -1,0 +1,24 @@
+1	Независимо	_	NOUN	NOUN	_	7	nsubj
+2	от	_	ADP	ADP	_	3	case
+3	мрачното	_	NOUN	NOUN	_	1	nmod
+4	позьорство	_	NOUN	NOUN	_	3	nmod
+5	,	_	PUNCT	PUNCT	_	7	punct
+6	което	_	PRON	PRON	_	7	nsubj
+7	изисква	_	VERB	VERB	_	0	root
+8	тази	_	DET	DET	_	9	det
+9	роля	_	NOUN	NOUN	_	7	dobj
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	г-жа	_	NOUN	NOUN	_	13	nsubj
+12	Джоли	_	PROPN	PROPN	_	11	nmod
+13	има	_	VERB	VERB	_	9	acl
+14	сладко	_	ADJ	ADJ	_	16	amod
+15	ангелски	_	ADJ	ADJ	_	16	amod
+16	вид	_	NOUN	NOUN	_	13	dobj
+17	като	_	ADP	ADP	_	18	case
+18	баща	_	NOUN	NOUN	_	16	nmod
+19	си	_	PRON	PRON	_	18	case
+20	,	_	PUNCT	PUNCT	_	13	punct
+21	Джон	_	PROPN	PROPN	_	18	conj
+22	Войт	_	PROPN	PROPN	_	21	name
+23	.	_	PUNCT	PUNCT	_	7	punct
+

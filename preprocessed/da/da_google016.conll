@@ -1,0 +1,11 @@
+1	Fra	_	ADP	ADP	_	7	dep
+2	2006	_	NUM	NUM	_	1	nummod
+3	er	_	AUX	AUX	_	7	auxpass
+4	Scholar	_	NOUN	NOUN	_	7	nsubj
+5	også	_	ADV	ADV	_	7	advmod
+6	blevet	_	AUX	AUX	_	7	cop
+7	tilgængeligt	_	ADJ	ADJ	_	0	root
+8	på	_	ADP	ADP	_	9	case
+9	dansk	_	NOUN	NOUN	_	7	nmod
+10	.	_	PUNCT	PUNCT	_	7	punct
+

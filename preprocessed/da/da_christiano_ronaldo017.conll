@@ -1,0 +1,16 @@
+1	Ronaldo	_	PROPN	PROPN	_	2	nsubj
+2	tilsluttede	_	VERB	VERB	_	0	root
+3	sig	_	PRON	PRON	_	2	dobj
+4	Sportings	_	VERB	VERB	_	2	dep
+5	andre	_	DET	DET	_	6	det
+6	ungdomsspillere	_	NOUN	NOUN	_	4	dobj
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	som	_	PART	PART	_	9	nsubj
+9	trænede	_	VERB	VERB	_	6	dep
+10	på	_	ADP	ADP	_	11	case
+11	Alcochete	_	NOUN	NOUN	_	9	nmod
+12	,	_	PUNCT	PUNCT	_	9	punct
+13	klubbens	_	NOUN	NOUN	_	11	appos
+14	fodboldakademi	_	NOUN	NOUN	_	13	nmod:poss
+15	.	_	PUNCT	PUNCT	_	2	punct
+

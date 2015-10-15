@@ -1,0 +1,11 @@
+1	Blotter	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	4	_	NUM	NUM	_	4	nummod
+4	arrests	_	NOUN	NOUN	_	5	dep
+5	in	_	ADJ	ADJ	_	6	amod
+6	Libertyville	_	NOUN	NOUN	_	1	dep
+7	for	_	ADP	ADP	_	9	case
+8	drug	_	ADJ	ADJ	_	9	amod
+9	paraphernalia	_	NOUN	NOUN	_	10	nmod:poss
+10	http://t.co/61y3DThw4z	_	NOUN	NOUN	_	6	nmod
+

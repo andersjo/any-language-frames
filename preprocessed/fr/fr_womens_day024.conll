@@ -1,0 +1,21 @@
+1	Quatre	_	NUM	NUM	_	2	nummod
+2	jours	_	NOUN	NOUN	_	8	nmod
+3	plus	_	ADV	ADV	_	4	advmod
+4	tard	_	ADV	ADV	_	2	advmod
+5	,	_	PUNCT	PUNCT	_	8	punct
+6	le	_	DET	DET	_	7	det
+7	tsar	_	NOUN	NOUN	_	8	nsubj
+8	abdique	_	VERB	VERB	_	0	root
+9	et	_	CONJ	CONJ	_	8	cc
+10	le	_	DET	DET	_	11	det
+11	gouvernement	_	NOUN	NOUN	_	13	nsubj
+12	provisoire	_	ADJ	ADJ	_	11	amod
+13	accorde	_	VERB	VERB	_	8	conj
+14	le	_	DET	DET	_	15	det
+15	droit	_	NOUN	NOUN	_	13	dobj
+16	de	_	ADP	ADP	_	17	case
+17	vote	_	NOUN	NOUN	_	15	nmod
+18	aux	_	ADP	ADP	_	19	case
+19	femmes	_	NOUN	NOUN	_	17	nmod
+20	.	_	PUNCT	PUNCT	_	8	punct
+

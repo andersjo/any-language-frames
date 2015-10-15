@@ -1,0 +1,18 @@
+1	Sérieux	_	PROPN	PROPN	_	2	name
+2	Angelina	_	PROPN	PROPN	_	5	nsubj
+3	jolie	_	ADJ	ADJ	_	2	amod
+4	je	_	PRON	PRON	_	5	nsubj
+5	crois	_	VERB	VERB	_	0	root
+6	cest	_	NOUN	NOUN	_	5	dobj
+7	une	_	NUM	NUM	_	6	nummod
+8	des	_	ADP	ADP	_	11	case
+9	plus	_	ADV	ADV	_	10	advmod
+10	belles	_	ADJ	ADJ	_	11	amod
+11	femmes	_	NOUN	NOUN	_	5	nmod
+12	du	_	ADP	ADP	_	13	case
+13	monde	_	NOUN	NOUN	_	11	nmod
+14	mieux	_	ADV	ADV	_	15	mwe
+15	que	_	SCONJ	SCONJ	_	11	cc
+16	vos	_	DET	DET	_	17	nmod:poss
+17	postbad	_	PROPN	PROPN	_	11	appos
+

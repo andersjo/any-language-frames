@@ -1,0 +1,16 @@
+1	Es	_	PRON	PRON	_	2	nsubj
+2	verwunderte	_	VERB	VERB	_	0	root
+3	daher	_	ADV	ADV	_	2	advmod
+4	nicht	_	PART	PART	_	2	neg
+5	,	_	PUNCT	PUNCT	_	2	punct
+6	dass	_	SCONJ	SCONJ	_	13	mark
+7	die	_	DET	DET	_	8	det
+8	Partei	_	NOUN	NOUN	_	13	nsubj
+9	auch	_	ADV	ADV	_	13	advmod
+10	1912	_	NUM	NUM	_	2	nmod
+11	einen	_	DET	DET	_	12	det
+12	Frauentag	_	NOUN	NOUN	_	13	dobj
+13	durchführen	_	VERB	VERB	_	2	advcl
+14	wollte	_	AUX	AUX	_	13	aux
+15	.	_	PUNCT	PUNCT	_	2	punct
+

@@ -1,0 +1,14 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	2004	_	NUM	NUM	_	5	vocative
+3	,	_	PUNCT	PUNCT	_	5	punct
+4	he	_	PRON	PRON	_	5	nsubj
+5	won	_	VERB	VERB	_	10	parataxis
+6	his	_	PRON	PRON	_	8	nmod:poss
+7	first	_	ADJ	ADJ	_	0	foreign
+8	trophy	_	NOUN	NOUN	_	5	dobj
+9	,	_	PUNCT	PUNCT	_	5	punct
+10	the	_	DET	DET	_	12	det
+11	FA	_	NOUN	NOUN	_	12	compound
+12	Cup	_	NOUN	NOUN	_	1	conj
+13	.	_	PUNCT	PUNCT	_	5	punct
+

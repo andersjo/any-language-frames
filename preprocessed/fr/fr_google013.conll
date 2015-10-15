@@ -1,0 +1,18 @@
+1	Parallèlement	_	ADV	ADV	_	9	advmod
+2	,	_	PUNCT	PUNCT	_	9	punct
+3	le	_	DET	DET	_	4	det
+4	moteur	_	NOUN	NOUN	_	9	nsubj
+5	de	_	ADP	ADP	_	6	case
+6	recherche	_	NOUN	NOUN	_	4	nmod
+7	Google	_	PROPN	PROPN	_	4	appos
+8	a	_	AUX	AUX	_	9	aux
+9	indexé	_	VERB	VERB	_	0	root
+10	plus	_	ADV	ADV	_	11	mwe
+11	de	_	ADP	ADP	_	13	case
+12	de	_	DET	DET	_	13	det
+13	pages	_	NOUN	NOUN	_	9	nmod
+14	web	_	NOUN	NOUN	_	9	dobj
+15	en	_	ADP	ADP	_	16	case
+16	2008	_	NUM	NUM	_	9	nmod
+17	.	_	PUNCT	PUNCT	_	9	punct
+

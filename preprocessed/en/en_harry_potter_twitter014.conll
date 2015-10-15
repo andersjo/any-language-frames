@@ -1,0 +1,14 @@
+1	Think	_	VERB	VERB	_	0	root
+2	I	_	PRON	PRON	_	3	nsubj
+3	have	_	VERB	VERB	_	1	ccomp
+4	harry	_	PROPN	PROPN	_	3	dobj
+5	potter	_	ADJ	ADJ	_	0	discourse
+6	invisible	_	ADJ	ADJ	_	0	foreign
+7	cloak	_	NOUN	NOUN	_	3	dobj
+8	on	_	ADP	ADP	_	3	compound:prt
+9	all	_	DET	DET	_	11	det:predet
+10	the	_	DET	DET	_	11	det
+11	time	_	NOUN	NOUN	_	1	ccomp
+12	recently	_	ADV	ADV	_	3	advmod
+13	!	_	PUNCT	PUNCT	_	1	punct
+

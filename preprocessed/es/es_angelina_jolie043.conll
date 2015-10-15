@@ -1,0 +1,15 @@
+1	"	_	PUNCT	PUNCT	_	3	punct
+2	Jolie	_	PROPN	PROPN	_	3	nsubj
+3	estudio	_	NOUN	NOUN	_	0	root
+4	en	_	ADP	ADP	_	6	case
+5	varias	_	DET	DET	_	6	det
+6	universidades	_	NOUN	NOUN	_	3	nmod
+7	,	_	PUNCT	PUNCT	_	10	punct
+8	como	_	ADP	ADP	_	10	case
+9	la	_	DET	DET	_	10	det
+10	Escuela	_	PROPN	PROPN	_	6	nmod
+11	Juilliard	_	PROPN	PROPN	_	10	amod
+12	la	_	DET	DET	_	13	det
+13	USC	_	PROPN	PROPN	_	10	nmod
+14	.	_	PUNCT	PUNCT	_	3	punct
+

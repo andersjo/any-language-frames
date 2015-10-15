@@ -1,0 +1,26 @@
+1	Ronaldo	_	PROPN	PROPN	_	2	nsubj
+2	inscrit	_	VERB	VERB	_	0	root
+3	ensuite	_	ADV	ADV	_	2	advmod
+4	son	_	DET	DET	_	6	nmod:poss
+5	premier	_	ADJ	ADJ	_	6	amod
+6	but	_	NOUN	NOUN	_	2	dobj
+7	sous	_	ADP	ADP	_	9	case
+8	les	_	DET	DET	_	9	det
+9	couleurs	_	NOUN	NOUN	_	6	nmod
+10	de	_	ADP	ADP	_	12	case
+11	Manchester	_	PROPN	PROPN	_	12	name
+12	United	_	PROPN	PROPN	_	9	nmod
+13	en	_	ADP	ADP	_	15	case
+14	Premier	_	PROPN	PROPN	_	15	amod
+15	League	_	PROPN	PROPN	_	9	nmod
+16	face	_	NOUN	NOUN	_	15	appos
+17	à	_	ADP	ADP	_	18	case
+18	Portsmouth	_	PROPN	PROPN	_	16	nmod
+19	sur	_	ADP	ADP	_	20	case
+20	coup	_	NOUN	NOUN	_	18	nmod
+21	franc	_	ADJ	ADJ	_	20	amod
+22	en	_	ADP	ADP	_	23	case
+23	novembre	_	NOUN	NOUN	_	20	nmod
+24	2003	_	NUM	NUM	_	23	nmod
+25	.	_	PUNCT	PUNCT	_	2	punct
+

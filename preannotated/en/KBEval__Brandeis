@@ -1,0 +1,1380 @@
+ID:	_	
+Brandeis	_	
+-	_	
+01.1	_	
+.	_	
+
+StatesWest	_	
+Airlines	_	
+withdrew	_	Removing Withdraw_from_participation
+its	_	
+offer	_	Offering
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+acquire	_	Getting
+Mesa	_	Natural_features
+Airlines	_	
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+an	_	Cause_to_end Process_end Quantity
+offer	_	Offering
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+acquire	_	Getting
+Mesa	_	Natural_features
+Airline	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-	_	
+01.2	_	
+.	_	
+
+StatesWest	_	
+Airlines	_	
+withdrew	_	Removing Withdraw_from_participation
+its	_	
+offer	_	Offering
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+acquire	_	Getting
+Mesa	_	Natural_features
+Airlines	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+StatesWest	_	
+ever	_	
+plan	_	Project Purpose
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+acquire	_	Getting
+Mesa	_	Natural_features
+Airlines	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-	_	
+01.3	_	
+.	_	
+
+StatesWest	_	
+Airlines	_	
+withdrew	_	Removing Withdraw_from_participation
+its	_	
+offer	_	Offering
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+acquire	_	Getting
+Mesa	_	Natural_features
+Airlines	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+StatesWest	_	
+acquire	_	Getting
+Mesa	_	Natural_features
+Airlines	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-02	_	
+.	_	
+
+Steynar	_	
+Gil	_	
+welcomed	_	
+the	_	Self_motion Temporal_collocation
+release	_	Releasing
+of	_	Age Domain Origin Partitive
+prisoners	_	
+imprisoned	_	
+during	_	Temporal_collocation
+the	_	Self_motion Temporal_collocation
+October	_	Calendric_unit
+15	_	Cardinal_numbers
+-16	_	
+riots	_	
+.	_	
+
+QN	_	
+:	_	
+Have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+prisoners	_	
+imprisoned	_	
+during	_	Temporal_collocation
+October	_	Calendric_unit
+15	_	Cardinal_numbers
+-16	_	
+riots	_	
+been	_	Existence
+released	_	Releasing
+?	_	
+
+ID:	_	
+Brandeis	_	
+-03	_	
+.	_	
+
+Program	_	Project
+trading	_	
+is	_	Existence
+hurting	_	
+the	_	Self_motion Temporal_collocation
+market	_	
+'s	_	Existence Required_event
+efforts	_	Attempt
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+bring	_	Accomplishment Bringing Causation Cause_to_amalgamate Cause_to_start
+back	_	Observable_body_parts Part_orientational Self_motion Taking_sides
+small	_	Dimension Size
+investors	_	
+.	_	
+
+QN	_	
+:	_	
+Are	_	Existence
+there	_	Existence Locative_relation
+any	_	Quantity
+efforts	_	Attempt
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+bring	_	Accomplishment Bringing Causation Cause_to_amalgamate Cause_to_start
+back	_	Observable_body_parts Part_orientational Self_motion Taking_sides
+small	_	Dimension Size
+investors	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-04	_	
+.	_	
+
+Thirty-two	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+159	_	
+U.N.	_	
+members	_	Membership
+were	_	Existence
+honoring	_	Compliance
+the	_	Self_motion Temporal_collocation
+sanctions	_	Revenge
+against	_	Locative_relation Taking_sides
+Iraq	_	
+.	_	
+
+QN	_	
+:	_	
+Were	_	Existence
+there	_	Existence Locative_relation
+sanctions	_	Revenge
+against	_	Locative_relation Taking_sides
+Iraq	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-	_	
+05.1	_	
+.	_	
+
+Herbicide	_	
+use	_	Ingest_substance Possibilities Purpose Using
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+some	_	Relational_quantity
+areas	_	Fields Locale
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+U.S.	_	
+was	_	Existence
+delayed	_	Change_event_time
+earlier	_	Relative_time Temporal_subregion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+year	_	Calendric_unit Measure_duration
+by	_	Locative_relation Means
+heavy	_	Measurable_attributes
+rains	_	
+.	_	
+
+QN	_	
+:	_	
+Were	_	Existence
+herbicides	_	
+delayed	_	Change_event_time
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+all	_	Quantity
+areas	_	Fields Locale
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+U.S.	_	
+this	_	
+year	_	Calendric_unit Measure_duration
+?	_	
+
+ID:	_	
+Brandeis	_	
+-	_	
+05.2	_	
+.	_	
+
+Herbicide	_	
+use	_	Ingest_substance Possibilities Purpose Using
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+some	_	Relational_quantity
+areas	_	Fields Locale
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+U.S.	_	
+was	_	Existence
+prevented	_	Thwarting
+this	_	
+year	_	Calendric_unit Measure_duration
+because	_	Causation
+of	_	Age Domain Origin Partitive
+heavy	_	Measurable_attributes
+rains	_	
+.	_	
+
+QN	_	
+:	_	
+Were	_	Existence
+herbicides	_	
+used	_	Using
+this	_	
+year	_	Calendric_unit Measure_duration
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+U.S.	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-06	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+US	_	
+is	_	Existence
+bolstering	_	Supporting
+its	_	
+military	_	Military
+presence	_	Presence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Gulf	_	Natural_features
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+US	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+a	_	Measure_duration Process_end Quantity
+military	_	Military
+presence	_	Presence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Gulf	_	Natural_features
+.	_	
+
+ID:	_	
+Brandeis	_	
+-07	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+unemployed	_	Being_employed
+took	_	Bringing Conquering Have_as_requirement Ride_vehicle Taking Taking_time
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+streets	_	Roadways
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+German	_	People_by_origin
+capital	_	Money Relational_political_locales Severity_of_offense
+,	_	
+Berlin	_	
+,	_	
+mirroring	_	
+protests	_	
+around	_	Dimension Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+country	_	Locale_by_use Political_locales
+.	_	
+
+QN	_	
+:	_	
+Were	_	Existence
+the	_	Self_motion Temporal_collocation
+protests	_	
+only	_	Sole_instance
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Berlin	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-	_	
+08.1	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+court	_	Judicial_body Locale_by_use Personal_relationship
+nullified	_	
+a	_	Measure_duration Process_end Quantity
+standstill	_	
+agreement	_	Be_in_agreement_on_action Be_in_agreement_on_assessment Documents Make_agreement_on_action
+between	_	Locative_relation
+DPC	_	
+Acquisition	_	Getting
+and	_	
+Dataproducts	_	
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+there	_	Existence Locative_relation
+any	_	Quantity
+agreement	_	Be_in_agreement_on_action Be_in_agreement_on_assessment Documents Make_agreement_on_action
+between	_	Locative_relation
+DPC	_	
+Acquisition	_	Getting
+and	_	
+Dataproducts	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-	_	
+08.2	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+court	_	Judicial_body Locale_by_use Personal_relationship
+nullified	_	
+a	_	Measure_duration Process_end Quantity
+standstill	_	
+agreement	_	Be_in_agreement_on_action Be_in_agreement_on_assessment Documents Make_agreement_on_action
+between	_	Locative_relation
+DPC	_	
+Acquisition	_	Getting
+and	_	
+Dataproducts	_	
+.	_	
+
+QN	_	
+:	_	
+Are	_	Existence
+there	_	Existence Locative_relation
+any	_	Quantity
+agreements	_	Documents Make_agreement_on_action
+between	_	Locative_relation
+DCP	_	
+Acquisition	_	Getting
+and	_	
+Dataproducts	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-	_	
+09.1	_	
+.	_	
+
+Sardar	_	
+Patel	_	
+faced	_	
+imprisonment	_	Imprisonment
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+first	_	First_experience Ordinal_numbers
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+when	_	Temporal_collocation
+he	_	
+was	_	Existence
+assisting	_	Assistance
+Gandhiji	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Salt	_	Preserving
+Satyagraha	_	
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+Sardar	_	
+Patel	_	
+ever	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+prison	_	Prison
+?	_	
+
+ID:	_	
+Brandeis	_	
+-	_	
+09.2	_	
+.	_	
+
+Sardar	_	
+Patel	_	
+faced	_	
+imprisonment	_	Imprisonment
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+first	_	First_experience Ordinal_numbers
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+when	_	Temporal_collocation
+he	_	
+was	_	Existence
+assisting	_	Assistance
+Gandhiji	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Salt	_	Preserving
+Satyagraha	_	
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+Sardar	_	
+Patel	_	
+ever	_	
+convicted	_	
+of	_	Age Domain Origin Partitive
+a	_	Measure_duration Process_end Quantity
+crime	_	Committing_crime
+?	_	
+
+ID:	_	
+Brandeis	_	
+-	_	
+10.1	_	
+.	_	
+
+Darryl	_	
+Strawberry	_	
+recently	_	Temporal_collocation
+avoided	_	
+imprisonment	_	Imprisonment
+when	_	Temporal_collocation
+a	_	Measure_duration Process_end Quantity
+judge	_	Assessing People_by_vocation
+sentenced	_	Sentencing
+him	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+a	_	Measure_duration Process_end Quantity
+drug	_	Intoxicants Leadership
+treatment	_	Cure
+center	_	Locale_by_use Part_inner_outer
+for	_	Causation Taking_sides
+violating	_	
+his	_	
+probation	_	
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+Darryl	_	
+Strawberry	_	
+ever	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+prison	_	Prison
+?	_	
+
+ID:	_	
+Brandeis	_	
+-	_	
+10.2	_	
+.	_	
+
+Darryl	_	
+Strawberry	_	
+recently	_	Temporal_collocation
+avoided	_	
+imprisonment	_	Imprisonment
+when	_	Temporal_collocation
+a	_	Measure_duration Process_end Quantity
+judge	_	Assessing People_by_vocation
+sentenced	_	Sentencing
+him	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+a	_	Measure_duration Process_end Quantity
+drug	_	Intoxicants Leadership
+treatment	_	Cure
+center	_	Locale_by_use Part_inner_outer
+for	_	Causation Taking_sides
+violating	_	
+his	_	
+probation	_	
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+Darryl	_	
+imprisoned	_	
+for	_	Causation Taking_sides
+violating	_	
+his	_	
+probation	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-11	_	
+.	_	
+
+Three	_	Cardinal_numbers
+patients	_	
+declined	_	Agree_or_refuse_to_act Change_position_on_a_scale
+further	_	Increment
+surgery	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+patients	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+any	_	Quantity
+surgeries	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-12	_	
+.	_	
+
+Foodstuffs	_	
+are	_	Existence
+being	_	
+blocked	_	Having_or_lacking_access
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+entry	_	Arriving
+into	_	Goal Into
+Iraq	_	
+.	_	
+
+QN	_	
+:	_	
+Are	_	Existence
+foodstuffs	_	
+getting	_	Arriving Becoming Bringing Getting
+into	_	Goal Into
+Iraq	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-13	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+new	_	Age Expertise Familiarity
+space	_	
+allowed	_	Grant_permission Permitting
+Compaq	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+increase	_	Cause_change_of_position_on_a_scale Change_position_on_a_scale
+the	_	Self_motion Temporal_collocation
+manufacturing	_	Manufacturing
+capacity	_	Capability
+of	_	Age Domain Origin Partitive
+its	_	
+plant	_	Locale_by_use Placing Planting
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Erskine	_	
+,	_	
+Scotland	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Compaq	_	
+increase	_	Cause_change_of_position_on_a_scale Change_position_on_a_scale
+its	_	
+manufacturing	_	Manufacturing
+capacity	_	Capability
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Erskine	_	
+plant	_	Locale_by_use Placing Planting
+?	_	
+
+ID:	_	
+Brandeis	_	
+-14	_	
+.	_	
+
+Holders	_	
+of	_	Age Domain Origin Partitive
+more	_	Increment
+than	_	Time_vector
+a	_	Measure_duration Process_end Quantity
+majority	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+stock	_	Carry_goods Store Storing
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+company	_	Businesses
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+approved	_	Grant_permission
+the	_	Self_motion Temporal_collocation
+transaction	_	Commercial_transaction
+by	_	Locative_relation Means
+written	_	Statement Text_creation
+consent	_	Commitment
+.	_	
+
+QN	_	
+:	_	
+Has	_	Have_associated Inclusion Possession
+the	_	Self_motion Temporal_collocation
+transaction	_	Commercial_transaction
+taken	_	Bringing Conquering Event Experiencer_focus Removing
+place	_	Event Locale Placing
+?	_	
+
+ID:	_	
+Brandeis	_	
+-15	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+transaction	_	Commercial_transaction
+has	_	Have_associated Inclusion Possession
+been	_	Existence
+approved	_	Grant_permission
+by	_	Locative_relation Means
+Kyle	_	
+'s	_	Existence Required_event
+board	_	Board_vehicle Temporary_stay
+but	_	Concessive
+requires	_	Have_as_requirement Imposing_obligation
+the	_	Self_motion Temporal_collocation
+approval	_	Grant_permission
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+company	_	Businesses
+'s	_	Existence Required_event
+shareholders	_	
+.	_	
+
+QN	_	
+:	_	
+Has	_	Have_associated Inclusion Possession
+the	_	Self_motion Temporal_collocation
+transaction	_	Commercial_transaction
+taken	_	Bringing Conquering Event Experiencer_focus Removing
+place	_	Event Locale Placing
+?	_	
+
+ID:	_	
+Brandeis	_	
+-16	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+company	_	Businesses
+'s	_	Existence Required_event
+board	_	Board_vehicle Temporary_stay
+authorized	_	Grant_permission
+the	_	Self_motion Temporal_collocation
+purchase	_	Commerce_buy
+of	_	Age Domain Origin Partitive
+an	_	Cause_to_end Process_end Quantity
+additional	_	Increment
+one	_	Cardinal_numbers
+million	_	Cardinal_numbers
+shares	_	
+.	_	
+
+QN	_	
+:	_	
+Has	_	Have_associated Inclusion Possession
+the	_	Self_motion Temporal_collocation
+company	_	Businesses
+purchased	_	Commerce_buy
+additional	_	Increment
+shares	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-17	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+purchase	_	Commerce_buy
+was	_	Existence
+subsequently	_	Relative_time
+rejected	_	Respond_to_proposal
+by	_	Locative_relation Means
+regulators	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+purchase	_	Commerce_buy
+take	_	Bringing Capacity Conquering Create_physical_artwork Event Getting_vehicle_underway Have_as_requirement Ingest_substance Opinion Removing Ride_vehicle Self_motion Taking Taking_time
+place	_	Event Locale Placing
+?	_	
+
+ID:	_	
+Brandeis	_	
+-18	_	
+.	_	
+
+Analysts	_	Scrutiny
+were	_	Existence
+predicting	_	Predicting
+1990	_	
+BellSouth	_	
+earnings	_	Earnings_and_losses
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+range	_	Delimitation_of_diversity Diversity Natural_features Range
+of	_	Age Domain Origin Partitive
+$3.90	_	
+a	_	Measure_duration Process_end Quantity
+share	_	
+.	_	
+
+QN	_	
+:	_	
+Has	_	Have_associated Inclusion Possession
+BellSouth	_	
+experienced	_	Expertise
+earnings	_	Earnings_and_losses
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1990	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-	_	
+19.1	_	
+.	_	
+
+Milton	_	
+Roy	_	
+disclosed	_	Reveal_secret
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+May	_	Calendric_unit Likelihood
+that	_	Degree
+it	_	
+was	_	Existence
+approached	_	Arriving
+for	_	Causation Taking_sides
+a	_	Measure_duration Process_end Quantity
+possible	_	Likelihood
+acquisition	_	Getting
+by	_	Locative_relation Means
+Thermo	_	
+Electron	_	
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+Milton	_	
+Roy	_	
+approached	_	Arriving
+by	_	Locative_relation Means
+Thermo	_	
+Electron	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-	_	
+19.2	_	
+.	_	
+
+Milton	_	
+Roy	_	
+disclosed	_	Reveal_secret
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+May	_	Calendric_unit Likelihood
+that	_	Degree
+it	_	
+was	_	Existence
+approached	_	Arriving
+for	_	Causation Taking_sides
+a	_	Measure_duration Process_end Quantity
+possible	_	Likelihood
+acquisition	_	Getting
+by	_	Locative_relation Means
+Thermo	_	
+Electron	_	
+.	_	
+
+QN	_	
+:	_	
+Has	_	Have_associated Inclusion Possession
+Milton	_	
+Roy	_	
+been	_	Existence
+acquired	_	Getting
+by	_	Locative_relation Means
+Thermo	_	
+Electron	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-20	_	
+.	_	
+
+Analysts	_	Scrutiny
+noted	_	Becoming_aware Statement
+that	_	Degree
+over	_	Locative_relation Process_completed_state Relational_quantity
+the	_	Self_motion Temporal_collocation
+past	_	Individual_history Locative_relation Relative_time
+20	_	Cardinal_numbers
+years	_	Calendric_unit Measure_duration
+,	_	
+Mr	_	
+.	_	
+Fournier	_	
+has	_	Have_associated Inclusion Possession
+built	_	Building
+his	_	
+company	_	Businesses
+through	_	Activity_done_state Time_vector Used_up
+astute	_	Mental_property
+stock-market	_	
+activity	_	Intentionally_act
+.	_	
+
+QN	_	
+:	_	
+Has	_	Have_associated Inclusion Possession
+Mr	_	
+.	_	
+Fournier	_	
+built	_	Building
+his	_	
+company	_	Businesses
+through	_	Activity_done_state Time_vector Used_up
+astute	_	Mental_property
+stock-market	_	
+activity	_	Intentionally_act
+?	_	
+
+ID:	_	
+Brandeis	_	
+-	_	
+21.1	_	
+.	_	
+
+I	_	
+was	_	Existence
+pleased	_	Emotion_directed
+that	_	Degree
+Ms	_	
+.	_	
+Currie	_	
+'s	_	Existence Required_event
+lawyers	_	People_by_vocation
+stated	_	Statement
+unambiguously	_	
+this	_	
+morning	_	Calendric_unit
+that	_	Degree
+she	_	
+'s	_	Existence Required_event
+not	_	
+aware	_	Awareness
+of	_	Age Domain Origin Partitive
+any	_	Quantity
+unethical	_	Morality_evaluation
+conduct	_	Conduct Cotheme Intentionally_act
+.	_	
+
+QN	_	
+:	_	
+Is	_	Existence
+Ms	_	
+.	_	
+Currie	_	
+aware	_	Awareness
+of	_	Age Domain Origin Partitive
+any	_	Quantity
+unethical	_	Morality_evaluation
+conduct	_	Conduct Cotheme Intentionally_act
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+her	_	
+part	_	Membership Part_whole Performers_and_roles Separating
+?	_	
+
+ID:	_	
+Brandeis	_	
+-	_	
+21.2	_	
+.	_	
+
+I	_	
+was	_	Existence
+pleased	_	Emotion_directed
+that	_	Degree
+Ms	_	
+.	_	
+Currie	_	
+'s	_	Existence Required_event
+lawyers	_	People_by_vocation
+stated	_	Statement
+unambiguously	_	
+this	_	
+morning	_	Calendric_unit
+that	_	Degree
+she	_	
+'s	_	Existence Required_event
+not	_	
+aware	_	Awareness
+of	_	Age Domain Origin Partitive
+any	_	Quantity
+unethical	_	Morality_evaluation
+conduct	_	Conduct Cotheme Intentionally_act
+.	_	
+
+QN	_	
+:	_	
+Have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+Ms	_	
+.	_	
+Currie	_	
+'s	_	Existence Required_event
+lawyers	_	People_by_vocation
+stated	_	Statement
+she	_	
+'s	_	Existence Required_event
+not	_	
+aware	_	Awareness
+of	_	Age Domain Origin Partitive
+any	_	Quantity
+unethical	_	Morality_evaluation
+conduct	_	Conduct Cotheme Intentionally_act
+?	_	
+
+ID:	_	
+Brandeis	_	
+-22	_	
+.	_	
+
+President	_	Leadership
+Clinton	_	
+and	_	
+Blair	_	
+will	_	Desiring Documents Giving
+stand	_	Aggregate Being_located Change_posture Occupy_rank Placing Posture Tolerating
+together	_	Building Cause_to_amalgamate Collaboration
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+arresting	_	Arrest
+the	_	Self_motion Temporal_collocation
+terrorists	_	Terrorism
+suspected	_	Awareness Suspicion
+of	_	Age Domain Origin Partitive
+blowing	_	
+up	_	Becoming Coming_up_with Direction Intentionally_create Locative_relation Reparation Summarizing
+Pan	_	Seeking
+Am	_	
+flight	_	Architectural_part Operational_testing Ride_vehicle
+103	_	
+over	_	Locative_relation Process_completed_state Relational_quantity
+Scotland	_	
+.	_	
+
+QN	_	
+:	_	
+Has	_	Have_associated Inclusion Possession
+there	_	Existence Locative_relation
+been	_	Existence
+an	_	Cause_to_end Process_end Quantity
+explosion	_	Change_position_on_a_scale
+of	_	Age Domain Origin Partitive
+a	_	Measure_duration Process_end Quantity
+Pan	_	Seeking
+Am	_	
+flight	_	Architectural_part Operational_testing Ride_vehicle
+over	_	Locative_relation Process_completed_state Relational_quantity
+Scotland	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-23	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+accord	_	Be_in_agreement_on_action Compatibility Documents
+helps	_	Assistance
+RJR	_	
+pay	_	Commerce_pay
+off	_	Accuracy Being_in_operation Locative_relation
+debt	_	
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+RJR	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+any	_	Quantity
+debt	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-24	_	
+.	_	
+
+48	_	
+Kuwaiti	_	
+jet	_	Bringing Fluidic_motion Ride_vehicle
+fighters	_	
+managed	_	Operating_a_system Success_or_failure
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+escape	_	Avoiding Departing Elusive_goal Escaping
+the	_	Self_motion Temporal_collocation
+Iraqi	_	Origin
+invasion	_	Invading
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+any	_	Quantity
+Kuwaiti	_	
+jet	_	Bringing Fluidic_motion Ride_vehicle
+fighters	_	
+escape	_	Avoiding Departing Elusive_goal Escaping
+the	_	Self_motion Temporal_collocation
+Iraqi	_	Origin
+invasion	_	Invading
+?	_	
+
+ID:	_	
+Brandeis	_	
+-25	_	
+.	_	
+
+It	_	
+appears	_	Appearance
+that	_	Degree
+allied	_	
+troops	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+n't	_	
+yet	_	Continued_state_of_affairs
+fully	_	Degree
+engaged	_	Intentionally_act Personal_relationship
+Iraq	_	
+'s	_	Existence Required_event
+Republican	_	
+Guard	_	Protecting
+.	_	
+
+QN	_	
+:	_	
+Have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+allied	_	
+troops	_	
+engaged	_	Intentionally_act Personal_relationship
+Iraq	_	
+'s	_	Existence Required_event
+Republican	_	
+Guard	_	Protecting
+?	_	
+
+ID:	_	
+Brandeis	_	
+-	_	
+26.1	_	
+.	_	
+
+British	_	
+police	_	
+officers	_	
+concluded	_	Activity_finish Coming_to_believe Process_end
+Howes	_	
+had	_	Being_obligated Have_associated Possession Required_event
+probably	_	Likelihood
+been	_	Existence
+killed	_	Killing
+soon	_	
+after	_	Relative_time Time_vector
+being	_	
+captured	_	Conquering
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Howes	_	
+die	_	Death
+?	_	
+
+ID:	_	
+Brandeis	_	
+-	_	
+26.2	_	
+.	_	
+
+British	_	
+police	_	
+officers	_	
+concluded	_	Activity_finish Coming_to_believe Process_end
+Howes	_	
+had	_	Being_obligated Have_associated Possession Required_event
+probably	_	Likelihood
+been	_	Existence
+killed	_	Killing
+soon	_	
+after	_	Relative_time Time_vector
+being	_	
+captured	_	Conquering
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+Howes	_	
+killed	_	Killing
+soon	_	
+after	_	Relative_time Time_vector
+being	_	
+captured	_	Conquering
+?	_	
+
+ID:	_	
+Brandeis	_	
+-27	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+police	_	
+allowed	_	Grant_permission Permitting
+the	_	Self_motion Temporal_collocation
+crowd	_	Aggregate Filling Mass_motion
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+demonstrate	_	Cause_to_perceive Evidence Reasoning
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+nearby	_	
+streets	_	Roadways
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+crowd	_	Aggregate Filling Mass_motion
+demonstrate	_	Cause_to_perceive Evidence Reasoning
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+nearby	_	
+streets	_	Roadways
+?	_	
+
+ID:	_	
+Brandeis	_	
+-	_	
+28.1	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Pakistan	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+Taliban	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+forbidden	_	
+women	_	People
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+work	_	Being_employed Being_operational Collaboration Dimension Labor_product Locale_by_use Usefulness Working_on
+.	_	
+
+QN	_	
+:	_	
+Do	_	Ingest_substance Intentionally_act Intentionally_affect Thriving Touring
+the	_	Self_motion Temporal_collocation
+Taliban	_	
+want	_	Desiring Possession
+women	_	People
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+work	_	Being_employed Being_operational Collaboration Dimension Labor_product Locale_by_use Usefulness Working_on
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Pakistan	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-	_	
+28.2	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Pakistan	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+Taliban	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+forbidden	_	
+women	_	People
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+work	_	Being_employed Being_operational Collaboration Dimension Labor_product Locale_by_use Usefulness Working_on
+.	_	
+
+QN	_	
+:	_	
+Do	_	Ingest_substance Intentionally_act Intentionally_affect Thriving Touring
+women	_	People
+work	_	Being_employed Being_operational Collaboration Dimension Labor_product Locale_by_use Usefulness Working_on
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Pakistan	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-29	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Administration	_	Leadership
+is	_	Existence
+trying	_	Attempt
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+decide	_	Choosing Deciding Eventive_cognizer_affecting
+whether	_	
+Saddam	_	
+Hussein	_	
+has	_	Have_associated Inclusion Possession
+WMD	_	Weapon
+.	_	
+
+QN	_	
+:	_	
+Is	_	Existence
+the	_	Self_motion Temporal_collocation
+administration	_	Leadership
+deciding	_	
+whether	_	
+Saddam	_	
+Hussein	_	
+has	_	Have_associated Inclusion Possession
+WMD	_	Weapon
+?	_	
+
+ID:	_	
+Brandeis	_	
+-30	_	
+.	_	
+
+Helicopters	_	
+are	_	Existence
+trying	_	Attempt
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+locate	_	Becoming_aware Locating
+people	_	Colonization People
+stranded	_	
+without	_	
+food	_	Food
+.	_	
+
+QN	_	
+:	_	
+Are	_	Existence
+helicopters	_	
+locating	_	Locating
+people	_	Colonization People
+stranded	_	
+without	_	
+food	_	Food
+?	_	
+
+ID:	_	
+Brandeis	_	
+-31	_	
+.	_	
+
+MCA	_	
+agreed	_	Agree_or_refuse_to_act Be_in_agreement_on_assessment Make_agreement_on_action
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+wait	_	Holding_off_on Waiting
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+purchasing	_	Commerce_buy
+Cineplex	_	
+.	_	
+
+QN	_	
+:	_	
+Is	_	Existence
+MCA	_	
+waiting	_	Waiting
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+purchase	_	Commerce_buy
+Cineplex	_	
+?	_	
+
+ID:	_	
+Brandeis	_	
+-32	_	
+.	_	
+
+MGM	_	
+Grand	_	Dimension
+Inc.	_	
+has	_	Have_associated Inclusion Possession
+agreed	_	Agree_or_refuse_to_act Be_in_agreement_on_assessment Make_agreement_on_action
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+pay	_	Commerce_pay
+$93	_	
+million	_	Cardinal_numbers
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+buy	_	Commerce_buy
+117	_	
+acres	_	Measure_area
+of	_	Age Domain Origin Partitive
+land	_	Locale_by_ownership Natural_features Political_locales
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Las	_	
+Vegas	_	
+.	_	
+
+QN	_	
+:	_	
+Has	_	Have_associated Inclusion Possession
+MGM	_	
+Grand	_	Dimension
+Inc.	_	
+paid	_	Commerce_pay
+$93	_	
+million	_	Cardinal_numbers
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+buy	_	Commerce_buy
+117	_	
+acres	_	Measure_area
+of	_	Age Domain Origin Partitive
+land	_	Locale_by_ownership Natural_features Political_locales
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Las	_	
+Vegas	_	
+?	_	
+

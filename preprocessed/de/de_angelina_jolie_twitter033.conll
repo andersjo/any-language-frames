@@ -1,0 +1,12 @@
+1	#Entertainment	_	PROPN	PROPN	_	2	name
+2	#News	_	PROPN	PROPN	_	0	root
+3	Angelina	_	PROPN	PROPN	_	5	name
+4	Jolie	_	PROPN	PROPN	_	5	name
+5	8x10	_	PROPN	PROPN	_	2	nmod
+6	in	_	ADP	ADP	_	7	case
+7	person	_	NOUN	NOUN	_	5	nmod
+8	autograph	_	NOUN	NOUN	_	7	appos
+9	http://t.co/UIzNBcqugl	_	PROPN	PROPN	_	11	name
+10	#AngelinaJolie	_	PROPN	PROPN	_	11	name
+11	#Fans	_	PROPN	PROPN	_	8	appos
+

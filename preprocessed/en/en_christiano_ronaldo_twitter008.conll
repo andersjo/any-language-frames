@@ -1,0 +1,8 @@
+1	I	_	PRON	PRON	_	2	nsubj
+2	LOVE	_	VERB	VERB	_	0	root
+3	CHRISTIANO	_	PROPN	PROPN	_	4	compound
+4	RONALDO	_	PROPN	PROPN	_	2	dobj
+5	SO	_	ADV	ADV	_	6	advmod
+6	MUCH	_	ADV	ADV	_	2	advmod
+7	OK	_	ADJ	ADJ	_	0	punct
+

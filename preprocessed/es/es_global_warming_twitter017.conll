@@ -1,0 +1,22 @@
+1	Me	_	PRON	PRON	_	3	iobj
+2	ha	_	AUX	AUX	_	3	aux
+3	gustado	_	VERB	VERB	_	0	root
+4	un	_	DET	DET	_	5	det
+5	vídeo	_	NOUN	NOUN	_	3	dobj
+6	de	_	ADP	ADP	_	7	case
+7	@YouTube	_	PROPN	PROPN	_	5	nmod
+8	de	_	ADP	ADP	_	9	case
+9	@descargadetodo1	_	X	X	_	5	nmod
+10	(	_	PUNCT	PUNCT	_	11	punct
+11	http://t.co/6Z8btFkTci	_	PROPN	PROPN	_	9	appos
+12	-	_	PUNCT	PUNCT	_	11	punct
+13	Bajar	_	PROPN	PROPN	_	11	appos
+14	Musica	_	PROPN	PROPN	_	11	appos
+15	Pitbull	_	PROPN	PROPN	_	16	name
+16	Album	_	PROPN	PROPN	_	19	name
+17	2012	_	PROPN	PROPN	_	19	name
+18	Global	_	PROPN	PROPN	_	19	name
+19	Warming	_	PROPN	PROPN	_	11	appos
+20	)	_	PUNCT	PUNCT	_	11	punct
+21	.	_	PUNCT	PUNCT	_	3	punct
+

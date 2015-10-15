@@ -1,0 +1,27 @@
+1	Selvom	_	SCONJ	SCONJ	_	4	mark
+2	onlineafstemningen	_	NOUN	NOUN	_	4	nsubj
+3	kun	_	ADV	ADV	_	4	advmod
+4	påvirkede	_	VERB	VERB	_	7	dep
+5	nomineringsprocessen	_	NOUN	NOUN	_	4	dobj
+6	,	_	PUNCT	PUNCT	_	4	punct
+7	uddelte	_	VERB	VERB	_	0	root
+8	FIFA's	_	PROPN	PROPN	_	7	nsubj
+9	Technical	_	PROPN	PROPN	_	8	name
+10	Study	_	PROPN	PROPN	_	8	name
+11	Group	_	PROPN	PROPN	_	8	name
+12	prisen	_	NOUN	NOUN	_	7	dobj
+13	til	_	ADP	ADP	_	14	case
+14	Tysklands	_	PROPN	PROPN	_	12	nmod
+15	Lukas	_	PROPN	PROPN	_	14	name
+16	Podolski	_	PROPN	PROPN	_	14	name
+17	,	_	PUNCT	PUNCT	_	7	punct
+18	og	_	CONJ	CONJ	_	7	cc
+19	de	_	PRON	PRON	_	20	nsubj
+20	henviste	_	VERB	VERB	_	14	acl:relcl
+21	til	_	ADP	ADP	_	23	case
+22	Ronaldos	_	PROPN	PROPN	_	23	nmod:poss
+23	adfærd	_	NOUN	NOUN	_	20	nmod
+24	i	_	ADP	ADP	_	25	case
+25	beslutningen	_	NOUN	NOUN	_	20	nmod
+26	.	_	PUNCT	PUNCT	_	7	punct
+

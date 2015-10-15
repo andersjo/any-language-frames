@@ -1,0 +1,27 @@
+1	Juli	_	PROPN	PROPN	_	3	dep
+2	2010	_	NUM	NUM	_	1	nmod
+3	gab	_	VERB	VERB	_	9	cop
+4	Ronaldo	_	PROPN	PROPN	_	6	name
+5	via	_	PROPN	PROPN	_	6	name
+6	Facebook	_	PROPN	PROPN	_	3	nsubj
+7	und	_	CONJ	CONJ	_	6	cc
+8	Twitter	_	PROPN	PROPN	_	6	conj
+9	bekannt	_	ADJ	ADJ	_	0	root
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	Vater	_	NOUN	NOUN	_	14	dobj
+12	eines	_	DET	DET	_	13	det
+13	Sohnes	_	NOUN	NOUN	_	11	det
+14	geworden	_	VERB	VERB	_	3	xcomp
+15	zu	_	PART	PART	_	16	aux
+16	sein	_	AUX	AUX	_	14	aux
+17	und	_	CONJ	CONJ	_	14	cc
+18	für	_	ADP	ADP	_	19	case
+19	diesen	_	PRON	PRON	_	23	nmod
+20	das	_	DET	DET	_	22	det
+21	alleinige	_	ADJ	ADJ	_	22	amod
+22	Sorgerecht	_	NOUN	NOUN	_	23	dobj
+23	übernommen	_	VERB	VERB	_	9	conj
+24	zu	_	PART	PART	_	25	aux
+25	haben	_	AUX	AUX	_	23	aux
+26	.	_	PUNCT	PUNCT	_	3	punct
+

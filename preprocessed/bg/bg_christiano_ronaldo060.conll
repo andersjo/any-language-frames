@@ -1,0 +1,9 @@
+1	"	_	PUNCT	PUNCT	_	3	punct
+2	Информацията	_	NOUN	NOUN	_	3	nsubj
+3	е	_	VERB	VERB	_	0	root
+4	актуална	_	ADJ	ADJ	_	3	cop
+5	към	_	ADP	ADP	_	7	case
+6	14	_	NUM	NUM	_	7	nummod
+7	ноември	_	NOUN	NOUN	_	4	nmod
+8	2014	_	NUM	NUM	_	7	nummod
+

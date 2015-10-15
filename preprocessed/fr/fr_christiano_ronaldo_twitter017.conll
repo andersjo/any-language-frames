@@ -1,0 +1,22 @@
+1	@MeMagnan	_	PROPN	PROPN	_	18	nsubj
+2	le	_	DET	DET	_	4	det
+3	meilleur	_	ADJ	ADJ	_	4	amod
+4	footeux	_	NOUN	NOUN	_	1	appos
+5	de	_	ADP	ADP	_	7	case
+6	la	_	DET	DET	_	7	det
+7	planète	_	NOUN	NOUN	_	4	nmod
+8	s'appelle	_	VERB	VERB	_	7	acl
+9	CR	_	X	X	_	8	dobj
+10	(	_	PUNCT	PUNCT	_	12	punct
+11	Christiano	_	PROPN	PROPN	_	12	name
+12	Ronaldo	_	PROPN	PROPN	_	9	appos
+13	)	_	PUNCT	PUNCT	_	12	punct
+14	,...	_	NOUN	NOUN	_	9	appos
+15	les	_	DET	DET	_	16	det
+16	généalogistes	_	NOUN	NOUN	_	18	nsubj
+17	aussi	_	ADV	ADV	_	18	advmod
+18	ont	_	VERB	VERB	_	0	root
+19	leur	_	DET	DET	_	20	nmod:poss
+20	CR	_	X	X	_	18	dobj
+21	:)	_	SYM	SYM	_	20	punct
+

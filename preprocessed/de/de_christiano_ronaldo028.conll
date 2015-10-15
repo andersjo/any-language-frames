@@ -1,0 +1,11 @@
+1	„Ausbildungsentschädigung	_	NOUN	NOUN	_	4	nsubj
+2	“	_	PROPN	PROPN	_	1	appos
+3	)	_	PUNCT	PUNCT	_	1	punct
+4	wechselte	_	VERB	VERB	_	0	root
+5	Ronaldo	_	PROPN	PROPN	_	4	nsubj
+6	später	_	ADV	ADV	_	4	advmod
+7	schließlich	_	ADV	ADV	_	4	advmod
+8	zum	_	ADP	ADP	_	9	case
+9	Hauptstadtverein	_	NOUN	NOUN	_	4	nmod
+10	.	_	PUNCT	PUNCT	_	4	punct
+

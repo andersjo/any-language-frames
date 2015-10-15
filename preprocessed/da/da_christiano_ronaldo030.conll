@@ -1,0 +1,6 @@
+1	Jeg	_	PRON	PRON	_	2	nsubj
+2	sagde	_	VERB	VERB	_	0	root
+3	nummer	_	NOUN	NOUN	_	2	dep
+4	28	_	NUM	NUM	_	3	nmod
+5	.	_	PUNCT	PUNCT	_	2	punct
+

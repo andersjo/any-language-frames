@@ -1,0 +1,24 @@
+1	Cuando	_	SCONJ	SCONJ	_	4	mark
+2	Cristiano	_	PROPN	PROPN	_	3	name
+3	Ronaldo	_	PROPN	PROPN	_	4	nsubj
+4	tenía	_	VERB	VERB	_	9	advcl
+5	quince	_	NUM	NUM	_	6	nummod
+6	años	_	NOUN	NOUN	_	4	dobj
+7	,	_	PUNCT	PUNCT	_	4	punct
+8	fue	_	AUX	AUX	_	9	auxpass
+9	diagnosticado	_	VERB	VERB	_	0	root
+10	un	_	DET	DET	_	11	det
+11	problema	_	NOUN	NOUN	_	9	dobj
+12	de	_	ADP	ADP	_	13	case
+13	corazón	_	NOUN	NOUN	_	11	nmod
+14	que	_	SCONJ	SCONJ	_	19	mark
+15	pudo	_	AUX	AUX	_	16	aux
+16	haberle	_	AUX	AUX	_	17	aux
+17	forzado	_	ADJ	ADJ	_	11	acl:relcl
+18	a	_	ADP	ADP	_	19	case
+19	retirarse	_	VERB	VERB	_	17	advcl
+20	de	_	ADP	ADP	_	21	case
+21	jugar	_	VERB	VERB	_	19	acl
+22	fútbol	_	NOUN	NOUN	_	21	dobj
+23	.	_	PUNCT	PUNCT	_	9	punct
+

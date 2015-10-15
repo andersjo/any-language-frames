@@ -1,0 +1,18 @@
+1	Christiano	_	PROPN	PROPN	_	2	name
+2	Ronaldo	_	PROPN	PROPN	_	8	nsubj
+3	à	_	ADP	ADP	_	4	case
+4	lui	_	PRON	PRON	_	2	nmod
+5	tout	_	ADV	ADV	_	6	advmod
+6	seul	_	ADJ	ADJ	_	4	amod
+7	y	_	PRON	PRON	_	8	iobj
+8	domine	_	VERB	VERB	_	0	root
+9	toute	_	ADV	ADV	_	8	advmod
+10	les	_	DET	DET	_	11	det
+11	équipes	_	NOUN	NOUN	_	8	dobj
+12	sur	_	ADP	ADP	_	13	case
+13	FIFA	_	PROPN	PROPN	_	11	nmod
+14	Abusée	_	VERB	VERB	_	11	acl
+15	ce	_	DET	DET	_	16	det
+16	joueur	_	NOUN	NOUN	_	14	dobj
+17	!	_	PUNCT	PUNCT	_	8	punct
+

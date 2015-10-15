@@ -1,0 +1,22 @@
+1	@EstebanCrochet	_	PROPN	PROPN	_	3	name
+2	@Le_Harry_Potter	_	PROPN	PROPN	_	3	name
+3	@malefoy_drago	_	PROPN	PROPN	_	0	root
+4	escuse	_	ADJ	ADJ	_	3	amod
+5	moi	_	PRON	PRON	_	6	dobj
+6	J'ai	_	PROPN	PROPN	_	3	appos
+7	des	_	ADP	ADP	_	8	case
+8	excès	_	NOUN	NOUN	_	6	nmod
+9	de	_	ADP	ADP	_	10	case
+10	colère	_	NOUN	NOUN	_	8	nmod
+11	et	_	CONJ	CONJ	_	8	cc
+12	puisque	_	SCONJ	SCONJ	_	14	mark
+13	tu	_	PRON	PRON	_	14	nsubj
+14	es	_	VERB	VERB	_	19	advcl
+15	a	_	ADP	ADP	_	16	case
+16	serpentard	_	NOUN	NOUN	_	14	nmod
+17	je	_	PRON	PRON	_	19	nsubj
+18	vais	_	AUX	AUX	_	19	aux
+19	faire	_	VERB	VERB	_	3	acl:relcl
+20	une	_	DET	DET	_	21	det
+21	faveur	_	NOUN	NOUN	_	19	dobj
+

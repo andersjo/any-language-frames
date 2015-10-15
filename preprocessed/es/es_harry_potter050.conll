@@ -1,0 +1,24 @@
+1	También	_	ADV	ADV	_	3	advmod
+2	se	_	PRON	PRON	_	3	iobj
+3	introducen	_	VERB	VERB	_	0	root
+4	nuevos	_	ADJ	ADJ	_	5	amod
+5	personajes	_	NOUN	NOUN	_	3	nsubj
+6	que	_	SCONJ	SCONJ	_	7	mark
+7	tendrán	_	VERB	VERB	_	5	acl:relcl
+8	participación	_	NOUN	NOUN	_	7	dobj
+9	significativa	_	ADJ	ADJ	_	8	amod
+10	en	_	ADP	ADP	_	13	case
+11	los	_	DET	DET	_	13	det
+12	siguientes	_	ADJ	ADJ	_	13	amod
+13	libros	_	NOUN	NOUN	_	7	nmod
+14	como	_	ADP	ADP	_	16	case
+15	Lucius	_	PROPN	PROPN	_	16	name
+16	Malfoy	_	PROPN	PROPN	_	13	nmod
+17	o	_	CONJ	CONJ	_	16	cc
+18	Arthur	_	PROPN	PROPN	_	19	name
+19	Weasley	_	PROPN	PROPN	_	16	conj
+20	,	_	PUNCT	PUNCT	_	22	punct
+21	entre	_	ADP	ADP	_	22	case
+22	otros	_	PRON	PRON	_	19	nmod
+23	.	_	PUNCT	PUNCT	_	3	punct
+

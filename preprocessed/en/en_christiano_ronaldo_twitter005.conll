@@ -1,0 +1,22 @@
+1	@RaypowerNetwork	_	NOUN	NOUN	_	0	root
+2	my	_	PRON	PRON	_	4	nmod:poss
+3	favourite	_	ADJ	ADJ	_	0	iobj
+4	man	_	NOUN	NOUN	_	1	nmod
+5	of	_	ADP	ADP	_	4	acl
+6	the	_	DET	DET	_	7	det
+7	year	_	NOUN	NOUN	_	14	nmod:tmod
+8	is	_	VERB	VERB	_	12	cop
+9	christiano	_	PROPN	PROPN	_	12	compound
+10	ronaldo	_	PROPN	PROPN	_	12	compound
+11	...!!!	_	PROPN	PROPN	_	12	compound
+12	Cos	_	PROPN	PROPN	_	13	appos
+13	he	_	PRON	PRON	_	14	nsubj
+14	achieved	_	VERB	VERB	_	1	acl:relcl
+15	and	_	CONJ	CONJ	_	14	cc
+16	broke	_	VERB	VERB	_	14	conj
+17	a	_	DET	DET	_	18	det
+18	lot	_	NOUN	NOUN	_	16	dobj
+19	of	_	ADP	ADP	_	16	compound:prt
+20	record	_	NOUN	NOUN	_	18	nmod
+21	2014	_	NUM	NUM	_	20	appos
+

@@ -1,0 +1,12 @@
+1	It's	_	PROPN	PROPN	_	3	nmod:poss
+2	five	_	ADJ	ADJ	_	3	amod
+3	o'clock	_	NOUN	NOUN	_	0	root
+4	here	_	ADV	ADV	_	3	advmod
+5	,	_	PUNCT	PUNCT	_	6	punct
+6	now	_	NOUN	NOUN	_	4	dep
+7	:	_	PUNCT	PUNCT	_	6	punct
+8	http://t.co/46T81O923p	_	PROPN	PROPN	_	6	list
+9	Clas	_	PROPN	PROPN	_	8	name
+10	på	_	ADP	ADP	_	11	case
+11	Hörnet	_	NOUN	NOUN	_	8	nmod
+

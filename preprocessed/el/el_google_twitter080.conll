@@ -1,0 +1,16 @@
+1	ΚΥΒΕΡΝΗΣΗ	_	NOUN	NOUN	_	0	root
+2	ΣΥΡΙΖΑ	_	NOUN	NOUN	_	3	nmod
+3	ΕΧΟΥΜΕ	_	NOUN	NOUN	_	1	nmod
+4	;	_	PUNCT	PUNCT	_	5	punct
+5	->	_	NOUN	NOUN	_	1	conj
+6	Γευματίζει	_	ADJ	ADJ	_	7	amod
+7	...	_	NOUN	NOUN	_	5	nmod
+8	σε	_	ADP	ADP	_	9	case
+9	κάδο	_	NOUN	NOUN	_	7	nmod
+10	απορριμμάτων	_	ADJ	ADJ	_	11	amod
+11	οικογένεια	_	NOUN	NOUN	_	9	nmod
+12	στην	_	ADP	ADP	_	13	case
+13	Ξάνθη	_	NOUN	NOUN	_	11	nmod
+14	–	_	NOUN	NOUN	_	13	nmod
+15	http://t.co/KZRqOLv00W	_	NOUN	NOUN	_	14	nmod
+

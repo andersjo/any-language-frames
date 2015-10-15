@@ -1,0 +1,26 @@
+1	L'azienda	_	PROPN	PROPN	_	4	nsubjpass
+2	è	_	AUX	AUX	_	4	aux
+3	stata	_	AUX	AUX	_	4	auxpass
+4	ripresa	_	VERB	VERB	_	0	root
+5	diverse	_	DET	DET	_	6	det
+6	volte	_	NOUN	NOUN	_	4	nmod
+7	perché	_	SCONJ	SCONJ	_	14	mark
+8	grazie	_	NOUN	NOUN	_	10	case
+9	a	_	ADP	ADP	_	8	mwe
+10	manovre	_	NOUN	NOUN	_	14	nmod
+11	di	_	ADP	ADP	_	12	case
+12	ingegneria	_	NOUN	NOUN	_	10	nmod
+13	fiscale	_	ADJ	ADJ	_	12	amod
+14	paga	_	VERB	VERB	_	4	advcl
+15	poche	_	DET	DET	_	16	det
+16	tasse	_	NOUN	NOUN	_	14	dobj
+17	sia	_	CONJ	CONJ	_	19	cc
+18	a	_	ADP	ADP	_	19	case
+19	livello	_	NOUN	NOUN	_	16	conj
+20	italiano	_	ADJ	ADJ	_	19	amod
+21	sia	_	CONJ	CONJ	_	23	cc
+22	a	_	ADP	ADP	_	23	case
+23	livello	_	NOUN	NOUN	_	19	conj
+24	globale	_	ADJ	ADJ	_	23	amod
+25	.	_	PUNCT	PUNCT	_	4	punct
+

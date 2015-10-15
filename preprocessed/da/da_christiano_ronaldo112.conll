@@ -1,0 +1,10 @@
+1	Ronaldo	_	PROPN	PROPN	_	5	nsubj
+2	har	_	AUX	AUX	_	5	cop
+3	et	_	DET	DET	_	5	det
+4	tæt	_	ADJ	ADJ	_	5	amod
+5	forhold	_	NOUN	NOUN	_	0	root
+6	til	_	ADP	ADP	_	8	case
+7	sin	_	DET	DET	_	8	det
+8	mor	_	NOUN	NOUN	_	5	nmod
+9	.	_	PUNCT	PUNCT	_	5	punct
+

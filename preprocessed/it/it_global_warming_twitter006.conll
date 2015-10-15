@@ -1,0 +1,22 @@
+1	@pfvalentino	_	ADV	ADV	_	3	advmod
+2	ci	_	PRON	PRON	_	3	expl
+3	sono	_	VERB	VERB	_	0	root
+4	già	_	ADV	ADV	_	5	advmod
+5	articoli	_	NOUN	NOUN	_	3	nsubj
+6	che	_	PRON	PRON	_	7	nsubj
+7	dicono	_	VERB	VERB	_	5	acl:relcl
+8	che	_	SCONJ	SCONJ	_	14	mark
+9	il	_	DET	DET	_	11	det
+10	global	_	ADJ	ADJ	_	11	amod
+11	warming	_	NOUN	NOUN	_	14	nsubj
+12	è	_	VERB	VERB	_	14	cop
+13	una	_	DET	DET	_	14	det
+14	bufala	_	NOUN	NOUN	_	7	ccomp
+15	o	_	CONJ	CONJ	_	7	cc
+16	ci	_	PRON	PRON	_	18	advmod
+17	hanno	_	AUX	AUX	_	18	aux
+18	risparmiati	_	VERB	VERB	_	14	acl:relcl
+19	questa	_	DET	DET	_	20	det
+20	volta	_	NOUN	NOUN	_	18	nmod
+21	?	_	PUNCT	PUNCT	_	7	punct
+

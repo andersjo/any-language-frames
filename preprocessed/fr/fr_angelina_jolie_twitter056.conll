@@ -1,0 +1,17 @@
+1	ah	_	PROPN	PROPN	_	4	name
+2	ouais	_	PROPN	PROPN	_	4	name
+3	nan	_	PROPN	PROPN	_	4	name
+4	angelina	_	PROPN	PROPN	_	0	root
+5	jolie	_	ADJ	ADJ	_	6	amod
+6	c'est	_	NOUN	NOUN	_	4	nmod
+7	pff	_	PROPN	PROPN	_	6	appos
+8	la	_	DET	DET	_	9	det
+9	perfection	_	NOUN	NOUN	_	6	appos
+10	nan	_	PROPN	PROPN	_	11	name
+11	c'est	_	PROPN	PROPN	_	9	appos
+12	juste	_	ADV	ADV	_	15	advmod
+13	rien	_	PRON	PRON	_	15	nsubj
+14	a	_	AUX	AUX	_	15	aux
+15	redire	_	VERB	VERB	_	9	acl:relcl
+16	👌👌👌	_	PROPN	PROPN	_	15	dobj
+

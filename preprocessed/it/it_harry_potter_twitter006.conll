@@ -1,0 +1,13 @@
+1	harry	_	PROPN	PROPN	_	9	nsubj
+2	potter	_	PROPN	PROPN	_	1	name
+3	harry	_	PROPN	PROPN	_	1	name
+4	styles	_	PROPN	PROPN	_	1	name
+5	i	_	DET	DET	_	6	det
+6	ragazzi	_	NOUN	NOUN	_	0	root
+7	che	_	PRON	PRON	_	9	nsubj
+8	hanno	_	AUX	AUX	_	9	aux
+9	composto	_	VERB	VERB	_	6	acl:relcl
+10	la	_	DET	DET	_	12	det
+11	mia	_	DET	DET	_	12	det:poss
+12	vita	_	NOUN	NOUN	_	9	dobj
+

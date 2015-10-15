@@ -1,0 +1,18 @@
+1	http://t.co/vJ4sfPZ8tM	_	NOUN	NOUN	_	17	nsubj
+2	HO	_	PROPN	PROPN	_	1	nmod
+3	CERCATO	_	PROPN	PROPN	_	2	name
+4	I	_	PROPN	PROPN	_	2	name
+5	SEVENTEEN	_	PROPN	PROPN	_	2	name
+6	SU	_	PROPN	PROPN	_	2	name
+7	GOOGLE	_	PROPN	PROPN	_	2	name
+8	E	_	CONJ	CONJ	_	2	cc
+9	MI	_	PROPN	PROPN	_	2	conj
+10	E	_	PROPN	PROPN	_	9	name
+11	'	_	PUNCT	PUNCT	_	12	punct
+12	APPARSO	_	PROPN	PROPN	_	16	nsubj
+13	QUESTO	_	PROPN	PROPN	_	12	name
+14	MI	_	PROPN	PROPN	_	12	name
+15	STO	_	PROPN	PROPN	_	12	name
+16	PISCIANDO	_	VERB	VERB	_	0	root
+17	ADDOSSO	_	NOUN	NOUN	_	16	dobj
+

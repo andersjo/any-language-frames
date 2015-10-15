@@ -1,0 +1,20 @@
+1	#trends	_	PROPN	PROPN	_	2	name
+2	Furtwangen	_	PROPN	PROPN	_	4	name
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Facebook	_	PROPN	PROPN	_	5	nsubj
+5	sorgt	_	VERB	VERB	_	0	root
+6	für	_	ADP	ADP	_	8	case
+7	zahlreiche	_	ADJ	ADJ	_	8	amod
+8	Hinweise	_	NOUN	NOUN	_	5	nmod
+9	:	_	PUNCT	PUNCT	_	5	punct
+10	Als	_	ADP	ADP	_	12	case
+11	wichtiges	_	ADJ	ADJ	_	12	amod
+12	Mittel	_	NOUN	NOUN	_	5	nmod
+13	bei	_	ADP	ADP	_	15	case
+14	der	_	DET	DET	_	15	det
+15	Fahndung	_	NOUN	NOUN	_	5	nmod
+16	stellte	_	VERB	VERB	_	5	conj
+17	sich	_	PRON	PRON	_	16	dobj
+18	...	_	PUNCT	PUNCT	_	16	punct
+19	http://t.co/T4DGTqFTdd	_	ADJ	ADJ	_	16	advmod
+

@@ -1,0 +1,11 @@
+1	Iraqi	_	PROPN	PROPN	_	4	nmod:poss
+2	Kurdish	_	PROPN	PROPN	_	1	name
+3	Peshmarga	_	PROPN	PROPN	_	1	name
+4	forces	_	NOUN	NOUN	_	5	nmod:poss
+5	capture	_	NOUN	NOUN	_	6	nmod:poss
+6	key	_	NOUN	NOUN	_	7	nmod:poss
+7	village	_	NOUN	NOUN	_	9	nmod:poss
+8	near	_	ADJ	ADJ	_	7	amod
+9	Erbil	_	NOUN	NOUN	_	10	nmod:poss
+10	http://t.co/kMuojOK1vT	_	NOUN	NOUN	_	0	root
+

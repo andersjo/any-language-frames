@@ -1,0 +1,19 @@
+1	#news	_	PROPN	PROPN	_	3	nsubj
+2	Renzi	_	PROPN	PROPN	_	1	name
+3	blocca	_	VERB	VERB	_	0	root
+4	decreti	_	NOUN	NOUN	_	3	dobj
+5	delegati	_	NOUN	NOUN	_	4	compound
+6	su	_	ADP	ADP	_	7	case
+7	fisco	_	NOUN	NOUN	_	5	nmod
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	palazzo	_	NOUN	NOUN	_	7	conj
+10	Chigi	_	PROPN	PROPN	_	9	nmod
+11	:	_	PUNCT	PUNCT	_	1	punct
+12	il	_	DET	DET	_	13	det
+13	governo	_	NOUN	NOUN	_	15	nsubj
+14	non	_	ADV	ADV	_	17	neg
+15	...	_	PUNCT	PUNCT	_	3	punct
+16	-	_	PUNCT	PUNCT	_	17	punct
+17	ANSA.it	_	PROPN	PROPN	_	13	nmod
+18	http://t.co/s07T9OBJDv	_	PROPN	PROPN	_	17	name
+

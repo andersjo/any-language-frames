@@ -1,0 +1,16 @@
+1	http://t.co/JTbP33RrHc	_	PROPN	PROPN	_	0	root
+2	<	_	PUNCT	PUNCT	_	3	punct
+3	b	_	NOUN	NOUN	_	1	name
+4	>	_	PUNCT	PUNCT	_	3	punct
+5	Digital	_	NOUN	NOUN	_	6	nmod:poss
+6	Advertising	_	NOUN	NOUN	_	3	conj
+7	<	_	PUNCT	PUNCT	_	3	punct
+8	/b	_	NOUN	NOUN	_	6	dep
+9	>	_	PUNCT	PUNCT	_	8	punct
+10	Sales	_	PROPN	PROPN	_	8	appos
+11	Manager	_	PROPN	PROPN	_	10	name
+12	,	_	PUNCT	PUNCT	_	10	punct
+13	AED	_	NOUN	NOUN	_	10	name
+14	15000	_	NUM	NUM	_	15	nummod
+15	http://t.co/9Gmb9LUpa1	_	NOUN	NOUN	_	13	list
+

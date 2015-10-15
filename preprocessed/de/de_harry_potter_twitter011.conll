@@ -1,0 +1,16 @@
+1	Ich	_	PRON	PRON	_	2	nsubj
+2	weiß	_	VERB	VERB	_	0	root
+3	grad	_	ADJ	ADJ	_	2	advmod
+4	nicht	_	PART	PART	_	2	neg
+5	,	_	PUNCT	PUNCT	_	2	punct
+6	ob	_	SCONJ	SCONJ	_	14	mark
+7	ich	_	PRON	PRON	_	14	nsubj
+8	lieber	_	ADV	ADV	_	14	advmod
+9	Harry	_	PROPN	PROPN	_	10	name
+10	Potter	_	PROPN	PROPN	_	14	nsubj
+11	oder	_	CONJ	CONJ	_	10	cc
+12	Star	_	PROPN	PROPN	_	13	name
+13	Wars	_	PROPN	PROPN	_	10	conj
+14	gucken	_	VERB	VERB	_	2	ccomp
+15	will	_	AUX	AUX	_	14	aux
+

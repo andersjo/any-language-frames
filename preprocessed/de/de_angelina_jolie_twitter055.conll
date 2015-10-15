@@ -1,0 +1,16 @@
+1	VIPgirlsBERLIN.de	_	PROPN	PROPN	_	3	name
+2	Angelina	_	PROPN	PROPN	_	3	name
+3	Jolie	_	PROPN	PROPN	_	0	root
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	Ich	_	PRON	PRON	_	8	nsubj
+6	vertraue	_	ADJ	ADJ	_	7	amod
+7	Brad	_	PROPN	PROPN	_	8	nmod
+8	bedingungslos	_	ADJ	ADJ	_	10	amod
+9	:	_	PUNCT	PUNCT	_	8	punct
+10	Schauspielerin	_	NOUN	NOUN	_	1	acl
+11	Angelina	_	PROPN	PROPN	_	12	name
+12	J	_	PROPN	PROPN	_	10	appos
+13	...	_	PUNCT	PUNCT	_	3	punct
+14	http://t.co/fdqLyLhbYN	_	PROPN	PROPN	_	15	name
+15	VIPgirlsBERLIN.de	_	PROPN	PROPN	_	10	appos
+

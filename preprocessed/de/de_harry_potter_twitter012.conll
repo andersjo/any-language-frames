@@ -1,0 +1,13 @@
+1	Ich	_	PRON	PRON	_	2	nsubj
+2	versinke	_	VERB	VERB	_	0	root
+3	gerade	_	ADV	ADV	_	2	advmod
+4	wieder	_	ADV	ADV	_	2	advmod
+5	in	_	ADP	ADP	_	6	case
+6	meinem	_	PRON	PRON	_	2	nmod
+7	Harry	_	PROPN	PROPN	_	8	name
+8	Potter	_	PROPN	PROPN	_	10	name
+9	fandom	_	PROPN	PROPN	_	10	name
+10	♡	_	PROPN	PROPN	_	2	nmod
+11	.	_	PUNCT	PUNCT	_	2	punct
+12	♡	_	PROPN	PROPN	_	10	appos
+

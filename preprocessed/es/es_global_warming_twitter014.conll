@@ -1,0 +1,13 @@
+1	WOW	_	PROPN	PROPN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Pope	_	PROPN	PROPN	_	4	name
+4	Francis	_	PROPN	PROPN	_	1	appos
+5	’	_	X	X	_	4	appos
+6	Encyclical	_	ADJ	ADJ	_	5	amod
+7	on	_	PROPN	PROPN	_	10	name
+8	Global	_	PROPN	PROPN	_	10	name
+9	Warming	_	PROPN	PROPN	_	10	name
+10	http://t.co/UYrRMYJ1hq	_	PROPN	PROPN	_	1	appos
+11	vía	_	ADP	ADP	_	12	case
+12	@BadAstronomer	_	PROPN	PROPN	_	10	nmod
+

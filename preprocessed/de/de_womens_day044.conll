@@ -1,0 +1,13 @@
+1	1917	_	NUM	NUM	_	2	nmod
+2	war	_	VERB	VERB	_	11	cop
+3	aber	_	ADV	ADV	_	4	advmod
+4	auch	_	ADV	ADV	_	8	advmod
+5	aus	_	ADP	ADP	_	8	case
+6	einem	_	DET	DET	_	8	det
+7	anderen	_	ADJ	ADJ	_	8	amod
+8	Grund	_	NOUN	NOUN	_	0	root
+9	ein	_	DET	DET	_	11	det
+10	entscheidendes	_	ADJ	ADJ	_	11	amod
+11	Jahr	_	NOUN	NOUN	_	8	det
+12	.	_	PUNCT	PUNCT	_	8	punct
+

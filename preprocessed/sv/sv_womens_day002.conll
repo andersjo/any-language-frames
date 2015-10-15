@@ -1,0 +1,22 @@
+1	Den	_	DET	DET	_	3	det
+2	internationella	_	ADJ	ADJ	_	3	amod
+3	kvinnodagen	_	NOUN	NOUN	_	4	nsubj
+4	instiftades	_	VERB	VERB	_	0	root
+5	redan	_	ADV	ADV	_	6	advmod
+6	1910	_	NUM	NUM	_	4	nmod
+7	av	_	ADP	ADP	_	12	case
+8	den	_	DET	DET	_	10	det
+9	socialistiska	_	ADJ	ADJ	_	10	amod
+10	världsorganisationen	_	NOUN	NOUN	_	12	nmod:poss
+11	Andra	_	ADJ	ADJ	_	12	det
+12	internationalen	_	NOUN	NOUN	_	4	nmod
+13	på	_	ADP	ADP	_	14	case
+14	initiativ	_	NOUN	NOUN	_	12	nmod
+15	av	_	ADP	ADP	_	18	case
+16	den	_	DET	DET	_	18	det
+17	tyska	_	ADJ	ADJ	_	18	amod
+18	kommunisten	_	NOUN	NOUN	_	14	nmod
+19	Clara	_	VERB	VERB	_	4	advcl
+20	Zetkin	_	NOUN	NOUN	_	19	dobj
+21	.	_	PUNCT	PUNCT	_	4	punct
+

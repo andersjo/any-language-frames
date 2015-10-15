@@ -1,0 +1,14 @@
+1	Droni	_	PROPN	PROPN	_	11	nsubj
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	visori	_	NOUN	NOUN	_	1	appos
+4	e	_	CONJ	CONJ	_	3	cc
+5	storie	_	NOUN	NOUN	_	3	conj
+6	:	_	PUNCT	PUNCT	_	1	punct
+7	i	_	DET	DET	_	8	det
+8	geni	_	NOUN	NOUN	_	11	nsubj
+9	del	_	ADP	ADP	_	10	case
+10	2015	_	NUM	NUM	_	8	nummod
+11	sono	_	VERB	VERB	_	13	cop
+12	qui	_	ADV	ADV	_	11	advmod
+13	http://t.co/UleCYCUQ1X	_	NOUN	NOUN	_	0	root
+

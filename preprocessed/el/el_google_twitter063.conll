@@ -1,0 +1,17 @@
+1	Καλο	_	NOUN	NOUN	_	2	nsubj
+2	Βραδυ	_	VERB	VERB	_	0	root
+3	και	_	CONJ	CONJ	_	5	cc
+4	καλο	_	ADJ	ADJ	_	5	amod
+5	ξημερωμα	_	NOUN	NOUN	_	2	dobj
+6	Hasta	_	NOUN	NOUN	_	7	nmod
+7	Mañana	_	NOUN	NOUN	_	5	nmod
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	See	_	NOUN	NOUN	_	11	nmod
+10	you	_	NOUN	NOUN	_	11	nmod
+11	tomorrow	_	NOUN	NOUN	_	7	conj
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	Vi	_	NOUN	NOUN	_	14	nmod
+14	ses	_	NOUN	NOUN	_	11	appos
+15	imorgon	_	NOUN	NOUN	_	14	nmod
+16	https://t.co/RVMF3V2vgw	_	NOUN	NOUN	_	15	nmod
+

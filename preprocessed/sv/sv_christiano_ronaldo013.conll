@@ -1,0 +1,16 @@
+1	År	_	NOUN	NOUN	_	2	det
+2	1995	_	NUM	NUM	_	3	nmod
+3	köptes	_	VERB	VERB	_	0	root
+4	han	_	PRON	PRON	_	3	nsubj
+5	av	_	ADP	ADP	_	8	case
+6	det	_	DET	DET	_	8	det
+7	större	_	ADJ	ADJ	_	8	amod
+8	laget	_	NOUN	NOUN	_	9	nmod
+9	CD	_	VERB	VERB	_	3	xcomp
+10	Nacional	_	NOUN	NOUN	_	9	dobj
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	från	_	ADP	ADP	_	14	case
+13	samma	_	DET	DET	_	14	det
+14	stad	_	NOUN	NOUN	_	9	nmod
+15	.	_	PUNCT	PUNCT	_	3	punct
+

@@ -1,0 +1,7 @@
+1	Mai	_	PROPN	PROPN	_	0	root
+2	1918	_	NUM	NUM	_	1	nmod
+3	,	_	PUNCT	PUNCT	_	1	punct
+4	dem	_	DET	DET	_	5	det
+5	100	_	NUM	NUM	_	2	conj
+6	.	_	PUNCT	PUNCT	_	5	punct
+

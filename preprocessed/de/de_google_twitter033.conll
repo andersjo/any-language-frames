@@ -1,0 +1,22 @@
+1	Games	_	PROPN	PROPN	_	2	name
+2	similar	_	PROPN	PROPN	_	5	name
+3	to	_	PROPN	PROPN	_	4	aux
+4	Sabertooth	_	PROPN	PROPN	_	5	name
+5	Tiger	_	PROPN	PROPN	_	6	det
+6	Simulator	_	NOUN	NOUN	_	0	root
+7	:	_	PUNCT	PUNCT	_	6	punct
+8	2958727	_	NUM	NUM	_	9	nummod
+9	Bewertungen	_	NOUN	NOUN	_	6	appos
+10	.	_	PUNCT	PUNCT	_	9	punct
+11	FREE	_	PROPN	PROPN	_	9	appos
+12	.	_	PUNCT	PUNCT	_	11	punct
+13	Similar	_	PROPN	PROPN	_	14	name
+14	apps	_	PROPN	PROPN	_	15	name
+15	·	_	PROPN	PROPN	_	16	name
+16	Danger	_	PROPN	PROPN	_	17	name
+17	Dash	_	PROPN	PROPN	_	18	name
+18	.…	_	PROPN	PROPN	_	19	name
+19	http://t.co/SCKwyZtYSd	_	PROPN	PROPN	_	21	name
+20	#game	_	PROPN	PROPN	_	21	name
+21	#reviews	_	PROPN	PROPN	_	11	punct
+

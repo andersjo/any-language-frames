@@ -1,0 +1,18 @@
+1	20	_	NUM	NUM	_	3	nummod
+2	.	_	PUNCT	PUNCT	_	3	punct
+3	august	_	NOUN	NOUN	_	5	dep
+4	2005	_	NUM	NUM	_	3	nmod
+5	indekserer	_	VERB	VERB	_	0	root
+6	Google	_	NOUN	NOUN	_	5	nsubj
+7	8.168.684.336	_	NUM	NUM	_	8	nummod
+8	websteder	_	NOUN	NOUN	_	11	dep
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	2.187.212.422	_	NUM	NUM	_	11	nummod
+11	billeder	_	NOUN	NOUN	_	16	dep
+12	og	_	CONJ	CONJ	_	5	cc
+13	nær	_	ADP	ADP	_	15	case
+14	1	_	NUM	NUM	_	15	nummod
+15	milliard	_	NOUN	NOUN	_	12	nmod
+16	nyhedsgruppeindlæg	_	NOUN	NOUN	_	15	nmod
+17	.	_	PUNCT	PUNCT	_	5	punct
+

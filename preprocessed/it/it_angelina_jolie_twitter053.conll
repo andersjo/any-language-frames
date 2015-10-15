@@ -1,0 +1,22 @@
+1	Mi	_	PRON	PRON	_	3	iobj
+2	è	_	AUX	AUX	_	3	aux
+3	piaciuto	_	VERB	VERB	_	0	root
+4	un	_	DET	DET	_	5	det
+5	video	_	NOUN	NOUN	_	3	nsubj
+6	di	_	ADP	ADP	_	7	mark
+7	@YouTube	_	VERB	VERB	_	5	acl
+8	:	_	PUNCT	PUNCT	_	5	punct
+9	http://t.co/Vyl7wOXs85	_	NOUN	NOUN	_	7	dobj
+10	Unbroken	_	PROPN	PROPN	_	9	nmod
+11	(	_	PUNCT	PUNCT	_	12	punct
+12	2014	_	NUM	NUM	_	9	nummod
+13	)	_	PUNCT	PUNCT	_	12	punct
+14	Behind	_	PROPN	PROPN	_	10	nmod
+15	the	_	DET	DET	_	16	det
+16	Scenes	_	PROPN	PROPN	_	14	nmod
+17	Movie	_	PROPN	PROPN	_	16	name
+18	Interview	_	PROPN	PROPN	_	16	name
+19	-	_	PUNCT	PUNCT	_	16	punct
+20	Angelina	_	PROPN	PROPN	_	16	conj
+21	Jolie	_	PROPN	PROPN	_	20	name
+

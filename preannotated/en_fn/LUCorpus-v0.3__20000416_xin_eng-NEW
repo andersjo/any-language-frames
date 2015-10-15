@@ -1,0 +1,500 @@
+U.S.	_	
+Congressman	_	Leadership
+Arrives	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Iraq	_	
+for	_	Causation Taking_sides
+Landmark	_	Importance
+Visit	_	Arriving Visiting
+BAGHDAD	_	
+,	_	
+April	_	Calendric_unit
+16	_	
+(	_	
+Xinhua	_	
+)	_	
+--	_	
+
+U.S.	_	
+Congressman	_	Leadership
+Tony	_	
+Hall	_	Buildings
+arrived	_	Arriving
+here	_	Locative_relation
+Sunday	_	Calendric_unit
+evening	_	Calendric_unit
+,	_	
+becoming	_	Becoming
+the	_	Self_motion Temporal_collocation
+first	_	First_experience Ordinal_numbers
+U.S.	_	
+lawmaker	_	Leadership
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+visit	_	Arriving Visiting
+Iraq	_	
+since	_	Causation Time_vector
+the	_	Self_motion Temporal_collocation
+1991	_	
+Gulf	_	Natural_features
+War	_	Hostile_encounter
+.	_	
+
+Hall	_	Buildings
+,	_	
+heading	_	Leadership
+a	_	Measure_duration Process_end Quantity
+three-member	_	
+delegation	_	Organization
+,	_	
+arrived	_	Arriving
+here	_	Locative_relation
+at	_	Locative_relation Relational_quantity Temporal_collocation
+19:17	_	
+(	_	
+1517	_	
+GMT	_	
+)	_	
+by	_	Locative_relation Means
+land	_	Locale_by_ownership Natural_features Political_locales
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Jordanian	_	Origin
+capital	_	Money Relational_political_locales Severity_of_offense
+Amman	_	
+,	_	
+and	_	
+stayed	_	Temporary_stay
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+five-star	_	
+Mansour	_	
+Hotel	_	Buildings
+.	_	
+
+At	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+entrance	_	Arriving
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Mansour	_	
+Hotel	_	Buildings
+,	_	
+Hall	_	Buildings
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+a	_	Measure_duration Process_end Quantity
+brief	_	Documents Duration_attribute
+statement	_	Statement
+,	_	
+saying	_	Statement
+that	_	Degree
+he	_	
+came	_	Arriving Process_end
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Iraq	_	
+because	_	Causation
+he	_	
+has	_	Have_associated Inclusion Possession
+heard	_	Hear Perception_experience
+for	_	Causation Taking_sides
+a	_	Measure_duration Process_end Quantity
+long	_	Desiring Dimension Duration_attribute Likelihood Measurable_attributes
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+the	_	Self_motion Temporal_collocation
+humanitarian	_	
+situation	_	
+here	_	Locative_relation
+,	_	
+especially	_	
+the	_	Self_motion Temporal_collocation
+malnutrition	_	Medical_conditions
+among	_	Be_subset_of Inclusion Locative_relation
+the	_	Self_motion Temporal_collocation
+Iraqi	_	Origin
+children	_	Kinship People_by_age
+and	_	
+the	_	Self_motion Temporal_collocation
+increasing	_	Cause_change_of_position_on_a_scale Change_position_on_a_scale
+mortality	_	Death
+rate	_	Assessing Frequency Speed
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+children	_	Kinship People_by_age
+and	_	
+the	_	Self_motion Temporal_collocation
+elderly	_	People_by_age
+.	_	
+
+He	_	
+also	_	
+said	_	Communication Statement
+that	_	Degree
+his	_	
+visit	_	Arriving Visiting
+will	_	Desiring Documents Giving
+mainly	_	
+focus	_	Place_weight_on
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+humanitarian	_	
+situation	_	
+of	_	Age Domain Origin Partitive
+Iraq	_	
+,	_	
+which	_	
+has	_	Have_associated Inclusion Possession
+been	_	Existence
+under	_	Locative_relation Relational_quantity
+crippling	_	
+U.N.	_	
+sanctions	_	Revenge
+since	_	Causation Time_vector
+its	_	
+1990	_	
+invasion	_	Invading
+of	_	Age Domain Origin Partitive
+Kuwait	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+primacord	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+1991	_	
+Gulf	_	Natural_features
+War	_	Hostile_encounter
+.	_	
+
+``	_	
+The	_	Self_motion Temporal_collocation
+visit	_	Arriving Visiting
+is	_	Existence
+not	_	
+a	_	Measure_duration Process_end Quantity
+political	_	
+visit	_	Arriving Visiting
+,	_	
+it	_	
+is	_	Existence
+a	_	Measure_duration Process_end Quantity
+visit	_	Arriving Visiting
+of	_	Age Domain Origin Partitive
+humanitarian	_	
+concerns	_	Emotion_directed Point_of_dispute
+,	_	
+''	_	
+he	_	
+added	_	Statement
+.	_	
+
+``	_	
+There	_	Existence Locative_relation
+are	_	Existence
+a	_	Measure_duration Process_end Quantity
+lot	_	Destiny Quantity
+of	_	Age Domain Origin Partitive
+issues	_	Point_of_dispute Text
+I	_	
+want	_	Desiring Possession
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+take	_	Bringing Capacity Conquering Create_physical_artwork Event Getting_vehicle_underway Have_as_requirement Ingest_substance Opinion Removing Ride_vehicle Self_motion Taking Taking_time
+a	_	Measure_duration Process_end Quantity
+look	_	Appearance Facial_expression Perception_active Scrutiny Seeking
+at	_	Locative_relation Relational_quantity Temporal_collocation
+,	_	
+but	_	Concessive
+the	_	Self_motion Temporal_collocation
+issue	_	Creating Emanating Point_of_dispute Supply Text
+of	_	Age Domain Origin Partitive
+humanitarian	_	
+concerns	_	Emotion_directed Point_of_dispute
+is	_	Existence
+number	_	Amounting_to Be_subset_of Quantity
+one	_	Cardinal_numbers
+,	_	
+''	_	
+he	_	
+said	_	Communication Statement
+.	_	
+
+During	_	Temporal_collocation
+his	_	
+stay	_	Residence State_continue Temporary_stay
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Iraq	_	
+,	_	
+he	_	
+will	_	Desiring Documents Giving
+visit	_	Arriving Visiting
+several	_	Quantity
+places	_	Locale
+,	_	
+including	_	Inclusion
+hospitals	_	Buildings
+and	_	
+schools	_	Locale_by_use
+,	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Baghdad	_	
+and	_	
+southern	_	Part_orientational
+Iraq	_	
+,	_	
+where	_	Locative_relation
+the	_	Self_motion Temporal_collocation
+U.S.	_	
+and	_	
+Britain	_	
+imposed	_	
+a	_	Measure_duration Process_end Quantity
+no	_	Quantity
+-	_	
+fly	_	Bringing Motion Operate_vehicle Ride_vehicle Self_motion
+zone	_	Locale
+,	_	
+with	_	Accompaniment
+the	_	Self_motion Temporal_collocation
+claimed	_	Claim_ownership Statement
+aim	_	Aiming Purpose
+of	_	Age Domain Origin Partitive
+protecting	_	
+Shi	_	
+'ite	_	
+Muslims	_	People_by_religion
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+possible	_	Likelihood
+attacks	_	Attack
+by	_	Locative_relation Means
+Iraqi	_	Origin
+government	_	Leadership Organization
+.	_	
+
+Bombing	_	Attack
+targets	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+no	_	Quantity
+-	_	
+fly	_	Bringing Motion Operate_vehicle Ride_vehicle Self_motion
+zones	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+southern	_	Part_orientational
+and	_	
+northern	_	Part_orientational
+Iraq	_	
+by	_	Locative_relation Means
+U.S.	_	
+and	_	
+British	_	
+warplanes	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+almost	_	Relational_quantity
+become	_	Becoming
+a	_	Measure_duration Process_end Quantity
+daily	_	Frequency
+occurrence	_	
+,	_	
+causing	_	Causation
+serious	_	Importance
+civilian	_	
+casualties	_	Undergoing
+.	_	
+
+When	_	Temporal_collocation
+asked	_	Questioning Request
+by	_	Locative_relation Means
+Xinhua	_	
+if	_	
+there	_	Existence Locative_relation
+is	_	Existence
+any	_	Quantity
+plan	_	Project Purpose
+for	_	Causation Taking_sides
+him	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+meet	_	Assemble Come_together Locative_relation Make_acquaintance Meet_specifications Meet_with_response Response
+Iraq	_	
+officials	_	Leadership
+,	_	
+he	_	
+said	_	Communication Statement
+``	_	
+I	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+not	_	
+been	_	Existence
+asked	_	Questioning Request
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+meet	_	Assemble Come_together Locative_relation Make_acquaintance Meet_specifications Meet_with_response Response
+any	_	Quantity
+top	_	Occupy_rank Part_orientational
+Iraqi	_	Origin
+officials	_	Leadership
+.	_	
+
+My	_	
+concern	_	Cause_emotion Emotion_directed Point_of_dispute Topic
+is	_	Existence
+with	_	Accompaniment
+the	_	Self_motion Temporal_collocation
+Red	_	Color
+Cross	_	Body_movement Court_examination Emotion_directed Path_shape Traversing
+,	_	
+the	_	Self_motion Temporal_collocation
+(	_	
+Iraqi)	_	
+Red	_	Color
+Crescent	_	
+,	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+see	_	Categorization Causation Grasp Perception_experience Reference_text Relational_political_locales Touring
+what	_	
+they	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+show	_	Cause_to_perceive Cotheme Evidence Finish_competition Obviousness Reasoning
+me	_	
+,	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+see	_	Categorization Causation Grasp Perception_experience Reference_text Relational_political_locales Touring
+with	_	Accompaniment
+my	_	
+own	_	Possession
+eyes	_	Observable_body_parts
+and	_	
+make	_	Arriving Building Causation Cause_change Cooking_creation Earnings_and_losses Intentionally_create Make_acquaintance Manufacturing Self_motion Type Verification
+up	_	Becoming Coming_up_with Direction Intentionally_create Locative_relation Reparation Summarizing
+my	_	
+own	_	Possession
+mind	_	
+.	_	
+''	_	
+
+However	_	Concessive
+,	_	
+it	_	
+has	_	Have_associated Inclusion Possession
+been	_	Existence
+reported	_	Statement
+that	_	Degree
+Hall	_	Buildings
+is	_	Existence
+expected	_	Expectation
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+meet	_	Assemble Come_together Locative_relation Make_acquaintance Meet_specifications Meet_with_response Response
+Iraqi	_	Origin
+Health	_	Medical_conditions
+Minister	_	Leadership
+Umid	_	
+Medhat	_	
+Mubarak	_	
+and	_	
+representatives	_	Leadership
+of	_	Age Domain Origin Partitive
+all	_	Quantity
+international	_	Foreign_or_domestic_country Political_locales
+aid	_	Assistance
+organizations	_	Organization
+working	_	Being_employed Being_operational Version_sequence Working_on
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Iraq	_	
+.	_	
+
+Iraq	_	
+has	_	Have_associated Inclusion Possession
+claimed	_	Claim_ownership Statement
+that	_	Degree
+more	_	Increment
+than	_	Time_vector
+1.5	_	
+million	_	Cardinal_numbers
+people	_	Colonization People
+,	_	
+mostly	_	
+children	_	Kinship People_by_age
+and	_	
+the	_	Self_motion Temporal_collocation
+elderly	_	People_by_age
+,	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+died	_	Death
+of	_	Age Domain Origin Partitive
+curable	_	Cure
+diseases	_	Medical_conditions
+due	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+decade-long	_	
+U.N.	_	
+sanctions	_	Revenge
+.	_	
+
+Iraq	_	
+has	_	Have_associated Inclusion Possession
+accused	_	Judgment_communication
+the	_	Self_motion Temporal_collocation
+U.S.	_	
+,	_	
+which	_	
+vehemently	_	
+opposes	_	Taking_sides
+the	_	Self_motion Temporal_collocation
+lifting	_	Cause_to_end
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+sanctions	_	Revenge
+against	_	Locative_relation Taking_sides
+Iraq	_	
+,	_	
+of	_	Age Domain Origin Partitive
+using	_	Using
+the	_	Self_motion Temporal_collocation
+sanctions	_	Revenge
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+a	_	Measure_duration Process_end Quantity
+tool	_	Gizmo
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+contain	_	Containing Inclusion
+the	_	Self_motion Temporal_collocation
+Iraqi	_	Origin
+regime	_	Law Leadership
+headed	_	Leadership Self_motion
+by	_	Locative_relation Means
+President	_	Leadership
+Saddam	_	
+Hussein	_	
+.	_	
+
+Earlier	_	Relative_time Temporal_subregion
+this	_	
+year	_	Calendric_unit Measure_duration
+,	_	
+some	_	Relational_quantity
+70	_	Cardinal_numbers
+U.S.	_	
+congressmen	_	Leadership
+sent	_	Causation Sending
+a	_	Measure_duration Process_end Quantity
+letter	_	Text
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+U.	_	
+S.	_	
+President	_	Leadership
+Bill	_	Commerce_collect Observable_body_parts
+Clinton	_	
+,	_	
+calling	_	Labeling Request
+for	_	Causation Taking_sides
+an	_	Cause_to_end Process_end Quantity
+end	_	Becoming Cause_to_end Process_end Temporal_subregion
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+humanitarian	_	
+crisis	_	Catastrophe
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Iraq	_	
+by	_	Locative_relation Means
+having	_	Have_associated Possession
+the	_	Self_motion Temporal_collocation
+sanctions	_	Revenge
+lifted	_	Cause_to_end
+.	_	
+

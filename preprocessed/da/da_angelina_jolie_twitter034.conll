@@ -1,0 +1,12 @@
+1	Angelina	_	PROPN	PROPN	_	0	root
+2	Jolie	_	NOUN	NOUN	_	1	dep
+3	nu	_	ADV	ADV	_	2	advmod
+4	som	_	PART	PART	_	3	dep
+5	instruktør	_	NOUN	NOUN	_	4	dep
+6	..	_	PUNCT	PUNCT	_	5	punct
+7	What	_	NOUN	NOUN	_	4	dep
+8	the	_	X	X	_	7	dep
+9	f*ck	_	NOUN	NOUN	_	8	dep
+10	?	_	PUNCT	PUNCT	_	5	punct
+11	#andtherichgetricher	_	NOUN	NOUN	_	5	conj
+

@@ -1,0 +1,13 @@
+1	Zweifelsohne	_	NOUN	NOUN	_	2	nsubj
+2	profitierte	_	VERB	VERB	_	0	root
+3	die	_	DET	DET	_	4	det
+4	SPD	_	PROPN	PROPN	_	2	nsubj
+5	vom	_	ADP	ADP	_	8	case
+6	ersten	_	ADJ	ADJ	_	8	amod
+7	Internationalen	_	ADJ	ADJ	_	8	amod
+8	Frauentag	_	NOUN	NOUN	_	2	nmod
+9	auf	_	ADP	ADP	_	11	case
+10	deutschem	_	ADJ	ADJ	_	11	amod
+11	Boden	_	NOUN	NOUN	_	8	nmod
+12	.	_	PUNCT	PUNCT	_	2	punct
+

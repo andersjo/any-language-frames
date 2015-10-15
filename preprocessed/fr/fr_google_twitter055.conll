@@ -1,0 +1,27 @@
+1	La	_	DET	DET	_	2	det
+2	question	_	NOUN	NOUN	_	8	nsubj
+3	minitel	_	NOUN	NOUN	_	2	appos
+4	du	_	ADP	ADP	_	5	case
+5	mâche	_	NOUN	NOUN	_	2	nmod
+6	#ASSEASNL	_	PROPN	PROPN	_	5	appos
+7	est	_	VERB	VERB	_	12	cop
+8	là	_	ADV	ADV	_	0	root
+9	:	_	PUNCT	PUNCT	_	3	punct
+10	https://t.co/g2rHmHwglF	_	PROPN	PROPN	_	5	appos
+11	1e	_	NUM	NUM	_	12	nummod
+12	question	_	NOUN	NOUN	_	10	appos
+13	de	_	ADP	ADP	_	14	case
+14	l'année	_	NOUN	NOUN	_	12	nmod
+15	,	_	PUNCT	PUNCT	_	18	punct
+16	ne	_	ADV	ADV	_	18	neg
+17	la	_	PRON	PRON	_	18	dobj
+18	laisser	_	VERB	VERB	_	10	conj
+19	pas	_	ADV	ADV	_	18	neg
+20	tomber	_	VERB	VERB	_	18	xcomp
+21	(	_	PUNCT	PUNCT	_	25	punct
+22	elle	_	PRON	PRON	_	25	nsubj
+23	est	_	VERB	VERB	_	25	cop
+24	si	_	ADV	ADV	_	25	advmod
+25	fragile	_	ADJ	ADJ	_	20	parataxis
+26	)	_	PUNCT	PUNCT	_	25	punct
+

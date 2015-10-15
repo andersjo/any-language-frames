@@ -1,0 +1,11 @@
+1	Високата	_	ADJ	ADJ	_	2	amod
+2	смъртност	_	NOUN	NOUN	_	4	nsubj
+3	се	_	PRON	PRON	_	4	expl
+4	приписва	_	VERB	VERB	_	0	root
+5	на	_	ADP	ADP	_	6	case
+6	липсата	_	NOUN	NOUN	_	4	iobj
+7	на	_	ADP	ADP	_	9	case
+8	превантивни	_	ADJ	ADJ	_	9	amod
+9	мерки	_	NOUN	NOUN	_	6	nmod
+10	.	_	PUNCT	PUNCT	_	4	punct
+

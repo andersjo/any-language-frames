@@ -1,0 +1,24 @@
+1	Elle	_	PRON	PRON	_	5	nsubjpass
+2	a	_	AUX	AUX	_	5	aux
+3	déjà	_	ADV	ADV	_	5	advmod
+4	été	_	AUX	AUX	_	5	auxpass
+5	désignée	_	VERB	VERB	_	0	root
+6	comme	_	ADP	ADP	_	7	case
+7	l'une	_	NOUN	NOUN	_	5	nmod
+8	des	_	ADP	ADP	_	11	case
+9	plus	_	ADV	ADV	_	10	advmod
+10	belles	_	ADJ	ADJ	_	11	amod
+11	femmes	_	NOUN	NOUN	_	7	nmod
+12	du	_	ADP	ADP	_	13	case
+13	monde	_	NOUN	NOUN	_	11	nmod
+14	et	_	CONJ	CONJ	_	11	cc
+15	sa	_	DET	DET	_	16	nmod:poss
+16	vie	_	NOUN	NOUN	_	19	nsubj
+17	hors-caméras	_	NOUN	NOUN	_	16	appos
+18	est	_	AUX	AUX	_	19	auxpass
+19	suivie	_	VERB	VERB	_	5	conj
+20	de	_	ADP	ADP	_	22	case
+21	très	_	ADV	ADV	_	22	advmod
+22	près	_	ADV	ADV	_	19	advmod
+23	.	_	PUNCT	PUNCT	_	19	punct
+

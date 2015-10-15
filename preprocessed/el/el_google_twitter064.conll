@@ -1,0 +1,20 @@
+1	@yX__	_	NOUN	NOUN	_	17	nsubj
+2	@Pexlibanis	_	NOUN	NOUN	_	1	nmod
+3	@Cranky_dD	_	NOUN	NOUN	_	2	nmod
+4	στα	_	ADP	ADP	_	6	case
+5	περισσότερα	_	ADJ	ADJ	_	6	amod
+6	σάιτς	_	NOUN	NOUN	_	2	nmod
+7	παίζουν	_	ADJ	ADJ	_	8	amod
+8	google	_	NOUN	NOUN	_	6	nmod
+9	ads	_	NOUN	NOUN	_	8	nmod
+10	ΚΑΙ	_	NOUN	NOUN	_	9	nmod
+11	ΝΔ	_	NOUN	NOUN	_	10	nmod
+12	ΚΑΙ	_	NOUN	NOUN	_	11	nmod
+13	Ποτάμι	_	NOUN	NOUN	_	12	nmod
+14	!!!	_	NOUN	NOUN	_	13	nmod
+15	Πολύ	_	ADV	ADV	_	17	advmod
+16	χρήμα	_	NOUN	NOUN	_	14	nmod
+17	λέμε	_	VERB	VERB	_	0	root
+18	!	_	PUNCT	PUNCT	_	19	punct
+19	#dwse_kai_mena_mparmpa	_	NOUN	NOUN	_	17	dobj
+

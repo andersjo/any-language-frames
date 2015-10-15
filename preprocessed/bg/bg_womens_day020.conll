@@ -1,0 +1,16 @@
+1	8	_	NUM	NUM	_	2	nummod
+2	март	_	NOUN	NOUN	_	4	nsubjpass
+3	е	_	AUX	AUX	_	4	aux
+4	обявен	_	VERB	VERB	_	0	root
+5	официално	_	ADV	ADV	_	4	advmod
+6	като	_	ADP	ADP	_	8	case
+7	неработен	_	ADJ	ADJ	_	8	amod
+8	ден	_	NOUN	NOUN	_	4	nmod
+9	и	_	CONJ	CONJ	_	8	cc
+10	празник	_	NOUN	NOUN	_	8	conj
+11	на	_	ADP	ADP	_	12	case
+12	жената	_	NOUN	NOUN	_	10	nmod
+13	в	_	ADP	ADP	_	14	case
+14	СССР	_	PROPN	PROPN	_	12	nmod
+15	.	_	PUNCT	PUNCT	_	4	punct
+

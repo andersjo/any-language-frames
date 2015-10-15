@@ -1,0 +1,24 @@
+1	На	_	ADP	ADP	_	3	case
+2	30	_	NUM	NUM	_	3	nummod
+3	декември	_	NOUN	NOUN	_	17	nmod
+4	2005	_	NUM	NUM	_	3	nummod
+5	,	_	PUNCT	PUNCT	_	17	punct
+6	след	_	ADP	ADP	_	7	case
+7	проучване	_	NOUN	NOUN	_	3	nmod
+8	сред	_	ADP	ADP	_	9	case
+9	потребителите	_	NOUN	NOUN	_	7	nmod
+10	на	_	ADP	ADP	_	11	case
+11	CNN	_	PROPN	PROPN	_	9	nmod
+12	,	_	PUNCT	PUNCT	_	13	punct
+13	създаването	_	NOUN	NOUN	_	17	nsubjpass
+14	на	_	ADP	ADP	_	15	case
+15	Google	_	PROPN	PROPN	_	13	nmod
+16	е	_	AUX	AUX	_	17	aux
+17	обявено	_	VERB	VERB	_	0	root
+18	за	_	ADP	ADP	_	20	case
+19	най-значимото	_	ADJ	ADJ	_	20	amod
+20	откритие	_	NOUN	NOUN	_	17	iobj
+21	на	_	ADP	ADP	_	22	case
+22	Интернет	_	NOUN	NOUN	_	20	nmod
+23	.	_	PUNCT	PUNCT	_	17	punct
+

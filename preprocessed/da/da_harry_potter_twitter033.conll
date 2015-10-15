@@ -1,0 +1,16 @@
+1	Får	_	VERB	VERB	_	0	root
+2	set	_	VERB	VERB	_	1	dep
+3	alt	_	ADV	ADV	_	1	advmod
+4	for	_	ADP	ADP	_	6	case
+5	meget	_	ADJ	ADJ	_	6	amod
+6	Harry	_	NOUN	NOUN	_	2	nmod
+7	Potter	_	NOUN	NOUN	_	6	nmod
+8	i	_	ADP	ADP	_	14	case
+9	den	_	DET	DET	_	13	det
+10	her	_	ADV	ADV	_	11	advmod
+11	ferie	_	NOUN	NOUN	_	13	nmod:poss
+12	😝	_	ADJ	ADJ	_	13	amod
+13	#HarryPotter	_	NOUN	NOUN	_	14	nmod:poss
+14	#kanmanvirkeligf	_	NOUN	NOUN	_	7	nmod
+15	åfirkantedeøjne	_	VERB	VERB	_	13	dep
+

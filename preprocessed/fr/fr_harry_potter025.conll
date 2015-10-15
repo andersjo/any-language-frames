@@ -1,0 +1,11 @@
+1	L'exercice	_	NOUN	NOUN	_	6	nsubj
+2	de	_	ADP	ADP	_	4	case
+3	la	_	DET	DET	_	4	det
+4	magie	_	NOUN	NOUN	_	1	nmod
+5	peut	_	AUX	AUX	_	6	aux
+6	prendre	_	VERB	VERB	_	0	root
+7	des	_	DET	DET	_	8	det
+8	formes	_	NOUN	NOUN	_	6	dobj
+9	multiples	_	ADJ	ADJ	_	8	amod
+10	.	_	PUNCT	PUNCT	_	6	punct
+

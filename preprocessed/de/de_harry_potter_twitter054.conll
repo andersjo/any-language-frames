@@ -1,0 +1,16 @@
+1	Hauptsach	_	PROPN	PROPN	_	3	nsubj
+2	wir	_	PRON	PRON	_	3	nsubj
+3	haben	_	VERB	VERB	_	0	root
+4	alle	_	PRON	PRON	_	3	iobj
+5	den	_	DET	DET	_	7	det
+6	selben	_	ADJ	ADJ	_	7	amod
+7	Abend	_	NOUN	NOUN	_	3	dobj
+8	Pizza+Harry	_	NOUN	NOUN	_	3	dobj
+9	potter	_	ADJ	ADJ	_	10	amod
+10	soulies	_	PROPN	PROPN	_	3	dobj
+11	!	_	PUNCT	PUNCT	_	10	punct
+12	❤	_	PROPN	PROPN	_	13	name
+13	️	_	PROPN	PROPN	_	15	name
+14	@redrosepicture	_	PROPN	PROPN	_	15	name
+15	@_dilemmaemma	_	PROPN	PROPN	_	10	appos
+

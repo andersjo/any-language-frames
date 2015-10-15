@@ -1,0 +1,26 @@
+1	По	_	ADP	ADP	_	3	case
+2	скоро	_	ADV	ADV	_	3	advmod
+3	падан	_	NOUN	NOUN	_	10	nsubj
+4	,	_	PUNCT	PUNCT	_	15	punct
+5	защото	_	ADV	ADV	_	10	advmod
+6	в	_	ADP	ADP	_	8	case
+7	това	_	DET	DET	_	8	det
+8	интервю	_	NOUN	NOUN	_	10	nmod
+9	Драги	_	PROPN	PROPN	_	10	nsubj
+10	призна	_	VERB	VERB	_	0	root
+11	че	_	SCONJ	SCONJ	_	15	mark
+12	сам	_	ADJ	ADJ	_	15	nsubj
+13	нищо	_	PRON	PRON	_	12	case
+14	не	_	INTJ	INTJ	_	15	neg
+15	може	_	VERB	VERB	_	10	ccomp
+16	да	_	PART	PART	_	17	aux
+17	направи	_	VERB	VERB	_	15	ccomp
+18	и	_	CONJ	CONJ	_	17	cc
+19	иска	_	VERB	VERB	_	10	conj
+20	помощ	_	NOUN	NOUN	_	17	dobj
+21	от	_	ADP	ADP	_	22	case
+22	правителствата	_	NOUN	NOUN	_	20	nmod
+23	в	_	ADP	ADP	_	24	case
+24	…	_	PROPN	PROPN	_	22	nmod
+25	https://t.co/3Y2CzB39bp	_	PROPN	PROPN	_	24	name
+

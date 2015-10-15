@@ -1,0 +1,23 @@
+1	Älskar	_	ADJ	ADJ	_	0	root
+2	att	_	PART	PART	_	3	mark
+3	bli	_	VERB	VERB	_	1	csubj
+4	jämförd	_	NOUN	NOUN	_	3	dobj
+5	med	_	ADP	ADP	_	7	case
+6	Angelina	_	ADJ	ADJ	_	7	amod
+7	Jolie	_	NOUN	NOUN	_	4	nmod
+8	bara	_	ADV	ADV	_	3	advmod
+9	för	_	ADP	ADP	_	12	case
+10	att	_	SCONJ	SCONJ	_	12	mark
+11	man	_	PRON	PRON	_	12	nsubj
+12	råkar	_	VERB	VERB	_	3	advcl
+13	sova	_	VERB	VERB	_	12	xcomp
+14	5	_	NUM	NUM	_	13	nummod
+15	på	_	ADP	ADP	_	16	case
+16	morgonen	_	NOUN	NOUN	_	13	nmod
+17	och	_	CONJ	CONJ	_	13	cc
+18	inte	_	ADV	ADV	_	19	neg
+19	hör	_	VERB	VERB	_	13	conj
+20	mobilen	_	NOUN	NOUN	_	19	nsubj
+21	hahah	_	VERB	VERB	_	19	xcomp
+22	http://t.co/zPZkluQtCy	_	NOUN	NOUN	_	21	dobj
+

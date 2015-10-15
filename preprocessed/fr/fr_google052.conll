@@ -1,0 +1,12 @@
+1	En	_	ADP	ADP	_	4	case
+2	,	_	PUNCT	PUNCT	_	10	punct
+3	la	_	DET	DET	_	4	det
+4	barre	_	NOUN	NOUN	_	10	nsubjpass
+5	des	_	ADP	ADP	_	7	case
+6	de	_	DET	DET	_	7	det
+7	recherches	_	NOUN	NOUN	_	4	nmod
+8	quotidiennes	_	ADJ	ADJ	_	7	amod
+9	est	_	AUX	AUX	_	10	auxpass
+10	franchie	_	VERB	VERB	_	0	root
+11	.	_	PUNCT	PUNCT	_	10	punct
+

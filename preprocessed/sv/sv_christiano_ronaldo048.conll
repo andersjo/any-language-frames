@@ -1,0 +1,25 @@
+1	Enligt	_	ADP	ADP	_	3	case
+2	obekräftade	_	ADJ	ADJ	_	3	amod
+3	uppgifter	_	NOUN	NOUN	_	5	nmod
+4	skulle	_	AUX	AUX	_	5	aux
+5	Ronaldo	_	VERB	VERB	_	0	root
+6	tjäna	_	NOUN	NOUN	_	5	dobj
+7	cirka	_	ADV	ADV	_	8	advmod
+8	2	_	NUM	NUM	_	11	nummod
+9	,	_	PUNCT	PUNCT	_	5	punct
+10	7	_	NUM	NUM	_	11	nummod
+11	miljoner	_	NOUN	NOUN	_	6	nmod
+12	i	_	ADP	ADP	_	13	case
+13	veckan	_	NOUN	NOUN	_	11	nmod
+14	i	_	ADP	ADP	_	17	case
+15	den	_	DET	DET	_	16	det
+16	spanska	_	NOUN	NOUN	_	17	nmod:poss
+17	klubben	_	NOUN	NOUN	_	11	conj
+18	med	_	ADP	ADP	_	21	case
+19	en	_	DET	DET	_	21	det
+20	25-procentig	_	ADJ	ADJ	_	21	amod
+21	löneökning	_	NOUN	NOUN	_	17	nmod
+22	varje	_	DET	DET	_	23	det
+23	säsong	_	NOUN	NOUN	_	21	nmod
+24	.	_	PUNCT	PUNCT	_	5	punct
+

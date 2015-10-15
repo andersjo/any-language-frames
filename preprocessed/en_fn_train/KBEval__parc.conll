@@ -1,0 +1,2011 @@
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-1	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Some	_	DET	DET	_	2	det
+2	students	_	NOUN	NOUN	_	3	nsubj
+3	came	_	VERB	VERB	_	0	root
+4	to	_	ADP	ADP	_	5	compound
+5	school	_	NOUN	NOUN	_	3	dobj
+6	by	_	ADP	ADP	_	3	compound:prt
+7	car	_	NOUN	NOUN	_	3	nmod
+8	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	any	_	DET	DET	_	5	det
+5	students	_	NOUN	NOUN	_	3	dobj
+6	come	_	VERB	VERB	_	5	acl
+7	to	_	ADP	ADP	_	6	compound:prt
+8	school	_	NOUN	NOUN	_	6	dobj
+9	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-2	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	No	_	DET	DET	_	2	neg
+2	students	_	NOUN	NOUN	_	3	nsubj
+3	came	_	VERB	VERB	_	0	root
+4	to	_	ADP	ADP	_	5	compound
+5	school	_	NOUN	NOUN	_	3	dobj
+6	by	_	ADP	ADP	_	3	compound:prt
+7	car	_	NOUN	NOUN	_	3	nmod
+8	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	any	_	DET	DET	_	5	det
+5	students	_	NOUN	NOUN	_	3	dobj
+6	come	_	VERB	VERB	_	5	acl
+7	to	_	ADP	ADP	_	6	compound:prt
+8	school	_	NOUN	NOUN	_	6	dobj
+9	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-3	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Ed	_	PROPN	PROPN	_	2	nsubj
+2	drove	_	VERB	VERB	_	0	root
+3	legally	_	ADV	ADV	_	2	advmod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	Ed	_	PROPN	PROPN	_	3	dobj
+5	drive	_	VERB	VERB	_	3	dobj
+6	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-4	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Ed	_	PROPN	PROPN	_	2	nsubj
+2	drove	_	VERB	VERB	_	0	root
+3	predictably	_	ADV	ADV	_	2	advmod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	Ed	_	PROPN	PROPN	_	3	dobj
+5	drive	_	VERB	VERB	_	3	dobj
+6	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-5	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Legally	_	PROPN	PROPN	_	5	nsubj
+2	,	_	PUNCT	PUNCT	_	5	punct
+3	Ed	_	PROPN	PROPN	_	5	nsubj
+4	could	_	AUX	AUX	_	5	aux
+5	drive	_	VERB	VERB	_	0	root
+6	.	_	PUNCT	PUNCT	_	5	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	Ed	_	PROPN	PROPN	_	3	dobj
+5	drive	_	VERB	VERB	_	3	dobj
+6	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-6	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Predictably	_	ADV	ADV	_	4	advmod
+2	,	_	PUNCT	PUNCT	_	4	punct
+3	Ed	_	PROPN	PROPN	_	4	nsubj
+4	drove	_	VERB	VERB	_	0	root
+5	.	_	PUNCT	PUNCT	_	4	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	Ed	_	PROPN	PROPN	_	3	dobj
+5	drive	_	VERB	VERB	_	3	dobj
+6	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-7	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	technician	_	NOUN	NOUN	_	3	nsubj
+3	cooled	_	VERB	VERB	_	0	root
+4	the	_	DET	DET	_	5	det
+5	room	_	NOUN	NOUN	_	3	dobj
+6	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	5	det
+5	technician	_	NOUN	NOUN	_	3	dobj
+6	lower	_	VERB	VERB	_	5	acl
+7	the	_	DET	DET	_	8	det
+8	temperature	_	NOUN	NOUN	_	6	dobj
+9	of	_	ADP	ADP	_	6	compound:prt
+10	the	_	DET	DET	_	11	det
+11	room	_	NOUN	NOUN	_	6	dobj
+12	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-8	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	technician	_	NOUN	NOUN	_	3	nsubj
+3	raised	_	VERB	VERB	_	0	root
+4	the	_	DET	DET	_	5	det
+5	temperature	_	NOUN	NOUN	_	3	dobj
+6	of	_	ADP	ADP	_	3	compound:prt
+7	the	_	DET	DET	_	8	det
+8	room	_	NOUN	NOUN	_	3	dobj
+9	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	5	det
+5	technician	_	NOUN	NOUN	_	3	dobj
+6	cool	_	ADV	ADV	_	3	advmod
+7	the	_	DET	DET	_	8	det
+8	room	_	NOUN	NOUN	_	3	dobj
+9	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-9	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	president	_	NOUN	NOUN	_	3	nsubj
+3	visited	_	VERB	VERB	_	0	root
+4	Iraq	_	PROPN	PROPN	_	3	dobj
+5	in	_	ADP	ADP	_	3	compound:prt
+6	September	_	PROPN	PROPN	_	3	dobj
+7	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Has	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	5	det
+5	president	_	NOUN	NOUN	_	3	dobj
+6	gone	_	VERB	VERB	_	5	acl
+7	to	_	ADP	ADP	_	6	compound:prt
+8	Iraq	_	PROPN	PROPN	_	6	dobj
+9	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-10	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Jones	_	PROPN	PROPN	_	3	nsubj
+2	has	_	AUX	AUX	_	3	aux
+3	visited	_	VERB	VERB	_	0	root
+4	Iraq	_	PROPN	PROPN	_	3	dobj
+5	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	Jones	_	PROPN	PROPN	_	3	dobj
+5	visit	_	VERB	VERB	_	3	conj
+6	Iraq	_	PROPN	PROPN	_	5	dobj
+7	in	_	ADP	ADP	_	5	compound:prt
+8	September	_	PROPN	PROPN	_	5	dobj
+9	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-11	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Jones	_	PROPN	PROPN	_	2	nsubj
+2	arrived	_	VERB	VERB	_	0	root
+3	in	_	ADP	ADP	_	2	compound:prt
+4	Paris	_	PROPN	PROPN	_	2	dobj
+5	in	_	ADP	ADP	_	2	compound:prt
+6	September	_	PROPN	PROPN	_	2	nmod
+7	last	_	ADJ	ADJ	_	0	foreign
+8	year	_	NOUN	NOUN	_	2	nmod:tmod
+9	.	_	PUNCT	PUNCT	_	2	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	Jones	_	PROPN	PROPN	_	3	dobj
+5	arrive	_	VERB	VERB	_	3	dobj
+6	in	_	ADP	ADP	_	5	compound:prt
+7	Paris	_	PROPN	PROPN	_	5	dobj
+8	last	_	ADJ	ADJ	_	0	foreign
+9	year	_	NOUN	NOUN	_	5	nmod:tmod
+10	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-12	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Jones	_	PROPN	PROPN	_	2	nsubj
+2	arrived	_	VERB	VERB	_	0	root
+3	in	_	ADP	ADP	_	2	compound:prt
+4	Paris	_	PROPN	PROPN	_	2	dobj
+5	in	_	ADP	ADP	_	2	compound:prt
+6	September	_	PROPN	PROPN	_	2	nmod
+7	last	_	ADJ	ADJ	_	0	foreign
+8	year	_	NOUN	NOUN	_	2	nmod:tmod
+9	.	_	PUNCT	PUNCT	_	2	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	Jones	_	PROPN	PROPN	_	3	dobj
+5	arrive	_	VERB	VERB	_	3	dobj
+6	in	_	ADP	ADP	_	5	compound:prt
+7	Paris	_	PROPN	PROPN	_	5	dobj
+8	in	_	ADP	ADP	_	5	compound:prt
+9	September	_	PROPN	PROPN	_	5	nmod
+10	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-13	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Jones	_	PROPN	PROPN	_	2	nsubj
+2	arrived	_	VERB	VERB	_	0	root
+3	on	_	ADP	ADP	_	2	compound:prt
+4	a	_	DET	DET	_	5	det
+5	Sunday	_	PROPN	PROPN	_	7	compound
+6	in	_	ADP	ADP	_	2	compound:prt
+7	September	_	PROPN	PROPN	_	2	nmod
+8	.	_	PUNCT	PUNCT	_	2	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	Jones	_	PROPN	PROPN	_	3	dobj
+5	arrive	_	VERB	VERB	_	3	dobj
+6	on	_	ADP	ADP	_	5	compound:prt
+7	a	_	DET	DET	_	8	det
+8	Sunday	_	PROPN	PROPN	_	5	dobj
+9	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-14	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Jones	_	PROPN	PROPN	_	2	nsubj
+2	arrived	_	VERB	VERB	_	0	root
+3	on	_	ADP	ADP	_	2	compound:prt
+4	a	_	DET	DET	_	5	det
+5	Sunday	_	PROPN	PROPN	_	7	compound
+6	in	_	ADP	ADP	_	2	compound:prt
+7	September	_	PROPN	PROPN	_	2	nmod
+8	.	_	PUNCT	PUNCT	_	2	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	Jones	_	PROPN	PROPN	_	3	dobj
+5	arrive	_	VERB	VERB	_	3	dobj
+6	in	_	ADP	ADP	_	5	compound:prt
+7	September	_	PROPN	PROPN	_	5	dobj
+8	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-15	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	president	_	NOUN	NOUN	_	3	nsubj
+3	left	_	VERB	VERB	_	0	root
+4	after	_	ADP	ADP	_	3	compound:prt
+5	the	_	DET	DET	_	6	det
+6	diplomat	_	NOUN	NOUN	_	7	nsubj
+7	arrived	_	VERB	VERB	_	3	advcl
+8	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	5	det
+5	diplomat	_	NOUN	NOUN	_	3	dobj
+6	arrive	_	VERB	VERB	_	3	advcl
+7	before	_	ADP	ADP	_	6	compound:prt
+8	the	_	DET	DET	_	9	det
+9	president	_	NOUN	NOUN	_	10	nsubj
+10	left	_	VERB	VERB	_	6	advcl
+11	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-16	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	No	_	DET	DET	_	3	neg
+2	US	_	PROPN	PROPN	_	3	compound
+3	congressman	_	NOUN	NOUN	_	5	nsubj
+4	has	_	AUX	AUX	_	5	aux
+5	visited	_	VERB	VERB	_	0	root
+6	Iraq	_	PROPN	PROPN	_	5	dobj
+7	since	_	ADP	ADP	_	5	compound:prt
+8	the	_	DET	DET	_	9	det
+9	war	_	NOUN	NOUN	_	10	nsubj
+10	ended	_	VERB	VERB	_	5	advcl
+11	.	_	PUNCT	PUNCT	_	5	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Has	_	VERB	VERB	_	1	appos
+4	Jones	_	PROPN	PROPN	_	3	dobj
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	a	_	DET	DET	_	8	det
+7	US	_	PROPN	PROPN	_	8	compound
+8	Congressman	_	PROPN	PROPN	_	4	conj
+9	,	_	PUNCT	PUNCT	_	4	punct
+10	visited	_	VERB	VERB	_	3	conj
+11	Iraq	_	PROPN	PROPN	_	10	dobj
+12	after	_	ADP	ADP	_	10	compound:prt
+13	the	_	DET	DET	_	14	det
+14	war	_	NOUN	NOUN	_	15	nsubj
+15	ended	_	VERB	VERB	_	3	parataxis
+16	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-17	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	No	_	DET	DET	_	3	neg
+2	US	_	PROPN	PROPN	_	3	compound
+3	congressman	_	NOUN	NOUN	_	5	nsubj
+4	has	_	AUX	AUX	_	5	aux
+5	visited	_	VERB	VERB	_	0	root
+6	Iraq	_	PROPN	PROPN	_	5	dobj
+7	since	_	ADP	ADP	_	5	compound:prt
+8	the	_	DET	DET	_	9	det
+9	war	_	NOUN	NOUN	_	5	dobj
+10	.	_	PUNCT	PUNCT	_	5	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	Jones	_	PROPN	PROPN	_	3	dobj
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	a	_	DET	DET	_	8	det
+7	US	_	PROPN	PROPN	_	8	compound
+8	Congressman	_	PROPN	PROPN	_	4	conj
+9	,	_	PUNCT	PUNCT	_	4	punct
+10	visit	_	VERB	VERB	_	3	conj
+11	Iraq	_	PROPN	PROPN	_	10	dobj
+12	before	_	ADP	ADP	_	10	compound:prt
+13	the	_	DET	DET	_	14	det
+14	war	_	NOUN	NOUN	_	10	dobj
+15	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-18	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	No	_	DET	DET	_	3	neg
+2	US	_	PROPN	PROPN	_	3	compound
+3	congressman	_	NOUN	NOUN	_	4	nsubj
+4	visited	_	VERB	VERB	_	0	root
+5	Iraq	_	PROPN	PROPN	_	4	dobj
+6	until	_	ADP	ADP	_	4	compound:prt
+7	the	_	DET	DET	_	8	det
+8	war	_	NOUN	NOUN	_	4	dobj
+9	.	_	PUNCT	PUNCT	_	4	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	any	_	DET	DET	_	6	det
+5	US	_	PROPN	PROPN	_	6	compound
+6	congressman	_	NOUN	NOUN	_	3	dobj
+7	visit	_	VERB	VERB	_	3	conj
+8	Iraq	_	PROPN	PROPN	_	7	dobj
+9	before	_	ADP	ADP	_	7	compound:prt
+10	the	_	DET	DET	_	11	det
+11	war	_	NOUN	NOUN	_	7	dobj
+12	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-19	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Some	_	DET	DET	_	2	det
+2	students	_	NOUN	NOUN	_	3	nsubj
+3	arrived	_	VERB	VERB	_	0	root
+4	at	_	ADP	ADP	_	3	compound:prt
+5	the	_	DET	DET	_	6	det
+6	school	_	NOUN	NOUN	_	3	dobj
+7	on	_	ADP	ADP	_	3	compound:prt
+8	Sunday	_	PROPN	PROPN	_	6	appos
+9	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Were	_	VERB	VERB	_	1	appos
+4	there	_	ADV	ADV	_	3	advmod
+5	any	_	DET	DET	_	6	det
+6	students	_	NOUN	NOUN	_	3	nsubj
+7	at	_	ADP	ADP	_	3	compound:prt
+8	the	_	DET	DET	_	9	det
+9	school	_	NOUN	NOUN	_	7	dobj
+10	on	_	ADP	ADP	_	9	acl
+11	Sunday	_	PROPN	PROPN	_	3	nmod:tmod
+12	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-20	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	No	_	DET	DET	_	2	neg
+2	students	_	NOUN	NOUN	_	3	nsubj
+3	arrived	_	VERB	VERB	_	0	root
+4	at	_	ADP	ADP	_	3	compound:prt
+5	the	_	DET	DET	_	6	det
+6	school	_	NOUN	NOUN	_	3	dobj
+7	on	_	ADP	ADP	_	3	compound:prt
+8	Sunday	_	PROPN	PROPN	_	6	appos
+9	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Were	_	VERB	VERB	_	1	appos
+4	there	_	ADV	ADV	_	3	advmod
+5	any	_	DET	DET	_	6	det
+6	students	_	NOUN	NOUN	_	3	nsubj
+7	at	_	ADP	ADP	_	3	compound:prt
+8	the	_	DET	DET	_	9	det
+9	school	_	NOUN	NOUN	_	7	dobj
+10	on	_	ADP	ADP	_	9	acl
+11	Sunday	_	PROPN	PROPN	_	3	nmod:tmod
+12	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-21	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	There	_	DET	DET	_	2	expl
+2	were	_	VERB	VERB	_	0	root
+3	no	_	DET	DET	_	4	neg
+4	students	_	NOUN	NOUN	_	2	nsubj
+5	at	_	ADP	ADP	_	2	compound:prt
+6	the	_	DET	DET	_	7	det
+7	school	_	NOUN	NOUN	_	2	nsubj
+8	on	_	ADP	ADP	_	2	compound:prt
+9	Sunday	_	PROPN	PROPN	_	7	appos
+10	.	_	PUNCT	PUNCT	_	2	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	any	_	DET	DET	_	5	det
+5	students	_	NOUN	NOUN	_	3	dobj
+6	arrive	_	VERB	VERB	_	5	acl
+7	at	_	ADP	ADP	_	6	compound:prt
+8	the	_	DET	DET	_	9	det
+9	school	_	NOUN	NOUN	_	6	dobj
+10	on	_	ADP	ADP	_	6	compound:prt
+11	Sunday	_	PROPN	PROPN	_	6	dobj
+12	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-22	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	diplomat	_	NOUN	NOUN	_	3	nsubj
+3	left	_	VERB	VERB	_	0	root
+4	Baghdad	_	PROPN	PROPN	_	3	dobj
+5	last	_	ADJ	ADJ	_	0	iobj
+6	week	_	NOUN	NOUN	_	3	nmod:tmod
+7	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Has	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	5	det
+5	diplomat	_	NOUN	NOUN	_	3	dobj
+6	been	_	VERB	VERB	_	8	cop
+7	to	_	ADP	ADP	_	6	compound:prt
+8	Baghdad	_	PROPN	PROPN	_	3	nmod:tmod
+9	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-23	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	diplomat	_	NOUN	NOUN	_	4	nsubj
+3	will	_	AUX	AUX	_	4	aux
+4	arrive	_	VERB	VERB	_	0	root
+5	in	_	ADP	ADP	_	4	compound:prt
+6	Baghdad	_	PROPN	PROPN	_	4	dobj
+7	next	_	ADJ	ADJ	_	0	iobj
+8	week	_	NOUN	NOUN	_	4	nmod
+9	.	_	PUNCT	PUNCT	_	4	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Has	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	5	det
+5	diplomat	_	NOUN	NOUN	_	3	dobj
+6	been	_	VERB	VERB	_	8	cop
+7	to	_	ADP	ADP	_	6	compound:prt
+8	Baghdad	_	PROPN	PROPN	_	3	nmod:tmod
+9	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-24	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	president	_	NOUN	NOUN	_	3	nsubj
+3	knows	_	VERB	VERB	_	0	root
+4	that	_	SCONJ	SCONJ	_	7	mark
+5	the	_	DET	DET	_	6	det
+6	diplomat	_	NOUN	NOUN	_	7	nsubj
+7	left	_	VERB	VERB	_	3	ccomp
+8	Baghdad	_	PROPN	PROPN	_	7	dobj
+9	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Has	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	5	det
+5	diplomat	_	NOUN	NOUN	_	3	dobj
+6	been	_	VERB	VERB	_	8	cop
+7	to	_	ADP	ADP	_	6	compound:prt
+8	Baghdad	_	PROPN	PROPN	_	3	nmod:tmod
+9	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-25	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	president	_	NOUN	NOUN	_	5	nsubj
+3	has	_	AUX	AUX	_	5	aux
+4	n't	_	ADV	ADV	_	5	neg
+5	gone	_	VERB	VERB	_	0	root
+6	to	_	ADP	ADP	_	5	compound:prt
+7	Iraq	_	PROPN	PROPN	_	5	dobj
+8	since	_	ADP	ADP	_	5	compound:prt
+9	the	_	DET	DET	_	10	det
+10	diplomat	_	NOUN	NOUN	_	11	nsubj
+11	left	_	VERB	VERB	_	5	advcl
+12	Baghdad	_	PROPN	PROPN	_	11	dobj
+13	.	_	PUNCT	PUNCT	_	5	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Has	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	5	det
+5	diplomat	_	NOUN	NOUN	_	3	dobj
+6	been	_	VERB	VERB	_	8	cop
+7	to	_	ADP	ADP	_	6	compound:prt
+8	Baghdad	_	PROPN	PROPN	_	3	nmod:tmod
+9	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-26	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	president	_	NOUN	NOUN	_	5	nsubj
+3	has	_	AUX	AUX	_	5	aux
+4	n't	_	ADV	ADV	_	5	neg
+5	gone	_	VERB	VERB	_	0	root
+6	to	_	ADP	ADP	_	5	compound:prt
+7	Iraq	_	PROPN	PROPN	_	5	dobj
+8	since	_	ADP	ADP	_	5	compound:prt
+9	the	_	DET	DET	_	10	det
+10	diplomat	_	NOUN	NOUN	_	11	nsubj
+11	left	_	VERB	VERB	_	5	advcl
+12	Baghdad	_	PROPN	PROPN	_	11	dobj
+13	.	_	PUNCT	PUNCT	_	5	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Has	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	5	det
+5	president	_	NOUN	NOUN	_	3	dobj
+6	been	_	VERB	VERB	_	8	cop
+7	to	_	ADP	ADP	_	6	compound:prt
+8	Iraq	_	PROPN	PROPN	_	3	nmod:tmod
+9	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-27	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	diplomat	_	NOUN	NOUN	_	5	nsubj
+3	did	_	AUX	AUX	_	5	aux
+4	n't	_	ADV	ADV	_	5	neg
+5	manage	_	VERB	VERB	_	0	root
+6	to	_	PART	PART	_	7	mark
+7	leave	_	VERB	VERB	_	5	xcomp
+8	Baghdad	_	PROPN	PROPN	_	7	dobj
+9	.	_	PUNCT	PUNCT	_	5	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Has	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	5	det
+5	diplomat	_	NOUN	NOUN	_	3	dobj
+6	been	_	VERB	VERB	_	8	cop
+7	to	_	ADP	ADP	_	6	compound:prt
+8	Baghdad	_	PROPN	PROPN	_	3	nmod:tmod
+9	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-28	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	diplomat	_	NOUN	NOUN	_	5	nsubj
+3	has	_	AUX	AUX	_	5	aux
+4	n't	_	ADV	ADV	_	5	neg
+5	managed	_	VERB	VERB	_	0	root
+6	to	_	PART	PART	_	7	mark
+7	leave	_	VERB	VERB	_	5	xcomp
+8	Baghdad	_	PROPN	PROPN	_	7	dobj
+9	.	_	PUNCT	PUNCT	_	5	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Is	_	VERB	VERB	_	5	cop
+4	the	_	DET	DET	_	5	det
+5	diplomat	_	NOUN	NOUN	_	7	compound
+6	in	_	ADP	ADP	_	3	compound:prt
+7	Baghdad	_	PROPN	PROPN	_	1	parataxis
+8	now	_	ADV	ADV	_	3	advmod
+9	?	_	PUNCT	PUNCT	_	1	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-29	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	room	_	NOUN	NOUN	_	7	nsubj
+3	was	_	VERB	VERB	_	7	cop
+4	full	_	ADJ	ADJ	_	0	advcl
+5	of	_	ADP	ADP	_	3	compound:prt
+6	intelligent	_	ADJ	ADJ	_	0	iobj
+7	women	_	NOUN	NOUN	_	0	root
+8	.	_	PUNCT	PUNCT	_	7	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Was	_	VERB	VERB	_	5	cop
+4	the	_	DET	DET	_	5	det
+5	room	_	NOUN	NOUN	_	8	compound
+6	full	_	ADJ	ADJ	_	0	foreign
+7	of	_	ADP	ADP	_	3	compound:prt
+8	women	_	NOUN	NOUN	_	1	parataxis
+9	?	_	PUNCT	PUNCT	_	1	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-30	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	room	_	NOUN	NOUN	_	6	nsubj
+3	was	_	VERB	VERB	_	6	cop
+4	full	_	ADJ	ADJ	_	0	advcl
+5	of	_	ADP	ADP	_	3	compound:prt
+6	women	_	NOUN	NOUN	_	0	root
+7	.	_	PUNCT	PUNCT	_	6	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Was	_	VERB	VERB	_	5	cop
+4	the	_	DET	DET	_	5	det
+5	room	_	NOUN	NOUN	_	1	parataxis
+6	full	_	ADJ	ADJ	_	0	foreign
+7	of	_	ADP	ADP	_	3	compound:prt
+8	intelligent	_	ADJ	ADJ	_	0	foreign
+9	women	_	NOUN	NOUN	_	5	nmod
+10	?	_	PUNCT	PUNCT	_	1	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-31	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Children	_	PROPN	PROPN	_	4	nsubj
+2	are	_	AUX	AUX	_	4	aux
+3	not	_	ADV	ADV	_	4	neg
+4	admitted	_	VERB	VERB	_	0	root
+5	to	_	ADP	ADP	_	4	compound:prt
+6	the	_	DET	DET	_	7	det
+7	theatre	_	NOUN	NOUN	_	4	dobj
+8	.	_	PUNCT	PUNCT	_	4	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Are	_	VERB	VERB	_	1	appos
+4	small	_	ADJ	ADJ	_	0	foreign
+5	children	_	NOUN	NOUN	_	6	nsubj
+6	admitted	_	VERB	VERB	_	3	ccomp
+7	to	_	ADP	ADP	_	6	compound:prt
+8	the	_	DET	DET	_	9	det
+9	theatre	_	NOUN	NOUN	_	6	dobj
+10	?	_	PUNCT	PUNCT	_	6	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-32	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Small	_	ADJ	ADJ	_	0	cc
+2	children	_	NOUN	NOUN	_	5	nsubjpass
+3	are	_	AUX	AUX	_	5	aux
+4	not	_	ADV	ADV	_	5	neg
+5	admitted	_	VERB	VERB	_	0	root
+6	to	_	ADP	ADP	_	5	compound:prt
+7	the	_	DET	DET	_	8	det
+8	theatre	_	NOUN	NOUN	_	5	dobj
+9	.	_	PUNCT	PUNCT	_	5	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Are	_	VERB	VERB	_	1	appos
+4	children	_	NOUN	NOUN	_	5	nsubj
+5	admitted	_	VERB	VERB	_	3	ccomp
+6	to	_	ADP	ADP	_	5	compound:prt
+7	the	_	DET	DET	_	8	det
+8	theatre	_	NOUN	NOUN	_	5	dobj
+9	?	_	PUNCT	PUNCT	_	5	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-33	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	All	_	DET	DET	_	2	det
+2	companies	_	NOUN	NOUN	_	3	nsubj
+3	have	_	VERB	VERB	_	0	root
+4	to	_	PART	PART	_	5	mark
+5	file	_	VERB	VERB	_	3	xcomp
+6	annual	_	ADJ	ADJ	_	0	iobj
+7	reports	_	NOUN	NOUN	_	5	dobj
+8	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Do	_	VERB	VERB	_	1	appos
+4	all	_	DET	DET	_	7	det
+5	Fortune	_	PROPN	PROPN	_	7	compound
+6	500	_	NUM	NUM	_	5	nummod
+7	companies	_	NOUN	NOUN	_	3	dobj
+8	have	_	VERB	VERB	_	7	acl
+9	to	_	PART	PART	_	10	mark
+10	file	_	VERB	VERB	_	8	xcomp
+11	annual	_	ADJ	ADJ	_	0	foreign
+12	reports	_	NOUN	NOUN	_	10	dobj
+13	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-34	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	All	_	DET	DET	_	4	det
+2	Fortune	_	PROPN	PROPN	_	4	compound
+3	500	_	NUM	NUM	_	2	nummod
+4	companies	_	NOUN	NOUN	_	5	nsubj
+5	have	_	VERB	VERB	_	0	root
+6	to	_	PART	PART	_	7	mark
+7	file	_	VERB	VERB	_	5	xcomp
+8	annual	_	ADJ	ADJ	_	0	iobj
+9	reports	_	NOUN	NOUN	_	7	dobj
+10	.	_	PUNCT	PUNCT	_	5	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Do	_	VERB	VERB	_	1	appos
+4	all	_	DET	DET	_	5	det
+5	companies	_	NOUN	NOUN	_	3	dobj
+6	have	_	VERB	VERB	_	5	acl
+7	to	_	PART	PART	_	8	mark
+8	file	_	VERB	VERB	_	6	xcomp
+9	annual	_	ADJ	ADJ	_	0	foreign
+10	reports	_	NOUN	NOUN	_	8	dobj
+11	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-35	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	All	_	DET	DET	_	2	det
+2	companies	_	NOUN	NOUN	_	3	nsubj
+3	have	_	VERB	VERB	_	0	root
+4	to	_	PART	PART	_	5	mark
+5	file	_	VERB	VERB	_	3	xcomp
+6	annual	_	ADJ	ADJ	_	0	iobj
+7	reports	_	NOUN	NOUN	_	5	dobj
+8	to	_	ADP	ADP	_	5	compound:prt
+9	the	_	DET	DET	_	10	det
+10	SEC	_	PROPN	PROPN	_	5	dobj
+11	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Do	_	VERB	VERB	_	1	appos
+4	all	_	DET	DET	_	5	det
+5	companies	_	NOUN	NOUN	_	3	dobj
+6	have	_	VERB	VERB	_	5	acl
+7	to	_	PART	PART	_	8	mark
+8	file	_	VERB	VERB	_	6	xcomp
+9	annual	_	ADJ	ADJ	_	0	foreign
+10	reports	_	NOUN	NOUN	_	8	dobj
+11	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-36	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	All	_	DET	DET	_	2	det
+2	companies	_	NOUN	NOUN	_	3	nsubj
+3	have	_	VERB	VERB	_	0	root
+4	to	_	PART	PART	_	5	mark
+5	file	_	VERB	VERB	_	3	xcomp
+6	annual	_	ADJ	ADJ	_	0	iobj
+7	reports	_	NOUN	NOUN	_	5	dobj
+8	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Do	_	VERB	VERB	_	1	appos
+4	all	_	DET	DET	_	5	det
+5	companies	_	NOUN	NOUN	_	3	dobj
+6	have	_	VERB	VERB	_	5	acl
+7	to	_	PART	PART	_	8	mark
+8	file	_	VERB	VERB	_	6	xcomp
+9	annual	_	ADJ	ADJ	_	0	foreign
+10	reports	_	NOUN	NOUN	_	8	dobj
+11	to	_	ADP	ADP	_	8	compound:prt
+12	the	_	DET	DET	_	13	det
+13	SEC	_	PROPN	PROPN	_	8	dobj
+14	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-37	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	No	_	DET	DET	_	2	neg
+2	delegates	_	NOUN	NOUN	_	3	nsubj
+3	finished	_	VERB	VERB	_	0	root
+4	the	_	DET	DET	_	5	det
+5	report	_	NOUN	NOUN	_	3	dobj
+6	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	any	_	DET	DET	_	5	det
+5	delegate	_	NOUN	NOUN	_	3	dobj
+6	finish	_	VERB	VERB	_	5	acl
+7	the	_	DET	DET	_	8	det
+8	report	_	NOUN	NOUN	_	6	dobj
+9	on	_	ADP	ADP	_	6	compound:prt
+10	time	_	NOUN	NOUN	_	6	dobj
+11	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-38	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	3	det
+2	US	_	PROPN	PROPN	_	3	compound
+3	troops	_	NOUN	NOUN	_	4	nsubj
+4	stayed	_	VERB	VERB	_	0	root
+5	in	_	ADP	ADP	_	4	compound:prt
+6	Iraq	_	PROPN	PROPN	_	4	dobj
+7	although	_	ADP	ADP	_	4	compound:prt
+8	the	_	DET	DET	_	9	det
+9	war	_	NOUN	NOUN	_	11	nsubj
+10	was	_	VERB	VERB	_	11	cop
+11	over	_	ADV	ADV	_	4	advcl
+12	.	_	PUNCT	PUNCT	_	4	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Was	_	VERB	VERB	_	5	cop
+4	the	_	DET	DET	_	5	det
+5	war	_	NOUN	NOUN	_	1	parataxis
+6	over	_	ADP	ADP	_	3	compound:prt
+7	?	_	PUNCT	PUNCT	_	1	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-39	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Since	_	ADP	ADP	_	3	reparandum
+2	it	_	PRON	PRON	_	9	nsubj
+3	was	_	VERB	VERB	_	9	cop
+4	cold	_	ADJ	ADJ	_	0	ccomp
+5	,	_	PUNCT	PUNCT	_	7	punct
+6	he	_	PRON	PRON	_	7	nsubj
+7	closed	_	VERB	VERB	_	0	root
+8	the	_	DET	DET	_	9	det
+9	window	_	NOUN	NOUN	_	7	dobj
+10	.	_	PUNCT	PUNCT	_	7	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Was	_	VERB	VERB	_	1	appos
+4	it	_	PRON	PRON	_	3	expl
+5	cold	_	ADJ	ADJ	_	0	discourse
+6	?	_	PUNCT	PUNCT	_	1	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-40	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	John	_	PROPN	PROPN	_	4	nsubj
+2	did	_	AUX	AUX	_	4	aux
+3	n't	_	ADV	ADV	_	4	neg
+4	visit	_	VERB	VERB	_	0	root
+5	us	_	PRON	PRON	_	4	dobj
+6	after	_	SCONJ	SCONJ	_	8	mark
+7	he	_	PRON	PRON	_	8	nsubj
+8	returned	_	VERB	VERB	_	4	advcl
+9	from	_	ADP	ADP	_	8	compound:prt
+10	Spain	_	PROPN	PROPN	_	8	dobj
+11	.	_	PUNCT	PUNCT	_	4	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	John	_	PROPN	PROPN	_	3	dobj
+5	return	_	VERB	VERB	_	3	dobj
+6	from	_	ADP	ADP	_	5	compound:prt
+7	Spain	_	PROPN	PROPN	_	5	dobj
+8	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-41	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Hanssen	_	PROPN	PROPN	_	4	vocative
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	who	_	PRON	PRON	_	4	nsubj
+4	sold	_	VERB	VERB	_	12	advcl
+5	FBI	_	PROPN	PROPN	_	6	compound
+6	secrets	_	NOUN	NOUN	_	4	dobj
+7	to	_	ADP	ADP	_	4	compound:prt
+8	the	_	DET	DET	_	9	det
+9	Russians	_	PROPN	PROPN	_	12	nsubj
+10	,	_	PUNCT	PUNCT	_	12	punct
+11	could	_	AUX	AUX	_	12	aux
+12	face	_	VERB	VERB	_	0	root
+13	the	_	DET	DET	_	15	det
+14	death	_	NOUN	NOUN	_	15	compound
+15	penalty	_	NOUN	NOUN	_	12	dobj
+16	.	_	PUNCT	PUNCT	_	4	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	AUX	AUX	_	4	aux
+4	Hanssen	_	VERB	VERB	_	1	appos
+5	sell	_	VERB	VERB	_	4	xcomp
+6	FBI	_	PROPN	PROPN	_	7	compound
+7	secrets	_	NOUN	NOUN	_	5	dobj
+8	to	_	ADP	ADP	_	5	compound:prt
+9	the	_	DET	DET	_	10	det
+10	Russians	_	PROPN	PROPN	_	5	nmod
+11	?	_	PUNCT	PUNCT	_	4	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-42	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	4	det
+2	New	_	PROPN	PROPN	_	3	compound
+3	York	_	PROPN	PROPN	_	4	compound
+4	Times	_	PROPN	PROPN	_	5	nsubj
+5	reported	_	VERB	VERB	_	0	root
+6	that	_	SCONJ	SCONJ	_	18	mark
+7	Hanssen	_	PROPN	PROPN	_	18	nsubj
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	who	_	PRON	PRON	_	10	nsubj
+10	sold	_	VERB	VERB	_	5	ccomp
+11	FBI	_	PROPN	PROPN	_	12	compound
+12	secrets	_	NOUN	NOUN	_	10	dobj
+13	to	_	ADP	ADP	_	10	compound:prt
+14	the	_	DET	DET	_	15	det
+15	Russians	_	PROPN	PROPN	_	18	nsubj
+16	,	_	PUNCT	PUNCT	_	18	punct
+17	could	_	AUX	AUX	_	18	aux
+18	face	_	VERB	VERB	_	10	conj
+19	the	_	DET	DET	_	21	det
+20	death	_	NOUN	NOUN	_	21	compound
+21	penalty	_	NOUN	NOUN	_	18	dobj
+22	.	_	PUNCT	PUNCT	_	5	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	AUX	AUX	_	4	aux
+4	Hanssen	_	VERB	VERB	_	1	appos
+5	sell	_	VERB	VERB	_	4	xcomp
+6	FBI	_	PROPN	PROPN	_	7	compound
+7	secrets	_	NOUN	NOUN	_	5	dobj
+8	to	_	ADP	ADP	_	5	compound:prt
+9	the	_	DET	DET	_	10	det
+10	Russians	_	PROPN	PROPN	_	5	nmod
+11	?	_	PUNCT	PUNCT	_	4	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-43	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	4	det
+2	New	_	PROPN	PROPN	_	3	compound
+3	York	_	PROPN	PROPN	_	4	compound
+4	Times	_	PROPN	PROPN	_	5	nsubj
+5	reported	_	VERB	VERB	_	0	root
+6	that	_	SCONJ	SCONJ	_	8	mark
+7	Hanssen	_	PROPN	PROPN	_	8	nsubj
+8	sold	_	VERB	VERB	_	5	ccomp
+9	FBI	_	PROPN	PROPN	_	10	compound
+10	secrets	_	NOUN	NOUN	_	8	dobj
+11	to	_	ADP	ADP	_	8	compound:prt
+12	the	_	DET	DET	_	13	det
+13	Russians	_	PROPN	PROPN	_	16	nsubj
+14	and	_	CONJ	CONJ	_	8	cc
+15	could	_	AUX	AUX	_	16	aux
+16	face	_	VERB	VERB	_	8	conj
+17	the	_	DET	DET	_	19	det
+18	death	_	NOUN	NOUN	_	19	compound
+19	penalty	_	NOUN	NOUN	_	16	dobj
+20	.	_	PUNCT	PUNCT	_	5	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	AUX	AUX	_	4	aux
+4	Hanssen	_	VERB	VERB	_	1	appos
+5	sell	_	VERB	VERB	_	4	xcomp
+6	FBI	_	PROPN	PROPN	_	7	compound
+7	secrets	_	NOUN	NOUN	_	5	dobj
+8	to	_	ADP	ADP	_	5	compound:prt
+9	the	_	DET	DET	_	10	det
+10	Russians	_	PROPN	PROPN	_	5	nmod
+11	?	_	PUNCT	PUNCT	_	4	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-44	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Bush	_	PROPN	PROPN	_	2	nsubj
+2	said	_	VERB	VERB	_	0	root
+3	that	_	SCONJ	SCONJ	_	6	mark
+4	it	_	PRON	PRON	_	6	nsubj
+5	was	_	VERB	VERB	_	6	cop
+6	Khan	_	PROPN	PROPN	_	2	ccomp
+7	who	_	PRON	PRON	_	8	nsubj
+8	sold	_	VERB	VERB	_	6	acl:relcl
+9	centrifuges	_	NOUN	NOUN	_	8	dobj
+10	to	_	ADP	ADP	_	8	compound:prt
+11	North	_	PROPN	PROPN	_	12	compound
+12	Korea	_	PROPN	PROPN	_	8	nmod
+13	.	_	PUNCT	PUNCT	_	2	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Were	_	VERB	VERB	_	1	appos
+4	centrifuges	_	NOUN	NOUN	_	5	nsubj
+5	sold	_	VERB	VERB	_	3	ccomp
+6	to	_	ADP	ADP	_	5	compound:prt
+7	North	_	PROPN	PROPN	_	8	compound
+8	Korea	_	PROPN	PROPN	_	5	dobj
+9	?	_	PUNCT	PUNCT	_	5	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-45	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Bush	_	PROPN	PROPN	_	2	nsubj
+2	said	_	VERB	VERB	_	0	root
+3	that	_	SCONJ	SCONJ	_	5	mark
+4	Khan	_	PROPN	PROPN	_	5	nsubj
+5	sold	_	VERB	VERB	_	2	ccomp
+6	centrifuges	_	NOUN	NOUN	_	5	dobj
+7	to	_	ADP	ADP	_	5	compound:prt
+8	North	_	PROPN	PROPN	_	9	compound
+9	Korea	_	PROPN	PROPN	_	5	nmod
+10	.	_	PUNCT	PUNCT	_	2	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Were	_	VERB	VERB	_	1	appos
+4	centrifuges	_	NOUN	NOUN	_	5	nsubj
+5	sold	_	VERB	VERB	_	3	ccomp
+6	to	_	ADP	ADP	_	5	compound:prt
+7	North	_	PROPN	PROPN	_	8	compound
+8	Korea	_	PROPN	PROPN	_	5	dobj
+9	?	_	PUNCT	PUNCT	_	5	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-46	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	What	_	PRON	PRON	_	0	root
+2	we	_	PRON	PRON	_	3	nsubj
+3	found	_	VERB	VERB	_	1	acl:relcl
+4	in	_	ADP	ADP	_	3	compound:prt
+5	Iraq	_	PROPN	PROPN	_	7	nsubjpass
+6	was	_	AUX	AUX	_	7	aux
+7	rusted	_	VERB	VERB	_	3	ccomp
+8	shrapnel	_	NOUN	NOUN	_	7	dobj
+9	.	_	PUNCT	PUNCT	_	7	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	AUX	AUX	_	5	aux
+4	we	_	PRON	PRON	_	5	nsubj
+5	find	_	VERB	VERB	_	1	appos
+6	anything	_	NOUN	NOUN	_	5	dobj
+7	in	_	ADP	ADP	_	5	compound:prt
+8	Iraq	_	PROPN	PROPN	_	6	nmod
+9	?	_	PUNCT	PUNCT	_	5	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-47	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	fact	_	NOUN	NOUN	_	0	root
+3	that	_	SCONJ	SCONJ	_	19	mark
+4	Bin	_	PROPN	PROPN	_	5	compound
+5	Laden	_	PROPN	PROPN	_	10	nsubj
+6	was	_	VERB	VERB	_	2	acl
+7	in	_	ADP	ADP	_	6	compound:prt
+8	Tora	_	PROPN	PROPN	_	9	compound
+9	Bora	_	PROPN	PROPN	_	10	nsubj
+10	led	_	VERB	VERB	_	2	acl
+11	to	_	ADP	ADP	_	10	compound:prt
+12	the	_	DET	DET	_	13	det
+13	suspicion	_	NOUN	NOUN	_	10	dobj
+14	that	_	SCONJ	SCONJ	_	19	mark
+15	the	_	DET	DET	_	17	det
+16	Afghan	_	ADJ	ADJ	_	0	iobj
+17	campaign	_	NOUN	NOUN	_	19	nsubjpass
+18	was	_	AUX	AUX	_	19	auxpass
+19	mismanaged	_	VERB	VERB	_	13	acl
+20	.	_	PUNCT	PUNCT	_	10	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Was	_	VERB	VERB	_	5	cop
+4	Bin	_	PROPN	PROPN	_	5	compound
+5	Laden	_	PROPN	PROPN	_	1	parataxis
+6	in	_	ADP	ADP	_	3	compound:prt
+7	Tora	_	PROPN	PROPN	_	8	compound
+8	Bora	_	PROPN	PROPN	_	3	nsubj
+9	?	_	PUNCT	PUNCT	_	1	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-48	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	fact	_	NOUN	NOUN	_	0	root
+3	that	_	SCONJ	SCONJ	_	19	mark
+4	Bin	_	PROPN	PROPN	_	5	compound
+5	Laden	_	PROPN	PROPN	_	10	nsubj
+6	was	_	VERB	VERB	_	2	acl
+7	in	_	ADP	ADP	_	6	compound:prt
+8	Tora	_	PROPN	PROPN	_	9	compound
+9	Bora	_	PROPN	PROPN	_	10	nsubj
+10	led	_	VERB	VERB	_	2	acl
+11	to	_	ADP	ADP	_	10	compound:prt
+12	the	_	DET	DET	_	13	det
+13	suspicion	_	NOUN	NOUN	_	10	dobj
+14	that	_	SCONJ	SCONJ	_	19	mark
+15	the	_	DET	DET	_	17	det
+16	Afghan	_	ADJ	ADJ	_	0	iobj
+17	campaign	_	NOUN	NOUN	_	19	nsubjpass
+18	was	_	AUX	AUX	_	19	auxpass
+19	mismanaged	_	VERB	VERB	_	13	acl
+20	.	_	PUNCT	PUNCT	_	10	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Was	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	6	det
+5	Afghan	_	ADJ	ADJ	_	0	foreign
+6	campaign	_	NOUN	NOUN	_	7	nsubj
+7	mismanaged	_	VERB	VERB	_	3	ccomp
+8	?	_	PUNCT	PUNCT	_	1	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-49	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	paper	_	NOUN	NOUN	_	3	nsubj
+3	concluded	_	VERB	VERB	_	0	root
+4	that	_	SCONJ	SCONJ	_	9	mark
+5	the	_	DET	DET	_	6	det
+6	election	_	NOUN	NOUN	_	9	nsubjpass
+7	had	_	AUX	AUX	_	9	aux
+8	been	_	AUX	AUX	_	9	auxpass
+9	rigged	_	VERB	VERB	_	3	ccomp
+10	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Was	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	5	det
+5	election	_	NOUN	NOUN	_	6	nsubj
+6	rigged	_	VERB	VERB	_	3	ccomp
+7	?	_	PUNCT	PUNCT	_	6	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-50	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Ames	_	PROPN	PROPN	_	2	nsubj
+2	was	_	VERB	VERB	_	6	cop
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	as	_	ADP	ADP	_	2	compound:prt
+5	the	_	DET	DET	_	6	det
+6	press	_	NOUN	NOUN	_	7	nsubj
+7	reported	_	VERB	VERB	_	0	root
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	a	_	DET	DET	_	11	det
+10	successful	_	ADJ	ADJ	_	0	foreign
+11	spy	_	NOUN	NOUN	_	7	nmod
+12	.	_	PUNCT	PUNCT	_	7	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Was	_	VERB	VERB	_	7	cop
+4	Ames	_	PROPN	PROPN	_	3	iobj
+5	a	_	DET	DET	_	7	det
+6	successful	_	ADJ	ADJ	_	0	foreign
+7	spy	_	NOUN	NOUN	_	1	parataxis
+8	?	_	PUNCT	PUNCT	_	1	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-51	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	press	_	NOUN	NOUN	_	3	nsubj
+3	reported	_	VERB	VERB	_	0	root
+4	that	_	SCONJ	SCONJ	_	9	mark
+5	Ames	_	PROPN	PROPN	_	9	nsubj
+6	was	_	VERB	VERB	_	9	cop
+7	a	_	DET	DET	_	9	det
+8	successful	_	ADJ	ADJ	_	0	iobj
+9	spy	_	NOUN	NOUN	_	3	ccomp
+10	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Was	_	VERB	VERB	_	7	cop
+4	Ames	_	PROPN	PROPN	_	3	iobj
+5	a	_	DET	DET	_	7	det
+6	successful	_	ADJ	ADJ	_	0	foreign
+7	spy	_	NOUN	NOUN	_	1	parataxis
+8	?	_	PUNCT	PUNCT	_	1	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-52	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	US	_	PROPN	PROPN	_	3	nsubj
+3	forgot	_	VERB	VERB	_	0	root
+4	that	_	SCONJ	SCONJ	_	7	mark
+5	the	_	DET	DET	_	6	det
+6	Afghans	_	NOUN	NOUN	_	7	nsubj
+7	speak	_	VERB	VERB	_	3	ccomp
+8	several	_	ADJ	ADJ	_	0	compound:prt
+9	different	_	ADJ	ADJ	_	0	iobj
+10	languages	_	NOUN	NOUN	_	7	dobj
+11	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Do	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	5	det
+5	Afghans	_	NOUN	NOUN	_	3	dobj
+6	speak	_	VERB	VERB	_	5	acl
+7	several	_	ADJ	ADJ	_	0	foreign
+8	different	_	ADJ	ADJ	_	0	foreign
+9	languages	_	NOUN	NOUN	_	6	dobj
+10	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-53	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Bush	_	PROPN	PROPN	_	2	nsubj
+2	realized	_	VERB	VERB	_	0	root
+3	that	_	SCONJ	SCONJ	_	7	mark
+4	the	_	DET	DET	_	6	det
+5	US	_	PROPN	PROPN	_	6	compound
+6	Army	_	PROPN	PROPN	_	7	nsubj
+7	had	_	VERB	VERB	_	2	ccomp
+8	to	_	PART	PART	_	10	mark
+9	be	_	AUX	AUX	_	10	auxpass
+10	transformed	_	VERB	VERB	_	7	xcomp
+11	to	_	PART	PART	_	12	mark
+12	meet	_	VERB	VERB	_	10	xcomp
+13	new	_	ADJ	ADJ	_	0	foreign
+14	threats	_	NOUN	NOUN	_	12	dobj
+15	.	_	PUNCT	PUNCT	_	2	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	6	det
+5	US	_	PROPN	PROPN	_	6	compound
+6	Army	_	PROPN	PROPN	_	7	nsubj
+7	have	_	VERB	VERB	_	3	advcl
+8	to	_	PART	PART	_	10	mark
+9	be	_	AUX	AUX	_	10	auxpass
+10	transformed	_	VERB	VERB	_	7	xcomp
+11	to	_	PART	PART	_	12	mark
+12	meet	_	VERB	VERB	_	10	xcomp
+13	new	_	ADJ	ADJ	_	0	foreign
+14	threats	_	NOUN	NOUN	_	12	dobj
+15	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-54	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Bush	_	PROPN	PROPN	_	4	nsubj
+2	did	_	AUX	AUX	_	4	aux
+3	n't	_	ADV	ADV	_	4	neg
+4	realize	_	VERB	VERB	_	0	root
+5	that	_	SCONJ	SCONJ	_	8	mark
+6	Afghanistan	_	PROPN	PROPN	_	8	nsubj
+7	is	_	AUX	AUX	_	8	auxpass
+8	land-locked	_	VERB	VERB	_	4	ccomp
+9	.	_	PUNCT	PUNCT	_	4	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Is	_	VERB	VERB	_	4	cop
+4	Afghanistan	_	PROPN	PROPN	_	5	nsubj
+5	land-locked	_	VERB	VERB	_	1	parataxis
+6	?	_	PUNCT	PUNCT	_	5	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-55	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	There	_	DET	DET	_	2	expl
+2	is	_	VERB	VERB	_	0	root
+3	a	_	DET	DET	_	4	det
+4	belief	_	NOUN	NOUN	_	2	nsubj
+5	that	_	SCONJ	SCONJ	_	9	mark
+6	the	_	DET	DET	_	7	det
+7	US	_	PROPN	PROPN	_	9	nsubj
+8	will	_	AUX	AUX	_	9	aux
+9	invade	_	VERB	VERB	_	4	acl
+10	Syria	_	PROPN	PROPN	_	9	dobj
+11	.	_	PUNCT	PUNCT	_	2	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Will	_	AUX	AUX	_	6	aux
+4	the	_	DET	DET	_	5	det
+5	US	_	PROPN	PROPN	_	6	nsubj
+6	invade	_	VERB	VERB	_	1	appos
+7	Syria	_	PROPN	PROPN	_	6	dobj
+8	?	_	PUNCT	PUNCT	_	6	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-56	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	It	_	PRON	PRON	_	6	expl
+2	is	_	VERB	VERB	_	0	root
+3	not	_	ADV	ADV	_	7	neg
+4	surprising	_	ADJ	ADJ	_	0	ccomp
+5	that	_	SCONJ	SCONJ	_	7	mark
+6	Bush	_	PROPN	PROPN	_	7	nsubj
+7	has	_	VERB	VERB	_	2	ccomp
+8	the	_	DET	DET	_	9	det
+9	lead	_	NOUN	NOUN	_	7	dobj
+10	in	_	ADP	ADP	_	7	compound:prt
+11	Ohio	_	PROPN	PROPN	_	9	nmod
+12	.	_	PUNCT	PUNCT	_	7	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Does	_	VERB	VERB	_	1	appos
+4	Bush	_	PROPN	PROPN	_	5	nsubj
+5	have	_	VERB	VERB	_	3	ccomp
+6	the	_	DET	DET	_	7	det
+7	lead	_	NOUN	NOUN	_	5	dobj
+8	in	_	ADP	ADP	_	5	compound:prt
+9	Ohio	_	PROPN	PROPN	_	5	dobj
+10	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-57	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	It	_	PRON	PRON	_	6	expl
+2	is	_	VERB	VERB	_	0	root
+3	not	_	ADV	ADV	_	7	neg
+4	likely	_	ADJ	ADJ	_	0	ccomp
+5	that	_	SCONJ	SCONJ	_	7	mark
+6	Bush	_	PROPN	PROPN	_	7	nsubj
+7	has	_	VERB	VERB	_	2	ccomp
+8	the	_	DET	DET	_	9	det
+9	lead	_	NOUN	NOUN	_	7	dobj
+10	in	_	ADP	ADP	_	7	compound:prt
+11	Ohio	_	PROPN	PROPN	_	9	nmod
+12	.	_	PUNCT	PUNCT	_	7	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Does	_	VERB	VERB	_	1	appos
+4	Bush	_	PROPN	PROPN	_	5	nsubj
+5	have	_	VERB	VERB	_	3	ccomp
+6	the	_	DET	DET	_	7	det
+7	lead	_	NOUN	NOUN	_	5	dobj
+8	in	_	ADP	ADP	_	5	compound:prt
+9	Ohio	_	PROPN	PROPN	_	5	dobj
+10	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-58	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Kerry	_	PROPN	PROPN	_	2	nsubj
+2	knew	_	VERB	VERB	_	0	root
+3	that	_	SCONJ	SCONJ	_	6	mark
+4	Edwards	_	PROPN	PROPN	_	6	nsubj
+5	would	_	AUX	AUX	_	6	aux
+6	accept	_	VERB	VERB	_	2	ccomp
+7	the	_	DET	DET	_	8	det
+8	nomination	_	NOUN	NOUN	_	6	dobj
+9	.	_	PUNCT	PUNCT	_	2	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	Kerry	_	PROPN	PROPN	_	5	nsubj
+5	know	_	VERB	VERB	_	3	xcomp
+6	whether	_	SCONJ	SCONJ	_	9	mark
+7	Edwards	_	PROPN	PROPN	_	9	nsubj
+8	would	_	AUX	AUX	_	9	aux
+9	accept	_	VERB	VERB	_	5	ccomp
+10	the	_	DET	DET	_	11	det
+11	nomination	_	NOUN	NOUN	_	9	dobj
+12	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-59	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Tom	_	PROPN	PROPN	_	2	nsubj
+2	knows	_	VERB	VERB	_	0	root
+3	that	_	DET	DET	_	4	det
+4	Naples	_	NOUN	NOUN	_	2	dobj
+5	is	_	VERB	VERB	_	7	cop
+6	in	_	ADP	ADP	_	5	compound:prt
+7	Campania	_	PROPN	PROPN	_	2	nmod
+8	.	_	PUNCT	PUNCT	_	2	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Does	_	VERB	VERB	_	1	appos
+4	Tom	_	PROPN	PROPN	_	5	nsubj
+5	know	_	VERB	VERB	_	3	ccomp
+6	where	_	ADV	ADV	_	5	compound
+7	Naples	_	NOUN	NOUN	_	8	nsubj
+8	is	_	VERB	VERB	_	6	cop
+9	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-60	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	We	_	PRON	PRON	_	2	nsubj
+2	met	_	VERB	VERB	_	0	root
+3	in	_	ADP	ADP	_	2	compound:prt
+4	September	_	PROPN	PROPN	_	2	dobj
+5	during	_	ADP	ADP	_	2	compound:prt
+6	the	_	DET	DET	_	7	det
+7	feast	_	NOUN	NOUN	_	2	dobj
+8	.	_	PUNCT	PUNCT	_	2	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	5	det
+5	feast	_	NOUN	NOUN	_	3	dobj
+6	take	_	VERB	VERB	_	5	acl
+7	place	_	NOUN	NOUN	_	6	dobj
+8	in	_	ADP	ADP	_	6	compound:prt
+9	September	_	PROPN	PROPN	_	6	nmod
+10	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-61	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	It	_	PRON	PRON	_	6	expl
+2	is	_	VERB	VERB	_	0	root
+3	false	_	ADJ	ADJ	_	0	ccomp
+4	that	_	SCONJ	SCONJ	_	8	mark
+5	Bin	_	PROPN	PROPN	_	6	compound
+6	Laden	_	PROPN	PROPN	_	8	nsubjpass
+7	was	_	AUX	AUX	_	8	auxpass
+8	seen	_	VERB	VERB	_	2	ccomp
+9	in	_	ADP	ADP	_	8	compound:prt
+10	Tora	_	PROPN	PROPN	_	11	compound
+11	Bora	_	PROPN	PROPN	_	8	dobj
+12	.	_	PUNCT	PUNCT	_	8	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Was	_	VERB	VERB	_	1	appos
+4	Bin	_	PROPN	PROPN	_	5	compound
+5	Laden	_	PROPN	PROPN	_	6	nsubj
+6	seen	_	VERB	VERB	_	3	ccomp
+7	in	_	ADP	ADP	_	6	compound:prt
+8	Tora	_	PROPN	PROPN	_	9	compound
+9	Bora	_	PROPN	PROPN	_	6	dobj
+10	?	_	PUNCT	PUNCT	_	6	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-62	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	It	_	PRON	PRON	_	2	nsubj
+2	follows	_	VERB	VERB	_	0	root
+3	that	_	SCONJ	SCONJ	_	9	mark
+4	Bin	_	PROPN	PROPN	_	5	compound
+5	Laden	_	PROPN	PROPN	_	9	nsubj
+6	was	_	VERB	VERB	_	9	cop
+7	in	_	ADP	ADP	_	6	compound:prt
+8	Tora	_	PROPN	PROPN	_	9	compound
+9	Bora	_	PROPN	PROPN	_	2	ccomp
+10	.	_	PUNCT	PUNCT	_	2	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Was	_	VERB	VERB	_	5	cop
+4	Bin	_	PROPN	PROPN	_	5	compound
+5	Laden	_	PROPN	PROPN	_	1	parataxis
+6	in	_	ADP	ADP	_	3	compound:prt
+7	Tora	_	PROPN	PROPN	_	8	compound
+8	Bora	_	PROPN	PROPN	_	3	nsubj
+9	?	_	PUNCT	PUNCT	_	1	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-63	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	It	_	PRON	PRON	_	6	expl
+2	is	_	VERB	VERB	_	6	cop
+3	likely	_	ADJ	ADJ	_	0	ccomp
+4	that	_	SCONJ	SCONJ	_	10	mark
+5	Bin	_	PROPN	PROPN	_	6	compound
+6	Laden	_	PROPN	PROPN	_	10	nsubj
+7	was	_	VERB	VERB	_	10	cop
+8	in	_	ADP	ADP	_	7	compound:prt
+9	Tora	_	PROPN	PROPN	_	10	compound
+10	Bora	_	PROPN	PROPN	_	0	root
+11	.	_	PUNCT	PUNCT	_	2	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Was	_	VERB	VERB	_	5	cop
+4	Bin	_	PROPN	PROPN	_	5	compound
+5	Laden	_	PROPN	PROPN	_	1	parataxis
+6	in	_	ADP	ADP	_	3	compound:prt
+7	Tora	_	PROPN	PROPN	_	8	compound
+8	Bora	_	PROPN	PROPN	_	3	nsubj
+9	?	_	PUNCT	PUNCT	_	1	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-64	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Tony	_	PROPN	PROPN	_	2	compound
+2	Hall	_	PROPN	PROPN	_	3	nsubj
+3	left	_	VERB	VERB	_	0	root
+4	Amman	_	PROPN	PROPN	_	3	dobj
+5	on	_	ADP	ADP	_	3	compound:prt
+6	Sunday	_	PROPN	PROPN	_	3	dobj
+7	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Was	_	VERB	VERB	_	5	cop
+4	Tony	_	PROPN	PROPN	_	5	compound
+5	Hall	_	PROPN	PROPN	_	7	compound
+6	in	_	ADP	ADP	_	3	compound:prt
+7	Amman	_	PROPN	PROPN	_	9	compound
+8	on	_	ADP	ADP	_	3	compound:prt
+9	Sunday	_	PROPN	PROPN	_	1	parataxis
+10	?	_	PUNCT	PUNCT	_	1	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-65	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Tony	_	PROPN	PROPN	_	2	compound
+2	Hall	_	PROPN	PROPN	_	3	nsubj
+3	left	_	VERB	VERB	_	0	root
+4	Amman	_	PROPN	PROPN	_	3	dobj
+5	on	_	ADP	ADP	_	3	compound:prt
+6	Sunday	_	PROPN	PROPN	_	3	dobj
+7	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Was	_	VERB	VERB	_	5	cop
+4	Tony	_	PROPN	PROPN	_	5	compound
+5	Hall	_	PROPN	PROPN	_	7	compound
+6	in	_	ADP	ADP	_	3	compound:prt
+7	Amman	_	PROPN	PROPN	_	9	compound
+8	on	_	ADP	ADP	_	3	compound:prt
+9	Saturday	_	PROPN	PROPN	_	1	parataxis
+10	?	_	PUNCT	PUNCT	_	1	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-66	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Khan	_	PROPN	PROPN	_	2	nsubj
+2	sold	_	VERB	VERB	_	0	root
+3	10	_	NUM	NUM	_	4	nummod
+4	centrifuges	_	NOUN	NOUN	_	2	dobj
+5	to	_	ADP	ADP	_	2	compound:prt
+6	North	_	PROPN	PROPN	_	7	compound
+7	Korea	_	PROPN	PROPN	_	2	nmod
+8	.	_	PUNCT	PUNCT	_	2	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	North	_	PROPN	PROPN	_	5	compound
+5	Korea	_	PROPN	PROPN	_	3	dobj
+6	buy	_	VERB	VERB	_	3	conj
+7	10	_	NUM	NUM	_	8	nummod
+8	centrifuges	_	NOUN	NOUN	_	6	dobj
+9	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-67	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	3	det
+2	US	_	PROPN	PROPN	_	3	compound
+3	invasion	_	NOUN	NOUN	_	6	nsubj
+4	of	_	ADP	ADP	_	6	mark
+5	Afghanistan	_	PROPN	PROPN	_	6	nsubj
+6	prevented	_	VERB	VERB	_	0	root
+7	Al-Qaida	_	PROPN	PROPN	_	6	dobj
+8	from	_	ADP	ADP	_	6	compound:prt
+9	attacking	_	VERB	VERB	_	6	advcl
+10	Ryad	_	NOUN	NOUN	_	9	dobj
+11	in	_	ADP	ADP	_	9	compound:prt
+12	2002	_	NUM	NUM	_	10	nmod:tmod
+13	.	_	PUNCT	PUNCT	_	6	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	Al-Qaida	_	PROPN	PROPN	_	6	compound
+5	attack	_	NOUN	NOUN	_	6	compound
+6	Ryad	_	NOUN	NOUN	_	3	dobj
+7	in	_	ADP	ADP	_	3	compound:prt
+8	2002	_	NUM	NUM	_	4	nmod:tmod
+9	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-68	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	administration	_	NOUN	NOUN	_	3	nsubj
+3	managed	_	VERB	VERB	_	0	root
+4	to	_	PART	PART	_	5	mark
+5	track	_	VERB	VERB	_	3	xcomp
+6	down	_	ADP	ADP	_	5	compound:prt
+7	the	_	DET	DET	_	8	det
+8	perpetrators	_	NOUN	NOUN	_	5	dobj
+9	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	6	det
+5	administration	_	NOUN	NOUN	_	6	compound
+6	track	_	NOUN	NOUN	_	3	dobj
+7	down	_	ADP	ADP	_	3	compound:prt
+8	the	_	DET	DET	_	9	det
+9	perpetrators	_	NOUN	NOUN	_	3	nmod:npmod
+10	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-69	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	administration	_	NOUN	NOUN	_	5	nsubj
+3	did	_	AUX	AUX	_	5	aux
+4	n't	_	ADV	ADV	_	5	neg
+5	manage	_	VERB	VERB	_	0	root
+6	to	_	PART	PART	_	7	mark
+7	track	_	VERB	VERB	_	5	xcomp
+8	down	_	ADP	ADP	_	7	compound:prt
+9	the	_	DET	DET	_	10	det
+10	perpetrators	_	NOUN	NOUN	_	7	dobj
+11	.	_	PUNCT	PUNCT	_	5	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	6	det
+5	administration	_	NOUN	NOUN	_	6	compound
+6	track	_	NOUN	NOUN	_	3	dobj
+7	down	_	ADP	ADP	_	3	compound:prt
+8	the	_	DET	DET	_	9	det
+9	perpetrators	_	NOUN	NOUN	_	3	nmod:npmod
+10	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-70	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Bush	_	PROPN	PROPN	_	4	nsubj
+2	did	_	AUX	AUX	_	4	aux
+3	n't	_	ADV	ADV	_	4	neg
+4	have	_	VERB	VERB	_	0	root
+5	the	_	DET	DET	_	6	det
+6	time	_	NOUN	NOUN	_	4	dobj
+7	to	_	PART	PART	_	8	mark
+8	read	_	VERB	VERB	_	6	acl
+9	the	_	DET	DET	_	10	det
+10	report	_	NOUN	NOUN	_	8	dobj
+11	.	_	PUNCT	PUNCT	_	4	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	Bush	_	PROPN	PROPN	_	3	dobj
+5	read	_	VERB	VERB	_	1	appos
+6	the	_	DET	DET	_	7	det
+7	report	_	NOUN	NOUN	_	5	dobj
+8	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-71	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Bush	_	PROPN	PROPN	_	2	nsubj
+2	had	_	VERB	VERB	_	0	root
+3	the	_	DET	DET	_	4	det
+4	time	_	NOUN	NOUN	_	2	dobj
+5	to	_	PART	PART	_	6	mark
+6	read	_	VERB	VERB	_	4	acl
+7	the	_	DET	DET	_	8	det
+8	report	_	NOUN	NOUN	_	6	dobj
+9	.	_	PUNCT	PUNCT	_	2	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	Bush	_	PROPN	PROPN	_	3	dobj
+5	read	_	VERB	VERB	_	1	appos
+6	the	_	DET	DET	_	7	det
+7	report	_	NOUN	NOUN	_	5	dobj
+8	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-72	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	president	_	NOUN	NOUN	_	9	nsubj
+3	was	_	VERB	VERB	_	0	root
+4	n't	_	ADV	ADV	_	7	neg
+5	able	_	ADJ	ADJ	_	0	acl:relcl
+6	to	_	PART	PART	_	7	mark
+7	attend	_	VERB	VERB	_	3	ccomp
+8	the	_	DET	DET	_	9	det
+9	meeting	_	NOUN	NOUN	_	7	dobj
+10	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	5	det
+5	president	_	NOUN	NOUN	_	3	dobj
+6	attend	_	VERB	VERB	_	5	acl
+7	the	_	DET	DET	_	8	det
+8	meeting	_	NOUN	NOUN	_	6	dobj
+9	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-73	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	president	_	NOUN	NOUN	_	3	nsubj
+3	was	_	VERB	VERB	_	0	root
+4	able	_	ADJ	ADJ	_	0	acl:relcl
+5	to	_	PART	PART	_	6	mark
+6	attend	_	VERB	VERB	_	3	ccomp
+7	the	_	DET	DET	_	8	det
+8	meeting	_	NOUN	NOUN	_	6	dobj
+9	.	_	PUNCT	PUNCT	_	8	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	5	det
+5	president	_	NOUN	NOUN	_	3	dobj
+6	attend	_	VERB	VERB	_	5	acl
+7	the	_	DET	DET	_	8	det
+8	meeting	_	NOUN	NOUN	_	6	dobj
+9	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-74	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	Many	_	ADJ	ADJ	_	0	cc
+2	soldiers	_	NOUN	NOUN	_	4	nsubjpass
+3	were	_	AUX	AUX	_	4	auxpass
+4	killed	_	VERB	VERB	_	0	root
+5	in	_	ADP	ADP	_	4	compound:prt
+6	the	_	DET	DET	_	7	det
+7	ambush	_	NOUN	NOUN	_	4	dobj
+8	.	_	PUNCT	PUNCT	_	4	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Were	_	VERB	VERB	_	1	appos
+4	all	_	DET	DET	_	5	det
+5	soldiers	_	NOUN	NOUN	_	6	nsubj
+6	killed	_	VERB	VERB	_	3	ccomp
+7	in	_	ADP	ADP	_	6	compound:prt
+8	the	_	DET	DET	_	9	det
+9	ambush	_	NOUN	NOUN	_	6	dobj
+10	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-75	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	man	_	NOUN	NOUN	_	3	nsubj
+3	had	_	VERB	VERB	_	0	root
+4	$20	_	NOUN	NOUN	_	3	dobj
+5	in	_	ADP	ADP	_	3	compound:prt
+6	his	_	PRON	PRON	_	7	nmod:poss
+7	pocket	_	NOUN	NOUN	_	3	dobj
+8	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	5	det
+5	man	_	NOUN	NOUN	_	3	dobj
+6	have	_	VERB	VERB	_	5	acl
+7	$40	_	NOUN	NOUN	_	6	dobj
+8	in	_	ADP	ADP	_	6	compound:prt
+9	his	_	PRON	PRON	_	10	nmod:poss
+10	pocket	_	NOUN	NOUN	_	6	dobj
+11	?	_	PUNCT	PUNCT	_	3	punct
+
+1	ID:	_	PROPN	PROPN	_	2	compound
+2	PARC	_	PROPN	PROPN	_	0	root
+3	-76	_	NUM	NUM	_	2	nummod
+4	.	_	PUNCT	PUNCT	_	2	punct
+
+1	The	_	DET	DET	_	2	det
+2	man	_	NOUN	NOUN	_	3	nsubj
+3	had	_	VERB	VERB	_	0	root
+4	$20	_	NOUN	NOUN	_	3	dobj
+5	in	_	ADP	ADP	_	3	compound:prt
+6	his	_	PRON	PRON	_	7	nmod:poss
+7	pocket	_	NOUN	NOUN	_	3	dobj
+8	.	_	PUNCT	PUNCT	_	3	punct
+
+1	QN	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Did	_	VERB	VERB	_	1	appos
+4	the	_	DET	DET	_	5	det
+5	man	_	NOUN	NOUN	_	3	dobj
+6	have	_	VERB	VERB	_	5	acl
+7	$10	_	NOUN	NOUN	_	6	dobj
+8	in	_	ADP	ADP	_	6	compound:prt
+9	his	_	PRON	PRON	_	10	nmod:poss
+10	pocket	_	NOUN	NOUN	_	6	dobj
+11	?	_	PUNCT	PUNCT	_	3	punct
+

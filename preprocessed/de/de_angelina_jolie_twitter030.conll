@@ -1,0 +1,12 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	4	name
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Kinder	_	NOUN	NOUN	_	5	nsubj
+5	bewerten	_	VERB	VERB	_	0	root
+6	ihr	_	DET	DET	_	7	nmod:poss
+7	Leben	_	NOUN	NOUN	_	5	dobj
+8	!	_	PUNCT	PUNCT	_	9	punct
+9	http://t.co/R2riLJ3jUn	_	PROPN	PROPN	_	11	name
+10	#KlatschundTratsch	_	PROPN	PROPN	_	11	name
+11	#AngelinaJolie	_	PROPN	PROPN	_	7	appos
+

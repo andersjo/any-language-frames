@@ -1,0 +1,20 @@
+1	@La_France_Libre	_	NOUN	NOUN	_	9	appos
+2	((	_	PROPN	PROPN	_	3	name
+3	LA	_	PROPN	PROPN	_	4	det
+4	CRISE	_	PROPN	PROPN	_	9	name
+5	MAJEURE	_	PROPN	PROPN	_	9	name
+6	=D	_	PROPN	PROPN	_	9	name
+7	AVID	_	PROPN	PROPN	_	9	name
+8	ROCKEFELLER	_	PROPN	PROPN	_	9	name
+9	))	_	PROPN	PROPN	_	10	nsubj
+10	voir	_	VERB	VERB	_	0	root
+11	Google	_	PROPN	PROPN	_	10	dobj
+12	crise	_	NOUN	NOUN	_	10	dobj
+13	orchestré	_	ADJ	ADJ	_	12	amod
+14	par	_	ADP	ADP	_	10	case
+15	les	_	DET	DET	_	16	det
+16	ELITES	_	NOUN	NOUN	_	14	case
+17	MONDIALISTES	_	ADJ	ADJ	_	16	amod
+18	FINANCE	_	NOUN	NOUN	_	16	nmod
+19	/ALIMENTAIRE	_	ADJ	ADJ	_	18	amod
+

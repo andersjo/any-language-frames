@@ -1,0 +1,11 @@
+1	A	_	ADP	ADP	_	2	case
+2	éstos	_	NOUN	NOUN	_	4	nmod
+3	últimos	_	ADJ	ADJ	_	2	amod
+4	se	_	PRON	PRON	_	6	iobj
+5	los	_	PRON	PRON	_	6	dobj
+6	llama	_	VERB	VERB	_	0	root
+7	«	_	PUNCT	PUNCT	_	8	punct
+8	squibs	_	PROPN	PROPN	_	6	xcomp
+9	»	_	PUNCT	PUNCT	_	8	punct
+10	.	_	PUNCT	PUNCT	_	6	punct
+

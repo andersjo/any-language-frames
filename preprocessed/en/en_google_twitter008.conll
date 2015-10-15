@@ -1,0 +1,23 @@
+1	#PlayStore	_	PROPN	PROPN	_	2	compound
+2	#Amazon	_	PROPN	PROPN	_	6	compound
+3	-	_	PUNCT	PUNCT	_	2	punct
+4	The	_	DET	DET	_	7	det
+5	Amazon	_	PROPN	PROPN	_	6	compound
+6	Fire	_	PROPN	PROPN	_	7	compound
+7	Phone	_	NOUN	NOUN	_	15	nsubj
+8	is	_	VERB	VERB	_	15	cop
+9	a	_	DET	DET	_	15	det
+10	smartphone	_	VERB	VERB	_	15	amod
+11	with	_	ADP	ADP	_	10	compound:prt
+12	a	_	DET	DET	_	15	det
+13	4.7	_	NUM	NUM	_	14	nummod
+14	inch	_	NOUN	NOUN	_	15	compound
+15	display	_	NOUN	NOUN	_	0	root
+16	,	_	PUNCT	PUNCT	_	15	punct
+17	a	_	DET	DET	_	22	det
+18	Qualcomm	_	PROPN	PROPN	_	19	compound
+19	Snapdragon	_	PROPN	PROPN	_	22	compound
+20	…	_	PROPN	PROPN	_	22	compound
+21	http://t.co/QBNlaBt1Hi	_	PROPN	PROPN	_	22	compound
+22	#Google	_	PROPN	PROPN	_	15	appos
+

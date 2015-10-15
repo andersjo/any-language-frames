@@ -1,0 +1,3269 @@
+A	_	Measure_duration Process_end Quantity
+Brief	_	Documents Duration_attribute
+History	_	Fields History Individual_history Out_of_existence Text
+
+Early	_	Relative_time Temporal_collocation Temporal_subregion
+Habitation	_	
+
+The	_	Self_motion Temporal_collocation
+inhabited	_	Residence
+history	_	Fields History Individual_history Out_of_existence Text
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Las	_	
+Vegas	_	
+Valley	_	Natural_features
+stretches	_	Expansion
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+23,000	_	
+b.c.	_	
+,	_	
+when	_	Temporal_collocation
+much	_	Relational_quantity
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+area	_	Dimension Fields Locale
+was	_	Existence
+covered	_	Abounding_with Adorning Eclipse
+by	_	Locative_relation Means
+a	_	Measure_duration Process_end Quantity
+prehistoric	_	Temporal_collocation
+lake	_	Natural_features
+.	_	
+
+During	_	Temporal_collocation
+this	_	
+period	_	Frequency
+,	_	
+the	_	Self_motion Temporal_collocation
+indigenous	_	Indigenous_origin
+people	_	Colonization People
+lived	_	Residence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+caves	_	Natural_features
+,	_	
+hunting	_	Hunting Seeking
+the	_	Self_motion Temporal_collocation
+mammals	_	
+that	_	Degree
+gathered	_	Come_together
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+shoreline	_	Relational_natural_features
+.	_	
+
+The	_	Self_motion Temporal_collocation
+landscape	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+valley	_	Natural_features
+changed	_	Cause_change Undergo_change
+dramatically	_	
+over	_	Locative_relation Process_completed_state Relational_quantity
+the	_	Self_motion Temporal_collocation
+next	_	Locative_relation Relative_time
+200	_	Cardinal_numbers
+centuries	_	Measure_duration
+.	_	
+
+The	_	Self_motion Temporal_collocation
+glaciers	_	Natural_features
+feeding	_	
+the	_	Self_motion Temporal_collocation
+lake	_	Natural_features
+melted	_	Altered_phase Change_of_phase
+away	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+lake	_	Natural_features
+evaporated	_	Change_of_phase
+.	_	
+
+Fossils	_	
+tell	_	Becoming_aware Evidence Prevarication Reporting Request Speak_on_topic Statement Telling
+an	_	Cause_to_end Process_end Quantity
+obscure	_	Eclipse Obscurity
+story	_	
+of	_	Age Domain Origin Partitive
+man	_	People
+'s	_	Existence Required_event
+slow	_	Taking_time
+and	_	
+sporadic	_	Frequency
+development	_	Cause_to_make_progress Event Progress
+.	_	
+
+Around	_	Dimension Locative_relation Relational_quantity Temporal_collocation
+3000	_	
+b.c.	_	
+,	_	
+native	_	Indigenous_origin
+Archaic	_	
+Indians	_	
+began	_	Activity_start Process_start
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+develop	_	Cause_to_make_progress Coming_to_be Progress
+a	_	Measure_duration Process_end Quantity
+lasting	_	Duration_attribute
+hunting	_	Hunting Seeking
+and	_	
+gathering	_	Come_together
+culture	_	
+.	_	
+
+By	_	Locative_relation Means
+this	_	
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+,	_	
+the	_	Self_motion Temporal_collocation
+valley	_	Natural_features
+was	_	Existence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+much	_	Relational_quantity
+the	_	Self_motion Temporal_collocation
+same	_	Identicality
+geographic	_	
+state	_	Political_locales State_of_entity Statement
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+it	_	
+exists	_	Existence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+today	_	Calendric_unit Temporal_collocation
+,	_	
+with	_	Accompaniment
+one	_	Cardinal_numbers
+exception	_	
+--	_	
+the	_	Self_motion Temporal_collocation
+presence	_	Presence
+of	_	Age Domain Origin Partitive
+artesian	_	
+springs	_	Natural_features
+that	_	Degree
+bubbled	_	Fluidic_motion
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+surface	_	Filling Part_inner_outer
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+several	_	Quantity
+areas	_	Fields Locale
+.	_	
+
+These	_	
+springs	_	Natural_features
+fed	_	Ingestion
+a	_	Measure_duration Process_end Quantity
+network	_	Network
+of	_	Age Domain Origin Partitive
+streams	_	Natural_features
+draining	_	
+through	_	Activity_done_state Time_vector Used_up
+the	_	Self_motion Temporal_collocation
+Las	_	
+Vegas	_	
+Wash	_	Filling Grooming Natural_features Removing
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Colorado	_	
+River	_	Natural_features
+.	_	
+
+The	_	Self_motion Temporal_collocation
+areas	_	Fields Locale
+surrounding	_	Locative_relation
+the	_	Self_motion Temporal_collocation
+springs	_	Natural_features
+were	_	Existence
+desert	_	Biological_area Quitting_a_place
+oases	_	
+:	_	
+sprawling	_	
+collections	_	Aggregate
+of	_	Age Domain Origin Partitive
+grasses	_	
+,	_	
+trees	_	
+,	_	
+and	_	
+wildlife	_	
+.	_	
+
+Many	_	Quantity
+springs	_	Natural_features
+lay	_	Attack Being_located Birth Placing Text
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+areas	_	Fields Locale
+that	_	Degree
+would	_	
+eventually	_	Time_vector
+become	_	Becoming
+the	_	Self_motion Temporal_collocation
+center	_	Locale_by_use Part_inner_outer
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+modern	_	Stage_of_progress Temporal_collocation
+Las	_	
+Vegas	_	
+metropolis	_	Political_locales
+.	_	
+
+For	_	Causation Taking_sides
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+4000	_	
+years	_	Calendric_unit Measure_duration
+,	_	
+the	_	Self_motion Temporal_collocation
+Archaics	_	
+thrived	_	Thriving
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+a	_	Measure_duration Process_end Quantity
+culture	_	
+that	_	Degree
+included	_	Inclusion
+many	_	Quantity
+signs	_	Sign Sign_agreement
+of	_	Age Domain Origin Partitive
+early	_	Relative_time Temporal_collocation Temporal_subregion
+civilization	_	
+.	_	
+
+Signs	_	Sign Sign_agreement
+of	_	Age Domain Origin Partitive
+even	_	
+more	_	Increment
+advancement	_	Progress
+appeared	_	Appearance Coming_to_be
+halfway	_	
+through	_	Activity_done_state Time_vector Used_up
+the	_	Self_motion Temporal_collocation
+first	_	First_experience Ordinal_numbers
+millennium	_	Calendric_unit Measure_duration
+a.d.	_	
+,	_	
+when	_	Temporal_collocation
+the	_	Self_motion Temporal_collocation
+Anasazi	_	
+Indians	_	
+inhabited	_	Residence
+the	_	Self_motion Temporal_collocation
+valley	_	Natural_features
+.	_	
+
+Far	_	Degree
+more	_	Increment
+progressive	_	
+than	_	Time_vector
+the	_	Self_motion Temporal_collocation
+Archaics	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+Anasazi	_	
+utilized	_	Using
+such	_	
+formal	_	
+agricultural	_	
+techniques	_	Means
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+irrigation	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+assist	_	Assistance
+their	_	
+harvest	_	Food_gathering
+.	_	
+
+This	_	
+permitted	_	Grant_permission Make_possible_to_do Permitting
+the	_	Self_motion Temporal_collocation
+Anasazi	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+achieve	_	Accomplishment
+a	_	Measure_duration Process_end Quantity
+benchmark	_	
+of	_	Age Domain Origin Partitive
+advanced	_	Position_on_a_scale Stage_of_progress
+society	_	
+--	_	
+the	_	Self_motion Temporal_collocation
+ability	_	Capability
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+live	_	Residence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+permanent	_	
+shelters	_	Buildings
+year-round	_	
+without	_	
+need	_	Have_as_requirement Needing Required_event
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+follow	_	Compliance Cotheme Relative_time
+wildlife	_	
+.	_	
+
+Mysteriously	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+Anasazi	_	
+vanished	_	Departing
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+valley	_	Natural_features
+around	_	Dimension Locative_relation Relational_quantity Temporal_collocation
+a.d.	_	
+1150	_	
+,	_	
+leaving	_	Departing Giving
+it	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+be	_	Existence Performers_and_roles
+repopulated	_	
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+Southern	_	Part_orientational
+Paiutes	_	
+,	_	
+another	_	Increment
+hunter-gatherer	_	
+tribe	_	Aggregate
+.	_	
+
+Unable	_	Capability
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+replicate	_	Duplication
+the	_	Self_motion Temporal_collocation
+agricultural	_	
+techniques	_	Means
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Anasazi	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+Paiutes	_	
+were	_	Existence
+destined	_	Destiny
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+a	_	Measure_duration Process_end Quantity
+semi-nomadic	_	
+lifestyle	_	
+until	_	Time_vector
+European	_	Origin
+settlers	_	Colonization
+arrived	_	Arriving
+,	_	
+changing	_	Cause_change Exchange Replacing Undergo_change
+the	_	Self_motion Temporal_collocation
+nature	_	
+of	_	Age Domain Origin Partitive
+existence	_	Existence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+valley	_	Natural_features
+forever	_	
+.	_	
+
+From	_	Delimitation_of_diversity Evidence Origin Time_vector
+Mailmen	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Mormons	_	People_by_religion
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+early	_	Relative_time Temporal_collocation Temporal_subregion
+nineteenth	_	Ordinal_numbers
+century	_	Calendric_unit Measure_duration
+,	_	
+America	_	
+'s	_	Existence Required_event
+western	_	Part_orientational
+territories	_	Political_locales
+were	_	Existence
+still	_	Continued_state_of_affairs
+largely	_	
+unexplored	_	
+.	_	
+
+It	_	
+was	_	Existence
+not	_	
+until	_	Time_vector
+1829	_	
+that	_	Degree
+Rafael	_	
+Rivera	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+Mexican	_	People_by_origin
+scout	_	Scrutiny
+,	_	
+found	_	Becoming_aware Intentionally_create Locating Verdict
+a	_	Measure_duration Process_end Quantity
+spring	_	Calendric_unit Natural_features Self_motion
+-fed	_	
+valley	_	Natural_features
+and	_	
+dubbed	_	Name_conferral
+it	_	
+Las	_	
+Vegas	_	
+--	_	
+a	_	Measure_duration Process_end Quantity
+Spanish	_	
+name	_	Adducing Appointing Being_named Indicating Name_conferral Referring_by_name
+that	_	Degree
+leaves	_	Quitting
+many	_	Quantity
+modern	_	Stage_of_progress Temporal_collocation
+visitors	_	Visiting
+wondering	_	Cogitation
+exactly	_	Relational_quantity
+where	_	Locative_relation
+``	_	
+the	_	Self_motion Temporal_collocation
+meadows	_	
+''	_	
+really	_	
+lay	_	Attack Being_located Birth Placing Text
+.	_	
+
+For	_	Causation Taking_sides
+fifteen	_	Cardinal_numbers
+years	_	Calendric_unit Measure_duration
+,	_	
+Las	_	
+Vegas	_	
+was	_	Existence
+used	_	Using
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+a	_	Measure_duration Process_end Quantity
+Spanish	_	
+Trail	_	Cotheme Roadways
+way-station	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1844	_	
+,	_	
+American	_	Origin People_by_origin
+explorer	_	
+John	_	
+C.	_	
+Fremont	_	
+parked	_	Placing
+his	_	
+horses	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+Big	_	Size Trendiness
+Springs	_	Natural_features
+,	_	
+and	_	
+his	_	
+report	_	Reporting Statement Text
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+government	_	Leadership Organization
+resulted	_	Causation
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+a	_	Measure_duration Process_end Quantity
+mail	_	Contacting Sending Sent_items
+route	_	Roadways Sending
+leading	_	First_rank
+past	_	Individual_history Locative_relation Relative_time
+the	_	Self_motion Temporal_collocation
+spot	_	Becoming_aware Locale
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+its	_	
+way	_	Means Possibilities Roadways Self_motion
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+California	_	
+.	_	
+
+This	_	
+put	_	Causation Encoding Placing
+Las	_	
+Vegas	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+map	_	
+and	_	
+was	_	Existence
+one	_	Cardinal_numbers
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+crucial	_	Importance
+turning	_	Cause_change Undergo_change
+points	_	Locale
+of	_	Age Domain Origin Partitive
+its	_	
+history	_	Fields History Individual_history Out_of_existence Text
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1855	_	
+,	_	
+Mormon	_	People_by_religion
+leader	_	First_rank Leadership
+Brigham	_	
+Young	_	Age
+responded	_	Communication_response Response
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+promising	_	Commitment Omen
+reports	_	Statement Text
+of	_	Age Domain Origin Partitive
+Las	_	
+Vegas	_	
+by	_	Locative_relation Means
+sending	_	Sending
+30	_	Cardinal_numbers
+missionary	_	
+settlers	_	Colonization
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+valley	_	Natural_features
+;	_	
+they	_	
+eventually	_	Time_vector
+built	_	Building
+a	_	Measure_duration Process_end Quantity
+fort	_	Buildings
+not	_	
+far	_	Degree
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+today	_	Calendric_unit Temporal_collocation
+'s	_	Existence Required_event
+Downtown	_	Locale_by_use
+.	_	
+
+Surrounded	_	
+by	_	Locative_relation Means
+acres	_	Measure_area
+of	_	Age Domain Origin Partitive
+farmland	_	
+hewn	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+hard	_	Difficulty
+desert	_	Biological_area Quitting_a_place
+,	_	
+the	_	Self_motion Temporal_collocation
+adobe	_	
+fort	_	Buildings
+became	_	Becoming
+a	_	Measure_duration Process_end Quantity
+focal	_	
+point	_	Adducing Cause_to_perceive Locale
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+development	_	Cause_to_make_progress Event Progress
+of	_	Age Domain Origin Partitive
+Las	_	
+Vegas	_	
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+next	_	Locative_relation Relative_time
+fifty	_	Cardinal_numbers
+years	_	Calendric_unit Measure_duration
+.	_	
+
+The	_	Self_motion Temporal_collocation
+missionaries	_	
+struggled	_	
+valiantly	_	
+against	_	Locative_relation Taking_sides
+the	_	Self_motion Temporal_collocation
+dictates	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+desert	_	Biological_area Quitting_a_place
+,	_	
+trying	_	Attempt
+simultaneously	_	Relative_time Simultaneity
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+survive	_	Surviving
+the	_	Self_motion Temporal_collocation
+harshness	_	
+of	_	Age Domain Origin Partitive
+their	_	
+circumstances	_	
+and	_	
+spread	_	Dispersal Filling
+the	_	Self_motion Temporal_collocation
+Mormon	_	People_by_religion
+faith	_	Trust
+.	_	
+
+Additional	_	Increment
+pressures	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+arriving	_	
+miners	_	
+pushed	_	Cause_change_of_position_on_a_scale Cause_motion Subjective_influence
+the	_	Self_motion Temporal_collocation
+missionaries	_	
+'	_	
+plight	_	Predicament
+beyond	_	Locative_relation
+recovery	_	Recovery
+.	_	
+
+Their	_	
+supplies	_	Store Supply
+scarce	_	Scarcity
+,	_	
+their	_	
+harvest	_	Food_gathering
+meager	_	
+,	_	
+and	_	
+their	_	
+spirit	_	
+broken	_	Being_operational Cause_to_fragment
+,	_	
+they	_	
+abandoned	_	Abandonment
+the	_	Self_motion Temporal_collocation
+fort	_	Buildings
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1858	_	
+.	_	
+
+Despite	_	Concessive
+the	_	Self_motion Temporal_collocation
+fact	_	
+that	_	Degree
+the	_	Self_motion Temporal_collocation
+local	_	Indigenous_origin Political_locales
+land	_	Locale_by_ownership Natural_features Political_locales
+was	_	Existence
+rich	_	Position_on_a_scale Stimulus_focus Wealthiness
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+silver	_	
+,	_	
+by	_	Locative_relation Means
+1865	_	
+most	_	Relational_quantity
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+mining	_	
+traffic	_	
+through	_	Activity_done_state Time_vector Used_up
+Las	_	
+Vegas	_	
+was	_	Existence
+of	_	Age Domain Origin Partitive
+prospectors	_	
+headed	_	Leadership Self_motion
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+California	_	
+or	_	
+Northern	_	Part_orientational
+Nevada	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+search	_	Scrutiny
+of	_	Age Domain Origin Partitive
+gold	_	
+.	_	
+
+One	_	Cardinal_numbers
+opportunist	_	
+who	_	
+stayed	_	Temporary_stay
+was	_	Existence
+Octavius	_	
+Decatur	_	
+Gass	_	
+.	_	
+
+Bestowed	_	
+with	_	Accompaniment
+plenty	_	Sufficiency
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+invaluable	_	
+pioneer	_	Achieving_first
+spirit	_	
+that	_	Degree
+characterizes	_	Distinctiveness
+Las	_	
+Vegas	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+this	_	
+day	_	Calendric_unit Measure_duration Timespan
+,	_	
+Gass	_	
+redirected	_	Redirecting
+his	_	
+life	_	
+by	_	Locative_relation Means
+picking	_	
+up	_	Becoming Coming_up_with Direction Intentionally_create Locative_relation Reparation Summarizing
+where	_	Locative_relation
+the	_	Self_motion Temporal_collocation
+Mormons	_	People_by_religion
+left	_	Causation Change_direction Departing Direction Left_to_do Part_orientational People_along_political_spectrum Remainder
+off	_	Accuracy Being_in_operation Locative_relation
+--	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+least	_	Relational_quantity
+when	_	Temporal_collocation
+it	_	
+came	_	Arriving Process_end
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+ranching	_	
+and	_	
+farming	_	Agriculture
+.	_	
+
+Gass	_	
+took	_	Bringing Conquering Have_as_requirement Ride_vehicle Taking Taking_time
+over	_	Locative_relation Process_completed_state Relational_quantity
+the	_	Self_motion Temporal_collocation
+abandoned	_	Abandonment
+Mormon	_	People_by_religion
+fort	_	Buildings
+and	_	
+640	_	
+acres	_	Measure_area
+(	_	
+260	_	
+hectares	_	Measure_area
+)	_	
+surrounding	_	Locative_relation
+it	_	
+,	_	
+dubbing	_	Name_conferral
+it	_	
+the	_	Self_motion Temporal_collocation
+Las	_	
+Vegas	_	
+Ranch	_	Locale_by_use
+.	_	
+
+He	_	
+expanded	_	Cause_expansion
+the	_	Self_motion Temporal_collocation
+ranch	_	Locale_by_use
+and	_	
+irrigated	_	
+the	_	Self_motion Temporal_collocation
+land	_	Locale_by_ownership Natural_features Political_locales
+so	_	Causation Degree Sufficiency
+that	_	Degree
+it	_	
+would	_	
+support	_	Evidence Supporting Taking_sides
+crops	_	Aggregate
+and	_	
+cattle	_	
+.	_	
+
+His	_	
+determination	_	
+had	_	Being_obligated Have_associated Possession Required_event
+other	_	Increment
+results	_	Causation Earnings_and_losses
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+well	_	
+:	_	
+Gass	_	
+was	_	Existence
+named	_	Appointing Being_named Name_conferral
+a	_	Measure_duration Process_end Quantity
+justice	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+peace	_	
+and	_	
+a	_	Measure_duration Process_end Quantity
+territorial	_	
+legislator	_	Leadership
+.	_	
+
+Despite	_	Concessive
+his	_	
+ambition	_	Desiring
+,	_	
+Gass	_	
+'	_	
+success	_	Success_or_failure Successful_action
+was	_	Existence
+short-lived	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+late	_	Relative_time Temporal_subregion
+1870s	_	
+,	_	
+he	_	
+defaulted	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+a	_	Measure_duration Process_end Quantity
+loan	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+rancher	_	
+Archibald	_	
+Stewart	_	
+,	_	
+so	_	Causation Degree Sufficiency
+Stewart	_	
+took	_	Bringing Conquering Have_as_requirement Ride_vehicle Taking Taking_time
+the	_	Self_motion Temporal_collocation
+Las	_	
+Vegas	_	
+Ranch	_	Locale_by_use
+for	_	Causation Taking_sides
+his	_	
+own	_	Possession
+.	_	
+
+True	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+wild-West	_	
+stereotypes	_	
+,	_	
+Stewart	_	
+was	_	Existence
+slain	_	Killing
+by	_	Locative_relation Means
+a	_	Measure_duration Process_end Quantity
+neighboring	_	Locative_relation
+farmer	_	People_by_vocation
+,	_	
+leaving	_	Departing Giving
+his	_	
+strong-willed	_	
+wife	_	Personal_relationship
+,	_	
+Helen	_	
+,	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+assume	_	Adopt_selection
+the	_	Self_motion Temporal_collocation
+duties	_	Being_obligated
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+ranch	_	Locale_by_use
+.	_	
+
+Through	_	Activity_done_state Time_vector Used_up
+1905	_	
+,	_	
+Helen	_	
+Stewart	_	
+expanded	_	Cause_expansion
+the	_	Self_motion Temporal_collocation
+ranch	_	Locale_by_use
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+2000	_	
+acres	_	Measure_area
+(	_	
+810	_	
+hectares	_	Measure_area
+)	_	
+,	_	
+making	_	Causation Cause_change Cooking_creation Earnings_and_losses Intentionally_create Manufacturing
+quite	_	
+a	_	Measure_duration Process_end Quantity
+bit	_	Quantity
+of	_	Age Domain Origin Partitive
+money	_	Money
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+process	_	Means Process Processing_materials
+.	_	
+
+What	_	
+happened	_	Event
+next	_	Locative_relation Relative_time
+would	_	
+mark	_	Sign
+the	_	Self_motion Temporal_collocation
+end	_	Becoming Cause_to_end Process_end Temporal_subregion
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+successful	_	Success_or_failure Successful_action
+Las	_	
+Vegas	_	
+Ranch	_	Locale_by_use
+and	_	
+the	_	Self_motion Temporal_collocation
+beginning	_	Activity_start Process_start Temporal_subregion
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+era	_	Calendric_unit
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+subdivision	_	
+seen	_	Grasp Perception_experience
+across	_	Dimension
+almost	_	Relational_quantity
+all	_	Quantity
+of	_	Age Domain Origin Partitive
+Western	_	Part_orientational
+America	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+this	_	
+day	_	Calendric_unit Measure_duration Timespan
+.	_	
+
+The	_	Self_motion Temporal_collocation
+railroad	_	Roadways
+was	_	Existence
+coming	_	Arriving
+,	_	
+and	_	
+when	_	Temporal_collocation
+it	_	
+arrived	_	Arriving
+,	_	
+Las	_	
+Vegas	_	
+would	_	
+never	_	Frequency
+be	_	Existence Performers_and_roles
+the	_	Self_motion Temporal_collocation
+same	_	Identicality
+again	_	
+.	_	
+
+Of	_	Age Domain Origin Partitive
+Tracks	_	Roadways
+and	_	
+Tracts	_	
+
+At	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+turn	_	Becoming Cause_change Cause_to_move_in_place Change_direction Contingency Moving_in_place Temporal_subregion Undergo_change
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+19th	_	Ordinal_numbers
+century	_	Calendric_unit Measure_duration
+Los	_	
+Angeles	_	
+and	_	
+Salt	_	Preserving
+Lake	_	Natural_features
+City	_	Locale_by_use Political_locales
+were	_	Existence
+among	_	Be_subset_of Inclusion Locative_relation
+the	_	Self_motion Temporal_collocation
+burgeoning	_	Progress
+metropolises	_	Political_locales
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+new	_	Age Expertise Familiarity
+American	_	Origin People_by_origin
+West	_	Direction Locative_relation Part_orientational
+.	_	
+
+Though	_	Concessive
+the	_	Self_motion Temporal_collocation
+two	_	Cardinal_numbers
+cities	_	Locale_by_use Political_locales
+remained	_	State_continue
+unlinked	_	
+by	_	Locative_relation Means
+rail	_	Architectural_part Roadways
+,	_	
+this	_	
+was	_	Existence
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+change	_	Cause_change Change_tool Exchange Exchange_currency Replacing Undergo_change
+quickly	_	Speed
+.	_	
+
+When	_	Temporal_collocation
+it	_	
+did	_	Intentionally_act
+,	_	
+the	_	Self_motion Temporal_collocation
+Las	_	
+Vegas	_	
+Valley	_	Natural_features
+(	_	
+which	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+had	_	Being_obligated Have_associated Possession Required_event
+a	_	Measure_duration Process_end Quantity
+non-native	_	Indigenous_origin
+population	_	Aggregate
+of	_	Age Domain Origin Partitive
+less	_	
+than	_	Time_vector
+30	_	Cardinal_numbers
+)	_	
+would	_	
+change	_	Cause_change Change_tool Exchange Exchange_currency Replacing Undergo_change
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+well	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1903	_	
+,	_	
+officials	_	Leadership
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+San	_	
+Pedro	_	
+,	_	
+Los	_	
+Angeles	_	
+,	_	
+and	_	
+Salt	_	Preserving
+Lake	_	Natural_features
+Railroad	_	Roadways
+arrived	_	Arriving
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Las	_	
+Vegas	_	
+,	_	
+eager	_	Desiring
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+secure	_	Attaching Being_at_risk Getting Protecting
+a	_	Measure_duration Process_end Quantity
+right-of-way	_	
+for	_	Causation Taking_sides
+their	_	
+Los	_	
+Angeles	_	
+-	_	
+Salt	_	Preserving
+Lake	_	Natural_features
+connection	_	Make_cognitive_connection Social_connection
+.	_	
+
+Las	_	
+Vegas	_	
+would	_	
+serve	_	Assistance Capacity
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+a	_	Measure_duration Process_end Quantity
+major	_	Importance
+stopover	_	
+for	_	Causation Taking_sides
+crew	_	Aggregate
+rest	_	Placing Rest State_continue Stimulus_focus
+and	_	
+train	_	Education_teaching Vehicle
+repair	_	Self_motion
+.	_	
+
+For	_	Causation Taking_sides
+all	_	Quantity
+this	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+railroad	_	Roadways
+needed	_	Being_necessary Have_as_requirement Needing Required_event
+land	_	Locale_by_ownership Natural_features Political_locales
+.	_	
+
+As	_	Continued_state_of_affairs Performers_and_roles Relative_time
+mapped	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+track	_	Cotheme Roadways
+traveled	_	Travel
+directly	_	
+through	_	Activity_done_state Time_vector Used_up
+Helen	_	
+Stewart	_	
+'s	_	Existence Required_event
+Las	_	
+Vegas	_	
+Ranch	_	Locale_by_use
+.	_	
+
+Stewart	_	
+sold	_	Commerce_sell
+99.5	_	
+percent	_	
+of	_	Age Domain Origin Partitive
+her	_	
+ranch	_	Locale_by_use
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+railroad	_	Roadways
+.	_	
+
+The	_	Self_motion Temporal_collocation
+remainder	_	Left_to_do
+she	_	
+returned	_	Arriving
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+native	_	Indigenous_origin
+Paiutes	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+early	_	Relative_time Temporal_collocation Temporal_subregion
+1905	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+route	_	Roadways Sending
+between	_	Locative_relation
+Los	_	
+Angeles	_	
+and	_	
+Salt	_	Preserving
+Lake	_	Natural_features
+City	_	Locale_by_use Political_locales
+was	_	Existence
+completed	_	Activity_finish
+,	_	
+and	_	
+train	_	Education_teaching Vehicle
+tracks	_	Roadways
+bore	_	Experiencer_obj Path_shape
+right	_	Change_direction Correctness Direction Morality_evaluation Part_orientational Suitability
+down	_	Being_operational Cause_change_of_position_on_a_scale Direction Ingestion Locative_relation Willingness
+the	_	Self_motion Temporal_collocation
+center	_	Locale_by_use Part_inner_outer
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Las	_	
+Vegas	_	
+Valley	_	Natural_features
+.	_	
+
+On	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+15	_	Cardinal_numbers
+May	_	Calendric_unit Likelihood
+1905	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+railroad	_	Roadways
+held	_	Containing
+a	_	Measure_duration Process_end Quantity
+land	_	Locale_by_ownership Natural_features Political_locales
+sale	_	Commerce_sell
+--	_	
+a	_	Measure_duration Process_end Quantity
+momentous	_	
+step	_	Cause_change_of_position_on_a_scale Connecting_architecture Intentionally_act Self_motion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Las	_	
+Vegas	_	
+history	_	Fields History Individual_history Out_of_existence Text
+.	_	
+
+Standing	_	Posture
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+depot	_	Locale_by_use
+at	_	Locative_relation Relational_quantity Temporal_collocation
+Main	_	First_rank Importance
+and	_	
+Fremont	_	
+streets	_	Roadways
+,	_	
+railroad	_	Roadways
+officials	_	Leadership
+auctioned	_	
+1200	_	Cardinal_numbers
+lots	_	
+they	_	
+had	_	Being_obligated Have_associated Possession Required_event
+subdivided	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+forty	_	Cardinal_numbers
+square	_	Compatibility Locale_by_use Shapes
+blocks	_	Measure_linear_extent
+of	_	Age Domain Origin Partitive
+desert	_	Biological_area Quitting_a_place
+scrub	_	Biological_area
+.	_	
+
+Land	_	Locale_by_ownership Natural_features Political_locales
+speculators	_	
+and	_	
+locals	_	Indigenous_origin
+alike	_	Similarity
+were	_	Existence
+anxious	_	Emotion_directed
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+own	_	Possession
+a	_	Measure_duration Process_end Quantity
+part	_	Membership Part_whole Performers_and_roles Separating
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+newest	_	Age Familiarity
+railroad	_	Roadways
+boomtown	_	
+,	_	
+and	_	
+within	_	Temporal_collocation Within_distance
+an	_	Cause_to_end Process_end Quantity
+afternoon	_	Calendric_unit
+,	_	
+more	_	Increment
+than	_	Time_vector
+80	_	
+percent	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+lots	_	
+were	_	Existence
+sold	_	Commerce_sell
+.	_	
+
+Las	_	
+Vegas	_	
+was	_	Existence
+no	_	Quantity
+longer	_	Duration_attribute Temporal_collocation
+a	_	Measure_duration Process_end Quantity
+small	_	Dimension Size
+pioneer	_	Achieving_first
+settlement	_	Colonization Locale_by_use
+.	_	
+
+With	_	Accompaniment
+rail	_	Architectural_part Roadways
+service	_	Public_services Rite
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+place	_	Event Locale Placing
+and	_	
+forty	_	Cardinal_numbers
+blocks	_	Measure_linear_extent
+of	_	Age Domain Origin Partitive
+private	_	
+property	_	Locale_by_ownership Possession
+,	_	
+it	_	
+was	_	Existence
+ready	_	Activity_prepare Activity_ready_state
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+become	_	Becoming
+a	_	Measure_duration Process_end Quantity
+real	_	Existence
+town	_	Political_locales
+.	_	
+
+Businesses	_	Businesses
+sprang	_	Coming_to_be
+up	_	Becoming Coming_up_with Direction Intentionally_create Locative_relation Reparation Summarizing
+overnight	_	Temporary_stay
+,	_	
+and	_	
+wooden	_	
+houses	_	Buildings
+were	_	Existence
+erected	_	Building
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+replace	_	Replacing Take_place_of
+the	_	Self_motion Temporal_collocation
+tent	_	Buildings
+city	_	Locale_by_use Political_locales
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+which	_	
+many	_	Quantity
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+early	_	Relative_time Temporal_collocation Temporal_subregion
+settlers	_	Colonization
+had	_	Being_obligated Have_associated Possession Required_event
+lived	_	Residence
+.	_	
+
+One	_	Cardinal_numbers
+year	_	Calendric_unit Measure_duration
+after	_	Relative_time Time_vector
+the	_	Self_motion Temporal_collocation
+auction	_	Commerce_sell
+,	_	
+the	_	Self_motion Temporal_collocation
+population	_	Aggregate
+of	_	Age Domain Origin Partitive
+Las	_	
+Vegas	_	
+had	_	Being_obligated Have_associated Possession Required_event
+ballooned	_	Change_position_on_a_scale
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+1500	_	
+residents	_	Residence
+,	_	
+a	_	Measure_duration Process_end Quantity
+portent	_	Omen
+of	_	Age Domain Origin Partitive
+things	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+come	_	Arriving Becoming_aware Coming_up_with
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+next	_	Locative_relation Relative_time
+ninety	_	Cardinal_numbers
+years	_	Calendric_unit Measure_duration
+.	_	
+
+Dam	_	
+Good	_	Desirability Expertise Morality_evaluation Social_interaction_evaluation Usefulness
+Luck	_	Luck
+
+From	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+beginning	_	Activity_start Process_start Temporal_subregion
+,	_	
+Las	_	
+Vegas	_	
+was	_	Existence
+built	_	Building
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+serve	_	Assistance Capacity
+travelers	_	Travel
+.	_	
+
+The	_	Self_motion Temporal_collocation
+railroad	_	Roadways
+needed	_	Being_necessary Have_as_requirement Needing Required_event
+a	_	Measure_duration Process_end Quantity
+way	_	Means Possibilities Roadways Self_motion
+station	_	
+,	_	
+and	_	
+Las	_	
+Vegas	_	
+was	_	Existence
+the	_	Self_motion Temporal_collocation
+place	_	Event Locale Placing
+.	_	
+
+Growth	_	Cause_change_of_position_on_a_scale Cause_expansion Change_position_on_a_scale
+continued	_	Activity_ongoing Process_continue
+for	_	Causation Taking_sides
+ten	_	Cardinal_numbers
+years	_	Calendric_unit Measure_duration
+,	_	
+and	_	
+by	_	Locative_relation Means
+1915	_	
+the	_	Self_motion Temporal_collocation
+town	_	Political_locales
+had	_	Being_obligated Have_associated Possession Required_event
+telephones	_	
+,	_	
+round-the-clock	_	
+electricity	_	Electricity
+,	_	
+and	_	
+a	_	Measure_duration Process_end Quantity
+growing	_	Change_position_on_a_scale Expansion
+population	_	Aggregate
+--	_	
+many	_	Quantity
+of	_	Age Domain Origin Partitive
+whom	_	
+worked	_	Being_employed Working_on
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+railroad	_	Roadways
+repair	_	Self_motion
+shop	_	Businesses Locale_by_use Shopping
+.	_	
+
+But	_	Concessive
+such	_	
+heady	_	
+progress	_	Progress
+would	_	
+soon	_	
+come	_	Arriving Becoming_aware Coming_up_with
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+a	_	Measure_duration Process_end Quantity
+halt	_	Activity_stop Halt Process_stop
+.	_	
+
+The	_	Self_motion Temporal_collocation
+growing	_	Change_position_on_a_scale Expansion
+competition	_	Competition
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+rail	_	Architectural_part Roadways
+transport	_	Bringing
+resulted	_	Causation
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Union	_	Organization
+Pacific	_	
+buying	_	Commerce_buy
+the	_	Self_motion Temporal_collocation
+Los	_	
+Angeles	_	
+-	_	
+Salt	_	Preserving
+Lake	_	Natural_features
+line	_	Adorning Boundary Compliance Roadways Shapes
+.	_	
+
+Union	_	Organization
+Pacific	_	
+then	_	Temporal_collocation Time_vector
+consolidated	_	Cause_to_amalgamate
+its	_	
+operations	_	Businesses
+,	_	
+eliminating	_	Removing
+the	_	Self_motion Temporal_collocation
+Las	_	
+Vegas	_	
+repair	_	Self_motion
+facility	_	Locale_by_use
+.	_	
+
+Additionally	_	
+,	_	
+Las	_	
+Vegas	_	
+had	_	Being_obligated Have_associated Possession Required_event
+been	_	Existence
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+a	_	Measure_duration Process_end Quantity
+part	_	Membership Part_whole Performers_and_roles Separating
+of	_	Age Domain Origin Partitive
+Nevada	_	
+'s	_	Existence Required_event
+new	_	Age Expertise Familiarity
+Clark	_	
+County	_	Political_locales
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1909	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+year	_	Calendric_unit Measure_duration
+when	_	Temporal_collocation
+the	_	Self_motion Temporal_collocation
+legislature	_	Leadership
+also	_	
+outlawed	_	Deny_permission Prohibiting
+gambling	_	
+.	_	
+
+These	_	
+unfortunate	_	Desirability
+circumstances	_	
+threatened	_	Commitment Omen
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+relegate	_	
+Las	_	
+Vegas	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+status	_	
+of	_	Age Domain Origin Partitive
+a	_	Measure_duration Process_end Quantity
+small	_	Dimension Size
+desert	_	Biological_area Quitting_a_place
+community	_	Aggregate
+that	_	Degree
+could	_	Capability Possibility
+no	_	Quantity
+longer	_	Duration_attribute Temporal_collocation
+support	_	Evidence Supporting Taking_sides
+its	_	
+3000	_	
+residents	_	Residence
+.	_	
+
+But	_	Concessive
+the	_	Self_motion Temporal_collocation
+southwest	_	
+'s	_	Existence Required_event
+growing	_	Change_position_on_a_scale Expansion
+need	_	Have_as_requirement Needing Required_event
+for	_	Causation Taking_sides
+water	_	Food Natural_features Substance
+,	_	
+combined	_	Amalgamation Cause_to_amalgamate
+with	_	Accompaniment
+Las	_	
+Vegas	_	
+'s	_	Existence Required_event
+fortuitous	_	Luck
+proximity	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Colorado	_	
+River	_	Natural_features
+,	_	
+would	_	
+give	_	Giving
+Las	_	
+Vegas	_	
+a	_	Measure_duration Process_end Quantity
+second	_	Calendric_unit Measure_duration Ordinal_numbers
+chance	_	Becoming_aware Coincidence Daring Likelihood Opportunity Possibilities Probability
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+achieve	_	Accomplishment
+prosperity	_	Thriving
+.	_	
+
+Construction	_	Building
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Hoover	_	
+Dam	_	
+(	_	
+originally	_	
+Boulder	_	
+Dam	_	
+,	_	
+subsequently	_	Relative_time
+renamed	_	Name_conferral
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+president	_	Leadership
+who	_	
+authorized	_	Grant_permission
+the	_	Self_motion Temporal_collocation
+project	_	Project
+)	_	
+began	_	Activity_start Process_start
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1931	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+a	_	Measure_duration Process_end Quantity
+canyon	_	Natural_features
+45	_	
+miles	_	Measure_linear_extent
+(	_	
+72	_	
+km	_	Measure_linear_extent
+)	_	
+southeast	_	Locative_relation
+of	_	Age Domain Origin Partitive
+Las	_	
+Vegas	_	
+.	_	
+
+Providing	_	Supply
+an	_	Cause_to_end Process_end Quantity
+influx	_	Arriving
+of	_	Age Domain Origin Partitive
+$165	_	
+million	_	Cardinal_numbers
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+southwestern	_	
+economy	_	Economy Frugality
+,	_	
+Hoover	_	
+Dam	_	
+played	_	Performers_and_roles
+a	_	Measure_duration Process_end Quantity
+major	_	Importance
+role	_	Performers_and_roles
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+preventing	_	Preventing Thwarting
+Las	_	
+Vegas	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+drying	_	Becoming_dry
+up	_	Becoming Coming_up_with Direction Intentionally_create Locative_relation Reparation Summarizing
+,	_	
+both	_	Quantity
+financially	_	Domain
+and	_	
+literally	_	
+.	_	
+
+Not	_	
+only	_	Sole_instance
+did	_	Intentionally_act
+it	_	
+create	_	Cause_to_start Creating Intentionally_create
+jobs	_	Being_employed Being_obligated
+,	_	
+but	_	Concessive
+it	_	
+also	_	
+created	_	Cause_to_start Creating Intentionally_create
+Lake	_	Natural_features
+Mead	_	Biological_area
+,	_	
+the	_	Self_motion Temporal_collocation
+massive	_	Dimension
+reservoir	_	Containers
+that	_	Degree
+today	_	Calendric_unit Temporal_collocation
+provides	_	Supply
+water	_	Food Natural_features Substance
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+all	_	Quantity
+of	_	Age Domain Origin Partitive
+southern	_	Part_orientational
+Nevada	_	
+.	_	
+
+More	_	Increment
+Government	_	Leadership Organization
+Help	_	Assistance
+
+The	_	Self_motion Temporal_collocation
+construction	_	Building
+of	_	Age Domain Origin Partitive
+Hoover	_	
+Dam	_	
+did	_	Intentionally_act
+not	_	
+single-handedly	_	
+save	_	
+Las	_	
+Vegas	_	
+,	_	
+however	_	Concessive
+.	_	
+
+The	_	Self_motion Temporal_collocation
+state	_	Political_locales State_of_entity Statement
+legislature	_	Leadership
+helped	_	Assistance
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+well	_	
+,	_	
+by	_	Locative_relation Means
+legalizing	_	
+gambling	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1931	_	
+and	_	
+thus	_	
+solidifying	_	Cause_change_of_phase
+the	_	Self_motion Temporal_collocation
+future	_	Possibilities Temporal_collocation
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+town	_	Political_locales
+,	_	
+though	_	Concessive
+legislators	_	Leadership
+and	_	
+residents	_	Residence
+could	_	Capability Possibility
+never	_	Frequency
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+known	_	Awareness Being_named
+this	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+.	_	
+
+The	_	Self_motion Temporal_collocation
+hordes	_	Aggregate
+of	_	Age Domain Origin Partitive
+people	_	Colonization People
+who	_	
+attended	_	Attending
+Hoover	_	
+Dam	_	
+'s	_	Existence Required_event
+1935	_	
+dedication	_	
+set	_	Activity_ready_state Aggregate Attack Bail_decision Cause_change_of_consistency Cause_to_start Change_of_consistency Departing Intentionally_create Placing
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+'s	_	Existence Required_event
+now-formidable	_	
+public	_	Secrecy_status
+relations	_	Relation
+machine	_	Gizmo
+into	_	Goal Into
+action	_	Intentionally_act
+.	_	
+
+They	_	
+went	_	Becoming Motion
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+work	_	Being_employed Being_operational Collaboration Dimension Labor_product Locale_by_use Usefulness Working_on
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+what	_	
+has	_	Have_associated Inclusion Possession
+become	_	Becoming
+one	_	Cardinal_numbers
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+lengthiest	_	Duration_attribute
+citywide	_	
+tourism	_	Touring
+campaigns	_	
+ever	_	
+attempted	_	Attempt
+.	_	
+
+It	_	
+did	_	Intentionally_act
+n't	_	
+take	_	Bringing Capacity Conquering Create_physical_artwork Event Getting_vehicle_underway Have_as_requirement Ingest_substance Opinion Removing Ride_vehicle Self_motion Taking Taking_time
+long	_	Desiring Dimension Duration_attribute Likelihood Measurable_attributes
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+establish	_	Intentionally_create
+itself	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+a	_	Measure_duration Process_end Quantity
+wild-	_	
+West	_	Direction Locative_relation Part_orientational
+town	_	Political_locales
+with	_	Accompaniment
+an	_	Cause_to_end Process_end Quantity
+``	_	
+anything	_	
+goes	_	Becoming Compatibility Process_continue
+''	_	
+attitude	_	
+.	_	
+
+Vices	_	
+outlawed	_	Deny_permission Prohibiting
+or	_	
+heavily	_	Degree
+controlled	_	Control
+elsewhere	_	Locative_relation
+were	_	Existence
+legal	_	Legality
+here	_	Locative_relation
+,	_	
+available	_	
+any	_	Quantity
+hour	_	Calendric_unit Measure_duration
+of	_	Age Domain Origin Partitive
+any	_	Quantity
+day	_	Calendric_unit Measure_duration Timespan
+(	_	
+or	_	
+night	_	Calendric_unit
+)	_	
+.	_	
+
+Thus	_	
+originated	_	Origin
+Las	_	
+Vegas	_	
+'s	_	Existence Required_event
+reputation	_	Fame
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+an	_	Cause_to_end Process_end Quantity
+adult	_	People_by_age
+theme	_	Topic
+park	_	Locale_by_use Placing
+.	_	
+
+Additional	_	Increment
+catalysts	_	
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+valley	_	Natural_features
+'s	_	Existence Required_event
+growth	_	Cause_change_of_position_on_a_scale Cause_expansion Change_position_on_a_scale
+came	_	Arriving Process_end
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+World	_	Political_locales
+War	_	Hostile_encounter
+II	_	
+.	_	
+
+Both	_	Quantity
+the	_	Self_motion Temporal_collocation
+Las	_	
+Vegas	_	
+Aerial	_	
+Gunnery	_	
+School	_	Aggregate Education_teaching Locale_by_use
+(	_	
+which	_	
+became	_	Becoming
+Nellis	_	
+Air	_	Expressing_publicly Self_motion
+Force	_	Being_in_effect Causation Cause_motion Execute_plan Military
+Base	_	Infrastructure Locale_by_use Morality_evaluation Part_orientational
+and	_	
+the	_	Self_motion Temporal_collocation
+Nevada	_	
+Test	_	Examination Operational_testing
+Site	_	Locale Locale_by_event Locale_by_use
+)	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+north	_	Direction Locative_relation Part_orientational
+,	_	
+and	_	
+Basic	_	Being_necessary
+Magnesium	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+nearby	_	
+town	_	Political_locales
+of	_	Age Domain Origin Partitive
+Henderson	_	
+,	_	
+arrived	_	Arriving
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+early	_	Relative_time Temporal_collocation Temporal_subregion
+1940s	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+a	_	Measure_duration Process_end Quantity
+result	_	Causation Earnings_and_losses
+of	_	Age Domain Origin Partitive
+America	_	
+'s	_	Existence Required_event
+war	_	Hostile_encounter
+effort	_	Attempt
+.	_	
+
+By	_	Locative_relation Means
+1945	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+population	_	Aggregate
+had	_	Being_obligated Have_associated Possession Required_event
+grown	_	Change_position_on_a_scale Expansion
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+almost	_	Relational_quantity
+20,000	_	
+,	_	
+with	_	Accompaniment
+workers	_	Employing
+and	_	
+airmen	_	
+moving	_	Motion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+at	_	Locative_relation Relational_quantity Temporal_collocation
+a	_	Measure_duration Process_end Quantity
+rapid	_	Speed Taking_time
+pace	_	Self_motion Speed
+.	_	
+
+But	_	Concessive
+this	_	
+was	_	Existence
+not	_	
+yet	_	Continued_state_of_affairs
+the	_	Self_motion Temporal_collocation
+Las	_	
+Vegas	_	
+of	_	Age Domain Origin Partitive
+folklore	_	
+.	_	
+
+Mobsters	_	
+and	_	
+Rat	_	Reporting
+Packers	_	
+
+While	_	Concessive Measure_duration Relative_time
+many	_	Quantity
+gambling	_	
+halls	_	Buildings
+opened	_	Body_movement
+Downtown	_	Locale_by_use
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+1930s	_	
+and	_	
+early	_	Relative_time Temporal_collocation Temporal_subregion
+1940s	_	
+,	_	
+only	_	Sole_instance
+two	_	Cardinal_numbers
+were	_	Existence
+built	_	Building
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+stretch	_	Body_movement Cause_expansion Expansion Shapes
+of	_	Age Domain Origin Partitive
+old	_	Age
+Los	_	
+Angeles	_	
+Highway	_	Roadways
+that	_	Degree
+ultimately	_	Temporal_collocation
+became	_	Becoming
+the	_	Self_motion Temporal_collocation
+Strip	_	Emptying Removing Shapes
+.	_	
+
+The	_	Self_motion Temporal_collocation
+El	_	
+Rancho	_	
+Vegas	_	
+(	_	
+1941	_	
+)	_	
+was	_	Existence
+the	_	Self_motion Temporal_collocation
+first	_	First_experience Ordinal_numbers
+,	_	
+followed	_	Compliance Relative_time
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+Last	_	Duration_relation Ordinal_numbers Relative_time
+Frontier	_	
+(	_	
+1943	_	
+)	_	
+.	_	
+
+During	_	Temporal_collocation
+this	_	
+period	_	Frequency
+,	_	
+East	_	Direction Locative_relation Part_orientational
+Coast	_	Motion Relational_natural_features Ride_vehicle Self_motion
+Syndicate	_	
+member	_	Membership Observable_body_parts
+Benjamin	_	
+'Bugsy	_	
+'	_	
+Siegel	_	
+earned	_	Earnings_and_losses
+a	_	Measure_duration Process_end Quantity
+foothold	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+a	_	Measure_duration Process_end Quantity
+local	_	Indigenous_origin Political_locales
+casino	_	
+operator	_	
+.	_	
+
+By	_	Locative_relation Means
+1945	_	
+Siegel	_	
+had	_	Being_obligated Have_associated Possession Required_event
+become	_	Becoming
+one	_	Cardinal_numbers
+of	_	Age Domain Origin Partitive
+Las	_	
+Vegas	_	
+'s	_	Existence Required_event
+original	_	
+visionaries	_	
+,	_	
+planning	_	Purpose
+an	_	Cause_to_end Process_end Quantity
+opulent	_	
+resort	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+southern	_	Part_orientational
+end	_	Becoming Cause_to_end Process_end Temporal_subregion
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+LA	_	
+Highway	_	Roadways
+.	_	
+
+When	_	Temporal_collocation
+the	_	Self_motion Temporal_collocation
+Flamingo	_	
+opened	_	Body_movement
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+December	_	Calendric_unit
+1946	_	
+,	_	
+it	_	
+did	_	Intentionally_act
+so	_	Causation Degree Sufficiency
+with	_	Accompaniment
+Hollywood	_	
+flair	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+new	_	Age Expertise Familiarity
+Vegas	_	
+flash	_	Light_movement Location_of_light
+.	_	
+
+But	_	Concessive
+the	_	Self_motion Temporal_collocation
+Mafia	_	
+bosses	_	Leadership
+who	_	
+financed	_	
+the	_	Self_motion Temporal_collocation
+operation	_	Businesses Using
+were	_	Existence
+displeased	_	Emotion_directed
+with	_	Accompaniment
+its	_	
+performance	_	Performing_arts
+;	_	
+Siegel	_	
+was	_	Existence
+murdered	_	Killing
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+summer	_	Calendric_unit
+of	_	Age Domain Origin Partitive
+1947	_	
+.	_	
+
+Despite	_	Concessive
+its	_	
+initial	_	Version_sequence
+failings	_	
+,	_	
+Siegel	_	
+'s	_	Existence Required_event
+Flamingo	_	
+survived	_	
+him	_	
+,	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+did	_	Intentionally_act
+mob	_	Aggregate
+infiltration	_	Attack
+of	_	Age Domain Origin Partitive
+casinos	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+fact	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+Flamingo	_	
+would	_	
+launch	_	Activity_start Cause_motion Getting_vehicle_underway Launch_process Reshaping Shoot_projectiles
+over	_	Locative_relation Process_completed_state Relational_quantity
+two	_	Cardinal_numbers
+decades	_	Calendric_unit Measure_duration
+of	_	Age Domain Origin Partitive
+strong	_	Being_strong Exertive_force
+mob	_	Aggregate
+presence	_	Presence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Las	_	
+Vegas	_	
+.	_	
+
+Freely	_	
+flowing	_	
+``	_	
+comps	_	
+''	_	
+(	_	
+complimentary	_	
+food	_	Food
+,	_	
+drink	_	Ingestion
+,	_	
+and	_	
+entertainment	_	
+)	_	
+were	_	Existence
+the	_	Self_motion Temporal_collocation
+order	_	Arranging Bail_decision Purpose Request Rite Sentencing Sequence
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+day	_	Calendric_unit Measure_duration Timespan
+,	_	
+with	_	Accompaniment
+mob	_	Aggregate
+bosses	_	Leadership
+content	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+provide	_	Supply
+an	_	Cause_to_end Process_end Quantity
+environment	_	
+of	_	Age Domain Origin Partitive
+pleasurable	_	Stimulus_focus
+excess	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+long	_	Desiring Dimension Duration_attribute Likelihood Measurable_attributes
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+the	_	Self_motion Temporal_collocation
+cash	_	Money
+kept	_	Activity_ongoing
+rolling	_	Moving_in_place
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+.	_	
+
+While	_	Concessive Measure_duration Relative_time
+the	_	Self_motion Temporal_collocation
+mob	_	Aggregate
+was	_	Existence
+running	_	Operating_a_system Self_motion
+the	_	Self_motion Temporal_collocation
+casinos	_	
+,	_	
+promoters	_	
+were	_	Existence
+busily	_	
+selling	_	Commerce_sell
+Las	_	
+Vegas	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+a	_	Measure_duration Process_end Quantity
+glamorous	_	
+Hollywood	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+desert	_	Biological_area Quitting_a_place
+.	_	
+
+From	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+mid-	_	
+1940s	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+mid-1960s	_	
+,	_	
+Las	_	
+Vegas	_	
+nurtured	_	
+a	_	Measure_duration Process_end Quantity
+growing	_	Change_position_on_a_scale Expansion
+sense	_	Linguistic_meaning Perception_experience Sensation
+that	_	Degree
+it	_	
+was	_	Existence
+the	_	Self_motion Temporal_collocation
+``	_	
+Entertainment	_	
+Capital	_	Money Relational_political_locales Severity_of_offense
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+World	_	Political_locales
+.	_	
+
+``	_	
+
+Emerging	_	Coming_to_be Departing
+stars	_	Destiny Performers_and_roles
+,	_	
+no	_	Quantity
+longer	_	Duration_attribute Temporal_collocation
+content	_	
+with	_	Accompaniment
+playing	_	Competition
+small	_	Dimension Size
+nightclubs	_	
+,	_	
+came	_	Arriving Process_end
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Las	_	
+Vegas	_	
+with	_	Accompaniment
+dreams	_	
+of	_	Age Domain Origin Partitive
+making	_	Causation Cause_change Cooking_creation Earnings_and_losses Intentionally_create Manufacturing
+it	_	
+big	_	Size Trendiness
+.	_	
+
+Many	_	Quantity
+of	_	Age Domain Origin Partitive
+them	_	
+did	_	Intentionally_act
+.	_	
+
+Frank	_	Candidness
+Sinatra	_	
+,	_	
+Wayne	_	
+Newton	_	
+,	_	
+and	_	
+Louis	_	
+Prima	_	
+each	_	
+arrived	_	Arriving
+with	_	Accompaniment
+mediocre	_	Desirability Expertise
+status	_	
+and	_	
+suddenly	_	
+found	_	Becoming_aware Intentionally_create Locating Verdict
+themselves	_	
+with	_	Accompaniment
+names	_	Being_named
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+big	_	Size Trendiness
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+the	_	Self_motion Temporal_collocation
+marquees	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+which	_	
+they	_	
+were	_	Existence
+written	_	Statement Text_creation
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Rat	_	Reporting
+Pack	_	Aggregate Bearing_arms Containers Filling Measure_volume Placing
+--	_	
+originally	_	
+Frank	_	Candidness
+Sinatra	_	
+,	_	
+Dean	_	
+Martin	_	
+,	_	
+Sammy	_	
+Davis	_	
+Jr.	_	
+,	_	
+Peter	_	
+Lawford	_	
+,	_	
+and	_	
+Joey	_	
+Bishop	_	Leadership
+,	_	
+all	_	Quantity
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+town	_	Political_locales
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+film	_	Adorning Behind_the_scenes
+Ocean	_	Natural_features
+'s	_	Existence Required_event
+11	_	
+--	_	
+landed	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+Sands	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+January	_	Calendric_unit
+1960	_	
+for	_	Causation Taking_sides
+a	_	Measure_duration Process_end Quantity
+legendary	_	Fame
+stay	_	Residence State_continue Temporary_stay
+.	_	
+
+Other	_	Increment
+Hollywood	_	
+stars	_	Destiny Performers_and_roles
+came	_	Arriving Process_end
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+well	_	
+,	_	
+simply	_	
+because	_	Causation
+Las	_	
+Vegas	_	
+was	_	Existence
+the	_	Self_motion Temporal_collocation
+place	_	Event Locale Placing
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+be	_	Existence Performers_and_roles
+.	_	
+
+As	_	Continued_state_of_affairs Performers_and_roles Relative_time
+a	_	Measure_duration Process_end Quantity
+result	_	Causation Earnings_and_losses
+,	_	
+more	_	Increment
+casinos	_	
+emerged	_	Coming_to_be
+along	_	Accompaniment Locative_relation
+the	_	Self_motion Temporal_collocation
+Strip	_	Emptying Removing Shapes
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Thunderbird	_	
+,	_	
+Desert	_	Biological_area Quitting_a_place
+Inn	_	Buildings
+,	_	
+Sahara	_	
+,	_	
+Sands	_	
+,	_	
+and	_	
+Riviera	_	
+hotels	_	Buildings
+were	_	Existence
+erected	_	Building
+during	_	Temporal_collocation
+this	_	
+period	_	Frequency
+,	_	
+luring	_	
+a	_	Measure_duration Process_end Quantity
+curious	_	Mental_property Mental_stimulus_exp_focus Typicality
+clientele	_	
+drawn	_	Cause_motion
+by	_	Locative_relation Means
+tales	_	
+of	_	Age Domain Origin Partitive
+all-night	_	
+partying	_	
+,	_	
+exclusive	_	
+entertainment	_	
+,	_	
+and	_	
+cheap	_	Expensiveness
+accommodations	_	
+.	_	
+
+There	_	Existence Locative_relation
+was	_	Existence
+no	_	Quantity
+longer	_	Duration_attribute
+any	_	Quantity
+question	_	Point_of_dispute Questioning
+:	_	
+when	_	Temporal_collocation
+you	_	
+wanted	_	Desiring Want_suspect
+some	_	Relational_quantity
+unbridled	_	
+adult	_	People_by_age
+fun	_	
+,	_	
+Las	_	
+Vegas	_	
+was	_	Existence
+the	_	Self_motion Temporal_collocation
+place	_	Event Locale Placing
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+be	_	Existence Performers_and_roles
+.	_	
+
+New	_	Age Expertise Familiarity
+Legitimacy	_	
+
+Organized	_	
+crime	_	Committing_crime
+was	_	Existence
+soon	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+a	_	Measure_duration Process_end Quantity
+formidable	_	Stimulus_focus
+adversary	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+its	_	
+bid	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+control	_	Be_in_control Control Prohibiting
+Las	_	
+Vegas	_	
+--	_	
+corporate	_	
+cash	_	Money
+.	_	
+
+Though	_	Concessive
+Las	_	
+Vegas	_	
+had	_	Being_obligated Have_associated Possession Required_event
+developed	_	Cause_to_make_progress Coming_to_be Progress Stage_of_progress
+a	_	Measure_duration Process_end Quantity
+powerful	_	
+local	_	Indigenous_origin Political_locales
+economy	_	Economy Frugality
+,	_	
+few	_	Quantity
+major	_	Importance
+outside	_	Locative_relation Part_inner_outer
+investments	_	
+were	_	Existence
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+,	_	
+due	_	
+primarily	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+mob	_	Aggregate
+infiltration	_	Attack
+and	_	
+its	_	
+inherent	_	
+ties	_	Social_connection
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+illegal	_	Legality
+activities	_	Intentionally_act
+.	_	
+
+That	_	Degree
+would	_	
+change	_	Cause_change Change_tool Exchange Exchange_currency Replacing Undergo_change
+dramatically	_	
+with	_	Accompaniment
+the	_	Self_motion Temporal_collocation
+1966	_	
+arrival	_	Arriving
+of	_	Age Domain Origin Partitive
+billionaire	_	
+Howard	_	
+Hughes	_	
+.	_	
+
+A	_	Measure_duration Process_end Quantity
+legitimate	_	Legality
+businessman	_	People_by_vocation
+,	_	
+Hughes	_	
+was	_	Existence
+nonetheless	_	
+eccentric	_	
+and	_	
+dramatic	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+style	_	Trendiness
+suited	_	Suitability
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Las	_	
+Vegas	_	
+ethos	_	
+.	_	
+
+True	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+myth	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+reclusive	_	
+Hughes	_	
+immediately	_	
+cloistered	_	
+himself	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Desert	_	Biological_area Quitting_a_place
+Inn	_	Buildings
+'s	_	Existence Required_event
+penthouse	_	Buildings
+.	_	
+
+Several	_	Quantity
+weeks	_	Calendric_unit Measure_duration
+later	_	Relative_time Temporal_subregion Time_vector
+he	_	
+was	_	Existence
+asked	_	Questioning Request
+--	_	
+then	_	Temporal_collocation Time_vector
+ordered	_	Request Sentencing
+--	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+vacate	_	Quitting_a_place
+the	_	Self_motion Temporal_collocation
+room	_	Building_subparts Residence Temporary_stay
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+make	_	Arriving Building Causation Cause_change Cooking_creation Earnings_and_losses Intentionally_create Make_acquaintance Manufacturing Self_motion Type Verification
+room	_	Building_subparts Residence Temporary_stay
+for	_	Causation Taking_sides
+high	_	Dimension Extreme_value Intoxication Measurable_attributes Position_on_a_scale
+rollers	_	
+,	_	
+whereupon	_	
+he	_	
+promptly	_	
+bought	_	Commerce_buy
+the	_	Self_motion Temporal_collocation
+property	_	Locale_by_ownership Possession
+and	_	
+fired	_	Shoot_projectiles
+the	_	Self_motion Temporal_collocation
+management	_	
+.	_	
+
+Thus	_	
+began	_	Activity_start Process_start
+Hughes	_	
+'	_	
+legendary	_	Fame
+three-year	_	
+,	_	
+$300-million	_	
+Las	_	
+Vegas	_	
+buying	_	Commerce_buy
+spree	_	
+.	_	
+
+When	_	Temporal_collocation
+it	_	
+was	_	Existence
+over	_	Locative_relation Process_completed_state Relational_quantity
+,	_	
+Hughes	_	
+owned	_	Possession
+six	_	Cardinal_numbers
+casinos	_	
+,	_	
+an	_	Cause_to_end Process_end Quantity
+airport	_	Buildings
+,	_	
+and	_	
+an	_	Cause_to_end Process_end Quantity
+airline	_	
+,	_	
+along	_	Accompaniment Locative_relation
+with	_	Accompaniment
+numerous	_	Quantity
+plots	_	
+of	_	Age Domain Origin Partitive
+land	_	Locale_by_ownership Natural_features Political_locales
+stretching	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+Strip	_	Emptying Removing Shapes
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+mountains	_	Natural_features
+.	_	
+
+Hughes	_	
+'	_	
+actions	_	Intentionally_act
+would	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+beneficial	_	
+repercussions	_	
+,	_	
+both	_	Quantity
+immediate	_	
+and	_	
+lasting	_	Duration_attribute
+.	_	
+
+Because	_	Causation
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+new	_	Age Expertise Familiarity
+legitimacy	_	
+Las	_	
+Vegas	_	
+acquired	_	Getting
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Hughes	_	
+'	_	
+investments	_	
+,	_	
+established	_	Intentionally_create
+companies	_	Businesses
+such	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+Hilton	_	
+Hotels	_	Buildings
+bought	_	Commerce_buy
+into	_	Goal Into
+the	_	Self_motion Temporal_collocation
+gaming	_	
+business	_	Businesses
+,	_	
+and	_	
+their	_	
+influence	_	Influence_of_event_on_cognizer Objective_influence Subjective_influence
+helped	_	Assistance
+draw	_	Bearing_arms Cause_motion Create_physical_artwork Create_representation Finish_competition
+a	_	Measure_duration Process_end Quantity
+line	_	Adorning Boundary Compliance Roadways Shapes
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+desert	_	Biological_area Quitting_a_place
+sand	_	Substance
+between	_	Locative_relation
+legitimate	_	Legality
+operations	_	Businesses
+and	_	
+mob	_	Aggregate
+casinos	_	
+,	_	
+where	_	Locative_relation
+illegal	_	Legality
+skimming	_	Removing
+of	_	Age Domain Origin Partitive
+profits	_	Earnings_and_losses
+was	_	Existence
+rampant	_	
+.	_	
+
+That	_	Degree
+,	_	
+combined	_	Amalgamation Cause_to_amalgamate
+with	_	Accompaniment
+the	_	Self_motion Temporal_collocation
+formation	_	Creating Pattern
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Nevada	_	
+Gaming	_	
+Control	_	Be_in_control Control Prohibiting
+Board	_	Board_vehicle Temporary_stay
+,	_	
+would	_	
+signal	_	Communication Gesture
+the	_	Self_motion Temporal_collocation
+beginning	_	Activity_start Process_start Temporal_subregion
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+end	_	Becoming Cause_to_end Process_end Temporal_subregion
+for	_	Causation Taking_sides
+heavy	_	Measurable_attributes
+mob	_	Aggregate
+influence	_	Influence_of_event_on_cognizer Objective_influence Subjective_influence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+.	_	
+
+Las	_	
+Vegas	_	
+with	_	Accompaniment
+a	_	Measure_duration Process_end Quantity
+Vision	_	
+
+As	_	Continued_state_of_affairs Performers_and_roles Relative_time
+corporations	_	Businesses
+moved	_	Cause_motion Motion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+and	_	
+the	_	Self_motion Temporal_collocation
+mob	_	Aggregate
+was	_	Existence
+slowly	_	Taking_time
+pushed	_	Cause_change_of_position_on_a_scale Cause_motion Subjective_influence
+out	_	Departing Expected_location_of_person Intentionally_act Locative_relation Sleep Surviving
+,	_	
+a	_	Measure_duration Process_end Quantity
+new	_	Age Expertise Familiarity
+Las	_	
+Vegas	_	
+emerged	_	Coming_to_be
+.	_	
+
+The	_	Self_motion Temporal_collocation
+legitimization	_	
+of	_	Age Domain Origin Partitive
+gambling	_	
+led	_	Causation Cotheme Leadership
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+its	_	
+increased	_	Cause_change_of_position_on_a_scale Change_position_on_a_scale
+legalization	_	
+across	_	Dimension
+the	_	Self_motion Temporal_collocation
+US	_	
+.	_	
+
+What	_	
+was	_	Existence
+once	_	Event_instance
+a	_	Measure_duration Process_end Quantity
+sure	_	Certainty Likelihood Verification
+thing	_	Difficulty
+became	_	Becoming
+much	_	Relational_quantity
+more	_	Increment
+competitive	_	Competition
+.	_	
+
+Casino	_	
+operators	_	
+had	_	Being_obligated Have_associated Possession Required_event
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+reassess	_	
+the	_	Self_motion Temporal_collocation
+nature	_	
+of	_	Age Domain Origin Partitive
+their	_	
+business	_	Businesses
+.	_	
+
+The	_	Self_motion Temporal_collocation
+first	_	First_experience Ordinal_numbers
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+really	_	
+do	_	Ingest_substance Intentionally_act Intentionally_affect Thriving Touring
+so	_	Causation Degree Sufficiency
+was	_	Existence
+Steve	_	
+Wynn	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+Las	_	
+Vegas	_	
+resident	_	Residence
+and	_	
+owner	_	Possession
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Golden	_	Hair_configuration
+Nugget	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+mid-1980s	_	
+,	_	
+Wynn	_	
+began	_	Activity_start Process_start
+plans	_	Project Purpose
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+reinvigorate	_	Rejuvenation
+Las	_	
+Vegas	_	
+with	_	Accompaniment
+a	_	Measure_duration Process_end Quantity
+new	_	Age Expertise Familiarity
+resort	_	
+.	_	
+
+He	_	
+bought	_	Commerce_buy
+several	_	Quantity
+Strip	_	Emptying Removing Shapes
+properties	_	
+--	_	
+the	_	Self_motion Temporal_collocation
+Silver	_	
+Slipper	_	Clothing
+and	_	
+Castaways	_	
+among	_	Be_subset_of Inclusion Locative_relation
+them	_	
+--	_	
+and	_	
+demolished	_	Destroying Emotion_directed
+them	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+make	_	Arriving Building Causation Cause_change Cooking_creation Earnings_and_losses Intentionally_create Make_acquaintance Manufacturing Self_motion Type Verification
+way	_	Means Possibilities Roadways Self_motion
+for	_	Causation Taking_sides
+a	_	Measure_duration Process_end Quantity
+new	_	Age Expertise Familiarity
+kind	_	Social_interaction_evaluation Type
+of	_	Age Domain Origin Partitive
+resort	_	
+--	_	
+Mirage	_	
+--	_	
+which	_	
+became	_	Becoming
+an	_	Cause_to_end Process_end Quantity
+instant	_	
+success	_	Success_or_failure Successful_action
+.	_	
+
+Wynn	_	
+'s	_	Existence Required_event
+demolition	_	Destroying
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+existing	_	Existence
+properties	_	
+started	_	Activity_start Process_start
+a	_	Measure_duration Process_end Quantity
+trend	_	
+that	_	Degree
+,	_	
+more	_	Increment
+than	_	Time_vector
+any	_	Quantity
+other	_	Increment
+,	_	
+describes	_	Communicate_categorization Statement
+Las	_	
+Vegas	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+end	_	Becoming Cause_to_end Process_end Temporal_subregion
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+20th	_	
+century	_	Calendric_unit Measure_duration
+:	_	
+removal	_	Removing
+of	_	Age Domain Origin Partitive
+old	_	Age
+properties	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+exchange	_	Discussion Exchange Exchange_currency Replacing
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+potential	_	Capability
+of	_	Age Domain Origin Partitive
+new	_	Age Expertise Familiarity
+ones	_	
+.	_	
+
+This	_	
+trend	_	
+has	_	Have_associated Inclusion Possession
+led	_	Causation Cotheme Leadership
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+many	_	Quantity
+more	_	Increment
+demolitions	_	Destroying
+,	_	
+including	_	Inclusion
+the	_	Self_motion Temporal_collocation
+Dunes	_	
+(	_	
+replaced	_	Take_place_of
+by	_	Locative_relation Means
+Bellagio	_	
+)	_	
+,	_	
+Aladdin	_	
+(	_	
+the	_	Self_motion Temporal_collocation
+new	_	Age Expertise Familiarity
+Aladdin	_	
+)	_	
+and	_	
+Sands	_	
+(	_	
+Venetian	_	
+)	_	
+hotels	_	Buildings
+.	_	
+
+Wynn	_	
+'s	_	Existence Required_event
+casinos	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+also	_	
+set	_	Activity_ready_state Aggregate Attack Bail_decision Cause_change_of_consistency Cause_to_start Change_of_consistency Departing Intentionally_create Placing
+new	_	Age Expertise Familiarity
+standards	_	
+.	_	
+
+They	_	
+can	_	Capability Containers Firing Likelihood Measure_volume Possibility Preserving
+no	_	Quantity
+longer	_	Duration_attribute Temporal_collocation
+be	_	Existence Performers_and_roles
+just	_	
+a	_	Measure_duration Process_end Quantity
+box	_	Containers Measure_volume Placing
+filled	_	Abounding_with Filling
+with	_	Accompaniment
+gaming	_	
+tables	_	
+,	_	
+restaurants	_	Locale_by_use
+,	_	
+and	_	
+a	_	Measure_duration Process_end Quantity
+showroom	_	
+.	_	
+
+Excalibur	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+MGM	_	
+Grand	_	Dimension
+,	_	
+the	_	Self_motion Temporal_collocation
+Luxor	_	
+,	_	
+and	_	
+New	_	Age Expertise Familiarity
+York	_	
+-	_	
+New	_	Age Expertise Familiarity
+York	_	
+all	_	Quantity
+followed	_	Compliance Relative_time
+Mirage	_	
+'s	_	Existence Required_event
+lead	_	Causation Cotheme Criminal_investigation First_rank Leadership Performers_and_roles
+during	_	Temporal_collocation
+the	_	Self_motion Temporal_collocation
+1990s	_	
+,	_	
+offering	_	
+themed	_	
+environments	_	
+and	_	
+attractions	_	
+for	_	Causation Taking_sides
+families	_	Aggregate Kinship
+.	_	
+
+As	_	Continued_state_of_affairs Performers_and_roles Relative_time
+evidence	_	Evidence
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+``	_	
+ever-faster	_	
+''	_	
+nature	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+,	_	
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+middle	_	Part_inner_outer Temporal_subregion
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+1990s	_	
+the	_	Self_motion Temporal_collocation
+new	_	Age Expertise Familiarity
+approach	_	Arriving Means
+showed	_	
+signs	_	Sign Sign_agreement
+of	_	Age Domain Origin Partitive
+backlash	_	
+,	_	
+with	_	Accompaniment
+many	_	Quantity
+visitors	_	Visiting
+criticizing	_	Judgment_communication
+the	_	Self_motion Temporal_collocation
+mediocrity	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Las	_	
+Vegas	_	
+experience	_	Expertise Feeling Perception_experience
+.	_	
+
+The	_	Self_motion Temporal_collocation
+latest	_	Relative_time
+approach	_	Arriving Means
+is	_	Existence
+perhaps	_	
+the	_	Self_motion Temporal_collocation
+best	_	Desirability Expertise Required_event Usefulness
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+post-mob	_	
+era	_	Calendric_unit
+:	_	
+the	_	Self_motion Temporal_collocation
+comprehensive	_	
+resort	_	
+.	_	
+
+New	_	Age Expertise Familiarity
+resorts	_	
+offer	_	Offering
+attractions	_	
+and	_	
+amenities	_	
+modeled	_	
+after	_	Relative_time Time_vector
+those	_	
+available	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+top	_	Occupy_rank Part_orientational
+resort	_	
+cities	_	Locale_by_use Political_locales
+worldwide	_	
+,	_	
+including	_	Inclusion
+luxurious	_	
+spas	_	
+,	_	
+signature	_	Distinctiveness Sign_agreement
+restaurants	_	Locale_by_use
+,	_	
+and	_	
+exclusive	_	
+boutiques	_	
+.	_	
+
+Additionally	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+handful	_	Quantity
+of	_	Age Domain Origin Partitive
+resorts	_	
+--	_	
+such	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+the	_	Self_motion Temporal_collocation
+South-Seas	_	
+themed	_	
+Mandalay	_	
+Bay	_	Natural_features
+,	_	
+the	_	Self_motion Temporal_collocation
+Mirage	_	
+,	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+new	_	Age Expertise Familiarity
+Four	_	Cardinal_numbers
+Seasons	_	
+--	_	
+are	_	Existence
+now	_	Temporal_collocation
+catering	_	Assistance
+exclusively	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+luxury	_	
+travel	_	Motion Travel
+market	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+creme	_	
+de	_	
+la	_	
+creme	_	
+of	_	Age Domain Origin Partitive
+Las	_	
+Vegas	_	
+deluxe	_	
+is	_	Existence
+Steve	_	
+Wynn	_	
+'s	_	Existence Required_event
+Bellagio	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+world	_	Political_locales
+'s	_	Existence Required_event
+most	_	Relational_quantity
+expensive	_	Expensiveness
+resort	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+$1.6	_	
+billion	_	Cardinal_numbers
+,	_	
+the	_	Self_motion Temporal_collocation
+Bellagio	_	
+'s	_	Existence Required_event
+amenities	_	
+include	_	Cause_to_be_included Inclusion
+5-star	_	
+dining	_	
+,	_	
+Chanel-caliber	_	
+boutiques	_	
+,	_	
+and	_	
+a	_	Measure_duration Process_end Quantity
+world-class	_	
+collection	_	Aggregate
+of	_	Age Domain Origin Partitive
+artistic	_	Fields
+masterworks	_	
+.	_	
+
+Perhaps	_	
+more	_	Increment
+important	_	Importance
+,	_	
+such	_	
+high-end	_	
+accommodations	_	
+raise	_	Building Causation Cause_change_of_position_on_a_scale Growing_food
+the	_	Self_motion Temporal_collocation
+standards	_	
+of	_	Age Domain Origin Partitive
+expectations	_	Expectation
+back	_	Observable_body_parts Part_orientational Self_motion Taking_sides
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+mythology	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Rat	_	Reporting
+Pack	_	Aggregate Bearing_arms Containers Filling Measure_volume Placing
+era	_	Calendric_unit
+.	_	
+
+As	_	Continued_state_of_affairs Performers_and_roles Relative_time
+it	_	
+changed	_	Cause_change Undergo_change
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+mob	_	Aggregate
+gambling	_	
+town	_	Political_locales
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+corporate	_	
+gaming	_	
+venue	_	Locale_by_event
+,	_	
+the	_	Self_motion Temporal_collocation
+population	_	Aggregate
+of	_	Age Domain Origin Partitive
+Las	_	
+Vegas	_	
+skyrocketed	_	Change_position_on_a_scale
+.	_	
+
+Over	_	Locative_relation Process_completed_state Relational_quantity
+20,000	_	
+additional	_	Increment
+hotel	_	Buildings
+rooms	_	Building_subparts
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+been	_	Existence
+added	_	Statement
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+a	_	Measure_duration Process_end Quantity
+few	_	Quantity
+short	_	Body_description_holistic Change_event_duration Dimension Duration_attribute
+years	_	Calendric_unit Measure_duration
+,	_	
+including	_	Inclusion
+resorts	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Summerlin	_	
+and	_	
+Lake	_	Natural_features
+Las	_	
+Vegas	_	
+.	_	
+
+Recent	_	Relative_time
+business	_	Businesses
+projections	_	
+for	_	Causation Taking_sides
+Las	_	
+Vegas	_	
+predict	_	Expectation Predicting
+challenges	_	Difficulty
+;	_	
+tourism	_	Touring
+revenues	_	Earnings_and_losses
+must	_	Being_obligated Required_event
+increase	_	Cause_change_of_position_on_a_scale Change_position_on_a_scale
+substantially	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+sustain	_	
+what	_	
+is	_	Existence
+already	_	Time_vector
+built	_	Building
+,	_	
+while	_	Concessive Measure_duration Relative_time
+actual	_	Actually_occurring_entity
+figures	_	
+show	_	Cause_to_perceive Cotheme Evidence Finish_competition Obviousness Reasoning
+visitation	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+steady	_	
+or	_	
+declining	_	Change_position_on_a_scale
+.	_	
+
+The	_	Self_motion Temporal_collocation
+growth	_	Cause_change_of_position_on_a_scale Cause_expansion Change_position_on_a_scale
+that	_	Degree
+has	_	Have_associated Inclusion Possession
+characterized	_	Communicate_categorization Distinctiveness
+Las	_	
+Vegas	_	
+for	_	Causation Taking_sides
+nearly	_	Relational_quantity
+a	_	Measure_duration Process_end Quantity
+century	_	Calendric_unit Measure_duration
+may	_	Calendric_unit Likelihood
+be	_	Existence Performers_and_roles
+facing	_	
+a	_	Measure_duration Process_end Quantity
+roadblock	_	
+.	_	
+
+Still	_	Continued_state_of_affairs
+,	_	
+the	_	Self_motion Temporal_collocation
+future	_	Possibilities Temporal_collocation
+of	_	Age Domain Origin Partitive
+Las	_	
+Vegas	_	
+is	_	Existence
+sure	_	Certainty Likelihood Verification
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+be	_	Existence Performers_and_roles
+determined	_	Contingency Purpose
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+much	_	Relational_quantity
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+pioneering	_	Achieving_first
+spirit	_	
+that	_	Degree
+built	_	Building
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+by	_	Locative_relation Means
+anything	_	
+else	_	
+.	_	
+
+With	_	Accompaniment
+its	_	
+new	_	Age Expertise Familiarity
+look	_	Appearance Facial_expression Perception_active Scrutiny Seeking
+and	_	
+new	_	Age Expertise Familiarity
+aim	_	Aiming Purpose
+,	_	
+the	_	Self_motion Temporal_collocation
+prospects	_	
+are	_	Existence
+good	_	Desirability Expertise Morality_evaluation Social_interaction_evaluation Usefulness
+despite	_	Concessive
+the	_	Self_motion Temporal_collocation
+warnings	_	
+.	_	
+
+Inevitably	_	
+,	_	
+some	_	Relational_quantity
+people	_	Colonization People
+will	_	Desiring Documents Giving
+get	_	Arriving Becoming Birth Board_vehicle Bringing Disembarking Getting Grasp
+burned	_	Cause_harm
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+process	_	Means Process Processing_materials
+,	_	
+but	_	Concessive
+others	_	Increment
+will	_	Desiring Documents Giving
+rise	_	Change_position_on_a_scale Change_posture Dough_rising Getting_up Motion_directional Path_shape Resurrection Rising_to_a_challenge Sidereal_appearance
+triumphantly	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+fray	_	Fighting_activity
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+even	_	
+greater	_	
+successes	_	Success_or_failure
+.	_	
+
+And	_	
+that	_	Degree
+,	_	
+more	_	Increment
+than	_	Time_vector
+anything	_	
+,	_	
+is	_	Existence
+the	_	Self_motion Temporal_collocation
+one	_	Cardinal_numbers
+constant	_	
+that	_	Degree
+characterizes	_	Distinctiveness
+the	_	Self_motion Temporal_collocation
+past	_	Individual_history Locative_relation Relative_time
+,	_	
+present	_	Cause_to_perceive Presence Temporal_collocation
+,	_	
+and	_	
+future	_	Possibilities Temporal_collocation
+of	_	Age Domain Origin Partitive
+Las	_	
+Vegas	_	
+.	_	
+

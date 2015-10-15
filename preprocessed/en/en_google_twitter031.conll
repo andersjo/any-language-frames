@@ -1,0 +1,20 @@
+1	When	_	ADV	ADV	_	3	advmod
+2	you	_	PRON	PRON	_	3	nsubj
+3	google	_	VERB	VERB	_	0	root
+4	your	_	PRON	PRON	_	6	nmod:poss
+5	laptops	_	NOUN	NOUN	_	6	compound
+6	error	_	NOUN	NOUN	_	3	dobj
+7	and	_	CONJ	CONJ	_	3	cc
+8	it's	_	PRON	PRON	_	9	nsubj
+9	referred	_	VERB	VERB	_	3	conj
+10	to	_	PART	PART	_	11	mark
+11	as	_	ADV	ADV	_	9	advmod
+12	"	_	PUNCT	PUNCT	_	16	punct
+13	blue	_	ADJ	ADJ	_	0	foreign
+14	screen	_	NOUN	NOUN	_	16	compound
+15	of	_	ADP	ADP	_	9	compound:prt
+16	death	_	NOUN	NOUN	_	19	compound
+17	"	_	PUNCT	PUNCT	_	16	punct
+18	😨	_	ADJ	ADJ	_	0	foreign
+19	😰	_	NOUN	NOUN	_	6	conj
+

@@ -1,0 +1,11 @@
+1	@haikalrazak	_	NOUN	NOUN	_	2	nmod:poss
+2	google	_	NOUN	NOUN	_	3	nmod:poss
+3	translate	_	NOUN	NOUN	_	0	root
+4	ah	_	PROPN	PROPN	_	3	appos
+5	.	_	PUNCT	PUNCT	_	1	punct
+6	dok	_	NOUN	NOUN	_	7	nmod:poss
+7	reti	_	NOUN	NOUN	_	8	nmod:poss
+8	gok	_	NOUN	NOUN	_	3	nmod:poss
+9	nok	_	ADV	ADV	_	8	advmod
+10	ekspleng	_	NOUN	NOUN	_	9	dep
+

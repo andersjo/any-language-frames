@@ -1,0 +1,13 @@
+1	Söktjänsten	_	NOUN	NOUN	_	2	nsubj
+2	visar	_	VERB	VERB	_	0	root
+3	diskreta	_	ADJ	ADJ	_	5	amod
+4	betalda	_	ADJ	ADJ	_	5	amod
+5	textannonser	_	NOUN	NOUN	_	2	dobj
+6	som	_	PRON	PRON	_	9	nsubj
+7	är	_	AUX	AUX	_	9	cop
+8	tydligt	_	ADV	ADV	_	9	advmod
+9	avskilda	_	ADJ	ADJ	_	5	acl:relcl
+10	från	_	ADP	ADP	_	11	case
+11	sökresultaten	_	ADJ	ADJ	_	9	nmod
+12	.	_	PUNCT	PUNCT	_	2	punct
+

@@ -1,0 +1,20 @@
+1	ς	_	ADJ	ADJ	_	2	det
+2	Έλληνας	_	NOUN	NOUN	_	10	nsubj
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Εφευρέτης	_	NOUN	NOUN	_	2	nmod
+5	με	_	ADP	ADP	_	7	case
+6	τη	_	ADJ	ADJ	_	7	det
+7	στήριξη	_	NOUN	NOUN	_	4	nmod
+8	της	_	ADJ	ADJ	_	9	det
+9	Google	_	NOUN	NOUN	_	7	nmod
+10	θέλει	_	VERB	VERB	_	0	root
+11	να	_	PART	PART	_	12	aux
+12	αναστήσει	_	VERB	VERB	_	10	ccomp
+13	τον	_	ADJ	ADJ	_	14	det
+14	πατέρα	_	NOUN	NOUN	_	12	dobj
+15	του	_	PRON	PRON	_	14	nmod
+16	!	_	PUNCT	PUNCT	_	17	punct
+17	Παράτολμο	_	NOUN	NOUN	_	14	nmod
+18	-	_	PUNCT	PUNCT	_	17	punct
+19	http://t.co/vSFMXPbnGz	_	NOUN	NOUN	_	17	nmod
+

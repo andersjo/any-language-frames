@@ -1,0 +1,11 @@
+1	If	_	ADP	ADP	_	0	compound:prt
+2	Lauren	_	PROPN	PROPN	_	3	compound
+3	London	_	PROPN	PROPN	_	8	nsubj
+4	&	_	CONJ	CONJ	_	3	cc
+5	Angelina	_	PROPN	PROPN	_	6	compound
+6	Jolie	_	PROPN	PROPN	_	3	conj
+7	ever	_	ADV	ADV	_	8	advmod
+8	dated	_	VERB	VERB	_	0	root
+9	😂	_	ADV	ADV	_	8	advmod
+10	http://t.co/ZCfYBc7MLL	_	ADJ	ADJ	_	0	punct
+

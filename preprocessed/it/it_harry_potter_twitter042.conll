@@ -1,0 +1,26 @@
+1	Sono	_	VERB	VERB	_	14	advcl
+2	sotto	_	ADP	ADP	_	4	case
+3	le	_	DET	DET	_	4	det
+4	coperte	_	NOUN	NOUN	_	1	nmod
+5	a	_	ADP	ADP	_	6	mark
+6	fare	_	VERB	VERB	_	1	ccomp
+7	teologia	_	NOUN	NOUN	_	6	dobj
+8	con	_	ADP	ADP	_	10	case
+9	la	_	DET	DET	_	10	det
+10	torcia	_	NOUN	NOUN	_	7	nmod
+11	elettrica	_	ADJ	ADJ	_	10	amod
+12	,	_	PUNCT	PUNCT	_	10	punct
+13	mi	_	PRON	PRON	_	14	expl
+14	sento	_	VERB	VERB	_	0	root
+15	tanto	_	ADV	ADV	_	14	advmod
+16	Harry	_	PROPN	PROPN	_	14	dobj
+17	Potter	_	PROPN	PROPN	_	16	name
+18	che	_	PRON	PRON	_	19	nsubj
+19	faceva	_	VERB	VERB	_	16	acl:relcl
+20	i	_	DET	DET	_	21	det
+21	compiti	_	NOUN	NOUN	_	19	dobj
+22	di	_	ADP	ADP	_	23	mark
+23	nascosto	_	VERB	VERB	_	21	acl
+24	la	_	DET	DET	_	25	det
+25	notte	_	NOUN	NOUN	_	23	dobj
+

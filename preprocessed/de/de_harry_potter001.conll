@@ -1,0 +1,15 @@
+1	Harry	_	PROPN	PROPN	_	2	name
+2	Potter	_	PROPN	PROPN	_	6	nsubj
+3	ist	_	VERB	VERB	_	6	cop
+4	eine	_	DET	DET	_	6	det
+5	populäre	_	ADJ	ADJ	_	6	amod
+6	Fantasy-Romanreihe	_	NOUN	NOUN	_	0	root
+7	der	_	DET	DET	_	9	det
+8	englischen	_	ADJ	ADJ	_	9	amod
+9	Schriftstellerin	_	NOUN	NOUN	_	6	det
+10	Joanne	_	PROPN	PROPN	_	11	name
+11	K	_	PROPN	PROPN	_	9	appos
+12	.	_	PUNCT	PUNCT	_	11	punct
+13	Rowling	_	PROPN	PROPN	_	11	appos
+14	.	_	PUNCT	PUNCT	_	6	punct
+

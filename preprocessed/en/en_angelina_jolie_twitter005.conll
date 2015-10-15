@@ -1,0 +1,13 @@
+1	Hobbit	_	NOUN	NOUN	_	2	compound
+2	sequel	_	NOUN	NOUN	_	3	nsubj
+3	holds	_	VERB	VERB	_	0	root
+4	off	_	ADP	ADP	_	3	compound:prt
+5	Angelina	_	PROPN	PROPN	_	6	compound
+6	Jolie	_	PROPN	PROPN	_	3	dobj
+7	and	_	CONJ	CONJ	_	6	cc
+8	Stephen	_	PROPN	PROPN	_	9	compound
+9	Sondheim	_	PROPN	PROPN	_	11	compound
+10	-	_	PUNCT	PUNCT	_	9	punct
+11	BBC	_	PROPN	PROPN	_	12	compound
+12	News	_	PROPN	PROPN	_	6	conj
+

@@ -1,0 +1,16 @@
+1	Elles	_	PRON	PRON	_	3	nsubj
+2	sont	_	VERB	VERB	_	3	cop
+3	nombreuses	_	ADJ	ADJ	_	0	root
+4	à	_	ADP	ADP	_	5	case
+5	souffrir	_	VERB	VERB	_	3	acl
+6	en	_	ADP	ADP	_	7	case
+7	outre	_	ADV	ADV	_	5	advmod
+8	de	_	ADP	ADP	_	10	case
+9	la	_	DET	DET	_	10	det
+10	pauvreté	_	NOUN	NOUN	_	5	nmod
+11	et	_	CONJ	CONJ	_	10	cc
+12	de	_	ADP	ADP	_	13	case
+13	l’exclusion	_	NOUN	NOUN	_	10	conj
+14	sociale	_	ADJ	ADJ	_	13	amod
+15	.	_	PUNCT	PUNCT	_	3	punct
+

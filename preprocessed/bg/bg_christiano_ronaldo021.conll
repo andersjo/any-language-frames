@@ -1,0 +1,26 @@
+1	През	_	ADP	ADP	_	2	case
+2	сезон	_	NOUN	NOUN	_	5	nmod
+3	2010/11	_	NUM	NUM	_	4	nummod
+4	Кристиано	_	NOUN	NOUN	_	5	nsubj
+5	отбелязва	_	VERB	VERB	_	17	ccomp
+6	41	_	NUM	NUM	_	7	nummod
+7	гола	_	NOUN	NOUN	_	5	dobj
+8	в	_	ADP	ADP	_	9	case
+9	първенството	_	NOUN	NOUN	_	7	nmod
+10	на	_	ADP	ADP	_	11	case
+11	Испания	_	PROPN	PROPN	_	9	nmod
+12	,	_	PUNCT	PUNCT	_	14	punct
+13	което	_	PRON	PRON	_	14	nsubj
+14	е	_	VERB	VERB	_	5	advcl
+15	рекорд	_	NOUN	NOUN	_	14	cop
+16	,	_	PUNCT	PUNCT	_	5	punct
+17	изпреварвайки	_	VERB	VERB	_	0	root
+18	Лионел	_	PROPN	PROPN	_	17	nsubj
+19	Меси	_	PROPN	PROPN	_	18	name
+20	по	_	ADP	ADP	_	22	case
+21	този	_	DET	DET	_	22	det
+22	показател	_	NOUN	NOUN	_	17	nmod
+23	в	_	ADP	ADP	_	24	case
+24	първенството	_	NOUN	NOUN	_	22	nmod
+25	.	_	PUNCT	PUNCT	_	17	punct
+

@@ -1,0 +1,16 @@
+1	En	_	ADP	ADP	_	2	case
+2	marzo	_	PROPN	PROPN	_	9	nmod
+3	del	_	ADP	ADP	_	5	case
+4	mismo	_	ADJ	ADJ	_	5	amod
+5	año	_	NOUN	NOUN	_	2	nmod
+6	Eric	_	PROPN	PROPN	_	7	name
+7	Schmidt	_	PROPN	PROPN	_	10	nsubjpass
+8	es	_	AUX	AUX	_	9	auxpass
+9	nombrado	_	VERB	VERB	_	10	cop
+10	presidente	_	NOUN	NOUN	_	0	root
+11	de	_	ADP	ADP	_	13	case
+12	la	_	DET	DET	_	13	det
+13	junta	_	NOUN	NOUN	_	10	nmod
+14	directiva	_	ADJ	ADJ	_	13	amod
+15	.	_	PUNCT	PUNCT	_	10	punct
+

@@ -1,0 +1,21 @@
+1	Comenzó	_	VERB	VERB	_	0	root
+2	así	_	ADV	ADV	_	1	advmod
+3	el	_	DET	DET	_	4	det
+4	levantamiento	_	NOUN	NOUN	_	1	dobj
+5	popular	_	ADJ	ADJ	_	4	amod
+6	que	_	SCONJ	SCONJ	_	7	mark
+7	acabó	_	VERB	VERB	_	4	acl:relcl
+8	con	_	ADP	ADP	_	10	case
+9	la	_	DET	DET	_	10	det
+10	monarquía	_	NOUN	NOUN	_	7	nmod
+11	,	_	PUNCT	PUNCT	_	13	punct
+12	sin	_	ADP	ADP	_	13	case
+13	preparación	_	NOUN	NOUN	_	7	nmod
+14	ni	_	CONJ	CONJ	_	13	cc
+15	coordinación	_	NOUN	NOUN	_	13	conj
+16	de	_	ADP	ADP	_	18	case
+17	los	_	DET	DET	_	18	det
+18	partidos	_	NOUN	NOUN	_	15	nmod
+19	revolucionarios	_	ADJ	ADJ	_	18	amod
+20	.	_	PUNCT	PUNCT	_	1	punct
+

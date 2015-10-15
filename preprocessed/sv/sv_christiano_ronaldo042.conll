@@ -1,0 +1,24 @@
+1	För	_	ADP	ADP	_	4	case
+2	sitt	_	DET	DET	_	4	nmod:poss
+3	ihärdiga	_	ADJ	ADJ	_	4	amod
+4	målgörande	_	NOUN	NOUN	_	5	nmod
+5	belönades	_	VERB	VERB	_	0	root
+6	han	_	PRON	PRON	_	5	nsubj
+7	både	_	CONJ	CONJ	_	11	advmod
+8	med	_	ADP	ADP	_	11	case
+9	Le	_	NOUN	NOUN	_	10	nmod:poss
+10	ballon	_	NOUN	NOUN	_	11	nmod:poss
+11	d'or	_	NOUN	NOUN	_	5	nmod
+12	och	_	CONJ	CONJ	_	11	cc
+13	guldskon	_	NOUN	NOUN	_	11	conj
+14	och	_	CONJ	CONJ	_	5	cc
+15	blev	_	VERB	VERB	_	5	conj
+16	då	_	ADV	ADV	_	15	advmod
+17	den	_	DET	DET	_	19	det
+18	första	_	ADJ	ADJ	_	19	det
+19	yttermittfältaren	_	NOUN	NOUN	_	15	dobj
+20	som	_	PRON	PRON	_	21	nsubj
+21	vunnit	_	VERB	VERB	_	19	acl:relcl
+22	priset	_	NOUN	NOUN	_	21	dobj
+23	.	_	PUNCT	PUNCT	_	5	punct
+

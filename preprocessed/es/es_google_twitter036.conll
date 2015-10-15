@@ -1,0 +1,23 @@
+1	Cuando	_	SCONJ	SCONJ	_	2	mark
+2	busco	_	VERB	VERB	_	4	cop
+3	"	_	PUNCT	PUNCT	_	4	punct
+4	Hans	_	PROPN	PROPN	_	0	root
+5	"	_	PUNCT	PUNCT	_	4	punct
+6	en	_	ADP	ADP	_	8	case
+7	Google	_	PROPN	PROPN	_	8	name
+8	Imágenes	_	PROPN	PROPN	_	4	nmod
+9	y	_	CONJ	CONJ	_	2	cc
+10	cuando	_	SCONJ	SCONJ	_	11	mark
+11	busco	_	VERB	VERB	_	17	advcl
+12	"	_	PUNCT	PUNCT	_	13	punct
+13	Elsa	_	PROPN	PROPN	_	15	name
+14	"	_	PUNCT	PUNCT	_	13	punct
+15	@HansEnfurecido	_	PROPN	PROPN	_	17	nsubj
+16	te	_	PRON	PRON	_	17	iobj
+17	hace	_	VERB	VERB	_	4	advcl
+18	bullying	_	NOUN	NOUN	_	17	dobj
+19	hasta	_	ADP	ADP	_	20	case
+20	Google	_	PROPN	PROPN	_	17	nmod
+21	.	_	PUNCT	PUNCT	_	13	punct
+22	http://t.co/dPEBKaa48j	_	PROPN	PROPN	_	20	appos
+

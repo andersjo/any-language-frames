@@ -1,0 +1,16 @@
+1	Se	_	SCONJ	SCONJ	_	9	mark
+2	vai	_	NOUN	NOUN	_	9	nsubj
+3	agli	_	ADP	ADP	_	4	case
+4	Harry	_	PROPN	PROPN	_	2	nmod
+5	Potter	_	PROPN	PROPN	_	4	name
+6	studio	_	PROPN	PROPN	_	4	name
+7	,	_	PUNCT	PUNCT	_	2	punct
+8	devi	_	AUX	AUX	_	9	aux
+9	avere	_	VERB	VERB	_	0	root
+10	almeno	_	ADV	ADV	_	11	advmod
+11	200	_	NUM	NUM	_	12	nummod
+12	euro	_	NOUN	NOUN	_	9	dobj
+13	con	_	ADP	ADP	_	14	case
+14	te	_	PRON	PRON	_	12	nmod
+15	ahah	_	ADJ	ADJ	_	14	amod
+

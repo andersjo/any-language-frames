@@ -1,0 +1,22 @@
+1	Αλλάζει	_	NOUN	NOUN	_	0	root
+2	η	_	ADJ	ADJ	_	3	det
+3	Ελλάδα	_	NOUN	NOUN	_	1	nsubj
+4	–	_	NOUN	NOUN	_	3	nmod
+5	Αλλάζει	_	NOUN	NOUN	_	4	nmod
+6	η	_	ADJ	ADJ	_	7	det
+7	Ευρώπη	_	NOUN	NOUN	_	1	nsubj
+8	:	_	PUNCT	PUNCT	_	9	punct
+9	Νέα	_	ADJ	ADJ	_	7	amod
+10	από	_	ADP	ADP	_	12	case
+11	την	_	ADJ	ADJ	_	12	det
+12	Ιταλία	_	NOUN	NOUN	_	9	nmod
+13	by	_	NOUN	NOUN	_	12	nmod
+14	nikoxy	_	NOUN	NOUN	_	13	nmod
+15	Toni	_	NOUN	NOUN	_	14	nmod
+16	Servillo	_	NOUN	NOUN	_	15	nmod
+17	Nichi	_	NOUN	NOUN	_	16	nmod
+18	Vendola	_	NOUN	NOUN	_	17	nmod
+19	And	_	NOUN	NOUN	_	18	nmod
+20	…	_	NOUN	NOUN	_	19	nmod
+21	http://t.co/dvNPlshY7D	_	NOUN	NOUN	_	20	nmod
+

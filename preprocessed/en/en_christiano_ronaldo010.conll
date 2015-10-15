@@ -1,0 +1,23 @@
+1	Ronaldo	_	PROPN	PROPN	_	2	nsubj
+2	began	_	VERB	VERB	_	0	root
+3	his	_	PRON	PRON	_	4	nmod:poss
+4	career	_	NOUN	NOUN	_	2	dobj
+5	as	_	ADP	ADP	_	2	compound:prt
+6	a	_	DET	DET	_	8	det
+7	youth	_	NOUN	NOUN	_	8	compound
+8	player	_	NOUN	NOUN	_	2	dobj
+9	for	_	ADP	ADP	_	7	compound
+10	Andorinha	_	PROPN	PROPN	_	8	nmod
+11	,	_	PUNCT	PUNCT	_	2	punct
+12	where	_	ADV	ADV	_	14	advmod
+13	he	_	PRON	PRON	_	14	nsubj
+14	played	_	VERB	VERB	_	2	advcl
+15	for	_	ADP	ADP	_	14	compound:prt
+16	two	_	NUM	NUM	_	17	nummod
+17	years	_	NOUN	NOUN	_	14	dobj
+18	,	_	PUNCT	PUNCT	_	2	punct
+19	before	_	ADV	ADV	_	20	advmod
+20	moving	_	VERB	VERB	_	14	advcl
+21	to	_	PART	PART	_	22	mark
+22	C.D.	_	VERB	VERB	_	20	xcomp
+

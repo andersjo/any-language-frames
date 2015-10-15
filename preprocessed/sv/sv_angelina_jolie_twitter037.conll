@@ -1,0 +1,19 @@
+1	Finaste	_	ADJ	ADJ	_	2	amod
+2	paret	_	NOUN	NOUN	_	3	nsubj
+3	fortsätter	_	VERB	VERB	_	0	root
+4	att	_	PART	PART	_	5	mark
+5	leverera	_	VERB	VERB	_	3	xcomp
+6	!	_	PUNCT	PUNCT	_	3	punct
+7	Brad	_	NOUN	NOUN	_	5	dobj
+8	Pitt	_	ADJ	ADJ	_	11	amod
+9	and	_	CONJ	CONJ	_	8	cc
+10	Angelina	_	ADJ	ADJ	_	8	conj
+11	Jolie	_	NOUN	NOUN	_	12	det
+12	Support	_	PROPN	PROPN	_	13	nsubj
+13	Their	_	VERB	VERB	_	5	conj
+14	Kid	_	NOUN	NOUN	_	15	det
+15	Wearing	_	PROPN	PROPN	_	13	nsubj
+16	Suits	_	PROPN	PROPN	_	15	name
+17	|	_	ADJ	ADJ	_	18	amod
+18	http://t.co/jibCs1C5N0	_	NOUN	NOUN	_	13	dobj
+

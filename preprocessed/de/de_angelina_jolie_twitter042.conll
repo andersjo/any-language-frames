@@ -1,0 +1,17 @@
+1	Im	_	ADP	ADP	_	3	case
+2	Coop	_	PROPN	PROPN	_	3	name
+3	het	_	PROPN	PROPN	_	4	nmod
+4	eh	_	ADJ	ADJ	_	5	amod
+5	Frau	_	NOUN	NOUN	_	0	root
+6	es	_	PRON	PRON	_	5	expl
+7	Chind	_	NOUN	NOUN	_	5	det
+8	ih	_	PROPN	PROPN	_	7	appos
+9	ihrem	_	DET	DET	_	13	nmod:poss
+10	Ichaufswage	_	PROPN	PROPN	_	12	name
+11	.	_	PUNCT	PUNCT	_	10	punct
+12	Huere	_	ADJ	ADJ	_	13	amod
+13	möchtegärn	_	NOUN	NOUN	_	7	conj
+14	Angelina	_	PROPN	PROPN	_	15	name
+15	Jolie	_	PROPN	PROPN	_	13	appos
+16	.	_	PUNCT	PUNCT	_	5	punct
+

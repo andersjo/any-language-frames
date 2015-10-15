@@ -1,0 +1,12 @@
+1	Letzteres	_	NOUN	NOUN	_	10	nsubjpass
+2	wurde	_	AUX	AUX	_	10	auxpass
+3	von	_	ADP	ADP	_	5	case
+4	Jon	_	PROPN	PROPN	_	5	name
+5	Voight	_	PROPN	PROPN	_	10	nmod
+6	in	_	ADP	ADP	_	8	case
+7	einem	_	DET	DET	_	8	det
+8	Interview	_	NOUN	NOUN	_	10	nmod
+9	allerdings	_	ADV	ADV	_	10	advmod
+10	bestritten	_	VERB	VERB	_	0	root
+11	.	_	PUNCT	PUNCT	_	10	punct
+

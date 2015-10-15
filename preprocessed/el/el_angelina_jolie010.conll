@@ -1,0 +1,27 @@
+1	Στην	_	ADP	ADP	_	2	case
+2	ηλικία	_	NOUN	NOUN	_	8	nmod
+3	των	_	ADJ	ADJ	_	4	det
+4	14	_	NOUN	NOUN	_	2	nmod
+5	,	_	PUNCT	PUNCT	_	8	punct
+6	η	_	ADJ	ADJ	_	7	det
+7	Αντζελίνα	_	NOUN	NOUN	_	8	nsubj
+8	άρχισε	_	VERB	VERB	_	0	root
+9	να	_	PART	PART	_	10	aux
+10	εργάζεται	_	VERB	VERB	_	12	cop
+11	ως	_	ADV	ADV	_	12	case
+12	μοντέλο	_	NOUN	NOUN	_	8	ccomp
+13	μόδας	_	NOUN	NOUN	_	12	nmod
+14	,	_	PUNCT	PUNCT	_	15	punct
+15	κυρίως	_	ADV	ADV	_	10	advmod
+16	στο	_	ADP	ADP	_	17	case
+17	Λος	_	NOUN	NOUN	_	15	nmod
+18	Άντζελες	_	NOUN	NOUN	_	17	nmod
+19	,	_	PUNCT	PUNCT	_	15	punct
+20	τη	_	ADJ	ADJ	_	22	det
+21	Νέα	_	ADJ	ADJ	_	22	amod
+22	Υόρκη	_	NOUN	NOUN	_	18	conj
+23	και	_	CONJ	CONJ	_	22	cc
+24	το	_	ADJ	ADJ	_	25	det
+25	Λονδίνο	_	NOUN	NOUN	_	22	conj
+26	.	_	PUNCT	PUNCT	_	8	punct
+

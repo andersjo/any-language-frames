@@ -1,0 +1,17 @@
+1	Όμως	_	ADV	ADV	_	5	advmod
+2	στον	_	ADP	ADP	_	4	case
+3	πρώτο	_	NUM	NUM	_	4	nummod
+4	αγώνα	_	NOUN	NOUN	_	1	nmod
+5	συμμετείχε	_	VERB	VERB	_	0	root
+6	κανονικά	_	ADV	ADV	_	5	advmod
+7	και	_	CONJ	CONJ	_	5	cc
+8	έβγαλε	_	VERB	VERB	_	5	conj
+9	όλο	_	ADV	ADV	_	8	advmod
+10	τον	_	ADJ	ADJ	_	11	det
+11	αγώνα	_	NOUN	NOUN	_	8	dobj
+12	,	_	PUNCT	PUNCT	_	15	punct
+13	εναντίον	_	ADP	ADP	_	15	case
+14	της	_	ADJ	ADJ	_	15	det
+15	Γερμανίας	_	NOUN	NOUN	_	11	nmod
+16	.	_	PUNCT	PUNCT	_	5	punct
+

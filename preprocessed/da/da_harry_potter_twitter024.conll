@@ -1,0 +1,22 @@
+1	J.K.	_	NOUN	NOUN	_	10	nsubj
+2	Rowling	_	PROPN	PROPN	_	1	appos
+3	says	_	NOUN	NOUN	_	2	dep
+4	the	_	X	X	_	1	list
+5	idea	_	NOUN	NOUN	_	4	dep
+6	of	_	X	X	_	4	dep
+7	Harry	_	PROPN	PROPN	_	6	dep
+8	Potter	_	NOUN	NOUN	_	7	dep
+9	just	_	ADV	ADV	_	10	advmod
+10	Ã¢â‚¬Å	_	VERB	VERB	_	0	root
+11	“	_	ADJ	ADJ	_	12	amod
+12	strolled	_	NOUN	NOUN	_	13	dep
+13	into	_	PROPN	PROPN	_	10	dobj
+14	her	_	ADV	ADV	_	15	advmod
+15	headÃ¢â‚¬Â	_	ADJ	ADJ	_	16	amod
+16	during	_	NOUN	NOUN	_	13	dep
+17	a	_	X	X	_	16	dep
+18	four-hour	_	PROPN	PROPN	_	19	nmod:poss
+19	train	_	NOUN	NOUN	_	17	nmod:poss
+20	delay	_	PROPN	PROPN	_	19	appos
+21	.	_	PUNCT	PUNCT	_	10	punct
+

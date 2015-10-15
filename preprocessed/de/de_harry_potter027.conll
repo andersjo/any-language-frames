@@ -1,0 +1,27 @@
+1	Daher	_	ADV	ADV	_	2	advmod
+2	verschweigen	_	VERB	VERB	_	0	root
+3	sie	_	PRON	PRON	_	2	nsubj
+4	ihm	_	PRON	PRON	_	2	iobj
+5	auch	_	ADV	ADV	_	2	advmod
+6	die	_	DET	DET	_	8	det
+7	wahre	_	ADJ	ADJ	_	8	amod
+8	Geschichte	_	NOUN	NOUN	_	2	nmod
+9	,	_	PUNCT	PUNCT	_	2	punct
+10	wie	_	ADP	ADP	_	12	case
+11	seine	_	DET	DET	_	12	nmod:poss
+12	Eltern	_	NOUN	NOUN	_	15	nmod
+13	zu	_	ADP	ADP	_	14	case
+14	Tode	_	NOUN	NOUN	_	15	nmod
+15	kamen	_	VERB	VERB	_	8	acl
+16	,	_	PUNCT	PUNCT	_	2	punct
+17	sowie	_	CONJ	CONJ	_	12	cc
+18	die	_	DET	DET	_	19	det
+19	Tatsache	_	NOUN	NOUN	_	12	conj
+20	,	_	PUNCT	PUNCT	_	19	punct
+21	dass	_	SCONJ	SCONJ	_	24	mark
+22	Harry	_	PROPN	PROPN	_	24	nsubj
+23	ein	_	DET	DET	_	24	det
+24	Zauberer	_	NOUN	NOUN	_	19	ccomp
+25	ist	_	VERB	VERB	_	24	cop
+26	.	_	PUNCT	PUNCT	_	2	punct
+

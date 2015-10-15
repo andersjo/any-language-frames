@@ -1,0 +1,23 @@
+1	Il	_	DET	DET	_	2	det
+2	film	_	NOUN	NOUN	_	4	nsubj
+3	ha	_	AUX	AUX	_	4	aux
+4	guadagnato	_	VERB	VERB	_	0	root
+5	478	_	NUM	NUM	_	6	nummod
+6	milioni	_	NOUN	NOUN	_	4	dobj
+7	di	_	ADP	ADP	_	8	case
+8	dollari	_	NOUN	NOUN	_	6	nmod
+9	in	_	ADP	ADP	_	10	case
+10	tutto	_	PRON	PRON	_	14	nmod
+11	il	_	DET	DET	_	12	det
+12	mondo	_	NOUN	NOUN	_	15	nsubj
+13	,	_	PUNCT	PUNCT	_	4	punct
+14	divenendo	_	VERB	VERB	_	4	advcl
+15	uno	_	PRON	PRON	_	14	nsubj
+16	dei	_	ADP	ADP	_	19	case
+17	più	_	DET	DET	_	19	det
+18	grandi	_	ADJ	ADJ	_	19	amod
+19	successi	_	NOUN	NOUN	_	15	nmod
+20	del	_	ADP	ADP	_	21	case
+21	2005	_	NUM	NUM	_	19	nummod
+22	.	_	PUNCT	PUNCT	_	4	punct
+

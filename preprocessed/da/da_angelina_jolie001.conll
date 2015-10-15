@@ -1,0 +1,20 @@
+1	Angelina	_	PROPN	PROPN	_	2	nmod:poss
+2	Jolie	_	NOUN	NOUN	_	5	nsubj
+3	Voight	_	PROPN	PROPN	_	2	appos
+4	(	_	PUNCT	PUNCT	_	5	punct
+5	født	_	VERB	VERB	_	0	root
+6	4	_	NUM	NUM	_	8	nummod
+7	.	_	PUNCT	PUNCT	_	5	punct
+8	juni	_	NOUN	NOUN	_	5	nsubj
+9	1975	_	NUM	NUM	_	8	nmod
+10	)	_	PUNCT	PUNCT	_	8	punct
+11	er	_	AUX	AUX	_	14	cop
+12	en	_	DET	DET	_	14	det
+13	amerikansk	_	ADJ	ADJ	_	14	amod
+14	skuespiller	_	NOUN	NOUN	_	5	conj
+15	,	_	PUNCT	PUNCT	_	14	punct
+16	filminstruktør	_	NOUN	NOUN	_	14	conj
+17	og	_	CONJ	CONJ	_	14	cc
+18	manuskriptforfatter	_	NOUN	NOUN	_	14	conj
+19	.	_	PUNCT	PUNCT	_	5	punct
+

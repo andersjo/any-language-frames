@@ -1,0 +1,16 @@
+1	Nel	_	ADP	ADP	_	2	case
+2	1998	_	NUM	NUM	_	5	nummod
+3	il	_	DET	DET	_	4	det
+4	successo	_	NOUN	NOUN	_	5	nsubj
+5	attraversa	_	VERB	VERB	_	0	root
+6	la	_	DET	DET	_	7	det
+7	Manica	_	PROPN	PROPN	_	5	dobj
+8	e	_	CONJ	CONJ	_	5	cc
+9	si	_	PRON	PRON	_	10	expl
+10	propaga	_	VERB	VERB	_	5	conj
+11	in	_	ADP	ADP	_	12	case
+12	tutto	_	PRON	PRON	_	10	nmod
+13	il	_	DET	DET	_	14	det
+14	mondo	_	NOUN	NOUN	_	10	dobj
+15	.	_	PUNCT	PUNCT	_	5	punct
+

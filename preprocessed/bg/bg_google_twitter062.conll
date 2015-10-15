@@ -1,0 +1,7 @@
+1	Власти	_	PROPN	PROPN	_	2	nsubj
+2	защитят	_	VERB	VERB	_	0	root
+3	Google	_	PROPN	PROPN	_	2	dobj
+4	от	_	ADP	ADP	_	5	case
+5	кибератак	_	NOUN	NOUN	_	2	nmod
+6	http://t.co/xuDnFbyM6H	_	PROPN	PROPN	_	5	nmod
+

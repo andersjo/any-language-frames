@@ -1,0 +1,22 @@
+1	Μέχρι	_	ADP	ADP	_	4	case
+2	την	_	ADJ	ADJ	_	4	det
+3	21	_	NUM	NUM	_	4	nummod
+4	Απριλίου	_	NOUN	NOUN	_	9	nsubj
+5	του	_	ADJ	ADJ	_	6	det
+6	2008	_	NOUN	NOUN	_	4	nmod
+7	,	_	PUNCT	PUNCT	_	9	punct
+8	έχουν	_	VERB	VERB	_	9	aux
+9	πουληθεί	_	VERB	VERB	_	0	root
+10	παγκοσμίως	_	ADV	ADV	_	9	advmod
+11	πάνω	_	ADV	ADV	_	9	advmod
+12	από	_	ADP	ADP	_	14	case
+13	350.000.000	_	NUM	NUM	_	14	nummod
+14	αντίτυπα	_	NOUN	NOUN	_	11	nmod
+15	της	_	ADJ	ADJ	_	16	det
+16	σειράς	_	NOUN	NOUN	_	14	nmod
+17	των	_	ADJ	ADJ	_	19	det
+18	βιβλίων	_	ADJ	ADJ	_	19	amod
+19	Χάρι	_	NOUN	NOUN	_	16	nmod
+20	Πότερ	_	NOUN	NOUN	_	19	nmod
+21	.	_	PUNCT	PUNCT	_	9	punct
+

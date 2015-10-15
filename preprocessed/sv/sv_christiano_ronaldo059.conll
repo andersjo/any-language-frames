@@ -1,0 +1,18 @@
+1	Hans	_	DET	DET	_	2	nmod:poss
+2	svit	_	NOUN	NOUN	_	9	nsubj
+3	att	_	PART	PART	_	4	mark
+4	göra	_	VERB	VERB	_	2	acl
+5	mål	_	NOUN	NOUN	_	4	dobj
+6	i	_	ADP	ADP	_	8	case
+7	alla	_	DET	DET	_	8	det
+8	ligamatcher	_	NOUN	NOUN	_	4	nmod
+9	bröts	_	VERB	VERB	_	0	root
+10	i	_	ADP	ADP	_	11	case
+11	matchen	_	NOUN	NOUN	_	9	nmod
+12	mot	_	ADP	ADP	_	13	case
+13	Tenerife	_	NOUN	NOUN	_	9	nmod
+14	den	_	DET	DET	_	16	det
+15	26	_	NUM	NUM	_	16	nummod
+16	september	_	NOUN	NOUN	_	9	nmod
+17	.	_	PUNCT	PUNCT	_	9	punct
+

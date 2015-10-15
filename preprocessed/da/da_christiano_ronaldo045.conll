@@ -1,0 +1,15 @@
+1	På	_	ADP	ADP	_	2	case
+2	trods	_	NOUN	NOUN	_	6	nmod
+3	af	_	ADP	ADP	_	5	case
+4	disse	_	DET	DET	_	5	det
+5	kontroverser	_	NOUN	NOUN	_	2	nmod
+6	opnåede	_	VERB	VERB	_	0	root
+7	Ronaldo	_	PROPN	PROPN	_	6	nsubj
+8	alligevel	_	ADV	ADV	_	6	advmod
+9	nogle	_	DET	DET	_	11	det
+10	personlige	_	ADJ	ADJ	_	11	amod
+11	priser	_	NOUN	NOUN	_	6	nmod
+12	denne	_	DET	DET	_	13	det
+13	sæson	_	NOUN	NOUN	_	6	dep
+14	.	_	PUNCT	PUNCT	_	6	punct
+

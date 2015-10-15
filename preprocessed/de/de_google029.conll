@@ -1,0 +1,25 @@
+1	Der	_	DET	DET	_	2	det
+2	Kunde	_	NOUN	NOUN	_	3	nsubj
+3	legt	_	VERB	VERB	_	0	root
+4	die	_	DET	DET	_	6	det
+5	maximale	_	ADJ	ADJ	_	6	amod
+6	Vergütung	_	NOUN	NOUN	_	3	dobj
+7	pro	_	ADP	ADP	_	8	case
+8	Klick	_	NOUN	NOUN	_	6	nmod
+9	selbst	_	ADV	ADV	_	3	advmod
+10	fest	_	ADV	ADV	_	3	mark
+11	,	_	PUNCT	PUNCT	_	3	punct
+12	wobei	_	SCONJ	SCONJ	_	22	mark
+13	eine	_	DET	DET	_	15	det
+14	höhere	_	ADJ	ADJ	_	15	amod
+15	Vergütung	_	NOUN	NOUN	_	22	dobj
+16	eine	_	DET	DET	_	18	det
+17	höhere	_	ADJ	ADJ	_	18	amod
+18	Position	_	NOUN	NOUN	_	22	dobj
+19	gegenüber	_	ADP	ADP	_	21	case
+20	konkurrierenden	_	ADJ	ADJ	_	21	amod
+21	Anzeigen	_	NOUN	NOUN	_	18	nmod
+22	erzielen	_	VERB	VERB	_	3	ccomp
+23	kann	_	AUX	AUX	_	22	aux
+24	.	_	PUNCT	PUNCT	_	3	punct
+

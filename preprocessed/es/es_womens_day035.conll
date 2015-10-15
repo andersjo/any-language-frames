@@ -1,0 +1,13 @@
+1	1911	_	NUM	NUM	_	4	nummod
+2	-	_	PUNCT	PUNCT	_	1	punct
+3	primera	_	NUM	NUM	_	4	nummod
+4	celebración	_	NOUN	NOUN	_	0	root
+5	del	_	ADP	ADP	_	6	case
+6	Día	_	PROPN	PROPN	_	4	nmod
+7	Internacional	_	PROPN	PROPN	_	6	amod
+8	de	_	ADP	ADP	_	10	case
+9	la	_	DET	DET	_	10	det
+10	Mujer	_	PROPN	PROPN	_	6	nmod
+11	Trabajadora	_	PROPN	PROPN	_	10	amod
+12	.	_	PUNCT	PUNCT	_	4	punct
+

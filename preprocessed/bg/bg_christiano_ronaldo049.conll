@@ -1,0 +1,23 @@
+1	Роналдо	_	PROPN	PROPN	_	2	nsubj
+2	започва	_	VERB	VERB	_	0	root
+3	своята	_	DET	DET	_	4	det
+4	кариера	_	NOUN	NOUN	_	2	dobj
+5	в	_	ADP	ADP	_	7	case
+6	националният	_	ADJ	ADJ	_	7	amod
+7	отбор	_	NOUN	NOUN	_	2	nmod
+8	на	_	ADP	ADP	_	9	case
+9	Португалия	_	PROPN	PROPN	_	7	nmod
+10	на	_	ADP	ADP	_	12	case
+11	20	_	NUM	NUM	_	12	nummod
+12	август	_	NOUN	NOUN	_	2	nmod
+13	2003	_	NUM	NUM	_	14	nummod
+14	г	_	NOUN	NOUN	_	12	nmod
+15	.	_	PUNCT	PUNCT	_	2	punct
+16	при	_	ADP	ADP	_	17	case
+17	победата	_	NOUN	NOUN	_	2	nmod
+18	над	_	ADP	ADP	_	19	case
+19	Казахстан	_	PROPN	PROPN	_	17	nmod
+20	с	_	ADP	ADP	_	21	case
+21	1-0	_	NUM	NUM	_	19	nummod
+22	.	_	PUNCT	PUNCT	_	2	punct
+

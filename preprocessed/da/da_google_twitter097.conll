@@ -1,0 +1,11 @@
+1	Arvind	_	ADJ	ADJ	_	2	amod
+2	Kejriwal	_	NOUN	NOUN	_	3	dep
+3	Questions	_	PROPN	PROPN	_	10	dep
+4	Haste	_	PROPN	PROPN	_	3	name
+5	Over	_	PROPN	PROPN	_	3	name
+6	Land	_	PROPN	PROPN	_	3	name
+7	Acquisition	_	PROPN	PROPN	_	3	name
+8	Ordinance	_	NOUN	NOUN	_	7	dep
+9	http://t.co/Zei1M1RetD	_	NOUN	NOUN	_	0	root
+10	#india	_	PROPN	PROPN	_	9	appos
+

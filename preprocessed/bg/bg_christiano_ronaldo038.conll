@@ -1,0 +1,23 @@
+1	През	_	ADP	ADP	_	2	case
+2	целият	_	ADJ	ADJ	_	4	nmod
+3	вече	_	ADV	ADV	_	4	advmod
+4	отминал	_	VERB	VERB	_	0	root
+5	сезон	_	NOUN	NOUN	_	4	dobj
+6	успява	_	VERB	VERB	_	4	ccomp
+7	да	_	PART	PART	_	8	aux
+8	отбележи	_	VERB	VERB	_	6	ccomp
+9	17	_	NUM	NUM	_	10	nummod
+10	гола	_	NOUN	NOUN	_	8	dobj
+11	като	_	ADP	ADP	_	13	case
+12	по-този	_	ADJ	ADJ	_	13	amod
+13	начин	_	NOUN	NOUN	_	10	nmod
+14	подобрява	_	VERB	VERB	_	8	ccomp
+15	рекорда	_	NOUN	NOUN	_	14	dobj
+16	на	_	ADP	ADP	_	17	case
+17	Лионел	_	PROPN	PROPN	_	15	nmod
+18	Меси	_	PROPN	PROPN	_	17	name
+19	от	_	ADP	ADP	_	21	case
+20	14	_	NUM	NUM	_	21	nummod
+21	попадения	_	NOUN	NOUN	_	15	nmod
+22	.	_	PUNCT	PUNCT	_	6	punct
+

@@ -1,0 +1,18 @@
+1	Aber	_	CONJ	CONJ	_	7	cc
+2	sie	_	PRON	PRON	_	7	nsubj
+3	hat	_	AUX	AUX	_	7	aux
+4	uns	_	PRON	PRON	_	7	dobj
+5	die	_	DET	DET	_	6	det
+6	Schau	_	NOUN	NOUN	_	7	dobj
+7	gestohlen	_	VERB	VERB	_	0	root
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	weil	_	SCONJ	SCONJ	_	15	mark
+10	sie	_	PRON	PRON	_	12	nsubj
+11	so	_	ADV	ADV	_	12	advmod
+12	ehrlich	_	ADJ	ADJ	_	7	advcl
+13	und	_	CONJ	CONJ	_	12	cc
+14	echt	_	ADV	ADV	_	17	advmod
+15	war	_	VERB	VERB	_	12	cop
+16	.	_	PUNCT	PUNCT	_	7	punct
+17	“	_	PROPN	PROPN	_	15	name
+

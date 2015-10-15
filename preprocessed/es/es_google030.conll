@@ -1,0 +1,16 @@
+1	El	_	DET	DET	_	2	det
+2	18	_	NUM	NUM	_	10	nmod
+3	de	_	ADP	ADP	_	4	case
+4	agosto	_	PROPN	PROPN	_	2	nmod
+5	de	_	ADP	ADP	_	8	case
+6	ese	_	DET	DET	_	8	det
+7	mismo	_	ADJ	ADJ	_	8	amod
+8	año	_	NOUN	NOUN	_	4	nmod
+9	Google	_	PROPN	PROPN	_	10	nsubj
+10	salió	_	VERB	VERB	_	0	root
+11	a	_	ADP	ADP	_	12	case
+12	bolsa	_	NOUN	NOUN	_	10	nmod
+13	en	_	ADP	ADP	_	14	case
+14	WallStreet	_	PROPN	PROPN	_	12	nmod
+15	.	_	PUNCT	PUNCT	_	10	punct
+

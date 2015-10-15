@@ -1,0 +1,23 @@
+1	Η	_	ADJ	ADJ	_	3	det
+2	παγκόσμια	_	ADJ	ADJ	_	3	amod
+3	ημέρα	_	NOUN	NOUN	_	16	nsubj
+4	της	_	ADJ	ADJ	_	5	det
+5	γυναίκας	_	NOUN	NOUN	_	3	nmod
+6	(	_	PUNCT	PUNCT	_	5	amod
+7	"	_	PUNCT	PUNCT	_	9	punct
+8	διεθνής	_	ADJ	ADJ	_	9	amod
+9	ημέρα	_	NOUN	NOUN	_	3	conj
+10	των	_	ADJ	ADJ	_	11	det
+11	δικαιωμάτων	_	NOUN	NOUN	_	9	nmod
+12	των	_	ADJ	ADJ	_	13	det
+13	γυναικών	_	NOUN	NOUN	_	11	nmod
+14	"	_	PUNCT	PUNCT	_	9	punct
+15	)	_	PUNCT	PUNCT	_	16	punct
+16	εορτάζεται	_	VERB	VERB	_	0	root
+17	στις	_	ADP	ADP	_	18	case
+18	8	_	NUM	NUM	_	19	nummod
+19	Μαρτίου	_	NOUN	NOUN	_	16	nmod
+20	κάθε	_	PRON	PRON	_	21	nmod
+21	έτους	_	NOUN	NOUN	_	19	nmod
+22	.	_	PUNCT	PUNCT	_	16	punct
+

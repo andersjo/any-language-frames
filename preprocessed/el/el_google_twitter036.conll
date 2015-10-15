@@ -1,0 +1,22 @@
+1	Ευπάθεια	_	VERB	VERB	_	0	root
+2	στα	_	ADP	ADP	_	3	case
+3	Windows	_	NOUN	NOUN	_	1	nmod
+4	:	_	PUNCT	PUNCT	_	7	punct
+5	Η	_	ADJ	ADJ	_	6	det
+6	Google	_	NOUN	NOUN	_	7	nsubj
+7	δημοσίευσε	_	VERB	VERB	_	1	ccomp
+8	μία	_	ADJ	ADJ	_	9	det
+9	ευπάθεια	_	NOUN	NOUN	_	7	dobj
+10	που	_	PRON	PRON	_	11	dobj
+11	ανακάλυψε	_	VERB	VERB	_	9	acl:relcl
+12	η	_	ADJ	ADJ	_	13	det
+13	ίδια	_	ADJ	ADJ	_	11	nsubj
+14	στα	_	ADP	ADP	_	15	case
+15	Windows	_	NOUN	NOUN	_	13	nmod
+16	8.1	_	NUM	NUM	_	15	nmod
+17	η	_	ADJ	ADJ	_	18	det
+18	οποία	_	PRON	PRON	_	19	nsubj
+19	φαίνεται	_	VERB	VERB	_	9	acl:relcl
+20	...	_	NOUN	NOUN	_	19	dobj
+21	http://t.co/ACHcGxdrVv	_	NOUN	NOUN	_	20	nmod
+

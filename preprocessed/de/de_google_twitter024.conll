@@ -1,0 +1,11 @@
+1	@AltF4Games	_	PROPN	PROPN	_	2	name
+2	google	_	PROPN	PROPN	_	5	nsubj
+3	mal	_	ADV	ADV	_	5	advmod
+4	psychologische	_	ADJ	ADJ	_	5	advmod
+5	disonantz	_	ADJ	ADJ	_	0	root
+6	.	_	PUNCT	PUNCT	_	5	punct
+7	Vielleicht	_	ADV	ADV	_	9	advmod
+8	eine	_	DET	DET	_	9	det
+9	erklärung	_	NOUN	NOUN	_	1	acl
+10	;-)	_	PART	PART	_	9	dep
+

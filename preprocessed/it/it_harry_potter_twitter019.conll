@@ -1,0 +1,22 @@
+1	Ciò	_	PRON	PRON	_	4	nsubjpass
+2	che	_	PRON	PRON	_	3	nsubj
+3	dico	_	VERB	VERB	_	1	acl:relcl
+4	entra	_	VERB	VERB	_	0	root
+5	da	_	ADP	ADP	_	7	case
+6	un	_	DET	DET	_	7	det
+7	orecchio	_	NOUN	NOUN	_	4	nmod
+8	e	_	CONJ	CONJ	_	4	cc
+9	esce	_	VERB	VERB	_	4	conj
+10	dall'altro	_	ADJ	ADJ	_	9	xcomp
+11	(	_	PUNCT	PUNCT	_	14	punct
+12	o	_	CONJ	CONJ	_	10	cc
+13	dal	_	ADP	ADP	_	14	case
+14	culo	_	NOUN	NOUN	_	10	conj
+15	stando	_	VERB	VERB	_	14	acl
+16	alla	_	ADP	ADP	_	17	case
+17	parodia	_	NOUN	NOUN	_	15	nmod
+18	di	_	ADP	ADP	_	19	case
+19	Harry	_	PROPN	PROPN	_	17	nmod
+20	Potter	_	PROPN	PROPN	_	19	name
+21	)	_	PUNCT	PUNCT	_	12	punct
+

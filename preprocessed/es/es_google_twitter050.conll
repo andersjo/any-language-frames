@@ -1,0 +1,20 @@
+1	#Noticias	_	PROPN	PROPN	_	3	nsubj
+2	Le	_	PRON	PRON	_	3	iobj
+3	dictan	_	VERB	VERB	_	0	root
+4	prisión	_	NOUN	NOUN	_	3	dobj
+5	a	_	ADP	ADP	_	6	case
+6	Mora	_	PROPN	PROPN	_	3	iobj
+7	;	_	PUNCT	PUNCT	_	3	punct
+8	"	_	PUNCT	PUNCT	_	10	punct
+9	me	_	PRON	PRON	_	10	iobj
+10	siento	_	VERB	VERB	_	3	parataxis
+11	como	_	ADP	ADP	_	13	case
+12	un	_	DET	DET	_	13	det
+13	pendejo	_	NOUN	NOUN	_	10	nmod
+14	"	_	PUNCT	PUNCT	_	10	punct
+15	-	_	PUNCT	PUNCT	_	17	punct
+16	http://t.co/krDb0BY0Qz	_	PROPN	PROPN	_	17	name
+17	http://t.co/5c81sGTXgO	_	PROPN	PROPN	_	13	appos
+18	vía	_	ADP	ADP	_	19	case
+19	@Google	_	PROPN	PROPN	_	17	nmod
+

@@ -1,0 +1,21 @@
+1	Larry	_	PROPN	PROPN	_	2	name
+2	Page	_	PROPN	PROPN	_	6	nsubj
+3	und	_	CONJ	CONJ	_	2	cc
+4	Sergey	_	PROPN	PROPN	_	5	name
+5	Brin	_	PROPN	PROPN	_	2	conj
+6	ließen	_	VERB	VERB	_	0	root
+7	das	_	DET	DET	_	8	det
+8	Unternehmen	_	NOUN	NOUN	_	6	nsubj
+9	unter	_	ADP	ADP	_	11	case
+10	diesem	_	PRON	PRON	_	11	det
+11	Namen	_	NOUN	NOUN	_	12	nmod
+12	registrieren	_	VERB	VERB	_	6	xcomp
+13	,	_	PUNCT	PUNCT	_	6	punct
+14	damit	_	SCONJ	SCONJ	_	17	mark
+15	der	_	DET	DET	_	16	det
+16	Scheck	_	NOUN	NOUN	_	17	nsubjpass
+17	eingelöst	_	VERB	VERB	_	12	advcl
+18	werden	_	AUX	AUX	_	17	auxpass
+19	konnte	_	AUX	AUX	_	17	aux
+20	.	_	PUNCT	PUNCT	_	6	punct
+

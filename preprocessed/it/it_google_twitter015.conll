@@ -1,0 +1,24 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	Ciò	_	PRON	PRON	_	10	dep
+3	che	_	PRON	PRON	_	4	nsubj
+4	farai	_	VERB	VERB	_	2	acl:relcl
+5	migliorerà	_	VERB	VERB	_	2	acl:relcl
+6	la	_	DET	DET	_	7	det
+7	situazione	_	NOUN	NOUN	_	5	dobj
+8	.	_	PUNCT	PUNCT	_	2	punct
+9	"	_	PUNCT	PUNCT	_	10	punct
+10	Trova	_	VERB	VERB	_	0	root
+11	la	_	DET	DET	_	12	det
+12	risposta	_	NOUN	NOUN	_	10	dobj
+13	alla	_	ADP	ADP	_	15	case
+14	tua	_	DET	DET	_	15	det
+15	domanda	_	NOUN	NOUN	_	12	nmod
+16	!	_	PUNCT	PUNCT	_	17	punct
+17	Scarica	_	NOUN	NOUN	_	2	appos
+18	l'app	_	NOUN	NOUN	_	17	compound
+19	dal	_	ADP	ADP	_	20	case
+20	play	_	NOUN	NOUN	_	17	nmod
+21	store	_	ADJ	ADJ	_	20	amod
+22	:	_	PUNCT	PUNCT	_	10	punct
+23	http://t.co/h7mSLAjhTW	_	NOUN	NOUN	_	20	conj
+

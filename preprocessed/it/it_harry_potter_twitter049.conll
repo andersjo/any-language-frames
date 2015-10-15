@@ -1,0 +1,24 @@
+1	Mangiare	_	VERB	VERB	_	0	root
+2	le	_	DET	DET	_	3	det
+3	caramelle	_	NOUN	NOUN	_	1	dobj
+4	al	_	ADP	ADP	_	5	case
+5	gusto	_	NOUN	NOUN	_	3	nmod
+6	più	_	ADV	ADV	_	7	advmod
+7	schifoso	_	ADJ	ADJ	_	5	amod
+8	di	_	ADP	ADP	_	9	case
+9	harry	_	PROPN	PROPN	_	7	nmod
+10	potter	_	PROPN	PROPN	_	9	name
+11	con	_	ADP	ADP	_	13	case
+12	mia	_	DET	DET	_	13	det:poss
+13	sorella	_	NOUN	NOUN	_	7	nmod
+14	e	_	CONJ	CONJ	_	1	cc
+15	ridere	_	VERB	VERB	_	1	conj
+16	come	_	ADV	ADV	_	15	advmod
+17	delle	_	ADP	ADP	_	18	case
+18	cretine	_	NOUN	NOUN	_	15	nmod
+19	,	_	PUNCT	PUNCT	_	18	punct
+20	cose	_	NOUN	NOUN	_	18	conj
+21	alle	_	ADP	ADP	_	23	case
+22	03:00	_	NUM	NUM	_	23	nummod
+23	a.m	_	NOUN	NOUN	_	20	nmod
+

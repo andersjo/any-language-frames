@@ -1,0 +1,12 @@
+1	Ronaldo	_	NOUN	NOUN	_	2	nsubj
+2	belönades	_	VERB	VERB	_	0	root
+3	under	_	ADP	ADP	_	4	case
+4	året	_	NOUN	NOUN	_	2	nmod
+5	med	_	ADP	ADP	_	8	case
+6	14	_	NUM	NUM	_	8	nummod
+7	individuella	_	ADJ	ADJ	_	8	amod
+8	priser	_	NOUN	NOUN	_	4	nmod
+9	och	_	CONJ	CONJ	_	8	cc
+10	utmärkelser	_	NOUN	NOUN	_	8	conj
+11	.	_	PUNCT	PUNCT	_	2	punct
+

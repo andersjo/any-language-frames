@@ -1,0 +1,26 @@
+1	Angelina	_	ADJ	ADJ	_	2	amod
+2	Jolie	_	NOUN	NOUN	_	0	root
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	född	_	ADJ	ADJ	_	5	amod
+5	Angelina	_	NOUN	NOUN	_	6	nmod:poss
+6	Jolie	_	NOUN	NOUN	_	7	nmod:poss
+7	Voight	_	NOUN	NOUN	_	2	conj
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	DCMG	_	NOUN	NOUN	_	7	conj
+10	,	_	PUNCT	PUNCT	_	2	punct
+11	den	_	DET	DET	_	13	det
+12	4	_	NUM	NUM	_	13	nummod
+13	juni	_	NOUN	NOUN	_	7	conj
+14	1975	_	NUM	NUM	_	13	nummod
+15	i	_	ADP	ADP	_	17	case
+16	Los	_	NOUN	NOUN	_	17	nmod:poss
+17	Angeles	_	NOUN	NOUN	_	14	nmod
+18	,	_	PUNCT	PUNCT	_	17	punct
+19	Kalifornien	_	NOUN	NOUN	_	17	conj
+20	,	_	PUNCT	PUNCT	_	17	punct
+21	är	_	AUX	AUX	_	24	cop
+22	en	_	DET	DET	_	24	det
+23	amerikansk	_	ADJ	ADJ	_	24	amod
+24	skådespelare	_	NOUN	NOUN	_	17	conj
+25	.	_	PUNCT	PUNCT	_	24	punct
+

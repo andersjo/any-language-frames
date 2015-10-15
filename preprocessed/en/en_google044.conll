@@ -1,0 +1,13 @@
+1	By	_	ADP	ADP	_	0	compound:prt
+2	January	_	PROPN	PROPN	_	9	nmod
+3	2014	_	NUM	NUM	_	2	nummod
+4	,	_	PUNCT	PUNCT	_	9	punct
+5	its	_	PRON	PRON	_	7	nmod:poss
+6	market	_	NOUN	NOUN	_	7	compound
+7	capitalization	_	NOUN	NOUN	_	9	nsubj
+8	had	_	AUX	AUX	_	9	aux
+9	grown	_	VERB	VERB	_	0	root
+10	to	_	PART	PART	_	11	mark
+11	$397bn	_	VERB	VERB	_	9	xcomp
+12	.	_	PUNCT	PUNCT	_	9	punct
+

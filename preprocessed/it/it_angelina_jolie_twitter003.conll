@@ -1,0 +1,22 @@
+1	@crisdfghjklz	_	PROPN	PROPN	_	4	nsubj
+2	:(((	_	PROPN	PROPN	_	1	name
+3	comunque	_	ADV	ADV	_	4	advmod
+4	cercati	_	VERB	VERB	_	0	root
+5	su	_	ADP	ADP	_	6	case
+6	google	_	NOUN	NOUN	_	4	nmod
+7	anche	_	ADV	ADV	_	8	advmod
+8	angelina	_	ADJ	ADJ	_	9	amod
+9	jolie	_	NOUN	NOUN	_	4	dobj
+10	con	_	ADP	ADP	_	12	case
+11	il	_	DET	DET	_	12	det
+12	suit	_	NOUN	NOUN	_	9	nmod
+13	che	_	PRON	PRON	_	14	nsubj
+14	scusa	_	VERB	VERB	_	12	acl:relcl
+15	non	_	ADV	ADV	_	17	neg
+16	mi	_	PRON	PRON	_	17	iobj
+17	viene	_	VERB	VERB	_	12	acl:relcl
+18	la	_	DET	DET	_	19	det
+19	parola	_	NOUN	NOUN	_	17	dobj
+20	in	_	ADP	ADP	_	21	case
+21	italiano	_	ADJ	ADJ	_	19	nmod
+

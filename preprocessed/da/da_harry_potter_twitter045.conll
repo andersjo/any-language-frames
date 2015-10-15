@@ -1,0 +1,22 @@
+1	Startede	_	VERB	VERB	_	0	root
+2	2015	_	NUM	NUM	_	1	dobj
+3	med	_	ADP	ADP	_	1	dep
+4	se	_	VERB	VERB	_	3	dep
+5	en	_	DET	DET	_	10	det
+6	Harry	_	NOUN	NOUN	_	10	dep
+7	Potter-film	_	NOUN	NOUN	_	10	dep
+8	og	_	CONJ	CONJ	_	10	dep
+9	en	_	DET	DET	_	10	det
+10	dokumentar	_	NOUN	NOUN	_	4	dobj
+11	om	_	ADP	ADP	_	12	case
+12	penisstørrelse	_	NOUN	NOUN	_	10	nmod
+13	.	_	PUNCT	PUNCT	_	1	punct
+14	Det	_	DET	DET	_	15	det
+15	blir	_	NOUN	NOUN	_	18	nsubj
+16	et	_	DET	DET	_	18	det
+17	godt	_	ADJ	ADJ	_	18	amod
+18	år	_	NOUN	NOUN	_	20	dep
+19	.	_	PUNCT	PUNCT	_	1	punct
+20	Godt	_	ADJ	ADJ	_	21	amod
+21	nytår	_	NOUN	NOUN	_	7	conj
+

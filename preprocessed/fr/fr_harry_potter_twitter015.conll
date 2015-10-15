@@ -1,0 +1,22 @@
+1	“	_	PROPN	PROPN	_	2	name
+2	@lxrnv	_	PROPN	PROPN	_	8	nsubj
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	“	_	PROPN	PROPN	_	5	name
+5	@ThibObey	_	PROPN	PROPN	_	2	appos
+6	:	_	PUNCT	PUNCT	_	5	punct
+7	Je	_	PRON	PRON	_	8	nsubj
+8	verrais	_	VERB	VERB	_	0	root
+9	plus	_	ADV	ADV	_	10	advmod
+10	jamais	_	ADV	ADV	_	8	advmod
+11	Harry	_	PROPN	PROPN	_	12	name
+12	Potter	_	PROPN	PROPN	_	8	dobj
+13	normalement	_	ADV	ADV	_	15	case
+14	après	_	ADP	ADP	_	15	case
+15	ça	_	PRON	PRON	_	8	nmod
+16	MDRRRRR	_	PROPN	PROPN	_	21	name
+17	http://t.co/WNT6nySWyf	_	PROPN	PROPN	_	21	name
+18	”	_	PROPN	PROPN	_	21	name
+19	PTDRRR	_	PROPN	PROPN	_	21	name
+20	@meissa_sanchez	_	PROPN	PROPN	_	21	name
+21	😂	_	PROPN	PROPN	_	12	conj
+

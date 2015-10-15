@@ -1,0 +1,19 @@
+1	Anna	_	PROPN	PROPN	_	11	nsubj
+2	Wintour	_	PROPN	PROPN	_	1	name
+3	inaugurates	_	PROPN	PROPN	_	1	name
+4	Oscar	_	PROPN	PROPN	_	1	name
+5	de	_	ADP	ADP	_	7	case
+6	la	_	DET	DET	_	7	det
+7	Renta	_	PROPN	PROPN	_	1	conj
+8	Tennis	_	PROPN	PROPN	_	7	name
+9	Center	_	PROPN	PROPN	_	7	name
+10	:	_	PUNCT	PUNCT	_	7	punct
+11	Vogue	_	VERB	VERB	_	0	root
+12	Editor-in-Chief	_	PROPN	PROPN	_	11	nsubj
+13	Anna	_	PROPN	PROPN	_	12	name
+14	Winto	_	PROPN	PROPN	_	12	name
+15	...	_	PUNCT	PUNCT	_	12	punct
+16	http://t.co/dFvQ8YE6f9	_	NOUN	NOUN	_	12	appos
+17	#Tennis	_	PROPN	PROPN	_	16	nmod
+18	#GenieArmy	_	PROPN	PROPN	_	17	name
+

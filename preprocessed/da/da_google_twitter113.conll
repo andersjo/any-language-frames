@@ -1,0 +1,13 @@
+1	#NHL	_	ADJ	ADJ	_	2	amod
+2	#TBLightning	_	NOUN	NOUN	_	3	dep
+3	Steven	_	PROPN	PROPN	_	5	nmod:poss
+4	Stamkos	_	PROPN	PROPN	_	3	name
+5	nets	_	NOUN	NOUN	_	6	nmod:poss
+6	winner	_	NOUN	NOUN	_	0	root
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	Lightning	_	NOUN	NOUN	_	9	nmod:poss
+9	down	_	NOUN	NOUN	_	12	nmod:poss
+10	Senators	_	ADV	ADV	_	11	advmod
+11	http://t.co/NBxO3mR1G1	_	ADJ	ADJ	_	12	amod
+12	http://t.co/rngofBJ3OK	_	NOUN	NOUN	_	6	conj
+

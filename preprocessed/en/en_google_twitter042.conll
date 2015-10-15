@@ -1,0 +1,19 @@
+1	AQR	_	PROPN	PROPN	_	2	nsubj
+2	gives	_	VERB	VERB	_	0	root
+3	London	_	PROPN	PROPN	_	5	compound
+4	Business	_	PROPN	PROPN	_	5	compound
+5	School	_	PROPN	PROPN	_	6	compound
+6	£10m	_	NOUN	NOUN	_	2	dobj
+7	to	_	PART	PART	_	8	mark
+8	build	_	VERB	VERB	_	6	acl
+9	'	_	PUNCT	PUNCT	_	12	punct
+10	Davos	_	NOUN	NOUN	_	8	dobj
+11	of	_	ADP	ADP	_	8	compound:prt
+12	finance	_	NOUN	NOUN	_	10	nmod
+13	'	_	PUNCT	PUNCT	_	12	punct
+14	-	_	PUNCT	PUNCT	_	18	punct
+15	Financial	_	PROPN	PROPN	_	16	compound
+16	Times	_	PROPN	PROPN	_	18	compound
+17	http://t.co/gYs3vleJv2	_	X	X	_	18	goeswith
+18	#finance	_	NOUN	NOUN	_	2	parataxis
+

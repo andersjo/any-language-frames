@@ -1,0 +1,19 @@
+1	Βρήκα	_	VERB	VERB	_	0	root
+2	τον	_	ADJ	ADJ	_	3	det
+3	Σίριο	_	NOUN	NOUN	_	1	dobj
+4	Μπλακ	_	NOUN	NOUN	_	3	nmod
+5	με	_	ADP	ADP	_	7	case
+6	φακούς	_	ADJ	ADJ	_	7	amod
+7	επαφής	_	NOUN	NOUN	_	4	nmod
+8	!	_	PUNCT	PUNCT	_	7	punct
+9	😱	_	NOUN	NOUN	_	10	nmod
+10	#harry	_	NOUN	NOUN	_	7	appos
+11	#potter	_	NOUN	NOUN	_	10	nmod
+12	#reference	_	NOUN	NOUN	_	11	nmod
+13	#sirius	_	NOUN	NOUN	_	12	nmod
+14	#black	_	NOUN	NOUN	_	13	nmod
+15	#blue	_	NOUN	NOUN	_	14	nmod
+16	#eyed	_	NOUN	NOUN	_	15	nmod
+17	#dog	_	NOUN	NOUN	_	16	nmod
+18	http://t.co/Gy2PoITrGt	_	NOUN	NOUN	_	17	nmod
+

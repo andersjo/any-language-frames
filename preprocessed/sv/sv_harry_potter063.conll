@@ -1,0 +1,19 @@
+1	Den	_	DET	DET	_	3	det
+2	första	_	ADJ	ADJ	_	3	det
+3	filmen	_	NOUN	NOUN	_	0	root
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	som	_	PRON	PRON	_	10	nsubj
+6	var	_	AUX	AUX	_	10	cop
+7	en	_	DET	DET	_	10	det
+8	relativt	_	ADV	ADV	_	9	advmod
+9	trogen	_	ADJ	ADJ	_	10	amod
+10	filmatisering	_	NOUN	NOUN	_	3	acl:relcl
+11	av	_	ADP	ADP	_	14	case
+12	den	_	DET	DET	_	14	det
+13	första	_	ADJ	ADJ	_	14	det
+14	boken	_	NOUN	NOUN	_	10	nmod
+15	,	_	PUNCT	PUNCT	_	10	punct
+16	kom	_	VERB	VERB	_	10	acl
+17	2001	_	NUM	NUM	_	16	nummod
+18	.	_	PUNCT	PUNCT	_	16	punct
+

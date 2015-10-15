@@ -1,0 +1,20 @@
+1	#Entertainment	_	PROPN	PROPN	_	0	root
+2	#News	_	PROPN	PROPN	_	1	name
+3	ANGELINA	_	PROPN	PROPN	_	1	name
+4	JOLIE	_	PROPN	PROPN	_	1	name
+5	-	_	PUNCT	PUNCT	_	1	punct
+6	8	_	NUM	NUM	_	7	nummod
+7	x	_	SYM	SYM	_	3	punct
+8	10	_	NUM	NUM	_	6	compound
+9	-	_	PUNCT	PUNCT	_	8	punct
+10	LARA	_	PROPN	PROPN	_	1	conj
+11	CROFT	_	PROPN	PROPN	_	10	name
+12	TOMB	_	PROPN	PROPN	_	10	name
+13	RAIDER	_	PROPN	PROPN	_	10	name
+14	-	_	PUNCT	PUNCT	_	10	punct
+15	in	_	ADP	ADP	_	16	case
+16	Person	_	NOUN	NOUN	_	10	nmod
+17	http://t.co/XcBFBt2PBd	_	ADJ	ADJ	_	16	amod
+18	#AngelinaJolie	_	ADJ	ADJ	_	19	amod
+19	#Fans	_	NOUN	NOUN	_	16	nmod
+

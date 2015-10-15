@@ -1,0 +1,17 @@
+1	Giocatore	_	NOUN	NOUN	_	5	nmod
+2	polivalente	_	ADJ	ADJ	_	1	amod
+3	,	_	PUNCT	PUNCT	_	1	punct
+4	si	_	PRON	PRON	_	5	nsubj
+5	definisce	_	VERB	VERB	_	0	root
+6	un'ala	_	NOUN	NOUN	_	5	dobj
+7	,	_	PUNCT	PUNCT	_	5	punct
+8	ma	_	CONJ	CONJ	_	5	cc
+9	può	_	AUX	AUX	_	10	aux
+10	adattarsi	_	VERB	VERB	_	5	conj
+11	anche	_	ADV	ADV	_	13	advmod
+12	al	_	ADP	ADP	_	13	case
+13	ruolo	_	NOUN	NOUN	_	10	nmod
+14	di	_	ADP	ADP	_	15	case
+15	centravanti	_	NOUN	NOUN	_	13	nmod
+16	.	_	PUNCT	PUNCT	_	5	punct
+

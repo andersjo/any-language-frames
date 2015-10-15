@@ -1,0 +1,13 @@
+1	63	_	NUM	NUM	_	2	nummod
+2	jahre	_	NOUN	NOUN	_	3	nummod
+3	klimaveränderung	_	PROPN	PROPN	_	6	advmod
+4	in	_	ADP	ADP	_	6	case
+5	14	_	NUM	NUM	_	6	nummod
+6	sekunden	_	NOUN	NOUN	_	0	root
+7	!	_	PUNCT	PUNCT	_	6	punct
+8	ClimateCentral	_	PROPN	PROPN	_	6	appos
+9	:	_	PUNCT	PUNCT	_	8	punct
+10	http://t.co/q2YIZGoxCP	_	PROPN	PROPN	_	8	appos
+11	http://t.co/BsAp3VKWqB	_	PROPN	PROPN	_	12	name
+12	”	_	PROPN	PROPN	_	10	nmod
+

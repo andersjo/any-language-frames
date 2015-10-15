@@ -1,0 +1,12 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	the	_	DET	DET	_	4	det
+3	Austro-Hungarian	_	ADJ	ADJ	_	0	compound
+4	Empire	_	NOUN	NOUN	_	1	dobj
+5	alone	_	ADV	ADV	_	4	advmod
+6	,	_	PUNCT	PUNCT	_	8	punct
+7	there	_	ADV	ADV	_	8	expl
+8	were	_	VERB	VERB	_	4	parataxis
+9	300	_	NUM	NUM	_	10	nummod
+10	demonstrations	_	NOUN	NOUN	_	8	nsubj
+11	.	_	PUNCT	PUNCT	_	8	punct
+

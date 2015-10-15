@@ -1,0 +1,15 @@
+1	долара	_	NOUN	NOUN	_	3	nsubj
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	надминавайки	_	VERB	VERB	_	0	root
+4	22-те	_	ADJ	ADJ	_	5	amod
+5	части	_	NOUN	NOUN	_	3	nsubj
+6	на	_	ADP	ADP	_	7	case
+7	Джеймс	_	PROPN	PROPN	_	5	nmod
+8	Бонд	_	PROPN	PROPN	_	7	name
+9	и	_	CONJ	CONJ	_	7	cc
+10	шестте	_	NUM	NUM	_	5	conj
+11	на	_	ADP	ADP	_	13	case
+12	Междузвездни	_	ADJ	ADJ	_	13	amod
+13	войни	_	NOUN	NOUN	_	10	nmod
+14	.	_	PUNCT	PUNCT	_	3	punct
+

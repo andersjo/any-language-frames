@@ -1,0 +1,24 @@
+1	Écouter	_	PROPN	PROPN	_	3	name
+2	Harry	_	PROPN	PROPN	_	3	name
+3	Potter	_	PROPN	PROPN	_	5	name
+4	me	_	PRON	PRON	_	5	dobj
+5	rappel	_	NOUN	NOUN	_	12	nmod
+6	à	_	ADP	ADP	_	8	case
+7	quel	_	DET	DET	_	8	det
+8	point	_	NOUN	NOUN	_	5	nmod
+9	Robert	_	PROPN	PROPN	_	10	name
+10	pattinson	_	PROPN	PROPN	_	8	appos
+11	est	_	VERB	VERB	_	12	cop
+12	beau	_	ADJ	ADJ	_	19	advcl
+13	comme	_	ADP	ADP	_	15	case
+14	un	_	DET	DET	_	15	det
+15	dieu	_	NOUN	NOUN	_	12	nmod
+16	!	_	PUNCT	PUNCT	_	12	punct
+17	Sa	_	DET	DET	_	18	nmod:poss
+18	me	_	PRON	PRON	_	19	iobj
+19	donne	_	VERB	VERB	_	0	root
+20	envie	_	NOUN	NOUN	_	19	dobj
+21	d'écouter	_	VERB	VERB	_	20	acl
+22	twilight	_	PROPN	PROPN	_	23	name
+23	haha	_	PROPN	PROPN	_	21	dobj
+

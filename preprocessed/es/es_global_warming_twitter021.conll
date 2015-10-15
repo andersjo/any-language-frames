@@ -1,0 +1,17 @@
+1	La	_	DET	DET	_	2	det
+2	Artic	_	PROPN	PROPN	_	4	name
+3	Report	_	PROPN	PROPN	_	4	name
+4	Card	_	PROPN	PROPN	_	7	dobj
+5	ya	_	ADV	ADV	_	7	advmod
+6	ha	_	AUX	AUX	_	7	aux
+7	salido	_	NOUN	NOUN	_	12	nsubj
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	¿adivináis	_	X	X	_	12	nsubj
+10	qué	_	PRON	PRON	_	12	nsubj
+11	es	_	VERB	VERB	_	12	cop
+12	lo	_	PRON	PRON	_	0	root
+13	que	_	SCONJ	SCONJ	_	14	mark
+14	dice	_	VERB	VERB	_	12	acl:relcl
+15	?	_	PUNCT	PUNCT	_	12	punct
+16	http://t.co/mCKcDt1i9R	_	PROPN	PROPN	_	14	nsubj
+

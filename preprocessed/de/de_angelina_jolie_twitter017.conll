@@ -1,0 +1,16 @@
+1	Darum	_	ADV	ADV	_	2	advmod
+2	tat	_	VERB	VERB	_	0	root
+3	sie	_	PRON	PRON	_	2	nsubj
+4	sich	_	PRON	PRON	_	2	dobj
+5	das	_	PRON	PRON	_	2	dobj
+6	an	_	ADP	ADP	_	8	case
+7	–	_	PROPN	PROPN	_	8	name
+8	Runtergehungert	_	PROPN	PROPN	_	11	name
+9	:	_	PUNCT	PUNCT	_	2	punct
+10	Angelina	_	PROPN	PROPN	_	11	name
+11	Jolie	_	PROPN	PROPN	_	12	nsubj
+12	litt	_	VERB	VERB	_	5	acl
+13	für	_	ADP	ADP	_	15	case
+14	Unbroken	_	PROPN	PROPN	_	15	name
+15	http://t.co/gu37LHy7q7	_	PROPN	PROPN	_	12	nmod
+

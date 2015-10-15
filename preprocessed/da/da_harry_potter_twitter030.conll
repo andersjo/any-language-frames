@@ -1,0 +1,21 @@
+1	@Piskeriset	_	NOUN	NOUN	_	0	root
+2	Jeg	_	PRON	PRON	_	6	nsubj
+3	skal	_	AUX	AUX	_	6	aux
+4	totalt	_	ADV	ADV	_	6	advmod
+5	meget	_	ADV	ADV	_	6	advmod
+6	skrive	_	VERB	VERB	_	1	acl:relcl
+7	noget	_	PRON	PRON	_	6	dobj
+8	filmatiserbart	_	ADV	ADV	_	9	advmod
+9	næste	_	ADJ	ADJ	_	10	amod
+10	gang	_	NOUN	NOUN	_	6	dep
+11	!	_	PUNCT	PUNCT	_	6	punct
+12	Jeg	_	PRON	PRON	_	13	nsubj
+13	tænker	_	VERB	VERB	_	10	dep
+14	Harry	_	NOUN	NOUN	_	15	nmod:poss
+15	Potter	_	NOUN	NOUN	_	13	dobj
+16	møder	_	VERB	VERB	_	13	dep
+17	Twilight	_	PROPN	PROPN	_	16	nsubj
+18	eller	_	CONJ	CONJ	_	17	cc
+19	lign	_	NOUN	NOUN	_	17	conj
+20	...	_	PUNCT	PUNCT	_	16	punct
+

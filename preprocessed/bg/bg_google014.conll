@@ -1,0 +1,14 @@
+1	Чрез	_	ADP	ADP	_	4	case
+2	различните	_	ADJ	ADJ	_	4	amod
+3	си	_	PRON	PRON	_	2	case
+4	услуги	_	NOUN	NOUN	_	6	nsubj
+5	Google	_	PROPN	PROPN	_	4	nmod
+6	получава	_	VERB	VERB	_	0	root
+7	над	_	ADP	ADP	_	9	case
+8	200	_	NUM	NUM	_	9	nummod
+9	милиона	_	NOUN	NOUN	_	6	nmod
+10	заявки	_	NOUN	NOUN	_	9	nmod
+11	всеки	_	DET	DET	_	12	det
+12	ден	_	NOUN	NOUN	_	6	nmod
+13	.	_	PUNCT	PUNCT	_	6	punct
+

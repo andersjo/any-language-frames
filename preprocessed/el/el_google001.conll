@@ -1,0 +1,12 @@
+1	H	_	NOUN	NOUN	_	2	nmod
+2	Google	_	NOUN	NOUN	_	4	nsubj
+3	είναι	_	VERB	VERB	_	4	cop
+4	μια	_	ADJ	ADJ	_	0	root
+5	από	_	ADP	ADP	_	8	case
+6	τις	_	ADJ	ADJ	_	8	det
+7	μεγαλύτερες	_	ADJ	ADJ	_	8	amod
+8	εταιρείες	_	NOUN	NOUN	_	4	nmod
+9	διαδικτυακών	_	ADJ	ADJ	_	10	amod
+10	υπηρεσιών	_	NOUN	NOUN	_	8	nmod
+11	.	_	PUNCT	PUNCT	_	4	punct
+

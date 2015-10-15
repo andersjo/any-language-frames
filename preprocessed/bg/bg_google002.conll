@@ -1,0 +1,12 @@
+1	Google	_	PROPN	PROPN	_	3	nsubjpass
+2	е	_	AUX	AUX	_	3	aux
+3	базирана	_	VERB	VERB	_	0	root
+4	в	_	ADP	ADP	_	5	case
+5	град	_	NOUN	NOUN	_	3	iobj
+6	Маунтин	_	PROPN	PROPN	_	5	nmod
+7	Вю	_	PROPN	PROPN	_	6	nmod
+8	,	_	PUNCT	PUNCT	_	9	punct
+9	щат	_	NOUN	NOUN	_	5	conj
+10	Калифорния	_	PROPN	PROPN	_	9	nmod
+11	.	_	PUNCT	PUNCT	_	3	punct
+

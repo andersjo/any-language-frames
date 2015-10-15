@@ -1,0 +1,17 @@
+1	Googles	_	ADJ	ADJ	_	2	amod
+2	högkvarter	_	NOUN	NOUN	_	3	nsubjpass
+3	kallas	_	VERB	VERB	_	0	root
+4	för	_	ADP	ADP	_	5	case
+5	Googleplex	_	PROPN	PROPN	_	3	nmod
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	som	_	PRON	PRON	_	9	nsubj
+8	har	_	AUX	AUX	_	9	aux
+9	utsmyckats	_	VERB	VERB	_	5	acl:relcl
+10	med	_	ADP	ADP	_	9	compound:prt
+11	bland	_	ADP	ADP	_	13	case
+12	annat	_	ADJ	ADJ	_	13	det
+13	piano	_	NOUN	NOUN	_	9	nmod
+14	och	_	CONJ	CONJ	_	13	cc
+15	lavalampor	_	NOUN	NOUN	_	13	conj
+16	.	_	PUNCT	PUNCT	_	3	punct
+

@@ -1,0 +1,8 @@
+1	Harry	_	ADJ	ADJ	_	2	amod
+2	Potter-entusiasten	_	NOUN	NOUN	_	4	nsubj
+3	inom	_	ADP	ADP	_	2	case
+4	väcktes	_	VERB	VERB	_	0	root
+5	till	_	ADP	ADP	_	6	case
+6	liv	_	NOUN	NOUN	_	4	nmod
+7	!	_	PUNCT	PUNCT	_	4	punct
+

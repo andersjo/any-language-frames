@@ -1,0 +1,15 @@
+1	google	_	PROPN	PROPN	_	3	name
+2	suggest	_	PROPN	PROPN	_	3	name
+3	aka	_	PROPN	PROPN	_	7	nsubj
+4	le	_	DET	DET	_	5	det
+5	plus	_	ADV	ADV	_	6	advmod
+6	gros	_	ADJ	ADJ	_	3	amod
+7	spoiler	_	VERB	VERB	_	0	root
+8	de	_	ADP	ADP	_	9	case
+9	série	_	NOUN	NOUN	_	7	nmod
+10	de	_	ADP	ADP	_	13	case
+11	tous	_	DET	DET	_	13	det
+12	les	_	DET	DET	_	13	det
+13	temps	_	NOUN	NOUN	_	7	nmod
+14	.	_	PUNCT	PUNCT	_	7	punct
+

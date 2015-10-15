@@ -1,0 +1,24 @@
+1	Sus	_	DET	DET	_	2	nmod:poss
+2	películas	_	NOUN	NOUN	_	9	nsubj
+3	más	_	ADV	ADV	_	4	advmod
+4	exitosas	_	ADJ	ADJ	_	2	amod
+5	en	_	ADP	ADP	_	6	case
+6	términos	_	NOUN	NOUN	_	2	nmod
+7	comerciales	_	ADJ	ADJ	_	6	amod
+8	han	_	AUX	AUX	_	9	aux
+9	sido	_	VERB	VERB	_	12	cop
+10	:	_	PUNCT	PUNCT	_	9	punct
+11	"	_	PUNCT	PUNCT	_	12	punct
+12	Maléfica	_	PROPN	PROPN	_	0	root
+13	"	_	PUNCT	PUNCT	_	12	punct
+14	que	_	CONJ	CONJ	_	15	case
+15	ingreso	_	NOUN	NOUN	_	12	nmod
+16	$758	_	X	X	_	17	nummod
+17	millones	_	NOUN	NOUN	_	15	appos
+18	;	_	PUNCT	PUNCT	_	12	punct
+19	"	_	PUNCT	PUNCT	_	20	punct
+20	Sr.	_	X	X	_	15	appos
+21	y	_	CONJ	CONJ	_	20	cc
+22	Sra	_	NOUN	NOUN	_	15	conj
+23	.	_	PUNCT	PUNCT	_	9	punct
+

@@ -1,0 +1,10 @@
+1	Currently	_	NOUN	NOUN	_	0	root
+2	in	_	X	X	_	1	appos
+3	Harry	_	PROPN	PROPN	_	4	nmod:poss
+4	Potter	_	NOUN	NOUN	_	2	nmod:poss
+5	World	_	PROPN	PROPN	_	4	appos
+6	LOSING	_	PROPN	PROPN	_	5	name
+7	MY	_	PROPN	PROPN	_	5	name
+8	MIND	_	PROPN	PROPN	_	5	name
+9	AHDKFNAHSKFNSJDNCOEURBZ	_	PROPN	PROPN	_	5	name
+

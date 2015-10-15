@@ -1,0 +1,16 @@
+1	Foto	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	angel-fxce	_	NOUN	NOUN	_	1	dep
+4	:	_	PUNCT	PUNCT	_	1	punct
+5	80s-90s-supermodels	_	NOUN	NOUN	_	1	dep
+6	:	_	PUNCT	PUNCT	_	5	punct
+7	19	_	NUM	NUM	_	8	nummod
+8	year	_	NOUN	NOUN	_	9	dep
+9	old	_	ADJ	ADJ	_	10	amod
+10	Angelina	_	PROPN	PROPN	_	1	list
+11	Jolie	_	NOUN	NOUN	_	10	dep
+12	,	_	PUNCT	PUNCT	_	5	punct
+13	1994	_	NUM	NUM	_	14	nummod
+14	💜	_	NOUN	NOUN	_	15	dep
+15	http://t.co/HSbAT9PCHE	_	PROPN	PROPN	_	1	list
+

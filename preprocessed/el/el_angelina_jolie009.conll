@@ -1,0 +1,10 @@
+1	Παράλληλα	_	ADV	ADV	_	5	advmod
+2	με	_	ADP	ADP	_	4	case
+3	το	_	ADJ	ADJ	_	4	det
+4	σχολείο	_	NOUN	NOUN	_	1	nmod
+5	εργάστηκε	_	VERB	VERB	_	0	root
+6	σε	_	ADP	ADP	_	8	case
+7	διάφορες	_	ADJ	ADJ	_	8	amod
+8	παραγωγές	_	NOUN	NOUN	_	5	nmod
+9	.	_	PUNCT	PUNCT	_	5	punct
+

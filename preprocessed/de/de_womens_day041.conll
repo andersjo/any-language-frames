@@ -1,0 +1,17 @@
+1	November	_	PROPN	PROPN	_	3	dep
+2	1918	_	NUM	NUM	_	1	nmod
+3	schien	_	VERB	VERB	_	0	root
+4	es	_	PRON	PRON	_	3	expl
+5	dann	_	ADV	ADV	_	3	advmod
+6	so	_	ADV	ADV	_	3	advmod
+7	,	_	PUNCT	PUNCT	_	3	punct
+8	als	_	CONJ	CONJ	_	3	cc
+9	wenn	_	SCONJ	SCONJ	_	12	mark
+10	der	_	DET	DET	_	11	det
+11	Frauentag	_	NOUN	NOUN	_	12	nsubj
+12	aufhören	_	VERB	VERB	_	3	advcl
+13	könnte	_	AUX	AUX	_	12	aux
+14	zu	_	PART	PART	_	15	aux
+15	existieren	_	VERB	VERB	_	12	xcomp
+16	.	_	PUNCT	PUNCT	_	3	punct
+

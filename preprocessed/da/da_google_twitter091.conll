@@ -1,0 +1,9 @@
+1	ÆSOP’S	_	PROPN	PROPN	_	2	nsubj
+2	FABLES	_	VERB	VERB	_	0	root
+3	+	_	ADJ	ADJ	_	4	amod
+4	GOOGLE	_	NOUN	NOUN	_	2	dobj
+5	FONTS	_	NOUN	NOUN	_	2	dobj
+6	=	_	SYM	SYM	_	5	cc
+7	AWESOMENESS	_	X	X	_	5	conj
+8	http://t.co/QKblK2V8Mc	_	NOUN	NOUN	_	5	conj
+

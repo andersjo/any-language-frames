@@ -1,0 +1,23 @@
+1	A	_	ADP	ADP	_	4	case
+2	los	_	DET	DET	_	4	det
+3	16	_	NUM	NUM	_	4	nummod
+4	años	_	NOUN	NOUN	_	7	nmod
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	Jolie	_	PROPN	PROPN	_	7	nsubj
+7	regresó	_	VERB	VERB	_	0	root
+8	al	_	ADP	ADP	_	9	case
+9	teatro	_	NOUN	NOUN	_	7	nmod
+10	y	_	CONJ	CONJ	_	7	cc
+11	desempeñó	_	VERB	VERB	_	7	conj
+12	su	_	DET	DET	_	14	nmod:poss
+13	primer	_	NUM	NUM	_	14	nummod
+14	papel	_	NOUN	NOUN	_	11	dobj
+15	como	_	ADP	ADP	_	17	case
+16	una	_	DET	DET	_	17	det
+17	alemana	_	NOUN	NOUN	_	14	nmod
+18	en	_	ADP	ADP	_	20	case
+19	"	_	PUNCT	PUNCT	_	20	punct
+20	Dominatrix	_	PROPN	PROPN	_	17	nmod
+21	"	_	PUNCT	PUNCT	_	20	punct
+22	.	_	PUNCT	PUNCT	_	7	punct
+

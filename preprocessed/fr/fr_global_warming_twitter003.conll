@@ -1,0 +1,20 @@
+1	Selon	_	ADP	ADP	_	3	case
+2	@TIME	_	ADJ	ADJ	_	3	amod
+3	l'expression	_	NOUN	NOUN	_	10	nmod
+4	"	_	PUNCT	PUNCT	_	6	punct
+5	Global	_	PROPN	PROPN	_	6	name
+6	weirding	_	PROPN	PROPN	_	3	appos
+7	"	_	PUNCT	PUNCT	_	6	punct
+8	pourrait	_	AUX	AUX	_	10	aux
+9	se	_	PRON	PRON	_	10	dobj
+10	substituer	_	VERB	VERB	_	0	root
+11	à	_	ADP	ADP	_	12	case
+12	celle	_	PRON	PRON	_	10	nmod
+13	de	_	ADP	ADP	_	16	case
+14	"	_	PUNCT	PUNCT	_	16	punct
+15	Global	_	PROPN	PROPN	_	16	name
+16	warming	_	PROPN	PROPN	_	12	nmod
+17	"	_	PUNCT	PUNCT	_	16	punct
+18	#climatechange	_	NOUN	NOUN	_	16	appos
+19	#COP21	_	PROPN	PROPN	_	18	appos
+

@@ -1,0 +1,18 @@
+1	Για	_	ADP	ADP	_	2	case
+2	παράδειγμα	_	NOUN	NOUN	_	8	nmod
+3	,	_	PUNCT	PUNCT	_	6	punct
+4	σε	_	ADP	ADP	_	6	case
+5	μεταγενέστερα	_	ADJ	ADJ	_	6	amod
+6	βιβλία	_	NOUN	NOUN	_	2	nmod
+7	,	_	PUNCT	PUNCT	_	8	punct
+8	διαπραγματεύονται	_	VERB	VERB	_	0	root
+9	οι	_	ADJ	ADJ	_	10	det
+10	σχέσεις	_	NOUN	NOUN	_	8	nsubj
+11	ως	_	ADV	ADV	_	12	case
+12	ζήτημα	_	NOUN	NOUN	_	10	nmod
+13	της	_	ADJ	ADJ	_	14	det
+14	ζωής	_	NOUN	NOUN	_	12	nmod
+15	ενός	_	ADJ	ADJ	_	16	det
+16	εφήβου	_	NOUN	NOUN	_	14	nmod
+17	.	_	PUNCT	PUNCT	_	8	punct
+

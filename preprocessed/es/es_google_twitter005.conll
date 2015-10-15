@@ -1,0 +1,14 @@
+1	Ok	_	PROPN	PROPN	_	3	name
+2	Google	_	PROPN	PROPN	_	3	name
+3	Now	_	PROPN	PROPN	_	0	root
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	haceme	_	PROPN	PROPN	_	1	appos
+6	milanesas	_	ADJ	ADJ	_	5	amod
+7	a	_	ADP	ADP	_	9	case
+8	la	_	DET	DET	_	9	det
+9	napolitana	_	ADJ	ADJ	_	6	conj
+10	con	_	ADP	ADP	_	11	case
+11	papas	_	NOUN	NOUN	_	9	nmod
+12	fritas	_	ADJ	ADJ	_	11	amod
+13	.	_	PUNCT	PUNCT	_	6	punct
+

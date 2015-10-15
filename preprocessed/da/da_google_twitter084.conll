@@ -1,0 +1,11 @@
+1	Olympus	_	PROPN	PROPN	_	3	nmod:poss
+2	OM-D	_	ADJ	ADJ	_	3	amod
+3	E-M5	_	NOUN	NOUN	_	0	root
+4	for	_	ADP	ADP	_	5	case
+5	$599	_	NOUN	NOUN	_	7	nmod:poss
+6	–	_	ADJ	ADJ	_	7	amod
+7	Deal	_	NOUN	NOUN	_	9	nmod:poss
+8	Alert	_	ADJ	ADJ	_	9	amod
+9	#photography	_	NOUN	NOUN	_	10	dep
+10	http://t.co/hAZRrAsJb0	_	X	X	_	1	list
+

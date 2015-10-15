@@ -1,0 +1,8 @@
+1	2003-2006	_	NUM	NUM	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Jeune	_	ADJ	ADJ	_	4	amod
+4	espoir	_	NOUN	NOUN	_	1	appos
+5	en	_	ADP	ADP	_	6	case
+6	Angleterre	_	PROPN	PROPN	_	4	nmod
+7	.	_	PUNCT	PUNCT	_	4	punct
+

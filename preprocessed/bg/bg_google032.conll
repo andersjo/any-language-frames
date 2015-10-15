@@ -1,0 +1,21 @@
+1	Google	_	PROPN	PROPN	_	3	nsubj
+2	Карти	_	PROPN	PROPN	_	1	nmod
+3	е	_	VERB	VERB	_	0	root
+4	услуга	_	NOUN	NOUN	_	3	cop
+5	,	_	PUNCT	PUNCT	_	7	punct
+6	която	_	PRON	PRON	_	7	nsubj
+7	позволява	_	VERB	VERB	_	4	acl
+8	разглеждане	_	NOUN	NOUN	_	7	dobj
+9	на	_	ADP	ADP	_	10	case
+10	карти	_	NOUN	NOUN	_	8	nmod
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	намиране	_	NOUN	NOUN	_	8	conj
+13	на	_	ADP	ADP	_	14	case
+14	път	_	NOUN	NOUN	_	12	nmod
+15	между	_	ADP	ADP	_	17	case
+16	2	_	NUM	NUM	_	17	nummod
+17	точки	_	NOUN	NOUN	_	14	nmod
+18	и	_	CONJ	CONJ	_	10	cc
+19	др	_	NOUN	NOUN	_	10	conj
+20	.	_	PUNCT	PUNCT	_	3	punct
+

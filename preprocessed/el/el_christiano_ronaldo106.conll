@@ -1,0 +1,17 @@
+1	Αυτοβιογραφία	_	NOUN	NOUN	_	11	remnant
+2	του	_	ADJ	ADJ	_	3	det
+3	Ρονάλντο	_	NOUN	NOUN	_	1	nmod
+4	,	_	PUNCT	PUNCT	_	1	punct
+5	με	_	ADP	ADP	_	6	case
+6	τίτλο	_	NOUN	NOUN	_	1	nmod
+7	«	_	PUNCT	PUNCT	_	8	punct
+8	Moments	_	NOUN	NOUN	_	6	nmod
+9	»	_	PUNCT	PUNCT	_	8	punct
+10	,	_	PUNCT	PUNCT	_	11	punct
+11	δημοσιεύθηκε	_	VERB	VERB	_	0	root
+12	τον	_	ADJ	ADJ	_	13	det
+13	Δεκέμβριο	_	NOUN	NOUN	_	11	dobj
+14	του	_	ADJ	ADJ	_	15	det
+15	2007	_	NOUN	NOUN	_	13	nmod
+16	.	_	PUNCT	PUNCT	_	11	punct
+

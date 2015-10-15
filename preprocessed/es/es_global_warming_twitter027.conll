@@ -1,0 +1,23 @@
+1	El	_	DET	DET	_	2	det
+2	cuerpo	_	NOUN	NOUN	_	3	nsubj
+3	gasta	_	VERB	VERB	_	0	root
+4	mucha	_	DET	DET	_	5	det
+5	energía	_	NOUN	NOUN	_	3	dobj
+6	en	_	ADP	ADP	_	7	case
+7	mantener	_	VERB	VERB	_	5	advcl
+8	la	_	DET	DET	_	9	det
+9	temperatura	_	NOUN	NOUN	_	7	dobj
+10	corporal	_	ADJ	ADJ	_	9	amod
+11	,	_	PUNCT	PUNCT	_	12	punct
+12	algo	_	PRON	PRON	_	9	appos
+13	que	_	SCONJ	SCONJ	_	16	mark
+14	ya	_	ADV	ADV	_	16	advmod
+15	había	_	AUX	AUX	_	16	aux
+16	leido	_	VERB	VERB	_	12	acl:relcl
+17	en	_	ADP	ADP	_	19	case
+18	el	_	DET	DET	_	19	det
+19	libro	_	NOUN	NOUN	_	16	nmod
+20	de	_	ADP	ADP	_	22	case
+21	@johndurant	_	PROPN	PROPN	_	22	name
+22	http://t.co/aVRRBmAQPL	_	PROPN	PROPN	_	19	nmod
+

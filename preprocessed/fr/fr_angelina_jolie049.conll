@@ -1,0 +1,14 @@
+1	Le	_	DET	DET	_	2	det
+2	succès	_	NOUN	NOUN	_	5	nsubj
+3	du	_	ADP	ADP	_	4	case
+4	film	_	NOUN	NOUN	_	2	nmod
+5	n'étant	_	VERB	VERB	_	0	root
+6	pas	_	ADV	ADV	_	5	neg
+7	au	_	ADP	ADP	_	8	case
+8	rendez-vous	_	NOUN	NOUN	_	5	nmod
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	Angelina	_	PROPN	PROPN	_	12	nsubj
+11	se	_	PRON	PRON	_	12	dobj
+12	dit	_	VERB	VERB	_	5	parataxis
+13	.	_	PUNCT	PUNCT	_	12	punct
+

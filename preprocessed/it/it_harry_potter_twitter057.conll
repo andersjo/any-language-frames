@@ -1,0 +1,19 @@
+1	Credo	_	VERB	VERB	_	0	root
+2	che	_	SCONJ	SCONJ	_	9	mark
+3	le	_	DET	DET	_	4	det
+4	cose	_	NOUN	NOUN	_	9	nsubjpass
+5	che	_	PRON	PRON	_	9	nsubjpass
+6	mi	_	PRON	PRON	_	9	dobj
+7	hanno	_	AUX	AUX	_	9	aux
+8	più	_	ADV	ADV	_	9	advmod
+9	influenzato	_	VERB	VERB	_	1	ccomp
+10	nella	_	ADP	ADP	_	12	case
+11	mia	_	DET	DET	_	12	det:poss
+12	vita	_	NOUN	NOUN	_	9	nmod
+13	siano	_	AUX	AUX	_	14	aux
+14	state	_	VERB	VERB	_	1	ccomp
+15	Harry	_	PROPN	PROPN	_	14	nsubj
+16	Potter	_	PROPN	PROPN	_	15	name
+17	e	_	CONJ	CONJ	_	15	cc
+18	Mika	_	PROPN	PROPN	_	15	conj
+

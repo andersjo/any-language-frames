@@ -1,0 +1,15 @@
+1	Harry	_	PROPN	PROPN	_	2	name
+2	Potter	_	PROPN	PROPN	_	6	nsubjpass
+3	wird	_	AUX	AUX	_	6	auxpass
+4	gerade	_	ADV	ADV	_	5	advmod
+5	wieder	_	ADV	ADV	_	6	advmod
+6	gehypet	_	ADJ	ADJ	_	13	appos
+7	?	_	PUNCT	PUNCT	_	6	punct
+8	Mag	_	AUX	AUX	_	0	root
+9	es	_	PRON	PRON	_	13	nsubj
+10	schon	_	ADV	ADV	_	11	advmod
+11	immer	_	ADV	ADV	_	8	advmod
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	hi	_	PROPN	PROPN	_	11	appos
+14	.	_	PUNCT	PUNCT	_	6	punct
+

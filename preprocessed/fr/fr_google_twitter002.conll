@@ -1,0 +1,15 @@
+1	L'autre	_	PROPN	PROPN	_	2	name
+2	fdp	_	PROPN	PROPN	_	7	nsubj
+3	de	_	ADP	ADP	_	4	case
+4	Quentin	_	PROPN	PROPN	_	2	nmod
+5	il	_	PRON	PRON	_	7	nsubj
+6	a	_	AUX	AUX	_	7	aux
+7	utilisé	_	VERB	VERB	_	0	root
+8	Google	_	PROPN	PROPN	_	9	name
+9	trad	_	PROPN	PROPN	_	7	dobj
+10	il	_	PRON	PRON	_	12	nsubj
+11	se	_	PRON	PRON	_	13	dobj
+12	croit	_	VERB	VERB	_	13	cop
+13	intelligent	_	ADJ	ADJ	_	7	ccomp
+14	!!	_	PUNCT	PUNCT	_	7	punct
+

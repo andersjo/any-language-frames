@@ -1,0 +1,26 @@
+1	corpus	_	PROPN	PROPN	_	12	nsubj
+2	linguistics	_	PROPN	PROPN	_	1	nmod
+3	(набор	_	PROPN	PROPN	_	1	name
+4	от	_	ADP	ADP	_	6	case
+5	устойчиви	_	ADJ	ADJ	_	6	amod
+6	словосъчетания)	_	NOUN	NOUN	_	1	nmod
+7	,	_	PUNCT	PUNCT	_	12	punct
+8	при	_	ADP	ADP	_	9	case
+9	който	_	PRON	PRON	_	12	nmod
+10	програмата	_	NOUN	NOUN	_	12	nsubj
+11	"	_	PUNCT	PUNCT	_	12	punct
+12	учи	_	VERB	VERB	_	0	root
+13	"	_	PUNCT	PUNCT	_	12	punct
+14	от	_	ADP	ADP	_	15	case
+15	професионално	_	NOUN	NOUN	_	16	iobj
+16	преведени	_	VERB	VERB	_	12	ccomp
+17	документи	_	NOUN	NOUN	_	16	dobj
+18	,	_	PUNCT	PUNCT	_	12	punct
+19	предимно	_	ADV	ADV	_	21	advmod
+20	от	_	ADP	ADP	_	21	case
+21	ООН	_	PROPN	PROPN	_	17	nmod
+22	и	_	CONJ	CONJ	_	21	cc
+23	Европейския	_	ADJ	ADJ	_	24	amod
+24	парламент	_	NOUN	NOUN	_	21	conj
+25	.	_	PUNCT	PUNCT	_	12	punct
+

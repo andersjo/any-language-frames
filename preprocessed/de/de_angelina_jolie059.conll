@@ -1,0 +1,26 @@
+1	Vanessa	_	PROPN	PROPN	_	2	name
+2	Vance	_	PROPN	PROPN	_	5	nsubj
+3	von	_	ADP	ADP	_	4	case
+4	Reel.com	_	PROPN	PROPN	_	2	nmod
+5	schrieb	_	VERB	VERB	_	0	root
+6	:	_	PUNCT	PUNCT	_	5	punct
+7	„Angelina	_	PROPN	PROPN	_	8	name
+8	Jolie	_	PROPN	PROPN	_	9	nsubj
+9	erntete	_	VERB	VERB	_	5	parataxis
+10	große	_	ADJ	ADJ	_	11	amod
+11	Anerkennung	_	NOUN	NOUN	_	9	dobj
+12	für	_	ADP	ADP	_	14	case
+13	ihre	_	DET	DET	_	14	nmod:poss
+14	Rolle	_	NOUN	NOUN	_	11	nmod
+15	als	_	ADP	ADP	_	16	case
+16	Gia	_	PROPN	PROPN	_	14	nmod
+17	,	_	PUNCT	PUNCT	_	9	punct
+18	und	_	CONJ	CONJ	_	9	cc
+19	es	_	PRON	PRON	_	21	nsubj
+20	ist	_	VERB	VERB	_	21	cop
+21	leicht	_	ADJ	ADJ	_	23	advmod
+22	zu	_	PART	PART	_	23	aux
+23	verstehen	_	VERB	VERB	_	9	conj
+24	warum	_	ADV	ADV	_	23	advmod
+25	.	_	PUNCT	PUNCT	_	9	punct
+

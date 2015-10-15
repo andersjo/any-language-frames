@@ -1,0 +1,17 @@
+1	"	_	PUNCT	PUNCT	_	3	punct
+2	Harry	_	PROPN	PROPN	_	3	compound
+3	Potter	_	PROPN	PROPN	_	0	root
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	Medium	_	NOUN	NOUN	_	3	appos
+6	Good	_	ADJ	ADJ	_	0	punct
+7	At	_	ADP	ADP	_	5	compound
+8	School	_	PROPN	PROPN	_	3	parataxis
+9	AT	_	ADV	ADV	_	8	advmod
+10	BEST	_	ADJ	ADJ	_	0	punct
+11	"	_	PUNCT	PUNCT	_	3	punct
+12	-	_	PUNCT	PUNCT	_	3	punct
+13	upcoming	_	ADJ	ADJ	_	0	punct
+14	longread	_	NOUN	NOUN	_	5	conj
+15	from	_	ADP	ADP	_	14	compound
+16	@sdpowell1	_	X	X	_	14	appos
+

@@ -1,0 +1,18 @@
+1	Elle	_	PRON	PRON	_	4	nsubj
+2	est	_	VERB	VERB	_	4	cop
+3	une	_	DET	DET	_	4	det
+4	amie	_	NOUN	NOUN	_	0	root
+5	fidèle	_	ADJ	ADJ	_	4	amod
+6	du	_	ADP	ADP	_	9	case
+7	Dr	_	PROPN	PROPN	_	9	name
+8	Jane	_	PROPN	PROPN	_	9	name
+9	Goodall	_	PROPN	PROPN	_	4	nmod
+10	et	_	CONJ	CONJ	_	4	cc
+11	membre	_	NOUN	NOUN	_	4	conj
+12	de	_	ADP	ADP	_	13	case
+13	l'Institut	_	NOUN	NOUN	_	11	nmod
+14	Jane	_	PROPN	PROPN	_	16	name
+15	Goodall	_	PROPN	PROPN	_	16	name
+16	France	_	PROPN	PROPN	_	11	nmod
+17	.	_	PUNCT	PUNCT	_	4	punct
+

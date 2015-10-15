@@ -1,0 +1,19 @@
+1	En	_	ADP	ADP	_	2	case
+2	marzo	_	PROPN	PROPN	_	3	nmod
+3	adquiere	_	VERB	VERB	_	0	root
+4	Writely	_	PROPN	PROPN	_	3	dobj
+5	para	_	ADP	ADP	_	8	mark
+6	más	_	ADV	ADV	_	7	advmod
+7	tarde	_	ADV	ADV	_	8	advmod
+8	lanzar	_	VERB	VERB	_	3	advcl
+9	Google	_	PROPN	PROPN	_	10	name
+10	Docs	_	PROPN	PROPN	_	8	nsubj
+11	y	_	CONJ	CONJ	_	8	cc
+12	presenta	_	VERB	VERB	_	8	conj
+13	ese	_	DET	DET	_	15	det
+14	mismo	_	ADJ	ADJ	_	15	amod
+15	mes	_	NOUN	NOUN	_	12	dobj
+16	Google	_	PROPN	PROPN	_	17	name
+17	Finance	_	PROPN	PROPN	_	15	appos
+18	.	_	PUNCT	PUNCT	_	3	punct
+

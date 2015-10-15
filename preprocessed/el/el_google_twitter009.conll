@@ -1,0 +1,21 @@
+1	Συναυλία	_	NOUN	NOUN	_	0	root
+2	Imam	_	NOUN	NOUN	_	3	nmod
+3	Baildi	_	NOUN	NOUN	_	1	nmod
+4	.	_	PUNCT	PUNCT	_	1	punct
+5	Ψάξτε	_	NOUN	NOUN	_	1	conj
+6	τους	_	PRON	PRON	_	5	nmod
+7	στο	_	ADP	ADP	_	8	case
+8	google	_	NOUN	NOUN	_	5	nmod
+9	στα	_	ADP	ADP	_	10	case
+10	youtube	_	NOUN	NOUN	_	8	nmod
+11	.	_	PUNCT	PUNCT	_	1	punct
+12	Ακούστε	_	NOUN	NOUN	_	10	conj
+13	,	_	PUNCT	PUNCT	_	12	punct
+14	τρελλαθείτε	_	NOUN	NOUN	_	10	conj
+15	.	_	PUNCT	PUNCT	_	1	punct
+16	Ελάτε	_	NOUN	NOUN	_	14	nmod
+17	τώρα	_	ADV	ADV	_	18	advmod
+18	εδώ	_	ADV	ADV	_	16	advmod
+19	!	_	PUNCT	PUNCT	_	18	punct
+20	http://t.co/5V3VyBQEqn	_	NOUN	NOUN	_	16	remnant
+

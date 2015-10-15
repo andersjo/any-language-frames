@@ -1,0 +1,25 @@
+1	Nello	_	ADP	ADP	_	3	case
+2	stesso	_	ADJ	ADJ	_	3	amod
+3	anno	_	NOUN	NOUN	_	5	nmod
+4	è	_	VERB	VERB	_	5	cop
+5	protagonista	_	NOUN	NOUN	_	0	root
+6	di	_	ADP	ADP	_	8	case
+7	"	_	PUNCT	PUNCT	_	8	punct
+8	Beyond	_	PROPN	PROPN	_	5	nmod
+9	Borders	_	PROPN	PROPN	_	8	name
+10	-	_	PUNCT	PUNCT	_	8	punct
+11	Amore	_	PROPN	PROPN	_	8	nmod
+12	senza	_	ADP	ADP	_	13	case
+13	confini	_	NOUN	NOUN	_	8	nmod
+14	"	_	PUNCT	PUNCT	_	8	punct
+15	,	_	PUNCT	PUNCT	_	5	punct
+16	storia	_	NOUN	NOUN	_	8	appos
+17	d'amore	_	ADJ	ADJ	_	16	amod
+18	tra	_	ADP	ADP	_	20	case
+19	due	_	NUM	NUM	_	20	nummod
+20	operatori	_	NOUN	NOUN	_	16	nmod
+21	umanitari	_	ADJ	ADJ	_	20	amod
+22	in	_	ADP	ADP	_	23	case
+23	Africa	_	PROPN	PROPN	_	20	nmod
+24	.	_	PUNCT	PUNCT	_	5	punct
+

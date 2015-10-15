@@ -1,0 +1,21 @@
+1	På	_	ADP	ADP	_	4	case
+2	sin	_	DET	DET	_	4	det
+3	venstre	_	ADJ	ADJ	_	4	amod
+4	overarm	_	NOUN	NOUN	_	10	nsubj
+5	har	_	AUX	AUX	_	19	aux
+6	hun	_	PRON	PRON	_	10	nsubj
+7	fire	_	NUM	NUM	_	8	nummod
+8	sæt	_	NOUN	NOUN	_	9	dep
+9	geografiske	_	ADJ	ADJ	_	10	amod
+10	koordinatsystemer	_	NOUN	NOUN	_	19	nsubjpass
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	som	_	PART	PART	_	13	nsubj
+13	viser	_	VERB	VERB	_	10	dep
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	hvor	_	ADV	ADV	_	19	advmod
+16	hendes	_	DET	DET	_	17	det
+17	børn	_	NOUN	NOUN	_	19	nsubjpass
+18	er	_	AUX	AUX	_	19	auxpass
+19	født	_	VERB	VERB	_	0	root
+20	.	_	PUNCT	PUNCT	_	19	punct
+

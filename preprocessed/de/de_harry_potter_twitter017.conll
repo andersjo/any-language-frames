@@ -1,0 +1,27 @@
+1	@barbieloveslips	_	NOUN	NOUN	_	9	dobj
+2	ich	_	PRON	PRON	_	9	nsubj
+3	kann	_	AUX	AUX	_	9	aux
+4	mich	_	PRON	PRON	_	9	dobj
+5	mit	_	ADP	ADP	_	7	case
+6	Harry	_	PROPN	PROPN	_	7	name
+7	Potter	_	PROPN	PROPN	_	9	nmod
+8	nicht	_	PART	PART	_	9	neg
+9	anfreunden	_	VERB	VERB	_	11	advcl
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	tut	_	VERB	VERB	_	0	root
+12	mir	_	PRON	PRON	_	11	iobj
+13	leid	_	NOUN	NOUN	_	11	nsubj
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	aber	_	CONJ	CONJ	_	13	cc
+16	schön	_	ADV	ADV	_	21	advmod
+17	das	_	PRON	PRON	_	21	nsubj
+18	es	_	PRON	PRON	_	21	dobj
+19	dir	_	PROPN	PROPN	_	20	det
+20	Freude	_	NOUN	NOUN	_	21	dobj
+21	gemacht	_	VERB	VERB	_	13	acl
+22	.	_	PUNCT	PUNCT	_	11	punct
+23	Jedem	_	PRON	PRON	_	13	conj
+24	dem	_	DET	DET	_	26	det
+25	seins	_	PROPN	PROPN	_	26	amod
+26	😊	_	PROPN	PROPN	_	23	dep
+

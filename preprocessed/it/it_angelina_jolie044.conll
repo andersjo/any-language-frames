@@ -1,0 +1,21 @@
+1	Nonostante	_	ADP	ADP	_	2	case
+2	critiche	_	NOUN	NOUN	_	6	nmod
+3	negative	_	ADJ	ADJ	_	2	amod
+4	il	_	DET	DET	_	5	det
+5	film	_	NOUN	NOUN	_	6	nsubj
+6	diviene	_	VERB	VERB	_	0	root
+7	il	_	DET	DET	_	10	det
+8	suo	_	DET	DET	_	10	det:poss
+9	primo	_	ADJ	ADJ	_	10	amod
+10	successo	_	NOUN	NOUN	_	6	dobj
+11	a	_	ADP	ADP	_	12	case
+12	livello	_	NOUN	NOUN	_	10	nmod
+13	internazionale	_	ADJ	ADJ	_	12	amod
+14	incassando	_	VERB	VERB	_	12	acl
+15	oltre	_	ADP	ADP	_	17	case
+16	200	_	NUM	NUM	_	17	nummod
+17	milioni	_	NOUN	NOUN	_	14	nmod
+18	di	_	ADP	ADP	_	19	case
+19	dollari	_	NOUN	NOUN	_	17	nmod
+20	.	_	PUNCT	PUNCT	_	6	punct
+

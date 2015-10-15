@@ -1,0 +1,27 @@
+1	De	_	PRON	PRON	_	2	nsubj
+2	försökte	_	VERB	VERB	_	0	root
+3	bredda	_	ADJ	ADJ	_	5	det
+4	sina	_	DET	DET	_	5	nmod:poss
+5	tjänster	_	NOUN	NOUN	_	2	dobj
+6	,	_	PUNCT	PUNCT	_	2	punct
+7	vilket	_	PRON	PRON	_	8	nsubj
+8	ledde	_	VERB	VERB	_	5	acl:relcl
+9	till	_	ADP	ADP	_	10	case
+10	sidor	_	NOUN	NOUN	_	8	nmod
+11	som	_	PRON	PRON	_	12	nsubj
+12	tog	_	VERB	VERB	_	10	acl:relcl
+13	lång	_	ADJ	ADJ	_	14	amod
+14	tid	_	NOUN	NOUN	_	12	dobj
+15	att	_	PART	PART	_	16	mark
+16	ladda	_	VERB	VERB	_	14	acl
+17	och	_	CONJ	CONJ	_	16	cc
+18	där	_	ADV	ADV	_	21	advmod
+19	en	_	DET	DET	_	21	det
+20	stor	_	ADJ	ADJ	_	21	amod
+21	del	_	NOUN	NOUN	_	16	dobj
+22	av	_	ADP	ADP	_	23	case
+23	innehållet	_	NOUN	NOUN	_	21	nmod
+24	var	_	AUX	AUX	_	25	cop
+25	reklam	_	NOUN	NOUN	_	16	conj
+26	.	_	PUNCT	PUNCT	_	2	punct
+

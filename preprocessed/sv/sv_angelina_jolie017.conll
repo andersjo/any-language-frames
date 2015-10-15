@@ -1,0 +1,23 @@
+1	Föräldrarna	_	NOUN	NOUN	_	2	nsubj
+2	skildes	_	VERB	VERB	_	0	root
+3	1976	_	NUM	NUM	_	2	nummod
+4	och	_	CONJ	CONJ	_	3	cc
+5	Jolie	_	NOUN	NOUN	_	3	conj
+6	och	_	CONJ	CONJ	_	2	cc
+7	hennes	_	DET	DET	_	8	nmod:poss
+8	bror	_	NOUN	NOUN	_	9	nsubj
+9	levde	_	VERB	VERB	_	2	conj
+10	med	_	ADP	ADP	_	12	case
+11	sin	_	DET	DET	_	12	nmod:poss
+12	mor	_	NOUN	NOUN	_	9	nmod
+13	som	_	PRON	PRON	_	14	nsubj
+14	gav	_	VERB	VERB	_	12	acl:relcl
+15	upp	_	ADV	ADV	_	14	compound:prt
+16	sin	_	DET	DET	_	17	nmod:poss
+17	skådespelarkarriär	_	NOUN	NOUN	_	14	dobj
+18	för	_	ADP	ADP	_	20	case
+19	att	_	PART	PART	_	20	mark
+20	uppfostra	_	VERB	VERB	_	14	advcl
+21	barnen	_	NOUN	NOUN	_	20	dobj
+22	.	_	PUNCT	PUNCT	_	2	punct
+

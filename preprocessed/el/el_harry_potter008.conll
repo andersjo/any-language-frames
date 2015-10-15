@@ -1,0 +1,25 @@
+1	Τα	_	ADJ	ADJ	_	2	det
+2	βιβλία	_	NOUN	NOUN	_	9	nsubj
+3	της	_	ADJ	ADJ	_	4	det
+4	σειράς	_	NOUN	NOUN	_	2	nmod
+5	Χάρι	_	NOUN	NOUN	_	6	nmod
+6	Πότερ	_	NOUN	NOUN	_	4	nmod
+7	είναι	_	VERB	VERB	_	9	cop
+8	εξαιρετικά	_	ADV	ADV	_	9	advmod
+9	δημοφιλή	_	ADJ	ADJ	_	0	root
+10	με	_	ADP	ADP	_	11	case
+11	πωλήσεις	_	NOUN	NOUN	_	9	nmod
+12	που	_	PRON	PRON	_	9	nmod
+13	μέχρι	_	ADP	ADP	_	15	case
+14	τον	_	ADJ	ADJ	_	15	det
+15	Απρίλη	_	NOUN	NOUN	_	22	nmod
+16	του	_	ADJ	ADJ	_	18	det
+17	2008	_	NUM	NUM	_	18	nummod
+18	υπερβαίνουν	_	NOUN	NOUN	_	15	nmod
+19	τα	_	ADJ	ADJ	_	21	det
+20	375	_	NUM	NUM	_	21	nummod
+21	εκατομμύρια	_	NOUN	NOUN	_	22	nsubj
+22	αντίτυπα	_	VERB	VERB	_	11	acl:relcl
+23	παγκοσμίως	_	ADV	ADV	_	22	advmod
+24	.	_	PUNCT	PUNCT	_	22	punct
+

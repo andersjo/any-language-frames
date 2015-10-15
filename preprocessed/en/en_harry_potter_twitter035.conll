@@ -1,0 +1,16 @@
+1	I	_	PRON	PRON	_	3	nsubj
+2	always	_	ADV	ADV	_	3	advmod
+3	end	_	VERB	VERB	_	0	root
+4	up	_	ADV	ADV	_	3	advmod
+5	with	_	ADP	ADP	_	3	compound:prt
+6	an	_	DET	DET	_	7	det
+7	ocean	_	NOUN	NOUN	_	3	dobj
+8	of	_	ADP	ADP	_	3	compound:prt
+9	tears	_	NOUN	NOUN	_	7	nmod
+10	I	_	PRON	PRON	_	11	nsubj
+11	love	_	VERB	VERB	_	9	acl:relcl
+12	Harry	_	PROPN	PROPN	_	13	compound
+13	Potter	_	PROPN	PROPN	_	11	dobj
+14	so	_	ADV	ADV	_	15	advmod
+15	much	_	ADV	ADV	_	11	advmod
+

@@ -1,0 +1,16 @@
+1	Due	_	NUM	NUM	_	2	nummod
+2	anni	_	NOUN	NOUN	_	6	nmod
+3	più	_	ADV	ADV	_	4	advmod
+4	tardi	_	ADV	ADV	_	2	advmod
+5	,	_	PUNCT	PUNCT	_	2	punct
+6	tornò	_	VERB	VERB	_	0	root
+7	a	_	ADP	ADP	_	8	mark
+8	recitare	_	VERB	VERB	_	6	xcomp
+9	in	_	ADP	ADP	_	10	case
+10	teatro	_	NOUN	NOUN	_	8	nmod
+11	e	_	CONJ	CONJ	_	6	cc
+12	conseguì	_	VERB	VERB	_	8	conj
+13	il	_	DET	DET	_	14	det
+14	diploma	_	NOUN	NOUN	_	12	dobj
+15	.	_	PUNCT	PUNCT	_	6	punct
+

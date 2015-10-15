@@ -1,0 +1,21 @@
+1	To	_	NOUN	NOUN	_	5	nmod
+2	2006	_	NUM	NUM	_	1	nmod
+3	η	_	ADJ	ADJ	_	4	det
+4	Google	_	NOUN	NOUN	_	5	nsubj
+5	μετέφερε	_	VERB	VERB	_	0	root
+6	τα	_	ADJ	ADJ	_	9	det
+7	κεντρικά	_	ADJ	ADJ	_	5	dobj
+8	της	_	ADJ	ADJ	_	9	det
+9	γραφεία	_	NOUN	NOUN	_	7	nmod
+10	στο	_	ADP	ADP	_	11	case
+11	Μάουντεν	_	NOUN	NOUN	_	9	nmod
+12	Βιού	_	NOUN	NOUN	_	11	nmod
+13	της	_	ADJ	ADJ	_	14	det
+14	Καλιφόρνια	_	NOUN	NOUN	_	12	nmod
+15	,	_	PUNCT	PUNCT	_	18	punct
+16	τα	_	ADJ	ADJ	_	17	det
+17	οποία	_	PRON	PRON	_	18	nsubj
+18	ονομάζονται	_	VERB	VERB	_	11	acl:relcl
+19	Googleplex	_	NOUN	NOUN	_	18	dobj
+20	.	_	PUNCT	PUNCT	_	5	punct
+

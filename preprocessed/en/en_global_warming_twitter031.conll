@@ -1,0 +1,13 @@
+1	@MattBesler	_	NOUN	NOUN	_	4	compound
+2	if	_	ADP	ADP	_	1	compound
+3	that's	_	PROPN	PROPN	_	4	compound
+4	Everest	_	PROPN	PROPN	_	6	vocative
+5	,	_	PUNCT	PUNCT	_	1	punct
+6	then	_	ADV	ADV	_	11	advmod
+7	global	_	ADJ	ADJ	_	0	list
+8	warming	_	NOUN	NOUN	_	11	nsubj
+9	is	_	VERB	VERB	_	11	cop
+10	outta	_	ADJ	ADJ	_	0	foreign
+11	control	_	NOUN	NOUN	_	0	root
+12	.	_	PUNCT	PUNCT	_	11	punct
+

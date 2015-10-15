@@ -1,0 +1,20 @@
+1	Jolie	_	PROPN	PROPN	_	3	nsubj
+2	hat	_	AUX	AUX	_	3	aux
+3	deutsche	_	ADJ	ADJ	_	6	amod
+4	und	_	CONJ	CONJ	_	3	cc
+5	slowakische	_	ADJ	ADJ	_	3	conj
+6	Vorfahren	_	NOUN	NOUN	_	0	root
+7	väterlicherseits	_	ADV	ADV	_	6	advmod
+8	sowie	_	CONJ	CONJ	_	3	cc
+9	kanadische	_	ADJ	ADJ	_	3	conj
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	niederländische	_	ADJ	ADJ	_	9	conj
+12	,	_	PUNCT	PUNCT	_	9	punct
+13	deutsche	_	ADJ	ADJ	_	9	conj
+14	und	_	CONJ	CONJ	_	9	cc
+15	angeblich	_	ADJ	ADJ	_	9	conj
+16	irokesische	_	ADJ	ADJ	_	17	amod
+17	Vorfahren	_	NOUN	NOUN	_	6	conj
+18	mütterlicherseits	_	ADV	ADV	_	15	mark
+19	.	_	PUNCT	PUNCT	_	6	punct
+

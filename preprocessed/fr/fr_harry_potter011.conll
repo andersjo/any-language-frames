@@ -1,0 +1,20 @@
+1	Ils	_	PRON	PRON	_	2	nsubj
+2	habitent	_	VERB	VERB	_	0	root
+3	au	_	ADP	ADP	_	4	case
+4	4	_	NUM	NUM	_	2	nmod
+5	,	_	PUNCT	PUNCT	_	2	punct
+6	Privet	_	PROPN	PROPN	_	7	name
+7	Drive	_	PROPN	PROPN	_	2	nmod
+8	,	_	PUNCT	PUNCT	_	2	punct
+9	à	_	ADP	ADP	_	11	case
+10	Little	_	PROPN	PROPN	_	11	name
+11	Whinging	_	PROPN	PROPN	_	7	conj
+12	,	_	PUNCT	PUNCT	_	7	punct
+13	dans	_	ADP	ADP	_	15	case
+14	le	_	DET	DET	_	15	det
+15	Surrey	_	PROPN	PROPN	_	2	nmod
+16	,	_	PUNCT	PUNCT	_	7	punct
+17	en	_	ADP	ADP	_	18	case
+18	Angleterre	_	PROPN	PROPN	_	15	nmod
+19	.	_	PUNCT	PUNCT	_	2	punct
+

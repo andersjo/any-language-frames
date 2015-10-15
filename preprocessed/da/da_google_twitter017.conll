@@ -1,0 +1,9 @@
+1	Social	_	NOUN	NOUN	_	0	root
+2	Media	_	PROPN	PROPN	_	1	appos
+3	for	_	ADP	ADP	_	4	case
+4	Social	_	NOUN	NOUN	_	1	nmod
+5	Change	_	PROPN	PROPN	_	4	appos
+6	GNML	_	PROPN	PROPN	_	5	name
+7	http://t.co/NJ5TUAHK45	_	ADJ	ADJ	_	8	amod
+8	http://t.co/U12R63UZq4	_	NOUN	NOUN	_	4	nmod
+

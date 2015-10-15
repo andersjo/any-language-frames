@@ -1,0 +1,15 @@
+1	Voice	_	VERB	VERB	_	0	root
+2	A	_	DET	DET	_	10	det
+3	True	_	ADJ	ADJ	_	0	nsubjpass
+4	Gogetta	_	PROPN	PROPN	_	6	compound
+5	-	_	PUNCT	PUNCT	_	6	punct
+6	Music	_	PROPN	PROPN	_	1	dobj
+7	on	_	ADP	ADP	_	1	compound:prt
+8	Google	_	PROPN	PROPN	_	9	nsubj
+9	Play	_	VERB	VERB	_	4	parataxis
+10	http://t.co/1dJsQDdJyS	_	NOUN	NOUN	_	9	dobj
+11	Get	_	VERB	VERB	_	9	ccomp
+12	Your	_	PRON	PRON	_	14	nmod:poss
+13	Copy	_	NOUN	NOUN	_	14	compound
+14	Today659	_	NOUN	NOUN	_	11	dobj
+

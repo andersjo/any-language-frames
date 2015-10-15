@@ -1,0 +1,7 @@
+1	@pavel_urusov	_	NOUN	NOUN	_	0	root
+2	25	_	NUM	NUM	_	3	nummod
+3	аналогов	_	NOUN	NOUN	_	1	nmod
+4	Google	_	PROPN	PROPN	_	3	nmod
+5	reader	_	PROPN	PROPN	_	4	name
+6	http://t.co/q6E9hL9XxD	_	PROPN	PROPN	_	4	name
+

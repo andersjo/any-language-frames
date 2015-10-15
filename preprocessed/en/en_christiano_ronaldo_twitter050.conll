@@ -1,0 +1,11 @@
+1	I	_	PRON	PRON	_	3	nsubj
+2	just	_	ADV	ADV	_	3	advmod
+3	beat	_	VERB	VERB	_	0	root
+4	Christiano	_	PROPN	PROPN	_	5	compound
+5	Ronaldo	_	PROPN	PROPN	_	3	dobj
+6	in	_	ADP	ADP	_	3	compound:prt
+7	a	_	DET	DET	_	8	det
+8	race	_	NOUN	NOUN	_	3	nmod
+9	running	_	VERB	VERB	_	8	acl
+10	backwards	_	NOUN	NOUN	_	9	dobj
+

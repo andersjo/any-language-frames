@@ -1,0 +1,18 @@
+1	Nessuno	_	PRON	PRON	_	2	nsubj
+2	crede	_	VERB	VERB	_	0	root
+3	al	_	ADP	ADP	_	4	case
+4	ritorno	_	NOUN	NOUN	_	2	nmod
+5	di	_	ADP	ADP	_	6	case
+6	Voldemort	_	PROPN	PROPN	_	4	nmod
+7	,	_	PUNCT	PUNCT	_	2	punct
+8	e	_	CONJ	CONJ	_	6	cc
+9	Harry	_	PROPN	PROPN	_	6	conj
+10	e	_	CONJ	CONJ	_	6	cc
+11	Albus	_	PROPN	PROPN	_	6	conj
+12	Silente	_	PROPN	PROPN	_	11	name
+13	vengono	_	AUX	AUX	_	14	auxpass
+14	presi	_	VERB	VERB	_	2	conj
+15	per	_	ADP	ADP	_	16	case
+16	bugiardi	_	NOUN	NOUN	_	14	nmod
+17	.	_	PUNCT	PUNCT	_	2	punct
+

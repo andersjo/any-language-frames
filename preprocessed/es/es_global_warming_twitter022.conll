@@ -1,0 +1,18 @@
+1	@globovision	_	PROPN	PROPN	_	12	nsubj
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Las	_	DET	DET	_	4	det
+4	calles	_	NOUN	NOUN	_	1	appos
+5	y	_	CONJ	CONJ	_	4	cc
+6	el	_	DET	DET	_	7	det
+7	cielo	_	NOUN	NOUN	_	12	nsubj
+8	de	_	ADP	ADP	_	9	case
+9	Maracaibo	_	PROPN	PROPN	_	7	nmod
+10	se	_	PRON	PRON	_	11	iobj
+11	encuentran	_	VERB	VERB	_	12	cop
+12	cubiertos	_	ADJ	ADJ	_	0	root
+13	de	_	ADP	ADP	_	14	case
+14	polvo	_	NOUN	NOUN	_	12	nmod
+15	http://t.co/eJL33k6Oof	_	PROPN	PROPN	_	14	appos
+16	global	_	ADJ	ADJ	_	14	amod
+17	warming	_	PROPN	PROPN	_	12	nmod
+

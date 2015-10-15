@@ -1,0 +1,18 @@
+1	Fyra	_	NUM	NUM	_	2	nummod
+2	dagar	_	NOUN	NOUN	_	4	nmod
+3	senare	_	ADV	ADV	_	4	advmod
+4	avsattes	_	VERB	VERB	_	0	root
+5	tsaren	_	NOUN	NOUN	_	4	dobj
+6	och	_	CONJ	CONJ	_	5	cc
+7	en	_	DET	DET	_	9	det
+8	provisorisk	_	ADJ	ADJ	_	9	amod
+9	regering	_	NOUN	NOUN	_	5	conj
+10	tillsattes	_	VERB	VERB	_	4	conj
+11	som	_	PRON	PRON	_	10	nsubj
+12	kom	_	AUX	AUX	_	14	aux
+13	att	_	PART	PART	_	14	mark
+14	ge	_	VERB	VERB	_	10	xcomp
+15	kvinnor	_	NOUN	NOUN	_	14	iobj
+16	rösträtt	_	NOUN	NOUN	_	14	dobj
+17	.	_	PUNCT	PUNCT	_	10	punct
+

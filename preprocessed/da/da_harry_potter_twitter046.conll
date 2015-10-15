@@ -1,0 +1,7 @@
+1	@GALLYSCODE	_	NOUN	NOUN	_	0	root
+2	i	_	ADP	ADP	_	3	case
+3	lub	_	NOUN	NOUN	_	1	nmod
+4	harry	_	ADJ	ADJ	_	5	amod
+5	potter	_	NOUN	NOUN	_	3	nmod:poss
+6	skfnsk	_	ADJ	ADJ	_	5	amod
+

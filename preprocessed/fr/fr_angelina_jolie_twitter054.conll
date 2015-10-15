@@ -1,0 +1,8 @@
+1	Angélina	_	PROPN	PROPN	_	3	name
+2	Jolie	_	PROPN	PROPN	_	3	name
+3	c'est	_	PROPN	PROPN	_	6	cop
+4	tellement	_	ADV	ADV	_	6	advmod
+5	une	_	DET	DET	_	6	det
+6	femme	_	NOUN	NOUN	_	0	root
+7	parfaite	_	ADJ	ADJ	_	6	amod
+

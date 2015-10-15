@@ -1,0 +1,12 @@
+1	Uttrycket	_	NOUN	NOUN	_	2	nsubjpass
+2	används	_	VERB	VERB	_	0	root
+3	ofta	_	ADV	ADV	_	2	advmod
+4	som	_	CONJ	CONJ	_	6	mark
+5	en	_	DET	DET	_	6	det
+6	uppmaning	_	NOUN	NOUN	_	2	nmod
+7	att	_	PART	PART	_	8	mark
+8	söka	_	VERB	VERB	_	6	acl
+9	på	_	ADP	ADP	_	10	case
+10	Google	_	PROPN	PROPN	_	8	nmod
+11	.	_	PUNCT	PUNCT	_	2	punct
+

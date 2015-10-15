@@ -1,0 +1,24 @@
+1	TU	_	PRON	PRON	_	4	nsubj
+2	as	_	AUX	AUX	_	4	aux
+3	dejà	_	ADV	ADV	_	4	advmod
+4	eu	_	VERB	VERB	_	0	root
+5	un	_	DET	DET	_	6	det
+6	truc	_	NOUN	NOUN	_	4	dobj
+7	très	_	ADV	ADV	_	8	advmod
+8	précis	_	ADJ	ADJ	_	6	amod
+9	que	_	SCONJ	SCONJ	_	17	mark
+10	tu	_	PRON	PRON	_	11	nsubj
+11	cherches	_	NOUN	NOUN	_	6	conj
+12	et	_	CONJ	CONJ	_	11	cc
+13	sur	_	ADP	ADP	_	14	case
+14	Google	_	PROPN	PROPN	_	11	conj
+15	tu	_	PRON	PRON	_	17	nsubj
+16	ne	_	ADV	ADV	_	17	neg
+17	sais	_	VERB	VERB	_	11	conj
+18	pas	_	ADV	ADV	_	17	neg
+19	comment	_	ADV	ADV	_	21	advmod
+20	le	_	PRON	PRON	_	21	dobj
+21	formuler	_	VERB	VERB	_	4	advcl
+22	.?	_	PROPN	PROPN	_	23	name
+23	HUM	_	PROPN	PROPN	_	21	nsubj
+

@@ -1,0 +1,27 @@
+1	Τον	_	ADJ	ADJ	_	2	det
+2	Αύγουστο	_	NOUN	NOUN	_	10	nsubj
+3	της	_	ADJ	ADJ	_	5	det
+4	ίδιας	_	ADJ	ADJ	_	5	amod
+5	χρονιάς	_	NOUN	NOUN	_	2	nmod
+6	όμως	_	CONJ	CONJ	_	10	advmod
+7	,	_	PUNCT	PUNCT	_	10	punct
+8	η	_	ADJ	ADJ	_	9	det
+9	Αντζελίνα	_	NOUN	NOUN	_	10	nsubj
+10	δήλωσε	_	VERB	VERB	_	0	root
+11	πως	_	CONJ	CONJ	_	13	mark
+12	δεν	_	PART	PART	_	13	neg
+13	επιθυμεί	_	VERB	VERB	_	10	ccomp
+14	να	_	PART	PART	_	15	aux
+15	έχει	_	VERB	VERB	_	13	ccomp
+16	το	_	ADJ	ADJ	_	17	det
+17	επίθετο	_	NOUN	NOUN	_	15	dobj
+18	του	_	ADJ	ADJ	_	19	det
+19	πατέρα	_	NOUN	NOUN	_	17	nmod
+20	της	_	ADJ	ADJ	_	23	det
+21	ούτε	_	CONJ	CONJ	_	20	cc
+22	καμία	_	PRON	PRON	_	23	nmod
+23	σχέση	_	NOUN	NOUN	_	19	nmod
+24	μαζί	_	ADV	ADV	_	25	advmod
+25	του	_	ADJ	ADJ	_	23	remnant
+26	.	_	PUNCT	PUNCT	_	10	punct
+

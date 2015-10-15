@@ -1,0 +1,22 @@
+1	@pn_antilogias	_	NOUN	NOUN	_	0	root
+2	Και	_	CONJ	CONJ	_	12	mark
+3	όμως	_	CONJ	CONJ	_	2	cc
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	η	_	ADJ	ADJ	_	6	det
+6	επίδραση	_	NOUN	NOUN	_	12	nsubj
+7	του	_	ADJ	ADJ	_	8	det
+8	κρύου	_	NOUN	NOUN	_	6	nmod
+9	στην	_	ADP	ADP	_	10	case
+10	υγεία	_	NOUN	NOUN	_	6	nmod
+11	είναι	_	VERB	VERB	_	12	cop
+12	αντικείμενο	_	NOUN	NOUN	_	1	advcl
+13	(σοβαρής)	_	NOUN	NOUN	_	12	nmod
+14	μελέτης	_	NOUN	NOUN	_	12	nmod
+15	.	_	PUNCT	PUNCT	_	1	punct
+16	Δεν	_	PART	PART	_	17	neg
+17	είναι	_	VERB	VERB	_	20	cop
+18	τόσο	_	ADV	ADV	_	19	advmod
+19	απλό	_	ADJ	ADJ	_	20	amod
+20	:)	_	NOUN	NOUN	_	11	conj
+21	http://t.co/ckgxFWyBT2	_	NOUN	NOUN	_	20	nmod
+

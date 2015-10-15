@@ -1,0 +1,12 @@
+1	GOAL	_	NOUN	NOUN	_	7	nsubj
+2	for	_	ADP	ADP	_	3	case
+3	@LowestoftTownFC	_	NOUN	NOUN	_	1	nmod
+4	!	_	PUNCT	PUNCT	_	1	punct
+5	#ConfNorth	_	PROPN	PROPN	_	7	nsubj
+6	AFC	_	PROPN	PROPN	_	5	name
+7	Fylde	_	VERB	VERB	_	0	root
+8	3-1	_	NUM	NUM	_	9	nummod
+9	Lowestoft	_	PROPN	PROPN	_	7	dobj
+10	Town	_	PROPN	PROPN	_	9	name
+11	http://t.co/7pwQRY2SNT	_	NOUN	NOUN	_	7	nmod
+

@@ -1,0 +1,23 @@
+1	Το	_	ADJ	ADJ	_	3	det
+2	καινούργιο	_	ADJ	ADJ	_	3	amod
+3	κτίριο	_	NOUN	NOUN	_	16	nsubj
+4	που	_	PRON	PRON	_	5	nsubj
+5	παραδόθηκε	_	VERB	VERB	_	3	acl:relcl
+6	στην	_	ADP	ADP	_	7	case
+7	Google	_	NOUN	NOUN	_	5	nmod
+8	ειδικά	_	ADJ	ADJ	_	9	amod
+9	διαμορφωμένο	_	NOUN	NOUN	_	7	nmod
+10	για	_	ADP	ADP	_	12	case
+11	τις	_	ADJ	ADJ	_	12	det
+12	ανάγκες	_	NOUN	NOUN	_	9	nmod
+13	της	_	ADJ	ADJ	_	14	det
+14	εταιρείας	_	NOUN	NOUN	_	12	nmod
+15	,	_	PUNCT	PUNCT	_	16	punct
+16	βρίσκεται	_	VERB	VERB	_	0	root
+17	στο	_	ADP	ADP	_	18	case
+18	Mountain	_	NOUN	NOUN	_	16	nmod
+19	View	_	NOUN	NOUN	_	18	nmod
+20	της	_	ADJ	ADJ	_	21	det
+21	Καλιφόρνια	_	NOUN	NOUN	_	19	nmod
+22	.	_	PUNCT	PUNCT	_	16	punct
+

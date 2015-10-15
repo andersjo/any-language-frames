@@ -1,0 +1,23 @@
+1	@der_P82	_	PROPN	PROPN	_	2	name
+2	@JudithBrandner	_	PROPN	PROPN	_	3	det
+3	Regierung	_	NOUN	NOUN	_	4	nsubj
+4	macht	_	VERB	VERB	_	0	root
+5	immer	_	ADV	ADV	_	6	advmod
+6	kälter	_	ADJ	ADJ	_	8	amod
+7	&	_	PROPN	PROPN	_	8	name
+8	Lügenpresse	_	PROPN	PROPN	_	4	nsubj
+9	erzählt	_	VERB	VERB	_	4	xcomp
+10	v	_	PROPN	PROPN	_	9	nsubj
+11	.	_	PUNCT	PUNCT	_	10	punct
+12	Global	_	PROPN	PROPN	_	13	name
+13	Warming	_	PROPN	PROPN	_	10	appos
+14	!	_	PUNCT	PUNCT	_	4	punct
+15	Gegen	_	ADP	ADP	_	16	case
+16	d	_	PROPN	PROPN	_	9	nmod
+17	.	_	PUNCT	PUNCT	_	16	punct
+18	Auskühlung	_	PROPN	PROPN	_	19	name
+19	d	_	PROPN	PROPN	_	16	appos
+20	.	_	PUNCT	PUNCT	_	16	punct
+21	Abendlandes	_	PROPN	PROPN	_	22	name
+22	#schneegida	_	PROPN	PROPN	_	19	appos
+

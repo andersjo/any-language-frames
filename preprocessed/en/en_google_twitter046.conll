@@ -1,0 +1,14 @@
+1	Follow	_	VERB	VERB	_	0	root
+2	#NZvsSL	_	ADJ	ADJ	_	0	iobj
+3	#cricket	_	NOUN	NOUN	_	1	dobj
+4	on	_	ADP	ADP	_	1	compound:prt
+5	#android	_	NOUN	NOUN	_	1	dobj
+6	with	_	ADP	ADP	_	1	compound:prt
+7	Cricscoredroid	_	NOUN	NOUN	_	10	compound
+8	-	_	PUNCT	PUNCT	_	1	punct
+9	Live	_	ADJ	ADJ	_	0	foreign
+10	Cricket	_	NOUN	NOUN	_	5	conj
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	http://t.co/0VLq7nDaUM	_	X	X	_	10	conj
+13	1420408839753	_	X	X	_	12	compound
+

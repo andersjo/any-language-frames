@@ -1,0 +1,22 @@
+1	http://t.co/F2IX6bzYZA	_	PROPN	PROPN	_	2	nsubj
+2	Mise	_	VERB	VERB	_	0	root
+3	à	_	ADP	ADP	_	4	case
+4	jour	_	NOUN	NOUN	_	2	nmod
+5	de	_	ADP	ADP	_	7	case
+6	la	_	DET	DET	_	7	det
+7	connaissance	_	NOUN	NOUN	_	2	nmod
+8	de	_	ADP	ADP	_	10	case
+9	la	_	DET	DET	_	10	det
+10	droite	_	NOUN	NOUN	_	7	nmod
+11	américaine	_	ADJ	ADJ	_	10	amod
+12	de	_	ADP	ADP	_	14	case
+13	la	_	DET	DET	_	14	det
+14	politique	_	NOUN	NOUN	_	2	nmod
+15	israélienne	_	ADJ	ADJ	_	14	amod
+16	par	_	ADP	ADP	_	7	case
+17	Lou	_	PROPN	PROPN	_	21	name
+18	Sandler	_	PROPN	PROPN	_	21	name
+19	#Israel	_	PROPN	PROPN	_	21	name
+20	&	_	PROPN	PROPN	_	21	name
+21	#USA	_	PROPN	PROPN	_	14	nmod
+

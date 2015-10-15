@@ -1,0 +1,20 @@
+1	Nur	_	ADV	ADV	_	5	advmod
+2	der	_	DET	DET	_	5	det
+3	jeweilig	_	ADJ	ADJ	_	5	amod
+4	amtierende	_	ADJ	ADJ	_	5	amod
+5	Premierminister	_	NOUN	NOUN	_	18	nmod
+6	der	_	DET	DET	_	7	det
+7	Muggel	_	NOUN	NOUN	_	5	det
+8	wird	_	AUX	AUX	_	18	auxpass
+9	vom	_	ADP	ADP	_	12	case
+10	jeweils	_	ADV	ADV	_	11	advmod
+11	amtierenden	_	ADJ	ADJ	_	12	amod
+12	Zaubereiminister	_	NOUN	NOUN	_	18	nsubjpass
+13	von	_	ADP	ADP	_	15	case
+14	der	_	DET	DET	_	15	det
+15	Existenz	_	NOUN	NOUN	_	12	nmod
+16	der	_	DET	DET	_	17	det
+17	Zaubererwelt	_	NOUN	NOUN	_	15	det
+18	unterrichtet	_	VERB	VERB	_	0	root
+19	.	_	PUNCT	PUNCT	_	18	punct
+

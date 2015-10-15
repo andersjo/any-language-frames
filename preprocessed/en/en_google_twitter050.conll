@@ -1,0 +1,8 @@
+1	common	_	ADJ	ADJ	_	0	cc
+2	venezuelan	_	NOUN	NOUN	_	3	compound
+3	food	_	NOUN	NOUN	_	5	compound
+4	-	_	PUNCT	PUNCT	_	5	punct
+5	Google	_	PROPN	PROPN	_	6	nsubj
+6	Search	_	VERB	VERB	_	0	root
+7	http://t.co/FW3o7FHlvR	_	X	X	_	6	dobj
+

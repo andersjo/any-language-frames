@@ -1,0 +1,16 @@
+1	On	_	ADP	ADP	_	0	compound:prt
+2	some	_	DET	DET	_	4	det
+3	real	_	ADJ	ADJ	_	0	compound:prt
+4	shit	_	NOUN	NOUN	_	1	dobj
+5	Christiano	_	PROPN	PROPN	_	6	compound
+6	Ronaldo	_	PROPN	PROPN	_	7	nsubj
+7	looks	_	VERB	VERB	_	4	acl:relcl
+8	like	_	ADP	ADP	_	7	compound:prt
+9	a	_	DET	DET	_	10	nsubj
+10	fucking	_	VERB	VERB	_	7	advcl
+11	doll	_	ADJ	ADJ	_	0	compound:prt
+12	with	_	ADP	ADP	_	10	compound:prt
+13	all	_	DET	DET	_	15	det:predet
+14	that	_	DET	DET	_	15	det
+15	surgery	_	NOUN	NOUN	_	12	dobj
+

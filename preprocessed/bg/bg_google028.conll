@@ -1,0 +1,20 @@
+1	Това	_	PRON	PRON	_	9	nsubj
+2	,	_	PUNCT	PUNCT	_	3	punct
+3	както	_	ADV	ADV	_	1	conj
+4	и	_	CONJ	CONJ	_	3	mwe
+5	други	_	ADJ	ADJ	_	7	amod
+6	добавени	_	ADJ	ADJ	_	7	amod
+7	функционалности	_	NOUN	NOUN	_	9	nsubj
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	прави	_	VERB	VERB	_	0	root
+10	услугата	_	NOUN	NOUN	_	9	dobj
+11	на	_	ADP	ADP	_	12	case
+12	Google	_	PROPN	PROPN	_	10	nmod
+13	доста	_	ADV	ADV	_	14	advmod
+14	популярна	_	ADJ	ADJ	_	16	amod
+15	и	_	CONJ	CONJ	_	14	cc
+16	удобна	_	NOUN	NOUN	_	10	conj
+17	за	_	ADP	ADP	_	18	case
+18	ползване	_	NOUN	NOUN	_	16	nmod
+19	.	_	PUNCT	PUNCT	_	9	punct
+

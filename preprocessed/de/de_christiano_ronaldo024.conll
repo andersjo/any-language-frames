@@ -1,0 +1,24 @@
+1	Mit	_	ADP	ADP	_	3	case
+2	Nacional	_	PROPN	PROPN	_	3	name
+3	Funchal	_	PROPN	PROPN	_	7	nmod
+4	und	_	CONJ	CONJ	_	3	cc
+5	Marítimo	_	PROPN	PROPN	_	6	name
+6	Funchal	_	PROPN	PROPN	_	3	conj
+7	zeigten	_	VERB	VERB	_	0	root
+8	sich	_	PRON	PRON	_	7	dobj
+9	1995	_	NUM	NUM	_	7	nmod
+10	die	_	DET	DET	_	13	det
+11	beiden	_	ADJ	ADJ	_	13	amod
+12	führenden	_	ADJ	ADJ	_	13	amod
+13	Vereine	_	NOUN	NOUN	_	7	nsubj
+14	auf	_	ADP	ADP	_	15	case
+15	Madeira	_	PROPN	PROPN	_	13	nmod
+16	an	_	ADP	ADP	_	18	case
+17	einer	_	DET	DET	_	18	det
+18	Verpflichtung	_	NOUN	NOUN	_	22	nmod
+19	des	_	DET	DET	_	21	det
+20	jungen	_	ADJ	ADJ	_	21	amod
+21	Talents	_	NOUN	NOUN	_	18	det
+22	interessiert	_	ADJ	ADJ	_	7	advmod
+23	.	_	PUNCT	PUNCT	_	7	punct
+

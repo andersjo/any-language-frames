@@ -1,0 +1,19 @@
+1	No	_	ADV	ADV	_	2	neg
+2	hay	_	VERB	VERB	_	0	root
+3	persona	_	NOUN	NOUN	_	2	dobj
+4	sobre	_	ADP	ADP	_	6	case
+5	la	_	DET	DET	_	6	det
+6	faz	_	NOUN	NOUN	_	3	nmod
+7	de	_	ADP	ADP	_	9	case
+8	la	_	DET	DET	_	9	det
+9	tierra	_	NOUN	NOUN	_	6	nmod
+10	a	_	ADP	ADP	_	12	case
+11	la	_	DET	DET	_	12	det
+12	que	_	SCONJ	SCONJ	_	15	mark
+13	no	_	ADV	ADV	_	15	neg
+14	le	_	PRON	PRON	_	15	iobj
+15	guste	_	VERB	VERB	_	6	acl:relcl
+16	Angelina	_	PROPN	PROPN	_	18	name
+17	Jolie	_	PROPN	PROPN	_	18	name
+18	😍🙌	_	PROPN	PROPN	_	15	iobj
+

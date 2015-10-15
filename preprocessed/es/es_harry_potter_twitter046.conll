@@ -1,0 +1,18 @@
+1	Harry	_	PROPN	PROPN	_	2	name
+2	Potter	_	PROPN	PROPN	_	14	nsubj
+3	y	_	CONJ	CONJ	_	2	cc
+4	el	_	DET	DET	_	5	det
+5	misterio	_	NOUN	NOUN	_	2	conj
+6	de	_	ADP	ADP	_	10	case
+7	por	_	ADP	ADP	_	9	case
+8	qué	_	DET	DET	_	9	det
+9	Vanessa	_	PROPN	PROPN	_	5	nmod
+10	teniendo	_	VERB	VERB	_	5	advcl
+11	mi	_	DET	DET	_	12	nmod:poss
+12	número	_	NOUN	NOUN	_	10	dobj
+13	me	_	PRON	PRON	_	14	iobj
+14	escribe	_	VERB	VERB	_	0	root
+15	al	_	ADP	ADP	_	16	case
+16	dm	_	NOUN	NOUN	_	14	nmod
+17	.	_	PUNCT	PUNCT	_	14	punct
+

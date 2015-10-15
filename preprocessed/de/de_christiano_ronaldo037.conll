@@ -1,0 +1,15 @@
+1	Durch	_	ADP	ADP	_	3	case
+2	seine	_	DET	DET	_	3	nmod:poss
+3	Leistung	_	NOUN	NOUN	_	7	nmod
+4	bei	_	ADP	ADP	_	6	case
+5	der	_	DET	DET	_	6	det
+6	U-17-EM	_	NOUN	NOUN	_	3	nmod
+7	fiel	_	VERB	VERB	_	0	root
+8	er	_	PRON	PRON	_	7	nsubj
+9	auch	_	ADV	ADV	_	7	advmod
+10	der	_	DET	DET	_	12	det
+11	internationalen	_	ADJ	ADJ	_	12	amod
+12	Fußballwelt	_	NOUN	NOUN	_	7	nmod
+13	auf	_	ADP	ADP	_	7	mark
+14	.	_	PUNCT	PUNCT	_	7	punct
+

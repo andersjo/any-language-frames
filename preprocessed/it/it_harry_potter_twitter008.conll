@@ -1,0 +1,27 @@
+1	Sto	_	AUX	AUX	_	2	aux
+2	guardando	_	VERB	VERB	_	0	root
+3	Shameless	_	PROPN	PROPN	_	2	dobj
+4	e	_	CONJ	CONJ	_	2	cc
+5	hanno	_	AUX	AUX	_	6	aux
+6	detto	_	VERB	VERB	_	2	conj
+7	"	_	PUNCT	PUNCT	_	8	punct
+8	ho	_	VERB	VERB	_	6	advcl
+9	una	_	DET	DET	_	11	det
+10	prima	_	ADJ	ADJ	_	11	amod
+11	edizione	_	NOUN	NOUN	_	8	dobj
+12	autografata	_	ADJ	ADJ	_	11	amod
+13	di	_	ADP	ADP	_	14	case
+14	Harry	_	PROPN	PROPN	_	11	nmod
+15	Potter	_	PROPN	PROPN	_	14	name
+16	"	_	PUNCT	PUNCT	_	18	punct
+17	Mi	_	PRON	PRON	_	18	iobj
+18	viene	_	VERB	VERB	_	11	acl:relcl
+19	da	_	ADP	ADP	_	20	mark
+20	piangere	_	VERB	VERB	_	18	advcl
+21	perché	_	SCONJ	SCONJ	_	24	mark
+22	io	_	PRON	PRON	_	24	nsubj
+23	la	_	PRON	PRON	_	24	dobj
+24	ho	_	VERB	VERB	_	8	advcl
+25	davvero	_	ADV	ADV	_	24	advmod
+26	.	_	PUNCT	PUNCT	_	8	punct
+

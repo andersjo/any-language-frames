@@ -1,0 +1,20 @@
+1	Πέγκυ	_	ADJ	ADJ	_	2	det
+2	Ζήνα	_	NOUN	NOUN	_	11	nsubj
+3	:	_	PUNCT	PUNCT	_	5	punct
+4	«Το	_	NOUN	NOUN	_	2	appos
+5	χρήμα	_	NOUN	NOUN	_	4	nmod
+6	για	_	ADP	ADP	_	7	case
+7	μένα	_	NOUN	NOUN	_	5	nmod
+8	είναι	_	VERB	VERB	_	11	cop
+9	απλώς	_	ADV	ADV	_	11	advmod
+10	ένα	_	ADJ	ADJ	_	11	det
+11	εργαλείο	_	NOUN	NOUN	_	0	root
+12	για	_	ADP	ADP	_	14	mark
+13	να	_	PART	PART	_	14	aux
+14	ζω	_	VERB	VERB	_	8	advcl
+15	με	_	ADP	ADP	_	16	case
+16	αξιοπρέπεια»	_	NOUN	NOUN	_	14	nmod
+17	-	_	PUNCT	PUNCT	_	16	punct
+18	http://t.co/jE5pk8Rexp	_	NOUN	NOUN	_	19	nmod
+19	#starbuzz	_	NOUN	NOUN	_	14	dobj
+

@@ -1,0 +1,7 @@
+1	1917	_	NUM	NUM	_	5	nmod
+2	war	_	VERB	VERB	_	5	cop
+3	ein	_	DET	DET	_	5	det
+4	entscheidendes	_	ADJ	ADJ	_	5	amod
+5	Jahr	_	NOUN	NOUN	_	0	root
+6	.	_	PUNCT	PUNCT	_	5	punct
+

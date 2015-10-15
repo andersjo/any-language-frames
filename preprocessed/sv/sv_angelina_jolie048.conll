@@ -1,0 +1,25 @@
+1	Jolies	_	NOUN	NOUN	_	3	nmod:poss
+2	professionella	_	ADJ	ADJ	_	3	amod
+3	filmkarriär	_	NOUN	NOUN	_	4	nsubj
+4	började	_	VERB	VERB	_	0	root
+5	1993	_	NUM	NUM	_	4	nummod
+6	när	_	ADV	ADV	_	8	advmod
+7	hon	_	PRON	PRON	_	8	nsubj
+8	fick	_	VERB	VERB	_	4	advcl
+9	sin	_	DET	DET	_	11	nmod:poss
+10	första	_	ADJ	ADJ	_	11	det
+11	huvudroll	_	NOUN	NOUN	_	8	dobj
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	i	_	ADP	ADP	_	14	case
+14	lågbudgetfilmen	_	NOUN	NOUN	_	8	nmod
+15	"	_	PUNCT	PUNCT	_	11	punct
+16	Cyborg	_	PROPN	PROPN	_	11	appos
+17	2	_	NUM	NUM	_	16	nummod
+18	"	_	PUNCT	PUNCT	_	16	punct
+19	som	_	PRON	PRON	_	21	nsubj
+20	bara	_	ADV	ADV	_	21	advmod
+21	distribuerades	_	VERB	VERB	_	11	acl:relcl
+22	på	_	ADP	ADP	_	23	case
+23	video	_	NOUN	NOUN	_	21	nmod
+24	.	_	PUNCT	PUNCT	_	4	punct
+

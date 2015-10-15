@@ -1,0 +1,23 @@
+1	Με	_	ADP	ADP	_	3	case
+2	τον	_	ADJ	ADJ	_	3	det
+3	όρο	_	NOUN	NOUN	_	7	nmod
+4	αυτόν	_	PRON	PRON	_	3	det
+5	η	_	ADJ	ADJ	_	6	det
+6	Google	_	NOUN	NOUN	_	7	nsubj
+7	επιθυμεί	_	VERB	VERB	_	0	root
+8	να	_	PART	PART	_	9	aux
+9	υποδηλώσει	_	VERB	VERB	_	7	ccomp
+10	την	_	ADJ	ADJ	_	11	det
+11	αποστολή	_	NOUN	NOUN	_	9	dobj
+12	της	_	ADJ	ADJ	_	13	det
+13	εταιρίας	_	NOUN	NOUN	_	11	nmod
+14	να	_	PART	PART	_	15	aux
+15	οργανώσει	_	VERB	VERB	_	11	acl
+16	το	_	ADJ	ADJ	_	18	det
+17	τεράστιο	_	ADJ	ADJ	_	18	amod
+18	πλήθος	_	NOUN	NOUN	_	15	dobj
+19	πληροφοριών	_	NOUN	NOUN	_	18	nmod
+20	του	_	ADJ	ADJ	_	21	det
+21	Ίντερνετ	_	NOUN	NOUN	_	19	nmod
+22	.	_	PUNCT	PUNCT	_	7	punct
+

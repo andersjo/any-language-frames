@@ -1,0 +1,26 @@
+1	Després	_	PROPN	PROPN	_	2	name
+2	veure	_	PROPN	PROPN	_	21	nsubj
+3	"	_	PUNCT	PUNCT	_	4	punct
+4	Unbroken/Invencible	_	PROPN	PROPN	_	2	appos
+5	"	_	PUNCT	PUNCT	_	4	punct
+6	,	_	PUNCT	PUNCT	_	7	punct
+7	penso	_	NOUN	NOUN	_	2	appos
+8	Angelina	_	PROPN	PROPN	_	10	name
+9	Jolie	_	PROPN	PROPN	_	10	name
+10	és	_	PROPN	PROPN	_	7	appos
+11	1000	_	NUM	NUM	_	12	nummod
+12	vegades	_	NOUN	NOUN	_	10	appos
+13	millor	_	ADJ	ADJ	_	12	amod
+14	directora	_	ADJ	ADJ	_	12	amod
+15	q	_	X	X	_	16	compound
+16	actriu	_	NOUN	NOUN	_	12	nmod
+17	.	_	PUNCT	PUNCT	_	19	punct
+18	Gran	_	PROPN	PROPN	_	19	amod
+19	muntatge	_	PROPN	PROPN	_	16	appos
+20	,	_	PUNCT	PUNCT	_	19	punct
+21	encara	_	VERB	VERB	_	0	root
+22	q	_	X	X	_	23	compound
+23	li	_	X	X	_	24	nsubj
+24	sobren	_	VERB	VERB	_	21	acl
+25	minuts	_	NOUN	NOUN	_	24	dobj
+

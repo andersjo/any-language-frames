@@ -1,0 +1,24 @@
+1	Ho	_	AUX	AUX	_	2	aux
+2	avuto	_	VERB	VERB	_	7	advcl
+3	un	_	DET	DET	_	4	det
+4	incubo	_	NOUN	NOUN	_	2	dobj
+5	:	_	PUNCT	PUNCT	_	2	punct
+6	ho	_	AUX	AUX	_	7	aux
+7	sognato	_	VERB	VERB	_	0	root
+8	che	_	SCONJ	SCONJ	_	15	mark
+9	Angelina	_	PROPN	PROPN	_	15	nsubj
+10	Jolie	_	PROPN	PROPN	_	9	name
+11	e	_	CONJ	CONJ	_	9	cc
+12	mia	_	DET	DET	_	13	det:poss
+13	moglie	_	NOUN	NOUN	_	9	conj
+14	si	_	PRON	PRON	_	15	expl
+15	azzuffavano	_	VERB	VERB	_	7	ccomp
+16	per	_	ADP	ADP	_	17	case
+17	me	_	PRON	PRON	_	15	nmod
+18	,	_	PUNCT	PUNCT	_	7	punct
+19	e	_	CONJ	CONJ	_	7	cc
+20	mia	_	DET	DET	_	21	det:poss
+21	moglie	_	NOUN	NOUN	_	17	conj
+22	vinceva	_	VERB	VERB	_	21	acl
+23	.	_	PUNCT	PUNCT	_	7	punct
+

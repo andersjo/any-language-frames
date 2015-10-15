@@ -1,0 +1,11 @@
+1	Versionen	_	NOUN	NOUN	_	0	root
+2	med	_	ADP	ADP	_	5	case
+3	det	_	DET	DET	_	5	det
+4	färgglada	_	ADJ	ADJ	_	5	amod
+5	omslaget	_	NOUN	NOUN	_	1	nmod
+6	har	_	AUX	AUX	_	9	cop
+7	hittills	_	ADV	ADV	_	8	advmod
+8	sålt	_	ADV	ADV	_	9	advmod
+9	bäst	_	ADV	ADV	_	1	advmod
+10	.	_	PUNCT	PUNCT	_	1	punct
+

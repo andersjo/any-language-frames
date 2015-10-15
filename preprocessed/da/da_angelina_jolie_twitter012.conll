@@ -1,0 +1,13 @@
+1	NR	_	NOUN	NOUN	_	2	nmod:poss
+2	4pc	_	NOUN	NOUN	_	3	nmod:poss
+3	FEMME	_	NOUN	NOUN	_	4	nsubj
+4	FATALES	_	VERB	VERB	_	0	root
+5	SARAH	_	NOUN	NOUN	_	6	nmod:poss
+6	MICHELLE	_	NOUN	NOUN	_	4	dobj
+7	GELLAR	_	NOUN	NOUN	_	4	nsubj
+8	ANGELINA	_	PROPN	PROPN	_	7	appos
+9	JOLIE	_	NOUN	NOUN	_	8	dep
+10	L152	_	VERB	VERB	_	4	dep
+11	http://t.co/QHFH0dW2xQ	_	ADJ	ADJ	_	12	amod
+12	http://t.co/Ua0qvOUWNC	_	NOUN	NOUN	_	10	dobj
+

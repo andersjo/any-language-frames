@@ -1,0 +1,22 @@
+1	Il	_	DET	DET	_	3	det
+2	primo	_	ADJ	ADJ	_	3	amod
+3	gol	_	NOUN	NOUN	_	6	nsubj
+4	in	_	ADP	ADP	_	5	case
+5	campionato	_	NOUN	NOUN	_	3	nmod
+6	arriva	_	VERB	VERB	_	0	root
+7	il	_	DET	DET	_	8	det
+8	29	_	NUM	NUM	_	6	nmod
+9	ottobre	_	NOUN	NOUN	_	8	nmod
+10	arriva	_	VERB	VERB	_	6	advcl
+11	il	_	DET	DET	_	13	det
+12	primo	_	ADJ	ADJ	_	13	amod
+13	gol	_	NOUN	NOUN	_	10	dobj
+14	contro	_	ADP	ADP	_	16	case
+15	il	_	DET	DET	_	16	det
+16	Middlesbrough	_	PROPN	PROPN	_	13	nmod
+17	persa	_	VERB	VERB	_	16	acl
+18	4	_	NUM	NUM	_	17	dobj
+19	a	_	ADP	ADP	_	20	case
+20	1	_	NUM	NUM	_	17	nummod
+21	.	_	PUNCT	PUNCT	_	6	punct
+

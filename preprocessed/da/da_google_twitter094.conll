@@ -1,0 +1,17 @@
+1	>>	_	ADJ	ADJ	_	2	amod
+2	http://t.co/MkYU3sHxPv	_	NOUN	NOUN	_	4	nmod:poss
+3	✳	_	ADJ	ADJ	_	4	amod
+4	#USEnergyReview	_	NOUN	NOUN	_	0	root
+5	:	_	PUNCT	PUNCT	_	4	punct
+6	Visit	_	PROPN	PROPN	_	4	dep
+7	#Timnath	_	PROPN	PROPN	_	6	name
+8	#oil	_	X	X	_	9	dep
+9	and	_	X	X	_	6	cc
+10	#gas	_	PROPN	PROPN	_	11	nmod:poss
+11	forum	_	NOUN	NOUN	_	6	conj
+12	oilandgasnews	_	PROPN	PROPN	_	11	appos
+13	OGJOnline	_	PROPN	PROPN	_	12	name
+14	#Azerb	_	NOUN	NOUN	_	12	dep
+15	...	_	PUNCT	PUNCT	_	6	punct
+16	http://t.co/gTbiWclgZb	_	NOUN	NOUN	_	6	conj
+

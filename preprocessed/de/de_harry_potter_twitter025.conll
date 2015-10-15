@@ -1,0 +1,10 @@
+1	@Unearned	_	PROPN	PROPN	_	4	name
+2	dann	_	ADV	ADV	_	4	advmod
+3	Harry	_	PROPN	PROPN	_	4	name
+4	Potter	_	PROPN	PROPN	_	0	root
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	aber	_	ADV	ADV	_	8	advmod
+7	auf	_	ADP	ADP	_	8	case
+8	Englisch	_	PROPN	PROPN	_	4	nmod
+9	.	_	PUNCT	PUNCT	_	4	punct
+

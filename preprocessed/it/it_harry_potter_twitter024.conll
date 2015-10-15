@@ -1,0 +1,17 @@
+1	@GiuliaSophieSut	_	PROPN	PROPN	_	0	root
+2	@SweetHell_Efp	_	PROPN	PROPN	_	1	name
+3	KOHAI	_	PROPN	PROPN	_	1	name
+4	TU	_	PROPN	PROPN	_	1	name
+5	DEVI	_	PROPN	PROPN	_	1	name
+6	CALMARTI	_	PROPN	PROPN	_	1	name
+7	AIUTO	_	PROPN	PROPN	_	6	name
+8	CHE	_	PROPN	PROPN	_	7	name
+9	ANSIA	_	PROPN	PROPN	_	8	name
+10	HARRY	_	PROPN	PROPN	_	9	name
+11	POTTER	_	PROPN	PROPN	_	9	name
+12	E	_	CONJ	CONJ	_	1	cc
+13	L'ORDINE	_	PROPN	PROPN	_	1	conj
+14	DELLA	_	PROPN	PROPN	_	13	name
+15	PAPERA	_	PROPN	PROPN	_	13	name
+16	.	_	PUNCT	PUNCT	_	1	punct
+

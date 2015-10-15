@@ -1,0 +1,17 @@
+1	1	_	PROPN	PROPN	_	4	name
+2	.	_	PUNCT	PUNCT	_	1	punct
+3	Harry	_	PROPN	PROPN	_	4	name
+4	Potter	_	PROPN	PROPN	_	5	name
+5	2	_	PROPN	PROPN	_	7	amod
+6	.	_	PUNCT	PUNCT	_	5	punct
+7	Herr	_	NOUN	NOUN	_	0	root
+8	der	_	DET	DET	_	13	det
+9	Ringe/Der	_	PROPN	PROPN	_	7	det
+10	Hobbit	_	PROPN	PROPN	_	7	det
+11	3	_	PROPN	PROPN	_	10	appos
+12	.	_	PUNCT	PUNCT	_	5	punct
+13	Fluch	_	NOUN	NOUN	_	10	appos
+14	der	_	DET	DET	_	15	det
+15	Karibik	_	NOUN	NOUN	_	13	det
+16	.	_	PUNCT	PUNCT	_	13	punct
+

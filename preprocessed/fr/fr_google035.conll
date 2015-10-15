@@ -1,0 +1,23 @@
+1	Cela	_	PRON	PRON	_	4	nsubj
+2	ne	_	ADV	ADV	_	4	neg
+3	les	_	PRON	PRON	_	4	dobj
+4	empêche	_	VERB	VERB	_	0	root
+5	pourtant	_	ADV	ADV	_	4	advmod
+6	pas	_	ADV	ADV	_	4	neg
+7	,	_	PUNCT	PUNCT	_	4	punct
+8	en	_	ADP	ADP	_	9	case
+9	janvier	_	NOUN	NOUN	_	4	nmod
+10	1996	_	NUM	NUM	_	9	nmod
+11	,	_	PUNCT	PUNCT	_	9	punct
+12	de	_	ADP	ADP	_	13	case
+13	commencer	_	VERB	VERB	_	4	acl
+14	à	_	ADP	ADP	_	15	case
+15	travailler	_	VERB	VERB	_	13	acl
+16	sur	_	ADP	ADP	_	19	case
+17	un	_	DET	DET	_	19	det
+18	nouveau	_	ADJ	ADJ	_	19	amod
+19	moteur	_	NOUN	NOUN	_	15	nmod
+20	de	_	ADP	ADP	_	21	case
+21	recherche	_	NOUN	NOUN	_	19	nmod
+22	.	_	PUNCT	PUNCT	_	4	punct
+

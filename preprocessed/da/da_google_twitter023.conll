@@ -1,0 +1,12 @@
+1	Dallas	_	PROPN	PROPN	_	4	nmod:poss
+2	Cowboys	_	PROPN	PROPN	_	1	name
+3	Twitter	_	PROPN	PROPN	_	1	name
+4	mailbag	_	NOUN	NOUN	_	0	root
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	Part	_	NOUN	NOUN	_	1	list
+7	2	_	NUM	NUM	_	8	nummod
+8	http://t.co/TjWl5kp3OZ	_	NOUN	NOUN	_	6	list
+9	-via	_	PROPN	PROPN	_	8	appos
+10	SportsCenter	_	NOUN	NOUN	_	9	dep
+11	http://t.co/bkiU7m7IKw	_	NOUN	NOUN	_	10	nmod
+

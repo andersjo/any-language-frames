@@ -1,0 +1,24 @@
+1	En	_	ADP	ADP	_	2	case
+2	abril	_	PROPN	PROPN	_	7	nmod
+3	de	_	ADP	ADP	_	4	case
+4	2007	_	NUM	NUM	_	2	nmod
+5	,	_	PUNCT	PUNCT	_	2	punct
+6	Google	_	PROPN	PROPN	_	7	nsubj
+7	compró	_	VERB	VERB	_	0	root
+8	DoubleClick	_	PROPN	PROPN	_	7	dobj
+9	,	_	PUNCT	PUNCT	_	11	punct
+10	una	_	DET	DET	_	11	det
+11	empresa	_	NOUN	NOUN	_	8	appos
+12	especializado	_	ADJ	ADJ	_	11	amod
+13	en	_	ADP	ADP	_	14	case
+14	publicidad	_	NOUN	NOUN	_	11	nmod
+15	en	_	ADP	ADP	_	16	case
+16	Internet	_	NOUN	NOUN	_	14	nmod
+17	,	_	PUNCT	PUNCT	_	20	punct
+18	por	_	ADP	ADP	_	22	case
+19	3100	_	NUM	NUM	_	20	nummod
+20	millones	_	NOUN	NOUN	_	22	nummod
+21	de	_	ADP	ADP	_	20	case
+22	dólares	_	NOUN	NOUN	_	7	nmod
+23	.	_	PUNCT	PUNCT	_	7	punct
+

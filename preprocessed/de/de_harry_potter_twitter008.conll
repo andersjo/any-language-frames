@@ -1,0 +1,15 @@
+1	So	_	ADV	ADV	_	8	advmod
+2	.	_	PUNCT	PUNCT	_	1	punct
+3	Jetzt	_	ADV	ADV	_	8	advmod
+4	wird	_	AUX	AUX	_	8	auxpass
+5	erstmal	_	ADV	ADV	_	8	advmod
+6	Harry	_	PROPN	PROPN	_	7	name
+7	Potter	_	PROPN	PROPN	_	8	nsubj
+8	geschaut	_	VERB	VERB	_	0	root
+9	.	_	PUNCT	PUNCT	_	8	punct
+10	Also	_	ADV	ADV	_	11	advmod
+11	alle	_	PRON	PRON	_	12	det
+12	Teile	_	NOUN	NOUN	_	8	parataxis
+13	…	_	PROPN	PROPN	_	14	name
+14	xD	_	PROPN	PROPN	_	12	appos
+

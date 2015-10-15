@@ -1,0 +1,26 @@
+1	Harry	_	PROPN	PROPN	_	3	nsubj
+2	also	_	ADV	ADV	_	3	advmod
+3	learns	_	VERB	VERB	_	0	root
+4	that	_	SCONJ	SCONJ	_	8	mark
+5	his	_	PRON	PRON	_	6	nmod:poss
+6	ability	_	NOUN	NOUN	_	3	ccomp
+7	to	_	PART	PART	_	8	mark
+8	speak	_	VERB	VERB	_	6	acl
+9	Parseltongue	_	NOUN	NOUN	_	8	dobj
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	the	_	DET	DET	_	12	det
+12	language	_	NOUN	NOUN	_	8	dobj
+13	of	_	ADP	ADP	_	8	compound:prt
+14	snakes	_	NOUN	NOUN	_	12	nmod
+15	,	_	PUNCT	PUNCT	_	3	punct
+16	is	_	VERB	VERB	_	12	cop
+17	rare	_	ADJ	ADJ	_	0	foreign
+18	and	_	CONJ	CONJ	_	3	cc
+19	often	_	ADV	ADV	_	20	advmod
+20	associated	_	VERB	VERB	_	3	conj
+21	with	_	ADP	ADP	_	20	compound:prt
+22	the	_	DET	DET	_	24	det
+23	Dark	_	PROPN	PROPN	_	24	compound
+24	Arts	_	PROPN	PROPN	_	20	dobj
+25	.	_	PUNCT	PUNCT	_	3	punct
+

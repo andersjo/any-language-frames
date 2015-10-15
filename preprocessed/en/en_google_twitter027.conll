@@ -1,0 +1,14 @@
+1	School	_	NOUN	NOUN	_	0	root
+2	Your	_	PRON	PRON	_	3	nmod:poss
+3	School	_	NOUN	NOUN	_	1	dobj
+4	With	_	ADP	ADP	_	3	compound
+5	These	_	DET	DET	_	13	det
+6	8	_	NUM	NUM	_	8	nummod
+7	Digital	_	ADJ	ADJ	_	0	list
+8	Tools	_	NOUN	NOUN	_	13	compound
+9	-	_	PUNCT	PUNCT	_	8	punct
+10	Huffington	_	PROPN	PROPN	_	11	compound
+11	Post	_	PROPN	PROPN	_	13	compound
+12	http://t.co/KbLDIfeYaP	_	NOUN	NOUN	_	13	compound
+13	#opensource	_	NOUN	NOUN	_	1	parataxis
+

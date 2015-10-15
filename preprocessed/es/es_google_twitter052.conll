@@ -1,0 +1,18 @@
+1	Gálatas	_	PROPN	PROPN	_	5	nsubj
+2	1:5	_	NUM	NUM	_	1	nummod
+3	a	_	ADP	ADP	_	4	case
+4	quien	_	PRON	PRON	_	5	nmod
+5	sea	_	VERB	VERB	_	7	cop
+6	la	_	DET	DET	_	7	det
+7	gloria	_	NOUN	NOUN	_	0	root
+8	por	_	ADP	ADP	_	10	case
+9	los	_	DET	DET	_	10	det
+10	siglos	_	NOUN	NOUN	_	7	nmod
+11	de	_	ADP	ADP	_	13	case
+12	los	_	DET	DET	_	13	det
+13	siglos	_	NOUN	NOUN	_	10	nmod
+14	.	_	PUNCT	PUNCT	_	15	punct
+15	Amén	_	PROPN	PROPN	_	13	appos
+16	.	_	PUNCT	PUNCT	_	15	punct
+17	https://t.co/umY53XMai1	_	PROPN	PROPN	_	15	appos
+

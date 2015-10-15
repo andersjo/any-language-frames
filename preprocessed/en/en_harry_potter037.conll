@@ -1,0 +1,25 @@
+1	As	_	ADP	ADP	_	3	mark
+2	Harry	_	PROPN	PROPN	_	3	nsubj
+3	begins	_	VERB	VERB	_	0	root
+4	to	_	PART	PART	_	5	mark
+5	explore	_	VERB	VERB	_	3	xcomp
+6	the	_	DET	DET	_	8	det
+7	magical	_	ADJ	ADJ	_	0	foreign
+8	world	_	NOUN	NOUN	_	5	dobj
+9	,	_	PUNCT	PUNCT	_	13	punct
+10	the	_	DET	DET	_	11	det
+11	reader	_	NOUN	NOUN	_	13	nsubjpass
+12	is	_	AUX	AUX	_	13	auxpass
+13	introduced	_	VERB	VERB	_	8	acl:relcl
+14	to	_	ADP	ADP	_	13	compound:prt
+15	many	_	ADJ	ADJ	_	0	foreign
+16	of	_	ADP	ADP	_	13	compound:prt
+17	the	_	DET	DET	_	19	det
+18	primary	_	ADJ	ADJ	_	0	foreign
+19	locations	_	NOUN	NOUN	_	20	nsubj
+20	used	_	VERB	VERB	_	13	advcl
+21	throughout	_	ADP	ADP	_	20	compound:prt
+22	the	_	DET	DET	_	23	det
+23	series	_	NOUN	NOUN	_	20	dobj
+24	.	_	PUNCT	PUNCT	_	3	punct
+

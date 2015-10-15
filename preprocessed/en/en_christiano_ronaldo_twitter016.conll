@@ -1,0 +1,13 @@
+1	The	_	DET	DET	_	2	det
+2	man	_	NOUN	NOUN	_	5	nsubj
+3	whose	_	PRON	PRON	_	4	nmod:poss
+4	name	_	NOUN	NOUN	_	5	nsubj
+5	speaks	_	VERB	VERB	_	0	root
+6	for	_	ADP	ADP	_	5	compound:prt
+7	himself	_	PRON	PRON	_	9	nmod:poss
+8	...	_	PUNCT	PUNCT	_	9	punct
+9	#	_	NOUN	NOUN	_	11	compound
+10	christiano	_	PROPN	PROPN	_	11	compound
+11	Ronaldo	_	PROPN	PROPN	_	2	acl:relcl
+12	http://t.co/HDAnS82fxA	_	X	X	_	11	list
+

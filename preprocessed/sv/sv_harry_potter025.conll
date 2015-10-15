@@ -1,0 +1,21 @@
+1	Att	_	SCONJ	SCONJ	_	3	mark
+2	berättelserna	_	NOUN	NOUN	_	3	nsubjpass
+3	upplevs	_	VERB	VERB	_	14	advcl
+4	genom	_	ADP	ADP	_	5	case
+5	Harry	_	PROPN	PROPN	_	3	nmod
+6	kan	_	AUX	AUX	_	9	aux
+7	vara	_	AUX	AUX	_	9	cop
+8	en	_	DET	DET	_	9	det
+9	orsak	_	NOUN	NOUN	_	14	nsubj
+10	till	_	ADP	ADP	_	14	case
+11	att	_	SCONJ	SCONJ	_	14	mark
+12	många	_	ADJ	ADJ	_	13	det
+13	läsare	_	NOUN	NOUN	_	9	nmod
+14	känner	_	VERB	VERB	_	0	root
+15	så	_	ADV	ADV	_	16	advmod
+16	stark	_	ADJ	ADJ	_	17	amod
+17	samhörighet	_	NOUN	NOUN	_	14	dobj
+18	med	_	ADP	ADP	_	19	case
+19	honom	_	PRON	PRON	_	14	nmod
+20	.	_	PUNCT	PUNCT	_	14	punct
+

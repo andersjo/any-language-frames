@@ -1,0 +1,19 @@
+1	Bedre	_	ADJ	ADJ	_	2	amod
+2	#privatliv	_	NOUN	NOUN	_	7	nsubj
+3	i	_	ADP	ADP	_	5	case
+4	#2015	_	ADJ	ADJ	_	5	amod
+5	google	_	NOUN	NOUN	_	2	nmod
+6	vil	_	AUX	AUX	_	7	aux
+7	gøre	_	VERB	VERB	_	0	root
+8	krypteret	_	ADJ	ADJ	_	9	amod
+9	mail	_	NOUN	NOUN	_	7	dobj
+10	til	_	ADP	ADP	_	11	case
+11	allemandseje	_	NOUN	NOUN	_	9	nmod
+12	:-)	_	X	X	_	11	nmod:poss
+13	http://t.co/knX9GVAuT9	_	ADJ	ADJ	_	14	amod
+14	#p	_	NOUN	NOUN	_	16	nmod:poss
+15	åtide	_	ADJ	ADJ	_	16	amod
+16	#dkpol	_	NOUN	NOUN	_	17	nmod:poss
+17	#dkpolitik	_	NOUN	NOUN	_	18	nmod:poss
+18	#frihedtilalle	_	NOUN	NOUN	_	12	dep
+

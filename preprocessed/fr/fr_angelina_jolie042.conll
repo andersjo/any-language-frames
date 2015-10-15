@@ -1,0 +1,23 @@
+1	À	_	ADP	ADP	_	2	case
+2	l'âge	_	NOUN	NOUN	_	9	nmod
+3	de	_	ADP	ADP	_	5	case
+4	16	_	NUM	NUM	_	5	nummod
+5	ans	_	NOUN	NOUN	_	2	nmod
+6	,	_	PUNCT	PUNCT	_	9	punct
+7	Angelina	_	PROPN	PROPN	_	8	name
+8	Jolie	_	PROPN	PROPN	_	9	nsubj
+9	retourne	_	VERB	VERB	_	0	root
+10	au	_	ADP	ADP	_	11	case
+11	théâtre	_	NOUN	NOUN	_	9	nmod
+12	et	_	CONJ	CONJ	_	9	cc
+13	joue	_	VERB	VERB	_	9	conj
+14	son	_	DET	DET	_	16	nmod:poss
+15	premier	_	ADJ	ADJ	_	16	amod
+16	rôle	_	NOUN	NOUN	_	13	dobj
+17	,	_	PUNCT	PUNCT	_	16	punct
+18	celui	_	PRON	PRON	_	19	nsubj
+19	d'une	_	NOUN	NOUN	_	16	appos
+20	dominatrice	_	ADJ	ADJ	_	19	amod
+21	allemande	_	ADJ	ADJ	_	19	amod
+22	.	_	PUNCT	PUNCT	_	9	punct
+

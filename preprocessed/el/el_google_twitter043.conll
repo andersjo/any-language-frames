@@ -1,0 +1,16 @@
+1	Πυρηνικός	_	ADJ	ADJ	_	2	amod
+2	εφιάλτης	_	NOUN	NOUN	_	11	nsubj
+3	στις	_	ADP	ADP	_	4	case
+4	ακτές	_	NOUN	NOUN	_	2	nmod
+5	του	_	ADJ	ADJ	_	6	det
+6	Αιγαίου	_	NOUN	NOUN	_	4	nmod
+7	!	_	PUNCT	PUNCT	_	11	punct
+8	Η	_	ADJ	ADJ	_	9	det
+9	Τουρκία	_	NOUN	NOUN	_	11	nsubj
+10	χτίζει	_	VERB	VERB	_	11	aux
+11	εργοστάσιο	_	VERB	VERB	_	0	root
+12	μέσα	_	ADV	ADV	_	11	advmod
+13	στο	_	ADP	ADP	_	15	case
+14	2015	_	NUM	NUM	_	15	nmod
+15	http://t.co/OBLTasI5sD	_	NOUN	NOUN	_	12	nmod
+

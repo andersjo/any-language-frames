@@ -1,0 +1,22 @@
+1	Angelina	_	PROPN	PROPN	_	5	nsubj
+2	jolie	_	ADJ	ADJ	_	1	amod
+3	quand	_	SCONJ	SCONJ	_	5	mark
+4	elle	_	PRON	PRON	_	5	nsubj
+5	va	_	VERB	VERB	_	19	advcl
+6	en	_	ADP	ADP	_	8	case
+7	Afrique	_	PROPN	PROPN	_	8	name
+8	c'est	_	PROPN	PROPN	_	5	nmod
+9	comme	_	ADP	ADP	_	11	case
+10	le	_	DET	DET	_	11	det
+11	jour	_	NOUN	NOUN	_	5	nmod
+12	de	_	ADP	ADP	_	14	case
+13	la	_	DET	DET	_	14	det
+14	draft	_	X	X	_	11	nmod
+15	,	_	PUNCT	PUNCT	_	19	punct
+16	qui	_	PRON	PRON	_	19	nsubj
+17	va	_	AUX	AUX	_	19	aux
+18	être	_	AUX	AUX	_	19	auxpass
+19	adopté	_	VERB	VERB	_	0	root
+20	et	_	CONJ	CONJ	_	19	cc
+21	tt	_	VERB	VERB	_	19	conj
+

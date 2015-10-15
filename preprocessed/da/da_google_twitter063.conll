@@ -1,0 +1,9 @@
+1	'	_	PUNCT	PUNCT	_	2	punct
+2	NutriBullet	_	NOUN	NOUN	_	4	dep
+3	'	_	PUNCT	PUNCT	_	2	punct
+4	sales	_	VERB	VERB	_	0	root
+5	soar	_	NOUN	NOUN	_	4	dobj
+6	over	_	ADP	ADP	_	7	case
+7	Christmas	_	PROPN	PROPN	_	8	nmod:poss
+8	http://t.co/aMyV96FkF2	_	NOUN	NOUN	_	4	nmod
+

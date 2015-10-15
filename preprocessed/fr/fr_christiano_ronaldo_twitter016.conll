@@ -1,0 +1,22 @@
+1	Franchement	_	ADV	ADV	_	3	advmod
+2	Christiano	_	PROPN	PROPN	_	3	name
+3	Ronaldo	_	PROPN	PROPN	_	15	nmod
+4	pour	_	ADP	ADP	_	6	mark
+5	moi	_	PRON	PRON	_	6	nmod
+6	c'est	_	VERB	VERB	_	0	root
+7	pas	_	ADV	ADV	_	6	neg
+8	un	_	DET	DET	_	9	det
+9	bg	_	NOUN	NOUN	_	6	dobj
+10	de	_	ADP	ADP	_	11	case
+11	fou	_	NOUN	NOUN	_	9	nmod
+12	,	_	PUNCT	PUNCT	_	9	punct
+13	ouais	_	PROPN	PROPN	_	15	nsubj
+14	il	_	PRON	PRON	_	15	nsubj
+15	a	_	VERB	VERB	_	9	acl:relcl
+16	un	_	DET	DET	_	17	det
+17	charme	_	NOUN	NOUN	_	15	dobj
+18	mais	_	CONJ	CONJ	_	17	cc
+19	sans	_	ADP	ADP	_	21	case
+20	plus	_	ADV	ADV	_	21	advmod
+21	✋	_	PROPN	PROPN	_	17	conj
+

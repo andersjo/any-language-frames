@@ -1,0 +1,26 @@
+1	An	_	ADP	ADP	_	2	case
+2	Harrys	_	PROPN	PROPN	_	3	nmod
+3	elftem	_	ADJ	ADJ	_	4	amod
+4	Geburtstag	_	NOUN	NOUN	_	24	nmod
+5	wird	_	AUX	AUX	_	24	auxpass
+6	ihm	_	PRON	PRON	_	24	iobj
+7	von	_	ADP	ADP	_	9	case
+8	Rubeus	_	PROPN	PROPN	_	9	name
+9	Hagrid	_	PROPN	PROPN	_	6	nmod
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	dem	_	DET	DET	_	12	det
+12	Wildhüter	_	NOUN	NOUN	_	9	appos
+13	und	_	CONJ	CONJ	_	12	cc
+14	Schlüsselbewahrer	_	NOUN	NOUN	_	12	conj
+15	der	_	DET	DET	_	16	det
+16	Zaubererschule	_	NOUN	NOUN	_	14	det
+17	Hogwarts	_	PROPN	PROPN	_	16	appos
+18	,	_	PUNCT	PUNCT	_	16	punct
+19	die	_	DET	DET	_	20	det
+20	Einladung	_	NOUN	NOUN	_	24	dobj
+21	in	_	ADP	ADP	_	23	case
+22	das	_	DET	DET	_	23	det
+23	Internat	_	NOUN	NOUN	_	24	nmod
+24	überbracht	_	VERB	VERB	_	0	root
+25	.	_	PUNCT	PUNCT	_	24	punct
+

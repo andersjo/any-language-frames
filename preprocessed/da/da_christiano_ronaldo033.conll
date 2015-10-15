@@ -1,0 +1,24 @@
+1	Ronaldo	_	PROPN	PROPN	_	2	nsubj
+2	fik	_	VERB	VERB	_	0	root
+3	sin	_	DET	DET	_	4	det
+4	debut	_	NOUN	NOUN	_	2	dobj
+5	for	_	ADP	ADP	_	6	case
+6	Manchester	_	PROPN	PROPN	_	2	nmod
+7	United	_	PROPN	PROPN	_	6	name
+8	,	_	PUNCT	PUNCT	_	12	punct
+9	da	_	SCONJ	SCONJ	_	12	mark
+10	han	_	PRON	PRON	_	12	nsubjpass
+11	blev	_	AUX	AUX	_	12	auxpass
+12	skiftet	_	VERB	VERB	_	2	dep
+13	ind	_	ADV	ADV	_	12	nmod:loc
+14	i	_	ADP	ADP	_	15	case
+15	sæsonpræmieren	_	NOUN	NOUN	_	13	nmod
+16	mod	_	ADP	ADP	_	17	case
+17	Bolton	_	NOUN	NOUN	_	15	nmod
+18	med	_	ADP	ADP	_	21	case
+19	en	_	DET	DET	_	21	det
+20	halv	_	ADJ	ADJ	_	21	amod
+21	time	_	NOUN	NOUN	_	17	nmod
+22	igen	_	ADV	ADV	_	12	advmod
+23	.	_	PUNCT	PUNCT	_	2	punct
+

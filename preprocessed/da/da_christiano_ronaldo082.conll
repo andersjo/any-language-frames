@@ -1,0 +1,8 @@
+1	Real	_	NOUN	NOUN	_	2	nmod:poss
+2	Madrid	_	NOUN	NOUN	_	0	root
+3	(	_	PUNCT	PUNCT	_	4	punct
+4	fra	_	ADP	ADP	_	1	dep
+5	2009	_	NUM	NUM	_	4	nummod
+6	)	_	PUNCT	PUNCT	_	4	punct
+7	.	_	PUNCT	PUNCT	_	4	punct
+

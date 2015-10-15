@@ -1,0 +1,19 @@
+1	Cuba	_	PROPN	PROPN	_	2	nsubj
+2	registra	_	VERB	VERB	_	0	root
+3	mortalidad	_	NOUN	NOUN	_	2	dobj
+4	infantil	_	ADJ	ADJ	_	3	amod
+5	más	_	ADV	ADV	_	6	advmod
+6	baja	_	ADJ	ADJ	_	3	amod
+7	de	_	ADP	ADP	_	9	case
+8	su	_	DET	DET	_	9	nmod:poss
+9	historia	_	NOUN	NOUN	_	6	nmod
+10	-	_	PUNCT	PUNCT	_	12	punct
+11	teleSUR	_	PROPN	PROPN	_	12	name
+12	TV	_	PROPN	PROPN	_	9	appos
+13	:	_	PUNCT	PUNCT	_	12	punct
+14	teleSUR	_	PROPN	PROPN	_	18	name
+15	TV	_	PROPN	PROPN	_	18	name
+16	Cuba	_	PROPN	PROPN	_	18	name
+17	…	_	PROPN	PROPN	_	18	name
+18	http://t.co/drd6RzOhPL	_	PROPN	PROPN	_	12	appos
+

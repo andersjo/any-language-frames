@@ -1,0 +1,18 @@
+1	With	_	ADP	ADP	_	0	compound:prt
+2	Hagrid's	_	PROPN	PROPN	_	3	compound
+3	help	_	NOUN	NOUN	_	1	dobj
+4	,	_	PUNCT	PUNCT	_	6	punct
+5	Harry	_	PROPN	PROPN	_	6	nsubj
+6	prepares	_	VERB	VERB	_	16	compound
+7	for	_	ADP	ADP	_	6	compound:prt
+8	and	_	CONJ	CONJ	_	6	cc
+9	undertakes	_	NOUN	NOUN	_	3	conj
+10	his	_	PRON	PRON	_	14	nmod:poss
+11	first	_	ADJ	ADJ	_	0	foreign
+12	year	_	NOUN	NOUN	_	14	compound
+13	of	_	ADP	ADP	_	14	compound
+14	study	_	NOUN	NOUN	_	16	compound
+15	at	_	ADP	ADP	_	16	compound
+16	Hogwarts	_	NOUN	NOUN	_	3	conj
+17	.	_	PUNCT	PUNCT	_	6	punct
+

@@ -1,0 +1,17 @@
+1	Εγώ	_	NOUN	NOUN	_	3	nsubj
+2	τώρα	_	ADV	ADV	_	3	advmod
+3	κατάλαβα	_	VERB	VERB	_	0	root
+4	ότι	_	CONJ	CONJ	_	9	mark
+5	ο	_	ADJ	ADJ	_	6	det
+6	Magnitude	_	NOUN	NOUN	_	11	nsubj
+7	του	_	ADJ	ADJ	_	8	det
+8	Community	_	NOUN	NOUN	_	6	nmod
+9	ήταν	_	VERB	VERB	_	1	cop
+10	ο	_	ADJ	ADJ	_	11	det
+11	Lee	_	NOUN	NOUN	_	9	nsubj
+12	Jordan	_	NOUN	NOUN	_	11	nmod
+13	στο	_	ADP	ADP	_	14	case
+14	Harry	_	NOUN	NOUN	_	12	nmod
+15	Potter	_	NOUN	NOUN	_	14	nmod
+16	.	_	PUNCT	PUNCT	_	3	punct
+

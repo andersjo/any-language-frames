@@ -1,0 +1,13 @@
+1	En	_	ADP	ADP	_	2	case
+2	noviembre	_	PROPN	PROPN	_	4	nmod
+3	se	_	PRON	PRON	_	4	iobj
+4	presenta	_	VERB	VERB	_	0	root
+5	Google	_	PROPN	PROPN	_	6	name
+6	Analytics	_	PROPN	PROPN	_	4	nsubj
+7	y	_	CONJ	CONJ	_	6	cc
+8	en	_	ADP	ADP	_	11	case
+9	diciembre	_	PROPN	PROPN	_	11	name
+10	Google	_	PROPN	PROPN	_	11	name
+11	Transit	_	PROPN	PROPN	_	6	conj
+12	.	_	PUNCT	PUNCT	_	4	punct
+

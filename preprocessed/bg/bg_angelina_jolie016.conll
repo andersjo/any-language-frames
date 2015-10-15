@@ -1,0 +1,24 @@
+1	Съучениците	_	PROPN	PROPN	_	3	nsubj
+2	я	_	PRON	PRON	_	3	dobj
+3	дразнели	_	VERB	VERB	_	0	root
+4	по	_	ADP	ADP	_	5	case
+5	повод	_	NOUN	NOUN	_	3	nmod
+6	на	_	ADP	ADP	_	7	case
+7	това	_	PRON	PRON	_	5	nmod
+8	,	_	PUNCT	PUNCT	_	10	punct
+9	че	_	SCONJ	SCONJ	_	10	mark
+10	била	_	VERB	VERB	_	3	advcl
+11	изключително	_	ADV	ADV	_	12	advmod
+12	слаба	_	NOUN	NOUN	_	10	dobj
+13	и	_	CONJ	CONJ	_	12	cc
+14	носила	_	ADJ	ADJ	_	15	amod
+15	очила	_	NOUN	NOUN	_	12	conj
+16	и	_	CONJ	CONJ	_	15	cc
+17	метални	_	ADJ	ADJ	_	18	amod
+18	скоби	_	NOUN	NOUN	_	12	conj
+19	за	_	ADP	ADP	_	20	case
+20	корекция	_	NOUN	NOUN	_	18	nmod
+21	на	_	ADP	ADP	_	22	case
+22	зъбите	_	NOUN	NOUN	_	20	nmod
+23	.	_	PUNCT	PUNCT	_	3	punct
+

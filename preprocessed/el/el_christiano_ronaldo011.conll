@@ -1,0 +1,12 @@
+1	Οκτώ	_	NUM	NUM	_	2	nummod
+2	ετών	_	NOUN	NOUN	_	4	nsubj
+3	,	_	PUNCT	PUNCT	_	4	punct
+4	πήγε	_	VERB	VERB	_	0	root
+5	στην	_	ADP	ADP	_	6	case
+6	Αντορίνια	_	NOUN	NOUN	_	4	nmod
+7	,	_	PUNCT	PUNCT	_	4	punct
+8	μια	_	ADJ	ADJ	_	9	det
+9	ερασιτεχνική	_	NOUN	NOUN	_	4	nmod
+10	ομάδα	_	NOUN	NOUN	_	9	nmod
+11	.	_	PUNCT	PUNCT	_	4	punct
+

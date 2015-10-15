@@ -1,0 +1,20 @@
+1	Über	_	ADP	ADP	_	3	case
+2	die	_	DET	DET	_	3	det
+3	Waffen	_	NOUN	NOUN	_	8	nmod
+4	aus	_	ADP	ADP	_	5	case
+5	denen	_	PRON	PRON	_	8	nmod
+6	die	_	DET	DET	_	7	det
+7	Flüchtlinge	_	NOUN	NOUN	_	8	nsubjpass
+8	hervorgehen	_	VERB	VERB	_	11	csubjpass
+9	wird	_	AUX	AUX	_	11	auxpass
+10	nicht	_	PART	PART	_	11	neg
+11	diskutiert	_	VERB	VERB	_	0	root
+12	.	_	PUNCT	PUNCT	_	11	punct
+13	Waffen	_	NOUN	NOUN	_	17	cop
+14	---	_	PROPN	PROPN	_	15	amod
+15	Krieg	_	PROPN	PROPN	_	16	name
+16	---	_	PROPN	PROPN	_	17	det
+17	Flüchtlinge	_	NOUN	NOUN	_	11	dobj
+18	.	_	PUNCT	PUNCT	_	11	punct
+19	http://t.co/VulaZ2CNJh	_	PROPN	PROPN	_	17	appos
+

@@ -1,0 +1,22 @@
+1	"	_	PUNCT	PUNCT	_	3	punct
+2	Il	_	PRON	PRON	_	7	nsubj
+3	n'y	_	VERB	VERB	_	7	cop
+4	a	_	AUX	AUX	_	12	aux
+5	pas	_	ADV	ADV	_	7	neg
+6	plus	_	ADV	ADV	_	7	advmod
+7	aveugle	_	ADJ	ADJ	_	0	root
+8	que	_	SCONJ	SCONJ	_	12	mark
+9	celui	_	PRON	PRON	_	7	nmod
+10	qui	_	PRON	PRON	_	12	nsubj
+11	se	_	PRON	PRON	_	12	dobj
+12	nourrit	_	VERB	VERB	_	9	acl:relcl
+13	de	_	ADP	ADP	_	15	case
+14	ses	_	DET	DET	_	15	nmod:poss
+15	illusions	_	NOUN	NOUN	_	12	nmod
+16	.	_	PUNCT	PUNCT	_	3	punct
+17	"	_	PUNCT	PUNCT	_	21	punct
+18	Les	_	DET	DET	_	20	det
+19	4	_	NUM	NUM	_	20	nummod
+20	Fantastiques	_	PROPN	PROPN	_	21	name
+21	http://t.co/uow7NFsR0M	_	PROPN	PROPN	_	12	nmod
+

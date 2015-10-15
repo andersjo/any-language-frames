@@ -1,0 +1,18 @@
+1	Bruden	_	NOUN	NOUN	_	5	nsubj
+2	var	_	AUX	AUX	_	5	cop
+3	iklädd	_	NOUN	NOUN	_	5	nmod:poss
+4	svarta	_	ADJ	ADJ	_	5	amod
+5	gummibyxor	_	NOUN	NOUN	_	0	root
+6	och	_	CONJ	CONJ	_	5	cc
+7	en	_	DET	DET	_	9	det
+8	vit	_	ADJ	ADJ	_	9	amod
+9	t-shirt	_	NOUN	NOUN	_	5	conj
+10	med	_	ADP	ADP	_	12	case
+11	brudgummens	_	NOUN	NOUN	_	12	nmod:poss
+12	namn	_	NOUN	NOUN	_	9	nmod
+13	skrivet	_	ADJ	ADJ	_	12	acl
+14	i	_	ADP	ADP	_	16	case
+15	hennes	_	DET	DET	_	16	nmod:poss
+16	blod	_	NOUN	NOUN	_	13	nmod
+17	.	_	PUNCT	PUNCT	_	13	punct
+

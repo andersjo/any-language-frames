@@ -1,0 +1,19 @@
+1	Angelina	_	ADJ	ADJ	_	2	amod
+2	Jolie	_	NOUN	NOUN	_	8	nsubj
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	”	_	ADJ	ADJ	_	5	amod
+5	Rollen	_	NOUN	NOUN	_	2	appos
+6	som	_	CONJ	CONJ	_	7	mark
+7	regissör	_	NOUN	NOUN	_	5	acl
+8	gjorde	_	VERB	VERB	_	0	root
+9	mig	_	PRON	PRON	_	8	dobj
+10	förälskad	_	ADJ	ADJ	_	8	xcomp
+11	i	_	ADP	ADP	_	13	case
+12	filmmediet	_	NOUN	NOUN	_	13	nmod:poss
+13	”	_	NOUN	NOUN	_	8	nmod
+14	-	_	PUNCT	PUNCT	_	10	punct
+15	DN	_	PROPN	PROPN	_	13	appos
+16	.	_	PUNCT	PUNCT	_	2	punct
+17	SE	_	VERB	VERB	_	2	parataxis
+18	http://t.co/iL1uUSTeWY	_	NOUN	NOUN	_	17	dobj
+

@@ -1,0 +1,27 @@
+1	je	_	PRON	PRON	_	12	nsubj
+2	viens	_	AUX	AUX	_	12	aux
+3	devoir	_	AUX	AUX	_	0	root
+4	une	_	DET	DET	_	5	det
+5	photo	_	NOUN	NOUN	_	3	dobj
+6	de	_	ADP	ADP	_	8	case
+7	christiano	_	PROPN	PROPN	_	8	name
+8	ronaldo	_	PROPN	PROPN	_	5	nmod
+9	et	_	CONJ	CONJ	_	5	cc
+10	son	_	DET	DET	_	11	nmod:poss
+11	fils	_	NOUN	NOUN	_	5	conj
+12	sortir	_	VERB	VERB	_	11	acl
+13	d'une	_	NOUN	NOUN	_	14	compound
+14	mosquée	_	NOUN	NOUN	_	12	dobj
+15	et	_	CONJ	CONJ	_	12	cc
+16	askip	_	VERB	VERB	_	12	conj
+17	son	_	DET	DET	_	18	nmod:poss
+18	fils	_	NOUN	NOUN	_	16	dobj
+19	s'apelle	_	VERB	VERB	_	20	cop
+20	Saïd	_	PROPN	PROPN	_	18	acl
+21	,	_	PUNCT	PUNCT	_	20	punct
+22	mdddddr	_	PROPN	PROPN	_	20	conj
+23	bande	_	NOUN	NOUN	_	22	appos
+24	de	_	ADP	ADP	_	25	case
+25	forceur	_	NOUN	NOUN	_	23	nmod
+26	😂	_	PROPN	PROPN	_	25	appos
+

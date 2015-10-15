@@ -1,0 +1,8 @@
+1	Das	_	DET	DET	_	2	det
+2	Unternehmen	_	NOUN	NOUN	_	3	nsubj
+3	beschreibt	_	VERB	VERB	_	0	root
+4	das	_	DET	DET	_	6	det
+5	eigene	_	ADJ	ADJ	_	6	amod
+6	Bestreben	_	NOUN	NOUN	_	3	dobj
+7	darin	_	ADV	ADV	_	3	advmod
+

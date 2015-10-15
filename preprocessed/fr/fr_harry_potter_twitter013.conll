@@ -1,0 +1,25 @@
+1	Avec	_	ADP	ADP	_	3	case
+2	la	_	DET	DET	_	3	det
+3	Cindy	_	PROPN	PROPN	_	7	nmod
+4	,	_	PUNCT	PUNCT	_	7	punct
+5	quand	_	SCONJ	SCONJ	_	7	mark
+6	j'ai	_	PROPN	PROPN	_	7	nsubj
+7	découvert	_	VERB	VERB	_	0	root
+8	que	_	SCONJ	SCONJ	_	14	mark
+9	les	_	DET	DET	_	10	det
+10	parents	_	NOUN	NOUN	_	14	nsubj
+11	de	_	ADP	ADP	_	13	case
+12	Bridget	_	PROPN	PROPN	_	13	name
+13	Jones	_	PROPN	PROPN	_	10	nmod
+14	jouait	_	VERB	VERB	_	7	ccomp
+15	aussi	_	ADV	ADV	_	14	advmod
+16	dans	_	ADP	ADP	_	18	case
+17	Harry	_	PROPN	PROPN	_	18	name
+18	Potter	_	PROPN	PROPN	_	14	nmod
+19	.	_	PUNCT	PUNCT	_	7	punct
+20	Ca	_	PRON	PRON	_	21	nsubj
+21	m'a	_	VERB	VERB	_	14	conj
+22	bouleversé	_	NOUN	NOUN	_	21	dobj
+23	.	_	PUNCT	PUNCT	_	7	punct
+24	http://t.co/3t5Dw7b5n2	_	X	X	_	22	appos
+

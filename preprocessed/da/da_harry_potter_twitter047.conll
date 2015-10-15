@@ -1,0 +1,16 @@
+1	Jeg	_	PRON	PRON	_	2	nsubj
+2	likte	_	VERB	VERB	_	0	root
+3	en	_	DET	DET	_	4	det
+4	@YouTube	_	NOUN	NOUN	_	2	dobj
+5	-video	_	NOUN	NOUN	_	4	nmod
+6	fra	_	ADP	ADP	_	7	case
+7	@memeulous	_	NOUN	NOUN	_	5	nmod
+8	–	_	VERB	VERB	_	4	dep
+9	http://t.co/d5FROW05Wd	_	ADJ	ADJ	_	10	amod
+10	Harry	_	NOUN	NOUN	_	11	nmod:poss
+11	Potter	_	NOUN	NOUN	_	8	dobj
+12	and	_	X	X	_	11	nmod:poss
+13	the	_	X	X	_	12	dep
+14	Noscoper's	_	PROPN	PROPN	_	13	dep
+15	Stone	_	PROPN	PROPN	_	14	name
+

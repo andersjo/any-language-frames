@@ -1,0 +1,24 @@
+1	Google	_	PROPN	PROPN	_	3	nsubj
+2	est	_	AUX	AUX	_	3	aux
+3	devenue	_	VERB	VERB	_	4	cop
+4	l'une	_	NOUN	NOUN	_	0	root
+5	des	_	ADP	ADP	_	7	case
+6	premières	_	ADJ	ADJ	_	7	amod
+7	entreprises	_	NOUN	NOUN	_	4	nmod
+8	américaines	_	ADJ	ADJ	_	7	amod
+9	et	_	CONJ	CONJ	_	8	cc
+10	mondiales	_	ADJ	ADJ	_	8	conj
+11	par	_	ADP	ADP	_	13	case
+12	sa	_	DET	DET	_	13	nmod:poss
+13	valorisation	_	NOUN	NOUN	_	4	nmod
+14	,	_	PUNCT	PUNCT	_	4	punct
+15	quelques	_	DET	DET	_	16	det
+16	années	_	NOUN	NOUN	_	13	conj
+17	après	_	ADP	ADP	_	19	case
+18	une	_	DET	DET	_	19	det
+19	entrée	_	NOUN	NOUN	_	16	nmod
+20	en	_	ADP	ADP	_	21	case
+21	bourse	_	NOUN	NOUN	_	19	nmod
+22	originale	_	ADJ	ADJ	_	21	amod
+23	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,17 @@
+1	Enter	_	VERB	VERB	_	0	root
+2	to	_	ADP	ADP	_	1	compound
+3	#WIN	_	NOUN	NOUN	_	1	dobj
+4	an	_	DET	DET	_	6	det
+5	RCA	_	PROPN	PROPN	_	6	compound
+6	Tablet	_	PROPN	PROPN	_	9	nsubj
+7	and	_	CONJ	CONJ	_	6	cc
+8	Google	_	PROPN	PROPN	_	6	conj
+9	Play	_	VERB	VERB	_	3	acl:relcl
+10	card	_	NOUN	NOUN	_	9	dobj
+11	from	_	ADP	ADP	_	9	compound:prt
+12	Thrifty	_	PROPN	PROPN	_	13	compound
+13	Canadian	_	PROPN	PROPN	_	9	nmod
+14	!	_	PUNCT	PUNCT	_	1	punct
+15	@couponingcanuck	_	PROPN	PROPN	_	13	appos
+16	http://t.co/48NAmgFIph	_	X	X	_	13	list
+

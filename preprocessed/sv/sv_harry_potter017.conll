@@ -1,0 +1,24 @@
+1	Det	_	PRON	PRON	_	6	nsubj
+2	var	_	AUX	AUX	_	6	cop
+3	bara	_	ADV	ADV	_	6	advmod
+4	hans	_	DET	DET	_	5	nmod:poss
+5	mors	_	NOUN	NOUN	_	6	nmod:poss
+6	kärlek	_	NOUN	NOUN	_	0	root
+7	som	_	CONJ	CONJ	_	9	mark
+8	räddade	_	ADJ	ADJ	_	9	amod
+9	Harry	_	NOUN	NOUN	_	6	conj
+10	från	_	ADP	ADP	_	11	case
+11	döden	_	NOUN	NOUN	_	9	nmod
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	med	_	ADP	ADP	_	17	case
+14	ett	_	DET	DET	_	17	det
+15	litet	_	ADV	ADV	_	16	advmod
+16	blixtformat	_	ADJ	ADJ	_	17	amod
+17	ärr	_	NOUN	NOUN	_	9	conj
+18	i	_	ADP	ADP	_	19	case
+19	pannan	_	NOUN	NOUN	_	17	nmod
+20	som	_	CONJ	CONJ	_	22	mark
+21	enda	_	ADJ	ADJ	_	22	det
+22	resultat	_	NOUN	NOUN	_	19	conj
+23	.	_	PUNCT	PUNCT	_	6	punct
+

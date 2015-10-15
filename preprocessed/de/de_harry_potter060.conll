@@ -1,0 +1,24 @@
+1	Umgekehrt	_	ADJ	ADJ	_	12	advmod
+2	können	_	AUX	AUX	_	12	aux
+3	sich	_	PRON	PRON	_	12	dobj
+4	Zauberer	_	NOUN	NOUN	_	12	dobj
+5	und	_	CONJ	CONJ	_	4	cc
+6	Hexen	_	PROPN	PROPN	_	4	conj
+7	ungehindert	_	ADJ	ADJ	_	12	advmod
+8	in	_	ADP	ADP	_	11	case
+9	der	_	DET	DET	_	11	det
+10	nichtmagischen	_	ADJ	ADJ	_	11	amod
+11	Welt	_	NOUN	NOUN	_	12	nmod
+12	bewegen	_	VERB	VERB	_	0	root
+13	,	_	PUNCT	PUNCT	_	12	punct
+14	viele	_	PRON	PRON	_	17	nsubj
+15	von	_	ADP	ADP	_	16	case
+16	ihnen	_	PRON	PRON	_	14	nmod
+17	meiden	_	VERB	VERB	_	12	parataxis
+18	jedoch	_	ADV	ADV	_	17	advmod
+19	die	_	DET	DET	_	20	det
+20	Gesellschaft	_	NOUN	NOUN	_	17	nsubj
+21	von	_	ADP	ADP	_	22	case
+22	Muggeln	_	NOUN	NOUN	_	20	nmod
+23	.	_	PUNCT	PUNCT	_	12	punct
+

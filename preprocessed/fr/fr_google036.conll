@@ -1,0 +1,9 @@
+1	Ils	_	PRON	PRON	_	2	nsubj
+2	nomment	_	VERB	VERB	_	0	root
+3	leur	_	DET	DET	_	4	nmod:poss
+4	projet	_	NOUN	NOUN	_	2	dobj
+5	"	_	PUNCT	PUNCT	_	6	punct
+6	BackRub	_	PROPN	PROPN	_	4	appos
+7	"	_	PUNCT	PUNCT	_	6	punct
+8	.	_	PUNCT	PUNCT	_	2	punct
+

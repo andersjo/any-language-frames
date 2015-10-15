@@ -1,0 +1,23 @@
+1	Därtill	_	ADV	ADV	_	7	advmod
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	även	_	ADV	ADV	_	7	mark
+4	om	_	ADP	ADP	_	6	case
+5	många	_	ADJ	ADJ	_	6	det
+6	scener	_	NOUN	NOUN	_	7	nmod
+7	innehåller	_	VERB	VERB	_	0	root
+8	subtila	_	ADV	ADV	_	9	advmod
+9	moraliska	_	ADJ	ADJ	_	10	amod
+10	diskussioner	_	NOUN	NOUN	_	7	dobj
+11	,	_	PUNCT	PUNCT	_	7	punct
+12	är	_	AUX	AUX	_	13	cop
+13	kampen	_	NOUN	NOUN	_	7	ccomp
+14	mellan	_	ADP	ADP	_	21	case
+15	gott	_	ADJ	ADJ	_	21	amod
+16	och	_	CONJ	CONJ	_	15	cc
+17	ont	_	ADJ	ADJ	_	15	conj
+18	i	_	ADP	ADP	_	21	case
+19	stort	_	ADV	ADV	_	18	mwe
+20	sett	_	ADJ	ADJ	_	21	amod
+21	svartvit	_	NOUN	NOUN	_	13	nmod
+22	.	_	PUNCT	PUNCT	_	7	punct
+

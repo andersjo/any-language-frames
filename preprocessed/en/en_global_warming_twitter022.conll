@@ -1,0 +1,17 @@
+1	I	_	PRON	PRON	_	2	nsubj
+2	believe	_	VERB	VERB	_	0	root
+3	in	_	ADP	ADP	_	2	compound:prt
+4	global	_	ADJ	ADJ	_	0	cc
+5	warming	_	NOUN	NOUN	_	2	dobj
+6	because	_	ADP	ADP	_	2	compound:prt
+7	Detroit	_	PROPN	PROPN	_	9	nsubj
+8	is	_	AUX	AUX	_	9	aux
+9	having	_	VERB	VERB	_	2	ccomp
+10	a	_	DET	DET	_	11	det
+11	meltdown	_	NOUN	NOUN	_	9	dobj
+12	right	_	ADV	ADV	_	9	advmod
+13	before	_	SCONJ	SCONJ	_	16	mark
+14	my	_	PRON	PRON	_	16	nmod:poss
+15	eyes	_	NOUN	NOUN	_	16	compound
+16	#DETvsDAL	_	NOUN	NOUN	_	9	dobj
+

@@ -1,0 +1,11 @@
+1	Όλοι	_	ADJ	ADJ	_	0	root
+2	οι	_	ADJ	ADJ	_	4	det
+3	γαλανομάτηδες	_	ADJ	ADJ	_	4	amod
+4	«απόγονοι	_	NOUN	NOUN	_	1	nsubj
+5	του	_	ADJ	ADJ	_	7	det
+6	ίδιου	_	ADJ	ADJ	_	7	amod
+7	ανθρώπου»	_	NOUN	NOUN	_	4	nmod
+8	!	_	PUNCT	PUNCT	_	7	amod
+9	-	_	PUNCT	PUNCT	_	10	punct
+10	http://t.co/xocZnn6Lpc	_	NOUN	NOUN	_	4	nmod
+

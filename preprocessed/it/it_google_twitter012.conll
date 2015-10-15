@@ -1,0 +1,11 @@
+1	Dov'è	_	VERB	VERB	_	0	root
+2	adesso	_	ADV	ADV	_	1	advmod
+3	Babbo	_	PROPN	PROPN	_	1	nsubj
+4	Natale	_	PROPN	PROPN	_	3	name
+5	?	_	PUNCT	PUNCT	_	1	punct
+6	Segui	_	VERB	VERB	_	1	parataxis
+7	Babbo	_	PROPN	PROPN	_	6	nsubj
+8	Natale	_	PROPN	PROPN	_	7	name
+9	;-)	_	PROPN	PROPN	_	7	name
+10	http://t.co/TzW8Asb7Rq	_	NOUN	NOUN	_	7	nmod
+

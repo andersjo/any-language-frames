@@ -1,0 +1,12 @@
+1	Ο	_	ADJ	ADJ	_	2	det
+2	αδερφός	_	NOUN	NOUN	_	5	nsubj
+3	της	_	PRON	PRON	_	2	nmod
+4	είναι	_	VERB	VERB	_	7	cop
+5	ο	_	ADJ	ADJ	_	7	det
+6	επίσης	_	ADV	ADV	_	7	amod
+7	ηθοποιός	_	NOUN	NOUN	_	0	root
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	Τζέιμς	_	NOUN	NOUN	_	10	nmod
+10	Χέβεν	_	NOUN	NOUN	_	7	conj
+11	.	_	PUNCT	PUNCT	_	7	punct
+

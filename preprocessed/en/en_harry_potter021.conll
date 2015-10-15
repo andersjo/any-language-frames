@@ -1,0 +1,27 @@
+1	The	_	DET	DET	_	2	det
+2	books	_	NOUN	NOUN	_	4	nsubj
+3	also	_	ADV	ADV	_	4	advmod
+4	contain	_	VERB	VERB	_	0	root
+5	many	_	ADJ	ADJ	_	0	iobj
+6	flashbacks	_	NOUN	NOUN	_	4	dobj
+7	,	_	PUNCT	PUNCT	_	4	punct
+8	which	_	DET	DET	_	11	nsubjpass
+9	are	_	AUX	AUX	_	11	auxpass
+10	frequently	_	ADV	ADV	_	11	advmod
+11	experienced	_	VERB	VERB	_	6	acl:relcl
+12	by	_	ADP	ADP	_	11	compound:prt
+13	Harry	_	PROPN	PROPN	_	14	nsubj
+14	viewing	_	VERB	VERB	_	11	advcl
+15	the	_	DET	DET	_	16	det
+16	memories	_	NOUN	NOUN	_	14	dobj
+17	of	_	ADP	ADP	_	14	compound:prt
+18	other	_	ADJ	ADJ	_	0	iobj
+19	characters	_	NOUN	NOUN	_	14	dobj
+20	in	_	ADP	ADP	_	14	compound:prt
+21	a	_	DET	DET	_	22	det
+22	device	_	NOUN	NOUN	_	23	nsubj
+23	called	_	VERB	VERB	_	16	acl
+24	a	_	DET	DET	_	25	det
+25	Pensieve	_	NOUN	NOUN	_	23	dobj
+26	.	_	PUNCT	PUNCT	_	4	punct
+

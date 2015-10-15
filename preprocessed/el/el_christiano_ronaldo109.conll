@@ -1,0 +1,17 @@
+1	O	_	ADJ	ADJ	_	2	det
+2	Ρονάλντο	_	NOUN	NOUN	_	3	nsubj
+3	απεικονίστηκε	_	VERB	VERB	_	0	root
+4	στο	_	ADP	ADP	_	5	case
+5	εξώφυλλο	_	NOUN	NOUN	_	3	nmod
+6	των	_	ADJ	ADJ	_	8	det
+7	βιντεοπαιχνιδιών	_	ADJ	ADJ	_	8	amod
+8	FIFA	_	NOUN	NOUN	_	5	nmod
+9	Street	_	NOUN	NOUN	_	8	nmod
+10	2	_	NUM	NUM	_	9	nmod
+11	και	_	CONJ	CONJ	_	10	cc
+12	Pro	_	NOUN	NOUN	_	10	conj
+13	Evolution	_	NOUN	NOUN	_	12	nmod
+14	Soccer	_	NOUN	NOUN	_	13	nmod
+15	2008	_	NUM	NUM	_	14	nmod
+16	.	_	PUNCT	PUNCT	_	3	punct
+

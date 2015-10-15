@@ -1,0 +1,14 @@
+1	Jordan	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Angelina	_	PROPN	PROPN	_	1	list
+4	Jolie	_	NOUN	NOUN	_	3	dep
+5	meets	_	NOUN	NOUN	_	3	conj
+6	Syrian	_	PROPN	PROPN	_	5	appos
+7	Refugees	_	PROPN	PROPN	_	6	name
+8	at	_	PART	PART	_	1	dep
+9	Border	_	NOUN	NOUN	_	8	dep
+10	:	_	PUNCT	PUNCT	_	3	punct
+11	http://t.co/KWiRI3wwul	_	NOUN	NOUN	_	8	dep
+12	via	_	ADP	ADP	_	13	case
+13	@YouTube	_	NOUN	NOUN	_	11	nmod
+

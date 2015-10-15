@@ -1,0 +1,22 @@
+1	I	_	PRON	PRON	_	2	nsubj
+2	don't	_	VERB	VERB	_	0	root
+3	understand	_	VERB	VERB	_	2	xcomp
+4	why	_	ADV	ADV	_	6	advmod
+5	you	_	PRON	PRON	_	6	nsubj
+6	hit	_	VERB	VERB	_	3	advcl
+7	publish	_	VERB	VERB	_	6	xcomp
+8	on	_	ADP	ADP	_	7	compound:prt
+9	this	_	DET	DET	_	7	dobj
+10	,	_	PUNCT	PUNCT	_	3	punct
+11	like	_	SCONJ	SCONJ	_	13	mark
+12	you	_	PRON	PRON	_	13	nsubj
+13	watched	_	VERB	VERB	_	7	advcl
+14	a	_	DET	DET	_	16	det
+15	different	_	ADJ	ADJ	_	0	foreign
+16	Wizards	_	NOUN	NOUN	_	13	dobj
+17	&	_	CONJ	CONJ	_	16	cc
+18	Thunder	_	PROPN	PROPN	_	19	compound
+19	game	_	NOUN	NOUN	_	16	conj
+20	http://t.co/amXzogtOPH	_	X	X	_	21	goeswith
+21	@ThunderObsessed	_	VERB	VERB	_	19	parataxis
+

@@ -1,0 +1,25 @@
+1	Το	_	ADJ	ADJ	_	2	det
+2	Googleplex	_	NOUN	NOUN	_	4	nsubj
+3	είναι	_	VERB	VERB	_	7	cop
+4	τα	_	ADJ	ADJ	_	7	det
+5	κεντρικά	_	ADJ	ADJ	_	16	nsubj
+6	της	_	ADJ	ADJ	_	7	det
+7	Google	_	NOUN	NOUN	_	5	nmod
+8	,	_	PUNCT	PUNCT	_	10	punct
+9	αφού	_	CONJ	CONJ	_	16	mark
+10	όλες	_	ADJ	ADJ	_	12	amod
+11	οι	_	ADJ	ADJ	_	12	det
+12	λειτουργίες	_	NOUN	NOUN	_	16	nsubj
+13	της	_	ADJ	ADJ	_	14	det
+14	μηχανής	_	NOUN	NOUN	_	12	nmod
+15	αναζήτησης	_	NOUN	NOUN	_	14	nmod
+16	εμπνέονται	_	VERB	VERB	_	0	root
+17	και	_	CONJ	CONJ	_	16	cc
+18	υλοποιούνται	_	VERB	VERB	_	16	conj
+19	μέσα	_	ADV	ADV	_	18	advmod
+20	σ'	_	ADP	ADP	_	23	case
+21	αυτό	_	PRON	PRON	_	23	det
+22	το	_	ADJ	ADJ	_	23	det
+23	κτίριο	_	NOUN	NOUN	_	18	dobj
+24	.	_	PUNCT	PUNCT	_	16	punct
+

@@ -1,0 +1,13 @@
+1	@OfficieMaillot	_	PROPN	PROPN	_	5	nsubj
+2	y	_	PRON	PRON	_	5	iobj
+3	a	_	AUX	AUX	_	0	root
+4	pas	_	ADV	ADV	_	3	neg
+5	celui	_	PRON	PRON	_	4	dobj
+6	de	_	ADP	ADP	_	8	case
+7	Christiano	_	PROPN	PROPN	_	8	name
+8	Ronaldo	_	PROPN	PROPN	_	5	nmod
+9	au	_	ADP	ADP	_	10	case
+10	barça	_	NOUN	NOUN	_	5	nmod
+11	0_o	_	PROPN	PROPN	_	10	appos
+12	?	_	PUNCT	PUNCT	_	5	punct
+

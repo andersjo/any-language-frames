@@ -1,0 +1,10 @@
+1	🍞	_	PROPN	PROPN	_	7	nsubj
+2	#news	_	PROPN	PROPN	_	1	nmod
+3	:	_	PUNCT	PUNCT	_	1	punct
+4	Google	_	PROPN	PROPN	_	1	nmod
+5	и	_	CONJ	CONJ	_	1	cc
+6	Motorola	_	PROPN	PROPN	_	1	conj
+7	представили	_	VERB	VERB	_	0	root
+8	Moto	_	PROPN	PROPN	_	7	dobj
+9	X👽	_	PROPN	PROPN	_	8	name
+

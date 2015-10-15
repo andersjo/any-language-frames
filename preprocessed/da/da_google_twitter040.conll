@@ -1,0 +1,16 @@
+1	6:24:05	_	NUM	NUM	_	2	nummod
+2	P1	_	NOUN	NOUN	_	6	dep
+3	OMS	_	PROPN	PROPN	_	2	appos
+4	HAGELSTEGE	_	NOUN	NOUN	_	3	dep
+5	46	_	NUM	NUM	_	6	nummod
+6	#DENHAM	_	NOUN	NOUN	_	11	dep
+7	3431	_	NUM	NUM	_	8	nummod
+8	Td/Afst	_	NOUN	NOUN	_	0	root
+9	:	_	PUNCT	PUNCT	_	8	punct
+10	2:58	_	NUM	NUM	_	11	nummod
+11	min/	_	NOUN	NOUN	_	13	dep
+12	1.429	_	NUM	NUM	_	13	nummod
+13	Km(ind	_	NOUN	NOUN	_	8	dep
+14	)	_	PUNCT	PUNCT	_	13	punct
+15	https://t.co/IH4sSHGzXB	_	NOUN	NOUN	_	11	list
+

@@ -1,0 +1,14 @@
+1	März	_	PROPN	PROPN	_	12	nmod
+2	1911	_	NUM	NUM	_	1	nmod
+3	in	_	ADP	ADP	_	4	case
+4	Dänemark	_	PROPN	PROPN	_	12	nmod
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	Deutschland	_	PROPN	PROPN	_	4	appos
+7	,	_	PUNCT	PUNCT	_	4	punct
+8	Österreich-Ungarn	_	PROPN	PROPN	_	4	conj
+9	und	_	CONJ	CONJ	_	4	cc
+10	der	_	DET	DET	_	11	det
+11	Schweiz	_	PROPN	PROPN	_	4	conj
+12	gefeiert	_	VERB	VERB	_	0	root
+13	.	_	PUNCT	PUNCT	_	12	punct
+

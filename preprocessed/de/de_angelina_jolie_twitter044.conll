@@ -1,0 +1,16 @@
+1	schwarzer	_	ADJ	ADJ	_	2	amod
+2	Humor	_	NOUN	NOUN	_	7	nsubj
+3	ist	_	VERB	VERB	_	7	cop
+4	erst	_	ADV	ADV	_	7	advmod
+5	dann	_	ADV	ADV	_	7	advmod
+6	richtig	_	ADV	ADV	_	7	advmod
+7	schwarz	_	ADJ	ADJ	_	0	root
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	wenn	_	SCONJ	SCONJ	_	13	mark
+10	Angelina	_	PROPN	PROPN	_	11	name
+11	Jolie	_	PROPN	PROPN	_	13	nsubj
+12	ihn	_	PRON	PRON	_	13	dobj
+13	adoptieren	_	VERB	VERB	_	7	advcl
+14	will	_	AUX	AUX	_	13	aux
+15	.	_	PUNCT	PUNCT	_	7	punct
+

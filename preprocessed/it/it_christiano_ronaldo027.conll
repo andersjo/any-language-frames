@@ -1,0 +1,11 @@
+1	È	_	VERB	VERB	_	0	root
+2	in	_	ADP	ADP	_	3	case
+3	grado	_	NOUN	NOUN	_	1	nmod
+4	di	_	ADP	ADP	_	5	mark
+5	calciare	_	VERB	VERB	_	3	acl
+6	con	_	ADP	ADP	_	9	case
+7	entrambi	_	DET	DET	_	9	det:predet
+8	i	_	DET	DET	_	9	det
+9	piedi	_	NOUN	NOUN	_	5	nmod
+10	.	_	PUNCT	PUNCT	_	1	punct
+

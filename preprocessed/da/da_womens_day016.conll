@@ -1,0 +1,22 @@
+1	Op	_	ADV	ADV	_	9	advmod
+2	gennem	_	ADP	ADP	_	3	case
+3	20'erne	_	NOUN	NOUN	_	1	nmod
+4	og	_	CONJ	CONJ	_	3	cc
+5	30'erne	_	NOUN	NOUN	_	3	conj
+6	blev	_	AUX	AUX	_	9	auxpass
+7	dagen	_	NOUN	NOUN	_	9	nsubjpass
+8	mest	_	ADV	ADV	_	9	advmod
+9	markeret	_	VERB	VERB	_	0	root
+10	som	_	PART	PART	_	9	dep
+11	en	_	DET	DET	_	13	det
+12	socialistisk	_	ADJ	ADJ	_	13	amod
+13	kvindedag	_	NOUN	NOUN	_	10	dep
+14	,	_	PUNCT	PUNCT	_	20	punct
+15	hvor	_	ADV	ADV	_	20	advmod
+16	de	_	DET	DET	_	18	det
+17	borgerlige	_	ADJ	ADJ	_	18	amod
+18	kvindebevægelser	_	NOUN	NOUN	_	20	nsubj
+19	ikke	_	ADV	ADV	_	20	neg
+20	deltog	_	VERB	VERB	_	13	dep
+21	.	_	PUNCT	PUNCT	_	9	punct
+

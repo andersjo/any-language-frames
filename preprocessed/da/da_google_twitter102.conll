@@ -1,0 +1,16 @@
+1	Khaleej	_	PROPN	PROPN	_	0	root
+2	Times	_	PROPN	PROPN	_	1	name
+3	:	_	PUNCT	PUNCT	_	1	punct
+4	Pakistan	_	PROPN	PROPN	_	1	list
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	India	_	PROPN	PROPN	_	4	conj
+7	trade	_	NOUN	NOUN	_	6	dep
+8	fire	_	NUM	NUM	_	7	nmod
+9	in	_	X	X	_	8	dep
+10	Kashmir	_	PROPN	PROPN	_	4	conj
+11	,	_	PUNCT	PUNCT	_	4	punct
+12	killing	_	NOUN	NOUN	_	4	conj
+13	4	_	NUM	NUM	_	12	nmod
+14	.	_	PUNCT	PUNCT	_	4	punct
+15	http://t.co/8vcRm8hmFX	_	PROPN	PROPN	_	12	list
+

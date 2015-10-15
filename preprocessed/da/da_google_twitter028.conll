@@ -1,0 +1,10 @@
+1	http://t.co/YbpPiBr5M8	_	NOUN	NOUN	_	0	root
+2	GVSU	_	PROPN	PROPN	_	1	appos
+3	drops	_	NOUN	NOUN	_	2	dep
+4	75-67	_	NUM	NUM	_	5	nummod
+5	decision	_	NOUN	NOUN	_	2	dep
+6	at	_	PART	PART	_	5	dep
+7	Findlay	_	PROPN	PROPN	_	6	dep
+8	http://t.co/YpmFsCLfXr	_	NOUN	NOUN	_	7	dep
+9	#GrandRapids	_	NOUN	NOUN	_	8	nmod
+

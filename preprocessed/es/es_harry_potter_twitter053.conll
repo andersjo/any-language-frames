@@ -1,0 +1,19 @@
+1	@EvilQueen_Erase	_	VERB	VERB	_	0	root
+2	sabes	_	VERB	VERB	_	1	xcomp
+3	lo	_	DET	DET	_	4	det
+4	peor	_	NOUN	NOUN	_	2	dobj
+5	de	_	ADP	ADP	_	6	case
+6	todo	_	PRON	PRON	_	4	nmod
+7	?	_	PUNCT	PUNCT	_	1	punct
+8	Ella	_	PRON	PRON	_	10	nsubj
+9	se	_	PRON	PRON	_	10	iobj
+10	atrevió	_	VERB	VERB	_	4	acl:relcl
+11	a	_	ADP	ADP	_	12	case
+12	decirme	_	VERB	VERB	_	10	acl
+13	que	_	SCONJ	SCONJ	_	17	mark
+14	Harry	_	PROPN	PROPN	_	15	name
+15	Potter	_	PROPN	PROPN	_	17	nsubj
+16	era	_	VERB	VERB	_	17	cop
+17	ficción	_	NOUN	NOUN	_	12	ccomp
+18	!	_	PUNCT	PUNCT	_	1	punct
+

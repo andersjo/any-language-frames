@@ -1,0 +1,11 @@
+1	Retos	_	NOUN	NOUN	_	0	root
+2	tecnológicos	_	ADJ	ADJ	_	1	amod
+3	de	_	ADP	ADP	_	4	case
+4	2015	_	NUM	NUM	_	1	nmod
+5	(	_	PUNCT	PUNCT	_	6	punct
+6	parte	_	NOUN	NOUN	_	1	appos
+7	1	_	NUM	NUM	_	6	nummod
+8	)	_	PUNCT	PUNCT	_	6	punct
+9	http://t.co/cT9GcYslXO	_	PROPN	PROPN	_	10	name
+10	#tecnologia	_	PROPN	PROPN	_	6	appos
+

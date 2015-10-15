@@ -1,0 +1,14 @@
+1	Οι	_	ADJ	ADJ	_	2	det
+2	νονοί	_	NOUN	NOUN	_	6	nsubj
+3	της	_	PRON	PRON	_	2	nmod
+4	είναι	_	VERB	VERB	_	6	cop
+5	οι	_	ADJ	ADJ	_	6	det
+6	ηθοποιοί	_	NOUN	NOUN	_	0	root
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	Τζάκλιν	_	NOUN	NOUN	_	9	nmod
+9	Μπίσετ	_	NOUN	NOUN	_	6	conj
+10	και	_	CONJ	CONJ	_	6	cc
+11	Μαξιμίλιαν	_	ADJ	ADJ	_	12	amod
+12	Σελλ	_	NOUN	NOUN	_	6	conj
+13	.	_	PUNCT	PUNCT	_	6	punct
+

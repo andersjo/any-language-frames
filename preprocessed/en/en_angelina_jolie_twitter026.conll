@@ -1,0 +1,21 @@
+1	“	_	ADJ	ADJ	_	0	cc
+2	@AxelCee	_	NOUN	NOUN	_	9	nmod
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	@cryssy7	_	NOUN	NOUN	_	2	appos
+5	true	_	ADJ	ADJ	_	0	compound
+6	life	_	NOUN	NOUN	_	2	appos
+7	:	_	PUNCT	PUNCT	_	6	punct
+8	crystal	_	NOUN	NOUN	_	9	nsubj
+9	got	_	VERB	VERB	_	0	root
+10	me	_	PRON	PRON	_	9	iobj
+11	chobee	_	NOUN	NOUN	_	9	dobj
+12	”	_	PROPN	PROPN	_	14	compound
+13	lmfao	_	PROPN	PROPN	_	14	compound
+14	😂😂	_	PROPN	PROPN	_	18	nsubj
+15	can	_	AUX	AUX	_	18	aux
+16	Angelina	_	PROPN	PROPN	_	17	compound
+17	Jolie	_	PROPN	PROPN	_	18	nsubj
+18	play	_	VERB	VERB	_	11	acl:relcl
+19	me	_	PRON	PRON	_	18	dobj
+20	??	_	PUNCT	PUNCT	_	9	punct
+

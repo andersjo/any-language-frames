@@ -1,0 +1,3184 @@
+A	_	Measure_duration Process_end Quantity
+Brief	_	Documents Duration_attribute
+History	_	Fields History Individual_history Out_of_existence Text
+
+Jerusalem	_	
+'s	_	Existence Required_event
+recorded	_	Recording
+history	_	Fields History Individual_history Out_of_existence Text
+begins	_	Activity_start Process_start
+with	_	Accompaniment
+its	_	
+mention	_	Mention Statement
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Egyptian	_	Origin
+court	_	Judicial_body Locale_by_use Personal_relationship
+records	_	Recording
+4,000	_	
+years	_	Calendric_unit Measure_duration
+ago	_	Time_vector
+,	_	
+but	_	Concessive
+there	_	Existence Locative_relation
+had	_	Being_obligated Have_associated Possession Required_event
+been	_	Existence
+human	_	People
+settlements	_	Colonization Locale_by_use
+here	_	Locative_relation
+for	_	Causation Taking_sides
+centuries	_	Measure_duration
+,	_	
+probably	_	Likelihood
+millennia	_	Measure_duration
+,	_	
+before	_	Time_vector
+that	_	Degree
+.	_	
+
+At	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+beginning	_	Activity_start Process_start Temporal_subregion
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+second	_	Calendric_unit Measure_duration Ordinal_numbers
+millennium	_	Calendric_unit Measure_duration
+b.c.	_	
+,	_	
+Jerusalem	_	
+was	_	Existence
+a	_	Measure_duration Process_end Quantity
+Canaanite	_	
+mountain	_	Natural_features Quantity
+stronghold	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+a	_	Measure_duration Process_end Quantity
+secondary	_	
+trade	_	Change_tool Exchange
+route	_	Roadways Sending
+,	_	
+far	_	Degree
+less	_	
+important	_	Importance
+than	_	Time_vector
+biblical	_	
+cities	_	Locale_by_use Political_locales
+such	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+Hazor	_	
+,	_	
+Megiddo	_	
+,	_	
+Beth	_	
+Shean	_	
+,	_	
+and	_	
+Shechem	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+earliest	_	Relative_time Temporal_collocation
+name	_	Adducing Appointing Being_named Indicating Name_conferral Referring_by_name
+associated	_	Cognitive_connection Membership
+with	_	Accompaniment
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+,	_	
+Ur	_	
+usalim	_	
+,	_	
+perhaps	_	
+meant	_	Evidence Linguistic_meaning
+``	_	
+city	_	Locale_by_use Political_locales
+of	_	Age Domain Origin Partitive
+Shalim	_	
+''	_	
+or	_	
+``	_	
+founded	_	Intentionally_create
+by	_	Locative_relation Means
+Shalim	_	
+.	_	
+''	_	
+
+Scholars	_	
+speculate	_	Coming_to_believe
+that	_	Degree
+Shalim	_	
+might	_	Likelihood
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+been	_	Existence
+an	_	Cause_to_end Process_end Quantity
+ancient	_	Age Temporal_collocation
+Semitic	_	
+deity	_	
+of	_	Age Domain Origin Partitive
+peace	_	
+,	_	
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+name	_	Adducing Appointing Being_named Indicating Name_conferral Referring_by_name
+resembles	_	Similarity
+the	_	Self_motion Temporal_collocation
+modern	_	Stage_of_progress Temporal_collocation
+Hebrew	_	
+and	_	
+Arabic	_	
+words	_	Simple_name
+for	_	Causation Taking_sides
+``	_	
+peace	_	
+''	_	
+:	_	
+shalom	_	
+and	_	
+salaam	_	
+,	_	
+respectively	_	
+.	_	
+
+If	_	
+true	_	
+,	_	
+this	_	
+is	_	Existence
+an	_	Cause_to_end Process_end Quantity
+ironic	_	
+name	_	Adducing Appointing Being_named Indicating Name_conferral Referring_by_name
+for	_	Causation Taking_sides
+a	_	Measure_duration Process_end Quantity
+city	_	Locale_by_use Political_locales
+that	_	Degree
+would	_	
+become	_	Becoming
+one	_	Cardinal_numbers
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+most	_	Relational_quantity
+constantly	_	Frequency
+and	_	
+bitterly	_	
+embattled	_	
+places	_	Locale
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+face	_	Confronting_problem Facial_expression Observable_body_parts Part_orientational
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+earth	_	Locale
+.	_	
+
+Biblical	_	
+Jerusalem	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Bible	_	
+,	_	
+Genesis	_	
+14:18	_	
+-	_	
+20	_	Cardinal_numbers
+records	_	Recording
+that	_	Degree
+Abraham	_	
+visited	_	Arriving
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+of	_	Age Domain Origin Partitive
+``	_	
+Salem	_	
+''	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+approximately	_	Relational_quantity
+1800	_	
+b.c.	_	
+and	_	
+was	_	Existence
+blessed	_	Rite
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+'s	_	Existence Required_event
+ruler	_	Leadership
+,	_	
+Melchzedik	_	
+,	_	
+who	_	
+offered	_	
+him	_	
+bread	_	Food
+and	_	
+wine	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+is	_	Existence
+not	_	
+mentioned	_	Statement
+again	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Bible	_	
+until	_	Time_vector
+the	_	Self_motion Temporal_collocation
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+great	_	Desirability Expertise Usefulness
+poet	_	
+warrior	_	
+,	_	
+King	_	Leadership
+David	_	
+,	_	
+who	_	
+captured	_	Conquering
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+Jebusites	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+1000	_	Cardinal_numbers
+b.c.	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Bible	_	
+describes	_	Communicate_categorization Statement
+how	_	
+David	_	
+'s	_	Existence Required_event
+soldiers	_	People_by_vocation
+conquered	_	Conquering
+Jerusalem	_	
+by	_	Locative_relation Means
+discovering	_	Becoming_aware
+a	_	Measure_duration Process_end Quantity
+water	_	Food Natural_features Substance
+tunnel	_	Roadways
+under	_	Locative_relation Relational_quantity
+the	_	Self_motion Temporal_collocation
+walls	_	Architectural_part
+and	_	
+using	_	Using
+it	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+take	_	Bringing Capacity Conquering Create_physical_artwork Event Getting_vehicle_underway Have_as_requirement Ingest_substance Opinion Removing Ride_vehicle Self_motion Taking Taking_time
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+by	_	Locative_relation Means
+surprise	_	Experiencer_obj Just_found_out
+.	_	
+
+Warren	_	
+'s	_	Existence Required_event
+Shaft	_	
+,	_	
+part	_	Membership Part_whole Performers_and_roles Separating
+of	_	Age Domain Origin Partitive
+a	_	Measure_duration Process_end Quantity
+Canaanite	_	
+water	_	Food Natural_features Substance
+system	_	Gizmo Set_of_interrelated_entities System
+discovered	_	Becoming_aware
+by	_	Locative_relation Means
+19th	_	Ordinal_numbers
+-	_	
+century	_	Calendric_unit Measure_duration
+archaeologists	_	People_by_vocation
+and	_	
+open	_	Body_movement Candidness Closure Openness Secrecy_status
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+visitors	_	Visiting
+,	_	
+might	_	Likelihood
+be	_	Existence Performers_and_roles
+the	_	Self_motion Temporal_collocation
+very	_	Degree
+tunnel	_	Roadways
+infiltrated	_	
+by	_	Locative_relation Means
+David	_	
+'s	_	Existence Required_event
+army	_	Aggregate Military
+.	_	
+
+Perhaps	_	
+because	_	Causation
+Jerusalem	_	
+was	_	Existence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+neutral	_	Partiality
+territory	_	Political_locales
+not	_	
+allotted	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+any	_	Quantity
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+twelve	_	Cardinal_numbers
+rival	_	Competition Evaluative_comparison
+tribes	_	Aggregate
+of	_	Age Domain Origin Partitive
+Israel	_	
+,	_	
+David	_	
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+it	_	
+the	_	Self_motion Temporal_collocation
+capital	_	Money Relational_political_locales Severity_of_offense
+of	_	Age Domain Origin Partitive
+his	_	
+newly	_	Temporal_collocation
+formed	_	Coming_to_be Creating
+kingdom	_	Political_locales
+and	_	
+brought	_	Bringing Causation
+the	_	Self_motion Temporal_collocation
+most	_	Relational_quantity
+talented	_	
+artisans	_	
+,	_	
+dedicated	_	
+priests	_	
+,	_	
+magical	_	Ineffability
+poets	_	
+and	_	
+musicians	_	
+,	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+most	_	Relational_quantity
+formidable	_	Stimulus_focus
+soldiers	_	People_by_vocation
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+each	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+tribes	_	Aggregate
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+live	_	Residence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+his	_	
+city	_	Locale_by_use Political_locales
+.	_	
+
+He	_	
+also	_	
+brought	_	Bringing Causation
+the	_	Self_motion Temporal_collocation
+Ark	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Covenant	_	Commitment
+,	_	
+the	_	Self_motion Temporal_collocation
+portable	_	Bringing
+tabernacle	_	Buildings
+containing	_	Containing
+the	_	Self_motion Temporal_collocation
+Tablets	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Law	_	Law
+received	_	Receiving
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Mount	_	Attaching Board_vehicle Natural_features Traversing
+Sinai	_	
+,	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Spring	_	Calendric_unit Natural_features Self_motion
+of	_	Age Domain Origin Partitive
+Gihon	_	
+,	_	
+just	_	
+outside	_	Locative_relation Part_inner_outer
+the	_	Self_motion Temporal_collocation
+walls	_	Architectural_part
+of	_	Age Domain Origin Partitive
+Jerusalem	_	
+.	_	
+
+There	_	Existence Locative_relation
+the	_	Self_motion Temporal_collocation
+Ark	_	
+rested	_	State_continue
+until	_	Time_vector
+it	_	
+was	_	Existence
+placed	_	Placing
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Temple	_	Buildings Observable_body_parts
+,	_	
+built	_	Building
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+approximately	_	Relational_quantity
+960	_	
+b.c.	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Mt.	_	
+Moriah	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+high	_	Dimension Extreme_value Intoxication Measurable_attributes Position_on_a_scale
+point	_	Adducing Cause_to_perceive Locale
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+northern	_	Part_orientational
+end	_	Becoming Cause_to_end Process_end Temporal_subregion
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Temple	_	Buildings Observable_body_parts
+(	_	
+today	_	Calendric_unit Temporal_collocation
+known	_	Awareness Being_named
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+the	_	Self_motion Temporal_collocation
+``	_	
+First	_	First_experience Ordinal_numbers
+''	_	
+Temple	_	Buildings Observable_body_parts
+)	_	
+was	_	Existence
+completed	_	Activity_finish
+by	_	Locative_relation Means
+David	_	
+'s	_	Existence Required_event
+son	_	Kinship
+and	_	
+successor	_	
+,	_	
+King	_	Leadership
+Solomon	_	
+.	_	
+
+According	_	Attributed_information
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+biblical	_	
+tradition	_	Custom
+,	_	
+although	_	Concessive
+David	_	
+bought	_	Commerce_buy
+the	_	Self_motion Temporal_collocation
+land	_	Locale_by_ownership Natural_features Political_locales
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+Temple	_	Buildings Observable_body_parts
+and	_	
+carefully	_	Mental_property
+assembled	_	Building Gathering_up
+its	_	
+building	_	Building Buildings
+materials	_	Ingredients Substance Text
+,	_	
+he	_	
+was	_	Existence
+deemed	_	Categorization
+unworthy	_	
+of	_	Age Domain Origin Partitive
+constructing	_	Building
+the	_	Self_motion Temporal_collocation
+Temple	_	Buildings Observable_body_parts
+because	_	Causation
+he	_	
+was	_	Existence
+a	_	Measure_duration Process_end Quantity
+man	_	People
+of	_	Age Domain Origin Partitive
+war	_	Hostile_encounter
+with	_	Accompaniment
+blood	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+his	_	
+hands	_	Observable_body_parts
+.	_	
+
+At	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+Temple	_	Buildings Observable_body_parts
+'s	_	Existence Required_event
+dedication	_	
+,	_	
+Solomon	_	
+addressed	_	Resolve_problem Statement Topic
+his	_	
+God	_	
+:	_	
+``	_	
+...	_	
+the	_	Self_motion Temporal_collocation
+Heavens	_	
+,	_	
+even	_	
+the	_	Self_motion Temporal_collocation
+Heaven	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Heavens	_	
+,	_	
+can	_	Capability Containers Firing Likelihood Measure_volume Possibility Preserving
+not	_	
+contain	_	Containing Inclusion
+Thee	_	
+;	_	
+how	_	
+much	_	Relational_quantity
+less	_	
+this	_	
+House	_	Buildings Containing Provide_lodging
+that	_	Degree
+I	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+built	_	Building
+?	_	
+''	_	
+
+The	_	Self_motion Temporal_collocation
+site	_	Locale Locale_by_event Locale_by_use
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Temple	_	Buildings Observable_body_parts
+eventually	_	Time_vector
+became	_	Becoming
+identified	_	Categorization Verification
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+Mt.	_	
+Moriah	_	
+,	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+which	_	
+it	_	
+stood	_	Being_located Posture
+,	_	
+where	_	Locative_relation
+Abraham	_	
+was	_	Existence
+called	_	Being_named Labeling Referring_by_name Request Simple_naming
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+sacrifice	_	Rite
+his	_	
+son	_	Kinship
+Isaac	_	
+.	_	
+
+Along	_	Accompaniment Locative_relation
+with	_	Accompaniment
+this	_	
+splendid	_	Desirability Expertise Usefulness
+house	_	Buildings Containing Provide_lodging
+of	_	Age Domain Origin Partitive
+worship	_	Rite
+,	_	
+Solomon	_	
+built	_	Building
+a	_	Measure_duration Process_end Quantity
+royal	_	
+palace	_	Buildings
+,	_	
+mansions	_	Buildings
+for	_	Causation Taking_sides
+his	_	
+wives	_	Personal_relationship
+,	_	
+temples	_	Buildings
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+foreign	_	Foreign_or_domestic_country
+gods	_	
+worshipped	_	
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+princesses	_	
+he	_	
+had	_	Being_obligated Have_associated Possession Required_event
+married	_	Forming_relationships Personal_relationship
+,	_	
+and	_	
+towers	_	Buildings
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+defense	_	Defend
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+capital	_	Money Relational_political_locales Severity_of_offense
+.	_	
+
+Under	_	Locative_relation Relational_quantity
+the	_	Self_motion Temporal_collocation
+wise	_	Mental_property
+reign	_	Leadership
+of	_	Age Domain Origin Partitive
+Solomon	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+flourished	_	Thriving
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+the	_	Self_motion Temporal_collocation
+capital	_	Money Relational_political_locales Severity_of_offense
+of	_	Age Domain Origin Partitive
+an	_	Cause_to_end Process_end Quantity
+empire	_	Political_locales
+that	_	Degree
+stretched	_	Expansion
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Damascus	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Red	_	Color
+Sea	_	Natural_features
+and	_	
+controlled	_	Control
+the	_	Self_motion Temporal_collocation
+trade	_	Change_tool Exchange
+routes	_	Roadways
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Egypt	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Phoenicia	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Temple	_	Buildings Observable_body_parts
+and	_	
+royal	_	
+palace	_	Buildings
+were	_	Existence
+adorned	_	Abounding_with Adorning
+with	_	Accompaniment
+gold	_	
+and	_	
+ivory	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Africa	_	
+and	_	
+with	_	Accompaniment
+cedar	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Lebanon	_	
+;	_	
+the	_	Self_motion Temporal_collocation
+beauties	_	
+and	_	
+glories	_	
+of	_	Age Domain Origin Partitive
+Jerusalem	_	
+under	_	Locative_relation Relational_quantity
+Solomon	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+captivated	_	Experiencer_obj Mental_stimulus_exp_focus
+readers	_	Reading
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Bible	_	
+for	_	Causation Taking_sides
+almost	_	Relational_quantity
+3,000	_	
+years	_	Calendric_unit Measure_duration
+.	_	
+
+But	_	Concessive
+with	_	Accompaniment
+his	_	
+death	_	Death
+the	_	Self_motion Temporal_collocation
+empire	_	Political_locales
+collapsed	_	
+,	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+Israelite	_	
+kingdom	_	Political_locales
+was	_	Existence
+divided	_	Separating
+into	_	Goal Into
+two	_	Cardinal_numbers
+separate	_	Becoming_separated Differentiation Forming_relationships Separating
+,	_	
+impoverished	_	Wealthiness
+,	_	
+often	_	Frequency
+warring	_	
+nations	_	Political_locales
+:	_	
+Israel	_	
+,	_	
+with	_	Accompaniment
+its	_	
+capital	_	Money Relational_political_locales Severity_of_offense
+at	_	Locative_relation Relational_quantity Temporal_collocation
+Shechem	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+north	_	Direction Locative_relation Part_orientational
+,	_	
+ruled	_	Leadership
+by	_	Locative_relation Means
+a	_	Measure_duration Process_end Quantity
+series	_	Sequence
+of	_	Age Domain Origin Partitive
+northern	_	Part_orientational
+dynasties	_	
+;	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+smaller	_	Dimension Size
+kingdom	_	Political_locales
+of	_	Age Domain Origin Partitive
+Judah	_	
+,	_	
+with	_	Accompaniment
+its	_	
+capital	_	Money Relational_political_locales Severity_of_offense
+at	_	Locative_relation Relational_quantity Temporal_collocation
+Jerusalem	_	
+,	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+which	_	
+the	_	Self_motion Temporal_collocation
+Davidic	_	
+dynasty	_	
+continued	_	Activity_ongoing Process_continue
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+rule	_	Leadership Ruling_legally
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Bible	_	
+tells	_	Telling
+us	_	
+that	_	Degree
+the	_	Self_motion Temporal_collocation
+cruelty	_	
+and	_	
+impiety	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+rulers	_	Leadership
+of	_	Age Domain Origin Partitive
+both	_	Quantity
+kingdoms	_	Political_locales
+aroused	_	Biological_urge Cause_to_start
+the	_	Self_motion Temporal_collocation
+fury	_	Emotion_directed
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+great	_	Desirability Expertise Usefulness
+Prophets	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+701	_	
+b.c.	_	
+the	_	Self_motion Temporal_collocation
+Assyrian	_	Origin
+armies	_	Military
+of	_	Age Domain Origin Partitive
+Sennacherib	_	
+destroyed	_	Destroying Killing
+Israel	_	
+and	_	
+moved	_	Cause_motion Motion
+southward	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+besiege	_	Besieging
+Jerusalem	_	
+.	_	
+
+Thanks	_	Judgment_direct_address
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+King	_	Leadership
+Hezekiah	_	
+'s	_	Existence Required_event
+hidden	_	Eclipse
+water	_	Food Natural_features Substance
+tunnel	_	Roadways
+,	_	
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+narrowly	_	Clarity_of_resolution
+escaped	_	Avoiding
+destruction	_	Destroying
+.	_	
+
+The	_	Self_motion Temporal_collocation
+end	_	Becoming Cause_to_end Process_end Temporal_subregion
+of	_	Age Domain Origin Partitive
+David	_	
+'s	_	Existence Required_event
+dynasty	_	
+came	_	Arriving Process_end
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+587	_	
+b.c.	_	
+,	_	
+when	_	Temporal_collocation
+Nebuchadnezzar	_	
+,	_	
+King	_	Leadership
+of	_	Age Domain Origin Partitive
+Babylon	_	
+,	_	
+invaded	_	Invading
+Judah	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+lay	_	Attack Being_located Birth Placing Text
+siege	_	Besieging
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Jerusalem	_	
+.	_	
+
+When	_	Temporal_collocation
+it	_	
+fell	_	Change_position_on_a_scale Conquering Motion_directional Natural_features
+,	_	
+the	_	Self_motion Temporal_collocation
+Temple	_	Buildings Observable_body_parts
+and	_	
+all	_	Quantity
+the	_	Self_motion Temporal_collocation
+buildings	_	Buildings
+were	_	Existence
+burned	_	Cause_harm
+.	_	
+
+The	_	Self_motion Temporal_collocation
+people	_	Colonization People
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+once	_	Event_instance
+-	_	
+glorious	_	
+city	_	Locale_by_use Political_locales
+were	_	Existence
+forced	_	Causation Cause_motion
+into	_	Goal Into
+an	_	Cause_to_end Process_end Quantity
+exile	_	
+known	_	Awareness Being_named
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+``	_	
+the	_	Self_motion Temporal_collocation
+Babylonian	_	
+Captivity	_	
+.	_	
+''	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+,	_	
+the	_	Self_motion Temporal_collocation
+kingdom	_	Political_locales
+of	_	Age Domain Origin Partitive
+Babylon	_	
+was	_	Existence
+overthrown	_	Change_of_leadership
+and	_	
+the	_	Self_motion Temporal_collocation
+Israelites	_	
+were	_	Existence
+permitted	_	Grant_permission Make_possible_to_do Permitting
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+return	_	Arriving Resurrection
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Jerusalem	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+539	_	
+b.c.	_	
+The	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+was	_	Existence
+now	_	Temporal_collocation
+under	_	Locative_relation Relational_quantity
+the	_	Self_motion Temporal_collocation
+more	_	Increment
+tolerant	_	Strictness Tolerating
+rule	_	Leadership Ruling_legally
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Persians	_	People_by_origin
+,	_	
+but	_	Concessive
+rebuilding	_	
+was	_	Existence
+slow	_	Taking_time
+work	_	Being_employed Being_operational Collaboration Dimension Labor_product Locale_by_use Usefulness Working_on
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Second	_	Calendric_unit Measure_duration Ordinal_numbers
+Temple	_	Buildings Observable_body_parts
+was	_	Existence
+finished	_	Activity_done_state Activity_finish Process_completed_state
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+515	_	
+b.c.	_	
+,	_	
+but	_	Concessive
+much	_	Relational_quantity
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+still	_	Continued_state_of_affairs
+lay	_	Attack Being_located Birth Placing Text
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+ruins	_	
+.	_	
+
+Jerusalem	_	
+submitted	_	Compliance Submitting_documents
+peaceably	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+rule	_	Leadership Ruling_legally
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Greeks	_	People_by_origin
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+332	_	
+b.c.	_	
+under	_	Locative_relation Relational_quantity
+Alexander	_	
+the	_	Self_motion Temporal_collocation
+Great	_	Desirability Expertise Usefulness
+and	_	
+,	_	
+subsequently	_	Relative_time
+,	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+his	_	
+Hellenistic	_	
+successors	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+well	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+the	_	Self_motion Temporal_collocation
+Egyptian	_	Origin
+Ptolomeys	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+Syrian	_	Origin
+Seleucids	_	
+.	_	
+
+When	_	Temporal_collocation
+Seleucid	_	
+rulers	_	Leadership
+outlawed	_	Deny_permission Prohibiting
+Judaism	_	
+,	_	
+Jews	_	People_by_religion
+led	_	Causation Cotheme Leadership
+by	_	Locative_relation Means
+Judah	_	
+Maccabee	_	
+and	_	
+his	_	
+brothers	_	Kinship
+staged	_	
+a	_	Measure_duration Process_end Quantity
+revolution	_	Change_of_leadership
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+167	_	
+b.c.	_	
+and	_	
+,	_	
+against	_	Locative_relation Taking_sides
+all	_	Quantity
+odds	_	Probability
+,	_	
+restored	_	Rejuvenation
+the	_	Self_motion Temporal_collocation
+primacy	_	
+of	_	Age Domain Origin Partitive
+Jewish	_	
+religious	_	
+life	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Jerusalem	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Macabbees	_	
+cleansed	_	Emptying
+the	_	Self_motion Temporal_collocation
+Temple	_	Buildings Observable_body_parts
+of	_	Age Domain Origin Partitive
+Hellenistic	_	
+idols	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+blood	_	
+of	_	Age Domain Origin Partitive
+pagan	_	People_by_religion
+sacrifices	_	Rite
+;	_	
+the	_	Self_motion Temporal_collocation
+eight	_	Cardinal_numbers
+-	_	
+day	_	Calendric_unit Measure_duration Timespan
+celebration	_	Social_event
+of	_	Age Domain Origin Partitive
+Hanukkah	_	
+(	_	
+Feast	_	Ingestion Social_event
+of	_	Age Domain Origin Partitive
+Dedication	_	
+)	_	
+commemorates	_	
+their	_	
+victory	_	Finish_competition
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Hasmonean	_	
+dynasty	_	
+,	_	
+descendants	_	Kinship
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Maccabee	_	
+family	_	Aggregate Kinship
+,	_	
+ruled	_	Leadership
+an	_	Cause_to_end Process_end Quantity
+independent	_	Contingency
+Jewish	_	
+Commonwealth	_	Political_locales
+that	_	Degree
+stretched	_	Expansion
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+Negev	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Galilee	_	
+.	_	
+
+Jerusalem	_	
+grew	_	Change_position_on_a_scale Expansion
+,	_	
+surrounded	_	
+with	_	Accompaniment
+a	_	Measure_duration Process_end Quantity
+formidable	_	Stimulus_focus
+wall	_	Architectural_part
+and	_	
+defended	_	Defend
+by	_	Locative_relation Means
+towers	_	Buildings
+beside	_	Locative_relation
+the	_	Self_motion Temporal_collocation
+Jaffa	_	
+Gate	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Hasmoneans	_	
+ruled	_	Leadership
+until	_	Time_vector
+Pompey	_	
+'s	_	Existence Required_event
+Roman	_	Origin
+legions	_	Aggregate
+arrived	_	Arriving
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+63	_	
+b.c.	_	
+
+Roman	_	Origin
+Jerusalem	_	
+
+After	_	Relative_time Time_vector
+the	_	Self_motion Temporal_collocation
+initial	_	Version_sequence
+years	_	Calendric_unit Measure_duration
+of	_	Age Domain Origin Partitive
+Roman	_	Origin
+administration	_	Leadership
+and	_	
+political	_	
+infighting	_	Hostile_encounter
+,	_	
+Rome	_	
+installed	_	Change_of_leadership Installing
+Herod	_	
+(	_	
+scion	_	Kinship
+of	_	Age Domain Origin Partitive
+a	_	Measure_duration Process_end Quantity
+family	_	Aggregate Kinship
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Idumea	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+Jewish	_	
+kingdom	_	Political_locales
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+desert	_	Biological_area Quitting_a_place
+)	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+King	_	Leadership
+of	_	Age Domain Origin Partitive
+Judea	_	
+.	_	
+
+He	_	
+reigned	_	Leadership
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+37	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+4	_	Cardinal_numbers
+b.c.	_	
+,	_	
+during	_	Temporal_collocation
+which	_	
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+he	_	
+fortified	_	Cause_change_of_strength
+the	_	Self_motion Temporal_collocation
+Hasmonean	_	
+wall	_	Architectural_part
+and	_	
+rebuilt	_	
+the	_	Self_motion Temporal_collocation
+defense	_	Defend
+towers	_	Buildings
+beside	_	Locative_relation
+Jaffa	_	
+Gate	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+foundation	_	Architectural_part Body_decoration
+of	_	Age Domain Origin Partitive
+which	_	
+still	_	Continued_state_of_affairs
+stand	_	Aggregate Being_located Change_posture Occupy_rank Placing Posture Tolerating
+.	_	
+
+Several	_	Quantity
+palaces	_	Buildings
+were	_	Existence
+built	_	Building
+and	_	
+a	_	Measure_duration Process_end Quantity
+water	_	Food Natural_features Substance
+system	_	Gizmo Set_of_interrelated_entities System
+installed	_	Change_of_leadership Installing
+.	_	
+
+Herod	_	
+also	_	
+completely	_	
+rebuilt	_	
+the	_	Self_motion Temporal_collocation
+Temple	_	Buildings Observable_body_parts
+,	_	
+making	_	Causation Cause_change Cooking_creation Earnings_and_losses Intentionally_create Manufacturing
+it	_	
+one	_	Cardinal_numbers
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+most	_	Relational_quantity
+important	_	Importance
+religious	_	
+centers	_	Locale_by_use
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Roman	_	Origin
+Empire	_	Political_locales
+.	_	
+
+The	_	Self_motion Temporal_collocation
+courtyard	_	Locale_by_use
+around	_	Dimension Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+Temple	_	Buildings Observable_body_parts
+was	_	Existence
+expanded	_	Cause_expansion
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+accommodate	_	
+hundreds	_	Quantity
+of	_	Age Domain Origin Partitive
+thousands	_	Quantity
+of	_	Age Domain Origin Partitive
+pilgrims	_	
+,	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+Temple	_	Buildings Observable_body_parts
+Mount	_	Attaching Board_vehicle Natural_features Traversing
+was	_	Existence
+shored	_	
+up	_	Becoming Coming_up_with Direction Intentionally_create Locative_relation Reparation Summarizing
+by	_	Locative_relation Means
+retaining	_	
+walls	_	Architectural_part
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+with	_	Accompaniment
+great	_	Desirability Expertise Usefulness
+stone	_	Cause_harm Emptying
+blocks	_	Measure_linear_extent
+.	_	
+
+One	_	Cardinal_numbers
+of	_	Age Domain Origin Partitive
+these	_	
+walls	_	Architectural_part
+,	_	
+the	_	Self_motion Temporal_collocation
+Western	_	Part_orientational
+Wall	_	Architectural_part
+,	_	
+is	_	Existence
+today	_	Calendric_unit Temporal_collocation
+a	_	Measure_duration Process_end Quantity
+major	_	Importance
+reminder	_	Evoking
+of	_	Age Domain Origin Partitive
+Jerusalem	_	
+'s	_	Existence Required_event
+greatness	_	
+under	_	Locative_relation Relational_quantity
+Herod	_	
+.	_	
+
+A	_	Measure_duration Process_end Quantity
+massive	_	Dimension
+fortress	_	Buildings
+was	_	Existence
+built	_	Building
+overlooking	_	
+the	_	Self_motion Temporal_collocation
+Temple	_	Buildings Observable_body_parts
+Mount	_	Attaching Board_vehicle Natural_features Traversing
+,	_	
+which	_	
+Herod	_	
+named	_	Appointing Being_named Name_conferral
+``	_	
+Antonia	_	
+''	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+honor	_	Compliance
+of	_	Age Domain Origin Partitive
+his	_	
+Roman	_	Origin
+friend	_	Personal_relationship
+and	_	
+benefactor	_	
+,	_	
+Mark	_	Sign
+Antony	_	
+.	_	
+
+For	_	Causation Taking_sides
+all	_	Quantity
+his	_	
+accomplishments	_	Accomplishment
+,	_	
+Herod	_	
+was	_	Existence
+nevertheless	_	Concessive
+hated	_	Experiencer_focus
+by	_	Locative_relation Means
+his	_	
+subjects	_	People_by_jurisdiction
+;	_	
+he	_	
+taxed	_	
+,	_	
+he	_	
+tortured	_	Cause_harm
+,	_	
+and	_	
+he	_	
+ordered	_	Request Sentencing
+the	_	Self_motion Temporal_collocation
+massacre	_	Killing
+of	_	Age Domain Origin Partitive
+male	_	
+Jewish	_	
+infants	_	People_by_age
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+an	_	Cause_to_end Process_end Quantity
+attempt	_	Attempt
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+do	_	Ingest_substance Intentionally_act Intentionally_affect Thriving Touring
+away	_	
+with	_	Accompaniment
+the	_	Self_motion Temporal_collocation
+heralded	_	Heralding Omen
+Messiah	_	
+.	_	
+
+When	_	Temporal_collocation
+Jesus	_	
+was	_	Existence
+born	_	Being_born
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+4	_	Cardinal_numbers
+b.c.	_	
+,	_	
+Joseph	_	
+and	_	
+Mary	_	
+escaped	_	Avoiding
+Herod	_	
+'s	_	Existence Required_event
+paranoia	_	
+by	_	Locative_relation Means
+fleeing	_	Fleeing
+into	_	Goal Into
+Egypt	_	
+with	_	Accompaniment
+the	_	Self_motion Temporal_collocation
+new	_	Age Expertise Familiarity
+-	_	
+born	_	Being_born
+infant	_	People_by_age
+.	_	
+
+They	_	
+returned	_	Arriving
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+live	_	Residence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Galilee	_	
+village	_	Locale_by_use Political_locales
+of	_	Age Domain Origin Partitive
+Nazareth	_	
+,	_	
+making	_	Causation Cause_change Cooking_creation Earnings_and_losses Intentionally_create Manufacturing
+pilgrimages	_	Travel
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Jerusalem	_	
+.	_	
+
+According	_	Attributed_information
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+biblical	_	
+accounts	_	Explaining_the_facts Text
+,	_	
+Jesus	_	
+spent	_	Used_up
+his	_	
+life	_	
+ministering	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Galilee	_	
+Valley	_	Natural_features
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+a.d.	_	
+30	_	Cardinal_numbers
+he	_	
+and	_	
+his	_	
+followers	_	
+went	_	Becoming Motion
+for	_	Causation Taking_sides
+Passover	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Jerusalem	_	
+,	_	
+which	_	
+was	_	Existence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+unrest	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+this	_	
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+,	_	
+dissatisfied	_	Emotions_success_or_failure Experiencer_focus
+with	_	Accompaniment
+Roman	_	Origin
+domination	_	Dominate_competitor Dominate_situation
+.	_	
+
+Jesus	_	
+'s	_	Existence Required_event
+entry	_	Arriving
+into	_	Goal Into
+the	_	Self_motion Temporal_collocation
+Temple	_	Buildings Observable_body_parts
+caused	_	Causation
+a	_	Measure_duration Process_end Quantity
+commotion	_	
+;	_	
+after	_	Relative_time Time_vector
+the	_	Self_motion Temporal_collocation
+Passover	_	
+dinner	_	Social_event
+he	_	
+was	_	Existence
+arrested	_	Arrest
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+temple	_	Buildings Observable_body_parts
+priests	_	
+,	_	
+who	_	
+were	_	Existence
+under	_	Locative_relation Relational_quantity
+direct	_	Aiming Behind_the_scenes
+Roman	_	Origin
+rule	_	Leadership Ruling_legally
+.	_	
+
+Jesus	_	
+was	_	Existence
+put	_	Causation Encoding Placing
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+trial	_	Trial
+quickly	_	Speed
+and	_	
+condemned	_	Judgment_communication Sentencing
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+crucifixion	_	Killing
+,	_	
+a	_	Measure_duration Process_end Quantity
+Roman	_	Origin
+form	_	Becoming Coming_to_be Creating Reshaping Type
+of	_	Age Domain Origin Partitive
+execution	_	Execution
+for	_	Causation Taking_sides
+political	_	
+and	_	
+religious	_	
+dissidents	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+well	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+for	_	Causation Taking_sides
+common	_	
+criminals	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+a	_	Measure_duration Process_end Quantity
+province	_	Political_locales
+rife	_	Abounding_with
+with	_	Accompaniment
+rebellion	_	Change_of_leadership
+and	_	
+retaliation	_	Revenge
+,	_	
+the	_	Self_motion Temporal_collocation
+execution	_	Execution
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Jerusalem	_	
+of	_	Age Domain Origin Partitive
+yet	_	Continued_state_of_affairs
+another	_	Increment
+religious	_	
+leader	_	First_rank Leadership
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+Galilee	_	
+did	_	Intentionally_act
+not	_	
+by	_	Locative_relation Means
+itself	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+an	_	Cause_to_end Process_end Quantity
+immediate	_	
+effect	_	Being_in_effect Execute_plan Objective_influence Subjective_influence
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+history	_	Fields History Individual_history Out_of_existence Text
+.	_	
+
+After	_	Relative_time Time_vector
+Jesus	_	
+'s	_	Existence Required_event
+crucifixion	_	Killing
+,	_	
+harsh	_	
+Roman	_	Origin
+rule	_	Leadership Ruling_legally
+continued	_	Activity_ongoing Process_continue
+until	_	Time_vector
+a.d.	_	
+66	_	
+,	_	
+when	_	Temporal_collocation
+the	_	Self_motion Temporal_collocation
+Jews	_	People_by_religion
+rebelled	_	
+.	_	
+
+For	_	Causation Taking_sides
+four	_	Cardinal_numbers
+years	_	Calendric_unit Measure_duration
+Jewish	_	
+zealots	_	
+fought	_	Hostile_encounter
+against	_	Locative_relation Taking_sides
+the	_	Self_motion Temporal_collocation
+might	_	Likelihood
+of	_	Age Domain Origin Partitive
+Rome	_	
+.	_	
+
+At	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+end	_	Becoming Cause_to_end Process_end Temporal_subregion
+,	_	
+the	_	Self_motion Temporal_collocation
+Roman	_	Origin
+general	_	Appellations Leadership
+Titus	_	
+laid	_	
+siege	_	Besieging
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Jerusalem	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+a.d.	_	
+70	_	Cardinal_numbers
+,	_	
+finally	_	Time_vector
+attacking	_	Attack
+its	_	
+starved	_	Prevent_from_having
+and	_	
+weakened	_	Cause_change_of_strength
+defenders	_	Defend
+.	_	
+
+Those	_	
+who	_	
+did	_	Intentionally_act
+n't	_	
+escape	_	Avoiding Departing Elusive_goal Escaping
+were	_	Existence
+executed	_	Execution
+or	_	
+sold	_	Commerce_sell
+into	_	Goal Into
+slavery	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Holy	_	
+City	_	Locale_by_use Political_locales
+and	_	
+the	_	Self_motion Temporal_collocation
+Temple	_	Buildings Observable_body_parts
+were	_	Existence
+destroyed	_	Destroying Killing
+.	_	
+
+The	_	Self_motion Temporal_collocation
+last	_	Duration_relation Ordinal_numbers Relative_time
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+zealots	_	
+held	_	Containing
+out	_	Departing Expected_location_of_person Intentionally_act Locative_relation Sleep Surviving
+for	_	Causation Taking_sides
+another	_	Increment
+three	_	Cardinal_numbers
+years	_	Calendric_unit Measure_duration
+at	_	Locative_relation Relational_quantity Temporal_collocation
+Masada	_	
+(	_	
+see	_	Categorization Causation Grasp Perception_experience Reference_text Relational_political_locales Touring
+page	_	Contacting
+76	_	
+)	_	
+.	_	
+
+Half	_	Part_whole
+a	_	Measure_duration Process_end Quantity
+million	_	Cardinal_numbers
+civilians	_	
+died	_	Death
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Galilee	_	
+and	_	
+Judea	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+a	_	Measure_duration Process_end Quantity
+result	_	Causation Earnings_and_losses
+of	_	Age Domain Origin Partitive
+this	_	
+first	_	First_experience Ordinal_numbers
+revolt	_	Change_of_leadership Experiencer_obj
+against	_	Locative_relation Taking_sides
+Rome	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+number	_	Amounting_to Be_subset_of Quantity
+unequaled	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+ancient	_	Age Temporal_collocation
+warfare	_	Hostile_encounter
+.	_	
+
+Christian	_	People_by_religion
+and	_	
+Islamic	_	
+Jerusalem	_	
+
+For	_	Causation Taking_sides
+60	_	Cardinal_numbers
+years	_	Calendric_unit Measure_duration
+Jerusalem	_	
+lay	_	Attack Being_located Birth Placing Text
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+ruins	_	
+,	_	
+until	_	Time_vector
+the	_	Self_motion Temporal_collocation
+Roman	_	Origin
+Emperor	_	Leadership
+Hadrian	_	
+ordered	_	Request Sentencing
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+rebuilt	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+a	_	Measure_duration Process_end Quantity
+Roman	_	Origin
+town	_	Political_locales
+dedicated	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Jupiter	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+outrage	_	Emotion_directed Experiencer_obj
+,	_	
+the	_	Self_motion Temporal_collocation
+Jews	_	People_by_religion
+began	_	Activity_start Process_start
+a	_	Measure_duration Process_end Quantity
+second	_	Calendric_unit Measure_duration Ordinal_numbers
+revolt	_	Change_of_leadership Experiencer_obj
+against	_	Locative_relation Taking_sides
+Rome	_	
+,	_	
+led	_	Causation Cotheme Leadership
+by	_	Locative_relation Means
+Simon	_	
+bar	_	Buildings Natural_features Prohibiting
+Kochba	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+ruins	_	
+of	_	Age Domain Origin Partitive
+Jerusalem	_	
+were	_	Existence
+briefly	_	
+liberated	_	
+,	_	
+but	_	Concessive
+,	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+end	_	Becoming Cause_to_end Process_end Temporal_subregion
+,	_	
+Jewish	_	
+resistance	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Rome	_	
+was	_	Existence
+defeated	_	Beat_opponent
+with	_	Accompaniment
+great	_	Desirability Expertise Usefulness
+loss	_	Earnings_and_losses Finish_competition
+of	_	Age Domain Origin Partitive
+life	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+planned	_	Purpose
+new	_	Age Expertise Familiarity
+Roman	_	Origin
+city	_	Locale_by_use Political_locales
+,	_	
+Aelia	_	
+Capitolina	_	
+,	_	
+was	_	Existence
+built	_	Building
+over	_	Locative_relation Process_completed_state Relational_quantity
+the	_	Self_motion Temporal_collocation
+ruins	_	
+of	_	Age Domain Origin Partitive
+Herodian	_	
+Jerusalem	_	
+,	_	
+and	_	
+Jews	_	People_by_religion
+were	_	Existence
+barred	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+residing	_	Residence
+there	_	Existence Locative_relation
+for	_	Causation Taking_sides
+all	_	Quantity
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+.	_	
+
+Jerusalem	_	
+'s	_	Existence Required_event
+physical	_	
+existence	_	Existence
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+a	_	Measure_duration Process_end Quantity
+spiritual	_	
+city	_	Locale_by_use Political_locales
+seemed	_	Appearance
+finished	_	Activity_done_state Activity_finish Process_completed_state
+,	_	
+but	_	Concessive
+its	_	
+spiritual	_	
+power	_	Electricity Leadership
+for	_	Causation Taking_sides
+Jews	_	People_by_religion
+,	_	
+and	_	
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+struggling	_	
+new	_	Age Expertise Familiarity
+Christian	_	People_by_religion
+religion	_	
+,	_	
+remained	_	State_continue
+.	_	
+
+For	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+next	_	Locative_relation Relative_time
+two	_	Cardinal_numbers
+centuries	_	Measure_duration
+Aelia	_	
+Capitolina	_	
+enjoyed	_	Emotions_of_mental_activity Experiencer_focus
+an	_	Cause_to_end Process_end Quantity
+innocuous	_	
+history	_	Fields History Individual_history Out_of_existence Text
+.	_	
+
+But	_	Concessive
+the	_	Self_motion Temporal_collocation
+Roman	_	Origin
+Empire	_	Political_locales
+became	_	Becoming
+Christian	_	People_by_religion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+fourth	_	Ordinal_numbers
+century	_	Calendric_unit Measure_duration
+,	_	
+and	_	
+Jerusalem	_	
+became	_	Becoming
+a	_	Measure_duration Process_end Quantity
+center	_	Locale_by_use Part_inner_outer
+of	_	Age Domain Origin Partitive
+religion	_	
+once	_	Event_instance
+again	_	
+.	_	
+
+Queen	_	Leadership
+Helena	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+devout	_	
+Christian	_	People_by_religion
+and	_	
+the	_	Self_motion Temporal_collocation
+mother	_	Birth Kinship
+of	_	Age Domain Origin Partitive
+Emperor	_	Leadership
+Constantine	_	
+the	_	Self_motion Temporal_collocation
+Great	_	Desirability Expertise Usefulness
+,	_	
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+a	_	Measure_duration Process_end Quantity
+pilgrimage	_	Travel
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Holy	_	
+Land	_	Locale_by_ownership Natural_features Political_locales
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+326	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+identify	_	Categorization Verification
+the	_	Self_motion Temporal_collocation
+sites	_	Locale_by_use
+associated	_	Cognitive_connection Membership
+with	_	Accompaniment
+Jesus	_	
+'s	_	Existence Required_event
+life	_	
+.	_	
+
+She	_	
+found	_	Becoming_aware Intentionally_create Locating Verdict
+that	_	Degree
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+'s	_	Existence Required_event
+most	_	Relational_quantity
+beautiful	_	Aesthetics
+Roman	_	Origin
+temple	_	Buildings Observable_body_parts
+,	_	
+dedicated	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+goddess	_	
+Aphrodite	_	
+,	_	
+stood	_	Being_located Posture
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+site	_	Locale Locale_by_event Locale_by_use
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+crucifixion	_	Killing
+.	_	
+
+The	_	Self_motion Temporal_collocation
+temple	_	Buildings Observable_body_parts
+was	_	Existence
+demolished	_	Destroying Emotion_directed
+and	_	
+a	_	Measure_duration Process_end Quantity
+vast	_	
+,	_	
+Classical	_	
+-	_	
+style	_	Trendiness
+church	_	Buildings
+was	_	Existence
+built	_	Building
+around	_	Dimension Locative_relation Relational_quantity Temporal_collocation
+Golgotha	_	
+(	_	
+the	_	Self_motion Temporal_collocation
+hill	_	Natural_features
+where	_	Locative_relation
+Jesus	_	
+'s	_	Existence Required_event
+crucifixion	_	Killing
+was	_	Existence
+believed	_	Awareness Certainty Religious_belief Trust
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+taken	_	Bringing Conquering Event Experiencer_focus Removing
+place	_	Event Locale Placing
+)	_	
+.	_	
+
+Throughout	_	Locative_relation
+Jerusalem	_	
+,	_	
+other	_	Increment
+spots	_	Locale
+important	_	Importance
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Jesus	_	
+'s	_	Existence Required_event
+life	_	
+were	_	Existence
+commemorated	_	
+with	_	Accompaniment
+religious	_	
+structures	_	Buildings
+.	_	
+
+Pilgrims	_	
+came	_	Arriving Process_end
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+all	_	Quantity
+over	_	Locative_relation Process_completed_state Relational_quantity
+the	_	Self_motion Temporal_collocation
+Roman	_	Origin
+(	_	
+and	_	
+,	_	
+later	_	Relative_time Temporal_subregion Time_vector
+,	_	
+Byzantine	_	
+)	_	
+Empire	_	Political_locales
+during	_	Temporal_collocation
+the	_	Self_motion Temporal_collocation
+following	_	Relative_time
+centuries	_	Measure_duration
+,	_	
+but	_	Concessive
+the	_	Self_motion Temporal_collocation
+prosperity	_	Thriving
+they	_	
+brought	_	Bringing Causation
+lasted	_	
+only	_	Sole_instance
+until	_	Time_vector
+614	_	
+,	_	
+when	_	Temporal_collocation
+Persian	_	People_by_origin
+armies	_	Military
+overtook	_	
+Judea	_	
+and	_	
+reduced	_	Cause_change_of_position_on_a_scale
+Jerusalem	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+rubble	_	
+again	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+629	_	
+,	_	
+Jerusalem	_	
+was	_	Existence
+recaptured	_	
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+Byzantines	_	
+.	_	
+
+Still	_	Continued_state_of_affairs
+reeling	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+effects	_	Objective_influence Possession
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Persian	_	People_by_origin
+devastation	_	Destroying
+,	_	
+Jerusalem	_	
+was	_	Existence
+conquered	_	Conquering
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+638	_	
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+forces	_	Military
+of	_	Age Domain Origin Partitive
+Islam	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Temple	_	Buildings Observable_body_parts
+Mount	_	Attaching Board_vehicle Natural_features Traversing
+was	_	Existence
+identified	_	Categorization Verification
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Islamic	_	
+tradition	_	Custom
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+``	_	
+the	_	Self_motion Temporal_collocation
+farthest	_	
+spot	_	Becoming_aware Locale
+''	_	
+(	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Arabic	_	
+,	_	
+el-aksa	_	
+)	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+site	_	Locale Locale_by_event Locale_by_use
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+which	_	
+the	_	Self_motion Temporal_collocation
+Prophet	_	
+Muhammad	_	
+was	_	Existence
+transported	_	Bringing
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+one	_	Cardinal_numbers
+night	_	Calendric_unit
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Mecca	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+a	_	Measure_duration Process_end Quantity
+winged	_	
+horse	_	
+,	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+described	_	Communicate_categorization Statement
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+17th	_	
+chapter	_	Part_ordered_segments
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Koran	_	
+.	_	
+
+From	_	Delimitation_of_diversity Evidence Origin Time_vector
+here	_	Locative_relation
+the	_	Self_motion Temporal_collocation
+Prophet	_	
+ascended	_	Traversing
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+heavens	_	
+and	_	
+was	_	Existence
+permitted	_	Grant_permission Make_possible_to_do Permitting
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+glimpse	_	Punctual_perception
+paradise	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+rock	_	Desirability Moving_in_place
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+Temple	_	Buildings Observable_body_parts
+Mount	_	Attaching Board_vehicle Natural_features Traversing
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+which	_	
+he	_	
+ascended	_	Traversing
+,	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+or	_	
+close	_	Attention Body_movement Clarity_of_resolution Closure Relational_quantity Social_connection
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+site	_	Locale Locale_by_event Locale_by_use
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+ruined	_	Bungling
+Temple	_	Buildings Observable_body_parts
+,	_	
+was	_	Existence
+commemorated	_	
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+construction	_	Building
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Dome	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Rock	_	Desirability Moving_in_place
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+691	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Dome	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Rock	_	Desirability Moving_in_place
+remains	_	Existence Left_to_do Remainder State_continue
+Jerusalem	_	
+'s	_	Existence Required_event
+most	_	Relational_quantity
+striking	_	Attack Impact Stimulus_focus
+monument	_	
+;	_	
+it	_	
+is	_	Existence
+counted	_	Categorization
+among	_	Be_subset_of Inclusion Locative_relation
+the	_	Self_motion Temporal_collocation
+most	_	Relational_quantity
+beautiful	_	Aesthetics
+buildings	_	Buildings
+ever	_	
+created	_	Cause_to_start Creating Intentionally_create
+.	_	
+
+By	_	Locative_relation Means
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+715	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+El-Aksa	_	
+Mosque	_	Buildings
+,	_	
+third	_	Ordinal_numbers Part_whole
+holiest	_	
+place	_	Event Locale Placing
+of	_	Age Domain Origin Partitive
+prayer	_	Rite
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Islam	_	
+(	_	
+after	_	Relative_time Time_vector
+Mecca	_	
+and	_	
+Medina	_	
+)	_	
+,	_	
+had	_	Being_obligated Have_associated Possession Required_event
+been	_	Existence
+built	_	Building
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+southern	_	Part_orientational
+side	_	Part_orientational Taking_sides
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Temple	_	Buildings Observable_body_parts
+Mount	_	Attaching Board_vehicle Natural_features Traversing
+.	_	
+
+Jerusalem	_	
+continued	_	Activity_ongoing Process_continue
+under	_	Locative_relation Relational_quantity
+Islamic	_	
+rule	_	Leadership Ruling_legally
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+next	_	Locative_relation Relative_time
+four	_	Cardinal_numbers
+and	_	
+a	_	Measure_duration Process_end Quantity
+half	_	Part_whole
+centuries	_	Measure_duration
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1099	_	
+,	_	
+under	_	Locative_relation Relational_quantity
+their	_	
+leaders	_	Leadership
+Godfrey	_	
+de	_	
+Bouillon	_	
+and	_	
+Tancred	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+Crusaders	_	
+captured	_	Conquering
+the	_	Self_motion Temporal_collocation
+Holy	_	
+City	_	Locale_by_use Political_locales
+for	_	Causation Taking_sides
+Christendom	_	
+by	_	Locative_relation Means
+slaughtering	_	Killing
+both	_	Quantity
+Muslims	_	People_by_religion
+and	_	
+Jews	_	People_by_religion
+.	_	
+
+Crusaders	_	
+,	_	
+Mamelukes	_	
+,	_	
+and	_	
+Turks	_	People_by_origin
+
+The	_	Self_motion Temporal_collocation
+Crusaders	_	
+established	_	Intentionally_create
+a	_	Measure_duration Process_end Quantity
+feudal	_	
+Christian	_	People_by_religion
+state	_	Political_locales State_of_entity Statement
+with	_	Accompaniment
+Godfrey	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+its	_	
+head	_	Leadership Observable_body_parts Self_motion
+.	_	
+
+They	_	
+built	_	Building
+many	_	Quantity
+impressive	_	Stimulus_focus
+churches	_	Buildings
+during	_	Temporal_collocation
+the	_	Self_motion Temporal_collocation
+term	_	Labeling Simple_name Simple_naming Terms_of_agreement
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+first	_	First_experience Ordinal_numbers
+Latin	_	
+Kingdom	_	Political_locales
+of	_	Age Domain Origin Partitive
+Jerusalem	_	
+,	_	
+but	_	Concessive
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1187	_	
+they	_	
+were	_	Existence
+driven	_	Cause_motion Subjective_influence
+out	_	Departing Expected_location_of_person Intentionally_act Locative_relation Sleep Surviving
+by	_	Locative_relation Means
+Muslim	_	People_by_religion
+forces	_	Military
+under	_	Locative_relation Relational_quantity
+the	_	Self_motion Temporal_collocation
+great	_	Desirability Expertise Usefulness
+warrior	_	
+Saladin	_	
+.	_	
+
+During	_	Temporal_collocation
+the	_	Self_motion Temporal_collocation
+Sixth	_	
+Crusade	_	
+(	_	
+1228	_	
+-	_	
+1229	_	
+)	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+Holy	_	
+Roman	_	Origin
+Emperor	_	Leadership
+Frederick	_	
+II	_	
+managed	_	Operating_a_system Success_or_failure
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+secure	_	Attaching Being_at_risk Getting Protecting
+Jerusalem	_	
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+Christians	_	People_by_religion
+by	_	Locative_relation Means
+negotiation	_	Discussion
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Christians	_	People_by_religion
+,	_	
+however	_	Concessive
+,	_	
+could	_	Capability Possibility
+not	_	
+hold	_	Containing Defend Detaining Inhibit_movement Manipulation Opinion
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+.	_	
+
+After	_	Relative_time Time_vector
+they	_	
+lost	_	Earnings_and_losses Finish_competition Mental_stimulus_exp_focus
+Jerusalem	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+Mongol	_	
+invasion	_	Invading
+swept	_	
+through	_	Activity_done_state Time_vector Used_up
+,	_	
+and	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1244	_	
+the	_	Self_motion Temporal_collocation
+Mameluke	_	
+dynasty	_	
+of	_	Age Domain Origin Partitive
+Egypt	_	
+took	_	Bringing Conquering Have_as_requirement Ride_vehicle Taking Taking_time
+control	_	Be_in_control Control Prohibiting
+,	_	
+ruling	_	Documents Leadership Verdict
+Jerusalem	_	
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+next	_	Locative_relation Relative_time
+250	_	
+years	_	Calendric_unit Measure_duration
+.	_	
+
+The	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+struggled	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+rebuild	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Crusader	_	
+wars	_	Hostile_encounter
+and	_	
+invasions	_	
+.	_	
+
+Much	_	Relational_quantity
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+best	_	Desirability Expertise Required_event Usefulness
+Islamic	_	
+architecture	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+was	_	Existence
+constructed	_	Building
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Mameluke	_	
+era	_	Calendric_unit
+,	_	
+but	_	Concessive
+the	_	Self_motion Temporal_collocation
+past	_	Individual_history Locative_relation Relative_time
+thousand	_	Cardinal_numbers
+years	_	Calendric_unit Measure_duration
+had	_	Being_obligated Have_associated Possession Required_event
+taken	_	Bringing Conquering Event Experiencer_focus Removing
+their	_	
+toll	_	Make_noise Sounds
+:	_	
+Jerusalem	_	
+was	_	Existence
+unable	_	Capability
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+regain	_	
+the	_	Self_motion Temporal_collocation
+prosperity	_	Thriving
+it	_	
+had	_	Being_obligated Have_associated Possession Required_event
+enjoyed	_	Emotions_of_mental_activity Experiencer_focus
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+earlier	_	Relative_time Temporal_subregion
+times	_	Commutative_statement
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+early	_	Relative_time Temporal_collocation Temporal_subregion
+16th	_	
+century	_	Calendric_unit Measure_duration
+,	_	
+the	_	Self_motion Temporal_collocation
+Ottoman	_	Origin People_by_origin
+Turkish	_	Origin
+Empire	_	Political_locales
+was	_	Existence
+advancing	_	
+through	_	Activity_done_state Time_vector Used_up
+the	_	Self_motion Temporal_collocation
+Middle	_	Part_inner_outer Temporal_subregion
+East	_	Direction Locative_relation Part_orientational
+.	_	
+
+Jerusalem	_	
+fell	_	Change_position_on_a_scale Conquering Motion_directional Natural_features
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Ottomans	_	People_by_origin
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1517	_	
+,	_	
+remaining	_	State_continue
+under	_	Locative_relation Relational_quantity
+their	_	
+control	_	Be_in_control Control Prohibiting
+for	_	Causation Taking_sides
+400	_	Cardinal_numbers
+years	_	Calendric_unit Measure_duration
+.	_	
+
+Suleiman	_	
+the	_	Self_motion Temporal_collocation
+Magnificent	_	Desirability
+rebuilt	_	
+the	_	Self_motion Temporal_collocation
+walls	_	Architectural_part
+and	_	
+gates	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+form	_	Becoming Coming_to_be Creating Reshaping Type
+they	_	
+retain	_	Hiring Memory
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+this	_	
+day	_	Calendric_unit Measure_duration Timespan
+.	_	
+
+Fountains	_	
+,	_	
+inns	_	
+,	_	
+religious	_	
+schools	_	Locale_by_use
+,	_	
+and	_	
+barracks	_	Buildings
+were	_	Existence
+constructed	_	Building
+.	_	
+
+But	_	Concessive
+when	_	Temporal_collocation
+Suleiman	_	
+died	_	Death
+,	_	
+his	_	
+empire	_	Political_locales
+,	_	
+including	_	Inclusion
+Jerusalem	_	
+,	_	
+began	_	Activity_start Process_start
+a	_	Measure_duration Process_end Quantity
+long	_	Desiring Dimension Duration_attribute Likelihood Measurable_attributes
+period	_	Frequency
+of	_	Age Domain Origin Partitive
+decline	_	Agree_or_refuse_to_act Change_position_on_a_scale
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Holy	_	
+City	_	Locale_by_use Political_locales
+remained	_	State_continue
+a	_	Measure_duration Process_end Quantity
+backwater	_	Isolated_places
+until	_	Time_vector
+the	_	Self_motion Temporal_collocation
+19th	_	Ordinal_numbers
+century	_	Calendric_unit Measure_duration
+,	_	
+when	_	Temporal_collocation
+renewed	_	Activity_resume Rejuvenation
+interest	_	Emotion_directed Experiencer_obj
+among	_	Be_subset_of Inclusion Locative_relation
+Christian	_	People_by_religion
+pilgrims	_	
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+it	_	
+the	_	Self_motion Temporal_collocation
+destination	_	
+of	_	Age Domain Origin Partitive
+thousands	_	Quantity
+of	_	Age Domain Origin Partitive
+travelers	_	Travel
+each	_	
+year	_	Calendric_unit Measure_duration
+.	_	
+
+19th	_	Ordinal_numbers
+-	_	
+Century	_	Calendric_unit Measure_duration
+Aspirations	_	Desiring
+
+At	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+same	_	Identicality
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+,	_	
+many	_	Quantity
+Jews	_	People_by_religion
+sought	_	Seeking Seeking_to_achieve
+religious	_	
+freedom	_	
+and	_	
+fulfillment	_	Experiencer_focus
+by	_	Locative_relation Means
+moving	_	Motion
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Palestine	_	
+(	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+the	_	Self_motion Temporal_collocation
+Holy	_	
+Land	_	Locale_by_ownership Natural_features Political_locales
+was	_	Existence
+traditionally	_	Custom
+called	_	Being_named Labeling Referring_by_name Request Simple_naming
+)	_	
+and	_	
+especially	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Jerusalem	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+1890s	_	
+,	_	
+Theodor	_	
+Herzl	_	
+(	_	
+1860	_	
+-	_	
+1904	_	
+)	_	
+worked	_	Being_employed Working_on
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+organize	_	
+a	_	Measure_duration Process_end Quantity
+movement	_	
+,	_	
+Zionism	_	
+,	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+create	_	Cause_to_start Creating Intentionally_create
+a	_	Measure_duration Process_end Quantity
+Jewish	_	
+state	_	Political_locales State_of_entity Statement
+.	_	
+
+Chaim	_	
+Weizmann	_	
+(	_	
+1874	_	
+-	_	
+1952	_	
+)	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+scientist	_	People_by_vocation
+born	_	Being_born
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Russia	_	
+but	_	Concessive
+later	_	Relative_time Temporal_subregion Time_vector
+a	_	Measure_duration Process_end Quantity
+British	_	
+subject	_	People_by_jurisdiction Topic
+,	_	
+did	_	Intentionally_act
+much	_	Relational_quantity
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+put	_	Causation Encoding Placing
+Herzl	_	
+'s	_	Existence Required_event
+hopes	_	Desiring
+into	_	Goal Into
+practice	_	Businesses Custom Practice
+.	_	
+
+Weizmann	_	
+was	_	Existence
+an	_	Cause_to_end Process_end Quantity
+important	_	Importance
+figure	_	Opinion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+negotiations	_	Discussion
+with	_	Accompaniment
+the	_	Self_motion Temporal_collocation
+British	_	
+government	_	Leadership Organization
+that	_	Degree
+led	_	Causation Cotheme Leadership
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Balfour	_	
+Declaration	_	Statement
+of	_	Age Domain Origin Partitive
+1917	_	
+,	_	
+supporting	_	Taking_sides
+the	_	Self_motion Temporal_collocation
+idea	_	Desirable_event
+of	_	Age Domain Origin Partitive
+a	_	Measure_duration Process_end Quantity
+Jewish	_	
+``	_	
+national	_	Origin People_by_jurisdiction Political_locales
+home	_	Buildings Expected_location_of_person Foreign_or_domestic_country
+''	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Palestine	_	
+that	_	Degree
+also	_	
+respected	_	Judgment
+the	_	Self_motion Temporal_collocation
+rights	_	
+of	_	Age Domain Origin Partitive
+existing	_	Existence
+non	_	
+-	_	
+Jewish	_	
+people	_	Colonization People
+already	_	Time_vector
+living	_	Dead_or_alive Residence
+there	_	Existence Locative_relation
+.	_	
+
+The	_	Self_motion Temporal_collocation
+problem	_	Predicament
+was	_	Existence
+that	_	Degree
+British	_	
+strategists	_	
+,	_	
+who	_	
+were	_	Existence
+fighting	_	Hostile_encounter
+the	_	Self_motion Temporal_collocation
+Ottoman	_	Origin People_by_origin
+Turks	_	People_by_origin
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1917	_	
+,	_	
+had	_	Being_obligated Have_associated Possession Required_event
+secretly	_	Secrecy_status
+promised	_	Commitment
+the	_	Self_motion Temporal_collocation
+lands	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+their	_	
+World	_	Political_locales
+War	_	Hostile_encounter
+I	_	
+Arab	_	
+allies	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1922	_	
+the	_	Self_motion Temporal_collocation
+League	_	Organization
+of	_	Age Domain Origin Partitive
+Nations	_	Political_locales
+granted	_	
+the	_	Self_motion Temporal_collocation
+British	_	
+a	_	Measure_duration Process_end Quantity
+mandate	_	Grant_permission
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+administer	_	Leadership
+Palestine	_	
+.	_	
+
+Jerusalem	_	
+flourished	_	Thriving
+during	_	Temporal_collocation
+the	_	Self_motion Temporal_collocation
+early	_	Relative_time Temporal_collocation Temporal_subregion
+years	_	Calendric_unit Measure_duration
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Mandate	_	Grant_permission
+.	_	
+
+Modern	_	Stage_of_progress Temporal_collocation
+neighborhoods	_	
+,	_	
+hospitals	_	Buildings
+,	_	
+schools	_	Locale_by_use
+,	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+Hebrew	_	
+University	_	Locale_by_use
+were	_	Existence
+built	_	Building
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+West	_	Direction Locative_relation Part_orientational
+Jerusalem	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+new	_	Age Expertise Familiarity
+Jewish	_	
+enclave	_	
+.	_	
+
+But	_	Concessive
+Arab	_	
+opposition	_	Taking_sides
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+new	_	Age Expertise Familiarity
+Jewish	_	
+immigration	_	
+and	_	
+construction	_	Building
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Palestine	_	
+led	_	Causation Cotheme Leadership
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+increasing	_	Cause_change_of_position_on_a_scale Change_position_on_a_scale
+strife	_	Hostile_encounter
+;	_	
+by	_	Locative_relation Means
+1946	_	
+,	_	
+Jerusalem	_	
+was	_	Existence
+an	_	Cause_to_end Process_end Quantity
+armed	_	Bearing_arms
+camp	_	Residence
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1947	_	
+the	_	Self_motion Temporal_collocation
+United	_	
+Nations	_	Political_locales
+voted	_	
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+partition	_	Separating
+of	_	Age Domain Origin Partitive
+Palestine	_	
+into	_	Goal Into
+two	_	Cardinal_numbers
+states	_	Political_locales Statement
+,	_	
+one	_	Cardinal_numbers
+Jewish	_	
+and	_	
+one	_	Cardinal_numbers
+Arab	_	
+,	_	
+with	_	Accompaniment
+Jerusalem	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+an	_	Cause_to_end Process_end Quantity
+international	_	Foreign_or_domestic_country Political_locales
+city	_	Locale_by_use Political_locales
+that	_	Degree
+belonged	_	Possession
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+neither	_	
+.	_	
+
+But	_	Concessive
+lacking	_	Position_on_a_scale Possession
+the	_	Self_motion Temporal_collocation
+means	_	Causation Evidence Linguistic_meaning Means
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+enforce	_	Enforcing
+its	_	
+decision	_	Deciding
+,	_	
+the	_	Self_motion Temporal_collocation
+United	_	
+Nations	_	Political_locales
+was	_	Existence
+powerless	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+halt	_	Activity_stop Halt Process_stop
+the	_	Self_motion Temporal_collocation
+fighting	_	Hostile_encounter
+that	_	Degree
+erupted	_	Process_start
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+the	_	Self_motion Temporal_collocation
+British	_	
+withdrew	_	Removing Withdraw_from_participation
+their	_	
+troops	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1948	_	
+.	_	
+
+Modern	_	Stage_of_progress Temporal_collocation
+Israel	_	
+
+The	_	Self_motion Temporal_collocation
+State	_	Political_locales State_of_entity Statement
+of	_	Age Domain Origin Partitive
+Israel	_	
+was	_	Existence
+declared	_	Statement
+during	_	Temporal_collocation
+this	_	
+difficult	_	Difficulty
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+response	_	Communication_response Response
+,	_	
+member	_	Membership Observable_body_parts
+states	_	Political_locales Statement
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Arab	_	
+League	_	Organization
+sent	_	Causation Sending
+troops	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+help	_	Assistance
+the	_	Self_motion Temporal_collocation
+Palestinian	_	
+Arabs	_	
+.	_	
+
+West	_	Direction Locative_relation Part_orientational
+Jerusalem	_	
+,	_	
+separated	_	Separating
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+rest	_	Placing Rest State_continue Stimulus_focus
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+new	_	Age Expertise Familiarity
+Jewish	_	
+nation	_	Political_locales
+,	_	
+held	_	Containing
+out	_	Departing Expected_location_of_person Intentionally_act Locative_relation Sleep Surviving
+under	_	Locative_relation Relational_quantity
+siege	_	Besieging
+for	_	Causation Taking_sides
+several	_	Quantity
+months	_	Calendric_unit Measure_duration
+until	_	Time_vector
+Israeli	_	
+forces	_	Military
+secured	_	Getting
+a	_	Measure_duration Process_end Quantity
+land	_	Locale_by_ownership Natural_features Political_locales
+corridor	_	Building_subparts Connecting_architecture
+connecting	_	Attaching
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+coastal	_	Natural_features
+areas	_	Fields Locale
+.	_	
+
+Jews	_	People_by_religion
+were	_	Existence
+evacuated	_	Removing
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+Old	_	Age
+City	_	Locale_by_use Political_locales
+'s	_	Existence Required_event
+Jewish	_	
+Quarter	_	Calendric_unit Part_whole Temporary_stay
+,	_	
+and	_	
+thousands	_	Quantity
+of	_	Age Domain Origin Partitive
+Arab	_	
+families	_	Aggregate Kinship
+fled	_	Fleeing
+their	_	
+homes	_	Attention_getting Buildings
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+West	_	Direction Locative_relation Part_orientational
+Jerusalem	_	
+.	_	
+
+As	_	Continued_state_of_affairs Performers_and_roles Relative_time
+a	_	Measure_duration Process_end Quantity
+result	_	Causation Earnings_and_losses
+of	_	Age Domain Origin Partitive
+armistice	_	
+agreements	_	Documents Make_agreement_on_action
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1949	_	
+,	_	
+Jerusalem	_	
+was	_	Existence
+divided	_	Separating
+:	_	
+West	_	Direction Locative_relation Part_orientational
+Jerusalem	_	
+was	_	Existence
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+be	_	Existence Performers_and_roles
+under	_	Locative_relation Relational_quantity
+Israeli	_	
+control	_	Be_in_control Control Prohibiting
+,	_	
+and	_	
+East	_	Direction Locative_relation Part_orientational
+Jerusalem	_	
+(	_	
+including	_	Inclusion
+the	_	Self_motion Temporal_collocation
+Old	_	Age
+City	_	Locale_by_use Political_locales
+,	_	
+with	_	Accompaniment
+its	_	
+Jewish	_	
+,	_	
+Muslim	_	People_by_religion
+,	_	
+Christian	_	People_by_religion
+,	_	
+and	_	
+Armenian	_	
+quarters	_	
+)	_	
+came	_	Arriving Process_end
+under	_	Locative_relation Relational_quantity
+Jordanian	_	Origin
+authority	_	Leadership
+.	_	
+
+Free	_	Expensiveness
+access	_	Having_or_lacking_access
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+holy	_	
+sites	_	Locale_by_use
+for	_	Causation Taking_sides
+members	_	Membership
+of	_	Age Domain Origin Partitive
+all	_	Quantity
+religions	_	
+was	_	Existence
+guaranteed	_	Likelihood
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+armistice	_	
+agreements	_	Documents Make_agreement_on_action
+.	_	
+
+However	_	Concessive
+,	_	
+with	_	Accompaniment
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+partitioned	_	Separating
+by	_	Locative_relation Means
+fortifications	_	Buildings
+and	_	
+barbed	_	
+wire	_	Attaching Communication_means Connectors Sending
+,	_	
+no	_	Quantity
+Israeli	_	
+or	_	
+Jewish	_	
+pilgrims	_	
+were	_	Existence
+allowed	_	Grant_permission Permitting
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+visit	_	Arriving Visiting
+the	_	Self_motion Temporal_collocation
+Western	_	Part_orientational
+Wall	_	Architectural_part
+or	_	
+other	_	Increment
+Jewish	_	
+sites	_	Locale_by_use
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+East	_	Direction Locative_relation Part_orientational
+Jerusalem	_	
+.	_	
+
+For	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+next	_	Locative_relation Relative_time
+19	_	
+years	_	Calendric_unit Measure_duration
+,	_	
+Jerusalem	_	
+was	_	Existence
+two	_	Cardinal_numbers
+cities	_	Locale_by_use Political_locales
+.	_	
+
+Political	_	
+and	_	
+religious	_	
+boundaries	_	Boundary
+were	_	Existence
+aggravated	_	
+by	_	Locative_relation Means
+occasional	_	Frequency
+incidents	_	Catastrophe
+of	_	Age Domain Origin Partitive
+terrorism	_	Terrorism
+or	_	
+sniping	_	
+until	_	Time_vector
+the	_	Self_motion Temporal_collocation
+Six	_	Cardinal_numbers
+Day	_	Calendric_unit Measure_duration Timespan
+War	_	Hostile_encounter
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+June	_	Calendric_unit
+1967	_	
+.	_	
+
+Within	_	Temporal_collocation Within_distance
+three	_	Cardinal_numbers
+days	_	Calendric_unit Measure_duration
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+was	_	Existence
+completely	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Israeli	_	
+hands	_	Observable_body_parts
+,	_	
+and	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+two	_	Cardinal_numbers
+weeks	_	Calendric_unit Measure_duration
+it	_	
+was	_	Existence
+physically	_	
+and	_	
+administratively	_	
+reunited	_	
+.	_	
+
+Jerusalem	_	
+'s	_	Existence Required_event
+mayor	_	Leadership
+,	_	
+Teddy	_	Clothing
+Kollek	_	
+,	_	
+spent	_	Used_up
+the	_	Self_motion Temporal_collocation
+next	_	Locative_relation Relative_time
+25	_	Cardinal_numbers
+years	_	Calendric_unit Measure_duration
+orchestrating	_	
+a	_	Measure_duration Process_end Quantity
+vast	_	
+program	_	Project
+of	_	Age Domain Origin Partitive
+development	_	Cause_to_make_progress Event Progress
+,	_	
+adding	_	Statement
+new	_	Age Expertise Familiarity
+cultural	_	
+institutions	_	Institutions
+and	_	
+parks	_	Locale_by_use
+and	_	
+instituting	_	
+neighborhood	_	
+restoration	_	
+projects	_	Project
+while	_	Concessive Measure_duration Relative_time
+tirelessly	_	
+mediating	_	
+the	_	Self_motion Temporal_collocation
+concerns	_	Emotion_directed Point_of_dispute
+of	_	Age Domain Origin Partitive
+Jerusalem	_	
+'s	_	Existence Required_event
+many	_	Quantity
+communities	_	Aggregate
+.	_	
+
+Today	_	Calendric_unit Temporal_collocation
+,	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+always	_	Frequency
+,	_	
+Jerusalem	_	
+is	_	Existence
+a	_	Measure_duration Process_end Quantity
+city	_	Locale_by_use Political_locales
+of	_	Age Domain Origin Partitive
+controversies	_	
+:	_	
+religious	_	
+Jews	_	People_by_religion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+conflict	_	Compatibility Hostile_encounter
+with	_	Accompaniment
+secular	_	
+Jews	_	People_by_religion
+;	_	
+Palestinians	_	
+calling	_	Labeling Request
+for	_	Causation Taking_sides
+independence	_	Change_of_leadership Contingency
+;	_	
+many	_	Quantity
+residents	_	Residence
+protesting	_	
+a	_	Measure_duration Process_end Quantity
+wave	_	Body_movement Gesture Hair_configuration Moving_in_place Quantity
+of	_	Age Domain Origin Partitive
+high	_	Dimension Extreme_value Intoxication Measurable_attributes Position_on_a_scale
+-	_	
+rise	_	Change_position_on_a_scale Change_posture Dough_rising Getting_up Motion_directional Path_shape Resurrection Rising_to_a_challenge Sidereal_appearance
+development	_	Cause_to_make_progress Event Progress
+that	_	Degree
+many	_	Quantity
+claim	_	Claim_ownership Predicting Statement
+will	_	Desiring Documents Giving
+turn	_	Becoming Cause_change Cause_to_move_in_place Change_direction Contingency Moving_in_place Temporal_subregion Undergo_change
+the	_	Self_motion Temporal_collocation
+Holy	_	
+City	_	Locale_by_use Political_locales
+into	_	Goal Into
+a	_	Measure_duration Process_end Quantity
+holy	_	
+megalopolis	_	Political_locales
+.	_	
+
+But	_	Concessive
+the	_	Self_motion Temporal_collocation
+ideas	_	
+and	_	
+mystique	_	
+that	_	Degree
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+always	_	Frequency
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+this	_	
+an	_	Cause_to_end Process_end Quantity
+extraordinarily	_	
+special	_	
+place	_	Event Locale Placing
+rise	_	Change_position_on_a_scale Change_posture Dough_rising Getting_up Motion_directional Path_shape Resurrection Rising_to_a_challenge Sidereal_appearance
+above	_	Locative_relation
+the	_	Self_motion Temporal_collocation
+ebbing	_	
+and	_	
+flowing	_	
+concerns	_	Emotion_directed Point_of_dispute
+of	_	Age Domain Origin Partitive
+present	_	Cause_to_perceive Presence Temporal_collocation
+-	_	
+day	_	Calendric_unit Measure_duration Timespan
+Jerusalem	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+it	_	
+continues	_	Activity_ongoing Process_continue
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+tug	_	Cause_motion Manipulation
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+world	_	Political_locales
+'s	_	Existence Required_event
+attention	_	Attention
+into	_	Goal Into
+the	_	Self_motion Temporal_collocation
+new	_	Age Expertise Familiarity
+millennium	_	Calendric_unit Measure_duration
+.	_	
+

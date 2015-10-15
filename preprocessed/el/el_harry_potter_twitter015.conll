@@ -1,0 +1,10 @@
+1	ΕΧΕΙ	_	NOUN	NOUN	_	2	nmod
+2	HARRY	_	NOUN	NOUN	_	6	nsubj
+3	POTTER	_	NOUN	NOUN	_	2	nmod
+4	ΣΤΗΝ	_	NOUN	NOUN	_	5	nmod
+5	ΤΗΛΕΟΡΑΣΗ	_	NOUN	NOUN	_	3	nmod
+6	ΕΛΑ	_	VERB	VERB	_	0	root
+7	ΝΑ	_	ADJ	ADJ	_	8	amod
+8	ΔΟΥΜΕ	_	NOUN	NOUN	_	6	dobj
+9	@ShawnMendes	_	NOUN	NOUN	_	8	nmod
+

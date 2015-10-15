@@ -1,0 +1,17 @@
+1	Fünf	_	PROPN	PROPN	_	2	det
+2	Monate	_	NOUN	NOUN	_	3	nmod
+3	später	_	ADJ	ADJ	_	4	advmod
+4	bezog	_	VERB	VERB	_	0	root
+5	Google	_	PROPN	PROPN	_	6	name
+6	Inc	_	PROPN	PROPN	_	4	nsubj
+7	.	_	PUNCT	PUNCT	_	6	punct
+8	mit	_	ADP	ADP	_	10	case
+9	acht	_	NUM	NUM	_	10	nummod
+10	Angestellten	_	NOUN	NOUN	_	12	nmod
+11	ein	_	DET	DET	_	12	det
+12	Büro	_	NOUN	NOUN	_	4	dobj
+13	in	_	ADP	ADP	_	15	case
+14	Palo	_	PROPN	PROPN	_	15	name
+15	Alto	_	PROPN	PROPN	_	12	nmod
+16	.	_	PUNCT	PUNCT	_	4	punct
+

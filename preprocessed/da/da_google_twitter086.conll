@@ -1,0 +1,17 @@
+1	@Apple	_	ADJ	ADJ	_	3	amod
+2	[	_	PUNCT	PUNCT	_	1	punct
+3	#Apple	_	VERB	VERB	_	0	root
+4	]	_	PUNCT	PUNCT	_	3	punct
+5	#kan	_	NOUN	NOUN	_	6	nsubj
+6	lansera	_	VERB	VERB	_	3	dep
+7	mindre	_	ADJ	ADJ	_	8	amod
+8	Iphone	_	PROPN	PROPN	_	6	dobj
+9	.	_	PUNCT	PUNCT	_	3	punct
+10	(	_	PUNCT	PUNCT	_	11	punct
+11	#Sunday	_	PROPN	PROPN	_	8	dep
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	4	_	NUM	NUM	_	14	nummod
+14	#January	_	NOUN	NOUN	_	11	list
+15	)	_	PUNCT	PUNCT	_	11	punct
+16	http://t.co/9vMvcmoBms	_	PROPN	PROPN	_	14	list
+

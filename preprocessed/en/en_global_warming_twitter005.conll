@@ -1,0 +1,22 @@
+1	5	_	NUM	NUM	_	2	nummod
+2	minutes	_	NOUN	NOUN	_	6	nmod:npmod
+3	into	_	ADP	ADP	_	2	compound
+4	the	_	DET	DET	_	6	det
+5	Celebrity	_	PROPN	PROPN	_	6	compound
+6	Apprentice	_	PROPN	PROPN	_	12	nsubj
+7	and	_	CONJ	CONJ	_	6	cc
+8	Donald	_	PROPN	PROPN	_	9	compound
+9	Trump	_	PROPN	PROPN	_	6	conj
+10	is	_	AUX	AUX	_	12	aux
+11	already	_	ADV	ADV	_	12	advmod
+12	showing	_	VERB	VERB	_	0	root
+13	that	_	SCONJ	SCONJ	_	16	mark
+14	he	_	PRON	PRON	_	16	nsubj
+15	doesn't	_	NOUN	NOUN	_	16	nsubj
+16	understand	_	VERB	VERB	_	12	ccomp
+17	Global	_	ADJ	ADJ	_	0	foreign
+18	Warming	_	NOUN	NOUN	_	16	dobj
+19	at	_	ADP	ADP	_	16	compound:prt
+20	all	_	DET	DET	_	18	nmod
+21	.	_	PUNCT	PUNCT	_	12	punct
+

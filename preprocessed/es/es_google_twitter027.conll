@@ -1,0 +1,18 @@
+1	Gana	_	VERB	VERB	_	0	root
+2	crédito	_	NOUN	NOUN	_	1	dobj
+3	de	_	ADP	ADP	_	5	case
+4	Google	_	PROPN	PROPN	_	5	name
+5	Play	_	PROPN	PROPN	_	2	nmod
+6	respondiendo	_	VERB	VERB	_	2	acl
+7	a	_	ADP	ADP	_	8	case
+8	encuestas	_	NOUN	NOUN	_	6	nmod
+9	breves	_	ADJ	ADJ	_	8	amod
+10	.	_	PUNCT	PUNCT	_	1	punct
+11	Descarga	_	PROPN	PROPN	_	14	name
+12	Google	_	PROPN	PROPN	_	14	name
+13	Opinion	_	PROPN	PROPN	_	14	name
+14	Rewards	_	PROPN	PROPN	_	6	dobj
+15	ahora	_	ADV	ADV	_	11	advmod
+16	:	_	PUNCT	PUNCT	_	12	punct
+17	https://t.co/XeKtvWsI7Q	_	PROPN	PROPN	_	15	parataxis
+

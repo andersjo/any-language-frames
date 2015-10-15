@@ -1,0 +1,19 @@
+1	¿Por	_	PROPN	PROPN	_	3	nsubj
+2	qué	_	PRON	PRON	_	3	nsubj
+3	sale	_	VERB	VERB	_	0	root
+4	el	_	DET	DET	_	5	det
+5	simbolo	_	NOUN	NOUN	_	3	dobj
+6	del	_	ADP	ADP	_	7	case
+7	Dark	_	PROPN	PROPN	_	5	nmod
+8	Side	_	PROPN	PROPN	_	5	nmod
+9	of	_	PROPN	PROPN	_	11	case
+10	the	_	PROPN	PROPN	_	11	det
+11	Moon	_	PROPN	PROPN	_	8	nmod
+12	de	_	ADP	ADP	_	14	case
+13	Pink	_	PROPN	PROPN	_	14	name
+14	Floyd	_	PROPN	PROPN	_	11	nmod
+15	en	_	ADP	ADP	_	17	case
+16	Harry	_	PROPN	PROPN	_	13	nmod
+17	Potter	_	PROPN	PROPN	_	16	amod
+18	?	_	PUNCT	PUNCT	_	3	punct
+

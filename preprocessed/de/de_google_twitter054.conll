@@ -1,0 +1,22 @@
+1	Night	_	PROPN	PROPN	_	2	name
+2	School	_	PROPN	PROPN	_	5	nsubj
+3	-	_	PUNCT	PUNCT	_	2	punct
+4	Du	_	PRON	PRON	_	5	nsubj
+5	darfst	_	VERB	VERB	_	0	root
+6	keinem	_	PRON	PRON	_	7	nsubj
+7	trauen	_	ADJ	ADJ	_	5	xcomp
+8	:	_	PUNCT	PUNCT	_	7	punct
+9	Readingo	_	PROPN	PROPN	_	10	det
+10	Bücher	_	NOUN	NOUN	_	12	dobj
+11	online	_	ADV	ADV	_	12	advmod
+12	verwalten	_	VERB	VERB	_	5	xcomp
+13	und	_	CONJ	CONJ	_	12	cc
+14	bewerten	_	VERB	VERB	_	12	conj
+15	·	_	X	X	_	14	advmod
+16	Startseite	_	NOUN	NOUN	_	14	dobj
+17	·	_	PROPN	PROPN	_	18	name
+18	…	_	PROPN	PROPN	_	19	name
+19	http://t.co/A0woMeknrA	_	PROPN	PROPN	_	21	name
+20	#book	_	PROPN	PROPN	_	21	name
+21	#reviews	_	PROPN	PROPN	_	16	appos
+

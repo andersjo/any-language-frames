@@ -1,0 +1,17 @@
+1	@Velvetml	_	PROPN	PROPN	_	2	name
+2	Lu	_	PROPN	PROPN	_	3	nsubj
+3	mira	_	VERB	VERB	_	0	root
+4	Harry	_	PROPN	PROPN	_	5	name
+5	Potter	_	PROPN	PROPN	_	3	dobj
+6	.	_	PUNCT	PUNCT	_	3	punct
+7	Y	_	CONJ	CONJ	_	3	cc
+8	yo	_	PRON	PRON	_	9	nsubj
+9	aca	_	VERB	VERB	_	3	conj
+10	como	_	ADP	ADP	_	11	case
+11	veras	_	NOUN	NOUN	_	9	nmod
+12	.	_	PUNCT	PUNCT	_	3	punct
+13	Jajaja	_	X	X	_	16	dep
+14	.	_	PUNCT	PUNCT	_	13	punct
+15	Uds	_	PROPN	PROPN	_	16	name
+16	?.	_	PROPN	PROPN	_	11	appos
+

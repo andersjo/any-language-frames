@@ -1,0 +1,14 @@
+1	@ahzahaziq	_	ADJ	ADJ	_	2	amod
+2	Awak	_	NOUN	NOUN	_	0	root
+3	band	_	NOUN	NOUN	_	2	nmod
+4	3	_	NUM	NUM	_	3	nmod
+5	.	_	PUNCT	PUNCT	_	3	punct
+6	Type	_	NOUN	NOUN	_	7	nmod:poss
+7	je	_	NOUN	NOUN	_	9	nmod:poss
+8	result	_	ADJ	ADJ	_	9	amod
+9	muet	_	NOUN	NOUN	_	10	dep
+10	nov	_	PROPN	PROPN	_	3	appos
+11	2014	_	NUM	NUM	_	12	nummod
+12	kat	_	NOUN	NOUN	_	10	dep
+13	google	_	NOUN	NOUN	_	12	nmod
+

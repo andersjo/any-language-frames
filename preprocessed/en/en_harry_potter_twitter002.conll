@@ -1,0 +1,24 @@
+1	Ron	_	PROPN	PROPN	_	2	compound
+2	Weasley	_	PROPN	PROPN	_	10	nsubj
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	Hermione	_	PROPN	PROPN	_	5	compound
+5	Granger	_	PROPN	PROPN	_	2	conj
+6	&	_	CONJ	CONJ	_	2	cc
+7	Harry	_	PROPN	PROPN	_	8	compound
+8	Potter	_	PROPN	PROPN	_	2	conj
+9	.	_	PUNCT	PUNCT	_	5	punct
+10	<3	_	VERB	VERB	_	13	parataxis
+11	(	_	PUNCT	PUNCT	_	10	punct
+12	Why	_	ADV	ADV	_	0	root
+13	is	_	VERB	VERB	_	12	cop
+14	it	_	PRON	PRON	_	13	expl
+15	always	_	ADV	ADV	_	17	advmod
+16	you	_	PRON	PRON	_	23	nmod:poss
+17	three	_	NUM	NUM	_	22	nummod
+18	?	_	PUNCT	PUNCT	_	2	punct
+19	)	_	PUNCT	PUNCT	_	10	punct
+20	#HarryPotter	_	X	X	_	22	goeswith
+21	#HP	_	X	X	_	22	goeswith
+22	#Hogwarts	_	NOUN	NOUN	_	23	compound
+23	http://t.co/L4aOw2m4rk	_	NOUN	NOUN	_	2	conj
+

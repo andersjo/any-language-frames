@@ -1,0 +1,11 @@
+1	@diamantlefou	_	PROPN	PROPN	_	2	name
+2	Désolée	_	PROPN	PROPN	_	5	nsubj
+3	,	_	PUNCT	PUNCT	_	5	punct
+4	je	_	PRON	PRON	_	5	nsubj
+5	n'aime	_	VERB	VERB	_	0	root
+6	pas	_	ADV	ADV	_	5	neg
+7	Google	_	PROPN	PROPN	_	5	dobj
+8	en	_	ADP	ADP	_	9	mwe
+9	général	_	NOUN	NOUN	_	7	advmod
+10	.	_	PUNCT	PUNCT	_	5	punct
+

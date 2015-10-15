@@ -1,0 +1,15 @@
+1	Hierüber	_	ADV	ADV	_	12	advmod
+2	können	_	AUX	AUX	_	12	aux
+3	seit	_	ADP	ADP	_	4	case
+4	Mai	_	PROPN	PROPN	_	12	nmod
+5	2004	_	NUM	NUM	_	4	nmod
+6	auch	_	ADV	ADV	_	7	advmod
+7	grafische	_	ADJ	ADJ	_	8	amod
+8	Werbebanner	_	PROPN	PROPN	_	12	nsubjpass
+9	in	_	ADP	ADP	_	11	case
+10	vier	_	NUM	NUM	_	11	nummod
+11	Standardgrößen	_	NOUN	NOUN	_	12	nmod
+12	platziert	_	VERB	VERB	_	0	root
+13	werden	_	AUX	AUX	_	12	auxpass
+14	.	_	PUNCT	PUNCT	_	12	punct
+

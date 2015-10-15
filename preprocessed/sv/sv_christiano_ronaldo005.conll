@@ -1,0 +1,15 @@
+1	Han	_	PRON	PRON	_	9	nsubj
+2	var	_	AUX	AUX	_	6	cop
+3	med	_	ADP	ADP	_	6	case
+4	i	_	ADP	ADP	_	6	case
+5	den	_	DET	DET	_	6	det
+6	trupp	_	NOUN	NOUN	_	9	nmod
+7	som	_	CONJ	CONJ	_	8	mark
+8	lyckades	_	NOUN	NOUN	_	6	acl
+9	ta	_	VERB	VERB	_	0	root
+10	silver	_	NOUN	NOUN	_	9	dobj
+11	vid	_	ADP	ADP	_	12	case
+12	EM	_	NOUN	NOUN	_	9	nmod
+13	2004	_	NUM	NUM	_	12	nummod
+14	.	_	PUNCT	PUNCT	_	9	punct
+

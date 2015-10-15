@@ -1,0 +1,25 @@
+1	1910	_	NUM	NUM	_	4	nummod
+2	anordnade	_	ADJ	ADJ	_	4	det
+3	Andra	_	ADJ	ADJ	_	4	det
+4	internationalen	_	NOUN	NOUN	_	8	nmod
+5	den	_	DET	DET	_	8	det
+6	första	_	ADJ	ADJ	_	8	det
+7	internationella	_	ADJ	ADJ	_	8	amod
+8	kvinnokonferensen	_	NOUN	NOUN	_	17	nsubj
+9	i	_	ADP	ADP	_	11	case
+10	Folkets	_	NOUN	NOUN	_	11	nmod:poss
+11	hus	_	NOUN	NOUN	_	8	nmod
+12	(	_	PUNCT	PUNCT	_	11	punct
+13	den	_	DET	DET	_	14	det
+14	byggnad	_	NOUN	NOUN	_	17	nsubj
+15	som	_	CONJ	CONJ	_	16	mark
+16	sedermera	_	NOUN	NOUN	_	17	nsubj
+17	blivit	_	VERB	VERB	_	0	root
+18	känd	_	ADJ	ADJ	_	17	xcomp
+19	som	_	CONJ	CONJ	_	20	mark
+20	Ungdomshuset	_	NOUN	NOUN	_	17	xcomp
+21	)	_	PUNCT	PUNCT	_	14	punct
+22	i	_	ADP	ADP	_	23	case
+23	Köpenhamn	_	PROPN	PROPN	_	17	nmod
+24	.	_	PUNCT	PUNCT	_	17	punct
+

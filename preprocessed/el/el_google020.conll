@@ -1,0 +1,23 @@
+1	Στην	_	ADP	ADP	_	2	case
+2	αρχή	_	NOUN	NOUN	_	5	nmod
+3	το	_	ADJ	ADJ	_	4	det
+4	Google	_	NOUN	NOUN	_	5	nsubj
+5	έτρεχε	_	VERB	VERB	_	0	root
+6	στην	_	ADP	ADP	_	7	case
+7	ιστοσελίδα	_	NOUN	NOUN	_	5	nmod
+8	του	_	ADJ	ADJ	_	9	det
+9	Πανεπιστημίου	_	NOUN	NOUN	_	7	nmod
+10	Στάνφορντ	_	NOUN	NOUN	_	9	nmod
+11	,	_	PUNCT	PUNCT	_	5	punct
+12	με	_	ADP	ADP	_	15	case
+13	τα	_	ADJ	ADJ	_	16	det
+14	"	_	PUNCT	PUNCT	_	16	punct
+15	domain	_	NOUN	NOUN	_	16	nmod
+16	google.stanford.edu	_	NOUN	NOUN	_	7	appos
+17	"	_	PUNCT	PUNCT	_	15	punct
+18	και	_	CONJ	CONJ	_	5	cc
+19	"	_	PUNCT	PUNCT	_	20	punct
+20	z.stanford.edu	_	NOUN	NOUN	_	10	conj
+21	"	_	PUNCT	PUNCT	_	20	punct
+22	.	_	PUNCT	PUNCT	_	5	punct
+

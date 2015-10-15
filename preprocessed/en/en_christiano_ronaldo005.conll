@@ -1,0 +1,15 @@
+1	He	_	PRON	PRON	_	3	nsubj
+2	also	_	ADV	ADV	_	3	advmod
+3	won	_	VERB	VERB	_	0	root
+4	the	_	DET	DET	_	10	det
+5	2013	_	NUM	NUM	_	6	nummod
+6	–	_	NOUN	NOUN	_	3	dobj
+7	14	_	NUM	NUM	_	8	nummod
+8	UEFA	_	NOUN	NOUN	_	3	dobj
+9	Best	_	ADJ	ADJ	_	0	case
+10	Player	_	NOUN	NOUN	_	3	dobj
+11	in	_	ADP	ADP	_	10	compound
+12	Europe	_	PROPN	PROPN	_	13	compound
+13	Award	_	PROPN	PROPN	_	3	dobj
+14	.	_	PUNCT	PUNCT	_	3	punct
+

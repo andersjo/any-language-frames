@@ -1,0 +1,13 @@
+1	Con	_	ADP	ADP	_	3	case
+2	la	_	DET	DET	_	3	det
+3	Nazionale	_	NOUN	NOUN	_	7	nmod
+4	portoghese	_	ADJ	ADJ	_	3	amod
+5	si	_	PRON	PRON	_	7	expl
+6	è	_	AUX	AUX	_	7	aux
+7	laureato	_	VERB	VERB	_	0	root
+8	vice-campione	_	NOUN	NOUN	_	7	xcomp
+9	d'Europa	_	VERB	VERB	_	8	acl
+10	nel	_	ADP	ADP	_	11	case
+11	2004	_	NUM	NUM	_	9	nummod
+12	.	_	PUNCT	PUNCT	_	7	punct
+

@@ -1,0 +1,25 @@
+1	Ενώ	_	CONJ	CONJ	_	4	mark
+2	η	_	ADJ	ADJ	_	3	det
+3	συνεργασία	_	NOUN	NOUN	_	4	nsubj
+4	συνεχίστηκε	_	VERB	VERB	_	0	root
+5	,	_	PUNCT	PUNCT	_	8	punct
+6	με	_	ADP	ADP	_	8	case
+7	το	_	ADJ	ADJ	_	8	det
+8	Pro	_	NOUN	NOUN	_	4	nmod
+9	Evolution	_	NOUN	NOUN	_	8	nmod
+10	Soccer	_	NOUN	NOUN	_	9	nmod
+11	και	_	CONJ	CONJ	_	8	cc
+12	το	_	ADJ	ADJ	_	13	det
+13	2011	_	NOUN	NOUN	_	10	conj
+14	και	_	CONJ	CONJ	_	13	cc
+15	το	_	ADJ	ADJ	_	16	det
+16	2012	_	NOUN	NOUN	_	13	conj
+17	,	_	PUNCT	PUNCT	_	4	punct
+18	και	_	CONJ	CONJ	_	4	cc
+19	,	_	PUNCT	PUNCT	_	18	punct
+20	τέλος	_	NOUN	NOUN	_	10	conj
+21	,	_	PUNCT	PUNCT	_	20	punct
+22	το	_	ADJ	ADJ	_	23	det
+23	2013	_	NOUN	NOUN	_	13	conj
+24	.	_	PUNCT	PUNCT	_	4	punct
+

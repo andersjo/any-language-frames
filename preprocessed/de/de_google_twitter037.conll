@@ -1,0 +1,18 @@
+1	Google	_	PROPN	PROPN	_	3	name
+2	News	_	PROPN	PROPN	_	3	name
+3	DE	_	PROPN	PROPN	_	0	root
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	Gewalt-Vorwürfe	_	NOUN	NOUN	_	2	appos
+6	gegen	_	ADP	ADP	_	7	case
+7	Sensburg	_	NOUN	NOUN	_	5	nmod
+8	nach	_	ADP	ADP	_	9	case
+9	Streit	_	NOUN	NOUN	_	7	nmod
+10	mit	_	ADP	ADP	_	13	case
+11	Ex-Freundin	_	PROPN	PROPN	_	13	name
+12	-	_	PUNCT	PUNCT	_	13	punct
+13	Derwesten.de:	_	PROPN	PROPN	_	9	nmod
+14	...	_	PUNCT	PUNCT	_	13	punct
+15	http://t.co/G0d9P3EzzK	_	PROPN	PROPN	_	17	name
+16	#News	_	PROPN	PROPN	_	17	name
+17	#Deutschland	_	PROPN	PROPN	_	9	nmod
+

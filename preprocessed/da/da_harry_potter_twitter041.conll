@@ -1,0 +1,8 @@
+1	Harry	_	ADJ	ADJ	_	2	amod
+2	Potter	_	NOUN	NOUN	_	7	nsubj
+3	og	_	CONJ	CONJ	_	2	cc
+4	DET	_	PRON	PRON	_	2	conj
+5	FARLIGE	_	ADJ	ADJ	_	6	amod
+6	MAGEFETTET	_	NOUN	NOUN	_	7	nsubj
+7	#detfarligemagefettet	_	VERB	VERB	_	0	root
+

@@ -1,0 +1,24 @@
+1	wenn	_	SCONJ	SCONJ	_	5	mark
+2	man	_	PRON	PRON	_	5	nsubj
+3	mir	_	PRON	PRON	_	5	iobj
+4	etwas	_	ADV	ADV	_	5	advmod
+5	schenken	_	VERB	VERB	_	0	root
+6	will	_	AUX	AUX	_	5	aux
+7	muss	_	AUX	AUX	_	15	aux
+8	man	_	PRON	PRON	_	15	nsubj
+9	einfach	_	ADV	ADV	_	15	advmod
+10	nur	_	ADV	ADV	_	11	advmod
+11	was	_	PRON	PRON	_	15	nsubj
+12	von	_	ADP	ADP	_	14	case
+13	harry	_	ADJ	ADJ	_	14	advmod
+14	potter	_	ADJ	ADJ	_	15	advmod
+15	besorgen	_	VERB	VERB	_	5	csubjpass
+16	.	_	PUNCT	PUNCT	_	15	punct
+17	egal	_	ADV	ADV	_	18	advmod
+18	was	_	PRON	PRON	_	11	appos
+19	,	_	PUNCT	PUNCT	_	18	punct
+20	ich	_	PRON	PRON	_	21	det
+21	liebe	_	NOUN	NOUN	_	18	conj
+22	alles	_	PRON	PRON	_	21	dep
+23	.	_	PUNCT	PUNCT	_	14	punct
+

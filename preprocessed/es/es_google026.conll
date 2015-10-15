@@ -1,0 +1,18 @@
+1	En	_	ADP	ADP	_	3	case
+2	abril	_	PROPN	PROPN	_	3	name
+3	Google	_	PROPN	PROPN	_	4	nmod
+4	presentó	_	VERB	VERB	_	0	root
+5	GMail	_	PROPN	PROPN	_	4	dobj
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	su	_	DET	DET	_	8	nmod:poss
+8	servicio	_	NOUN	NOUN	_	5	appos
+9	de	_	ADP	ADP	_	10	case
+10	correo	_	NOUN	NOUN	_	8	nmod
+11	electrónico	_	ADJ	ADJ	_	10	amod
+12	con	_	ADP	ADP	_	14	case
+13	1	_	NUM	NUM	_	14	nummod
+14	Gb	_	PROPN	PROPN	_	8	appos
+15	de	_	ADP	ADP	_	16	case
+16	almacenamiento	_	NOUN	NOUN	_	14	nmod
+17	.	_	PUNCT	PUNCT	_	4	punct
+

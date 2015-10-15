@@ -1,0 +1,20 @@
+1	Btw	_	PROPN	PROPN	_	4	name
+2	.	_	PUNCT	PUNCT	_	1	punct
+3	Harry	_	PROPN	PROPN	_	4	name
+4	Potter	_	PROPN	PROPN	_	7	conj
+5	zwei	_	NUM	NUM	_	4	nmod
+6	hab	_	AUX	AUX	_	15	aux
+7	’	_	PROPN	PROPN	_	12	dobj
+8	ich	_	PRON	PRON	_	15	nsubj
+9	dann	_	ADV	ADV	_	15	advmod
+10	auch	_	ADV	ADV	_	11	advmod
+11	mal	_	ADV	ADV	_	15	advmod
+12	durch	_	ADP	ADP	_	14	case
+13	.	_	PUNCT	PUNCT	_	7	punct
+14	Jetzt	_	ADV	ADV	_	15	advmod
+15	gehts	_	VERB	VERB	_	0	root
+16	mir	_	PRON	PRON	_	15	iobj
+17	drei	_	NUM	NUM	_	15	nmod
+18	weiter	_	ADV	ADV	_	19	advmod
+19	xD	_	ADJ	ADJ	_	15	advmod
+

@@ -1,0 +1,12 @@
+1	#STOPyouarenot1D	_	PROPN	PROPN	_	2	name
+2	See	_	PROPN	PROPN	_	5	nsubj
+3	boludo	_	NOUN	NOUN	_	5	nsubj
+4	son	_	VERB	VERB	_	5	cop
+5	iguales	_	ADJ	ADJ	_	0	root
+6	y	_	CONJ	CONJ	_	5	cc
+7	yo	_	PRON	PRON	_	8	nsubj
+8	soy	_	VERB	VERB	_	5	conj
+9	Angelina	_	PROPN	PROPN	_	11	name
+10	Jolie	_	PROPN	PROPN	_	11	name
+11	http://t.co/WdzWL6liNz	_	PROPN	PROPN	_	5	nmod
+

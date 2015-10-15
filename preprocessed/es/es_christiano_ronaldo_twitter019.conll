@@ -1,0 +1,6 @@
+1	Christiano	_	PROPN	PROPN	_	2	name
+2	Ronaldo	_	PROPN	PROPN	_	3	nsubj
+3	deserves	_	VERB	VERB	_	0	root
+4	it	_	NOUN	NOUN	_	3	dobj
+5	!	_	PUNCT	PUNCT	_	3	punct
+

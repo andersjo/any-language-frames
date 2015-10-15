@@ -1,0 +1,17 @@
+1	WARNER	_	PROPN	PROPN	_	0	root
+2	BROS	_	PROPN	PROPN	_	1	name
+3	.	_	PUNCT	PUNCT	_	4	punct
+4	FEASTS	_	NOUN	NOUN	_	1	name
+5	.	_	PUNCT	PUNCT	_	4	punct
+6	MONSTERS	_	NOUN	NOUN	_	1	name
+7	.	_	PUNCT	PUNCT	_	4	punct
+8	JK	_	ADJ	ADJ	_	9	amod
+9	ROWLING	_	NOUN	NOUN	_	4	conj
+10	.	_	PUNCT	PUNCT	_	4	punct
+11	HARRY	_	ADJ	ADJ	_	12	amod
+12	POTTER	_	NOUN	NOUN	_	4	conj
+13	.	_	PUNCT	PUNCT	_	4	punct
+14	FILM	_	NOUN	NOUN	_	15	name
+15	SERIES	_	PROPN	PROPN	_	12	appos
+16	JFSKJWQKJAAOAKJWKAMNA	_	PROPN	PROPN	_	15	name
+

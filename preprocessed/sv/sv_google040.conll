@@ -1,0 +1,18 @@
+1	Indexeringen	_	NOUN	NOUN	_	4	nsubjpass
+2	av	_	ADP	ADP	_	3	case
+3	Usenetarkivet	_	ADJ	ADJ	_	1	nmod
+4	påbörjades	_	VERB	VERB	_	0	root
+5	redan	_	ADV	ADV	_	6	advmod
+6	1998	_	NUM	NUM	_	4	nmod
+7	,	_	PUNCT	PUNCT	_	4	punct
+8	då	_	ADV	ADV	_	9	advmod
+9	Google	_	PROPN	PROPN	_	14	nsubj
+10	fortfarande	_	ADV	ADV	_	14	advmod
+11	var	_	AUX	AUX	_	14	cop
+12	en	_	DET	DET	_	14	det
+13	liten	_	ADJ	ADJ	_	14	amod
+14	spelare	_	NOUN	NOUN	_	4	dobj
+15	på	_	ADP	ADP	_	16	case
+16	söktjänstmarknaden	_	NOUN	NOUN	_	14	nmod
+17	.	_	PUNCT	PUNCT	_	4	punct
+

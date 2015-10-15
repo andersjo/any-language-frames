@@ -1,0 +1,19 @@
+1	@MissNaany	_	PROPN	PROPN	_	10	nsubj
+2	bien	_	ADV	ADV	_	3	advmod
+3	évidemment	_	ADV	ADV	_	10	advmod
+4	!	_	PUNCT	PUNCT	_	1	punct
+5	Mais	_	CONJ	CONJ	_	10	cc
+6	ces	_	DET	DET	_	7	det
+7	personnes	_	NOUN	NOUN	_	10	nsubj
+8	sont	_	VERB	VERB	_	10	cop
+9	plutôt	_	ADV	ADV	_	10	advmod
+10	rare	_	ADJ	ADJ	_	0	root
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	Angelina	_	PROPN	PROPN	_	16	nsubjpass
+13	jolie	_	ADJ	ADJ	_	12	amod
+14	en	_	ADP	ADP	_	15	mark
+15	fait	_	VERB	VERB	_	10	advcl
+16	partie	_	NOUN	NOUN	_	15	dobj
+17	par	_	ADP	ADP	_	18	case
+18	exemple	_	NOUN	NOUN	_	16	nmod
+

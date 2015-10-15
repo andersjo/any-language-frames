@@ -1,0 +1,13 @@
+1	Harry	_	ADJ	ADJ	_	2	amod
+2	Kane	_	NOUN	NOUN	_	0	root
+3	eller	_	CONJ	CONJ	_	2	cc
+4	Harry	_	NOUN	NOUN	_	2	conj
+5	Potter	_	NOUN	NOUN	_	4	nmod:poss
+6	?	_	PUNCT	PUNCT	_	2	punct
+7	Magi	_	NOUN	NOUN	_	2	conj
+8	!	_	PUNCT	PUNCT	_	7	punct
+9	Vilken	_	PROPN	PROPN	_	7	list
+10	soloshow	_	NOUN	NOUN	_	9	dep
+11	!	_	PUNCT	PUNCT	_	9	punct
+12	#ViasatPL	_	NOUN	NOUN	_	9	list
+

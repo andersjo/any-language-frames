@@ -1,0 +1,11 @@
+1	До	_	ADP	ADP	_	2	case
+2	сега	_	ADV	ADV	_	3	advmod
+3	са	_	VERB	VERB	_	0	root
+4	екранизирани	_	NOUN	NOUN	_	3	nsubj
+5	от	_	ADP	ADP	_	9	case
+6	първа	_	ADJ	ADJ	_	4	nmod
+7	до	_	ADP	ADP	_	9	case
+8	седма	_	ADJ	ADJ	_	9	amod
+9	книга	_	NOUN	NOUN	_	6	nmod
+10	.	_	PUNCT	PUNCT	_	3	punct
+

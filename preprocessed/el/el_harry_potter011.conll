@@ -1,0 +1,11 @@
+1	Στην	_	ADP	ADP	_	2	case
+2	Ελλάδα	_	NOUN	NOUN	_	3	nmod
+3	εκδίδονται	_	VERB	VERB	_	0	root
+4	από	_	ADP	ADP	_	6	case
+5	τις	_	ADJ	ADJ	_	6	det
+6	εκδόσεις	_	NOUN	NOUN	_	3	nmod
+7	"	_	PUNCT	PUNCT	_	8	punct
+8	Ψυχογιός	_	ADJ	ADJ	_	6	amod
+9	"	_	PUNCT	PUNCT	_	8	punct
+10	.	_	PUNCT	PUNCT	_	3	punct
+

@@ -1,0 +1,26 @@
+1	Rødstrømpernes	_	PROPN	PROPN	_	2	nmod:poss
+2	genoplivning	_	NOUN	NOUN	_	3	nsubj
+3	betød	_	VERB	VERB	_	0	root
+4	også	_	ADV	ADV	_	3	advmod
+5	at	_	PART	PART	_	3	dobj
+6	temaer	_	NOUN	NOUN	_	5	dep
+7	som	_	PART	PART	_	3	dep
+8	krop	_	NOUN	NOUN	_	7	dep
+9	,	_	PUNCT	PUNCT	_	14	punct
+10	seksualitet	_	NOUN	NOUN	_	8	conj
+11	og	_	CONJ	CONJ	_	8	cc
+12	husholdning	_	NOUN	NOUN	_	8	conj
+13	blev	_	AUX	AUX	_	14	auxpass
+14	vægtet	_	VERB	VERB	_	3	conj
+15	mere	_	ADV	ADV	_	14	advmod
+16	,	_	PUNCT	PUNCT	_	14	punct
+17	heraf	_	ADV	ADV	_	14	advmod
+18	parolen	_	NOUN	NOUN	_	23	nsubj
+19	"	_	PUNCT	PUNCT	_	23	punct
+20	det	_	DET	DET	_	21	det
+21	private	_	ADJ	ADJ	_	23	nsubj
+22	er	_	AUX	AUX	_	23	cop
+23	politisk	_	ADJ	ADJ	_	14	amod
+24	"	_	PUNCT	PUNCT	_	23	punct
+25	.	_	PUNCT	PUNCT	_	3	punct
+

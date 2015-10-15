@@ -1,0 +1,25 @@
+1	Elle	_	PRON	PRON	_	4	nsubj
+2	est	_	VERB	VERB	_	4	cop
+3	la	_	DET	DET	_	4	det
+4	nièce	_	NOUN	NOUN	_	0	root
+5	de	_	ADP	ADP	_	7	case
+6	Chip	_	PROPN	PROPN	_	7	name
+7	Taylor	_	PROPN	PROPN	_	4	nmod
+8	,	_	PUNCT	PUNCT	_	4	punct
+9	la	_	DET	DET	_	10	det
+10	sœur	_	NOUN	NOUN	_	7	appos
+11	de	_	ADP	ADP	_	13	case
+12	James	_	PROPN	PROPN	_	13	name
+13	Haven	_	PROPN	PROPN	_	10	nmod
+14	,	_	PUNCT	PUNCT	_	10	punct
+15	et	_	CONJ	CONJ	_	4	cc
+16	la	_	DET	DET	_	17	det
+17	filleule	_	NOUN	NOUN	_	10	conj
+18	de	_	ADP	ADP	_	20	case
+19	Jacqueline	_	PROPN	PROPN	_	20	name
+20	Bisset	_	PROPN	PROPN	_	17	nmod
+21	et	_	CONJ	CONJ	_	20	cc
+22	Maximilian	_	PROPN	PROPN	_	23	name
+23	Schell	_	PROPN	PROPN	_	20	conj
+24	.	_	PUNCT	PUNCT	_	4	punct
+

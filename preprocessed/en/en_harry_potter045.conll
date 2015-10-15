@@ -1,0 +1,24 @@
+1	The	_	DET	DET	_	3	det
+2	novel	_	NOUN	NOUN	_	3	compound
+3	delves	_	NOUN	NOUN	_	12	nmod
+4	into	_	ADP	ADP	_	3	acl
+5	the	_	DET	DET	_	6	det
+6	history	_	NOUN	NOUN	_	8	compound
+7	of	_	ADP	ADP	_	8	compound
+8	Hogwarts	_	NOUN	NOUN	_	12	nsubj
+9	and	_	CONJ	CONJ	_	8	cc
+10	a	_	DET	DET	_	11	det
+11	legend	_	NOUN	NOUN	_	12	nsubj
+12	revolving	_	VERB	VERB	_	0	root
+13	around	_	ADP	ADP	_	12	compound:prt
+14	the	_	DET	DET	_	15	det
+15	Chamber	_	PROPN	PROPN	_	12	dobj
+16	that	_	DET	DET	_	19	det
+17	soon	_	ADV	ADV	_	12	advmod
+18	frightened	_	ADJ	ADJ	_	0	foreign
+19	everyone	_	NOUN	NOUN	_	15	acl:relcl
+20	in	_	ADP	ADP	_	19	compound
+21	the	_	DET	DET	_	22	det
+22	school	_	NOUN	NOUN	_	20	dobj
+23	.	_	PUNCT	PUNCT	_	12	punct
+

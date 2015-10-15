@@ -1,0 +1,10 @@
+1	Bislang	_	ADV	ADV	_	8	advmod
+2	war	_	VERB	VERB	_	8	cop
+3	nur	_	ADV	ADV	_	8	advmod
+4	eine	_	DET	DET	_	5	det
+5	Bezahlung	_	NOUN	NOUN	_	8	nsubj
+6	pro	_	ADP	ADP	_	7	case
+7	Klick	_	NOUN	NOUN	_	5	nmod
+8	möglich	_	ADJ	ADJ	_	0	root
+9	.	_	PUNCT	PUNCT	_	8	punct
+

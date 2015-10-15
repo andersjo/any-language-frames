@@ -1,0 +1,18 @@
+1	@DamagedBrainzs	_	PROPN	PROPN	_	5	name
+2	@Ddoodler	_	PROPN	PROPN	_	5	name
+3	@FriKitty	_	PROPN	PROPN	_	5	name
+4	@CrazyMario64	_	PROPN	PROPN	_	5	name
+5	Acaban	_	PROPN	PROPN	_	9	nsubj
+6	de	_	ADP	ADP	_	7	case
+7	destruirme	_	VERB	VERB	_	0	root
+8	las	_	DET	DET	_	9	det
+9	traducciones	_	NOUN	NOUN	_	7	dobj
+10	al	_	ADP	ADP	_	11	case
+11	portugués	_	NOUN	NOUN	_	9	nmod
+12	de	_	ADP	ADP	_	14	case
+13	los	_	DET	DET	_	14	det
+14	nombres	_	NOUN	NOUN	_	11	nmod
+15	de	_	ADP	ADP	_	17	case
+16	Harry	_	PROPN	PROPN	_	17	name
+17	Potter	_	PROPN	PROPN	_	14	nmod
+

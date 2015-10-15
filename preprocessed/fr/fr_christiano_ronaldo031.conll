@@ -1,0 +1,17 @@
+1	Il	_	PRON	PRON	_	2	nsubj
+2	attire	_	VERB	VERB	_	0	root
+3	également	_	ADV	ADV	_	2	advmod
+4	l'attention	_	NOUN	NOUN	_	2	dobj
+5	de	_	ADP	ADP	_	6	case
+6	Lyon	_	PROPN	PROPN	_	4	nmod
+7	mais	_	CONJ	CONJ	_	4	cc
+8	le	_	DET	DET	_	9	det
+9	club	_	NOUN	NOUN	_	11	nsubj
+10	français	_	ADJ	ADJ	_	9	amod
+11	refuse	_	VERB	VERB	_	2	conj
+12	l'échange	_	NOUN	NOUN	_	11	dobj
+13	avec	_	ADP	ADP	_	15	case
+14	Tony	_	PROPN	PROPN	_	15	name
+15	Vairelles	_	PROPN	PROPN	_	11	nmod
+16	.	_	PUNCT	PUNCT	_	2	punct
+

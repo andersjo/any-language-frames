@@ -1,0 +1,14 @@
+1	Progetto	_	NOUN	NOUN	_	0	root
+2	per	_	ADP	ADP	_	3	mark
+3	costruire	_	VERB	VERB	_	1	acl
+4	città	_	NOUN	NOUN	_	3	dobj
+5	e	_	CONJ	CONJ	_	4	cc
+6	aeroporti	_	NOUN	NOUN	_	4	conj
+7	per	_	ADP	ADP	_	8	mark
+8	rimediare	_	VERB	VERB	_	3	advcl
+9	all’inefficienza	_	NOUN	NOUN	_	8	dobj
+10	delle	_	ADP	ADP	_	11	case
+11	strutture	_	NOUN	NOUN	_	9	nmod
+12	attuali	_	ADJ	ADJ	_	11	amod
+13	.	_	PUNCT	PUNCT	_	1	punct
+

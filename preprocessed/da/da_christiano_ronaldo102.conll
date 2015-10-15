@@ -1,0 +1,22 @@
+1	Skønt	_	ADJ	ADJ	_	2	amod
+2	kandidat	_	NOUN	NOUN	_	5	nmod
+3	til	_	ADP	ADP	_	4	case
+4	prisen	_	NOUN	NOUN	_	2	nmod
+5	fik	_	VERB	VERB	_	0	root
+6	han	_	PRON	PRON	_	5	nsubj
+7	efterfølgende	_	ADV	ADV	_	5	advmod
+8	ikke	_	ADV	ADV	_	5	neg
+9	turneringens	_	NOUN	NOUN	_	5	dobj
+10	Best	_	NOUN	NOUN	_	5	dobj
+11	Young	_	PROPN	PROPN	_	10	appos
+12	Player-pris	_	NOUN	NOUN	_	11	dep
+13	som	_	PART	PART	_	12	dep
+14	følge	_	VERB	VERB	_	13	dep
+15	af	_	ADP	ADP	_	16	case
+16	reaktionerne	_	NOUN	NOUN	_	14	nmod
+17	fra	_	ADP	ADP	_	20	case
+18	de	_	DET	DET	_	20	det
+19	engelske	_	ADJ	ADJ	_	20	amod
+20	fans	_	NOUN	NOUN	_	14	nmod
+21	.	_	PUNCT	PUNCT	_	5	punct
+

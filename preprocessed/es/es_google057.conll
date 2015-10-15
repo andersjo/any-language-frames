@@ -1,0 +1,21 @@
+1	En	_	ADP	ADP	_	2	case
+2	enero	_	PROPN	PROPN	_	6	nmod
+3	de	_	ADP	ADP	_	4	case
+4	2010	_	NUM	NUM	_	2	nmod
+5	Google	_	PROPN	PROPN	_	6	nsubj
+6	presenta	_	VERB	VERB	_	0	root
+7	su	_	DET	DET	_	9	nmod:poss
+8	primer	_	NUM	NUM	_	9	nummod
+9	teléfono	_	NOUN	NOUN	_	6	dobj
+10	móvil	_	ADJ	ADJ	_	9	amod
+11	,	_	PUNCT	PUNCT	_	9	punct
+12	el	_	DET	DET	_	13	det
+13	Nexus	_	PROPN	PROPN	_	9	appos
+14	One	_	PROPN	PROPN	_	13	amod
+15	,	_	PUNCT	PUNCT	_	17	punct
+16	que	_	SCONJ	SCONJ	_	17	mark
+17	funciona	_	VERB	VERB	_	9	acl:relcl
+18	con	_	ADP	ADP	_	19	case
+19	Android	_	PROPN	PROPN	_	17	nmod
+20	.	_	PUNCT	PUNCT	_	6	punct
+

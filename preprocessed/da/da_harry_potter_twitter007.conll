@@ -1,0 +1,13 @@
+1	Nationalsocialister	_	NOUN	NOUN	_	8	nsubj
+2	som	_	PART	PART	_	1	dep
+3	kollar	_	NOUN	NOUN	_	2	dep
+4	på	_	ADP	ADP	_	5	case
+5	Harry	_	PROPN	PROPN	_	3	nmod
+6	Potter	_	NOUN	NOUN	_	5	dep
+7	,	_	PUNCT	PUNCT	_	1	punct
+8	hejar	_	VERB	VERB	_	0	root
+9	de	_	PRON	PRON	_	8	nsubj
+10	på	_	ADP	ADP	_	11	case
+11	Voldemort	_	PROPN	PROPN	_	8	nmod
+12	?	_	PUNCT	PUNCT	_	8	punct
+

@@ -1,0 +1,25 @@
+1	"	_	PUNCT	PUNCT	_	3	punct
+2	Κίνημα	_	NOUN	NOUN	_	3	nmod
+3	Αλλαγής	_	NOUN	NOUN	_	13	remnant
+4	"	_	PUNCT	PUNCT	_	13	punct
+5	ακούω	_	ADJ	ADJ	_	6	amod
+6	...	_	NOUN	NOUN	_	13	nsubj
+7	Χμμ	_	NOUN	NOUN	_	6	nmod
+8	...	_	NOUN	NOUN	_	7	nmod
+9	Πειστικοτατο	_	NOUN	NOUN	_	8	nmod
+10	!	_	PUNCT	PUNCT	_	9	punct
+11	#fail	_	NOUN	NOUN	_	13	nsubj
+12	Θα	_	PART	PART	_	13	aux
+13	μπορούσε	_	VERB	VERB	_	0	root
+14	να	_	PART	PART	_	16	aux
+15	το	_	PRON	PRON	_	16	dobj
+16	πει	_	VERB	VERB	_	13	ccomp
+17	και	_	CONJ	CONJ	_	16	cc
+18	"	_	PUNCT	PUNCT	_	20	punct
+19	Harry	_	NOUN	NOUN	_	20	nmod
+20	Potter	_	NOUN	NOUN	_	16	nsubj
+21	,	_	PUNCT	PUNCT	_	23	punct
+22	the	_	NOUN	NOUN	_	23	nmod
+23	return	_	NOUN	NOUN	_	20	conj
+24	"	_	PUNCT	PUNCT	_	23	punct
+

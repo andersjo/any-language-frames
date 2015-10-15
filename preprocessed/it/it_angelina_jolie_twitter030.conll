@@ -1,0 +1,13 @@
+1	Angelina	_	PROPN	PROPN	_	5	nsubj
+2	Jolie	_	PROPN	PROPN	_	1	name
+3	“	_	PUNCT	PUNCT	_	1	punct
+4	Amo	_	PROPN	PROPN	_	5	nsubj
+5	vedere	_	VERB	VERB	_	0	root
+6	mia	_	DET	DET	_	7	det:poss
+7	figlia	_	NOUN	NOUN	_	5	dobj
+8	Shiloh	_	PROPN	PROPN	_	7	nmod
+9	in	_	ADP	ADP	_	10	case
+10	giacca	_	NOUN	NOUN	_	7	nmod
+11	...	_	PUNCT	PUNCT	_	7	punct
+12	http://t.co/weE9wEdXQ4	_	PROPN	PROPN	_	10	nmod
+

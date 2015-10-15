@@ -1,0 +1,11 @@
+1	Затова	_	ADV	ADV	_	4	advmod
+2	и	_	CONJ	CONJ	_	4	cc
+3	се	_	PRON	PRON	_	4	expl
+4	въздържах	_	VERB	VERB	_	0	root
+5	от	_	ADP	ADP	_	6	case
+6	търговията	_	NOUN	NOUN	_	4	iobj
+7	с	_	ADP	ADP	_	8	case
+8	биткойни	_	NOUN	NOUN	_	6	nmod
+9	.	_	PUNCT	PUNCT	_	4	punct
+10	https://t.co/PW2Xk8kHDv	_	PROPN	PROPN	_	8	nmod
+

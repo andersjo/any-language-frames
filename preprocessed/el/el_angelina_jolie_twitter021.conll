@@ -1,0 +1,18 @@
+1	Με	_	ADP	ADP	_	3	case
+2	σκελετωμένα	_	ADJ	ADJ	_	3	amod
+3	πόδια	_	NOUN	NOUN	_	5	nmod
+4	η	_	ADJ	ADJ	_	5	det
+5	Angelina	_	NOUN	NOUN	_	15	nsubj
+6	Jolie	_	NOUN	NOUN	_	5	nmod
+7	|	_	NOUN	NOUN	_	6	nmod
+8	CELEBS	_	NOUN	NOUN	_	7	nmod
+9	|	_	NOUN	NOUN	_	8	nmod
+10	must	_	NOUN	NOUN	_	9	nmod
+11	,	_	PUNCT	PUNCT	_	3	punct
+12	η	_	ADJ	ADJ	_	13	det
+13	ζωή	_	NOUN	NOUN	_	16	nsubj
+14	είναι	_	VERB	VERB	_	16	cop
+15	ωραία-	_	ADJ	ADJ	_	0	root
+16	http://t.co/QEIvoeIN17	_	NOUN	NOUN	_	15	dobj
+17	http://t.co/UndnJrLbkv	_	NOUN	NOUN	_	16	nmod
+

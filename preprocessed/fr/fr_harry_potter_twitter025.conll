@@ -1,0 +1,20 @@
+1	Je	_	PRON	PRON	_	3	nsubj
+2	vais	_	AUX	AUX	_	3	aux
+3	avoir	_	VERB	VERB	_	0	root
+4	l'air	_	PROPN	PROPN	_	6	name
+5	d'Harry	_	PROPN	PROPN	_	6	name
+6	Potter	_	PROPN	PROPN	_	3	dobj
+7	au	_	ADP	ADP	_	8	case
+8	boulot	_	NOUN	NOUN	_	3	nmod
+9	avec	_	ADP	ADP	_	12	case
+10	ma	_	DET	DET	_	12	nmod:poss
+11	"	_	PUNCT	PUNCT	_	12	punct
+12	marque	_	NOUN	NOUN	_	8	nmod
+13	"	_	PUNCT	PUNCT	_	12	punct
+14	😣	_	PROPN	PROPN	_	12	appos
+15	mais	_	CONJ	CONJ	_	14	cc
+16	en	_	ADP	ADP	_	18	case
+17	plus	_	ADV	ADV	_	18	advmod
+18	con	_	X	X	_	14	conj
+19	.	_	PUNCT	PUNCT	_	3	punct
+

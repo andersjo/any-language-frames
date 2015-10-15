@@ -1,0 +1,9 @@
+1	Τα	_	ADJ	ADJ	_	2	det
+2	βιβλία	_	NOUN	NOUN	_	3	nsubj
+3	έχουν	_	VERB	VERB	_	0	root
+4	γραφτεί	_	NOUN	NOUN	_	3	dobj
+5	από	_	ADP	ADP	_	7	case
+6	την	_	ADJ	ADJ	_	7	det
+7	Τζ	_	NOUN	NOUN	_	4	nmod
+8	.	_	PUNCT	PUNCT	_	3	punct
+

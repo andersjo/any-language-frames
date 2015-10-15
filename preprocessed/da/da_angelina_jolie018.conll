@@ -1,0 +1,16 @@
+1	Angelinas	_	PROPN	PROPN	_	2	nmod:poss
+2	tatoveringer	_	NOUN	NOUN	_	4	nsubj
+3	har	_	AUX	AUX	_	4	aux
+4	fået	_	VERB	VERB	_	0	root
+5	meget	_	ADJ	ADJ	_	6	amod
+6	medieopmærksomhed	_	NOUN	NOUN	_	4	dobj
+7	,	_	PUNCT	PUNCT	_	4	punct
+8	og	_	CONJ	CONJ	_	6	cc
+9	journalister	_	NOUN	NOUN	_	10	nsubj
+10	spørger	_	VERB	VERB	_	4	conj
+11	hende	_	PRON	PRON	_	10	dobj
+12	ofte	_	ADV	ADV	_	10	advmod
+13	om	_	ADP	ADP	_	14	case
+14	dem	_	PRON	PRON	_	12	nmod
+15	.	_	PUNCT	PUNCT	_	10	punct
+

@@ -1,0 +1,8 @@
+1	Paret	_	NOUN	NOUN	_	2	nmod:poss
+2	gifte	_	NOUN	NOUN	_	0	root
+3	sig	_	PRON	PRON	_	2	nmod
+4	i	_	ADP	ADP	_	5	case
+5	mars	_	NOUN	NOUN	_	6	det
+6	1996	_	NUM	NUM	_	2	nmod
+7	.	_	PUNCT	PUNCT	_	2	punct
+

@@ -1,0 +1,23 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	0	root
+3	,	_	PUNCT	PUNCT	_	4	punct
+4	orgullosa	_	ADJ	ADJ	_	2	appos
+5	y	_	CONJ	CONJ	_	4	cc
+6	feliz	_	ADJ	ADJ	_	4	conj
+7	de	_	ADP	ADP	_	10	case
+8	que	_	SCONJ	SCONJ	_	10	mark
+9	sus	_	DET	DET	_	10	nmod:poss
+10	hijos	_	NOUN	NOUN	_	2	conj
+11	,	_	PUNCT	PUNCT	_	12	punct
+12	Maddox	_	PROPN	PROPN	_	10	appos
+13	,	_	PUNCT	PUNCT	_	12	punct
+14	Pax	_	PROPN	PROPN	_	12	conj
+15	y	_	CONJ	CONJ	_	12	cc
+16	Shiloh	_	PROPN	PROPN	_	12	conj
+17	,	_	PUNCT	PUNCT	_	12	punct
+18	...	_	PUNCT	PUNCT	_	12	punct
+19	-	_	PUNCT	PUNCT	_	20	punct
+20	http://t.co/0rev8psLa8	_	PROPN	PROPN	_	22	name
+21	#TwitterOax	_	PROPN	PROPN	_	22	name
+22	http://t.co/J7UGZOLWXt	_	PROPN	PROPN	_	12	conj
+

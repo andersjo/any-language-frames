@@ -1,0 +1,14 @@
+1	Μάλιστα	_	ADV	ADV	_	4	advmod
+2	το	_	ADJ	ADJ	_	3	det
+3	2001	_	NOUN	NOUN	_	4	nsubj
+4	δώρισε	_	VERB	VERB	_	0	root
+5	στους	_	ADP	ADP	_	7	case
+6	Αφγανούς	_	ADJ	ADJ	_	7	amod
+7	πρόσφυγες	_	NOUN	NOUN	_	4	nmod
+8	του	_	ADJ	ADJ	_	9	det
+9	Πακιστάν	_	NOUN	NOUN	_	7	nmod
+10	,	_	PUNCT	PUNCT	_	12	punct
+11	1.000.000	_	NUM	NUM	_	12	nmod
+12	δολάρια	_	NOUN	NOUN	_	7	nmod
+13	.	_	PUNCT	PUNCT	_	4	punct
+

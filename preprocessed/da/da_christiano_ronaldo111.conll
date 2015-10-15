@@ -1,0 +1,11 @@
+1	Ronaldo	_	PROPN	PROPN	_	2	nsubj
+2	indtager	_	VERB	VERB	_	0	root
+3	i	_	ADP	ADP	_	4	case
+4	dag	_	NOUN	NOUN	_	2	nmod
+5	ikke	_	ADV	ADV	_	6	neg
+6	alkohol	_	NOUN	NOUN	_	2	dobj
+7	og	_	CONJ	CONJ	_	2	cc
+8	ryger	_	VERB	VERB	_	2	conj
+9	ikke	_	ADV	ADV	_	8	neg
+10	.	_	PUNCT	PUNCT	_	2	punct
+

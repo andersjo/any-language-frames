@@ -1,0 +1,8 @@
+1	har	_	VERB	VERB	_	0	root
+2	ett	_	DET	DET	_	3	det
+3	utropstecken	_	NOUN	NOUN	_	1	dobj
+4	i	_	ADP	ADP	_	6	case
+5	sitt	_	DET	DET	_	6	nmod:poss
+6	företagsnamn	_	NOUN	NOUN	_	1	nmod
+7	.	_	PUNCT	PUNCT	_	1	punct
+

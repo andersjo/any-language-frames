@@ -1,0 +1,20 @@
+1	Ατάκα	_	VERB	VERB	_	0	root
+2	επί	_	ADP	ADP	_	3	case
+3	τόπου	_	NOUN	NOUN	_	1	nmod
+4	!	_	PUNCT	PUNCT	_	3	punct
+5	#ataka	_	NOUN	NOUN	_	3	appos
+6	NΕΟ	_	NOUN	NOUN	_	5	nmod
+7	για	_	ADP	ADP	_	8	case
+8	iPhone	_	NOUN	NOUN	_	6	nmod
+9	!!	_	PUNCT	PUNCT	_	8	amod
+10	:	_	PUNCT	PUNCT	_	12	punct
+11	http://t.co/PbYwsHXh0y	_	NOUN	NOUN	_	8	conj
+12	και	_	CONJ	CONJ	_	3	cc
+13	φυσικά	_	ADV	ADV	_	14	advmod
+14	και	_	CONJ	CONJ	_	3	cc
+15	για	_	ADP	ADP	_	16	case
+16	Android	_	NOUN	NOUN	_	8	conj
+17	:	_	PUNCT	PUNCT	_	16	punct
+18	http://t.co/4WkGPaitLP	_	NOUN	NOUN	_	16	conj
+19	http://t.co/X6lLNlsQQB	_	NOUN	NOUN	_	18	nmod
+

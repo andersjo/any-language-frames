@@ -1,0 +1,24 @@
+1	@midnattsskrik	_	VERB	VERB	_	4	dislocated
+2	han	_	PRON	PRON	_	1	nsubj
+3	kanske	_	ADV	ADV	_	1	advmod
+4	ploppade	_	VERB	VERB	_	0	root
+5	ut	_	ADV	ADV	_	4	compound:prt
+6	och	_	CONJ	CONJ	_	4	cc
+7	pappan	_	NOUN	NOUN	_	8	nsubj
+8	hade	_	VERB	VERB	_	4	conj
+9	säkert	_	ADV	ADV	_	8	advmod
+10	super	_	NOUN	NOUN	_	11	nmod:poss
+11	sperms	_	NOUN	NOUN	_	8	dobj
+12	!	_	PUNCT	PUNCT	_	1	punct
+13	Det	_	PRON	PRON	_	18	nsubj
+14	är	_	AUX	AUX	_	18	cop
+15	en	_	DET	DET	_	17	det
+16	magisk	_	ADJ	ADJ	_	17	amod
+17	värld	_	NOUN	NOUN	_	18	nmod:poss
+18	hallå	_	NOUN	NOUN	_	11	parataxis
+19	det	_	PRON	PRON	_	22	nsubj
+20	är	_	AUX	AUX	_	22	cop
+21	Harry	_	PROPN	PROPN	_	22	nmod:poss
+22	Potter	_	NOUN	NOUN	_	18	conj
+23	!	_	PUNCT	PUNCT	_	1	punct
+

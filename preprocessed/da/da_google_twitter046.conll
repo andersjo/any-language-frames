@@ -1,0 +1,26 @@
+1	[	_	PUNCT	PUNCT	_	2	punct
+2	PO	_	PROPN	PROPN	_	15	list
+3	]	_	PUNCT	PUNCT	_	2	punct
+4	Varsity	_	PROPN	PROPN	_	6	nmod:poss
+5	SS6	_	ADJ	ADJ	_	6	amod
+6	Super	_	NOUN	NOUN	_	7	dep
+7	Junior	_	PROPN	PROPN	_	2	conj
+8	IDR	_	NOUN	NOUN	_	7	dep
+9	:	_	PUNCT	PUNCT	_	2	punct
+10	135.000	_	NUM	NUM	_	11	nummod
+11	Still	_	PROPN	PROPN	_	13	nmod:poss
+12	PO	_	PROPN	PROPN	_	11	name
+13	minat	_	NOUN	NOUN	_	7	dep
+14	?	_	PUNCT	PUNCT	_	16	punct
+15	Form	_	NOUN	NOUN	_	16	nmod:poss
+16	order	_	NOUN	NOUN	_	18	dep
+17	:	_	PUNCT	PUNCT	_	2	punct
+18	http://t.co/FzhmMmrE46	_	VERB	VERB	_	0	root
+19	|Ayo	_	PROPN	PROPN	_	20	nmod:poss
+20	order	_	NOUN	NOUN	_	18	dobj
+21	ELF	_	PROPN	PROPN	_	20	appos
+22	?	_	PUNCT	PUNCT	_	18	punct
+23	:)	_	X	X	_	18	dep
+24	http://t.co/GGe0MCOaTl	_	X	X	_	23	dep
+25	"	_	PUNCT	PUNCT	_	18	punct
+

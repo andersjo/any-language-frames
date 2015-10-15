@@ -1,0 +1,21 @@
+1	Ο	_	ADJ	ADJ	_	2	det
+2	Ρονάλντο	_	NOUN	NOUN	_	7	nsubj
+3	με	_	ADP	ADP	_	5	case
+4	την	_	ADJ	ADJ	_	5	det
+5	Πορτογαλία	_	NOUN	NOUN	_	2	nmod
+6	,	_	PUNCT	PUNCT	_	7	punct
+7	έφτασε	_	VERB	VERB	_	0	root
+8	έως	_	ADP	ADP	_	9	case
+9	και	_	CONJ	CONJ	_	13	cc
+10	τους	_	ADJ	ADJ	_	11	det
+11	16	_	NUM	NUM	_	7	nmod
+12	της	_	ADJ	ADJ	_	13	det
+13	διοργάνωσης	_	NOUN	NOUN	_	11	nmod
+14	,	_	PUNCT	PUNCT	_	7	punct
+15	περνώντας	_	VERB	VERB	_	7	conj
+16	δεύτερη	_	NUM	NUM	_	15	dobj
+17	από	_	ADP	ADP	_	19	case
+18	τον	_	ADJ	ADJ	_	19	det
+19	όμιλο	_	NOUN	NOUN	_	16	nmod
+20	.	_	PUNCT	PUNCT	_	7	punct
+

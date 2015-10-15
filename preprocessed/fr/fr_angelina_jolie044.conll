@@ -1,0 +1,9 @@
+1	Durant	_	ADP	ADP	_	3	case
+2	cette	_	DET	DET	_	3	det
+3	période	_	NOUN	NOUN	_	6	nmod
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	leur	_	DET	DET	_	6	nmod:poss
+6	relation	_	NOUN	NOUN	_	0	root
+7	s'apaise	_	ADJ	ADJ	_	6	amod
+8	.	_	PUNCT	PUNCT	_	3	punct
+

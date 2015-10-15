@@ -1,0 +1,24 @@
+1	Rowling	_	PROPN	PROPN	_	3	nsubj
+2	a	_	AUX	AUX	_	3	aux
+3	terminé	_	VERB	VERB	_	0	root
+4	d'écrire	_	NOUN	NOUN	_	3	dobj
+5	"	_	PUNCT	PUNCT	_	7	punct
+6	Harry	_	PROPN	PROPN	_	7	name
+7	Potter	_	PROPN	PROPN	_	4	appos
+8	à	_	ADP	ADP	_	9	case
+9	l'école	_	NOUN	NOUN	_	3	nmod
+10	des	_	ADP	ADP	_	11	case
+11	sorciers	_	NOUN	NOUN	_	9	nmod
+12	"	_	PUNCT	PUNCT	_	7	punct
+13	en	_	ADP	ADP	_	14	case
+14	1995	_	NUM	NUM	_	3	nmod
+15	et	_	CONJ	CONJ	_	3	cc
+16	envoyé	_	VERB	VERB	_	3	conj
+17	le	_	DET	DET	_	18	det
+18	manuscrit	_	NOUN	NOUN	_	16	dobj
+19	à	_	ADP	ADP	_	21	case
+20	plusieurs	_	DET	DET	_	21	det
+21	agents	_	NOUN	NOUN	_	16	nmod
+22	littéraires	_	ADJ	ADJ	_	21	amod
+23	.	_	PUNCT	PUNCT	_	3	punct
+

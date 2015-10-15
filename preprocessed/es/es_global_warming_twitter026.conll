@@ -1,0 +1,11 @@
+1	@victorfarteaga	_	PROPN	PROPN	_	2	nsubj
+2	Mira	_	VERB	VERB	_	0	root
+3	esto	_	PRON	PRON	_	2	dobj
+4	Como	_	ADP	ADP	_	5	case
+5	que	_	SCONJ	SCONJ	_	9	mark
+6	ya	_	ADV	ADV	_	9	advmod
+7	no	_	ADV	ADV	_	9	neg
+8	se	_	PRON	PRON	_	9	iobj
+9	debate	_	PROPN	PROPN	_	10	name
+10	http://t.co/bgvlKUP2Jx	_	PROPN	PROPN	_	2	nmod
+

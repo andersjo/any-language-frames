@@ -1,0 +1,12 @@
+1	Asså	_	NOUN	NOUN	_	2	nsubj
+2	pls	_	VERB	VERB	_	0	root
+3	Angelina	_	ADJ	ADJ	_	4	amod
+4	Jolie	_	NOUN	NOUN	_	2	dobj
+5	och	_	CONJ	CONJ	_	4	cc
+6	Brad	_	NOUN	NOUN	_	4	conj
+7	Pitt	_	VERB	VERB	_	2	conj
+8	??	_	NOUN	NOUN	_	7	nsubj
+9	Hur	_	ADV	ADV	_	10	advmod
+10	snygga	_	VERB	VERB	_	7	advcl
+11	..	_	ADV	ADV	_	10	advmod
+

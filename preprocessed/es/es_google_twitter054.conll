@@ -1,0 +1,9 @@
+1	Abri	_	PROPN	PROPN	_	2	name
+2	google	_	PROPN	PROPN	_	6	nsubj
+3	de	_	ADP	ADP	_	5	case
+4	mierda	_	PROPN	PROPN	_	5	name
+5	quiero	_	PROPN	PROPN	_	2	nmod
+6	escuchar	_	VERB	VERB	_	0	root
+7	musica	_	NOUN	NOUN	_	6	dobj
+8	romantica	_	ADJ	ADJ	_	7	amod
+

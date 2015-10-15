@@ -1,0 +1,14 @@
+1	😊	_	PROPN	PROPN	_	2	name
+2	❤	_	PROPN	PROPN	_	0	root
+3	️	_	PROPN	PROPN	_	4	name
+4	@	_	PROPN	PROPN	_	5	name
+5	Harry	_	PROPN	PROPN	_	8	name
+6	Potter	_	PROPN	PROPN	_	8	name
+7	-	_	PUNCT	PUNCT	_	8	punct
+8	Hogswart	_	PROPN	PROPN	_	11	name
+9	.	_	PUNCT	PUNCT	_	8	punct
+10	Universal	_	PROPN	PROPN	_	11	name
+11	Studios	_	PROPN	PROPN	_	2	conj
+12	.	_	PUNCT	PUNCT	_	11	punct
+13	http://t.co/jTNVUwblXs	_	PROPN	PROPN	_	11	appos
+

@@ -1,0 +1,10 @@
+1	Der	_	DET	DET	_	3	det
+2	Internationale	_	ADJ	ADJ	_	3	amod
+3	Frauentag	_	NOUN	NOUN	_	8	nsubj
+4	musste	_	AUX	AUX	_	8	aux
+5	in	_	ADP	ADP	_	7	case
+6	die	_	DET	DET	_	7	det
+7	Illegalität	_	NOUN	NOUN	_	8	nmod
+8	gehen	_	VERB	VERB	_	0	root
+9	.	_	PUNCT	PUNCT	_	8	punct
+

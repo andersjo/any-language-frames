@@ -1,0 +1,9 @@
+1	Ordet	_	NOUN	NOUN	_	5	nsubj
+2	fick	_	AUX	AUX	_	5	aux
+3	tillfälligt	_	ADV	ADV	_	4	advmod
+4	stor	_	ADJ	ADJ	_	5	amod
+5	uppmärksamhet	_	NOUN	NOUN	_	0	root
+6	efter	_	ADP	ADP	_	7	case
+7	censureringsförsöket	_	NOUN	NOUN	_	5	nmod
+8	.	_	PUNCT	PUNCT	_	5	punct
+

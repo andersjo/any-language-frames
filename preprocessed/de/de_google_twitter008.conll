@@ -1,0 +1,26 @@
+1	@TheDeathFollow	_	PROPN	PROPN	_	7	nsubj
+2	Erstens	_	ADV	ADV	_	1	advmod
+3	,	_	PUNCT	PUNCT	_	1	punct
+4	das	_	PRON	PRON	_	7	nsubj
+5	sind	_	VERB	VERB	_	7	cop
+6	Google	_	PROPN	PROPN	_	7	det
+7	Anzeigen	_	NOUN	NOUN	_	0	root
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	gegen	_	ADP	ADP	_	10	case
+10	die	_	PRON	PRON	_	14	nmod
+11	man	_	PRON	PRON	_	14	nsubj
+12	sich	_	PRON	PRON	_	14	dobj
+13	nicht	_	PART	PART	_	14	neg
+14	wehren	_	VERB	VERB	_	7	acl
+15	kann	_	AUX	AUX	_	14	aux
+16	,	_	PUNCT	PUNCT	_	14	punct
+17	zweitens	_	NOUN	NOUN	_	14	appos
+18	habe	_	AUX	AUX	_	14	aux
+19	ich	_	PRON	PRON	_	18	nsubj
+20	dieses	_	PRON	PRON	_	21	det
+21	Bild	_	NOUN	NOUN	_	19	det
+22	hier	_	ADV	ADV	_	25	advmod
+23	von	_	ADP	ADP	_	25	case
+24	Twitter	_	PROPN	PROPN	_	25	name
+25	xD	_	PROPN	PROPN	_	21	dep
+

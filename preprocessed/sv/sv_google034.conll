@@ -1,0 +1,18 @@
+1	Googles	_	ADJ	ADJ	_	2	amod
+2	söktjänst	_	NOUN	NOUN	_	8	nsubj
+3	har	_	AUX	AUX	_	12	aux
+4	även	_	ADV	ADV	_	6	advmod
+5	en	_	DET	DET	_	6	det
+6	del	_	NOUN	NOUN	_	8	det
+7	unika	_	ADJ	ADJ	_	8	amod
+8	funktioner	_	NOUN	NOUN	_	12	nsubjpass
+9	som	_	CONJ	CONJ	_	11	mark
+10	andra	_	ADJ	ADJ	_	11	det
+11	söktjänster	_	NOUN	NOUN	_	8	conj
+12	saknat	_	VERB	VERB	_	0	root
+13	under	_	ADP	ADP	_	16	case
+14	en	_	DET	DET	_	16	det
+15	längre	_	ADJ	ADJ	_	16	amod
+16	tid	_	NOUN	NOUN	_	12	nmod
+17	.	_	PUNCT	PUNCT	_	12	punct
+

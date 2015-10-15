@@ -1,0 +1,15 @@
+1	#Gossip	_	PROPN	PROPN	_	0	root
+2	#Celebrity	_	PROPN	PROPN	_	1	name
+3	Vogue	_	PROPN	PROPN	_	1	name
+4	Magazine	_	PROPN	PROPN	_	1	name
+5	March	_	PROPN	PROPN	_	1	name
+6	2004	_	NUM	NUM	_	7	nummod
+7	Angelina	_	PROPN	PROPN	_	1	conj
+8	Jolie	_	PROPN	PROPN	_	7	name
+9	Scarlett	_	PROPN	PROPN	_	7	name
+10	…	_	PUNCT	PUNCT	_	7	punct
+11	http://t.co/rhW3mw8XtR	_	ADJ	ADJ	_	12	amod
+12	#Fashion	_	NOUN	NOUN	_	7	appos
+13	#Onsale	_	ADJ	ADJ	_	12	amod
+14	http://t.co/uRAC28BTHJ	_	PROPN	PROPN	_	12	nmod
+

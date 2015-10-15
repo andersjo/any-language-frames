@@ -1,0 +1,20 @@
+1	International	_	PROPN	PROPN	_	2	nsubj
+2	bekannt	_	ADJ	ADJ	_	0	root
+3	wurde	_	VERB	VERB	_	2	cop
+4	sie	_	PRON	PRON	_	2	nsubj
+5	vor	_	ADP	ADP	_	6	case
+6	allem	_	PRON	PRON	_	2	nmod
+7	mit	_	ADP	ADP	_	9	case
+8	ihrer	_	DET	DET	_	9	nmod:poss
+9	Darstellung	_	NOUN	NOUN	_	2	nmod
+10	der	_	DET	DET	_	11	det
+11	Videospielheldin	_	NOUN	NOUN	_	9	det
+12	Lara	_	PROPN	PROPN	_	13	name
+13	Croft	_	PROPN	PROPN	_	11	appos
+14	in	_	ADP	ADP	_	15	case
+15	""	_	PROPN	PROPN	_	9	nmod
+16	(	_	PUNCT	PUNCT	_	17	punct
+17	2001	_	NUM	NUM	_	15	appos
+18	)	_	PUNCT	PUNCT	_	17	punct
+19	.	_	PUNCT	PUNCT	_	2	punct
+

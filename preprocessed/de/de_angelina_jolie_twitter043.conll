@@ -1,0 +1,14 @@
+1	#AngelinaJolie	_	PROPN	PROPN	_	2	name
+2	#Fans	_	PROPN	PROPN	_	5	name
+3	SALT	_	PROPN	PROPN	_	5	name
+4	MOVIE	_	PROPN	PROPN	_	5	name
+5	POSTER	_	PROPN	PROPN	_	6	nsubj
+6	5FT	_	VERB	VERB	_	0	root
+7	Angelina	_	PROPN	PROPN	_	8	name
+8	Jolie	_	PROPN	PROPN	_	10	name
+9	NEW	_	PROPN	PROPN	_	10	amod
+10	XXL	_	PROPN	PROPN	_	11	name
+11	http://t.co/DYwCfO2hF4	_	PROPN	PROPN	_	12	name
+12	#Collectibles	_	NOUN	NOUN	_	6	dobj
+13	#Sale	_	ADJ	ADJ	_	6	advmod
+

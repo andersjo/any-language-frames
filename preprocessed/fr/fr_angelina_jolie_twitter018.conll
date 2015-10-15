@@ -1,0 +1,27 @@
+1	Niveau	_	NOUN	NOUN	_	7	appos
+2	mentale	_	ADJ	ADJ	_	1	amod
+3	,	_	PUNCT	PUNCT	_	1	punct
+4	valeurs	_	NOUN	NOUN	_	1	conj
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	Angelina	_	PROPN	PROPN	_	7	name
+7	Jolie	_	PROPN	PROPN	_	9	nsubj
+8	est	_	VERB	VERB	_	9	cop
+9	l'exemple	_	NOUN	NOUN	_	0	root
+10	féminine	_	ADJ	ADJ	_	9	amod
+11	parfaite	_	ADJ	ADJ	_	9	amod
+12	.	_	PUNCT	PUNCT	_	9	punct
+13	Elle	_	PRON	PRON	_	16	nsubj
+14	a	_	AUX	AUX	_	15	aux
+15	u	_	VERB	VERB	_	16	cop
+16	mentale	_	ADJ	ADJ	_	9	conj
+17	de	_	ADP	ADP	_	18	case
+18	gagnante	_	NOUN	NOUN	_	16	nmod
+19	,	_	PUNCT	PUNCT	_	16	punct
+20	Humble	_	PROPN	PROPN	_	16	nmod
+21	,	_	PUNCT	PUNCT	_	20	punct
+22	généreuse	_	ADJ	ADJ	_	16	conj
+23	,	_	PUNCT	PUNCT	_	22	punct
+24	sensible	_	ADJ	ADJ	_	25	amod
+25	etc	_	X	X	_	6	advmod
+26	...	_	PUNCT	PUNCT	_	16	punct
+

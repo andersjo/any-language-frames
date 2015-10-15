@@ -1,0 +1,24 @@
+1	Han	_	PRON	PRON	_	5	nsubj
+2	är	_	AUX	AUX	_	5	cop
+3	den	_	DET	DET	_	5	det
+4	ende	_	ADJ	ADJ	_	5	amod
+5	spelaren	_	NOUN	NOUN	_	0	root
+6	någonsin	_	ADV	ADV	_	8	advmod
+7	som	_	PRON	PRON	_	8	nsubj
+8	spelat	_	VERB	VERB	_	5	acl:relcl
+9	för	_	ADP	ADP	_	11	case
+10	Sportings	_	ADJ	ADJ	_	11	amod
+11	U16	_	NOUN	NOUN	_	8	nmod
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	U17	_	NOUN	NOUN	_	11	conj
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	U18	_	NOUN	NOUN	_	13	conj
+16	,	_	PUNCT	PUNCT	_	15	punct
+17	B-lag	_	NOUN	NOUN	_	11	conj
+18	och	_	CONJ	CONJ	_	11	cc
+19	A-lag	_	NOUN	NOUN	_	17	conj
+20	på	_	ADP	ADP	_	22	case
+21	en	_	DET	DET	_	22	det
+22	säsong	_	NOUN	NOUN	_	19	nmod
+23	.	_	PUNCT	PUNCT	_	8	punct
+

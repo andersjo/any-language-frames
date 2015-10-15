@@ -1,0 +1,8 @@
+1	Този	_	DET	DET	_	2	det
+2	съюз	_	NOUN	NOUN	_	4	nsubj
+3	наистина	_	ADV	ADV	_	4	advmod
+4	функционира	_	VERB	VERB	_	0	root
+5	добре	_	ADV	ADV	_	4	dobj
+6	.	_	PUNCT	PUNCT	_	4	punct
+7	https://t.co/K5HP2AoXc9	_	PROPN	PROPN	_	4	dobj
+

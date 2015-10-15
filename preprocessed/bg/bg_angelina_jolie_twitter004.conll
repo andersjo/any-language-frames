@@ -1,0 +1,15 @@
+1	Анджелина	_	PROPN	PROPN	_	0	root
+2	Джоли	_	PROPN	PROPN	_	1	name
+3	в	_	ADP	ADP	_	4	case
+4	#Инстаграм	_	PROPN	PROPN	_	1	nmod
+5	.	_	PUNCT	PUNCT	_	6	punct
+6	Фото	_	PROPN	PROPN	_	1	conj
+7	Ange	_	PROPN	PROPN	_	6	name
+8	...	_	PUNCT	PUNCT	_	9	punct
+9	#AngelinaJolie	_	PROPN	PROPN	_	1	conj
+10	#АнджелинаДжоли	_	PROPN	PROPN	_	9	name
+11	#Инстаграм	_	PROPN	PROPN	_	9	name
+12	-	_	PUNCT	PUNCT	_	13	punct
+13	http://t.co/6MTfpERx58	_	PROPN	PROPN	_	1	conj
+14	http://t.co/DB1g9rz3yN	_	PROPN	PROPN	_	13	name
+

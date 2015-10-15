@@ -1,0 +1,13 @@
+1	Este	_	DET	DET	_	2	det
+2	objeto	_	NOUN	NOUN	_	3	nsubj
+3	tendrá	_	VERB	VERB	_	0	root
+4	un	_	DET	DET	_	6	det
+5	importante	_	ADJ	ADJ	_	6	amod
+6	papel	_	NOUN	NOUN	_	3	dobj
+7	en	_	ADP	ADP	_	9	case
+8	el	_	DET	DET	_	9	det
+9	desarrollo	_	NOUN	NOUN	_	6	nmod
+10	del	_	ADP	ADP	_	11	case
+11	argumento	_	NOUN	NOUN	_	9	nmod
+12	.	_	PUNCT	PUNCT	_	3	punct
+

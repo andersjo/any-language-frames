@@ -1,0 +1,12 @@
+1	Hvorfor	_	ADV	ADV	_	5	advmod
+2	kan	_	AUX	AUX	_	5	aux
+3	ikke	_	ADV	ADV	_	5	neg
+4	jeg	_	PRON	PRON	_	5	nsubj
+5	ta	_	VERB	VERB	_	0	root
+6	en	_	DET	DET	_	10	det
+7	rev	_	VERB	VERB	_	10	dep
+8	når	_	SCONJ	SCONJ	_	10	mark
+9	Harry	_	NOUN	NOUN	_	10	nmod:poss
+10	Potter	_	NOUN	NOUN	_	5	dobj
+11	?	_	PUNCT	PUNCT	_	5	punct
+

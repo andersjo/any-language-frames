@@ -1,0 +1,16 @@
+1	Jolie	_	NOUN	NOUN	_	4	nsubj
+2	var	_	AUX	AUX	_	4	cop
+3	så	_	ADV	ADV	_	4	advmod
+4	besviken	_	ADJ	ADJ	_	0	root
+5	med	_	ADP	ADP	_	6	case
+6	filmen	_	NOUN	NOUN	_	4	nmod
+7	att	_	SCONJ	SCONJ	_	10	mark
+8	hon	_	PRON	PRON	_	10	nsubj
+9	inte	_	ADV	ADV	_	10	neg
+10	provspelade	_	VERB	VERB	_	4	advcl
+11	igen	_	ADV	ADV	_	10	compound:prt
+12	på	_	ADP	ADP	_	14	case
+13	ett	_	DET	DET	_	14	det
+14	år	_	NOUN	NOUN	_	10	nmod
+15	.	_	PUNCT	PUNCT	_	4	punct
+

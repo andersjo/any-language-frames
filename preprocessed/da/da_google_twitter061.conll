@@ -1,0 +1,9 @@
+1	DET	_	DET	DET	_	3	det
+2	vs	_	ADJ	ADJ	_	3	amod
+3	DAL	_	PROPN	PROPN	_	6	nmod:poss
+4	http://t.co/F3FOM4SaDb	_	PROPN	PROPN	_	3	name
+5	-via	_	PROPN	PROPN	_	3	name
+6	SportsCenter	_	NOUN	NOUN	_	8	nmod:poss
+7	http://t.co/k1vMOiE8Kg	_	ADJ	ADJ	_	8	amod
+8	👌👌👌	_	NOUN	NOUN	_	0	root
+

@@ -1,0 +1,21 @@
+1	She	_	PRON	PRON	_	2	nsubj
+2	found	_	VERB	VERB	_	17	advcl
+3	it	_	PRON	PRON	_	2	dobj
+4	difficult	_	ADJ	ADJ	_	0	acl:relcl
+5	to	_	PART	PART	_	6	mark
+6	emotionally	_	VERB	VERB	_	2	xcomp
+7	connect	_	NOUN	NOUN	_	6	dobj
+8	with	_	ADP	ADP	_	6	compound:prt
+9	other	_	ADJ	ADJ	_	0	foreign
+10	people	_	NOUN	NOUN	_	6	dobj
+11	,	_	PUNCT	PUNCT	_	2	punct
+12	and	_	CONJ	CONJ	_	2	cc
+13	as	_	ADP	ADP	_	0	conj
+14	a	_	DET	DET	_	15	det
+15	result	_	NOUN	NOUN	_	13	dobj
+16	she	_	PRON	PRON	_	17	nsubj
+17	started	_	VERB	VERB	_	15	acl:relcl
+18	to	_	PART	PART	_	19	mark
+19	self-harm	_	VERB	VERB	_	17	xcomp
+20	.	_	PUNCT	PUNCT	_	2	punct
+

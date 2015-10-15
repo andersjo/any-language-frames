@@ -1,0 +1,16 @@
+1	To	_	NOUN	NOUN	_	2	nmod
+2	NewSage.gr	_	NOUN	NOUN	_	4	nsubj
+3	τώρα	_	ADV	ADV	_	4	advmod
+4	διαθέσιμο	_	VERB	VERB	_	0	root
+5	και	_	CONJ	CONJ	_	6	cc
+6	στο	_	ADP	ADP	_	7	case
+7	Android	_	NOUN	NOUN	_	4	nmod
+8	για	_	ADP	ADP	_	12	case
+9	ακόμα	_	ADV	ADV	_	10	advmod
+10	πιο	_	ADV	ADV	_	11	advmod
+11	άμεση	_	ADJ	ADJ	_	12	amod
+12	ενημέρωση	_	NOUN	NOUN	_	7	nmod
+13	!	_	PUNCT	PUNCT	_	12	punct
+14	https://t.co/Q4WPnC4xbh	_	NOUN	NOUN	_	12	nmod
+15	http://t.co/B8p9SabKNe	_	NOUN	NOUN	_	14	nmod
+

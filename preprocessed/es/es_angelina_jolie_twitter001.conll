@@ -1,0 +1,25 @@
+1	Si	_	SCONJ	SCONJ	_	5	mark
+2	eso	_	PRON	PRON	_	5	nsubj
+3	es	_	AUX	AUX	_	4	auxpass
+4	ser	_	VERB	VERB	_	5	cop
+5	perfecta	_	ADJ	ADJ	_	0	root
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	yo	_	PRON	PRON	_	8	nsubj
+8	soy	_	VERB	VERB	_	5	parataxis
+9	la	_	DET	DET	_	10	det
+10	angelina	_	NOUN	NOUN	_	8	nsubj
+11	jolie	_	PROPN	PROPN	_	10	appos
+12	de	_	ADP	ADP	_	14	case
+13	la	_	DET	DET	_	14	det
+14	villa	_	NOUN	NOUN	_	8	nmod
+15	31	_	NUM	NUM	_	14	nummod
+16	!	_	PUNCT	PUNCT	_	5	punct
+17	obvio	_	ADJ	ADJ	_	14	amod
+18	!	_	PUNCT	PUNCT	_	17	punct
+19	porque	_	SCONJ	SCONJ	_	20	mark
+20	villera	_	NOUN	NOUN	_	17	advcl
+21	toda	_	DET	DET	_	23	det
+22	mi	_	DET	DET	_	23	nmod:poss
+23	vida	_	NOUN	NOUN	_	20	conj
+24	guachsssssss	_	PROPN	PROPN	_	23	appos
+

@@ -1,0 +1,19 @@
+1	@a_thiest	_	ADJ	ADJ	_	0	cc
+2	@simba_83	_	NOUN	NOUN	_	3	compound
+3	@Scepticus_UK	_	NOUN	NOUN	_	4	nsubj
+4	@Dragonblaze	_	VERB	VERB	_	0	root
+5	@HeraldofWar	_	ADJ	ADJ	_	0	foreign
+6	Except	_	ADJ	ADJ	_	0	foreign
+7	in	_	ADP	ADP	_	4	compound:prt
+8	the	_	DET	DET	_	9	det
+9	case	_	NOUN	NOUN	_	11	compound
+10	of	_	ADP	ADP	_	4	compound:prt
+11	evolution	_	NOUN	NOUN	_	4	nmod
+12	.	_	PUNCT	PUNCT	_	4	punct
+13	Oh	_	INTJ	INTJ	_	11	discourse
+14	,	_	PUNCT	PUNCT	_	4	punct
+15	and	_	CONJ	CONJ	_	4	cc
+16	Global	_	ADJ	ADJ	_	0	conj
+17	Warming	_	NOUN	NOUN	_	11	conj
+18	!	_	PUNCT	PUNCT	_	4	punct
+

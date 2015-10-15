@@ -1,0 +1,15 @@
+1	Angelina	_	ADJ	ADJ	_	2	amod
+2	Jolie	_	NOUN	NOUN	_	12	nsubj
+3	och	_	CONJ	CONJ	_	2	cc
+4	Johnny	_	NOUN	NOUN	_	5	nmod:poss
+5	Depp	_	NOUN	NOUN	_	2	conj
+6	i	_	ADP	ADP	_	8	case
+7	samma	_	DET	DET	_	8	det
+8	film	_	NOUN	NOUN	_	5	nmod
+9	,	_	PUNCT	PUNCT	_	12	punct
+10	kan	_	AUX	AUX	_	12	aux
+11	de	_	PRON	PRON	_	12	nsubj
+12	bli	_	VERB	VERB	_	0	root
+13	bättre	_	ADJ	ADJ	_	12	xcomp
+14	?	_	PUNCT	PUNCT	_	12	punct
+

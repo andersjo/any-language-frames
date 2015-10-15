@@ -1,0 +1,21 @@
+1	Ο	_	ADJ	ADJ	_	2	det
+2	Ρονάλντο	_	NOUN	NOUN	_	0	root
+3	προσκάλεσε	_	ADJ	ADJ	_	4	amod
+4	συναδέλφους	_	NOUN	NOUN	_	2	nmod
+5	ποδοσφαιριστές	_	NOUN	NOUN	_	4	nmod
+6	στην	_	ADP	ADP	_	7	case
+7	εκδήλωση	_	NOUN	NOUN	_	4	nmod
+8	,	_	PUNCT	PUNCT	_	2	punct
+9	όπως	_	ADV	ADV	_	7	remnant
+10	τον	_	ADJ	ADJ	_	11	det
+11	Στίβεν	_	NOUN	NOUN	_	9	nmod
+12	Τζέραρντ	_	NOUN	NOUN	_	11	nmod
+13	,	_	PUNCT	PUNCT	_	11	punct
+14	τον	_	ADJ	ADJ	_	15	det
+15	Πελέ	_	NOUN	NOUN	_	12	conj
+16	και	_	CONJ	CONJ	_	12	cc
+17	ΤοΝ	_	ADJ	ADJ	_	18	amod
+18	Ντέιβιντ	_	NOUN	NOUN	_	15	conj
+19	Μπέκαμ	_	NOUN	NOUN	_	18	nmod
+20	.	_	PUNCT	PUNCT	_	15	punct
+

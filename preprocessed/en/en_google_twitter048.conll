@@ -1,0 +1,25 @@
+1	Escape	_	VERB	VERB	_	0	root
+2	From	_	ADP	ADP	_	1	compound:prt
+3	Planet	_	PROPN	PROPN	_	4	compound
+4	Earth	_	PROPN	PROPN	_	6	compound
+5	(	_	PUNCT	PUNCT	_	6	punct
+6	3D	_	PROPN	PROPN	_	7	compound
+7	Blu-ray	_	NOUN	NOUN	_	1	nmod
+8	+	_	SYM	SYM	_	7	compound
+9	Blu-ray	_	NOUN	NOUN	_	7	conj
+10	+	_	SYM	SYM	_	9	compound
+11	DVD	_	NOUN	NOUN	_	9	nmod
+12	+	_	SYM	SYM	_	11	compound
+13	Digital	_	ADJ	ADJ	_	0	foreign
+14	Copy	_	NOUN	NOUN	_	7	conj
+15	+	_	CONJ	CONJ	_	4	cc
+16	UltraViolet	_	PROPN	PROPN	_	18	compound
+17	)	_	PUNCT	PUNCT	_	18	punct
+18	$8.99	_	PROPN	PROPN	_	20	compound
+19	FS	_	NOUN	NOUN	_	20	compound
+20	w/Prime	_	NOUN	NOUN	_	14	conj
+21	@	_	ADP	ADP	_	20	acl
+22	...	_	PUNCT	PUNCT	_	1	punct
+23	http://t.co/7bUzZ6nfsC	_	X	X	_	24	goeswith
+24	#FatWallet	_	NOUN	NOUN	_	7	conj
+

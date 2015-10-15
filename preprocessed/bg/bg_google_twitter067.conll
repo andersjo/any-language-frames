@@ -1,0 +1,8 @@
+1	competencia	_	PROPN	PROPN	_	0	root
+2	;	_	PUNCT	PUNCT	_	1	punct
+3	rivalidad	_	PROPN	PROPN	_	1	conj
+4	конкуренция	_	NOUN	NOUN	_	3	nmod
+5	;	_	PUNCT	PUNCT	_	7	punct
+6	соревнование	_	ADJ	ADJ	_	7	amod
+7	http://t.co/ke6VF36EGx	_	PROPN	PROPN	_	1	conj
+

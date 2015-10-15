@@ -1,0 +1,18 @@
+1	Dat	_	NOUN	NOUN	_	2	nmod:poss
+2	mazelen	_	NOUN	NOUN	_	4	nmod:poss
+3	humane	_	ADJ	ADJ	_	2	amod
+4	stamcellen	_	NOUN	NOUN	_	5	nmod:poss
+5	kunnen	_	NOUN	NOUN	_	6	nmod:poss
+6	infecteren	_	NOUN	NOUN	_	7	nsubj
+7	vindt	_	VERB	VERB	_	0	root
+8	u	_	NOUN	NOUN	_	7	nsubj
+9	bij	_	PROPN	PROPN	_	8	appos
+10	Dissertation	_	NOUN	NOUN	_	9	dep
+11	Dr.	_	NOUN	NOUN	_	9	nmod:poss
+12	Boussad	_	NOUN	NOUN	_	11	nmod
+13	,	_	PUNCT	PUNCT	_	12	punct
+14	Köln	_	NOUN	NOUN	_	12	conj
+15	op	_	ADV	ADV	_	7	compound:prt
+16	Google	_	NOUN	NOUN	_	17	nmod:poss
+17	@dita66	_	NOUN	NOUN	_	15	nmod
+

@@ -1,0 +1,22 @@
+1	Quel	_	PRON	PRON	_	5	nsubj
+2	est	_	VERB	VERB	_	1	cop
+3	le	_	DET	DET	_	5	det
+4	dernier	_	ADJ	ADJ	_	5	amod
+5	film	_	NOUN	NOUN	_	0	root
+6	que	_	SCONJ	SCONJ	_	8	mark
+7	tu	_	PRON	PRON	_	8	nsubj
+8	aies	_	VERB	VERB	_	5	ccomp
+9	vu	_	VERB	VERB	_	8	xcomp
+10	?	_	PUNCT	PUNCT	_	2	punct
+11	—	_	PROPN	PROPN	_	13	name
+12	Harry	_	PROPN	PROPN	_	13	name
+13	Potter	_	PROPN	PROPN	_	9	dobj
+14	et	_	CONJ	CONJ	_	13	cc
+15	les	_	DET	DET	_	16	det
+16	reliques	_	NOUN	NOUN	_	13	conj
+17	de	_	ADP	ADP	_	19	case
+18	la	_	DET	DET	_	19	det
+19	mort	_	NOUN	NOUN	_	16	nmod
+20	.	_	PUNCT	PUNCT	_	5	punct
+21	http://t.co/atncpi1IMQ	_	PROPN	PROPN	_	19	appos
+

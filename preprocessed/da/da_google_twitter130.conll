@@ -1,0 +1,18 @@
+1	Male	_	ADJ	ADJ	_	2	amod
+2	Enhancement	_	NOUN	NOUN	_	3	dep
+3	Speman	_	PROPN	PROPN	_	5	nmod:poss
+4	Sperm	_	NOUN	NOUN	_	3	dep
+5	Motility	_	NOUN	NOUN	_	0	root
+6	;	_	PUNCT	PUNCT	_	7	punct
+7	Speman	_	PROPN	PROPN	_	5	appos
+8	For	_	ADP	ADP	_	10	case
+9	<	_	PUNCT	PUNCT	_	10	punct
+10	b	_	NOUN	NOUN	_	7	nmod
+11	>	_	PUNCT	PUNCT	_	10	punct
+12	Male	_	ADJ	ADJ	_	13	amod
+13	Enhancement	_	NOUN	NOUN	_	10	conj
+14	<	_	PUNCT	PUNCT	_	10	punct
+15	/b	_	NOUN	NOUN	_	13	appos
+16	>	_	PUNCT	PUNCT	_	15	punct
+17	http://t.co/pyeaUKuK5y	_	NOUN	NOUN	_	15	list
+

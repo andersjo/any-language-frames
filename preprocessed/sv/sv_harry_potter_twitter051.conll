@@ -1,0 +1,27 @@
+1	Jag	_	PRON	PRON	_	4	nsubj
+2	har	_	AUX	AUX	_	4	aux
+3	precis	_	ADV	ADV	_	4	advmod
+4	tittat	_	VERB	VERB	_	0	root
+5	klart	_	ADV	ADV	_	4	advmod
+6	på	_	ADP	ADP	_	11	case
+7	en	_	DET	DET	_	9	det
+8	4	_	NUM	NUM	_	9	nummod
+9	timmar	_	NOUN	NOUN	_	10	nmod
+10	lång	_	ADJ	ADJ	_	11	amod
+11	video	_	NOUN	NOUN	_	4	nmod
+12	från	_	ADP	ADP	_	13	case
+13	premiären	_	NOUN	NOUN	_	11	nmod
+14	av	_	ADP	ADP	_	19	case
+15	den	_	DET	DET	_	17	det
+16	sista	_	ADJ	ADJ	_	17	amod
+17	Harry	_	PROPN	PROPN	_	18	nmod:poss
+18	Potter	_	NOUN	NOUN	_	19	nmod:poss
+19	filmen	_	NOUN	NOUN	_	4	nmod
+20	!	_	PUNCT	PUNCT	_	19	punct
+21	SÅ	_	NOUN	NOUN	_	22	nsubj
+22	FINA	_	VERB	VERB	_	19	parataxis
+23	TAL	_	NOUN	NOUN	_	22	dobj
+24	,	_	PUNCT	PUNCT	_	23	punct
+25	gråter	_	NOUN	NOUN	_	26	nsubj
+26	!!!!!!	_	VERB	VERB	_	22	xcomp
+

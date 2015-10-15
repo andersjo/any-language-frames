@@ -1,0 +1,16 @@
+1	Εικονική	_	NOUN	NOUN	_	2	nsubj
+2	ξενάγηση	_	VERB	VERB	_	0	root
+3	στο	_	ADP	ADP	_	4	case
+4	μουσείο	_	NOUN	NOUN	_	2	nmod
+5	της	_	ADJ	ADJ	_	6	det
+6	Skoda	_	NOUN	NOUN	_	4	nmod
+7	με	_	ADP	ADP	_	9	case
+8	την	_	ADJ	ADJ	_	9	det
+9	βοήθεια	_	NOUN	NOUN	_	6	nmod
+10	του	_	ADJ	ADJ	_	11	det
+11	Google	_	NOUN	NOUN	_	9	nmod
+12	street	_	NOUN	NOUN	_	13	nmod
+13	view	_	NOUN	NOUN	_	11	nmod
+14	:	_	PUNCT	PUNCT	_	13	punct
+15	http://t.co/aRK7ebNBhs	_	NOUN	NOUN	_	13	conj
+

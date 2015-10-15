@@ -1,0 +1,13 @@
+1	En	_	ADP	ADP	_	2	case
+2	mayo	_	PROPN	PROPN	_	3	nmod
+3	lanza	_	VERB	VERB	_	0	root
+4	Google	_	PROPN	PROPN	_	5	name
+5	Labs	_	PROPN	PROPN	_	3	nsubj
+6	que	_	SCONJ	SCONJ	_	7	mark
+7	cerrará	_	VERB	VERB	_	5	acl:relcl
+8	9	_	NUM	NUM	_	9	nummod
+9	años	_	NOUN	NOUN	_	7	dobj
+10	más	_	ADV	ADV	_	11	advmod
+11	tarde	_	ADV	ADV	_	9	advmod
+12	.	_	PUNCT	PUNCT	_	3	punct
+

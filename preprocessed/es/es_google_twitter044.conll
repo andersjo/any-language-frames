@@ -1,0 +1,12 @@
+1	LECCIÓN	_	PROPN	PROPN	_	3	name
+2	DEL	_	PROPN	PROPN	_	3	name
+3	DÍA	_	PROPN	PROPN	_	0	root
+4	,	_	PUNCT	PUNCT	_	6	punct
+5	NUNCA	_	ADV	ADV	_	6	neg
+6	BUSCAR	_	PROPN	PROPN	_	9	name
+7	FOTOS	_	PROPN	PROPN	_	9	name
+8	DE	_	PROPN	PROPN	_	9	name
+9	CUCARACHAS	_	PROPN	PROPN	_	3	appos
+10	EN	_	ADP	ADP	_	11	case
+11	GOOGLE	_	PROPN	PROPN	_	8	nmod
+

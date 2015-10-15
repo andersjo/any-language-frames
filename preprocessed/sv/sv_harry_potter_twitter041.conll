@@ -1,0 +1,12 @@
+1	Jag	_	PRON	PRON	_	2	nsubj
+2	feber-yrade	_	VERB	VERB	_	0	root
+3	alltså	_	ADV	ADV	_	2	advmod
+4	inatt	_	NOUN	NOUN	_	2	dobj
+5	och	_	CONJ	CONJ	_	2	cc
+6	trodde	_	VERB	VERB	_	2	conj
+7	jag	_	PRON	PRON	_	6	nsubj
+8	var	_	ADV	ADV	_	6	advmod
+9	Harry	_	PROPN	PROPN	_	10	nmod:poss
+10	Potter	_	NOUN	NOUN	_	11	nsubj
+11	?????	_	VERB	VERB	_	6	xcomp
+

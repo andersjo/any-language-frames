@@ -1,0 +1,10 @@
+1	Angelina	_	PROPN	PROPN	_	4	nsubj
+2	Jolie	_	PROPN	PROPN	_	1	name
+3	quanto	_	PRON	PRON	_	4	dobj
+4	sei	_	VERB	VERB	_	0	root
+5	bella	_	ADJ	ADJ	_	4	xcomp
+6	,	_	PUNCT	PUNCT	_	1	punct
+7	mio	_	DET	DET	_	8	det:poss
+8	dio	_	NOUN	NOUN	_	5	conj
+9	.	_	PUNCT	PUNCT	_	4	punct
+

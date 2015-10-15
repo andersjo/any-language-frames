@@ -1,0 +1,20 @@
+1	Heechul	_	PROPN	PROPN	_	0	root
+2	por	_	ADP	ADP	_	5	case
+3	qué	_	DET	DET	_	5	det
+4	siempre	_	ADV	ADV	_	5	advmod
+5	apareces	_	NOUN	NOUN	_	1	appos
+6	con	_	ADP	ADP	_	8	case
+7	las	_	DET	DET	_	8	det
+8	actrices/cantantes	_	NOUN	NOUN	_	5	nmod
+9	que	_	SCONJ	SCONJ	_	10	mark
+10	busco	_	VERB	VERB	_	8	acl:relcl
+11	en	_	ADP	ADP	_	12	case
+12	google	_	PROPN	PROPN	_	10	nmod
+13	...	_	PUNCT	PUNCT	_	17	punct
+14	como	_	SCONJ	SCONJ	_	17	mark
+15	eres	_	VERB	VERB	_	17	cop
+16	tan	_	ADV	ADV	_	17	advmod
+17	puto	_	ADJ	ADJ	_	8	acl:relcl
+18	?	_	PUNCT	PUNCT	_	17	punct
+19	http://t.co/eA2LtnuY9N	_	PROPN	PROPN	_	15	nsubj
+

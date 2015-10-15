@@ -1,0 +1,21 @@
+1	Parimenti	_	ADV	ADV	_	7	advmod
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	lo	_	DET	DET	_	4	det
+4	stile	_	NOUN	NOUN	_	7	nsubj
+5	narrativo	_	ADJ	ADJ	_	4	amod
+6	si	_	PRON	PRON	_	7	expl
+7	evolve	_	VERB	VERB	_	0	root
+8	con	_	ADP	ADP	_	10	case
+9	il	_	DET	DET	_	10	det
+10	personaggio	_	NOUN	NOUN	_	7	nmod
+11	diventando	_	VERB	VERB	_	10	acl
+12	via	_	ADP	ADP	_	13	case
+13	via	_	NOUN	NOUN	_	11	nmod
+14	più	_	ADV	ADV	_	15	advmod
+15	complesso	_	ADJ	ADJ	_	13	amod
+16	,	_	PUNCT	PUNCT	_	15	punct
+17	ironico	_	ADJ	ADJ	_	15	conj
+18	e	_	CONJ	CONJ	_	15	cc
+19	adulto	_	NOUN	NOUN	_	13	conj
+20	.	_	PUNCT	PUNCT	_	7	punct
+

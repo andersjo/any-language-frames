@@ -1,0 +1,18 @@
+1	Actuó	_	VERB	VERB	_	0	root
+2	como	_	ADP	ADP	_	4	case
+3	Jane	_	PROPN	PROPN	_	4	name
+4	Smith	_	PROPN	PROPN	_	1	nmod
+5	,	_	PUNCT	PUNCT	_	8	punct
+6	en	_	ADP	ADP	_	8	case
+7	la	_	DET	DET	_	8	det
+8	película	_	NOUN	NOUN	_	1	nmod
+9	de	_	ADP	ADP	_	10	case
+10	acción	_	NOUN	NOUN	_	8	nmod
+11	y	_	CONJ	CONJ	_	10	cc
+12	comedia	_	NOUN	NOUN	_	10	conj
+13	"	_	PUNCT	PUNCT	_	14	punct
+14	Sr.	_	X	X	_	8	appos
+15	y	_	CONJ	CONJ	_	8	cc
+16	Sra	_	NOUN	NOUN	_	10	conj
+17	.	_	PUNCT	PUNCT	_	1	punct
+

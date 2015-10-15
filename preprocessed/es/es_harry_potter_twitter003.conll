@@ -1,0 +1,15 @@
+1	Todavia	_	ADV	ADV	_	2	advmod
+2	tengo	_	VERB	VERB	_	0	root
+3	el	_	DET	DET	_	4	det
+4	video	_	NOUN	NOUN	_	2	dobj
+5	de	_	ADP	ADP	_	6	case
+6	mereles	_	VERB	VERB	_	4	advcl
+7	mirando	_	VERB	VERB	_	6	xcomp
+8	harry	_	PROPN	PROPN	_	11	name
+9	potter	_	PROPN	PROPN	_	11	name
+10	jaja	_	PROPN	PROPN	_	11	name
+11	xd	_	PROPN	PROPN	_	7	dobj
+12	que	_	CONJ	CONJ	_	11	cc
+13	pibe	_	PROPN	PROPN	_	11	nmod
+14	!!	_	PUNCT	PUNCT	_	2	punct
+

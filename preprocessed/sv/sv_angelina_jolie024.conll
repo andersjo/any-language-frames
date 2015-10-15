@@ -1,0 +1,17 @@
+1	Hon	_	PRON	PRON	_	2	nsubj
+2	började	_	VERB	VERB	_	0	root
+3	arbeta	_	VERB	VERB	_	2	xcomp
+4	som	_	PRON	PRON	_	3	nsubj
+5	modell	_	NOUN	NOUN	_	3	dobj
+6	,	_	PUNCT	PUNCT	_	3	punct
+7	främst	_	ADV	ADV	_	3	advmod
+8	i	_	ADP	ADP	_	10	case
+9	Los	_	NOUN	NOUN	_	10	nmod:poss
+10	Angeles	_	NOUN	NOUN	_	3	nmod
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	New	_	PROPN	PROPN	_	10	conj
+13	York	_	PROPN	PROPN	_	12	name
+14	och	_	CONJ	CONJ	_	13	cc
+15	London	_	PROPN	PROPN	_	13	conj
+16	.	_	PUNCT	PUNCT	_	2	punct
+

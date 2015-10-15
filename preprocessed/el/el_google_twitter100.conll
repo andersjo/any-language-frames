@@ -1,0 +1,24 @@
+1	Παρακαλούμε	_	VERB	VERB	_	0	root
+2	την	_	ADJ	ADJ	_	3	det
+3	Google	_	NOUN	NOUN	_	1	dobj
+4	,	_	PUNCT	PUNCT	_	1	punct
+5	να	_	PART	PART	_	6	aux
+6	μαζέψει	_	VERB	VERB	_	3	acl
+7	τα	_	ADJ	ADJ	_	9	det
+8	κομμάτια	_	ADJ	ADJ	_	9	amod
+9	...	_	NOUN	NOUN	_	6	dobj
+10	για	_	ADP	ADP	_	15	case
+11	το	_	ADJ	ADJ	_	15	det
+12	καλό	_	ADJ	ADJ	_	13	amod
+13	ολόκληρης	_	ADJ	ADJ	_	9	amod
+14	της	_	ADJ	ADJ	_	15	det
+15	κοινότητας	_	NOUN	NOUN	_	13	nmod
+16	του	_	ADJ	ADJ	_	17	det
+17	Android	_	NOUN	NOUN	_	15	nmod
+18	και	_	CONJ	CONJ	_	17	cc
+19	το	_	ADJ	ADJ	_	20	det
+20	μέλλον	_	NOUN	NOUN	_	17	conj
+21	της	_	PRON	PRON	_	20	nmod
+22	.	_	PUNCT	PUNCT	_	1	punct
+23	http://t.co/Q2upEP1f2n	_	NOUN	NOUN	_	20	nmod
+

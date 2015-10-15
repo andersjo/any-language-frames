@@ -1,0 +1,15 @@
+1	Durante	_	ADP	ADP	_	3	case
+2	muchos	_	DET	DET	_	3	det
+3	años	_	NOUN	NOUN	_	7	nmod
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	había	_	AUX	AUX	_	6	aux
+6	sido	_	AUX	AUX	_	7	auxpass
+7	aterrorizado	_	VERB	VERB	_	0	root
+8	por	_	ADP	ADP	_	11	case
+9	el	_	DET	DET	_	11	det
+10	malvado	_	ADJ	ADJ	_	11	amod
+11	mago	_	NOUN	NOUN	_	7	nmod
+12	Lord	_	PROPN	PROPN	_	13	name
+13	Voldemort	_	PROPN	PROPN	_	11	appos
+14	.	_	PUNCT	PUNCT	_	7	punct
+

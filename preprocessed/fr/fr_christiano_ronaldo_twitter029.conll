@@ -1,0 +1,13 @@
+1	@pokofan666	_	PROPN	PROPN	_	2	name
+2	@plhcaillou	_	PROPN	PROPN	_	4	name
+3	merci	_	INTJ	INTJ	_	0	root
+4	jai	_	PROPN	PROPN	_	3	dep
+5	celle	_	PRON	PRON	_	2	appos
+6	de	_	ADP	ADP	_	7	case
+7	neymar	_	PROPN	PROPN	_	5	nmod
+8	et	_	CONJ	CONJ	_	7	cc
+9	de	_	ADP	ADP	_	12	case
+10	christiano	_	PROPN	PROPN	_	12	name
+11	ronaldo	_	PROPN	PROPN	_	12	name
+12	<3<3<3<3	_	PROPN	PROPN	_	7	conj
+

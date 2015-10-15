@@ -1,0 +1,19 @@
+1	Jag	_	PRON	PRON	_	2	nsubj
+2	fick	_	VERB	VERB	_	0	root
+3	den	_	DET	DET	_	5	det
+4	stora	_	ADJ	ADJ	_	5	amod
+5	äran	_	NOUN	NOUN	_	2	dobj
+6	att	_	SCONJ	SCONJ	_	17	mark
+7	prata	_	ADJ	ADJ	_	8	amod
+8	Google	_	PROPN	PROPN	_	2	nmod
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	Facebook	_	NOUN	NOUN	_	2	dobj
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	integritet	_	NOUN	NOUN	_	10	conj
+13	och	_	CONJ	CONJ	_	12	cc
+14	övervakning	_	NOUN	NOUN	_	12	conj
+15	i	_	ADP	ADP	_	16	case
+16	morgonens	_	NOUN	NOUN	_	14	nmod
+17	@MorgonpassetiP3	_	VERB	VERB	_	8	acl:relcl
+18	http://t.co/1zEEPFN2Ua	_	NOUN	NOUN	_	17	dobj
+

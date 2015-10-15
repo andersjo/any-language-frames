@@ -1,0 +1,20 @@
+1	#EvaLongoria	_	PROPN	PROPN	_	0	root
+2	#Style	_	PROPN	PROPN	_	1	name
+3	ANGELINA	_	PROPN	PROPN	_	1	name
+4	JOLIE	_	PROPN	PROPN	_	1	name
+5	Star	_	PROPN	PROPN	_	1	name
+6	Systeme	_	PROPN	PROPN	_	1	name
+7	NOV	_	PROPN	PROPN	_	6	name
+8	.	_	PUNCT	PUNCT	_	1	punct
+9	2007	_	NUM	NUM	_	10	nummod
+10	Leonardo	_	PROPN	PROPN	_	1	conj
+11	Dicaprio	_	PROPN	PROPN	_	10	name
+12	Eva	_	PROPN	PROPN	_	10	name
+13	Longoria	_	PROPN	PROPN	_	10	name
+14	JON	_	PROPN	PROPN	_	10	name
+15	BON	_	PROPN	PROPN	_	10	name
+16	…	_	PUNCT	PUNCT	_	17	punct
+17	http://t.co/SMXEa61X9y	_	NOUN	NOUN	_	1	nmod
+18	#Fashion	_	NOUN	NOUN	_	17	compound
+19	#Onsale	_	ADJ	ADJ	_	18	amod
+

@@ -1,0 +1,26 @@
+1	Zu	_	ADP	ADP	_	2	case
+2	Beginn	_	NOUN	NOUN	_	8	nmod
+3	seiner	_	DET	DET	_	4	nmod:poss
+4	Karriere	_	NOUN	NOUN	_	2	det
+5	im	_	ADP	ADP	_	7	case
+6	rechten	_	ADJ	ADJ	_	7	amod
+7	Mittelfeld	_	NOUN	NOUN	_	8	nmod
+8	eingesetzt	_	VERB	VERB	_	10	advcl
+9	,	_	PUNCT	PUNCT	_	10	punct
+10	wechselte	_	VERB	VERB	_	0	root
+11	er	_	PRON	PRON	_	10	nsubj
+12	später	_	ADV	ADV	_	10	advmod
+13	auf	_	ADP	ADP	_	16	case
+14	den	_	DET	DET	_	16	det
+15	linken	_	ADJ	ADJ	_	16	amod
+16	Flügel	_	NOUN	NOUN	_	10	nmod
+17	und	_	CONJ	CONJ	_	10	cc
+18	wurde	_	AUX	AUX	_	16	conj
+19	einer	_	PRON	PRON	_	16	conj
+20	der	_	DET	DET	_	22	det
+21	torgefährlichsten	_	ADJ	ADJ	_	22	amod
+22	Spieler	_	NOUN	NOUN	_	19	det
+23	seiner	_	DET	DET	_	24	nmod:poss
+24	Zeit	_	NOUN	NOUN	_	22	det
+25	.	_	PUNCT	PUNCT	_	10	punct
+

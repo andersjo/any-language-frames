@@ -1,0 +1,21 @@
+1	#AngelinaJolie	_	PROPN	PROPN	_	2	compound
+2	#Fans	_	PROPN	PROPN	_	4	compound
+3	ANGELINA	_	PROPN	PROPN	_	4	compound
+4	JOLIE	_	PROPN	PROPN	_	6	nsubj
+5	*	_	PUNCT	PUNCT	_	6	punct
+6	SIGNED	_	VERB	VERB	_	0	root
+7	*	_	PUNCT	PUNCT	_	6	punct
+8	HOT	_	ADJ	ADJ	_	0	foreign
+9	Authentic	_	PROPN	PROPN	_	10	compound
+10	Real	_	PROPN	PROPN	_	11	compound
+11	Hand	_	PROPN	PROPN	_	13	compound
+12	Signed	_	PROPN	PROPN	_	13	compound
+13	SEXY	_	PROPN	PROPN	_	17	compound
+14	11	_	NUM	NUM	_	13	nummod
+15	x	_	SYM	SYM	_	16	case
+16	14	_	NUM	NUM	_	14	nmod
+17	PHOTO	_	NOUN	NOUN	_	20	compound
+18	http://t.co/bLB92FS7Yj	_	X	X	_	19	compound
+19	#Collectibles	_	NOUN	NOUN	_	20	compound
+20	#Sale	_	NOUN	NOUN	_	6	nmod:tmod
+

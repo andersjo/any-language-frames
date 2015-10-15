@@ -1,0 +1,22 @@
+1	Cuando	_	SCONJ	SCONJ	_	2	mark
+2	tenía	_	VERB	VERB	_	9	advcl
+3	once	_	NUM	NUM	_	4	nummod
+4	años	_	NOUN	NOUN	_	2	dobj
+5	,	_	PUNCT	PUNCT	_	2	punct
+6	su	_	DET	DET	_	7	nmod:poss
+7	familia	_	NOUN	NOUN	_	9	nsubj
+8	se	_	PRON	PRON	_	9	iobj
+9	mudó	_	VERB	VERB	_	0	root
+10	de	_	ADP	ADP	_	11	case
+11	nuevo	_	ADJ	ADJ	_	9	amod
+12	a	_	ADP	ADP	_	14	case
+13	Los	_	DET	DET	_	14	det
+14	Ángeles	_	PROPN	PROPN	_	9	nmod
+15	y	_	CONJ	CONJ	_	14	cc
+16	Angelina	_	PROPN	PROPN	_	14	conj
+17	quiso	_	VERB	VERB	_	9	conj
+18	volver	_	VERB	VERB	_	17	xcomp
+19	a	_	ADP	ADP	_	20	case
+20	actuar	_	VERB	VERB	_	18	acl
+21	.	_	PUNCT	PUNCT	_	9	punct
+

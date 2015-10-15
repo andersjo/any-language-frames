@@ -1,0 +1,12 @@
+1	Außerdem	_	ADV	ADV	_	10	advmod
+2	hatte	_	AUX	AUX	_	10	aux
+3	auch	_	ADV	ADV	_	10	advmod
+4	die	_	DET	DET	_	6	det
+5	Pariser	_	ADJ	ADJ	_	6	amod
+6	Kommune	_	NOUN	NOUN	_	10	nmod
+7	1871	_	NUM	NUM	_	6	nmod
+8	im	_	ADP	ADP	_	9	case
+9	März	_	PROPN	PROPN	_	10	nmod
+10	begonnen	_	VERB	VERB	_	0	root
+11	.	_	PUNCT	PUNCT	_	10	punct
+

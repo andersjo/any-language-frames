@@ -1,0 +1,11 @@
+1	Google	_	NOUN	NOUN	_	2	nsubj
+2	hette	_	VERB	VERB	_	0	root
+3	1998	_	NUM	NUM	_	4	nummod
+4	Google	_	PROPN	PROPN	_	2	dobj
+5	med	_	ADP	ADP	_	6	case
+6	!,	_	NOUN	NOUN	_	2	nmod
+7	alltså	_	ADV	ADV	_	2	advmod
+8	"	_	PUNCT	PUNCT	_	2	punct
+9	Google	_	PROPN	PROPN	_	4	conj
+10	!	_	PUNCT	PUNCT	_	2	punct
+

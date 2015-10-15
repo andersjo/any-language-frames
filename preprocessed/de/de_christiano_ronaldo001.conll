@@ -1,0 +1,10 @@
+1	Cristiano	_	PROPN	PROPN	_	2	name
+2	Ronaldo	_	PROPN	PROPN	_	0	root
+3	dos	_	PROPN	PROPN	_	5	name
+4	Santos	_	PROPN	PROPN	_	5	name
+5	Aveiro	_	PROPN	PROPN	_	2	nmod
+6	[]	_	PUNCT	PUNCT	_	5	punct
+7	(*	_	PROPN	PROPN	_	5	appos
+8	5	_	NUM	NUM	_	7	appos
+9	.	_	PUNCT	PUNCT	_	8	punct
+

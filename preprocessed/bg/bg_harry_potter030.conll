@@ -1,0 +1,17 @@
+1	Служи	_	NOUN	NOUN	_	10	nsubj
+2	за	_	ADP	ADP	_	3	case
+3	контакт	_	NOUN	NOUN	_	1	nmod
+4	с	_	ADP	ADP	_	6	case
+5	Черния	_	ADJ	ADJ	_	6	amod
+6	лорд	_	NOUN	NOUN	_	3	nmod
+7	,	_	PUNCT	PUNCT	_	10	punct
+8	като	_	SCONJ	SCONJ	_	10	mark
+9	това	_	PRON	PRON	_	10	nsubj
+10	е	_	VERB	VERB	_	0	root
+11	и	_	CONJ	CONJ	_	13	cc
+12	основно	_	ADV	ADV	_	13	advmod
+13	средство	_	NOUN	NOUN	_	10	cop
+14	за	_	ADP	ADP	_	15	case
+15	комуникация	_	NOUN	NOUN	_	13	nmod
+16	.	_	PUNCT	PUNCT	_	10	punct
+

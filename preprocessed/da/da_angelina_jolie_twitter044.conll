@@ -1,0 +1,12 @@
+1	Angelina	_	PROPN	PROPN	_	2	nmod:poss
+2	Jolie	_	NOUN	NOUN	_	0	root
+3	,	_	PUNCT	PUNCT	_	4	punct
+4	Christopher	_	PROPN	PROPN	_	2	appos
+5	Nolan	_	PROPN	PROPN	_	4	name
+6	&	_	CONJ	CONJ	_	4	cc
+7	Richard	_	PROPN	PROPN	_	9	nmod:poss
+8	Linkl	_	ADJ	ADJ	_	9	amod
+9	…	_	NOUN	NOUN	_	4	conj
+10	:	_	PUNCT	PUNCT	_	9	punct
+11	http://t.co/ZAM9yfmJwl	_	NOUN	NOUN	_	9	dep
+

@@ -1,0 +1,20 @@
+1	Кога	_	ADV	ADV	_	4	advmod
+2	мајка	_	NOUN	NOUN	_	4	nsubj
+3	ти	_	PRON	PRON	_	2	case
+4	е	_	VERB	VERB	_	0	root
+5	Angelina	_	PROPN	PROPN	_	4	nsubj
+6	Jolie	_	PROPN	PROPN	_	5	name
+7	татко	_	NOUN	NOUN	_	5	nmod
+8	ти	_	PRON	PRON	_	7	case
+9	Brad	_	PROPN	PROPN	_	7	nmod
+10	Pitt	_	PROPN	PROPN	_	9	name
+11	синот	_	ADJ	ADJ	_	12	amod
+12	автоматски	_	NOUN	NOUN	_	15	nmod
+13	ти	_	PRON	PRON	_	15	iobj
+14	се	_	PRON	PRON	_	15	expl
+15	раѓа	_	VERB	VERB	_	7	acl
+16	кака	_	NOUN	NOUN	_	15	nsubj
+17	Leonardo	_	PROPN	PROPN	_	16	nmod
+18	DiCaprio	_	PROPN	PROPN	_	17	name
+19	http://t.co/R9YYkNdSGa	_	PROPN	PROPN	_	17	name
+

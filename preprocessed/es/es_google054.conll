@@ -1,0 +1,8 @@
+1	En	_	ADP	ADP	_	2	case
+2	septiembre	_	PROPN	PROPN	_	5	nmod
+3	de	_	ADP	ADP	_	4	case
+4	2009	_	NUM	NUM	_	2	nmod
+5	adquiere	_	VERB	VERB	_	0	root
+6	reCAPTCHA	_	NOUN	NOUN	_	5	dobj
+7	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,18 @@
+1	ex	_	INTJ	INTJ	_	0	root
+2	avec	_	ADP	ADP	_	4	case
+3	1967	_	NUM	NUM	_	4	nummod
+4	source	_	NOUN	NOUN	_	1	nmod
+5	:	_	PUNCT	PUNCT	_	4	punct
+6	Life	_	PROPN	PROPN	_	4	appos
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	toute	_	DET	DET	_	9	det
+9	l'actualité	_	NOUN	NOUN	_	6	appos
+10	de	_	ADP	ADP	_	11	case
+11	l'époque	_	NOUN	NOUN	_	9	nmod
+12	,	_	PUNCT	PUNCT	_	6	punct
+13	familière	_	ADJ	ADJ	_	9	amod
+14	et	_	CONJ	CONJ	_	6	cc
+15	parfois	_	ADV	ADV	_	16	advmod
+16	oubliée	_	VERB	VERB	_	13	conj
+17	https://t.co/kpId16pqDG	_	PROPN	PROPN	_	16	dobj
+

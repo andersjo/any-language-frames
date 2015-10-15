@@ -1,0 +1,12 @@
+1	-Eres	_	PROPN	PROPN	_	3	name
+2	Harry	_	PROPN	PROPN	_	3	name
+3	Potter	_	PROPN	PROPN	_	0	root
+4	!	_	PUNCT	PUNCT	_	3	punct
+5	Y	_	CONJ	CONJ	_	2	cc
+6	tu	_	DET	DET	_	7	nmod:poss
+7	eres	_	PROPN	PROPN	_	1	conj
+8	..	_	PUNCT	PUNCT	_	9	punct
+9	+Tu	_	X	X	_	11	det
+10	futuro	_	ADJ	ADJ	_	11	amod
+11	marido	_	NOUN	NOUN	_	7	appos
+

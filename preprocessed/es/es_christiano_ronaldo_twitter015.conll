@@ -1,0 +1,16 @@
+1	Fernaldo	_	PROPN	PROPN	_	5	name
+2	????	_	PROPN	PROPN	_	5	name
+3	She	_	PROPN	PROPN	_	5	name
+4	meant	_	PROPN	PROPN	_	5	name
+5	Ronaldo	_	PROPN	PROPN	_	0	root
+6	....	_	PUNCT	PUNCT	_	5	punct
+7	Christiano	_	PROPN	PROPN	_	8	name
+8	Ronaldo	_	PROPN	PROPN	_	9	name
+9	😒	_	X	X	_	10	compound
+10	#cr7	_	X	X	_	11	compound
+11	#sigh	_	PROPN	PROPN	_	15	name
+12	#mummy	_	PROPN	PROPN	_	15	name
+13	#mum	_	PROPN	PROPN	_	15	name
+14	#alienmum	_	PROPN	PROPN	_	15	name
+15	#alien	_	PROPN	PROPN	_	5	conj
+

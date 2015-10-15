@@ -1,0 +1,12 @@
+1	https://t.co/KC8SBt21La	_	PROPN	PROPN	_	3	name
+2	Diosa	_	PROPN	PROPN	_	3	name
+3	malllll	_	PROPN	PROPN	_	0	root
+4	.	_	PUNCT	PUNCT	_	3	punct
+5	.	_	PUNCT	PUNCT	_	7	punct
+6	un	_	DET	DET	_	7	det
+7	cabello	_	NOUN	NOUN	_	1	appos
+8	con	_	ADP	ADP	_	9	case
+9	estilo	_	NOUN	NOUN	_	7	nmod
+10	...	_	PUNCT	PUNCT	_	7	punct
+11	sexys	_	PROPN	PROPN	_	9	appos
+

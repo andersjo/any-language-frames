@@ -1,0 +1,7 @@
+1	März	_	PROPN	PROPN	_	5	nsubj
+2	als	_	ADP	ADP	_	4	case
+3	internationaler	_	ADJ	ADJ	_	4	amod
+4	Gedenktag	_	NOUN	NOUN	_	5	nmod
+5	eingeführt	_	VERB	VERB	_	0	root
+6	.	_	PUNCT	PUNCT	_	5	punct
+

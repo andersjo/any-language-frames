@@ -1,0 +1,16 @@
+1	@Gianca_Villa	_	VERB	VERB	_	0	root
+2	poche	_	DET	DET	_	3	det
+3	politiche	_	NOUN	NOUN	_	1	dobj
+4	coerenti	_	ADJ	ADJ	_	3	amod
+5	con	_	ADP	ADP	_	6	case
+6	protezione	_	NOUN	NOUN	_	3	nmod
+7	del	_	ADP	ADP	_	8	case
+8	clima	_	NOUN	NOUN	_	6	nmod
+9	http://t.co/7jRuFTd2LZ	_	ADJ	ADJ	_	8	amod
+10	intanto	_	ADV	ADV	_	12	advmod
+11	si	_	PRON	PRON	_	12	nsubj
+12	va	_	VERB	VERB	_	1	conj
+13	verso	_	ADP	ADP	_	14	case
+14	#COP21	_	NOUN	NOUN	_	12	nmod
+15	http://t.co/dHEq7u51YP	_	NOUN	NOUN	_	14	compound
+

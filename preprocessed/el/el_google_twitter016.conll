@@ -1,0 +1,17 @@
+1	Acer	_	NOUN	NOUN	_	0	root
+2	Chromebook	_	NOUN	NOUN	_	1	nmod
+3	15	_	NUM	NUM	_	2	nmod
+4	.	_	PUNCT	PUNCT	_	1	punct
+5	Μεγάλο	_	ADJ	ADJ	_	7	amod
+6	και	_	CONJ	CONJ	_	2	cc
+7	…	_	NOUN	NOUN	_	1	conj
+8	οικονομικό	_	ADJ	ADJ	_	9	amod
+9	Chromebook	_	NOUN	NOUN	_	7	nmod
+10	(	_	PUNCT	PUNCT	_	11	punct
+11	CES	_	NOUN	NOUN	_	9	nmod
+12	2015	_	NUM	NUM	_	11	nmod
+13	)	_	PUNCT	PUNCT	_	11	punct
+14	http://t.co/23OBeVcJah	_	NOUN	NOUN	_	15	nmod
+15	#τεχνολογια	_	NOUN	NOUN	_	9	appos
+16	#google	_	NOUN	NOUN	_	15	nmod
+

@@ -1,0 +1,26 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	@enzolarissa	_	PROPN	PROPN	_	6	nsubj
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	"	_	PUNCT	PUNCT	_	5	punct
+5	Cristiano	_	PROPN	PROPN	_	6	nsubj
+6	finira	_	VERB	VERB	_	0	root
+7	sa	_	DET	DET	_	8	nmod:poss
+8	carrière	_	NOUN	NOUN	_	6	dobj
+9	au	_	ADP	ADP	_	10	case
+10	Real	_	PROPN	PROPN	_	6	nmod
+11	de	_	ADP	ADP	_	12	case
+12	Madrid	_	PROPN	PROPN	_	10	nmod
+13	"	_	PUNCT	PUNCT	_	15	punct
+14	-Jorge	_	PROPN	PROPN	_	15	name
+15	Mendes	_	PROPN	PROPN	_	10	appos
+16	"	_	PUNCT	PUNCT	_	15	punct
+17	Il	_	PRON	PRON	_	19	nsubj
+18	ne	_	ADV	ADV	_	19	neg
+19	jure	_	VERB	VERB	_	15	acl:relcl
+20	que	_	SCONJ	SCONJ	_	19	expl
+21	par	_	ADP	ADP	_	19	case
+22	Christiano	_	PROPN	PROPN	_	23	name
+23	Ronaldo	_	PROPN	PROPN	_	21	case
+24	ce	_	DET	DET	_	25	det
+25	gar	_	NOUN	NOUN	_	23	appos
+

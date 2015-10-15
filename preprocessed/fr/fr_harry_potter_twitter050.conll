@@ -1,0 +1,21 @@
+1	@JamesPotter_RL	_	X	X	_	11	compound
+2	@EvelynB_RL	_	X	X	_	7	compound
+3	[[	_	X	X	_	7	compound
+4	—	_	X	X	_	7	compound
+5	c	_	X	X	_	7	compound
+6	mete	_	X	X	_	7	compound
+7	—	_	X	X	_	0	root
+8	En	_	ADP	ADP	_	11	case
+9	el	_	X	X	_	11	compound
+10	PJ	_	X	X	_	11	compound
+11	aceptan	_	PROPN	PROPN	_	7	nmod
+12	personajes	_	ADJ	ADJ	_	11	amod
+13	de	_	ADP	ADP	_	20	case
+14	Percy	_	PROPN	PROPN	_	15	name
+15	Jackson	_	PROPN	PROPN	_	20	name
+16	y	_	X	X	_	20	compound
+17	Harry	_	PROPN	PROPN	_	20	name
+18	Potter	_	PROPN	PROPN	_	20	name
+19	(?)	_	PROPN	PROPN	_	20	name
+20	]]	_	PROPN	PROPN	_	11	conj
+

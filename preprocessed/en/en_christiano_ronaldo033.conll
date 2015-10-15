@@ -1,0 +1,11 @@
+1	His	_	PRON	PRON	_	5	nmod:poss
+2	great-grandmother	_	ADJ	ADJ	_	0	cc
+3	Isabel	_	PROPN	PROPN	_	5	compound
+4	da	_	PROPN	PROPN	_	5	compound
+5	Piedade	_	PROPN	PROPN	_	9	nsubj
+6	was	_	VERB	VERB	_	9	cop
+7	from	_	ADP	ADP	_	6	compound:prt
+8	Cape	_	NOUN	NOUN	_	9	compound
+9	Verde	_	NOUN	NOUN	_	0	root
+10	.	_	PUNCT	PUNCT	_	9	punct
+

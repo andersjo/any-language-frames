@@ -1,0 +1,11 @@
+1	Εντούτοις	_	ADV	ADV	_	4	advmod
+2	,	_	PUNCT	PUNCT	_	4	punct
+3	έχουν	_	VERB	VERB	_	4	aux
+4	δεχτεί	_	VERB	VERB	_	0	root
+5	οξεία	_	ADJ	ADJ	_	6	amod
+6	κριτική	_	NOUN	NOUN	_	4	dobj
+7	από	_	ADP	ADP	_	9	case
+8	κάποιες	_	PRON	PRON	_	9	nmod
+9	ομάδες	_	NOUN	NOUN	_	6	nmod
+10	.	_	PUNCT	PUNCT	_	4	punct
+

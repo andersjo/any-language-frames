@@ -1,0 +1,22 @@
+1	eur/usd	_	NOUN	NOUN	_	7	nsubj
+2	По	_	ADP	ADP	_	4	case
+3	мое	_	DET	DET	_	4	det
+4	мнение	_	NOUN	NOUN	_	1	nmod
+5	тази	_	DET	DET	_	6	det
+6	седмица	_	NOUN	NOUN	_	1	nmod
+7	валутната	_	VERB	VERB	_	0	root
+8	двойка	_	NOUN	NOUN	_	7	dobj
+9	ще	_	PART	PART	_	10	aux
+10	запълни	_	VERB	VERB	_	7	ccomp
+11	поне	_	ADV	ADV	_	12	advmod
+12	половината	_	NOUN	NOUN	_	10	dobj
+13	от	_	ADP	ADP	_	14	case
+14	гапа	_	NOUN	NOUN	_	12	nmod
+15	и	_	CONJ	CONJ	_	10	cc
+16	ще	_	PART	PART	_	17	aux
+17	гледам	_	VERB	VERB	_	10	conj
+18	да	_	PART	PART	_	19	aux
+19	отварям	_	VERB	VERB	_	17	ccomp
+20	…	_	PROPN	PROPN	_	19	dobj
+21	https://t.co/HiQTL4AWNV	_	PROPN	PROPN	_	20	name
+

@@ -1,0 +1,11 @@
+1	Bøgerne	_	NOUN	NOUN	_	3	nsubj
+2	har	_	AUX	AUX	_	3	aux
+3	vundet	_	VERB	VERB	_	0	root
+4	stor	_	ADJ	ADJ	_	5	amod
+5	popularitet	_	NOUN	NOUN	_	3	dobj
+6	,	_	PUNCT	PUNCT	_	3	punct
+7	især	_	ADV	ADV	_	8	advmod
+8	hos	_	ADP	ADP	_	9	case
+9	unge	_	ADJ	ADJ	_	3	nmod
+10	.	_	PUNCT	PUNCT	_	3	punct
+

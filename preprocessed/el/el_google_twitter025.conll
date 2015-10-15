@@ -1,0 +1,11 @@
+1	Τάσεις	_	NOUN	NOUN	_	0	root
+2	θεμάτων	_	NOUN	NOUN	_	1	nmod
+3	2014	_	NUM	NUM	_	2	nmod
+4	για	_	ADP	ADP	_	6	case
+5	την	_	ADJ	ADJ	_	6	det
+6	Ελλάδα	_	NOUN	NOUN	_	2	nmod
+7	από	_	ADP	ADP	_	9	case
+8	την	_	ADJ	ADJ	_	9	det
+9	Google	_	NOUN	NOUN	_	6	nmod
+10	http://t.co/p9WSnhG3vG	_	NOUN	NOUN	_	9	nmod
+

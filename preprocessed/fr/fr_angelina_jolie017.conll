@@ -1,0 +1,12 @@
+1	Ils	_	PRON	PRON	_	4	nsubj
+2	se	_	PRON	PRON	_	4	dobj
+3	sont	_	AUX	AUX	_	4	aux
+4	mariés	_	VERB	VERB	_	0	root
+5	le	_	DET	DET	_	7	det
+6	23	_	NUM	NUM	_	7	nmod
+7	août	_	NOUN	NOUN	_	4	nmod
+8	2014	_	NUM	NUM	_	7	nmod
+9	en	_	ADP	ADP	_	10	case
+10	France	_	PROPN	PROPN	_	4	nmod
+11	.	_	PUNCT	PUNCT	_	4	punct
+

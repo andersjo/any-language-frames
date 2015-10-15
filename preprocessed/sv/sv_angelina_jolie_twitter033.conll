@@ -1,0 +1,12 @@
+1	Fyra	_	NUM	NUM	_	2	nummod
+2	sidor	_	NOUN	NOUN	_	3	nmod
+3	Angelina	_	VERB	VERB	_	0	root
+4	Jolie	_	NOUN	NOUN	_	3	dobj
+5	i	_	ADP	ADP	_	6	case
+6	DN-kultur	_	NOUN	NOUN	_	3	nmod
+7	idag	_	ADV	ADV	_	3	advmod
+8	.	_	PUNCT	PUNCT	_	3	punct
+9	Hoppar	_	VERB	VERB	_	3	conj
+10	över	_	ADV	ADV	_	9	advmod
+11	.	_	PUNCT	PUNCT	_	3	punct
+

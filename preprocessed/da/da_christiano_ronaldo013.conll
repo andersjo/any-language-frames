@@ -1,0 +1,24 @@
+1	I	_	ADP	ADP	_	3	case
+2	en	_	DET	DET	_	3	det
+3	alder	_	NOUN	NOUN	_	7	nmod
+4	af	_	ADP	ADP	_	6	case
+5	otte	_	NUM	NUM	_	6	nummod
+6	år	_	NOUN	NOUN	_	3	nmod
+7	spillede	_	VERB	VERB	_	0	root
+8	han	_	PRON	PRON	_	7	nsubj
+9	på	_	ADP	ADP	_	10	case
+10	amatørholdet	_	NOUN	NOUN	_	7	nmod
+11	Andorinha	_	PROPN	PROPN	_	7	nmod
+12	,	_	PUNCT	PUNCT	_	16	punct
+13	hvor	_	ADV	ADV	_	16	advmod
+14	hans	_	DET	DET	_	15	det
+15	far	_	NOUN	NOUN	_	16	nsubj
+16	var	_	VERB	VERB	_	10	acl:relcl
+17	den	_	PRON	PRON	_	16	nsubj
+18	,	_	PUNCT	PUNCT	_	20	punct
+19	der	_	PART	PART	_	20	nsubj
+20	stod	_	VERB	VERB	_	17	acl:relcl
+21	for	_	ADP	ADP	_	22	case
+22	spilledragterne	_	NOUN	NOUN	_	20	nmod
+23	.	_	PUNCT	PUNCT	_	7	punct
+

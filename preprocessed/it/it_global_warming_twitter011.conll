@@ -1,0 +1,26 @@
+1	Adesso	_	ADV	ADV	_	5	advmod
+2	Pecoraro	_	PROPN	PROPN	_	5	nsubj
+3	Scanio	_	PROPN	PROPN	_	2	name
+4	,	_	PUNCT	PUNCT	_	2	punct
+5	Ermete	_	VERB	VERB	_	15	parataxis
+6	Realacci	_	PROPN	PROPN	_	5	nsubj
+7	,	_	PUNCT	PUNCT	_	2	punct
+8	Al	_	ADP	ADP	_	9	case
+9	Gore	_	NOUN	NOUN	_	5	nmod
+10	,	_	PUNCT	PUNCT	_	2	punct
+11	il	_	DET	DET	_	12	det
+12	PD	_	PROPN	PROPN	_	15	nsubj
+13	,	_	PUNCT	PUNCT	_	12	punct
+14	li	_	PRON	PRON	_	15	dobj
+15	pagheranno	_	VERB	VERB	_	0	root
+16	loro	_	DET	DET	_	19	det:predet
+17	tutti	_	DET	DET	_	19	det:predet
+18	i	_	DET	DET	_	19	det
+19	danni	_	NOUN	NOUN	_	15	dobj
+20	che	_	PRON	PRON	_	22	nsubj
+21	hanno	_	AUX	AUX	_	22	aux
+22	fatto	_	VERB	VERB	_	19	acl:relcl
+23	al	_	ADP	ADP	_	25	case
+24	...	_	PUNCT	PUNCT	_	25	punct
+25	http://t.co/jjz1lgFSFp	_	NOUN	NOUN	_	22	nmod
+

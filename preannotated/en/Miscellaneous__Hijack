@@ -1,0 +1,44 @@
+Text	_	
+for	_	Causation Taking_sides
+Event	_	Event
+Extraction	_	Removing
+Workshop	_	Building_subparts
+
+The	_	Self_motion Temporal_collocation
+United	_	
+Nations	_	Political_locales
+says	_	Statement
+Somali	_	
+gunmen	_	Bearing_arms
+who	_	
+hijacked	_	Piracy
+a	_	Measure_duration Process_end Quantity
+U.N.	_	
+-	_	
+chartered	_	Renting
+vessel	_	Vehicle
+carrying	_	Bringing Intentionally_act
+food	_	Food
+aid	_	Assistance
+for	_	Causation Taking_sides
+tsunami	_	
+victims	_	Undergoing
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+released	_	Releasing
+the	_	Self_motion Temporal_collocation
+ship	_	Sending Vehicle
+after	_	Relative_time Time_vector
+holding	_	Inhibit_movement
+it	_	
+for	_	Causation Taking_sides
+more	_	Increment
+than	_	Time_vector
+two	_	Cardinal_numbers
+months	_	Calendric_unit Measure_duration
+.	_	
+
+End	_	Becoming Cause_to_end Process_end Temporal_subregion
+of	_	Age Domain Origin Partitive
+text	_	
+.	_	
+

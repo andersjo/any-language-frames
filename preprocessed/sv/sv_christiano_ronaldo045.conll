@@ -1,0 +1,26 @@
+1	Den	_	DET	DET	_	3	det
+2	26	_	NUM	NUM	_	3	nummod
+3	juni	_	NOUN	NOUN	_	7	nmod
+4	2009	_	NUM	NUM	_	3	nummod
+5	bekräftade	_	ADJ	ADJ	_	6	amod
+6	Real	_	NOUN	NOUN	_	7	nsubj
+7	Madrid	_	VERB	VERB	_	0	root
+8	att	_	SCONJ	SCONJ	_	11	mark
+9	Ronaldo	_	NOUN	NOUN	_	11	nsubj
+10	hade	_	AUX	AUX	_	11	aux
+11	skrivit	_	VERB	VERB	_	7	ccomp
+12	på	_	ADP	ADP	_	15	case
+13	ett	_	DET	DET	_	15	det
+14	sex	_	NUM	NUM	_	15	nummod
+15	år	_	NOUN	NOUN	_	11	nmod
+16	långt	_	ADV	ADV	_	17	advmod
+17	kontrakt	_	NOUN	NOUN	_	15	conj
+18	som	_	PRON	PRON	_	20	nsubj
+19	skulle	_	AUX	AUX	_	20	aux
+20	börja	_	VERB	VERB	_	17	acl:relcl
+21	gälla	_	VERB	VERB	_	20	xcomp
+22	den	_	DET	DET	_	24	det
+23	1	_	NUM	NUM	_	24	nummod
+24	juli	_	NOUN	NOUN	_	21	dobj
+25	.	_	PUNCT	PUNCT	_	7	punct
+

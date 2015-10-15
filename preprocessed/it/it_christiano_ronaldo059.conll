@@ -1,0 +1,11 @@
+1	Il	_	DET	DET	_	2	det
+2	31	_	NUM	NUM	_	3	nummod
+3	dicembre	_	NOUN	NOUN	_	4	nsubj
+4	segna	_	VERB	VERB	_	0	root
+5	2	_	NUM	NUM	_	6	nummod
+6	gol	_	NOUN	NOUN	_	4	dobj
+7	contro	_	ADP	ADP	_	9	case
+8	il	_	DET	DET	_	9	det
+9	Bolton	_	PROPN	PROPN	_	6	nmod
+10	.	_	PUNCT	PUNCT	_	4	punct
+

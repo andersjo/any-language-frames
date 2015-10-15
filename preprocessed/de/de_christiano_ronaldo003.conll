@@ -1,0 +1,18 @@
+1	Er	_	PRON	PRON	_	2	nsubj
+2	steht	_	VERB	VERB	_	0	root
+3	nach	_	ADP	ADP	_	6	case
+4	dem	_	DET	DET	_	6	det
+5	teuersten	_	ADJ	ADJ	_	6	amod
+6	Transfer	_	NOUN	NOUN	_	2	nmod
+7	der	_	DET	DET	_	8	det
+8	Fußballgeschichte	_	NOUN	NOUN	_	6	det
+9	seit	_	ADP	ADP	_	10	case
+10	Sommer	_	NOUN	NOUN	_	2	nmod
+11	2009	_	NUM	NUM	_	10	nmod
+12	bei	_	ADP	ADP	_	14	case
+13	Real	_	PROPN	PROPN	_	14	name
+14	Madrid	_	PROPN	PROPN	_	2	nmod
+15	unter	_	ADP	ADP	_	16	case
+16	Vertrag	_	NOUN	NOUN	_	2	nmod
+17	.	_	PUNCT	PUNCT	_	2	punct
+

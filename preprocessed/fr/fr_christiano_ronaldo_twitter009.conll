@@ -1,0 +1,16 @@
+1	Avez-vous	_	PROPN	PROPN	_	0	root
+2	une	_	DET	DET	_	3	det
+3	idée	_	NOUN	NOUN	_	1	appos
+4	du	_	ADP	ADP	_	5	case
+5	salaire	_	NOUN	NOUN	_	3	nmod
+6	de	_	ADP	ADP	_	8	case
+7	Christiano	_	PROPN	PROPN	_	8	name
+8	#Ronaldo	_	PROPN	PROPN	_	5	nmod
+9	....	_	PUNCT	PUNCT	_	3	punct
+10	par	_	ADP	ADP	_	11	case
+11	seconde	_	NUM	NUM	_	3	nmod
+12	?	_	PUNCT	PUNCT	_	11	punct
+13	http://t.co/inGiLDiJwn	_	PROPN	PROPN	_	15	name
+14	#football	_	PROPN	PROPN	_	15	name
+15	#CR7	_	PROPN	PROPN	_	8	conj
+

@@ -1,0 +1,10 @@
+1	angelina	_	PROPN	PROPN	_	2	compound
+2	jolie	_	PROPN	PROPN	_	4	nsubj
+3	is	_	VERB	VERB	_	4	cop
+4	something	_	NOUN	NOUN	_	0	root
+5	else	_	ADJ	ADJ	_	0	amod
+6	,	_	PUNCT	PUNCT	_	4	punct
+7	sooo	_	ADV	ADV	_	9	advmod
+8	beautiful	_	ADJ	ADJ	_	0	foreign
+9	😨	_	NOUN	NOUN	_	4	amod
+

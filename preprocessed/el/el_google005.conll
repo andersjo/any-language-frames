@@ -1,0 +1,21 @@
+1	Ο	_	ADJ	ADJ	_	2	det
+2	στόχος	_	NOUN	NOUN	_	5	nsubj
+3	της	_	PRON	PRON	_	2	nmod
+4	είναι	_	VERB	VERB	_	5	cop
+5	"	_	PUNCT	PUNCT	_	13	punct
+6	να	_	PART	PART	_	7	aux
+7	οργανώσει	_	VERB	VERB	_	0	root
+8	όλες	_	ADJ	ADJ	_	10	amod
+9	τις	_	ADJ	ADJ	_	10	det
+10	πληροφορίες	_	NOUN	NOUN	_	7	dobj
+11	του	_	ADJ	ADJ	_	12	det
+12	κόσμου	_	NOUN	NOUN	_	10	nmod
+13	και	_	CONJ	CONJ	_	7	cc
+14	να	_	PART	PART	_	16	aux
+15	τις	_	PRON	PRON	_	16	iobj
+16	κάνει	_	VERB	VERB	_	18	cop
+17	παγκόσμια	_	ADJ	ADJ	_	18	amod
+18	διαθέσιμες	_	ADJ	ADJ	_	19	amod
+19	"	_	PUNCT	PUNCT	_	13	punct
+20	.	_	PUNCT	PUNCT	_	7	punct
+

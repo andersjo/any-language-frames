@@ -1,0 +1,26 @@
+1	Nach	_	ADP	ADP	_	3	case
+2	anderer	_	ADJ	ADJ	_	3	amod
+3	Darstellung	_	NOUN	NOUN	_	4	nmod
+4	war	_	VERB	VERB	_	0	root
+5	es	_	PRON	PRON	_	4	expl
+6	nach	_	ADP	ADP	_	7	case
+7	Aufforderung	_	NOUN	NOUN	_	4	nmod
+8	von	_	ADP	ADP	_	10	case
+9	Alexandra	_	PROPN	PROPN	_	10	name
+10	Kollontaj	_	PROPN	PROPN	_	7	nmod
+11	und	_	CONJ	CONJ	_	7	cc
+12	anderen	_	ADJ	ADJ	_	13	amod
+13	Vorkämpferinnen	_	NOUN	NOUN	_	10	conj
+14	Lenin	_	PROPN	PROPN	_	13	appos
+15	,	_	PUNCT	PUNCT	_	13	punct
+16	der	_	PRON	PRON	_	19	nsubj
+17	in	_	ADP	ADP	_	19	case
+18	diesem	_	PRON	PRON	_	19	det
+19	Jahr	_	NOUN	NOUN	_	7	nmod
+20	,	_	PUNCT	PUNCT	_	14	punct
+21	1921	_	NUM	NUM	_	7	conj
+22	,	_	PUNCT	PUNCT	_	14	punct
+23	den	_	DET	DET	_	24	det
+24	8	_	NUM	NUM	_	18	dep
+25	.	_	PUNCT	PUNCT	_	7	punct
+

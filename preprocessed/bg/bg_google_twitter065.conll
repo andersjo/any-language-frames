@@ -1,0 +1,11 @@
+1	Сакам	_	PROPN	PROPN	_	3	nsubj
+2	да	_	PART	PART	_	3	aux
+3	живеам	_	VERB	VERB	_	0	root
+4	во	_	ADJ	ADJ	_	5	amod
+5	Texas	_	NOUN	NOUN	_	3	dobj
+6	само	_	ADV	ADV	_	7	advmod
+7	ради	_	NOUN	NOUN	_	5	nmod
+8	Google	_	PROPN	PROPN	_	7	nmod
+9	Fiber	_	PROPN	PROPN	_	8	nmod
+10	.	_	PUNCT	PUNCT	_	3	punct
+

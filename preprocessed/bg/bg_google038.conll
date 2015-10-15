@@ -1,0 +1,14 @@
+1	Въпреки	_	ADP	ADP	_	2	case
+2	покупката	_	NOUN	NOUN	_	5	nmod
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	Google	_	PROPN	PROPN	_	5	nsubj
+5	оставиха	_	VERB	VERB	_	0	root
+6	65-те	_	ADJ	ADJ	_	7	amod
+7	служители	_	NOUN	NOUN	_	5	dobj
+8	на	_	ADP	ADP	_	9	case
+9	YouTube	_	PROPN	PROPN	_	7	nmod
+10	да	_	PART	PART	_	11	aux
+11	работят	_	VERB	VERB	_	7	acl
+12	самостоятелно	_	ADV	ADV	_	11	advmod
+13	.	_	PUNCT	PUNCT	_	5	punct
+

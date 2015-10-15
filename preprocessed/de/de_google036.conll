@@ -1,0 +1,26 @@
+1	Google	_	PROPN	PROPN	_	3	nsubj
+2	hat	_	AUX	AUX	_	3	aux
+3	angekündigt	_	VERB	VERB	_	0	root
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	sich	_	PRON	PRON	_	12	dobj
+6	nicht	_	PART	PART	_	12	neg
+7	auf	_	ADP	ADP	_	9	case
+8	die	_	DET	DET	_	9	det
+9	Werbung	_	NOUN	NOUN	_	12	nmod
+10	im	_	ADP	ADP	_	11	case
+11	Internet	_	NOUN	NOUN	_	9	nmod
+12	beschränken	_	VERB	VERB	_	3	xcomp
+13	zu	_	PART	PART	_	14	aux
+14	wollen	_	AUX	AUX	_	12	aux
+15	,	_	PUNCT	PUNCT	_	3	punct
+16	sondern	_	CONJ	CONJ	_	3	cc
+17	mittel-	_	ADJ	ADJ	_	24	advmod
+18	und	_	CONJ	CONJ	_	17	cc
+19	langfristig	_	ADJ	ADJ	_	17	conj
+20	am	_	ADP	ADP	_	21	case
+21	Werbemarkt	_	NOUN	NOUN	_	24	nmod
+22	insgesamt	_	ADV	ADV	_	24	advmod
+23	zu	_	PART	PART	_	24	aux
+24	partizipieren	_	VERB	VERB	_	12	conj
+25	.	_	PUNCT	PUNCT	_	3	punct
+

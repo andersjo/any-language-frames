@@ -1,0 +1,13 @@
+1	21	_	NUM	NUM	_	6	nmod
+2	nach	_	ADP	ADP	_	3	case
+3	1	_	PROPN	PROPN	_	5	name
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	bu	_	PROPN	PROPN	_	6	nsubj
+6	liest	_	VERB	VERB	_	0	root
+7	die	_	DET	DET	_	10	det
+8	Harry	_	PROPN	PROPN	_	10	name
+9	Potter	_	PROPN	PROPN	_	10	name
+10	Wiki	_	PROPN	PROPN	_	6	dobj
+11	von	_	ADP	ADP	_	12	case
+12	Wurmschwanz	_	NOUN	NOUN	_	6	nmod
+

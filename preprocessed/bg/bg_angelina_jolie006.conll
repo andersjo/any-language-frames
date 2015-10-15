@@ -1,0 +1,23 @@
+1	През	_	ADP	ADP	_	2	case
+2	2009	_	NUM	NUM	_	7	nmod
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	2011	_	ADJ	ADJ	_	2	conj
+5	и	_	CONJ	CONJ	_	2	cc
+6	2013	_	NUM	NUM	_	2	conj
+7	г	_	NOUN	NOUN	_	16	nsubj
+8	.	_	PUNCT	PUNCT	_	10	punct
+9	според	_	ADP	ADP	_	10	case
+10	списание	_	NOUN	NOUN	_	7	nmod
+11	"	_	PUNCT	PUNCT	_	12	punct
+12	Forbes	_	PROPN	PROPN	_	10	nmod
+13	"	_	PUNCT	PUNCT	_	12	punct
+14	Джоли	_	PROPN	PROPN	_	16	nsubj
+15	е	_	AUX	AUX	_	16	aux
+16	била	_	VERB	VERB	_	0	root
+17	най-високо	_	ADJ	ADJ	_	19	amod
+18	платената	_	ADJ	ADJ	_	19	amod
+19	актриса	_	NOUN	NOUN	_	16	cop
+20	във	_	ADP	ADP	_	21	case
+21	Холивуд	_	NOUN	NOUN	_	19	nmod
+22	.	_	PUNCT	PUNCT	_	16	punct
+

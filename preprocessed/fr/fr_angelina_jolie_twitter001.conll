@@ -1,0 +1,20 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	@niallslayhxran	_	PROPN	PROPN	_	14	nsubj
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	🎥50	_	PROPN	PROPN	_	7	name
+5	QUESTIONS	_	PROPN	PROPN	_	7	name
+6	ABOUT	_	PROPN	PROPN	_	7	name
+7	MOVIE/SERIES🎥	_	PROPN	PROPN	_	2	appos
+8	50	_	NUM	NUM	_	7	nummod
+9	.	_	PUNCT	PUNCT	_	2	punct
+10	une	_	DET	DET	_	11	det
+11	actrice	_	NOUN	NOUN	_	0	root
+12	que	_	SCONJ	SCONJ	_	14	mark
+13	tu	_	PRON	PRON	_	14	nsubj
+14	aimerais	_	VERB	VERB	_	11	ccomp
+15	rencontrer	_	VERB	VERB	_	14	xcomp
+16	?	_	PUNCT	PUNCT	_	11	punct
+17	''	_	PUNCT	PUNCT	_	11	punct
+18	Angelina	_	PROPN	PROPN	_	19	name
+19	Jolie😍	_	PROPN	PROPN	_	15	dobj
+

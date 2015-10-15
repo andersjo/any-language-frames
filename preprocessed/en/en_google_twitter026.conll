@@ -1,0 +1,17 @@
+1	Property	_	NOUN	NOUN	_	2	compound
+2	price	_	NOUN	NOUN	_	3	compound
+3	index	_	NOUN	NOUN	_	4	nsubj
+4	breaking	_	VERB	VERB	_	0	root
+5	new	_	ADJ	ADJ	_	0	foreign
+6	territories	_	NOUN	NOUN	_	4	dobj
+7	then	_	ADV	ADV	_	8	advmod
+8	forced	_	VERB	VERB	_	4	ccomp
+9	new	_	ADJ	ADJ	_	0	foreign
+10	highs	_	NOUN	NOUN	_	8	dobj
+11	http://t.co/LeZx7mbtx7	_	X	X	_	10	advmod
+12	:	_	PUNCT	PUNCT	_	11	punct
+13	Auto	_	NOUN	NOUN	_	14	compound
+14	pickup	_	NOUN	NOUN	_	10	conj
+15	by	_	ADP	ADP	_	13	compound
+16	wikyou	_	PROPN	PROPN	_	14	nmod
+

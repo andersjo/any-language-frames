@@ -1,0 +1,25 @@
+1	OK	_	PROPN	PROPN	_	2	name
+2	Google	_	PROPN	PROPN	_	6	dep
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	"	_	PUNCT	PUNCT	_	6	punct
+5	comment	_	ADV	ADV	_	6	advmod
+6	faire	_	VERB	VERB	_	0	root
+7	pour	_	ADP	ADP	_	11	case
+8	ne	_	ADV	ADV	_	10	neg
+9	pas	_	ADV	ADV	_	11	neg
+10	tomber	_	VERB	VERB	_	11	cop
+11	amoureuse	_	ADJ	ADJ	_	6	advcl
+12	?	_	PUNCT	PUNCT	_	11	punct
+13	"	_	PUNCT	PUNCT	_	14	punct
+14	error	_	PROPN	PROPN	_	23	nsubj
+15	404	_	NUM	NUM	_	16	nummod
+16	not	_	X	X	_	20	compound
+17	found	_	PROPN	PROPN	_	20	name
+18	ok	_	PROPN	PROPN	_	20	name
+19	ta	_	X	X	_	20	compound
+20	mer	_	PROPN	PROPN	_	23	nsubj
+21	tu	_	PRON	PRON	_	23	nmod
+22	vas	_	PROPN	PROPN	_	23	nsubj
+23	souffrir	_	VERB	VERB	_	6	advcl
+24	connasse	_	VERB	VERB	_	23	xcomp
+

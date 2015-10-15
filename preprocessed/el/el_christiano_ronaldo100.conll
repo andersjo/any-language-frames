@@ -1,0 +1,27 @@
+1	Μερικές	_	PRON	PRON	_	0	root
+2	εξ	_	ADP	ADP	_	3	case
+3	αυτών	_	PRON	PRON	_	5	nmod
+4	:	_	PUNCT	PUNCT	_	24	punct
+5	Nike	_	NOUN	NOUN	_	1	appos
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	Coca-Cola	_	NOUN	NOUN	_	5	conj
+8	,	_	PUNCT	PUNCT	_	5	punct
+9	Castrol	_	NOUN	NOUN	_	5	conj
+10	,	_	PUNCT	PUNCT	_	5	punct
+11	Konami	_	NOUN	NOUN	_	5	conj
+12	,	_	PUNCT	PUNCT	_	5	punct
+13	Banco	_	NOUN	NOUN	_	15	nmod
+14	Espirito	_	NOUN	NOUN	_	15	nmod
+15	Santo	_	NOUN	NOUN	_	5	conj
+16	,	_	PUNCT	PUNCT	_	15	punct
+17	Motorola	_	NOUN	NOUN	_	15	conj
+18	,	_	PUNCT	PUNCT	_	15	punct
+19	Jacob	_	NOUN	NOUN	_	20	nmod
+20	&	_	NOUN	NOUN	_	15	appos
+21	Co	_	NOUN	NOUN	_	20	nmod
+22	.,	_	NOUN	NOUN	_	21	nmod
+23	Herbalife	_	NOUN	NOUN	_	22	nmod
+24	και	_	CONJ	CONJ	_	5	cc
+25	KFC	_	NOUN	NOUN	_	23	conj
+26	.	_	PUNCT	PUNCT	_	1	punct
+

@@ -1,0 +1,23 @@
+1	Ronaldo	_	PROPN	PROPN	_	8	nsubj
+2	was	_	VERB	VERB	_	6	cop
+3	popular	_	ADJ	ADJ	_	0	ccomp
+4	with	_	ADP	ADP	_	2	compound:prt
+5	other	_	ADJ	ADJ	_	0	foreign
+6	students	_	NOUN	NOUN	_	8	compound
+7	at	_	ADP	ADP	_	2	compound:prt
+8	school	_	NOUN	NOUN	_	0	root
+9	,	_	PUNCT	PUNCT	_	6	punct
+10	but	_	CONJ	CONJ	_	6	cc
+11	he	_	PRON	PRON	_	13	nsubjpass
+12	was	_	AUX	AUX	_	13	auxpass
+13	expelled	_	VERB	VERB	_	2	ccomp
+14	after	_	SCONJ	SCONJ	_	16	mark
+15	he	_	PRON	PRON	_	16	nsubj
+16	threw	_	VERB	VERB	_	13	advcl
+17	a	_	DET	DET	_	18	det
+18	chair	_	NOUN	NOUN	_	16	dobj
+19	at	_	ADP	ADP	_	16	compound:prt
+20	his	_	PRON	PRON	_	21	nmod:poss
+21	teacher	_	NOUN	NOUN	_	16	dobj
+22	.	_	PUNCT	PUNCT	_	13	punct
+

@@ -1,0 +1,17 @@
+1	Ich	_	PRON	PRON	_	2	nsubj
+2	spüre	_	VERB	VERB	_	0	root
+3	negative	_	ADJ	ADJ	_	4	amod
+4	Stimmung	_	NOUN	NOUN	_	2	dobj
+5	aufkommen	_	VERB	VERB	_	2	xcomp
+6	.	_	PUNCT	PUNCT	_	2	punct
+7	HARRY	_	PROPN	PROPN	_	8	name
+8	POTTER	_	PROPN	PROPN	_	9	name
+9	BRÜSTE	_	PROPN	PROPN	_	10	name
+10	ED	_	PROPN	PROPN	_	11	name
+11	SHEERAN	_	PROPN	PROPN	_	14	name
+12	YOUTUBE	_	PROPN	PROPN	_	14	name
+13	FANFICTION	_	PROPN	PROPN	_	14	name
+14	SEX	_	PROPN	PROPN	_	15	nsubj
+15	Kommt	_	VERB	VERB	_	5	parataxis
+16	schon	_	ADV	ADV	_	15	advmod
+

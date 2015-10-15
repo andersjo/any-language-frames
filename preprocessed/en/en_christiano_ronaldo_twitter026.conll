@@ -1,0 +1,22 @@
+1	Who	_	PRON	PRON	_	2	nmod:poss
+2	kids	_	NOUN	NOUN	_	4	nsubj
+3	most	_	ADV	ADV	_	4	advmod
+4	want	_	VERB	VERB	_	0	root
+5	to	_	PART	PART	_	6	mark
+6	meet	_	VERB	VERB	_	4	xcomp
+7	:	_	PUNCT	PUNCT	_	6	punct
+8	#WorldCup	_	ADJ	ADJ	_	0	appos
+9	players	_	NOUN	NOUN	_	6	dobj
+10	Christiano	_	PROPN	PROPN	_	11	compound
+11	Ronaldo	_	PROPN	PROPN	_	15	nsubj
+12	and	_	CONJ	CONJ	_	11	cc
+13	Lionel	_	PROPN	PROPN	_	14	compound
+14	Messi	_	PROPN	PROPN	_	11	conj
+15	made	_	VERB	VERB	_	9	acl:relcl
+16	the	_	DET	DET	_	18	det
+17	long	_	ADJ	ADJ	_	0	foreign
+18	list	_	NOUN	NOUN	_	15	dobj
+19	.	_	PUNCT	PUNCT	_	6	punct
+20	#kidscoop	_	X	X	_	18	appos
+21	http://t.co/TuXDY8aiOx	_	X	X	_	20	compound
+

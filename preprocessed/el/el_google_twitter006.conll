@@ -1,0 +1,14 @@
+1	Ακούστε	_	VERB	VERB	_	0	root
+2	ΤΑ	_	ADJ	ADJ	_	3	amod
+3	ΥΠ’	_	NOUN	NOUN	_	1	dobj
+4	ΌΨΙΝ	_	NOUN	NOUN	_	3	nmod
+5	της	_	ADJ	ADJ	_	7	det
+6	4	_	NUM	NUM	_	7	nummod
+7	Ιανουαρίου	_	NOUN	NOUN	_	4	nmod
+8	2015	_	NUM	NUM	_	7	nmod
+9	εδώ	_	ADV	ADV	_	8	advmod
+10	:	_	PUNCT	PUNCT	_	12	punct
+11	https://t.co/YjGIl42ofo	_	NOUN	NOUN	_	12	nmod
+12	...	_	NOUN	NOUN	_	7	appos
+13	http://t.co/QFhm6tBAiB	_	NOUN	NOUN	_	12	nmod
+

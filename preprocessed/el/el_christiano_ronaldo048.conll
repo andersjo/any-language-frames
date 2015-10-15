@@ -1,0 +1,21 @@
+1	Στις	_	ADP	ADP	_	3	case
+2	20	_	NUM	NUM	_	3	nmod
+3	Απριλίου	_	NOUN	NOUN	_	5	nsubj
+4	2011	_	NUM	NUM	_	3	nmod
+5	σκοράρει	_	VERB	VERB	_	0	root
+6	με	_	ADP	ADP	_	7	case
+7	κεφαλιά	_	NOUN	NOUN	_	5	nmod
+8	και	_	CONJ	CONJ	_	5	cc
+9	χαρίζει	_	VERB	VERB	_	5	conj
+10	στην	_	ADP	ADP	_	11	case
+11	ομάδα	_	NOUN	NOUN	_	9	nmod
+12	του	_	ADJ	ADJ	_	14	det
+13	το	_	ADJ	ADJ	_	14	det
+14	Κύπελλο	_	NOUN	NOUN	_	11	nmod
+15	Ισπανίας	_	NOUN	NOUN	_	14	nmod
+16	,	_	PUNCT	PUNCT	_	15	punct
+17	κόντρα	_	NOUN	NOUN	_	15	conj
+18	στη	_	ADP	ADP	_	19	case
+19	Μπαρτσελόνα	_	NOUN	NOUN	_	17	nmod
+20	.	_	PUNCT	PUNCT	_	5	punct
+

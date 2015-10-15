@@ -1,0 +1,25 @@
+1	Årets	_	NOUN	NOUN	_	3	nmod:poss
+2	sista	_	ADJ	ADJ	_	3	det
+3	recension	_	NOUN	NOUN	_	6	nsubj
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	Tacos	_	NOUN	NOUN	_	6	nsubj
+6	&	_	VERB	VERB	_	21	advcl
+7	Tequila	_	ADJ	ADJ	_	6	xcomp
+8	i	_	ADP	ADP	_	9	case
+9	Gbg	_	NOUN	NOUN	_	6	nmod
+10	.	_	PUNCT	PUNCT	_	6	punct
+11	Vars	_	DET	DET	_	12	nmod:poss
+12	Frozen	_	NOUN	NOUN	_	13	nmod:poss
+13	margarita	_	NOUN	NOUN	_	21	nmod
+14	är	_	AUX	AUX	_	18	cop
+15	som	_	PRON	PRON	_	18	nsubj
+16	global	_	ADJ	ADJ	_	17	amod
+17	warming	_	NOUN	NOUN	_	18	nmod:poss
+18	svept	_	NOUN	NOUN	_	21	nsubj
+19	i	_	ADP	ADP	_	20	case
+20	lime	_	NOUN	NOUN	_	18	nmod
+21	http://t.co/sZkZ4ysCH4	_	VERB	VERB	_	0	root
+22	@Vinbanken	_	NOUN	NOUN	_	21	dobj
+23	.	_	PUNCT	PUNCT	_	6	punct
+24	se	_	VERB	VERB	_	3	parataxis
+

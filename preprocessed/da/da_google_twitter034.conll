@@ -1,0 +1,8 @@
+1	fashion	_	VERB	VERB	_	0	root
+2	design	_	NOUN	NOUN	_	3	nmod:poss
+3	dress	_	NOUN	NOUN	_	1	dobj
+4	-	_	PUNCT	PUNCT	_	1	punct
+5	Google	_	NOUN	NOUN	_	6	nmod:poss
+6	Afbeeldingen	_	NOUN	NOUN	_	7	nmod:poss
+7	http://t.co/jaKQtj6FTS	_	NOUN	NOUN	_	3	conj
+

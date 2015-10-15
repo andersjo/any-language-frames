@@ -1,0 +1,14 @@
+1	Κοπανάς	_	NOUN	NOUN	_	0	root
+2	πάνω	_	ADV	ADV	_	1	advmod
+3	στο	_	ADP	ADP	_	4	case
+4	καλοριφέρ	_	NOUN	NOUN	_	2	nmod
+5	και	_	CONJ	CONJ	_	4	cc
+6	αποκτάς	_	ADJ	ADJ	_	7	amod
+7	σημάδι	_	NOUN	NOUN	_	4	conj
+8	αλά	_	ADJ	ADJ	_	9	amod
+9	Harry	_	NOUN	NOUN	_	7	nmod
+10	Potter	_	NOUN	NOUN	_	9	nmod
+11	.	_	PUNCT	PUNCT	_	1	punct
+12	#nopointkarma	_	NOUN	NOUN	_	4	conj
+13	#fuckyouheatingbody	_	NOUN	NOUN	_	12	nmod
+

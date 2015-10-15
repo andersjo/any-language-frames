@@ -1,0 +1,27 @@
+1	En	_	ADP	ADP	_	2	case
+2	2007	_	NUM	NUM	_	6	nmod
+3	,	_	PUNCT	PUNCT	_	6	punct
+4	le	_	DET	DET	_	5	det
+5	CDN	_	PROPN	PROPN	_	6	nsubj
+6	nomme	_	VERB	VERB	_	0	root
+7	le	_	DET	DET	_	8	det
+8	campus	_	NOUN	NOUN	_	6	dobj
+9	du	_	ADP	ADP	_	10	case
+10	club	_	NOUN	NOUN	_	8	nmod
+11	le	_	DET	DET	_	16	det
+12	"	_	PUNCT	PUNCT	_	16	punct
+13	Cristiano	_	PROPN	PROPN	_	16	name
+14	Ronaldo	_	PROPN	PROPN	_	16	name
+15	Campus	_	PROPN	PROPN	_	16	name
+16	Futebol	_	PROPN	PROPN	_	10	appos
+17	"	_	PUNCT	PUNCT	_	16	punct
+18	en	_	ADP	ADP	_	19	case
+19	hommage	_	NOUN	NOUN	_	16	nmod
+20	à	_	ADP	ADP	_	22	case
+21	son	_	DET	DET	_	22	nmod:poss
+22	passage	_	NOUN	NOUN	_	19	nmod
+23	dans	_	ADP	ADP	_	25	case
+24	le	_	DET	DET	_	25	det
+25	club	_	NOUN	NOUN	_	22	nmod
+26	.	_	PUNCT	PUNCT	_	6	punct
+

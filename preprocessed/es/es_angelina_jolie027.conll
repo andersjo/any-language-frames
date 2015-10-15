@@ -1,0 +1,15 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	4	nsubj
+3	es	_	VERB	VERB	_	4	cop
+4	hija	_	NOUN	NOUN	_	0	root
+5	de	_	ADP	ADP	_	7	case
+6	los	_	DET	DET	_	7	det
+7	artistas	_	NOUN	NOUN	_	4	nmod
+8	:	_	PUNCT	PUNCT	_	4	punct
+9	Jon	_	PROPN	PROPN	_	10	name
+10	Voight	_	PROPN	PROPN	_	7	appos
+11	y	_	CONJ	CONJ	_	10	cc
+12	Marcheline	_	PROPN	PROPN	_	13	name
+13	Bertrand	_	PROPN	PROPN	_	10	conj
+14	.	_	PUNCT	PUNCT	_	4	punct
+

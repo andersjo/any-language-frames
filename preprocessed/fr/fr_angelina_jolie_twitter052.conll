@@ -1,0 +1,25 @@
+1	@Agron_94	_	PROPN	PROPN	_	3	name
+2	Angelina	_	PROPN	PROPN	_	3	name
+3	Jolie	_	PROPN	PROPN	_	5	nsubj
+4	elle	_	PRON	PRON	_	5	nsubj
+5	rhabille	_	VERB	VERB	_	0	root
+6	la	_	DET	DET	_	7	det
+7	mère	_	NOUN	NOUN	_	5	dobj
+8	de	_	ADP	ADP	_	11	case
+9	tout	_	DET	DET	_	11	det
+10	le	_	DET	DET	_	11	det
+11	monde	_	NOUN	NOUN	_	5	nmod
+12	😍	_	PROPN	PROPN	_	11	appos
+13	mais	_	CONJ	CONJ	_	5	cc
+14	je	_	PRON	PRON	_	15	nsubj
+15	parle	_	VERB	VERB	_	5	conj
+16	de	_	ADP	ADP	_	18	case
+17	Kylie	_	PROPN	PROPN	_	18	name
+18	pcq	_	PROPN	PROPN	_	15	nmod
+19	elle	_	PRON	PRON	_	22	nsubj
+20	est	_	VERB	VERB	_	22	cop
+21	+	_	PUNCT	PUNCT	_	12	punct
+22	jeune	_	ADJ	ADJ	_	23	mwe
+23	que	_	SCONJ	SCONJ	_	24	mark
+24	moi	_	PRON	PRON	_	15	conj
+

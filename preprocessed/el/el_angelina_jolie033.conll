@@ -1,0 +1,11 @@
+1	Η	_	ADJ	ADJ	_	2	det
+2	Ζαχάρα	_	NOUN	NOUN	_	5	nsubj
+3	γεννήθηκε	_	VERB	VERB	_	5	cop
+4	ως	_	ADV	ADV	_	5	case
+5	Γιεμσράχ	_	NOUN	NOUN	_	0	root
+6	τον	_	ADJ	ADJ	_	7	det
+7	Ιανουάριο	_	NOUN	NOUN	_	5	nmod
+8	του	_	ADJ	ADJ	_	9	det
+9	2005	_	NOUN	NOUN	_	7	nmod
+10	.	_	PUNCT	PUNCT	_	3	punct
+

@@ -1,0 +1,8 @@
+1	qmd	_	ADJ	ADJ	_	2	amod
+2	q	_	NOUN	NOUN	_	0	root
+3	a	_	X	X	_	2	appos
+4	Angelina	_	PROPN	PROPN	_	3	name
+5	Jolie	_	NOUN	NOUN	_	4	dep
+6	me	_	X	X	_	5	dep
+7	adoptasse	_	NOUN	NOUN	_	6	dep
+

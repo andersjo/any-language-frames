@@ -1,0 +1,23 @@
+1	S’il	_	PROPN	PROPN	_	2	nsubj
+2	sait	_	VERB	VERB	_	0	root
+3	rester	_	VERB	VERB	_	4	cop
+4	modeste	_	ADJ	ADJ	_	2	conj
+5	comme	_	ADP	ADP	_	7	case
+6	Luís	_	PROPN	PROPN	_	7	name
+7	Figo	_	PROPN	PROPN	_	4	nmod
+8	,	_	PUNCT	PUNCT	_	2	punct
+9	il	_	PRON	PRON	_	11	nsubj
+10	peut	_	AUX	AUX	_	11	aux
+11	devenir	_	VERB	VERB	_	15	cop
+12	le	_	DET	DET	_	15	det
+13	plus	_	ADV	ADV	_	14	advmod
+14	grand	_	ADJ	ADJ	_	15	amod
+15	joueur	_	NOUN	NOUN	_	7	acl:relcl
+16	portugais	_	ADJ	ADJ	_	15	amod
+17	de	_	ADP	ADP	_	20	case
+18	tous	_	DET	DET	_	20	det
+19	les	_	DET	DET	_	20	det
+20	temps	_	NOUN	NOUN	_	15	nmod
+21	»	_	PUNCT	PUNCT	_	15	punct
+22	.	_	PUNCT	PUNCT	_	2	punct
+

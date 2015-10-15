@@ -1,0 +1,13 @@
+1	Chagrijnig	_	NOUN	NOUN	_	0	root
+2	'	_	PUNCT	PUNCT	_	1	punct
+3	Grumpy	_	NOUN	NOUN	_	1	conj
+4	'	_	PUNCT	PUNCT	_	1	punct
+5	Kat	_	NOUN	NOUN	_	6	nmod:poss
+6	Verdient	_	NOUN	NOUN	_	7	name
+7	Meer	_	PROPN	PROPN	_	1	appos
+8	Dan	_	PROPN	PROPN	_	7	name
+9	Christiano	_	PROPN	PROPN	_	7	name
+10	Ronaldo	_	PROPN	PROPN	_	7	name
+11	http://t.co/52sG6OLxF4	_	PROPN	PROPN	_	7	name
+12	#TrendNova	_	PROPN	PROPN	_	7	name
+

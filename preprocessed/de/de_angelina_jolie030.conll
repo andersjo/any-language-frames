@@ -1,0 +1,10 @@
+1	Karrierebeginn	_	NOUN	NOUN	_	0	root
+2	(	_	PUNCT	PUNCT	_	3	punct
+3	1982	_	NUM	NUM	_	1	appos
+4	;	_	PUNCT	PUNCT	_	3	punct
+5	1991	_	NUM	NUM	_	6	nummod
+6	–	_	NOUN	NOUN	_	1	appos
+7	1997	_	NUM	NUM	_	6	appos
+8	)	_	PUNCT	PUNCT	_	6	punct
+9	.	_	PUNCT	PUNCT	_	1	punct
+

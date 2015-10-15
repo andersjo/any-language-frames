@@ -1,0 +1,16 @@
+1	Абсолютно	_	ADV	ADV	_	2	advmod
+2	съм	_	VERB	VERB	_	12	advcl
+3	съгласен	_	ADJ	ADJ	_	2	cop
+4	с	_	ADP	ADP	_	5	case
+5	анализът	_	NOUN	NOUN	_	3	nmod
+6	ти	_	PRON	PRON	_	5	case
+7	.	_	PUNCT	PUNCT	_	2	punct
+8	Моят	_	DET	DET	_	9	det
+9	цел	_	NOUN	NOUN	_	12	nsubj
+10	при	_	ADP	ADP	_	11	case
+11	долар/йена	_	NOUN	NOUN	_	9	nmod
+12	е	_	VERB	VERB	_	0	root
+13	същата	_	ADJ	ADJ	_	12	cop
+14	.	_	PUNCT	PUNCT	_	2	punct
+15	https://t.co/Cxz0BGWbOB	_	PROPN	PROPN	_	12	cop
+

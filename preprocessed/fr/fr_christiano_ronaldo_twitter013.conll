@@ -1,0 +1,10 @@
+1	christiano	_	PROPN	PROPN	_	2	name
+2	Ronaldo	_	PROPN	PROPN	_	0	root
+3	et	_	CONJ	CONJ	_	2	cc
+4	messi	_	PROPN	PROPN	_	5	name
+5	c'est	_	PROPN	PROPN	_	2	conj
+6	comme	_	ADP	ADP	_	7	case
+7	rohff	_	PROPN	PROPN	_	5	nmod
+8	et	_	CONJ	CONJ	_	7	cc
+9	booba	_	PROPN	PROPN	_	2	conj
+

@@ -1,0 +1,17 @@
+1	La	_	DET	DET	_	2	det
+2	plupart	_	NOUN	NOUN	_	3	nsubj
+3	travaillent	_	VERB	VERB	_	0	root
+4	au	_	ADP	ADP	_	5	case
+5	siège	_	NOUN	NOUN	_	3	nmod
+6	mondial	_	ADJ	ADJ	_	5	amod
+7	:	_	PUNCT	PUNCT	_	3	punct
+8	le	_	DET	DET	_	9	det
+9	Googleplex	_	PROPN	PROPN	_	5	appos
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	à	_	ADP	ADP	_	13	case
+12	Mountain	_	PROPN	PROPN	_	13	name
+13	View	_	PROPN	PROPN	_	9	nmod
+14	en	_	ADP	ADP	_	15	case
+15	Californie	_	PROPN	PROPN	_	13	nmod
+16	.	_	PUNCT	PUNCT	_	3	punct
+

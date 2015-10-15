@@ -1,0 +1,16 @@
+1	Ενώ	_	CONJ	CONJ	_	4	mark
+2	το	_	ADJ	ADJ	_	3	det
+3	2013	_	NOUN	NOUN	_	4	nsubj
+4	πέτυχε	_	VERB	VERB	_	0	root
+5	και	_	CONJ	CONJ	_	9	cc
+6	το	_	ADJ	ADJ	_	7	det
+7	πρώτο	_	NUM	NUM	_	4	dobj
+8	του	_	ADJ	ADJ	_	9	det
+9	χατ-τρικ	_	NOUN	NOUN	_	7	nmod
+10	με	_	ADP	ADP	_	14	case
+11	την	_	ADJ	ADJ	_	14	det
+12	Εθνική	_	ADJ	ADJ	_	7	amod
+13	του	_	ADJ	ADJ	_	14	det
+14	ομάδα	_	NOUN	NOUN	_	12	nmod
+15	.	_	PUNCT	PUNCT	_	4	punct
+

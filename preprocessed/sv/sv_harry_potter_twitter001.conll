@@ -1,0 +1,15 @@
+1	@linnea_pinnea	_	NOUN	NOUN	_	2	nsubj
+2	e	_	VERB	VERB	_	0	root
+3	nog	_	ADV	ADV	_	2	advmod
+4	ensam	_	ADJ	ADJ	_	2	xcomp
+5	på	_	ADP	ADP	_	6	case
+6	jorden	_	NOUN	NOUN	_	2	nmod
+7	av	_	ADP	ADP	_	10	case
+8	att	_	PART	PART	_	10	mark
+9	bara	_	ADV	ADV	_	10	advmod
+10	ha	_	VERB	VERB	_	2	advcl
+11	sett	_	ADJ	ADJ	_	14	amod
+12	första	_	ADJ	ADJ	_	14	det
+13	harry	_	ADJ	ADJ	_	14	amod
+14	potter😶	_	NOUN	NOUN	_	10	dobj
+

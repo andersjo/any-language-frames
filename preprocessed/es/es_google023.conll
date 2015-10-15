@@ -1,0 +1,15 @@
+1	En	_	ADP	ADP	_	2	case
+2	diciembre	_	PROPN	PROPN	_	7	nmod
+3	de	_	ADP	ADP	_	5	case
+4	ese	_	DET	DET	_	5	det
+5	año	_	NOUN	NOUN	_	2	nmod
+6	se	_	PRON	PRON	_	7	iobj
+7	lanza	_	VERB	VERB	_	0	root
+8	Google	_	PROPN	PROPN	_	9	name
+9	Print	_	PROPN	PROPN	_	7	nsubj
+10	,	_	PUNCT	PUNCT	_	12	punct
+11	posteriormente	_	ADV	ADV	_	13	advmod
+12	Google	_	PROPN	PROPN	_	13	name
+13	Libros	_	PROPN	PROPN	_	9	conj
+14	.	_	PUNCT	PUNCT	_	7	punct
+

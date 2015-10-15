@@ -1,0 +1,25 @@
+1	Une	_	DET	DET	_	3	det
+2	première	_	ADJ	ADJ	_	3	amod
+3	Journée	_	PROPN	PROPN	_	15	nmod
+4	nationale	_	ADJ	ADJ	_	3	amod
+5	de	_	ADP	ADP	_	7	case
+6	la	_	DET	DET	_	7	det
+7	femme	_	NOUN	NOUN	_	3	nmod
+8	(«	_	ADJ	ADJ	_	7	amod
+9	"	_	PUNCT	PUNCT	_	12	punct
+10	National	_	PROPN	PROPN	_	12	name
+11	Woman's	_	PROPN	PROPN	_	12	name
+12	Day	_	PROPN	PROPN	_	14	name
+13	"	_	PUNCT	PUNCT	_	12	punct
+14	»)	_	PROPN	PROPN	_	15	nsubj
+15	a	_	VERB	VERB	_	0	root
+16	lieu	_	NOUN	NOUN	_	15	dobj
+17	le	_	PRON	PRON	_	15	dobj
+18	à	_	ADP	ADP	_	19	case
+19	l'appel	_	NOUN	NOUN	_	15	nmod
+20	du	_	ADP	ADP	_	21	case
+21	Parti	_	PROPN	PROPN	_	19	nmod
+22	socialiste	_	ADJ	ADJ	_	21	amod
+23	d'Amérique	_	NOUN	NOUN	_	21	appos
+24	.	_	PUNCT	PUNCT	_	15	punct
+

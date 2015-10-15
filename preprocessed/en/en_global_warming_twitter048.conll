@@ -1,0 +1,16 @@
+1	wheres	_	NOUN	NOUN	_	0	root
+2	the	_	DET	DET	_	4	det
+3	global	_	ADJ	ADJ	_	0	iobj
+4	warming	_	NOUN	NOUN	_	1	conj
+5	when	_	ADV	ADV	_	7	advmod
+6	its	_	PRON	PRON	_	7	nsubj
+7	needed	_	VERB	VERB	_	1	acl:relcl
+8	?	_	PUNCT	PUNCT	_	4	punct
+9	Cant	_	PROPN	PROPN	_	11	nsubj
+10	be	_	AUX	AUX	_	11	aux
+11	doing	_	VERB	VERB	_	7	ccomp
+12	with	_	ADP	ADP	_	11	compound:prt
+13	this	_	DET	DET	_	14	det
+14	iceyness	_	NOUN	NOUN	_	11	dobj
+15	.	_	PUNCT	PUNCT	_	11	punct
+

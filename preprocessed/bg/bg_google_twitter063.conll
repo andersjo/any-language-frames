@@ -1,0 +1,17 @@
+1	Добър	_	ADJ	ADJ	_	2	amod
+2	анализ	_	NOUN	NOUN	_	0	root
+3	:)	_	PROPN	PROPN	_	2	nmod
+4	(Фундаментален	_	PROPN	PROPN	_	3	name
+5	анализ	_	NOUN	NOUN	_	2	nmod
+6	и	_	CONJ	CONJ	_	2	cc
+7	прогноза	_	NOUN	NOUN	_	5	conj
+8	на	_	ADP	ADP	_	9	case
+9	пазара	_	NOUN	NOUN	_	7	nmod
+10	FOREX	_	PROPN	PROPN	_	9	nmod
+11	за	_	ADP	ADP	_	12	case
+12	EUR/USD	_	NOUN	NOUN	_	9	nmod
+13	и	_	CONJ	CONJ	_	2	cc
+14	GBP/USD	_	PROPN	PROPN	_	10	conj
+15	)	_	PUNCT	PUNCT	_	14	punct
+16	https://t.co/s2fWNsz61H	_	PROPN	PROPN	_	12	conj
+

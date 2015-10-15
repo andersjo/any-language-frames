@@ -1,0 +1,19 @@
+1	#Xbox	_	PROPN	PROPN	_	2	name
+2	#VideoGames	_	PROPN	PROPN	_	3	name
+3	Microsoft	_	PROPN	PROPN	_	6	name
+4	Xbox	_	PROPN	PROPN	_	6	name
+5	360	_	PROPN	PROPN	_	6	name
+6	Core	_	PROPN	PROPN	_	7	det
+7	System	_	NOUN	NOUN	_	0	root
+8	20	_	NUM	NUM	_	9	nummod
+9	GB	_	NOUN	NOUN	_	7	conj
+10	Matte	_	PROPN	PROPN	_	12	name
+11	White	_	PROPN	PROPN	_	12	name
+12	Console	_	PROPN	PROPN	_	9	appos
+13	(	_	PUNCT	PUNCT	_	14	punct
+14	NTSC	_	PROPN	PROPN	_	12	appos
+15	)	_	PUNCT	PUNCT	_	14	punct
+16	http://t.co/l4fV6ruq6h	_	PROPN	PROPN	_	18	name
+17	#Yahoo	_	PROPN	PROPN	_	18	name
+18	#Google	_	PROPN	PROPN	_	14	punct
+

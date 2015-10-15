@@ -1,0 +1,11 @@
+1	David	_	PROPN	PROPN	_	3	nmod:poss
+2	ryall	_	PROPN	PROPN	_	1	name
+3	ator	_	NOUN	NOUN	_	0	root
+4	de	_	DET	DET	_	6	det
+5	harry	_	ADJ	ADJ	_	6	amod
+6	potter	_	NOUN	NOUN	_	7	nmod:poss
+7	parte	_	NOUN	NOUN	_	10	nummod
+8	aos	_	NOUN	NOUN	_	7	dep
+9	79	_	NUM	NUM	_	10	nummod
+10	nos	_	NOUN	NOUN	_	1	list
+

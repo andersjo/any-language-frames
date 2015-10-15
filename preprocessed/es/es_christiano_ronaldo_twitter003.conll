@@ -1,0 +1,18 @@
+1	AC	_	PROPN	PROPN	_	2	name
+2	Milan	_	PROPN	PROPN	_	0	root
+3	(	_	PUNCT	PUNCT	_	4	punct
+4	3	_	NUM	NUM	_	2	appos
+5	)	_	PUNCT	PUNCT	_	4	punct
+6	-	_	PUNCT	PUNCT	_	4	punct
+7	(	_	PUNCT	PUNCT	_	8	punct
+8	3	_	NUM	NUM	_	2	appos
+9	)	_	PUNCT	PUNCT	_	8	punct
+10	Real	_	PROPN	PROPN	_	11	amod
+11	Madrid	_	PROPN	PROPN	_	2	conj
+12	[	_	PUNCT	PUNCT	_	11	punct
+13	Christiano	_	PROPN	PROPN	_	14	name
+14	Ronaldo	_	PROPN	PROPN	_	11	appos
+15	]	_	PUNCT	PUNCT	_	14	punct
+16	#STORECSMQuiz	_	PROPN	PROPN	_	17	name
+17	@storeCSM	_	PROPN	PROPN	_	14	appos
+

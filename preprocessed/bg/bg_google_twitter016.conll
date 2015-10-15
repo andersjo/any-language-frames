@@ -1,0 +1,7 @@
+1	📴Google	_	PROPN	PROPN	_	2	nsubj
+2	анонсировала	_	VERB	VERB	_	0	root
+3	ОС	_	PROPN	PROPN	_	2	dobj
+4	Android	_	PROPN	PROPN	_	3	name
+5	4.4	_	NUM	NUM	_	6	nummod
+6	KitKat	_	NOUN	NOUN	_	2	nmod
+

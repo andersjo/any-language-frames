@@ -1,0 +1,24 @@
+1	Mit	_	ADP	ADP	_	3	case
+2	Manchester	_	PROPN	PROPN	_	3	name
+3	United	_	PROPN	PROPN	_	4	nmod
+4	gewann	_	VERB	VERB	_	0	root
+5	er	_	PRON	PRON	_	4	nsubj
+6	u	_	X	X	_	4	dobj
+7	.	_	PUNCT	PUNCT	_	6	punct
+8	a	_	PROPN	PROPN	_	4	dobj
+9	.	_	PUNCT	PUNCT	_	8	punct
+10	drei	_	NUM	NUM	_	12	nummod
+11	nationale	_	ADJ	ADJ	_	12	amod
+12	Meisterschaften	_	NOUN	NOUN	_	4	dobj
+13	in	_	ADP	ADP	_	14	case
+14	Folge	_	NOUN	NOUN	_	12	nmod
+15	und	_	CONJ	CONJ	_	14	cc
+16	im	_	ADP	ADP	_	17	case
+17	Jahr	_	NOUN	NOUN	_	14	conj
+18	2008	_	NUM	NUM	_	17	nmod
+19	die	_	DET	DET	_	22	det
+20	UEFA	_	PROPN	PROPN	_	22	name
+21	Champions	_	PROPN	PROPN	_	22	name
+22	League	_	PROPN	PROPN	_	12	nmod
+23	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,14 @@
+1	Warum	_	ADV	ADV	_	8	advmod
+2	schneidet	_	VERB	VERB	_	0	root
+3	Sat1	_	PROPN	PROPN	_	5	name
+4	Harry	_	PROPN	PROPN	_	5	name
+5	Potter	_	PROPN	PROPN	_	2	nsubj
+6	denn	_	CONJ	CONJ	_	8	cc
+7	so	_	ADV	ADV	_	8	advmod
+8	stark	_	ADJ	ADJ	_	2	conj
+9	?	_	PUNCT	PUNCT	_	12	punct
+10	Ist	_	VERB	VERB	_	12	cop
+11	ja	_	ADV	ADV	_	12	advmod
+12	extrem	_	ADJ	ADJ	_	2	conj
+13	...	_	PUNCT	PUNCT	_	12	punct
+

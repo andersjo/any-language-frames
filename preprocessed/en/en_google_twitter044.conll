@@ -1,0 +1,26 @@
+1	I	_	PRON	PRON	_	3	nsubj
+2	will	_	AUX	AUX	_	3	aux
+3	get	_	VERB	VERB	_	0	root
+4	your	_	PRON	PRON	_	5	nmod:poss
+5	website	_	NOUN	NOUN	_	3	dobj
+6	atleast	_	ADV	ADV	_	7	advmod
+7	125	_	NUM	NUM	_	8	nummod
+8	Google	_	PROPN	PROPN	_	11	compound
+9	Friendly	_	ADJ	ADJ	_	0	cc
+10	SEO	_	NOUN	NOUN	_	11	compound
+11	Backlinks	_	NOUN	NOUN	_	3	dobj
+12	for	_	ADP	ADP	_	11	compound
+13	$5	_	PROPN	PROPN	_	11	nmod
+14	for	_	ADP	ADP	_	0	punct
+15	$11	_	X	X	_	18	nummod
+16	:	_	PUNCT	PUNCT	_	3	punct
+17	Just	_	ADV	ADV	_	18	advmod
+18	supply	_	VERB	VERB	_	3	parataxis
+19	me	_	PRON	PRON	_	18	dobj
+20	with	_	ADP	ADP	_	18	compound:prt
+21	the	_	DET	DET	_	22	det
+22	URL	_	NOUN	NOUN	_	18	dobj
+23	of	_	ADP	ADP	_	18	compound:prt
+24	…	_	NOUN	NOUN	_	22	nmod
+25	http://t.co/U4itEnfthF	_	X	X	_	24	appos
+

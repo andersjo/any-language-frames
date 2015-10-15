@@ -1,0 +1,25 @@
+1	He	_	PRON	PRON	_	6	nsubj
+2	is	_	VERB	VERB	_	6	cop
+3	the	_	DET	DET	_	6	det
+4	first	_	ADJ	ADJ	_	0	remnant
+5	Portuguese	_	ADJ	ADJ	_	0	case
+6	footballer	_	NOUN	NOUN	_	0	root
+7	to	_	PART	PART	_	8	mark
+8	win	_	VERB	VERB	_	6	acl
+9	two	_	NUM	NUM	_	11	nummod
+10	FIFA/Ballons	_	NOUN	NOUN	_	11	compound
+11	d'Or	_	NOUN	NOUN	_	8	dobj
+12	,	_	PUNCT	PUNCT	_	2	punct
+13	and	_	CONJ	CONJ	_	11	cc
+14	the	_	DET	DET	_	16	det
+15	second	_	ADJ	ADJ	_	0	foreign
+16	player	_	NOUN	NOUN	_	11	conj
+17	to	_	PART	PART	_	18	mark
+18	win	_	VERB	VERB	_	16	acl
+19	three	_	NUM	NUM	_	23	nummod
+20	European	_	ADJ	ADJ	_	0	foreign
+21	Golden	_	NOUN	NOUN	_	22	compound
+22	Shoe	_	NOUN	NOUN	_	23	compound
+23	awards	_	NOUN	NOUN	_	18	dobj
+24	.	_	PUNCT	PUNCT	_	2	punct
+

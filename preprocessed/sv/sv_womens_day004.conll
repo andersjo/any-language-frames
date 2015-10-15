@@ -1,0 +1,19 @@
+1	Vid	_	ADP	ADP	_	3	case
+2	Förenta	_	ADJ	ADJ	_	3	amod
+3	nationernas	_	NOUN	NOUN	_	4	nmod
+4	första	_	ADJ	ADJ	_	6	det
+5	internationella	_	ADJ	ADJ	_	6	amod
+6	kvinnokonferens	_	NOUN	NOUN	_	0	root
+7	i	_	ADP	ADP	_	8	case
+8	Mexiko	_	NOUN	NOUN	_	6	nmod
+9	1975	_	NUM	NUM	_	10	nummod
+10	togs	_	NOUN	NOUN	_	11	det
+11	initiativ	_	NOUN	NOUN	_	6	nmod
+12	till	_	ADP	ADP	_	14	case
+13	att	_	PART	PART	_	14	mark
+14	införa	_	VERB	VERB	_	4	advcl
+15	en	_	DET	DET	_	17	det
+16	gemensam	_	ADJ	ADJ	_	17	amod
+17	kvinnodag	_	NOUN	NOUN	_	14	dobj
+18	.	_	PUNCT	PUNCT	_	11	punct
+

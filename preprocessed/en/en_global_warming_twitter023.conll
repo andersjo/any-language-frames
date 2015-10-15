@@ -1,0 +1,15 @@
+1	“	_	ADJ	ADJ	_	0	cc
+2	@CuteEmergency	_	NOUN	NOUN	_	5	nmod
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	please	_	INTJ	INTJ	_	5	discourse
+5	stop	_	VERB	VERB	_	0	root
+6	global	_	ADJ	ADJ	_	0	foreign
+7	warming	_	NOUN	NOUN	_	5	dobj
+8	..	_	PUNCT	PUNCT	_	7	punct
+9	http://t.co/sredu0FdT8	_	X	X	_	10	advmod
+10	”	_	VERB	VERB	_	5	parataxis
+11	THIS	_	DET	DET	_	12	det
+12	MAKES	_	NOUN	NOUN	_	10	dobj
+13	ME	_	PRON	PRON	_	14	nmod:poss
+14	SAD	_	NOUN	NOUN	_	10	dobj
+

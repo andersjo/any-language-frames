@@ -1,0 +1,11 @@
+1	Interrogée	_	VERB	VERB	_	8	acl
+2	plus	_	ADV	ADV	_	3	advmod
+3	tard	_	ADV	ADV	_	1	advmod
+4	sur	_	ADP	ADP	_	6	case
+5	son	_	DET	DET	_	6	nmod:poss
+6	adolescence	_	NOUN	NOUN	_	1	nmod
+7	,	_	PUNCT	PUNCT	_	9	punct
+8	Angelina	_	PROPN	PROPN	_	9	nsubj
+9	déclare	_	VERB	VERB	_	0	root
+10	:	_	PUNCT	PUNCT	_	9	punct
+

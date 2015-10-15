@@ -1,0 +1,16 @@
+1	Ζώδια	_	NOUN	NOUN	_	7	nsubj
+2	και	_	CONJ	CONJ	_	1	cc
+3	πλανήτες	_	NOUN	NOUN	_	1	conj
+4	:	_	PUNCT	PUNCT	_	7	punct
+5	Οι	_	ADJ	ADJ	_	6	det
+6	ευαίσθητες	_	NOUN	NOUN	_	7	nsubj
+7	μοίρες	_	VERB	VERB	_	0	root
+8	από	_	ADP	ADP	_	9	case
+9	4	_	NUM	NUM	_	7	nmod
+10	έως	_	ADP	ADP	_	12	case
+11	11	_	NUM	NUM	_	12	nummod
+12	Ιανουαρίου	_	NOUN	NOUN	_	7	nmod
+13	-	_	PUNCT	PUNCT	_	15	punct
+14	http://t.co/ZpiFli7f7c	_	NOUN	NOUN	_	7	nmod
+15	#starbuzz	_	NOUN	NOUN	_	14	nmod
+

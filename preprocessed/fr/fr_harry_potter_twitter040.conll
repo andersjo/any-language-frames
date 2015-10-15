@@ -1,0 +1,20 @@
+1	@Le_Harry_Potter	_	PROPN	PROPN	_	3	name
+2	@EstebanCrochet	_	PROPN	PROPN	_	3	name
+3	@malefoy_drago	_	PROPN	PROPN	_	6	name
+4	un	_	DET	DET	_	6	det
+5	boa	_	PROPN	PROPN	_	6	name
+6	constrictor	_	PROPN	PROPN	_	8	nsubj
+7	va	_	AUX	AUX	_	8	aux
+8	accomplir	_	VERB	VERB	_	0	root
+9	la	_	DET	DET	_	11	det
+10	noble	_	ADJ	ADJ	_	11	amod
+11	tâche	_	NOUN	NOUN	_	8	dobj
+12	de	_	ADP	ADP	_	13	case
+13	t'affaiblir	_	VERB	VERB	_	11	acl
+14	un	_	DET	DET	_	15	mwe
+15	peu	_	ADV	ADV	_	16	advmod
+16	plus	_	ADV	ADV	_	19	advmod
+17	je	_	PRON	PRON	_	19	nsubj
+18	suis	_	AUX	AUX	_	19	aux
+19	fatigué😈😈	_	VERB	VERB	_	8	parataxis
+

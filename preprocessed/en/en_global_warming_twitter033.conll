@@ -1,0 +1,9 @@
+1	#Greens	_	PROPN	PROPN	_	2	compound
+2	Global	_	PROPN	PROPN	_	3	compound
+3	Warming	_	NOUN	NOUN	_	0	root
+4	to	_	PART	PART	_	5	mark
+5	increase	_	VERB	VERB	_	3	acl
+6	crime	_	NOUN	NOUN	_	7	compound
+7	levels	_	NOUN	NOUN	_	5	dobj
+8	http://t.co/drqSwyJO75	_	X	X	_	2	list
+

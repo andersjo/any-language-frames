@@ -1,0 +1,12 @@
+1	Negative	_	ADJ	ADJ	_	0	cc
+2	thinking	_	NOUN	NOUN	_	3	nsubj
+3	destroys	_	VERB	VERB	_	0	root
+4	your	_	PRON	PRON	_	6	nmod:poss
+5	brain	_	NOUN	NOUN	_	6	compound
+6	cells	_	NOUN	NOUN	_	3	dobj
+7	and	_	CONJ	CONJ	_	6	cc
+8	causes	_	NOUN	NOUN	_	6	conj
+9	global	_	ADJ	ADJ	_	0	foreign
+10	warming	_	NOUN	NOUN	_	6	conj
+11	.	_	PUNCT	PUNCT	_	3	punct
+

@@ -1,0 +1,19 @@
+1	Angelina	_	NOUN	NOUN	_	2	nmod
+2	Jolie	_	NOUN	NOUN	_	11	nsubj
+3	–	_	NOUN	NOUN	_	2	nmod
+4	Jennifer	_	NOUN	NOUN	_	3	nmod
+5	Aniston	_	NOUN	NOUN	_	4	nmod
+6	:	_	PUNCT	PUNCT	_	11	punct
+7	Για	_	ADP	ADP	_	9	case
+8	πρώτη	_	NUM	NUM	_	9	nummod
+9	φορά	_	NOUN	NOUN	_	11	nsubj
+10	θα	_	PART	PART	_	11	aux
+11	αναμετρηθούν	_	VERB	VERB	_	0	root
+12	μπροστά	_	ADV	ADV	_	11	advmod
+13	στα	_	ADP	ADP	_	14	case
+14	μάτια	_	NOUN	NOUN	_	11	nmod
+15	του	_	ADJ	ADJ	_	16	det
+16	Brad	_	NOUN	NOUN	_	14	nmod
+17	Pitt	_	NOUN	NOUN	_	16	nmod
+18	http://t.co/5xa7HuF48e	_	NOUN	NOUN	_	17	nmod
+

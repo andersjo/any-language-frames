@@ -1,0 +1,19 @@
+1	A	_	ADP	ADP	_	4	case
+2	los	_	DET	DET	_	4	det
+3	catorce	_	NUM	NUM	_	4	nummod
+4	años	_	NOUN	NOUN	_	6	nmod
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	abandonó	_	VERB	VERB	_	0	root
+7	sus	_	DET	DET	_	8	nmod:poss
+8	clases	_	NOUN	NOUN	_	6	dobj
+9	de	_	ADP	ADP	_	10	case
+10	actuación	_	NOUN	NOUN	_	8	nmod
+11	y	_	CONJ	CONJ	_	10	cc
+12	deseó	_	NOUN	NOUN	_	10	conj
+13	convertirse	_	VERB	VERB	_	12	acl
+14	en	_	ADP	ADP	_	16	case
+15	una	_	DET	DET	_	16	det
+16	directora	_	NOUN	NOUN	_	13	nmod
+17	funeraria	_	ADJ	ADJ	_	16	amod
+18	.	_	PUNCT	PUNCT	_	6	punct
+

@@ -1,0 +1,12 @@
+1	Руководители	_	PROPN	PROPN	_	7	nsubj
+2	Microsoft	_	PROPN	PROPN	_	1	nmod
+3	,	_	PUNCT	PUNCT	_	1	punct
+4	Facebook	_	PROPN	PROPN	_	1	conj
+5	и	_	CONJ	CONJ	_	1	cc
+6	Google	_	PROPN	PROPN	_	1	conj
+7	скорбят	_	VERB	VERB	_	0	root
+8	из-за	_	ADJ	ADJ	_	9	amod
+9	смерти	_	NOUN	NOUN	_	7	dobj
+10	Стива	_	PROPN	PROPN	_	9	nmod
+11	Джобса	_	PROPN	PROPN	_	10	name
+

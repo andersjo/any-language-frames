@@ -1,0 +1,12 @@
+1	snape	_	ADJ	ADJ	_	2	amod
+2	is	_	NOUN	NOUN	_	3	nmod:poss
+3	bæ	_	NOUN	NOUN	_	5	dep
+4	(	_	PUNCT	PUNCT	_	5	punct
+5	especially	_	VERB	VERB	_	0	root
+6	during	_	NOUN	NOUN	_	8	nmod:poss
+7	harry	_	ADJ	ADJ	_	8	amod
+8	potter	_	NOUN	NOUN	_	9	nmod:poss
+9	marathons	_	NOUN	NOUN	_	5	dobj
+10	)	_	PUNCT	PUNCT	_	5	punct
+11	http://t.co/Unvz6ZmVy0	_	X	X	_	9	list
+

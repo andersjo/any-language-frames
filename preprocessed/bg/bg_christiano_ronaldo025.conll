@@ -1,0 +1,24 @@
+1	През	_	ADP	ADP	_	2	case
+2	март	_	NOUN	NOUN	_	6	nmod
+3	2012	_	NUM	NUM	_	4	nummod
+4	г	_	NOUN	NOUN	_	2	nmod
+5	.	_	PUNCT	PUNCT	_	2	punct
+6	става	_	VERB	VERB	_	17	ccomp
+7	играчът	_	NOUN	NOUN	_	6	dobj
+8	достигнал	_	VERB	VERB	_	6	ccomp
+9	най-бързо	_	ADV	ADV	_	11	advmod
+10	100	_	NUM	NUM	_	11	nsubj
+11	вкарани	_	VERB	VERB	_	8	ccomp
+12	гола	_	NOUN	NOUN	_	11	dobj
+13	в	_	ADP	ADP	_	14	case
+14	Примера	_	PROPN	PROPN	_	12	nmod
+15	Дивисион	_	PROPN	PROPN	_	14	name
+16	,	_	PUNCT	PUNCT	_	6	punct
+17	вкарвайки	_	VERB	VERB	_	0	root
+18	101	_	NUM	NUM	_	19	nummod
+19	гола	_	NOUN	NOUN	_	17	dobj
+20	в	_	ADP	ADP	_	22	case
+21	92	_	NUM	NUM	_	22	nummod
+22	мача	_	NOUN	NOUN	_	19	nmod
+23	.	_	PUNCT	PUNCT	_	6	punct
+

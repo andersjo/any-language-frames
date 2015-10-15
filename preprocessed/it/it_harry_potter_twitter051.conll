@@ -1,0 +1,19 @@
+1	Entro	_	ADP	ADP	_	3	case
+2	nella	_	ADP	ADP	_	1	mwe
+3	galleria	_	NOUN	NOUN	_	7	nmod
+4	cinema	_	PROPN	PROPN	_	3	nmod
+5	sky	_	PROPN	PROPN	_	4	name
+6	ondemand	_	PROPN	PROPN	_	4	name
+7	digito	_	VERB	VERB	_	0	root
+8	Harry	_	PROPN	PROPN	_	7	dobj
+9	Potter	_	PROPN	PROPN	_	8	name
+10	e	_	CONJ	CONJ	_	8	cc
+11	risultati	_	NOUN	NOUN	_	8	conj
+12	0	_	NUM	NUM	_	13	nummod
+13	QUESTA	_	NOUN	NOUN	_	11	nmod
+14	È	_	VERB	VERB	_	15	cop
+15	LITAGLIA	_	PROPN	PROPN	_	8	conj
+16	SIGNORE	_	PROPN	PROPN	_	15	name
+17	E	_	CONJ	CONJ	_	15	cc
+18	SIGNORI	_	PROPN	PROPN	_	15	conj
+

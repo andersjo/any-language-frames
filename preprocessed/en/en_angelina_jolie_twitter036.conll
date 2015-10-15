@@ -1,0 +1,21 @@
+1	if	_	ADP	ADP	_	0	compound:prt
+2	you	_	PRON	PRON	_	3	nmod:poss
+3	haven't	_	NOUN	NOUN	_	4	nsubj
+4	noticed	_	VERB	VERB	_	1	conj
+5	i	_	PRON	PRON	_	6	nsubj
+6	love	_	VERB	VERB	_	4	ccomp
+7	Angelina	_	PROPN	PROPN	_	8	compound
+8	Jolie	_	PROPN	PROPN	_	6	dobj
+9	and	_	CONJ	CONJ	_	6	cc
+10	would	_	AUX	AUX	_	11	aux
+11	trade	_	VERB	VERB	_	6	conj
+12	my	_	PRON	PRON	_	15	nmod:poss
+13	first	_	ADV	ADV	_	14	advmod
+14	born	_	VERB	VERB	_	11	advcl
+15	child	_	NOUN	NOUN	_	14	dobj
+16	to	_	PART	PART	_	17	mark
+17	look	_	VERB	VERB	_	14	xcomp
+18	like	_	ADP	ADP	_	17	compound:prt
+19	her	_	PRON	PRON	_	20	nmod:poss
+20	oops	_	NOUN	NOUN	_	17	dobj
+

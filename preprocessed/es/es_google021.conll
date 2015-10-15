@@ -1,0 +1,20 @@
+1	En	_	ADP	ADP	_	2	case
+2	febrero	_	PROPN	PROPN	_	6	nmod
+3	de	_	ADP	ADP	_	4	case
+4	2003	_	NUM	NUM	_	2	nmod
+5	Google	_	PROPN	PROPN	_	6	nsubj
+6	adquiere	_	VERB	VERB	_	0	root
+7	Pyra	_	PROPN	PROPN	_	8	name
+8	Labs	_	PROPN	PROPN	_	6	dobj
+9	y	_	CONJ	CONJ	_	8	cc
+10	con	_	ADP	ADP	_	11	case
+11	ello	_	PRON	PRON	_	13	nmod
+12	el	_	DET	DET	_	13	det
+13	servicio	_	NOUN	NOUN	_	8	conj
+14	de	_	ADP	ADP	_	15	case
+15	creación	_	NOUN	NOUN	_	13	nmod
+16	de	_	ADP	ADP	_	17	case
+17	blogs	_	NOUN	NOUN	_	15	nmod
+18	Blogger	_	PROPN	PROPN	_	17	appos
+19	.	_	PUNCT	PUNCT	_	6	punct
+

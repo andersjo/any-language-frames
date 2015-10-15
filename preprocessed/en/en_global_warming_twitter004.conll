@@ -1,0 +1,24 @@
+1	Heatwaves	_	PROPN	PROPN	_	2	nsubj
+2	kill	_	VERB	VERB	_	0	root
+3	poor	_	ADJ	ADJ	_	0	ccomp
+4	old	_	ADJ	ADJ	_	0	foreign
+5	people	_	NOUN	NOUN	_	2	dobj
+6	.	_	PUNCT	PUNCT	_	5	punct
+7	Global	_	ADJ	ADJ	_	0	foreign
+8	warming	_	NOUN	NOUN	_	9	compound
+9	causes	_	NOUN	NOUN	_	5	appos
+10	worse	_	ADJ	ADJ	_	0	foreign
+11	heatwaves	_	NOUN	NOUN	_	9	nmod
+12	.	_	PUNCT	PUNCT	_	11	punct
+13	Poor	_	ADJ	ADJ	_	0	foreign
+14	old	_	ADJ	ADJ	_	0	foreign
+15	people	_	NOUN	NOUN	_	16	nsubj
+16	draw	_	VERB	VERB	_	2	conj
+17	pensions	_	NOUN	NOUN	_	16	dobj
+18	.	_	PUNCT	PUNCT	_	17	punct
+19	Conservatives	_	NOUN	NOUN	_	20	nsubj
+20	deny	_	VERB	VERB	_	16	advcl
+21	global	_	ADJ	ADJ	_	0	foreign
+22	warming	_	NOUN	NOUN	_	20	dobj
+23	.	_	PUNCT	PUNCT	_	20	punct
+

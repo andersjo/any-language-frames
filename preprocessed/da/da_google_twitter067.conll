@@ -1,0 +1,10 @@
+1	Eleven	_	X	X	_	0	root
+2	collaborative	_	ADJ	ADJ	_	3	amod
+3	errors	_	NOUN	NOUN	_	1	dep
+4	mass-produced	_	NOUN	NOUN	_	3	nmod
+5	wherewithal	_	NOUN	NOUN	_	6	nmod:poss
+6	google	_	NOUN	NOUN	_	4	nmod:poss
+7	adwords	_	ADV	ADV	_	6	advmod
+8	:	_	PUNCT	PUNCT	_	7	punct
+9	GmUKiu	_	PROPN	PROPN	_	6	list
+

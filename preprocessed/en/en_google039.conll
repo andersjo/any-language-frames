@@ -1,0 +1,19 @@
+1	Google's	_	PROPN	PROPN	_	2	nsubj
+2	initial	_	VERB	VERB	_	0	root
+3	public	_	ADJ	ADJ	_	0	iobj
+4	offering	_	NOUN	NOUN	_	2	dobj
+5	(	_	PUNCT	PUNCT	_	4	punct
+6	IPO	_	PROPN	PROPN	_	4	appos
+7	)	_	PUNCT	PUNCT	_	8	punct
+8	took	_	VERB	VERB	_	2	advcl
+9	place	_	NOUN	NOUN	_	8	dobj
+10	five	_	NUM	NUM	_	11	nummod
+11	years	_	NOUN	NOUN	_	12	nmod:npmod
+12	later	_	ADV	ADV	_	8	advmod
+13	on	_	ADP	ADP	_	8	compound:prt
+14	August	_	PROPN	PROPN	_	8	nmod
+15	19	_	NUM	NUM	_	14	nummod
+16	,	_	PUNCT	PUNCT	_	14	punct
+17	2004	_	NUM	NUM	_	14	nmod:tmod
+18	.	_	PUNCT	PUNCT	_	8	punct
+

@@ -1,0 +1,25 @@
+1	Du	_	ADP	ADP	_	2	case
+2	fait	_	VERB	VERB	_	10	acl
+3	de	_	ADP	ADP	_	5	case
+4	sa	_	DET	DET	_	5	nmod:poss
+5	qualité	_	NOUN	NOUN	_	2	nmod
+6	de	_	ADP	ADP	_	7	case
+7	jeu	_	NOUN	NOUN	_	5	nmod
+8	,	_	PUNCT	PUNCT	_	10	punct
+9	il	_	PRON	PRON	_	10	nsubj
+10	joue	_	VERB	VERB	_	0	root
+11	fréquemment	_	ADV	ADV	_	10	advmod
+12	contre	_	ADP	ADP	_	14	case
+13	des	_	DET	DET	_	14	det
+14	joueurs	_	NOUN	NOUN	_	10	nmod
+15	de	_	ADP	ADP	_	16	case
+16	un	_	NUM	NUM	_	19	nummod
+17	ou	_	CONJ	CONJ	_	16	cc
+18	deux	_	NUM	NUM	_	16	conj
+19	ans	_	NOUN	NOUN	_	14	nmod
+20	de	_	ADP	ADP	_	21	mwe
+21	plus	_	ADV	ADV	_	19	advmod
+22	que	_	SCONJ	SCONJ	_	21	mwe
+23	lui	_	PRON	PRON	_	19	nmod
+24	.	_	PUNCT	PUNCT	_	10	punct
+

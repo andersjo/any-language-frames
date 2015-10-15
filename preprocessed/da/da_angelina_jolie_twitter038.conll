@@ -1,0 +1,15 @@
+1	@ukuleste	_	ADJ	ADJ	_	4	nsubj
+2	du	_	PRON	PRON	_	4	nsubj
+3	kan	_	AUX	AUX	_	4	aux
+4	tegne	_	VERB	VERB	_	13	dep
+5	angelina	_	NOUN	NOUN	_	6	nmod:poss
+6	jolie	_	NOUN	NOUN	_	4	dobj
+7	eller	_	CONJ	CONJ	_	6	cc
+8	blake	_	ADJ	ADJ	_	9	amod
+9	lively	_	NOUN	NOUN	_	6	conj
+10	,	_	PUNCT	PUNCT	_	13	punct
+11	de	_	PRON	PRON	_	13	nsubjpass
+12	er	_	AUX	AUX	_	13	auxpass
+13	sååå	_	VERB	VERB	_	0	root
+14	pene	_	NOUN	NOUN	_	13	dobj
+

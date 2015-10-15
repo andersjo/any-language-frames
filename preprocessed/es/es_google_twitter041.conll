@@ -1,0 +1,16 @@
+1	Putin	_	PROPN	PROPN	_	0	root
+2	y	_	CONJ	CONJ	_	1	cc
+3	su	_	DET	DET	_	5	nmod:poss
+4	'	_	PUNCT	PUNCT	_	5	punct
+5	jugada	_	NOUN	NOUN	_	1	appos
+6	maestra	_	ADJ	ADJ	_	5	amod
+7	'	_	PUNCT	PUNCT	_	5	punct
+8	tras	_	ADP	ADP	_	10	case
+9	el	_	DET	DET	_	10	det
+10	hundimiento	_	NOUN	NOUN	_	5	nmod
+11	del	_	ADP	ADP	_	12	case
+12	rublo	_	PROPN	PROPN	_	10	nmod
+13	http://t.co/9WXEw6cQc3	_	PROPN	PROPN	_	15	name
+14	#SiguemeyTeSigo	_	PROPN	PROPN	_	15	name
+15	#google	_	PROPN	PROPN	_	12	appos
+

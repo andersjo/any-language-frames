@@ -1,0 +1,20 @@
+1	Ρουά-ματ	_	NOUN	NOUN	_	17	nsubj
+2	στον	_	ADP	ADP	_	3	case
+3	αντ1	_	NOUN	NOUN	_	1	nmod
+4	με	_	ADP	ADP	_	5	case
+5	score	_	NOUN	NOUN	_	3	nmod
+6	από	_	ADP	ADP	_	7	case
+7	Harry	_	NOUN	NOUN	_	5	nmod
+8	Potter	_	NOUN	NOUN	_	7	nmod
+9	and	_	NOUN	NOUN	_	8	nmod
+10	the	_	NOUN	NOUN	_	9	nmod
+11	Goblet	_	NOUN	NOUN	_	10	nmod
+12	of	_	NOUN	NOUN	_	13	nmod
+13	Fire	_	NOUN	NOUN	_	11	nmod
+14	.	_	PUNCT	PUNCT	_	1	punct
+15	Νταξ'	_	NOUN	NOUN	_	13	conj
+16	.	_	PUNCT	PUNCT	_	1	punct
+17	Τα'δα	_	VERB	VERB	_	18	cop
+18	όλα	_	ADJ	ADJ	_	0	root
+19	.	_	PUNCT	PUNCT	_	17	punct
+

@@ -1,0 +1,20 @@
+1	Ronaldo	_	PROPN	PROPN	_	2	nsubj
+2	forblev	_	VERB	VERB	_	0	root
+3	så	_	ADV	ADV	_	2	advmod
+4	i	_	ADP	ADP	_	5	case
+5	klubben	_	NOUN	NOUN	_	2	nmod
+6	,	_	PUNCT	PUNCT	_	2	punct
+7	og	_	CONJ	CONJ	_	2	cc
+8	han	_	PRON	PRON	_	9	nsubj
+9	skrev	_	VERB	VERB	_	2	conj
+10	under	_	ADV	ADV	_	9	advmod
+11	på	_	ADP	ADP	_	15	case
+12	en	_	DET	DET	_	15	det
+13	ny	_	ADJ	ADJ	_	15	amod
+14	femårige	_	ADJ	ADJ	_	15	amod
+15	kontraktforlængelse	_	NOUN	NOUN	_	9	nmod
+16	i	_	ADP	ADP	_	17	case
+17	april	_	NOUN	NOUN	_	9	nmod
+18	2007	_	NUM	NUM	_	17	nmod
+19	.	_	PUNCT	PUNCT	_	2	punct
+

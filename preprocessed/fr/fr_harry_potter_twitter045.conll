@@ -1,0 +1,26 @@
+1	Pendant	_	ADP	ADP	_	6	mark
+2	que	_	SCONJ	SCONJ	_	1	mwe
+3	vous	_	PRON	PRON	_	6	nsubj
+4	allez	_	AUX	AUX	_	6	aux
+5	vous	_	PRON	PRON	_	6	iobj
+6	coucher	_	VERB	VERB	_	0	root
+7	bc	_	NOUN	NOUN	_	6	dobj
+8	vous	_	PRON	PRON	_	9	iobj
+9	avez	_	VERB	VERB	_	7	conj
+10	cours	_	NOUN	NOUN	_	9	dobj
+11	demain	_	ADV	ADV	_	9	advmod
+12	...	_	PUNCT	PUNCT	_	6	punct
+13	moi	_	PRON	PRON	_	10	nmod
+14	je	_	PRON	PRON	_	16	nsubj
+15	vais	_	AUX	AUX	_	16	aux
+16	lire	_	VERB	VERB	_	13	acl:relcl
+17	ma	_	DET	DET	_	18	nmod:poss
+18	vie	_	NOUN	NOUN	_	16	dobj
+19	:	_	PUNCT	PUNCT	_	18	punct
+20	Harry	_	PROPN	PROPN	_	22	name
+21	Potter	_	PROPN	PROPN	_	22	name
+22	>>>>	_	PROPN	PROPN	_	16	nmod
+23	bonne	_	ADJ	ADJ	_	24	amod
+24	rentrée	_	NOUN	NOUN	_	22	nmod
+25	😘😘	_	PROPN	PROPN	_	24	appos
+

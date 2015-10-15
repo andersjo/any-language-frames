@@ -1,0 +1,26 @@
+1	Unas	_	DET	DET	_	3	det
+2	15.000	_	NUM	NUM	_	3	nummod
+3	mujeres	_	NOUN	NOUN	_	11	nsubj
+4	marcharon	_	VERB	VERB	_	3	acl
+5	por	_	ADP	ADP	_	7	case
+6	la	_	DET	DET	_	7	det
+7	ciudad	_	NOUN	NOUN	_	4	nmod
+8	de	_	ADP	ADP	_	10	case
+9	Nueva	_	PROPN	PROPN	_	10	amod
+10	York	_	PROPN	PROPN	_	7	nmod
+11	exigiendo	_	VERB	VERB	_	0	root
+12	una	_	DET	DET	_	13	det
+13	reducción	_	NOUN	NOUN	_	11	dobj
+14	de	_	ADP	ADP	_	16	case
+15	la	_	DET	DET	_	16	det
+16	jornada	_	NOUN	NOUN	_	13	nmod
+17	laboral	_	ADJ	ADJ	_	16	amod
+18	,	_	PUNCT	PUNCT	_	17	punct
+19	mejores	_	ADJ	ADJ	_	20	amod
+20	salarios	_	NOUN	NOUN	_	13	nmod
+21	y	_	CONJ	CONJ	_	20	cc
+22	derechos	_	NOUN	NOUN	_	20	conj
+23	de	_	ADP	ADP	_	24	case
+24	voto	_	NOUN	NOUN	_	22	nmod
+25	.	_	PUNCT	PUNCT	_	4	punct
+

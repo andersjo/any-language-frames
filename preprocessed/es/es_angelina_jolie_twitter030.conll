@@ -1,0 +1,17 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	4	nsubj
+3	es	_	VERB	VERB	_	4	cop
+4	guapa	_	ADJ	ADJ	_	0	root
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	pero	_	CONJ	CONJ	_	4	cc
+7	no	_	ADV	ADV	_	8	neg
+8	creo	_	VERB	VERB	_	4	conj
+9	que	_	SCONJ	SCONJ	_	12	mark
+10	la	_	DET	DET	_	12	det
+11	más	_	ADV	ADV	_	12	advmod
+12	guapa	_	ADJ	ADJ	_	8	ccomp
+13	del	_	ADP	ADP	_	14	case
+14	mundo	_	NOUN	NOUN	_	12	nmod
+15	srsly	_	PROPN	PROPN	_	14	appos
+16	.	_	PUNCT	PUNCT	_	4	punct
+

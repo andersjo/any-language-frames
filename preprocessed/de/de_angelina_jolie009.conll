@@ -1,0 +1,12 @@
+1	Ihre	_	DET	DET	_	2	nmod:poss
+2	Taufpaten	_	NOUN	NOUN	_	5	nsubj
+3	sind	_	VERB	VERB	_	5	cop
+4	die	_	DET	DET	_	5	det
+5	Schauspieler	_	NOUN	NOUN	_	0	root
+6	Jacqueline	_	PROPN	PROPN	_	7	name
+7	Bisset	_	PROPN	PROPN	_	5	appos
+8	und	_	CONJ	CONJ	_	7	cc
+9	Maximilian	_	PROPN	PROPN	_	10	name
+10	Schell	_	PROPN	PROPN	_	7	conj
+11	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,27 @@
+1	Yo	_	PRON	PRON	_	3	nsubj
+2	te	_	PRON	PRON	_	3	dobj
+3	perdono	_	VERB	VERB	_	0	root
+4	@ConMdeMordor	_	PROPN	PROPN	_	3	nsubj
+5	.	_	PUNCT	PUNCT	_	4	punct
+6	Tres	_	NUM	NUM	_	7	nummod
+7	maratones	_	NOUN	NOUN	_	4	appos
+8	de	_	ADP	ADP	_	10	case
+9	Harry	_	PROPN	PROPN	_	10	name
+10	Potter	_	PROPN	PROPN	_	7	nmod
+11	y	_	CONJ	CONJ	_	7	cc
+12	lectura	_	NOUN	NOUN	_	7	conj
+13	de	_	ADP	ADP	_	15	case
+14	dos	_	NUM	NUM	_	15	nummod
+15	libros	_	NOUN	NOUN	_	12	nmod
+16	.	_	PUNCT	PUNCT	_	7	punct
+17	Patronus	_	PROPN	PROPN	_	19	nsubj
+18	te	_	PRON	PRON	_	19	dobj
+19	salve	_	VERB	VERB	_	3	conj
+20	,	_	PUNCT	PUNCT	_	19	punct
+21	llena	_	VERB	VERB	_	19	conj
+22	eres	_	VERB	VERB	_	21	xcomp
+23	de	_	ADP	ADP	_	24	case
+24	gracia	_	NOUN	NOUN	_	22	nmod
+25	.	_	PUNCT	PUNCT	_	3	punct
+26	@DearLaura5	_	X	X	_	22	nmod
+

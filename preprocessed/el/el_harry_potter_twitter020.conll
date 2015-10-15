@@ -1,0 +1,20 @@
+1	@NottiDiCabiria	_	NOUN	NOUN	_	0	root
+2	ακόμη	_	ADV	ADV	_	1	advmod
+3	να	_	PART	PART	_	5	advmod
+4	το	_	ADJ	ADJ	_	5	det
+5	χωνέψω	_	NOUN	NOUN	_	2	nmod
+6	που	_	PRON	PRON	_	18	nsubj
+7	απ'	_	ADP	ADP	_	10	case
+8	όλο	_	ADJ	ADJ	_	10	amod
+9	το	_	ADJ	ADJ	_	10	det
+10	Harry	_	NOUN	NOUN	_	18	nsubj
+11	Potter	_	NOUN	NOUN	_	10	nmod
+12	,	_	PUNCT	PUNCT	_	1	punct
+13	ο	_	ADJ	ADJ	_	14	det
+14	Νέβιλ	_	NOUN	NOUN	_	15	nsubj
+15	έγινε	_	VERB	VERB	_	5	acl:relcl
+16	ο	_	ADJ	ADJ	_	18	det
+17	πιο	_	ADV	ADV	_	18	amod
+18	παίδαρος	_	NOUN	NOUN	_	15	nsubj
+19	.	_	PUNCT	PUNCT	_	15	punct
+

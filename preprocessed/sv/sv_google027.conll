@@ -1,0 +1,12 @@
+1	Innan	_	SCONJ	SCONJ	_	3	mark
+2	Google	_	PROPN	PROPN	_	3	nsubjpass
+3	slog	_	VERB	VERB	_	0	root
+4	igenom	_	ADP	ADP	_	3	compound:prt
+5	var	_	DET	DET	_	7	det
+6	andra	_	ADJ	ADJ	_	7	det
+7	söktjänster	_	NOUN	NOUN	_	3	nmod
+8	som	_	PRON	PRON	_	9	nsubj
+9	Altavista	_	VERB	VERB	_	7	acl:relcl
+10	dominerande	_	ADJ	ADJ	_	9	xcomp
+11	.	_	PUNCT	PUNCT	_	3	punct
+

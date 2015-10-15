@@ -1,0 +1,14 @@
+1	En	_	ADP	ADP	_	2	case
+2	octubre	_	PROPN	PROPN	_	6	nmod
+3	de	_	ADP	ADP	_	5	case
+4	ese	_	DET	DET	_	5	det
+5	año	_	NOUN	NOUN	_	2	nmod
+6	lanzan	_	VERB	VERB	_	0	root
+7	Google	_	PROPN	PROPN	_	8	name
+8	Desktop	_	PROPN	PROPN	_	6	nsubj
+9	,	_	PUNCT	PUNCT	_	12	punct
+10	que	_	SCONJ	SCONJ	_	12	mark
+11	será	_	AUX	AUX	_	12	aux
+12	descontinuado	_	VERB	VERB	_	8	acl:relcl
+13	.	_	PUNCT	PUNCT	_	6	punct
+

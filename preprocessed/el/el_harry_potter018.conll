@@ -1,0 +1,16 @@
+1	Έτσι	_	ADV	ADV	_	4	advmod
+2	,	_	PUNCT	PUNCT	_	4	punct
+3	τo	_	NOUN	NOUN	_	4	nsubj
+4	αναγνωστικό	_	VERB	VERB	_	0	root
+5	κοινό	_	ADJ	ADJ	_	7	amod
+6	των	_	ADJ	ADJ	_	7	det
+7	βιβλίων	_	NOUN	NOUN	_	4	dobj
+8	μεγαλώνει	_	VERB	VERB	_	4	ccomp
+9	σε	_	ADP	ADP	_	10	case
+10	ηλικία	_	NOUN	NOUN	_	8	nmod
+11	καθώς	_	CONJ	CONJ	_	14	mark
+12	η	_	ADJ	ADJ	_	13	det
+13	σειρά	_	NOUN	NOUN	_	10	conj
+14	προχωράει	_	NOUN	NOUN	_	13	nmod
+15	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,20 @@
+1	“	_	ADJ	ADJ	_	2	amod
+2	@TheTumblrPosts	_	NOUN	NOUN	_	0	root
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Angelina	_	PROPN	PROPN	_	2	dep
+5	Jolie	_	NOUN	NOUN	_	4	dep
+6	at	_	PART	PART	_	5	dep
+7	age	_	VERB	VERB	_	6	dep
+8	19	_	NUM	NUM	_	9	nummod
+9	😍	_	NOUN	NOUN	_	7	dobj
+10	http://t.co/DAxJofdI8a	_	PROPN	PROPN	_	9	appos
+11	”	_	PROPN	PROPN	_	10	name
+12	@Sophliams	_	PROPN	PROPN	_	10	name
+13	Angelina	_	PROPN	PROPN	_	10	name
+14	Jolie	_	NOUN	NOUN	_	13	dep
+15	or	_	NOUN	NOUN	_	16	name
+16	Sophia	_	PROPN	PROPN	_	14	appos
+17	Smith	_	PROPN	PROPN	_	16	name
+18	?	_	PUNCT	PUNCT	_	4	punct
+19	😏😍💕	_	NOUN	NOUN	_	16	name
+

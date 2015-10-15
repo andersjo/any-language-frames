@@ -1,0 +1,14 @@
+1	Το	_	ADJ	ADJ	_	3	det
+2	2013	_	NUM	NUM	_	3	nummod
+3	επεκτάθηκε	_	NOUN	NOUN	_	8	nsubj
+4	στο	_	ADP	ADP	_	5	case
+5	χώρο	_	NOUN	NOUN	_	3	nmod
+6	,	_	PUNCT	PUNCT	_	8	punct
+7	και	_	CONJ	CONJ	_	8	cc
+8	συνεργάστηκε	_	VERB	VERB	_	0	root
+9	με	_	ADP	ADP	_	10	case
+10	Δανική	_	NOUN	NOUN	_	8	nmod
+11	εταιρεία	_	NOUN	NOUN	_	12	nmod
+12	εσωρούχων	_	NOUN	NOUN	_	10	nmod
+13	.	_	PUNCT	PUNCT	_	8	punct
+

@@ -1,0 +1,20 @@
+1	Ich	_	PRON	PRON	_	12	nsubj
+2	hab	_	AUX	AUX	_	12	aux
+3	immer	_	ADV	ADV	_	4	advmod
+4	noch	_	ADV	ADV	_	5	advmod
+5	meinen	_	PRON	PRON	_	6	det
+6	Harry	_	PROPN	PROPN	_	7	name
+7	Potter	_	PROPN	PROPN	_	9	name
+8	Exhibition	_	PROPN	PROPN	_	9	name
+9	Gutschein	_	PROPN	PROPN	_	11	det
+10	.	_	PUNCT	PUNCT	_	9	punct
+11	Ich	_	PRON	PRON	_	12	nsubj
+12	hoffe	_	VERB	VERB	_	0	root
+13	ich	_	PRON	PRON	_	18	nsubj
+14	kann	_	AUX	AUX	_	18	aux
+15	den	_	DET	DET	_	18	dobj
+16	bald	_	ADV	ADV	_	17	advmod
+17	endlich	_	ADV	ADV	_	18	advmod
+18	einlösen	_	VERB	VERB	_	12	conj
+19	.	_	PUNCT	PUNCT	_	12	punct
+

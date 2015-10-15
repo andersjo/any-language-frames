@@ -1,0 +1,27 @@
+1	Rowling	_	PROPN	PROPN	_	3	nsubj
+2	a	_	AUX	AUX	_	3	aux
+3	confirmé	_	VERB	VERB	_	0	root
+4	que	_	SCONJ	SCONJ	_	22	mark
+5	la	_	DET	DET	_	6	det
+6	date	_	NOUN	NOUN	_	22	nsubj
+7	de	_	ADP	ADP	_	9	case
+8	la	_	DET	DET	_	9	det
+9	défaite	_	NOUN	NOUN	_	6	nmod
+10	de	_	ADP	ADP	_	12	case
+11	Gellert	_	PROPN	PROPN	_	12	name
+12	Grindelwald	_	PROPN	PROPN	_	9	nmod
+13	,	_	PUNCT	PUNCT	_	3	punct
+14	le	_	DET	DET	_	15	det
+15	précurseur	_	NOUN	NOUN	_	22	nsubj
+16	de	_	ADP	ADP	_	17	case
+17	Voldemort	_	PROPN	PROPN	_	15	nmod
+18	,	_	PUNCT	PUNCT	_	3	punct
+19	en	_	ADP	ADP	_	20	case
+20	1945	_	NUM	NUM	_	15	nmod
+21	,	_	PUNCT	PUNCT	_	22	punct
+22	n'était	_	VERB	VERB	_	3	ccomp
+23	pas	_	ADV	ADV	_	22	neg
+24	une	_	DET	DET	_	25	det
+25	coïncidence	_	NOUN	NOUN	_	22	dobj
+26	.	_	PUNCT	PUNCT	_	3	punct
+

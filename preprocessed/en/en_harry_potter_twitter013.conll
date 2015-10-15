@@ -1,0 +1,17 @@
+1	When	_	ADV	ADV	_	4	advmod
+2	your	_	PRON	PRON	_	3	nmod:poss
+3	aunt	_	NOUN	NOUN	_	4	nsubj
+4	finds	_	VERB	VERB	_	0	root
+5	out	_	ADP	ADP	_	4	compound:prt
+6	you	_	PRON	PRON	_	7	nsubj
+7	put	_	VERB	VERB	_	4	ccomp
+8	this	_	DET	DET	_	7	dobj
+9	is	_	VERB	VERB	_	10	cop
+10	us	_	PRON	PRON	_	7	dobj
+11	on	_	ADP	ADP	_	9	compound:prt
+12	instead	_	ADV	ADV	_	13	advmod
+13	of	_	ADP	ADP	_	9	compound:prt
+14	harry	_	PROPN	PROPN	_	15	compound
+15	potter	_	NOUN	NOUN	_	7	dobj
+16	http://t.co/BKHyDxmIUz	_	X	X	_	15	appos
+

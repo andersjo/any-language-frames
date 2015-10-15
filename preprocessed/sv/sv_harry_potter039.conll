@@ -1,0 +1,26 @@
+1	Flera	_	ADJ	ADJ	_	3	det
+2	större	_	ADJ	ADJ	_	3	amod
+3	förlag	_	NOUN	NOUN	_	4	nmod
+4	tackade	_	VERB	VERB	_	0	root
+5	nej	_	INTJ	INTJ	_	4	dobj
+6	till	_	ADP	ADP	_	8	case
+7	Rowlings	_	ADJ	ADJ	_	8	amod
+8	bokförslag	_	NOUN	NOUN	_	4	nmod
+9	,	_	PUNCT	PUNCT	_	4	punct
+10	eftersom	_	SCONJ	SCONJ	_	14	mark
+11	de	_	PRON	PRON	_	14	nsubj
+12	inte	_	ADV	ADV	_	14	neg
+13	var	_	AUX	AUX	_	14	cop
+14	beredda	_	ADJ	ADJ	_	4	ccomp
+15	att	_	PART	PART	_	16	mark
+16	skriva	_	VERB	VERB	_	14	csubj
+17	kontrakt	_	NOUN	NOUN	_	16	dobj
+18	på	_	ADP	ADP	_	20	case
+19	sju	_	NUM	NUM	_	20	nummod
+20	böcker	_	NOUN	NOUN	_	16	nmod
+21	med	_	ADP	ADP	_	24	case
+22	en	_	DET	DET	_	24	det
+23	okänd	_	ADJ	ADJ	_	24	amod
+24	författare	_	NOUN	NOUN	_	16	nmod
+25	.	_	PUNCT	PUNCT	_	4	punct
+

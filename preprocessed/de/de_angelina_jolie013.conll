@@ -1,0 +1,18 @@
+1	Ein	_	DET	DET	_	2	det
+2	Urgroßelternpaar	_	NOUN	NOUN	_	4	nsubj
+3	Jolies	_	PROPN	PROPN	_	2	appos
+4	stammt	_	VERB	VERB	_	0	root
+5	aus	_	ADP	ADP	_	6	case
+6	Büren	_	NOUN	NOUN	_	4	nmod
+7	in	_	ADP	ADP	_	8	case
+8	Westfalen	_	PROPN	PROPN	_	6	nmod
+9	,	_	PUNCT	PUNCT	_	4	punct
+10	ein	_	ADV	ADV	_	11	advmod
+11	anderes	_	PRON	PRON	_	8	appos
+12	aus	_	ADP	ADP	_	13	case
+13	Košice	_	PROPN	PROPN	_	11	nmod
+14	in	_	ADP	ADP	_	16	case
+15	der	_	DET	DET	_	16	det
+16	Slowakei	_	PROPN	PROPN	_	13	nmod
+17	.	_	PUNCT	PUNCT	_	4	punct
+

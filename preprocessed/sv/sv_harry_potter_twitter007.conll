@@ -1,0 +1,12 @@
+1	OKEJ	_	NOUN	NOUN	_	2	nsubj
+2	SKA	_	VERB	VERB	_	0	root
+3	TITTA	_	NOUN	NOUN	_	2	dobj
+4	PÅ	_	VERB	VERB	_	2	xcomp
+5	HARRY	_	NOUN	NOUN	_	4	nsubj
+6	POTTER	_	VERB	VERB	_	4	xcomp
+7	OCH	_	ADJ	ADJ	_	8	amod
+8	GRÅTA	_	NOUN	NOUN	_	6	dobj
+9	ÖVER	_	VERB	VERB	_	6	conj
+10	LIVET	_	NOUN	NOUN	_	11	nmod:poss
+11	NU	_	NOUN	NOUN	_	9	dobj
+

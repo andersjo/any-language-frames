@@ -1,0 +1,24 @@
+1	Hun	_	PRON	PRON	_	19	nsubj
+2	er	_	AUX	AUX	_	5	cop
+3	ofte	_	ADV	ADV	_	5	advmod
+4	blevet	_	AUX	AUX	_	5	auxpass
+5	nævnt	_	AUX	AUX	_	19	aux
+6	som	_	PART	PART	_	5	dep
+7	verdens	_	NOUN	NOUN	_	6	dep
+8	"	_	PUNCT	PUNCT	_	9	punct
+9	smukkeste	_	ADJ	ADJ	_	11	amod
+10	"	_	PUNCT	PUNCT	_	9	punct
+11	kvinde	_	NOUN	NOUN	_	6	dep
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	en	_	DET	DET	_	14	det
+14	titel	_	NOUN	NOUN	_	19	nsubj
+15	,	_	PUNCT	PUNCT	_	19	punct
+16	som	_	PART	PART	_	22	dep
+17	hun	_	PRON	PRON	_	19	nsubj
+18	har	_	AUX	AUX	_	19	aux
+19	fået	_	VERB	VERB	_	0	root
+20	væsentlig	_	ADJ	ADJ	_	21	amod
+21	medieopmærksomhed	_	NOUN	NOUN	_	19	dobj
+22	med	_	ADP	ADP	_	21	dep
+23	.	_	PUNCT	PUNCT	_	9	punct
+

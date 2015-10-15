@@ -1,0 +1,23 @@
+1	@RoteGunde	_	ADJ	ADJ	_	2	amod
+2	mellan	_	NOUN	NOUN	_	3	dep
+3	Gontán	_	PROPN	PROPN	_	10	nsubj
+4	och	_	PROPN	PROPN	_	3	name
+5	Baamonde	_	PROPN	PROPN	_	3	name
+6	somewhere	_	NOUN	NOUN	_	3	dep
+7	,	_	PUNCT	PUNCT	_	10	punct
+8	Galicien	_	PROPN	PROPN	_	9	nmod:poss
+9	några	_	NOUN	NOUN	_	10	nsubj
+10	etapper	_	VERB	VERB	_	16	dep
+11	innan	_	NOUN	NOUN	_	13	nmod:poss
+12	Norte	_	ADJ	ADJ	_	14	amod
+13	ansluter	_	NOUN	NOUN	_	14	dep
+14	Francés	_	PROPN	PROPN	_	10	nmod
+15	.	_	PUNCT	PUNCT	_	10	punct
+16	Har	_	VERB	VERB	_	0	root
+17	hela	_	PROPN	PROPN	_	16	nsubj
+18	rutten	_	NOUN	NOUN	_	16	dobj
+19	på	_	ADP	ADP	_	20	case
+20	Google	_	NOUN	NOUN	_	18	nmod
+21	Earth	_	PROPN	PROPN	_	20	appos
+22	:-)	_	X	X	_	21	dep
+

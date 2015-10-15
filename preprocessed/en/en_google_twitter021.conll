@@ -1,0 +1,21 @@
+1	#Google	_	PROPN	PROPN	_	2	compound
+2	#Windows8	_	PROPN	PROPN	_	10	nsubj
+3	.	_	PUNCT	PUNCT	_	4	punct
+4	1	_	X	X	_	10	nummod
+5	-	_	PUNCT	PUNCT	_	4	punct
+6	A	_	DET	DET	_	8	det
+7	Google	_	PROPN	PROPN	_	8	compound
+8	researcher	_	NOUN	NOUN	_	10	nsubj
+9	has	_	AUX	AUX	_	10	aux
+10	disclosed	_	VERB	VERB	_	0	root
+11	an	_	DET	DET	_	13	det
+12	unpatched	_	ADJ	ADJ	_	0	foreign
+13	vulnerability	_	NOUN	NOUN	_	10	dobj
+14	in	_	ADP	ADP	_	10	compound:prt
+15	Windows	_	NOUN	NOUN	_	10	dobj
+16	8.1	_	NUM	NUM	_	15	nummod
+17	after	_	ADP	ADP	_	15	acl
+18	…	_	PROPN	PROPN	_	20	compound
+19	http://t.co/QgG7pQsNtq	_	PROPN	PROPN	_	20	compound
+20	#WindowsOS	_	PROPN	PROPN	_	10	dobj
+

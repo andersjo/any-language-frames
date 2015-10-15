@@ -1,0 +1,13 @@
+1	Oktober	_	PROPN	PROPN	_	11	dep
+2	2002	_	NUM	NUM	_	1	nmod
+3	gegen	_	ADP	ADP	_	6	case
+4	den	_	DET	DET	_	6	det
+5	Moreirense	_	PROPN	PROPN	_	6	name
+6	FC	_	PROPN	PROPN	_	11	nmod
+7	zwei	_	NUM	NUM	_	8	nummod
+8	Tore	_	NOUN	NOUN	_	0	root
+9	zum	_	ADP	ADP	_	11	case
+10	3:0	_	NUM	NUM	_	11	nummod
+11	-Sieg	_	NOUN	NOUN	_	8	nmod
+12	.	_	PUNCT	PUNCT	_	8	punct
+

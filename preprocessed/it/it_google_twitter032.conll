@@ -1,0 +1,20 @@
+1	Pacchetto	_	NOUN	NOUN	_	0	root
+2	delle	_	ADP	ADP	_	3	case
+3	Gapps	_	PROPN	PROPN	_	1	nmod
+4	(	_	PUNCT	PUNCT	_	5	punct
+5	Google	_	PROPN	PROPN	_	1	nmod
+6	application	_	PROPN	PROPN	_	5	name
+7	)	_	PUNCT	PUNCT	_	5	punct
+8	quasi	_	ADV	ADV	_	9	advmod
+9	terminato	_	VERB	VERB	_	3	acl
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	nella	_	ADP	ADP	_	12	case
+12	giornata	_	NOUN	NOUN	_	9	nmod
+13	eseguiro	_	VERB	VERB	_	12	acl
+14	'	_	PUNCT	PUNCT	_	16	punct
+15	ulteriori	_	ADJ	ADJ	_	16	amod
+16	prove	_	NOUN	NOUN	_	13	xcomp
+17	per	_	ADP	ADP	_	19	case
+18	...	_	PUNCT	PUNCT	_	19	punct
+19	http://t.co/nU0Noq8AOu	_	NOUN	NOUN	_	16	nmod
+

@@ -1,0 +1,19 @@
+1	It	_	PRON	PRON	_	6	nsubj
+2	was	_	VERB	VERB	_	6	cop
+3	celebrated	_	ADJ	ADJ	_	0	ccomp
+4	by	_	ADP	ADP	_	2	compound:prt
+5	the	_	DET	DET	_	6	det
+6	communists	_	NOUN	NOUN	_	8	compound
+7	in	_	ADP	ADP	_	2	compound:prt
+8	China	_	PROPN	PROPN	_	15	nmod:tmod
+9	from	_	ADP	ADP	_	0	csubj
+10	1922	_	NUM	NUM	_	8	nummod
+11	,	_	PUNCT	PUNCT	_	2	punct
+12	and	_	CONJ	CONJ	_	10	cc
+13	by	_	ADP	ADP	_	0	conj
+14	Spanish	_	ADJ	ADJ	_	0	expl
+15	communists	_	NOUN	NOUN	_	13	dobj
+16	from	_	ADP	ADP	_	15	compound
+17	1936	_	NUM	NUM	_	15	nmod
+18	.	_	PUNCT	PUNCT	_	8	punct
+

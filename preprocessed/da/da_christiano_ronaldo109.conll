@@ -1,0 +1,8 @@
+1	"	_	PUNCT	PUNCT	_	5	punct
+2	Statistikkerne	_	NOUN	NOUN	_	5	nsubj
+3	er	_	AUX	AUX	_	5	auxpass
+4	sidst	_	ADV	ADV	_	5	advmod
+5	opdateret	_	VERB	VERB	_	0	root
+6	2	_	NUM	NUM	_	5	dobj
+7	.	_	PUNCT	PUNCT	_	5	punct
+

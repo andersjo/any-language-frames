@@ -1,0 +1,19 @@
+1	Estudia	_	VERB	VERB	_	0	root
+2	Marketing	_	PROPN	PROPN	_	3	name
+3	Digital	_	PROPN	PROPN	_	1	nsubj
+4	Cursos	_	NOUN	NOUN	_	3	appos
+5	Google	_	PROPN	PROPN	_	6	name
+6	AdWords	_	PROPN	PROPN	_	4	appos
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	Analytics	_	PROPN	PROPN	_	6	conj
+9	,	_	PUNCT	PUNCT	_	6	punct
+10	Social	_	PROPN	PROPN	_	11	name
+11	Media	_	PROPN	PROPN	_	6	conj
+12	y	_	CONJ	CONJ	_	6	cc
+13	SEO	_	PROPN	PROPN	_	6	conj
+14	.	_	PUNCT	PUNCT	_	11	punct
+15	Infórmate	_	PROPN	PROPN	_	6	conj
+16	!	_	PUNCT	PUNCT	_	15	punct
+17	http://t.co/vZzLfLSMVp	_	PROPN	PROPN	_	18	name
+18	http://t.co/69F5RzDq6L	_	PROPN	PROPN	_	6	conj
+

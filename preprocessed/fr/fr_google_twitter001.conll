@@ -1,0 +1,8 @@
+1	actuellement	_	ADV	ADV	_	3	advmod
+2	je	_	PRON	PRON	_	3	nsubj
+3	cherche	_	VERB	VERB	_	0	root
+4	comme	_	ADP	ADP	_	5	case
+5	s'endormir	_	VERB	VERB	_	3	acl
+6	sur	_	ADP	ADP	_	7	case
+7	Google	_	PROPN	PROPN	_	5	nmod
+

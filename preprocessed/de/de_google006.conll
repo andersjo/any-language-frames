@@ -1,0 +1,20 @@
+1	Google	_	PROPN	PROPN	_	2	nsubj
+2	hat	_	AUX	AUX	_	0	root
+3	einen	_	DET	DET	_	5	det
+4	weltweiten	_	ADJ	ADJ	_	5	amod
+5	Anteil	_	NOUN	NOUN	_	1	nsubjpass
+6	von	_	ADP	ADP	_	9	case
+7	etwa	_	ADV	ADV	_	8	advmod
+8	70	_	NUM	NUM	_	9	nummod
+9	%	_	NOUN	NOUN	_	5	nmod
+10	an	_	ADP	ADP	_	12	case
+11	allen	_	PRON	PRON	_	12	det
+12	Suchanfragen	_	NOUN	NOUN	_	5	nmod
+13	im	_	ADP	ADP	_	14	case
+14	Internet	_	PROPN	PROPN	_	12	nmod
+15	(	_	PUNCT	PUNCT	_	16	punct
+16	März	_	PROPN	PROPN	_	14	appos
+17	2014	_	NUM	NUM	_	16	nmod
+18	)	_	PUNCT	PUNCT	_	16	punct
+19	.	_	PUNCT	PUNCT	_	5	punct
+

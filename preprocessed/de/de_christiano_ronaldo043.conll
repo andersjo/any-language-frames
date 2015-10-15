@@ -1,0 +1,10 @@
+1	Im	_	ADP	ADP	_	2	case
+2	August	_	PROPN	PROPN	_	4	nmod
+3	2003	_	NUM	NUM	_	2	nmod
+4	wechselte	_	VERB	VERB	_	0	root
+5	Ronaldo	_	PROPN	PROPN	_	4	nsubj
+6	zu	_	ADP	ADP	_	8	case
+7	Manchester	_	PROPN	PROPN	_	8	name
+8	United	_	PROPN	PROPN	_	4	nmod
+9	.	_	PUNCT	PUNCT	_	4	punct
+

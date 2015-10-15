@@ -1,0 +1,8 @@
+1	Y'a	_	VERB	VERB	_	0	root
+2	le	_	DET	DET	_	3	det
+3	placard	_	NOUN	NOUN	_	1	dobj
+4	d'harry	_	NOUN	NOUN	_	3	appos
+5	potter	_	ADJ	ADJ	_	4	amod
+6	chez	_	ADP	ADP	_	7	case
+7	@_WhenWinter	_	VERB	VERB	_	1	acl
+

@@ -1,0 +1,18 @@
+1	Wieso	_	ADV	ADV	_	2	advmod
+2	schneidet	_	VERB	VERB	_	0	root
+3	Sat1	_	PROPN	PROPN	_	5	name
+4	Harry	_	PROPN	PROPN	_	5	name
+5	Potter	_	PROPN	PROPN	_	2	nsubj
+6	4	_	NUM	NUM	_	2	nmod
+7	der	_	DET	DET	_	8	det
+8	eh	_	NOUN	NOUN	_	6	det
+9	ab	_	ADP	ADP	_	10	case
+10	12	_	NUM	NUM	_	8	nmod
+11	ist	_	VERB	VERB	_	8	cop
+12	?	_	PUNCT	PUNCT	_	2	punct
+13	Das	_	PRON	PRON	_	17	nsubj
+14	ist	_	VERB	VERB	_	17	cop
+15	doch	_	ADV	ADV	_	16	advmod
+16	lächerlich	_	ADJ	ADJ	_	17	amod
+17	Oo	_	NOUN	NOUN	_	6	det
+

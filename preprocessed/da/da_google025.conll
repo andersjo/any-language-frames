@@ -1,0 +1,27 @@
+1	adgang	_	NOUN	NOUN	_	0	root
+2	til	_	ADP	ADP	_	4	case
+3	følsomme	_	ADJ	ADJ	_	4	amod
+4	data	_	NOUN	NOUN	_	1	nmod
+5	fra	_	ADP	ADP	_	6	case
+6	brugerne	_	NOUN	NOUN	_	4	nmod
+7	,	_	PUNCT	PUNCT	_	1	punct
+8	hvilket	_	PRON	PRON	_	11	nsubj
+9	af	_	ADP	ADP	_	14	case
+10	nogle	_	DET	DET	_	14	det
+11	betragtes	_	VERB	VERB	_	25	dep
+12	som	_	PART	PART	_	11	dep
+13	en	_	DET	DET	_	14	det
+14	trussel	_	NOUN	NOUN	_	12	dep
+15	mod	_	ADP	ADP	_	17	case
+16	privatlivets	_	NOUN	NOUN	_	17	nmod:poss
+17	fred	_	NOUN	NOUN	_	14	nmod
+18	og	_	CONJ	CONJ	_	17	cc
+19	som	_	PART	PART	_	12	conj
+20	et	_	DET	DET	_	21	det
+21	skridt	_	NOUN	NOUN	_	19	dep
+22	nærmere	_	ADV	ADV	_	25	advmod
+23	det	_	DET	DET	_	25	det
+24	totale	_	ADJ	ADJ	_	25	amod
+25	overvågningssamfund	_	NOUN	NOUN	_	5	nmod
+26	.	_	PUNCT	PUNCT	_	11	punct
+

@@ -1,0 +1,20 @@
+1	"	_	PUNCT	PUNCT	_	5	punct
+2	While	_	PROPN	PROPN	_	5	name
+3	God	_	PROPN	PROPN	_	5	name
+4	always	_	PROPN	PROPN	_	5	name
+5	forgives	_	PROPN	PROPN	_	0	root
+6	,	_	PUNCT	PUNCT	_	9	punct
+7	creation	_	PROPN	PROPN	_	9	name
+8	never	_	PROPN	PROPN	_	9	name
+9	forgives	_	PROPN	PROPN	_	5	conj
+10	"	_	PUNCT	PUNCT	_	9	punct
+11	,	_	PUNCT	PUNCT	_	5	punct
+12	Papa	_	PROPN	PROPN	_	2	conj
+13	Francisco	_	PROPN	PROPN	_	12	appos
+14	sobre	_	ADP	ADP	_	16	case
+15	el	_	DET	DET	_	16	det
+16	cambio	_	NOUN	NOUN	_	12	nmod
+17	climático	_	ADJ	ADJ	_	16	amod
+18	.	_	PUNCT	PUNCT	_	13	punct
+19	http://t.co/ft2gDspmqb	_	PROPN	PROPN	_	16	appos
+

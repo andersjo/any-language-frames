@@ -1,0 +1,25 @@
+1	L'enfant	_	PROPN	PROPN	_	12	nsubj
+2	de	_	ADP	ADP	_	4	case
+3	Brad	_	PROPN	PROPN	_	4	name
+4	Pitt	_	PROPN	PROPN	_	1	nmod
+5	et	_	CONJ	CONJ	_	4	cc
+6	Angelina	_	PROPN	PROPN	_	7	name
+7	Jolie	_	PROPN	PROPN	_	4	conj
+8	que	_	SCONJ	SCONJ	_	12	mark
+9	vous	_	PRON	PRON	_	12	nsubj
+10	trouvez	_	VERB	VERB	_	12	cop
+11	trop	_	ADV	ADV	_	12	advmod
+12	mignon	_	ADJ	ADJ	_	0	root
+13	,	_	PUNCT	PUNCT	_	12	punct
+14	bah	_	ADJ	ADJ	_	12	conj
+15	en	_	ADP	ADP	_	16	mark
+16	fait	_	VERB	VERB	_	10	advcl
+17	c'est	_	NOUN	NOUN	_	16	dobj
+18	une	_	DET	DET	_	19	det
+19	fille	_	NOUN	NOUN	_	16	dobj
+20	,	_	PUNCT	PUNCT	_	23	punct
+21	je	_	PRON	PRON	_	23	nsubj
+22	suis	_	AUX	AUX	_	23	aux
+23	brusquée	_	VERB	VERB	_	19	acl:relcl
+24	...	_	PUNCT	PUNCT	_	12	punct
+

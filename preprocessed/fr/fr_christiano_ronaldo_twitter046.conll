@@ -1,0 +1,17 @@
+1	Je	_	PRON	PRON	_	4	nsubj
+2	viens	_	AUX	AUX	_	4	aux
+3	de	_	ADP	ADP	_	2	mwe
+4	voir	_	VERB	VERB	_	13	acl
+5	un	_	DET	DET	_	6	det
+6	sozie	_	PROPN	PROPN	_	4	dobj
+7	de	_	ADP	ADP	_	9	case
+8	christiano	_	PROPN	PROPN	_	9	name
+9	ronaldo	_	PROPN	PROPN	_	6	nmod
+10	....	_	PUNCT	PUNCT	_	6	punct
+11	sauf	_	ADP	ADP	_	13	mark
+12	que	_	PRON	PRON	_	13	dobj
+13	cest	_	VERB	VERB	_	0	root
+14	une	_	DET	DET	_	15	det
+15	meuf	_	NOUN	NOUN	_	13	dobj
+16	..	_	PUNCT	PUNCT	_	15	punct
+

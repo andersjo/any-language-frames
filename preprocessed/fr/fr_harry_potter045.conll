@@ -1,0 +1,19 @@
+1	D'après	_	PROPN	PROPN	_	6	name
+2	J	_	X	X	_	1	appos
+3	.	_	PUNCT	PUNCT	_	2	punct
+4	K	_	X	X	_	6	compound
+5	.	_	PUNCT	PUNCT	_	4	punct
+6	Rowling	_	PROPN	PROPN	_	16	nsubj
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	le	_	DET	DET	_	9	det
+9	thème	_	NOUN	NOUN	_	6	appos
+10	majeur	_	ADJ	ADJ	_	9	amod
+11	de	_	ADP	ADP	_	13	case
+12	la	_	DET	DET	_	13	det
+13	série	_	NOUN	NOUN	_	9	nmod
+14	est	_	VERB	VERB	_	16	cop
+15	la	_	DET	DET	_	16	det
+16	mort	_	NOUN	NOUN	_	0	root
+17	:	_	PUNCT	PUNCT	_	9	punct
+18	.	_	PUNCT	PUNCT	_	9	punct
+

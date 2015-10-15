@@ -1,0 +1,1237 @@
+ID:	_	
+MIT	_	
+-1	_	
+.	_	
+
+City	_	Locale_by_use Political_locales
+workers	_	Employing
+pretended	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+be	_	Existence Performers_and_roles
+victims	_	Undergoing
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+attack	_	Attack
+.	_	
+
+QN	_	
+:	_	
+Were	_	Existence
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+workers	_	Employing
+harmed	_	
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+attack	_	Attack
+?	_	
+
+ID:	_	
+MIT	_	
+-2	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Defense	_	Defend
+Department	_	
+has	_	Have_associated Inclusion Possession
+awarded	_	
+BioPort	_	
+Corporation	_	Businesses
+a	_	Measure_duration Process_end Quantity
+contract	_	Being_obligated Documents Expansion Hiring
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+manufacture	_	Manufacturing
+,	_	
+test	_	Examination Operational_testing
+,	_	
+bottle	_	Containers Measure_volume Placing
+and	_	
+store	_	Store Storing
+anthrax	_	
+vaccine	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+company	_	Businesses
+has	_	Have_associated Inclusion Possession
+announced	_	Statement
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+Defense	_	Defend
+Department	_	
+want	_	Desiring Possession
+BioPort	_	
+Corporation	_	Businesses
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+manufacture	_	Manufacturing
+anthrax	_	
+vaccine	_	
+?	_	
+
+ID:	_	
+MIT	_	
+-3	_	
+.	_	
+
+Chemical	_	Substance Weapon
+weapon	_	Weapon
+projectiles	_	
+contain	_	Containing Inclusion
+a	_	Measure_duration Process_end Quantity
+blasting	_	
+tube	_	
+which	_	
+can	_	Capability Containers Firing Likelihood Measure_volume Possibility Preserving
+be	_	Existence Performers_and_roles
+seen	_	Grasp Perception_experience
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+an	_	Cause_to_end Process_end Quantity
+X-ray	_	
+.	_	
+
+QN	_	
+:	_	
+Is	_	Existence
+the	_	Self_motion Temporal_collocation
+blasting	_	
+tube	_	
+visible	_	Obviousness
+outside	_	Locative_relation Part_inner_outer
+the	_	Self_motion Temporal_collocation
+projectile	_	
+?	_	
+
+ID:	_	
+MIT	_	
+-4	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+incident	_	Catastrophe
+at	_	Locative_relation Relational_quantity Temporal_collocation
+Mayak	_	
+was	_	Existence
+the	_	Self_motion Temporal_collocation
+third	_	Ordinal_numbers Part_whole
+shooting	_	Killing
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+recent	_	Relative_time
+weeks	_	Calendric_unit Measure_duration
+involving	_	
+nuclear	_	Bearing_arms Nuclear_process Weapon
+weapons	_	Weapon
+or	_	
+facilities	_	Locale_by_use
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Russia	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+incident	_	Catastrophe
+at	_	Locative_relation Relational_quantity Temporal_collocation
+Mayak	_	
+involve	_	
+nuclear	_	Bearing_arms Nuclear_process Weapon
+weapons	_	Weapon
+or	_	
+facilities	_	Locale_by_use
+?	_	
+
+ID:	_	
+MIT	_	
+-5	_	
+.	_	
+
+Utah	_	
+'s	_	Existence Required_event
+Dugway	_	
+Proving	_	Evidence
+Ground	_	Ground_up
+has	_	Have_associated Inclusion Possession
+been	_	Existence
+chosen	_	Choosing
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+a	_	Measure_duration Process_end Quantity
+site	_	Locale Locale_by_event Locale_by_use
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+test	_	Examination Operational_testing
+military	_	Military
+vaccines	_	
+against	_	Locative_relation Taking_sides
+germ	_	
+warfare	_	Hostile_encounter
+agents	_	Active_substance People_by_vocation
+.	_	
+
+QN	_	
+:	_	
+Who	_	
+chose	_	Choosing
+the	_	Self_motion Temporal_collocation
+Dugway	_	
+Proving	_	Evidence
+Ground	_	Ground_up
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+a	_	Measure_duration Process_end Quantity
+site	_	Locale Locale_by_event Locale_by_use
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+test	_	Examination Operational_testing
+vaccines	_	
+?	_	
+
+ID:	_	
+MIT	_	
+-6	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Russian	_	Origin
+Emergencies	_	
+Ministry	_	
+predicts	_	Predicting
+a	_	Measure_duration Process_end Quantity
+further	_	Increment
+increase	_	Cause_change_of_position_on_a_scale Change_position_on_a_scale
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1999	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+concentration	_	
+of	_	Age Domain Origin Partitive
+toxic	_	Toxic_substance
+agents	_	Active_substance People_by_vocation
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+marine	_	
+burials	_	
+of	_	Age Domain Origin Partitive
+chemical	_	Substance Weapon
+weapons	_	Weapon
+.	_	
+
+QN	_	
+:	_	
+Has	_	Have_associated Inclusion Possession
+the	_	Self_motion Temporal_collocation
+concentration	_	
+of	_	Age Domain Origin Partitive
+toxic	_	Toxic_substance
+agents	_	Active_substance People_by_vocation
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+marine	_	
+burials	_	
+of	_	Age Domain Origin Partitive
+chemical	_	Substance Weapon
+weapons	_	Weapon
+increased	_	Cause_change_of_position_on_a_scale Change_position_on_a_scale
+prior	_	Relative_time Time_vector
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+1999	_	
+?	_	
+
+ID:	_	
+MIT	_	
+-7	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Army	_	Aggregate Military
+'s	_	Existence Required_event
+chemical	_	Substance Weapon
+weapons	_	Weapon
+incinerator	_	
+has	_	Have_associated Inclusion Possession
+passed	_	Path_shape Traversing
+a	_	Measure_duration Process_end Quantity
+milestone	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+destruction	_	Destroying
+of	_	Age Domain Origin Partitive
+5	_	
+million	_	Cardinal_numbers
+pounds	_	Measure_mass
+of	_	Age Domain Origin Partitive
+GB	_	
+nerve	_	
+agent	_	Active_substance Intentionally_act People_by_vocation
+.	_	
+
+QN	_	
+:	_	
+Who	_	
+destroyed	_	Destroying Killing
+5	_	
+million	_	Cardinal_numbers
+pounds	_	Measure_mass
+of	_	Age Domain Origin Partitive
+GB	_	
+nerve	_	
+agent	_	Active_substance Intentionally_act People_by_vocation
+?	_	
+
+ID:	_	
+MIT	_	
+-8	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+military	_	Military
+is	_	Existence
+training	_	Education_teaching
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+day	_	Calendric_unit Measure_duration Timespan
+a	_	Measure_duration Process_end Quantity
+terrorist	_	Terrorism
+sets	_	Aggregate
+off	_	Accuracy Being_in_operation Locative_relation
+not	_	
+just	_	
+a	_	Measure_duration Process_end Quantity
+bomb	_	Attack Weapon
+,	_	
+but	_	Concessive
+a	_	Measure_duration Process_end Quantity
+chemical	_	Substance Weapon
+or	_	
+biological	_	Weapon
+weapon	_	Weapon
+that	_	Degree
+would	_	
+spew	_	Excreting Fluidic_motion
+out	_	Departing Expected_location_of_person Intentionally_act Locative_relation Sleep Surviving
+an	_	Cause_to_end Process_end Quantity
+invisible	_	
+death	_	Death
+.	_	
+
+QN	_	
+:	_	
+Will	_	Desiring Documents Giving
+a	_	Measure_duration Process_end Quantity
+terrorist	_	Terrorism
+set	_	Activity_ready_state Aggregate Attack Bail_decision Cause_change_of_consistency Cause_to_start Change_of_consistency Departing Intentionally_create Placing
+off	_	Accuracy Being_in_operation Locative_relation
+a	_	Measure_duration Process_end Quantity
+chemical	_	Substance Weapon
+or	_	
+biological	_	Weapon
+weapon	_	Weapon
+?	_	
+
+ID:	_	
+MIT	_	
+-9	_	
+.	_	
+
+Virginia	_	
+is	_	Existence
+ill	_	Medical_conditions
+prepared	_	Activity_ready_state Willingness
+for	_	Causation Taking_sides
+a	_	Measure_duration Process_end Quantity
+large-scale	_	
+terrorist	_	Terrorism
+attack	_	Attack
+using	_	Using
+chemical	_	Substance Weapon
+,	_	
+biological	_	Weapon
+or	_	
+nuclear	_	Bearing_arms Nuclear_process Weapon
+weapons	_	Weapon
+,	_	
+state	_	Political_locales State_of_entity Statement
+officials	_	Leadership
+say	_	Communication Spelling_and_pronouncing Statement Text_creation
+.	_	
+
+QN	_	
+:	_	
+Is	_	Existence
+Virginia	_	
+prepared	_	Activity_ready_state Willingness
+for	_	Causation Taking_sides
+a	_	Measure_duration Process_end Quantity
+small-scale	_	
+terrorist	_	Terrorism
+attack	_	Attack
+using	_	Using
+chemical	_	Substance Weapon
+,	_	
+biological	_	Weapon
+or	_	
+nuclear	_	Bearing_arms Nuclear_process Weapon
+weapons	_	Weapon
+?	_	
+
+ID:	_	
+MIT	_	
+-10	_	
+.	_	
+
+Unlike	_	Similarity
+nuclear	_	Bearing_arms Nuclear_process Weapon
+or	_	
+chemical	_	Substance Weapon
+weapons	_	Weapon
+,	_	
+biological	_	Weapon
+weapons	_	Weapon
+can	_	Capability Containers Firing Likelihood Measure_volume Possibility Preserving
+be	_	Existence Performers_and_roles
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+with	_	Accompaniment
+readily	_	
+available	_	
+materials	_	Ingredients Substance Text
+or	_	
+equipment	_	Gizmo Supply
+.	_	
+
+QN	_	
+:	_	
+Can	_	Capability Containers Firing Likelihood Measure_volume Possibility Preserving
+nuclear	_	Bearing_arms Nuclear_process Weapon
+weapons	_	Weapon
+be	_	Existence Performers_and_roles
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+with	_	Accompaniment
+readily	_	
+available	_	
+materials	_	Ingredients Substance Text
+or	_	
+equipment	_	Gizmo Supply
+?	_	
+
+ID:	_	
+MIT	_	
+-11	_	
+.	_	
+
+Sudan	_	
+says	_	Statement
+it	_	
+'s	_	Existence Required_event
+ready	_	Activity_prepare Activity_ready_state
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+sign	_	Hiring Sign Sign_agreement Text_creation
+the	_	Self_motion Temporal_collocation
+international	_	Foreign_or_domestic_country Political_locales
+convention	_	Be_in_agreement_on_action Custom
+banning	_	Prohibiting
+chemical	_	Substance Weapon
+weapons	_	Weapon
+.	_	
+
+QN	_	
+:	_	
+Will	_	Desiring Documents Giving
+Sudan	_	
+produce	_	Behind_the_scenes Cause_to_start Creating Intentionally_create Manufacturing
+chemical	_	Substance Weapon
+weapons	_	Weapon
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+future	_	Possibilities Temporal_collocation
+?	_	
+
+ID:	_	
+MIT	_	
+-12	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Scud	_	
+C	_	
+has	_	Have_associated Inclusion Possession
+a	_	Measure_duration Process_end Quantity
+range	_	Delimitation_of_diversity Diversity Natural_features Range
+of	_	Age Domain Origin Partitive
+500	_	Cardinal_numbers
+kilometers	_	Measure_linear_extent
+and	_	
+is	_	Existence
+manufactured	_	Manufacturing
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Syria	_	
+with	_	Accompaniment
+know-how	_	Expertise
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+.	_	
+
+QN	_	
+:	_	
+Can	_	Capability Containers Firing Likelihood Measure_volume Possibility Preserving
+a	_	Measure_duration Process_end Quantity
+Scud	_	
+C	_	
+fly	_	Bringing Motion Operate_vehicle Ride_vehicle Self_motion
+500	_	Cardinal_numbers
+kilometers	_	Measure_linear_extent
+?	_	
+
+ID:	_	
+MIT	_	
+-13	_	
+.	_	
+
+Some	_	Relational_quantity
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+14	_	Cardinal_numbers
+alleged	_	Statement Unattributed_information
+bin	_	Containers Placing
+Laden	_	
+associates	_	Collaboration
+arrested	_	Arrest
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Jordan	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+December	_	Calendric_unit
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+begun	_	Activity_start Process_start
+talking	_	Chatting Discussion
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+investigators	_	
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+an	_	Cause_to_end Process_end Quantity
+associate	_	Collaboration Relating_concepts
+of	_	Age Domain Origin Partitive
+bin	_	Containers Placing
+Laden	_	
+arrested	_	Arrest
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Middle	_	Part_inner_outer Temporal_subregion
+East	_	Direction Locative_relation Part_orientational
+?	_	
+
+ID:	_	
+MIT	_	
+-14	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+U.S.	_	
+Senate	_	Leadership
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Thursday	_	Calendric_unit
+unanimously	_	
+approved	_	Grant_permission
+legislation	_	
+designed	_	Coming_up_with
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+punish	_	Rewards_and_punishments
+Russia	_	
+and	_	
+other	_	Increment
+countries	_	Political_locales
+if	_	
+they	_	
+help	_	Assistance
+Iran	_	
+develop	_	Cause_to_make_progress Coming_to_be Progress
+weapons	_	Weapon
+of	_	Age Domain Origin Partitive
+mass	_	Quantity Rite
+destruction	_	Destroying
+.	_	
+
+QN	_	
+:	_	
+Will	_	Desiring Documents Giving
+Russia	_	
+help	_	Assistance
+Iran	_	
+develop	_	Cause_to_make_progress Coming_to_be Progress
+weapons	_	Weapon
+of	_	Age Domain Origin Partitive
+mass	_	Quantity Rite
+destruction	_	Destroying
+?	_	
+
+ID:	_	
+MIT	_	
+-15	_	
+.	_	
+
+To	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+date	_	Continued_state_of_affairs Food Location_in_time Personal_relationship Social_event_collective
+,	_	
+Congress	_	
+has	_	Have_associated Inclusion Possession
+authorized	_	Grant_permission
+more	_	Increment
+than	_	Time_vector
+$4.7	_	
+billion	_	Cardinal_numbers
+for	_	Causation Taking_sides
+U.S.	_	
+programs	_	Project
+aimed	_	Purpose
+at	_	Locative_relation Relational_quantity Temporal_collocation
+helping	_	Assistance
+Russia	_	
+and	_	
+other	_	Increment
+newly	_	Temporal_collocation
+independent	_	Contingency
+states	_	Political_locales Statement
+reduce	_	Cause_change_of_position_on_a_scale
+the	_	Self_motion Temporal_collocation
+threats	_	Commitment Risky_situation
+posed	_	
+by	_	Locative_relation Means
+their	_	
+weapons	_	Weapon
+of	_	Age Domain Origin Partitive
+mass	_	Quantity Rite
+destruction	_	Destroying
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+U.S.	_	
+want	_	Desiring Possession
+the	_	Self_motion Temporal_collocation
+threat	_	Commitment Risky_situation
+posed	_	
+by	_	Locative_relation Means
+Russia	_	
+'s	_	Existence Required_event
+weapons	_	Weapon
+of	_	Age Domain Origin Partitive
+mass	_	Quantity Rite
+destruction	_	Destroying
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+be	_	Existence Performers_and_roles
+reduced	_	Cause_change_of_position_on_a_scale
+?	_	
+
+ID:	_	
+MIT	_	
+-16	_	
+.	_	
+
+A	_	Measure_duration Process_end Quantity
+father	_	Birth Kinship
+and	_	
+a	_	Measure_duration Process_end Quantity
+son	_	Kinship
+were	_	Existence
+admitted	_	Reveal_secret Statement
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+hospital	_	Buildings
+with	_	Accompaniment
+strychnine	_	
+poisoning	_	Cause_harm
+after	_	Relative_time Time_vector
+consuming	_	Ingestion
+Herron	_	
+products	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+Herron	_	
+products	_	
+contain	_	Containing Inclusion
+poison	_	Cause_harm Toxic_substance
+?	_	
+
+ID:	_	
+MIT	_	
+-17	_	
+.	_	
+
+About	_	Accomplishment Cause_to_start Relational_quantity Topic
+400	_	Cardinal_numbers
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+more	_	Increment
+than	_	Time_vector
+2,600	_	
+village	_	Locale_by_use Political_locales
+residents	_	Residence
+were	_	Existence
+hospitalized	_	Institutionalization
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+July	_	Calendric_unit
+and	_	
+August	_	Calendric_unit
+.	_	
+
+QN	_	
+:	_	
+Were	_	Existence
+some	_	Relational_quantity
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+village	_	Locale_by_use Political_locales
+residents	_	Residence
+not	_	
+hospitalized	_	Institutionalization
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+July	_	Calendric_unit
+and	_	
+August	_	Calendric_unit
+?	_	
+
+ID:	_	
+MIT	_	
+-18	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+only	_	Sole_instance
+bacterial	_	
+attack	_	Attack
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+America	_	
+came	_	Arriving Process_end
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1984	_	
+,	_	
+when	_	Temporal_collocation
+a	_	Measure_duration Process_end Quantity
+cult	_	
+poisoned	_	Cause_harm
+a	_	Measure_duration Process_end Quantity
+salad	_	
+bar	_	Buildings Natural_features Prohibiting
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Oregon	_	
+with	_	Accompaniment
+salmonella	_	
+,	_	
+sickening	_	Stimulus_focus
+700	_	
+people	_	Colonization People
+.	_	
+
+QN	_	
+:	_	
+Has	_	Have_associated Inclusion Possession
+a	_	Measure_duration Process_end Quantity
+biological	_	Weapon
+attack	_	Attack
+occurred	_	Event
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+U.S.	_	
+?	_	
+
+ID:	_	
+MIT	_	
+-19	_	
+.	_	
+
+Blix	_	
+said	_	Communication Statement
+the	_	Self_motion Temporal_collocation
+new	_	Age Expertise Familiarity
+weapons	_	Weapon
+inspection	_	Inspecting
+team	_	Aggregate
+is	_	Existence
+composed	_	
+of	_	Age Domain Origin Partitive
+scientists	_	People_by_vocation
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+around	_	Dimension Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+world	_	Political_locales
+,	_	
+including	_	Inclusion
+South	_	Direction Locative_relation Part_orientational
+America	_	
+,	_	
+Thailand	_	
+,	_	
+Bangladesh	_	
+and	_	
+Eastern	_	Part_orientational
+Europe	_	
+.	_	
+
+QN	_	
+:	_	
+Are	_	Existence
+scientists	_	People_by_vocation
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Hungary	_	
+members	_	Membership
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+new	_	Age Expertise Familiarity
+weapons	_	Weapon
+inspection	_	Inspecting
+team	_	Aggregate
+?	_	
+
+ID:	_	
+MIT	_	
+-20	_	
+.	_	
+
+Biological	_	Weapon
+select	_	Choosing
+agents	_	Active_substance People_by_vocation
+include	_	Cause_to_be_included Inclusion
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+40	_	Cardinal_numbers
+viruses	_	
+,	_	
+bacteria	_	
+,	_	
+rickettsia	_	
+,	_	
+fungi	_	
+,	_	
+and	_	
+toxins	_	Toxic_substance
+whose	_	
+transfer	_	Change_tool Transfer
+within	_	Temporal_collocation Within_distance
+the	_	Self_motion Temporal_collocation
+United	_	
+States	_	Political_locales Statement
+is	_	Existence
+controlled	_	Control
+.	_	
+
+QN	_	
+:	_	
+Is	_	Existence
+the	_	Self_motion Temporal_collocation
+transfer	_	Change_tool Transfer
+of	_	Age Domain Origin Partitive
+biological	_	Weapon
+select	_	Choosing
+agents	_	Active_substance People_by_vocation
+within	_	Temporal_collocation Within_distance
+the	_	Self_motion Temporal_collocation
+United	_	
+States	_	Political_locales Statement
+controlled	_	Control
+?	_	
+
+ID:	_	
+MIT	_	
+-21	_	
+.	_	
+
+During	_	Temporal_collocation
+his	_	
+trip	_	Intoxication Self_motion Travel
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+five	_	Cardinal_numbers
+Arab	_	
+capitals	_	
+and	_	
+Israel	_	
+,	_	
+which	_	
+ended	_	Cause_to_end Process_end
+last	_	Duration_relation Ordinal_numbers Relative_time
+Monday	_	Calendric_unit
+,	_	
+Powell	_	
+proposed	_	Statement
+easing	_	
+sanctions	_	Revenge
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Iraqi	_	Origin
+imports	_	Import_export Importing
+.	_	
+
+QN	_	
+:	_	
+Where	_	Locative_relation
+did	_	Intentionally_act
+Powell	_	
+travel	_	Motion Travel
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+?	_	
+
+ID:	_	
+MIT	_	
+-22	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Chemlab	_	
+,	_	
+for	_	Causation Taking_sides
+instance	_	Instance
+,	_	
+is	_	Existence
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+the	_	Self_motion Temporal_collocation
+size	_	
+of	_	Age Domain Origin Partitive
+a	_	Measure_duration Process_end Quantity
+Palm	_	
+Pilot	_	
+and	_	
+will	_	Desiring Documents Giving
+be	_	Existence Performers_and_roles
+able	_	Capability
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+detect	_	Becoming_aware Perception_experience
+a	_	Measure_duration Process_end Quantity
+range	_	Delimitation_of_diversity Diversity Natural_features Range
+of	_	Age Domain Origin Partitive
+biological	_	Weapon
+agents	_	Active_substance People_by_vocation
+.	_	
+
+QN	_	
+:	_	
+Is	_	Existence
+the	_	Self_motion Temporal_collocation
+Chemlab	_	
+a	_	Measure_duration Process_end Quantity
+handheld	_	
+device	_	Gizmo
+?	_	
+
+ID:	_	
+MIT	_	
+-23	_	
+.	_	
+
+Russia	_	
+could	_	Capability Possibility
+suspend	_	Activity_pause
+the	_	Self_motion Temporal_collocation
+destruction	_	Destroying
+of	_	Age Domain Origin Partitive
+its	_	
+stockpile	_	Amassing Store
+of	_	Age Domain Origin Partitive
+chemical	_	Substance Weapon
+weapons	_	Weapon
+if	_	
+foreign	_	Foreign_or_domestic_country
+aid	_	Assistance
+is	_	Existence
+not	_	
+increased	_	Cause_change_of_position_on_a_scale Change_position_on_a_scale
+,	_	
+a	_	Measure_duration Process_end Quantity
+senior	_	Subordinates_and_superiors
+official	_	Leadership
+and	_	
+negotiator	_	
+was	_	Existence
+quoted	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+saying	_	Statement
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+AVN	_	
+Military	_	Military
+News	_	
+agency	_	Organization
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+Russia	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+a	_	Measure_duration Process_end Quantity
+stockpile	_	Amassing Store
+of	_	Age Domain Origin Partitive
+chemical	_	Substance Weapon
+weapons	_	Weapon
+?	_	
+
+ID:	_	
+MIT	_	
+-24	_	
+.	_	
+
+BioPort	_	
+Corp.	_	
+of	_	Age Domain Origin Partitive
+Lansing	_	
+,	_	
+Michigan	_	
+is	_	Existence
+the	_	Self_motion Temporal_collocation
+sole	_	Clothing_parts Observable_body_parts Sole_instance
+U.S.	_	
+manufacturer	_	Manufacturing
+of	_	Age Domain Origin Partitive
+an	_	Cause_to_end Process_end Quantity
+anthrax	_	
+vaccine	_	
+.	_	
+
+QN	_	
+:	_	
+Are	_	Existence
+there	_	Existence Locative_relation
+three	_	Cardinal_numbers
+U.S.	_	
+manufacturers	_	Manufacturing
+of	_	Age Domain Origin Partitive
+anthrax	_	
+vaccine	_	
+?	_	
+
+ID:	_	
+MIT	_	
+-25	_	
+.	_	
+
+Two	_	Cardinal_numbers
+Al	_	
+Qaeda	_	
+computers	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+been	_	Existence
+found	_	Becoming_aware Intentionally_create Locating Verdict
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Kabul	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+computers	_	
+belong	_	Membership Possession
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Al	_	
+Qaeda	_	
+?	_	
+
+ID:	_	
+MIT	_	
+-26	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+White	_	Color Race_descriptor
+House	_	Buildings Containing Provide_lodging
+has	_	Have_associated Inclusion Possession
+ordered	_	Request Sentencing
+a	_	Measure_duration Process_end Quantity
+purge	_	Emptying Removing
+of	_	Age Domain Origin Partitive
+information	_	Information
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+government	_	Leadership Organization
+agency	_	Organization
+websites	_	
+that	_	Degree
+could	_	Capability Possibility
+be	_	Existence Performers_and_roles
+exploited	_	
+by	_	Locative_relation Means
+terrorists	_	Terrorism
+seeking	_	Seeking Seeking_to_achieve
+weapons	_	Weapon
+of	_	Age Domain Origin Partitive
+mass	_	Quantity Rite
+destruction	_	Destroying
+.	_	
+
+QN	_	
+:	_	
+Do	_	Ingest_substance Intentionally_act Intentionally_affect Thriving Touring
+government	_	Leadership Organization
+agency	_	Organization
+websites	_	
+contain	_	Containing Inclusion
+information	_	Information
+that	_	Degree
+could	_	Capability Possibility
+be	_	Existence Performers_and_roles
+exploited	_	
+by	_	Locative_relation Means
+terrorists	_	Terrorism
+?	_	
+
+ID:	_	
+MIT	_	
+-27	_	
+.	_	
+
+Agriculture	_	
+accounts	_	Explaining_the_facts Text
+for	_	Causation Taking_sides
+22	_	
+million	_	Cardinal_numbers
+jobs	_	Being_employed Being_obligated
+and	_	
+16.4	_	
+percent	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+nation	_	Political_locales
+'s	_	Existence Required_event
+gross	_	
+domestic	_	Foreign_or_domestic_country
+product	_	Commutative_statement
+.	_	
+
+QN	_	
+:	_	
+Are	_	Existence
+22	_	
+million	_	Cardinal_numbers
+people	_	Colonization People
+employed	_	Being_employed Employing Using
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+agriculture	_	
+?	_	
+
+ID:	_	
+MIT	_	
+-28	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Pentagon	_	
+is	_	Existence
+considering	_	Cogitation
+a	_	Measure_duration Process_end Quantity
+resumption	_	
+of	_	Age Domain Origin Partitive
+anthrax	_	
+vaccinations	_	
+for	_	Causation Taking_sides
+U.S.	_	
+troops	_	
+.	_	
+
+QN	_	
+:	_	
+Have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+anthrax	_	
+vaccinations	_	
+of	_	Age Domain Origin Partitive
+U.S.	_	
+troops	_	
+occurred	_	Event
+previously	_	Time_vector
+?	_	
+
+ID:	_	
+MIT	_	
+-29	_	
+.	_	
+
+Libya	_	
+said	_	Communication Statement
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Wednesday	_	Calendric_unit
+it	_	
+is	_	Existence
+not	_	
+developing	_	Cause_to_make_progress Progress
+chemical	_	Substance Weapon
+,	_	
+biological	_	Weapon
+or	_	
+nuclear	_	Bearing_arms Nuclear_process Weapon
+weapons	_	Weapon
+,	_	
+denying	_	Statement
+allegations	_	Statement
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+by	_	Locative_relation Means
+a	_	Measure_duration Process_end Quantity
+US	_	
+official	_	Leadership
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+a	_	Measure_duration Process_end Quantity
+U.S.	_	
+official	_	Leadership
+claim	_	Claim_ownership Predicting Statement
+that	_	Degree
+Libya	_	
+is	_	Existence
+developing	_	Cause_to_make_progress Progress
+chemical	_	Substance Weapon
+,	_	
+biological	_	Weapon
+or	_	
+nuclear	_	Bearing_arms Nuclear_process Weapon
+weapons	_	Weapon
+?	_	
+
+ID:	_	
+MIT	_	
+-30	_	
+.	_	
+
+Al	_	
+Wafa	_	
+is	_	Existence
+one	_	Cardinal_numbers
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+organisations	_	
+whose	_	
+assets	_	Possession
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+been	_	Existence
+frozen	_	Altered_phase
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+United	_	
+States	_	Political_locales Statement
+amid	_	Locative_relation
+suspicions	_	Awareness
+that	_	Degree
+it	_	
+might	_	Likelihood
+be	_	Existence Performers_and_roles
+giving	_	Giving
+support	_	Evidence Supporting Taking_sides
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Osama	_	
+Bin	_	Containers Placing
+Laden	_	
+'s	_	Existence Required_event
+al-Qaeda	_	
+network	_	Network
+.	_	
+
+QN	_	
+:	_	
+Who	_	
+has	_	Have_associated Inclusion Possession
+given	_	Giving
+support	_	Evidence Supporting Taking_sides
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+al-Qaeda	_	
+?	_	
+

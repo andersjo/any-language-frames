@@ -1,0 +1,14 @@
+1	@kindpuss	_	NOUN	NOUN	_	5	nsubj
+2	jag	_	PRON	PRON	_	5	nsubj
+3	är	_	AUX	AUX	_	5	cop
+4	väl	_	ADV	ADV	_	5	advmod
+5	medveten	_	ADJ	ADJ	_	0	root
+6	om	_	ADP	ADP	_	7	case
+7	detta	_	PRON	PRON	_	5	nmod
+8	.	_	PUNCT	PUNCT	_	5	punct
+9	Google	_	NOUN	NOUN	_	12	nsubj
+10	är	_	AUX	AUX	_	12	cop
+11	din	_	DET	DET	_	12	nmod:poss
+12	kompis	_	NOUN	NOUN	_	5	advcl
+13	.	_	PUNCT	PUNCT	_	5	punct
+

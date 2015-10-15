@@ -1,0 +1,23 @@
+1	Επίσης	_	ADV	ADV	_	4	advmod
+2	δήλωσε	_	VERB	VERB	_	4	aux
+3	οτι	_	VERB	VERB	_	4	aux
+4	υιοθέτησε	_	VERB	VERB	_	0	root
+5	ένα	_	ADJ	ADJ	_	6	det
+6	αγοράκι	_	NOUN	NOUN	_	4	dobj
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	τον	_	ADJ	ADJ	_	9	det
+9	Mάντοξ	_	NOUN	NOUN	_	6	conj
+10	και	_	CONJ	CONJ	_	4	cc
+11	δεν	_	PART	PART	_	12	neg
+12	θεωρεί	_	VERB	VERB	_	4	conj
+13	για	_	ADP	ADP	_	15	case
+14	το	_	ADJ	ADJ	_	15	det
+15	παιδί	_	NOUN	NOUN	_	12	nmod
+16	της	_	ADJ	ADJ	_	18	det
+17	καλή	_	ADJ	ADJ	_	18	amod
+18	επιρροή	_	NOUN	NOUN	_	15	nmod
+19	τον	_	ADJ	ADJ	_	20	det
+20	πατέρα	_	NOUN	NOUN	_	18	nmod
+21	της	_	PRON	PRON	_	20	nmod
+22	.	_	PUNCT	PUNCT	_	2	punct
+

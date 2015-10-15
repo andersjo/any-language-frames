@@ -1,0 +1,7 @@
+1	Saw	_	PROPN	PROPN	_	0	root
+2	Christiano	_	PROPN	PROPN	_	1	name
+3	Ronaldo	_	PROPN	PROPN	_	1	name
+4	in	_	ADP	ADP	_	5	case
+5	dubai	_	PROPN	PROPN	_	1	nmod
+6	👌👌	_	PROPN	PROPN	_	5	name
+

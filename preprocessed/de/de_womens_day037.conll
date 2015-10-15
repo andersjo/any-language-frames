@@ -1,0 +1,21 @@
+1	Diese	_	PRON	PRON	_	2	nsubj
+2	beschlossen	_	VERB	VERB	_	0	root
+3	sofort	_	ADV	ADV	_	2	advmod
+4	die	_	DET	DET	_	5	det
+5	Fortführung	_	NOUN	NOUN	_	2	dobj
+6	des	_	DET	DET	_	8	det
+7	Internationalen	_	ADJ	ADJ	_	8	amod
+8	Frauentages	_	NOUN	NOUN	_	5	det
+9	und	_	CONJ	CONJ	_	8	cc
+10	organisierten	_	ADJ	ADJ	_	13	advmod
+11	eine	_	DET	DET	_	12	det
+12	„Rote	_	NOUN	NOUN	_	8	conj
+13	Woche	_	NOUN	NOUN	_	12	appos
+14	“	_	PROPN	PROPN	_	13	appos
+15	vom	_	ADP	ADP	_	16	case
+16	5	_	PROPN	PROPN	_	18	amod
+17	.	_	PUNCT	PUNCT	_	2	punct
+18	–	_	PROPN	PROPN	_	14	conj
+19	12	_	NUM	NUM	_	18	nmod
+20	.	_	PUNCT	PUNCT	_	2	punct
+

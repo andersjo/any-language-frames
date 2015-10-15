@@ -1,0 +1,19 @@
+1	Haushaltsjahr	_	NOUN	NOUN	_	8	nsubj
+2	2015	_	NUM	NUM	_	3	nummod
+3	Kredite	_	NOUN	NOUN	_	4	nsubj
+4	Tilgen	_	NOUN	NOUN	_	8	dobj
+5	und	_	CONJ	CONJ	_	4	cc
+6	einiges	_	PRON	PRON	_	7	det
+7	Neues	_	NOUN	NOUN	_	4	conj
+8	schaffen	_	VERB	VERB	_	0	root
+9	:	_	PUNCT	PUNCT	_	8	punct
+10	Kredite	_	NOUN	NOUN	_	11	dobj
+11	tilgen	_	VERB	VERB	_	7	acl
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	in	_	ADP	ADP	_	14	case
+14	Verbesserungen	_	NOUN	NOUN	_	15	nmod
+15	investieren	_	VERB	VERB	_	8	parataxis
+16	un	_	PROPN	PROPN	_	15	nsubj
+17	...	_	PUNCT	PUNCT	_	16	punct
+18	http://t.co/yyCkYyhj2r	_	PROPN	PROPN	_	15	nsubj
+

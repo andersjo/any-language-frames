@@ -1,0 +1,20 @@
+1	“	_	PROPN	PROPN	_	2	name
+2	@iLGDaily	_	PROPN	PROPN	_	17	nsubj
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Angelina	_	PROPN	PROPN	_	9	name
+5	Jolie	_	PROPN	PROPN	_	9	name
+6	😍	_	X	X	_	9	compound
+7	http://t.co/YrL5AvI81e	_	X	X	_	9	compound
+8	”	_	X	X	_	9	compound
+9	Polalalalallalalala	_	PROPN	PROPN	_	2	appos
+10	cette	_	DET	DET	_	11	det
+11	femme	_	NOUN	NOUN	_	12	compound
+12	c'est	_	NOUN	NOUN	_	2	appos
+13	trop	_	ADV	ADV	_	14	advmod
+14	comment	_	ADV	ADV	_	17	advmod
+15	c'est	_	NOUN	NOUN	_	12	appos
+16	une	_	PRON	PRON	_	17	nsubj
+17	frappe	_	VERB	VERB	_	0	root
+18	!	_	PUNCT	PUNCT	_	12	punct
+19	🚀🚀🚀🚀🚀🚀🚀🚀	_	X	X	_	17	appos
+

@@ -1,0 +1,15 @@
+1	En	_	DET	DET	_	2	det
+2	måned	_	NOUN	NOUN	_	4	nsubj
+3	senere	_	ADV	ADV	_	4	advmod
+4	fik	_	VERB	VERB	_	0	root
+5	Lyon	_	NOUN	NOUN	_	4	nsubj
+6	en	_	DET	DET	_	7	det
+7	bøde	_	NOUN	NOUN	_	4	dobj
+8	på	_	ADP	ADP	_	10	case
+9	5,000	_	NUM	NUM	_	10	nummod
+10	CHF	_	NOUN	NOUN	_	7	nmod
+11	(	_	PUNCT	PUNCT	_	13	punct
+12	26000	_	NUM	NUM	_	13	nummod
+13	kr	_	NOUN	NOUN	_	7	nmod
+14	.	_	PUNCT	PUNCT	_	4	punct
+

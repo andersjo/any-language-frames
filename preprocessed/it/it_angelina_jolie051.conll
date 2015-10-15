@@ -1,0 +1,23 @@
+1	Nel	_	ADP	ADP	_	2	case
+2	2004	_	NUM	NUM	_	3	nummod
+3	è	_	VERB	VERB	_	11	cop
+4	al	_	ADP	ADP	_	5	case
+5	fianco	_	NOUN	NOUN	_	3	nmod
+6	di	_	ADP	ADP	_	7	case
+7	Ethan	_	PROPN	PROPN	_	5	nmod
+8	Hawke	_	PROPN	PROPN	_	7	name
+9	in	_	ADP	ADP	_	11	mark
+10	"	_	PUNCT	PUNCT	_	12	punct
+11	Identità	_	VERB	VERB	_	16	advcl
+12	violate	_	ADJ	ADJ	_	11	xcomp
+13	"	_	PUNCT	PUNCT	_	11	punct
+14	,	_	PUNCT	PUNCT	_	11	punct
+15	dove	_	ADV	ADV	_	16	advmod
+16	interpreta	_	VERB	VERB	_	0	root
+17	un	_	DET	DET	_	18	det
+18	agente	_	NOUN	NOUN	_	16	dobj
+19	dell'F	_	PROPN	PROPN	_	18	nmod
+20	.	_	PUNCT	PUNCT	_	11	punct
+21	B	_	X	X	_	19	appos
+22	.	_	PUNCT	PUNCT	_	11	punct
+

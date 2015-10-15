@@ -1,0 +1,26 @@
+1	Den	_	DET	DET	_	4	det
+2	4	_	NUM	NUM	_	4	nummod
+3	.	_	PUNCT	PUNCT	_	5	punct
+4	juli	_	NOUN	NOUN	_	5	nsubj
+5	præciserede	_	VERB	VERB	_	0	root
+6	Elizondo	_	PROPN	PROPN	_	5	nsubj
+7	,	_	PUNCT	PUNCT	_	12	punct
+8	at	_	SCONJ	SCONJ	_	12	mark
+9	det	_	DET	DET	_	11	det
+10	røde	_	ADJ	ADJ	_	11	amod
+11	kort	_	NOUN	NOUN	_	12	nmod
+12	skyldtes	_	VERB	VERB	_	5	dep
+13	Rooneys	_	PROPN	PROPN	_	14	nmod:poss
+14	overtrædelse	_	NOUN	NOUN	_	12	dobj
+15	og	_	CONJ	CONJ	_	17	dep
+16	ikke	_	ADV	ADV	_	12	neg
+17	skænderiet	_	NOUN	NOUN	_	12	dobj
+18	mellem	_	ADP	ADP	_	19	case
+19	Rooney	_	PROPN	PROPN	_	17	nmod
+20	og	_	CONJ	CONJ	_	19	cc
+21	Ronaldo	_	PROPN	PROPN	_	19	conj
+22	,	_	PUNCT	PUNCT	_	24	punct
+23	der	_	PART	PART	_	24	nsubj
+24	fulgte	_	VERB	VERB	_	19	acl:relcl
+25	.	_	PUNCT	PUNCT	_	5	punct
+

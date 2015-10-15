@@ -1,0 +1,17 @@
+1	Visual	_	PROPN	PROPN	_	8	nmod:poss
+2	Land	_	PROPN	PROPN	_	1	name
+3	Prestige	_	PROPN	PROPN	_	1	name
+4	Elite	_	PROPN	PROPN	_	1	name
+5	9Q	_	NOUN	NOUN	_	4	dep
+6	9	_	NUM	NUM	_	5	nmod
+7	"	_	PUNCT	PUNCT	_	8	punct
+8	WiFi	_	PROPN	PROPN	_	10	nmod:poss
+9	Internet	_	NOUN	NOUN	_	8	dep
+10	Google	_	NOUN	NOUN	_	0	root
+11	Android	_	PROPN	PROPN	_	10	appos
+12	4.4	_	NUM	NUM	_	13	nummod
+13	Tablet	_	NOUN	NOUN	_	14	name
+14	PC	_	PROPN	PROPN	_	10	appos
+15	http://t.co/F3I71RgoFO	_	PROPN	PROPN	_	14	name
+16	http://t.co/7DelQdOsdj	_	PROPN	PROPN	_	14	name
+

@@ -1,0 +1,22 @@
+1	Echa	_	VERB	VERB	_	0	root
+2	un	_	DET	DET	_	3	det
+3	vistazo	_	NOUN	NOUN	_	1	dobj
+4	a	_	ADP	ADP	_	7	case
+5	el	_	DET	DET	_	7	det
+6	nuevo	_	ADJ	ADJ	_	7	amod
+7	juego	_	NOUN	NOUN	_	3	nmod
+8	"	_	PUNCT	PUNCT	_	9	punct
+9	Adivina	_	PROPN	PROPN	_	7	appos
+10	el	_	DET	DET	_	11	det
+11	club	_	NOUN	NOUN	_	9	appos
+12	de	_	ADP	ADP	_	13	case
+13	fútbol	_	NOUN	NOUN	_	11	nmod
+14	"	_	PUNCT	PUNCT	_	9	punct
+15	!	_	PUNCT	PUNCT	_	16	punct
+16	Únete	_	NOUN	NOUN	_	11	appos
+17	ahora	_	ADV	ADV	_	16	advmod
+18	!	_	PUNCT	PUNCT	_	9	punct
+19	@GameLikeApps	_	PROPN	PROPN	_	21	name
+20	https://t.co/kugWLoFDq4	_	PROPN	PROPN	_	21	name
+21	http://t.co/mbs4VQxMwM	_	PROPN	PROPN	_	11	appos
+

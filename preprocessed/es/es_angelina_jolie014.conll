@@ -1,0 +1,16 @@
+1	Ha	_	AUX	AUX	_	2	aux
+2	sido	_	VERB	VERB	_	3	cop
+3	pareja	_	NOUN	NOUN	_	0	root
+4	amorosa	_	ADJ	ADJ	_	3	amod
+5	de	_	ADP	ADP	_	7	case
+6	los	_	DET	DET	_	7	det
+7	actores	_	NOUN	NOUN	_	3	nmod
+8	Jonny	_	PROPN	PROPN	_	10	name
+9	Lee	_	PROPN	PROPN	_	10	name
+10	Miller	_	PROPN	PROPN	_	7	appos
+11	y	_	CONJ	CONJ	_	10	cc
+12	Billy	_	PROPN	PROPN	_	14	name
+13	Bob	_	PROPN	PROPN	_	14	name
+14	Thornton	_	PROPN	PROPN	_	9	conj
+15	.	_	PUNCT	PUNCT	_	3	punct
+

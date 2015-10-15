@@ -1,0 +1,12 @@
+1	I	_	ADP	ADP	_	2	case
+2	Kina	_	PROPN	PROPN	_	3	nmod
+3	får	_	VERB	VERB	_	0	root
+4	alla	_	DET	DET	_	5	det
+5	kvinnor	_	NOUN	NOUN	_	3	nsubj
+6	en	_	DET	DET	_	8	det
+7	ledig	_	ADJ	ADJ	_	8	amod
+8	eftermiddag	_	NOUN	NOUN	_	3	dobj
+9	från	_	ADP	ADP	_	10	case
+10	arbetet	_	NOUN	NOUN	_	8	nmod
+11	.	_	PUNCT	PUNCT	_	3	punct
+

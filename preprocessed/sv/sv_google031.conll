@@ -1,0 +1,21 @@
+1	Google	_	NOUN	NOUN	_	3	nsubjpass
+2	har	_	AUX	AUX	_	3	aux
+3	försökt	_	VERB	VERB	_	0	root
+4	och	_	CONJ	CONJ	_	3	cc
+5	i	_	ADP	ADP	_	9	case
+6	mångt	_	ADJ	ADJ	_	9	amod
+7	och	_	CONJ	CONJ	_	6	cc
+8	mycket	_	ADJ	ADJ	_	6	conj
+9	lyckats	_	NOUN	NOUN	_	3	conj
+10	med	_	ADP	ADP	_	12	case
+11	att	_	PART	PART	_	12	mark
+12	profilera	_	VERB	VERB	_	3	advcl
+13	sig	_	PRON	PRON	_	12	dobj
+14	som	_	CONJ	CONJ	_	19	mark
+15	ett	_	DET	DET	_	19	det
+16	kundvänligt	_	ADJ	ADJ	_	19	amod
+17	och	_	CONJ	CONJ	_	16	cc
+18	innovativt	_	ADJ	ADJ	_	16	conj
+19	företag	_	NOUN	NOUN	_	12	dobj
+20	.	_	PUNCT	PUNCT	_	3	punct
+

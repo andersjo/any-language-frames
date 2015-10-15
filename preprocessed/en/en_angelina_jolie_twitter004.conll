@@ -1,0 +1,24 @@
+1	Brad	_	PROPN	PROPN	_	2	compound
+2	Pitt	_	PROPN	PROPN	_	0	root
+3	and	_	CONJ	CONJ	_	2	cc
+4	Angelina	_	PROPN	PROPN	_	5	compound
+5	Jolie	_	PROPN	PROPN	_	6	compound
+6	understanding	_	NOUN	NOUN	_	2	conj
+7	and	_	CONJ	CONJ	_	6	cc
+8	supporting	_	VERB	VERB	_	6	conj
+9	their	_	PRON	PRON	_	11	nmod:poss
+10	child's	_	NOUN	NOUN	_	11	compound
+11	right	_	NOUN	NOUN	_	8	dobj
+12	to	_	PART	PART	_	11	case
+13	identity	_	NOUN	NOUN	_	8	dobj
+14	as	_	ADP	ADP	_	8	compound:prt
+15	a	_	DET	DET	_	16	det
+16	boy	_	NOUN	NOUN	_	22	nsubj
+17	is	_	VERB	VERB	_	22	cop
+18	incredible	_	ADJ	ADJ	_	0	conj:preconj
+19	sets	_	VERB	VERB	_	11	acl
+20	a	_	DET	DET	_	22	det
+21	great	_	ADJ	ADJ	_	0	foreign
+22	example	_	NOUN	NOUN	_	19	dobj
+23	.	_	PUNCT	PUNCT	_	6	punct
+

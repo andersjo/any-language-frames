@@ -1,0 +1,17 @@
+1	Google	_	PROPN	PROPN	_	11	nsubj
+2	Новости	_	PROPN	PROPN	_	1	nmod
+3	:	_	PUNCT	PUNCT	_	4	punct
+4	Дизайнът	_	NOUN	NOUN	_	1	nmod
+5	на	_	ADP	ADP	_	7	case
+6	Нобеловите	_	ADJ	ADJ	_	7	amod
+7	медали	_	NOUN	NOUN	_	4	nmod
+8	не	_	INTJ	INTJ	_	11	neg
+9	се	_	PRON	PRON	_	11	expl
+10	е	_	AUX	AUX	_	11	aux
+11	променил	_	VERB	VERB	_	0	root
+12	от	_	ADP	ADP	_	13	case
+13	1902	_	NUM	NUM	_	15	nummod
+14	-	_	PUNCT	PUNCT	_	15	punct
+15	Nova	_	PROPN	PROPN	_	11	iobj
+16	News	_	PROPN	PROPN	_	15	name
+

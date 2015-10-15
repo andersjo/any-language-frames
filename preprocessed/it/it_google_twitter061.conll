@@ -1,0 +1,15 @@
+1	Esecuzione	_	NOUN	NOUN	_	0	root
+2	forzata	_	VERB	VERB	_	1	acl
+3	:	_	PUNCT	PUNCT	_	1	punct
+4	nuova	_	ADJ	ADJ	_	5	amod
+5	estinzione	_	NOUN	NOUN	_	2	dobj
+6	anticipata	_	VERB	VERB	_	5	acl
+7	se	_	SCONJ	SCONJ	_	12	mark
+8	alle	_	ADP	ADP	_	9	case
+9	aste	_	NOUN	NOUN	_	12	nmod
+10	non	_	ADV	ADV	_	12	neg
+11	si	_	PRON	PRON	_	12	expl
+12	presenta	_	VERB	VERB	_	6	advcl
+13	nessuno	_	PRON	PRON	_	12	nsubj
+14	http://t.co/KtlhEHu1KA	_	NOUN	NOUN	_	12	nsubj
+

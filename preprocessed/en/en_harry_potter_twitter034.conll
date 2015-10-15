@@ -1,0 +1,15 @@
+1	if	_	SCONJ	SCONJ	_	3	mark
+2	you	_	PRON	PRON	_	3	nsubj
+3	like	_	VERB	VERB	_	0	root
+4	looking	_	VERB	VERB	_	3	xcomp
+5	for	_	ADP	ADP	_	4	compound:prt
+6	alaska	_	PROPN	PROPN	_	8	compound
+7	percy	_	NOUN	NOUN	_	8	compound
+8	jackson	_	NOUN	NOUN	_	4	dobj
+9	or	_	CONJ	CONJ	_	8	cc
+10	harry	_	PROPN	PROPN	_	11	compound
+11	potter	_	NOUN	NOUN	_	8	conj
+12	be	_	VERB	VERB	_	14	cop
+13	my	_	PRON	PRON	_	14	nmod:poss
+14	friend	_	NOUN	NOUN	_	8	conj
+

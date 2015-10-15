@@ -1,0 +1,21 @@
+1	“	_	PUNCT	PUNCT	_	2	punct
+2	@gouldving	_	NOUN	NOUN	_	4	nmod
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Cita	_	VERB	VERB	_	0	root
+5	e	_	CONJ	CONJ	_	4	cc
+6	metti	_	VERB	VERB	_	4	conj
+7	una	_	DET	DET	_	8	det
+8	X	_	PROPN	PROPN	_	6	dobj
+9	Preferisci	_	PROPN	PROPN	_	8	name
+10	[]	_	PUNCT	PUNCT	_	8	punct
+11	Il	_	DET	DET	_	12	det
+12	signore	_	NOUN	NOUN	_	8	appos
+13	degli	_	ADP	ADP	_	14	case
+14	anelli	_	NOUN	NOUN	_	12	nmod
+15	[	_	PUNCT	PUNCT	_	16	punct
+16	x	_	ADJ	ADJ	_	18	amod
+17	]	_	PUNCT	PUNCT	_	16	punct
+18	Harry	_	PROPN	PROPN	_	12	appos
+19	Potter	_	PROPN	PROPN	_	18	name
+20	”	_	PUNCT	PUNCT	_	18	punct
+

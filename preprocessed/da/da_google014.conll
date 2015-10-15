@@ -1,0 +1,16 @@
+1	ved	_	ADP	ADP	_	0	root
+2	at	_	PART	PART	_	1	dep
+3	indeksere	_	VERB	VERB	_	2	dep
+4	tidsskrifter	_	NOUN	NOUN	_	3	dobj
+5	og	_	CONJ	CONJ	_	4	cc
+6	bøger	_	NOUN	NOUN	_	4	conj
+7	,	_	PUNCT	PUNCT	_	1	punct
+8	der	_	PART	PART	_	14	nsubj
+9	ikke	_	ADV	ADV	_	10	neg
+10	nødvendigvis	_	ADV	ADV	_	14	advmod
+11	er	_	AUX	AUX	_	14	cop
+12	frit	_	ADV	ADV	_	13	advmod
+13	tilgængelige	_	ADJ	ADJ	_	14	amod
+14	online	_	NOUN	NOUN	_	3	dobj
+15	.	_	PUNCT	PUNCT	_	1	punct
+

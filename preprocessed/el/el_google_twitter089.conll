@@ -1,0 +1,16 @@
+1	όπου	_	ADV	ADV	_	2	advmod
+2	βλέπετε	_	VERB	VERB	_	0	root
+3	προεκλογικά	_	ADJ	ADJ	_	4	amod
+4	banner	_	NOUN	NOUN	_	2	dobj
+5	πατήστε	_	ADJ	ADJ	_	6	amod
+6	αλυπητα	_	NOUN	NOUN	_	4	nmod
+7	για	_	ADP	ADP	_	10	case
+8	να	_	PART	PART	_	10	aux
+9	τους	_	ADJ	ADJ	_	10	det
+10	ρουφήξετε	_	NOUN	NOUN	_	6	nmod
+11	το	_	ADJ	ADJ	_	12	det
+12	google	_	NOUN	NOUN	_	10	nmod
+13	ad	_	NOUN	NOUN	_	12	nmod
+14	words	_	NOUN	NOUN	_	13	nmod
+15	budget	_	NOUN	NOUN	_	14	nmod
+

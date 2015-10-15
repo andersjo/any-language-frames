@@ -1,0 +1,9 @@
+1	Qui	_	ADV	ADV	_	3	advmod
+2	a	_	ADP	ADP	_	3	case
+3	fini	_	NOUN	NOUN	_	5	nmod
+4	la	_	DET	DET	_	5	det
+5	saga	_	NOUN	NOUN	_	0	root
+6	Harry	_	PROPN	PROPN	_	5	nmod
+7	Potter	_	PROPN	PROPN	_	6	name
+8	?!	_	PROPN	PROPN	_	6	name
+

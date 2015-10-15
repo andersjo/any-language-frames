@@ -1,0 +1,12 @@
+1	Google	_	PROPN	PROPN	_	2	nsubj
+2	stellt	_	VERB	VERB	_	0	root
+3	uns	_	PRON	PRON	_	2	dobj
+4	als	_	ADP	ADP	_	6	case
+5	Psycho	_	PROPN	PROPN	_	6	name
+6	da	_	PROPN	PROPN	_	2	nmod
+7	.	_	PUNCT	PUNCT	_	6	punct
+8	😃	_	PROPN	PROPN	_	9	name
+9	❤	_	PROPN	PROPN	_	11	name
+10	️	_	PROPN	PROPN	_	11	name
+11	@Nora_liont	_	PROPN	PROPN	_	6	conj
+

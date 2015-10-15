@@ -1,0 +1,12 @@
+1	Kartei	_	NOUN	NOUN	_	10	nsubj
+2	der	_	DET	DET	_	3	det
+3	Not	_	NOUN	NOUN	_	1	det
+4	:	_	PUNCT	PUNCT	_	1	punct
+5	In	_	ADP	ADP	_	7	case
+6	acht	_	NUM	NUM	_	7	nummod
+7	F�llen	_	NOUN	NOUN	_	8	nmod
+8	wichtige	_	ADJ	ADJ	_	9	amod
+9	Hilfe	_	NOUN	NOUN	_	10	nsubj
+10	geleistet	_	VERB	VERB	_	0	root
+11	http://t.co/jX0wuV7reH	_	ADJ	ADJ	_	10	advmod
+

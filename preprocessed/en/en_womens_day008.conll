@@ -1,0 +1,17 @@
+1	There	_	ADV	ADV	_	2	expl
+2	was	_	VERB	VERB	_	0	root
+3	no	_	DET	DET	_	5	neg
+4	specific	_	ADJ	ADJ	_	0	foreign
+5	strike	_	NOUN	NOUN	_	2	nsubj
+6	happening	_	VERB	VERB	_	5	acl
+7	in	_	ADP	ADP	_	6	compound:prt
+8	March	_	PROPN	PROPN	_	6	nmod
+9	8	_	NUM	NUM	_	8	nummod
+10	,	_	PUNCT	PUNCT	_	2	punct
+11	despite	_	ADP	ADP	_	6	compound:prt
+12	later	_	ADJ	ADJ	_	0	foreign
+13	sources	_	NOUN	NOUN	_	14	nsubj
+14	claiming	_	VERB	VERB	_	6	advcl
+15	so	_	ADV	ADV	_	14	advmod
+16	.	_	PUNCT	PUNCT	_	2	punct
+

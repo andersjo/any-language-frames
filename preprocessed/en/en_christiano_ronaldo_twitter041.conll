@@ -1,0 +1,15 @@
+1	#ValenciaRealMadrid	_	PROPN	PROPN	_	4	compound
+2	1:0	_	NUM	NUM	_	1	nummod
+3	for	_	ADP	ADP	_	0	compound:prt
+4	Real	_	PROPN	PROPN	_	5	appos
+5	it	_	PRON	PRON	_	8	nsubj
+6	was	_	VERB	VERB	_	8	cop
+7	Christiano	_	PROPN	PROPN	_	8	compound
+8	Ronaldo	_	PROPN	PROPN	_	11	compound
+9	with	_	ADP	ADP	_	6	compound:prt
+10	a	_	DET	DET	_	11	det
+11	penalty	_	NOUN	NOUN	_	3	conj
+12	as	_	ADP	ADP	_	6	compound:prt
+13	usual	_	ADJ	ADJ	_	0	foreign
+14	:D	_	SYM	SYM	_	4	discourse
+

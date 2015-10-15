@@ -1,0 +1,26 @@
+1	На	_	ADP	ADP	_	3	case
+2	тази	_	DET	DET	_	3	det
+3	възраст	_	NOUN	NOUN	_	6	nmod
+4	Анджелина	_	PROPN	PROPN	_	6	nsubj
+5	се	_	PRON	PRON	_	6	expl
+6	обличала	_	VERB	VERB	_	12	ccomp
+7	само	_	ADV	ADV	_	10	advmod
+8	с	_	ADP	ADP	_	10	case
+9	черни	_	ADJ	ADJ	_	10	amod
+10	дрехи	_	NOUN	NOUN	_	6	iobj
+11	,	_	PUNCT	PUNCT	_	6	punct
+12	боядисвала	_	VERB	VERB	_	0	root
+13	косите	_	NOUN	NOUN	_	12	dobj
+14	си	_	VERB	VERB	_	12	ccomp
+15	червени	_	ADJ	ADJ	_	21	amod
+16	и	_	CONJ	CONJ	_	6	cc
+17	,	_	PUNCT	PUNCT	_	12	punct
+18	по	_	ADP	ADP	_	21	case
+19	собствените	_	ADJ	ADJ	_	21	amod
+20	ѝ	_	ADJ	ADJ	_	21	amod
+21	признания	_	NOUN	NOUN	_	14	nmod
+22	,	_	PUNCT	PUNCT	_	12	punct
+23	се	_	PRON	PRON	_	24	expl
+24	ненавиждала	_	VERB	VERB	_	21	acl
+25	.	_	PUNCT	PUNCT	_	12	punct
+

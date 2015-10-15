@@ -1,0 +1,14 @@
+1	Cette	_	DET	DET	_	2	det
+2	journée	_	NOUN	NOUN	_	5	nsubjpass
+3	est	_	AUX	AUX	_	5	auxpass
+4	ensuite	_	ADV	ADV	_	5	advmod
+5	célébrée	_	VERB	VERB	_	0	root
+6	le	_	DET	DET	_	8	det
+7	dernier	_	ADJ	ADJ	_	8	amod
+8	dimanche	_	NOUN	NOUN	_	5	nmod
+9	de	_	ADP	ADP	_	10	case
+10	février	_	NOUN	NOUN	_	8	nmod
+11	jusqu'en	_	ADP	ADP	_	12	case
+12	1913	_	NUM	NUM	_	5	nmod
+13	.	_	PUNCT	PUNCT	_	5	punct
+

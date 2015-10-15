@@ -1,0 +1,9 @@
+1	September	_	PROPN	PROPN	_	6	dep
+2	1998	_	NUM	NUM	_	1	nmod
+3	die	_	DET	DET	_	6	det
+4	"	_	PUNCT	PUNCT	_	6	punct
+5	Google	_	PROPN	PROPN	_	6	name
+6	Inc	_	PROPN	PROPN	_	0	root
+7	"	_	PUNCT	PUNCT	_	6	punct
+8	.	_	PUNCT	PUNCT	_	6	punct
+

@@ -1,0 +1,15 @@
+1	@AlexHmpf	_	PROPN	PROPN	_	3	name
+2	@YouTube	_	PROPN	PROPN	_	3	name
+3	Die	_	PROPN	PROPN	_	4	nsubj
+4	ändert	_	VERB	VERB	_	0	root
+5	ja	_	ADV	ADV	_	4	advmod
+6	ihre	_	DET	DET	_	7	nmod:poss
+7	Intros	_	PROPN	PROPN	_	4	dobj
+8	öfter	_	ADJ	ADJ	_	4	advmod
+9	als	_	ADP	ADP	_	11	case
+10	Christiano	_	PROPN	PROPN	_	11	name
+11	Ronaldo	_	PROPN	PROPN	_	4	nmod
+12	seine	_	DET	DET	_	13	nmod:poss
+13	Frisur	_	PROPN	PROPN	_	11	dobj
+14	.	_	PUNCT	PUNCT	_	4	punct
+

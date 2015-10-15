@@ -1,0 +1,14 @@
+1	Черния	_	ADJ	ADJ	_	2	amod
+2	знак	_	NOUN	NOUN	_	4	nsubjpass
+3	е	_	AUX	AUX	_	4	aux
+4	знакът	_	VERB	VERB	_	0	root
+5	на	_	ADP	ADP	_	7	case
+6	Волдемор	_	ADJ	ADJ	_	7	amod
+7	използван	_	NOUN	NOUN	_	4	iobj
+8	в	_	ADP	ADP	_	9	case
+9	книгите	_	NOUN	NOUN	_	7	nmod
+10	за	_	ADP	ADP	_	11	case
+11	Хари	_	PROPN	PROPN	_	9	nmod
+12	Потър	_	PROPN	PROPN	_	11	name
+13	.	_	PUNCT	PUNCT	_	4	punct
+

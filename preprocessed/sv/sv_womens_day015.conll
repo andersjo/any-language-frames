@@ -1,0 +1,27 @@
+1	År	_	NOUN	NOUN	_	2	det
+2	1911	_	NUM	NUM	_	3	nmod
+3	firades	_	VERB	VERB	_	0	root
+4	kvinnodagen	_	NOUN	NOUN	_	3	nsubj
+5	den	_	DET	DET	_	7	det
+6	19	_	NUM	NUM	_	7	nummod
+7	mars	_	NOUN	NOUN	_	3	nmod
+8	i	_	ADP	ADP	_	10	case
+9	fyra	_	NUM	NUM	_	10	nummod
+10	länder	_	NOUN	NOUN	_	7	nmod
+11	:	_	PUNCT	PUNCT	_	10	punct
+12	Danmark	_	PROPN	PROPN	_	10	appos
+13	,	_	PUNCT	PUNCT	_	12	punct
+14	Schweiz	_	PROPN	PROPN	_	12	conj
+15	,	_	PUNCT	PUNCT	_	12	punct
+16	Tyskland	_	PROPN	PROPN	_	12	conj
+17	och	_	CONJ	CONJ	_	12	cc
+18	Österrike	_	PROPN	PROPN	_	12	conj
+19	,	_	PUNCT	PUNCT	_	12	punct
+20	vilket	_	DET	DET	_	21	det
+21	samlade	_	ADJ	ADJ	_	18	acl
+22	över	_	ADP	ADP	_	25	case
+23	en	_	DET	DET	_	24	det
+24	miljon	_	NOUN	NOUN	_	25	det
+25	människor	_	NOUN	NOUN	_	21	nmod
+26	.	_	PUNCT	PUNCT	_	3	punct
+

@@ -1,0 +1,13 @@
+1	@LarrysAllStar	_	PROPN	PROPN	_	4	nsubj
+2	@camerondallas	_	PROPN	PROPN	_	1	name
+3	ti	_	PRON	PRON	_	4	dobj
+4	immagini	_	NOUN	NOUN	_	0	root
+5	....	_	PROPN	PROPN	_	4	nmod
+6	cam	_	PROPN	PROPN	_	5	name
+7	su	_	ADP	ADP	_	9	case
+8	google	_	ADJ	ADJ	_	9	amod
+9	traduttore	_	NOUN	NOUN	_	5	nmod
+10	a	_	ADP	ADP	_	11	mark
+11	vedere	_	VERB	VERB	_	9	acl
+12	tutto	_	DET	DET	_	11	dobj
+

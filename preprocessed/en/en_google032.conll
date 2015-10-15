@@ -1,0 +1,21 @@
+1	This	_	DET	DET	_	2	nsubj
+2	marked	_	VERB	VERB	_	0	root
+3	the	_	DET	DET	_	5	det
+4	first	_	ADJ	ADJ	_	0	foreign
+5	time	_	NOUN	NOUN	_	2	dobj
+6	the	_	DET	DET	_	7	det
+7	company	_	NOUN	NOUN	_	9	nsubj
+8	had	_	AUX	AUX	_	9	aux
+9	reached	_	VERB	VERB	_	5	acl:relcl
+10	this	_	DET	DET	_	11	det
+11	feat	_	NOUN	NOUN	_	9	dobj
+12	,	_	PUNCT	PUNCT	_	9	punct
+13	topping	_	VERB	VERB	_	9	conj
+14	their	_	PRON	PRON	_	16	nmod:poss
+15	2011	_	NUM	NUM	_	16	nummod
+16	total	_	NOUN	NOUN	_	13	dobj
+17	of	_	ADP	ADP	_	13	compound:prt
+18	$38	_	PROPN	PROPN	_	16	appos
+19	billion	_	NUM	NUM	_	18	nummod
+20	.	_	PUNCT	PUNCT	_	2	punct
+

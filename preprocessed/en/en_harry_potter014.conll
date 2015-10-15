@@ -1,0 +1,23 @@
+1	The	_	DET	DET	_	2	det
+2	series	_	NOUN	NOUN	_	4	nsubj
+3	also	_	ADV	ADV	_	4	advmod
+4	originated	_	VERB	VERB	_	0	root
+5	much	_	ADJ	ADJ	_	0	iobj
+6	tie-in	_	NOUN	NOUN	_	7	compound
+7	merchandise	_	NOUN	NOUN	_	4	dobj
+8	,	_	PUNCT	PUNCT	_	4	punct
+9	making	_	VERB	VERB	_	4	advcl
+10	the	_	DET	DET	_	13	det
+11	"	_	PUNCT	PUNCT	_	13	punct
+12	Harry	_	PROPN	PROPN	_	13	compound
+13	Potter	_	PROPN	PROPN	_	9	dobj
+14	"	_	PUNCT	PUNCT	_	13	punct
+15	brand	_	ADV	ADV	_	18	advmod
+16	worth	_	ADJ	ADJ	_	0	foreign
+17	in	_	ADP	ADP	_	18	compound
+18	excess	_	NOUN	NOUN	_	9	dobj
+19	of	_	ADP	ADP	_	18	compound
+20	$15	_	PROPN	PROPN	_	18	nmod
+21	billion	_	NUM	NUM	_	20	nummod
+22	.	_	PUNCT	PUNCT	_	4	punct
+

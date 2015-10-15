@@ -1,0 +1,17 @@
+1	Harry	_	PROPN	PROPN	_	3	nsubj
+2	a	_	AUX	AUX	_	3	aux
+3	gardé	_	VERB	VERB	_	0	root
+4	comme	_	ADP	ADP	_	5	case
+5	marque	_	NOUN	NOUN	_	3	nmod
+6	de	_	ADP	ADP	_	7	case
+7	l'affrontement	_	NOUN	NOUN	_	5	nmod
+8	une	_	DET	DET	_	9	det
+9	cicatrice	_	NOUN	NOUN	_	3	dobj
+10	en	_	ADP	ADP	_	11	case
+11	forme	_	NOUN	NOUN	_	9	nmod
+12	d'éclair	_	PROPN	PROPN	_	11	appos
+13	sur	_	ADP	ADP	_	15	case
+14	le	_	DET	DET	_	15	det
+15	front	_	NOUN	NOUN	_	3	nmod
+16	.	_	PUNCT	PUNCT	_	3	punct
+

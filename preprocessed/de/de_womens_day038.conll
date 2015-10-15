@@ -1,0 +1,19 @@
+1	Auch	_	ADV	ADV	_	4	advmod
+2	im	_	ADP	ADP	_	4	case
+3	folgenden	_	ADJ	ADJ	_	4	amod
+4	Jahr	_	NOUN	NOUN	_	14	nmod
+5	wurde	_	AUX	AUX	_	14	auxpass
+6	der	_	DET	DET	_	7	det
+7	Frauentag	_	NOUN	NOUN	_	14	nsubjpass
+8	von	_	ADP	ADP	_	10	case
+9	linken	_	ADJ	ADJ	_	10	amod
+10	Kräften	_	NOUN	NOUN	_	14	nmod
+11	in	_	ADP	ADP	_	13	case
+12	der	_	DET	DET	_	13	det
+13	USPD	_	PROPN	PROPN	_	10	nmod
+14	vorbereitet	_	VERB	VERB	_	0	root
+15	und	_	CONJ	CONJ	_	14	cc
+16	am	_	ADP	ADP	_	14	case
+17	5	_	NUM	NUM	_	16	dep
+18	.	_	PUNCT	PUNCT	_	17	punct
+

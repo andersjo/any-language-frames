@@ -1,0 +1,26 @@
+1	Me	_	PRON	PRON	_	3	iobj
+2	ha	_	AUX	AUX	_	3	aux
+3	gustado	_	VERB	VERB	_	0	root
+4	un	_	DET	DET	_	5	det
+5	vídeo	_	NOUN	NOUN	_	3	dobj
+6	de	_	ADP	ADP	_	7	case
+7	@YouTube	_	PROPN	PROPN	_	5	nmod
+8	de	_	ADP	ADP	_	9	case
+9	@cafuentes_1	_	X	X	_	5	nmod
+10	(	_	PUNCT	PUNCT	_	11	punct
+11	http://t.co/B04A5Ua5Tc	_	PROPN	PROPN	_	9	appos
+12	-	_	PUNCT	PUNCT	_	11	punct
+13	Harry	_	PROPN	PROPN	_	14	name
+14	Potter	_	PROPN	PROPN	_	11	conj
+15	y	_	CONJ	CONJ	_	11	cc
+16	las	_	DET	DET	_	17	det
+17	Reliquias	_	NOUN	NOUN	_	11	conj
+18	de	_	ADP	ADP	_	20	case
+19	la	_	DET	DET	_	20	det
+20	Muerte	_	PROPN	PROPN	_	17	nmod
+21	Pt2	_	PROPN	PROPN	_	20	amod
+22	|	_	PUNCT	PUNCT	_	11	punct
+23	Cap	_	PROPN	PROPN	_	21	appos
+24	:	_	PUNCT	PUNCT	_	23	punct
+25	6	_	NUM	NUM	_	23	nummod
+

@@ -1,0 +1,10 @@
+1	@Sthe4Bucs	_	PROPN	PROPN	_	3	compound
+2	christiano	_	PROPN	PROPN	_	3	compound
+3	ronaldo	_	PROPN	PROPN	_	4	nsubj
+4	being	_	VERB	VERB	_	9	cop
+5	the	_	DET	DET	_	6	det
+6	worlds	_	NOUN	NOUN	_	9	compound
+7	best	_	ADJ	ADJ	_	0	foreign
+8	soccer	_	NOUN	NOUN	_	9	compound
+9	player	_	NOUN	NOUN	_	0	root
+

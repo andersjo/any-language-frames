@@ -1,0 +1,16 @@
+1	Her	_	PRON	PRON	_	2	nmod:poss
+2	brother	_	NOUN	NOUN	_	6	nsubj
+3	is	_	VERB	VERB	_	6	cop
+4	actor	_	NOUN	NOUN	_	6	compound
+5	James	_	PROPN	PROPN	_	6	compound
+6	Haven	_	PROPN	PROPN	_	0	root
+7	and	_	CONJ	CONJ	_	6	cc
+8	their	_	PRON	PRON	_	10	nmod:poss
+9	paternal	_	NOUN	NOUN	_	10	compound
+10	uncle	_	NOUN	NOUN	_	6	conj
+11	is	_	VERB	VERB	_	14	cop
+12	singer-songwriter	_	NOUN	NOUN	_	14	compound
+13	Chip	_	PROPN	PROPN	_	14	compound
+14	Taylor	_	PROPN	PROPN	_	6	conj
+15	.	_	PUNCT	PUNCT	_	4	punct
+

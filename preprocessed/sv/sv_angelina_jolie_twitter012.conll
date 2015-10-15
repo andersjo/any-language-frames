@@ -1,0 +1,23 @@
+1	Angelina	_	ADJ	ADJ	_	2	amod
+2	Jolie	_	NOUN	NOUN	_	7	nsubj
+3	är	_	AUX	AUX	_	11	cop
+4	ju	_	ADV	ADV	_	7	advmod
+5	den	_	DET	DET	_	7	det
+6	snyggaste	_	ADJ	ADJ	_	7	amod
+7	människan	_	NOUN	NOUN	_	11	nsubj
+8	i	_	ADP	ADP	_	10	case
+9	universum	_	NOUN	NOUN	_	10	nmod:poss
+10	PLUS	_	NOUN	NOUN	_	7	nmod
+11	jätteengagerad	_	ADJ	ADJ	_	0	root
+12	i	_	ADP	ADP	_	13	case
+13	världsproblem	_	NOUN	NOUN	_	11	nmod
+14	och	_	CONJ	CONJ	_	13	cc
+15	viktiga	_	ADJ	ADJ	_	16	amod
+16	frågor	_	NOUN	NOUN	_	13	conj
+17	,	_	PUNCT	PUNCT	_	16	punct
+18	plz	_	NOUN	NOUN	_	16	conj
+19	låt	_	VERB	VERB	_	16	parataxis
+20	mig	_	PRON	PRON	_	19	dobj
+21	vara	_	AUX	AUX	_	22	cop
+22	dig	_	PRON	PRON	_	19	iobj
+

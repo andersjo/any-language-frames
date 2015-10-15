@@ -1,0 +1,18 @@
+1	It's	_	PRON	PRON	_	4	nmod:poss
+2	53	_	NUM	NUM	_	0	root
+3	'	_	PUNCT	PUNCT	_	4	punct
+4	degrees	_	NOUN	NOUN	_	2	appos
+5	now	_	ADV	ADV	_	4	advmod
+6	&	_	CONJ	CONJ	_	4	cc
+7	it's	_	PRON	PRON	_	8	nmod:poss
+8	gonna	_	PROPN	PROPN	_	11	nsubj
+9	be	_	VERB	VERB	_	11	cop
+10	28	_	NUM	NUM	_	11	nummod
+11	tomorrow	_	NOUN	NOUN	_	4	nmod:tmod
+12	.	_	PUNCT	PUNCT	_	11	punct
+13	DAMN	_	ADV	ADV	_	16	advmod
+14	YOU	_	PRON	PRON	_	16	nmod:poss
+15	GLOBAL	_	ADJ	ADJ	_	0	punct
+16	WARMING	_	NOUN	NOUN	_	11	appos
+17	!	_	PUNCT	PUNCT	_	11	punct
+

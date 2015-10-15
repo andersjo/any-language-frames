@@ -1,0 +1,21 @@
+1	Cubo	_	PROPN	PROPN	_	15	nsubj
+2	di	_	ADP	ADP	_	3	case
+3	Rubik	_	PROPN	PROPN	_	1	nmod
+4	:	_	PUNCT	PUNCT	_	1	punct
+5	un	_	DET	DET	_	6	det
+6	16enne	_	NOUN	NOUN	_	15	nmod
+7	di	_	ADP	ADP	_	8	case
+8	Gorizia	_	NOUN	NOUN	_	6	nmod
+9	conquista	_	NOUN	NOUN	_	8	compound
+10	il	_	DET	DET	_	11	det
+11	record	_	NOUN	NOUN	_	15	nsubj
+12	mondiale	_	ADJ	ADJ	_	11	amod
+13	http://t.co/cIYV8Anqdp	_	NOUN	NOUN	_	11	nmod
+14	Mi	_	PRON	PRON	_	15	iobj
+15	sa	_	VERB	VERB	_	0	root
+16	che	_	DET	DET	_	18	det
+17	#google	_	ADJ	ADJ	_	18	amod
+18	l'ha	_	NOUN	NOUN	_	15	dobj
+19	già	_	ADV	ADV	_	20	advmod
+20	notato	_	VERB	VERB	_	18	acl
+

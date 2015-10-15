@@ -1,0 +1,16 @@
+1	Harry	_	ADJ	ADJ	_	2	amod
+2	Potter	_	NOUN	NOUN	_	0	root
+3	1-2-3-4-5-6-7-8	_	NUM	NUM	_	2	nmod
+4	(	_	PUNCT	PUNCT	_	5	punct
+5	BoxSet	_	NOUN	NOUN	_	2	appos
+6	-	_	PUNCT	PUNCT	_	5	punct
+7	BDRip	_	NOUN	NOUN	_	5	list
+8	XviD	_	NOUN	NOUN	_	7	nmod:poss
+9	)	_	PUNCT	PUNCT	_	5	punct
+10	Türkçe	_	PROPN	PROPN	_	8	appos
+11	Dublaj	_	PROPN	PROPN	_	10	name
+12	indir	_	PROPN	PROPN	_	10	name
+13	-	_	PUNCT	PUNCT	_	10	punct
+14	http://t.co/ddzZuC9D4S	_	ADJ	ADJ	_	15	amod
+15	http://t.co/mVmZu0B4mI	_	NOUN	NOUN	_	10	conj
+

@@ -1,0 +1,11 @@
+1	@oliverandrich	_	PROPN	PROPN	_	9	nsubj
+2	Also	_	ADV	ADV	_	9	advmod
+3	sind	_	VERB	VERB	_	9	cop
+4	wir	_	PRON	PRON	_	9	nsubj
+5	auch	_	ADV	ADV	_	8	advmod
+6	an	_	ADP	ADP	_	8	case
+7	Global	_	PROPN	PROPN	_	8	name
+8	Warming	_	PROPN	PROPN	_	9	nmod
+9	schuld	_	ADJ	ADJ	_	0	root
+10	?	_	PUNCT	PUNCT	_	9	punct
+

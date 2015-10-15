@@ -1,0 +1,18 @@
+1	#AngelinaJolie	_	VERB	VERB	_	0	root
+2	#Fans	_	PROPN	PROPN	_	1	nsubj
+3	Us	_	PROPN	PROPN	_	2	name
+4	Magazine	_	PROPN	PROPN	_	2	name
+5	December	_	PROPN	PROPN	_	2	name
+6	25.2006	_	NUM	NUM	_	2	name
+7	Angelina	_	PROPN	PROPN	_	2	conj
+8	Jolie	_	PROPN	PROPN	_	7	name
+9	,	_	PUNCT	PUNCT	_	2	punct
+10	Jennifer	_	PROPN	PROPN	_	7	conj
+11	Aniston	_	PROPN	PROPN	_	10	name
+12	,	_	PUNCT	PUNCT	_	2	punct
+13	Melissa	_	PROPN	PROPN	_	7	conj
+14	…	_	PUNCT	PUNCT	_	1	punct
+15	http://t.co/TgEXCVvcsY	_	NOUN	NOUN	_	10	appos
+16	#Collectibles	_	NOUN	NOUN	_	15	compound
+17	#Sale	_	ADJ	ADJ	_	16	amod
+

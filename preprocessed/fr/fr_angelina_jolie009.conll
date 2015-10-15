@@ -1,0 +1,16 @@
+1	Son	_	DET	DET	_	3	nmod:poss
+2	premier	_	ADJ	ADJ	_	3	amod
+3	rôle	_	NOUN	NOUN	_	0	root
+4	principal	_	ADJ	ADJ	_	3	amod
+5	dans	_	ADP	ADP	_	7	case
+6	un	_	DET	DET	_	7	det
+7	film	_	NOUN	NOUN	_	3	nmod
+8	important	_	ADJ	ADJ	_	7	amod
+9	est	_	VERB	VERB	_	7	acl
+10	dans	_	ADP	ADP	_	14	case
+11	'	_	PUNCT	PUNCT	_	10	punct
+12	,	_	PUNCT	PUNCT	_	7	punct
+13	en	_	ADP	ADP	_	14	case
+14	1995	_	NUM	NUM	_	9	nmod
+15	.	_	PUNCT	PUNCT	_	7	punct
+

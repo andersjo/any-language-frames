@@ -1,0 +1,12 @@
+1	Watching	_	VERB	VERB	_	0	root
+2	Harry	_	PROPN	PROPN	_	3	compound
+3	potter	_	NOUN	NOUN	_	1	dobj
+4	and	_	CONJ	CONJ	_	1	cc
+5	my	_	PRON	PRON	_	6	nmod:poss
+6	mom	_	NOUN	NOUN	_	3	conj
+7	called	_	VERB	VERB	_	8	amod
+8	Voldemort	_	NOUN	NOUN	_	3	conj
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	Vladmir	_	PROPN	PROPN	_	11	compound
+11	😂😂😂😂	_	PROPN	PROPN	_	8	appos
+

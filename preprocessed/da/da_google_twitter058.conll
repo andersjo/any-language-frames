@@ -1,0 +1,8 @@
+1	quotes	_	VERB	VERB	_	0	root
+2	weheartit	_	NOUN	NOUN	_	1	dobj
+3	-	_	PUNCT	PUNCT	_	2	punct
+4	Sök	_	NOUN	NOUN	_	1	dobj
+5	på	_	ADP	ADP	_	7	case
+6	Google	_	NOUN	NOUN	_	7	nmod:poss
+7	http://t.co/YG0Jdivqzw	_	NOUN	NOUN	_	4	nmod
+

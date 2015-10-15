@@ -1,0 +1,19 @@
+1	Harry	_	PROPN	PROPN	_	2	name
+2	Potter	_	PROPN	PROPN	_	4	name
+3	i	_	X	X	_	4	compound
+4	love	_	PROPN	PROPN	_	7	name
+5	you	_	X	X	_	9	compound
+6	for	_	X	X	_	9	compound
+7	ever	_	PROPN	PROPN	_	9	name
+8	😍	_	X	X	_	9	compound
+9	apres	_	X	X	_	0	root
+10	dans	_	ADP	ADP	_	13	case
+11	les	_	DET	DET	_	13	det
+12	autres	_	ADJ	ADJ	_	13	amod
+13	films	_	NOUN	NOUN	_	9	conj
+14	t	_	PART	PART	_	15	expl
+15	nul	_	PRON	PRON	_	13	nmod
+16	mais	_	CONJ	CONJ	_	15	cc
+17	jtm	_	PROPN	PROPN	_	18	name
+18	bb	_	PROPN	PROPN	_	13	appos
+

@@ -1,0 +1,20 @@
+1	#Entertainment	_	PROPN	PROPN	_	2	name
+2	#News	_	PROPN	PROPN	_	3	name
+3	Gia	_	PROPN	PROPN	_	6	name
+4	DVD	_	PROPN	PROPN	_	6	name
+5	Angelina	_	PROPN	PROPN	_	6	name
+6	Jolie	_	PROPN	PROPN	_	0	root
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	Faye	_	PROPN	PROPN	_	9	name
+9	Dunaway	_	PROPN	PROPN	_	6	conj
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	Elizabeth	_	PROPN	PROPN	_	12	name
+12	Mitchell	_	PROPN	PROPN	_	6	conj
+13	,	_	PUNCT	PUNCT	_	9	punct
+14	Mercedes	_	PROPN	PROPN	_	15	name
+15	Ruehl	_	PROPN	PROPN	_	16	name
+16	,…	_	PROPN	PROPN	_	17	name
+17	http://t.co/wYOlH9mzQR	_	PROPN	PROPN	_	19	name
+18	#AngelinaJolie	_	PROPN	PROPN	_	19	name
+19	#Fans	_	PROPN	PROPN	_	12	conj
+

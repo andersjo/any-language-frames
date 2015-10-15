@@ -1,0 +1,15 @@
+1	Her	_	ADV	ADV	_	4	advmod
+2	har	_	AUX	AUX	_	4	aux
+3	Google	_	NOUN	NOUN	_	4	nsubj
+4	fjernet	_	VERB	VERB	_	0	root
+5	den	_	DET	DET	_	7	det
+6	oprindelige	_	ADJ	ADJ	_	7	amod
+7	henvisning	_	NOUN	NOUN	_	4	dobj
+8	og	_	CONJ	CONJ	_	4	cc
+9	henviser	_	VERB	VERB	_	4	conj
+10	i	_	ADP	ADP	_	11	case
+11	stedet	_	NOUN	NOUN	_	9	nmod
+12	til	_	ADP	ADP	_	13	case
+13	klageren	_	NOUN	NOUN	_	11	nmod
+14	.	_	PUNCT	PUNCT	_	4	punct
+

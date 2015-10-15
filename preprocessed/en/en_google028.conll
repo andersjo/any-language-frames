@@ -1,0 +1,20 @@
+1	It	_	PRON	PRON	_	3	nsubjpass
+2	was	_	AUX	AUX	_	3	auxpass
+3	based	_	VERB	VERB	_	0	root
+4	in	_	ADP	ADP	_	3	compound:prt
+5	the	_	DET	DET	_	6	det
+6	garage	_	NOUN	NOUN	_	3	dobj
+7	of	_	ADP	ADP	_	3	compound:prt
+8	a	_	DET	DET	_	9	det
+9	friend	_	NOUN	NOUN	_	3	nmod:npmod
+10	(	_	PUNCT	PUNCT	_	3	punct
+11	Susan	_	PROPN	PROPN	_	12	compound
+12	Wojcicki	_	PROPN	PROPN	_	9	appos
+13	)	_	PUNCT	PUNCT	_	3	punct
+14	in	_	ADP	ADP	_	0	neg
+15	Menlo	_	PROPN	PROPN	_	16	compound
+16	Park	_	PROPN	PROPN	_	12	conj
+17	,	_	PUNCT	PUNCT	_	16	punct
+18	California	_	PROPN	PROPN	_	16	appos
+19	.	_	PUNCT	PUNCT	_	3	punct
+

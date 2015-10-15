@@ -1,0 +1,17 @@
+1	Interpretó	_	VERB	VERB	_	0	root
+2	a	_	ADP	ADP	_	4	case
+3	un	_	DET	DET	_	4	det
+4	personaje	_	NOUN	NOUN	_	1	dobj
+5	principal	_	ADJ	ADJ	_	4	amod
+6	en	_	ADP	ADP	_	8	case
+7	el	_	DET	DET	_	8	det
+8	filme	_	NOUN	NOUN	_	4	nmod
+9	para	_	ADP	ADP	_	10	case
+10	televisión	_	NOUN	NOUN	_	8	nmod
+11	"	_	PUNCT	PUNCT	_	12	punct
+12	GIA	_	PROPN	PROPN	_	8	appos
+13	"	_	PUNCT	PUNCT	_	12	punct
+14	de	_	ADP	ADP	_	15	case
+15	1998	_	NUM	NUM	_	12	nmod
+16	.	_	PUNCT	PUNCT	_	1	punct
+

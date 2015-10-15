@@ -1,0 +1,10 @@
+1	De	_	DET	DET	_	3	det
+2	svenska	_	ADJ	ADJ	_	3	amod
+3	översättningarna	_	NOUN	NOUN	_	5	nsubjpass
+4	har	_	AUX	AUX	_	5	aux
+5	gjorts	_	VERB	VERB	_	0	root
+6	av	_	ADP	ADP	_	8	case
+7	Lena	_	NOUN	NOUN	_	8	nmod:poss
+8	Fries-Gedin	_	NOUN	NOUN	_	5	nmod
+9	.	_	PUNCT	PUNCT	_	5	punct
+

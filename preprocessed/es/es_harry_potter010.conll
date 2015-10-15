@@ -1,0 +1,11 @@
+1	La	_	DET	DET	_	2	det
+2	historia	_	NOUN	NOUN	_	3	nsubj
+3	comienza	_	VERB	VERB	_	0	root
+4	con	_	ADP	ADP	_	6	case
+5	la	_	DET	DET	_	6	det
+6	celebración	_	NOUN	NOUN	_	3	nmod
+7	del	_	ADP	ADP	_	8	case
+8	mundo	_	NOUN	NOUN	_	6	nmod
+9	mágico	_	ADJ	ADJ	_	8	amod
+10	.	_	PUNCT	PUNCT	_	3	punct
+

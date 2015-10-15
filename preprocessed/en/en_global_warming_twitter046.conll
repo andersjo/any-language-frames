@@ -1,0 +1,21 @@
+1	U.S.	_	PROPN	PROPN	_	2	compound
+2	Wildfires	_	PROPN	PROPN	_	0	root
+3	Inversely	_	NOUN	NOUN	_	4	compound
+4	Correlated	_	NOUN	NOUN	_	2	list
+5	With	_	ADP	ADP	_	4	compound
+6	CO2	_	NOUN	NOUN	_	2	list
+7	-	_	PUNCT	PUNCT	_	6	punct
+8	The	_	DET	DET	_	10	det
+9	More	_	ADJ	ADJ	_	0	remnant
+10	CO2	_	NOUN	NOUN	_	2	list
+11	The	_	DET	DET	_	14	det
+12	Less	_	PROPN	PROPN	_	14	compound
+13	Acres	_	PROPN	PROPN	_	14	compound
+14	Burnt	_	PROPN	PROPN	_	2	list
+15	,	_	PUNCT	PUNCT	_	14	punct
+16	Per	_	PROPN	PROPN	_	14	appos
+17	Empirical	_	ADJ	ADJ	_	0	nmod:npmod
+18	...	_	PUNCT	PUNCT	_	19	punct
+19	#auspol	_	NOUN	NOUN	_	14	appos
+20	http://t.co/s1x2xgZwVN	_	X	X	_	2	list
+

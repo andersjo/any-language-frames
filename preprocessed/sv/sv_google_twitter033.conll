@@ -1,0 +1,14 @@
+1	Svetlana	_	ADJ	ADJ	_	2	amod
+2	Lazarova	_	NOUN	NOUN	_	0	root
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Wrapped	_	NOUN	NOUN	_	2	appos
+5	in	_	ADV	ADV	_	4	conj
+6	Winter	_	NOUN	NOUN	_	7	nmod:poss
+7	by	_	NOUN	NOUN	_	8	det
+8	Daniel	_	PROPN	PROPN	_	4	conj
+9	F	_	PROPN	PROPN	_	8	name
+10	.	_	PUNCT	PUNCT	_	8	punct
+11	Gerhartz	_	PROPN	PROPN	_	8	conj
+12	...	_	PUNCT	PUNCT	_	8	punct
+13	http://t.co/sEumwfkn8F	_	PROPN	PROPN	_	8	conj
+

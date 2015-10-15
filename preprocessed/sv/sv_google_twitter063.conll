@@ -1,0 +1,23 @@
+1	G+	_	NOUN	NOUN	_	4	nsubjpass
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Borde	_	AUX	AUX	_	4	aux
+4	passa	_	VERB	VERB	_	0	root
+5	både	_	CONJ	CONJ	_	6	advmod
+6	särbegåvade	_	ADJ	ADJ	_	9	amod
+7	och	_	CONJ	CONJ	_	6	cc
+8	problematiska	_	ADJ	ADJ	_	6	conj
+9	barn	_	NOUN	NOUN	_	4	dobj
+10	.	_	PUNCT	PUNCT	_	4	punct
+11	När	_	ADV	ADV	_	13	advmod
+12	vi	_	PRON	PRON	_	13	nsubj
+13	växer	_	VERB	VERB	_	4	conj
+14	upp	_	ADV	ADV	_	13	compound:prt
+15	utvecklas	_	VERB	VERB	_	4	conj
+16	olika	_	ADJ	ADJ	_	17	amod
+17	delar	_	NOUN	NOUN	_	15	dobj
+18	av	_	ADP	ADP	_	19	case
+19	hjärnan	_	NOUN	NOUN	_	17	nmod
+20	i	_	ADP	ADP	_	22	case
+21	…	_	ADJ	ADJ	_	22	amod
+22	http://t.co/KshX55rjOO	_	NOUN	NOUN	_	19	nmod
+

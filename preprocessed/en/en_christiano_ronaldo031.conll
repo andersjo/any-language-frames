@@ -1,0 +1,24 @@
+1	His	_	PRON	PRON	_	4	nmod:poss
+2	second	_	ADV	ADV	_	3	advmod
+3	given	_	VERB	VERB	_	4	amod
+4	name	_	NOUN	NOUN	_	6	compound
+5	"	_	PUNCT	PUNCT	_	6	punct
+6	Ronaldo	_	PROPN	PROPN	_	9	nsubjpass
+7	"	_	PUNCT	PUNCT	_	6	punct
+8	was	_	AUX	AUX	_	9	auxpass
+9	chosen	_	VERB	VERB	_	0	root
+10	after	_	ADP	ADP	_	9	compound:prt
+11	then-	_	ADJ	ADJ	_	0	cc
+12	U.S.	_	PROPN	PROPN	_	13	compound
+13	president	_	PROPN	PROPN	_	15	compound
+14	Ronald	_	PROPN	PROPN	_	15	compound
+15	Reagan	_	PROPN	PROPN	_	9	dobj
+16	,	_	PUNCT	PUNCT	_	9	punct
+17	who	_	PRON	PRON	_	20	nsubj
+18	was	_	VERB	VERB	_	22	cop
+19	his	_	PRON	PRON	_	20	nmod:poss
+20	father's	_	NOUN	NOUN	_	15	acl:relcl
+21	favourite	_	ADJ	ADJ	_	0	cc
+22	actor	_	NOUN	NOUN	_	20	nmod
+23	.	_	PUNCT	PUNCT	_	9	punct
+

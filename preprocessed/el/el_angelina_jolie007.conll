@@ -1,0 +1,21 @@
+1	Η	_	ADJ	ADJ	_	2	det
+2	Αντζελίνα	_	NOUN	NOUN	_	4	nsubj
+3	έχει	_	VERB	VERB	_	4	aux
+4	δηλώσει	_	VERB	VERB	_	0	root
+5	ότι	_	CONJ	CONJ	_	9	mark
+6	από	_	ADP	ADP	_	8	case
+7	μικρή	_	ADJ	ADJ	_	8	amod
+8	παρακολουθούσε	_	NOUN	NOUN	_	9	nmod
+9	ταινίες	_	VERB	VERB	_	4	ccomp
+10	με	_	ADP	ADP	_	12	case
+11	την	_	ADJ	ADJ	_	12	det
+12	μητέρα	_	NOUN	NOUN	_	9	nmod
+13	της	_	ADJ	ADJ	_	16	det
+14	και	_	CONJ	CONJ	_	13	cc
+15	έτσι	_	ADV	ADV	_	16	advmod
+16	αποφάσισε	_	VERB	VERB	_	12	acl
+17	να	_	PART	PART	_	18	aux
+18	γίνει	_	VERB	VERB	_	16	ccomp
+19	ηθοποιός	_	NOUN	NOUN	_	18	nsubj
+20	.	_	PUNCT	PUNCT	_	4	punct
+

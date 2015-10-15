@@ -1,0 +1,19 @@
+1	En	_	ADP	ADP	_	2	case
+2	octubre	_	PROPN	PROPN	_	7	nmod
+3	de	_	ADP	ADP	_	4	case
+4	2006	_	NUM	NUM	_	2	nmod
+5	,	_	PUNCT	PUNCT	_	2	punct
+6	Google	_	PROPN	PROPN	_	7	nsubj
+7	adquirió	_	VERB	VERB	_	0	root
+8	por	_	ADP	ADP	_	12	case
+9	1650	_	NUM	NUM	_	10	nummod
+10	millones	_	NOUN	NOUN	_	12	nummod
+11	de	_	ADP	ADP	_	10	case
+12	dólares	_	NOUN	NOUN	_	7	nmod
+13	la	_	DET	DET	_	14	det
+14	página	_	NOUN	NOUN	_	7	dobj
+15	de	_	ADP	ADP	_	16	case
+16	vídeos	_	NOUN	NOUN	_	14	nmod
+17	YouTube	_	PROPN	PROPN	_	16	appos
+18	.	_	PUNCT	PUNCT	_	7	punct
+

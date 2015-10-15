@@ -1,0 +1,13 @@
+1	warum	_	ADV	ADV	_	4	advmod
+2	ist	_	VERB	VERB	_	4	cop
+3	Google	_	PROPN	PROPN	_	4	det
+4	Chrome	_	NOUN	NOUN	_	0	root
+5	eigentlich	_	ADV	ADV	_	11	advmod
+6	der	_	DET	DET	_	8	det
+7	behindertste	_	ADJ	ADJ	_	8	amod
+8	Browser	_	NOUN	NOUN	_	11	nsubj
+9	überhaupt	_	ADV	ADV	_	10	advmod
+10	da	_	ADV	ADV	_	11	advmod
+11	geht	_	VERB	VERB	_	2	parataxis
+12	NICHTS	_	NOUN	NOUN	_	11	nsubj
+

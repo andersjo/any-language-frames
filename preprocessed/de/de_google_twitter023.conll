@@ -1,0 +1,24 @@
+1	@dunkelmunkel	_	PROPN	PROPN	_	3	det
+2	Im	_	ADJ	ADJ	_	3	amod
+3	Moment	_	NOUN	NOUN	_	10	nsubj
+4	kann	_	AUX	AUX	_	10	aux
+5	ich	_	PRON	PRON	_	10	nsubj
+6	mir	_	PRON	PRON	_	10	iobj
+7	keinen	_	PRON	PRON	_	9	neg
+8	sinnvollen	_	ADJ	ADJ	_	9	amod
+9	Kontext	_	NOUN	NOUN	_	10	dobj
+10	vorstellen	_	VERB	VERB	_	0	root
+11	.	_	PUNCT	PUNCT	_	1	punct
+12	Google	_	PROPN	PROPN	_	9	appos
+13	kann	_	AUX	AUX	_	10	aux
+14	;-)	_	PART	PART	_	15	aux
+15	https://t.co/HkGITRPevf	_	ADJ	ADJ	_	16	amod
+16	V	_	NOUN	NOUN	_	12	appos
+17	.	_	PUNCT	PUNCT	_	16	punct
+18	a	_	X	X	_	16	appos
+19	.	_	PUNCT	PUNCT	_	18	punct
+20	bei	_	ADP	ADP	_	22	case
+21	High	_	PROPN	PROPN	_	22	name
+22	Heels	_	PROPN	PROPN	_	18	nmod
+23	;-)	_	PUNCT	PUNCT	_	18	punct
+

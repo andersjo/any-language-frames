@@ -1,0 +1,23 @@
+1	Ragazzi	_	NOUN	NOUN	_	5	nsubj
+2	ma	_	CONJ	CONJ	_	5	cc
+3	ho	_	AUX	AUX	_	5	aux
+4	appena	_	ADV	ADV	_	5	advmod
+5	scoperto	_	VERB	VERB	_	0	root
+6	che	_	DET	DET	_	7	det
+7	poSSO	_	NOUN	NOUN	_	5	dobj
+8	IMPORTARE	_	VERB	VERB	_	5	advcl
+9	I	_	DET	DET	_	10	det
+10	BRANI	_	PROPN	PROPN	_	8	dobj
+11	CHE	_	PROPN	PROPN	_	10	name
+12	HO	_	PROPN	PROPN	_	10	name
+13	SU	_	PROPN	PROPN	_	10	name
+14	ITUNES	_	PROPN	PROPN	_	10	name
+15	DIRETTAMENTE	_	PROPN	PROPN	_	10	name
+16	SU	_	PROPN	PROPN	_	15	name
+17	GOOGLE	_	PROPN	PROPN	_	16	name
+18	PLAY	_	PROPN	PROPN	_	17	name
+19	NO	_	PROPN	PROPN	_	18	name
+20	MA	_	PROPN	PROPN	_	19	name
+21	CHE	_	PROPN	PROPN	_	19	name
+22	GIOIA	_	PROPN	PROPN	_	21	name
+

@@ -1,0 +1,19 @@
+1	L'avenir	_	VERB	VERB	_	5	acl
+2	de	_	ADP	ADP	_	4	case
+3	Cristiano	_	PROPN	PROPN	_	4	name
+4	Ronaldo	_	PROPN	PROPN	_	1	nmod
+5	bascule	_	VERB	VERB	_	0	root
+6	à	_	ADP	ADP	_	8	case
+7	18	_	NUM	NUM	_	8	nummod
+8	ans	_	NOUN	NOUN	_	5	nmod
+9	le	_	DET	DET	_	8	det
+10	,	_	PUNCT	PUNCT	_	5	punct
+11	lors	_	ADV	ADV	_	12	mwe
+12	de	_	ADP	ADP	_	13	case
+13	l'inauguration	_	NOUN	NOUN	_	5	nmod
+14	du	_	ADP	ADP	_	15	case
+15	stade	_	NOUN	NOUN	_	13	nmod
+16	Alvalade	_	PROPN	PROPN	_	17	name
+17	XXI	_	PROPN	PROPN	_	15	appos
+18	.	_	PUNCT	PUNCT	_	5	punct
+

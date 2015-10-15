@@ -1,0 +1,10 @@
+1	Über	_	ADP	ADP	_	3	case
+2	die	_	DET	DET	_	3	det
+3	Identität	_	NOUN	NOUN	_	6	nmod
+4	der	_	DET	DET	_	5	det
+5	Mutter	_	NOUN	NOUN	_	3	det
+6	wahrte	_	VERB	VERB	_	0	root
+7	er	_	PRON	PRON	_	6	nsubj
+8	Stillschweigen	_	NOUN	NOUN	_	6	dobj
+9	.	_	PUNCT	PUNCT	_	6	punct
+

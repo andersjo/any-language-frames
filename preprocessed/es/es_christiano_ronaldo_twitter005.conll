@@ -1,0 +1,19 @@
+1	Enrique	_	PROPN	PROPN	_	2	name
+2	Iglesia	_	PROPN	PROPN	_	4	nsubj
+3	puede	_	AUX	AUX	_	4	aux
+4	usar	_	VERB	VERB	_	0	root
+5	Armani	_	PROPN	PROPN	_	6	name
+6	Exchange	_	PROPN	PROPN	_	4	dobj
+7	y	_	CONJ	CONJ	_	4	cc
+8	verse	_	VERB	VERB	_	4	conj
+9	bien	_	ADV	ADV	_	8	advmod
+10	.	_	PUNCT	PUNCT	_	4	punct
+11	Como	_	ADP	ADP	_	13	case
+12	Christiano	_	PROPN	PROPN	_	13	name
+13	Ronaldo	_	PROPN	PROPN	_	8	dobj
+14	con	_	ADP	ADP	_	16	case
+15	el	_	DET	DET	_	16	det
+16	Gel	_	PROPN	PROPN	_	12	nmod
+17	Rolda	_	PROPN	PROPN	_	16	amod
+18	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,13 @@
+1	Родителите	_	NOUN	NOUN	_	4	nsubj
+2	ѝ	_	PROPN	PROPN	_	1	nmod
+3	се	_	PRON	PRON	_	4	expl
+4	развеждат	_	VERB	VERB	_	0	root
+5	,	_	PUNCT	PUNCT	_	8	punct
+6	когато	_	ADV	ADV	_	8	advmod
+7	тя	_	PRON	PRON	_	8	nsubj
+8	е	_	VERB	VERB	_	4	conj
+9	едва	_	ADV	ADV	_	11	advmod
+10	на	_	ADP	ADP	_	11	case
+11	година	_	NOUN	NOUN	_	8	nmod
+12	.	_	PUNCT	PUNCT	_	4	punct
+

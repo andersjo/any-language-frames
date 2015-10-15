@@ -1,0 +1,18 @@
+1	Vince	_	VERB	VERB	_	0	root
+2	nel	_	ADP	ADP	_	3	case
+3	dicembre	_	NOUN	NOUN	_	1	nmod
+4	dello	_	ADP	ADP	_	6	case
+5	stesso	_	ADJ	ADJ	_	6	amod
+6	anno	_	NOUN	NOUN	_	3	nmod
+7	il	_	DET	DET	_	8	det
+8	Premio	_	NOUN	NOUN	_	1	dobj
+9	Cento	_	NUM	NUM	_	8	nummod
+10	,	_	PUNCT	PUNCT	_	8	punct
+11	riconoscimento	_	NOUN	NOUN	_	8	appos
+12	dedicato	_	VERB	VERB	_	11	acl
+13	alla	_	ADP	ADP	_	14	case
+14	letteratura	_	NOUN	NOUN	_	12	nmod
+15	per	_	ADP	ADP	_	16	case
+16	ragazzi	_	NOUN	NOUN	_	14	nmod
+17	.	_	PUNCT	PUNCT	_	1	punct
+

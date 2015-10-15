@@ -1,0 +1,14 @@
+1	1909	_	NUM	NUM	_	0	root
+2	-	_	PUNCT	PUNCT	_	1	punct
+3	Celebración	_	PROPN	PROPN	_	1	dep
+4	del	_	ADP	ADP	_	5	case
+5	Día	_	PROPN	PROPN	_	3	nmod
+6	Nacional	_	PROPN	PROPN	_	5	amod
+7	de	_	ADP	ADP	_	9	case
+8	la	_	DET	DET	_	9	det
+9	Mujer	_	PROPN	PROPN	_	5	nmod
+10	en	_	ADP	ADP	_	11	case
+11	Estados	_	PROPN	PROPN	_	9	nmod
+12	Unidos	_	PROPN	PROPN	_	11	amod
+13	.	_	PUNCT	PUNCT	_	9	punct
+

@@ -1,0 +1,15 @@
+1	Google	_	NOUN	NOUN	_	2	nsubj
+2	försöker	_	VERB	VERB	_	0	root
+3	mäta	_	VERB	VERB	_	2	xcomp
+4	resan	_	NOUN	NOUN	_	3	dobj
+5	från	_	ADP	ADP	_	7	case
+6	Google	_	PROPN	PROPN	_	7	nmod:poss
+7	annons	_	NOUN	NOUN	_	3	nmod
+8	till	_	ADP	ADP	_	9	case
+9	besök	_	NOUN	NOUN	_	3	nmod
+10	i	_	ADP	ADP	_	14	case
+11	din	_	DET	DET	_	13	nmod:poss
+12	fysiska	_	ADJ	ADJ	_	13	amod
+13	butik	_	NOUN	NOUN	_	14	nmod:poss
+14	http://t.co/leSwjDD8Qf	_	NOUN	NOUN	_	9	nmod
+

@@ -1,0 +1,11 @@
+1	2003-2004	_	NUM	NUM	_	3	nummod
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	L'esordio	_	NOUN	NOUN	_	0	root
+4	con	_	ADP	ADP	_	7	case
+5	i	_	DET	DET	_	7	det
+6	"	_	PUNCT	PUNCT	_	7	punct
+7	Red	_	PROPN	PROPN	_	3	nmod
+8	Devils	_	PROPN	PROPN	_	7	name
+9	"	_	PUNCT	PUNCT	_	7	punct
+10	.	_	PUNCT	PUNCT	_	3	punct
+

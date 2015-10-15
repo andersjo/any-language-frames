@@ -1,0 +1,18 @@
+1	Obwohl	_	SCONJ	SCONJ	_	6	mark
+2	die	_	DET	DET	_	3	det
+3	Geschichte	_	NOUN	NOUN	_	6	nsubjpass
+4	von	_	ADP	ADP	_	5	case
+5	Maddy	_	PROPN	PROPN	_	3	nmod
+6	erzählt	_	VERB	VERB	_	0	root
+7	wird	_	AUX	AUX	_	6	auxpass
+8	,	_	PUNCT	PUNCT	_	6	punct
+9	ist	_	VERB	VERB	_	10	cop
+10	Legs	_	NOUN	NOUN	_	6	conj
+11	das	_	DET	DET	_	12	det
+12	Thema	_	NOUN	NOUN	_	10	det
+13	und	_	CONJ	CONJ	_	12	cc
+14	der	_	DET	DET	_	15	det
+15	Katalysator	_	NOUN	NOUN	_	12	conj
+16	.	_	PUNCT	PUNCT	_	6	punct
+17	“	_	PROPN	PROPN	_	15	appos
+

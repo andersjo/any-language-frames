@@ -1,0 +1,17 @@
+1	Säsongen	_	NOUN	NOUN	_	4	nsubj
+2	2011/2012	_	NUM	NUM	_	3	nummod
+3	vann	_	NOUN	NOUN	_	1	nmod
+4	Ronaldo	_	VERB	VERB	_	0	root
+5	ligan	_	NOUN	NOUN	_	4	dobj
+6	med	_	ADP	ADP	_	7	case
+7	Real	_	NOUN	NOUN	_	5	nmod
+8	Madrid	_	VERB	VERB	_	4	xcomp
+9	med	_	ADP	ADP	_	12	case
+10	7	_	NUM	NUM	_	11	nummod
+11	poängs	_	NOUN	NOUN	_	12	det
+12	marginal	_	NOUN	NOUN	_	8	nmod
+13	från	_	ADP	ADP	_	15	case
+14	tvåan	_	ADJ	ADJ	_	15	amod
+15	Barcelona	_	NOUN	NOUN	_	12	nmod
+16	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,19 @@
+1	#Alcatel	_	NOUN	NOUN	_	0	root
+2	#OneTouch	_	NOUN	NOUN	_	1	nmod
+3	PIXI	_	NOUN	NOUN	_	2	nmod
+4	3	_	NUM	NUM	_	5	nmod
+5	Series	_	NOUN	NOUN	_	3	nmod
+6	,	_	PUNCT	PUNCT	_	1	punct
+7	#νέα	_	NOUN	NOUN	_	9	nmod
+8	σειρά	_	NOUN	NOUN	_	5	appos
+9	smartphones	_	NOUN	NOUN	_	8	nmod
+10	με	_	ADP	ADP	_	11	case
+11	....	_	NOUN	NOUN	_	8	nmod
+12	(	_	PUNCT	PUNCT	_	13	punct
+13	#Sunday	_	NOUN	NOUN	_	11	nmod
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	4	_	NUM	NUM	_	16	nummod
+16	#January	_	NOUN	NOUN	_	11	conj
+17	)	_	PUNCT	PUNCT	_	16	punct
+18	http://t.co/Pmjki6Vv6M	_	NOUN	NOUN	_	16	nmod
+

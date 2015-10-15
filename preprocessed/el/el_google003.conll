@@ -1,0 +1,12 @@
+1	Στις	_	ADP	ADP	_	3	case
+2	4	_	NUM	NUM	_	3	nmod
+3	Σεπτεμβρίου	_	NOUN	NOUN	_	8	nmod
+4	του	_	ADJ	ADJ	_	5	det
+5	1998	_	NUM	NUM	_	3	nmod
+6	η	_	ADJ	ADJ	_	7	det
+7	Google	_	NOUN	NOUN	_	8	nsubj
+8	έγινε	_	VERB	VERB	_	0	root
+9	ιδιωτική	_	ADJ	ADJ	_	10	amod
+10	εταιρία	_	NOUN	NOUN	_	8	dobj
+11	.	_	PUNCT	PUNCT	_	8	punct
+

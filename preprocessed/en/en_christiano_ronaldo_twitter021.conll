@@ -1,0 +1,15 @@
+1	RETWEET	_	NOUN	NOUN	_	0	root
+2	if	_	SCONJ	SCONJ	_	4	mark
+3	you	_	PRON	PRON	_	4	nsubj
+4	think	_	VERB	VERB	_	1	advcl
+5	Christiano	_	PROPN	PROPN	_	6	compound
+6	Ronaldo	_	PROPN	PROPN	_	4	dobj
+7	is	_	VERB	VERB	_	10	cop
+8	the	_	DET	DET	_	10	det
+9	best	_	ADJ	ADJ	_	0	foreign
+10	player	_	NOUN	NOUN	_	4	ccomp
+11	in	_	ADP	ADP	_	7	compound:prt
+12	the	_	DET	DET	_	13	det
+13	world	_	NOUN	NOUN	_	11	dobj
+14	.	_	PUNCT	PUNCT	_	4	punct
+

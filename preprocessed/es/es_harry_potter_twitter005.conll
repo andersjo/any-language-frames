@@ -1,0 +1,21 @@
+1	@MizuKuroki	_	PROPN	PROPN	_	4	nsubj
+2	ya	_	ADV	ADV	_	4	advmod
+3	no	_	ADV	ADV	_	4	neg
+4	quiero	_	VERB	VERB	_	0	root
+5	.	_	PUNCT	PUNCT	_	7	punct
+6	Por	_	ADP	ADP	_	7	case
+7	criticar	_	VERB	VERB	_	4	acl
+8	Harry	_	PROPN	PROPN	_	9	name
+9	Potter	_	PROPN	PROPN	_	7	dobj
+10	y	_	CONJ	CONJ	_	7	cc
+11	decir	_	VERB	VERB	_	7	conj
+12	que	_	SCONJ	SCONJ	_	15	mark
+13	Rowling	_	PROPN	PROPN	_	15	nsubj
+14	no	_	ADV	ADV	_	15	neg
+15	merece	_	VERB	VERB	_	11	ccomp
+16	la	_	DET	DET	_	17	det
+17	fama	_	NOUN	NOUN	_	15	dobj
+18	que	_	SCONJ	SCONJ	_	19	mark
+19	tiene	_	VERB	VERB	_	17	acl:relcl
+20	.	_	PUNCT	PUNCT	_	4	punct
+

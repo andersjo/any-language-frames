@@ -1,0 +1,26 @@
+1	Tre	_	NUM	NUM	_	2	nummod
+2	år	_	NOUN	NOUN	_	9	nmod
+3	senare	_	ADV	ADV	_	2	nmod
+4	,	_	PUNCT	PUNCT	_	9	punct
+5	i	_	ADP	ADP	_	6	case
+6	januari	_	NOUN	NOUN	_	9	nmod
+7	2006	_	NUM	NUM	_	6	nummod
+8	,	_	PUNCT	PUNCT	_	9	punct
+9	sade	_	VERB	VERB	_	0	root
+10	Jolie	_	NOUN	NOUN	_	9	dobj
+11	och	_	CONJ	CONJ	_	10	cc
+12	Brad	_	NOUN	NOUN	_	10	conj
+13	Pitt	_	VERB	VERB	_	9	conj
+14	att	_	SCONJ	SCONJ	_	16	mark
+15	de	_	PRON	PRON	_	16	nsubj
+16	hade	_	VERB	VERB	_	13	ccomp
+17	en	_	DET	DET	_	18	det
+18	relation	_	NOUN	NOUN	_	16	dobj
+19	och	_	CONJ	CONJ	_	16	cc
+20	att	_	SCONJ	SCONJ	_	24	mark
+21	de	_	DET	DET	_	23	det
+22	väntade	_	ADJ	ADJ	_	23	amod
+23	barn	_	NOUN	NOUN	_	16	dobj
+24	tillsammans	_	ADV	ADV	_	23	nmod
+25	.	_	PUNCT	PUNCT	_	13	punct
+

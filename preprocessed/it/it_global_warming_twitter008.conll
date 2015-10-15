@@ -1,0 +1,13 @@
+1	COME	_	ADP	ADP	_	2	case
+2	LENTAMENTE	_	PROPN	PROPN	_	11	nmod
+3	MUORE	_	PROPN	PROPN	_	2	name
+4	UNA	_	PROPN	PROPN	_	2	name
+5	DELLE	_	PROPN	PROPN	_	2	name
+6	TANTE	_	PROPN	PROPN	_	5	name
+7	TRUFFE-IL	_	PROPN	PROPN	_	6	name
+8	GLOBAL	_	PROPN	PROPN	_	7	name
+9	WARMING	_	PROPN	PROPN	_	8	name
+10	!	_	PUNCT	PUNCT	_	2	punct
+11	http://t.co/o2IZCnIP7x	_	NOUN	NOUN	_	0	root
+12	#ambienteesisma	_	ADJ	ADJ	_	11	amod
+

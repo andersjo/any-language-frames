@@ -1,0 +1,14 @@
+1	@isabellagiove	_	VERB	VERB	_	0	root
+2	@HogwartsLogics	_	NOUN	NOUN	_	1	dobj
+3	whenever	_	ADV	ADV	_	5	advmod
+4	I	_	PRON	PRON	_	5	nsubj
+5	see	_	VERB	VERB	_	1	advcl
+6	harry	_	PROPN	PROPN	_	7	compound
+7	potter	_	NOUN	NOUN	_	5	dobj
+8	I	_	PRON	PRON	_	10	nsubj
+9	automatically	_	ADV	ADV	_	10	advmod
+10	think	_	VERB	VERB	_	7	acl:relcl
+11	of	_	ADP	ADP	_	10	compound:prt
+12	you	_	PRON	PRON	_	13	nmod:poss
+13	😂	_	NOUN	NOUN	_	10	dobj
+

@@ -1,0 +1,22 @@
+1	At	_	ADP	ADP	_	0	compound:prt
+2	the	_	DET	DET	_	3	det
+3	age	_	NOUN	NOUN	_	1	dobj
+4	of	_	ADP	ADP	_	3	acl
+5	eight	_	NUM	NUM	_	3	nummod
+6	,	_	PUNCT	PUNCT	_	8	punct
+7	Ronaldo	_	PROPN	PROPN	_	8	nsubj
+8	played	_	VERB	VERB	_	3	acl:relcl
+9	for	_	ADP	ADP	_	8	compound:prt
+10	amateur	_	NOUN	NOUN	_	11	compound
+11	team	_	NOUN	NOUN	_	8	dobj
+12	Andorinha	_	PROPN	PROPN	_	11	appos
+13	,	_	PUNCT	PUNCT	_	8	punct
+14	where	_	ADV	ADV	_	17	advmod
+15	his	_	PRON	PRON	_	16	nmod:poss
+16	father	_	NOUN	NOUN	_	20	nsubj
+17	was	_	VERB	VERB	_	20	cop
+18	the	_	DET	DET	_	20	det
+19	kit	_	NOUN	NOUN	_	20	compound
+20	man	_	NOUN	NOUN	_	8	ccomp
+21	.	_	PUNCT	PUNCT	_	8	punct
+

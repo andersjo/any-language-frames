@@ -1,0 +1,14 @@
+1	#NowWatching	_	VERB	VERB	_	0	root
+2	"	_	PUNCT	PUNCT	_	5	punct
+3	angelina	_	PROPN	PROPN	_	4	compound
+4	jolie	_	PROPN	PROPN	_	5	nsubj
+5	says	_	VERB	VERB	_	1	ccomp
+6	chickenpox	_	NOUN	NOUN	_	7	nsubj
+7	was	_	VERB	VERB	_	12	cop
+8	absurd	_	ADJ	ADJ	_	0	foreign
+9	"	_	PUNCT	PUNCT	_	5	punct
+10	on	_	ADP	ADP	_	7	compound:prt
+11	Rediff	_	NOUN	NOUN	_	12	compound
+12	iShare	_	NOUN	NOUN	_	5	ccomp
+13	http://t.co/TPP6LxmBB6	_	X	X	_	12	appos
+

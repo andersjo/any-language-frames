@@ -1,0 +1,15 @@
+1	Jag	_	PRON	PRON	_	4	nsubj
+2	hade	_	AUX	AUX	_	8	aux
+3	ingen	_	DET	DET	_	4	det
+4	aning	_	NOUN	NOUN	_	0	root
+5	om	_	ADP	ADP	_	8	case
+6	att	_	SCONJ	SCONJ	_	8	mark
+7	Jon	_	NOUN	NOUN	_	8	nsubj
+8	Voight	_	VERB	VERB	_	4	acl
+9	var	_	DET	DET	_	10	det
+10	pappa	_	NOUN	NOUN	_	8	dobj
+11	till	_	ADP	ADP	_	13	case
+12	Angelina	_	ADJ	ADJ	_	13	amod
+13	Jolie	_	NOUN	NOUN	_	10	nmod
+14	.	_	PUNCT	PUNCT	_	8	punct
+

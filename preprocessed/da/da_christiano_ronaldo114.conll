@@ -1,0 +1,12 @@
+1	Ronaldo	_	PROPN	PROPN	_	3	nsubj
+2	har	_	AUX	AUX	_	3	aux
+3	skrevet	_	VERB	VERB	_	0	root
+4	en	_	DET	DET	_	5	det
+5	biografi	_	NOUN	NOUN	_	3	dobj
+6	om	_	ADP	ADP	_	8	case
+7	sit	_	DET	DET	_	8	det
+8	liv	_	NOUN	NOUN	_	5	nmod
+9	indtil	_	ADP	ADP	_	3	dep
+10	2007	_	NUM	NUM	_	9	nummod
+11	.	_	PUNCT	PUNCT	_	3	punct
+

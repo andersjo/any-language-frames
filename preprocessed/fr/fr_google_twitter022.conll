@@ -1,0 +1,20 @@
+1	Opportunity	_	PROPN	PROPN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Après	_	ADP	ADP	_	5	case
+4	11	_	NUM	NUM	_	5	nummod
+5	ans	_	NOUN	NOUN	_	1	nmod
+6	sur	_	ADP	ADP	_	7	case
+7	Mars	_	PROPN	PROPN	_	5	nmod
+8	sa	_	DET	DET	_	9	nmod:poss
+9	mémoire	_	NOUN	NOUN	_	7	appos
+10	est	_	VERB	VERB	_	16	cop
+11	maintenant	_	ADV	ADV	_	10	advmod
+12	...	_	PUNCT	PUNCT	_	10	punct
+13	-	_	PUNCT	PUNCT	_	16	punct
+14	Les	_	DET	DET	_	16	det
+15	News	_	PROPN	PROPN	_	16	name
+16	Eco	_	PROPN	PROPN	_	19	name
+17	.	_	PUNCT	PUNCT	_	16	punct
+18	fr	_	PROPN	PROPN	_	19	name
+19	http://t.co/J164mOCTPt	_	PROPN	PROPN	_	1	parataxis
+

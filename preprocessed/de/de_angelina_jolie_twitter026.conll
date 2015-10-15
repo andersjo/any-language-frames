@@ -1,0 +1,8 @@
+1	Chickenpox	_	PROPN	PROPN	_	0	root
+2	was	_	PRON	PRON	_	3	det
+3	absurd	_	PROPN	PROPN	_	1	acl
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	Angelina	_	PROPN	PROPN	_	3	appos
+6	Jolie	_	PROPN	PROPN	_	7	name
+7	http://t.co/0386eB63ea	_	PROPN	PROPN	_	5	nmod
+

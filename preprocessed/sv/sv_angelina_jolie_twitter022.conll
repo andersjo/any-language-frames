@@ -1,0 +1,12 @@
+1	@SimonR0se	_	NOUN	NOUN	_	4	nsubj
+2	Jag	_	PRON	PRON	_	4	nsubj
+3	är	_	AUX	AUX	_	4	cop
+4	värd	_	ADJ	ADJ	_	0	root
+5	att	_	PART	PART	_	6	mark
+6	få	_	VERB	VERB	_	4	csubj
+7	ligga	_	VERB	VERB	_	6	xcomp
+8	med	_	ADP	ADP	_	10	case
+9	Angelina	_	ADJ	ADJ	_	10	amod
+10	Jolie	_	NOUN	NOUN	_	7	nmod
+11	.	_	PUNCT	PUNCT	_	4	punct
+

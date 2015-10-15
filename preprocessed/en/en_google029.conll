@@ -1,0 +1,18 @@
+1	Craig	_	PROPN	PROPN	_	2	compound
+2	Silverstein	_	PROPN	PROPN	_	12	nmod
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	a	_	DET	DET	_	7	det
+5	fellow	_	ADJ	ADJ	_	0	nmod:npmod
+6	PhD	_	NOUN	NOUN	_	7	compound
+7	student	_	NOUN	NOUN	_	2	appos
+8	at	_	ADP	ADP	_	7	compound
+9	Stanford	_	PROPN	PROPN	_	7	nmod
+10	,	_	PUNCT	PUNCT	_	12	punct
+11	was	_	AUX	AUX	_	12	auxpass
+12	hired	_	VERB	VERB	_	0	root
+13	as	_	ADP	ADP	_	12	compound:prt
+14	the	_	DET	DET	_	16	det
+15	first	_	ADJ	ADJ	_	0	foreign
+16	employee	_	NOUN	NOUN	_	12	dobj
+17	.	_	PUNCT	PUNCT	_	12	punct
+

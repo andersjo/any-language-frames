@@ -1,0 +1,12 @@
+1	Браво	_	ADJ	ADJ	_	2	amod
+2	колега	_	NOUN	NOUN	_	7	nsubj
+3	дано	_	PART	PART	_	7	discourse
+4	и	_	CONJ	CONJ	_	6	cc
+5	новата	_	ADJ	ADJ	_	6	amod
+6	година	_	NOUN	NOUN	_	7	nsubj
+7	е	_	VERB	VERB	_	0	root
+8	така	_	ADV	ADV	_	9	advmod
+9	успешна	_	ADJ	ADJ	_	7	cop
+10	.	_	PUNCT	PUNCT	_	7	punct
+11	https://t.co/2k7ymCECkq	_	PROPN	PROPN	_	7	discourse
+

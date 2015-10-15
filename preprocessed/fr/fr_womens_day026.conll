@@ -1,0 +1,15 @@
+1	Par	_	ADP	ADP	_	3	case
+2	la	_	DET	DET	_	3	det
+3	suite	_	NOUN	NOUN	_	8	nmod
+4	,	_	PUNCT	PUNCT	_	8	punct
+5	la	_	DET	DET	_	6	det
+6	journée	_	NOUN	NOUN	_	8	nsubjpass
+7	est	_	AUX	AUX	_	8	auxpass
+8	célébrée	_	VERB	VERB	_	0	root
+9	dans	_	ADP	ADP	_	10	case
+10	tout	_	ADV	ADV	_	12	advmod
+11	le	_	DET	DET	_	12	det
+12	bloc	_	NOUN	NOUN	_	8	dobj
+13	soviétique	_	ADJ	ADJ	_	12	amod
+14	.	_	PUNCT	PUNCT	_	8	punct
+

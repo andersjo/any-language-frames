@@ -1,0 +1,26 @@
+1	@RoteGunde	_	NOUN	NOUN	_	5	dobj
+2	du	_	PRON	PRON	_	5	nsubj
+3	behöver	_	AUX	AUX	_	5	aux
+4	inte	_	ADV	ADV	_	5	neg
+5	övertyga	_	VERB	VERB	_	0	root
+6	mig	_	PRON	PRON	_	5	dobj
+7	.	_	PUNCT	PUNCT	_	5	punct
+8	jag	_	PRON	PRON	_	9	nsubj
+9	gjorde	_	VERB	VERB	_	5	parataxis
+10	jobbet	_	NOUN	NOUN	_	9	dobj
+11	att	_	PART	PART	_	12	mark
+12	lägga	_	VERB	VERB	_	10	acl
+13	in	_	ADV	ADV	_	12	compound:prt
+14	mina	_	DET	DET	_	15	nmod:poss
+15	rutter	_	NOUN	NOUN	_	12	dobj
+16	på	_	ADP	ADP	_	18	case
+17	Google	_	PROPN	PROPN	_	18	nmod:poss
+18	Earth	_	NOUN	NOUN	_	12	nmod
+19	.	_	PUNCT	PUNCT	_	5	punct
+20	det	_	PRON	PRON	_	24	nsubj
+21	har	_	AUX	AUX	_	24	aux
+22	jag	_	PRON	PRON	_	24	nsubj
+23	aldrig	_	ADV	ADV	_	24	advmod
+24	ångrat	_	NOUN	NOUN	_	12	dobj
+25	!	_	PUNCT	PUNCT	_	5	punct
+

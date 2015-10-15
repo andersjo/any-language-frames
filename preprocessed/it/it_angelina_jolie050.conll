@@ -1,0 +1,24 @@
+1	Nonostante	_	SCONJ	SCONJ	_	4	mark
+2	il	_	DET	DET	_	3	det
+3	film	_	NOUN	NOUN	_	4	nsubj
+4	rispecchi	_	VERB	VERB	_	0	root
+5	i	_	DET	DET	_	7	det
+6	reali	_	ADJ	ADJ	_	7	amod
+7	interessi	_	NOUN	NOUN	_	4	dobj
+8	dell'attrice	_	ADJ	ADJ	_	7	amod
+9	nel	_	ADP	ADP	_	10	mark
+10	promuovere	_	VERB	VERB	_	7	nmod
+11	gli	_	DET	DET	_	12	det
+12	aiuti	_	NOUN	NOUN	_	10	dobj
+13	umanitari	_	ADJ	ADJ	_	12	amod
+14	,	_	PUNCT	PUNCT	_	10	punct
+15	è	_	VERB	VERB	_	18	cop
+16	un	_	DET	DET	_	18	det
+17	ennesimo	_	ADJ	ADJ	_	18	amod
+18	flop	_	NOUN	NOUN	_	10	nmod
+19	di	_	ADP	ADP	_	20	case
+20	pubblico	_	ADJ	ADJ	_	18	nmod
+21	e	_	CONJ	CONJ	_	20	cc
+22	critica	_	ADJ	ADJ	_	20	conj
+23	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,21 @@
+1	Alors	_	ADV	ADV	_	2	mwe
+2	que	_	SCONJ	SCONJ	_	5	mark
+3	le	_	DET	DET	_	4	det
+4	Sporting	_	PROPN	PROPN	_	5	nsubj
+5	reçoit	_	VERB	VERB	_	0	root
+6	Manchester	_	PROPN	PROPN	_	7	name
+7	United	_	PROPN	PROPN	_	5	dobj
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	Cristiano	_	PROPN	PROPN	_	10	name
+10	Ronaldo	_	PROPN	PROPN	_	11	nsubj
+11	fait	_	VERB	VERB	_	7	acl:relcl
+12	un	_	DET	DET	_	13	det
+13	match	_	NOUN	NOUN	_	11	dobj
+14	sensationnel	_	NOUN	NOUN	_	11	dobj
+15	et	_	CONJ	CONJ	_	13	cc
+16	le	_	DET	DET	_	17	det
+17	Sporting	_	PROPN	PROPN	_	18	nsubj
+18	gagne	_	VERB	VERB	_	11	conj
+19	3-1	_	NUM	NUM	_	18	dobj
+20	.	_	PUNCT	PUNCT	_	11	punct
+

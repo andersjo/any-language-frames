@@ -1,0 +1,9 @@
+1	Frank	_	PROPN	PROPN	_	5	nsubj
+2	Underwood	_	PROPN	PROPN	_	1	name
+3	en	_	DET	DET	_	7	det
+4	30	_	NUM	NUM	_	8	nummod
+5	frases	_	VERB	VERB	_	0	root
+6	.	_	PUNCT	PUNCT	_	5	punct
+7	#HouseofCards	_	PROPN	PROPN	_	5	nsubj
+8	http://t.co/aW7kXBbDgd	_	NOUN	NOUN	_	7	dep
+

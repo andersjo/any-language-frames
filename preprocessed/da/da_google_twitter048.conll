@@ -1,0 +1,10 @@
+1	http://t.co/4FiwCA2ozh	_	PROPN	PROPN	_	3	nmod:poss
+2	MongoDB	_	NOUN	NOUN	_	1	dep
+3	koopt	_	NOUN	NOUN	_	4	nsubj
+4	WiredTiger	_	VERB	VERB	_	5	dep
+5	database	_	NOUN	NOUN	_	6	nmod
+6	storage	_	VERB	VERB	_	0	root
+7	engine	_	PROPN	PROPN	_	6	nsubj
+8	technologie	_	PROPN	PROPN	_	7	name
+9	http://t.co/1oGml17F2E	_	PROPN	PROPN	_	7	name
+

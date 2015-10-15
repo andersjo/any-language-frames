@@ -1,0 +1,13 @@
+1	Arthur	_	PROPN	PROPN	_	2	name
+2	Herzog	_	PROPN	PROPN	_	0	root
+3	dies	_	PRON	PRON	_	7	det
+4	;	_	PUNCT	PUNCT	_	3	punct
+5	former	_	ADJ	ADJ	_	7	amod
+6	Long	_	PROPN	PROPN	_	7	name
+7	Islander	_	PROPN	PROPN	_	2	nmod
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	pharmacist	_	PROPN	PROPN	_	7	conj
+10	was	_	PRON	PRON	_	12	nsubj
+11	93	_	NUM	NUM	_	12	nummod
+12	http://t.co/KQC4nrsld1	_	PROPN	PROPN	_	7	conj
+

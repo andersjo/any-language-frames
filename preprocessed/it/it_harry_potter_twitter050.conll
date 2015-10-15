@@ -1,0 +1,7 @@
+1	aaaaah	_	NOUN	NOUN	_	0	root
+2	harry	_	PROPN	PROPN	_	1	nmod
+3	potter	_	NOUN	NOUN	_	1	nmod
+4	eh	_	INTJ	INTJ	_	2	discourse
+5	mt	_	NOUN	NOUN	_	3	nmod
+6	massa	_	NOUN	NOUN	_	5	compound
+

@@ -1,0 +1,15 @@
+1	Wow	_	INTJ	INTJ	_	3	discourse
+2	Maleficent	_	ADJ	ADJ	_	0	nsubj
+3	is	_	VERB	VERB	_	6	cop
+4	an	_	DET	DET	_	6	det
+5	amazing	_	ADJ	ADJ	_	0	foreign
+6	movie	_	NOUN	NOUN	_	9	compound
+7	👏👏👏👏👏	_	PROPN	PROPN	_	9	compound
+8	Angelina	_	PROPN	PROPN	_	9	compound
+9	Jolie	_	PROPN	PROPN	_	11	nsubj
+10	always	_	ADV	ADV	_	11	advmod
+11	blows	_	VERB	VERB	_	0	root
+12	me	_	PRON	PRON	_	11	dobj
+13	away	_	ADV	ADV	_	14	advmod
+14	#bae	_	VERB	VERB	_	11	advcl
+

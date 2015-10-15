@@ -1,0 +1,19 @@
+1	Altre	_	DET	DET	_	2	det
+2	ambientazioni	_	NOUN	NOUN	_	3	nsubj
+3	risultano	_	VERB	VERB	_	0	root
+4	secondarie	_	ADJ	ADJ	_	3	xcomp
+5	se	_	SCONJ	SCONJ	_	6	mark
+6	confrontate	_	VERB	VERB	_	4	advcl
+7	alle	_	ADP	ADP	_	8	case
+8	precedenti	_	NOUN	NOUN	_	6	nmod
+9	ma	_	CONJ	CONJ	_	6	cc
+10	restano	_	VERB	VERB	_	6	conj
+11	comunque	_	ADV	ADV	_	10	advmod
+12	scenari	_	NOUN	NOUN	_	10	dobj
+13	di	_	ADP	ADP	_	15	case
+14	importanti	_	ADJ	ADJ	_	15	amod
+15	svolte	_	NOUN	NOUN	_	12	nmod
+16	nella	_	ADP	ADP	_	17	case
+17	serie	_	NOUN	NOUN	_	15	nmod
+18	.	_	PUNCT	PUNCT	_	3	punct
+

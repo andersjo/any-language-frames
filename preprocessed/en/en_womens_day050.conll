@@ -1,0 +1,14 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	Egypt	_	PROPN	PROPN	_	7	nmod:tmod
+3	however	_	ADV	ADV	_	2	advmod
+4	,	_	PUNCT	PUNCT	_	9	punct
+5	the	_	DET	DET	_	6	det
+6	day	_	NOUN	NOUN	_	9	nsubj
+7	was	_	VERB	VERB	_	9	cop
+8	a	_	DET	DET	_	9	det
+9	step	_	NOUN	NOUN	_	12	compound
+10	back	_	ADV	ADV	_	11	advmod
+11	for	_	ADP	ADP	_	12	compound
+12	women	_	NOUN	NOUN	_	1	conj
+13	.	_	PUNCT	PUNCT	_	9	punct
+

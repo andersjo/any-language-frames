@@ -1,0 +1,22 @@
+1	A	_	ADP	ADP	_	3	case
+2	tres	_	NUM	NUM	_	3	nummod
+3	meses	_	NOUN	NOUN	_	16	nmod
+4	de	_	ADP	ADP	_	6	case
+5	la	_	DET	DET	_	6	det
+6	desaparición	_	NOUN	NOUN	_	3	nmod
+7	de	_	ADP	ADP	_	10	case
+8	los	_	DET	DET	_	10	det
+9	43	_	NUM	NUM	_	10	nummod
+10	estudiantes	_	NOUN	NOUN	_	6	nmod
+11	de	_	ADP	ADP	_	12	case
+12	México	_	PROPN	PROPN	_	10	nmod
+13	,	_	PUNCT	PUNCT	_	10	punct
+14	sus	_	DET	DET	_	15	nmod:poss
+15	padres	_	NOUN	NOUN	_	16	nsubj
+16	piden	_	VERB	VERB	_	0	root
+17	no	_	ADV	ADV	_	18	neg
+18	votar	_	VERB	VERB	_	16	xcomp
+19	en	_	ADP	ADP	_	21	case
+20	2015	_	NUM	NUM	_	21	nummod
+21	http://t.co/GPAtyK29hv	_	PROPN	PROPN	_	18	nmod
+

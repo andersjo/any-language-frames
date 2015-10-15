@@ -1,0 +1,12 @@
+1	En	_	ADP	ADP	_	3	case
+2	este	_	DET	DET	_	3	det
+3	momento	_	NOUN	NOUN	_	7	nmod
+4	Sir	_	PROPN	PROPN	_	6	name
+5	Alex	_	PROPN	PROPN	_	6	name
+6	Ferguson	_	PROPN	PROPN	_	7	nsubj
+7	declaró	_	VERB	VERB	_	0	root
+8	sobre	_	ADP	ADP	_	10	case
+9	el	_	DET	DET	_	10	det
+10	futbolista	_	NOUN	NOUN	_	7	nmod
+11	:	_	PUNCT	PUNCT	_	7	punct
+

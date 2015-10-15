@@ -1,0 +1,17 @@
+1	@TsMiko	_	PROPN	PROPN	_	2	nsubj
+2	siento	_	VERB	VERB	_	0	root
+3	mi	_	DET	DET	_	4	nmod:poss
+4	humor	_	NOUN	NOUN	_	2	dobj
+5	estancado	_	VERB	VERB	_	4	acl
+6	en	_	ADP	ADP	_	8	case
+7	las	_	DET	DET	_	8	det
+8	venéreas	_	NOUN	NOUN	_	5	nmod
+9	,	_	PUNCT	PUNCT	_	5	punct
+10	las	_	DET	DET	_	12	det
+11	global	_	ADJ	ADJ	_	12	amod
+12	warming	_	PROPN	PROPN	_	15	nsubj
+13	no	_	ADV	ADV	_	15	neg
+14	me	_	PRON	PRON	_	15	iobj
+15	gustan	_	VERB	VERB	_	2	parataxis
+16	tanto	_	PRON	PRON	_	15	nmod
+

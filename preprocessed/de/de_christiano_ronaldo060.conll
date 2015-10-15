@@ -1,0 +1,23 @@
+1	Im	_	ADP	ADP	_	2	case
+2	Finale	_	NOUN	NOUN	_	7	nmod
+3	um	_	ADP	ADP	_	6	case
+4	den	_	DET	DET	_	6	det
+5	FA	_	PROPN	PROPN	_	6	name
+6	Cup	_	PROPN	PROPN	_	2	nmod
+7	traf	_	VERB	VERB	_	0	root
+8	Ronaldo	_	PROPN	PROPN	_	7	nsubj
+9	zwar	_	ADV	ADV	_	7	advmod
+10	im	_	ADP	ADP	_	11	case
+11	Elfmeterschießen	_	NOUN	NOUN	_	7	nmod
+12	gegen	_	ADP	ADP	_	14	case
+13	den	_	DET	DET	_	14	det
+14	FC	_	PROPN	PROPN	_	7	nmod
+15	Arsenal	_	PROPN	PROPN	_	14	appos
+16	,	_	PUNCT	PUNCT	_	7	punct
+17	dennoch	_	ADV	ADV	_	18	advmod
+18	ging	_	VERB	VERB	_	7	conj
+19	die	_	DET	DET	_	20	det
+20	Partie	_	NOUN	NOUN	_	18	nsubj
+21	verloren	_	VERB	VERB	_	18	xcomp
+22	.	_	PUNCT	PUNCT	_	7	punct
+

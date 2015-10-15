@@ -1,0 +1,15 @@
+1	http://t.co/pgl0eoNjfl	_	PROPN	PROPN	_	3	name
+2	QUÉ	_	PROPN	PROPN	_	3	name
+3	?!?!	_	PROPN	PROPN	_	0	root
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	ANGELINA	_	PROPN	PROPN	_	9	name
+6	JOLIE	_	PROPN	PROPN	_	9	name
+7	VENI	_	PROPN	PROPN	_	9	name
+8	CONMIGO	_	PROPN	PROPN	_	9	name
+9	DEJA	_	PROPN	PROPN	_	3	conj
+10	A	_	ADP	ADP	_	13	case
+11	ESA	_	PROPN	PROPN	_	13	name
+12	FEA	_	PROPN	PROPN	_	13	name
+13	AHRE	_	PROPN	PROPN	_	3	conj
+14	.	_	PUNCT	PUNCT	_	9	punct
+

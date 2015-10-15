@@ -1,0 +1,18 @@
+1	Καθώς	_	CONJ	CONJ	_	5	mark
+2	αυτές	_	PRON	PRON	_	4	det
+3	τις	_	ADJ	ADJ	_	4	det
+4	μέρες	_	NOUN	NOUN	_	5	nsubj
+5	ξεκινούν	_	VERB	VERB	_	0	root
+6	τα	_	ADJ	ADJ	_	7	det
+7	διαδικτυακά	_	NOUN	NOUN	_	5	dobj
+8	προγράμματα	_	NOUN	NOUN	_	7	nmod
+9	του	_	ADJ	ADJ	_	10	det
+10	Πανεπιστημίου	_	NOUN	NOUN	_	8	nmod
+11	Ιωαννίνων	_	NOUN	NOUN	_	10	nmod
+12	για	_	ADP	ADP	_	15	case
+13	τη	_	ADJ	ADJ	_	14	det
+14	Συμβουλευτική	_	NOUN	NOUN	_	11	nmod
+15	και	_	CONJ	CONJ	_	14	cc
+16	...	_	NOUN	NOUN	_	14	conj
+17	http://t.co/o9CQNHyKBI	_	NOUN	NOUN	_	16	nmod
+

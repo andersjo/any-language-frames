@@ -1,0 +1,14 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	@GIRLSG0ALS	_	NOUN	NOUN	_	0	root
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	angelina	_	PROPN	PROPN	_	5	compound
+5	jolie	_	PROPN	PROPN	_	8	nsubj
+6	http://t.co/AJSoJbg4dt	_	X	X	_	5	list
+7	"	_	PUNCT	PUNCT	_	6	punct
+8	look	_	VERB	VERB	_	2	appos
+9	her	_	PRON	PRON	_	10	nmod:poss
+10	face	_	NOUN	NOUN	_	8	dobj
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	i'm	_	NOUN	NOUN	_	13	nsubj
+13	crying	_	VERB	VERB	_	2	parataxis
+

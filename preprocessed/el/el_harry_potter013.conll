@@ -1,0 +1,9 @@
+1	Τα	_	ADJ	ADJ	_	2	det
+2	βιβλία	_	NOUN	NOUN	_	4	nsubj
+3	έχουν	_	VERB	VERB	_	4	aux
+4	αναγνώστες	_	VERB	VERB	_	0	root
+5	όλων	_	ADJ	ADJ	_	7	amod
+6	των	_	ADJ	ADJ	_	7	det
+7	ηλικιών	_	NOUN	NOUN	_	4	nmod
+8	.	_	PUNCT	PUNCT	_	4	punct
+

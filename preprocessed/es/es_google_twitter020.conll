@@ -1,0 +1,10 @@
+1	http://t.co/U7E3OLmoJ5	_	PROPN	PROPN	_	3	nsubj
+2	...	_	PUNCT	PUNCT	_	3	punct
+3	Deseando	_	VERB	VERB	_	0	root
+4	ver	_	VERB	VERB	_	3	xcomp
+5	WiFi	_	NOUN	NOUN	_	4	dobj
+6	en	_	ADP	ADP	_	8	case
+7	cada	_	DET	DET	_	8	det
+8	piso	_	NOUN	NOUN	_	5	nmod
+9	http://t.co/lDaNPadMcU	_	PROPN	PROPN	_	8	appos
+

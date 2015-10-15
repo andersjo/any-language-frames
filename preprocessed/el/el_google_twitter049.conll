@@ -1,0 +1,21 @@
+1	Σου	_	NOUN	NOUN	_	7	remnant
+2	‘	_	NOUN	NOUN	_	1	nmod
+3	ρθε	_	ADJ	ADJ	_	4	amod
+4	…	_	NOUN	NOUN	_	2	nmod
+5	κολπίτιδα	_	NOUN	NOUN	_	4	nmod
+6	;	_	PUNCT	PUNCT	_	1	punct
+7	8	_	NUM	NUM	_	9	nummod
+8	εύκολα	_	ADV	ADV	_	7	advmod
+9	tips	_	NOUN	NOUN	_	13	nsubj
+10	για	_	ADP	ADP	_	13	mark
+11	να	_	PART	PART	_	13	aux
+12	την	_	PRON	PRON	_	13	iobj
+13	αποφύγεις	_	VERB	VERB	_	0	root
+14	την	_	ADJ	ADJ	_	16	det
+15	επόμενη	_	ADJ	ADJ	_	16	amod
+16	φορά	_	NOUN	NOUN	_	13	dobj
+17	!	_	PUNCT	PUNCT	_	16	amod
+18	-	_	PUNCT	PUNCT	_	20	punct
+19	http://t.co/bAGjwkn9P7	_	NOUN	NOUN	_	20	nmod
+20	#starbuzz	_	NOUN	NOUN	_	16	appos
+

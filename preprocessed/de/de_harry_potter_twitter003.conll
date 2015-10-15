@@ -1,0 +1,17 @@
+1	ich	_	PRON	PRON	_	9	nsubj
+2	bin	_	VERB	VERB	_	0	root
+3	so	_	ADV	ADV	_	2	advmod
+4	ein	_	DET	DET	_	6	det
+5	freak	_	PROPN	PROPN	_	6	name
+6	wenns	_	PROPN	PROPN	_	2	dobj
+7	um	_	ADP	ADP	_	9	case
+8	harry	_	ADJ	ADJ	_	9	advmod
+9	potter	_	ADJ	ADJ	_	10	advmod
+10	geht	_	VERB	VERB	_	2	conj
+11	das	_	PRON	PRON	_	10	nsubj
+12	ist	_	VERB	VERB	_	16	cop
+13	ja	_	ADV	ADV	_	16	advmod
+14	schon	_	ADV	ADV	_	16	advmod
+15	fast	_	ADV	ADV	_	16	advmod
+16	peinlich	_	ADJ	ADJ	_	10	conj
+

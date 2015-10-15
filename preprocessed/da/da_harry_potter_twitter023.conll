@@ -1,0 +1,18 @@
+1	Harry	_	ADJ	ADJ	_	2	amod
+2	Potter	_	NOUN	NOUN	_	3	dep
+3	VHS	_	PROPN	PROPN	_	0	root
+4	Tapes	_	PROPN	PROPN	_	3	name
+5	â	_	PROPN	PROPN	_	3	name
+6	Sorcerer's	_	PROPN	PROPN	_	3	name
+7	Stone	_	PROPN	PROPN	_	3	name
+8	,	_	PUNCT	PUNCT	_	9	punct
+9	Chamber	_	PROPN	PROPN	_	3	dep
+10	-	_	PUNCT	PUNCT	_	9	punct
+11	Secrets	_	NOUN	NOUN	_	3	dep
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	Prisoner	_	NOUN	NOUN	_	11	conj
+14	-	_	PUNCT	PUNCT	_	11	punct
+15	Azkaban	_	PROPN	PROPN	_	17	nmod:poss
+16	http://t.co/WCAad50eUj	_	PROPN	PROPN	_	15	name
+17	http://t.co/o1F38M3pmK	_	NOUN	NOUN	_	11	conj
+

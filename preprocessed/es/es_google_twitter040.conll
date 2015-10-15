@@ -1,0 +1,12 @@
+1	@luisivnv	_	PROPN	PROPN	_	2	nsubj
+2	llama	_	VERB	VERB	_	0	root
+3	a	_	ADP	ADP	_	5	case
+4	un	_	DET	DET	_	5	det
+5	veterinario	_	NOUN	NOUN	_	2	nmod
+6	que	_	SCONJ	SCONJ	_	9	mark
+7	este	_	DET	DET	_	9	det
+8	24/7	_	NUM	NUM	_	9	nummod
+9	busca	_	NOUN	NOUN	_	5	acl:relcl
+10	en	_	ADP	ADP	_	11	case
+11	google	_	PROPN	PROPN	_	9	nmod
+

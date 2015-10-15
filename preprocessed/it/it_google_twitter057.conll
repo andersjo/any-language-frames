@@ -1,0 +1,9 @@
+1	@danutgdrs	_	PROPN	PROPN	_	6	nsubj
+2	............	_	PROPN	PROPN	_	1	name
+3	google	_	ADJ	ADJ	_	4	amod
+4	traduttore	_	NOUN	NOUN	_	6	nsubj
+5	ha	_	AUX	AUX	_	6	aux
+6	azzeccato	_	VERB	VERB	_	0	root
+7	wow	_	NOUN	NOUN	_	6	dobj
+8	....	_	NOUN	NOUN	_	7	compound
+

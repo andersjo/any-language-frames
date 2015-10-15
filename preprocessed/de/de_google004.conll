@@ -1,0 +1,26 @@
+1	Noch	_	ADV	ADV	_	4	advmod
+2	am	_	ADP	ADP	_	4	case
+3	selben	_	ADJ	ADJ	_	4	amod
+4	Tag	_	NOUN	NOUN	_	5	nmod
+5	brachten	_	VERB	VERB	_	0	root
+6	sie	_	PRON	PRON	_	5	nsubj
+7	eine	_	DET	DET	_	9	det
+8	erste	_	ADJ	ADJ	_	9	amod
+9	Testversion	_	NOUN	NOUN	_	5	dobj
+10	des	_	DET	DET	_	11	det
+11	Programms	_	NOUN	NOUN	_	9	det
+12	auf	_	ADP	ADP	_	14	case
+13	den	_	DET	DET	_	14	det
+14	Markt	_	NOUN	NOUN	_	5	nmod
+15	und	_	CONJ	CONJ	_	14	cc
+16	im	_	ADP	ADP	_	18	case
+17	selben	_	ADJ	ADJ	_	18	amod
+18	Jahr	_	NOUN	NOUN	_	19	nmod
+19	ging	_	VERB	VERB	_	5	conj
+20	die	_	DET	DET	_	21	det
+21	Suchmaschine	_	NOUN	NOUN	_	19	nsubj
+22	offiziell	_	ADV	ADV	_	19	advmod
+23	ans	_	ADP	ADP	_	24	case
+24	Netz	_	NOUN	NOUN	_	19	nmod
+25	.	_	PUNCT	PUNCT	_	5	punct
+

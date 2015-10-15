@@ -1,0 +1,17 @@
+1	Συναξαριον	_	NOUN	NOUN	_	7	nsubj
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Κυριακη	_	NOUN	NOUN	_	1	nmod
+4	προ	_	ADP	ADP	_	6	case
+5	της	_	ADJ	ADJ	_	6	det
+6	Χριστου	_	NOUN	NOUN	_	3	nmod
+7	Γεννησεως	_	VERB	VERB	_	0	root
+8	και	_	CONJ	CONJ	_	10	cc
+9	της	_	ADJ	ADJ	_	10	det
+10	Αγιας	_	NOUN	NOUN	_	11	nsubj
+11	Αναστασιας	_	VERB	VERB	_	7	conj
+12	της	_	ADJ	ADJ	_	13	det
+13	Φαρμακολυτριας	_	NOUN	NOUN	_	11	nmod
+14	.	_	PUNCT	PUNCT	_	1	punct
+15	https://t.co/VYxrgnbaXU	_	NOUN	NOUN	_	16	nmod
+16	http://t.co/PNDDGjomVF	_	NOUN	NOUN	_	11	nsubj
+

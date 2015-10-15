@@ -1,0 +1,8 @@
+1	curvatura	_	PROPN	PROPN	_	2	nsubj
+2	искривление	_	VERB	VERB	_	6	ccomp
+3	;	_	PUNCT	PUNCT	_	4	punct
+4	кривизна	_	NOUN	NOUN	_	2	dobj
+5	;	_	PUNCT	PUNCT	_	2	punct
+6	изгиб	_	VERB	VERB	_	0	root
+7	http://t.co/dwCCnQezOR	_	PROPN	PROPN	_	6	dobj
+

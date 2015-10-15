@@ -1,0 +1,16 @@
+1	Als	_	ADP	ADP	_	2	case
+2	Jolie	_	PROPN	PROPN	_	5	nmod
+3	elf	_	NUM	NUM	_	4	nummod
+4	Jahre	_	NOUN	NOUN	_	5	nmod
+5	alt	_	ADJ	ADJ	_	8	advcl
+6	war	_	VERB	VERB	_	5	cop
+7	,	_	PUNCT	PUNCT	_	8	punct
+8	zog	_	VERB	VERB	_	0	root
+9	die	_	DET	DET	_	10	det
+10	Familie	_	NOUN	NOUN	_	8	nsubj
+11	zurück	_	ADV	ADV	_	8	advmod
+12	nach	_	ADP	ADP	_	14	case
+13	Los	_	PROPN	PROPN	_	14	name
+14	Angeles	_	PROPN	PROPN	_	8	nmod
+15	.	_	PUNCT	PUNCT	_	8	punct
+

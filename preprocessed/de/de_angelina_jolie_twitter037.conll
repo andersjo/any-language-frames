@@ -1,0 +1,26 @@
+1	1	_	PROPN	PROPN	_	0	root
+2	.	_	PUNCT	PUNCT	_	1	punct
+3	Lena	_	PROPN	PROPN	_	4	name
+4	2	_	PROPN	PROPN	_	1	appos
+5	.	_	PUNCT	PUNCT	_	4	punct
+6	Casper	_	NOUN	NOUN	_	3	appos
+7	3	_	PROPN	PROPN	_	6	appos
+8	.	_	PUNCT	PUNCT	_	4	punct
+9	Julia	_	PROPN	PROPN	_	11	name
+10	Roberts	_	PROPN	PROPN	_	11	name
+11	4	_	PROPN	PROPN	_	6	appos
+12	.	_	PUNCT	PUNCT	_	4	punct
+13	Ahzumjot	_	PROPN	PROPN	_	14	name
+14	5	_	PROPN	PROPN	_	11	conj
+15	.	_	PUNCT	PUNCT	_	4	punct
+16	Olson	_	PROPN	PROPN	_	17	name
+17	6	_	PROPN	PROPN	_	14	appos
+18	.	_	PUNCT	PUNCT	_	14	punct
+19	Shirin	_	PROPN	PROPN	_	21	name
+20	David	_	PROPN	PROPN	_	21	name
+21	7	_	PROPN	PROPN	_	17	conj
+22	.	_	PUNCT	PUNCT	_	14	punct
+23	Angelina	_	PROPN	PROPN	_	25	name
+24	Jolie	_	PROPN	PROPN	_	25	name
+25	http://t.co/axm7sBcoUy	_	PROPN	PROPN	_	21	punct
+

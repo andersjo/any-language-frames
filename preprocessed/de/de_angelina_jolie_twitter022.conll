@@ -1,0 +1,15 @@
+1	Angelina	_	PROPN	PROPN	_	3	name
+2	Jolie	_	PROPN	PROPN	_	3	name
+3	Syndrom	_	PROPN	PROPN	_	4	nsubj
+4	erfasst	_	VERB	VERB	_	0	root
+5	die	_	DET	DET	_	6	det
+6	Männerwelt	_	NOUN	NOUN	_	4	dobj
+7	,	_	PUNCT	PUNCT	_	4	punct
+8	massenhaft	_	ADJ	ADJ	_	9	amod
+9	Kastrationen	_	NOUN	NOUN	_	6	conj
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	Panik	_	NOUN	NOUN	_	9	conj
+12	vor	_	ADP	ADP	_	13	case
+13	Hodenkrebs	_	NOUN	NOUN	_	11	nmod
+14	http://t.co/1qV35Gc1yW	_	PROPN	PROPN	_	13	appos
+

@@ -1,0 +1,11 @@
+1	Ισως	_	NOUN	NOUN	_	2	nsubj
+2	μπορουσα	_	VERB	VERB	_	0	root
+3	να	_	PART	PART	_	4	aux
+4	γινω	_	VERB	VERB	_	2	ccomp
+5	google	_	NOUN	NOUN	_	4	dobj
+6	translator	_	NOUN	NOUN	_	5	nmod
+7	manager	_	NOUN	NOUN	_	6	nmod
+8	η	_	ADJ	ADJ	_	9	det
+9	κατι	_	NOUN	NOUN	_	1	nsubj
+10	τετοιο	_	ADJ	ADJ	_	9	amod
+

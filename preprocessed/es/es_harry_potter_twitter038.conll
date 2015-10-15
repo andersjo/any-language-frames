@@ -1,0 +1,17 @@
+1	Estoy	_	AUX	AUX	_	2	auxpass
+2	viendo	_	VERB	VERB	_	0	root
+3	por	_	ADP	ADP	_	5	case
+4	primera	_	NUM	NUM	_	5	nummod
+5	vez	_	NOUN	NOUN	_	2	nmod
+6	Harry	_	PROPN	PROPN	_	7	name
+7	Potter	_	PROPN	PROPN	_	5	appos
+8	y	_	CONJ	CONJ	_	5	cc
+9	Las	_	DET	DET	_	10	det
+10	Reliquias	_	NOUN	NOUN	_	7	conj
+11	de	_	ADP	ADP	_	13	case
+12	la	_	DET	DET	_	13	det
+13	Muerte	_	PROPN	PROPN	_	10	nmod
+14	parte	_	NOUN	NOUN	_	13	appos
+15	2	_	NUM	NUM	_	14	nummod
+16	*-*	_	X	X	_	15	dep
+

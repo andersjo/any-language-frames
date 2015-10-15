@@ -1,0 +1,18 @@
+1	En	_	ADP	ADP	_	2	case
+2	China	_	PROPN	PROPN	_	4	nmod
+3	se	_	PRON	PRON	_	4	iobj
+4	celebra	_	VERB	VERB	_	0	root
+5	desde	_	ADP	ADP	_	6	case
+6	1922	_	NUM	NUM	_	4	nmod
+7	,	_	PUNCT	PUNCT	_	4	punct
+8	en	_	ADP	ADP	_	9	case
+9	España	_	PROPN	PROPN	_	4	nmod
+10	se	_	PRON	PRON	_	11	iobj
+11	celebró	_	VERB	VERB	_	4	conj
+12	por	_	ADP	ADP	_	14	case
+13	primera	_	NUM	NUM	_	14	nummod
+14	vez	_	NOUN	NOUN	_	11	nmod
+15	en	_	ADP	ADP	_	16	case
+16	1936	_	NUM	NUM	_	11	nmod
+17	.	_	PUNCT	PUNCT	_	4	punct
+

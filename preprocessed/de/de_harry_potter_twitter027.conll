@@ -1,0 +1,13 @@
+1	Gucke	_	NOUN	NOUN	_	10	nsubj
+2	jetzt	_	ADV	ADV	_	1	advmod
+3	Harry	_	PROPN	PROPN	_	4	name
+4	Potter	_	PROPN	PROPN	_	10	nsubj
+5	auf	_	ADP	ADP	_	6	case
+6	Englisch	_	PROPN	PROPN	_	4	nmod
+7	,	_	PUNCT	PUNCT	_	4	punct
+8	einfach	_	ADV	ADV	_	9	advmod
+9	weil's	_	ADJ	ADJ	_	10	advmod
+10	schöner	_	ADJ	ADJ	_	0	root
+11	ist	_	VERB	VERB	_	10	cop
+12	.	_	PUNCT	PUNCT	_	10	punct
+

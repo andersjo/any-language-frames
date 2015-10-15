@@ -1,0 +1,21 @@
+1	Kami	_	PROPN	PROPN	_	2	name
+2	juga	_	PROPN	PROPN	_	3	nsubj
+3	ada	_	VERB	VERB	_	0	root
+4	di	_	X	X	_	3	dobj
+5	:	_	PUNCT	PUNCT	_	4	punct
+6	Fan	_	PROPN	PROPN	_	8	name
+7	Page	_	PROPN	PROPN	_	8	name
+8	Facebook	_	PROPN	PROPN	_	4	appos
+9	:	_	PUNCT	PUNCT	_	8	punct
+10	http://t.co/7qBmNNlYt8	_	X	X	_	8	appos
+11	.	_	PUNCT	PUNCT	_	10	punct
+12	Website	_	PROPN	PROPN	_	10	appos
+13	:	_	PUNCT	PUNCT	_	12	punct
+14	http://t.co/zXgVov1JcN	_	PROPN	PROPN	_	16	name
+15	.	_	PUNCT	PUNCT	_	14	punct
+16	Google	_	PROPN	PROPN	_	6	conj
+17	Plus	_	ADV	ADV	_	16	advmod
+18	:	_	PUNCT	PUNCT	_	14	punct
+19	http://t.co/C3dAFOoJmj	_	PROPN	PROPN	_	16	appos
+20	.	_	PUNCT	PUNCT	_	19	punct
+

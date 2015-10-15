@@ -1,0 +1,26 @@
+1	Däremot	_	ADV	ADV	_	2	advmod
+2	finns	_	VERB	VERB	_	0	root
+3	det	_	PRON	PRON	_	2	expl
+4	ingen	_	DET	DET	_	6	det
+5	annan	_	ADJ	ADJ	_	6	det
+6	sökmotor	_	NOUN	NOUN	_	2	nsubj
+7	idag	_	ADV	ADV	_	2	advmod
+8	som	_	PRON	PRON	_	9	nsubj
+9	klarar	_	VERB	VERB	_	6	acl:relcl
+10	av	_	ADP	ADP	_	12	case
+11	att	_	PART	PART	_	12	mark
+12	söka	_	VERB	VERB	_	9	advcl
+13	i	_	ADP	ADP	_	15	case
+14	Usenetarkivet	_	ADJ	ADJ	_	15	amod
+15	–	_	NOUN	NOUN	_	12	nmod
+16	på	_	ADP	ADP	_	18	case
+17	denna	_	DET	DET	_	18	det
+18	punkt	_	NOUN	NOUN	_	12	nmod
+19	är	_	AUX	AUX	_	23	cop
+20	alltså	_	ADV	ADV	_	23	advmod
+21	Google	_	PROPN	PROPN	_	23	nsubj
+22	helt	_	ADV	ADV	_	23	advmod
+23	unika	_	ADJ	ADJ	_	9	nmod:agent
+24	idag	_	ADV	ADV	_	23	advmod
+25	.	_	PUNCT	PUNCT	_	2	punct
+

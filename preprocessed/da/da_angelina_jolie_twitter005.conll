@@ -1,0 +1,12 @@
+1	“	_	ADJ	ADJ	_	2	amod
+2	@TootieGee	_	NOUN	NOUN	_	7	dep
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	9	_	NUM	NUM	_	6	nummod
+5	.	_	PUNCT	PUNCT	_	2	punct
+6	Role	_	NOUN	NOUN	_	7	nmod:poss
+7	model	_	NOUN	NOUN	_	9	dep
+8	?	_	PUNCT	PUNCT	_	6	punct
+9	”	_	VERB	VERB	_	0	root
+10	Angelina	_	PROPN	PROPN	_	9	nsubj
+11	Jolie	_	NOUN	NOUN	_	10	dep
+

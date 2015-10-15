@@ -1,0 +1,8 @@
+1	programmer	_	NOUN	NOUN	_	2	nmod:poss
+2	analyst	_	NOUN	NOUN	_	0	root
+3	&	_	CONJ	CONJ	_	2	cc
+4	software	_	NOUN	NOUN	_	5	name
+5	engineer	_	PROPN	PROPN	_	2	appos
+6	http://t.co/rp2MjUfoLJ	_	PROPN	PROPN	_	5	name
+7	#bisoftware	_	NOUN	NOUN	_	5	dep
+

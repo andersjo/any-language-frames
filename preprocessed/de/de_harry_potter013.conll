@@ -1,0 +1,19 @@
+1	(	_	PUNCT	PUNCT	_	2	punct
+2	Neu-)Verfilmungen	_	NOUN	NOUN	_	3	conj
+3	von	_	ADP	ADP	_	6	case
+4	"	_	PUNCT	PUNCT	_	6	punct
+5	Der	_	DET	DET	_	6	det
+6	Herr	_	NOUN	NOUN	_	17	nsubj
+7	der	_	DET	DET	_	8	det
+8	Ringe	_	NOUN	NOUN	_	6	det
+9	"	_	PUNCT	PUNCT	_	2	punct
+10	oder	_	CONJ	CONJ	_	2	cc
+11	"	_	PUNCT	PUNCT	_	13	punct
+12	Die	_	DET	DET	_	13	det
+13	Chroniken	_	NOUN	NOUN	_	17	nsubj
+14	von	_	ADP	ADP	_	15	case
+15	Narnia	_	PROPN	PROPN	_	13	nmod
+16	"	_	PUNCT	PUNCT	_	17	punct
+17	folgten	_	VERB	VERB	_	0	root
+18	.	_	PUNCT	PUNCT	_	17	punct
+

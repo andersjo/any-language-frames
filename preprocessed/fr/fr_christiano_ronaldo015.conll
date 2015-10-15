@@ -1,0 +1,8 @@
+1	déclare	_	VERB	VERB	_	0	root
+2	sa	_	DET	DET	_	3	nmod:poss
+3	mère	_	NOUN	NOUN	_	1	dobj
+4	dans	_	ADP	ADP	_	6	case
+5	un	_	DET	DET	_	6	det
+6	documentaire	_	NOUN	NOUN	_	1	nmod
+7	.	_	PUNCT	PUNCT	_	1	punct
+

@@ -1,0 +1,12 @@
+1	@christiano	_	PROPN	PROPN	_	2	compound
+2	Ronaldo	_	PROPN	PROPN	_	4	compound
+3	on	_	ADP	ADP	_	4	compound
+4	song	_	NOUN	NOUN	_	5	nmod:npmod
+5	again	_	ADV	ADV	_	8	advmod
+6	but	_	CONJ	CONJ	_	4	cc
+7	madrid	_	NOUN	NOUN	_	8	nsubj
+8	lost	_	VERB	VERB	_	0	root
+9	after	_	ADP	ADP	_	8	compound:prt
+10	22	_	NUM	NUM	_	8	dobj
+11	unbeating	_	ADJ	ADJ	_	0	punct
+

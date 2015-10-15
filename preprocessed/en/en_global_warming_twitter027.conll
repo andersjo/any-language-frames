@@ -1,0 +1,22 @@
+1	global	_	ADJ	ADJ	_	0	cc
+2	warming	_	NOUN	NOUN	_	7	nsubj
+3	&	_	CONJ	CONJ	_	2	cc
+4	wheat	_	NOUN	NOUN	_	2	conj
+5	:	_	PUNCT	PUNCT	_	2	punct
+6	rising	_	VERB	VERB	_	7	amod
+7	CO2(food	_	NOUN	NOUN	_	0	root
+8	)	_	PUNCT	PUNCT	_	6	punct
+9	offset	_	VERB	VERB	_	6	conj
+10	by	_	ADP	ADP	_	9	compound:prt
+11	higher	_	ADJ	ADJ	_	0	foreign
+12	temps	_	NOUN	NOUN	_	9	dobj
+13	(	_	PUNCT	PUNCT	_	9	punct
+14	lower	_	ADJ	ADJ	_	0	foreign
+15	germination	_	NOUN	NOUN	_	9	nmod
+16	,	_	PUNCT	PUNCT	_	15	punct
+17	H2O	_	PROPN	PROPN	_	18	compound
+18	avail	_	NOUN	NOUN	_	15	conj
+19	)	_	PUNCT	PUNCT	_	18	punct
+20	http://t.co/r5DxftJbJh	_	X	X	_	15	conj
+21	http://t.co/BVbbq07Lo3	_	X	X	_	20	compound
+

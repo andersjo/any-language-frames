@@ -1,0 +1,14 @@
+1	Photo	_	PROPN	PROPN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	angelina	_	PROPN	PROPN	_	4	name
+4	jolie	_	PROPN	PROPN	_	1	appos
+5	and	_	PROPN	PROPN	_	4	cc
+6	brad	_	PROPN	PROPN	_	4	conj
+7	pitt	_	PROPN	PROPN	_	4	conj
+8	|	_	PUNCT	PUNCT	_	7	punct
+9	by	_	PROPN	PROPN	_	10	name
+10	steven	_	PROPN	PROPN	_	7	conj
+11	klein	_	ADJ	ADJ	_	13	amod
+12	2005	_	NUM	NUM	_	13	nummod
+13	http://t.co/hawXVBRuX5	_	NOUN	NOUN	_	7	dep
+

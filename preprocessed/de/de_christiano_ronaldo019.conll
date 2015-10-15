@@ -1,0 +1,14 @@
+1	Seit	_	ADP	ADP	_	2	case
+2	Mai	_	PROPN	PROPN	_	12	nmod
+3	2010	_	NUM	NUM	_	2	nmod
+4	ist	_	VERB	VERB	_	9	cop
+5	Ronaldo	_	PROPN	PROPN	_	12	nsubj
+6	mit	_	ADP	ADP	_	9	case
+7	dem	_	DET	DET	_	9	det
+8	russischen	_	ADJ	ADJ	_	9	amod
+9	Model	_	NOUN	NOUN	_	12	nmod
+10	Irina	_	PROPN	PROPN	_	11	name
+11	Shayk	_	PROPN	PROPN	_	9	appos
+12	liiert	_	VERB	VERB	_	0	root
+13	.	_	PUNCT	PUNCT	_	12	punct
+

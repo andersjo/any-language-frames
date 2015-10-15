@@ -1,0 +1,18 @@
+1	Bis	_	ADP	ADP	_	2	case
+2	2008	_	NUM	NUM	_	16	nmod
+3	wurden	_	AUX	AUX	_	16	auxpass
+4	mehr	_	ADV	ADV	_	16	advmod
+5	als	_	ADP	ADP	_	8	case
+6	400	_	NUM	NUM	_	7	nummod
+7	Millionen	_	NOUN	NOUN	_	8	nummod
+8	Bücher	_	NOUN	NOUN	_	16	nmod
+9	der	_	DET	DET	_	11	det
+10	sieben	_	NUM	NUM	_	11	nummod
+11	Bände	_	NOUN	NOUN	_	8	det
+12	sowie	_	CONJ	CONJ	_	8	cc
+13	drei	_	NUM	NUM	_	15	nummod
+14	dazugehörigen	_	ADJ	ADJ	_	15	amod
+15	Spin-off-Büchern	_	NOUN	NOUN	_	11	conj
+16	verkauft	_	VERB	VERB	_	0	root
+17	.	_	PUNCT	PUNCT	_	16	punct
+

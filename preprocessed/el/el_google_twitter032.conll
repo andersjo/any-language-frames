@@ -1,0 +1,27 @@
+1	Να	_	PART	PART	_	2	aux
+2	δεις	_	VERB	VERB	_	0	root
+3	του	_	ADJ	ADJ	_	4	det
+4	τα	_	ADJ	ADJ	_	5	det
+5	στέλνει	_	VERB	VERB	_	2	conj
+6	η	_	ADJ	ADJ	_	7	det
+7	τρόικα	_	NOUN	NOUN	_	5	nsubj
+8	,	_	PUNCT	PUNCT	_	5	punct
+9	αλλά	_	CONJ	CONJ	_	5	cc
+10	έχει	_	VERB	VERB	_	5	conj
+11	φύγει	_	NOUN	NOUN	_	10	dobj
+12	μέχρι	_	ADP	ADP	_	13	case
+13	κι	_	CONJ	CONJ	_	15	cc
+14	ο	_	ADJ	ADJ	_	15	det
+15	μεταφραστής	_	NOUN	NOUN	_	7	conj
+16	και	_	CONJ	CONJ	_	15	cc
+17	η	_	ADJ	ADJ	_	20	det
+18	μόνη	_	ADJ	ADJ	_	20	amod
+19	του	_	ADJ	ADJ	_	20	det
+20	λύση	_	NOUN	NOUN	_	15	conj
+21	είναι	_	VERB	VERB	_	23	cop
+22	το	_	ADJ	ADJ	_	23	det
+23	Google	_	NOUN	NOUN	_	20	nsubj
+24	translator	_	NOUN	NOUN	_	23	nmod
+25	.	_	PUNCT	PUNCT	_	5	punct
+26	#Beni	_	NOUN	NOUN	_	24	nmod
+

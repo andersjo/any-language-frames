@@ -1,0 +1,27 @@
+1	Το	_	ADJ	ADJ	_	2	det
+2	Gaol.com,	_	NOUN	NOUN	_	17	nmod
+3	το	_	ADJ	ADJ	_	4	det
+4	Μάρτιο	_	NOUN	NOUN	_	2	nmod
+5	του	_	ADJ	ADJ	_	6	det
+6	2013	_	NUM	NUM	_	4	nmod
+7	τον	_	ADJ	ADJ	_	8	det
+8	ανακήρυξε	_	NOUN	NOUN	_	4	nmod
+9	έναν	_	ADJ	ADJ	_	8	amod
+10	από	_	ADP	ADP	_	12	case
+11	τους	_	ADJ	ADJ	_	12	det
+12	πλουσιότερους	_	NOUN	NOUN	_	9	nmod
+13	ποδοσφαιριστές	_	ADJ	ADJ	_	15	amod
+14	του	_	ADJ	ADJ	_	15	det
+15	κόσμου	_	NOUN	NOUN	_	12	nmod
+16	,	_	PUNCT	PUNCT	_	18	punct
+17	κατατάσσοντάς	_	VERB	VERB	_	0	root
+18	τον	_	ADJ	ADJ	_	17	dobj
+19	στη	_	ADP	ADP	_	20	case
+20	θέση	_	NOUN	NOUN	_	18	nmod
+21	τρία	_	NUM	NUM	_	20	nmod
+22	,	_	PUNCT	PUNCT	_	18	punct
+23	της	_	ADJ	ADJ	_	24	det
+24	σχετικής	_	NOUN	NOUN	_	20	nmod
+25	λίστας	_	NOUN	NOUN	_	24	nmod
+26	.	_	PUNCT	PUNCT	_	17	punct
+

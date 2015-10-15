@@ -1,0 +1,24 @@
+1	(	_	PUNCT	PUNCT	_	5	punct
+2	Det	_	PRON	PRON	_	5	expl
+3	är	_	AUX	AUX	_	5	cop
+4	inte	_	ADV	ADV	_	5	neg
+5	sant	_	ADJ	ADJ	_	0	root
+6	att	_	SCONJ	SCONJ	_	8	mark
+7	hon	_	PRON	PRON	_	8	nsubj
+8	satt	_	VERB	VERB	_	5	csubj
+9	på	_	ADP	ADP	_	10	case
+10	kaféet	_	NOUN	NOUN	_	8	nmod
+11	för	_	ADP	ADP	_	16	case
+12	att	_	SCONJ	SCONJ	_	16	mark
+13	hennes	_	DET	DET	_	14	nmod:poss
+14	lägenhet	_	NOUN	NOUN	_	16	nsubj
+15	inte	_	ADV	ADV	_	16	neg
+16	hade	_	VERB	VERB	_	8	advcl
+17	värme	_	NOUN	NOUN	_	16	dobj
+18	,	_	PUNCT	PUNCT	_	8	punct
+19	som	_	CONJ	CONJ	_	20	mark
+20	vissa	_	PRON	PRON	_	21	nsubj
+21	har	_	VERB	VERB	_	16	conj
+22	påstått	_	NOUN	NOUN	_	21	dobj
+23	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,23 @@
+1	На	_	ADP	ADP	_	3	case
+2	5	_	NUM	NUM	_	3	nummod
+3	октомври	_	NOUN	NOUN	_	9	nmod
+4	в	_	ADP	ADP	_	5	case
+5	мач	_	NOUN	NOUN	_	3	nmod
+6	за	_	ADP	ADP	_	7	case
+7	първенството	_	NOUN	NOUN	_	5	nmod
+8	Роналдо	_	PROPN	PROPN	_	7	nmod
+9	отбелязва	_	VERB	VERB	_	0	root
+10	нов	_	ADJ	ADJ	_	11	amod
+11	хеттрик	_	NOUN	NOUN	_	9	dobj
+12	при	_	ADP	ADP	_	14	case
+13	домакинската	_	ADJ	ADJ	_	14	amod
+14	победа	_	NOUN	NOUN	_	9	nmod
+15	с	_	ADP	ADP	_	17	case
+16	5	_	NUM	NUM	_	17	nummod
+17	–	_	NOUN	NOUN	_	14	nmod
+18	0	_	NUM	NUM	_	17	nummod
+19	срещу	_	ADP	ADP	_	20	case
+20	Атлетик	_	PROPN	PROPN	_	14	nmod
+21	Билбао	_	PROPN	PROPN	_	20	name
+22	.	_	PUNCT	PUNCT	_	9	punct
+

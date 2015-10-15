@@ -1,0 +1,10 @@
+1	dör	_	NOUN	NOUN	_	3	nsubj
+2	lite	_	ADV	ADV	_	3	advmod
+3	inombords	_	VERB	VERB	_	0	root
+4	varje	_	DET	DET	_	5	det
+5	gång	_	NOUN	NOUN	_	3	dobj
+6	jag	_	PRON	PRON	_	7	nsubj
+7	ser	_	VERB	VERB	_	5	acl:relcl
+8	Angelina	_	ADJ	ADJ	_	9	amod
+9	Jolie	_	NOUN	NOUN	_	7	dobj
+

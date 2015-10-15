@@ -1,0 +1,12 @@
+1	Björn	_	PROPN	PROPN	_	7	nsubj
+2	Weckström	_	PROPN	PROPN	_	1	name
+3	for	_	ADP	ADP	_	4	case
+4	Lapponia	_	PROPN	PROPN	_	1	nmod
+5	Jewelry	_	PROPN	PROPN	_	4	name
+6	,	_	PUNCT	PUNCT	_	1	punct
+7	Flame	_	VERB	VERB	_	0	root
+8	bronze	_	PROPN	PROPN	_	7	nsubj
+9	...	_	PUNCT	PUNCT	_	7	punct
+10	#jewelry	_	ADJ	ADJ	_	11	amod
+11	http://t.co/PgiL8vHUZn	_	NOUN	NOUN	_	7	dobj
+

@@ -1,0 +1,17 @@
+1	Place	_	NOUN	NOUN	_	0	root
+2	à	_	ADP	ADP	_	4	case
+3	la	_	DET	DET	_	4	det
+4	scène	_	NOUN	NOUN	_	1	nmod
+5	locale	_	ADJ	ADJ	_	4	amod
+6	!	_	PUNCT	PUNCT	_	1	punct
+7	Artiste	_	NOUN	NOUN	_	4	appos
+8	#4	_	PROPN	PROPN	_	7	appos
+9	:	_	PUNCT	PUNCT	_	7	punct
+10	Global	_	PROPN	PROPN	_	11	name
+11	Warming	_	PROPN	PROPN	_	7	appos
+12	/	_	PUNCT	PUNCT	_	11	punct
+13	Malcolm	_	PROPN	PROPN	_	11	conj
+14	!	_	PUNCT	PUNCT	_	11	punct
+15	#LNRxCO2015	_	PROPN	PROPN	_	16	name
+16	http://t.co/AOIwWxoyAl	_	PROPN	PROPN	_	11	conj
+

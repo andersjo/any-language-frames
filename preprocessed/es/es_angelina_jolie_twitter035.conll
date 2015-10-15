@@ -1,0 +1,16 @@
+1	@J_Leonardo_H_G	_	PROPN	PROPN	_	11	nsubj
+2	tus	_	DET	DET	_	3	nmod:poss
+3	fotomontajes	_	NOUN	NOUN	_	11	nsubj
+4	con	_	ADP	ADP	_	6	case
+5	Brad	_	PROPN	PROPN	_	6	name
+6	Pitt	_	PROPN	PROPN	_	3	nmod
+7	y	_	CONJ	CONJ	_	6	cc
+8	Angelina	_	PROPN	PROPN	_	9	name
+9	Jolie	_	PROPN	PROPN	_	6	conj
+10	no	_	ADV	ADV	_	11	neg
+11	hace	_	VERB	VERB	_	0	root
+12	que	_	SCONJ	SCONJ	_	13	mark
+13	piense	_	VERB	VERB	_	11	ccomp
+14	lo	_	DET	DET	_	15	det
+15	mismo	_	NOUN	NOUN	_	13	dobj
+

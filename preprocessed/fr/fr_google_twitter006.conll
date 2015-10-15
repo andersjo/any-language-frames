@@ -1,0 +1,21 @@
+1	[	_	PUNCT	PUNCT	_	4	punct
+2	01/05/15	_	NUM	NUM	_	4	nummod
+3	03:19	_	NUM	NUM	_	4	nummod
+4	AM	_	NOUN	NOUN	_	11	nsubj
+5	]	_	PUNCT	PUNCT	_	4	punct
+6	Farm	_	PROPN	PROPN	_	7	name
+7	Up	_	PROPN	PROPN	_	4	appos
+8	!	_	PUNCT	PUNCT	_	7	punct
+9	Nouvelle	_	ADJ	ADJ	_	10	amod
+10	récompense	_	NOUN	NOUN	_	7	appos
+11	reçue	_	VERB	VERB	_	0	root
+12	:	_	PUNCT	PUNCT	_	11	punct
+13	Pas	_	ADV	ADV	_	11	neg
+14	un	_	DET	DET	_	15	det
+15	pas	_	ADV	ADV	_	11	neg
+16	sans	_	ADP	ADP	_	18	case
+17	ma	_	DET	DET	_	18	nmod:poss
+18	quête	_	NOUN	NOUN	_	11	nmod
+19	!.	_	PROPN	PROPN	_	20	name
+20	http://t.co/aYdqJ62Baf	_	PROPN	PROPN	_	18	appos
+

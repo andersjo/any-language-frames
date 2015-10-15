@@ -1,0 +1,26 @@
+1	Ακόμη	_	ADV	ADV	_	2	advmod
+2	παραμένει	_	VERB	VERB	_	3	cop
+3	άγνωστο	_	ADJ	ADJ	_	0	root
+4	το	_	ADJ	ADJ	_	7	det
+5	αν	_	CONJ	CONJ	_	7	mark
+6	θα	_	PART	PART	_	7	aux
+7	επιτραπεί	_	VERB	VERB	_	2	conj
+8	σε	_	ADP	ADP	_	9	case
+9	άλλους	_	PRON	PRON	_	7	iobj
+10	συγγραφείς	_	VERB	VERB	_	7	csubj
+11	να	_	PART	PART	_	12	aux
+12	γράψουν	_	VERB	VERB	_	10	ccomp
+13	σχετικά	_	ADV	ADV	_	12	advmod
+14	με	_	ADP	ADP	_	16	case
+15	τον	_	ADJ	ADJ	_	16	det
+16	κόσμο	_	NOUN	NOUN	_	13	nmod
+17	του	_	ADJ	ADJ	_	18	det
+18	Χάρι	_	NOUN	NOUN	_	16	nmod
+19	Πότερ	_	NOUN	NOUN	_	18	nmod
+20	χωρίς	_	ADP	ADP	_	21	case
+21	συμμετοχή	_	NOUN	NOUN	_	19	nmod
+22	του	_	ADJ	ADJ	_	23	det
+23	Χάρι	_	NOUN	NOUN	_	21	nmod
+24	Πότερ	_	NOUN	NOUN	_	23	nmod
+25	.	_	PUNCT	PUNCT	_	7	punct
+

@@ -1,0 +1,13 @@
+1	Angelina	_	PROPN	PROPN	_	2	compound
+2	Jolie	_	PROPN	PROPN	_	3	nsubj
+3	has	_	VERB	VERB	_	0	root
+4	the	_	DET	DET	_	7	det
+5	greatest	_	ADJ	ADJ	_	0	remnant
+6	facial	_	NOUN	NOUN	_	7	compound
+7	features	_	NOUN	NOUN	_	3	dobj
+8	I	_	PRON	PRON	_	9	nsubj
+9	wish	_	VERB	VERB	_	7	acl:relcl
+10	I	_	PRON	PRON	_	12	nsubj
+11	had	_	AUX	AUX	_	12	aux
+12	😭	_	VERB	VERB	_	9	ccomp
+

@@ -1,0 +1,19 @@
+1	Datoen	_	NOUN	NOUN	_	8	dobj
+2	den	_	DET	DET	_	5	det
+3	8	_	NUM	NUM	_	5	nummod
+4	.	_	PUNCT	PUNCT	_	1	punct
+5	marts	_	NOUN	NOUN	_	8	nsubjpass
+6	blev	_	AUX	AUX	_	8	auxpass
+7	endeligt	_	ADJ	ADJ	_	8	nsubjpass
+8	fastlagt	_	VERB	VERB	_	0	root
+9	på	_	ADP	ADP	_	15	case
+10	det	_	DET	DET	_	15	det
+11	kommunistiske	_	ADJ	ADJ	_	15	amod
+12	3	_	NUM	NUM	_	11	nummod
+13	.	_	PUNCT	PUNCT	_	8	punct
+14	internationales	_	VERB	VERB	_	15	dep
+15	møde	_	NOUN	NOUN	_	8	nmod
+16	i	_	ADP	ADP	_	15	dep
+17	1921	_	NUM	NUM	_	16	nummod
+18	.	_	PUNCT	PUNCT	_	14	punct
+

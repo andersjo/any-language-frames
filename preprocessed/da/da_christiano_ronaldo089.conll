@@ -1,0 +1,21 @@
+1	Han	_	PRON	PRON	_	3	nsubjpass
+2	blev	_	AUX	AUX	_	3	auxpass
+3	udtaget	_	VERB	VERB	_	0	root
+4	til	_	ADP	ADP	_	5	case
+5	EM	_	NOUN	NOUN	_	3	nmod
+6	2004	_	NUM	NUM	_	5	nmod
+7	,	_	PUNCT	PUNCT	_	10	punct
+8	da	_	SCONJ	SCONJ	_	10	mark
+9	han	_	PRON	PRON	_	10	nsubj
+10	reducerede	_	VERB	VERB	_	3	dep
+11	til	_	ADP	ADP	_	10	dep
+12	1-2	_	NUM	NUM	_	11	nummod
+13	på	_	ADP	ADP	_	15	case
+14	et	_	DET	DET	_	15	det
+15	hovedstødsmål	_	NOUN	NOUN	_	10	nmod
+16	i	_	ADP	ADP	_	17	case
+17	åbningskampen	_	NOUN	NOUN	_	15	nmod
+18	mod	_	ADP	ADP	_	19	case
+19	Grækenland	_	PROPN	PROPN	_	17	nmod
+20	.	_	PUNCT	PUNCT	_	3	punct
+

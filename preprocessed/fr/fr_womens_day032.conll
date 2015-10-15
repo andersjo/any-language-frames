@@ -1,0 +1,16 @@
+1	«	_	PUNCT	PUNCT	_	2	punct
+2	Journée	_	PROPN	PROPN	_	0	root
+3	de	_	ADP	ADP	_	5	case
+4	la	_	DET	DET	_	5	det
+5	femme	_	NOUN	NOUN	_	2	nmod
+6	»	_	PUNCT	PUNCT	_	2	punct
+7	ou	_	CONJ	CONJ	_	2	cc
+8	«	_	PUNCT	PUNCT	_	9	punct
+9	Journée	_	PROPN	PROPN	_	2	conj
+10	des	_	ADP	ADP	_	11	case
+11	droits	_	NOUN	NOUN	_	9	nmod
+12	des	_	ADP	ADP	_	13	case
+13	femmes	_	NOUN	NOUN	_	11	nmod
+14	»	_	PUNCT	PUNCT	_	9	punct
+15	.	_	PUNCT	PUNCT	_	5	punct
+

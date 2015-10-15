@@ -1,0 +1,15 @@
+1	Завършва	_	NOUN	NOUN	_	11	nsubj
+2	с	_	ADP	ADP	_	4	case
+3	54	_	NUM	NUM	_	4	nummod
+4	гола	_	NOUN	NOUN	_	1	nmod
+5	във	_	ADP	ADP	_	7	case
+6	всички	_	DET	DET	_	7	det
+7	турнири	_	NOUN	NOUN	_	4	nmod
+8	,	_	PUNCT	PUNCT	_	11	punct
+9	точно	_	ADV	ADV	_	10	advmod
+10	колкото	_	ADV	ADV	_	11	advmod
+11	има	_	VERB	VERB	_	0	root
+12	и	_	CONJ	CONJ	_	13	cc
+13	аржентинеца	_	NOUN	NOUN	_	11	dobj
+14	.	_	PUNCT	PUNCT	_	11	punct
+

@@ -1,0 +1,14 @@
+1	"	_	PUNCT	PUNCT	_	3	punct
+2	Politicians	_	NOUN	NOUN	_	3	nmod:poss
+3	discussing	_	NOUN	NOUN	_	4	nmod
+4	global	_	ADJ	ADJ	_	5	amod
+5	warming	_	NOUN	NOUN	_	0	root
+6	"	_	PUNCT	PUNCT	_	5	punct
+7	by	_	NOUN	NOUN	_	5	conj
+8	Isaac	_	ADV	ADV	_	9	amod
+9	cordal	_	NOUN	NOUN	_	7	nmod
+10	.	_	PUNCT	PUNCT	_	3	punct
+11	Så	_	ADV	ADV	_	12	advmod
+12	äkta	_	ADJ	ADJ	_	13	amod
+13	http://t.co/Vh0nH1mXdb	_	NOUN	NOUN	_	9	conj
+

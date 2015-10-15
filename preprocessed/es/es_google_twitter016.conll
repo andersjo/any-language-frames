@@ -1,0 +1,14 @@
+1	¡Elige	_	PROPN	PROPN	_	3	name
+2	Los	_	PROPN	PROPN	_	3	det
+3	Nominados	_	PROPN	PROPN	_	0	root
+4	En	_	ADP	ADP	_	6	case
+5	Los	_	DET	DET	_	6	det
+6	#PREMIOSMDP2015	_	X	X	_	2	appos
+7	!	_	PUNCT	PUNCT	_	3	punct
+8	¡Vota	_	PROPN	PROPN	_	6	appos
+9	Aquí	_	ADV	ADV	_	8	advmod
+10	!	_	PUNCT	PUNCT	_	8	punct
+11	►	_	PROPN	PROPN	_	13	name
+12	http://t.co/tVEwXZTzB7	_	PROPN	PROPN	_	13	name
+13	http://t.co/DsgXfoPlFN	_	PROPN	PROPN	_	8	conj
+

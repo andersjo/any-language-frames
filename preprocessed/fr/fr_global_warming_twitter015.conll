@@ -1,0 +1,23 @@
+1	Pour	_	ADP	ADP	_	4	mark
+2	ceux-celles	_	ADV	ADV	_	4	advmod
+3	qui	_	PRON	PRON	_	4	nsubj
+4	croient	_	VERB	VERB	_	0	root
+5	encore	_	ADV	ADV	_	4	advmod
+6	que	_	SCONJ	SCONJ	_	5	mwe
+7	c'est	_	NOUN	NOUN	_	4	nmod
+8	de	_	ADP	ADP	_	10	case
+9	la	_	DET	DET	_	10	det
+10	condensation	_	NOUN	NOUN	_	7	nmod
+11	...	_	PUNCT	PUNCT	_	7	punct
+12	Vous	_	PRON	PRON	_	13	nsubj
+13	êtes	_	VERB	VERB	_	4	ccomp
+14	très	_	ADV	ADV	_	16	advmod
+15	en	_	ADP	ADP	_	16	case
+16	retard	_	NOUN	NOUN	_	13	nmod
+17	dans	_	ADP	ADP	_	19	case
+18	les	_	DET	DET	_	19	det
+19	nouvelles	_	NOUN	NOUN	_	13	nmod
+20	et	_	CONJ	CONJ	_	19	cc
+21	...	_	PUNCT	PUNCT	_	13	punct
+22	http://t.co/D1XnFWcJTI	_	VERB	VERB	_	19	acl
+

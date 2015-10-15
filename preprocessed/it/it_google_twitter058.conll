@@ -1,0 +1,18 @@
+1	In	_	ADP	ADP	_	2	case
+2	sviluppo	_	NOUN	NOUN	_	4	nmod
+3	i	_	DET	DET	_	4	det
+4	pacchetti	_	NOUN	NOUN	_	14	nsubj
+5	installabili	_	ADJ	ADJ	_	4	amod
+6	da	_	ADP	ADP	_	7	case
+7	recovery	_	NOUN	NOUN	_	4	nmod
+8	delle	_	ADP	ADP	_	9	case
+9	gapps	_	NOUN	NOUN	_	7	nmod
+10	lollipop	_	NOUN	NOUN	_	9	compound
+11	per	_	ADP	ADP	_	13	case
+12	vari	_	DET	DET	_	13	det
+13	device	_	NOUN	NOUN	_	10	nmod
+14	samsung	_	VERB	VERB	_	0	root
+15	by	_	NOUN	NOUN	_	14	dobj
+16	MiticoSnake	_	PROPN	PROPN	_	15	nmod
+17	https://t.co/qludmtPvnC	_	NOUN	NOUN	_	15	nmod
+

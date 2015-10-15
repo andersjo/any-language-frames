@@ -1,0 +1,7 @@
+1	Idag	_	ADV	ADV	_	2	advmod
+2	har	_	VERB	VERB	_	0	root
+3	jag	_	PRON	PRON	_	2	nsubj
+4	leukemi	_	NOUN	NOUN	_	2	dobj
+5	enligt	_	ADP	ADP	_	6	case
+6	google	_	NOUN	NOUN	_	2	nmod
+

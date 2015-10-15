@@ -1,0 +1,14 @@
+1	Μου	_	NOUN	NOUN	_	2	nsubj
+2	άρεσε	_	VERB	VERB	_	0	root
+3	ένα	_	ADJ	ADJ	_	4	det
+4	βίντεο	_	NOUN	NOUN	_	2	dobj
+5	@YouTube	_	NOUN	NOUN	_	4	nmod
+6	από	_	ADP	ADP	_	7	case
+7	@comedygamer	_	NOUN	NOUN	_	5	nmod
+8	http://t.co/rELs02Lj50	_	NOUN	NOUN	_	7	nmod
+9	What	_	NOUN	NOUN	_	8	nmod
+10	People	_	NOUN	NOUN	_	9	nmod
+11	Search	_	NOUN	NOUN	_	10	nmod
+12	On	_	NOUN	NOUN	_	11	nmod
+13	Google	_	NOUN	NOUN	_	12	nmod
+

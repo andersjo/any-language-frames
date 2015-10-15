@@ -1,0 +1,23 @@
+1	Το	_	ADJ	ADJ	_	2	det
+2	όνομα	_	NOUN	NOUN	_	7	nsubj
+3	domain	_	NOUN	NOUN	_	2	nmod
+4	για	_	ADP	ADP	_	6	case
+5	την	_	ADJ	ADJ	_	6	det
+6	Google	_	NOUN	NOUN	_	3	nmod
+7	κατοχυρώθηκε	_	VERB	VERB	_	0	root
+8	στις	_	ADP	ADP	_	10	case
+9	15	_	NUM	NUM	_	10	nmod
+10	Σεπτεμβρίου	_	NOUN	NOUN	_	7	nmod
+11	του	_	ADJ	ADJ	_	12	det
+12	1997	_	NOUN	NOUN	_	10	nmod
+13	και	_	CONJ	CONJ	_	7	cc
+14	δημιουργήθηκε	_	VERB	VERB	_	7	conj
+15	η	_	ADJ	ADJ	_	16	det
+16	εταιρία	_	NOUN	NOUN	_	14	nsubj
+17	στις	_	ADP	ADP	_	19	case
+18	4	_	NUM	NUM	_	19	nummod
+19	Σεπτεμβρίου	_	NOUN	NOUN	_	16	nmod
+20	του	_	ADJ	ADJ	_	21	det
+21	1998	_	NOUN	NOUN	_	19	nmod
+22	.	_	PUNCT	PUNCT	_	7	punct
+

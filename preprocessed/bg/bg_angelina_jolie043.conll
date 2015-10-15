@@ -1,0 +1,15 @@
+1	В-к	_	PROPN	PROPN	_	7	nsubj
+2	"	_	PUNCT	PUNCT	_	1	punct
+3	Ню	_	PROPN	PROPN	_	1	nmod
+4	Йорк	_	PROPN	PROPN	_	3	name
+5	Таймс	_	PROPN	PROPN	_	3	name
+6	"	_	PUNCT	PUNCT	_	7	punct
+7	пише	_	VERB	VERB	_	0	root
+8	:	_	PUNCT	PUNCT	_	7	punct
+9	"	_	PUNCT	PUNCT	_	7	punct
+10	Кейт	_	PROPN	PROPN	_	13	nsubj
+11	(Анджелина)	_	PROPN	PROPN	_	10	name
+12	се	_	PRON	PRON	_	13	expl
+13	откроява	_	VERB	VERB	_	7	ccomp
+14	.	_	PUNCT	PUNCT	_	7	punct
+

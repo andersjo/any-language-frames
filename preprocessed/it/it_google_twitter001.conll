@@ -1,0 +1,14 @@
+1	#cardiologia	_	NOUN	NOUN	_	4	nsubj
+2	Catanzaro	_	PROPN	PROPN	_	1	nmod
+3	–	_	PUNCT	PUNCT	_	1	punct
+4	Presentazione	_	VERB	VERB	_	0	root
+5	del	_	ADP	ADP	_	7	case
+6	primo	_	ADJ	ADJ	_	7	amod
+7	intervento	_	NOUN	NOUN	_	4	nmod
+8	effettuato	_	VERB	VERB	_	7	acl
+9	in	_	ADP	ADP	_	10	case
+10	Europa	_	PROPN	PROPN	_	8	nmod
+11	...	_	PUNCT	PUNCT	_	1	punct
+12	http://t.co/J9iwEPiRTM	_	NOUN	NOUN	_	4	nmod
+13	#medicina	_	ADJ	ADJ	_	12	amod
+

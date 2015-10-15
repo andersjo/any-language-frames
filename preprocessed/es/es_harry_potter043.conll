@@ -1,0 +1,10 @@
+1	"	_	PUNCT	PUNCT	_	3	punct
+2	Harry	_	PROPN	PROPN	_	3	name
+3	Potter	_	PROPN	PROPN	_	0	root
+4	y	_	CONJ	CONJ	_	2	cc
+5	la	_	DET	DET	_	6	det
+6	cámara	_	NOUN	NOUN	_	2	conj
+7	secreta	_	ADJ	ADJ	_	6	amod
+8	"	_	PUNCT	PUNCT	_	2	punct
+9	.	_	PUNCT	PUNCT	_	3	punct
+

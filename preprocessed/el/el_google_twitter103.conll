@@ -1,0 +1,24 @@
+1	ΠΑΡΑΤΑΣΗ	_	NOUN	NOUN	_	0	root
+2	ΕΜΦΑΝΙΣΕΩΝ	_	NOUN	NOUN	_	1	nmod
+3	ΓΙΑ	_	ADJ	ADJ	_	4	amod
+4	ΤΟ	_	NOUN	NOUN	_	2	nmod
+5	ΡΕΣΙΤΑΛ	_	NOUN	NOUN	_	4	nmod
+6	"	_	PUNCT	PUNCT	_	8	punct
+7	ΓΥΝΑΙΚΑ	_	ADJ	ADJ	_	8	amod
+8	ΤΡΙΑΝΤΑΦΥΛΛΟ	_	NOUN	NOUN	_	5	nmod
+9	"	_	PUNCT	PUNCT	_	8	punct
+10	ΜΕ	_	NOUN	NOUN	_	11	nmod
+11	ΤΗΝ	_	NOUN	NOUN	_	5	appos
+12	ΗΡΩ	_	NOUN	NOUN	_	11	nmod
+13	ΣΑΪΑ	_	NOUN	NOUN	_	12	nmod
+14	|	_	NOUN	NOUN	_	13	nmod
+15	9/1	_	NUM	NUM	_	16	nmod
+16	ΚΑΙ	_	NOUN	NOUN	_	14	nmod
+17	16/1	_	NUM	NUM	_	18	nmod
+18	||	_	NOUN	NOUN	_	16	nmod
+19	ΙΔΡΥΜΑ	_	NOUN	NOUN	_	18	nmod
+20	ΜΙΧ	_	NOUN	NOUN	_	19	nmod
+21	.	_	PUNCT	PUNCT	_	20	punct
+22	ΚΑΚΟΓΙΑΝΝΗΣ	_	NOUN	NOUN	_	23	nmod
+23	http://t.co/pBspuN1QG8	_	NOUN	NOUN	_	18	appos
+

@@ -1,0 +1,9 @@
+1	"	_	PUNCT	PUNCT	_	5	punct
+2	The	_	PROPN	PROPN	_	5	det
+3	New	_	PROPN	PROPN	_	4	amod
+4	York	_	PROPN	PROPN	_	5	name
+5	Times	_	PROPN	PROPN	_	7	nsubj
+6	"	_	PUNCT	PUNCT	_	7	punct
+7	escribió	_	VERB	VERB	_	0	root
+8	:	_	PUNCT	PUNCT	_	7	punct
+

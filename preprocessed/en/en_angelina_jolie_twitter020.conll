@@ -1,0 +1,19 @@
+1	Angelina	_	PROPN	PROPN	_	2	compound
+2	Jolie	_	PROPN	PROPN	_	9	nsubj
+3	&	_	CONJ	CONJ	_	2	cc
+4	Jack	_	PROPN	PROPN	_	5	compound
+5	Black	_	PROPN	PROPN	_	2	conj
+6	at	_	ADP	ADP	_	0	compound:prt
+7	2004	_	NUM	NUM	_	8	nummod
+8	Cannes	_	PROPN	PROPN	_	9	nsubj
+9	Film	_	VERB	VERB	_	6	advcl
+10	Festival	_	PROPN	PROPN	_	13	compound
+11	-	_	PUNCT	PUNCT	_	14	punct
+12	"	_	PUNCT	PUNCT	_	14	punct
+13	Shark	_	PROPN	PROPN	_	14	compound
+14	Tale	_	PROPN	PROPN	_	17	compound
+15	"	_	PUNCT	PUNCT	_	14	punct
+16	-	_	PUNCT	PUNCT	_	17	punct
+17	Photocall	_	NOUN	NOUN	_	9	parataxis
+18	http://t.co/8zGpKa1g1Z	_	X	X	_	14	list
+

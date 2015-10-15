@@ -1,0 +1,2011 @@
+ID:	_	
+PARC	_	
+-1	_	
+.	_	
+
+Some	_	Relational_quantity
+students	_	Education_teaching
+came	_	Arriving Process_end
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+school	_	Aggregate Education_teaching Locale_by_use
+by	_	Locative_relation Means
+car	_	Vehicle
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+any	_	Quantity
+students	_	Education_teaching
+come	_	Arriving Becoming_aware Coming_up_with
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+school	_	Aggregate Education_teaching Locale_by_use
+?	_	
+
+ID:	_	
+PARC	_	
+-2	_	
+.	_	
+
+No	_	Quantity
+students	_	Education_teaching
+came	_	Arriving Process_end
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+school	_	Aggregate Education_teaching Locale_by_use
+by	_	Locative_relation Means
+car	_	Vehicle
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+any	_	Quantity
+students	_	Education_teaching
+come	_	Arriving Becoming_aware Coming_up_with
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+school	_	Aggregate Education_teaching Locale_by_use
+?	_	
+
+ID:	_	
+PARC	_	
+-3	_	
+.	_	
+
+Ed	_	
+drove	_	
+legally	_	Domain
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Ed	_	
+drive	_	Bringing Cause_motion Operate_vehicle Self_motion Subjective_influence
+?	_	
+
+ID:	_	
+PARC	_	
+-4	_	
+.	_	
+
+Ed	_	
+drove	_	
+predictably	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Ed	_	
+drive	_	Bringing Cause_motion Operate_vehicle Self_motion Subjective_influence
+?	_	
+
+ID:	_	
+PARC	_	
+-5	_	
+.	_	
+
+Legally	_	Domain
+,	_	
+Ed	_	
+could	_	Capability Possibility
+drive	_	Bringing Cause_motion Operate_vehicle Self_motion Subjective_influence
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Ed	_	
+drive	_	Bringing Cause_motion Operate_vehicle Self_motion Subjective_influence
+?	_	
+
+ID:	_	
+PARC	_	
+-6	_	
+.	_	
+
+Predictably	_	
+,	_	
+Ed	_	
+drove	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Ed	_	
+drive	_	Bringing Cause_motion Operate_vehicle Self_motion Subjective_influence
+?	_	
+
+ID:	_	
+PARC	_	
+-7	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+technician	_	People_by_vocation
+cooled	_	
+the	_	Self_motion Temporal_collocation
+room	_	Building_subparts Residence Temporary_stay
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+technician	_	People_by_vocation
+lower	_	Cause_change_of_position_on_a_scale Position_on_a_scale
+the	_	Self_motion Temporal_collocation
+temperature	_	Ambient_temperature Temperature
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+room	_	Building_subparts Residence Temporary_stay
+?	_	
+
+ID:	_	
+PARC	_	
+-8	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+technician	_	People_by_vocation
+raised	_	Causation Cause_change_of_position_on_a_scale
+the	_	Self_motion Temporal_collocation
+temperature	_	Ambient_temperature Temperature
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+room	_	Building_subparts Residence Temporary_stay
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+technician	_	People_by_vocation
+cool	_	Ambient_temperature Cause_temperature_change Desirability Experiencer_focus Inchoative_change_of_temperature Popularity Stimulus_focus Subjective_temperature Temperature Trendiness
+the	_	Self_motion Temporal_collocation
+room	_	Building_subparts Residence Temporary_stay
+?	_	
+
+ID:	_	
+PARC	_	
+-9	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+president	_	Leadership
+visited	_	Arriving
+Iraq	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+September	_	Calendric_unit
+.	_	
+
+QN	_	
+:	_	
+Has	_	Have_associated Inclusion Possession
+the	_	Self_motion Temporal_collocation
+president	_	Leadership
+gone	_	Becoming Motion Out_of_existence
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Iraq	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-10	_	
+.	_	
+
+Jones	_	
+has	_	Have_associated Inclusion Possession
+visited	_	Arriving
+Iraq	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Jones	_	
+visit	_	Arriving Visiting
+Iraq	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+September	_	Calendric_unit
+?	_	
+
+ID:	_	
+PARC	_	
+-11	_	
+.	_	
+
+Jones	_	
+arrived	_	Arriving
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Paris	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+September	_	Calendric_unit
+last	_	Duration_relation Ordinal_numbers Relative_time
+year	_	Calendric_unit Measure_duration
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Jones	_	
+arrive	_	Arriving
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Paris	_	
+last	_	Duration_relation Ordinal_numbers Relative_time
+year	_	Calendric_unit Measure_duration
+?	_	
+
+ID:	_	
+PARC	_	
+-12	_	
+.	_	
+
+Jones	_	
+arrived	_	Arriving
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Paris	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+September	_	Calendric_unit
+last	_	Duration_relation Ordinal_numbers Relative_time
+year	_	Calendric_unit Measure_duration
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Jones	_	
+arrive	_	Arriving
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Paris	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+September	_	Calendric_unit
+?	_	
+
+ID:	_	
+PARC	_	
+-13	_	
+.	_	
+
+Jones	_	
+arrived	_	Arriving
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+a	_	Measure_duration Process_end Quantity
+Sunday	_	Calendric_unit
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+September	_	Calendric_unit
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Jones	_	
+arrive	_	Arriving
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+a	_	Measure_duration Process_end Quantity
+Sunday	_	Calendric_unit
+?	_	
+
+ID:	_	
+PARC	_	
+-14	_	
+.	_	
+
+Jones	_	
+arrived	_	Arriving
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+a	_	Measure_duration Process_end Quantity
+Sunday	_	Calendric_unit
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+September	_	Calendric_unit
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Jones	_	
+arrive	_	Arriving
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+September	_	Calendric_unit
+?	_	
+
+ID:	_	
+PARC	_	
+-15	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+president	_	Leadership
+left	_	Causation Change_direction Departing Direction Left_to_do Part_orientational People_along_political_spectrum Remainder
+after	_	Relative_time Time_vector
+the	_	Self_motion Temporal_collocation
+diplomat	_	Leadership
+arrived	_	Arriving
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+diplomat	_	Leadership
+arrive	_	Arriving
+before	_	Time_vector
+the	_	Self_motion Temporal_collocation
+president	_	Leadership
+left	_	Causation Change_direction Departing Direction Left_to_do Part_orientational People_along_political_spectrum Remainder
+?	_	
+
+ID:	_	
+PARC	_	
+-16	_	
+.	_	
+
+No	_	Quantity
+US	_	
+congressman	_	Leadership
+has	_	Have_associated Inclusion Possession
+visited	_	Arriving
+Iraq	_	
+since	_	Causation Time_vector
+the	_	Self_motion Temporal_collocation
+war	_	Hostile_encounter
+ended	_	Cause_to_end Process_end
+.	_	
+
+QN	_	
+:	_	
+Has	_	Have_associated Inclusion Possession
+Jones	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+US	_	
+Congressman	_	Leadership
+,	_	
+visited	_	Arriving
+Iraq	_	
+after	_	Relative_time Time_vector
+the	_	Self_motion Temporal_collocation
+war	_	Hostile_encounter
+ended	_	Cause_to_end Process_end
+?	_	
+
+ID:	_	
+PARC	_	
+-17	_	
+.	_	
+
+No	_	Quantity
+US	_	
+congressman	_	Leadership
+has	_	Have_associated Inclusion Possession
+visited	_	Arriving
+Iraq	_	
+since	_	Causation Time_vector
+the	_	Self_motion Temporal_collocation
+war	_	Hostile_encounter
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Jones	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+US	_	
+Congressman	_	Leadership
+,	_	
+visit	_	Arriving Visiting
+Iraq	_	
+before	_	Time_vector
+the	_	Self_motion Temporal_collocation
+war	_	Hostile_encounter
+?	_	
+
+ID:	_	
+PARC	_	
+-18	_	
+.	_	
+
+No	_	Quantity
+US	_	
+congressman	_	Leadership
+visited	_	Arriving
+Iraq	_	
+until	_	Time_vector
+the	_	Self_motion Temporal_collocation
+war	_	Hostile_encounter
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+any	_	Quantity
+US	_	
+congressman	_	Leadership
+visit	_	Arriving Visiting
+Iraq	_	
+before	_	Time_vector
+the	_	Self_motion Temporal_collocation
+war	_	Hostile_encounter
+?	_	
+
+ID:	_	
+PARC	_	
+-19	_	
+.	_	
+
+Some	_	Relational_quantity
+students	_	Education_teaching
+arrived	_	Arriving
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+school	_	Aggregate Education_teaching Locale_by_use
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Sunday	_	Calendric_unit
+.	_	
+
+QN	_	
+:	_	
+Were	_	Existence
+there	_	Existence Locative_relation
+any	_	Quantity
+students	_	Education_teaching
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+school	_	Aggregate Education_teaching Locale_by_use
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Sunday	_	Calendric_unit
+?	_	
+
+ID:	_	
+PARC	_	
+-20	_	
+.	_	
+
+No	_	Quantity
+students	_	Education_teaching
+arrived	_	Arriving
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+school	_	Aggregate Education_teaching Locale_by_use
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Sunday	_	Calendric_unit
+.	_	
+
+QN	_	
+:	_	
+Were	_	Existence
+there	_	Existence Locative_relation
+any	_	Quantity
+students	_	Education_teaching
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+school	_	Aggregate Education_teaching Locale_by_use
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Sunday	_	Calendric_unit
+?	_	
+
+ID:	_	
+PARC	_	
+-21	_	
+.	_	
+
+There	_	Existence Locative_relation
+were	_	Existence
+no	_	Quantity
+students	_	Education_teaching
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+school	_	Aggregate Education_teaching Locale_by_use
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Sunday	_	Calendric_unit
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+any	_	Quantity
+students	_	Education_teaching
+arrive	_	Arriving
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+school	_	Aggregate Education_teaching Locale_by_use
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Sunday	_	Calendric_unit
+?	_	
+
+ID:	_	
+PARC	_	
+-22	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+diplomat	_	Leadership
+left	_	Causation Change_direction Departing Direction Left_to_do Part_orientational People_along_political_spectrum Remainder
+Baghdad	_	
+last	_	Duration_relation Ordinal_numbers Relative_time
+week	_	Calendric_unit Measure_duration
+.	_	
+
+QN	_	
+:	_	
+Has	_	Have_associated Inclusion Possession
+the	_	Self_motion Temporal_collocation
+diplomat	_	Leadership
+been	_	Existence
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Baghdad	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-23	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+diplomat	_	Leadership
+will	_	Desiring Documents Giving
+arrive	_	Arriving
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Baghdad	_	
+next	_	Locative_relation Relative_time
+week	_	Calendric_unit Measure_duration
+.	_	
+
+QN	_	
+:	_	
+Has	_	Have_associated Inclusion Possession
+the	_	Self_motion Temporal_collocation
+diplomat	_	Leadership
+been	_	Existence
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Baghdad	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-24	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+president	_	Leadership
+knows	_	Awareness
+that	_	Degree
+the	_	Self_motion Temporal_collocation
+diplomat	_	Leadership
+left	_	Causation Change_direction Departing Direction Left_to_do Part_orientational People_along_political_spectrum Remainder
+Baghdad	_	
+.	_	
+
+QN	_	
+:	_	
+Has	_	Have_associated Inclusion Possession
+the	_	Self_motion Temporal_collocation
+diplomat	_	Leadership
+been	_	Existence
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Baghdad	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-25	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+president	_	Leadership
+has	_	Have_associated Inclusion Possession
+n't	_	
+gone	_	Becoming Motion Out_of_existence
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Iraq	_	
+since	_	Causation Time_vector
+the	_	Self_motion Temporal_collocation
+diplomat	_	Leadership
+left	_	Causation Change_direction Departing Direction Left_to_do Part_orientational People_along_political_spectrum Remainder
+Baghdad	_	
+.	_	
+
+QN	_	
+:	_	
+Has	_	Have_associated Inclusion Possession
+the	_	Self_motion Temporal_collocation
+diplomat	_	Leadership
+been	_	Existence
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Baghdad	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-26	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+president	_	Leadership
+has	_	Have_associated Inclusion Possession
+n't	_	
+gone	_	Becoming Motion Out_of_existence
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Iraq	_	
+since	_	Causation Time_vector
+the	_	Self_motion Temporal_collocation
+diplomat	_	Leadership
+left	_	Causation Change_direction Departing Direction Left_to_do Part_orientational People_along_political_spectrum Remainder
+Baghdad	_	
+.	_	
+
+QN	_	
+:	_	
+Has	_	Have_associated Inclusion Possession
+the	_	Self_motion Temporal_collocation
+president	_	Leadership
+been	_	Existence
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Iraq	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-27	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+diplomat	_	Leadership
+did	_	Intentionally_act
+n't	_	
+manage	_	Operating_a_system Success_or_failure Successful_action
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+leave	_	Abandonment Causation Departing Forming_relationships Giving Grant_permission Path_shape Quitting
+Baghdad	_	
+.	_	
+
+QN	_	
+:	_	
+Has	_	Have_associated Inclusion Possession
+the	_	Self_motion Temporal_collocation
+diplomat	_	Leadership
+been	_	Existence
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Baghdad	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-28	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+diplomat	_	Leadership
+has	_	Have_associated Inclusion Possession
+n't	_	
+managed	_	Operating_a_system Success_or_failure
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+leave	_	Abandonment Causation Departing Forming_relationships Giving Grant_permission Path_shape Quitting
+Baghdad	_	
+.	_	
+
+QN	_	
+:	_	
+Is	_	Existence
+the	_	Self_motion Temporal_collocation
+diplomat	_	Leadership
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Baghdad	_	
+now	_	Temporal_collocation
+?	_	
+
+ID:	_	
+PARC	_	
+-29	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+room	_	Building_subparts Residence Temporary_stay
+was	_	Existence
+full	_	Abounding_with Completeness Feeling Fullness Stimulus_focus
+of	_	Age Domain Origin Partitive
+intelligent	_	Mental_property
+women	_	People
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+the	_	Self_motion Temporal_collocation
+room	_	Building_subparts Residence Temporary_stay
+full	_	Abounding_with Completeness Feeling Fullness Stimulus_focus
+of	_	Age Domain Origin Partitive
+women	_	People
+?	_	
+
+ID:	_	
+PARC	_	
+-30	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+room	_	Building_subparts Residence Temporary_stay
+was	_	Existence
+full	_	Abounding_with Completeness Feeling Fullness Stimulus_focus
+of	_	Age Domain Origin Partitive
+women	_	People
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+the	_	Self_motion Temporal_collocation
+room	_	Building_subparts Residence Temporary_stay
+full	_	Abounding_with Completeness Feeling Fullness Stimulus_focus
+of	_	Age Domain Origin Partitive
+intelligent	_	Mental_property
+women	_	People
+?	_	
+
+ID:	_	
+PARC	_	
+-31	_	
+.	_	
+
+Children	_	Kinship People_by_age
+are	_	Existence
+not	_	
+admitted	_	Reveal_secret Statement
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+theatre	_	Buildings
+.	_	
+
+QN	_	
+:	_	
+Are	_	Existence
+small	_	Dimension Size
+children	_	Kinship People_by_age
+admitted	_	Reveal_secret Statement
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+theatre	_	Buildings
+?	_	
+
+ID:	_	
+PARC	_	
+-32	_	
+.	_	
+
+Small	_	Dimension Size
+children	_	Kinship People_by_age
+are	_	Existence
+not	_	
+admitted	_	Reveal_secret Statement
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+theatre	_	Buildings
+.	_	
+
+QN	_	
+:	_	
+Are	_	Existence
+children	_	Kinship People_by_age
+admitted	_	Reveal_secret Statement
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+theatre	_	Buildings
+?	_	
+
+ID:	_	
+PARC	_	
+-33	_	
+.	_	
+
+All	_	Quantity
+companies	_	Businesses
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+file	_	Grooming Placing Removing Self_motion Submitting_documents
+annual	_	Frequency
+reports	_	Statement Text
+.	_	
+
+QN	_	
+:	_	
+Do	_	Ingest_substance Intentionally_act Intentionally_affect Thriving Touring
+all	_	Quantity
+Fortune	_	Destiny Luck
+500	_	Cardinal_numbers
+companies	_	Businesses
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+file	_	Grooming Placing Removing Self_motion Submitting_documents
+annual	_	Frequency
+reports	_	Statement Text
+?	_	
+
+ID:	_	
+PARC	_	
+-34	_	
+.	_	
+
+All	_	Quantity
+Fortune	_	Destiny Luck
+500	_	Cardinal_numbers
+companies	_	Businesses
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+file	_	Grooming Placing Removing Self_motion Submitting_documents
+annual	_	Frequency
+reports	_	Statement Text
+.	_	
+
+QN	_	
+:	_	
+Do	_	Ingest_substance Intentionally_act Intentionally_affect Thriving Touring
+all	_	Quantity
+companies	_	Businesses
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+file	_	Grooming Placing Removing Self_motion Submitting_documents
+annual	_	Frequency
+reports	_	Statement Text
+?	_	
+
+ID:	_	
+PARC	_	
+-35	_	
+.	_	
+
+All	_	Quantity
+companies	_	Businesses
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+file	_	Grooming Placing Removing Self_motion Submitting_documents
+annual	_	Frequency
+reports	_	Statement Text
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+SEC	_	
+.	_	
+
+QN	_	
+:	_	
+Do	_	Ingest_substance Intentionally_act Intentionally_affect Thriving Touring
+all	_	Quantity
+companies	_	Businesses
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+file	_	Grooming Placing Removing Self_motion Submitting_documents
+annual	_	Frequency
+reports	_	Statement Text
+?	_	
+
+ID:	_	
+PARC	_	
+-36	_	
+.	_	
+
+All	_	Quantity
+companies	_	Businesses
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+file	_	Grooming Placing Removing Self_motion Submitting_documents
+annual	_	Frequency
+reports	_	Statement Text
+.	_	
+
+QN	_	
+:	_	
+Do	_	Ingest_substance Intentionally_act Intentionally_affect Thriving Touring
+all	_	Quantity
+companies	_	Businesses
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+file	_	Grooming Placing Removing Self_motion Submitting_documents
+annual	_	Frequency
+reports	_	Statement Text
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+SEC	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-37	_	
+.	_	
+
+No	_	Quantity
+delegates	_	
+finished	_	Activity_done_state Activity_finish Process_completed_state
+the	_	Self_motion Temporal_collocation
+report	_	Reporting Statement Text
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+any	_	Quantity
+delegate	_	
+finish	_	Activity_finish
+the	_	Self_motion Temporal_collocation
+report	_	Reporting Statement Text
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+?	_	
+
+ID:	_	
+PARC	_	
+-38	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+US	_	
+troops	_	
+stayed	_	Temporary_stay
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Iraq	_	
+although	_	Concessive
+the	_	Self_motion Temporal_collocation
+war	_	Hostile_encounter
+was	_	Existence
+over	_	Locative_relation Process_completed_state Relational_quantity
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+the	_	Self_motion Temporal_collocation
+war	_	Hostile_encounter
+over	_	Locative_relation Process_completed_state Relational_quantity
+?	_	
+
+ID:	_	
+PARC	_	
+-39	_	
+.	_	
+
+Since	_	Causation Time_vector
+it	_	
+was	_	Existence
+cold	_	Ambient_temperature Medical_conditions Subjective_temperature Temperature
+,	_	
+he	_	
+closed	_	Closure Openness
+the	_	Self_motion Temporal_collocation
+window	_	Connecting_architecture Time_period_of_action
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+it	_	
+cold	_	Ambient_temperature Medical_conditions Subjective_temperature Temperature
+?	_	
+
+ID:	_	
+PARC	_	
+-40	_	
+.	_	
+
+John	_	
+did	_	Intentionally_act
+n't	_	
+visit	_	Arriving Visiting
+us	_	
+after	_	Relative_time Time_vector
+he	_	
+returned	_	Arriving
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Spain	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+John	_	
+return	_	Arriving Resurrection
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Spain	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-41	_	
+.	_	
+
+Hanssen	_	
+,	_	
+who	_	
+sold	_	Commerce_sell
+FBI	_	
+secrets	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Russians	_	
+,	_	
+could	_	Capability Possibility
+face	_	Confronting_problem Facial_expression Observable_body_parts Part_orientational
+the	_	Self_motion Temporal_collocation
+death	_	Death
+penalty	_	Rewards_and_punishments
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Hanssen	_	
+sell	_	Commerce_sell
+FBI	_	
+secrets	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Russians	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-42	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+New	_	Age Expertise Familiarity
+York	_	
+Times	_	Commutative_statement
+reported	_	Statement
+that	_	Degree
+Hanssen	_	
+,	_	
+who	_	
+sold	_	Commerce_sell
+FBI	_	
+secrets	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Russians	_	
+,	_	
+could	_	Capability Possibility
+face	_	Confronting_problem Facial_expression Observable_body_parts Part_orientational
+the	_	Self_motion Temporal_collocation
+death	_	Death
+penalty	_	Rewards_and_punishments
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Hanssen	_	
+sell	_	Commerce_sell
+FBI	_	
+secrets	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Russians	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-43	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+New	_	Age Expertise Familiarity
+York	_	
+Times	_	Commutative_statement
+reported	_	Statement
+that	_	Degree
+Hanssen	_	
+sold	_	Commerce_sell
+FBI	_	
+secrets	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Russians	_	
+and	_	
+could	_	Capability Possibility
+face	_	Confronting_problem Facial_expression Observable_body_parts Part_orientational
+the	_	Self_motion Temporal_collocation
+death	_	Death
+penalty	_	Rewards_and_punishments
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Hanssen	_	
+sell	_	Commerce_sell
+FBI	_	
+secrets	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Russians	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-44	_	
+.	_	
+
+Bush	_	Biological_area
+said	_	Communication Statement
+that	_	Degree
+it	_	
+was	_	Existence
+Khan	_	Leadership
+who	_	
+sold	_	Commerce_sell
+centrifuges	_	Gizmo
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+.	_	
+
+QN	_	
+:	_	
+Were	_	Existence
+centrifuges	_	Gizmo
+sold	_	Commerce_sell
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-45	_	
+.	_	
+
+Bush	_	Biological_area
+said	_	Communication Statement
+that	_	Degree
+Khan	_	Leadership
+sold	_	Commerce_sell
+centrifuges	_	Gizmo
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+.	_	
+
+QN	_	
+:	_	
+Were	_	Existence
+centrifuges	_	Gizmo
+sold	_	Commerce_sell
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-46	_	
+.	_	
+
+What	_	
+we	_	
+found	_	Becoming_aware Intentionally_create Locating Verdict
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Iraq	_	
+was	_	Existence
+rusted	_	
+shrapnel	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+we	_	
+find	_	Becoming_aware Coming_to_believe Locating Verdict
+anything	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Iraq	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-47	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+fact	_	
+that	_	Degree
+Bin	_	Containers Placing
+Laden	_	
+was	_	Existence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Tora	_	
+Bora	_	
+led	_	Causation Cotheme Leadership
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+suspicion	_	Awareness
+that	_	Degree
+the	_	Self_motion Temporal_collocation
+Afghan	_	
+campaign	_	
+was	_	Existence
+mismanaged	_	
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+Bin	_	Containers Placing
+Laden	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Tora	_	
+Bora	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-48	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+fact	_	
+that	_	Degree
+Bin	_	Containers Placing
+Laden	_	
+was	_	Existence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Tora	_	
+Bora	_	
+led	_	Causation Cotheme Leadership
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+suspicion	_	Awareness
+that	_	Degree
+the	_	Self_motion Temporal_collocation
+Afghan	_	
+campaign	_	
+was	_	Existence
+mismanaged	_	
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+the	_	Self_motion Temporal_collocation
+Afghan	_	
+campaign	_	
+mismanaged	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-49	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+paper	_	Text
+concluded	_	Activity_finish Coming_to_believe Process_end
+that	_	Degree
+the	_	Self_motion Temporal_collocation
+election	_	Change_of_leadership
+had	_	Being_obligated Have_associated Possession Required_event
+been	_	Existence
+rigged	_	
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+the	_	Self_motion Temporal_collocation
+election	_	Change_of_leadership
+rigged	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-50	_	
+.	_	
+
+Ames	_	
+was	_	Existence
+,	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+the	_	Self_motion Temporal_collocation
+press	_	Attempt_suasion Cause_motion
+reported	_	Statement
+,	_	
+a	_	Measure_duration Process_end Quantity
+successful	_	Success_or_failure Successful_action
+spy	_	People_by_vocation Perception_active
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+Ames	_	
+a	_	Measure_duration Process_end Quantity
+successful	_	Success_or_failure Successful_action
+spy	_	People_by_vocation Perception_active
+?	_	
+
+ID:	_	
+PARC	_	
+-51	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+press	_	Attempt_suasion Cause_motion
+reported	_	Statement
+that	_	Degree
+Ames	_	
+was	_	Existence
+a	_	Measure_duration Process_end Quantity
+successful	_	Success_or_failure Successful_action
+spy	_	People_by_vocation Perception_active
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+Ames	_	
+a	_	Measure_duration Process_end Quantity
+successful	_	Success_or_failure Successful_action
+spy	_	People_by_vocation Perception_active
+?	_	
+
+ID:	_	
+PARC	_	
+-52	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+US	_	
+forgot	_	
+that	_	Degree
+the	_	Self_motion Temporal_collocation
+Afghans	_	
+speak	_	Chatting Statement Text_creation
+several	_	Quantity
+different	_	Identicality Similarity
+languages	_	
+.	_	
+
+QN	_	
+:	_	
+Do	_	Ingest_substance Intentionally_act Intentionally_affect Thriving Touring
+the	_	Self_motion Temporal_collocation
+Afghans	_	
+speak	_	Chatting Statement Text_creation
+several	_	Quantity
+different	_	Identicality Similarity
+languages	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-53	_	
+.	_	
+
+Bush	_	Biological_area
+realized	_	Coming_to_believe
+that	_	Degree
+the	_	Self_motion Temporal_collocation
+US	_	
+Army	_	Aggregate Military
+had	_	Being_obligated Have_associated Possession Required_event
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+be	_	Existence Performers_and_roles
+transformed	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+meet	_	Assemble Come_together Locative_relation Make_acquaintance Meet_specifications Meet_with_response Response
+new	_	Age Expertise Familiarity
+threats	_	Commitment Risky_situation
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+US	_	
+Army	_	Aggregate Military
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+be	_	Existence Performers_and_roles
+transformed	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+meet	_	Assemble Come_together Locative_relation Make_acquaintance Meet_specifications Meet_with_response Response
+new	_	Age Expertise Familiarity
+threats	_	Commitment Risky_situation
+?	_	
+
+ID:	_	
+PARC	_	
+-54	_	
+.	_	
+
+Bush	_	Biological_area
+did	_	Intentionally_act
+n't	_	
+realize	_	Coming_to_believe
+that	_	Degree
+Afghanistan	_	
+is	_	Existence
+land-locked	_	
+.	_	
+
+QN	_	
+:	_	
+Is	_	Existence
+Afghanistan	_	
+land-locked	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-55	_	
+.	_	
+
+There	_	Existence Locative_relation
+is	_	Existence
+a	_	Measure_duration Process_end Quantity
+belief	_	Opinion
+that	_	Degree
+the	_	Self_motion Temporal_collocation
+US	_	
+will	_	Desiring Documents Giving
+invade	_	Invading
+Syria	_	
+.	_	
+
+QN	_	
+:	_	
+Will	_	Desiring Documents Giving
+the	_	Self_motion Temporal_collocation
+US	_	
+invade	_	Invading
+Syria	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-56	_	
+.	_	
+
+It	_	
+is	_	Existence
+not	_	
+surprising	_	Stimulus_focus
+that	_	Degree
+Bush	_	Biological_area
+has	_	Have_associated Inclusion Possession
+the	_	Self_motion Temporal_collocation
+lead	_	Causation Cotheme Criminal_investigation First_rank Leadership Performers_and_roles
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Ohio	_	
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+Bush	_	Biological_area
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+the	_	Self_motion Temporal_collocation
+lead	_	Causation Cotheme Criminal_investigation First_rank Leadership Performers_and_roles
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Ohio	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-57	_	
+.	_	
+
+It	_	
+is	_	Existence
+not	_	
+likely	_	Likelihood
+that	_	Degree
+Bush	_	Biological_area
+has	_	Have_associated Inclusion Possession
+the	_	Self_motion Temporal_collocation
+lead	_	Causation Cotheme Criminal_investigation First_rank Leadership Performers_and_roles
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Ohio	_	
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+Bush	_	Biological_area
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+the	_	Self_motion Temporal_collocation
+lead	_	Causation Cotheme Criminal_investigation First_rank Leadership Performers_and_roles
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Ohio	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-58	_	
+.	_	
+
+Kerry	_	
+knew	_	Awareness
+that	_	Degree
+Edwards	_	
+would	_	
+accept	_	Grant_permission Receiving Respond_to_proposal
+the	_	Self_motion Temporal_collocation
+nomination	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Kerry	_	
+know	_	Awareness Certainty Differentiation Familiarity
+whether	_	
+Edwards	_	
+would	_	
+accept	_	Grant_permission Receiving Respond_to_proposal
+the	_	Self_motion Temporal_collocation
+nomination	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-59	_	
+.	_	
+
+Tom	_	
+knows	_	Awareness
+that	_	Degree
+Naples	_	
+is	_	Existence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Campania	_	
+.	_	
+
+QN	_	
+:	_	
+Does	_	Intentionally_act
+Tom	_	
+know	_	Awareness Certainty Differentiation Familiarity
+where	_	Locative_relation
+Naples	_	
+is	_	Existence
+?	_	
+
+ID:	_	
+PARC	_	
+-60	_	
+.	_	
+
+We	_	
+met	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+September	_	Calendric_unit
+during	_	Temporal_collocation
+the	_	Self_motion Temporal_collocation
+feast	_	Ingestion Social_event
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+feast	_	Ingestion Social_event
+take	_	Bringing Capacity Conquering Create_physical_artwork Event Getting_vehicle_underway Have_as_requirement Ingest_substance Opinion Removing Ride_vehicle Self_motion Taking Taking_time
+place	_	Event Locale Placing
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+September	_	Calendric_unit
+?	_	
+
+ID:	_	
+PARC	_	
+-61	_	
+.	_	
+
+It	_	
+is	_	Existence
+false	_	Artificiality
+that	_	Degree
+Bin	_	Containers Placing
+Laden	_	
+was	_	Existence
+seen	_	Grasp Perception_experience
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Tora	_	
+Bora	_	
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+Bin	_	Containers Placing
+Laden	_	
+seen	_	Grasp Perception_experience
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Tora	_	
+Bora	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-62	_	
+.	_	
+
+It	_	
+follows	_	Cotheme Relative_time
+that	_	Degree
+Bin	_	Containers Placing
+Laden	_	
+was	_	Existence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Tora	_	
+Bora	_	
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+Bin	_	Containers Placing
+Laden	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Tora	_	
+Bora	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-63	_	
+.	_	
+
+It	_	
+is	_	Existence
+likely	_	Likelihood
+that	_	Degree
+Bin	_	Containers Placing
+Laden	_	
+was	_	Existence
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Tora	_	
+Bora	_	
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+Bin	_	Containers Placing
+Laden	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Tora	_	
+Bora	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-64	_	
+.	_	
+
+Tony	_	
+Hall	_	Buildings
+left	_	Causation Change_direction Departing Direction Left_to_do Part_orientational People_along_political_spectrum Remainder
+Amman	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Sunday	_	Calendric_unit
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+Tony	_	
+Hall	_	Buildings
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Amman	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Sunday	_	Calendric_unit
+?	_	
+
+ID:	_	
+PARC	_	
+-65	_	
+.	_	
+
+Tony	_	
+Hall	_	Buildings
+left	_	Causation Change_direction Departing Direction Left_to_do Part_orientational People_along_political_spectrum Remainder
+Amman	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Sunday	_	Calendric_unit
+.	_	
+
+QN	_	
+:	_	
+Was	_	Existence
+Tony	_	
+Hall	_	Buildings
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Amman	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Saturday	_	Calendric_unit
+?	_	
+
+ID:	_	
+PARC	_	
+-66	_	
+.	_	
+
+Khan	_	Leadership
+sold	_	Commerce_sell
+10	_	Cardinal_numbers
+centrifuges	_	Gizmo
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+buy	_	Commerce_buy
+10	_	Cardinal_numbers
+centrifuges	_	Gizmo
+?	_	
+
+ID:	_	
+PARC	_	
+-67	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+US	_	
+invasion	_	Invading
+of	_	Age Domain Origin Partitive
+Afghanistan	_	
+prevented	_	Thwarting
+Al-Qaida	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+attacking	_	Attack
+Ryad	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+2002	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Al-Qaida	_	
+attack	_	Attack
+Ryad	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+2002	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-68	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+administration	_	Leadership
+managed	_	Operating_a_system Success_or_failure
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+track	_	Cotheme Roadways
+down	_	Being_operational Cause_change_of_position_on_a_scale Direction Ingestion Locative_relation Willingness
+the	_	Self_motion Temporal_collocation
+perpetrators	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+administration	_	Leadership
+track	_	Cotheme Roadways
+down	_	Being_operational Cause_change_of_position_on_a_scale Direction Ingestion Locative_relation Willingness
+the	_	Self_motion Temporal_collocation
+perpetrators	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-69	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+administration	_	Leadership
+did	_	Intentionally_act
+n't	_	
+manage	_	Operating_a_system Success_or_failure Successful_action
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+track	_	Cotheme Roadways
+down	_	Being_operational Cause_change_of_position_on_a_scale Direction Ingestion Locative_relation Willingness
+the	_	Self_motion Temporal_collocation
+perpetrators	_	
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+administration	_	Leadership
+track	_	Cotheme Roadways
+down	_	Being_operational Cause_change_of_position_on_a_scale Direction Ingestion Locative_relation Willingness
+the	_	Self_motion Temporal_collocation
+perpetrators	_	
+?	_	
+
+ID:	_	
+PARC	_	
+-70	_	
+.	_	
+
+Bush	_	Biological_area
+did	_	Intentionally_act
+n't	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+the	_	Self_motion Temporal_collocation
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+read	_	Categorization Hear Reading Reading_aloud
+the	_	Self_motion Temporal_collocation
+report	_	Reporting Statement Text
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Bush	_	Biological_area
+read	_	Categorization Hear Reading Reading_aloud
+the	_	Self_motion Temporal_collocation
+report	_	Reporting Statement Text
+?	_	
+
+ID:	_	
+PARC	_	
+-71	_	
+.	_	
+
+Bush	_	Biological_area
+had	_	Being_obligated Have_associated Possession Required_event
+the	_	Self_motion Temporal_collocation
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+read	_	Categorization Hear Reading Reading_aloud
+the	_	Self_motion Temporal_collocation
+report	_	Reporting Statement Text
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+Bush	_	Biological_area
+read	_	Categorization Hear Reading Reading_aloud
+the	_	Self_motion Temporal_collocation
+report	_	Reporting Statement Text
+?	_	
+
+ID:	_	
+PARC	_	
+-72	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+president	_	Leadership
+was	_	Existence
+n't	_	
+able	_	Capability
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+attend	_	Attending Attention Perception_active
+the	_	Self_motion Temporal_collocation
+meeting	_	Discussion Social_event
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+president	_	Leadership
+attend	_	Attending Attention Perception_active
+the	_	Self_motion Temporal_collocation
+meeting	_	Discussion Social_event
+?	_	
+
+ID:	_	
+PARC	_	
+-73	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+president	_	Leadership
+was	_	Existence
+able	_	Capability
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+attend	_	Attending Attention Perception_active
+the	_	Self_motion Temporal_collocation
+meeting	_	Discussion Social_event
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+president	_	Leadership
+attend	_	Attending Attention Perception_active
+the	_	Self_motion Temporal_collocation
+meeting	_	Discussion Social_event
+?	_	
+
+ID:	_	
+PARC	_	
+-74	_	
+.	_	
+
+Many	_	Quantity
+soldiers	_	People_by_vocation
+were	_	Existence
+killed	_	Killing
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+ambush	_	Attack
+.	_	
+
+QN	_	
+:	_	
+Were	_	Existence
+all	_	Quantity
+soldiers	_	People_by_vocation
+killed	_	Killing
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+ambush	_	Attack
+?	_	
+
+ID:	_	
+PARC	_	
+-75	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+man	_	People
+had	_	Being_obligated Have_associated Possession Required_event
+$20	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+his	_	
+pocket	_	Clothing_parts Locale Placing
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+man	_	People
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+$40	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+his	_	
+pocket	_	Clothing_parts Locale Placing
+?	_	
+
+ID:	_	
+PARC	_	
+-76	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+man	_	People
+had	_	Being_obligated Have_associated Possession Required_event
+$20	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+his	_	
+pocket	_	Clothing_parts Locale Placing
+.	_	
+
+QN	_	
+:	_	
+Did	_	Intentionally_act
+the	_	Self_motion Temporal_collocation
+man	_	People
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+$10	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+his	_	
+pocket	_	Clothing_parts Locale Placing
+?	_	
+

@@ -1,0 +1,13 @@
+1	@MarinOnTheTube	_	PROPN	PROPN	_	11	nsubj
+2	Aber	_	CONJ	CONJ	_	1	cc
+3	...	_	PUNCT	PUNCT	_	2	punct
+4	Aber	_	CONJ	CONJ	_	1	cc
+5	Harry	_	PROPN	PROPN	_	6	name
+6	Potter	_	PROPN	PROPN	_	7	name
+7	:o	_	PROPN	PROPN	_	1	conj
+8	Naja	_	ADV	ADV	_	11	advmod
+9	,	_	PUNCT	PUNCT	_	11	punct
+10	mal	_	ADV	ADV	_	11	advmod
+11	sehen	_	VERB	VERB	_	0	root
+12	:D	_	ADJ	ADJ	_	11	advmod
+

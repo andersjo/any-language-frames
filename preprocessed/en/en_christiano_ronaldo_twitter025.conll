@@ -1,0 +1,14 @@
+1	@CatrinaDelaney	_	PROPN	PROPN	_	2	compound
+2	@Clive_Chetty	_	PROPN	PROPN	_	6	nsubj
+3	Has	_	AUX	AUX	_	6	aux
+4	Christiano	_	PROPN	PROPN	_	5	compound
+5	Ronaldo	_	PROPN	PROPN	_	6	nsubj
+6	gone	_	VERB	VERB	_	0	root
+7	down	_	ADV	ADV	_	6	advmod
+8	...?	_	ADJ	ADJ	_	0	foreign
+9	I	_	PRON	PRON	_	11	nsubj
+10	dont	_	NOUN	NOUN	_	11	nsubj
+11	think	_	VERB	VERB	_	6	advcl
+12	so	_	ADV	ADV	_	11	advmod
+13	...	_	PUNCT	PUNCT	_	11	punct
+

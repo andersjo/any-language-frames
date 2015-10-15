@@ -1,0 +1,18 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	6	nsubj
+3	est	_	VERB	VERB	_	6	cop
+4	également	_	ADV	ADV	_	6	advmod
+5	une	_	DET	DET	_	6	det
+6	femme	_	NOUN	NOUN	_	0	root
+7	engagée	_	VERB	VERB	_	6	acl
+8	pour	_	ADP	ADP	_	10	case
+9	la	_	DET	DET	_	10	det
+10	protection	_	NOUN	NOUN	_	7	nmod
+11	de	_	ADP	ADP	_	13	case
+12	la	_	DET	DET	_	13	det
+13	nature	_	NOUN	NOUN	_	10	nmod
+14	et	_	CONJ	CONJ	_	13	cc
+15	des	_	DET	DET	_	16	det
+16	animaux	_	NOUN	NOUN	_	13	conj
+17	.	_	PUNCT	PUNCT	_	6	punct
+

@@ -1,0 +1,15 @@
+1	#BradPitt	_	PROPN	PROPN	_	2	nsubj
+2	came	_	VERB	VERB	_	0	root
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	he	_	PRON	PRON	_	5	nsubj
+5	presented	_	VERB	VERB	_	2	conj
+6	and	_	CONJ	CONJ	_	2	cc
+7	he	_	PRON	PRON	_	9	nsubj
+8	quickly	_	ADV	ADV	_	9	advmod
+9	disappeared	_	VERB	VERB	_	5	conj
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	writes	_	VERB	VERB	_	9	conj
+12	@tabloidterror	_	NOUN	NOUN	_	11	dobj
+13	http://t.co/UbYVybkqCM	_	X	X	_	14	case
+14	http://t.co/rZBcyl3Bbf	_	X	X	_	12	appos
+

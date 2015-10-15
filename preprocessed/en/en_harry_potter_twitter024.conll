@@ -1,0 +1,17 @@
+1	my	_	PRON	PRON	_	2	nmod:poss
+2	profile	_	NOUN	NOUN	_	3	nsubj
+3	represents	_	VERB	VERB	_	0	root
+4	5sos	_	PROPN	PROPN	_	5	compound
+5	larry	_	PROPN	PROPN	_	3	dobj
+6	and	_	CONJ	CONJ	_	5	cc
+7	harry	_	PROPN	PROPN	_	5	conj
+8	potter	_	NOUN	NOUN	_	3	dobj
+9	all	_	ADV	ADV	_	10	advmod
+10	at	_	ADV	ADV	_	3	advmod
+11	once	_	SCONJ	SCONJ	_	14	mark
+12	you	_	PRON	PRON	_	14	nsubj
+13	should	_	AUX	AUX	_	14	aux
+14	follow	_	VERB	VERB	_	3	ccomp
+15	me	_	PRON	PRON	_	14	dobj
+16	@NiallOfficial	_	ADJ	ADJ	_	0	discourse
+

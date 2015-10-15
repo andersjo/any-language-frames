@@ -1,0 +1,14 @@
+1	À	_	ADP	ADP	_	2	case
+2	l'âge	_	NOUN	NOUN	_	8	nmod
+3	de	_	ADP	ADP	_	5	case
+4	quatorze	_	NUM	NUM	_	5	nummod
+5	ans	_	NOUN	NOUN	_	2	nmod
+6	,	_	PUNCT	PUNCT	_	8	punct
+7	elle	_	PRON	PRON	_	8	nsubj
+8	abandonne	_	VERB	VERB	_	0	root
+9	ses	_	DET	DET	_	10	nmod:poss
+10	cours	_	NOUN	NOUN	_	8	dobj
+11	de	_	ADP	ADP	_	12	case
+12	comédie	_	NOUN	NOUN	_	10	nmod
+13	.	_	PUNCT	PUNCT	_	8	punct
+

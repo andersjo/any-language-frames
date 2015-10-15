@@ -1,0 +1,16 @@
+1	Adwords	_	PROPN	PROPN	_	2	nmod:poss
+2	contre	_	NOUN	NOUN	_	9	nsubj
+3	Adsense	_	PROPN	PROPN	_	2	appos
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	Acheter	_	NOUN	NOUN	_	3	dep
+6	et	_	DET	DET	_	7	det
+7	vendre	_	NOUN	NOUN	_	8	nmod:poss
+8	des	_	NOUN	NOUN	_	9	nsubj
+9	annonces	_	VERB	VERB	_	0	root
+10	avec	_	NOUN	NOUN	_	11	nmod:poss
+11	Google	_	NOUN	NOUN	_	9	nsubj
+12	Adwords	_	ADV	ADV	_	9	advmod
+13	et	_	DET	DET	_	15	det
+14	Adsense	_	X	X	_	15	dep
+15	http://t.co/IDJmRNcNDG	_	NOUN	NOUN	_	12	list
+

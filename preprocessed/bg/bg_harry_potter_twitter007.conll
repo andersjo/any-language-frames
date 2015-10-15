@@ -1,0 +1,24 @@
+1	@DoneeCoo	_	PROPN	PROPN	_	3	nsubj
+2	не	_	INTJ	INTJ	_	3	neg
+3	знам	_	VERB	VERB	_	0	root
+4	ти	_	PRON	PRON	_	3	nsubj
+5	какви	_	DET	DET	_	7	det
+6	други	_	ADJ	ADJ	_	7	amod
+7	видови	_	NOUN	NOUN	_	22	nsubj
+8	на	_	ADP	ADP	_	10	case
+9	филмови	_	ADJ	ADJ	_	10	amod
+10	гледаш	_	NOUN	NOUN	_	7	nmod
+11	,	_	PUNCT	PUNCT	_	12	punct
+12	ја	_	ADJ	ADJ	_	10	amod
+13	моментално	_	ADV	ADV	_	22	advmod
+14	Harry	_	PROPN	PROPN	_	22	nsubj
+15	Potter	_	PROPN	PROPN	_	14	name
+16	and	_	PROPN	PROPN	_	14	name
+17	the	_	PROPN	PROPN	_	16	nmod
+18	Order	_	PROPN	PROPN	_	17	name
+19	of	_	PROPN	PROPN	_	18	nmod
+20	the	_	PROPN	PROPN	_	19	nmod
+21	Phoenix	_	PROPN	PROPN	_	20	name
+22	гледам	_	VERB	VERB	_	3	ccomp
+23	^_^	_	PROPN	PROPN	_	22	dobj
+

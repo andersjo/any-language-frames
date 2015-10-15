@@ -1,0 +1,18 @@
+1	@brycehustead	_	ADV	ADV	_	5	advmod
+2	this	_	DET	DET	_	8	nsubj
+3	must	_	AUX	AUX	_	5	aux
+4	have	_	AUX	AUX	_	8	aux
+5	been	_	VERB	VERB	_	8	cop
+6	the	_	DET	DET	_	8	det
+7	same	_	ADJ	ADJ	_	0	remnant
+8	person	_	NOUN	NOUN	_	0	root
+9	who	_	PRON	PRON	_	10	nsubj
+10	told	_	VERB	VERB	_	8	acl:relcl
+11	u	_	PRON	PRON	_	10	dobj
+12	that	_	SCONJ	SCONJ	_	14	mark
+13	u	_	PRON	PRON	_	14	nsubj
+14	look	_	VERB	VERB	_	10	ccomp
+15	like	_	ADP	ADP	_	14	compound:prt
+16	Angelina	_	PROPN	PROPN	_	17	compound
+17	Jolie	_	PROPN	PROPN	_	14	dobj
+

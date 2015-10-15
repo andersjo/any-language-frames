@@ -1,0 +1,24 @@
+1	Idag	_	ADV	ADV	_	2	advmod
+2	blev	_	VERB	VERB	_	0	root
+3	jag	_	PRON	PRON	_	2	nsubj
+4	ledsen	_	NOUN	NOUN	_	2	nsubj
+5	över	_	ADP	ADP	_	12	case
+6	att	_	SCONJ	SCONJ	_	12	mark
+7	folk	_	NOUN	NOUN	_	10	nsubj
+8	inte	_	ADV	ADV	_	2	neg
+9	:	_	PUNCT	PUNCT	_	2	punct
+10	1	_	NUM	NUM	_	2	nummod
+11	.	_	PUNCT	PUNCT	_	2	punct
+12	Vet	_	VERB	VERB	_	2	parataxis
+13	vem	_	PRON	PRON	_	12	nsubj
+14	Paul	_	NOUN	NOUN	_	15	nmod:poss
+15	McCartney	_	NOUN	NOUN	_	12	dobj
+16	är	_	AUX	AUX	_	17	cop
+17	2	_	NUM	NUM	_	12	nummod
+18	.	_	PUNCT	PUNCT	_	2	punct
+19	Vet	_	VERB	VERB	_	2	parataxis
+20	hur	_	ADV	ADV	_	22	advmod
+21	man	_	PRON	PRON	_	22	nsubj
+22	använder	_	VERB	VERB	_	19	ccomp
+23	Google	_	PROPN	PROPN	_	22	dobj
+

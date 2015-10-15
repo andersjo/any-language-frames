@@ -1,0 +1,24 @@
+1	Angelina	_	NOUN	NOUN	_	17	remnant
+2	Jolie	_	NOUN	NOUN	_	1	nmod
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	«Από	_	NOUN	NOUN	_	2	conj
+5	τότε	_	ADV	ADV	_	7	advmod
+6	που	_	PRON	PRON	_	7	nsubj
+7	παντρευτήκαμε	_	VERB	VERB	_	4	acl:relcl
+8	κάτι	_	PRON	PRON	_	7	dobj
+9	έχει	_	VERB	VERB	_	7	ccomp
+10	αλλάξει»	_	NOUN	NOUN	_	9	dobj
+11	:	_	PUNCT	PUNCT	_	10	punct
+12	«Αυτό	_	NOUN	NOUN	_	10	conj
+13	που	_	PRON	PRON	_	14	nsubj
+14	ήταν	_	VERB	VERB	_	15	cop
+15	υπέροχο	_	NOUN	NOUN	_	12	acl:relcl
+16	,	_	PUNCT	PUNCT	_	17	punct
+17	ήταν	_	VERB	VERB	_	0	root
+18	ότι	_	CONJ	CONJ	_	20	mark
+19	δεν	_	PART	PART	_	20	neg
+20	νιώθαμε	_	VERB	VERB	_	17	ccomp
+21	π	_	NOUN	NOUN	_	20	dobj
+22	...	_	NOUN	NOUN	_	21	nmod
+23	http://t.co/DgLfIVzEsL	_	NOUN	NOUN	_	22	nmod
+

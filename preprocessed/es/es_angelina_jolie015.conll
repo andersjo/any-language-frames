@@ -1,0 +1,27 @@
+1	Actualmente	_	ADV	ADV	_	2	advmod
+2	tiene	_	VERB	VERB	_	0	root
+3	una	_	DET	DET	_	4	det
+4	relación	_	NOUN	NOUN	_	2	dobj
+5	con	_	ADP	ADP	_	8	case
+6	el	_	DET	DET	_	8	det
+7	también	_	ADV	ADV	_	8	advmod
+8	actor	_	NOUN	NOUN	_	4	nmod
+9	,	_	PUNCT	PUNCT	_	11	punct
+10	Brad	_	PROPN	PROPN	_	11	name
+11	Pitt	_	PROPN	PROPN	_	8	appos
+12	,	_	PUNCT	PUNCT	_	15	punct
+13	que	_	SCONJ	SCONJ	_	15	mark
+14	ha	_	AUX	AUX	_	15	aux
+15	atraído	_	VERB	VERB	_	11	acl:relcl
+16	la	_	DET	DET	_	17	det
+17	atención	_	NOUN	NOUN	_	15	dobj
+18	de	_	ADP	ADP	_	21	case
+19	todos	_	DET	DET	_	21	det
+20	los	_	DET	DET	_	21	det
+21	medios	_	NOUN	NOUN	_	17	nmod
+22	de	_	ADP	ADP	_	23	case
+23	comunicación	_	NOUN	NOUN	_	21	nmod
+24	del	_	ADP	ADP	_	25	case
+25	mundo	_	NOUN	NOUN	_	23	nmod
+26	.	_	PUNCT	PUNCT	_	2	punct
+

@@ -1,0 +1,10 @@
+1	Angelina	_	PROPN	PROPN	_	2	compound
+2	Jolie	_	PROPN	PROPN	_	5	nsubj
+3	should	_	AUX	AUX	_	5	aux
+4	definitely	_	ADV	ADV	_	5	advmod
+5	win	_	VERB	VERB	_	0	root
+6	an	_	DET	DET	_	7	det
+7	oscar	_	NOUN	NOUN	_	5	dobj
+8	for	_	ADP	ADP	_	5	compound:prt
+9	that	_	DET	DET	_	5	reparandum
+

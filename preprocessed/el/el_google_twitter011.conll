@@ -1,0 +1,12 @@
+1	Τρεις	_	NUM	NUM	_	2	nummod
+2	χώρες	_	NOUN	NOUN	_	0	root
+3	της	_	PRON	PRON	_	2	nmod
+4	ΕΕ	_	PUNCT	PUNCT	_	5	punct
+5	«επιστρέφουν»	_	NOUN	NOUN	_	2	nmod
+6	7500	_	NUM	NUM	_	7	nmod
+7	πρόσφυγες	_	NOUN	NOUN	_	5	nmod
+8	πίσω	_	ADV	ADV	_	7	advmod
+9	στην	_	ADP	ADP	_	10	case
+10	Βουλγαρία	_	NOUN	NOUN	_	8	nmod
+11	http://t.co/mDzxBvXpIC	_	NOUN	NOUN	_	10	nmod
+

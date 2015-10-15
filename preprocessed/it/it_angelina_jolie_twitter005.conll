@@ -1,0 +1,10 @@
+1	Comunque	_	ADV	ADV	_	7	advmod
+2	Angelina	_	PROPN	PROPN	_	7	nsubj
+3	Jolie	_	PROPN	PROPN	_	2	name
+4	non	_	ADV	ADV	_	7	neg
+5	è	_	VERB	VERB	_	7	cop
+6	così	_	ADV	ADV	_	7	advmod
+7	bella	_	ADJ	ADJ	_	0	root
+8	come	_	ADP	ADP	_	9	mark
+9	dite	_	VERB	VERB	_	7	nmod
+

@@ -1,0 +1,15 @@
+1	Harry	_	PROPN	PROPN	_	2	name
+2	Potter	_	PROPN	PROPN	_	4	nsubj
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Vamos	_	VERB	VERB	_	0	root
+5	Tom	_	PROPN	PROPN	_	4	nsubj
+6	,	_	PUNCT	PUNCT	_	4	punct
+7	terminemos	_	VERB	VERB	_	4	conj
+8	esto	_	PRON	PRON	_	7	dobj
+9	como	_	SCONJ	SCONJ	_	11	mark
+10	lo	_	PRON	PRON	_	11	dobj
+11	empezamos	_	VERB	VERB	_	8	acl:relcl
+12	..	_	PUNCT	PUNCT	_	13	punct
+13	¡Juntos	_	NOUN	NOUN	_	11	nsubj
+14	!	_	PUNCT	PUNCT	_	7	punct
+

@@ -1,0 +1,14 @@
+1	Могат	_	VERB	VERB	_	0	root
+2	да	_	PART	PART	_	4	aux
+3	се	_	PRON	PRON	_	4	expl
+4	превеждат	_	VERB	VERB	_	1	ccomp
+5	и	_	CONJ	CONJ	_	7	cc
+6	цели	_	ADJ	ADJ	_	7	amod
+7	уебсайтове	_	NOUN	NOUN	_	4	nsubj
+8	,	_	PUNCT	PUNCT	_	9	punct
+9	както	_	ADV	ADV	_	7	cc
+10	и	_	CONJ	CONJ	_	9	mwe
+11	по-големи	_	ADJ	ADJ	_	12	amod
+12	документи	_	NOUN	NOUN	_	7	conj
+13	.	_	PUNCT	PUNCT	_	1	punct
+

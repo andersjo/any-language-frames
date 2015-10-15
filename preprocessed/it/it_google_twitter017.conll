@@ -1,0 +1,8 @@
+1	Lil	_	PROPN	PROPN	_	0	root
+2	Picasso	_	PROPN	PROPN	_	1	name
+3	iPhone	_	PROPN	PROPN	_	1	name
+4	6	_	NUM	NUM	_	1	name
+5	Case	_	PROPN	PROPN	_	1	conj
+6	http://t.co/fut4BlpZ2Z	_	PROPN	PROPN	_	5	name
+7	#iphonecases	_	PROPN	PROPN	_	5	name
+

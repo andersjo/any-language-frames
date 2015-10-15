@@ -1,0 +1,23 @@
+1	À	_	ADP	ADP	_	3	case
+2	quinze	_	NUM	NUM	_	3	nummod
+3	ans	_	NOUN	NOUN	_	15	nmod
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	à	_	ADP	ADP	_	6	case
+6	cause	_	NOUN	NOUN	_	13	nmod
+7	d'un	_	NOUN	NOUN	_	6	appos
+8	problème	_	NOUN	NOUN	_	7	appos
+9	cardiaque	_	ADJ	ADJ	_	8	amod
+10	,	_	PUNCT	PUNCT	_	13	punct
+11	il	_	PRON	PRON	_	13	nsubjpass
+12	est	_	AUX	AUX	_	13	aux
+13	opéré	_	VERB	VERB	_	0	root
+14	du	_	ADP	ADP	_	15	case
+15	cœur	_	NOUN	NOUN	_	13	nmod
+16	,	_	PUNCT	PUNCT	_	13	punct
+17	mais	_	CONJ	CONJ	_	13	cc
+18	retrouve	_	VERB	VERB	_	13	conj
+19	rapidement	_	ADV	ADV	_	18	advmod
+20	les	_	DET	DET	_	21	det
+21	terrains	_	NOUN	NOUN	_	18	dobj
+22	.	_	PUNCT	PUNCT	_	13	punct
+

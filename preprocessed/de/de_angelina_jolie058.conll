@@ -1,0 +1,20 @@
+1	Der	_	DET	DET	_	2	det
+2	Film	_	NOUN	NOUN	_	3	nsubj
+3	beschreibt	_	VERB	VERB	_	0	root
+4	eine	_	DET	DET	_	5	det
+5	Welt	_	NOUN	NOUN	_	3	dobj
+6	von	_	ADP	ADP	_	7	case
+7	Sex	_	NOUN	NOUN	_	5	nmod
+8	und	_	CONJ	CONJ	_	7	cc
+9	Drogen	_	NOUN	NOUN	_	7	conj
+10	sowie	_	CONJ	CONJ	_	5	cc
+11	Carangis	_	PROPN	PROPN	_	7	conj
+12	emotionalen	_	ADJ	ADJ	_	13	amod
+13	Niedergang	_	NOUN	NOUN	_	7	conj
+14	und	_	CONJ	CONJ	_	13	cc
+15	ihren	_	DET	DET	_	16	nmod:poss
+16	Tod	_	NOUN	NOUN	_	5	conj
+17	durch	_	ADP	ADP	_	18	case
+18	AIDS	_	PROPN	PROPN	_	16	nmod
+19	.	_	PUNCT	PUNCT	_	3	punct
+

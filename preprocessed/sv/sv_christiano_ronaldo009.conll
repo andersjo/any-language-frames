@@ -1,0 +1,21 @@
+1	Den	_	DET	DET	_	3	det
+2	21	_	NUM	NUM	_	3	nummod
+3	maj	_	NOUN	NOUN	_	4	nmod
+4	slog	_	VERB	VERB	_	0	root
+5	han	_	PRON	PRON	_	4	nsubj
+6	rekordet	_	NOUN	NOUN	_	4	dobj
+7	på	_	ADP	ADP	_	10	case
+8	antal	_	NOUN	NOUN	_	10	nmod:poss
+9	gjorda	_	ADJ	ADJ	_	10	amod
+10	mål	_	NOUN	NOUN	_	4	nmod
+11	under	_	ADP	ADP	_	13	case
+12	en	_	DET	DET	_	13	det
+13	säsong	_	NOUN	NOUN	_	4	nmod
+14	i	_	ADP	ADP	_	15	case
+15	La	_	PROPN	PROPN	_	13	nmod
+16	Liga	_	PROPN	PROPN	_	15	name
+17	med	_	ADP	ADP	_	19	case
+18	39	_	NUM	NUM	_	19	nummod
+19	mål	_	NOUN	NOUN	_	13	nmod
+20	.	_	PUNCT	PUNCT	_	4	punct
+

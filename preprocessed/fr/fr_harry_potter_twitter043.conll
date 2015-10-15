@@ -1,0 +1,17 @@
+1	@Tom_jedusor33	_	PROPN	PROPN	_	3	name
+2	@Le_Harry_Potter	_	PROPN	PROPN	_	3	name
+3	@EstebanCrochet	_	PROPN	PROPN	_	6	name
+4	*	_	PUNCT	PUNCT	_	6	punct
+5	se	_	PRON	PRON	_	6	dobj
+6	tord	_	NOUN	NOUN	_	0	root
+7	de	_	ADP	ADP	_	8	case
+8	rire	_	NOUN	NOUN	_	6	nmod
+9	et	_	CONJ	CONJ	_	6	cc
+10	fait	_	VERB	VERB	_	6	conj
+11	apparaître	_	VERB	VERB	_	10	xcomp
+12	des	_	DET	DET	_	14	det
+13	pop	_	ADJ	ADJ	_	14	amod
+14	corn	_	NOUN	NOUN	_	11	dobj
+15	*	_	PUNCT	PUNCT	_	14	punct
+16	😂	_	X	X	_	14	appos
+

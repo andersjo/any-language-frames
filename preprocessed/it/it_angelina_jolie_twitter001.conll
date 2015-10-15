@@ -1,0 +1,15 @@
+1	angelina	_	NOUN	NOUN	_	0	root
+2	jolie	_	ADJ	ADJ	_	1	amod
+3	nel	_	ADP	ADP	_	4	case
+4	film	_	NOUN	NOUN	_	1	nmod
+5	'	_	PUNCT	PUNCT	_	6	punct
+6	ragazze	_	NOUN	NOUN	_	1	conj
+7	interrotte	_	ADJ	ADJ	_	6	amod
+8	'	_	PUNCT	PUNCT	_	6	punct
+9	è	_	VERB	VERB	_	1	cop
+10	da	_	ADP	ADP	_	11	case
+11	stupro	_	NOUN	NOUN	_	9	nmod
+12	,	_	PUNCT	PUNCT	_	9	punct
+13	cioè	_	ADV	ADV	_	9	advmod
+14	.	_	PUNCT	PUNCT	_	1	punct
+

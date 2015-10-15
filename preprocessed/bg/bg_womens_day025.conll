@@ -1,0 +1,11 @@
+1	Днес	_	ADV	ADV	_	5	advmod
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	женските	_	ADJ	ADJ	_	4	amod
+4	групи	_	NOUN	NOUN	_	5	nsubj
+5	организират	_	VERB	VERB	_	0	root
+6	многобройни	_	ADJ	ADJ	_	7	amod
+7	събития	_	NOUN	NOUN	_	5	dobj
+8	по	_	ADP	ADP	_	9	case
+9	света	_	NOUN	NOUN	_	7	nmod
+10	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,23 @@
+1	Известна	_	PROPN	PROPN	_	2	nsubj
+2	е	_	VERB	VERB	_	0	root
+3	с	_	ADP	ADP	_	6	case
+4	активната	_	ADJ	ADJ	_	6	amod
+5	си	_	PRON	PRON	_	4	case
+6	позиция	_	NOUN	NOUN	_	2	cop
+7	и	_	CONJ	CONJ	_	6	cc
+8	благотворителните	_	ADJ	ADJ	_	10	amod
+9	си	_	PRON	PRON	_	8	case
+10	акции	_	NOUN	NOUN	_	6	nmod
+11	по	_	ADP	ADP	_	12	case
+12	ред	_	NOUN	NOUN	_	10	nmod
+13	наболели	_	VERB	VERB	_	2	conj
+14	хуманитарни	_	ADJ	ADJ	_	15	amod
+15	въпроси	_	NOUN	NOUN	_	13	nsubj
+16	(например	_	PROPN	PROPN	_	15	nmod
+17	образованието	_	NOUN	NOUN	_	15	nmod
+18	и	_	CONJ	CONJ	_	17	cc
+19	изхранването	_	NOUN	NOUN	_	17	conj
+20	в	_	ADP	ADP	_	21	case
+21	Африка)	_	PROPN	PROPN	_	19	nmod
+22	.	_	PUNCT	PUNCT	_	2	punct
+

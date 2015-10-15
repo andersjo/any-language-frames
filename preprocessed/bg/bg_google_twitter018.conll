@@ -1,0 +1,10 @@
+1	📀Лаборатория	_	PROPN	PROPN	_	7	nsubj
+2	Касперского	_	PROPN	PROPN	_	1	nmod
+3	:	_	PUNCT	PUNCT	_	7	punct
+4	В	_	ADP	ADP	_	5	case
+5	сервисе	_	NOUN	NOUN	_	1	nmod
+6	Google	_	PROPN	PROPN	_	7	nsubj
+7	обнаружена	_	VERB	VERB	_	0	root
+8	-	_	PUNCT	PUNCT	_	9	punct
+9	#Новость👨	_	PROPN	PROPN	_	7	dobj
+

@@ -1,0 +1,20 @@
+1	@oleok2	_	ADJ	ADJ	_	2	amod
+2	@twhjerne	_	NOUN	NOUN	_	5	dep
+3	har	_	AUX	AUX	_	5	aux
+4	du	_	PRON	PRON	_	5	nsubj
+5	prøvet	_	VERB	VERB	_	0	root
+6	antikvariater	_	NOUN	NOUN	_	5	dobj
+7	på	_	ADP	ADP	_	8	case
+8	nettet	_	NOUN	NOUN	_	5	nmod
+9	?	_	PUNCT	PUNCT	_	5	punct
+10	De	_	PRON	PRON	_	14	nsubj
+11	har	_	AUX	AUX	_	18	aux
+12	en	_	DET	DET	_	14	det
+13	fælles	_	ADJ	ADJ	_	14	amod
+14	hjemmeside	_	NOUN	NOUN	_	11	dobj
+15	,	_	PUNCT	PUNCT	_	14	punct
+16	du	_	PRON	PRON	_	18	nsubj
+17	må	_	AUX	AUX	_	14	aux
+18	google	_	NOUN	NOUN	_	1	nsubj
+19	det	_	DET	DET	_	14	det
+

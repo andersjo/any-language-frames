@@ -1,0 +1,13 @@
+1	Global	_	PROPN	PROPN	_	0	root
+2	Warming	_	PROPN	PROPN	_	1	name
+3	-	_	PUNCT	PUNCT	_	1	punct
+4	Dr.	_	NOUN	NOUN	_	5	name
+5	Gavin	_	PROPN	PROPN	_	1	conj
+6	Schmidt	_	PROPN	PROPN	_	5	name
+7	Versus	_	NOUN	NOUN	_	6	dep
+8	Dr.	_	NOUN	NOUN	_	9	name
+9	Roy	_	PROPN	PROPN	_	5	appos
+10	Spencer	_	PROPN	PROPN	_	9	name
+11	#auspol	_	PROPN	PROPN	_	9	name
+12	http://t.co/YAJiEm1JvZ	_	PROPN	PROPN	_	9	name
+

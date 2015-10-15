@@ -1,0 +1,11 @@
+1	Känner	_	VERB	VERB	_	0	root
+2	mig	_	PRON	PRON	_	1	nsubj
+3	varje	_	DET	DET	_	4	det
+4	dag	_	NOUN	NOUN	_	1	dobj
+5	som	_	CONJ	CONJ	_	7	mark
+6	Harry	_	PROPN	PROPN	_	7	nmod:poss
+7	Potter	_	NOUN	NOUN	_	1	dobj
+8	hos	_	ADP	ADP	_	9	case
+9	Dudleys	_	NOUN	NOUN	_	7	nmod
+10	.	_	PUNCT	PUNCT	_	1	punct
+

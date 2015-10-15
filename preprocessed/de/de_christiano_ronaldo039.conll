@@ -1,0 +1,19 @@
+1	Nur	_	ADV	ADV	_	2	advmod
+2	kurze	_	ADJ	ADJ	_	3	amod
+3	Zeit	_	NOUN	NOUN	_	4	nmod
+4	später	_	ADJ	ADJ	_	5	advmod
+5	bemühte	_	VERB	VERB	_	0	root
+6	sich	_	PRON	PRON	_	5	dobj
+7	auch	_	ADV	ADV	_	5	advmod
+8	Arsène	_	PROPN	PROPN	_	9	name
+9	Wenger	_	PROPN	PROPN	_	5	nsubj
+10	vom	_	ADP	ADP	_	11	case
+11	FC	_	PROPN	PROPN	_	5	nmod
+12	Arsenal	_	PROPN	PROPN	_	11	appos
+13	um	_	ADP	ADP	_	15	case
+14	die	_	DET	DET	_	15	det
+15	Gunst	_	NOUN	NOUN	_	5	nmod
+16	des	_	DET	DET	_	17	det
+17	Portugiesen	_	NOUN	NOUN	_	15	det
+18	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,17 @@
+1	Zunächst	_	ADV	ADV	_	2	advmod
+2	entdeckte	_	VERB	VERB	_	0	root
+3	mit	_	ADP	ADP	_	5	case
+4	Gérard	_	PROPN	PROPN	_	5	name
+5	Houllier	_	PROPN	PROPN	_	2	nmod
+6	der	_	DET	DET	_	8	det
+7	damalige	_	ADJ	ADJ	_	8	amod
+8	Trainer	_	NOUN	NOUN	_	2	nmod
+9	des	_	DET	DET	_	10	det
+10	FC	_	PROPN	PROPN	_	8	det
+11	Liverpool	_	PROPN	PROPN	_	10	appos
+12	den	_	DET	DET	_	15	det
+13	damals	_	ADV	ADV	_	14	advmod
+14	17-jährigen	_	ADJ	ADJ	_	15	amod
+15	Youngster	_	PROPN	PROPN	_	10	appos
+16	.	_	PUNCT	PUNCT	_	2	punct
+

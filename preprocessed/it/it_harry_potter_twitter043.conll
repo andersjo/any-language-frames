@@ -1,0 +1,17 @@
+1	Leggendo	_	PROPN	PROPN	_	10	nsubj
+2	Harry	_	PROPN	PROPN	_	1	name
+3	Potter	_	PROPN	PROPN	_	1	name
+4	e	_	CONJ	CONJ	_	1	cc
+5	il	_	DET	DET	_	7	det
+6	principe	_	ADJ	ADJ	_	7	amod
+7	mezzosangue	_	NOUN	NOUN	_	1	nmod
+8	,	_	PUNCT	PUNCT	_	1	punct
+9	mi	_	PRON	PRON	_	10	iobj
+10	sarei	_	VERB	VERB	_	0	root
+11	innamorata	_	NOUN	NOUN	_	10	dobj
+12	di	_	ADP	ADP	_	13	case
+13	Tom	_	PROPN	PROPN	_	11	nmod
+14	Riddle	_	PROPN	PROPN	_	13	name
+15	..	_	PROPN	PROPN	_	13	name
+16	bho	_	NOUN	NOUN	_	13	nmod
+

@@ -1,0 +1,13 @@
+1	angelina	_	PROPN	PROPN	_	2	compound
+2	jolie	_	PROPN	PROPN	_	4	nsubj
+3	is	_	VERB	VERB	_	4	cop
+4	everywhere	_	ADV	ADV	_	0	root
+5	and	_	CONJ	CONJ	_	4	cc
+6	i	_	PRON	PRON	_	8	nmod:poss
+7	cant	_	NOUN	NOUN	_	8	compound
+8	stop	_	NOUN	NOUN	_	9	nsubj
+9	thinking	_	VERB	VERB	_	3	conj
+10	about	_	ADP	ADP	_	9	compound:prt
+11	emelie	_	NOUN	NOUN	_	12	compound
+12	😌💖	_	NOUN	NOUN	_	9	dobj
+

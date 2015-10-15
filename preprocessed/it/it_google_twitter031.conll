@@ -1,0 +1,18 @@
+1	La	_	DET	DET	_	2	det
+2	Stampa	_	NOUN	NOUN	_	7	nsubj
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Roma	_	PROPN	PROPN	_	2	nmod
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	vigili	_	NOUN	NOUN	_	4	appos
+7	assenteisti	_	VERB	VERB	_	0	root
+8	Il	_	DET	DET	_	9	det
+9	Comune	_	NOUN	NOUN	_	7	dobj
+10	ne	_	PRON	PRON	_	11	advmod
+11	sente	_	VERB	VERB	_	7	advcl
+12	44	_	NUM	NUM	_	11	dobj
+13	“	_	PUNCT	PUNCT	_	15	punct
+14	senza	_	ADP	ADP	_	15	case
+15	giustificazione	_	NOUN	NOUN	_	11	nmod
+16	”	_	PUNCT	PUNCT	_	15	punct
+17	http://t.co/stlnOh8U7M	_	NOUN	NOUN	_	15	conj
+

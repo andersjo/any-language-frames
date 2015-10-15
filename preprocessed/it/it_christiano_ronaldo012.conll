@@ -1,0 +1,27 @@
+1	Inoltre	_	ADV	ADV	_	2	advmod
+2	è	_	VERB	VERB	_	4	cop
+3	il	_	DET	DET	_	4	det
+4	giocatore	_	NOUN	NOUN	_	10	nsubj
+5	del	_	ADP	ADP	_	6	case
+6	Real	_	PROPN	PROPN	_	4	nmod
+7	Madrid	_	PROPN	PROPN	_	6	name
+8	ad	_	ADP	ADP	_	10	mark
+9	aver	_	AUX	AUX	_	10	aux
+10	segnato	_	VERB	VERB	_	0	root
+11	più	_	ADV	ADV	_	10	advmod
+12	gol	_	NOUN	NOUN	_	10	dobj
+13	(	_	PUNCT	PUNCT	_	14	punct
+14	60	_	NUM	NUM	_	11	nummod
+15	,	_	PUNCT	PUNCT	_	14	punct
+16	di	_	ADP	ADP	_	17	case
+17	cui	_	PRON	PRON	_	18	nmod
+18	46	_	NUM	NUM	_	14	conj
+19	in	_	ADP	ADP	_	20	case
+20	campionato	_	NOUN	NOUN	_	10	nmod
+21	)	_	PUNCT	PUNCT	_	14	punct
+22	in	_	ADP	ADP	_	25	case
+23	una	_	DET	DET	_	25	det
+24	sola	_	ADJ	ADJ	_	25	amod
+25	stagione	_	NOUN	NOUN	_	10	nmod
+26	.	_	PUNCT	PUNCT	_	10	punct
+

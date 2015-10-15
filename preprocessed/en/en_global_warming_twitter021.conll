@@ -1,0 +1,27 @@
+1	@cdh_art	_	PROPN	PROPN	_	3	compound
+2	global	_	ADJ	ADJ	_	0	iobj
+3	warming	_	NOUN	NOUN	_	7	nsubj
+4	is	_	VERB	VERB	_	9	cop
+5	real	_	ADJ	ADJ	_	0	advcl
+6	.	_	PUNCT	PUNCT	_	7	punct
+7	Tell	_	VERB	VERB	_	0	root
+8	the	_	DET	DET	_	9	det
+9	girls	_	NOUN	NOUN	_	7	dobj
+10	to	_	PART	PART	_	11	mark
+11	go	_	VERB	VERB	_	9	acl
+12	to	_	PART	PART	_	13	mark
+13	bed	_	VERB	VERB	_	11	xcomp
+14	with	_	ADP	ADP	_	13	compound:prt
+15	their	_	PRON	PRON	_	16	nmod:poss
+16	PJ's	_	NOUN	NOUN	_	13	dobj
+17	inside	_	ADP	ADP	_	13	compound:prt
+18	out	_	NOUN	NOUN	_	13	dobj
+19	and	_	CONJ	CONJ	_	18	cc
+20	backwards	_	NOUN	NOUN	_	18	conj
+21	.	_	PUNCT	PUNCT	_	7	punct
+22	Fool	_	VERB	VERB	_	7	conj
+23	proof	_	ADJ	ADJ	_	0	foreign
+24	snow	_	NOUN	NOUN	_	25	compound
+25	day	_	NOUN	NOUN	_	26	compound
+26	superstition	_	NOUN	NOUN	_	22	dobj
+

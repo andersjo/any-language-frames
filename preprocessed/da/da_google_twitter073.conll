@@ -1,0 +1,10 @@
+1	@angeist	_	NOUN	NOUN	_	3	nsubj
+2	1965	_	NUM	NUM	_	1	nmod
+3	viste	_	VERB	VERB	_	0	root
+4	Kölner	_	NOUN	NOUN	_	5	nmod:poss
+5	Dom	_	NOUN	NOUN	_	3	nsubj
+6	også	_	ADV	ADV	_	3	advmod
+7	sin	_	DET	DET	_	8	det
+8	holdning	_	NOUN	NOUN	_	9	nmod:poss
+9	https://t.co/Jh52oAm6kf	_	NOUN	NOUN	_	5	nmod
+

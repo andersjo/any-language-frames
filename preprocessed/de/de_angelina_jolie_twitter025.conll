@@ -1,0 +1,22 @@
+1	In	_	ADP	ADP	_	3	case
+2	dem	_	DET	DET	_	3	det
+3	Film	_	NOUN	NOUN	_	14	nmod
+4	"	_	PUNCT	PUNCT	_	7	punct
+5	Gia	_	PROPN	PROPN	_	7	name
+6	-	_	PUNCT	PUNCT	_	7	punct
+7	Preis	_	NOUN	NOUN	_	14	nsubj
+8	der	_	DET	DET	_	9	det
+9	Schönheit	_	NOUN	NOUN	_	7	det
+10	"	_	PUNCT	PUNCT	_	7	punct
+11	ist	_	VERB	VERB	_	14	cop
+12	Angelina	_	PROPN	PROPN	_	13	name
+13	Jolie	_	PROPN	PROPN	_	14	nsubj
+14	nackt	_	ADJ	ADJ	_	0	root
+15	und	_	CONJ	CONJ	_	14	cc
+16	macht	_	VERB	VERB	_	14	conj
+17	mit	_	ADP	ADP	_	20	case
+18	einer	_	DET	DET	_	20	det
+19	anderen	_	ADJ	ADJ	_	20	amod
+20	Frau	_	NOUN	NOUN	_	16	nmod
+21	rum	_	ADV	ADV	_	16	mark
+

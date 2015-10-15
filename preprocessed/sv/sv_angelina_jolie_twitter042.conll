@@ -1,0 +1,27 @@
+1	Nu	_	ADV	ADV	_	2	advmod
+2	skakar	_	VERB	VERB	_	0	root
+3	kvällen	_	NOUN	NOUN	_	4	nmod:poss
+4	loss	_	NOUN	NOUN	_	2	dobj
+5	!	_	PUNCT	PUNCT	_	2	punct
+6	Först	_	ADV	ADV	_	23	advmod
+7	ut	_	ADV	ADV	_	2	compound:prt
+8	:	_	PUNCT	PUNCT	_	2	punct
+9	Ice	_	ADJ	ADJ	_	10	amod
+10	Age	_	NOUN	NOUN	_	11	det
+11	4	_	NUM	NUM	_	2	nmod
+12	,	_	PUNCT	PUNCT	_	2	punct
+13	19.15	_	NUM	NUM	_	17	nummod
+14	och	_	CONJ	CONJ	_	11	cc
+15	därefter	_	ADV	ADV	_	16	advmod
+16	The	_	ADJ	ADJ	_	17	amod
+17	Tourist	_	NOUN	NOUN	_	10	conj
+18	med	_	ADP	ADP	_	20	case
+19	Angelina	_	ADJ	ADJ	_	20	amod
+20	Jolie	_	NOUN	NOUN	_	17	nmod
+21	och	_	CONJ	CONJ	_	20	cc
+22	Johnny	_	NOUN	NOUN	_	20	conj
+23	Depp	_	NOUN	NOUN	_	20	conj
+24	.	_	PUNCT	PUNCT	_	2	punct
+25	#filmp	_	NOUN	NOUN	_	26	nmod:poss
+26	åTV3	_	NOUN	NOUN	_	20	conj
+

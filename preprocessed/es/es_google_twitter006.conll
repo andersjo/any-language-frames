@@ -1,0 +1,22 @@
+1	Respuesta	_	NOUN	NOUN	_	6	nsubj
+2	de	_	ADP	ADP	_	3	case
+3	Scioli	_	PROPN	PROPN	_	1	nmod
+4	:	_	PUNCT	PUNCT	_	1	punct
+5	"	_	PUNCT	PUNCT	_	6	punct
+6	Voy	_	VERB	VERB	_	0	root
+7	a	_	ADP	ADP	_	10	case
+8	todos	_	DET	DET	_	10	det
+9	los	_	DET	DET	_	10	det
+10	eventos	_	NOUN	NOUN	_	6	dobj
+11	a	_	ADP	ADP	_	13	case
+12	los	_	DET	DET	_	13	det
+13	que	_	SCONJ	SCONJ	_	15	mark
+14	me	_	PRON	PRON	_	15	iobj
+15	invitan	_	VERB	VERB	_	10	acl:relcl
+16	"	_	PUNCT	PUNCT	_	6	punct
+17	-	_	PUNCT	PUNCT	_	19	punct
+18	Urgente	_	PROPN	PROPN	_	21	name
+19	24	_	PROPN	PROPN	_	21	name
+20	http://t.co/er2gWPABVp	_	PROPN	PROPN	_	21	name
+21	#Argentina	_	PROPN	PROPN	_	15	nmod
+

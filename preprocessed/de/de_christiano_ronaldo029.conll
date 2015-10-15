@@ -1,0 +1,21 @@
+1	In	_	ADP	ADP	_	3	case
+2	der	_	DET	DET	_	3	det
+3	Kaderschmiede	_	NOUN	NOUN	_	7	nmod
+4	von	_	ADP	ADP	_	6	case
+5	Sporting	_	PROPN	PROPN	_	6	name
+6	Lissabon	_	PROPN	PROPN	_	3	nmod
+7	trainierte	_	VERB	VERB	_	0	root
+8	Ronaldo	_	PROPN	PROPN	_	7	nsubj
+9	fortan	_	ADV	ADV	_	7	advmod
+10	in	_	ADP	ADP	_	11	case
+11	Alcochete	_	PROPN	PROPN	_	7	nmod
+12	mit	_	ADP	ADP	_	14	case
+13	anderen	_	ADJ	ADJ	_	14	amod
+14	Jugendspielern	_	NOUN	NOUN	_	7	nmod
+15	des	_	DET	DET	_	16	det
+16	Vereins	_	NOUN	NOUN	_	14	det
+17	unter	_	ADP	ADP	_	19	case
+18	professioneller	_	ADJ	ADJ	_	19	amod
+19	Führung	_	NOUN	NOUN	_	16	nmod
+20	.	_	PUNCT	PUNCT	_	7	punct
+

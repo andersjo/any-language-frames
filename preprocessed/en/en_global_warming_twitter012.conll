@@ -1,0 +1,20 @@
+1	Scientific	_	ADJ	ADJ	_	0	cc
+2	research	_	NOUN	NOUN	_	3	nsubj
+3	shows	_	VERB	VERB	_	0	root
+4	that	_	SCONJ	SCONJ	_	8	mark
+5	with	_	ADP	ADP	_	3	compound:prt
+6	global	_	ADJ	ADJ	_	0	foreign
+7	warming	_	NOUN	NOUN	_	8	nsubj
+8	accelerating	_	VERB	VERB	_	3	ccomp
+9	in	_	ADP	ADP	_	8	compound:prt
+10	50	_	NUM	NUM	_	11	nummod
+11	years	_	NOUN	NOUN	_	8	dobj
+12	there	_	DET	DET	_	14	expl
+13	will	_	AUX	AUX	_	17	aux
+14	be	_	VERB	VERB	_	17	cop
+15	an	_	DET	DET	_	17	det
+16	ice	_	NOUN	NOUN	_	17	compound
+17	age	_	NOUN	NOUN	_	19	compound
+18	....	_	PUNCT	PUNCT	_	3	punct
+19	0_0	_	NOUN	NOUN	_	18	dep
+

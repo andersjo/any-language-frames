@@ -1,0 +1,10 @@
+1	@Luigi_0G	_	PROPN	PROPN	_	6	nsubj
+2	duro	_	ADV	ADV	_	6	advmod
+3	es	_	VERB	VERB	_	6	cop
+4	q	_	X	X	_	6	dep
+5	se	_	PRON	PRON	_	6	iobj
+6	meta	_	NOUN	NOUN	_	0	root
+7	angelina	_	ADJ	ADJ	_	6	amod
+8	jolie	_	PROPN	PROPN	_	6	appos
+9	contigo	_	ADP	ADP	_	3	case
+

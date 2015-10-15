@@ -1,0 +1,20 @@
+1	Τελικά	_	ADV	ADV	_	2	advmod
+2	υποβλήθηκε	_	VERB	VERB	_	0	root
+3	σε	_	ADP	ADP	_	4	case
+4	επέμβαση	_	NOUN	NOUN	_	2	nmod
+5	και	_	CONJ	CONJ	_	2	cc
+6	μετά	_	ADV	ADV	_	15	advmod
+7	από	_	ADP	ADP	_	9	case
+8	λίγες	_	ADJ	ADJ	_	9	amod
+9	μέρες	_	NOUN	NOUN	_	6	nmod
+10	,	_	PUNCT	PUNCT	_	12	punct
+11	καθώς	_	ADV	ADV	_	12	advmod
+12	ήταν	_	VERB	VERB	_	13	cop
+13	πετυχημένη	_	NOUN	NOUN	_	9	acl:relcl
+14	,	_	PUNCT	PUNCT	_	2	punct
+15	επέστρεψε	_	VERB	VERB	_	2	advcl
+16	στην	_	ADP	ADP	_	18	case
+17	ενεργό	_	ADJ	ADJ	_	18	amod
+18	δράση	_	NOUN	NOUN	_	15	nmod
+19	.	_	PUNCT	PUNCT	_	2	punct
+

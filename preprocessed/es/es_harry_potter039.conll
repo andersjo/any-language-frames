@@ -1,0 +1,27 @@
+1	Se	_	PRON	PRON	_	2	iobj
+2	trata	_	VERB	VERB	_	0	root
+3	de	_	ADP	ADP	_	4	case
+4	uno	_	PRON	PRON	_	2	nmod
+5	de	_	ADP	ADP	_	7	case
+6	los	_	DET	DET	_	7	det
+7	libros	_	NOUN	NOUN	_	4	nmod
+8	más	_	ADV	ADV	_	9	advmod
+9	vendidos	_	NOUN	NOUN	_	7	amod
+10	de	_	ADP	ADP	_	12	case
+11	la	_	DET	DET	_	12	det
+12	historia	_	NOUN	NOUN	_	9	nmod
+13	,	_	PUNCT	PUNCT	_	2	punct
+14	las	_	DET	DET	_	15	det
+15	estimaciones	_	NOUN	NOUN	_	20	nsubj
+16	de	_	ADP	ADP	_	18	case
+17	sus	_	DET	DET	_	18	nmod:poss
+18	ventas	_	NOUN	NOUN	_	15	nmod
+19	mundiales	_	ADJ	ADJ	_	18	amod
+20	superan	_	VERB	VERB	_	2	acl
+21	los	_	DET	DET	_	23	det
+22	110	_	NUM	NUM	_	23	nummod
+23	millones	_	NOUN	NOUN	_	25	nummod
+24	de	_	ADP	ADP	_	23	case
+25	copias	_	NOUN	NOUN	_	20	dobj
+26	.	_	PUNCT	PUNCT	_	2	punct
+

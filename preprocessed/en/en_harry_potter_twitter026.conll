@@ -1,0 +1,12 @@
+1	@StarsandSass	_	PROPN	PROPN	_	2	nsubj
+2	yelled	_	VERB	VERB	_	0	root
+3	NO	_	DET	DET	_	8	neg
+4	EVEN	_	ADV	ADV	_	8	advmod
+5	BETTER	_	ADJ	ADJ	_	0	remnant
+6	HARRY	_	NOUN	NOUN	_	7	compound
+7	POTTER	_	NOUN	NOUN	_	8	compound
+8	WORLD	_	NOUN	NOUN	_	2	dobj
+9	!!!!	_	PUNCT	PUNCT	_	8	punct
+10	AHHHH	_	PROPN	PROPN	_	8	appos
+11	RIGHT	_	ADV	ADV	_	8	advmod
+

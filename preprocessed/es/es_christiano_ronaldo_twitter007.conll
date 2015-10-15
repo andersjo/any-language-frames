@@ -1,0 +1,10 @@
+1	http://t.co/qtBjYgHXaJ	_	PROPN	PROPN	_	2	name
+2	Video	_	PROPN	PROPN	_	0	root
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Luka	_	PROPN	PROPN	_	5	name
+5	Modric's	_	PROPN	PROPN	_	9	name
+6	Son	_	PROPN	PROPN	_	9	name
+7	Ignores	_	PROPN	PROPN	_	9	name
+8	Christiano	_	PROPN	PROPN	_	9	name
+9	Ronaldo	_	PROPN	PROPN	_	2	appos
+

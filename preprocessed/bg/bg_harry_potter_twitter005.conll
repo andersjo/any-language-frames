@@ -1,0 +1,24 @@
+1	Harry	_	PROPN	PROPN	_	11	nsubj
+2	Potter	_	PROPN	PROPN	_	1	nmod
+3	and	_	PROPN	PROPN	_	1	nmod
+4	the	_	PROPN	PROPN	_	1	nmod
+5	Order	_	PROPN	PROPN	_	4	name
+6	of	_	PROPN	PROPN	_	5	nmod
+7	the	_	PROPN	PROPN	_	6	nmod
+8	Phoenix	_	PROPN	PROPN	_	7	name
+9	.	_	PUNCT	PUNCT	_	1	punct
+10	Ја	_	PROPN	PROPN	_	11	nsubj
+11	дава	_	VERB	VERB	_	0	root
+12	реалната	_	ADJ	ADJ	_	13	amod
+13	слика	_	NOUN	NOUN	_	11	dobj
+14	на	_	ADP	ADP	_	17	case
+15	случувањата	_	ADJ	ADJ	_	17	amod
+16	во	_	ADJ	ADJ	_	17	amod
+17	земјава	_	NOUN	NOUN	_	13	nmod
+18	и	_	CONJ	CONJ	_	17	cc
+19	причината	_	NOUN	NOUN	_	17	conj
+20	зошто	_	VERB	VERB	_	11	conj
+21	протестираме	_	NOUN	NOUN	_	20	dobj
+22	.	_	PUNCT	PUNCT	_	11	punct
+23	#ПоздравПленумци	_	PROPN	PROPN	_	21	nmod
+

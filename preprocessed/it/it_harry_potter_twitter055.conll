@@ -1,0 +1,25 @@
+1	《Il	_	VERB	VERB	_	5	advcl
+2	mio	_	DET	DET	_	3	det:poss
+3	mondo	_	NOUN	NOUN	_	1	dobj
+4	è	_	AUX	AUX	_	5	auxpass
+5	fatto	_	VERB	VERB	_	0	root
+6	di	_	ADP	ADP	_	7	case
+7	falsi	_	ADJ	ADJ	_	5	nmod
+8	,	_	PUNCT	PUNCT	_	5	punct
+9	bugie	_	NOUN	NOUN	_	5	nmod
+10	e	_	CONJ	CONJ	_	9	cc
+11	mignotte	_	NOUN	NOUN	_	9	conj
+12	.	_	PUNCT	PUNCT	_	5	punct
+13	Nella	_	ADP	ADP	_	15	case
+14	mia	_	DET	DET	_	15	det:poss
+15	camera	_	NOUN	NOUN	_	5	nmod
+16	c'ho	_	PROPN	PROPN	_	15	nmod
+17	piu	_	PROPN	PROPN	_	16	name
+18	'	_	PUNCT	PUNCT	_	19	punct
+19	segreti	_	ADJ	ADJ	_	15	amod
+20	di	_	ADP	ADP	_	21	case
+21	Harry	_	PROPN	PROPN	_	19	nmod
+22	Potter	_	PROPN	PROPN	_	21	name
+23	!	_	PUNCT	PUNCT	_	21	punct
+24	》	_	PROPN	PROPN	_	21	conj
+

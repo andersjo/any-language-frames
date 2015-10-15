@@ -1,0 +1,17 @@
+1	La	_	DET	DET	_	3	det
+2	primera	_	NUM	NUM	_	3	nummod
+3	interpretación	_	NOUN	NOUN	_	0	root
+4	principal	_	ADJ	ADJ	_	3	amod
+5	que	_	SCONJ	SCONJ	_	6	mark
+6	hizo	_	VERB	VERB	_	3	acl:relcl
+7	fue	_	VERB	VERB	_	6	xcomp
+8	en	_	ADP	ADP	_	10	case
+9	la	_	DET	DET	_	10	det
+10	película	_	NOUN	NOUN	_	7	nmod
+11	"	_	PUNCT	PUNCT	_	12	punct
+12	Hackers	_	PROPN	PROPN	_	10	appos
+13	"	_	PUNCT	PUNCT	_	12	punct
+14	de	_	ADP	ADP	_	15	case
+15	1995	_	NUM	NUM	_	10	nmod
+16	.	_	PUNCT	PUNCT	_	3	punct
+

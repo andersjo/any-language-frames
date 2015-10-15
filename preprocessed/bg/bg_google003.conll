@@ -1,0 +1,14 @@
+1	Към	_	ADP	ADP	_	2	case
+2	юни	_	NOUN	NOUN	_	7	nmod
+3	2013	_	NUM	NUM	_	4	nummod
+4	г	_	NOUN	NOUN	_	2	nmod
+5	.	_	PUNCT	PUNCT	_	6	punct
+6	Google	_	PROPN	PROPN	_	7	nsubj
+7	има	_	VERB	VERB	_	0	root
+8	постоянно	_	ADV	ADV	_	9	advmod
+9	заети	_	ADJ	ADJ	_	12	amod
+10	44	_	NUM	NUM	_	12	nummod
+11	777	_	NUM	NUM	_	10	mwe
+12	служители	_	NOUN	NOUN	_	7	dobj
+13	.	_	PUNCT	PUNCT	_	7	punct
+

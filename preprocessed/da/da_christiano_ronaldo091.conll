@@ -1,0 +1,11 @@
+1	Inden	_	ADV	ADV	_	2	advmod
+2	da	_	ADV	ADV	_	5	advmod
+3	havde	_	AUX	AUX	_	5	cop
+4	Ronaldo	_	PROPN	PROPN	_	5	nmod:poss
+5	scoret	_	NOUN	NOUN	_	0	root
+6	i	_	ADP	ADP	_	7	case
+7	2-1-semifinalesejren	_	NOUN	NOUN	_	5	nmod
+8	over	_	ADP	ADP	_	9	case
+9	Holland	_	PROPN	PROPN	_	7	nmod
+10	.	_	PUNCT	PUNCT	_	5	punct
+

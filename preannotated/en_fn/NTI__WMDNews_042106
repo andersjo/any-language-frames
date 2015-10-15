@@ -1,0 +1,1825 @@
+BW	_	Hostile_encounter Weapon
+-	_	
+PREP	_	
+/	_	
+DEFENSE	_	Defend
+/	_	
+RESPONSE	_	Communication_response Response
+-	_	
+U.S.	_	
+
+Disaster	_	Catastrophe
+readiness	_	
+fund	_	
+urged	_	Attempt_suasion Request
+[	_	
+North	_	Direction Locative_relation Part_orientational
+Carolina	_	
+]	_	
+
+``	_	
+The	_	Self_motion Temporal_collocation
+General	_	Appellations Leadership
+Assembly	_	Aggregate Building
+should	_	Being_obligated Desirable_event Required_event
+set	_	Activity_ready_state Aggregate Attack Bail_decision Cause_change_of_consistency Cause_to_start Change_of_consistency Departing Intentionally_create Placing
+aside	_	
+money	_	Money
+for	_	Causation Taking_sides
+a	_	Measure_duration Process_end Quantity
+new	_	Age Expertise Familiarity
+state	_	Political_locales State_of_entity Statement
+health	_	Medical_conditions
+lab	_	Locale_by_use
+,	_	
+millions	_	Quantity
+of	_	Age Domain Origin Partitive
+doses	_	Quantity
+of	_	Age Domain Origin Partitive
+antiviral	_	
+drugs	_	Intoxicants
+and	_	
+a	_	Measure_duration Process_end Quantity
+fund	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+help	_	Assistance
+meet	_	Assemble Come_together Locative_relation Make_acquaintance Meet_specifications Meet_with_response Response
+basic	_	Being_necessary
+needs	_	Needing Required_event
+after	_	Relative_time Time_vector
+a	_	Measure_duration Process_end Quantity
+disaster	_	Catastrophe
+,	_	
+a	_	Measure_duration Process_end Quantity
+legislative	_	
+panel	_	Filling
+recommended	_	
+Thursday	_	Calendric_unit
+.	_	
+
+The	_	Self_motion Temporal_collocation
+General	_	Appellations Leadership
+Assembly	_	Aggregate Building
+has	_	Have_associated Inclusion Possession
+worked	_	Being_employed Working_on
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+improve	_	Cause_to_make_progress
+its	_	
+response	_	Communication_response Response
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+potential	_	Capability
+terrorist	_	Terrorism
+attacks	_	Attack
+after	_	Relative_time Time_vector
+the	_	Self_motion Temporal_collocation
+Sept.	_	
+11,	_	
+2001	_	
+,	_	
+attacks	_	Attack
+and	_	
+the	_	Self_motion Temporal_collocation
+ensuing	_	
+anthrax	_	
+scares	_	
+.	_	
+
+More	_	Increment
+than	_	Time_vector
+half	_	Part_whole
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+money	_	Money
+sought	_	Seeking Seeking_to_achieve
+--	_	
+$89	_	
+million	_	Cardinal_numbers
+--	_	
+would	_	
+go	_	Attempt Attending Becoming Being_named Compatibility Motion Scrutiny
+toward	_	
+the	_	Self_motion Temporal_collocation
+construction	_	Building
+of	_	Age Domain Origin Partitive
+a	_	Measure_duration Process_end Quantity
+state	_	Political_locales State_of_entity Statement
+public	_	Secrecy_status
+health	_	Medical_conditions
+laboratory	_	Locale_by_use
+and	_	
+Office	_	Building_subparts
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Chief	_	First_rank Leadership
+Medical	_	
+Examiner	_	
+.	_	
+''	_	
+(	_	
+The	_	Self_motion Temporal_collocation
+News	_	
+and	_	
+Observer	_	
+,	_	
+21Apr06	_	
+,	_	
+AP	_	
+)	_	
+
+Homeland	_	Foreign_or_domestic_country
+security	_	Being_at_risk
+panel	_	Filling
+drops	_	Change_position_on_a_scale
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+
+``	_	
+Rhode	_	
+Island	_	Natural_features
+is	_	Existence
+preparing	_	Activity_prepare Cooking_creation
+itself	_	
+for	_	Causation Taking_sides
+a	_	Measure_duration Process_end Quantity
+major	_	Importance
+hurricane	_	
+or	_	
+other	_	Increment
+natural	_	
+disaster	_	Catastrophe
+,	_	
+state	_	Political_locales State_of_entity Statement
+and	_	
+local	_	Indigenous_origin Political_locales
+officials	_	Leadership
+testified	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+a	_	Measure_duration Process_end Quantity
+field	_	Fields Locale_by_event Locale_by_use
+hearing	_	Hear
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Senate	_	Leadership
+Homeland	_	Foreign_or_domestic_country
+Security	_	Being_at_risk
+Committee	_	Organization
+Thursday	_	Calendric_unit
+,	_	
+including	_	Inclusion
+establishing	_	Intentionally_create
+interoperable	_	
+communications	_	Communication
+systems	_	Gizmo System
+and	_	
+community	_	Aggregate
+evacuation	_	Removing
+plans	_	Project Purpose
+.	_	
+
+But	_	Concessive
+,	_	
+Gov	_	
+.	_	
+Donald	_	
+Carcieri	_	
+,	_	
+Providence	_	
+Mayor	_	Leadership
+David	_	
+Cicilline	_	
+and	_	
+others	_	Increment
+told	_	Request Telling
+Chairwoman	_	
+Susan	_	
+Collins	_	
+of	_	Age Domain Origin Partitive
+Maine	_	
+and	_	
+Rhode	_	
+Island	_	Natural_features
+Sen	_	
+.	_	
+Lincoln	_	
+Chafee	_	
+,	_	
+they	_	
+need	_	Have_as_requirement Needing Required_event
+more	_	Increment
+federal	_	Political_locales
+money	_	Money
+,	_	
+they	_	
+need	_	Have_as_requirement Needing Required_event
+it	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+come	_	Arriving Becoming_aware Coming_up_with
+faster	_	
+when	_	Temporal_collocation
+disaster	_	Catastrophe
+strikes	_	Attack
+and	_	
+they	_	
+need	_	Have_as_requirement Needing Required_event
+a	_	Measure_duration Process_end Quantity
+steady	_	
+stream	_	Fluidic_motion Mass_motion Natural_features Quantity
+they	_	
+know	_	Awareness Certainty Differentiation Familiarity
+they	_	
+can	_	Capability Containers Firing Likelihood Measure_volume Possibility Preserving
+rely	_	Reliance
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+year	_	Calendric_unit Measure_duration
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+year	_	Calendric_unit Measure_duration
+.	_	
+
+Part	_	Membership Part_whole Performers_and_roles Separating
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+answer	_	Communication_response
+,	_	
+Chafee	_	
+said	_	Communication Statement
+,	_	
+might	_	Likelihood
+be	_	Existence Performers_and_roles
+giving	_	Giving
+more	_	Increment
+flexibility	_	
+with	_	Accompaniment
+the	_	Self_motion Temporal_collocation
+money	_	Money
+,	_	
+rather	_	Time_vector
+than	_	Time_vector
+more	_	Increment
+funds	_	Money
+,	_	
+Chafee	_	
+suggested	_	Statement
+after	_	Relative_time Time_vector
+the	_	Self_motion Temporal_collocation
+hearing	_	Hear
+.	_	
+
+The	_	Self_motion Temporal_collocation
+state	_	Political_locales State_of_entity Statement
+and	_	
+localities	_	Political_locales
+,	_	
+Chafee	_	
+said	_	Communication Statement
+,	_	
+sometimes	_	Frequency
+get	_	Arriving Becoming Birth Board_vehicle Bringing Disembarking Getting Grasp
+mandated	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+use	_	Ingest_substance Possibilities Purpose Using
+federal	_	Political_locales
+homeland	_	Foreign_or_domestic_country
+security	_	Being_at_risk
+funds	_	Money
+for	_	Causation Taking_sides
+decontamination	_	Emptying
+or	_	
+preparation	_	Activity_prepare
+for	_	Causation Taking_sides
+bioterrorism	_	Terrorism
+,	_	
+when	_	Temporal_collocation
+the	_	Self_motion Temporal_collocation
+money	_	Money
+might	_	Likelihood
+be	_	Existence Performers_and_roles
+better	_	Desirability Expertise Required_event Surpassing Usefulness
+spent	_	Used_up
+putting	_	Building Cause_to_end Placing
+together	_	Building Cause_to_amalgamate Collaboration
+a	_	Measure_duration Process_end Quantity
+communications	_	Communication
+systems	_	Gizmo System
+that	_	Degree
+would	_	
+let	_	Grant_permission Make_possible_to_do
+first	_	First_experience Ordinal_numbers
+responders	_	
+such	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+police	_	
+,	_	
+fire	_	Firing Shoot_projectiles Use_firearm
+and	_	
+rescue	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+different	_	Identicality Similarity
+communities	_	Aggregate
+communicate	_	Communication
+with	_	Accompaniment
+each	_	
+other	_	Increment
+more	_	Increment
+easily.	_	
+''	_	
+(	_	
+Pawtucket	_	
+Times	_	Commutative_statement
+,	_	
+21Apr06	_	
+,	_	
+Jim	_	
+Baron	_	Leadership
+)	_	
+(	_	
+Link	_	Attaching Connectors Make_cognitive_connection Relating_concepts
+)	_	
+
+Mock	_	Judgment Judgment_communication Practice
+drill	_	Practice
+readies	_	
+Dublin	_	
+[	_	
+Georgia	_	
+]	_	
+district	_	Political_locales
+for	_	Causation Taking_sides
+terrorist	_	Terrorism
+threat	_	Commitment Risky_situation
+
+``	_	
+More	_	Increment
+than	_	Time_vector
+300	_	
+people	_	Colonization People
+participated	_	Participation
+Wednesday	_	Calendric_unit
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+a	_	Measure_duration Process_end Quantity
+mock	_	Judgment Judgment_communication Practice
+drill	_	Practice
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+deal	_	Be_in_agreement_on_action Make_agreement_on_action Resolve_problem
+with	_	Accompaniment
+the	_	Self_motion Temporal_collocation
+aftermath	_	
+of	_	Age Domain Origin Partitive
+an	_	Cause_to_end Process_end Quantity
+anthrax	_	
+attack	_	Attack
+.	_	
+
+The	_	Self_motion Temporal_collocation
+attack	_	Attack
+,	_	
+medical	_	
+personnel	_	Employing
+and	_	
+volunteer	_	Commitment Giving
+``	_	
+patients	_	
+''	_	
+were	_	Existence
+told	_	Request Telling
+,	_	
+occurred	_	Event
+at	_	Locative_relation Relational_quantity Temporal_collocation
+a	_	Measure_duration Process_end Quantity
+mythical	_	
+April	_	Calendric_unit
+Fool's	_	
+Day	_	Calendric_unit Commemorative Measure_duration Timespan
+parade	_	Mass_motion Self_motion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Dublin	_	
+,	_	
+said	_	Communication Statement
+Laurice	_	
+Bentley	_	
+,	_	
+risk	_	Being_at_risk Daring Risky_situation Run_risk
+communication	_	Communication
+specialist	_	Expertise
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+South	_	Direction Locative_relation Part_orientational
+Central	_	Part_inner_outer
+Health	_	Medical_conditions
+District	_	Political_locales
+.	_	
+
+The	_	Self_motion Temporal_collocation
+attackers	_	Attack
+were	_	Existence
+environmental	_	
+terrorists	_	Terrorism
+upset	_	Emotion_directed Experiencer_focus Experiencer_obj Preventing
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+a	_	Measure_duration Process_end Quantity
+new	_	Age Expertise Familiarity
+industry	_	Fields
+coming	_	Arriving
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+town	_	Political_locales
+.	_	
+
+The	_	Self_motion Temporal_collocation
+essence	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+drill	_	Practice
+was	_	Existence
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+test	_	Examination Operational_testing
+how	_	
+quickly	_	Speed
+a	_	Measure_duration Process_end Quantity
+mass	_	Quantity Rite
+amount	_	Amounting_to Being_in_category Quantity
+of	_	Age Domain Origin Partitive
+medicine	_	Medical_specialties
+and	_	
+treatment	_	Cure
+could	_	Capability Possibility
+be	_	Existence Performers_and_roles
+delivered	_	Delivery
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+public	_	Secrecy_status
+.	_	
+
+'	_	
+I	_	
+think	_	Awareness Cogitation Opinion Regard
+,	_	
+overall	_	Clothing
+,	_	
+things	_	
+went	_	Becoming Motion
+very	_	Degree
+well	_	
+,	_	
+'	_	
+said	_	Communication Statement
+Lawton	_	
+Davis	_	
+,	_	
+head	_	Leadership Observable_body_parts Self_motion
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+South	_	Direction Locative_relation Part_orientational
+Central	_	Part_inner_outer
+Health	_	Medical_conditions
+District	_	Political_locales
+.	_	
+
+'	_	
+There	_	Existence Locative_relation
+was	_	Existence
+excellent	_	Desirability Expertise Usefulness
+participation	_	Participation
+and	_	
+cooperation	_	Collaboration
+.	_	
+
+'	_	
+Though	_	Concessive
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+350	_	
+people	_	Colonization People
+participated	_	Participation
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+drill	_	Practice
+,	_	
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+500	_	Cardinal_numbers
+patients	_	
+were	_	Existence
+actually	_	
+processed	_	Degree_of_processing Processing_materials
+because	_	Causation
+many	_	Quantity
+participants	_	Participation
+went	_	Becoming Motion
+through	_	Activity_done_state Time_vector Used_up
+multiple	_	Quantity
+times	_	Commutative_statement
+,	_	
+with	_	Accompaniment
+varying	_	Cause_change Similarity
+symptoms	_	
+each	_	
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+.	_	
+
+Jennifer	_	
+McLeod	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+registered	_	
+nurse	_	Cure Ingestion Medical_professionals
+and	_	
+instructor	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+HGTC	_	
+,	_	
+acted	_	Intentionally_act Performers_and_roles
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+a	_	Measure_duration Process_end Quantity
+patient	_	Rashness
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+drill	_	Practice
+.	_	
+
+Having	_	Have_associated Possession
+worked	_	Being_employed Working_on
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+a	_	Measure_duration Process_end Quantity
+nurse	_	Cure Ingestion Medical_professionals
+,	_	
+she	_	
+decided	_	Choosing Deciding
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+throw	_	Body_movement Cause_motion
+the	_	Self_motion Temporal_collocation
+personnel	_	Employing
+a	_	Measure_duration Process_end Quantity
+few	_	Quantity
+curves	_	Shapes
+.	_	
+
+She	_	
+told	_	Request Telling
+them	_	
+she	_	
+was	_	Existence
+12	_	Cardinal_numbers
+weeks	_	Calendric_unit Measure_duration
+pregnant	_	
+,	_	
+had	_	Being_obligated Have_associated Possession Required_event
+HIV	_	
+and	_	
+was	_	Existence
+hemorrhaging	_	
+.	_	
+
+She	_	
+thought	_	Awareness Cogitation Opinion
+the	_	Self_motion Temporal_collocation
+workers	_	Employing
+handled	_	
+it	_	
+all	_	Quantity
+well.	_	
+''	_	
+(	_	
+Macon.com	_	
+,	_	
+20Apr06	_	
+,	_	
+Wayne	_	
+Crenshaw	_	
+)	_	
+(	_	
+Link	_	Attaching Connectors Make_cognitive_connection Relating_concepts
+)	_	
+
+BW	_	Hostile_encounter Weapon
+-	_	
+PREP	_	
+/	_	
+DEFENSE	_	Defend
+/	_	
+RESPONSE	_	Communication_response Response
+-	_	
+AUSTRALIA	_	
+
+Reduction	_	Cause_change_of_position_on_a_scale Cause_expansion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+beds	_	
+puts	_	Causation
+city	_	Locale_by_use Political_locales
+[	_	
+Sydney	_	
+]	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+risk	_	Being_at_risk Daring Risky_situation Run_risk
+:	_	
+hospital	_	Buildings
+official	_	Leadership
+
+``	_	
+Sydney	_	
+Hospital	_	Buildings
+'s	_	Existence Required_event
+capacity	_	Capability
+has	_	Have_associated Inclusion Possession
+been	_	Existence
+run	_	Cause_impact Cause_motion Fluidic_motion Impact Leadership Operating_a_system Self_motion
+down	_	Being_operational Cause_change_of_position_on_a_scale Direction Ingestion Locative_relation Willingness
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+point	_	Adducing Cause_to_perceive Locale
+where	_	Locative_relation
+half	_	Part_whole
+-	_	
+a	_	Measure_duration Process_end Quantity
+-	_	
+million	_	Cardinal_numbers
+people	_	Colonization People
+living	_	Dead_or_alive Residence
+and	_	
+working	_	Being_employed Being_operational Version_sequence Working_on
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+been	_	Existence
+left	_	Causation Change_direction Departing Direction Left_to_do Part_orientational People_along_political_spectrum Remainder
+far	_	Degree
+more	_	Increment
+exposed	_	Reveal_secret
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+consequences	_	
+of	_	Age Domain Origin Partitive
+a	_	Measure_duration Process_end Quantity
+terrorist	_	Terrorism
+attack	_	Attack
+or	_	
+a	_	Measure_duration Process_end Quantity
+bird	_	
+flu	_	Medical_conditions
+outbreak	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+hospital	_	Buildings
+administrator	_	
+has	_	Have_associated Inclusion Possession
+warned	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+chairman	_	Leadership
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Department	_	
+of	_	Age Domain Origin Partitive
+Medicine	_	Medical_specialties
+at	_	Locative_relation Relational_quantity Temporal_collocation
+Sydney	_	
+Hospital	_	Buildings
+,	_	
+John	_	
+Graham	_	
+,	_	
+told	_	Request Telling
+a	_	Measure_duration Process_end Quantity
+biosecurity	_	
+workshop	_	Building_subparts
+last	_	Duration_relation Ordinal_numbers Relative_time
+week	_	Calendric_unit Measure_duration
+that	_	Degree
+he	_	
+had	_	Being_obligated Have_associated Possession Required_event
+appealed	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Federal	_	Political_locales
+Government	_	Leadership Organization
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+remove	_	Removing Undressing
+the	_	Self_motion Temporal_collocation
+hospital	_	Buildings
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+state	_	Political_locales State_of_entity Statement
+control	_	Be_in_control Control Prohibiting
+and	_	
+declare	_	Statement
+it	_	
+a	_	Measure_duration Process_end Quantity
+'	_	
+national	_	Origin People_by_jurisdiction Political_locales
+security	_	Being_at_risk
+hospital	_	Buildings
+'	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+biosecurity	_	
+workshop	_	Building_subparts
+,	_	
+which	_	
+looked	_	Appearance Scrutiny
+at	_	Locative_relation Relational_quantity Temporal_collocation
+threats	_	Commitment Risky_situation
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+infectious	_	
+diseases	_	Medical_conditions
+and	_	
+bioterrorism	_	Terrorism
+,	_	
+was	_	Existence
+sponsored	_	
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+University	_	Locale_by_use
+of	_	Age Domain Origin Partitive
+Sydney	_	
+.	_	
+''	_	
+(	_	
+Sydney	_	
+Morning	_	Calendric_unit
+Herald	_	Heralding Omen
+,	_	
+22Apr06	_	
+,	_	
+Deborah	_	
+Snow	_	Precipitation
+)	_	
+(	_	
+Link	_	Attaching Connectors Make_cognitive_connection Relating_concepts
+)	_	
+
+CW	_	Hostile_encounter Weapon
+-	_	
+PREP	_	
+/	_	
+DEFENSE	_	Defend
+/	_	
+RESPONSE	_	Communication_response Response
+-	_	
+U.S.	_	
+
+[	_	
+Mississippi	_	
+]	_	
+National	_	Origin People_by_jurisdiction Political_locales
+Guard	_	Protecting
+Prepares	_	Activity_prepare
+For	_	Causation Taking_sides
+Hurricane	_	
+Season	_	
+[	_	
+and	_	
+Chemical	_	Substance Weapon
+Terrorism	_	Terrorism
+]	_	
+
+``	_	
+A	_	Measure_duration Process_end Quantity
+deadly	_	Killing
+-	_	
+chemical	_	Substance Weapon
+exercise	_	Exercising Practice Rite
+sent	_	Causation Sending
+nearly	_	Relational_quantity
+100	_	Cardinal_numbers
+national	_	Origin People_by_jurisdiction Political_locales
+guardsmen	_	
+and	_	
+women	_	People
+into	_	Goal Into
+action	_	Intentionally_act
+Wednesday	_	Calendric_unit
+morning	_	Calendric_unit
+.	_	
+
+It	_	
+was	_	Existence
+an	_	Cause_to_end Process_end Quantity
+anti	_	
+-	_	
+terror	_	Fear Terrorism
+test	_	Examination Operational_testing
+and	_	
+a	_	Measure_duration Process_end Quantity
+drill	_	Practice
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+upcoming	_	
+Hurricane	_	
+season	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+test	_	Examination Operational_testing
+is	_	Existence
+what	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+do	_	Ingest_substance Intentionally_act Intentionally_affect Thriving Touring
+when	_	Temporal_collocation
+a	_	Measure_duration Process_end Quantity
+deadly	_	Killing
+sarin	_	
+gas	_	Substance
+has	_	Have_associated Inclusion Possession
+been	_	Existence
+released	_	Releasing
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+a	_	Measure_duration Process_end Quantity
+meeting	_	Discussion Social_event
+room	_	Building_subparts Residence Temporary_stay
+infecting	_	
+dozens	_	Quantity
+.	_	
+
+Soldiers	_	People_by_vocation
+wore	_	Wearing
+chemical	_	Substance Weapon
+suits	_	Clothing
+,	_	
+scanned	_	Scrutiny
+the	_	Self_motion Temporal_collocation
+area	_	Dimension Fields Locale
+and	_	
+eventually	_	Time_vector
+neutralized	_	
+the	_	Self_motion Temporal_collocation
+threat.	_	
+''	_	
+(	_	
+TheJacksonChannel.com	_	
+,	_	
+20Apr06	_	
+,	_	
+Greg	_	
+Flynn	_	
+)	_	
+(	_	
+Link	_	Attaching Connectors Make_cognitive_connection Relating_concepts
+)	_	
+
+CW	_	Hostile_encounter Weapon
+-	_	
+THREAT	_	Commitment Risky_situation
+-	_	
+U.S.	_	
+
+Toxic	_	Toxic_substance
+gas	_	Substance
+mishap	_	Catastrophe
+at	_	Locative_relation Relational_quantity Temporal_collocation
+APG	_	
+[	_	
+Aberdeen	_	
+Proving	_	Evidence
+Ground	_	Ground_up
+]	_	
+
+``	_	
+Four	_	Cardinal_numbers
+Aberdeen	_	
+Proving	_	Evidence
+Ground	_	Ground_up
+employees	_	Employing
+were	_	Existence
+taken	_	Bringing Conquering Event Experiencer_focus Removing
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+a	_	Measure_duration Process_end Quantity
+local	_	Indigenous_origin Political_locales
+hospital	_	Buildings
+yesterday	_	Calendric_unit
+after	_	Relative_time Time_vector
+a	_	Measure_duration Process_end Quantity
+report	_	Reporting Statement Text
+of	_	Age Domain Origin Partitive
+a	_	Measure_duration Process_end Quantity
+chemical	_	Substance Weapon
+leak	_	Fluidic_motion Reveal_secret
+,	_	
+the	_	Self_motion Temporal_collocation
+third	_	Ordinal_numbers Part_whole
+incident	_	Catastrophe
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+a	_	Measure_duration Process_end Quantity
+week	_	Calendric_unit Measure_duration
+during	_	Temporal_collocation
+which	_	
+workers	_	Employing
+were	_	Existence
+at	_	Locative_relation Relational_quantity Temporal_collocation
+risk	_	Being_at_risk Daring Risky_situation Run_risk
+of	_	Age Domain Origin Partitive
+exposure	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+lethal	_	Killing
+substances	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+Army	_	Aggregate Military
+base	_	Infrastructure Locale_by_use Morality_evaluation Part_orientational
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Harford	_	
+County	_	Political_locales
+.	_	
+
+None	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+workers	_	Employing
+was	_	Existence
+injured	_	Cause_harm
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+incident	_	Catastrophe
+,	_	
+the	_	Self_motion Temporal_collocation
+second	_	Calendric_unit Measure_duration Ordinal_numbers
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+Edgewood	_	
+Chemical	_	Substance Weapon
+Biological	_	Weapon
+Center	_	Locale_by_use Part_inner_outer
+,	_	
+a	_	Measure_duration Process_end Quantity
+1.5	_	
+million	_	Cardinal_numbers
+-	_	
+square	_	Compatibility Locale_by_use Shapes
+-	_	
+foot	_	Measure_linear_extent Observable_body_parts Part_orientational
+research	_	Research
+and	_	
+engineering	_	
+facility	_	Locale_by_use
+within	_	Temporal_collocation Within_distance
+APG	_	
+for	_	Causation Taking_sides
+chemical	_	Substance Weapon
+and	_	
+biological	_	Weapon
+defense	_	Defend
+.	_	
+
+The	_	Self_motion Temporal_collocation
+center	_	Locale_by_use Part_inner_outer
+'s	_	Existence Required_event
+director	_	Behind_the_scenes Leadership
+pledged	_	Commitment
+a	_	Measure_duration Process_end Quantity
+thorough	_	
+review	_	
+of	_	Age Domain Origin Partitive
+safety	_	Being_at_risk
+procedures	_	Means
+.	_	
+
+Yesterday	_	Calendric_unit
+'s	_	Existence Required_event
+incident	_	Catastrophe
+involved	_	Participation
+phosgene	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+toxic	_	Toxic_substance
+industrial	_	Fields Manufacturing
+chemical	_	Substance Weapon
+used	_	Using
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+a	_	Measure_duration Process_end Quantity
+choking	_	
+agent	_	Active_substance Intentionally_act People_by_vocation
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+World	_	Political_locales
+War	_	Hostile_encounter
+I	_	
+and	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+make	_	Arriving Building Causation Cause_change Cooking_creation Earnings_and_losses Intentionally_create Make_acquaintance Manufacturing Self_motion Type Verification
+plastics	_	
+and	_	
+pesticides.	_	
+''	_	
+(	_	
+Baltimore	_	
+Sun	_	
+,	_	
+21Apr06	_	
+,	_	
+Justin	_	
+Fenton	_	
+)	_	
+(	_	
+Link	_	Attaching Connectors Make_cognitive_connection Relating_concepts
+)	_	
+
+RADIOLOGICAL	_	
+-	_	
+PREP	_	
+/	_	
+DEFENSE	_	Defend
+/	_	
+RESPONSE	_	Communication_response Response
+-	_	
+U.S.	_	
+/	_	
+UZBEKISTAN	_	
+
+United	_	
+States	_	Political_locales Statement
+Helps	_	Assistance
+Uzbekistan	_	
+Secure	_	Attaching Being_at_risk Getting Protecting
+Dangerous	_	Risky_situation
+Nuclear	_	Bearing_arms Nuclear_process Weapon
+Materials	_	Ingredients Substance Text
+:	_	
+Energy	_	Electricity
+agency	_	Organization
+announces	_	Statement
+completion	_	Activity_finish
+of	_	Age Domain Origin Partitive
+secret	_	Secrecy_status
+uranium	_	Substance
+transfer	_	Change_tool Transfer
+back	_	Observable_body_parts Part_orientational Self_motion Taking_sides
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Russia	_	
+
+``	_	
+Four	_	Cardinal_numbers
+secret	_	Secrecy_status
+transfers	_	Transfer
+of	_	Age Domain Origin Partitive
+63	_	
+kilograms	_	Measure_mass
+of	_	Age Domain Origin Partitive
+highly	_	
+enriched	_	Degree_of_processing Processing_materials
+uranium	_	Substance
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+a	_	Measure_duration Process_end Quantity
+research	_	Research
+laboratory	_	Locale_by_use
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Uzbekistan	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+a	_	Measure_duration Process_end Quantity
+secure	_	Attaching Being_at_risk Getting Protecting
+Russian	_	Origin
+reprocessing	_	Processing_materials
+facility	_	Locale_by_use
+were	_	Existence
+completed	_	Activity_finish
+April	_	Calendric_unit
+19	_	
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+U.S.	_	
+Department	_	
+of	_	Age Domain Origin Partitive
+Energy	_	Electricity
+'s	_	Existence Required_event
+National	_	Origin People_by_jurisdiction Political_locales
+Nuclear	_	Bearing_arms Nuclear_process Weapon
+Security	_	Being_at_risk
+Administration	_	Leadership
+(	_	
+NNSA	_	
+)	_	
+.	_	
+
+'	_	
+These	_	
+shipments	_	Sending Sent_items
+of	_	Age Domain Origin Partitive
+highly	_	
+enriched	_	Degree_of_processing Processing_materials
+uranium	_	Substance
+spent	_	Used_up
+fuel	_	Supply
+are	_	Existence
+part	_	Membership Part_whole Performers_and_roles Separating
+of	_	Age Domain Origin Partitive
+NNSA	_	
+'s	_	Existence Required_event
+efforts	_	Attempt
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+make	_	Arriving Building Causation Cause_change Cooking_creation Earnings_and_losses Intentionally_create Make_acquaintance Manufacturing Self_motion Type Verification
+sure	_	Certainty Likelihood Verification
+this	_	
+type	_	Text_creation Type
+of	_	Age Domain Origin Partitive
+material	_	Ingredients Substance Text
+does	_	Intentionally_act
+n't	_	
+fall	_	Attack Becoming_aware Change_position_on_a_scale Conquering Motion_directional
+into	_	Goal Into
+the	_	Self_motion Temporal_collocation
+wrong	_	Correctness Legality Morality_evaluation
+hands	_	Observable_body_parts
+,	_	
+'	_	
+NNSA	_	
+Administrator	_	
+Linton	_	
+F.	_	
+Brooks	_	
+said	_	Communication Statement
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+an	_	Cause_to_end Process_end Quantity
+April	_	Calendric_unit
+20	_	Cardinal_numbers
+press	_	Attempt_suasion Cause_motion
+release	_	Releasing
+.	_	
+
+The	_	Self_motion Temporal_collocation
+transfer	_	Change_tool Transfer
+-	_	
+part	_	Membership Part_whole Performers_and_roles Separating
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Global	_	Political_locales
+Threat	_	Commitment Risky_situation
+Reduction	_	Cause_change_of_position_on_a_scale Cause_expansion
+Initiative	_	
+(	_	
+GTRI	_	
+)	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+nonproliferation	_	Proliferating_in_number
+effort	_	Attempt
+that	_	Degree
+secures	_	Getting
+high-risk	_	
+nuclear	_	Bearing_arms Nuclear_process Weapon
+and	_	
+radiological	_	
+materials	_	Ingredients Substance Text
+and	_	
+equipment	_	Gizmo Supply
+around	_	Dimension Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+world	_	Political_locales
+-	_	
+resulted	_	Causation
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+a	_	Measure_duration Process_end Quantity
+cooperative	_	
+effort	_	Attempt
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+United	_	
+States	_	Political_locales Statement
+,	_	
+Uzbekistan	_	
+,	_	
+Kazakhstan	_	
+and	_	
+Russia	_	
+,	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+well	_	
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+coordination	_	
+through	_	Activity_done_state Time_vector Used_up
+the	_	Self_motion Temporal_collocation
+International	_	Foreign_or_domestic_country Political_locales
+Atomic	_	
+Energy	_	Electricity
+Agency	_	Organization
+(	_	
+IAEA	_	
+)	_	
+.	_	
+''	_	
+(	_	
+News	_	
+Blaze	_	
+,	_	
+21Apr06	_	
+)	_	
+(	_	
+Link	_	Attaching Connectors Make_cognitive_connection Relating_concepts
+)	_	
+
+WMD	_	Weapon
+-	_	
+PREP	_	
+/	_	
+DEFENSE	_	Defend
+/	_	
+RESPONSE	_	Communication_response Response
+-	_	
+U.S.	_	
+
+New	_	Age Expertise Familiarity
+Stryker	_	
+model	_	Exemplar
+tooled	_	
+for	_	Causation Taking_sides
+detection	_	
+
+``	_	
+Soldiers	_	People_by_vocation
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+welcomed	_	
+the	_	Self_motion Temporal_collocation
+newest	_	Age Familiarity
+member	_	Membership Observable_body_parts
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Stryker	_	
+family	_	Aggregate Kinship
+of	_	Age Domain Origin Partitive
+vehicles	_	Vehicle
+.	_	
+
+The	_	Self_motion Temporal_collocation
+2nd	_	Ordinal_numbers
+Cavalry	_	
+Regiment	_	
+[	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+Fort	_	Buildings
+Lewis	_	
+]	_	
+recently	_	Temporal_collocation
+received	_	Receiving
+three	_	Cardinal_numbers
+vehicles	_	Vehicle
+that	_	Degree
+can	_	Capability Containers Firing Likelihood Measure_volume Possibility Preserving
+detect	_	Becoming_aware Perception_experience
+radiation	_	
+or	_	
+biological	_	Weapon
+and	_	
+chemical	_	Substance Weapon
+hazards	_	
+while	_	Concessive Measure_duration Relative_time
+keeping	_	Activity_ongoing Cause_to_continue
+the	_	Self_motion Temporal_collocation
+soldiers	_	People_by_vocation
+safe	_	Being_at_risk Containers Risky_situation
+inside	_	Locative_relation Part_inner_outer
+.	_	
+
+Stryker	_	
+vehicles	_	Vehicle
+share	_	
+the	_	Self_motion Temporal_collocation
+same	_	Identicality
+chassis	_	
+but	_	Concessive
+there	_	Existence Locative_relation
+are	_	Existence
+nine	_	
+other	_	Increment
+variants	_	Similarity
+that	_	Degree
+fulfill	_	Experiencer_obj Meet_specifications
+different	_	Identicality Similarity
+missions	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+nuclear	_	Bearing_arms Nuclear_process Weapon
+,	_	
+biological	_	Weapon
+and	_	
+chemical	_	Substance Weapon
+reconnaissance	_	
+vehicle	_	Vehicle
+is	_	Existence
+the	_	Self_motion Temporal_collocation
+ninth	_	Ordinal_numbers
+variant	_	Similarity
+.	_	
+
+The	_	Self_motion Temporal_collocation
+eight	_	Cardinal_numbers
+-	_	
+wheeled	_	
+vehicles	_	Vehicle
+,	_	
+developed	_	Cause_to_make_progress Coming_to_be Progress Stage_of_progress
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+fill	_	Adorning Filling
+a	_	Measure_duration Process_end Quantity
+gap	_	Natural_features
+between	_	Locative_relation
+infantry	_	
+soldiers	_	People_by_vocation
+driving	_	Operate_vehicle
+Humvees	_	
+and	_	
+tanks	_	Vehicle
+,	_	
+is	_	Existence
+the	_	Self_motion Temporal_collocation
+Army	_	Aggregate Military
+'s	_	Existence Required_event
+next	_	Locative_relation Relative_time
+step	_	Cause_change_of_position_on_a_scale Connecting_architecture Intentionally_act Self_motion
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+becoming	_	Becoming
+a	_	Measure_duration Process_end Quantity
+future	_	Possibilities Temporal_collocation
+fighting	_	Hostile_encounter
+force	_	Being_in_effect Causation Cause_motion Execute_plan Military
+.	_	
+
+'	_	
+There	_	Existence Locative_relation
+'s	_	Existence Required_event
+a	_	Measure_duration Process_end Quantity
+lot	_	Destiny Quantity
+of	_	Age Domain Origin Partitive
+smart	_	Aesthetics Mental_property Perception_body Social_interaction_evaluation Speed
+sensors	_	
+that	_	Degree
+take	_	Bringing Capacity Conquering Create_physical_artwork Event Getting_vehicle_underway Have_as_requirement Ingest_substance Opinion Removing Ride_vehicle Self_motion Taking Taking_time
+away	_	
+the	_	Self_motion Temporal_collocation
+(	_	
+guesswork	_	
+)	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+soldiers	_	People_by_vocation
+,	_	
+'	_	
+said	_	Communication Statement
+Bruce	_	
+Baldwin	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+U.S.	_	
+Army	_	Aggregate Military
+Chemical	_	Substance Weapon
+School	_	Aggregate Education_teaching Locale_by_use
+'s	_	Existence Required_event
+lead	_	Causation Cotheme Criminal_investigation First_rank Leadership Performers_and_roles
+trainer	_	
+for	_	Causation Taking_sides
+new	_	Age Expertise Familiarity
+systems.	_	
+''	_	
+(	_	
+The	_	Self_motion Temporal_collocation
+Olympian	_	
+Online	_	
+,	_	
+20Apr06	_	
+,	_	
+Christian	_	People_by_religion
+Hill	_	Natural_features
+)	_	
+(	_	
+Link	_	Attaching Connectors Make_cognitive_connection Relating_concepts
+)	_	
+
+WMD	_	Weapon
+-	_	
+PREP	_	
+/	_	
+DEFENSE	_	Defend
+/	_	
+RESPONSE	_	Communication_response Response
+-	_	
+U.S./INDIA	_	
+
+India	_	
+and	_	
+US	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+advance	_	Change_event_time Change_position_on_a_scale Giving Progress Self_motion
+cooperation	_	Collaboration
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+deal	_	Be_in_agreement_on_action Make_agreement_on_action Resolve_problem
+with	_	Accompaniment
+terrorism	_	Terrorism
+
+``	_	
+India	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+US	_	
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+agreed	_	Agree_or_refuse_to_act Be_in_agreement_on_assessment Make_agreement_on_action
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+respond	_	Communication_response Response
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+counter	_	Architectural_part Communication_response Thwarting
+-	_	
+terrorism	_	Terrorism
+assistance	_	Assistance
+requests	_	Request
+expeditiously	_	
+and	_	
+collaborate	_	Collaboration
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+upgrade	_	
+preparedness	_	
+and	_	
+capability	_	Capability
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+deal	_	Be_in_agreement_on_action Make_agreement_on_action Resolve_problem
+with	_	Accompaniment
+terrorism	_	Terrorism
+.	_	
+
+This	_	
+was	_	Existence
+decided	_	Choosing Deciding
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+two	_	Cardinal_numbers
+-	_	
+day	_	Calendric_unit Measure_duration Timespan
+meeting	_	Discussion Social_event
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+India	_	
+-	_	
+US	_	
+Joint	_	Prison
+Working	_	Being_employed Being_operational Version_sequence Working_on
+Group	_	Aggregate Organization
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+Counterterrorim	_	
+,	_	
+which	_	
+ended	_	Cause_to_end Process_end
+today	_	Calendric_unit Temporal_collocation
+.	_	
+
+The	_	Self_motion Temporal_collocation
+two	_	Cardinal_numbers
+countries	_	Political_locales
+decided	_	Choosing Deciding
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+advance	_	Change_event_time Change_position_on_a_scale Giving Progress Self_motion
+cooperation	_	Collaboration
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+areas	_	Fields Locale
+of	_	Age Domain Origin Partitive
+bioterrorism	_	Terrorism
+,	_	
+aviation	_	
+security	_	Being_at_risk
+,	_	
+biometrics	_	
+,	_	
+cyber	_	
+-	_	
+security	_	Being_at_risk
+and	_	
+terrorism	_	Terrorism
+,	_	
+WMD	_	Weapon
+-	_	
+terrorism	_	Terrorism
+,	_	
+terrorist	_	Terrorism
+finance	_	
+and	_	
+money	_	Money
+laundering	_	
+and	_	
+violent	_	
+extremism	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+release	_	Releasing
+issued	_	Creating Emanating
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+Embassy	_	
+of	_	Age Domain Origin Partitive
+India	_	
+said	_	Communication Statement
+.	_	
+
+The	_	Self_motion Temporal_collocation
+U.S.	_	
+delegation	_	Organization
+was	_	Existence
+led	_	Causation Cotheme Leadership
+by	_	Locative_relation Means
+Ambassador	_	
+Henry	_	
+Crumpton	_	
+,	_	
+Coordinator	_	
+for	_	Causation Taking_sides
+Counterterrorism	_	
+,	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+State	_	Political_locales State_of_entity Statement
+Department	_	
+``	_	
+(	_	
+Outlook	_	
+India	_	
+,	_	
+21Apr06,	_	
+PTI	_	
+)	_	
+http://www.outlookindia.com/pti_print.asp	_	
+?	_	
+id=379468	_	
+
+WMD	_	Weapon
+-	_	
+THREAT	_	Commitment Risky_situation
+-	_	
+U.S.	_	
+
+New	_	Age Expertise Familiarity
+evidence	_	Evidence
+that	_	Degree
+Canadian	_	Origin
+trash	_	
+is	_	Existence
+a	_	Measure_duration Process_end Quantity
+security	_	Being_at_risk
+threat	_	Commitment Risky_situation
+
+``	_	
+Every	_	Frequency
+day	_	Calendric_unit Measure_duration Timespan
+,	_	
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+350	_	
+trucks	_	Vehicle
+carrying	_	Bringing Intentionally_act
+trash	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Canada	_	
+come	_	Arriving Becoming_aware Coming_up_with
+into	_	Goal Into
+Michigan	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+dump	_	Judgment_communication
+it	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+our	_	
+landfills	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+U.S.	_	
+Bureau	_	
+of	_	Age Domain Origin Partitive
+Customs	_	Custom
+and	_	
+Border	_	Boundary Locative_relation
+Protection	_	Protecting
+has	_	Have_associated Inclusion Possession
+no	_	Quantity
+effective	_	Being_in_effect Usefulness
+way	_	Means Possibilities Roadways Self_motion
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+screen	_	Eclipse
+or	_	
+inspect	_	Inspecting
+these	_	
+trash	_	
+trucks	_	Vehicle
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+they	_	
+enter	_	Activity_start Arriving Becoming_a_member Path_shape
+Michigan	_	
+,	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+potential	_	Capability
+consequences	_	
+of	_	Age Domain Origin Partitive
+this	_	
+security	_	Being_at_risk
+gap	_	Natural_features
+are	_	Existence
+immense	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Department	_	
+of	_	Age Domain Origin Partitive
+Homeland	_	Foreign_or_domestic_country
+Security	_	Being_at_risk
+(	_	
+DHS	_	
+)	_	
+recently	_	Temporal_collocation
+completed	_	Activity_finish
+a	_	Measure_duration Process_end Quantity
+study	_	Building_subparts Education_teaching Scrutiny Studying
+,	_	
+conducted	_	Intentionally_act
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+response	_	Communication_response Response
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+a	_	Measure_duration Process_end Quantity
+request	_	Request
+I	_	
+[	_	
+Carl	_	
+Levin	_	
+]	_	
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+with	_	Accompaniment
+Senator	_	
+Debbie	_	
+Stabenow	_	
+and	_	
+Rep	_	
+.	_	
+John	_	
+Dingell	_	
+that	_	Degree
+bluntly	_	
+acknowledges	_	
+the	_	Self_motion Temporal_collocation
+security	_	Being_at_risk
+risk	_	Being_at_risk Daring Risky_situation Run_risk
+these	_	
+trucks	_	Vehicle
+pose	_	Posing_as
+.	_	
+
+The	_	Self_motion Temporal_collocation
+DHS	_	
+report	_	Reporting Statement Text
+describes	_	Communicate_categorization Statement
+the	_	Self_motion Temporal_collocation
+three	_	Cardinal_numbers
+methods	_	Means
+currently	_	Temporal_collocation
+used	_	Using
+by	_	Locative_relation Means
+customs	_	Custom
+officials	_	Leadership
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+inspect	_	Inspecting
+the	_	Self_motion Temporal_collocation
+trucks	_	Vehicle
+:	_	
+a	_	Measure_duration Process_end Quantity
+Radiation	_	
+Portal	_	
+Monitor	_	Scrutiny
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+detect	_	Becoming_aware Perception_experience
+the	_	Self_motion Temporal_collocation
+presence	_	Presence
+of	_	Age Domain Origin Partitive
+radiation	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+Vehicle	_	Vehicle
+and	_	
+Cargo	_	Store
+Inspection	_	Inspecting
+System	_	Gizmo Set_of_interrelated_entities System
+screening	_	
+that	_	Degree
+creates	_	Creating
+an	_	Cause_to_end Process_end Quantity
+image	_	Exemplar Impression Optical_image Physical_artworks Sensation Similarity
+similar	_	Similarity
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+an	_	Cause_to_end Process_end Quantity
+X-ray	_	
+,	_	
+and	_	
+physical	_	
+inspections	_	Inspecting
+.	_	
+
+The	_	Self_motion Temporal_collocation
+screening	_	
+methods	_	Means
+are	_	Existence
+nearly	_	Relational_quantity
+useless	_	
+for	_	Causation Taking_sides
+screening	_	
+trash	_	
+,	_	
+however	_	Concessive
+,	_	
+due	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+density	_	
+and	_	
+lack	_	Possession
+of	_	Age Domain Origin Partitive
+uniform	_	Clothing Diversity
+content	_	
+of	_	Age Domain Origin Partitive
+trash	_	
+shipments	_	Sending Sent_items
+.	_	
+
+The	_	Self_motion Temporal_collocation
+X-ray	_	
+image	_	Exemplar Impression Optical_image Physical_artworks Sensation Similarity
+produced	_	Creating Intentionally_create Manufacturing
+is	_	Existence
+nothing	_	
+more	_	Increment
+than	_	Time_vector
+a	_	Measure_duration Process_end Quantity
+large	_	Dimension Size
+amorphous	_	
+black	_	Color Race_descriptor
+mass.	_	
+I	_	
+fear	_	Experiencer_focus Fear
+that	_	Degree
+for	_	Causation Taking_sides
+every	_	Frequency
+trash	_	
+truck	_	Bringing Vehicle
+caught	_	
+carrying	_	Bringing Intentionally_act
+contraband	_	Smuggling
+into	_	Goal Into
+Michigan	_	
+,	_	
+many	_	Quantity
+more	_	Increment
+get	_	Arriving Becoming Birth Board_vehicle Bringing Disembarking Getting Grasp
+through	_	Activity_done_state Time_vector Used_up
+undetected	_	
+with	_	Accompaniment
+drugs	_	Intoxicants
+,	_	
+medical	_	
+waste	_	Frugality
+or	_	
+other	_	Increment
+illegal	_	Legality
+material	_	Ingredients Substance Text
+.	_	
+
+Ignoring	_	
+the	_	Self_motion Temporal_collocation
+possibility	_	Likelihood Possibilities
+that	_	Degree
+these	_	
+trucks	_	Vehicle
+could	_	Capability Possibility
+be	_	Existence Performers_and_roles
+used	_	Using
+by	_	Locative_relation Means
+terrorists	_	Terrorism
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+transport	_	Bringing
+biological	_	Weapon
+or	_	
+chemical	_	Substance Weapon
+weapons	_	Weapon
+is	_	Existence
+irresponsible	_	
+.	_	
+
+It	_	
+is	_	Existence
+now	_	Temporal_collocation
+unequivocally	_	
+clear	_	Emptying Grant_permission Obviousness Removing Verdict
+that	_	Degree
+these	_	
+trash	_	
+shipments	_	Sending Sent_items
+are	_	Existence
+a	_	Measure_duration Process_end Quantity
+weak	_	Exertive_force
+link	_	Attaching Connectors Make_cognitive_connection Relating_concepts
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+our	_	
+security.	_	
+''	_	
+(	_	
+hometownlife.com	_	
+;	_	
+19Apr06	_	
+;	_	
+Carl	_	
+Levin	_	
+,	_	
+U.S.	_	
+Senator	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Michigan	_	
+)	_	
+(	_	
+Link	_	Attaching Connectors Make_cognitive_connection Relating_concepts
+)	_	
+

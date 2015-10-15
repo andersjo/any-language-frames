@@ -1,0 +1,14 @@
+1	Или	_	CONJ	CONJ	_	3	cc
+2	просто	_	ADV	ADV	_	3	advmod
+3	наберите	_	VERB	VERB	_	0	root
+4	в	_	ADP	ADP	_	5	case
+5	Appstore	_	PROPN	PROPN	_	3	iobj
+6	или	_	CONJ	CONJ	_	5	cc
+7	Google	_	PROPN	PROPN	_	5	conj
+8	play	_	PROPN	PROPN	_	7	name
+9	–	_	PROPN	PROPN	_	7	name
+10	life	_	PROPN	PROPN	_	7	name
+11	in	_	PROPN	PROPN	_	10	nmod
+12	turkey	_	PROPN	PROPN	_	11	nmod
+13	.	_	PUNCT	PUNCT	_	3	punct
+

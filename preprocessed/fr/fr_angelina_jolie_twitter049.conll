@@ -1,0 +1,18 @@
+1	Shiloh	_	PROPN	PROPN	_	13	nsubj
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	la	_	DET	DET	_	4	det
+4	fille	_	NOUN	NOUN	_	1	appos
+5	de	_	ADP	ADP	_	7	case
+6	Brad	_	PROPN	PROPN	_	7	name
+7	Pitt	_	PROPN	PROPN	_	4	nmod
+8	et	_	CONJ	CONJ	_	7	cc
+9	Angelina	_	PROPN	PROPN	_	10	name
+10	Jolie	_	PROPN	PROPN	_	7	conj
+11	,	_	PUNCT	PUNCT	_	13	punct
+12	veut	_	AUX	AUX	_	13	aux
+13	qu'on	_	VERB	VERB	_	0	root
+14	l'appelle	_	PROPN	PROPN	_	15	name
+15	John	_	PROPN	PROPN	_	13	nsubj
+16	!	_	PUNCT	PUNCT	_	15	punct
+17	https://t.co/wQaHUZGgH9	_	X	X	_	15	appos
+

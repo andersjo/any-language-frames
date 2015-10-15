@@ -1,0 +1,16 @@
+1	Другите	_	ADJ	ADJ	_	3	amod
+2	им	_	PRON	PRON	_	1	case
+3	деца	_	NOUN	NOUN	_	5	nsubjpass
+4	са	_	AUX	AUX	_	5	aux
+5	осиновени	_	VERB	VERB	_	8	advcl
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	всички	_	PRON	PRON	_	8	nsubj
+8	носят	_	VERB	VERB	_	0	root
+9	фамилията	_	NOUN	NOUN	_	8	dobj
+10	Джоли-Пит	_	PROPN	PROPN	_	9	nmod
+11	:	_	PUNCT	PUNCT	_	12	punct
+12	Мадокс	_	PROPN	PROPN	_	9	nmod
+13	Чиван	_	PROPN	PROPN	_	12	name
+14	(род	_	PROPN	PROPN	_	12	name
+15	.	_	PUNCT	PUNCT	_	8	punct
+

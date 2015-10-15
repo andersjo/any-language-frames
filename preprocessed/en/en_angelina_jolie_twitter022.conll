@@ -1,0 +1,7 @@
+1	Forever	_	ADV	ADV	_	2	advmod
+2	wishing	_	VERB	VERB	_	0	root
+3	for	_	ADP	ADP	_	2	compound:prt
+4	Angelina	_	PROPN	PROPN	_	5	compound
+5	Jolie	_	PROPN	PROPN	_	6	nsubj
+6	lips	_	VERB	VERB	_	2	advcl
+

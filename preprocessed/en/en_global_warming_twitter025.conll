@@ -1,0 +1,24 @@
+1	"	_	PUNCT	PUNCT	_	4	punct
+2	Do	_	AUX	AUX	_	4	aux
+3	you	_	PRON	PRON	_	4	nsubj
+4	believe	_	VERB	VERB	_	0	root
+5	in	_	ADP	ADP	_	4	compound:prt
+6	Global	_	ADJ	ADJ	_	0	punct
+7	Warming	_	NOUN	NOUN	_	4	dobj
+8	?	_	PUNCT	PUNCT	_	4	punct
+9	Yet	_	CONJ	CONJ	_	4	cc
+10	you're	_	PRON	PRON	_	14	nmod:poss
+11	cold	_	ADJ	ADJ	_	0	punct
+12	"	_	PUNCT	PUNCT	_	4	punct
+13	..	_	PUNCT	PUNCT	_	7	punct
+14	face	_	NOUN	NOUN	_	15	nsubj
+15	meet	_	VERB	VERB	_	16	amod
+16	palm	_	NOUN	NOUN	_	7	conj
+17	,	_	PUNCT	PUNCT	_	14	punct
+18	Donald	_	PROPN	PROPN	_	19	compound
+19	Trump	_	NOUN	NOUN	_	15	dobj
+20	that	_	DET	DET	_	23	nsubj
+21	was	_	VERB	VERB	_	23	cop
+22	idiotic	_	ADJ	ADJ	_	0	foreign
+23	#CelebrityApprentice	_	NOUN	NOUN	_	19	acl:relcl
+

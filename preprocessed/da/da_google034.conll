@@ -1,0 +1,16 @@
+1	sagsøgt	_	VERB	VERB	_	0	root
+2	Google	_	NOUN	NOUN	_	1	dobj
+3	for	_	ADP	ADP	_	1	dep
+4	at	_	PART	PART	_	3	dep
+5	have	_	VERB	VERB	_	4	dep
+6	misbrugt	_	NOUN	NOUN	_	5	dobj
+7	en	_	DET	DET	_	10	det
+8	af	_	ADP	ADP	_	10	case
+9	deres	_	DET	DET	_	10	det
+10	ideer	_	NOUN	NOUN	_	5	nmod
+11	(	_	PUNCT	PUNCT	_	12	punct
+12	Googles	_	PROPN	PROPN	_	10	dep
+13	AdSense	_	PROPN	PROPN	_	12	name
+14	vs	_	PROPN	PROPN	_	12	name
+15	.	_	PUNCT	PUNCT	_	1	punct
+

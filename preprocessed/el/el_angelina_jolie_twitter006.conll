@@ -1,0 +1,24 @@
+1	Angelina	_	NOUN	NOUN	_	0	root
+2	Jolie	_	NOUN	NOUN	_	1	nmod
+3	:	_	PUNCT	PUNCT	_	1	punct
+4	Η	_	ADJ	ADJ	_	6	det
+5	πρώτη	_	NUM	NUM	_	6	nummod
+6	συνέντευξη	_	NOUN	NOUN	_	1	nmod
+7	μετά	_	ADP	ADP	_	9	case
+8	την	_	ADJ	ADJ	_	9	det
+9	ανεμοβλογιά	_	NOUN	NOUN	_	6	nmod
+10	!	_	PUNCT	PUNCT	_	12	punct
+11	Τι	_	PRON	PRON	_	12	nsubj
+12	είπε	_	VERB	VERB	_	6	acl:relcl
+13	για	_	ADP	ADP	_	15	case
+14	την	_	ADJ	ADJ	_	15	det
+15	κόρη	_	NOUN	NOUN	_	12	nmod
+16	της	_	ADJ	ADJ	_	18	det
+17	που	_	PRON	PRON	_	18	nmod
+18	φοράει	_	NOUN	NOUN	_	15	nmod
+19	αντρικά	_	ADJ	ADJ	_	20	amod
+20	ρούχα	_	NOUN	NOUN	_	18	nmod
+21	!	_	PUNCT	PUNCT	_	12	punct
+22	Βίντεο	_	NOUN	NOUN	_	23	nmod
+23	http://t.co/fJRuT49ycH	_	NOUN	NOUN	_	15	nmod
+

@@ -1,0 +1,26 @@
+1	Θεσμοθετήθηκε	_	NOUN	NOUN	_	0	root
+2	το	_	ADJ	ADJ	_	3	det
+3	1977	_	NUM	NUM	_	13	nsubj
+4	από	_	ADP	ADP	_	6	case
+5	τον	_	ADJ	ADJ	_	6	det
+6	ΟΗΕ	_	PUNCT	PUNCT	_	1	amod
+7	,	_	PUNCT	PUNCT	_	10	punct
+8	ο	_	ADJ	ADJ	_	9	det
+9	οποίος	_	PRON	PRON	_	10	nsubj
+10	κάλεσε	_	VERB	VERB	_	1	acl:relcl
+11	όλες	_	ADJ	ADJ	_	13	amod
+12	τις	_	ADJ	ADJ	_	13	det
+13	χώρες	_	NOUN	NOUN	_	10	dobj
+14	του	_	ADJ	ADJ	_	15	det
+15	κόσμου	_	NOUN	NOUN	_	13	nmod
+16	να	_	PART	PART	_	17	aux
+17	γιορτάσουν	_	VERB	VERB	_	15	acl
+18	την	_	ADJ	ADJ	_	19	det
+19	ημέρα	_	NOUN	NOUN	_	17	dobj
+20	για	_	ADP	ADP	_	22	case
+21	τα	_	ADJ	ADJ	_	22	det
+22	δικαιώματα	_	NOUN	NOUN	_	19	nmod
+23	των	_	ADJ	ADJ	_	24	det
+24	γυναικών	_	NOUN	NOUN	_	22	nmod
+25	.	_	PUNCT	PUNCT	_	10	punct
+

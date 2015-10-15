@@ -1,0 +1,7 @@
+1	un	_	PROPN	PROPN	_	0	root
+2	projet	_	NOUN	NOUN	_	1	nmod
+3	план	_	NOUN	NOUN	_	2	nmod
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	проект	_	NOUN	NOUN	_	3	conj
+6	http://t.co/qj3PshiBdB	_	PROPN	PROPN	_	5	nmod
+

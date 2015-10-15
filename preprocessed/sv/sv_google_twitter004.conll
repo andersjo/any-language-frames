@@ -1,0 +1,27 @@
+1	Snälla	_	NOUN	NOUN	_	4	nsubj
+2	kan	_	AUX	AUX	_	6	aux
+3	inte	_	ADV	ADV	_	6	neg
+4	alla	_	PRON	PRON	_	6	nsubj
+5	bara	_	ADV	ADV	_	6	advmod
+6	söka	_	VERB	VERB	_	0	root
+7	upp	_	ADV	ADV	_	6	compound:prt
+8	ordet	_	NOUN	NOUN	_	9	nmod:poss
+9	hora	_	NOUN	NOUN	_	6	dobj
+10	på	_	ADP	ADP	_	11	case
+11	Google	_	PROPN	PROPN	_	9	nmod
+12	och	_	CONJ	CONJ	_	6	cc
+13	lära	_	VERB	VERB	_	6	conj
+14	sig	_	PRON	PRON	_	13	iobj
+15	den	_	PRON	PRON	_	16	nsubj
+16	simpla	_	VERB	VERB	_	13	xcomp
+17	innebörden	_	NOUN	NOUN	_	16	dobj
+18	istället	_	ADV	ADV	_	16	advmod
+19	för	_	ADP	ADP	_	21	case
+20	att	_	PART	PART	_	21	mark
+21	använda	_	VERB	VERB	_	16	advcl
+22	de	_	PRON	PRON	_	21	dobj
+23	hur	_	ADV	ADV	_	26	advmod
+24	som	_	PRON	PRON	_	26	nsubj
+25	helst	_	ADV	ADV	_	26	advmod
+26	?!?!	_	VERB	VERB	_	13	xcomp
+

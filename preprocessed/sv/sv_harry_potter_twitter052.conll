@@ -1,0 +1,16 @@
+1	Nu	_	ADV	ADV	_	8	advmod
+2	ska	_	AUX	AUX	_	8	aux
+3	jag	_	PRON	PRON	_	5	nsubj
+4	en	_	DET	DET	_	5	det
+5	gång	_	NOUN	NOUN	_	8	nmod
+6	för	_	ADP	ADP	_	7	case
+7	alla	_	PRON	PRON	_	5	nmod
+8	ge	_	VERB	VERB	_	0	root
+9	Harry	_	PROPN	PROPN	_	10	nmod:poss
+10	Potter	_	NOUN	NOUN	_	11	nmod:poss
+11	filmerna	_	NOUN	NOUN	_	8	dobj
+12	en	_	DET	DET	_	13	det
+13	chans	_	NOUN	NOUN	_	8	dobj
+14	.	_	PUNCT	PUNCT	_	5	punct
+15	󾌯󾌴	_	NOUN	NOUN	_	13	conj
+

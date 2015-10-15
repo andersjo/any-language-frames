@@ -1,0 +1,19 @@
+1	Å	_	ADP	ADP	_	3	case
+2	andra	_	ADJ	ADJ	_	3	det
+3	sidan	_	NOUN	NOUN	_	4	nmod
+4	menar	_	VERB	VERB	_	0	root
+5	en	_	DET	DET	_	6	det
+6	del	_	NOUN	NOUN	_	7	det
+7	kritiker	_	NOUN	NOUN	_	4	dobj
+8	att	_	PART	PART	_	9	mark
+9	Rowlings	_	VERB	VERB	_	7	acl
+10	prosa-stil	_	NOUN	NOUN	_	9	dobj
+11	ibland	_	ADV	ADV	_	9	advmod
+12	är	_	AUX	AUX	_	13	cop
+13	platt	_	ADV	ADV	_	9	advmod
+14	och	_	CONJ	CONJ	_	13	cc
+15	resten	_	NOUN	NOUN	_	13	conj
+16	ännu	_	ADV	ADV	_	17	advmod
+17	sämre	_	ADV	ADV	_	13	conj
+18	.	_	PUNCT	PUNCT	_	4	punct
+

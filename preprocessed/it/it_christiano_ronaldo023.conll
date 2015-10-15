@@ -1,0 +1,8 @@
+1	Inoltre	_	ADV	ADV	_	2	advmod
+2	è	_	VERB	VERB	_	4	cop
+3	il	_	DET	DET	_	4	det
+4	testimonial	_	NOUN	NOUN	_	0	root
+5	della	_	ADP	ADP	_	6	case
+6	Clear	_	PROPN	PROPN	_	4	nmod
+7	.	_	PUNCT	PUNCT	_	2	punct
+

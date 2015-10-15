@@ -1,0 +1,27 @@
+1	Im	_	ADP	ADP	_	3	case
+2	vierten	_	ADJ	ADJ	_	3	amod
+3	Band	_	NOUN	NOUN	_	8	nmod
+4	muss	_	AUX	AUX	_	8	aux
+5	Harry	_	PROPN	PROPN	_	8	nsubj
+6	machtlos	_	ADJ	ADJ	_	8	advmod
+7	mit	_	ADP	ADP	_	8	mark
+8	ansehen	_	VERB	VERB	_	0	root
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	wie	_	ADP	ADP	_	11	case
+11	Voldemort	_	NOUN	NOUN	_	15	nmod
+12	einen	_	DET	DET	_	14	det
+13	neuen	_	ADJ	ADJ	_	14	amod
+14	Körper	_	NOUN	NOUN	_	15	nmod
+15	erhält	_	VERB	VERB	_	8	conj
+16	und	_	CONJ	CONJ	_	15	cc
+17	beginnt	_	VERB	VERB	_	15	conj
+18	,	_	PUNCT	PUNCT	_	15	punct
+19	seine	_	DET	DET	_	20	nmod:poss
+20	Gefolgsleute	_	NOUN	NOUN	_	25	dobj
+21	wieder	_	ADV	ADV	_	25	advmod
+22	um	_	ADP	ADP	_	25	mark
+23	sich	_	PRON	PRON	_	25	dobj
+24	zu	_	PART	PART	_	25	aux
+25	versammeln	_	VERB	VERB	_	17	xcomp
+26	.	_	PUNCT	PUNCT	_	15	punct
+

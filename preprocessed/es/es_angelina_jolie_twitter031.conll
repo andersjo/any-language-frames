@@ -1,0 +1,26 @@
+1	Declaro	_	PROPN	PROPN	_	0	root
+2	a	_	ADP	ADP	_	4	case
+3	Angelina	_	PROPN	PROPN	_	4	name
+4	Jolie	_	PROPN	PROPN	_	1	dobj
+5	como	_	ADP	ADP	_	6	case
+6	reina	_	NOUN	NOUN	_	4	nmod
+7	de	_	ADP	ADP	_	9	case
+8	la	_	DET	DET	_	9	det
+9	belleza	_	NOUN	NOUN	_	6	nmod
+10	en	_	ADP	ADP	_	11	case
+11	todo	_	PRON	PRON	_	13	nmod
+12	el	_	DET	DET	_	13	det
+13	universo	_	NOUN	NOUN	_	6	conj
+14	,	_	PUNCT	PUNCT	_	23	punct
+15	más	_	ADV	ADV	_	16	mwe
+16	que	_	SCONJ	SCONJ	_	23	mark
+17	nada	_	PRON	PRON	_	23	nsubj
+18	en	_	ADP	ADP	_	20	case
+19	la	_	DET	DET	_	20	det
+20	película	_	NOUN	NOUN	_	17	nmod
+21	"	_	PUNCT	PUNCT	_	6	punct
+22	Se	_	PRON	PRON	_	23	iobj
+23	busca	_	VERB	VERB	_	9	acl:relcl
+24	"	_	PUNCT	PUNCT	_	23	punct
+25	.	_	PUNCT	PUNCT	_	6	punct
+

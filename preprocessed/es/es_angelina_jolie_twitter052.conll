@@ -1,0 +1,17 @@
+1	"	_	PUNCT	PUNCT	_	10	punct
+2	Tu	_	DET	DET	_	6	nmod:poss
+3	no	_	ADV	ADV	_	4	neg
+4	eres	_	PROPN	PROPN	_	6	name
+5	Angelina	_	PROPN	PROPN	_	6	name
+6	Jolie	_	PROPN	PROPN	_	10	dobj
+7	,	_	PUNCT	PUNCT	_	10	punct
+8	te	_	PRON	PRON	_	10	iobj
+9	la	_	PRON	PRON	_	10	dobj
+10	comiste	_	VERB	VERB	_	0	root
+11	,	_	PUNCT	PUNCT	_	12	punct
+12	PINCHE	_	NOUN	NOUN	_	10	nsubj
+13	gorda	_	ADJ	ADJ	_	12	amod
+14	"	_	PUNCT	PUNCT	_	12	punct
+15	-	_	PUNCT	PUNCT	_	6	punct
+16	@cidvela	_	PROPN	PROPN	_	12	appos
+

@@ -1,0 +1,17 @@
+1	Per	_	ADP	ADP	_	2	mark
+2	aderire	_	VERB	VERB	_	13	advcl
+3	al	_	ADP	ADP	_	4	case
+4	Festival	_	PROPN	PROPN	_	2	nmod
+5	della	_	ADP	ADP	_	6	case
+6	Città	_	NOUN	NOUN	_	2	nmod
+7	Educativa	_	ADJ	ADJ	_	6	amod
+8	#palermoeducativa	_	ADJ	ADJ	_	9	amod
+9	enti	_	NOUN	NOUN	_	13	nsubj
+10	e	_	CONJ	CONJ	_	9	cc
+11	associazioni	_	NOUN	NOUN	_	9	conj
+12	possono	_	AUX	AUX	_	13	aux
+13	compilare	_	VERB	VERB	_	0	root
+14	il	_	DET	DET	_	15	det
+15	modulo	_	NOUN	NOUN	_	13	dobj
+16	https://t.co/GFB9eesDiv	_	NOUN	NOUN	_	15	compound
+

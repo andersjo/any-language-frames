@@ -1,0 +1,14 @@
+1	Il	_	PRON	PRON	_	3	nsubj
+2	lui	_	PRON	PRON	_	3	iobj
+3	demanda	_	VERB	VERB	_	0	root
+4	d'aller	_	NOUN	NOUN	_	3	dobj
+5	enregistrer	_	VERB	VERB	_	4	acl
+6	le	_	DET	DET	_	7	det
+7	nom	_	NOUN	NOUN	_	5	dobj
+8	de	_	ADP	ADP	_	9	case
+9	domaine	_	NOUN	NOUN	_	7	nmod
+10	«	_	PUNCT	PUNCT	_	11	punct
+11	googol	_	PROPN	PROPN	_	7	appos
+12	»	_	PUNCT	PUNCT	_	11	punct
+13	.	_	PUNCT	PUNCT	_	3	punct
+

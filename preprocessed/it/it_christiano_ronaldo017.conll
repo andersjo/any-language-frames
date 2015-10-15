@@ -1,0 +1,27 @@
+1	Nel	_	ADP	ADP	_	2	case
+2	luglio	_	NOUN	NOUN	_	9	nmod
+3	2010	_	NUM	NUM	_	2	nummod
+4	annuncia	_	VERB	VERB	_	2	acl
+5	su	_	ADP	ADP	_	6	case
+6	Facebook	_	PROPN	PROPN	_	4	nmod
+7	di	_	ADP	ADP	_	9	mark
+8	essere	_	AUX	AUX	_	9	aux
+9	diventato	_	VERB	VERB	_	0	root
+10	padre	_	NOUN	NOUN	_	9	xcomp
+11	,	_	PUNCT	PUNCT	_	9	punct
+12	affermando	_	VERB	VERB	_	9	advcl
+13	che	_	SCONJ	SCONJ	_	15	mark
+14	si	_	PRON	PRON	_	15	expl
+15	prenderà	_	VERB	VERB	_	12	ccomp
+16	la	_	DET	DET	_	17	det
+17	custodia	_	NOUN	NOUN	_	15	dobj
+18	del	_	ADP	ADP	_	19	case
+19	bambino	_	NOUN	NOUN	_	17	nmod
+20	e	_	CONJ	CONJ	_	15	cc
+21	che	_	SCONJ	SCONJ	_	25	mark
+22	la	_	DET	DET	_	23	det
+23	madre	_	NOUN	NOUN	_	24	nsubj
+24	resterà	_	VERB	VERB	_	15	advcl
+25	anonima	_	ADJ	ADJ	_	24	xcomp
+26	.	_	PUNCT	PUNCT	_	9	punct
+

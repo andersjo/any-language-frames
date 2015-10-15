@@ -1,0 +1,19 @@
+1	На	_	ADP	ADP	_	3	case
+2	15	_	NUM	NUM	_	3	nummod
+3	август	_	NOUN	NOUN	_	8	nmod
+4	2011	_	NUM	NUM	_	5	nummod
+5	г	_	NOUN	NOUN	_	3	nmod
+6	.	_	PUNCT	PUNCT	_	7	punct
+7	Гугъл	_	PROPN	PROPN	_	8	nsubj
+8	обявява	_	VERB	VERB	_	0	root
+9	,	_	PUNCT	PUNCT	_	11	punct
+10	че	_	SCONJ	SCONJ	_	11	mark
+11	планира	_	VERB	VERB	_	8	ccomp
+12	да	_	PART	PART	_	13	aux
+13	закупи	_	VERB	VERB	_	11	ccomp
+14	компанията	_	NOUN	NOUN	_	13	dobj
+15	Motorola	_	PROPN	PROPN	_	14	nmod
+16	Mobility	_	PROPN	PROPN	_	15	name
+17	(вж	_	PROPN	PROPN	_	15	name
+18	.	_	PUNCT	PUNCT	_	8	punct
+

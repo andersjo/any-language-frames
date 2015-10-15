@@ -1,0 +1,7 @@
+1	un	_	PROPN	PROPN	_	3	nsubj
+2	slip	_	PROPN	PROPN	_	1	nmod
+3	плавки	_	VERB	VERB	_	5	ccomp
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	трусики	_	VERB	VERB	_	0	root
+6	http://t.co/q6wiKrEeDa	_	PROPN	PROPN	_	5	nsubj
+

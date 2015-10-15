@@ -1,0 +1,22 @@
+1	Set	_	PROPN	PROPN	_	2	name
+2	de	_	PROPN	PROPN	_	3	nsubj
+3	fotos	_	NOUN	NOUN	_	0	root
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	biasexualpotterhead	_	PROPN	PROPN	_	3	appos
+6	:	_	PUNCT	PUNCT	_	5	punct
+7	Helena	_	PROPN	PROPN	_	5	appos
+8	Bonham	_	PROPN	PROPN	_	9	name
+9	Carter	_	PROPN	PROPN	_	10	name
+10	as	_	PROPN	PROPN	_	7	nmod
+11	Harry	_	PROPN	PROPN	_	14	name
+12	Potter’s	_	PROPN	PROPN	_	14	name
+13	Bellatrix	_	PROPN	PROPN	_	14	name
+14	Lestrange	_	PROPN	PROPN	_	10	nmod
+15	(	_	PUNCT	PUNCT	_	16	punct
+16	left	_	NOUN	NOUN	_	14	appos
+17	)	_	PUNCT	PUNCT	_	16	punct
+18	and	_	PROPN	PROPN	_	14	cc
+19	as	_	PROPN	PROPN	_	18	amod
+20	...	_	PUNCT	PUNCT	_	19	punct
+21	http://t.co/iv4yjhxDmS	_	PROPN	PROPN	_	19	appos
+

@@ -1,0 +1,13 @@
+1	Поредното	_	ADJ	ADJ	_	2	amod
+2	изказване	_	NOUN	NOUN	_	10	nsubj
+3	на	_	ADP	ADP	_	4	case
+4	Драги	_	PROPN	PROPN	_	2	nmod
+5	,	_	PUNCT	PUNCT	_	10	punct
+6	след	_	ADP	ADP	_	7	case
+7	което	_	PRON	PRON	_	10	nmod
+8	еврото	_	NOUN	NOUN	_	10	nsubj
+9	се	_	PRON	PRON	_	10	expl
+10	срива	_	VERB	VERB	_	0	root
+11	.	_	PUNCT	PUNCT	_	10	punct
+12	https://t.co/8whaWMWljA	_	PROPN	PROPN	_	10	nsubj
+

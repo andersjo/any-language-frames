@@ -1,0 +1,9 @@
+1	Petite	_	ADJ	ADJ	_	2	amod
+2	clopasse	_	NOUN	NOUN	_	0	root
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	Harry	_	PROPN	PROPN	_	5	name
+5	Potter	_	PROPN	PROPN	_	2	appos
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	dodo	_	NOUN	NOUN	_	5	appos
+8	.	_	PUNCT	PUNCT	_	5	punct
+

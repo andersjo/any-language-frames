@@ -1,0 +1,26 @@
+1	Numera	_	ADV	ADV	_	2	advmod
+2	omgärdas	_	VERB	VERB	_	0	root
+3	förlagen	_	NOUN	NOUN	_	2	nsubj
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	tryckerierna	_	NOUN	NOUN	_	2	nsubj
+6	och	_	CONJ	CONJ	_	5	cc
+7	författaren	_	NOUN	NOUN	_	5	conj
+8	av	_	ADP	ADP	_	10	case
+9	stora	_	ADJ	ADJ	_	10	amod
+10	säkerhetspådrag	_	NOUN	NOUN	_	7	nmod
+11	för	_	ADP	ADP	_	13	case
+12	att	_	PART	PART	_	13	mark
+13	förhindra	_	VERB	VERB	_	2	advcl
+14	att	_	SCONJ	SCONJ	_	21	mark
+15	hemligheterna	_	NOUN	NOUN	_	21	nsubj
+16	om	_	ADP	ADP	_	19	case
+17	ens	_	DET	DET	_	18	nmod:poss
+18	böckernas	_	NOUN	NOUN	_	19	nmod:poss
+19	titlar	_	NOUN	NOUN	_	21	nsubj
+20	ska	_	AUX	AUX	_	21	aux
+21	komma	_	VERB	VERB	_	13	ccomp
+22	ut	_	ADV	ADV	_	21	compound:prt
+23	i	_	ADP	ADP	_	24	case
+24	förväg	_	NOUN	NOUN	_	21	nmod
+25	.	_	PUNCT	PUNCT	_	2	punct
+

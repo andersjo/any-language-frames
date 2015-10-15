@@ -1,0 +1,13 @@
+1	At	_	ADP	ADP	_	2	compound
+2	age	_	NOUN	NOUN	_	6	nmod
+3	14	_	NUM	NUM	_	2	nummod
+4	,	_	PUNCT	PUNCT	_	6	punct
+5	Jolie	_	PROPN	PROPN	_	6	nsubj
+6	dropped	_	VERB	VERB	_	0	root
+7	out	_	ADV	ADV	_	6	advmod
+8	of	_	ADP	ADP	_	6	compound:prt
+9	her	_	PRON	PRON	_	11	nmod:poss
+10	acting	_	VERB	VERB	_	6	advcl
+11	classes	_	NOUN	NOUN	_	10	dobj
+12	.	_	PUNCT	PUNCT	_	6	punct
+

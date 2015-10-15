@@ -1,0 +1,11 @@
+1	@holdniavll	_	PROPN	PROPN	_	3	nmod:poss
+2	Harry	_	PROPN	PROPN	_	1	name
+3	Potter	_	NOUN	NOUN	_	9	nsubj
+4	e	_	X	X	_	5	dep
+5	hungher	_	NOUN	NOUN	_	7	nmod:poss
+6	games	_	ADJ	ADJ	_	7	amod
+7	♥	_	NOUN	NOUN	_	9	dep
+8	per	_	ADV	ADV	_	9	advmod
+9	ora	_	ADJ	ADJ	_	0	root
+10	...	_	PUNCT	PUNCT	_	9	punct
+

@@ -1,0 +1,21 @@
+1	Η	_	ADJ	ADJ	_	2	det
+2	Angelina	_	NOUN	NOUN	_	4	nsubj
+3	Jolie	_	NOUN	NOUN	_	2	nmod
+4	μιλά	_	VERB	VERB	_	0	root
+5	για	_	ADP	ADP	_	8	case
+6	την	_	ADJ	ADJ	_	7	det
+7	ανεμοβλογιά	_	NOUN	NOUN	_	4	nmod
+8	και	_	CONJ	CONJ	_	7	cc
+9	τις	_	ADJ	ADJ	_	10	det
+10	ενδυματολογικές	_	NOUN	NOUN	_	7	conj
+11	επιλογές	_	NOUN	NOUN	_	10	nmod
+12	της	_	ADJ	ADJ	_	13	det
+13	κόρης	_	NOUN	NOUN	_	11	nmod
+14	της	_	PRON	PRON	_	13	nmod
+15	,	_	PUNCT	PUNCT	_	16	punct
+16	Shiloh	_	NOUN	NOUN	_	13	nmod
+17	(	_	PUNCT	PUNCT	_	18	punct
+18	video	_	NOUN	NOUN	_	16	nmod
+19	)	_	PUNCT	PUNCT	_	18	punct
+20	http://t.co/N7emnPWn1X	_	NOUN	NOUN	_	18	nmod
+

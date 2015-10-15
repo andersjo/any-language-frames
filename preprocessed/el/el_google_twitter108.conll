@@ -1,0 +1,24 @@
+1	News	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Ανοιχτή	_	ADJ	ADJ	_	4	amod
+4	προπόνηση	_	NOUN	NOUN	_	1	conj
+5	,	_	PUNCT	PUNCT	_	1	punct
+6	Τρίτη	_	NUM	NUM	_	5	remnant
+7	στις	_	ADP	ADP	_	8	case
+8	12	_	NUM	NUM	_	6	nmod
+9	το	_	ADJ	ADJ	_	10	det
+10	μεσημέρι	_	NOUN	NOUN	_	8	nmod
+11	...	_	NOUN	NOUN	_	10	nmod
+12	Ανοιχτή	_	ADJ	ADJ	_	13	amod
+13	προπόνηση	_	NOUN	NOUN	_	11	nmod
+14	,	_	PUNCT	PUNCT	_	1	punct
+15	Τρίτη	_	NUM	NUM	_	14	remnant
+16	στις	_	ADP	ADP	_	17	case
+17	12	_	NUM	NUM	_	15	nmod
+18	το	_	ADJ	ADJ	_	19	det
+19	μεσημέρι	_	NOUN	NOUN	_	17	nmod
+20	...	_	NOUN	NOUN	_	19	nmod
+21	Γήπεδο	_	ADJ	ADJ	_	22	amod
+22	...	_	NOUN	NOUN	_	20	nmod
+23	http://t.co/WTBkRR2LsT	_	NOUN	NOUN	_	22	nmod
+

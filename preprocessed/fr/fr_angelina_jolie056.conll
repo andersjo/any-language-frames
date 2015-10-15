@@ -1,0 +1,19 @@
+1	La	_	DET	DET	_	3	det
+2	même	_	ADJ	ADJ	_	3	amod
+3	année	_	NOUN	NOUN	_	7	nmod
+4	,	_	PUNCT	PUNCT	_	7	punct
+5	elle	_	PRON	PRON	_	7	nsubj
+6	est	_	AUX	AUX	_	7	aux
+7	présente	_	VERB	VERB	_	0	root
+8	dans	_	ADP	ADP	_	10	case
+9	le	_	DET	DET	_	10	det
+10	clip	_	NOUN	NOUN	_	7	nmod
+11	vidéo	_	ADJ	ADJ	_	10	amod
+12	du	_	ADP	ADP	_	13	case
+13	single	_	NOUN	NOUN	_	10	nmod
+14	,	_	PUNCT	PUNCT	_	7	punct
+15	des	_	ADP	ADP	_	17	case
+16	Rolling	_	PROPN	PROPN	_	17	name
+17	Stones	_	PROPN	PROPN	_	10	nmod
+18	.	_	PUNCT	PUNCT	_	7	punct
+

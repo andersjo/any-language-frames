@@ -1,0 +1,10 @@
+1	@lyndananana	_	VERB	VERB	_	0	root
+2	Luis	_	PROPN	PROPN	_	1	nsubj
+3	Figo	_	PROPN	PROPN	_	2	name
+4	,	_	PUNCT	PUNCT	_	2	punct
+5	Christiano	_	PROPN	PROPN	_	2	conj
+6	Ronaldo	_	PROPN	PROPN	_	5	name
+7	,	_	PUNCT	PUNCT	_	2	punct
+8	Gareth	_	PROPN	PROPN	_	2	conj
+9	Bale	_	PROPN	PROPN	_	8	name
+

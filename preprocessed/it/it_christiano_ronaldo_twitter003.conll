@@ -1,0 +1,9 @@
+1	Bass	_	PROPN	PROPN	_	3	nsubj
+2	kenit	_	NOUN	NOUN	_	1	nmod
+3	7elwe	_	VERB	VERB	_	0	root
+4	ido	_	ADJ	ADJ	_	3	xcomp
+5	la	_	DET	DET	_	7	det
+6	christiano	_	ADJ	ADJ	_	7	amod
+7	ronaldo	_	NOUN	NOUN	_	3	dobj
+8	#RealMadridIndubai	_	VERB	VERB	_	7	acl
+

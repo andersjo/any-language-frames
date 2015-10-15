@@ -1,0 +1,24 @@
+1	Bourrez	_	VERB	VERB	_	10	acl
+2	les	_	DET	DET	_	3	det
+3	dons	_	NOUN	NOUN	_	1	dobj
+4	comme	_	ADP	ADP	_	6	case
+5	des	_	DET	DET	_	6	det
+6	sacs	_	NOUN	NOUN	_	3	nmod
+7	!	_	PUNCT	PUNCT	_	1	punct
+8	https://t.co/chJPbn1G3N	_	PROPN	PROPN	_	10	nsubj
+9	Je	_	PRON	PRON	_	10	nsubj
+10	commente	_	VERB	VERB	_	0	root
+11	:	_	PUNCT	PUNCT	_	10	punct
+12	Whizz	_	PROPN	PROPN	_	10	xcomp
+13	,	_	PUNCT	PUNCT	_	12	punct
+14	Goof	_	PROPN	PROPN	_	15	name
+15	Troop	_	PROPN	PROPN	_	12	conj
+16	,	_	PUNCT	PUNCT	_	12	punct
+17	SMW1	_	PROPN	PROPN	_	12	conj
+18	et	_	CONJ	CONJ	_	12	cc
+19	2	_	PROPN	PROPN	_	12	conj
+20	et	_	CONJ	CONJ	_	12	cc
+21	Oot	_	PROPN	PROPN	_	12	conj
+22	!	_	PUNCT	PUNCT	_	15	punct
+23	#AGDQ2015FR	_	PROPN	PROPN	_	12	conj
+

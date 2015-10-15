@@ -1,0 +1,21 @@
+1	Sorted	_	VERB	VERB	_	0	root
+2	out	_	ADP	ADP	_	1	compound:prt
+3	the	_	DET	DET	_	5	det
+4	front	_	ADJ	ADJ	_	0	remnant
+5	rows	_	NOUN	NOUN	_	1	dobj
+6	of	_	ADP	ADP	_	1	compound:prt
+7	my	_	PRON	PRON	_	9	nmod:poss
+8	bookworms	_	NOUN	NOUN	_	9	compound
+9	shelves	_	NOUN	NOUN	_	5	nmod
+10	...	_	PUNCT	PUNCT	_	1	punct
+11	New	_	PROPN	PROPN	_	12	compound
+12	faves	_	NOUN	NOUN	_	16	nsubj
+13	are	_	VERB	VERB	_	16	cop
+14	Tom	_	PROPN	PROPN	_	16	compound
+15	Gates&Harry	_	PROPN	PROPN	_	16	compound
+16	Potter	_	PROPN	PROPN	_	18	compound
+17	!!	_	PUNCT	PUNCT	_	16	punct
+18	@LizPichon	_	PROPN	PROPN	_	19	nsubj
+19	@jk_rowling	_	VERB	VERB	_	1	parataxis
+20	http://t.co/2bD7VmI6nm	_	X	X	_	1	parataxis
+

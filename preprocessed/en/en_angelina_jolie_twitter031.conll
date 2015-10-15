@@ -1,0 +1,10 @@
+1	The	_	DET	DET	_	2	det
+2	way	_	NOUN	NOUN	_	4	compound
+3	Angelina	_	PROPN	PROPN	_	4	compound
+4	Jolie	_	PROPN	PROPN	_	5	nsubj
+5	died	_	VERB	VERB	_	0	root
+6	in	_	ADP	ADP	_	5	compound:prt
+7	wanted	_	VERB	VERB	_	5	xcomp
+8	!!!!!!!	_	PUNCT	PUNCT	_	9	punct
+9	Mannnnn	_	PROPN	PROPN	_	7	dobj
+

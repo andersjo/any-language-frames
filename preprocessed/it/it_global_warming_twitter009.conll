@@ -1,0 +1,18 @@
+1	Cioccolata	_	NOUN	NOUN	_	0	root
+2	calda	_	ADJ	ADJ	_	1	amod
+3	nella	_	ADP	ADP	_	4	case
+4	tazza	_	NOUN	NOUN	_	1	nmod
+5	sul	_	ADP	ADP	_	6	case
+6	Global	_	PROPN	PROPN	_	4	nmod
+7	Warming	_	PROPN	PROPN	_	6	name
+8	mentre	_	SCONJ	SCONJ	_	10	mark
+9	fuori	_	ADV	ADV	_	10	advmod
+10	c'è	_	VERB	VERB	_	4	advcl
+11	la	_	DET	DET	_	12	det
+12	bufera	_	NOUN	NOUN	_	10	dobj
+13	di	_	ADP	ADP	_	14	case
+14	neve	_	NOUN	NOUN	_	12	nmod
+15	.	_	PUNCT	PUNCT	_	1	punct
+16	#Climateception	_	NOUN	NOUN	_	14	compound
+17	http://t.co/Jvdnmsk3Er	_	NOUN	NOUN	_	16	compound
+

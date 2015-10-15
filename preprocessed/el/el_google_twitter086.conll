@@ -1,0 +1,21 @@
+1	Ετοιμάζουμε	_	VERB	VERB	_	0	root
+2	το	_	ADJ	ADJ	_	3	det
+3	@Texnopolis	_	NOUN	NOUN	_	1	dobj
+4	Application	_	NOUN	NOUN	_	3	nmod
+5	(	_	PUNCT	PUNCT	_	6	punct
+6	app	_	NOUN	NOUN	_	4	nmod
+7	)	_	PUNCT	PUNCT	_	6	punct
+8	για	_	ADP	ADP	_	9	case
+9	Android	_	NOUN	NOUN	_	4	appos
+10	smartphones	_	NOUN	NOUN	_	9	nmod
+11	και	_	CONJ	CONJ	_	10	cc
+12	tablets	_	NOUN	NOUN	_	10	conj
+13	!	_	PUNCT	PUNCT	_	9	punct
+14	Σύντομα	_	ADV	ADV	_	15	advmod
+15	κοντά	_	ADV	ADV	_	9	advmod
+16	στο	_	ADP	ADP	_	17	case
+17	Google	_	NOUN	NOUN	_	15	nmod
+18	Market	_	NOUN	NOUN	_	17	nmod
+19	!	_	PUNCT	PUNCT	_	18	punct
+20	http://t.co/E7PamHMY6N	_	NOUN	NOUN	_	18	nmod
+

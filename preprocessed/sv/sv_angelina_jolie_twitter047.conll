@@ -1,0 +1,21 @@
+1	Jolie	_	NOUN	NOUN	_	3	nsubj
+2	:	_	PUNCT	PUNCT	_	3	punct
+3	Känner	_	VERB	VERB	_	0	root
+4	mig	_	PRON	PRON	_	3	dobj
+5	precis	_	ADV	ADV	_	3	advmod
+6	lika	_	ADV	ADV	_	3	advmod
+7	vild	_	NOUN	NOUN	_	3	dobj
+8	som	_	PRON	PRON	_	13	nsubj
+9	alltid	_	ADV	ADV	_	13	advmod
+10	:	_	PUNCT	PUNCT	_	3	punct
+11	Angelina	_	ADJ	ADJ	_	12	amod
+12	Jolie	_	NOUN	NOUN	_	13	nsubj
+13	återvänder	_	VERB	VERB	_	7	acl:relcl
+14	till	_	ADP	ADP	_	15	case
+15	regissörsstolen	_	NOUN	NOUN	_	13	nmod
+16	med	_	ADP	ADP	_	18	case
+17	den	_	DET	DET	_	18	det
+18	storslag	_	NOUN	NOUN	_	13	nmod
+19	...	_	PUNCT	PUNCT	_	18	punct
+20	http://t.co/fumPWyggXf	_	NOUN	NOUN	_	18	conj
+

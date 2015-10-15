@@ -1,0 +1,12 @@
+1	@HannaBkh_	_	PROPN	PROPN	_	2	name
+2	tape	_	PROPN	PROPN	_	4	name
+3	merci	_	INTJ	INTJ	_	4	compound
+4	Jackie	_	PROPN	PROPN	_	11	nsubj
+5	et	_	CONJ	CONJ	_	2	cc
+6	Michel	_	PROPN	PROPN	_	4	conj
+7	sur	_	ADP	ADP	_	8	case
+8	Google	_	PROPN	PROPN	_	6	nmod
+9	...	_	PUNCT	PUNCT	_	2	punct
+10	tu	_	PRON	PRON	_	11	nsubj
+11	comprendras	_	VERB	VERB	_	0	root
+

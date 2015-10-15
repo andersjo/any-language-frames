@@ -1,0 +1,11 @@
+1	Cero	_	NUM	NUM	_	2	nummod
+2	grados	_	NOUN	NOUN	_	0	root
+3	en	_	ADP	ADP	_	5	case
+4	Valencia	_	PROPN	PROPN	_	5	name
+5	ciudad	_	PROPN	PROPN	_	2	nmod
+6	.	_	PUNCT	PUNCT	_	9	punct
+7	Global	_	PROPN	PROPN	_	9	name
+8	warming	_	PROPN	PROPN	_	9	name
+9	bitch	_	PROPN	PROPN	_	5	appos
+10	!	_	PUNCT	PUNCT	_	9	punct
+

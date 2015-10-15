@@ -1,0 +1,27 @@
+1	"	_	PUNCT	PUNCT	_	4	punct
+2	Christiano	_	PROPN	PROPN	_	3	name
+3	Ronaldo	_	PROPN	PROPN	_	4	nsubj
+4	marque	_	VERB	VERB	_	0	root
+5	plus	_	ADV	ADV	_	6	mwe
+6	de	_	ADP	ADP	_	7	case
+7	but	_	NOUN	NOUN	_	4	nmod
+8	que	_	SCONJ	SCONJ	_	14	mark
+9	Messi	_	PROPN	PROPN	_	7	nmod
+10	"	_	PUNCT	PUNCT	_	9	punct
+11	mais	_	CONJ	CONJ	_	4	cc
+12	si	_	SCONJ	SCONJ	_	14	mark
+13	on	_	PRON	PRON	_	14	nsubj
+14	enlever	_	VERB	VERB	_	4	advcl
+15	les	_	DET	DET	_	16	det
+16	penos	_	PROPN	PROPN	_	14	dobj
+17	il	_	PRON	PRON	_	20	nsubj
+18	doit	_	AUX	AUX	_	20	aux
+19	pas	_	ADV	ADV	_	20	neg
+20	avoir	_	VERB	VERB	_	4	conj
+21	beaucoup	_	ADV	ADV	_	22	mwe
+22	de	_	ADP	ADP	_	23	case
+23	but	_	NOUN	NOUN	_	20	dobj
+24	au	_	ADP	ADP	_	25	case
+25	compteur	_	NOUN	NOUN	_	23	nmod
+26	😂	_	PROPN	PROPN	_	25	appos
+

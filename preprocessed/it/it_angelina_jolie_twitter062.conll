@@ -1,0 +1,20 @@
+1	Huffingtonpost.it	_	PROPN	PROPN	_	15	nsubj
+2	-	_	PUNCT	PUNCT	_	1	punct
+3	Angelina	_	PROPN	PROPN	_	1	name
+4	Jolie	_	PROPN	PROPN	_	3	name
+5	orgogliosa	_	ADJ	ADJ	_	3	amod
+6	della	_	ADP	ADP	_	7	case
+7	figlia	_	NOUN	NOUN	_	5	nmod
+8	Shiloh	_	PROPN	PROPN	_	7	nmod
+9	alla	_	ADP	ADP	_	10	case
+10	premier	_	NOUN	NOUN	_	7	nmod
+11	di	_	ADP	ADP	_	12	case
+12	Unbroken	_	PROPN	PROPN	_	10	nmod
+13	:	_	PUNCT	PUNCT	_	1	punct
+14	"	_	PUNCT	PUNCT	_	15	punct
+15	Indossava	_	VERB	VERB	_	0	root
+16	le	_	DET	DET	_	17	det
+17	scarpe	_	NOUN	NOUN	_	15	dobj
+18	…	_	PUNCT	PUNCT	_	17	punct
+19	http://t.co/kPriSrm6Hh	_	NOUN	NOUN	_	17	compound
+

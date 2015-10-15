@@ -1,0 +1,19 @@
+1	Surgieron	_	VERB	VERB	_	0	root
+2	entonces	_	ADV	ADV	_	1	advmod
+3	los	_	DET	DET	_	5	det
+4	denominados	_	ADJ	ADJ	_	5	amod
+5	movimientos	_	NOUN	NOUN	_	1	dobj
+6	sufragistas	_	VERB	VERB	_	5	acl
+7	,	_	PUNCT	PUNCT	_	10	punct
+8	inicialmente	_	ADV	ADV	_	10	advmod
+9	de	_	ADP	ADP	_	10	case
+10	origen	_	NOUN	NOUN	_	6	nmod
+11	burgués	_	ADJ	ADJ	_	10	amod
+12	,	_	PUNCT	PUNCT	_	14	punct
+13	con	_	ADP	ADP	_	14	case
+14	figuras	_	NOUN	NOUN	_	6	nmod
+15	como	_	ADP	ADP	_	17	case
+16	Flora	_	PROPN	PROPN	_	17	name
+17	Tristán	_	PROPN	PROPN	_	14	nmod
+18	.	_	PUNCT	PUNCT	_	1	punct
+

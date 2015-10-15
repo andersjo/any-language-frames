@@ -1,0 +1,22 @@
+1	Στις	_	ADP	ADP	_	3	case
+2	27	_	NUM	NUM	_	6	nmod
+3	Απριλίου	_	NOUN	NOUN	_	2	nmod
+4	2013	_	NUM	NUM	_	3	nmod
+5	,	_	PUNCT	PUNCT	_	6	punct
+6	υποβλήθηκε	_	VERB	VERB	_	0	root
+7	και	_	CONJ	CONJ	_	8	cc
+8	σε	_	ADP	ADP	_	9	case
+9	επέμβαση	_	NOUN	NOUN	_	10	nmod
+10	αφαίρεσης	_	VERB	VERB	_	6	ccomp
+11	των	_	ADJ	ADJ	_	12	det
+12	εμφυτευμάτων	_	NOUN	NOUN	_	10	nmod
+13	και	_	CONJ	CONJ	_	10	cc
+14	έτσι	_	ADV	ADV	_	18	advmod
+15	οι	_	ADJ	ADJ	_	16	det
+16	πιθανότητες	_	NOUN	NOUN	_	18	nsubj
+17	εμφάνισης	_	VERB	VERB	_	18	aux
+18	μειώθηκαν	_	VERB	VERB	_	10	conj
+19	κατά	_	ADP	ADP	_	20	case
+20	50%	_	NUM	NUM	_	18	nmod
+21	.	_	PUNCT	PUNCT	_	6	punct
+

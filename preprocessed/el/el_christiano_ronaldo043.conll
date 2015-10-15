@@ -1,0 +1,16 @@
+1	Αυτό	_	PRON	PRON	_	2	nsubj
+2	έμελλε	_	VERB	VERB	_	0	root
+3	να	_	PART	PART	_	4	aux
+4	είναι	_	VERB	VERB	_	2	ccomp
+5	και	_	CONJ	CONJ	_	8	cc
+6	ο	_	ADJ	ADJ	_	8	det
+7	τελευταίος	_	ADJ	ADJ	_	8	amod
+8	αγώνας	_	NOUN	NOUN	_	1	appos
+9	του	_	PRON	PRON	_	8	nmod
+10	με	_	ADP	ADP	_	12	case
+11	τη	_	ADJ	ADJ	_	12	det
+12	φανέλα	_	NOUN	NOUN	_	8	nmod
+13	της	_	ADJ	ADJ	_	14	det
+14	Μάντσεστερ	_	NOUN	NOUN	_	12	nmod
+15	.	_	PUNCT	PUNCT	_	2	punct
+

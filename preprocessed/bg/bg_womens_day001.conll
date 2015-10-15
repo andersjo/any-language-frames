@@ -1,0 +1,13 @@
+1	Международният	_	ADJ	ADJ	_	2	amod
+2	ден	_	NOUN	NOUN	_	6	nsubj
+3	на	_	ADP	ADP	_	4	case
+4	жената	_	NOUN	NOUN	_	2	nmod
+5	се	_	PRON	PRON	_	6	expl
+6	празнува	_	VERB	VERB	_	0	root
+7	всяка	_	DET	DET	_	8	det
+8	година	_	NOUN	NOUN	_	6	nmod
+9	на	_	ADP	ADP	_	11	case
+10	8	_	NUM	NUM	_	11	nummod
+11	март	_	NOUN	NOUN	_	8	nmod
+12	.	_	PUNCT	PUNCT	_	6	punct
+

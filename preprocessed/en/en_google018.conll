@@ -1,0 +1,26 @@
+1	Numerous	_	ADJ	ADJ	_	0	cc
+2	Google	_	PROPN	PROPN	_	3	compound
+3	sites	_	NOUN	NOUN	_	6	compound
+4	in	_	ADP	ADP	_	3	compound
+5	other	_	ADJ	ADJ	_	0	remnant
+6	languages	_	NOUN	NOUN	_	7	nsubj
+7	figure	_	VERB	VERB	_	0	root
+8	in	_	ADP	ADP	_	7	compound:prt
+9	the	_	DET	DET	_	12	det
+10	top	_	ADJ	ADJ	_	0	remnant
+11	one	_	NUM	NUM	_	12	compound
+12	hundred	_	NUM	NUM	_	15	nmod
+13	,	_	PUNCT	PUNCT	_	7	punct
+14	as	_	ADV	ADV	_	15	advmod
+15	do	_	VERB	VERB	_	7	ccomp
+16	several	_	ADJ	ADJ	_	0	foreign
+17	other	_	ADJ	ADJ	_	0	foreign
+18	Google-owned	_	ADJ	ADJ	_	0	foreign
+19	sites	_	NOUN	NOUN	_	15	nmod
+20	such	_	ADJ	ADJ	_	0	punct
+21	as	_	ADP	ADP	_	15	compound:prt
+22	YouTube	_	PROPN	PROPN	_	19	nmod
+23	and	_	CONJ	CONJ	_	22	cc
+24	Blogger	_	PROPN	PROPN	_	22	conj
+25	.	_	PUNCT	PUNCT	_	7	punct
+

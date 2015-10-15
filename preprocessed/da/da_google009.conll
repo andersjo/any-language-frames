@@ -1,0 +1,22 @@
+1	Som	_	PART	PART	_	4	dep
+2	en	_	DET	DET	_	3	det
+3	nyhed	_	NOUN	NOUN	_	1	dep
+4	tilbød	_	VERB	VERB	_	0	root
+5	man	_	PRON	PRON	_	4	nsubj
+6	fra	_	ADP	ADP	_	7	case
+7	start	_	NOUN	NOUN	_	4	nmod
+8	1	_	NUM	NUM	_	9	nummod
+9	GB	_	NOUN	NOUN	_	7	nmod:poss
+10	gratis	_	ADV	ADV	_	4	advmod
+11	lagerplads	_	NOUN	NOUN	_	4	dobj
+12	,	_	PUNCT	PUNCT	_	16	punct
+13	hvilket	_	PRON	PRON	_	16	nsubjpass
+14	siden	_	ADV	ADV	_	16	advmod
+15	er	_	AUX	AUX	_	16	auxpass
+16	vokset	_	VERB	VERB	_	11	acl:relcl
+17	til	_	ADV	ADV	_	16	compound:prt
+18	over	_	ADP	ADP	_	20	case
+19	10	_	NUM	NUM	_	20	nummod
+20	GB	_	NOUN	NOUN	_	16	nmod
+21	.	_	PUNCT	PUNCT	_	4	punct
+

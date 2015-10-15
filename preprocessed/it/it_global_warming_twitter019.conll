@@ -1,0 +1,15 @@
+1	passato	_	VERB	VERB	_	5	advcl
+2	il	_	DET	DET	_	3	det
+3	freddo	_	NOUN	NOUN	_	1	dobj
+4	si	_	PRON	PRON	_	5	expl
+5	ricomincerà	_	VERB	VERB	_	0	root
+6	a	_	ADP	ADP	_	7	mark
+7	parlare	_	VERB	VERB	_	5	xcomp
+8	di	_	ADP	ADP	_	9	case
+9	#globalwarming	_	NOUN	NOUN	_	7	nmod
+10	al	_	ADP	ADP	_	12	case
+11	prossimo	_	ADJ	ADJ	_	12	amod
+12	dissesto	_	NOUN	NOUN	_	7	nmod
+13	http://t.co/7jRuFTd2LZ	_	PROPN	PROPN	_	12	nmod
+14	http://t.co/EWyroWnJQF	_	PROPN	PROPN	_	13	name
+

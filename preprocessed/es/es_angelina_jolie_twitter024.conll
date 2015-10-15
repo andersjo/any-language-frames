@@ -1,0 +1,23 @@
+1	EL	_	DET	DET	_	2	det
+2	ARTE	_	PROPN	PROPN	_	17	nsubj
+3	DEL	_	PROPN	PROPN	_	4	case
+4	CINE	_	PROPN	PROPN	_	2	nmod
+5	:	_	PUNCT	PUNCT	_	2	punct
+6	RUMBO	_	NOUN	NOUN	_	4	appos
+7	A	_	ADP	ADP	_	9	case
+8	LA	_	PROPN	PROPN	_	9	det
+9	ESTATUILLA	_	PROPN	PROPN	_	6	nmod
+10	:	_	PUNCT	PUNCT	_	9	punct
+11	BOX	_	PROPN	PROPN	_	12	name
+12	OFFICE	_	PROPN	PROPN	_	9	conj
+13	:	_	PUNCT	PUNCT	_	12	punct
+14	Angelina	_	PROPN	PROPN	_	15	name
+15	Jolie	_	PROPN	PROPN	_	17	nsubj
+16	se	_	PRON	PRON	_	17	iobj
+17	queda	_	VERB	VERB	_	0	root
+18	en	_	ADP	ADP	_	20	case
+19	tercer	_	NUM	NUM	_	20	nummod
+20	lugar	_	NOUN	NOUN	_	17	nmod
+21	!	_	PUNCT	PUNCT	_	12	punct
+22	http://t.co/A6sjCxs7k0	_	PROPN	PROPN	_	20	appos
+

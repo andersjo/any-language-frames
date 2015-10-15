@@ -1,0 +1,25 @@
+1	Det	_	PRON	PRON	_	5	nsubj
+2	er	_	AUX	AUX	_	5	cop
+3	et	_	DET	DET	_	5	det
+4	krævende	_	ADJ	ADJ	_	5	amod
+5	program	_	NOUN	NOUN	_	7	dep
+6	(	_	PUNCT	PUNCT	_	7	punct
+7	udgivet	_	VERB	VERB	_	0	root
+8	til	_	ADP	ADP	_	9	case
+9	Windows	_	PROPN	PROPN	_	7	nmod
+10	,	_	PUNCT	PUNCT	_	7	punct
+11	Mac	_	PROPN	PROPN	_	9	conj
+12	og	_	CONJ	CONJ	_	9	cc
+13	Linux	_	PROPN	PROPN	_	9	conj
+14	)	_	PUNCT	PUNCT	_	7	punct
+15	,	_	PUNCT	PUNCT	_	18	punct
+16	der	_	PART	PART	_	18	nsubj
+17	endnu	_	ADV	ADV	_	18	advmod
+18	kræver	_	VERB	VERB	_	9	acl:relcl
+19	installation	_	NOUN	NOUN	_	18	dobj
+20	af	_	ADP	ADP	_	21	case
+21	programmer	_	NOUN	NOUN	_	19	nmod
+22	på	_	ADP	ADP	_	23	case
+23	maskinen	_	NOUN	NOUN	_	21	nmod
+24	.	_	PUNCT	PUNCT	_	7	punct
+

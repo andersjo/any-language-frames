@@ -1,0 +1,20 @@
+1	Most	_	ADJ	ADJ	_	0	cc
+2	Catholics	_	PROPN	PROPN	_	3	nsubj
+3	say	_	VERB	VERB	_	0	root
+4	global	_	ADJ	ADJ	_	0	case
+5	warming	_	NOUN	NOUN	_	9	nsubj
+6	is	_	VERB	VERB	_	9	cop
+7	a	_	DET	DET	_	9	det
+8	"	_	PUNCT	PUNCT	_	9	punct
+9	crisis	_	NOUN	NOUN	_	3	ccomp
+10	"	_	PUNCT	PUNCT	_	9	punct
+11	or	_	CONJ	CONJ	_	9	cc
+12	a	_	DET	DET	_	15	det
+13	"	_	PUNCT	PUNCT	_	15	punct
+14	major	_	ADJ	ADJ	_	0	foreign
+15	problem	_	NOUN	NOUN	_	9	conj
+16	.	_	PUNCT	PUNCT	_	9	punct
+17	"	_	PUNCT	PUNCT	_	19	punct
+18	http://t.co/lm4PVQwDmS	_	X	X	_	19	compound
+19	http://t.co/9R70KfIfqg	_	X	X	_	9	conj
+

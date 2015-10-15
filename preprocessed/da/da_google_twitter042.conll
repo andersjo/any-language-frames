@@ -1,0 +1,14 @@
+1	Passenger	_	VERB	VERB	_	2	dep
+2	delayed	_	NOUN	NOUN	_	3	nmod:poss
+3	after	_	NOUN	NOUN	_	4	nmod:poss
+4	Ryanair	_	NOUN	NOUN	_	5	nsubj
+5	passengers	_	VERB	VERB	_	0	root
+6	'	_	PUNCT	PUNCT	_	1	punct
+7	'	_	PUNCT	PUNCT	_	9	punct
+8	door	_	NOUN	NOUN	_	9	nsubj
+9	error	_	VERB	VERB	_	5	dep
+10	'	_	PUNCT	PUNCT	_	9	punct
+11	http://t.co/Og44yOH9dn	_	NOUN	NOUN	_	9	nsubj
+12	#lowcost	_	ADJ	ADJ	_	13	amod
+13	#ryanair	_	NOUN	NOUN	_	11	nmod
+

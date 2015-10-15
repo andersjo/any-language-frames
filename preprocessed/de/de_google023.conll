@@ -1,0 +1,13 @@
+1	2010	_	NUM	NUM	_	2	nmod
+2	betrug	_	VERB	VERB	_	0	root
+3	der	_	DET	DET	_	5	det
+4	effektive	_	ADJ	ADJ	_	5	amod
+5	Steuersatz	_	NOUN	NOUN	_	2	nsubj
+6	nach	_	ADP	ADP	_	8	case
+7	einer	_	DET	DET	_	8	det
+8	Schätzung	_	NOUN	NOUN	_	5	nmod
+9	rund	_	ADV	ADV	_	10	advmod
+10	3	_	NUM	NUM	_	11	nummod
+11	%	_	NOUN	NOUN	_	8	nmod
+12	.	_	PUNCT	PUNCT	_	2	punct
+

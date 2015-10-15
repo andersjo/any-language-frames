@@ -1,0 +1,11 @@
+1	@Harry_Styles	_	PROPN	PROPN	_	3	nsubj
+2	vuoi	_	AUX	AUX	_	3	aux
+3	venire	_	VERB	VERB	_	0	root
+4	da	_	ADP	ADP	_	5	case
+5	me	_	PRON	PRON	_	3	nmod
+6	a	_	ADP	ADP	_	7	mark
+7	vedere	_	VERB	VERB	_	3	advcl
+8	harry	_	PROPN	PROPN	_	7	dobj
+9	potter	_	PROPN	PROPN	_	8	name
+10	?	_	PUNCT	PUNCT	_	3	punct
+

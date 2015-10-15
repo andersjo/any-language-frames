@@ -1,0 +1,24 @@
+1	Tuttavia	_	ADV	ADV	_	8	advmod
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	il	_	DET	DET	_	4	det
+4	29	_	NUM	NUM	_	8	nmod
+5	gennaio	_	NOUN	NOUN	_	4	nmod
+6	2014	_	NUM	NUM	_	5	nummod
+7	Google	_	PROPN	PROPN	_	8	nsubj
+8	annuncia	_	VERB	VERB	_	0	root
+9	che	_	PRON	PRON	_	12	nsubj
+10	,	_	PUNCT	PUNCT	_	8	punct
+11	pur	_	ADV	ADV	_	12	advmod
+12	mantenendo	_	VERB	VERB	_	8	conj
+13	gran	_	ADJ	ADJ	_	14	amod
+14	parte	_	NOUN	NOUN	_	12	dobj
+15	dei	_	ADP	ADP	_	16	case
+16	brevetti	_	NOUN	NOUN	_	14	nmod
+17	,	_	PUNCT	PUNCT	_	8	punct
+18	venderà	_	VERB	VERB	_	12	advcl
+19	Motorola	_	NOUN	NOUN	_	18	dobj
+20	Mobility	_	PROPN	PROPN	_	19	nmod
+21	a	_	ADP	ADP	_	22	case
+22	Lenovo	_	PROPN	PROPN	_	19	nmod
+23	.	_	PUNCT	PUNCT	_	8	punct
+

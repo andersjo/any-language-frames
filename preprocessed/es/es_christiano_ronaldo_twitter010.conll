@@ -1,0 +1,12 @@
+1	@TheRealLeyton	_	PROPN	PROPN	_	2	name
+2	@__LastKingz__	_	PROPN	PROPN	_	4	nsubj
+3	no	_	ADV	ADV	_	4	neg
+4	eres	_	VERB	VERB	_	0	root
+5	christiano	_	ADJ	ADJ	_	6	amod
+6	ronaldo	_	NOUN	NOUN	_	4	dobj
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	ronaldo	_	NOUN	NOUN	_	6	conj
+9	is	_	VERB	VERB	_	8	acl
+10	muy	_	ADV	ADV	_	11	advmod
+11	BUENO	_	PROPN	PROPN	_	8	acl
+

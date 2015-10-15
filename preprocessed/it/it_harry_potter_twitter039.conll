@@ -1,0 +1,21 @@
+1	prima	_	ADV	ADV	_	15	advmod
+2	harry	_	PROPN	PROPN	_	15	nsubj
+3	potter	_	PROPN	PROPN	_	2	name
+4	,	_	PUNCT	PUNCT	_	2	punct
+5	poi	_	ADV	ADV	_	6	advmod
+6	spiderman	_	PROPN	PROPN	_	2	conj
+7	e	_	CONJ	CONJ	_	6	cc
+8	infine	_	ADV	ADV	_	15	advmod
+9	finalmente	_	ADV	ADV	_	15	advmod
+10	Frodo	_	PROPN	PROPN	_	6	conj
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	#OgniCosaEIlluminata	_	NOUN	NOUN	_	15	nsubj
+13	ci	_	PRON	PRON	_	15	dobj
+14	ha	_	AUX	AUX	_	15	aux
+15	messo	_	VERB	VERB	_	18	advcl
+16	in	_	ADP	ADP	_	17	case
+17	difficoltà	_	NOUN	NOUN	_	15	nmod
+18	sta	_	VERB	VERB	_	0	root
+19	sera	_	NOUN	NOUN	_	18	nmod
+20	@ariiiainvena	_	ADJ	ADJ	_	19	amod
+

@@ -1,0 +1,26 @@
+1	L'auteur	_	NOUN	NOUN	_	3	nsubj
+2	a	_	AUX	AUX	_	3	aux
+3	annoncé	_	VERB	VERB	_	0	root
+4	le	_	DET	DET	_	6	det
+5	20	_	NUM	NUM	_	6	nmod
+6	décembre	_	NOUN	NOUN	_	3	nmod
+7	2013	_	NUM	NUM	_	6	nmod
+8	qu'elle	_	VERB	VERB	_	6	acl
+9	sera	_	VERB	VERB	_	10	cop
+10	co-productrice	_	NOUN	NOUN	_	8	xcomp
+11	d'une	_	NOUN	NOUN	_	10	compound
+12	pièce	_	NOUN	NOUN	_	11	compound
+13	de	_	ADP	ADP	_	14	case
+14	théâtre	_	NOUN	NOUN	_	12	nmod
+15	qui	_	PRON	PRON	_	16	nsubj
+16	racontera	_	VERB	VERB	_	14	acl:relcl
+17	le	_	DET	DET	_	18	det
+18	préquel	_	NOUN	NOUN	_	16	dobj
+19	des	_	ADP	ADP	_	20	case
+20	livres	_	NOUN	NOUN	_	18	nmod
+21	:	_	PUNCT	PUNCT	_	20	punct
+22	l'enfance	_	NOUN	NOUN	_	18	appos
+23	de	_	ADP	ADP	_	24	case
+24	Harry	_	PROPN	PROPN	_	22	nmod
+25	.	_	PUNCT	PUNCT	_	3	punct
+

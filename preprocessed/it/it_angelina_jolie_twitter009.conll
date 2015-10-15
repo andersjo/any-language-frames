@@ -1,0 +1,18 @@
+1	La	_	DET	DET	_	2	det
+2	fascinazione	_	NOUN	NOUN	_	0	root
+3	dei	_	ADP	ADP	_	4	case
+4	media	_	NOUN	NOUN	_	2	nmod
+5	per	_	ADP	ADP	_	7	case
+6	la	_	DET	DET	_	7	det
+7	#sessualit	_	NOUN	NOUN	_	4	nmod
+8	à	_	NOUN	NOUN	_	7	compound
+9	della	_	ADP	ADP	_	10	case
+10	prole	_	NOUN	NOUN	_	8	nmod
+11	di	_	ADP	ADP	_	12	case
+12	@BradPitt	_	PROPN	PROPN	_	10	nmod
+13	e	_	CONJ	CONJ	_	12	cc
+14	@joliefans	_	PROPN	PROPN	_	12	conj
+15	Angelina	_	PROPN	PROPN	_	14	name
+16	Jolie	_	PROPN	PROPN	_	14	name
+17	http://t.co/nMv5Lo9MsR	_	NOUN	NOUN	_	14	nmod
+

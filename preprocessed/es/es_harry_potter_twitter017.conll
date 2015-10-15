@@ -1,0 +1,19 @@
+1	Este	_	DET	DET	_	2	det
+2	año	_	NOUN	NOUN	_	5	nmod
+3	me	_	PRON	PRON	_	5	iobj
+4	estoy	_	AUX	AUX	_	5	aux
+5	retrasando	_	VERB	VERB	_	0	root
+6	mucho	_	PRON	PRON	_	5	nmod
+7	con	_	ADP	ADP	_	9	case
+8	los	_	DET	DET	_	9	det
+9	fanarts	_	NOUN	NOUN	_	5	nmod
+10	navideños	_	ADJ	ADJ	_	9	amod
+11	^^U	_	PROPN	PROPN	_	13	name
+12	Harry	_	PROPN	PROPN	_	13	name
+13	Potter	_	PROPN	PROPN	_	9	appos
+14	y	_	CONJ	CONJ	_	13	cc
+15	Ginny	_	PROPN	PROPN	_	18	name
+16	Weasley	_	PROPN	PROPN	_	18	name
+17	http://t.co/lfuJoXKf6E	_	PROPN	PROPN	_	18	name
+18	http://t.co/CSzXYfL84B	_	PROPN	PROPN	_	13	conj
+

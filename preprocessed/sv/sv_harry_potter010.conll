@@ -1,0 +1,9 @@
+1	Här	_	ADV	ADV	_	4	advmod
+2	är	_	AUX	AUX	_	4	cop
+3	alla	_	DET	DET	_	4	det
+4	böckerna	_	NOUN	NOUN	_	0	root
+5	om	_	ADP	ADP	_	7	case
+6	Harry	_	PROPN	PROPN	_	7	nmod:poss
+7	Potter	_	NOUN	NOUN	_	4	nmod
+8	:	_	PUNCT	PUNCT	_	4	punct
+

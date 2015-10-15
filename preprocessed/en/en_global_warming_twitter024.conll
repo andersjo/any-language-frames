@@ -1,0 +1,22 @@
+1	Everybody's	_	NOUN	NOUN	_	3	nsubj
+2	always	_	ADV	ADV	_	3	advmod
+3	complaining	_	VERB	VERB	_	0	root
+4	about	_	ADP	ADP	_	3	compound:prt
+5	global	_	ADJ	ADJ	_	0	foreign
+6	warming	_	NOUN	NOUN	_	3	dobj
+7	,	_	PUNCT	PUNCT	_	3	punct
+8	I	_	PRON	PRON	_	10	nsubj
+9	kinda	_	ADV	ADV	_	10	advmod
+10	like	_	VERB	VERB	_	3	advcl
+11	the	_	DET	DET	_	12	det
+12	shit	_	NOUN	NOUN	_	10	dobj
+13	it's	_	PRON	PRON	_	14	nmod:poss
+14	feelin	_	NOUN	NOUN	_	10	dobj
+15	lovely	_	ADJ	ADJ	_	0	foreign
+16	out	_	ADP	ADP	_	10	compound:prt
+17	here	_	ADV	ADV	_	10	advmod
+18	in	_	ADP	ADP	_	0	foreign
+19	the	_	DET	DET	_	21	det
+20	Bay	_	PROPN	PROPN	_	21	compound
+21	Area	_	PROPN	PROPN	_	17	nmod
+

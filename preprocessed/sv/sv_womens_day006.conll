@@ -1,0 +1,17 @@
+1	Sedan	_	ADV	ADV	_	2	advmod
+2	1978	_	NUM	NUM	_	3	nmod
+3	finns	_	VERB	VERB	_	12	advcl
+4	8	_	NUM	NUM	_	5	nummod
+5	mars	_	NOUN	NOUN	_	3	nsubj
+6	med	_	ADP	ADP	_	7	case
+7	som	_	PRON	PRON	_	12	nmod
+8	internationell	_	ADJ	ADJ	_	9	amod
+9	kvinnodag	_	NOUN	NOUN	_	3	nsubj
+10	på	_	ADP	ADP	_	11	case
+11	FN	_	NOUN	NOUN	_	9	nmod
+12	:s	_	VERB	VERB	_	0	root
+13	lista	_	NOUN	NOUN	_	12	dobj
+14	över	_	ADP	ADP	_	15	case
+15	högtidsdagar	_	NOUN	NOUN	_	12	nmod
+16	.	_	PUNCT	PUNCT	_	3	punct
+

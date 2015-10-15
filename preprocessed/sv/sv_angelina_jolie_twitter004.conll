@@ -1,0 +1,14 @@
+1	angelina	_	ADJ	ADJ	_	2	amod
+2	jolie	_	NOUN	NOUN	_	3	nsubj
+3	e	_	VERB	VERB	_	0	root
+4	numera	_	ADV	ADV	_	3	advmod
+5	min	_	DET	DET	_	8	det
+6	#1	_	ADJ	ADJ	_	8	amod
+7	role	_	ADJ	ADJ	_	8	amod
+8	model	_	NOUN	NOUN	_	10	nmod:poss
+9	ärligt	_	ADJ	ADJ	_	10	amod
+10	världens	_	NOUN	NOUN	_	12	nmod:poss
+11	bästa/finaste	_	ADJ	ADJ	_	12	amod
+12	människa	_	NOUN	NOUN	_	3	dobj
+13	?	_	PUNCT	PUNCT	_	3	punct
+

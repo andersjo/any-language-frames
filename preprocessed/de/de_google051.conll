@@ -1,0 +1,13 @@
+1	Im	_	ADP	ADP	_	2	case
+2	Jahr	_	NOUN	NOUN	_	4	nmod
+3	1998	_	NUM	NUM	_	2	nmod
+4	äußerten	_	VERB	VERB	_	0	root
+5	Internetportale	_	ADJ	ADJ	_	4	advmod
+6	jedoch	_	ADV	ADV	_	4	advmod
+7	Desinteresse	_	NOUN	NOUN	_	4	dobj
+8	an	_	ADP	ADP	_	11	case
+9	der	_	DET	DET	_	11	det
+10	entwickelten	_	ADJ	ADJ	_	11	amod
+11	Suchtechnik	_	NOUN	NOUN	_	7	nmod
+12	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,15 @@
+1	28	_	NUM	NUM	_	2	nummod
+2	grados	_	NOUN	NOUN	_	12	nmod
+3	a	_	ADP	ADP	_	5	case
+4	las	_	DET	DET	_	5	det
+5	12	_	NUM	NUM	_	2	nmod
+6	de	_	ADP	ADP	_	8	case
+7	la	_	DET	DET	_	8	det
+8	noche	_	NOUN	NOUN	_	5	nmod
+9	,	_	PUNCT	PUNCT	_	2	punct
+10	global	_	ADJ	ADJ	_	11	amod
+11	warming	_	PROPN	PROPN	_	12	nsubj
+12	come	_	VERB	VERB	_	0	root
+13	to	_	PROPN	PROPN	_	14	name
+14	us	_	PROPN	PROPN	_	12	nmod
+

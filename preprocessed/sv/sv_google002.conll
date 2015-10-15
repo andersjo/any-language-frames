@@ -1,0 +1,11 @@
+1	Företaget	_	NOUN	NOUN	_	4	nsubj
+2	är	_	AUX	AUX	_	4	cop
+3	mest	_	ADV	ADV	_	4	advmod
+4	känt	_	ADJ	ADJ	_	0	root
+5	för	_	ADP	ADP	_	6	case
+6	söktjänsten	_	ADJ	ADJ	_	4	nmod
+7	med	_	ADP	ADP	_	9	case
+8	samma	_	DET	DET	_	9	det
+9	namn	_	NOUN	NOUN	_	6	nmod
+10	.	_	PUNCT	PUNCT	_	4	punct
+

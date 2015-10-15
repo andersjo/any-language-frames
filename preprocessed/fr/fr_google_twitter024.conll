@@ -1,0 +1,17 @@
+1	@walknm	_	PROPN	PROPN	_	5	name
+2	ah	_	PROPN	PROPN	_	5	name
+3	c'est	_	PROPN	PROPN	_	5	name
+4	Doctor	_	PROPN	PROPN	_	5	name
+5	Who	_	PROPN	PROPN	_	7	nsubj
+6	me	_	PRON	PRON	_	7	iobj
+7	dit	_	VERB	VERB	_	0	root
+8	Google	_	PROPN	PROPN	_	7	dobj
+9	mais	_	CONJ	CONJ	_	8	cc
+10	c'est	_	PROPN	PROPN	_	8	conj
+11	pas	_	ADV	ADV	_	7	neg
+12	dans	_	ADP	ADP	_	14	case
+13	une	_	DET	DET	_	14	det
+14	chanson	_	NOUN	NOUN	_	7	nmod
+15	aussi	_	ADV	ADV	_	14	advmod
+16	?	_	PUNCT	PUNCT	_	7	punct
+

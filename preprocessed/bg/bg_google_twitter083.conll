@@ -1,0 +1,8 @@
+1	Фотокаталог	_	PROPN	PROPN	_	0	root
+2	Anabel	_	PROPN	PROPN	_	1	nmod
+3	:	_	PUNCT	PUNCT	_	5	punct
+4	рождественская	_	ADJ	ADJ	_	5	amod
+5	распродажа	_	NOUN	NOUN	_	1	nmod
+6	http://t.co/JZkiQV6Yao	_	PROPN	PROPN	_	5	nmod
+7	#PL	_	PROPN	PROPN	_	6	name
+

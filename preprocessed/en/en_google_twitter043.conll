@@ -1,0 +1,25 @@
+1	Southwest	_	PROPN	PROPN	_	2	compound
+2	Supervisor	_	PROPN	PROPN	_	3	nsubj
+3	responding	_	VERB	VERB	_	0	root
+4	to	_	ADP	ADP	_	3	xcomp
+5	'	_	PUNCT	PUNCT	_	6	punct
+6	6X	_	NOUN	NOUN	_	9	compound
+7	-	_	PUNCT	PUNCT	_	6	punct
+8	Major	_	ADJ	ADJ	_	0	foreign
+9	Dist	_	NOUN	NOUN	_	11	compound
+10	(	_	PUNCT	PUNCT	_	9	punct
+11	Violence	_	NOUN	NOUN	_	12	compound
+12	)'	_	NOUN	NOUN	_	3	dobj
+13	at	_	ADP	ADP	_	11	compound
+14	3700	_	NUM	NUM	_	17	nummod
+15	blk	_	PROPN	PROPN	_	16	compound
+16	Magdeline	_	PROPN	PROPN	_	17	compound
+17	St	_	PROPN	PROPN	_	2	list
+18	|	_	PUNCT	PUNCT	_	17	punct
+19	Beat	_	PROPN	PROPN	_	17	appos
+20	421	_	NUM	NUM	_	19	nummod
+21	|	_	SYM	SYM	_	22	punct
+22	http://t.co/cAcw11fUne	_	X	X	_	17	list
+23	|	_	SYM	SYM	_	22	punct
+24	14:16	_	NUM	NUM	_	23	nummod
+

@@ -1,0 +1,23 @@
+1	Clara	_	PROPN	PROPN	_	2	name
+2	Zetkin	_	PROPN	PROPN	_	4	nsubj
+3	aurait	_	AUX	AUX	_	4	aux
+4	souhaité	_	VERB	VERB	_	0	root
+5	par	_	ADP	ADP	_	4	case
+6	cette	_	DET	DET	_	7	det
+7	journée	_	NOUN	NOUN	_	5	case
+8	contrecarrer	_	VERB	VERB	_	7	acl
+9	l'influence	_	NOUN	NOUN	_	8	dobj
+10	des	_	ADP	ADP	_	12	case
+11	«	_	PUNCT	PUNCT	_	12	punct
+12	féministes	_	ADJ	ADJ	_	9	amod
+13	de	_	ADP	ADP	_	15	case
+14	la	_	DET	DET	_	15	det
+15	bourgeoisie	_	NOUN	NOUN	_	12	nmod
+16	»	_	PUNCT	PUNCT	_	12	punct
+17	sur	_	ADP	ADP	_	19	case
+18	les	_	DET	DET	_	19	det
+19	femmes	_	NOUN	NOUN	_	12	nmod
+20	du	_	ADP	ADP	_	21	case
+21	peuple	_	NOUN	NOUN	_	19	nmod
+22	.	_	PUNCT	PUNCT	_	4	punct
+

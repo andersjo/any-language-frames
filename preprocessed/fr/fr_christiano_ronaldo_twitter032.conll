@@ -1,0 +1,20 @@
+1	Les	_	DET	DET	_	2	det
+2	filles	_	NOUN	NOUN	_	14	nsubj
+3	qui	_	PRON	PRON	_	4	nsubj
+4	ont	_	VERB	VERB	_	2	acl:relcl
+5	Christiano	_	PROPN	PROPN	_	6	name
+6	Ronaldo	_	PROPN	PROPN	_	4	dobj
+7	ou	_	CONJ	CONJ	_	6	cc
+8	autre	_	ADJ	ADJ	_	9	amod
+9	footballeur	_	NOUN	NOUN	_	0	root
+10	en	_	ADP	ADP	_	11	case
+11	fond	_	NOUN	NOUN	_	9	nmod
+12	d'écran	_	NOUN	NOUN	_	11	appos
+13	,	_	PUNCT	PUNCT	_	9	punct
+14	respectez	_	VERB	VERB	_	9	acl
+15	vous	_	PRON	PRON	_	16	dobj
+16	s'il	_	VERB	VERB	_	14	xcomp
+17	vous	_	PRON	PRON	_	18	iobj
+18	plaît	_	VERB	VERB	_	16	xcomp
+19	#pasderespect	_	NOUN	NOUN	_	18	dobj
+

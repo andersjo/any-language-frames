@@ -1,0 +1,11 @@
+1	Google	_	PROPN	PROPN	_	2	nsubj
+2	Play	_	VERB	VERB	_	0	root
+3	-	_	PUNCT	PUNCT	_	4	punct
+4	$25	_	PROPN	PROPN	_	8	compound
+5	Gift	_	PROPN	PROPN	_	8	compound
+6	Card	_	PROPN	PROPN	_	8	compound
+7	-	_	PUNCT	PUNCT	_	8	punct
+8	Multi	_	PROPN	PROPN	_	2	dobj
+9	http://t.co/2ZDzdbnY1X	_	X	X	_	6	list
+10	http://t.co/xFJNsZobBE	_	X	X	_	9	compound
+

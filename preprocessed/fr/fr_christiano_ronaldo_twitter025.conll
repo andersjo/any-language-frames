@@ -1,0 +1,11 @@
+1	Perso	_	PROPN	PROPN	_	3	name
+2	christiano	_	PROPN	PROPN	_	3	name
+3	Ronaldo	_	PROPN	PROPN	_	6	nsubj
+4	je	_	PRON	PRON	_	6	nsubj
+5	le	_	PRON	PRON	_	6	dobj
+6	trouve	_	VERB	VERB	_	0	root
+7	pas	_	ADV	ADV	_	6	neg
+8	"	_	PUNCT	PUNCT	_	9	punct
+9	parfait	_	ADJ	ADJ	_	6	xcomp
+10	"	_	PUNCT	PUNCT	_	9	punct
+

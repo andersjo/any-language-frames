@@ -1,0 +1,18 @@
+1	Il	_	DET	DET	_	2	det
+2	15	_	NUM	NUM	_	7	nmod
+3	agosto	_	NOUN	NOUN	_	2	nmod
+4	2011	_	NUM	NUM	_	3	nummod
+5	Google	_	PROPN	PROPN	_	7	nsubj
+6	ha	_	AUX	AUX	_	7	aux
+7	acquisito	_	VERB	VERB	_	0	root
+8	Motorola	_	NOUN	NOUN	_	7	dobj
+9	Mobility	_	PROPN	PROPN	_	8	nmod
+10	per	_	ADP	ADP	_	11	case
+11	12	_	NUM	NUM	_	7	nummod
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	5	_	NUM	NUM	_	14	nummod
+14	miliardi	_	NOUN	NOUN	_	7	nmod
+15	di	_	ADP	ADP	_	16	case
+16	dollari	_	NOUN	NOUN	_	14	nmod
+17	.	_	PUNCT	PUNCT	_	7	punct
+

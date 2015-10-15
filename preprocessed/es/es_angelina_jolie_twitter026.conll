@@ -1,0 +1,16 @@
+1	ES	_	VERB	VERB	_	2	cop
+2	NOTICIA	_	PROPN	PROPN	_	4	name
+3	|	_	PUNCT	PUNCT	_	2	punct
+4	Coldplay	_	PROPN	PROPN	_	5	nsubj
+5	promociona	_	VERB	VERB	_	0	root
+6	'	_	PUNCT	PUNCT	_	7	punct
+7	Unbroken	_	PROPN	PROPN	_	5	dobj
+8	'	_	PUNCT	PUNCT	_	7	punct
+9	de	_	ADP	ADP	_	11	case
+10	Angelina	_	PROPN	PROPN	_	11	name
+11	Jolie	_	PROPN	PROPN	_	5	dobj
+12	con	_	ADP	ADP	_	14	case
+13	esta	_	DET	DET	_	14	det
+14	canción	_	NOUN	NOUN	_	5	nmod
+15	http://t.co/k3SoSKEeBv	_	PROPN	PROPN	_	14	appos
+

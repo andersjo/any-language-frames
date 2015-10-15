@@ -1,0 +1,25 @@
+1	År	_	NOUN	NOUN	_	2	det
+2	2003	_	NUM	NUM	_	3	nmod
+3	tog	_	VERB	VERB	_	0	root
+4	svenska	_	ADJ	ADJ	_	5	amod
+5	Språkrådet	_	NOUN	NOUN	_	3	dobj
+6	med	_	ADP	ADP	_	7	case
+7	verbet	_	NOUN	NOUN	_	3	nmod
+8	"	_	PUNCT	PUNCT	_	9	punct
+9	googla	_	ADJ	ADJ	_	5	acl
+10	"	_	PUNCT	PUNCT	_	9	punct
+11	i	_	ADP	ADP	_	13	case
+12	sin	_	DET	DET	_	13	nmod:poss
+13	nyordslista	_	NOUN	NOUN	_	3	nmod
+14	och	_	CONJ	CONJ	_	13	cc
+15	år	_	NOUN	NOUN	_	13	conj
+16	2013	_	NUM	NUM	_	17	nummod
+17	ordet	_	NOUN	NOUN	_	13	conj
+18	"	_	PUNCT	PUNCT	_	9	punct
+19	ogooglebar	_	ADJ	ADJ	_	9	conj
+20	"	_	PUNCT	PUNCT	_	19	punct
+21	,	_	PUNCT	PUNCT	_	17	punct
+22	se	_	VERB	VERB	_	3	parataxis
+23	nedan	_	ADV	ADV	_	22	advmod
+24	.	_	PUNCT	PUNCT	_	3	punct
+

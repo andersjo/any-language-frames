@@ -1,0 +1,20 @@
+1	Mais	_	CONJ	CONJ	_	11	cc
+2	loin	_	ADV	ADV	_	3	advmod
+3	d'être	_	NOUN	NOUN	_	11	nsubj
+4	des	_	ADP	ADP	_	5	case
+5	victimes	_	NOUN	NOUN	_	3	nmod
+6	impuissantes	_	ADJ	ADJ	_	5	amod
+7	,	_	PUNCT	PUNCT	_	3	punct
+8	les	_	DET	DET	_	9	det
+9	femmes	_	NOUN	NOUN	_	11	nsubj
+10	sont	_	VERB	VERB	_	11	cop
+11	ingénieuses	_	ADJ	ADJ	_	0	root
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	résistantes	_	ADJ	ADJ	_	11	conj
+14	et	_	CONJ	CONJ	_	11	cc
+15	courageuses	_	ADJ	ADJ	_	11	conj
+16	face	_	NOUN	NOUN	_	13	nmod
+17	aux	_	ADP	ADP	_	18	case
+18	épreuves	_	NOUN	NOUN	_	16	nmod
+19	.	_	PUNCT	PUNCT	_	11	punct
+

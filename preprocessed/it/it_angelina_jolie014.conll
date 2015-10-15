@@ -1,0 +1,25 @@
+1	A	_	ADP	ADP	_	4	case
+2	soli	_	ADJ	ADJ	_	4	amod
+3	undici	_	NUM	NUM	_	4	nummod
+4	anni	_	NOUN	NOUN	_	5	nmod
+5	entra	_	VERB	VERB	_	0	root
+6	al	_	ADP	ADP	_	7	case
+7	Lee	_	PROPN	PROPN	_	5	nmod
+8	Strasberg	_	PROPN	PROPN	_	7	name
+9	Theatre	_	PROPN	PROPN	_	7	name
+10	and	_	CONJ	CONJ	_	7	cc
+11	Film	_	PROPN	PROPN	_	7	conj
+12	Institute	_	PROPN	PROPN	_	11	name
+13	,	_	PUNCT	PUNCT	_	7	punct
+14	che	_	PRON	PRON	_	15	nsubj
+15	frequenta	_	VERB	VERB	_	11	acl:relcl
+16	per	_	ADP	ADP	_	18	case
+17	due	_	NUM	NUM	_	18	nummod
+18	anni	_	NOUN	NOUN	_	15	nmod
+19	,	_	PUNCT	PUNCT	_	18	punct
+20	apparendo	_	VERB	VERB	_	15	advcl
+21	in	_	ADP	ADP	_	23	case
+22	diverse	_	DET	DET	_	23	det
+23	produzioni	_	NOUN	NOUN	_	20	nmod
+24	.	_	PUNCT	PUNCT	_	5	punct
+

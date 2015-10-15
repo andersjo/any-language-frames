@@ -1,0 +1,19 @@
+1	Bogen	_	NOUN	NOUN	_	2	nsubj
+2	udkom	_	VERB	VERB	_	0	root
+3	på	_	ADP	ADP	_	8	case
+4	dansk	_	ADJ	ADJ	_	8	amod
+5	den	_	DET	DET	_	8	det
+6	11	_	NUM	NUM	_	8	nummod
+7	.	_	PUNCT	PUNCT	_	2	punct
+8	november	_	NOUN	NOUN	_	2	nmod
+9	2007	_	NUM	NUM	_	8	nmod
+10	under	_	ADP	ADP	_	11	case
+11	titlen	_	NOUN	NOUN	_	8	nmod
+12	"	_	PUNCT	PUNCT	_	13	punct
+13	Harry	_	PROPN	PROPN	_	11	appos
+14	Potter	_	NOUN	NOUN	_	13	dep
+15	og	_	CONJ	CONJ	_	14	cc
+16	Dødsregalierne	_	NOUN	NOUN	_	13	conj
+17	"	_	PUNCT	PUNCT	_	13	punct
+18	.	_	PUNCT	PUNCT	_	2	punct
+

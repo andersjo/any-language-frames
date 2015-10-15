@@ -1,0 +1,11 @@
+1	Google	_	NOUN	NOUN	_	7	nsubj
+2	var	_	AUX	AUX	_	7	cop
+3	från	_	ADP	ADP	_	4	case
+4	början	_	NOUN	NOUN	_	7	nmod
+5	bara	_	ADV	ADV	_	7	advmod
+6	en	_	DET	DET	_	7	det
+7	söktjänst	_	NOUN	NOUN	_	0	root
+8	för	_	ADP	ADP	_	9	case
+9	Internet	_	NOUN	NOUN	_	7	nmod
+10	.	_	PUNCT	PUNCT	_	7	punct
+

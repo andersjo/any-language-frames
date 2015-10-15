@@ -1,0 +1,19 @@
+1	Ο	_	ADJ	ADJ	_	2	det
+2	Ρονάλντο	_	NOUN	NOUN	_	7	nsubj
+3	με	_	ADP	ADP	_	6	case
+4	εκείνο	_	PRON	PRON	_	6	det
+5	το	_	ADJ	ADJ	_	6	det
+6	γκολ	_	NOUN	NOUN	_	7	nsubj
+7	έγινε	_	VERB	VERB	_	0	root
+8	ο	_	ADJ	ADJ	_	10	det
+9	πρώτος	_	NUM	NUM	_	10	nummod
+10	Πορτογάλος	_	NOUN	NOUN	_	7	nsubj
+11	που	_	PRON	PRON	_	12	nsubj
+12	πετυχαίνει	_	VERB	VERB	_	10	acl:relcl
+13	γκολ	_	NOUN	NOUN	_	12	dobj
+14	σε	_	ADP	ADP	_	17	case
+15	3	_	NUM	NUM	_	12	nmod
+16	Παγκόσμια	_	ADJ	ADJ	_	17	amod
+17	Κύπελλα	_	NOUN	NOUN	_	15	nmod
+18	..	_	NOUN	NOUN	_	17	nmod
+

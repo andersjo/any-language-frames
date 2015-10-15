@@ -1,0 +1,17 @@
+1	"	_	PUNCT	PUNCT	_	4	punct
+2	Dopo	_	SCONJ	SCONJ	_	4	mark
+3	essere	_	AUX	AUX	_	4	aux
+4	arrivato	_	VERB	VERB	_	0	root
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	il	_	DET	DET	_	7	det
+7	manager	_	NOUN	NOUN	_	10	nsubj
+8	mi	_	PRON	PRON	_	10	iobj
+9	ha	_	AUX	AUX	_	10	aux
+10	chiesto	_	VERB	VERB	_	4	advcl
+11	quale	_	DET	DET	_	12	det
+12	numero	_	NOUN	NOUN	_	10	dobj
+13	di	_	ADP	ADP	_	14	case
+14	maglia	_	NOUN	NOUN	_	12	nmod
+15	volevo	_	AUX	AUX	_	7	aux
+16	.	_	PUNCT	PUNCT	_	4	punct
+

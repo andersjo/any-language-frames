@@ -1,0 +1,21 @@
+1	Το	_	ADJ	ADJ	_	2	det
+2	2004	_	NOUN	NOUN	_	10	nmod
+3	,	_	PUNCT	PUNCT	_	6	punct
+4	στους	_	ADP	ADP	_	6	case
+5	Ολυμπιακούς	_	ADJ	ADJ	_	6	amod
+6	αγώνες	_	NOUN	NOUN	_	10	nmod
+7	της	_	ADJ	ADJ	_	8	det
+8	Αθήνας	_	NOUN	NOUN	_	6	nmod
+9	,	_	PUNCT	PUNCT	_	10	punct
+10	συμμετείχε	_	VERB	VERB	_	0	root
+11	με	_	ADP	ADP	_	14	case
+12	την	_	ADJ	ADJ	_	14	det
+13	Εθνική	_	ADJ	ADJ	_	14	amod
+14	του	_	ADJ	ADJ	_	10	dobj
+15	,	_	PUNCT	PUNCT	_	16	punct
+16	πετυχαίνοντας	_	VERB	VERB	_	10	ccomp
+17	κι	_	CONJ	CONJ	_	19	cc
+18	ένα	_	ADJ	ADJ	_	19	det
+19	γκολ	_	NOUN	NOUN	_	16	dobj
+20	.	_	PUNCT	PUNCT	_	10	punct
+

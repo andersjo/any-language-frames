@@ -1,0 +1,24 @@
+1	Im	_	ADP	ADP	_	5	case
+2	siebten	_	ADJ	ADJ	_	5	amod
+3	und	_	CONJ	CONJ	_	2	cc
+4	letzten	_	ADJ	ADJ	_	2	conj
+5	Band	_	NOUN	NOUN	_	6	nmod
+6	brechen	_	VERB	VERB	_	0	root
+7	Harry	_	PROPN	PROPN	_	6	nsubj
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	Hermine	_	PROPN	PROPN	_	7	conj
+10	und	_	CONJ	CONJ	_	7	cc
+11	Ron	_	PROPN	PROPN	_	7	conj
+12	auf	_	ADP	ADP	_	6	mark
+13	,	_	PUNCT	PUNCT	_	6	punct
+14	um	_	ADP	ADP	_	19	mark
+15	die	_	DET	DET	_	17	det
+16	verbliebenen	_	ADJ	ADJ	_	17	amod
+17	Horkruxe	_	NOUN	NOUN	_	19	dobj
+18	zu	_	PART	PART	_	19	aux
+19	finden	_	VERB	VERB	_	6	advcl
+20	und	_	CONJ	CONJ	_	19	cc
+21	zu	_	PART	PART	_	22	aux
+22	zerstören	_	VERB	VERB	_	19	conj
+23	.	_	PUNCT	PUNCT	_	6	punct
+

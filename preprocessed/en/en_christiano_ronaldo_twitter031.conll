@@ -1,0 +1,11 @@
+1	Christiano	_	PROPN	PROPN	_	2	compound
+2	Ronaldo	_	PROPN	PROPN	_	4	compound
+3	Real	_	PROPN	PROPN	_	4	compound
+4	Madrid	_	PROPN	PROPN	_	5	nsubj
+5	iPhone	_	VERB	VERB	_	0	root
+6	6	_	NUM	NUM	_	9	nummod
+7	Plus	_	CONJ	CONJ	_	6	cc
+8	Cover	_	NOUN	NOUN	_	9	compound
+9	Case	_	NOUN	NOUN	_	5	dobj
+10	http://t.co/YYqEOMIrpX	_	X	X	_	9	appos
+

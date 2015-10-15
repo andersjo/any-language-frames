@@ -1,0 +1,13 @@
+1	Donald	_	PROPN	PROPN	_	2	compound
+2	Trump	_	PROPN	PROPN	_	3	nsubj
+3	schooled	_	VERB	VERB	_	0	root
+4	me	_	PRON	PRON	_	3	dobj
+5	,	_	PUNCT	PUNCT	_	10	punct
+6	global	_	ADJ	ADJ	_	0	foreign
+7	warming	_	NOUN	NOUN	_	10	nsubj
+8	does	_	AUX	AUX	_	10	aux
+9	NOT	_	ADV	ADV	_	10	neg
+10	exist	_	VERB	VERB	_	3	ccomp
+11	.	_	PUNCT	PUNCT	_	12	punct
+12	#CelebApprentice	_	NOUN	NOUN	_	10	dobj
+

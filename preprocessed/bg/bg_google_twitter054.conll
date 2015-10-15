@@ -1,0 +1,15 @@
+1	🆕	_	PROPN	PROPN	_	12	nsubj
+2	#NEWS	_	PROPN	PROPN	_	1	nmod
+3	:	_	PUNCT	PUNCT	_	4	punct
+4	Google	_	PROPN	PROPN	_	1	nmod
+5	,	_	PUNCT	PUNCT	_	1	punct
+6	Microsoft	_	PROPN	PROPN	_	4	conj
+7	,	_	PUNCT	PUNCT	_	1	punct
+8	Facebook	_	PROPN	PROPN	_	4	conj
+9	и	_	CONJ	CONJ	_	1	cc
+10	Yahoo	_	PROPN	PROPN	_	1	conj
+11	!	_	PUNCT	PUNCT	_	4	punct
+12	получили	_	VERB	VERB	_	0	root
+13	от	_	ADP	ADP	_	14	case
+14	АНБ	_	PROPN	PROPN	_	12	iobj
+

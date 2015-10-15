@@ -1,0 +1,9 @@
+1	Софтуерът	_	PROPN	PROPN	_	3	nsubj
+2	се	_	PRON	PRON	_	3	expl
+3	базира	_	VERB	VERB	_	0	root
+4	на	_	ADP	ADP	_	5	case
+5	т	_	NOUN	NOUN	_	3	iobj
+6	.	_	PUNCT	PUNCT	_	7	punct
+7	нар	_	PROPN	PROPN	_	5	nmod
+8	.	_	PUNCT	PUNCT	_	3	punct
+

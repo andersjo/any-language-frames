@@ -1,0 +1,9 @@
+1	Me	_	X	X	_	0	root
+2	on	_	ADJ	ADJ	_	4	amod
+3	NYE	_	ADJ	ADJ	_	4	amod
+4	feat	_	NOUN	NOUN	_	1	dep
+5	.	_	PUNCT	PUNCT	_	4	punct
+6	Angelina	_	PROPN	PROPN	_	4	appos
+7	Jolie	_	NOUN	NOUN	_	6	dep
+8	http://t.co/RyjwgjTw5m	_	NOUN	NOUN	_	7	nmod
+

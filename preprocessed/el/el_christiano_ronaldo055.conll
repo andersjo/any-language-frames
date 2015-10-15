@@ -1,0 +1,26 @@
+1	Επίσης	_	ADV	ADV	_	3	advmod
+2	,	_	PUNCT	PUNCT	_	3	punct
+3	έφτασε	_	VERB	VERB	_	0	root
+4	τα	_	ADJ	ADJ	_	6	det
+5	49	_	NUM	NUM	_	6	nummod
+6	γκολ	_	NOUN	NOUN	_	3	dobj
+7	στα	_	ADP	ADP	_	9	case
+8	ευρωπαϊκά	_	ADJ	ADJ	_	9	amod
+9	παιχνίδια	_	NOUN	NOUN	_	6	nmod
+10	με	_	ADP	ADP	_	12	case
+11	τη	_	ADJ	ADJ	_	12	det
+12	Ρεάλ	_	NOUN	NOUN	_	9	nmod
+13	,	_	PUNCT	PUNCT	_	14	punct
+14	ισοφαρίζοντας	_	VERB	VERB	_	3	advcl
+15	έτσι	_	ADV	ADV	_	14	advmod
+16	,	_	PUNCT	PUNCT	_	14	punct
+17	το	_	ADJ	ADJ	_	19	det
+18	αντίστοιχο	_	ADJ	ADJ	_	19	amod
+19	ρεκόρ	_	NOUN	NOUN	_	14	dobj
+20	του	_	ADJ	ADJ	_	21	det
+21	θρυλικού	_	NOUN	NOUN	_	19	nmod
+22	Αλφρέδο	_	NOUN	NOUN	_	21	nmod
+23	Ντι	_	NOUN	NOUN	_	24	nmod
+24	Στέφανο	_	NOUN	NOUN	_	22	nmod
+25	.	_	PUNCT	PUNCT	_	3	punct
+

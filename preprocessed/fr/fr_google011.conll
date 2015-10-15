@@ -1,0 +1,26 @@
+1	Google	_	PROPN	PROPN	_	3	nsubj
+2	est	_	AUX	AUX	_	3	aux
+3	l'une	_	VERB	VERB	_	0	root
+4	des	_	DET	DET	_	7	det
+5	plus	_	ADV	ADV	_	6	advmod
+6	imposantes	_	ADJ	ADJ	_	7	amod
+7	entreprises	_	NOUN	NOUN	_	3	nmod
+8	du	_	ADP	ADP	_	9	case
+9	marché	_	NOUN	NOUN	_	7	nmod
+10	d'Internet	_	NOUN	NOUN	_	9	appos
+11	et	_	CONJ	CONJ	_	3	cc
+12	fait	_	VERB	VERB	_	3	conj
+13	partie	_	NOUN	NOUN	_	12	dobj
+14	,	_	PUNCT	PUNCT	_	3	punct
+15	avec	_	ADP	ADP	_	16	case
+16	Apple	_	PROPN	PROPN	_	12	nmod
+17	,	_	PUNCT	PUNCT	_	16	punct
+18	Facebook	_	PROPN	PROPN	_	16	conj
+19	et	_	CONJ	CONJ	_	16	cc
+20	Amazon.com,	_	PROPN	PROPN	_	16	conj
+21	des	_	ADP	ADP	_	23	case
+22	Big	_	PROPN	PROPN	_	23	name
+23	Four	_	PROPN	PROPN	_	20	nmod
+24	d'Internet	_	NOUN	NOUN	_	23	appos
+25	.	_	PUNCT	PUNCT	_	3	punct
+

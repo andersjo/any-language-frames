@@ -1,0 +1,17 @@
+1	Un	_	DET	DET	_	2	det
+2	prologue	_	NOUN	NOUN	_	11	nsubjpass
+3	à	_	ADP	ADP	_	5	case
+4	Harry	_	PROPN	PROPN	_	5	name
+5	Potter	_	PROPN	PROPN	_	2	nmod
+6	de	_	ADP	ADP	_	8	case
+7	800	_	NUM	NUM	_	8	nummod
+8	mots	_	NOUN	NOUN	_	2	nmod
+9	a	_	AUX	AUX	_	11	aux
+10	été	_	AUX	AUX	_	11	auxpass
+11	vendu	_	VERB	VERB	_	0	root
+12	aux	_	ADP	ADP	_	13	case
+13	enchères	_	NOUN	NOUN	_	11	nmod
+14	en	_	ADP	ADP	_	15	case
+15	2008	_	NUM	NUM	_	11	nmod
+16	.	_	PUNCT	PUNCT	_	11	punct
+

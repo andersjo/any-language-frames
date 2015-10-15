@@ -1,0 +1,20 @@
+1	Er	_	PRON	PRON	_	2	nsubj
+2	entwickelte	_	VERB	VERB	_	0	root
+3	Sympathien	_	NOUN	NOUN	_	2	dobj
+4	für	_	ADP	ADP	_	6	case
+5	Benfica	_	PROPN	PROPN	_	6	name
+6	Lissabon	_	PROPN	PROPN	_	3	nmod
+7	,	_	PUNCT	PUNCT	_	2	punct
+8	obwohl	_	SCONJ	SCONJ	_	17	mark
+9	er	_	PRON	PRON	_	17	nsubj
+10	sich	_	PRON	PRON	_	17	dobj
+11	später	_	ADV	ADV	_	17	advmod
+12	für	_	ADP	ADP	_	14	case
+13	dessen	_	DET	DET	_	14	det
+14	Lokalrivalen	_	NOUN	NOUN	_	17	nmod
+15	Sporting	_	PROPN	PROPN	_	16	name
+16	Lissabon	_	PROPN	PROPN	_	14	appos
+17	entscheiden	_	VERB	VERB	_	6	acl
+18	sollte	_	AUX	AUX	_	17	aux
+19	.	_	PUNCT	PUNCT	_	2	punct
+

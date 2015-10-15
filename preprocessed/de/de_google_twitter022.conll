@@ -1,0 +1,26 @@
+1	Wir	_	PRON	PRON	_	19	nsubj
+2	haben	_	AUX	AUX	_	12	aux
+3	Träume	_	NOUN	NOUN	_	1	nsubjpass
+4	–	_	PROPN	PROPN	_	3	appos
+5	sogar	_	ADV	ADV	_	8	advmod
+6	ne	_	DET	DET	_	8	det
+7	ganze	_	ADJ	ADJ	_	8	amod
+8	Menge	_	NOUN	NOUN	_	3	conj
+9	...	_	PUNCT	PUNCT	_	8	punct
+10	Ohne	_	ADP	ADP	_	11	case
+11	Geld	_	NOUN	NOUN	_	8	nmod
+12	wird	_	AUX	AUX	_	19	auxpass
+13	aus	_	ADP	ADP	_	14	case
+14	denen	_	PRON	PRON	_	16	nmod
+15	aber	_	ADV	ADV	_	14	advmod
+16	nix	_	PRON	PRON	_	18	det
+17	.	_	PUNCT	PUNCT	_	3	punct
+18	Wir	_	PRON	PRON	_	19	nsubj
+19	träumen	_	VERB	VERB	_	0	root
+20	derzeit	_	ADV	ADV	_	19	advmod
+21	davon	_	ADV	ADV	_	19	advmod
+22	,	_	PUNCT	PUNCT	_	19	punct
+23	unseren	_	PRON	PRON	_	19	dep
+24	...	_	PUNCT	PUNCT	_	25	punct
+25	http://t.co/vSubcCw076	_	PROPN	PROPN	_	23	appos
+

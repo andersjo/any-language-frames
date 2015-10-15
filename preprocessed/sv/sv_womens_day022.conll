@@ -1,0 +1,22 @@
+1	Sista	_	ADJ	ADJ	_	2	det
+2	söndagen	_	NOUN	NOUN	_	16	nsubj
+3	i	_	ADP	ADP	_	6	case
+4	februari	_	NOUN	NOUN	_	6	nmod:poss
+5	strejkade	_	ADJ	ADJ	_	6	amod
+6	kvinnorna	_	NOUN	NOUN	_	2	nmod
+7	för	_	ADP	ADP	_	9	case
+8	”	_	ADJ	ADJ	_	9	amod
+9	bröd	_	NOUN	NOUN	_	6	nmod
+10	och	_	CONJ	CONJ	_	9	cc
+11	fred	_	NOUN	NOUN	_	9	conj
+12	”	_	NOUN	NOUN	_	9	conj
+13	vilket	_	PRON	PRON	_	16	nsubj
+14	kom	_	AUX	AUX	_	16	aux
+15	att	_	PART	PART	_	16	mark
+16	bli	_	VERB	VERB	_	0	root
+17	startskottet	_	NOUN	NOUN	_	16	xcomp
+18	för	_	ADP	ADP	_	19	case
+19	februarirevolutionen	_	NOUN	NOUN	_	20	det
+20	1917	_	NUM	NUM	_	16	nmod
+21	.	_	PUNCT	PUNCT	_	16	punct
+

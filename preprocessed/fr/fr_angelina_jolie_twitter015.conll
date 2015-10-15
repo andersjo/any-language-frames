@@ -1,0 +1,24 @@
+1	défaite	_	NOUN	NOUN	_	0	root
+2	de	_	ADP	ADP	_	4	case
+3	l'OM:J'imagine	_	ADJ	ADJ	_	4	amod
+4	l'autre	_	NOUN	NOUN	_	1	nmod
+5	grosse	_	ADJ	ADJ	_	4	amod
+6	pute	_	VERB	VERB	_	4	acl
+7	façon	_	NOUN	NOUN	_	6	dobj
+8	Angelina	_	PROPN	PROPN	_	9	name
+9	Jolie	_	PROPN	PROPN	_	7	appos
+10	vulgaire	_	ADJ	ADJ	_	9	amod
+11	qui	_	PRON	PRON	_	12	nsubj
+12	s'est	_	VERB	VERB	_	7	acl:relcl
+13	bouffé	_	NOUN	NOUN	_	12	dobj
+14	1	_	NUM	NUM	_	15	nummod
+15	parpaing	_	NOUN	NOUN	_	13	appos
+16	qui	_	PRON	PRON	_	18	nsubj
+17	doit	_	AUX	AUX	_	18	aux
+18	faire	_	VERB	VERB	_	15	acl:relcl
+19	la	_	DET	DET	_	20	det
+20	pute	_	NOUN	NOUN	_	18	dobj
+21	de	_	ADP	ADP	_	23	case
+22	bas	_	ADJ	ADJ	_	23	amod
+23	étage	_	NOUN	NOUN	_	20	nmod
+

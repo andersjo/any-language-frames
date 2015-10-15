@@ -1,0 +1,15 @@
+1	Μήνυσαν	_	NOUN	NOUN	_	0	root
+2	την	_	ADJ	ADJ	_	3	det
+3	Apple	_	NOUN	NOUN	_	1	nmod
+4	για	_	ADP	ADP	_	11	case
+5	την	_	ADJ	ADJ	_	7	det
+6	'	_	PUNCT	PUNCT	_	8	amod
+7	ψευδή'	_	NOUN	NOUN	_	3	nmod
+8	χωρητικότητα	_	NOUN	NOUN	_	7	nmod
+9	των	_	ADJ	ADJ	_	10	det
+10	iPhone	_	NOUN	NOUN	_	8	nmod
+11	και	_	CONJ	CONJ	_	10	cc
+12	iPad	_	NOUN	NOUN	_	10	conj
+13	-	_	PUNCT	PUNCT	_	12	punct
+14	http://t.co/0W7FULyfur	_	NOUN	NOUN	_	10	conj
+

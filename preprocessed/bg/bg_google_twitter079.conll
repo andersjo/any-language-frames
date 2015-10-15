@@ -1,0 +1,7 @@
+1	Внимание	_	NOUN	NOUN	_	0	root
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	конкурс	_	NOUN	NOUN	_	1	conj
+4	от	_	ADP	ADP	_	5	case
+5	Google	_	PROPN	PROPN	_	3	nmod
+6	!	_	PUNCT	PUNCT	_	1	punct
+

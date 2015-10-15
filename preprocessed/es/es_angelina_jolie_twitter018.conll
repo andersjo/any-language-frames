@@ -1,0 +1,17 @@
+1	Estoy	_	VERB	VERB	_	0	root
+2	en	_	ADP	ADP	_	4	case
+3	una	_	DET	DET	_	4	det
+4	época	_	NOUN	NOUN	_	1	nmod
+5	de	_	ADP	ADP	_	7	case
+6	mi	_	DET	DET	_	7	nmod:poss
+7	vida	_	NOUN	NOUN	_	4	nmod
+8	en	_	ADP	ADP	_	10	case
+9	la	_	DET	DET	_	10	det
+10	que	_	SCONJ	SCONJ	_	11	mark
+11	admiro	_	VERB	VERB	_	4	acl:relcl
+12	mucho	_	PRON	PRON	_	11	nmod
+13	a	_	ADP	ADP	_	15	case
+14	Angelina	_	PROPN	PROPN	_	15	name
+15	Jolie	_	PROPN	PROPN	_	11	nmod
+16	.	_	PUNCT	PUNCT	_	1	punct
+

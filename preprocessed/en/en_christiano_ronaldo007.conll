@@ -1,0 +1,27 @@
+1	Ronaldo	_	PROPN	PROPN	_	3	nsubjpass
+2	is	_	AUX	AUX	_	3	aux
+3	regarded	_	VERB	VERB	_	25	csubj
+4	by	_	ADP	ADP	_	3	compound:prt
+5	some	_	DET	DET	_	3	dobj
+6	in	_	ADP	ADP	_	3	compound:prt
+7	the	_	DET	DET	_	8	det
+8	sport	_	NOUN	NOUN	_	3	dobj
+9	to	_	PART	PART	_	11	mark
+10	be	_	VERB	VERB	_	14	cop
+11	currently	_	ADV	ADV	_	14	advmod
+12	the	_	DET	DET	_	14	det
+13	best	_	ADJ	ADJ	_	0	foreign
+14	player	_	NOUN	NOUN	_	3	parataxis
+15	in	_	ADP	ADP	_	10	compound:prt
+16	the	_	DET	DET	_	17	det
+17	world	_	NOUN	NOUN	_	15	dobj
+18	and	_	CONJ	CONJ	_	17	cc
+19	one	_	NOUN	NOUN	_	17	conj
+20	of	_	ADP	ADP	_	19	acl
+21	the	_	DET	DET	_	25	det
+22	greatest	_	ADJ	ADJ	_	0	foreign
+23	of	_	ADP	ADP	_	0	compound:prt
+24	all	_	DET	DET	_	25	det
+25	time	_	NOUN	NOUN	_	23	dobj
+26	.	_	PUNCT	PUNCT	_	3	punct
+

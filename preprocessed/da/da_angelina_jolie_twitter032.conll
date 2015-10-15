@@ -1,0 +1,19 @@
+1	Elle	_	ADJ	ADJ	_	2	amod
+2	Fanning	_	NOUN	NOUN	_	3	nmod:poss
+3	Opens	_	NOUN	NOUN	_	18	nsubj
+4	Up	_	PROPN	PROPN	_	3	appos
+5	About	_	PROPN	PROPN	_	4	name
+6	Sister	_	PROPN	PROPN	_	4	name
+7	Dakota	_	PROPN	PROPN	_	4	name
+8	&	_	CONJ	CONJ	_	4	cc
+9	Angelina	_	PROPN	PROPN	_	4	conj
+10	Jolie	_	NOUN	NOUN	_	9	dep
+11	!	_	PUNCT	PUNCT	_	10	punct
+12	(	_	PUNCT	PUNCT	_	13	punct
+13	Sundance	_	NOUN	NOUN	_	18	nsubj
+14	2014	_	NUM	NUM	_	15	nummod
+15	):	_	NOUN	NOUN	_	16	dep
+16	http://t.co/V6E40w3142	_	ADJ	ADJ	_	17	amod
+17	vía	_	NOUN	NOUN	_	18	nsubj
+18	@YouTube	_	VERB	VERB	_	0	root
+

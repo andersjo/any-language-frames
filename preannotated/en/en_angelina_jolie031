@@ -1,0 +1,25 @@
+Two	_	Cardinal_numbers
+years	_	Age Aggregate Calendric_unit Frequency Measure_duration Type
+later	_	Relative_time Temporal_subregion Time_vector
+,	_	
+after	_	Relative_time Time_vector
+the	_	Text
+relationship	_	Cognitive_connection Kinship
+had	_	Arriving Becoming Birth Board_vehicle Body_movement Bringing Building Capacity Catastrophe Causation Cause_change Cause_motion Cause_to_start Change_direction Conquering Containing Cooking_creation Defend Delivery Detaining Disembarking Earnings_and_losses Experiencer_obj Feeling Getting Giving Grant_permission Grasp Have_associated Inclusion Ingest_substance Ingestion Inhibit_movement Intentionally_create Make_possible_to_do Manipulation Manufacturing Opinion Path_shape Performers_and_roles Possession Receiving Removing Respond_to_proposal Ride_vehicle Self_motion Taking Taking_time Tolerating Wearing
+ended	_	Activity_finish Activity_stop Body_movement Buildings Cause_to_end Closure Coming_to_believe Completeness Death Destroying Firing Halt Killing Left_to_do Preventing Process_completed_state Process_end Process_stop Purpose Remainder Temporal_subregion Thwarting
+,	_	
+she	_	
+rented	_	Bringing Capacity Conquering Experiencer_obj Grant_permission Hiring Ingest_substance Intentionally_act Make_possible_to_do Removing Renting Renting_out Ride_vehicle Taking Taking_time
+an	_	Behind_the_scenes Calendric_unit Cardinal_numbers Measure_duration Simultaneity
+apartment	_	Building_subparts
+above	_	
+a	_	Behind_the_scenes Cardinal_numbers
+garage	_	Buildings Placing
+a	_	Behind_the_scenes Cardinal_numbers
+few	_	Quantity
+blocks	_	Abandonment Activity_pause Activity_stop Bringing Cause_change_of_phase Change_of_phase Eclipse Experience_bodily_harm Experiencer_obj Filling Halt Hindering Measure_linear_extent Placing Preventing Process_stop Prohibiting Remembering_experience Remembering_information Remembering_to_do Shapes Thwarting
+from	_	
+her	_	Destiny
+mother's	_	
+home	_	Aggregate Buildings Expected_location_of_person Foreign_or_domestic_country Infrastructure Kinship Locale Locale_by_use Origin Part_inner_outer Part_orientational People_by_age Political_locales Temporary_stay
+.	_	

@@ -1,0 +1,16 @@
+1	A	_	DET	DET	_	2	det
+2	statue	_	NOUN	NOUN	_	11	compound
+3	of	_	ADP	ADP	_	2	acl
+4	the	_	DET	DET	_	9	det
+5	footballer	_	ADJ	ADJ	_	0	remnant
+6	Christiano	_	PROPN	PROPN	_	7	compound
+7	Ronaldo	_	PROPN	PROPN	_	9	compound
+8	in	_	ADP	ADP	_	9	compound
+9	#Funchal	_	NOUN	NOUN	_	11	compound
+10	in	_	ADP	ADP	_	11	compound
+11	#Maderia	_	NOUN	NOUN	_	14	nmod
+12	his	_	PRON	PRON	_	13	nmod:poss
+13	birthplace	_	NOUN	NOUN	_	14	nsubj
+14	#Justsaying	_	VERB	VERB	_	0	root
+15	http://t.co/eXBNrqwKzp	_	X	X	_	14	dobj
+

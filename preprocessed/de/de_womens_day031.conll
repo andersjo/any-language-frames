@@ -1,0 +1,8 @@
+1	Allerdings	_	ADV	ADV	_	2	advmod
+2	waren	_	VERB	VERB	_	5	cop
+3	die	_	DET	DET	_	4	det
+4	Frauenveranstaltungen	_	NOUN	NOUN	_	6	nsubj
+5	Repressionen	_	NOUN	NOUN	_	0	root
+6	ausgesetzt	_	VERB	VERB	_	5	cop
+7	.	_	PUNCT	PUNCT	_	6	punct
+

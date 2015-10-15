@@ -1,0 +1,16 @@
+1	Harry	_	PROPN	PROPN	_	2	name
+2	Potter	_	PROPN	PROPN	_	0	root
+3	1	_	NUM	NUM	_	2	nummod
+4	toute	_	DET	DET	_	6	det
+5	ma	_	DET	DET	_	6	nmod:poss
+6	vie	_	NOUN	NOUN	_	2	appos
+7	dans	_	ADP	ADP	_	9	case
+8	mon	_	DET	DET	_	9	nmod:poss
+9	coeur	_	NOUN	NOUN	_	6	nmod
+10	je	_	PRON	PRON	_	12	nsubj
+11	le	_	PRON	PRON	_	12	dobj
+12	connais	_	VERB	VERB	_	9	acl:relcl
+13	par	_	ADP	ADP	_	14	case
+14	coeur	_	NOUN	NOUN	_	12	nmod
+15	💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘	_	PROPN	PROPN	_	14	appos
+

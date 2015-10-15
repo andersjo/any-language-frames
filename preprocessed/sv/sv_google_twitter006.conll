@@ -1,0 +1,14 @@
+1	Google	_	PROPN	PROPN	_	5	nsubj
+2	News	_	PROPN	PROPN	_	1	name
+3	:	_	PUNCT	PUNCT	_	1	punct
+4	Aftonbladet	_	PROPN	PROPN	_	5	nsubj
+5	avslojar	_	VERB	VERB	_	0	root
+6	:	_	PUNCT	PUNCT	_	1	punct
+7	Oljetankern	_	NOUN	NOUN	_	8	nsubjpass
+8	anvandes	_	VERB	VERB	_	5	parataxis
+9	av	_	ADP	ADP	_	11	case
+10	svenska	_	ADJ	ADJ	_	11	amod
+11	oligarken	_	NOUN	NOUN	_	8	nmod
+12	-	_	PUNCT	PUNCT	_	5	punct
+13	Aftonbladet	_	PROPN	PROPN	_	8	nmod:agent
+

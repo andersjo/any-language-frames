@@ -1,0 +1,11 @@
+1	@PMRisman	_	NOUN	NOUN	_	2	nmod:poss
+2	@gaykillen	_	NOUN	NOUN	_	3	nmod:poss
+3	seriöst	_	NOUN	NOUN	_	4	nsubj
+4	hatar	_	VERB	VERB	_	0	root
+5	Harry	_	PROPN	PROPN	_	6	nmod:poss
+6	Potter	_	NOUN	NOUN	_	4	dobj
+7	som	_	CONJ	CONJ	_	8	mark
+8	karaktär	_	NOUN	NOUN	_	4	xcomp
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	usch	_	NOUN	NOUN	_	8	conj
+

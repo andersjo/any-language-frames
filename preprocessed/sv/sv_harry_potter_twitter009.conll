@@ -1,0 +1,18 @@
+1	Detta	_	PRON	PRON	_	7	nsubj
+2	måste	_	AUX	AUX	_	3	cop
+3	fan	_	ADJ	ADJ	_	7	nsubj
+4	vara	_	AUX	AUX	_	7	cop
+5	den	_	DET	DET	_	7	det
+6	bästa	_	ADJ	ADJ	_	7	amod
+7	raggningsrepliken	_	NOUN	NOUN	_	0	root
+8	i	_	ADP	ADP	_	9	case
+9	världen	_	NOUN	NOUN	_	7	nmod
+10	om	_	SCONJ	SCONJ	_	12	mark
+11	man	_	PRON	PRON	_	12	nsubj
+12	tycker	_	VERB	VERB	_	3	csubj
+13	om	_	ADP	ADP	_	15	case
+14	Harry	_	PROPN	PROPN	_	15	nmod:poss
+15	Potter	_	NOUN	NOUN	_	12	nmod
+16	👌	_	VERB	VERB	_	12	ccomp
+17	http://t.co/YINWpbYZHv	_	NOUN	NOUN	_	16	dobj
+

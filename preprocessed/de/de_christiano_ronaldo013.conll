@@ -1,0 +1,19 @@
+1	Ronaldo	_	PROPN	PROPN	_	2	nsubj
+2	hat	_	AUX	AUX	_	0	root
+3	einen	_	DET	DET	_	5	det
+4	älteren	_	ADJ	ADJ	_	5	amod
+5	Bruder	_	NOUN	NOUN	_	1	appos
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	Hugo	_	PROPN	PROPN	_	5	appos
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	und	_	CONJ	CONJ	_	5	cc
+10	zwei	_	NUM	NUM	_	12	nummod
+11	ältere	_	ADJ	ADJ	_	12	amod
+12	Schwestern	_	NOUN	NOUN	_	5	conj
+13	,	_	PUNCT	PUNCT	_	12	punct
+14	Liliana	_	PROPN	PROPN	_	15	name
+15	Cátia	_	PROPN	PROPN	_	12	appos
+16	und	_	CONJ	CONJ	_	15	cc
+17	Elma	_	PROPN	PROPN	_	15	conj
+18	.	_	PUNCT	PUNCT	_	5	punct
+

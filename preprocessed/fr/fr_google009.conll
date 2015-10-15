@@ -1,0 +1,14 @@
+1	La	_	DET	DET	_	2	det
+2	société	_	NOUN	NOUN	_	3	nsubj
+3	compte	_	VERB	VERB	_	0	root
+4	plus	_	ADV	ADV	_	5	mwe
+5	de	_	ADP	ADP	_	3	case
+6	(	_	PUNCT	PUNCT	_	7	punct
+7	dont	_	PRON	PRON	_	10	nmod
+8	pour	_	ADP	ADP	_	10	case
+9	la	_	DET	DET	_	10	det
+10	filiale	_	NOUN	NOUN	_	3	nmod
+11	Motorola	_	PROPN	PROPN	_	10	appos
+12	)	_	PUNCT	PUNCT	_	7	punct
+13	.	_	PUNCT	PUNCT	_	3	punct
+

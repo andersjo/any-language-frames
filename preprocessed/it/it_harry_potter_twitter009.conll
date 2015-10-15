@@ -1,0 +1,14 @@
+1	LEGO	_	PROPN	PROPN	_	0	root
+2	Harry	_	PROPN	PROPN	_	1	name
+3	Potter	_	PROPN	PROPN	_	1	name
+4	Mini	_	PROPN	PROPN	_	1	name
+5	Figure	_	PROPN	PROPN	_	1	name
+6	Mini	_	PROPN	PROPN	_	1	name
+7	Fig	_	PROPN	PROPN	_	5	name
+8	Minifigure	_	NOUN	NOUN	_	1	nmod
+9	From	_	PROPN	PROPN	_	8	nmod
+10	Set	_	PROPN	PROPN	_	9	name
+11	4865	_	NUM	NUM	_	9	name
+12	-	_	PUNCT	PUNCT	_	11	punct
+13	http://t.co/sdZU2eMOA1	_	NOUN	NOUN	_	1	nmod
+

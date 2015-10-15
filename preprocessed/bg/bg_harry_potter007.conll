@@ -1,0 +1,22 @@
+1	Думите	_	NOUN	NOUN	_	13	nsubj
+2	в	_	ADP	ADP	_	3	case
+3	началото	_	NOUN	NOUN	_	1	nmod
+4	на	_	ADP	ADP	_	6	case
+5	първата	_	ADJ	ADJ	_	6	amod
+6	книга	_	NOUN	NOUN	_	3	nmod
+7	„И	_	NOUN	NOUN	_	6	nmod
+8	всяко	_	DET	DET	_	9	det
+9	дете	_	NOUN	NOUN	_	7	nmod
+10	по	_	ADP	ADP	_	11	case
+11	света	_	NOUN	NOUN	_	9	nmod
+12	ще	_	PART	PART	_	13	aux
+13	знае	_	VERB	VERB	_	0	root
+14	името	_	NOUN	NOUN	_	13	dobj
+15	му	_	PRON	PRON	_	14	case
+16	“	_	PROPN	PROPN	_	14	nmod
+17	,	_	PUNCT	PUNCT	_	13	punct
+18	се	_	PRON	PRON	_	19	expl
+19	оказват	_	VERB	VERB	_	14	acl
+20	пророчески	_	NOUN	NOUN	_	19	nsubj
+21	.	_	PUNCT	PUNCT	_	13	punct
+

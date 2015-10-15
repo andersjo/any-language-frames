@@ -1,0 +1,18 @@
+1	Това	_	PRON	PRON	_	2	nsubj
+2	е	_	VERB	VERB	_	0	root
+3	единствената	_	ADJ	ADJ	_	4	amod
+4	купа	_	NOUN	NOUN	_	2	cop
+5	,	_	PUNCT	PUNCT	_	7	punct
+6	която	_	PRON	PRON	_	7	nsubj
+7	Роналдо	_	VERB	VERB	_	4	acl
+8	не	_	INTJ	INTJ	_	10	neg
+9	беше	_	AUX	AUX	_	10	aux
+10	печелил	_	VERB	VERB	_	7	ccomp
+11	на	_	ADP	ADP	_	13	case
+12	клубно	_	ADJ	ADJ	_	13	amod
+13	ниво	_	NOUN	NOUN	_	10	iobj
+14	до	_	ADP	ADP	_	16	case
+15	този	_	DET	DET	_	16	det
+16	момент	_	NOUN	NOUN	_	10	nmod
+17	.	_	PUNCT	PUNCT	_	2	punct
+

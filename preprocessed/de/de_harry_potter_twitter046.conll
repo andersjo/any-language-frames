@@ -1,0 +1,20 @@
+1	Ich	_	PRON	PRON	_	2	nsubj
+2	glaube	_	VERB	VERB	_	0	root
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	ich	_	PRON	PRON	_	13	nsubj
+5	habe	_	AUX	AUX	_	13	aux
+6	in	_	ADP	ADP	_	9	case
+7	diesen	_	PRON	PRON	_	13	nmod
+8	4	_	NUM	NUM	_	9	nummod
+9	Tagen	_	NOUN	NOUN	_	10	nmod
+10	öfter	_	ADJ	ADJ	_	12	amod
+11	Harry	_	PROPN	PROPN	_	12	name
+12	Potter	_	PROPN	PROPN	_	13	nmod
+13	gesehen	_	VERB	VERB	_	2	conj
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	als	_	SCONJ	SCONJ	_	17	mark
+16	meine	_	PRON	PRON	_	17	det
+17	Familie	_	NOUN	NOUN	_	19	compound
+18	.	_	PUNCT	PUNCT	_	2	punct
+19	#HarryPotter	_	NOUN	NOUN	_	13	dep
+

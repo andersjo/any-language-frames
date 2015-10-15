@@ -1,0 +1,7 @@
+1	I'd	_	PROPN	PROPN	_	0	root
+2	prefer	_	PROPN	PROPN	_	1	name
+3	Ronaldo	_	PROPN	PROPN	_	1	name
+4	over	_	X	X	_	3	foreign
+5	Angelina	_	PROPN	PROPN	_	1	conj
+6	Jolie	_	PROPN	PROPN	_	5	name
+

@@ -1,0 +1,24 @@
+1	Zeit	_	NOUN	NOUN	_	5	dobj
+2	mit	_	ADP	ADP	_	4	case
+3	ihrem	_	DET	DET	_	4	nmod:poss
+4	Vater	_	NOUN	NOUN	_	1	nmod
+5	verbrachte	_	VERB	VERB	_	0	root
+6	Jolie	_	PROPN	PROPN	_	5	nsubj
+7	daraufhin	_	ADV	ADV	_	5	advmod
+8	meist	_	ADV	ADV	_	5	advmod
+9	nur	_	ADV	ADV	_	12	advmod
+10	während	_	ADP	ADP	_	12	case
+11	der	_	DET	DET	_	12	det
+12	Schulferien	_	NOUN	NOUN	_	5	nmod
+13	oder	_	CONJ	CONJ	_	12	cc
+14	wenn	_	SCONJ	SCONJ	_	22	mark
+15	er	_	PRON	PRON	_	22	nsubj
+16	sie	_	PRON	PRON	_	22	nsubj
+17	und	_	CONJ	CONJ	_	16	cc
+18	ihren	_	DET	DET	_	19	nmod:poss
+19	Bruder	_	NOUN	NOUN	_	12	conj
+20	zu	_	ADP	ADP	_	21	case
+21	Dreharbeiten	_	NOUN	NOUN	_	22	nmod
+22	mitnahm	_	VERB	VERB	_	5	advcl
+23	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,8 @@
+1	leppene	_	NOUN	NOUN	_	0	root
+2	til	_	ADP	ADP	_	3	case
+3	Angelina	_	PROPN	PROPN	_	4	nmod:poss
+4	Jolie	_	NOUN	NOUN	_	1	nmod
+5	er	_	AUX	AUX	_	7	cop
+6	ummeneskelig	_	ADV	ADV	_	7	advmod
+7	vakre	_	ADJ	ADJ	_	3	amod
+

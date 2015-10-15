@@ -1,0 +1,13 @@
+1	Sedan	_	ADV	ADV	_	2	advmod
+2	dess	_	ADV	ADV	_	8	advmod
+3	har	_	AUX	AUX	_	8	aux
+4	dock	_	ADV	ADV	_	8	advmod
+5	en	_	DET	DET	_	6	det
+6	del	_	NOUN	NOUN	_	7	det
+7	söktjänster	_	NOUN	NOUN	_	8	nmod
+8	införskaffat	_	VERB	VERB	_	0	root
+9	en	_	DET	DET	_	11	det
+10	egen	_	ADJ	ADJ	_	11	det
+11	rättstavning	_	NOUN	NOUN	_	8	dobj
+12	.	_	PUNCT	PUNCT	_	8	punct
+

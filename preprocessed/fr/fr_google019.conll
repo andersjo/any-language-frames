@@ -1,0 +1,27 @@
+1	Google	_	PROPN	PROPN	_	4	nsubj
+2	a	_	AUX	AUX	_	4	aux
+3	également	_	ADV	ADV	_	4	advmod
+4	fait	_	VERB	VERB	_	0	root
+5	l'objet	_	NOUN	NOUN	_	4	dobj
+6	de	_	ADP	ADP	_	8	case
+7	plusieurs	_	DET	DET	_	8	det
+8	poursuites	_	NOUN	NOUN	_	5	nmod
+9	en	_	ADP	ADP	_	10	case
+10	justice	_	NOUN	NOUN	_	8	nmod
+11	,	_	PUNCT	PUNCT	_	4	punct
+12	notamment	_	ADV	ADV	_	15	advmod
+13	pour	_	ADP	ADP	_	15	case
+14	plusieurs	_	DET	DET	_	15	det
+15	affaires	_	NOUN	NOUN	_	4	nmod
+16	de	_	ADP	ADP	_	17	case
+17	compatibilité	_	NOUN	NOUN	_	15	nmod
+18	de	_	ADP	ADP	_	19	case
+19	copyright	_	NOUN	NOUN	_	17	nmod
+20	et	_	CONJ	CONJ	_	19	cc
+21	pour	_	ADP	ADP	_	23	case
+22	sa	_	DET	DET	_	23	nmod:poss
+23	plateforme	_	NOUN	NOUN	_	19	conj
+24	Google	_	PROPN	PROPN	_	25	name
+25	Books	_	PROPN	PROPN	_	23	appos
+26	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,9 @@
+1	Referee	_	PROPN	PROPN	_	4	nsubj
+2	is	_	VERB	VERB	_	8	cop
+3	almost	_	ADV	ADV	_	4	advmod
+4	as	_	ADV	ADV	_	2	conj:preconj
+5	gay	_	ADJ	ADJ	_	0	remnant
+6	as	_	ADP	ADP	_	2	compound:prt
+7	Christiano	_	PROPN	PROPN	_	8	compound
+8	Ronaldo	_	PROPN	PROPN	_	0	root
+

@@ -1,0 +1,22 @@
+1	Free	_	ADJ	ADJ	_	0	vocative
+2	!	_	PUNCT	PUNCT	_	3	punct
+3	In-game	_	NOUN	NOUN	_	4	nsubj
+4	chat	_	VERB	VERB	_	0	root
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	surr	_	NOUN	NOUN	_	7	compound
+7	@20	_	NOUN	NOUN	_	4	dobj
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	news	_	NOUN	NOUN	_	7	conj
+10	,	_	PUNCT	PUNCT	_	7	punct
+11	and	_	CONJ	CONJ	_	7	cc
+12	more	_	ADV	ADV	_	7	conj
+13	!	_	PUNCT	PUNCT	_	7	punct
+14	https://t.co/hW86I3dbBh	_	PROPN	PROPN	_	15	compound
+15	#WorldsBigplays	_	PROPN	PROPN	_	16	compound
+16	#Worlds	_	PROPN	PROPN	_	17	compound
+17	#LCSBigPlays	_	PROPN	PROPN	_	18	compound
+18	#LCS	_	PROPN	PROPN	_	21	compound
+19	#LeagueOfLegends	_	PROPN	PROPN	_	21	compound
+20	#lol	_	PROPN	PROPN	_	21	compound
+21	yy	_	PROPN	PROPN	_	7	conj
+

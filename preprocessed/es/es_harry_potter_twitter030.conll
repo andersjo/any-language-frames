@@ -1,0 +1,16 @@
+1	Harry	_	PROPN	PROPN	_	2	name
+2	Potter	_	PROPN	PROPN	_	0	root
+3	y	_	CONJ	CONJ	_	2	cc
+4	el	_	DET	DET	_	5	det
+5	misterio	_	NOUN	NOUN	_	2	conj
+6	de	_	ADP	ADP	_	8	case
+7	porque	_	SCONJ	SCONJ	_	8	mark
+8	mierda	_	VERB	VERB	_	5	advcl
+9	estas	_	PRON	PRON	_	8	dobj
+10	en	_	ADP	ADP	_	11	case
+11	linea	_	NOUN	NOUN	_	8	nmod
+12	y	_	CONJ	CONJ	_	8	cc
+13	no	_	ADV	ADV	_	15	neg
+14	me	_	PRON	PRON	_	15	iobj
+15	hablas	_	VERB	VERB	_	8	conj
+

@@ -1,0 +1,13 @@
+1	Top	_	PROPN	PROPN	_	5	nsubj
+2	14	_	NUM	NUM	_	1	nummod
+3	:	_	PUNCT	PUNCT	_	1	punct
+4	Clermont	_	PROPN	PROPN	_	5	nsubj
+5	domine	_	VERB	VERB	_	0	root
+6	Toulouse	_	PROPN	PROPN	_	5	dobj
+7	et	_	CONJ	CONJ	_	5	cc
+8	s'empare	_	VERB	VERB	_	5	conj
+9	de	_	ADP	ADP	_	11	case
+10	la	_	DET	DET	_	11	det
+11	tête	_	NOUN	NOUN	_	8	nmod
+12	https://t.co/s9athlqQaQ	_	PROPN	PROPN	_	11	appos
+

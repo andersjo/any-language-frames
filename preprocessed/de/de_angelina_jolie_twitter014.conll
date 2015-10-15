@@ -1,0 +1,12 @@
+1	Selten	_	ADV	ADV	_	3	advmod
+2	jemanden	_	PRON	PRON	_	3	nsubj
+3	gesehen	_	VERB	VERB	_	0	root
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	der	_	DET	DET	_	7	det
+6	Angelina	_	PROPN	PROPN	_	7	amod
+7	Jolie	_	PROPN	PROPN	_	10	nmod
+8	so	_	ADV	ADV	_	9	advmod
+9	ähnlich	_	ADJ	ADJ	_	10	advmod
+10	sieht	_	VERB	VERB	_	3	xcomp
+11	!	_	PUNCT	PUNCT	_	3	punct
+

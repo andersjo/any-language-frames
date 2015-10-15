@@ -1,0 +1,17 @@
+1	Il	_	PRON	PRON	_	2	nsubj
+2	marque	_	VERB	VERB	_	0	root
+3	ensuite	_	ADV	ADV	_	2	advmod
+4	contre	_	ADP	ADP	_	6	case
+5	Manchester	_	PROPN	PROPN	_	6	name
+6	City	_	PROPN	PROPN	_	2	nmod
+7	d'une	_	NOUN	NOUN	_	6	appos
+8	reprise	_	VERB	VERB	_	7	acl
+9	de	_	ADP	ADP	_	10	case
+10	volée	_	NOUN	NOUN	_	8	nmod
+11	et	_	CONJ	CONJ	_	2	cc
+12	Tottenham	_	PROPN	PROPN	_	13	name
+13	d'une	_	NOUN	NOUN	_	8	nmod
+14	frappe	_	VERB	VERB	_	13	acl
+15	des	_	ADP	ADP	_	14	case
+16	.	_	PUNCT	PUNCT	_	2	punct
+

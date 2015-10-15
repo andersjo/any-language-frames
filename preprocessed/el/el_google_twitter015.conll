@@ -1,0 +1,12 @@
+1	Κατερίνα	_	NOUN	NOUN	_	2	nmod
+2	Λέχου	_	NOUN	NOUN	_	6	remnant
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	«Ο	_	NOUN	NOUN	_	2	conj
+5	γάμος	_	VERB	VERB	_	0	root
+6	είναι	_	VERB	VERB	_	8	cop
+7	δύσκολη	_	ADJ	ADJ	_	8	amod
+8	ιστορία»	_	NOUN	NOUN	_	5	nsubj
+9	-	_	PUNCT	PUNCT	_	11	punct
+10	http://t.co/cgOidvz3XZ	_	NOUN	NOUN	_	8	nmod
+11	#starbuzz	_	NOUN	NOUN	_	10	nmod
+

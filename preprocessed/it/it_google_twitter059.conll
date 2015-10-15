@@ -1,0 +1,25 @@
+1	Google	_	PROPN	PROPN	_	5	nsubj
+2	News	_	NOUN	NOUN	_	1	nmod
+3	IT	_	PROPN	PROPN	_	2	nmod
+4	:	_	PUNCT	PUNCT	_	1	punct
+5	Cede	_	VERB	VERB	_	0	root
+6	dopo	_	ADP	ADP	_	8	case
+7	10	_	NUM	NUM	_	8	nummod
+8	giorni	_	NOUN	NOUN	_	5	nmod
+9	viadotto	_	VERB	VERB	_	8	acl
+10	aperto	_	VERB	VERB	_	9	ccomp
+11	il	_	DET	DET	_	12	det
+12	23	_	NUM	NUM	_	10	nmod
+13	dicembre	_	NOUN	NOUN	_	10	dobj
+14	:	_	PUNCT	PUNCT	_	5	punct
+15	ira	_	NOUN	NOUN	_	10	dobj
+16	di	_	ADP	ADP	_	17	case
+17	Renzi	_	PROPN	PROPN	_	15	nmod
+18	-	_	PUNCT	PUNCT	_	5	punct
+19	Corriere	_	PROPN	PROPN	_	15	nmod
+20	dell	_	PROPN	PROPN	_	19	name
+21	...	_	PUNCT	PUNCT	_	5	punct
+22	http://t.co/hb71el9T0R	_	NOUN	NOUN	_	19	appos
+23	#News	_	PROPN	PROPN	_	22	nmod
+24	#Italia	_	PROPN	PROPN	_	23	name
+

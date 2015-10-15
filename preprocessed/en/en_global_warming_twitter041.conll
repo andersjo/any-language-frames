@@ -1,0 +1,19 @@
+1	Crayola	_	PROPN	PROPN	_	0	root
+2	Common	_	ADJ	ADJ	_	0	iobj
+3	Core	_	NOUN	NOUN	_	6	compound
+4	Lessons	_	PROPN	PROPN	_	6	compound
+5	Promote	_	PROPN	PROPN	_	6	compound
+6	Maoism	_	PROPN	PROPN	_	1	conj
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	Global	_	PROPN	PROPN	_	9	compound
+9	Warming	_	NOUN	NOUN	_	18	compound
+10	Alarmism	_	PROPN	PROPN	_	6	list
+11	,	_	PUNCT	PUNCT	_	6	punct
+12	Social	_	PROPN	PROPN	_	13	compound
+13	Justice	_	PROPN	PROPN	_	10	conj
+14	http://t.co/NfzncMWgQ9	_	X	X	_	6	list
+15	#TeaParty	_	ADJ	ADJ	_	0	foreign
+16	#tcot	_	NOUN	NOUN	_	17	compound
+17	#tlot	_	NOUN	NOUN	_	18	compound
+18	#PJNet	_	NOUN	NOUN	_	13	appos
+

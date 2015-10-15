@@ -1,0 +1,12 @@
+1	@ChloeMchd	_	PROPN	PROPN	_	3	name
+2	mddddddr	_	PROPN	PROPN	_	3	name
+3	oh	_	PROPN	PROPN	_	5	nsubj
+4	clément	_	VERB	VERB	_	5	cop
+5	qu'est-ce	_	ADJ	ADJ	_	0	root
+6	que	_	SCONJ	SCONJ	_	8	mark
+7	tu	_	PRON	PRON	_	8	nsubj
+8	fous	_	NOUN	NOUN	_	5	nmod
+9	sur	_	ADP	ADP	_	11	case
+10	google	_	ADJ	ADJ	_	11	amod
+11	image	_	NOUN	NOUN	_	8	nmod
+

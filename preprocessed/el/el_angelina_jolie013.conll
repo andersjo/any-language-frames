@@ -1,0 +1,26 @@
+1	Η	_	ADJ	ADJ	_	2	det
+2	Αντζελίνα	_	NOUN	NOUN	_	4	nsubj
+3	δεν	_	PART	PART	_	4	neg
+4	είχε	_	VERB	VERB	_	0	root
+5	ποτέ	_	ADV	ADV	_	4	advmod
+6	καλές	_	ADJ	ADJ	_	7	amod
+7	σχέσεις	_	NOUN	NOUN	_	4	dobj
+8	με	_	ADP	ADP	_	10	case
+9	τον	_	ADJ	ADJ	_	10	det
+10	πατέρα	_	NOUN	NOUN	_	7	nmod
+11	της	_	ADJ	ADJ	_	16	det
+12	και	_	CONJ	CONJ	_	11	cc
+13	αυτό	_	PRON	PRON	_	11	conj
+14	γιατί	_	CONJ	CONJ	_	17	mark
+15	η	_	ADJ	ADJ	_	16	det
+16	αιτία	_	NOUN	NOUN	_	17	nsubj
+17	διαζυγίου	_	VERB	VERB	_	4	conj
+18	των	_	ADJ	ADJ	_	19	det
+19	γονιών	_	NOUN	NOUN	_	17	nmod
+20	της	_	PRON	PRON	_	19	nmod
+21	ήταν	_	VERB	VERB	_	17	conj
+22	οι	_	ADJ	ADJ	_	23	det
+23	απιστίες	_	NOUN	NOUN	_	21	nsubj
+24	του	_	PRON	PRON	_	23	nmod
+25	.	_	PUNCT	PUNCT	_	4	punct
+

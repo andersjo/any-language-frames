@@ -1,0 +1,21 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	a	_	DET	DET	_	5	det
+3	2014	_	NUM	NUM	_	4	nummod
+4	UEFA	_	NOUN	NOUN	_	5	compound
+5	poll	_	NOUN	NOUN	_	1	dobj
+6	,	_	PUNCT	PUNCT	_	9	punct
+7	he	_	PRON	PRON	_	9	nsubjpass
+8	was	_	AUX	AUX	_	9	auxpass
+9	named	_	VERB	VERB	_	5	parataxis
+10	the	_	DET	DET	_	12	det
+11	greatest	_	ADJ	ADJ	_	0	foreign
+12	goalscorer	_	NOUN	NOUN	_	9	dobj
+13	to	_	PART	PART	_	14	mark
+14	play	_	VERB	VERB	_	12	acl
+15	in	_	ADP	ADP	_	14	compound:prt
+16	the	_	DET	DET	_	19	det
+17	UEFA	_	PROPN	PROPN	_	19	compound
+18	Champions	_	PROPN	PROPN	_	19	compound
+19	League	_	PROPN	PROPN	_	14	dobj
+20	.	_	PUNCT	PUNCT	_	9	punct
+

@@ -1,0 +1,25 @@
+1	OMG	_	INTJ	INTJ	_	11	discourse
+2	!	_	PUNCT	PUNCT	_	4	punct
+3	Huge	_	ADJ	ADJ	_	0	appos
+4	BULGE	_	NOUN	NOUN	_	11	nmod
+5	on	_	ADP	ADP	_	4	compound
+6	Christiano	_	PROPN	PROPN	_	7	compound
+7	Ronaldo's	_	PROPN	PROPN	_	8	compound
+8	statue	_	NOUN	NOUN	_	10	compound
+9	!	_	PUNCT	PUNCT	_	8	punct
+10	We're	_	NOUN	NOUN	_	11	nsubj
+11	talking	_	VERB	VERB	_	0	root
+12	BIG	_	ADJ	ADJ	_	0	discourse
+13	here	_	ADV	ADV	_	11	advmod
+14	.	_	PUNCT	PUNCT	_	11	punct
+15	Now	_	ADV	ADV	_	16	advmod
+16	at	_	ADP	ADP	_	11	compound:prt
+17	The	_	DET	DET	_	18	det
+18	#Bulgereport	_	NOUN	NOUN	_	16	dobj
+19	at	_	ADP	ADP	_	18	acl
+20	http://t.co/v46C8QuT3j	_	X	X	_	21	compound
+21	#penis	_	PROPN	PROPN	_	23	compound
+22	#gay	_	PROPN	PROPN	_	23	compound
+23	BIG	_	PROPN	PROPN	_	18	appos
+24	!	_	PUNCT	PUNCT	_	11	punct
+

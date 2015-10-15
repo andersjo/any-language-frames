@@ -1,0 +1,13 @@
+1	На	_	ADP	ADP	_	3	case
+2	16-годишна	_	ADJ	ADJ	_	3	amod
+3	възраст	_	NOUN	NOUN	_	6	nmod
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	Джоли	_	PROPN	PROPN	_	6	nsubj
+6	изиграва	_	VERB	VERB	_	0	root
+7	първата	_	ADJ	ADJ	_	9	amod
+8	си	_	PRON	PRON	_	7	case
+9	роля	_	NOUN	NOUN	_	6	dobj
+10	в	_	ADP	ADP	_	11	case
+11	театъра	_	NOUN	NOUN	_	9	nmod
+12	.	_	PUNCT	PUNCT	_	6	punct
+

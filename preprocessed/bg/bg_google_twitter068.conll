@@ -1,0 +1,7 @@
+1	Можно	_	NOUN	NOUN	_	0	root
+2	по	_	ADP	ADP	_	3	case
+3	имейлу	_	NOUN	NOUN	_	1	nmod
+4	или	_	CONJ	CONJ	_	3	cc
+5	google-talk	_	NOUN	NOUN	_	3	conj
+6	.	_	PUNCT	PUNCT	_	1	punct
+

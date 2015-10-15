@@ -1,0 +1,20 @@
+1	En	_	ADP	ADP	_	3	case
+2	cette	_	DET	DET	_	3	det
+3	année	_	NOUN	NOUN	_	9	nmod
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	Sergueï	_	PROPN	PROPN	_	6	name
+6	Brin	_	PROPN	PROPN	_	0	root
+7	(	_	PUNCT	PUNCT	_	9	punct
+8	23	_	NUM	NUM	_	9	nummod
+9	ans	_	NOUN	NOUN	_	6	nmod
+10	)	_	PUNCT	PUNCT	_	6	punct
+11	et	_	CONJ	CONJ	_	6	cc
+12	Larry	_	PROPN	PROPN	_	13	name
+13	Page	_	PROPN	PROPN	_	6	conj
+14	(	_	PUNCT	PUNCT	_	16	punct
+15	24	_	NUM	NUM	_	16	nummod
+16	ans	_	NOUN	NOUN	_	13	nmod
+17	)	_	PUNCT	PUNCT	_	16	punct
+18	sont	_	VERB	VERB	_	13	acl
+19	.	_	PUNCT	PUNCT	_	6	punct
+

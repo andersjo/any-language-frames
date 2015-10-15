@@ -1,0 +1,27 @@
+1	Il	_	PRON	PRON	_	2	nsubj
+2	inscrit	_	VERB	VERB	_	0	root
+3	également	_	ADV	ADV	_	2	advmod
+4	deux	_	NUM	NUM	_	5	nummod
+5	buts	_	NOUN	NOUN	_	2	dobj
+6	en	_	ADP	ADP	_	8	case
+7	trois	_	NUM	NUM	_	8	nummod
+8	matchs	_	NOUN	NOUN	_	2	dobj
+9	de	_	ADP	ADP	_	10	case
+10	Coupe	_	PROPN	PROPN	_	8	nmod
+11	du	_	ADP	ADP	_	12	case
+12	Portugal	_	PROPN	PROPN	_	10	nmod
+13	et	_	CONJ	CONJ	_	2	cc
+14	fait	_	VERB	VERB	_	2	conj
+15	ses	_	DET	DET	_	16	nmod:poss
+16	débuts	_	NOUN	NOUN	_	14	dobj
+17	en	_	ADP	ADP	_	18	case
+18	Ligue	_	NOUN	NOUN	_	16	nmod
+19	des	_	ADP	ADP	_	21	case
+20	champions	_	ADJ	ADJ	_	21	amod
+21	face	_	NOUN	NOUN	_	18	nmod
+22	à	_	ADP	ADP	_	23	case
+23	l'Inter	_	VERB	VERB	_	21	acl
+24	de	_	ADP	ADP	_	25	case
+25	Milan	_	PROPN	PROPN	_	23	nmod
+26	.	_	PUNCT	PUNCT	_	2	punct
+

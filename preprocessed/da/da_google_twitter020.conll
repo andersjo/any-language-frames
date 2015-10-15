@@ -1,0 +1,9 @@
+1	FT	_	NOUN	NOUN	_	0	root
+2	-	_	PUNCT	PUNCT	_	1	punct
+3	Chelsea	_	PROPN	PROPN	_	1	list
+4	3-0	_	NUM	NUM	_	5	nummod
+5	Watford	_	NOUN	NOUN	_	6	dep
+6	-via	_	PROPN	PROPN	_	1	appos
+7	SportsCenter	_	NOUN	NOUN	_	6	dep
+8	http://t.co/LKtOYvW7u4	_	NOUN	NOUN	_	7	nmod
+

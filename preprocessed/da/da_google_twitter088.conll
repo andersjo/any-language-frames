@@ -1,0 +1,9 @@
+1	Fandt	_	VERB	VERB	_	0	root
+2	du	_	PRON	PRON	_	1	nsubj
+3	hvad	_	PRON	PRON	_	1	dobj
+4	du	_	PRON	PRON	_	5	nsubj
+5	søgte	_	VERB	VERB	_	3	acl:relcl
+6	efter	_	ADP	ADP	_	8	case
+7	...?	_	ADJ	ADJ	_	8	amod
+8	https://t.co/9R1gpWixnw	_	NOUN	NOUN	_	5	nmod
+

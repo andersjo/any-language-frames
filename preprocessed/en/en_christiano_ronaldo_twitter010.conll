@@ -1,0 +1,22 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	@nickliewky	_	PROPN	PROPN	_	0	root
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Yupp	_	PROPN	PROPN	_	5	compound
+5	bro	_	PROPN	PROPN	_	2	appos
+6	..	_	PUNCT	PUNCT	_	2	punct
+7	"	_	PUNCT	PUNCT	_	2	punct
+8	Haha	_	PROPN	PROPN	_	11	compound
+9	!	_	PUNCT	PUNCT	_	2	punct
+10	Tough	_	ADJ	ADJ	_	0	punct
+11	bro	_	NOUN	NOUN	_	2	appos
+12	.	_	PUNCT	PUNCT	_	2	punct
+13	Better	_	ADJ	ADJ	_	0	punct
+14	than	_	ADP	ADP	_	15	mark
+15	having	_	VERB	VERB	_	2	parataxis
+16	Christiano	_	PROPN	PROPN	_	17	compound
+17	Ronaldo	_	PROPN	PROPN	_	15	dobj
+18	take	_	VERB	VERB	_	15	ccomp
+19	over	_	ADV	ADV	_	18	advmod
+20	right	_	ADJ	ADJ	_	0	punct
+21	?	_	PUNCT	PUNCT	_	15	punct
+

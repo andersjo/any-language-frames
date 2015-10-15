@@ -1,0 +1,16 @@
+1	Jennifer	_	PROPN	PROPN	_	2	name
+2	Aniston	_	PROPN	PROPN	_	5	nsubj
+3	es	_	VERB	VERB	_	5	cop
+4	mil	_	NUM	NUM	_	5	nummod
+5	veces	_	NOUN	NOUN	_	7	nmod
+6	mas	_	ADV	ADV	_	7	advmod
+7	linda	_	VERB	VERB	_	0	root
+8	que	_	SCONJ	SCONJ	_	14	mark
+9	Angelina	_	PROPN	PROPN	_	10	name
+10	Jolie	_	PROPN	PROPN	_	14	nsubj
+11	,	_	PUNCT	PUNCT	_	7	punct
+12	no	_	ADV	ADV	_	14	neg
+13	me	_	PRON	PRON	_	14	iobj
+14	jodan	_	VERB	VERB	_	7	ccomp
+15	.	_	PUNCT	PUNCT	_	7	punct
+

@@ -1,0 +1,20 @@
+1	Ich	_	PRON	PRON	_	9	nsubj
+2	habe	_	AUX	AUX	_	9	aux
+3	ein	_	DET	DET	_	5	det
+4	@YouTube	_	PROPN	PROPN	_	5	name
+5	-Video	_	PROPN	PROPN	_	9	nmod
+6	von	_	ADP	ADP	_	8	case
+7	@missesvlog	_	ADJ	ADJ	_	8	advmod
+8	positiv	_	ADJ	ADJ	_	9	advmod
+9	bewertet	_	VERB	VERB	_	0	root
+10	:	_	PUNCT	PUNCT	_	9	punct
+11	http://t.co/snLB4HoQjt	_	PROPN	PROPN	_	13	name
+12	MissesVlog	_	PROPN	PROPN	_	13	name
+13	Hot	_	PROPN	PROPN	_	9	nsubj
+14	???!	_	X	X	_	18	compound
+15	-	_	PUNCT	PUNCT	_	16	punct
+16	Ich	_	PRON	PRON	_	17	nsubj
+17	Google	_	PROPN	PROPN	_	18	name
+18	Mich	_	PROPN	PROPN	_	13	conj
+19	Selbst	_	ADV	ADV	_	18	advmod
+

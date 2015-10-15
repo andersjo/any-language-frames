@@ -1,0 +1,24 @@
+1	Μάλιστα	_	ADV	ADV	_	4	advmod
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	η	_	ADJ	ADJ	_	6	det
+4	παλιά	_	ADJ	ADJ	_	0	root
+5	του	_	ADJ	ADJ	_	6	det
+6	ομάδα	_	NOUN	NOUN	_	4	nmod
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	του	_	ADJ	ADJ	_	9	det
+9	ετοίμασε	_	NOUN	NOUN	_	6	conj
+10	κι	_	CONJ	CONJ	_	6	cc
+11	ένα	_	ADJ	ADJ	_	12	det
+12	οπτικοακουστικό	_	NOUN	NOUN	_	6	conj
+13	υλικό	_	NOUN	NOUN	_	12	nmod
+14	,	_	PUNCT	PUNCT	_	17	punct
+15	για	_	ADP	ADP	_	17	case
+16	την	_	ADJ	ADJ	_	17	det
+17	πορεία	_	NOUN	NOUN	_	12	nmod
+18	του	_	PRON	PRON	_	17	nmod
+19	,	_	PUNCT	PUNCT	_	21	punct
+20	στη	_	ADP	ADP	_	21	case
+21	Σπόρτινγκ	_	NOUN	NOUN	_	17	nmod
+22	Λισαβόνας	_	NOUN	NOUN	_	21	nmod
+23	.	_	PUNCT	PUNCT	_	21	punct
+

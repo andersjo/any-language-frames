@@ -1,0 +1,20 @@
+1	“	_	PUNCT	PUNCT	_	2	punct
+2	@flowemix	_	PROPN	PROPN	_	0	root
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	🌸	_	PROPN	PROPN	_	2	nmod
+5	Cita	_	PROPN	PROPN	_	4	name
+6	e	_	CONJ	CONJ	_	2	cc
+7	rispondi	_	ADJ	ADJ	_	8	amod
+8	🌸	_	NOUN	NOUN	_	4	conj
+9	Per	_	ADP	ADP	_	10	case
+10	chi	_	PRON	PRON	_	8	nmod
+11	diventeresti	_	VERB	VERB	_	10	acl:relcl
+12	lesbica	_	ADJ	ADJ	_	11	xcomp
+13	?	_	PUNCT	PUNCT	_	2	punct
+14	”	_	PUNCT	PUNCT	_	15	punct
+15	Megan	_	PROPN	PROPN	_	11	dobj
+16	fox	_	PROPN	PROPN	_	15	name
+17	o	_	CONJ	CONJ	_	15	cc
+18	angelina	_	PROPN	PROPN	_	15	conj
+19	jolie	_	ADJ	ADJ	_	18	amod
+

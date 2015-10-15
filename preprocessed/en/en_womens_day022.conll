@@ -1,0 +1,22 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	London	_	PROPN	PROPN	_	4	advcl
+3	there	_	ADV	ADV	_	4	expl
+4	was	_	VERB	VERB	_	1	advcl
+5	a	_	DET	DET	_	6	det
+6	march	_	NOUN	NOUN	_	4	nsubj
+7	from	_	ADP	ADP	_	4	compound:prt
+8	Bow	_	PROPN	PROPN	_	11	nmod:poss
+9	to	_	PART	PART	_	8	case
+10	Trafalgar	_	PROPN	PROPN	_	11	compound
+11	Square	_	PROPN	PROPN	_	13	compound
+12	in	_	ADP	ADP	_	13	compound
+13	support	_	NOUN	NOUN	_	15	compound
+14	of	_	ADP	ADP	_	13	compound
+15	women's	_	NOUN	NOUN	_	16	compound
+16	suffrage	_	NOUN	NOUN	_	6	conj
+17	on	_	ADP	ADP	_	15	compound
+18	8	_	NUM	NUM	_	19	nummod
+19	March	_	PROPN	PROPN	_	11	list
+20	1914	_	NUM	NUM	_	19	nmod:tmod
+21	.	_	PUNCT	PUNCT	_	3	punct
+

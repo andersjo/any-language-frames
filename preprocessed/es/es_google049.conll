@@ -1,0 +1,10 @@
+1	En	_	ADP	ADP	_	2	case
+2	febrero	_	PROPN	PROPN	_	6	nmod
+3	de	_	ADP	ADP	_	4	case
+4	2008	_	NUM	NUM	_	2	nmod
+5	se	_	PRON	PRON	_	6	iobj
+6	lanza	_	VERB	VERB	_	0	root
+7	Google	_	PROPN	PROPN	_	8	name
+8	Sites	_	PROPN	PROPN	_	6	nsubj
+9	.	_	PUNCT	PUNCT	_	6	punct
+

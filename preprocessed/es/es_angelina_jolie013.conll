@@ -1,0 +1,25 @@
+1	Es	_	AUX	AUX	_	2	auxpass
+2	considerada	_	VERB	VERB	_	3	cop
+3	una	_	PRON	PRON	_	0	root
+4	de	_	ADP	ADP	_	6	case
+5	las	_	DET	DET	_	6	det
+6	mujeres	_	NOUN	NOUN	_	3	nmod
+7	más	_	ADV	ADV	_	8	advmod
+8	sensuales	_	ADJ	ADJ	_	6	amod
+9	del	_	ADP	ADP	_	10	case
+10	mundo	_	NOUN	NOUN	_	8	nmod
+11	y	_	CONJ	CONJ	_	2	cc
+12	por	_	ADP	ADP	_	13	case
+13	esto	_	PRON	PRON	_	14	nmod
+14	es	_	VERB	VERB	_	16	cop
+15	el	_	DET	DET	_	16	det
+16	centro	_	NOUN	NOUN	_	2	conj
+17	de	_	ADP	ADP	_	18	case
+18	atención	_	NOUN	NOUN	_	16	nmod
+19	de	_	ADP	ADP	_	21	case
+20	varios	_	DET	DET	_	21	det
+21	medios	_	NOUN	NOUN	_	18	nmod
+22	del	_	ADP	ADP	_	23	case
+23	entretenimiento	_	NOUN	NOUN	_	21	nmod
+24	.	_	PUNCT	PUNCT	_	2	punct
+

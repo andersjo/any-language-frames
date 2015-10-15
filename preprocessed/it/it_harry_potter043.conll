@@ -1,0 +1,18 @@
+1	Tuttavia	_	ADV	ADV	_	11	advmod
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	il	_	DET	DET	_	7	det
+4	settimo	_	ADJ	ADJ	_	7	amod
+5	e	_	CONJ	CONJ	_	4	cc
+6	conclusivo	_	ADJ	ADJ	_	4	conj
+7	libro	_	NOUN	NOUN	_	11	nsubjpass
+8	della	_	ADP	ADP	_	9	case
+9	serie	_	NOUN	NOUN	_	7	nmod
+10	è	_	AUX	AUX	_	11	auxpass
+11	ambientato	_	VERB	VERB	_	0	root
+12	nella	_	ADP	ADP	_	13	case
+13	scuola	_	NOUN	NOUN	_	11	nmod
+14	solo	_	ADJ	ADJ	_	13	amod
+15	in	_	ADP	ADP	_	16	case
+16	parte	_	NOUN	NOUN	_	13	nmod
+17	.	_	PUNCT	PUNCT	_	11	punct
+

@@ -1,0 +1,13 @@
+1	@Irenussa	_	PROPN	PROPN	_	2	name
+2	pelis24	_	PROPN	PROPN	_	9	nsubj
+3	pero	_	CONJ	CONJ	_	2	cc
+4	no	_	ADV	ADV	_	7	neg
+5	hay	_	AUX	AUX	_	7	aux
+6	y	_	CONJ	CONJ	_	5	cc
+7	llevo	_	VERB	VERB	_	0	root
+8	30	_	NUM	NUM	_	9	nummod
+9	minutos	_	NOUN	NOUN	_	7	dobj
+10	buscando	_	VERB	VERB	_	9	acl
+11	en	_	ADP	ADP	_	12	case
+12	google	_	PROPN	PROPN	_	10	nmod
+

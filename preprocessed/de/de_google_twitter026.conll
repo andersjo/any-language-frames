@@ -1,0 +1,18 @@
+1	Aichach	_	PROPN	PROPN	_	2	nsubj
+2	hofft	_	VERB	VERB	_	0	root
+3	auf	_	ADP	ADP	_	4	case
+4	Aufstieg	_	NOUN	NOUN	_	2	nmod
+5	:	_	PUNCT	PUNCT	_	4	punct
+6	Kreisliga	_	NOUN	NOUN	_	4	appos
+7	S�d	_	PROPN	PROPN	_	6	appos
+8	.	_	PUNCT	PUNCT	_	6	punct
+9	Diesen	_	PRON	PRON	_	10	det
+10	Tabellenplatz	_	NOUN	NOUN	_	11	dobj
+11	gilt	_	VERB	VERB	_	2	conj
+12	es	_	PRON	PRON	_	11	nsubj
+13	angesichts	_	ADP	ADP	_	17	case
+14	des	_	DET	DET	_	17	det
+15	gro�	_	ADJ	ADJ	_	17	amod
+16	…	_	PROPN	PROPN	_	17	amod
+17	http://t.co/5wk5x3yfuM	_	PROPN	PROPN	_	11	nmod
+

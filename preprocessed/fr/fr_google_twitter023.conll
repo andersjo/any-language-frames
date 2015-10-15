@@ -1,0 +1,13 @@
+1	Suprême	_	PROPN	PROPN	_	3	name
+2	Cuts	_	PROPN	PROPN	_	3	name
+3	feat	_	PROPN	PROPN	_	0	root
+4	.	_	PUNCT	PUNCT	_	3	punct
+5	Mahuat	_	PROPN	PROPN	_	3	nmod
+6	...	_	PUNCT	PUNCT	_	5	punct
+7	-	_	PUNCT	PUNCT	_	12	punct
+8	Brown	_	PROPN	PROPN	_	12	name
+9	Flowers	_	PROPN	PROPN	_	12	name
+10	http://t.co/lpma8y53zd	_	PROPN	PROPN	_	12	name
+11	#NowPlaying	_	PROPN	PROPN	_	12	name
+12	#6music	_	PROPN	PROPN	_	3	conj
+

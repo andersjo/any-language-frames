@@ -1,0 +1,18 @@
+1	Sie	_	PRON	PRON	_	6	nsubjpass
+2	wurde	_	AUX	AUX	_	6	auxpass
+3	nach	_	ADP	ADP	_	5	case
+4	den	_	DET	DET	_	5	det
+5	Backlinks	_	NOUN	NOUN	_	6	nmod
+6	benannt	_	VERB	VERB	_	0	root
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	die	_	PRON	PRON	_	15	nsubjpass
+9	zur	_	ADP	ADP	_	10	case
+10	Bestimmung	_	NOUN	NOUN	_	15	nmod
+11	der	_	DET	DET	_	12	det
+12	Wertigkeit	_	NOUN	NOUN	_	10	det
+13	einer	_	DET	DET	_	14	det
+14	Webseite	_	NOUN	NOUN	_	12	det
+15	analysiert	_	VERB	VERB	_	5	acl
+16	werden	_	AUX	AUX	_	15	auxpass
+17	.	_	PUNCT	PUNCT	_	6	punct
+

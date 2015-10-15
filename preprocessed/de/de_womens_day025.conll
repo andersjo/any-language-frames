@@ -1,0 +1,7 @@
+1	Dieser	_	PRON	PRON	_	2	nsubjpass
+2	wurde	_	AUX	AUX	_	0	root
+3	auf	_	ADP	ADP	_	1	case
+4	den	_	DET	DET	_	5	det
+5	12	_	NUM	NUM	_	3	dep
+6	.	_	PUNCT	PUNCT	_	5	punct
+

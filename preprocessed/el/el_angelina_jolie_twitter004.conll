@@ -1,0 +1,13 @@
+1	Angelina	_	NOUN	NOUN	_	0	root
+2	Jolie	_	NOUN	NOUN	_	1	nmod
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	«Νιώθω	_	NOUN	NOUN	_	2	conj
+5	διαφορετικά	_	ADV	ADV	_	7	advmod
+6	που	_	PRON	PRON	_	7	nsubj
+7	αποκαλώ	_	VERB	VERB	_	4	acl:relcl
+8	τον	_	ADJ	ADJ	_	9	det
+9	Brad	_	NOUN	NOUN	_	7	dobj
+10	σύζυγο	_	ADJ	ADJ	_	11	amod
+11	μου»	_	NOUN	NOUN	_	9	nmod
+12	http://t.co/IlW7FfBTAZ	_	NOUN	NOUN	_	11	nmod
+

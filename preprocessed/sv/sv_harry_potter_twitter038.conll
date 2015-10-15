@@ -1,0 +1,27 @@
+1	På	_	ADP	ADP	_	2	case
+2	väg	_	NOUN	NOUN	_	0	root
+3	hem	_	ADV	ADV	_	2	nmod
+4	från	_	ADP	ADP	_	8	case
+5	en	_	DET	DET	_	7	det
+6	maagisk	_	ADJ	ADJ	_	7	amod
+7	Harry	_	PROPN	PROPN	_	8	nmod:poss
+8	Potter-helg	_	NOUN	NOUN	_	3	nmod
+9	i	_	ADP	ADP	_	10	case
+10	Växjö	_	PROPN	PROPN	_	8	nmod
+11	av	_	ADP	ADP	_	13	case
+12	alla	_	DET	DET	_	13	det
+13	ställen	_	NOUN	NOUN	_	10	nmod
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	länge	_	ADV	ADV	_	18	advmod
+16	sedan	_	ADV	ADV	_	18	advmod
+17	jag	_	PRON	PRON	_	18	nsubj
+18	mådde	_	VERB	VERB	_	13	acl:relcl
+19	så	_	ADV	ADV	_	18	advmod
+20	här	_	ADV	ADV	_	19	mwe
+21	jävla	_	NOUN	NOUN	_	18	dobj
+22	bra	_	ADV	ADV	_	18	advmod
+23	!	_	PUNCT	PUNCT	_	21	punct
+24	Tack	_	NOUN	NOUN	_	21	conj
+25	<3	_	VERB	VERB	_	24	mwe
+26	http://t.co/ANtPwouXBa	_	NOUN	NOUN	_	25	dobj
+

@@ -1,0 +1,26 @@
+1	Two	_	NUM	NUM	_	2	nummod
+2	years	_	NOUN	NOUN	_	3	nmod:npmod
+3	later	_	ADV	ADV	_	9	advmod
+4	,	_	PUNCT	PUNCT	_	9	punct
+5	after	_	ADP	ADP	_	0	cc
+6	the	_	DET	DET	_	7	det
+7	relationship	_	NOUN	NOUN	_	9	nsubj
+8	had	_	AUX	AUX	_	9	aux
+9	ended	_	VERB	VERB	_	12	advcl
+10	,	_	PUNCT	PUNCT	_	12	punct
+11	she	_	PRON	PRON	_	12	nsubj
+12	rented	_	VERB	VERB	_	17	parataxis
+13	an	_	DET	DET	_	14	det
+14	apartment	_	NOUN	NOUN	_	12	dobj
+15	above	_	ADP	ADP	_	12	compound:prt
+16	a	_	DET	DET	_	17	det
+17	garage	_	NOUN	NOUN	_	5	dobj
+18	a	_	DET	DET	_	20	det
+19	few	_	ADJ	ADJ	_	0	foreign
+20	blocks	_	NOUN	NOUN	_	12	conj
+21	from	_	ADP	ADP	_	20	compound
+22	her	_	PRON	PRON	_	24	nmod:poss
+23	mother's	_	NOUN	NOUN	_	24	compound
+24	home	_	NOUN	NOUN	_	21	dobj
+25	.	_	PUNCT	PUNCT	_	9	punct
+

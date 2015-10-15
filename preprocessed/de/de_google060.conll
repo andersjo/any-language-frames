@@ -1,0 +1,9 @@
+1	Etwa	_	ADV	ADV	_	2	advmod
+2	500.000	_	NUM	NUM	_	3	nummod
+3	Suchanfragen	_	NOUN	NOUN	_	7	nsubjpass
+4	wurden	_	AUX	AUX	_	7	auxpass
+5	nun	_	ADV	ADV	_	7	advmod
+6	täglich	_	ADV	ADV	_	7	advmod
+7	verzeichnet	_	VERB	VERB	_	0	root
+8	.	_	PUNCT	PUNCT	_	7	punct
+

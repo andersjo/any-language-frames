@@ -1,0 +1,21 @@
+1	Um	_	ADP	ADP	_	5	mark
+2	diesem	_	PRON	PRON	_	3	det
+3	Druck	_	NOUN	NOUN	_	5	nmod
+4	zu	_	PART	PART	_	5	aux
+5	entgehen	_	VERB	VERB	_	0	root
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	hatte	_	AUX	AUX	_	19	aux
+8	er	_	PRON	PRON	_	19	nsubjpass
+9	ursprünglich	_	ADJ	ADJ	_	19	advmod
+10	mit	_	ADP	ADP	_	12	case
+11	der	_	DET	DET	_	15	det
+12	28	_	NUM	NUM	_	19	nmod
+13	die	_	DET	DET	_	15	det
+14	gleiche	_	ADJ	ADJ	_	15	amod
+15	Trikotnummer	_	NOUN	NOUN	_	19	dobj
+16	wie	_	CONJ	CONJ	_	15	cc
+17	bei	_	ADP	ADP	_	18	case
+18	Sporting	_	PROPN	PROPN	_	19	nmod
+19	gewählt	_	VERB	VERB	_	5	conj
+20	.	_	PUNCT	PUNCT	_	5	punct
+

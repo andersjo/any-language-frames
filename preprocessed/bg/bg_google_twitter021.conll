@@ -1,0 +1,13 @@
+1	Дано	_	PART	PART	_	0	root
+2	наистина	_	ADV	ADV	_	4	advmod
+3	да	_	PART	PART	_	4	aux
+4	повлияе	_	VERB	VERB	_	1	ccomp
+5	положително	_	ADV	ADV	_	4	advmod
+6	на	_	ADP	ADP	_	7	case
+7	икономиката	_	NOUN	NOUN	_	4	iobj
+8	евтиният	_	ADJ	ADJ	_	9	amod
+9	петрол	_	NOUN	NOUN	_	7	nmod
+10	.	_	PUNCT	PUNCT	_	11	punct
+11	:)	_	PROPN	PROPN	_	9	nmod
+12	https://t.co/uoqB0tilB1	_	PROPN	PROPN	_	11	name
+

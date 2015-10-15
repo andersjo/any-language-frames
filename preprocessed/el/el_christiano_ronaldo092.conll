@@ -1,0 +1,16 @@
+1	Στις	_	ADP	ADP	_	3	case
+2	3	_	NUM	NUM	_	6	nmod
+3	Ιουλίου	_	NOUN	NOUN	_	2	nmod
+4	2010	_	NUM	NUM	_	3	nmod
+5	,	_	PUNCT	PUNCT	_	6	punct
+6	ανακοίνωσε	_	VERB	VERB	_	0	root
+7	μέσω	_	ADP	ADP	_	9	case
+8	"	_	PUNCT	PUNCT	_	9	punct
+9	facebook	_	NOUN	NOUN	_	6	iobj
+10	"	_	PUNCT	PUNCT	_	9	punct
+11	,	_	PUNCT	PUNCT	_	13	punct
+12	ότι	_	CONJ	CONJ	_	13	mark
+13	έγινε	_	VERB	VERB	_	6	ccomp
+14	πατέρας	_	NOUN	NOUN	_	13	nsubj
+15	.	_	PUNCT	PUNCT	_	6	punct
+

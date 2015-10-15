@@ -1,0 +1,19 @@
+1	Ah	_	PROPN	PROPN	_	6	nsubj
+2	.	_	PUNCT	PUNCT	_	6	punct
+3	Por	_	ADP	ADP	_	6	case
+4	que	_	SCONJ	SCONJ	_	6	mark
+5	Andie	_	PROPN	PROPN	_	6	nsubj
+6	habló	_	VERB	VERB	_	0	root
+7	de	_	ADP	ADP	_	9	case
+8	Harry	_	PROPN	PROPN	_	9	name
+9	Potter	_	PROPN	PROPN	_	6	nmod
+10	y	_	CONJ	CONJ	_	6	cc
+11	dije	_	VERB	VERB	_	6	conj
+12	que	_	SCONJ	SCONJ	_	13	mark
+13	roleaba	_	VERB	VERB	_	11	ccomp
+14	a	_	ADP	ADP	_	15	case
+15	Ginny	_	PROPN	PROPN	_	13	dobj
+16	en	_	ADP	ADP	_	17	case
+17	habbo	_	PROPN	PROPN	_	15	nmod
+18	.	_	PUNCT	PUNCT	_	6	punct
+

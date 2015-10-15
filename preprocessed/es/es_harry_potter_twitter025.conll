@@ -1,0 +1,11 @@
+1	Como	_	SCONJ	SCONJ	_	3	mark
+2	se	_	PRON	PRON	_	3	iobj
+3	nota	_	VERB	VERB	_	0	root
+4	que	_	SCONJ	SCONJ	_	7	mark
+5	ha	_	AUX	AUX	_	6	aux
+6	estado	_	AUX	AUX	_	7	aux
+7	viendo	_	VERB	VERB	_	3	ccomp
+8	Harry	_	PROPN	PROPN	_	9	name
+9	Potter	_	PROPN	PROPN	_	7	nsubj
+10	.	_	PUNCT	PUNCT	_	3	punct
+

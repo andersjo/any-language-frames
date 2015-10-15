@@ -1,0 +1,21 @@
+1	From	_	ADP	ADP	_	0	compound:prt
+2	his	_	PRON	PRON	_	3	nmod:poss
+3	man-made	_	NOUN	NOUN	_	6	compound
+4	global	_	ADJ	ADJ	_	0	compound:prt
+5	warming	_	NOUN	NOUN	_	6	compound
+6	altar	_	NOUN	NOUN	_	1	conj
+7	,	_	PUNCT	PUNCT	_	10	punct
+8	Al	_	PROPN	PROPN	_	9	compound
+9	Gore	_	PROPN	PROPN	_	10	nsubj
+10	conjures	_	VERB	VERB	_	6	acl:relcl
+11	a	_	DET	DET	_	13	det
+12	false	_	ADJ	ADJ	_	0	foreign
+13	narrative	_	NOUN	NOUN	_	10	dobj
+14	against	_	ADP	ADP	_	10	compound:prt
+15	those	_	DET	DET	_	16	nsubj
+16	#opposing	_	VERB	VERB	_	10	advcl
+17	his	_	PRON	PRON	_	18	nmod:poss
+18	superstitions	_	NOUN	NOUN	_	16	dobj
+19	:	_	PUNCT	PUNCT	_	18	punct
+20	http://t.co/PbhHFTTVud	_	X	X	_	18	appos
+

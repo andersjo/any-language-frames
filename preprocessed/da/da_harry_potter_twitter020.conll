@@ -1,0 +1,10 @@
+1	RobPatz	_	PROPN	PROPN	_	3	nsubj
+2	ganteng	_	PROPN	PROPN	_	1	name
+3	banget	_	VERB	VERB	_	0	root
+4	di	_	NOUN	NOUN	_	3	dobj
+5	Harry	_	VERB	VERB	_	3	dep
+6	Potter	_	NOUN	NOUN	_	5	nsubj
+7	4	_	NUM	NUM	_	6	nmod
+8	..	_	PUNCT	PUNCT	_	3	punct
+9	(♥_♥)	_	X	X	_	6	list
+

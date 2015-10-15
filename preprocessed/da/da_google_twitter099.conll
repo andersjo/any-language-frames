@@ -1,0 +1,21 @@
+1	Elevator	_	NOUN	NOUN	_	10	name
+2	Stuck	_	PROPN	PROPN	_	1	appos
+3	-	_	PUNCT	PUNCT	_	1	punct
+4	L074	_	NOUN	NOUN	_	1	conj
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	HR011	_	NOUN	NOUN	_	4	conj
+7	,	_	PUNCT	PUNCT	_	4	punct
+8	E074	_	NOUN	NOUN	_	4	conj
+9	-	_	PUNCT	PUNCT	_	8	punct
+10	Aldine	_	PROPN	PROPN	_	12	nmod:poss
+11	Bender	_	PROPN	PROPN	_	10	name
+12	Rd	_	NOUN	NOUN	_	14	nmod
+13	-	_	PUNCT	PUNCT	_	10	punct
+14	Imperial	_	VERB	VERB	_	0	root
+15	Valley	_	PROPN	PROPN	_	14	nsubj
+16	Dr	_	NOUN	NOUN	_	15	dep
+17	-	_	PUNCT	PUNCT	_	14	punct
+18	18:08	_	NUM	NUM	_	20	nummod
+19	-	_	PUNCT	PUNCT	_	18	punct
+20	http://t.co/O7SaQejqEC	_	PROPN	PROPN	_	4	conj
+

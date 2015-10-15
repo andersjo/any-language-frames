@@ -1,0 +1,14 @@
+1	@lumpyspacepanda	_	NOUN	NOUN	_	3	nsubj
+2	google	_	ADJ	ADJ	_	1	amod
+3	dice	_	VERB	VERB	_	8	advcl
+4	mary	_	ADJ	ADJ	_	5	amod
+5	jane	_	NOUN	NOUN	_	3	dobj
+6	,	_	PUNCT	PUNCT	_	1	punct
+7	io	_	PRON	PRON	_	8	nsubj
+8	dico	_	VERB	VERB	_	0	root
+9	qualche	_	DET	DET	_	11	det
+10	tua	_	DET	DET	_	11	det:poss
+11	imprecazione	_	NOUN	NOUN	_	8	dobj
+12	in	_	ADP	ADP	_	13	case
+13	dialetto	_	NOUN	NOUN	_	11	nmod
+

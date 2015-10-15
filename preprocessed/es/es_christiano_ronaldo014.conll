@@ -1,0 +1,19 @@
+1	En	_	ADP	ADP	_	2	mwe
+2	cuanto	_	ADV	ADV	_	6	advmod
+3	a	_	ADP	ADP	_	5	case
+4	la	_	DET	DET	_	5	det
+5	Copa	_	PROPN	PROPN	_	14	nmod
+6	Mundial	_	PROPN	PROPN	_	5	amod
+7	,	_	PUNCT	PUNCT	_	10	punct
+8	un	_	DET	DET	_	10	det
+9	cuarto	_	NUM	NUM	_	10	nummod
+10	lugar	_	NOUN	NOUN	_	6	appos
+11	en	_	ADP	ADP	_	12	case
+12	Alemania	_	PROPN	PROPN	_	10	nmod
+13	2006	_	NUM	NUM	_	12	nummod
+14	fue	_	VERB	VERB	_	17	cop
+15	su	_	DET	DET	_	17	nmod:poss
+16	mejor	_	ADJ	ADJ	_	17	amod
+17	actuación	_	NOUN	NOUN	_	0	root
+18	.	_	PUNCT	PUNCT	_	17	punct
+

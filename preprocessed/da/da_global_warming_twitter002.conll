@@ -1,0 +1,14 @@
+1	GLOBAL	_	PROPN	PROPN	_	3	nmod:poss
+2	WARMING	_	PROPN	PROPN	_	1	name
+3	DENIER	_	NOUN	NOUN	_	5	nmod:poss
+4	ROY	_	ADJ	ADJ	_	5	amod
+5	SPENCER	_	NOUN	NOUN	_	6	nmod:poss
+6	v	_	NOUN	NOUN	_	0	root
+7	.	_	PUNCT	PUNCT	_	6	punct
+8	SEN	_	NOUN	NOUN	_	6	conj
+9	.	_	PUNCT	PUNCT	_	8	punct
+10	BARBARA	_	PROPN	PROPN	_	8	appos
+11	BOXER	_	PROPN	PROPN	_	10	name
+12	#auspol	_	PROPN	PROPN	_	10	name
+13	http://t.co/c3gbiKNk4w	_	PROPN	PROPN	_	10	name
+

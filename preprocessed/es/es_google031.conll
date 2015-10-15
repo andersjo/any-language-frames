@@ -1,0 +1,8 @@
+1	En	_	ADP	ADP	_	2	case
+2	2004	_	NUM	NUM	_	3	nmod
+3	compró	_	VERB	VERB	_	0	root
+4	la	_	DET	DET	_	5	det
+5	empresa	_	NOUN	NOUN	_	3	nsubj
+6	Keyhole	_	PROPN	PROPN	_	5	appos
+7	.	_	PUNCT	PUNCT	_	3	punct
+

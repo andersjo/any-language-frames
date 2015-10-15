@@ -1,0 +1,21 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	@KeridoAvada	_	PROPN	PROPN	_	4	dep
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Para	_	VERB	VERB	_	0	root
+5	os	_	PRON	PRON	_	4	iobj
+6	haters	_	NOUN	NOUN	_	4	dobj
+7	de	_	DET	DET	_	8	det
+8	Harry	_	NOUN	NOUN	_	4	dobj
+9	Potter	_	NOUN	NOUN	_	8	nmod
+10	,	_	PUNCT	PUNCT	_	4	punct
+11	fica	_	PROPN	PROPN	_	13	nmod:poss
+12	esse	_	NOUN	NOUN	_	11	dep
+13	gif	_	NOUN	NOUN	_	4	dobj
+14	:	_	PUNCT	PUNCT	_	2	punct
+15	#ForroEmHogwarts	_	PROPN	PROPN	_	13	dep
+16	http://t.co/2xWdUqNyqw	_	PROPN	PROPN	_	15	name
+17	"	_	PUNCT	PUNCT	_	18	punct
+18	MDS	_	PROPN	PROPN	_	15	conj
+19	!!	_	PUNCT	PUNCT	_	18	punct
+20	HDJZJDNZJDNDKNDDJDBJD	_	PROPN	PROPN	_	15	conj
+

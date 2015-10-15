@@ -1,0 +1,13 @@
+1	Llega	_	VERB	VERB	_	0	root
+2	Harry	_	PROPN	PROPN	_	3	name
+3	Potter	_	PROPN	PROPN	_	1	nsubj
+4	con	_	ADP	ADP	_	5	case
+5	Ron	_	PROPN	PROPN	_	2	nmod
+6	...	_	PUNCT	PUNCT	_	2	punct
+7	¡y	_	PROPN	PROPN	_	5	appos
+8	todos	_	PRON	PRON	_	10	nsubj
+9	se	_	PRON	PRON	_	10	iobj
+10	emborracharon	_	VERB	VERB	_	5	acl:relcl
+11	!	_	PUNCT	PUNCT	_	5	punct
+12	#chistes	_	PROPN	PROPN	_	10	nsubj
+

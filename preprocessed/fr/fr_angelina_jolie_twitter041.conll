@@ -1,0 +1,22 @@
+1	Pour	_	ADP	ADP	_	2	mark
+2	comprendre	_	VERB	VERB	_	3	advmod
+3	l'admiration	_	NOUN	NOUN	_	0	root
+4	que	_	SCONJ	SCONJ	_	15	mark
+5	j'ai	_	PROPN	PROPN	_	3	nmod
+6	pour	_	ADP	ADP	_	8	case
+7	Angelina	_	PROPN	PROPN	_	8	name
+8	Jolie	_	PROPN	PROPN	_	5	conj
+9	et	_	CONJ	CONJ	_	8	cc
+10	ses	_	DET	DET	_	11	nmod:poss
+11	semblables	_	ADJ	ADJ	_	3	conj
+12	,	_	PUNCT	PUNCT	_	3	punct
+13	je	_	PRON	PRON	_	15	nsubj
+14	vous	_	PRON	PRON	_	15	iobj
+15	recommande	_	VERB	VERB	_	5	acl:relcl
+16	son	_	DET	DET	_	17	nmod:poss
+17	portrait	_	NOUN	NOUN	_	15	dobj
+18	dans	_	ADP	ADP	_	20	case
+19	le	_	DET	DET	_	20	det
+20	dernier	_	NOUN	NOUN	_	15	nmod
+21	@VanityFairFR	_	PROPN	PROPN	_	20	appos
+

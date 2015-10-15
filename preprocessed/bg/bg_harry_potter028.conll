@@ -1,0 +1,15 @@
+1	Черния	_	ADJ	ADJ	_	2	amod
+2	знак	_	NOUN	NOUN	_	3	nsubj
+3	представлява	_	VERB	VERB	_	0	root
+4	череп	_	NOUN	NOUN	_	3	dobj
+5	и	_	CONJ	CONJ	_	4	cc
+6	змия	_	NOUN	NOUN	_	4	conj
+7	,	_	PUNCT	PUNCT	_	9	punct
+8	която	_	PRON	PRON	_	9	nsubj
+9	излиза	_	VERB	VERB	_	6	acl
+10	през	_	ADP	ADP	_	11	case
+11	устата	_	NOUN	NOUN	_	9	nmod
+12	на	_	ADP	ADP	_	13	case
+13	черепа	_	NOUN	NOUN	_	11	nmod
+14	.	_	PUNCT	PUNCT	_	3	punct
+

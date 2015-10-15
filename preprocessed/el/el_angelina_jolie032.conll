@@ -1,0 +1,25 @@
+1	Τον	_	ADJ	ADJ	_	2	det
+2	Ιούλιο	_	NOUN	NOUN	_	8	nsubj
+3	το	_	ADJ	ADJ	_	4	det
+4	2005	_	NOUN	NOUN	_	2	nmod
+5	,	_	PUNCT	PUNCT	_	8	punct
+6	οι	_	ADJ	ADJ	_	7	det
+7	Τζολί-Πιτ	_	NOUN	NOUN	_	8	nsubj
+8	ταξίδεψαν	_	VERB	VERB	_	0	root
+9	στην	_	ADP	ADP	_	10	case
+10	Αιθιοπία	_	NOUN	NOUN	_	8	nmod
+11	οπού	_	VERB	VERB	_	8	ccomp
+12	εκεί	_	ADV	ADV	_	11	advmod
+13	η	_	ADJ	ADJ	_	14	det
+14	Αντζελίνα	_	NOUN	NOUN	_	15	nsubj
+15	υιοθέτησε	_	VERB	VERB	_	8	conj
+16	ένα	_	ADJ	ADJ	_	18	det
+17	6	_	NUM	NUM	_	18	nummod
+18	μηνών	_	NOUN	NOUN	_	15	dobj
+19	κοριτσάκι	_	NOUN	NOUN	_	18	nmod
+20	,	_	PUNCT	PUNCT	_	8	punct
+21	την	_	ADJ	ADJ	_	22	det
+22	Ζαχάρα	_	NOUN	NOUN	_	18	appos
+23	Μάρλει	_	NOUN	NOUN	_	22	nmod
+24	.	_	PUNCT	PUNCT	_	8	punct
+

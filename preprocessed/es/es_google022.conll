@@ -1,0 +1,20 @@
+1	En	_	ADP	ADP	_	2	case
+2	abril	_	PROPN	PROPN	_	4	nmod
+3	se	_	PRON	PRON	_	4	iobj
+4	presenta	_	VERB	VERB	_	0	root
+5	Google	_	PROPN	PROPN	_	6	name
+6	Grants	_	PROPN	PROPN	_	4	nsubj
+7	,	_	PUNCT	PUNCT	_	9	punct
+8	un	_	DET	DET	_	9	det
+9	servicio	_	NOUN	NOUN	_	6	appos
+10	de	_	ADP	ADP	_	11	case
+11	publicidad	_	NOUN	NOUN	_	9	nmod
+12	gratuito	_	ADJ	ADJ	_	11	amod
+13	para	_	ADP	ADP	_	14	case
+14	organizaciones	_	NOUN	NOUN	_	9	nmod
+15	sin	_	ADP	ADP	_	16	case
+16	ánimo	_	NOUN	NOUN	_	14	nmod
+17	de	_	ADP	ADP	_	18	case
+18	lucro	_	NOUN	NOUN	_	16	nmod
+19	.	_	PUNCT	PUNCT	_	4	punct
+

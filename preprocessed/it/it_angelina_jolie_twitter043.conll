@@ -1,0 +1,10 @@
+1	Angelina	_	PROPN	PROPN	_	3	nsubj
+2	Jolie	_	PROPN	PROPN	_	1	name
+3	describe	_	VERB	VERB	_	0	root
+4	su	_	ADP	ADP	_	5	case
+5	batalla	_	NOUN	NOUN	_	3	nmod
+6	contra	_	VERB	VERB	_	3	advcl
+7	la	_	DET	DET	_	8	det
+8	varicela	_	NOUN	NOUN	_	6	dobj
+9	http://t.co/YAdbC2M5sD	_	ADJ	ADJ	_	8	amod
+

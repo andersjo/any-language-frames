@@ -1,0 +1,8 @@
+1	I	_	DET	DET	_	2	det
+2	ricorrenti	_	ADJ	ADJ	_	6	amod
+3	e	_	CONJ	CONJ	_	2	cc
+4	quindi	_	ADV	ADV	_	5	advmod
+5	principali	_	ADJ	ADJ	_	2	conj
+6	sono	_	VERB	VERB	_	0	root
+7	:	_	PUNCT	PUNCT	_	5	punct
+

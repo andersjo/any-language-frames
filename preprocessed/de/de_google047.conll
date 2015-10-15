@@ -1,0 +1,10 @@
+1	Dokumente	_	NOUN	NOUN	_	5	nsubjpass
+2	werden	_	AUX	AUX	_	5	auxpass
+3	im	_	ADP	ADP	_	4	case
+4	Index	_	PROPN	PROPN	_	5	nmod
+5	vorgehalten	_	VERB	VERB	_	0	root
+6	und	_	CONJ	CONJ	_	5	cc
+7	Suchanfragen	_	NOUN	NOUN	_	8	nsubjpass
+8	beantwortet	_	VERB	VERB	_	5	conj
+9	.	_	PUNCT	PUNCT	_	5	punct
+

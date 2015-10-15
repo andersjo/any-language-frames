@@ -1,0 +1,25 @@
+1	Ο	_	ADJ	ADJ	_	2	det
+2	«τρελός»	_	NOUN	NOUN	_	7	nsubj
+3	στον	_	ADP	ADP	_	6	case
+4	οποίο	_	PRON	PRON	_	7	nmod
+5	η	_	ADJ	ADJ	_	6	det
+6	Google	_	NOUN	NOUN	_	7	nsubj
+7	δίνει	_	VERB	VERB	_	0	root
+8	500	_	NUM	NUM	_	9	nmod
+9	εκατ	_	NOUN	NOUN	_	7	dobj
+10	.	_	PUNCT	PUNCT	_	7	punct
+11	για	_	ADP	ADP	_	13	mark
+12	να	_	PART	PART	_	13	aux
+13	φτιάξει	_	VERB	VERB	_	7	advcl
+14	κάτι	_	PRON	PRON	_	13	dobj
+15	που	_	PRON	PRON	_	18	nsubj
+16	κανείς	_	PRON	PRON	_	18	nsubj
+17	δεν	_	PART	PART	_	18	neg
+18	ξέρει	_	VERB	VERB	_	14	acl:relcl
+19	τι	_	PRON	PRON	_	20	dobj
+20	είναι	_	VERB	VERB	_	22	cop
+21	[	_	PUNCT	PUNCT	_	14	punct
+22	Video	_	NOUN	NOUN	_	14	appos
+23	]	_	PUNCT	PUNCT	_	14	punct
+24	http://t.co/PTBtNszz5M	_	NOUN	NOUN	_	22	nmod
+

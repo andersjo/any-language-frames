@@ -1,0 +1,6 @@
+1	Find	_	VERB	VERB	_	0	root
+2	Alex	_	PROPN	PROPN	_	1	nsubj
+3	an	_	ADV	ADV	_	1	advmod
+4	Angelina	_	PROPN	PROPN	_	5	nmod:poss
+5	Jolie	_	NOUN	NOUN	_	1	nmod
+

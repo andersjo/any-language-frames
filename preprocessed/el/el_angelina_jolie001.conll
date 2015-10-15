@@ -1,0 +1,25 @@
+1	Η	_	ADJ	ADJ	_	2	det
+2	Αντζελίνα	_	NOUN	NOUN	_	10	nsubj
+3	Τζολί	_	NOUN	NOUN	_	2	nmod
+4	(	_	PUNCT	PUNCT	_	6	punct
+5	"	_	PUNCT	PUNCT	_	7	punct
+6	Angelina	_	NOUN	NOUN	_	7	nmod
+7	Jolie	_	NOUN	NOUN	_	2	appos
+8	"	_	PUNCT	PUNCT	_	6	punct
+9	)	_	PUNCT	PUNCT	_	6	punct
+10	γεννήθηκε	_	VERB	VERB	_	0	root
+11	στις	_	ADP	ADP	_	12	case
+12	4	_	NUM	NUM	_	10	nmod
+13	Ιουνίου	_	NOUN	NOUN	_	12	nmod
+14	1975	_	NUM	NUM	_	13	nmod
+15	στο	_	ADP	ADP	_	16	case
+16	Λος	_	NOUN	NOUN	_	10	nmod
+17	Άντζελες	_	NOUN	NOUN	_	16	nmod
+18	και	_	CONJ	CONJ	_	10	cc
+19	είναι	_	VERB	VERB	_	20	cop
+20	Αμερικανίδα	_	NOUN	NOUN	_	10	conj
+21	ηθοποιός	_	NOUN	NOUN	_	20	nmod
+22	και	_	CONJ	CONJ	_	21	cc
+23	σκηνοθέτης	_	NOUN	NOUN	_	21	conj
+24	.	_	PUNCT	PUNCT	_	10	punct
+

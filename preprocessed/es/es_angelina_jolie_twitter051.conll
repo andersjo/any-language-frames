@@ -1,0 +1,18 @@
+1	Cada	_	DET	DET	_	2	det
+2	vez	_	NOUN	NOUN	_	4	nmod
+3	me	_	PRON	PRON	_	4	iobj
+4	doy	_	VERB	VERB	_	0	root
+5	más	_	ADV	ADV	_	6	advmod
+6	cuenta	_	VERB	VERB	_	4	ccomp
+7	de	_	ADP	ADP	_	9	case
+8	lo	_	DET	DET	_	9	det
+9	maravillosos	_	PROPN	PROPN	_	6	nmod
+10	que	_	SCONJ	SCONJ	_	12	mark
+11	son	_	VERB	VERB	_	13	cop
+12	Angelina	_	PROPN	PROPN	_	13	name
+13	Jolie	_	PROPN	PROPN	_	9	acl:relcl
+14	y	_	CONJ	CONJ	_	13	cc
+15	Brad	_	PROPN	PROPN	_	16	name
+16	Pitt	_	PROPN	PROPN	_	13	conj
+17	.	_	PUNCT	PUNCT	_	4	punct
+

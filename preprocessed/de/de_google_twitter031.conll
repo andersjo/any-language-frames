@@ -1,0 +1,27 @@
+1	Google	_	PROPN	PROPN	_	2	name
+2	Apps	_	PROPN	PROPN	_	6	dobj
+3	von	_	ADP	ADP	_	4	case
+4	iOS	_	PROPN	PROPN	_	2	nmod
+5	aus	_	PART	PART	_	4	mwe
+6	verwalten	_	VERB	VERB	_	0	root
+7	.	_	PUNCT	PUNCT	_	6	punct
+8	Google	_	PROPN	PROPN	_	9	name
+9	Admin	_	PROPN	PROPN	_	6	nsubj
+10	(	_	PUNCT	PUNCT	_	11	punct
+11	kostenlos	_	ADJ	ADJ	_	13	advmod
+12	;	_	PUNCT	PUNCT	_	11	punct
+13	universal	_	PROPN	PROPN	_	9	appos
+14	;	_	PUNCT	PUNCT	_	13	punct
+15	Link	_	PROPN	PROPN	_	13	appos
+16	)	_	PUNCT	PUNCT	_	15	punct
+17	,	_	PUNCT	PUNCT	_	11	punct
+18	von	_	ADP	ADP	_	13	case
+19	der	_	DET	DET	_	20	det
+20	bis	_	ADP	ADP	_	18	case
+21	auf	_	ADP	ADP	_	22	case
+22	Photosynth	_	PROPN	PROPN	_	20	nmod
+23	oder	_	CONJ	CONJ	_	22	cc
+24	Sk	_	PROPN	PROPN	_	22	conj
+25	...	_	PUNCT	PUNCT	_	24	punct
+26	http://t.co/nm7OLcOkkn	_	PROPN	PROPN	_	24	appos
+

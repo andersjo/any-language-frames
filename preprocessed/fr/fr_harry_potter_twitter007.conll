@@ -1,0 +1,13 @@
+1	"	_	PUNCT	PUNCT	_	4	punct
+2	Avec	_	ADP	ADP	_	4	case
+3	tes	_	DET	DET	_	4	det
+4	lunette	_	NOUN	NOUN	_	12	nmod
+5	de	_	ADP	ADP	_	6	case
+6	harry	_	NOUN	NOUN	_	4	nmod
+7	potter	_	ADJ	ADJ	_	6	amod
+8	"	_	PUNCT	PUNCT	_	7	punct
+9	jamais	_	ADV	ADV	_	12	neg
+10	on	_	PRON	PRON	_	12	nsubj
+11	me	_	PRON	PRON	_	12	iobj
+12	respecte	_	VERB	VERB	_	0	root
+

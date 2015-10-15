@@ -1,0 +1,21 @@
+1	@violetteabel	_	PROPN	PROPN	_	3	name
+2	bah	_	PROPN	PROPN	_	3	name
+3	c'est	_	PROPN	PROPN	_	8	nsubj
+4	comme	_	ADP	ADP	_	5	case
+5	@louisefrb	_	PROPN	PROPN	_	3	nmod
+6	qui	_	PRON	PRON	_	7	nsubj
+7	repond	_	VERB	VERB	_	3	acl:relcl
+8	a	_	VERB	VERB	_	0	root
+9	tous	_	DET	DET	_	11	det
+10	les	_	DET	DET	_	11	det
+11	tweets	_	PROPN	PROPN	_	8	dobj
+12	sur	_	ADP	ADP	_	14	case
+13	harry	_	PROPN	PROPN	_	14	name
+14	potter	_	PROPN	PROPN	_	11	nmod
+15	,	_	PUNCT	PUNCT	_	14	punct
+16	divergente	_	ADJ	ADJ	_	14	amod
+17	et	_	CONJ	CONJ	_	14	cc
+18	hunger	_	NOUN	NOUN	_	16	conj
+19	games	_	ADJ	ADJ	_	18	amod
+20	haha	_	PROPN	PROPN	_	18	appos
+

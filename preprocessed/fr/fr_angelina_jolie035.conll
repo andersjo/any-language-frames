@@ -1,0 +1,10 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	5	nsubj
+3	reste	_	AUX	AUX	_	5	aux
+4	longtemps	_	ADV	ADV	_	5	advmod
+5	séparée	_	VERB	VERB	_	0	root
+6	de	_	ADP	ADP	_	8	case
+7	son	_	DET	DET	_	8	nmod:poss
+8	père	_	NOUN	NOUN	_	5	nmod
+9	.	_	PUNCT	PUNCT	_	5	punct
+

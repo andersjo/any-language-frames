@@ -1,0 +1,17 @@
+1	Les	_	DET	DET	_	2	det
+2	déplacements	_	NOUN	NOUN	_	5	nsubj
+3	de	_	ADP	ADP	_	4	case
+4	population	_	NOUN	NOUN	_	2	nmod
+5	comptent	_	VERB	VERB	_	0	root
+6	parmi	_	ADP	ADP	_	8	case
+7	les	_	DET	DET	_	8	det
+8	conséquences	_	NOUN	NOUN	_	5	nmod
+9	les	_	DET	DET	_	10	det
+10	plus	_	ADV	ADV	_	11	advmod
+11	graves	_	ADJ	ADJ	_	8	amod
+12	des	_	ADP	ADP	_	13	case
+13	conflits	_	NOUN	NOUN	_	11	nmod
+14	armés	_	VERB	VERB	_	15	cop
+15	actuels	_	ADJ	ADJ	_	13	amod
+16	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,13 @@
+1	Mi	_	PRON	PRON	_	2	expl
+2	fido	_	VERB	VERB	_	0	root
+3	di	_	ADP	ADP	_	4	case
+4	te	_	PRON	PRON	_	2	nmod
+5	come	_	ADP	ADP	_	6	case
+6	mi	_	PRON	PRON	_	2	nmod
+7	fido	_	ADJ	ADJ	_	6	amod
+8	del	_	ADP	ADP	_	9	case
+9	traduttore	_	NOUN	NOUN	_	7	nmod
+10	di	_	ADP	ADP	_	11	case
+11	google	_	NOUN	NOUN	_	9	nmod
+12	.	_	PUNCT	PUNCT	_	2	punct
+

@@ -1,0 +1,14 @@
+1	Google	_	NOUN	NOUN	_	6	nsubj
+2	er	_	AUX	AUX	_	7	cop
+3	desuden	_	ADV	ADV	_	6	advmod
+4	det	_	PRON	PRON	_	6	nsubj
+5	mest	_	ADV	ADV	_	6	advmod
+6	besøgte	_	VERB	VERB	_	0	root
+7	websted	_	NOUN	NOUN	_	6	dobj
+8	på	_	ADP	ADP	_	10	case
+9	hele	_	ADJ	ADJ	_	10	amod
+10	World	_	PROPN	PROPN	_	7	nmod
+11	Wide	_	PROPN	PROPN	_	10	name
+12	Web	_	PROPN	PROPN	_	10	name
+13	.	_	PUNCT	PUNCT	_	6	punct
+

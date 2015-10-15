@@ -1,0 +1,27 @@
+1	Στις	_	ADP	ADP	_	3	case
+2	20	_	NUM	NUM	_	7	nmod
+3	Ιανουαρίου	_	NOUN	NOUN	_	2	nmod
+4	2014	_	NUM	NUM	_	3	nmod
+5	ο	_	ADJ	ADJ	_	6	det
+6	Ρονάλντο	_	NOUN	NOUN	_	7	nsubj
+7	ονομάστηκε	_	VERB	VERB	_	0	root
+8	Ανώτερος	_	ADJ	ADJ	_	9	amod
+9	Ταξιάρχης	_	NOUN	NOUN	_	7	dobj
+10	του	_	ADJ	ADJ	_	11	det
+11	Τάγματος	_	NOUN	NOUN	_	9	nmod
+12	,	_	PUNCT	PUNCT	_	13	punct
+13	μετάλλιο	_	NOUN	NOUN	_	11	appos
+14	που	_	PRON	PRON	_	15	nsubj
+15	δίνεται	_	VERB	VERB	_	13	acl:relcl
+16	σε	_	ADP	ADP	_	17	case
+17	ανθρώπους	_	NOUN	NOUN	_	15	nmod
+18	που	_	PRON	PRON	_	20	nsubj
+19	έχουν	_	VERB	VERB	_	20	aux
+20	μεταφέρει	_	VERB	VERB	_	17	acl:relcl
+21	τον	_	ADJ	ADJ	_	22	det
+22	πορτογαλικό	_	NOUN	NOUN	_	20	dobj
+23	πολιτισμό	_	NOUN	NOUN	_	22	nmod
+24	εκτός	_	ADV	ADV	_	25	case
+25	συνόρων	_	NOUN	NOUN	_	23	nmod
+26	.	_	PUNCT	PUNCT	_	7	punct
+

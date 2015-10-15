@@ -1,0 +1,10 @@
+1	паунда	_	PROPN	PROPN	_	0	root
+2	(	_	PUNCT	PUNCT	_	3	punct
+3	€93.9	_	PROPN	PROPN	_	1	conj
+4	млн	_	NOUN	NOUN	_	3	nmod
+5	.	_	PUNCT	PUNCT	_	6	punct
+6	/	_	CONJ	CONJ	_	1	cc
+7	$131.6	_	PROPN	PROPN	_	1	conj
+8	млн	_	NOUN	NOUN	_	7	nmod
+9	.	_	PUNCT	PUNCT	_	3	punct
+

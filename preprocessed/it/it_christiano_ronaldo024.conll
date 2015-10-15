@@ -1,0 +1,23 @@
+1	A	_	ADP	ADP	_	2	case
+2	fine	_	NOUN	NOUN	_	5	nmod
+3	ottobre	_	NOUN	NOUN	_	2	nmod
+4	2013	_	NUM	NUM	_	3	nummod
+5	lancia	_	VERB	VERB	_	0	root
+6	la	_	DET	DET	_	8	det
+7	propria	_	DET	DET	_	8	det:poss
+8	linea	_	NOUN	NOUN	_	5	dobj
+9	di	_	ADP	ADP	_	10	case
+10	intimo	_	NOUN	NOUN	_	8	nmod
+11	"	_	PUNCT	PUNCT	_	12	punct
+12	CR7	_	PROPN	PROPN	_	8	nmod
+13	"	_	PUNCT	PUNCT	_	12	punct
+14	,	_	PUNCT	PUNCT	_	5	punct
+15	disegnata	_	VERB	VERB	_	12	acl
+16	insieme	_	ADV	ADV	_	18	case
+17	al	_	ADP	ADP	_	16	mwe
+18	progettista	_	NOUN	NOUN	_	15	nmod
+19	americano	_	ADJ	ADJ	_	18	amod
+20	Richard	_	PROPN	PROPN	_	18	nmod
+21	Chai	_	PROPN	PROPN	_	20	name
+22	.	_	PUNCT	PUNCT	_	5	punct
+

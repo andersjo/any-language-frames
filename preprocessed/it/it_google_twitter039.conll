@@ -1,0 +1,15 @@
+1	CRISTO	_	PROPN	PROPN	_	0	root
+2	MIX	_	PROPN	PROPN	_	1	name
+3	34	_	NUM	NUM	_	1	nummod
+4	(	_	PUNCT	PUNCT	_	6	punct
+5	<	_	PUNCT	PUNCT	_	6	punct
+6	b	_	NOUN	NOUN	_	1	appos
+7	>	_	PUNCT	PUNCT	_	8	punct
+8	MERENGUE	_	PROPN	PROPN	_	6	nmod
+9	<	_	PUNCT	PUNCT	_	8	punct
+10	/b	_	PROPN	PROPN	_	8	nmod
+11	>	_	PUNCT	PUNCT	_	10	punct
+12	CRISTIANO	_	PROPN	PROPN	_	10	nmod
+13	)	_	PUNCT	PUNCT	_	12	punct
+14	http://t.co/Plum69hJHd	_	NOUN	NOUN	_	1	appos
+

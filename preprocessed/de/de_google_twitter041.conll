@@ -1,0 +1,19 @@
+1	▶	_	PROPN	PROPN	_	2	name
+2	#Einwanderung	_	PROPN	PROPN	_	3	det
+3	Innenminister	_	NOUN	NOUN	_	7	nsubj
+4	Markus	_	PROPN	PROPN	_	5	name
+5	Ulbig	_	PROPN	PROPN	_	3	appos
+6	Ehrlichkeit	_	NOUN	NOUN	_	7	nsubj
+7	gehört	_	VERB	VERB	_	0	root
+8	in	_	ADP	ADP	_	10	case
+9	die	_	DET	DET	_	10	det
+10	Asyldebatte	_	NOUN	NOUN	_	7	nmod
+11	:	_	PUNCT	PUNCT	_	10	punct
+12	Ulbig	_	PROPN	PROPN	_	10	appos
+13	:	_	PUNCT	PUNCT	_	12	punct
+14	„Wir	_	PROPN	PROPN	_	12	appos
+15	brauchen	_	VERB	VERB	_	7	parataxis
+16	…	_	PROPN	PROPN	_	18	name
+17	http://t.co/NwyYRP2uYA	_	PROPN	PROPN	_	18	name
+18	GOOGLENews	_	PROPN	PROPN	_	15	nsubj
+

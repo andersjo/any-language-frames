@@ -1,0 +1,15 @@
+1	En	_	ADP	ADP	_	2	case
+2	noviembre	_	PROPN	PROPN	_	3	nmod
+3	presenta	_	VERB	VERB	_	0	root
+4	el	_	DET	DET	_	5	det
+5	proyecto	_	NOUN	NOUN	_	3	dobj
+6	de	_	ADP	ADP	_	7	case
+7	sistema	_	NOUN	NOUN	_	5	nmod
+8	operativo	_	ADJ	ADJ	_	7	amod
+9	de	_	ADP	ADP	_	10	case
+10	código	_	NOUN	NOUN	_	7	nmod
+11	abierto	_	ADJ	ADJ	_	10	amod
+12	Chromium	_	PROPN	PROPN	_	10	appos
+13	OS	_	PRON	PRON	_	12	compound
+14	.	_	PUNCT	PUNCT	_	3	punct
+

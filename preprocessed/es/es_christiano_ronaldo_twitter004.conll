@@ -1,0 +1,19 @@
+1	MESSi	_	PROPN	PROPN	_	3	name
+2	Ballon	_	PROPN	PROPN	_	3	name
+3	D'or	_	PROPN	PROPN	_	7	name
+4	2012	_	PROPN	PROPN	_	7	name
+5	Réaction	_	PROPN	PROPN	_	7	name
+6	Christiano	_	PROPN	PROPN	_	7	name
+7	Ronaldo	_	PROPN	PROPN	_	0	root
+8	,	_	PUNCT	PUNCT	_	9	punct
+9	iniesta	_	ADJ	ADJ	_	2	appos
+10	,	_	PUNCT	PUNCT	_	11	punct
+11	Villa	_	PROPN	PROPN	_	1	conj
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	P	_	PROPN	PROPN	_	11	appos
+14	...	_	PUNCT	PUNCT	_	11	punct
+15	:	_	PUNCT	PUNCT	_	11	punct
+16	http://t.co/FCT3cNNhqS	_	PROPN	PROPN	_	13	appos
+17	vía	_	ADP	ADP	_	18	case
+18	@YouTube	_	PROPN	PROPN	_	16	nmod
+

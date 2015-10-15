@@ -1,0 +1,19 @@
+1	Google	_	PROPN	PROPN	_	4	nmod:poss
+2	menade	_	ADJ	ADJ	_	1	acl
+3	att	_	SCONJ	SCONJ	_	6	mark
+4	Språkrådet	_	NOUN	NOUN	_	6	nsubj
+5	skulle	_	AUX	AUX	_	6	cop
+6	förtydliga	_	ADJ	ADJ	_	0	root
+7	att	_	SCONJ	SCONJ	_	9	mark
+8	det	_	DET	DET	_	9	det
+9	handlade	_	ADJ	ADJ	_	1	acl
+10	om	_	ADP	ADP	_	13	case
+11	just	_	ADV	ADV	_	13	advmod
+12	deras	_	DET	DET	_	13	nmod:poss
+13	sökmotor	_	NOUN	NOUN	_	9	nmod
+14	och	_	CONJ	CONJ	_	13	cc
+15	inte	_	ADV	ADV	_	17	neg
+16	någon	_	DET	DET	_	17	det
+17	annan	_	ADJ	ADJ	_	13	conj
+18	.	_	PUNCT	PUNCT	_	6	punct
+

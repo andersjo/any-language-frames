@@ -1,0 +1,14 @@
+1	Vill	_	AUX	AUX	_	3	aux
+2	verkligen	_	ADV	ADV	_	3	advmod
+3	se	_	VERB	VERB	_	0	root
+4	unbroken	_	NOUN	NOUN	_	3	dobj
+5	så	_	ADV	ADV	_	6	advmod
+6	jävla	_	ADJ	ADJ	_	7	amod
+7	fett	_	NOUN	NOUN	_	3	dobj
+8	att	_	PART	PART	_	9	mark
+9	Angelina	_	VERB	VERB	_	7	acl
+10	Jolie	_	NOUN	NOUN	_	9	dobj
+11	regisserar	_	VERB	VERB	_	9	xcomp
+12	den	_	PRON	PRON	_	11	nsubj
+13	också	_	ADV	ADV	_	11	advmod
+

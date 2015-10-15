@@ -1,0 +1,8 @@
+1	perché	_	SCONJ	SCONJ	_	4	mark
+2	non	_	ADV	ADV	_	4	neg
+3	sono	_	AUX	AUX	_	4	aux
+4	nata	_	VERB	VERB	_	0	root
+5	Angelina	_	PROPN	PROPN	_	4	nsubj
+6	Jolie	_	PROPN	PROPN	_	5	name
+7	?	_	PUNCT	PUNCT	_	4	punct
+

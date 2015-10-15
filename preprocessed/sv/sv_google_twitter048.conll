@@ -1,0 +1,19 @@
+1	Tack	_	NOUN	NOUN	_	2	nsubj
+2	+Fredrik	_	VERB	VERB	_	0	root
+3	Adetoft	_	NOUN	NOUN	_	2	dobj
+4	för	_	ADP	ADP	_	5	case
+5	denna	_	DET	DET	_	2	advmod
+6	.	_	PUNCT	PUNCT	_	2	punct
+7	Kan	_	AUX	AUX	_	9	aux
+8	bara	_	ADV	ADV	_	9	advmod
+9	säga	_	VERB	VERB	_	2	parataxis
+10	som	_	PRON	PRON	_	12	dobj
+11	Ade	_	NOUN	NOUN	_	12	nsubj
+12	sa	_	VERB	VERB	_	9	xcomp
+13	på	_	ADP	ADP	_	14	case
+14	FB	_	NOUN	NOUN	_	12	nmod
+15	:	_	PUNCT	PUNCT	_	14	punct
+16	Bästa	_	ADJ	ADJ	_	17	amod
+17	!!!!	_	NOUN	NOUN	_	18	nsubj
+18	http://t.co/0aVPgsZ66r	_	VERB	VERB	_	9	parataxis
+

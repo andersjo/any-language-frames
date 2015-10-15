@@ -1,0 +1,17 @@
+1	Единствен	_	PROPN	PROPN	_	6	nsubj
+2	Фенрир	_	PROPN	PROPN	_	1	nmod
+3	Грейбек	_	PROPN	PROPN	_	1	name
+4	не	_	INTJ	INTJ	_	6	neg
+5	е	_	AUX	AUX	_	6	aux
+6	удостоен	_	VERB	VERB	_	0	root
+7	да	_	PART	PART	_	8	aux
+8	има	_	VERB	VERB	_	6	ccomp
+9	символът	_	NOUN	NOUN	_	8	dobj
+10	на	_	ADP	ADP	_	11	case
+11	Волдемор	_	NOUN	NOUN	_	9	nmod
+12	,	_	PUNCT	PUNCT	_	15	punct
+13	защото	_	ADV	ADV	_	15	advmod
+14	е	_	AUX	AUX	_	15	aux
+15	върколак	_	VERB	VERB	_	6	advcl
+16	.	_	PUNCT	PUNCT	_	6	punct
+

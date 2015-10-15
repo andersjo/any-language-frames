@@ -1,0 +1,8 @@
+1	Compensation	_	NOUN	NOUN	_	0	root
+2	irrespective	_	ADJ	ADJ	_	1	amod
+3	of	_	X	X	_	2	dep
+4	google	_	NOUN	NOUN	_	3	dep
+5	adsense	_	PROPN	PROPN	_	4	appos
+6	:	_	PUNCT	PUNCT	_	5	punct
+7	LdbJ	_	PROPN	PROPN	_	5	list
+

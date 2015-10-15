@@ -1,0 +1,24 @@
+1	Στις	_	ADP	ADP	_	3	case
+2	3	_	NUM	NUM	_	8	nmod
+3	Μαΐου	_	NOUN	NOUN	_	2	nmod
+4	2011	_	NUM	NUM	_	3	nmod
+5	,	_	PUNCT	PUNCT	_	8	punct
+6	η	_	ADJ	ADJ	_	7	det
+7	Μπαρτσελόνα	_	NOUN	NOUN	_	8	nsubj
+8	αποκλείει	_	VERB	VERB	_	0	root
+9	τη	_	ADJ	ADJ	_	10	det
+10	Ρεάλ	_	NOUN	NOUN	_	8	dobj
+11	από	_	ADP	ADP	_	13	case
+12	το	_	ADJ	ADJ	_	13	det
+13	Τσάμπιονς	_	NOUN	NOUN	_	14	nmod
+14	Λιγκ	_	NOUN	NOUN	_	10	nmod
+15	με	_	ADP	ADP	_	17	case
+16	τον	_	ADJ	ADJ	_	17	det
+17	Ρονάλντο	_	NOUN	NOUN	_	14	nmod
+18	να	_	PART	PART	_	19	aux
+19	διαμαρτύρεται	_	VERB	VERB	_	17	acl
+20	για	_	ADP	ADP	_	22	case
+21	τη	_	ADJ	ADJ	_	22	det
+22	διαιτησία	_	NOUN	NOUN	_	19	nmod
+23	.	_	PUNCT	PUNCT	_	8	punct
+

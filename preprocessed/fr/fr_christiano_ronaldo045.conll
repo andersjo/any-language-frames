@@ -1,0 +1,14 @@
+1	Le	_	DET	DET	_	4	det
+2	,	_	PUNCT	PUNCT	_	5	punct
+3	Cristiano	_	PROPN	PROPN	_	4	name
+4	Ronaldo	_	PROPN	PROPN	_	5	nsubj
+5	signe	_	VERB	VERB	_	0	root
+6	à	_	ADP	ADP	_	8	case
+7	Manchester	_	PROPN	PROPN	_	8	name
+8	United	_	PROPN	PROPN	_	5	nmod
+9	pour	_	ADP	ADP	_	12	case
+10	15	_	NUM	NUM	_	11	nummod
+11	millions	_	NUM	NUM	_	12	nummod
+12	d'euros	_	NOUN	NOUN	_	5	nmod
+13	.	_	PUNCT	PUNCT	_	5	punct
+

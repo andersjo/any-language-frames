@@ -1,0 +1,13 @@
+1	@Aktiefokus	_	NOUN	NOUN	_	2	nmod:poss
+2	@Greenbackd	_	NOUN	NOUN	_	3	nsubj
+3	@40procent20ar	_	VERB	VERB	_	5	advcl
+4	"	_	PUNCT	PUNCT	_	5	punct
+5	Talks	_	VERB	VERB	_	0	root
+6	at	_	NOUN	NOUN	_	7	det
+7	Google	_	PROPN	PROPN	_	5	nsubj
+8	"	_	PUNCT	PUNCT	_	5	punct
+9	är	_	AUX	AUX	_	11	cop
+10	riktigt	_	ADJ	ADJ	_	11	amod
+11	grymt	_	NOUN	NOUN	_	5	dobj
+12	.	_	PUNCT	PUNCT	_	5	punct
+

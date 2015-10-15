@@ -1,0 +1,24 @@
+1	Juni	_	PROPN	PROPN	_	16	dep
+2	1975	_	NUM	NUM	_	1	nmod
+3	als	_	ADP	ADP	_	5	case
+4	"	_	PUNCT	PUNCT	_	7	punct
+5	Angelina	_	PROPN	PROPN	_	7	name
+6	Jolie	_	PROPN	PROPN	_	7	name
+7	Voight	_	PROPN	PROPN	_	1	dobj
+8	"	_	PUNCT	PUNCT	_	5	punct
+9	in	_	ADP	ADP	_	11	case
+10	Los	_	PROPN	PROPN	_	11	name
+11	Angeles	_	PROPN	PROPN	_	7	appos
+12	)	_	PUNCT	PUNCT	_	11	punct
+13	ist	_	VERB	VERB	_	16	cop
+14	eine	_	DET	DET	_	16	det
+15	US-amerikanische	_	ADJ	ADJ	_	16	amod
+16	Schauspielerin	_	NOUN	NOUN	_	0	root
+17	,	_	PUNCT	PUNCT	_	16	punct
+18	Regisseurin	_	NOUN	NOUN	_	16	conj
+19	,	_	PUNCT	PUNCT	_	16	punct
+20	Drehbuchautorin	_	NOUN	NOUN	_	16	conj
+21	und	_	CONJ	CONJ	_	16	cc
+22	Filmproduzentin	_	NOUN	NOUN	_	16	conj
+23	.	_	PUNCT	PUNCT	_	16	punct
+

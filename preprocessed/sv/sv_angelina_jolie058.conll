@@ -1,0 +1,7 @@
+1	Denna	_	PRON	PRON	_	2	nsubj
+2	spelas	_	VERB	VERB	_	0	root
+3	av	_	ADP	ADP	_	5	case
+4	Anne	_	PROPN	PROPN	_	5	nmod:poss
+5	Archer	_	NOUN	NOUN	_	2	nmod
+6	.	_	PUNCT	PUNCT	_	2	punct
+

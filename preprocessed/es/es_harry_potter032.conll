@@ -1,0 +1,27 @@
+1	Entre	_	ADP	ADP	_	2	case
+2	ellas	_	PRON	PRON	_	4	nmod
+3	se	_	PRON	PRON	_	4	iobj
+4	encuentran	_	VERB	VERB	_	0	root
+5	dragones	_	NOUN	NOUN	_	4	nsubj
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	fantasmas	_	NOUN	NOUN	_	5	conj
+8	,	_	PUNCT	PUNCT	_	5	punct
+9	unicornios	_	NOUN	NOUN	_	5	conj
+10	,	_	PUNCT	PUNCT	_	5	punct
+11	sirenas	_	NOUN	NOUN	_	5	conj
+12	,	_	PUNCT	PUNCT	_	5	punct
+13	centauros	_	NOUN	NOUN	_	5	conj
+14	y	_	CONJ	CONJ	_	5	cc
+15	otras	_	PRON	PRON	_	16	nsubj
+16	inventadas	_	VERB	VERB	_	4	conj
+17	o	_	CONJ	CONJ	_	16	cc
+18	adaptadas	_	VERB	VERB	_	4	conj
+19	por	_	ADP	ADP	_	21	case
+20	la	_	DET	DET	_	21	det
+21	autora	_	NOUN	NOUN	_	18	nmod
+22	como	_	ADP	ADP	_	24	case
+23	los	_	DET	DET	_	24	det
+24	o	_	CONJ	CONJ	_	21	cc
+25	los	_	DET	DET	_	23	conj
+26	.	_	PUNCT	PUNCT	_	4	punct
+

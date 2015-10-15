@@ -1,0 +1,21 @@
+1	υποψιάζομαι	_	VERB	VERB	_	0	root
+2	ότι	_	CONJ	CONJ	_	10	mark
+3	το	_	ADJ	ADJ	_	4	det
+4	αεροθερμάκι	_	NOUN	NOUN	_	10	nsubj
+5	που	_	PRON	PRON	_	6	nsubj
+6	έχω	_	VERB	VERB	_	4	acl:relcl
+7	στο	_	ADP	ADP	_	8	case
+8	γραφείο	_	NOUN	NOUN	_	6	nmod
+9	βοηθάει	_	VERB	VERB	_	10	aux
+10	πιό	_	VERB	VERB	_	1	ccomp
+11	πολύ	_	ADV	ADV	_	10	advmod
+12	στο	_	ADP	ADP	_	13	case
+13	global	_	NOUN	NOUN	_	10	nmod
+14	warming	_	NOUN	NOUN	_	13	nmod
+15	παρά	_	CONJ	CONJ	_	13	cc
+16	στο	_	ADP	ADP	_	17	case
+17	ζέσταμα	_	NOUN	NOUN	_	10	nmod
+18	του	_	ADJ	ADJ	_	19	det
+19	γραφείου	_	NOUN	NOUN	_	17	nmod
+20	.	_	PUNCT	PUNCT	_	1	punct
+

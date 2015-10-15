@@ -1,0 +1,11 @@
+1	Stephen	_	PROPN	PROPN	_	5	nsubj
+2	Hawking	_	PROPN	PROPN	_	1	name
+3	de	_	DET	DET	_	4	det
+4	joven	_	NOUN	NOUN	_	5	nsubj
+5	era	_	VERB	VERB	_	0	root
+6	Harry	_	NOUN	NOUN	_	7	nmod:poss
+7	Potter	_	NOUN	NOUN	_	5	dobj
+8	...	_	PUNCT	PUNCT	_	9	punct
+9	#cuartomilenio	_	PROPN	PROPN	_	7	appos
+10	http://t.co/x2ytWwcHFP	_	PROPN	PROPN	_	9	name
+

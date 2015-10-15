@@ -1,0 +1,19 @@
+1	Nadine	_	PROPN	PROPN	_	3	nsubj
+2	ist	_	VERB	VERB	_	3	cop
+3	müde	_	NOUN	NOUN	_	0	root
+4	und	_	CONJ	CONJ	_	3	cc
+5	wir	_	PRON	PRON	_	3	conj
+6	haben	_	AUX	AUX	_	15	aux
+7	noch	_	ADV	ADV	_	8	advmod
+8	nichtmal	_	ADJ	ADJ	_	15	advmod
+9	den	_	DET	DET	_	11	det
+10	ersten	_	ADJ	ADJ	_	11	amod
+11	Teil	_	NOUN	NOUN	_	3	conj
+12	von	_	ADP	ADP	_	14	case
+13	Harry	_	PROPN	PROPN	_	14	name
+14	Potter	_	PROPN	PROPN	_	11	nmod
+15	fertig	_	ADJ	ADJ	_	17	amod
+16	.	_	PUNCT	PUNCT	_	15	punct
+17	GG	_	PROPN	PROPN	_	11	nmod
+18	.	_	PUNCT	PUNCT	_	3	punct
+

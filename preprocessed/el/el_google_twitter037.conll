@@ -1,0 +1,19 @@
+1	http://t.co/hheovulABA	_	NOUN	NOUN	_	4	nmod
+2	η	_	ADJ	ADJ	_	3	det
+3	Google	_	NOUN	NOUN	_	4	nsubj
+4	λογοκρινει	_	VERB	VERB	_	0	root
+5	πολλα	_	ADJ	ADJ	_	6	amod
+6	αρθρα	_	NOUN	NOUN	_	4	dobj
+7	ανα	_	VERB	VERB	_	4	ccomp
+8	την	_	ADJ	ADJ	_	9	det
+9	Ευροπη	_	NOUN	NOUN	_	7	dobj
+10	αν	_	CONJ	CONJ	_	14	mark
+11	θελεται	_	ADJ	ADJ	_	12	amod
+12	ασφαλεια	_	NOUN	NOUN	_	14	nsubj
+13	εδω	_	VERB	VERB	_	14	aux
+14	ειναι	_	VERB	VERB	_	7	conj
+15	το	_	ADJ	ADJ	_	16	det
+16	λινκ	_	NOUN	NOUN	_	14	dobj
+17	..	_	NOUN	NOUN	_	16	nmod
+18	http://t.co/dsz5Wyz1zg	_	NOUN	NOUN	_	17	nmod
+

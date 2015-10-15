@@ -1,0 +1,26 @@
+1	Sin	_	ADP	ADP	_	2	mwe
+2	embargo	_	NOUN	NOUN	_	6	cc
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	cuando	_	SCONJ	SCONJ	_	5	mark
+5	intenta	_	VERB	VERB	_	21	advcl
+6	matar	_	VERB	VERB	_	5	xcomp
+7	a	_	ADP	ADP	_	9	case
+8	su	_	DET	DET	_	9	nmod:poss
+9	hijo	_	NOUN	NOUN	_	6	dobj
+10	de	_	ADP	ADP	_	12	case
+11	1	_	NUM	NUM	_	12	nummod
+12	año	_	NOUN	NOUN	_	9	nmod
+13	,	_	PUNCT	PUNCT	_	14	punct
+14	Harry	_	PROPN	PROPN	_	18	nsubj
+15	,	_	PUNCT	PUNCT	_	5	punct
+16	la	_	DET	DET	_	17	det
+17	maldición	_	NOUN	NOUN	_	18	nsubj
+18	asesina	_	VERB	VERB	_	9	acl:relcl
+19	""	_	X	X	_	21	nsubj
+20	se	_	PRON	PRON	_	21	iobj
+21	vuelve	_	VERB	VERB	_	0	root
+22	sobre	_	ADP	ADP	_	24	case
+23	sí	_	ADV	ADV	_	24	advmod
+24	mismo	_	ADJ	ADJ	_	21	amod
+25	.	_	PUNCT	PUNCT	_	5	punct
+

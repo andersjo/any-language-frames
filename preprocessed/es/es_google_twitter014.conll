@@ -1,0 +1,18 @@
+1	Hijos	_	NOUN	NOUN	_	3	nsubj
+2	nuestros	_	PRON	PRON	_	3	nsubj
+3	nacieron	_	VERB	VERB	_	0	root
+4	...	_	PUNCT	PUNCT	_	5	punct
+5	Hijos	_	PROPN	PROPN	_	3	xcomp
+6	nuestros	_	DET	DET	_	7	nmod:poss
+7	Moriran	_	PROPN	PROPN	_	5	dobj
+8	...	_	PUNCT	PUNCT	_	5	punct
+9	Bajate	_	PROPN	PROPN	_	7	appos
+10	la	_	DET	DET	_	11	det
+11	app	_	PROPN	PROPN	_	9	appos
+12	@La12Tuitea	_	PROPN	PROPN	_	11	amod
+13	desde	_	ADP	ADP	_	15	case
+14	el	_	DET	DET	_	15	det
+15	Celu	_	PROPN	PROPN	_	17	name
+16	http://t.co/YlH7ZUl4EW	_	PROPN	PROPN	_	17	name
+17	http://t.co/kYfUPtmzQd	_	PROPN	PROPN	_	11	appos
+

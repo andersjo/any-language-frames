@@ -1,0 +1,27 @@
+1	När	_	ADV	ADV	_	3	advmod
+2	Real	_	NOUN	NOUN	_	3	nsubj
+3	Madrid	_	VERB	VERB	_	11	advcl
+4	besegrade	_	ADJ	ADJ	_	5	amod
+5	Xerez	_	NOUN	NOUN	_	3	dobj
+6	med	_	ADP	ADP	_	7	case
+7	5-0	_	NUM	NUM	_	10	nummod
+8	den	_	DET	DET	_	10	det
+9	20	_	NUM	NUM	_	10	nummod
+10	september	_	NOUN	NOUN	_	5	nmod
+11	stod	_	VERB	VERB	_	0	root
+12	Ronaldo	_	ADJ	ADJ	_	13	amod
+13	återigen	_	NOUN	NOUN	_	11	dobj
+14	för	_	ADP	ADP	_	16	case
+15	två	_	NUM	NUM	_	16	nummod
+16	mål	_	NOUN	NOUN	_	11	nmod
+17	,	_	PUNCT	PUNCT	_	16	punct
+18	varav	_	ADV	ADV	_	21	advmod
+19	det	_	DET	DET	_	20	det
+20	första	_	ADJ	ADJ	_	21	nsubj
+21	kom	_	VERB	VERB	_	16	acl:relcl
+22	redan	_	ADV	ADV	_	21	advmod
+23	efter	_	ADP	ADP	_	25	case
+24	45	_	NUM	NUM	_	25	nummod
+25	sekunder	_	NOUN	NOUN	_	21	nmod
+26	.	_	PUNCT	PUNCT	_	3	punct
+

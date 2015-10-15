@@ -1,0 +1,17 @@
+1	Συνελήφθη	_	NOUN	NOUN	_	5	nsubj
+2	ο	_	ADJ	ADJ	_	3	det
+3	Ξηρός	_	NOUN	NOUN	_	1	nsubj
+4	,	_	PUNCT	PUNCT	_	1	punct
+5	ξανθός	_	VERB	VERB	_	0	root
+6	με	_	ADP	ADP	_	8	case
+7	ψεύτικα	_	ADJ	ADJ	_	8	amod
+8	μούσια	_	NOUN	NOUN	_	5	nmod
+9	και	_	CONJ	CONJ	_	8	cc
+10	στο	_	ADP	ADP	_	11	case
+11	πλευρό	_	NOUN	NOUN	_	5	nmod
+12	του	_	ADJ	ADJ	_	14	det
+13	την	_	ADJ	ADJ	_	14	det
+14	Angelina	_	NOUN	NOUN	_	11	nmod
+15	Jolie	_	NOUN	NOUN	_	14	nmod
+16	.	_	PUNCT	PUNCT	_	5	punct
+

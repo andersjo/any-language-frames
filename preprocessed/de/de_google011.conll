@@ -1,0 +1,23 @@
+1	Dabei	_	ADV	ADV	_	11	advmod
+2	wird	_	AUX	AUX	_	11	auxpass
+3	eine	_	DET	DET	_	5	det
+4	neue	_	ADJ	ADJ	_	5	amod
+5	Dienstleistung	_	NOUN	NOUN	_	11	nmod
+6	oft	_	ADV	ADV	_	11	advmod
+7	mit	_	ADP	ADP	_	9	case
+8	dem	_	DET	DET	_	9	det
+9	Zusatz	_	NOUN	NOUN	_	11	nmod
+10	Beta	_	PROPN	PROPN	_	9	appos
+11	versehen	_	VERB	VERB	_	0	root
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	um	_	ADP	ADP	_	14	mark
+14	anzuzeigen	_	VERB	VERB	_	11	advcl
+15	,	_	PUNCT	PUNCT	_	14	punct
+16	dass	_	SCONJ	SCONJ	_	20	mark
+17	sie	_	PRON	PRON	_	20	nsubj
+18	noch	_	ADV	ADV	_	19	advmod
+19	nicht	_	PART	PART	_	20	neg
+20	ausgereift	_	VERB	VERB	_	14	ccomp
+21	sei	_	AUX	AUX	_	20	aux
+22	.	_	PUNCT	PUNCT	_	11	punct
+

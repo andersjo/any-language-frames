@@ -1,0 +1,12 @@
+1	Μέχρι	_	ADP	ADP	_	2	case
+2	που	_	PRON	PRON	_	3	nsubj
+3	κάνεις	_	VERB	VERB	_	0	root
+4	google	_	NOUN	NOUN	_	3	dobj
+5	και	_	CONJ	CONJ	_	4	cc
+6	βλέπεις	_	ADJ	ADJ	_	7	amod
+7	οτι	_	NOUN	NOUN	_	4	conj
+8	το	_	ADJ	ADJ	_	9	det
+9	τραγούδι	_	NOUN	NOUN	_	7	nmod
+10	ειναι	_	ADJ	ADJ	_	11	amod
+11	ιταλικό	_	NOUN	NOUN	_	9	nmod
+

@@ -1,0 +1,19 @@
+1	Με	_	ADP	ADP	_	2	case
+2	τί	_	NOUN	NOUN	_	3	nmod
+3	μεράκι	_	VERB	VERB	_	0	root
+4	να	_	PART	PART	_	5	aux
+5	παρακολουθήσεις	_	VERB	VERB	_	3	ccomp
+6	Angelina	_	NOUN	NOUN	_	5	dobj
+7	Jolie	_	NOUN	NOUN	_	6	nmod
+8	να	_	PART	PART	_	9	aux
+9	κάνει	_	VERB	VERB	_	3	ccomp
+10	την	_	ADJ	ADJ	_	11	det
+11	πράκτορα	_	NOUN	NOUN	_	9	dobj
+12	CIA	_	NOUN	NOUN	_	11	nmod
+13	...	_	NOUN	NOUN	_	12	nmod
+14	*μπράβο	_	NOUN	NOUN	_	13	nmod
+15	στο	_	ADP	ADP	_	17	case
+16	ηρωικό	_	ADJ	ADJ	_	17	amod
+17	...	_	NOUN	NOUN	_	9	nmod
+18	http://t.co/r6TV80B9qF	_	NOUN	NOUN	_	17	nmod
+

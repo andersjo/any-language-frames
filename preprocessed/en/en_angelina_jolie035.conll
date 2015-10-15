@@ -1,0 +1,20 @@
+1	She	_	PRON	PRON	_	2	nsubj
+2	felt	_	VERB	VERB	_	11	parataxis
+3	isolated	_	ADJ	ADJ	_	0	ccomp
+4	at	_	ADP	ADP	_	2	compound:prt
+5	Beverly	_	PROPN	PROPN	_	8	compound
+6	Hills	_	PROPN	PROPN	_	8	compound
+7	High	_	PROPN	PROPN	_	8	compound
+8	School	_	PROPN	PROPN	_	2	nmod
+9	among	_	ADP	ADP	_	0	compound:prt
+10	the	_	DET	DET	_	11	det
+11	children	_	NOUN	NOUN	_	9	dobj
+12	of	_	ADP	ADP	_	11	acl
+13	some	_	DET	DET	_	18	det
+14	of	_	ADP	ADP	_	0	compound:prt
+15	the	_	DET	DET	_	16	det
+16	area's	_	NOUN	NOUN	_	18	compound
+17	affluent	_	ADJ	ADJ	_	0	foreign
+18	families	_	NOUN	NOUN	_	2	nmod
+19	.	_	PUNCT	PUNCT	_	2	punct
+

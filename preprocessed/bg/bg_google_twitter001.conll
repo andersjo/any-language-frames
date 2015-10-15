@@ -1,0 +1,12 @@
+1	Тази	_	DET	DET	_	2	det
+2	седмица	_	NOUN	NOUN	_	5	nsubjpass
+3	ще	_	PART	PART	_	5	aux
+4	е	_	AUX	AUX	_	5	aux
+5	интересна	_	VERB	VERB	_	0	root
+6	с	_	ADP	ADP	_	9	case
+7	още	_	ADV	ADV	_	8	advmod
+8	по-висока	_	ADJ	ADJ	_	9	amod
+9	волатилност	_	NOUN	NOUN	_	5	iobj
+10	.	_	PUNCT	PUNCT	_	5	punct
+11	https://t.co/zDgun8Ydh5	_	PROPN	PROPN	_	9	nmod
+

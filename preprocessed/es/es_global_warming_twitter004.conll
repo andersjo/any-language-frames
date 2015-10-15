@@ -1,0 +1,24 @@
+1	El	_	DET	DET	_	2	det
+2	frío	_	NOUN	NOUN	_	9	nsubj
+3	y	_	CONJ	CONJ	_	2	cc
+4	las	_	DET	DET	_	6	det
+5	bajas	_	ADJ	ADJ	_	6	amod
+6	temperaturas	_	NOUN	NOUN	_	9	nsubj
+7	invernales	_	ADJ	ADJ	_	6	amod
+8	son	_	VERB	VERB	_	9	cop
+9	aliados	_	NOUN	NOUN	_	0	root
+10	a	_	ADP	ADP	_	12	case
+11	la	_	DET	DET	_	12	det
+12	hora	_	NOUN	NOUN	_	9	nmod
+13	de	_	ADP	ADP	_	14	case
+14	perder	_	VERB	VERB	_	12	advcl
+15	peso	_	NOUN	NOUN	_	14	dobj
+16	,	_	PUNCT	PUNCT	_	18	punct
+17	de	_	ADP	ADP	_	18	case
+18	acuerdo	_	NOUN	NOUN	_	14	nmod
+19	con	_	ADP	ADP	_	21	case
+20	Ray	_	PROPN	PROPN	_	21	name
+21	Cronise	_	PROPN	PROPN	_	18	nmod
+22	.	_	PUNCT	PUNCT	_	9	punct
+23	http://t.co/LD1K6mTMlB	_	PROPN	PROPN	_	21	appos
+

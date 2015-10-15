@@ -1,0 +1,24 @@
+1	@sarahodedina	_	NOUN	NOUN	_	5	nsubj
+2	I	_	PRON	PRON	_	5	nsubj
+3	was	_	AUX	AUX	_	5	aux
+4	just	_	ADV	ADV	_	5	advmod
+5	wondering	_	VERB	VERB	_	0	root
+6	if	_	SCONJ	SCONJ	_	9	mark
+7	you	_	PRON	PRON	_	9	nsubj
+8	still	_	ADV	ADV	_	9	advmod
+9	have	_	VERB	VERB	_	5	advcl
+10	any	_	DET	DET	_	13	det
+11	Harry	_	PROPN	PROPN	_	12	compound
+12	Potter	_	PROPN	PROPN	_	13	compound
+13	items	_	NOUN	NOUN	_	9	dobj
+14	like	_	ADP	ADP	_	9	compound:prt
+15	this	_	DET	DET	_	19	nsubjpass
+16	you	_	PRON	PRON	_	19	nsubj
+17	might	_	AUX	AUX	_	19	aux
+18	be	_	AUX	AUX	_	19	aux
+19	looking	_	VERB	VERB	_	9	conj
+20	to	_	PART	PART	_	21	mark
+21	sell	_	VERB	VERB	_	19	xcomp
+22	.	_	PUNCT	PUNCT	_	1	punct
+23	jdclar3@gmail.com	_	X	X	_	5	parataxis
+

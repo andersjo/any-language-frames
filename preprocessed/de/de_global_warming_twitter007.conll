@@ -1,0 +1,12 @@
+1	Global	_	PROPN	PROPN	_	2	name
+2	Warming	_	PROPN	PROPN	_	7	nsubj
+3	ist	_	VERB	VERB	_	7	cop
+4	unsere	_	PRON	PRON	_	7	det
+5	einzige	_	ADJ	ADJ	_	7	amod
+6	effektive	_	ADJ	ADJ	_	7	amod
+7	Gegenwehr	_	NOUN	NOUN	_	0	root
+8	gegen	_	ADP	ADP	_	10	case
+9	dieses	_	PRON	PRON	_	10	det
+10	Schnee-Pack	_	NOUN	NOUN	_	7	nmod
+11	#schneegida	_	PROPN	PROPN	_	10	appos
+

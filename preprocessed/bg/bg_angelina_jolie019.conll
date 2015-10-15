@@ -1,0 +1,26 @@
+1	Започва	_	VERB	VERB	_	0	root
+2	също	_	ADV	ADV	_	4	advmod
+3	да	_	PART	PART	_	4	aux
+4	експериментира	_	VERB	VERB	_	1	ccomp
+5	с	_	ADP	ADP	_	6	case
+6	наркотици	_	NOUN	NOUN	_	4	iobj
+7	;	_	PUNCT	PUNCT	_	1	punct
+8	казва	_	VERB	VERB	_	1	conj
+9	,	_	PUNCT	PUNCT	_	16	punct
+10	че	_	SCONJ	SCONJ	_	16	mark
+11	на	_	ADP	ADP	_	13	case
+12	20-годишна	_	ADJ	ADJ	_	13	amod
+13	възраст	_	NOUN	NOUN	_	16	nmod
+14	вече	_	ADV	ADV	_	16	advmod
+15	е	_	AUX	AUX	_	16	aux
+16	опитала	_	VERB	VERB	_	8	ccomp
+17	"	_	PUNCT	PUNCT	_	8	punct
+18	всички	_	DET	DET	_	20	det
+19	възможни	_	ADJ	ADJ	_	20	amod
+20	наркотици	_	NOUN	NOUN	_	16	dobj
+21	"	_	PUNCT	PUNCT	_	8	punct
+22	,	_	PUNCT	PUNCT	_	8	punct
+23	включително	_	ADV	ADV	_	24	advmod
+24	хероин	_	NOUN	NOUN	_	20	conj
+25	.	_	PUNCT	PUNCT	_	8	punct
+

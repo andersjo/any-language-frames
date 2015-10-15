@@ -1,0 +1,24 @@
+1	Nord	_	NOUN	NOUN	_	9	nsubj
+2	du	_	ADP	ADP	_	3	case
+3	Pacifique	_	PROPN	PROPN	_	1	nmod
+4	:	_	PUNCT	PUNCT	_	1	punct
+5	Alors	_	ADV	ADV	_	6	mwe
+6	que	_	SCONJ	SCONJ	_	9	mark
+7	l'on	_	PROPN	PROPN	_	9	nsubj
+8	se	_	PRON	PRON	_	9	dobj
+9	dirige	_	VERB	VERB	_	0	root
+10	vers	_	ADP	ADP	_	11	case
+11	l'année	_	VERB	VERB	_	9	acl
+12	le	_	DET	DET	_	17	det
+13	plus	_	ADV	ADV	_	11	advmod
+14	des	_	ADP	ADP	_	17	case
+15	135	_	NUM	NUM	_	17	nummod
+16	dernières	_	ADJ	ADJ	_	17	amod
+17	années	_	NOUN	NOUN	_	11	nmod
+18	,	_	PUNCT	PUNCT	_	9	punct
+19	le	_	DET	DET	_	20	det
+20	début	_	NOUN	NOUN	_	11	dobj
+21	d'une	_	NOUN	NOUN	_	20	appos
+22	...	_	PUNCT	PUNCT	_	9	punct
+23	http://t.co/Rl9wI09D1a	_	PROPN	PROPN	_	20	appos
+

@@ -1,0 +1,20 @@
+1	@tumorliebende	_	ADJ	ADJ	_	4	advmod
+2	hat	_	AUX	AUX	_	4	aux
+3	mich	_	PRON	PRON	_	4	dobj
+4	angesteckt	_	VERB	VERB	_	0	root
+5	.	_	PUNCT	PUNCT	_	4	punct
+6	Ich	_	PRON	PRON	_	7	det
+7	gucke	_	NOUN	NOUN	_	4	parataxis
+8	jetzt	_	ADV	ADV	_	12	advmod
+9	zum	_	ADP	ADP	_	12	case
+10	13x	_	PROPN	PROPN	_	12	name
+11	Harry	_	PROPN	PROPN	_	12	name
+12	Potter	_	PROPN	PROPN	_	7	nmod
+13	und	_	CONJ	CONJ	_	12	cc
+14	der	_	DET	DET	_	15	det
+15	Feuerkelch	_	NOUN	NOUN	_	12	conj
+16	.	_	PUNCT	PUNCT	_	4	punct
+17	(	_	PUNCT	PUNCT	_	18	punct
+18	Sat1	_	PROPN	PROPN	_	15	appos
+19	)	_	PUNCT	PUNCT	_	18	punct
+

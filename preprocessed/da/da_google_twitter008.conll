@@ -1,0 +1,12 @@
+1	R	_	NOUN	NOUN	_	5	nsubj
+2	.	_	PUNCT	PUNCT	_	1	punct
+3	I	_	ADP	ADP	_	1	dep
+4	.	_	PUNCT	PUNCT	_	3	punct
+5	P	_	VERB	VERB	_	0	root
+6	@StuartScott	_	PROPN	PROPN	_	5	nsubj
+7	v	_	PROPN	PROPN	_	6	name
+8	http://t.co/Uc8WP3wziy	_	PROPN	PROPN	_	6	name
+9	-via	_	PROPN	PROPN	_	6	name
+10	SportsCenter	_	NOUN	NOUN	_	5	dobj
+11	http://t.co/WhkEMCJLlF	_	PROPN	PROPN	_	10	appos
+

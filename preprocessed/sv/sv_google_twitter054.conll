@@ -1,0 +1,22 @@
+1	@OhlyLars	_	NOUN	NOUN	_	2	nsubj
+2	@HeddaXX	_	VERB	VERB	_	0	root
+3	@hensupan	_	NOUN	NOUN	_	4	nmod:poss
+4	Sorry	_	NOUN	NOUN	_	5	nmod:poss
+5	Lars	_	NOUN	NOUN	_	2	dobj
+6	men	_	CONJ	CONJ	_	5	cc
+7	fakta	_	NOUN	NOUN	_	8	nsubj
+8	går	_	VERB	VERB	_	2	conj
+9	före	_	ADP	ADP	_	10	case
+10	spekulationer	_	NOUN	NOUN	_	8	nmod
+11	:	_	PUNCT	PUNCT	_	10	punct
+12	http://t.co/taR5m1WHss	_	NOUN	NOUN	_	10	conj
+13	+	_	PUNCT	PUNCT	_	2	punct
+14	vilket	_	DET	DET	_	15	det
+15	parti	_	NOUN	NOUN	_	17	nsubj
+16	är	_	AUX	AUX	_	17	cop
+17	utsatt	_	ADJ	ADJ	_	12	acl:relcl
+18	för	_	ADP	ADP	_	20	case
+19	mest	_	ADV	ADV	_	20	advmod
+20	hatbrott	_	NOUN	NOUN	_	17	nmod
+21	?	_	PUNCT	PUNCT	_	2	punct
+

@@ -1,0 +1,27 @@
+1	Joueur	_	NOUN	NOUN	_	6	appos
+2	complet	_	ADJ	ADJ	_	1	amod
+3	et	_	CONJ	CONJ	_	2	cc
+4	polyvalent	_	ADJ	ADJ	_	2	conj
+5	,	_	PUNCT	PUNCT	_	1	punct
+6	il	_	PRON	PRON	_	8	nsubj
+7	est	_	VERB	VERB	_	8	cop
+8	capable	_	ADJ	ADJ	_	0	root
+9	de	_	ADP	ADP	_	10	case
+10	jouer	_	VERB	VERB	_	8	acl
+11	à	_	ADP	ADP	_	14	case
+12	tous	_	DET	DET	_	14	det
+13	les	_	DET	DET	_	14	det
+14	postes	_	NOUN	NOUN	_	10	nmod
+15	du	_	ADP	ADP	_	16	case
+16	milieu	_	NOUN	NOUN	_	14	nmod
+17	de	_	ADP	ADP	_	18	case
+18	terrain	_	NOUN	NOUN	_	16	nmod
+19	,	_	PUNCT	PUNCT	_	8	punct
+20	et	_	CONJ	CONJ	_	10	cc
+21	impressionne	_	VERB	VERB	_	8	conj
+22	par	_	ADP	ADP	_	21	case
+23	ses	_	DET	DET	_	24	nmod:poss
+24	qualités	_	NOUN	NOUN	_	22	case
+25	techniques	_	ADJ	ADJ	_	24	amod
+26	.	_	PUNCT	PUNCT	_	1	punct
+

@@ -1,0 +1,17 @@
+1	@SaraxNoir	_	PROPN	PROPN	_	4	name
+2	oi	_	PROPN	PROPN	_	4	name
+3	angelina	_	PROPN	PROPN	_	4	name
+4	jolie	_	PROPN	PROPN	_	5	nmod
+5	nehmen	_	VERB	VERB	_	0	root
+6	wir	_	PRON	PRON	_	5	nsubj
+7	gleich	_	ADV	ADV	_	5	advmod
+8	auch	_	ADV	ADV	_	9	advmod
+9	noch	_	ADV	ADV	_	5	advmod
+10	mit	_	ADP	ADP	_	12	case
+11	die	_	DET	DET	_	12	det
+12	frau	_	NOUN	NOUN	_	5	nmod
+13	ist	_	VERB	VERB	_	15	cop
+14	so	_	ADV	ADV	_	15	advmod
+15	HEISS	_	NOUN	NOUN	_	12	nsubj
+16	.	_	PUNCT	PUNCT	_	5	punct
+

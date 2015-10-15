@@ -1,0 +1,19 @@
+1	Sein	_	DET	DET	_	3	nmod:poss
+2	erstes	_	ADJ	ADJ	_	3	amod
+3	Tor	_	NOUN	NOUN	_	8	nmod
+4	in	_	ADP	ADP	_	7	case
+5	der	_	DET	DET	_	7	det
+6	Premier	_	PROPN	PROPN	_	7	name
+7	League	_	PROPN	PROPN	_	3	nmod
+8	schoss	_	VERB	VERB	_	0	root
+9	Ronaldo	_	PROPN	PROPN	_	10	det
+10	Anfang	_	NOUN	NOUN	_	8	dobj
+11	November	_	PROPN	PROPN	_	10	appos
+12	per	_	ADP	ADP	_	13	case
+13	Freistoß	_	PROPN	PROPN	_	8	nmod
+14	gegen	_	ADP	ADP	_	16	case
+15	den	_	DET	DET	_	16	det
+16	FC	_	PROPN	PROPN	_	8	nmod
+17	Portsmouth	_	PROPN	PROPN	_	16	appos
+18	.	_	PUNCT	PUNCT	_	8	punct
+

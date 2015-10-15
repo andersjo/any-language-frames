@@ -1,0 +1,23 @@
+1	Анджелина	_	PROPN	PROPN	_	3	nsubjpass
+2	е	_	AUX	AUX	_	3	aux
+3	родена	_	VERB	VERB	_	0	root
+4	на	_	ADP	ADP	_	6	case
+5	4	_	NUM	NUM	_	6	nummod
+6	юни	_	NOUN	NOUN	_	3	nmod
+7	1975	_	NUM	NUM	_	8	nummod
+8	г	_	NOUN	NOUN	_	6	nmod
+9	.	_	PUNCT	PUNCT	_	3	punct
+10	в	_	ADP	ADP	_	11	case
+11	семейството	_	NOUN	NOUN	_	3	nmod
+12	на	_	ADP	ADP	_	14	case
+13	американския	_	ADJ	ADJ	_	14	amod
+14	актьор	_	NOUN	NOUN	_	11	nmod
+15	Джон	_	PROPN	PROPN	_	14	nmod
+16	Войт	_	PROPN	PROPN	_	15	nmod
+17	и	_	CONJ	CONJ	_	6	cc
+18	френската	_	ADJ	ADJ	_	19	amod
+19	актриса	_	NOUN	NOUN	_	14	conj
+20	Маршелин	_	PROPN	PROPN	_	19	nmod
+21	Бертран	_	PROPN	PROPN	_	20	name
+22	.	_	PUNCT	PUNCT	_	3	punct
+

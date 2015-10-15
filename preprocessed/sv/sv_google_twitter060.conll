@@ -1,0 +1,13 @@
+1	Tur	_	NOUN	NOUN	_	4	nsubj
+2	att	_	SCONJ	SCONJ	_	4	mark
+3	Google	_	PROPN	PROPN	_	4	nsubj
+4	finns	_	VERB	VERB	_	0	root
+5	.	_	PUNCT	PUNCT	_	1	punct
+6	bra	_	ADV	ADV	_	4	advmod
+7	,	_	PUNCT	PUNCT	_	1	punct
+8	snabba	_	ADJ	ADJ	_	9	amod
+9	lösningar	_	NOUN	NOUN	_	10	nsubj
+10	#mood	_	VERB	VERB	_	1	csubj
+11	😒	_	ADJ	ADJ	_	12	amod
+12	http://t.co/F9YpzN980a	_	NOUN	NOUN	_	10	dobj
+

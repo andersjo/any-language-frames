@@ -1,0 +1,11 @@
+1	Maratona	_	NOUN	NOUN	_	0	root
+2	di	_	ADP	ADP	_	3	case
+3	Harry	_	PROPN	PROPN	_	1	nmod
+4	Potter	_	PROPN	PROPN	_	3	name
+5	a	_	ADP	ADP	_	6	case
+6	casa	_	NOUN	NOUN	_	1	nmod
+7	Varutti	_	ADJ	ADJ	_	6	amod
+8	oggi	_	ADV	ADV	_	1	advmod
+9	!	_	PUNCT	PUNCT	_	10	punct
+10	:3	_	NUM	NUM	_	8	nummod
+

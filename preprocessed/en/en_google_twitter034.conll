@@ -1,0 +1,21 @@
+1	@alldiscountsher	_	NOUN	NOUN	_	6	discourse
+2	Hello	_	INTJ	INTJ	_	1	discourse
+3	!	_	PUNCT	PUNCT	_	6	punct
+4	Can	_	AUX	AUX	_	6	aux
+5	you	_	PRON	PRON	_	6	nsubj
+6	support	_	VERB	VERB	_	16	advcl
+7	me	_	PRON	PRON	_	6	dobj
+8	in	_	ADP	ADP	_	6	compound:prt
+9	promoting	_	VERB	VERB	_	16	advcl
+10	my	_	PRON	PRON	_	12	nmod:poss
+11	mobile	_	ADJ	ADJ	_	0	foreign
+12	app	_	NOUN	NOUN	_	9	dobj
+13	?	_	PUNCT	PUNCT	_	6	punct
+14	I'll	_	PROPN	PROPN	_	16	nsubj
+15	really	_	ADV	ADV	_	16	advmod
+16	appreciate	_	VERB	VERB	_	0	root
+17	your	_	PRON	PRON	_	18	nmod:poss
+18	support	_	NOUN	NOUN	_	16	dobj
+19	!	_	PUNCT	PUNCT	_	6	punct
+20	http://t.co/RI9UrAvtvg	_	X	X	_	18	appos
+

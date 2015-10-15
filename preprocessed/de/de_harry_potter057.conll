@@ -1,0 +1,27 @@
+1	Die	_	DET	DET	_	3	det
+2	magische	_	ADJ	ADJ	_	3	amod
+3	Welt	_	NOUN	NOUN	_	11	nmod
+4	hat	_	AUX	AUX	_	11	aux
+5	sich	_	PRON	PRON	_	11	dobj
+6	zu	_	ADP	ADP	_	8	case
+7	dieser	_	PRON	PRON	_	8	det
+8	Trennung	_	NOUN	NOUN	_	11	nmod
+9	vor	_	ADP	ADP	_	10	case
+10	Jahrhunderten	_	NOUN	NOUN	_	11	nmod
+11	entschlossen	_	VERB	VERB	_	0	root
+12	und	_	CONJ	CONJ	_	11	cc
+13	setzt	_	VERB	VERB	_	11	conj
+14	sie	_	PRON	PRON	_	13	dobj
+15	mit	_	ADP	ADP	_	17	case
+16	entsprechenden	_	ADJ	ADJ	_	17	amod
+17	Geheimhaltungsgesetzen	_	NOUN	NOUN	_	13	nmod
+18	und	_	CONJ	CONJ	_	17	cc
+19	Kontrollen	_	NOUN	NOUN	_	17	conj
+20	,	_	PUNCT	PUNCT	_	13	punct
+21	aber	_	CONJ	CONJ	_	17	cc
+22	auch	_	ADV	ADV	_	24	advmod
+23	mit	_	ADP	ADP	_	24	case
+24	Zauberei	_	NOUN	NOUN	_	17	conj
+25	durch	_	ADP	ADP	_	13	mark
+26	.	_	PUNCT	PUNCT	_	11	punct
+

@@ -1,0 +1,10 @@
+1	Определено	_	ADV	ADV	_	3	advmod
+2	фундамента	_	NOUN	NOUN	_	3	nsubj
+3	засили	_	VERB	VERB	_	0	root
+4	представянето	_	NOUN	NOUN	_	3	dobj
+5	на	_	ADP	ADP	_	7	case
+6	японската	_	ADJ	ADJ	_	7	amod
+7	валута	_	NOUN	NOUN	_	4	nmod
+8	.	_	PUNCT	PUNCT	_	3	punct
+9	https://t.co/jBcRXMc5n9	_	PROPN	PROPN	_	7	nmod
+

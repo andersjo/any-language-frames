@@ -1,0 +1,21 @@
+1	Værket	_	NOUN	NOUN	_	7	nmod:temp
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	"	_	PUNCT	PUNCT	_	4	punct
+4	Spinaltration	_	NOUN	NOUN	_	1	dep
+5	..	_	PUNCT	PUNCT	_	4	punct
+6	"	_	PUNCT	PUNCT	_	7	punct
+7	or	_	VERB	VERB	_	0	root
+8	"	_	PUNCT	PUNCT	_	7	punct
+9	My	_	PROPN	PROPN	_	7	nsubj
+10	defects	_	NOUN	NOUN	_	9	dep
+11	are	_	X	X	_	13	dep
+12	really	_	NOUN	NOUN	_	13	name
+13	Angels	_	PROPN	PROPN	_	10	appos
+14	gone	_	PROPN	PROPN	_	13	name
+15	Astray	_	PROPN	PROPN	_	13	name
+16	..	_	PUNCT	PUNCT	_	7	punct
+17	"	_	PUNCT	PUNCT	_	19	punct
+18	2012	_	NUM	NUM	_	19	nummod
+19	…	_	NOUN	NOUN	_	13	dep
+20	http://t.co/UdZK6jDwXQ	_	NOUN	NOUN	_	19	nmod
+

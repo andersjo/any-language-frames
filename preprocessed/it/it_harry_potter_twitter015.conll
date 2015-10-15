@@ -1,0 +1,7 @@
+1	Passei	_	PROPN	PROPN	_	4	nsubj
+2	o	_	CONJ	CONJ	_	1	cc
+3	dia	_	VERB	VERB	_	1	conj
+4	vendo	_	VERB	VERB	_	0	root
+5	Harry	_	PROPN	PROPN	_	4	dobj
+6	Potter	_	PROPN	PROPN	_	5	name
+

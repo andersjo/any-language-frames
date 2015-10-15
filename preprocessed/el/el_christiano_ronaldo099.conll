@@ -1,0 +1,12 @@
+1	Ο	_	ADJ	ADJ	_	2	det
+2	Ρονάλντο	_	NOUN	NOUN	_	4	nsubj
+3	έχει	_	VERB	VERB	_	4	aux
+4	υπογράψει	_	VERB	VERB	_	0	root
+5	πολλά	_	ADJ	ADJ	_	6	amod
+6	συμβόλαια	_	NOUN	NOUN	_	4	dobj
+7	με	_	ADP	ADP	_	9	case
+8	μεγάλες	_	ADJ	ADJ	_	9	amod
+9	εταιρείες	_	NOUN	NOUN	_	6	nmod
+10	παγκοσμίως	_	ADV	ADV	_	4	advmod
+11	.	_	PUNCT	PUNCT	_	4	punct
+

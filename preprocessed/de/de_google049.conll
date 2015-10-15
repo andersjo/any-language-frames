@@ -1,0 +1,12 @@
+1	Sie	_	PRON	PRON	_	6	nsubj
+2	konzipierten	_	ADJ	ADJ	_	0	root
+3	die	_	DET	DET	_	4	det
+4	Suchmaschine	_	NOUN	NOUN	_	6	compound
+5	"	_	PUNCT	PUNCT	_	6	punct
+6	BackRub	_	NOUN	NOUN	_	2	xcomp
+7	"	_	PUNCT	PUNCT	_	6	punct
+8	,	_	PUNCT	PUNCT	_	4	punct
+9	einen	_	DET	DET	_	10	det
+10	Google-Vorläufer	_	PROPN	PROPN	_	4	appos
+11	.	_	PUNCT	PUNCT	_	6	punct
+

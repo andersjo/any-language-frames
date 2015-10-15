@@ -1,0 +1,22 @@
+1	12	_	NUM	NUM	_	2	nummod
+2	års	_	NOUN	NOUN	_	3	nmod:poss
+3	mareridt	_	NOUN	NOUN	_	4	nmod:poss
+4	slut	_	NOUN	NOUN	_	0	root
+5	:	_	PUNCT	PUNCT	_	4	punct
+6	Tysker	_	NOUN	NOUN	_	7	nsubj
+7	vinder	_	VERB	VERB	_	4	dep
+8	en	_	PRON	PRON	_	7	dobj
+9	af	_	ADP	ADP	_	8	dep
+10	fire	_	NUM	NUM	_	9	nummod
+11	bakker	_	VERB	VERB	_	7	dep
+12	-	_	PUNCT	PUNCT	_	11	punct
+13	Ekstra	_	ADJ	ADJ	_	14	amod
+14	Bladet	_	NOUN	NOUN	_	17	dep
+15	:	_	PUNCT	PUNCT	_	14	punct
+16	Ekstra	_	ADJ	ADJ	_	17	amod
+17	Bladet	_	NOUN	NOUN	_	19	nmod:poss
+18	12	_	NUM	NUM	_	19	nummod
+19	års	_	NOUN	NOUN	_	20	nmod:poss
+20	…	_	NOUN	NOUN	_	21	nmod:poss
+21	http://t.co/bjJSLFNGYN	_	NOUN	NOUN	_	11	list
+

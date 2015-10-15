@@ -1,0 +1,20 @@
+1	One	_	PROPN	PROPN	_	3	name
+2	Big	_	PROPN	PROPN	_	3	name
+3	Web	_	PROPN	PROPN	_	5	name
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	Google	_	PROPN	PROPN	_	6	nsubj
+6	change	_	VERB	VERB	_	0	root
+7	sa	_	DET	DET	_	8	nmod:poss
+8	police	_	NOUN	NOUN	_	6	dobj
+9	de	_	ADP	ADP	_	10	case
+10	caractère	_	NOUN	NOUN	_	8	nmod
+11	dans	_	ADP	ADP	_	13	case
+12	la	_	DET	DET	_	13	det
+13	présentation	_	NOUN	NOUN	_	6	nmod
+14	des	_	ADP	ADP	_	15	case
+15	résult	_	PROPN	PROPN	_	13	nmod
+16	http://t.co/YgVzfCaDOK	_	PROPN	PROPN	_	19	name
+17	#actualite	_	PROPN	PROPN	_	19	name
+18	#ergonomie	_	PROPN	PROPN	_	19	name
+19	#googl	_	PROPN	PROPN	_	13	nmod
+

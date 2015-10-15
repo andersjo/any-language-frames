@@ -1,0 +1,18 @@
+1	Серията	_	ADJ	ADJ	_	2	amod
+2	романи	_	NOUN	NOUN	_	4	nsubjpass
+3	е	_	AUX	AUX	_	4	aux
+4	преведена	_	VERB	VERB	_	0	root
+5	на	_	ADP	ADP	_	7	case
+6	65	_	NUM	NUM	_	7	nummod
+7	езика	_	NOUN	NOUN	_	4	nmod
+8	,	_	PUNCT	PUNCT	_	10	punct
+9	което	_	PRON	PRON	_	10	nsubj
+10	поставя	_	VERB	VERB	_	7	acl
+11	Роулинг	_	NOUN	NOUN	_	10	dobj
+12	сред	_	ADP	ADP	_	14	case
+13	най-превежданите	_	ADJ	ADJ	_	14	amod
+14	автори	_	NOUN	NOUN	_	11	nmod
+15	в	_	ADP	ADP	_	16	case
+16	историята	_	NOUN	NOUN	_	14	nmod
+17	.	_	PUNCT	PUNCT	_	4	punct
+

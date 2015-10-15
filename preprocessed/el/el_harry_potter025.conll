@@ -1,0 +1,22 @@
+1	Η	_	ADJ	ADJ	_	3	det
+2	πρώτη	_	NUM	NUM	_	3	nummod
+3	ταινία	_	NOUN	NOUN	_	5	nsubj
+4	,	_	PUNCT	PUNCT	_	5	punct
+5	κυκλοφόρησε	_	VERB	VERB	_	0	root
+6	το	_	ADJ	ADJ	_	7	det
+7	2001	_	NOUN	NOUN	_	5	dobj
+8	και	_	CONJ	CONJ	_	5	cc
+9	συνοδεύτηκε	_	VERB	VERB	_	5	conj
+10	από	_	ADP	ADP	_	11	case
+11	βιντεοπαιχνίδια	_	NOUN	NOUN	_	9	nmod
+12	και	_	CONJ	CONJ	_	9	cc
+13	άλλα	_	PRON	PRON	_	14	nmod
+14	προϊόντα	_	NOUN	NOUN	_	11	conj
+15	που	_	PRON	PRON	_	17	nsubj
+16	φέρουν	_	VERB	VERB	_	17	aux
+17	λογότυπα	_	VERB	VERB	_	14	acl:relcl
+18	και	_	CONJ	CONJ	_	17	cc
+19	αναγνωριστικά	_	VERB	VERB	_	17	conj
+20	της	_	ADJ	ADJ	_	21	det
+21	.	_	PUNCT	PUNCT	_	5	punct
+

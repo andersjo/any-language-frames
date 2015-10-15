@@ -1,0 +1,18 @@
+1	#AngelinaJolie	_	NOUN	NOUN	_	2	nmod:poss
+2	#Fans	_	NOUN	NOUN	_	4	nmod:poss
+3	LOUIS	_	ADJ	ADJ	_	4	amod
+4	ZAMPERINI	_	NOUN	NOUN	_	0	root
+5	&	_	CONJ	CONJ	_	4	cc
+6	ANGELINA	_	NOUN	NOUN	_	4	conj
+7	JOLIE	_	NOUN	NOUN	_	6	nmod:poss
+8	SIGNED	_	PROPN	PROPN	_	7	appos
+9	PHOTO	_	PROPN	PROPN	_	8	name
+10	8X10	_	X	X	_	8	dep
+11	RP	_	NOUN	NOUN	_	12	nmod:poss
+12	AUTOGRAPHED	_	NOUN	NOUN	_	10	nmod:poss
+13	*	_	PUNCT	PUNCT	_	12	punct
+14	…	_	NOUN	NOUN	_	15	nmod:poss
+15	http://t.co/NWcy98LhcR	_	NOUN	NOUN	_	17	nmod:poss
+16	#Collectibles	_	ADJ	ADJ	_	17	amod
+17	#Sale	_	NOUN	NOUN	_	4	conj
+

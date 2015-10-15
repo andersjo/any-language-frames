@@ -1,0 +1,26 @@
+1	С	_	ADP	ADP	_	2	case
+2	ролята	_	NOUN	NOUN	_	4	nmod
+3	се	_	PRON	PRON	_	4	expl
+4	заема	_	VERB	VERB	_	0	root
+5	Алфонсо	_	PROPN	PROPN	_	4	nsubj
+6	Куарон	_	PROPN	PROPN	_	5	nmod
+7	,	_	PUNCT	PUNCT	_	8	punct
+8	мексиканец	_	NOUN	NOUN	_	5	nmod
+9	,	_	PUNCT	PUNCT	_	10	punct
+10	и	_	CONJ	CONJ	_	5	cc
+11	след	_	ADP	ADP	_	13	mark
+12	като	_	SCONJ	SCONJ	_	11	mwe
+13	бива	_	VERB	VERB	_	4	advcl
+14	заснет	_	NOUN	NOUN	_	13	dobj
+15	през	_	ADP	ADP	_	16	case
+16	2003	_	NUM	NUM	_	18	nummod
+17	,	_	PUNCT	PUNCT	_	13	punct
+18	филмът	_	NOUN	NOUN	_	20	nsubjpass
+19	е	_	AUX	AUX	_	20	aux
+20	пуснат	_	VERB	VERB	_	4	conj
+21	на	_	ADP	ADP	_	23	case
+22	4	_	NUM	NUM	_	23	nummod
+23	юни	_	NOUN	NOUN	_	20	iobj
+24	2004	_	NUM	NUM	_	23	nummod
+25	.	_	PUNCT	PUNCT	_	4	punct
+

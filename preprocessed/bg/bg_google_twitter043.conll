@@ -1,0 +1,14 @@
+1	@delevska	_	PROPN	PROPN	_	7	nsubj
+2	дури	_	PROPN	PROPN	_	1	name
+3	ни	_	CONJ	CONJ	_	1	cc
+4	Google	_	PROPN	PROPN	_	1	conj
+5	не	_	INTJ	INTJ	_	7	neg
+6	е	_	AUX	AUX	_	7	aux
+7	запознаен	_	VERB	VERB	_	0	root
+8	со	_	ADJ	ADJ	_	9	amod
+9	зборов	_	NOUN	NOUN	_	7	dobj
+10	...	_	PUNCT	PUNCT	_	11	punct
+11	превод	_	NOUN	NOUN	_	9	nmod
+12	?	_	PUNCT	PUNCT	_	7	punct
+13	:)	_	PROPN	PROPN	_	11	nmod
+

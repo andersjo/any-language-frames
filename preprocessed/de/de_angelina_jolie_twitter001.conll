@@ -1,0 +1,12 @@
+1	'	_	PUNCT	PUNCT	_	3	punct
+2	Brad	_	PROPN	PROPN	_	3	name
+3	Pitt	_	PROPN	PROPN	_	0	root
+4	and	_	PROPN	PROPN	_	3	cc
+5	Angelina	_	PROPN	PROPN	_	3	conj
+6	Jolie	_	PROPN	PROPN	_	3	conj
+7	'	_	PUNCT	PUNCT	_	6	case
+8	marka	_	PROPN	PROPN	_	9	name
+9	adi	_	PROPN	PROPN	_	3	conj
+10	gibi	_	PROPN	PROPN	_	11	name
+11	amk	_	PROPN	PROPN	_	9	nmod
+

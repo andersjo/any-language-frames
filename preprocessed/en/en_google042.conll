@@ -1,0 +1,25 @@
+1	Shares	_	NOUN	NOUN	_	3	nsubjpass
+2	were	_	AUX	AUX	_	3	auxpass
+3	sold	_	VERB	VERB	_	0	root
+4	in	_	ADP	ADP	_	3	compound:prt
+5	an	_	DET	DET	_	8	det
+6	online	_	ADJ	ADJ	_	0	foreign
+7	auction	_	NOUN	NOUN	_	8	compound
+8	format	_	NOUN	NOUN	_	3	dobj
+9	using	_	VERB	VERB	_	3	advcl
+10	a	_	DET	DET	_	11	det
+11	system	_	NOUN	NOUN	_	9	dobj
+12	built	_	VERB	VERB	_	11	acl
+13	by	_	ADP	ADP	_	12	compound:prt
+14	Morgan	_	PROPN	PROPN	_	18	compound
+15	Stanley	_	X	X	_	18	compound
+16	and	_	CONJ	CONJ	_	15	cc
+17	Credit	_	NOUN	NOUN	_	18	compound
+18	Suisse	_	NOUN	NOUN	_	12	dobj
+19	,	_	PUNCT	PUNCT	_	18	punct
+20	underwriters	_	NOUN	NOUN	_	18	conj
+21	for	_	ADP	ADP	_	20	compound
+22	the	_	DET	DET	_	23	det
+23	deal	_	NOUN	NOUN	_	18	conj
+24	.	_	PUNCT	PUNCT	_	3	punct
+

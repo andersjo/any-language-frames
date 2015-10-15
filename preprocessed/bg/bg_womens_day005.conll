@@ -1,0 +1,22 @@
+1	Първият	_	ADJ	ADJ	_	2	amod
+2	Ден	_	PROPN	PROPN	_	6	nsubj
+3	на	_	ADP	ADP	_	4	case
+4	жената	_	NOUN	NOUN	_	2	nmod
+5	е	_	AUX	AUX	_	6	aux
+6	отбелязан	_	VERB	VERB	_	0	root
+7	на	_	ADP	ADP	_	9	case
+8	23	_	NUM	NUM	_	9	nummod
+9	февруари	_	NOUN	NOUN	_	6	iobj
+10	1909	_	NUM	NUM	_	11	nummod
+11	г	_	NOUN	NOUN	_	9	nmod
+12	.	_	PUNCT	PUNCT	_	6	punct
+13	в	_	ADP	ADP	_	14	case
+14	САЩ	_	PROPN	PROPN	_	11	nmod
+15	по	_	ADP	ADP	_	16	case
+16	инициатива	_	NOUN	NOUN	_	6	nmod
+17	на	_	ADP	ADP	_	20	case
+18	Американската	_	ADJ	ADJ	_	20	amod
+19	социалистическа	_	ADJ	ADJ	_	20	amod
+20	партия	_	NOUN	NOUN	_	16	nmod
+21	.	_	PUNCT	PUNCT	_	6	punct
+

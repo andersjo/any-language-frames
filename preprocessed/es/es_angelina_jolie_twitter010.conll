@@ -1,0 +1,20 @@
+1	voy	_	VERB	VERB	_	0	root
+2	a	_	ADP	ADP	_	3	case
+3	ver	_	VERB	VERB	_	1	acl
+4	"	_	PUNCT	PUNCT	_	5	punct
+5	vidas	_	NOUN	NOUN	_	3	dobj
+6	ajenas	_	ADJ	ADJ	_	5	amod
+7	"	_	PUNCT	PUNCT	_	5	punct
+8	con	_	ADP	ADP	_	10	case
+9	mi	_	DET	DET	_	10	nmod:poss
+10	amada	_	NOUN	NOUN	_	5	nmod
+11	angelina	_	ADJ	ADJ	_	10	amod
+12	jolie	_	PROPN	PROPN	_	10	appos
+13	nos	_	PRON	PRON	_	15	iobj
+14	re	_	PART	PART	_	15	mark
+15	vimos	_	VERB	VERB	_	1	parataxis
+16	me	_	PRON	PRON	_	17	iobj
+17	voy	_	VERB	VERB	_	1	parataxis
+18	a	_	ADP	ADP	_	19	case
+19	tocar	_	VERB	VERB	_	17	acl
+

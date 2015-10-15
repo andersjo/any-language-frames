@@ -1,0 +1,21 @@
+1	Крис	_	PROPN	PROPN	_	3	nsubj
+2	Колумбъс	_	PROPN	PROPN	_	1	nmod
+3	отказва	_	VERB	VERB	_	0	root
+4	да	_	PART	PART	_	5	aux
+5	режисира	_	VERB	VERB	_	3	ccomp
+6	"	_	PUNCT	PUNCT	_	7	punct
+7	Хари	_	PROPN	PROPN	_	5	dobj
+8	Потър	_	PROPN	PROPN	_	7	name
+9	и	_	CONJ	CONJ	_	7	cc
+10	Затворникът	_	NOUN	NOUN	_	19	nsubjpass
+11	от	_	ADP	ADP	_	12	case
+12	Азкабан	_	PROPN	PROPN	_	10	nmod
+13	"	_	PUNCT	PUNCT	_	7	punct
+14	и	_	CONJ	CONJ	_	3	cc
+15	приема	_	VERB	VERB	_	3	conj
+16	само	_	ADV	ADV	_	19	advmod
+17	да	_	PART	PART	_	19	aux
+18	бъде	_	AUX	AUX	_	19	aux
+19	продуцент	_	VERB	VERB	_	15	ccomp
+20	.	_	PUNCT	PUNCT	_	3	punct
+

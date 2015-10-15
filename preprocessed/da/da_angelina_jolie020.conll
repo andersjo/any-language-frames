@@ -1,0 +1,16 @@
+1	Man	_	PRON	PRON	_	3	nsubj
+2	har	_	AUX	AUX	_	3	aux
+3	brugt	_	VERB	VERB	_	0	root
+4	make-up	_	NOUN	NOUN	_	3	dobj
+5	til	_	ADP	ADP	_	3	dep
+6	at	_	PART	PART	_	5	dep
+7	dække	_	VERB	VERB	_	6	dep
+8	hendes	_	DET	DET	_	9	det
+9	tatoveringer	_	NOUN	NOUN	_	7	dobj
+10	under	_	ADP	ADP	_	9	dep
+11	mange	_	ADJ	ADJ	_	10	amod
+12	af	_	ADP	ADP	_	14	case
+13	hendes	_	DET	DET	_	14	det
+14	produktioner	_	NOUN	NOUN	_	11	nmod
+15	.	_	PUNCT	PUNCT	_	3	punct
+

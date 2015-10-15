@@ -1,0 +1,13 @@
+1	Først	_	ADV	ADV	_	4	advmod
+2	og	_	CONJ	CONJ	_	1	cc
+3	fremmest	_	ADJ	ADJ	_	1	conj
+4	handler	_	VERB	VERB	_	0	root
+5	det	_	PRON	PRON	_	4	nsubj
+6	om	_	ADP	ADP	_	7	case
+7	reklamer	_	NOUN	NOUN	_	4	nmod
+8	,	_	PUNCT	PUNCT	_	10	punct
+9	som	_	PART	PART	_	10	nsubj
+10	finansierer	_	VERB	VERB	_	7	acl:relcl
+11	foretagendet	_	NOUN	NOUN	_	10	dobj
+12	.	_	PUNCT	PUNCT	_	4	punct
+

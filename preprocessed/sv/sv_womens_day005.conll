@@ -1,0 +1,10 @@
+1	beslutade	_	VERB	VERB	_	0	root
+2	sedan	_	ADV	ADV	_	1	advmod
+3	om	_	SCONJ	SCONJ	_	2	mwe
+4	detta	_	PRON	PRON	_	1	dobj
+5	i	_	ADP	ADP	_	7	case
+6	en	_	DET	DET	_	7	det
+7	resolution	_	NOUN	NOUN	_	1	nmod
+8	1977	_	NUM	NUM	_	7	nummod
+9	.	_	PUNCT	PUNCT	_	1	punct
+

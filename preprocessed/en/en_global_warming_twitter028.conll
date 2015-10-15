@@ -1,0 +1,26 @@
+1	I	_	PRON	PRON	_	2	nsubj
+2	hate	_	VERB	VERB	_	0	root
+3	global	_	ADJ	ADJ	_	0	acl:relcl
+4	warming	_	NOUN	NOUN	_	2	dobj
+5	...	_	PUNCT	PUNCT	_	2	punct
+6	you	_	PRON	PRON	_	7	nsubj
+7	know	_	VERB	VERB	_	2	parataxis
+8	how	_	ADV	ADV	_	14	advmod
+9	many	_	ADJ	ADJ	_	0	foreign
+10	days	_	NOUN	NOUN	_	14	nmod
+11	we	_	PRON	PRON	_	14	nsubj
+12	would	_	AUX	AUX	_	14	aux
+13	have	_	AUX	AUX	_	14	aux
+14	had	_	VERB	VERB	_	7	ccomp
+15	off	_	ADP	ADP	_	14	compound:prt
+16	from	_	ADP	ADP	_	14	compound:prt
+17	school	_	NOUN	NOUN	_	14	dobj
+18	if	_	ADP	ADP	_	14	compound:prt
+19	people	_	NOUN	NOUN	_	21	nsubj
+20	just	_	ADV	ADV	_	21	advmod
+21	recycled	_	VERB	VERB	_	14	conj
+22	and	_	CONJ	CONJ	_	21	cc
+23	drove	_	VERB	VERB	_	21	conj
+24	hybrids	_	NOUN	NOUN	_	23	dobj
+25	???	_	PUNCT	PUNCT	_	2	punct
+

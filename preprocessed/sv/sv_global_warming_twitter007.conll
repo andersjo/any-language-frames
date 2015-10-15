@@ -1,0 +1,20 @@
+1	Otroligt	_	ADJ	ADJ	_	15	amod
+2	men	_	CONJ	CONJ	_	1	cc
+3	sant	_	ADJ	ADJ	_	1	conj
+4	.	_	PUNCT	PUNCT	_	3	punct
+5	Ännu	_	ADV	ADV	_	6	advmod
+6	2015	_	NUM	NUM	_	3	nmod
+7	förnekar	_	VERB	VERB	_	0	root
+8	Wall	_	PROPN	PROPN	_	7	nsubj
+9	Street	_	PROPN	PROPN	_	8	name
+10	Journal	_	PROPN	PROPN	_	8	name
+11	forskarnas	_	NOUN	NOUN	_	7	dobj
+12	eniga	_	ADJ	ADJ	_	13	amod
+13	o	_	INTJ	INTJ	_	14	discourse
+14	starka	_	ADJ	ADJ	_	15	amod
+15	varningar	_	NOUN	NOUN	_	7	dobj
+16	om	_	ADP	ADP	_	17	case
+17	klimatförändringen	_	NOUN	NOUN	_	15	nmod
+18	.	_	PUNCT	PUNCT	_	7	punct
+19	http://t.co/P0XlutOO1P	_	NOUN	NOUN	_	17	conj
+

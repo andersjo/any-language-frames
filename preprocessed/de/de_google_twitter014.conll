@@ -1,0 +1,12 @@
+1	Nach	_	ADP	ADP	_	3	case
+2	Prügel-Anzeige	_	NOUN	NOUN	_	3	compound
+3	CDU-Politiker	_	NOUN	NOUN	_	4	nsubj
+4	versöhnt	_	VERB	VERB	_	0	root
+5	sich	_	PRON	PRON	_	4	dobj
+6	mit	_	ADP	ADP	_	11	case
+7	Freundin	_	PROPN	PROPN	_	9	name
+8	-	_	PUNCT	PUNCT	_	9	punct
+9	BILD	_	PROPN	PROPN	_	11	name
+10	http://t.co/ohaYItJ5M0	_	PROPN	PROPN	_	11	name
+11	#MostMedia	_	PROPN	PROPN	_	4	nmod
+

@@ -1,0 +1,23 @@
+1	Η	_	ADJ	ADJ	_	2	det
+2	Πορτογαλία	_	NOUN	NOUN	_	3	nsubj
+3	έφτασε	_	VERB	VERB	_	0	root
+4	μέχρι	_	ADP	ADP	_	6	case
+5	τους	_	ADJ	ADJ	_	6	det
+6	4	_	NUM	NUM	_	3	nmod
+7	της	_	ADJ	ADJ	_	8	det
+8	διοργάνωσης	_	NOUN	NOUN	_	6	nmod
+9	,	_	PUNCT	PUNCT	_	12	punct
+10	όπου	_	ADV	ADV	_	12	advmod
+11	δεν	_	PART	PART	_	12	neg
+12	κατάφερε	_	VERB	VERB	_	3	ccomp
+13	να	_	PART	PART	_	14	aux
+14	νικήσει	_	VERB	VERB	_	12	ccomp
+15	τη	_	ADJ	ADJ	_	16	det
+16	Γαλλία	_	NOUN	NOUN	_	14	dobj
+17	,	_	PUNCT	PUNCT	_	16	punct
+18	του	_	ADJ	ADJ	_	20	det
+19	μεγάλου	_	ADJ	ADJ	_	20	amod
+20	Ζινεντίν	_	NOUN	NOUN	_	16	conj
+21	Ζιντάν	_	NOUN	NOUN	_	20	nmod
+22	.	_	PUNCT	PUNCT	_	3	punct
+

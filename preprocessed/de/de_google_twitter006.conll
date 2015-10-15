@@ -1,0 +1,15 @@
+1	1	_	PROPN	PROPN	_	3	name
+2	Hall	_	PROPN	PROPN	_	3	name
+3	Cottages	_	PROPN	PROPN	_	0	root
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	Hickling	_	PROPN	PROPN	_	3	conj
+6	,	_	PUNCT	PUNCT	_	3	punct
+7	Norwich	_	PROPN	PROPN	_	3	conj
+8	,	_	PUNCT	PUNCT	_	3	punct
+9	Norfolk	_	PROPN	PROPN	_	11	name
+10	NR12	_	PROPN	PROPN	_	11	name
+11	0BA	_	PROPN	PROPN	_	3	conj
+12	,	_	PUNCT	PUNCT	_	3	punct
+13	UK	_	PROPN	PROPN	_	14	name
+14	http://t.co/1DLlkINOEF	_	PROPN	PROPN	_	11	conj
+

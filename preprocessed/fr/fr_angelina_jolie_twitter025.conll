@@ -1,0 +1,21 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	@PerfectGirlsFR_	_	X	X	_	5	compound
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Angelina	_	PROPN	PROPN	_	5	name
+5	Jolie	_	PROPN	PROPN	_	7	nsubj
+6	elle	_	PRON	PRON	_	7	nsubj
+7	porte	_	VERB	VERB	_	0	root
+8	bien	_	ADV	ADV	_	7	advmod
+9	son	_	DET	DET	_	10	nmod:poss
+10	nom	_	NOUN	NOUN	_	7	dobj
+11	.	_	PUNCT	PUNCT	_	13	punct
+12	🙌	_	PROPN	PROPN	_	13	name
+13	http://t.co/NNjUkaQGFt	_	PROPN	PROPN	_	10	appos
+14	"	_	PUNCT	PUNCT	_	13	punct
+15	Gauche	_	PROPN	PROPN	_	13	appos
+16	carrément	_	ADV	ADV	_	17	advmod
+17	droite	_	ADJ	ADJ	_	15	amod
+18	moyen	_	ADJ	ADJ	_	15	amod
+19	quand	_	SCONJ	SCONJ	_	20	mwe
+20	même	_	ADV	ADV	_	17	advmod
+

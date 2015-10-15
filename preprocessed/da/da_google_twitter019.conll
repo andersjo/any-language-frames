@@ -1,0 +1,25 @@
+1	Whats	_	NOUN	NOUN	_	21	iobj
+2	Hot	_	PROPN	PROPN	_	1	appos
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	SouFun	_	PROPN	PROPN	_	1	list
+5	Holdings	_	PROPN	PROPN	_	4	name
+6	(	_	PUNCT	PUNCT	_	7	punct
+7	NYSE	_	NOUN	NOUN	_	4	dep
+8	:	_	PUNCT	PUNCT	_	7	punct
+9	SFUN	_	NOUN	NOUN	_	7	list
+10	)	_	PUNCT	PUNCT	_	7	punct
+11	,	_	PUNCT	PUNCT	_	7	punct
+12	Hertz	_	PROPN	PROPN	_	4	conj
+13	Global	_	PROPN	PROPN	_	12	name
+14	Holdings	_	PROPN	PROPN	_	12	name
+15	(	_	PUNCT	PUNCT	_	16	punct
+16	NYSE	_	NOUN	NOUN	_	12	name
+17	:	_	PUNCT	PUNCT	_	16	punct
+18	HTZ	_	PROPN	PROPN	_	16	list
+19	)	_	PUNCT	PUNCT	_	18	punct
+20	,	_	PUNCT	PUNCT	_	16	punct
+21	Internet	_	VERB	VERB	_	0	root
+22	Patents	_	PROPN	PROPN	_	21	nsubj
+23	...	_	PUNCT	PUNCT	_	21	punct
+24	http://t.co/xsaWvFwGrd	_	ADJ	ADJ	_	21	amod
+

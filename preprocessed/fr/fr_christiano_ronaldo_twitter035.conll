@@ -1,0 +1,10 @@
+1	Aparament	_	PROPN	PROPN	_	3	name
+2	Christiano	_	PROPN	PROPN	_	3	name
+3	Ronaldo	_	PROPN	PROPN	_	6	nmod
+4	il	_	PRON	PRON	_	6	nsubj
+5	en	_	PRON	PRON	_	6	iobj
+6	a	_	VERB	VERB	_	0	root
+7	une	_	DET	DET	_	9	det
+8	grosse	_	ADJ	ADJ	_	9	amod
+9	😱	_	NOUN	NOUN	_	6	dobj
+

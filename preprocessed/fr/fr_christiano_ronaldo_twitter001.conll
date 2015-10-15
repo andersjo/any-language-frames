@@ -1,0 +1,17 @@
+1	Les	_	DET	DET	_	3	det
+2	juif	_	ADJ	ADJ	_	3	amod
+3	attende	_	NOUN	NOUN	_	0	root
+4	leur	_	DET	DET	_	5	nmod:poss
+5	messie	_	NOUN	NOUN	_	3	nmod
+6	et	_	CONJ	CONJ	_	5	cc
+7	les	_	DET	DET	_	8	det
+8	chrétien	_	NOUN	NOUN	_	5	conj
+9	leur	_	DET	DET	_	10	nmod:poss
+10	christiano	_	PROPN	PROPN	_	11	name
+11	Ronaldo	_	PROPN	PROPN	_	8	nmod
+12	!	_	PUNCT	PUNCT	_	14	punct
+13	😎🔫	_	PROPN	PROPN	_	14	name
+14	HAHAHAHAHAHAHA	_	PROPN	PROPN	_	11	conj
+15	!	_	PUNCT	PUNCT	_	14	punct
+16	#joke	_	PROPN	PROPN	_	14	nmod
+

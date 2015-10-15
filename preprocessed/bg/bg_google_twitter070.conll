@@ -1,0 +1,13 @@
+1	На	_	ADP	ADP	_	3	case
+2	99	_	NUM	NUM	_	3	nummod
+3	километре	_	NOUN	NOUN	_	5	nmod
+4	МКАД	_	PROPN	PROPN	_	3	nmod
+5	ограничено	_	VERB	VERB	_	0	root
+6	движение	_	NOUN	NOUN	_	5	dobj
+7	из-за	_	VERB	VERB	_	5	conj
+8	аварии	_	NOUN	NOUN	_	7	dobj
+9	-	_	PUNCT	PUNCT	_	10	punct
+10	http://t.co/ZOb8pEQX7Y	_	PROPN	PROPN	_	8	nmod
+11	через	_	ADJ	ADJ	_	12	amod
+12	http://t.co/eJwuyNrf8T	_	NOUN	NOUN	_	10	nmod
+

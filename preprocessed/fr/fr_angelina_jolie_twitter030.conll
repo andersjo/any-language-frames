@@ -1,0 +1,15 @@
+1	:,)	_	PROPN	PROPN	_	2	name
+2	le	_	PROPN	PROPN	_	9	det
+3	"	_	PUNCT	PUNCT	_	4	punct
+4	angelina	_	PROPN	PROPN	_	2	appos
+5	jolie	_	ADJ	ADJ	_	4	amod
+6	au	_	ADP	ADP	_	7	case
+7	t-shirt	_	PROPN	PROPN	_	4	nmod
+8	rose	_	ADJ	ADJ	_	7	amod
+9	depitee	_	PROPN	PROPN	_	11	name
+10	"	_	PUNCT	PUNCT	_	4	punct
+11	c	_	X	X	_	14	nsubj
+12	est	_	VERB	VERB	_	14	cop
+13	le	_	DET	DET	_	14	det
+14	best	_	X	X	_	0	root
+

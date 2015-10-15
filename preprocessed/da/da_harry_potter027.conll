@@ -1,0 +1,18 @@
+1	Og	_	CONJ	CONJ	_	0	root
+2	forfatteren	_	NOUN	NOUN	_	1	conj
+3	,	_	PUNCT	PUNCT	_	5	punct
+4	J.K.	_	NOUN	NOUN	_	10	dobj
+5	Rowling	_	NOUN	NOUN	_	4	nmod:poss
+6	,	_	PUNCT	PUNCT	_	4	punct
+7	har	_	AUX	AUX	_	10	aux
+8	da	_	ADV	ADV	_	10	advmod
+9	også	_	ADV	ADV	_	10	advmod
+10	indrømmet	_	VERB	VERB	_	1	conj
+11	,	_	PUNCT	PUNCT	_	16	punct
+12	at	_	SCONJ	SCONJ	_	16	mark
+13	kristendommen	_	NOUN	NOUN	_	16	nsubj
+14	var	_	AUX	AUX	_	16	cop
+15	hendes	_	DET	DET	_	16	det
+16	inspirationskilde	_	NOUN	NOUN	_	10	dobj
+17	.	_	PUNCT	PUNCT	_	1	punct
+

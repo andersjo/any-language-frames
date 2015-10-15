@@ -1,0 +1,11 @@
+1	@MajaShalit	_	VERB	VERB	_	0	root
+2	ja	_	INTJ	INTJ	_	1	dobj
+3	vem	_	PRON	PRON	_	4	nsubj
+4	älskar	_	VERB	VERB	_	1	advcl
+5	inte	_	ADV	ADV	_	4	neg
+6	Angelina	_	ADJ	ADJ	_	7	amod
+7	Jolie	_	NOUN	NOUN	_	4	dobj
+8	liksom	_	ADP	ADP	_	10	case
+9	?	_	PUNCT	PUNCT	_	1	punct
+10	💁	_	NOUN	NOUN	_	7	nmod
+

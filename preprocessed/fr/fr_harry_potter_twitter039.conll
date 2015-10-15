@@ -1,0 +1,14 @@
+1	Ya	_	NOUN	NOUN	_	0	root
+2	que	_	SCONJ	SCONJ	_	6	mark
+3	dans	_	ADP	ADP	_	5	case
+4	Harry	_	PROPN	PROPN	_	5	name
+5	Potter	_	PROPN	PROPN	_	6	nsubj
+6	qu'on	_	VERB	VERB	_	1	ccomp
+7	verre	_	NOUN	NOUN	_	6	dobj
+8	des	_	ADP	ADP	_	9	case
+9	hommes	_	NOUN	NOUN	_	7	nmod
+10	se	_	PRON	PRON	_	11	dobj
+11	servirent	_	VERB	VERB	_	6	advcl
+12	d'un	_	NOUN	NOUN	_	13	compound
+13	balai	_	NOUN	NOUN	_	11	nmod
+

@@ -1,0 +1,27 @@
+1	Το	_	ADJ	ADJ	_	2	det
+2	πρώτο	_	NUM	NUM	_	4	nummod
+3	του	_	ADJ	ADJ	_	4	det
+4	γκολ	_	NOUN	NOUN	_	0	root
+5	με	_	ADP	ADP	_	7	case
+6	τη	_	ADJ	ADJ	_	7	det
+7	φανέλα	_	NOUN	NOUN	_	4	nmod
+8	της	_	ADJ	ADJ	_	9	det
+9	Γιουνάιτεντ	_	NOUN	NOUN	_	7	nmod
+10	,	_	PUNCT	PUNCT	_	12	punct
+11	στην	_	ADP	ADP	_	12	case
+12	Πρέμιερ	_	NOUN	NOUN	_	13	nmod
+13	Λιγκ	_	NOUN	NOUN	_	7	nmod
+14	,	_	PUNCT	PUNCT	_	16	punct
+15	το	_	ADJ	ADJ	_	16	det
+16	πετυχαίνει	_	NOUN	NOUN	_	13	nmod
+17	στις	_	ADP	ADP	_	19	case
+18	4	_	NUM	NUM	_	19	nmod
+19	Δεκεμβρίου	_	NOUN	NOUN	_	16	nmod
+20	του	_	ADJ	ADJ	_	21	det
+21	2004	_	NOUN	NOUN	_	19	nmod
+22	,	_	PUNCT	PUNCT	_	25	punct
+23	εναντίον	_	ADP	ADP	_	25	case
+24	της	_	ADJ	ADJ	_	25	det
+25	Πόρτσμουθ	_	NOUN	NOUN	_	19	nmod
+26	.	_	PUNCT	PUNCT	_	16	punct
+

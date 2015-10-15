@@ -1,0 +1,24 @@
+1	Ballon	_	NOUN	NOUN	_	4	nsubj
+2	d'or	_	ADP	ADP	_	3	case
+3	#on	_	NOUN	NOUN	_	1	nmod
+4	apprend	_	VERB	VERB	_	0	root
+5	que	_	SCONJ	SCONJ	_	8	mark
+6	Christiano	_	PROPN	PROPN	_	7	name
+7	Ronaldo	_	PROPN	PROPN	_	4	ccomp
+8	joueurs	_	NOUN	NOUN	_	7	appos
+9	et	_	CONJ	CONJ	_	8	cc
+10	star	_	NOUN	NOUN	_	8	conj
+11	de	_	ADP	ADP	_	12	case
+12	réal	_	NOUN	NOUN	_	10	nmod
+13	madrid	_	PROPN	PROPN	_	12	appos
+14	sacré	_	ADJ	ADJ	_	15	amod
+15	ballon	_	NOUN	NOUN	_	13	appos
+16	d'or	_	ADP	ADP	_	17	case
+17	2015	_	NUM	NUM	_	15	nmod
+18	par	_	ADP	ADP	_	8	case
+19	la	_	DET	DET	_	20	det
+20	fifa	_	NOUN	NOUN	_	18	case
+21	et	_	CONJ	CONJ	_	20	cc
+22	France	_	PROPN	PROPN	_	23	name
+23	football	_	PROPN	PROPN	_	20	nmod
+

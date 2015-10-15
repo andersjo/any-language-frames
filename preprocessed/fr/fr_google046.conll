@@ -1,0 +1,24 @@
+1	"	_	PUNCT	PUNCT	_	3	punct
+2	Google	_	PROPN	PROPN	_	3	name
+3	Inc	_	PROPN	PROPN	_	6	nsubj
+4	.	_	PUNCT	PUNCT	_	3	punct
+5	"	_	PUNCT	PUNCT	_	6	punct
+6	s'installe	_	VERB	VERB	_	0	root
+7	dans	_	ADP	ADP	_	9	case
+8	le	_	DET	DET	_	9	det
+9	garage	_	NOUN	NOUN	_	6	nmod
+10	Google	_	PROPN	PROPN	_	9	appos
+11	de	_	ADP	ADP	_	13	case
+12	Menlo	_	PROPN	PROPN	_	13	name
+13	Park	_	PROPN	PROPN	_	10	nmod
+14	,	_	PUNCT	PUNCT	_	6	punct
+15	loué	_	VERB	VERB	_	9	acl
+16	par	_	ADP	ADP	_	15	case
+17	une	_	DET	DET	_	18	det
+18	amie	_	NOUN	NOUN	_	16	case
+19	,	_	PUNCT	PUNCT	_	6	punct
+20	en	_	ADP	ADP	_	21	case
+21	septembre	_	NOUN	NOUN	_	15	nmod
+22	1998	_	NUM	NUM	_	21	nmod
+23	.	_	PUNCT	PUNCT	_	6	punct
+

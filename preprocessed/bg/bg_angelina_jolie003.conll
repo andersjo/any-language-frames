@@ -1,0 +1,17 @@
+1	От	_	ADP	ADP	_	3	case
+2	2001	_	NUM	NUM	_	3	nummod
+3	г	_	NOUN	NOUN	_	5	nsubj
+4	.	_	PUNCT	PUNCT	_	5	punct
+5	е	_	VERB	VERB	_	0	root
+6	пратеник	_	NOUN	NOUN	_	5	cop
+7	на	_	ADP	ADP	_	9	case
+8	добра	_	ADJ	ADJ	_	9	amod
+9	воля	_	NOUN	NOUN	_	6	nmod
+10	на	_	ADP	ADP	_	11	case
+11	Агенцията	_	NOUN	NOUN	_	9	nmod
+12	за	_	ADP	ADP	_	13	case
+13	бежанците	_	NOUN	NOUN	_	11	nmod
+14	на	_	ADP	ADP	_	15	case
+15	ООН	_	PROPN	PROPN	_	13	nmod
+16	.	_	PUNCT	PUNCT	_	5	punct
+

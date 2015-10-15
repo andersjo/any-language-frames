@@ -1,0 +1,20 @@
+1	L'idée	_	PROPN	PROPN	_	3	nsubj
+2	serait	_	AUX	AUX	_	3	aux
+3	venue	_	VERB	VERB	_	0	root
+4	de	_	ADP	ADP	_	6	case
+5	Sean	_	PROPN	PROPN	_	6	name
+6	Anderson	_	PROPN	PROPN	_	3	nmod
+7	,	_	PUNCT	PUNCT	_	3	punct
+8	qui	_	PRON	PRON	_	9	nsubj
+9	suggéra	_	VERB	VERB	_	11	cop
+10	«	_	PUNCT	PUNCT	_	11	punct
+11	googolplex	_	PROPN	PROPN	_	6	acl
+12	»	_	PUNCT	PUNCT	_	11	punct
+13	,	_	PUNCT	PUNCT	_	11	punct
+14	nom	_	NOUN	NOUN	_	11	appos
+15	qui	_	PRON	PRON	_	16	nsubj
+16	séduisit	_	VERB	VERB	_	14	acl:relcl
+17	Larry	_	PROPN	PROPN	_	18	name
+18	Page	_	PROPN	PROPN	_	16	dobj
+19	.	_	PUNCT	PUNCT	_	3	punct
+

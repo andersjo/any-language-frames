@@ -1,0 +1,13 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	@cnnexpansion	_	PROPN	PROPN	_	7	nsubj
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Google	_	PROPN	PROPN	_	5	name
+5	News	_	PROPN	PROPN	_	7	nsubj
+6	se	_	PRON	PRON	_	7	iobj
+7	despide	_	VERB	VERB	_	0	root
+8	de	_	ADP	ADP	_	9	case
+9	España	_	PROPN	PROPN	_	7	nmod
+10	.	_	PUNCT	PUNCT	_	2	punct
+11	http://t.co/Rjl8GDXpAm	_	PROPN	PROPN	_	9	appos
+12	"	_	PUNCT	PUNCT	_	11	punct
+

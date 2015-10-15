@@ -1,0 +1,21 @@
+1	Ιωάννα	_	NOUN	NOUN	_	2	nmod
+2	Σουλιώτη	_	NOUN	NOUN	_	5	nsubj
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	«Έχω	_	NOUN	NOUN	_	5	nsubj
+5	αρχίσει	_	VERB	VERB	_	0	root
+6	να	_	PART	PART	_	7	aux
+7	σκέφτομαι	_	VERB	VERB	_	5	ccomp
+8	να	_	PART	PART	_	12	aux
+9	τρώω	_	NOUN	NOUN	_	7	nsubj
+10	τροφές	_	NOUN	NOUN	_	9	nmod
+11	που	_	PRON	PRON	_	12	nsubj
+12	διατηρούν	_	VERB	VERB	_	10	acl:relcl
+13	τη	_	ADJ	ADJ	_	14	det
+14	νεότητα	_	NOUN	NOUN	_	12	dobj
+15	των	_	ADJ	ADJ	_	16	det
+16	κυττάρων	_	NOUN	NOUN	_	14	nmod
+17	μου»	_	NOUN	NOUN	_	16	nmod
+18	-	_	PUNCT	PUNCT	_	20	punct
+19	http://t.co/ophv5l1hLe	_	NOUN	NOUN	_	20	nmod
+20	#starbuzz	_	NOUN	NOUN	_	14	nmod
+

@@ -1,0 +1,18 @@
+1	Ο	_	ADJ	ADJ	_	2	det
+2	Ρονάλντο	_	NOUN	NOUN	_	9	nsubj
+3	με	_	ADP	ADP	_	7	case
+4	την	_	ADJ	ADJ	_	7	det
+5	εθνική	_	ADJ	ADJ	_	2	amod
+6	του	_	ADJ	ADJ	_	7	det
+7	ομάδα	_	NOUN	NOUN	_	5	nmod
+8	πέρασε	_	VERB	VERB	_	0	root
+9	πρώτη	_	NUM	NUM	_	8	dobj
+10	στην	_	ADP	ADP	_	12	case
+11	επόμενη	_	ADJ	ADJ	_	12	amod
+12	φάση	_	NOUN	NOUN	_	9	nmod
+13	,	_	PUNCT	PUNCT	_	9	punct
+14	αυτή	_	PRON	PRON	_	16	det
+15	των	_	ADJ	ADJ	_	16	det
+16	16	_	NOUN	NOUN	_	12	nmod
+17	.	_	PUNCT	PUNCT	_	8	punct
+

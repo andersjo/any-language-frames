@@ -1,0 +1,13 @@
+1	La	_	DET	DET	_	2	det
+2	coppia	_	NOUN	NOUN	_	4	nsubj
+3	ha	_	AUX	AUX	_	4	aux
+4	sei	_	VERB	VERB	_	0	root
+5	figli	_	NOUN	NOUN	_	4	dobj
+6	,	_	PUNCT	PUNCT	_	4	punct
+7	tre	_	NUM	NUM	_	8	nummod
+8	adottivi	_	NOUN	NOUN	_	5	conj
+9	e	_	CONJ	CONJ	_	8	cc
+10	tre	_	NUM	NUM	_	8	conj
+11	biologici	_	ADJ	ADJ	_	10	amod
+12	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,17 @@
+1	Angelina	_	PROPN	PROPN	_	4	nsubj
+2	Jolie	_	PROPN	PROPN	_	1	name
+3	ha	_	AUX	AUX	_	4	aux
+4	perso	_	VERB	VERB	_	0	root
+5	la	_	DET	DET	_	6	det
+6	madre	_	NOUN	NOUN	_	4	dobj
+7	per	_	ADP	ADP	_	9	case
+8	un	_	DET	DET	_	9	det
+9	cancro	_	NOUN	NOUN	_	6	nmod
+10	alle	_	ADP	ADP	_	11	case
+11	ovaie	_	NOUN	NOUN	_	9	nmod
+12	il	_	DET	DET	_	13	det
+13	27	_	NUM	NUM	_	6	nummod
+14	gennaio	_	NOUN	NOUN	_	13	nmod
+15	2007	_	NUM	NUM	_	14	nummod
+16	.	_	PUNCT	PUNCT	_	4	punct
+

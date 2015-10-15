@@ -1,0 +1,8 @@
+1	Débuts	_	NOUN	NOUN	_	0	root
+2	(	_	PUNCT	PUNCT	_	4	punct
+3	1993	_	NUM	NUM	_	4	nummod
+4	–	_	X	X	_	1	nmod
+5	1997	_	NUM	NUM	_	4	nummod
+6	)	_	PUNCT	PUNCT	_	4	punct
+7	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,18 @@
+1	До	_	ADP	ADP	_	2	case
+2	лятото	_	NOUN	NOUN	_	8	nmod
+3	на	_	ADP	ADP	_	5	case
+4	2014	_	NUM	NUM	_	5	nummod
+5	г	_	NOUN	NOUN	_	2	nmod
+6	.	_	PUNCT	PUNCT	_	2	punct
+7	Роналдо	_	NOUN	NOUN	_	8	nsubj
+8	има	_	VERB	VERB	_	0	root
+9	112	_	NUM	NUM	_	10	nummod
+10	мача	_	NOUN	NOUN	_	8	dobj
+11	и	_	CONJ	CONJ	_	10	cc
+12	49	_	NUM	NUM	_	13	nummod
+13	гола	_	NOUN	NOUN	_	10	conj
+14	за	_	ADP	ADP	_	15	case
+15	родината	_	NOUN	NOUN	_	13	nmod
+16	си	_	PRON	PRON	_	15	case
+17	.	_	PUNCT	PUNCT	_	8	punct
+

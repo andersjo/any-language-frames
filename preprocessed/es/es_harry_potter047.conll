@@ -1,0 +1,22 @@
+1	Lo	_	PRON	PRON	_	10	nsubj
+2	extraño	_	ADJ	ADJ	_	1	amod
+3	es	_	VERB	VERB	_	1	cop
+4	que	_	SCONJ	SCONJ	_	11	mark
+5	"	_	PUNCT	PUNCT	_	6	punct
+6	casi	_	ADV	ADV	_	11	advmod
+7	"	_	PUNCT	PUNCT	_	6	punct
+8	todo	_	DET	DET	_	10	det
+9	el	_	DET	DET	_	10	det
+10	mundo	_	NOUN	NOUN	_	11	nsubj
+11	cree	_	VERB	VERB	_	0	root
+12	que	_	SCONJ	SCONJ	_	16	mark
+13	quién	_	PRON	PRON	_	16	nsubj
+14	la	_	PRON	PRON	_	16	dobj
+15	ha	_	AUX	AUX	_	16	aux
+16	abierto	_	VERB	VERB	_	11	ccomp
+17	es	_	VERB	VERB	_	20	cop
+18	el	_	DET	DET	_	20	det
+19	propio	_	ADJ	ADJ	_	20	amod
+20	Harry	_	PROPN	PROPN	_	16	nsubj
+21	.	_	PUNCT	PUNCT	_	11	punct
+

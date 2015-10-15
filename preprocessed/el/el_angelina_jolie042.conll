@@ -1,0 +1,17 @@
+1	Με	_	ADP	ADP	_	3	case
+2	την	_	ADJ	ADJ	_	3	det
+3	μαστεκτομή	_	NOUN	NOUN	_	7	nmod
+4	,	_	PUNCT	PUNCT	_	7	punct
+5	η	_	ADJ	ADJ	_	6	det
+6	Τζολί	_	NOUN	NOUN	_	7	nsubj
+7	μείωσε	_	VERB	VERB	_	0	root
+8	τις	_	ADJ	ADJ	_	9	det
+9	πιθανότητες	_	NOUN	NOUN	_	7	dobj
+10	εμφάνισης	_	ADJ	ADJ	_	11	amod
+11	καρκίνου	_	NOUN	NOUN	_	9	nmod
+12	του	_	ADJ	ADJ	_	13	det
+13	μαστού	_	NOUN	NOUN	_	11	nmod
+14	κατά	_	ADP	ADP	_	15	case
+15	5%	_	NUM	NUM	_	7	nmod
+16	.	_	PUNCT	PUNCT	_	7	punct
+

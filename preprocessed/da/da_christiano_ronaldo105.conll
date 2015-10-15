@@ -1,0 +1,22 @@
+1	Dette	_	DET	DET	_	2	det
+2	skift	_	NOUN	NOUN	_	5	nsubj
+3	af	_	ADP	ADP	_	4	case
+4	anførerbindet	_	NOUN	NOUN	_	2	nmod
+5	var	_	VERB	VERB	_	0	root
+6	til	_	ADP	ADP	_	7	case
+7	ære	_	NOUN	NOUN	_	5	nmod
+8	for	_	ADP	ADP	_	9	case
+9	Portuguese	_	PROPN	PROPN	_	7	nmod
+10	Football	_	PROPN	PROPN	_	9	name
+11	Federation-præsidenten	_	PROPN	PROPN	_	9	name
+12	Carlos	_	PROPN	PROPN	_	9	name
+13	Silva	_	PROPN	PROPN	_	9	name
+14	,	_	PUNCT	PUNCT	_	17	punct
+15	der	_	PART	PART	_	17	nsubj
+16	var	_	AUX	AUX	_	17	cop
+17	død	_	ADJ	ADJ	_	19	amod
+18	to	_	NUM	NUM	_	19	nummod
+19	dage	_	NOUN	NOUN	_	20	nmod:temp
+20	tidligere	_	ADV	ADV	_	5	advmod
+21	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,22 @@
+1	Each	_	DET	DET	_	3	det
+2	book	_	NOUN	NOUN	_	3	compound
+3	chronicles	_	NOUN	NOUN	_	0	root
+4	one	_	NUM	NUM	_	5	nummod
+5	year	_	NOUN	NOUN	_	14	nmod:tmod
+6	in	_	ADP	ADP	_	5	compound
+7	Harry's	_	PROPN	PROPN	_	8	compound
+8	life	_	NOUN	NOUN	_	14	nsubjpass
+9	with	_	ADP	ADP	_	8	acl
+10	the	_	DET	DET	_	12	det
+11	main	_	ADJ	ADJ	_	0	foreign
+12	narrative	_	NOUN	NOUN	_	14	nsubjpass
+13	being	_	AUX	AUX	_	14	auxpass
+14	set	_	VERB	VERB	_	2	acl:relcl
+15	in	_	ADP	ADP	_	14	compound:prt
+16	the	_	DET	DET	_	17	det
+17	years	_	NOUN	NOUN	_	14	dobj
+18	1991	_	NUM	NUM	_	17	nummod
+19	–	_	NOUN	NOUN	_	14	dobj
+20	98	_	NUM	NUM	_	19	nummod
+21	.	_	PUNCT	PUNCT	_	14	punct
+

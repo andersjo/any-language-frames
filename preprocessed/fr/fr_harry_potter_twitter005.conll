@@ -1,0 +1,20 @@
+1	Je	_	PRON	PRON	_	4	nsubj
+2	vais	_	AUX	AUX	_	4	aux
+3	me	_	PRON	PRON	_	4	dobj
+4	refaire	_	VERB	VERB	_	13	advcl
+5	tous	_	DET	DET	_	7	det
+6	les	_	DET	DET	_	8	det
+7	Harry	_	PROPN	PROPN	_	8	name
+8	Potter	_	PROPN	PROPN	_	4	dobj
+9	cette	_	DET	DET	_	10	det
+10	semaine	_	NOUN	NOUN	_	4	nmod
+11	,	_	PUNCT	PUNCT	_	13	punct
+12	ça	_	PRON	PRON	_	13	nsubj
+13	fait	_	VERB	VERB	_	0	root
+14	beaucoup	_	ADV	ADV	_	15	advmod
+15	trop	_	ADV	ADV	_	16	advmod
+16	longtemps	_	ADV	ADV	_	13	advmod
+17	j'ai	_	NOUN	NOUN	_	13	dobj
+18	pas	_	ADV	ADV	_	19	neg
+19	regarder	_	VERB	VERB	_	17	acl
+

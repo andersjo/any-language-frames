@@ -1,0 +1,20 @@
+1	Elevator	_	NOUN	NOUN	_	0	root
+2	Stuck	_	PROPN	PROPN	_	1	appos
+3	-	_	PUNCT	PUNCT	_	1	punct
+4	E033	_	NOUN	NOUN	_	1	conj
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	HR011	_	NOUN	NOUN	_	4	conj
+7	,	_	PUNCT	PUNCT	_	4	punct
+8	L033	_	NOUN	NOUN	_	4	conj
+9	-	_	PUNCT	PUNCT	_	8	punct
+10	Fannin	_	PROPN	PROPN	_	8	appos
+11	St	_	PROPN	PROPN	_	10	name
+12	Ib	_	PROPN	PROPN	_	10	name
+13	-	_	PUNCT	PUNCT	_	10	punct
+14	Dryden	_	NOUN	NOUN	_	15	nmod:poss
+15	Rd	_	NOUN	NOUN	_	10	conj
+16	-	_	PUNCT	PUNCT	_	14	punct
+17	12:07	_	NUM	NUM	_	19	nummod
+18	-	_	PUNCT	PUNCT	_	17	punct
+19	http://t.co/Tau0NaZLKT	_	NOUN	NOUN	_	4	conj
+

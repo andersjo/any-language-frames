@@ -1,0 +1,11 @@
+1	SEO-	_	NOUN	NOUN	_	0	root
+2	GOOGLE	_	NOUN	NOUN	_	1	nmod
+3	ΠΡΩΤΗ	_	NOUN	NOUN	_	4	nmod
+4	ΣΕΛΙΔΑ	_	NOUN	NOUN	_	2	nmod
+5	-	_	PUNCT	PUNCT	_	4	punct
+6	SEO	_	NOUN	NOUN	_	7	nmod
+7	|	_	NOUN	NOUN	_	4	appos
+8	WEB	_	NOUN	NOUN	_	7	nmod
+9	DESIGN	_	NOUN	NOUN	_	8	nmod
+10	http://t.co/YvBQnwgfpv	_	NOUN	NOUN	_	9	nmod
+

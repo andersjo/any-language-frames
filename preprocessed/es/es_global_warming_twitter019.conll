@@ -1,0 +1,15 @@
+1	Científicos	_	ADJ	ADJ	_	0	root
+2	confirman	_	VERB	VERB	_	1	cop
+3	el	_	DET	DET	_	4	det
+4	uso	_	NOUN	NOUN	_	2	dobj
+5	de	_	ADP	ADP	_	6	case
+6	geoingienería	_	NOUN	NOUN	_	4	nmod
+7	.	_	PUNCT	PUNCT	_	1	punct
+8	Scientist	_	PROPN	PROPN	_	9	nsubj
+9	admits	_	VERB	VERB	_	4	acl:relcl
+10	terrified	_	ADJ	ADJ	_	11	amod
+11	technology	_	NOUN	NOUN	_	9	dobj
+12	.	_	PUNCT	PUNCT	_	9	punct
+13	#Chemtrails	_	PROPN	PROPN	_	14	name
+14	http://t.co/sYnJEW8pgs	_	PROPN	PROPN	_	11	appos
+

@@ -1,0 +1,16 @@
+1	#AmmiKehtiHain	_	PROPN	PROPN	_	3	name
+2	Harry	_	PROPN	PROPN	_	3	name
+3	Potter	_	PROPN	PROPN	_	0	root
+4	nahe	_	ADP	ADP	_	6	case
+5	parh	_	PROPN	PROPN	_	6	name
+6	sakti	_	PROPN	PROPN	_	3	nmod
+7	mein	_	PRON	PRON	_	9	nsubj
+8	wo	_	ADV	ADV	_	12	advmod
+9	to	_	PROPN	PROPN	_	10	nsubj
+10	bachon	_	PROPN	PROPN	_	12	name
+11	wali	_	PROPN	PROPN	_	12	name
+12	hai	_	PROPN	PROPN	_	6	parataxis
+13	!	_	PUNCT	PUNCT	_	12	punct
+14	:/	_	PROPN	PROPN	_	15	name
+15	:/	_	PROPN	PROPN	_	12	appos
+

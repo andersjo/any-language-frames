@@ -1,0 +1,19 @@
+1	@morphizm	_	PROPN	PROPN	_	4	name
+2	scientist	_	PROPN	PROPN	_	4	name
+3	Jennifer	_	PROPN	PROPN	_	4	name
+4	A	_	PROPN	PROPN	_	0	root
+5	.	_	PUNCT	PUNCT	_	7	punct
+6	Francis	_	PROPN	PROPN	_	7	name
+7	explains	_	NOUN	NOUN	_	4	appos
+8	''	_	PUNCT	PUNCT	_	10	punct
+9	ARCTIC	_	PROPN	PROPN	_	10	name
+10	AMPLIFICATION	_	PROPN	PROPN	_	4	conj
+11	''	_	PUNCT	PUNCT	_	10	punct
+12	v	_	NOUN	NOUN	_	10	appos
+13	.	_	PUNCT	PUNCT	_	12	punct
+14	http://t.co/HCwBJOx2yk	_	PROPN	PROPN	_	18	name
+15	and	_	X	X	_	18	compound
+16	h/t	_	PROPN	PROPN	_	18	name
+17	http://t.co/pwdeGJnIGz	_	PROPN	PROPN	_	18	name
+18	#clifi	_	PROPN	PROPN	_	4	conj
+

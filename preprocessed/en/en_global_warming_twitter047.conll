@@ -1,0 +1,21 @@
+1	Does	_	AUX	AUX	_	11	aux
+2	methane	_	NOUN	NOUN	_	3	compound
+3	trap	_	NOUN	NOUN	_	4	compound
+4	heat	_	NOUN	NOUN	_	11	nsubj
+5	?	_	PUNCT	PUNCT	_	4	punct
+6	Yes	_	INTJ	INTJ	_	11	discourse
+7	.	_	PUNCT	PUNCT	_	4	punct
+8	But	_	CONJ	CONJ	_	4	cc
+9	CO2	_	NOUN	NOUN	_	11	nsubj
+10	has	_	AUX	AUX	_	11	aux
+11	caused	_	VERB	VERB	_	0	root
+12	3x	_	ADV	ADV	_	11	advmod
+13	more	_	ADJ	ADJ	_	0	foreign
+14	global	_	ADJ	ADJ	_	0	foreign
+15	warming	_	NOUN	NOUN	_	11	dobj
+16	than	_	ADP	ADP	_	11	compound:prt
+17	methane	_	NOUN	NOUN	_	11	dobj
+18	.	_	PUNCT	PUNCT	_	4	punct
+19	@RealityDrop	_	X	X	_	17	amod
+20	http://t.co/bJIYOSkFlt	_	X	X	_	19	compound
+

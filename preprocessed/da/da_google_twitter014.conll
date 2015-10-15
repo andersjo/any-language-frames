@@ -1,0 +1,22 @@
+1	#WeLoveLA	_	PROPN	PROPN	_	0	root
+2	#NHLDucks	_	PROPN	PROPN	_	1	name
+3	Nashville	_	PROPN	PROPN	_	1	name
+4	Predators	_	PROPN	PROPN	_	1	name
+5	(	_	PUNCT	PUNCT	_	6	punct
+6	25-9-3	_	NUM	NUM	_	1	nummod
+7	)	_	PUNCT	PUNCT	_	12	punct
+8	at	_	SCONJ	SCONJ	_	12	mark
+9	Anaheim	_	PROPN	PROPN	_	1	conj
+10	Ducks	_	PROPN	PROPN	_	9	name
+11	(	_	PUNCT	PUNCT	_	12	punct
+12	25-9-6	_	NUM	NUM	_	1	nummod
+13	)	_	PUNCT	PUNCT	_	12	punct
+14	,	_	PUNCT	PUNCT	_	12	punct
+15	8	_	NUM	NUM	_	12	list
+16	p.m.	_	X	X	_	15	dep
+17	(	_	PUNCT	PUNCT	_	20	punct
+18	ET	_	DET	DET	_	21	det
+19	)	_	PUNCT	PUNCT	_	18	punct
+20	http://t.co/K6IUFmrshJ	_	PROPN	PROPN	_	1	list
+21	#SportsRoadhouse	_	NOUN	NOUN	_	20	dep
+

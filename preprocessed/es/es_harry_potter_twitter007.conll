@@ -1,0 +1,26 @@
+1	"	_	PUNCT	PUNCT	_	3	punct
+2	Si	_	SCONJ	SCONJ	_	3	mark
+3	quieres	_	VERB	VERB	_	9	advcl
+4	saber	_	VERB	VERB	_	3	xcomp
+5	cómo	_	ADV	ADV	_	7	advmod
+6	es	_	VERB	VERB	_	7	cop
+7	alguien	_	PRON	PRON	_	4	ccomp
+8	,	_	PUNCT	PUNCT	_	3	punct
+9	mira	_	VERB	VERB	_	0	root
+10	de	_	ADP	ADP	_	12	case
+11	qué	_	DET	DET	_	12	det
+12	manera	_	NOUN	NOUN	_	9	nmod
+13	trata	_	VERB	VERB	_	12	acl
+14	a	_	ADP	ADP	_	16	case
+15	sus	_	DET	DET	_	16	nmod:poss
+16	inferiores	_	ADJ	ADJ	_	13	dobj
+17	,	_	PUNCT	PUNCT	_	9	punct
+18	no	_	ADV	ADV	_	24	neg
+19	a	_	ADP	ADP	_	25	case
+20	sus	_	DET	DET	_	21	nmod:poss
+21	iguales	_	ADJ	ADJ	_	25	amod
+22	"	_	PUNCT	PUNCT	_	9	punct
+23	-	_	PUNCT	PUNCT	_	25	punct
+24	Harry	_	PROPN	PROPN	_	25	name
+25	Potter	_	PROPN	PROPN	_	9	nmod
+

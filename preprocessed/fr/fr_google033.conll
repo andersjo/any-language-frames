@@ -1,0 +1,21 @@
+1	Les	_	DET	DET	_	2	det
+2	fondements	_	NOUN	NOUN	_	8	nsubj
+3	de	_	ADP	ADP	_	4	case
+4	l'histoire	_	NOUN	NOUN	_	2	nmod
+5	de	_	ADP	ADP	_	6	case
+6	l'entreprise	_	NOUN	NOUN	_	4	nmod
+7	Google	_	PROPN	PROPN	_	6	appos
+8	commencent	_	VERB	VERB	_	0	root
+9	par	_	ADP	ADP	_	8	case
+10	la	_	DET	DET	_	11	det
+11	rencontre	_	NOUN	NOUN	_	9	case
+12	de	_	ADP	ADP	_	14	case
+13	deux	_	NUM	NUM	_	14	nummod
+14	étudiants	_	NOUN	NOUN	_	11	nmod
+15	de	_	ADP	ADP	_	16	case
+16	l'université	_	NOUN	NOUN	_	14	nmod
+17	Stanford	_	PROPN	PROPN	_	16	appos
+18	en	_	ADP	ADP	_	19	case
+19	1995	_	NUM	NUM	_	8	nmod
+20	.	_	PUNCT	PUNCT	_	8	punct
+

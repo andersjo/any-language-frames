@@ -1,0 +1,18 @@
+1	@Nicolinux777	_	ADV	ADV	_	3	advmod
+2	non	_	ADV	ADV	_	3	neg
+3	è	_	VERB	VERB	_	0	root
+4	che	_	SCONJ	SCONJ	_	6	mark
+5	perché	_	SCONJ	SCONJ	_	6	mark
+6	sta	_	VERB	VERB	_	3	ccomp
+7	a	_	ADP	ADP	_	8	case
+8	Hollywood	_	PROPN	PROPN	_	6	nmod
+9	le	_	PRON	PRON	_	10	iobj
+10	trova	_	VERB	VERB	_	3	ccomp
+11	tutte	_	PRON	PRON	_	10	dobj
+12	come	_	ADP	ADP	_	13	case
+13	Angelina	_	PROPN	PROPN	_	10	nmod
+14	Jolie	_	PROPN	PROPN	_	13	name
+15	;-)	_	PROPN	PROPN	_	13	name
+16	#voyager	_	PROPN	PROPN	_	13	name
+17	#archeologiaportamivia	_	VERB	VERB	_	10	conj
+

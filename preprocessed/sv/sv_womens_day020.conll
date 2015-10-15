@@ -1,0 +1,23 @@
+1	Följande	_	ADJ	ADJ	_	2	det
+2	år	_	NOUN	NOUN	_	3	nmod
+3	hölls	_	VERB	VERB	_	0	root
+4	flera	_	ADJ	ADJ	_	5	det
+5	kvinnomöten	_	NOUN	NOUN	_	3	nsubj
+6	8	_	NUM	NUM	_	7	nummod
+7	mars	_	NOUN	NOUN	_	3	dobj
+8	för	_	ADP	ADP	_	10	case
+9	att	_	PART	PART	_	10	mark
+10	protestera	_	VERB	VERB	_	3	advcl
+11	mot	_	ADP	ADP	_	12	case
+12	vad	_	PRON	PRON	_	10	nmod
+13	som	_	PRON	PRON	_	15	nsubj
+14	skulle	_	AUX	AUX	_	15	aux
+15	komma	_	VERB	VERB	_	12	acl:relcl
+16	att	_	PART	PART	_	17	mark
+17	bli	_	VERB	VERB	_	15	advcl
+18	känt	_	ADJ	ADJ	_	17	xcomp
+19	som	_	CONJ	CONJ	_	21	mark
+20	första	_	ADJ	ADJ	_	21	det
+21	världskriget	_	NOUN	NOUN	_	17	xcomp
+22	.	_	PUNCT	PUNCT	_	3	punct
+

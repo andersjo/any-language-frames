@@ -1,0 +1,20 @@
+1	Embraer	_	NOUN	NOUN	_	2	nmod:poss
+2	Regional	_	NOUN	NOUN	_	3	nmod:poss
+3	Jet	_	NOUN	NOUN	_	4	nmod
+4	severe	_	VERB	VERB	_	0	root
+5	turbulence	_	PROPN	PROPN	_	4	nsubj
+6	FL090	_	X	X	_	4	dep
+7	at	_	PART	PART	_	6	dep
+8	https://t.co/LMpK9A5sbH	_	PROPN	PROPN	_	7	dep
+9	W29	_	PROPN	PROPN	_	8	name
+10	UUA	_	PROPN	PROPN	_	8	name
+11	/OV	_	PROPN	PROPN	_	8	name
+12	BAL180018	_	NOUN	NOUN	_	13	nsubj
+13	/TM	_	VERB	VERB	_	7	dep
+14	0045	_	NUM	NUM	_	13	dobj
+15	/FL090	_	X	X	_	14	dep
+16	/TP	_	NOUN	NOUN	_	13	dobj
+17	E170	_	X	X	_	16	dep
+18	/TB	_	NOUN	NOUN	_	19	nmod:poss
+19	SEV	_	NOUN	NOUN	_	13	dobj
+

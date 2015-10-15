@@ -1,0 +1,21 @@
+1	Nur	_	ADV	ADV	_	9	advmod
+2	weil	_	SCONJ	SCONJ	_	10	mark
+3	dir	_	PROPN	PROPN	_	4	name
+4	Google	_	PROPN	PROPN	_	5	nsubj
+5	Übersetzter	_	NOUN	NOUN	_	9	nsubj
+6	das	_	DET	DET	_	7	det
+7	Wort	_	NOUN	NOUN	_	10	dobj
+8	nicht	_	PART	PART	_	10	neg
+9	verständlicher	_	ADJ	ADJ	_	10	advmod
+10	macht	_	VERB	VERB	_	12	advcl
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	heißt	_	VERB	VERB	_	0	root
+13	es	_	PRON	PRON	_	12	expl
+14	nicht	_	PART	PART	_	12	neg
+15	dass	_	PRON	PRON	_	19	nsubj
+16	es	_	PRON	PRON	_	19	nsubj
+17	keine	_	PRON	PRON	_	18	neg
+18	Bedeutung	_	NOUN	NOUN	_	19	dobj
+19	hat	_	VERB	VERB	_	12	xcomp
+20	.	_	PUNCT	PUNCT	_	12	punct
+

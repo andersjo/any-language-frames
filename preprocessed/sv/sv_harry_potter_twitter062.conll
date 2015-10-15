@@ -1,0 +1,14 @@
+1	Älskar	_	NOUN	NOUN	_	2	det
+2	Harry	_	PROPN	PROPN	_	3	nmod:poss
+3	Potter	_	NOUN	NOUN	_	0	root
+4	så	_	ADV	ADV	_	3	cc
+5	jävla	_	NOUN	NOUN	_	3	mwe
+6	mycket	_	ADV	ADV	_	7	advmod
+7	gråter	_	NOUN	NOUN	_	5	conj
+8	i	_	ADP	ADP	_	9	case
+9	soffan	_	ADJ	ADJ	_	7	nmod
+10	just	_	ADV	ADV	_	11	advmod
+11	nu	_	ADV	ADV	_	9	advmod
+12	till	_	ADP	ADP	_	13	case
+13	filmen	_	NOUN	NOUN	_	11	nmod
+

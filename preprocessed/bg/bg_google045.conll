@@ -1,0 +1,15 @@
+1	Колкото	_	ADV	ADV	_	4	advmod
+2	по-голяма	_	ADJ	ADJ	_	4	dobj
+3	е	_	AUX	AUX	_	4	aux
+4	справочната	_	VERB	VERB	_	0	root
+5	база	_	NOUN	NOUN	_	4	dobj
+6	,	_	PUNCT	PUNCT	_	10	punct
+7	толкова	_	ADV	ADV	_	10	advmod
+8	по-вероятно	_	ADV	ADV	_	10	advmod
+9	е	_	AUX	AUX	_	10	aux
+10	преводът	_	VERB	VERB	_	5	acl
+11	да	_	PART	PART	_	12	aux
+12	е	_	VERB	VERB	_	10	ccomp
+13	по-точен	_	ADJ	ADJ	_	12	cop
+14	.	_	PUNCT	PUNCT	_	4	punct
+

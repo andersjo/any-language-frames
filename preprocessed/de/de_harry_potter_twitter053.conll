@@ -1,0 +1,22 @@
+1	Ich	_	PRON	PRON	_	9	nsubj
+2	mag	_	AUX	AUX	_	10	aux
+3	ja	_	ADV	ADV	_	5	advmod
+4	Harry	_	PROPN	PROPN	_	5	name
+5	Potter	_	PROPN	PROPN	_	15	conj
+6	aber	_	CONJ	CONJ	_	4	cc
+7	mein	_	DET	DET	_	8	det
+8	hass	_	NOUN	NOUN	_	5	conj
+9	Teil	_	NOUN	NOUN	_	8	appos
+10	ist	_	VERB	VERB	_	9	cop
+11	und	_	CONJ	CONJ	_	10	cc
+12	bleibt	_	VERB	VERB	_	10	conj
+13	"	_	PUNCT	PUNCT	_	15	punct
+14	Harry	_	PROPN	PROPN	_	15	name
+15	Potter	_	PROPN	PROPN	_	0	root
+16	und	_	CONJ	CONJ	_	15	cc
+17	der	_	DET	DET	_	18	det
+18	Orden	_	NOUN	NOUN	_	8	conj
+19	des	_	DET	DET	_	20	det
+20	Phönix	_	NOUN	NOUN	_	18	det
+21	"	_	PUNCT	PUNCT	_	18	punct
+

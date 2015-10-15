@@ -1,0 +1,15 @@
+1	@barbieloveslips	_	NOUN	NOUN	_	0	root
+2	ich	_	PRON	PRON	_	3	det
+3	liebe	_	NOUN	NOUN	_	1	det
+4	harry	_	PROPN	PROPN	_	3	det
+5	potter	_	ADJ	ADJ	_	3	advmod
+6	auch	_	ADV	ADV	_	5	advmod
+7	!	_	PUNCT	PUNCT	_	1	punct
+8	Ich	_	PRON	PRON	_	5	nsubj
+9	hab	_	AUX	AUX	_	1	conj
+10	sogar	_	ADV	ADV	_	12	advmod
+11	die	_	DET	DET	_	12	det
+12	zauberstäbe	_	NOUN	NOUN	_	3	acl
+13	...	_	PUNCT	PUNCT	_	12	punct
+14	😍	_	PROPN	PROPN	_	12	appos
+

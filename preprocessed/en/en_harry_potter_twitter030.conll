@@ -1,0 +1,18 @@
+1	I	_	PRON	PRON	_	4	nsubj
+2	am	_	AUX	AUX	_	4	aux
+3	honestly	_	ADV	ADV	_	4	advmod
+4	scared	_	VERB	VERB	_	0	root
+5	of	_	ADP	ADP	_	4	compound:prt
+6	people	_	NOUN	NOUN	_	4	dobj
+7	that	_	DET	DET	_	12	nsubj
+8	are	_	VERB	VERB	_	12	cop
+9	obsessed	_	ADJ	ADJ	_	0	punct
+10	with	_	ADP	ADP	_	8	compound:prt
+11	harry	_	PROPN	PROPN	_	12	compound
+12	potter	_	NOUN	NOUN	_	6	acl:relcl
+13	and	_	CONJ	CONJ	_	12	cc
+14	lord	_	NOUN	NOUN	_	12	conj
+15	of	_	ADP	ADP	_	14	acl
+16	the	_	DET	DET	_	17	det
+17	rings	_	NOUN	NOUN	_	15	dobj
+

@@ -1,0 +1,11 @@
+1	Presente	_	ADJ	ADJ	_	0	root
+2	y	_	CONJ	CONJ	_	1	cc
+3	futuro	_	ADJ	ADJ	_	1	conj
+4	de	_	ADP	ADP	_	6	case
+5	las	_	DET	DET	_	6	det
+6	profesiones	_	NOUN	NOUN	_	1	nmod
+7	-	_	PUNCT	PUNCT	_	6	punct
+8	El	_	DET	DET	_	10	det
+9	Peruano	_	ADJ	ADJ	_	10	amod
+10	http://t.co/hdIbHoQ3Ol	_	PROPN	PROPN	_	6	appos
+

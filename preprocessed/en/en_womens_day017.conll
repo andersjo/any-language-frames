@@ -1,0 +1,15 @@
+1	Americans	_	PROPN	PROPN	_	2	nsubj
+2	continued	_	VERB	VERB	_	0	root
+3	to	_	ADP	ADP	_	2	compound:prt
+4	celebrate	_	ADJ	ADJ	_	0	foreign
+5	National	_	PROPN	PROPN	_	7	compound
+6	Women's	_	PROPN	PROPN	_	7	compound
+7	Day	_	PROPN	PROPN	_	2	nmod
+8	on	_	ADP	ADP	_	2	compound:prt
+9	the	_	DET	DET	_	11	det
+10	last	_	ADJ	ADJ	_	0	foreign
+11	Sunday	_	PROPN	PROPN	_	13	compound
+12	in	_	ADP	ADP	_	0	compound:prt
+13	February	_	PROPN	PROPN	_	2	nmod
+14	.	_	PUNCT	PUNCT	_	2	punct
+

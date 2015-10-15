@@ -1,0 +1,16 @@
+1	@Listoved	_	ADJ	ADJ	_	2	amod
+2	Bandiera	_	NOUN	NOUN	_	0	root
+3	Sarda	_	PROPN	PROPN	_	2	nmod
+4	♥	_	PROPN	PROPN	_	3	name
+5	|	_	PROPN	PROPN	_	3	name
+6	è	_	VERB	VERB	_	1	cop
+7	anche	_	ADV	ADV	_	9	advmod
+8	su	_	ADP	ADP	_	9	case
+9	Google	_	PROPN	PROPN	_	6	nmod
+10	Plus	_	PROPN	PROPN	_	9	name
+11	!	_	PUNCT	PUNCT	_	9	punct
+12	|	_	PROPN	PROPN	_	9	conj
+13	https://t.co/xdysEVL5hy	_	NOUN	NOUN	_	12	nmod
+14	via	_	ADP	ADP	_	15	case
+15	http://t.co/J45HmgOhXp	_	NOUN	NOUN	_	13	nmod
+

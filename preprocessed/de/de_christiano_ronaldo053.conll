@@ -1,0 +1,19 @@
+1	Seinem	_	DET	DET	_	3	nmod:poss
+2	gelungenen	_	ADJ	ADJ	_	3	amod
+3	Debüt	_	NOUN	NOUN	_	6	dobj
+4	zum	_	ADP	ADP	_	5	case
+5	Trotz	_	NOUN	NOUN	_	3	nmod
+6	hatte	_	VERB	VERB	_	0	root
+7	er	_	PRON	PRON	_	6	nsubj
+8	zunächst	_	ADV	ADV	_	6	advmod
+9	Schwierigkeiten	_	NOUN	NOUN	_	6	dobj
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	sich	_	PRON	PRON	_	17	dobj
+12	an	_	ADP	ADP	_	15	case
+13	die	_	DET	DET	_	15	det
+14	englische	_	ADJ	ADJ	_	15	amod
+15	Spielweise	_	NOUN	NOUN	_	17	dobj
+16	zu	_	PART	PART	_	17	aux
+17	gewöhnen	_	VERB	VERB	_	9	acl
+18	.	_	PUNCT	PUNCT	_	6	punct
+

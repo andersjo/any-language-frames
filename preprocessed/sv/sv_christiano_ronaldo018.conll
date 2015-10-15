@@ -1,0 +1,13 @@
+1	Ronaldo	_	NOUN	NOUN	_	2	nsubj
+2	upptäcktes	_	VERB	VERB	_	0	root
+3	först	_	ADV	ADV	_	2	advmod
+4	av	_	ADP	ADP	_	5	case
+5	Liverpool	_	NOUN	NOUN	_	2	nmod
+6	FC	_	VERB	VERB	_	2	advcl
+7	:s	_	NOUN	NOUN	_	9	nmod:poss
+8	dåvarande	_	ADJ	ADJ	_	9	amod
+9	manager	_	NOUN	NOUN	_	6	dobj
+10	Gérard	_	VERB	VERB	_	6	advcl
+11	Houllier	_	NOUN	NOUN	_	10	dobj
+12	.	_	PUNCT	PUNCT	_	6	punct
+

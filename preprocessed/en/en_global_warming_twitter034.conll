@@ -1,0 +1,8 @@
+1	Metabolic	_	ADJ	ADJ	_	0	cc
+2	winter	_	NOUN	NOUN	_	3	compound
+3	hypothisis	_	NOUN	NOUN	_	5	compound
+4	.	_	PUNCT	PUNCT	_	3	punct
+5	Thoughts	_	NOUN	NOUN	_	0	root
+6	?	_	PUNCT	PUNCT	_	5	punct
+7	https://t.co/CsVHywAbXt	_	X	X	_	5	appos
+

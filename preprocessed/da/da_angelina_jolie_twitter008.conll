@@ -1,0 +1,16 @@
+1	“	_	ADJ	ADJ	_	2	amod
+2	@PerfectGirlsFR_	_	NOUN	NOUN	_	0	root
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Angelina	_	PROPN	PROPN	_	2	dep
+5	Jolie	_	NOUN	NOUN	_	4	dep
+6	elle	_	NOUN	NOUN	_	7	nmod:poss
+7	porte	_	NOUN	NOUN	_	8	nmod:poss
+8	bien	_	NOUN	NOUN	_	10	nmod:poss
+9	son	_	ADJ	ADJ	_	10	amod
+10	nom	_	NOUN	NOUN	_	4	conj
+11	.	_	PUNCT	PUNCT	_	4	punct
+12	🙌	_	ADJ	ADJ	_	13	amod
+13	http://t.co/VDir2EvC8Q	_	NOUN	NOUN	_	15	nmod:poss
+14	”	_	ADJ	ADJ	_	15	amod
+15	bang	_	NOUN	NOUN	_	10	conj
+

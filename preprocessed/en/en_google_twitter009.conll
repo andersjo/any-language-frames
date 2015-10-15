@@ -1,0 +1,17 @@
+1	@dominos	_	PROPN	PROPN	_	4	nsubj
+2	https://t.co/IDNLEBiy92	_	X	X	_	3	goeswith
+3	always	_	ADV	ADV	_	4	advmod
+4	hangs	_	VERB	VERB	_	0	root
+5	when	_	ADV	ADV	_	7	advmod
+6	I	_	PRON	PRON	_	7	nsubj
+7	try	_	VERB	VERB	_	4	advcl
+8	to	_	PART	PART	_	9	mark
+9	load	_	VERB	VERB	_	7	xcomp
+10	up	_	ADP	ADP	_	9	compound:prt
+11	http://t.co/gZMjzBwbTW	_	X	X	_	9	dobj
+12	,	_	PUNCT	PUNCT	_	4	punct
+13	using	_	VERB	VERB	_	7	conj
+14	Google	_	PROPN	PROPN	_	15	compound
+15	Chrome	_	PROPN	PROPN	_	16	compound
+16	browser	_	NOUN	NOUN	_	13	dobj
+

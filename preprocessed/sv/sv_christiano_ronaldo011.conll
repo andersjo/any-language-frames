@@ -1,0 +1,9 @@
+1	Ronaldos	_	NOUN	NOUN	_	2	nmod:poss
+2	favoritlag	_	NOUN	NOUN	_	6	nsubj
+3	som	_	CONJ	CONJ	_	4	mark
+4	liten	_	ADJ	ADJ	_	2	acl
+5	var	_	AUX	AUX	_	6	aux
+6	SL	_	VERB	VERB	_	0	root
+7	Benfica	_	PROPN	PROPN	_	6	dobj
+8	.	_	PUNCT	PUNCT	_	6	punct
+

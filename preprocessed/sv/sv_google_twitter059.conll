@@ -1,0 +1,12 @@
+1	HD	_	NOUN	NOUN	_	9	nsubj
+2	-	_	PUNCT	PUNCT	_	1	punct
+3	PornPros	_	NOUN	NOUN	_	4	det
+4	Tall	_	PROPN	PROPN	_	9	nsubj
+5	Samantha	_	PROPN	PROPN	_	4	name
+6	Nixon	_	PROPN	PROPN	_	4	name
+7	gets	_	NOUN	NOUN	_	8	nmod:poss
+8	fucked	_	NOUN	NOUN	_	9	nsubj
+9	#xxx	_	VERB	VERB	_	0	root
+10	#porn	_	ADJ	ADJ	_	11	amod
+11	http://t.co/cYLBnvO8sF	_	NOUN	NOUN	_	9	dobj
+

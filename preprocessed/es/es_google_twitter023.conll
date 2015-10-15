@@ -1,0 +1,25 @@
+1	Boca	_	PROPN	PROPN	_	4	nsubj
+2	no	_	ADV	ADV	_	4	neg
+3	podes	_	AUX	AUX	_	4	aux
+4	perder	_	VERB	VERB	_	0	root
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	yo	_	PRON	PRON	_	9	nsubj
+7	siempre	_	ADV	ADV	_	9	advmod
+8	te	_	PRON	PRON	_	9	iobj
+9	vengo	_	VERB	VERB	_	4	parataxis
+10	a	_	ADP	ADP	_	11	case
+11	ver	_	VERB	VERB	_	9	acl
+12	la	_	DET	DET	_	13	det
+13	vuelta	_	NOUN	NOUN	_	11	dobj
+14	vamos	_	AUX	AUX	_	16	aux
+15	a	_	ADP	ADP	_	14	mwe
+16	dar	_	VERB	VERB	_	9	acl
+17	.	_	PUNCT	PUNCT	_	9	punct
+18	Bajate	_	VERB	VERB	_	16	acl
+19	la	_	DET	DET	_	20	det
+20	app	_	PROPN	PROPN	_	18	dobj
+21	@La12Tuitea	_	PROPN	PROPN	_	20	amod
+22	http://t.co/WdUK2KRRx4	_	PROPN	PROPN	_	24	name
+23	#TeExtra	_	PROPN	PROPN	_	24	name
+24	ñoBoca	_	PROPN	PROPN	_	20	appos
+

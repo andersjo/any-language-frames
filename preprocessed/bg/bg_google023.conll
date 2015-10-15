@@ -1,0 +1,22 @@
+1	Ключовите	_	ADJ	ADJ	_	2	amod
+2	думи	_	NOUN	NOUN	_	6	nsubjpass
+3	за	_	ADP	ADP	_	4	case
+4	търсене	_	NOUN	NOUN	_	2	nmod
+5	са	_	AUX	AUX	_	6	aux
+6	образувани	_	VERB	VERB	_	0	root
+7	от	_	ADP	ADP	_	8	case
+8	името	_	NOUN	NOUN	_	6	iobj
+9	на	_	ADP	ADP	_	10	case
+10	файла	_	NOUN	NOUN	_	8	nmod
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	текста	_	NOUN	NOUN	_	8	conj
+13	на	_	ADP	ADP	_	14	case
+14	връзката	_	NOUN	NOUN	_	12	nmod
+15	към	_	ADP	ADP	_	16	case
+16	изображението	_	NOUN	NOUN	_	14	nmod
+17	и	_	CONJ	CONJ	_	16	cc
+18	текста	_	NOUN	NOUN	_	16	conj
+19	към	_	ADP	ADP	_	20	case
+20	изображението	_	NOUN	NOUN	_	16	nmod
+21	.	_	PUNCT	PUNCT	_	6	punct
+

@@ -1,0 +1,16 @@
+1	autumn	_	ADJ	ADJ	_	2	amod
+2	tumblr	_	NOUN	NOUN	_	3	nsubj
+3	outfits	_	VERB	VERB	_	12	advcl
+4	-	_	PUNCT	PUNCT	_	5	punct
+5	Sök	_	VERB	VERB	_	3	parataxis
+6	på	_	ADP	ADP	_	7	case
+7	Google	_	PROPN	PROPN	_	5	nmod
+8	-	_	PUNCT	PUNCT	_	7	punct
+9	image	_	NOUN	NOUN	_	10	nsubj
+10	#2357887	_	VERB	VERB	_	3	parataxis
+11	by	_	NOUN	NOUN	_	10	nsubjpass
+12	saaabrina	_	VERB	VERB	_	0	root
+13	on	_	ADJ	ADJ	_	14	amod
+14	http://t.co/Lmat9eGz9d	_	NOUN	NOUN	_	12	dobj
+15	http://t.co/eoVm2reWfa	_	VERB	VERB	_	12	xcomp
+

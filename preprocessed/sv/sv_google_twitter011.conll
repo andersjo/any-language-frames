@@ -1,0 +1,19 @@
+1	Jag	_	PRON	PRON	_	3	nsubj
+2	ska	_	AUX	AUX	_	3	aux
+3	skriva	_	VERB	VERB	_	0	root
+4	en	_	DET	DET	_	5	det
+5	kandidatuppsats	_	NOUN	NOUN	_	3	dobj
+6	och	_	CONJ	CONJ	_	3	cc
+7	söker	_	VERB	VERB	_	3	conj
+8	transpersoner	_	NOUN	NOUN	_	7	dobj
+9	att	_	SCONJ	SCONJ	_	13	mark
+10	intervjua	_	NOUN	NOUN	_	7	dobj
+11	!	_	PUNCT	PUNCT	_	10	punct
+12	https://t.co/Rx4Lzjlfey	_	NOUN	NOUN	_	10	conj
+13	Hjälp	_	VERB	VERB	_	12	mwe
+14	mig	_	PRON	PRON	_	13	nsubj
+15	gärna	_	ADV	ADV	_	13	advmod
+16	att	_	PART	PART	_	17	mark
+17	sprida	_	VERB	VERB	_	13	xcomp
+18	!	_	PUNCT	PUNCT	_	13	punct
+

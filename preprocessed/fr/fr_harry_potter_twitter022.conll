@@ -1,0 +1,15 @@
+1	@Tom_jedusor33	_	PROPN	PROPN	_	3	name
+2	@malefoy_drago	_	PROPN	PROPN	_	3	name
+3	@Le_Harry_Potter	_	PROPN	PROPN	_	6	nsubj
+4	*	_	PUNCT	PUNCT	_	6	punct
+5	ne	_	ADV	ADV	_	6	neg
+6	comprend	_	VERB	VERB	_	0	root
+7	pas	_	ADV	ADV	_	6	neg
+8	le	_	DET	DET	_	9	det
+9	serpent	_	NOUN	NOUN	_	6	dobj
+10	mais	_	CONJ	CONJ	_	6	cc
+11	tant	_	ADV	ADV	_	12	advmod
+12	pis	_	PROPN	PROPN	_	9	appos
+13	*	_	PUNCT	PUNCT	_	12	punct
+14	🐍🐍🐍🐍🐍🐍🐍	_	PROPN	PROPN	_	12	nmod
+

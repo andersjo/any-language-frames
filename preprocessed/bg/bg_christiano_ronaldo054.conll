@@ -1,0 +1,18 @@
+1	На	_	ADP	ADP	_	2	case
+2	Евро	_	PROPN	PROPN	_	8	nmod
+3	2012	_	PROPN	PROPN	_	2	nmod
+4	Португалия	_	PROPN	PROPN	_	3	name
+5	за	_	ADP	ADP	_	7	case
+6	пореден	_	ADJ	ADJ	_	7	amod
+7	път	_	NOUN	NOUN	_	8	nmod
+8	отпада	_	VERB	VERB	_	0	root
+9	на	_	ADP	ADP	_	10	case
+10	полуфинал	_	NOUN	NOUN	_	8	iobj
+11	,	_	PUNCT	PUNCT	_	8	punct
+12	този	_	DET	DET	_	13	det
+13	път	_	NOUN	NOUN	_	8	nmod
+14	от	_	ADP	ADP	_	16	case
+15	бъдещия	_	ADJ	ADJ	_	16	amod
+16	шампион	_	NOUN	NOUN	_	13	nmod
+17	.	_	PUNCT	PUNCT	_	8	punct
+

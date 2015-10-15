@@ -1,0 +1,22 @@
+1	Her	_	PRON	PRON	_	3	nmod:poss
+2	film	_	NOUN	NOUN	_	3	compound
+3	career	_	NOUN	NOUN	_	4	nsubj
+4	began	_	VERB	VERB	_	0	root
+5	in	_	ADP	ADP	_	4	compound:prt
+6	earnest	_	PROPN	PROPN	_	4	dobj
+7	a	_	DET	DET	_	8	det
+8	decade	_	NOUN	NOUN	_	9	nmod:npmod
+9	later	_	ADV	ADV	_	10	advmod
+10	with	_	ADP	ADP	_	4	compound:prt
+11	the	_	DET	DET	_	13	det
+12	low-budget	_	NOUN	NOUN	_	13	compound
+13	production	_	NOUN	NOUN	_	4	nmod
+14	"	_	PUNCT	PUNCT	_	13	punct
+15	Cyborg	_	X	X	_	16	compound
+16	2	_	X	X	_	13	advmod
+17	"	_	PUNCT	PUNCT	_	16	punct
+18	(	_	PUNCT	PUNCT	_	16	punct
+19	1993	_	NUM	NUM	_	13	list
+20	)	_	PUNCT	PUNCT	_	19	punct
+21	.	_	PUNCT	PUNCT	_	4	punct
+

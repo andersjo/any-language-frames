@@ -1,0 +1,23 @@
+1	International	_	PROPN	PROPN	_	3	compound
+2	Women's	_	PROPN	PROPN	_	3	compound
+3	Day	_	PROPN	PROPN	_	9	nsubj
+4	(	_	PUNCT	PUNCT	_	3	punct
+5	IWD	_	PROPN	PROPN	_	3	appos
+6	)	_	PUNCT	PUNCT	_	5	punct
+7	,	_	PUNCT	PUNCT	_	9	punct
+8	also	_	ADV	ADV	_	9	advmod
+9	called	_	VERB	VERB	_	0	root
+10	International	_	PROPN	PROPN	_	11	nsubj
+11	Working	_	VERB	VERB	_	9	xcomp
+12	Women's	_	PROPN	PROPN	_	13	compound
+13	Day	_	PROPN	PROPN	_	11	dobj
+14	,	_	PUNCT	PUNCT	_	9	punct
+15	is	_	VERB	VERB	_	18	cop
+16	celebrated	_	ADJ	ADJ	_	0	foreign
+17	on	_	ADP	ADP	_	15	compound:prt
+18	March	_	PROPN	PROPN	_	13	list
+19	8	_	NUM	NUM	_	18	nummod
+20	every	_	DET	DET	_	21	det
+21	year	_	NOUN	NOUN	_	9	nmod:tmod
+22	.	_	PUNCT	PUNCT	_	9	punct
+

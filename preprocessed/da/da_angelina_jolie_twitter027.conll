@@ -1,0 +1,16 @@
+1	#Entertainment	_	NOUN	NOUN	_	2	name
+2	#News	_	PROPN	PROPN	_	10	dep
+3	UNBROKEN	_	PROPN	PROPN	_	2	name
+4	Oscar	_	PROPN	PROPN	_	2	name
+5	Golden	_	PROPN	PROPN	_	2	name
+6	Globe	_	NOUN	NOUN	_	5	dep
+7	advertisement	_	NOUN	NOUN	_	0	root
+8	Angelina	_	PROPN	PROPN	_	7	appos
+9	Jolie	_	NOUN	NOUN	_	8	dep
+10	Jack	_	PROPN	PROPN	_	9	appos
+11	O'Connell	_	PROPN	PROPN	_	10	name
+12	ad	_	ADP	ADP	_	13	case
+13	http://t.co/O6wujBsqgf	_	NOUN	NOUN	_	14	nmod:poss
+14	#AngelinaJolie	_	NOUN	NOUN	_	10	nmod
+15	#Fans	_	NOUN	NOUN	_	14	nmod
+

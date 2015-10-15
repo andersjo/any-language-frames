@@ -1,0 +1,23 @@
+1	El	_	DET	DET	_	5	det
+2	,	_	PUNCT	PUNCT	_	5	punct
+3	la	_	DET	DET	_	5	det
+4	mayor	_	ADJ	ADJ	_	5	amod
+5	fábrica	_	NOUN	NOUN	_	13	nsubj
+6	de	_	ADP	ADP	_	7	case
+7	Petrogrado	_	PROPN	PROPN	_	5	nmod
+8	,	_	PUNCT	PUNCT	_	5	punct
+9	la	_	DET	DET	_	10	det
+10	factoría	_	NOUN	NOUN	_	13	nsubj
+11	Putilov	_	PROPN	PROPN	_	10	appos
+12	se	_	PRON	PRON	_	13	iobj
+13	cerró	_	VERB	VERB	_	0	root
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	quedando	_	VERB	VERB	_	13	acl
+16	30	_	NUM	NUM	_	17	nummod
+17	000	_	NUM	NUM	_	18	nummod
+18	trabajadores	_	NOUN	NOUN	_	15	dobj
+19	en	_	ADP	ADP	_	20	case
+20	situación	_	NOUN	NOUN	_	18	nmod
+21	desesperada	_	ADJ	ADJ	_	20	amod
+22	.	_	PUNCT	PUNCT	_	13	punct
+

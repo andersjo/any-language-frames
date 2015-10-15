@@ -1,0 +1,25 @@
+1	Avec	_	ADP	ADP	_	3	case
+2	un	_	DET	DET	_	3	det
+3	ratio	_	NOUN	NOUN	_	12	nmod
+4	de	_	ADP	ADP	_	6	case
+5	plus	_	ADV	ADV	_	6	advmod
+6	d'un	_	NOUN	NOUN	_	3	nmod
+7	but	_	NOUN	NOUN	_	6	compound
+8	par	_	ADP	ADP	_	9	case
+9	match	_	NOUN	NOUN	_	6	nmod
+10	,	_	PUNCT	PUNCT	_	12	punct
+11	CR7	_	PROPN	PROPN	_	12	nsubj
+12	fait	_	VERB	VERB	_	0	root
+13	partie	_	NOUN	NOUN	_	12	dobj
+14	des	_	ADP	ADP	_	17	case
+15	plus	_	ADV	ADV	_	16	advmod
+16	grands	_	ADJ	ADJ	_	17	amod
+17	joueurs	_	NOUN	NOUN	_	13	nmod
+18	a	_	AUX	AUX	_	19	aux
+19	marquer	_	VERB	VERB	_	12	advcl
+20	plusieurs	_	DET	DET	_	21	det
+21	buts	_	NOUN	NOUN	_	19	dobj
+22	par	_	ADP	ADP	_	23	case
+23	matchs	_	NOUN	NOUN	_	21	nmod
+24	.	_	PUNCT	PUNCT	_	12	punct
+

@@ -1,0 +1,22 @@
+1	Ich	_	PRON	PRON	_	9	nsubj
+2	habe	_	AUX	AUX	_	9	aux
+3	ein	_	DET	DET	_	4	det
+4	Video	_	NOUN	NOUN	_	9	nsubjpass
+5	zu	_	ADP	ADP	_	8	case
+6	einer	_	DET	DET	_	8	det
+7	@YouTube	_	PROPN	PROPN	_	8	amod
+8	-Playlist	_	PROPN	PROPN	_	4	nmod
+9	hinzugefügt	_	VERB	VERB	_	0	root
+10	:	_	PUNCT	PUNCT	_	9	punct
+11	http://t.co/e7ikuTRtKo	_	PROPN	PROPN	_	13	name
+12	Harry	_	PROPN	PROPN	_	13	name
+13	Potter	_	PROPN	PROPN	_	9	parataxis
+14	und	_	CONJ	CONJ	_	11	cc
+15	der	_	DET	DET	_	16	det
+16	Stein	_	NOUN	NOUN	_	11	conj
+17	der	_	DET	DET	_	18	det
+18	Weisen	_	NOUN	NOUN	_	16	det
+19	#01	_	PROPN	PROPN	_	20	name
+20	~	_	PROPN	PROPN	_	18	appos
+21	Unsere	_	PRON	PRON	_	18	dep
+

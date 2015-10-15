@@ -1,0 +1,16 @@
+1	Börjar	_	NOUN	NOUN	_	2	nsubj
+2	bli	_	VERB	VERB	_	0	root
+3	jävligt	_	ADJ	ADJ	_	4	advmod
+4	obehagligt	_	ADJ	ADJ	_	2	xcomp
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	sista	_	ADJ	ADJ	_	4	conj
+7	smset	_	NOUN	NOUN	_	9	nsubj
+8	är	_	AUX	AUX	_	9	cop
+9	längre	_	ADJ	ADJ	_	4	conj
+10	än	_	CONJ	CONJ	_	12	mark
+11	en	_	DET	DET	_	12	det
+12	Harry	_	NOUN	NOUN	_	13	nmod:poss
+13	Potter	_	NOUN	NOUN	_	14	nmod:poss
+14	bok	_	NOUN	NOUN	_	15	nsubj
+15	http://t.co/eHw5JKcyGe	_	VERB	VERB	_	9	advcl
+

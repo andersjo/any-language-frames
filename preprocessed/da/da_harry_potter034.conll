@@ -1,0 +1,14 @@
+1	Især	_	ADV	ADV	_	2	advmod
+2	ligheden	_	NOUN	NOUN	_	12	nsubj
+3	mellem	_	ADP	ADP	_	4	case
+4	slutningen	_	NOUN	NOUN	_	2	nmod
+5	af	_	ADP	ADP	_	6	case
+6	bogserien	_	NOUN	NOUN	_	4	nmod
+7	og	_	CONJ	CONJ	_	6	cc
+8	den	_	DET	DET	_	10	det
+9	bibelske	_	ADJ	ADJ	_	10	amod
+10	genopstandelse	_	NOUN	NOUN	_	4	nmod
+11	er	_	AUX	AUX	_	12	cop
+12	iøjenfaldende	_	ADJ	ADJ	_	0	root
+13	.	_	PUNCT	PUNCT	_	12	punct
+

@@ -1,0 +1,9 @@
+1	Även	_	ADV	ADV	_	4	advmod
+2	i	_	ADP	ADP	_	4	case
+3	andra	_	ADJ	ADJ	_	4	det
+4	länder	_	NOUN	NOUN	_	7	nmod
+5	är	_	AUX	AUX	_	7	cop
+6	Google	_	PROPN	PROPN	_	7	nmod:poss
+7	censurerad	_	ADJ	ADJ	_	0	root
+8	.	_	PUNCT	PUNCT	_	7	punct
+

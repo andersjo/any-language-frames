@@ -1,0 +1,22 @@
+1	Klockan	_	NOUN	NOUN	_	2	det
+2	21.00	_	NUM	NUM	_	4	nummod
+3	svensk	_	ADJ	ADJ	_	4	amod
+4	tid	_	NOUN	NOUN	_	8	nmod
+5	den	_	DET	DET	_	7	det
+6	6	_	NUM	NUM	_	7	nummod
+7	juli	_	NOUN	NOUN	_	8	nmod
+8	hälsades	_	VERB	VERB	_	0	root
+9	Ronaldo	_	NOUN	NOUN	_	8	nsubj
+10	välkommen	_	ADJ	ADJ	_	8	xcomp
+11	på	_	ADP	ADP	_	13	case
+12	Santiago	_	ADJ	ADJ	_	13	amod
+13	Bernabéu-stadion	_	NOUN	NOUN	_	8	nmod
+14	i	_	ADP	ADP	_	15	case
+15	Madrid	_	NOUN	NOUN	_	13	nmod
+16	av	_	ADP	ADP	_	20	case
+17	närmare	_	ADV	ADV	_	18	advmod
+18	80	_	NUM	NUM	_	20	nummod
+19	000	_	NUM	NUM	_	20	nummod
+20	åskådare	_	NOUN	NOUN	_	15	nmod
+21	.	_	PUNCT	PUNCT	_	8	punct
+

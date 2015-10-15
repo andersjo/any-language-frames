@@ -1,0 +1,13 @@
+1	Кръстниците	_	PROPN	PROPN	_	3	nsubj
+2	ѝ	_	PROPN	PROPN	_	1	nmod
+3	са	_	VERB	VERB	_	0	root
+4	също	_	ADV	ADV	_	3	advmod
+5	актьори	_	NOUN	NOUN	_	3	cop
+6	-	_	PUNCT	PUNCT	_	7	punct
+7	Жаклин	_	PROPN	PROPN	_	5	nmod
+8	Бисет	_	PROPN	PROPN	_	7	name
+9	и	_	CONJ	CONJ	_	7	cc
+10	Максимилиан	_	PROPN	PROPN	_	7	conj
+11	Шел	_	PROPN	PROPN	_	10	name
+12	.	_	PUNCT	PUNCT	_	3	punct
+

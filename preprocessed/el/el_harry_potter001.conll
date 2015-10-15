@@ -1,0 +1,17 @@
+1	Χάρι	_	ADJ	ADJ	_	2	det
+2	Πότερ	_	NOUN	NOUN	_	10	nsubj
+3	είναι	_	VERB	VERB	_	5	cop
+4	το	_	ADJ	ADJ	_	5	det
+5	όνομα	_	NOUN	NOUN	_	10	nsubj
+6	μιας	_	ADJ	ADJ	_	7	det
+7	σειράς	_	NOUN	NOUN	_	5	nmod
+8	επτά	_	NUM	NUM	_	9	nummod
+9	μυθιστορημάτων	_	NOUN	NOUN	_	7	nmod
+10	φαντασίας	_	VERB	VERB	_	0	root
+11	από	_	ADP	ADP	_	13	case
+12	τη	_	ADJ	ADJ	_	13	det
+13	βρετανίδα	_	NOUN	NOUN	_	10	nmod
+14	συγγραφέα	_	ADJ	ADJ	_	15	amod
+15	Τζ	_	NOUN	NOUN	_	13	nmod
+16	.	_	PUNCT	PUNCT	_	10	punct
+

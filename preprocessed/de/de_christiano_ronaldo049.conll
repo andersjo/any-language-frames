@@ -1,0 +1,19 @@
+1	August	_	PROPN	PROPN	_	11	nmod
+2	2003	_	NUM	NUM	_	1	nmod
+3	,	_	PUNCT	PUNCT	_	1	punct
+4	dem	_	DET	DET	_	6	det
+5	ersten	_	ADJ	ADJ	_	6	amod
+6	Spieltag	_	NOUN	NOUN	_	11	nmod
+7	der	_	DET	DET	_	8	det
+8	Saison	_	NOUN	NOUN	_	6	det
+9	2003/04	_	NUM	NUM	_	8	nmod
+10	,	_	PUNCT	PUNCT	_	6	punct
+11	feierte	_	VERB	VERB	_	0	root
+12	Ronaldo	_	PROPN	PROPN	_	11	nsubj
+13	sein	_	DET	DET	_	14	nmod:poss
+14	Debüt	_	NOUN	NOUN	_	11	dobj
+15	im	_	ADP	ADP	_	17	case
+16	Old	_	PROPN	PROPN	_	17	name
+17	Trafford	_	PROPN	PROPN	_	14	nmod
+18	.	_	PUNCT	PUNCT	_	11	punct
+

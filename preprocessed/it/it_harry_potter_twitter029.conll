@@ -1,0 +1,19 @@
+1	@taycoccolamica	_	ADJ	ADJ	_	2	amod
+2	zitta	_	NOUN	NOUN	_	0	root
+3	babbana	_	ADJ	ADJ	_	2	amod
+4	,	_	PUNCT	PUNCT	_	2	punct
+5	che	_	SCONJ	SCONJ	_	7	mark
+6	tu	_	PRON	PRON	_	7	nsubj
+7	eri	_	VERB	VERB	_	2	advcl
+8	quella	_	PRON	PRON	_	7	dobj
+9	che	_	PRON	PRON	_	12	nsubj
+10	'	_	PUNCT	PUNCT	_	12	punct
+11	non	_	ADV	ADV	_	12	neg
+12	piace	_	VERB	VERB	_	8	acl:relcl
+13	a	_	ADP	ADP	_	14	case
+14	me	_	PRON	PRON	_	12	nmod
+15	harry	_	PROPN	PROPN	_	12	dobj
+16	potter	_	PROPN	PROPN	_	15	name
+17	'	_	PUNCT	PUNCT	_	15	punct
+18	😒😒	_	PROPN	PROPN	_	15	conj
+

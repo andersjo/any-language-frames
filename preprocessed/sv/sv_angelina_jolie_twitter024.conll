@@ -1,0 +1,13 @@
+1	Angelina	_	ADJ	ADJ	_	2	amod
+2	Jolie	_	NOUN	NOUN	_	5	nsubj
+3	och	_	CONJ	CONJ	_	2	cc
+4	Brad	_	NOUN	NOUN	_	2	conj
+5	Pitts	_	VERB	VERB	_	0	root
+6	unge	_	NOUN	NOUN	_	5	dobj
+7	är	_	AUX	AUX	_	12	cop
+8	ju	_	ADV	ADV	_	5	advmod
+9	bara	_	ADV	ADV	_	10	advmod
+10	helt	_	ADV	ADV	_	11	advmod
+11	amazing	_	NOUN	NOUN	_	12	nmod:poss
+12	http://t.co/mRUrMG3PVI	_	NOUN	NOUN	_	5	conj
+

@@ -1,0 +1,23 @@
+1	Σε	_	ADP	ADP	_	2	case
+2	ηλικία	_	NOUN	NOUN	_	5	nmod
+3	15	_	NUM	NUM	_	4	nmod
+4	ετών	_	NOUN	NOUN	_	2	nmod
+5	διαγνώσθηκε	_	VERB	VERB	_	0	root
+6	ότι	_	CONJ	CONJ	_	7	mark
+7	έχει	_	VERB	VERB	_	5	ccomp
+8	ταχυκαρδία	_	NOUN	NOUN	_	7	dobj
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	κατάσταση	_	NOUN	NOUN	_	8	conj
+11	,	_	PUNCT	PUNCT	_	14	punct
+12	που	_	PRON	PRON	_	14	nsubj
+13	θα	_	PART	PART	_	14	aux
+14	μπορούσε	_	VERB	VERB	_	8	acl:relcl
+15	να	_	PART	PART	_	17	aux
+16	το	_	PRON	PRON	_	17	dobj
+17	αναγκάσει	_	VERB	VERB	_	14	ccomp
+18	να	_	PART	PART	_	19	aux
+19	παρατήσει	_	VERB	VERB	_	17	ccomp
+20	το	_	ADJ	ADJ	_	21	det
+21	ποδόσφαιρο	_	NOUN	NOUN	_	19	dobj
+22	.	_	PUNCT	PUNCT	_	5	punct
+

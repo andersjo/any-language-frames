@@ -1,0 +1,22 @@
+1	Google	_	NOUN	NOUN	_	3	nsubjpass
+2	er	_	AUX	AUX	_	7	auxpass
+3	vokset	_	VERB	VERB	_	7	dep
+4	hurtigt	_	ADV	ADV	_	3	advmod
+5	og	_	CONJ	CONJ	_	3	cc
+6	har	_	AUX	AUX	_	17	aux
+7	skabt	_	VERB	VERB	_	0	root
+8	nærmest	_	ADV	ADV	_	7	advmod
+9	monopol	_	NOUN	NOUN	_	7	dobj
+10	på	_	ADP	ADP	_	11	case
+11	området	_	NOUN	NOUN	_	9	nmod
+12	for	_	ADP	ADP	_	13	case
+13	søgeindeks	_	NOUN	NOUN	_	11	nmod
+14	,	_	PUNCT	PUNCT	_	17	punct
+15	hvilket	_	PRON	PRON	_	17	nsubj
+16	har	_	AUX	AUX	_	17	aux
+17	givet	_	VERB	VERB	_	13	acl:relcl
+18	anledning	_	NOUN	NOUN	_	17	dobj
+19	til	_	ADP	ADP	_	20	case
+20	debat	_	NOUN	NOUN	_	18	nmod
+21	.	_	PUNCT	PUNCT	_	3	punct
+

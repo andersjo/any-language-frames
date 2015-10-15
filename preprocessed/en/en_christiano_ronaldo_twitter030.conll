@@ -1,0 +1,23 @@
+1	Sending	_	VERB	VERB	_	0	root
+2	@chelseaearnshaw	_	PROPN	PROPN	_	3	compound
+3	pictures	_	NOUN	NOUN	_	1	dobj
+4	of	_	ADP	ADP	_	1	compound:prt
+5	Christiano	_	PROPN	PROPN	_	6	compound
+6	ronaldo	_	PROPN	PROPN	_	1	dobj
+7	with	_	ADP	ADP	_	1	compound:prt
+8	no	_	DET	DET	_	9	neg
+9	top	_	NOUN	NOUN	_	7	dobj
+10	on	_	ADP	ADP	_	12	reparandum
+11	to	_	PART	PART	_	12	mark
+12	help	_	VERB	VERB	_	9	acl
+13	her	_	PRON	PRON	_	12	dobj
+14	get	_	VERB	VERB	_	12	xcomp
+15	through	_	ADP	ADP	_	14	compound:prt
+16	work	_	NOUN	NOUN	_	14	dobj
+17	,	_	PUNCT	PUNCT	_	1	punct
+18	I'm	_	NOUN	NOUN	_	16	conj
+19	the	_	DET	DET	_	22	det
+20	best	_	ADJ	ADJ	_	0	foreign
+21	bestie	_	NOUN	NOUN	_	22	compound
+22	ever👌	_	NOUN	NOUN	_	16	conj
+

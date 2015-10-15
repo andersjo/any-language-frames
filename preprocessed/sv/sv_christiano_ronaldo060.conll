@@ -1,0 +1,19 @@
+1	I	_	ADP	ADP	_	3	case
+2	en	_	DET	DET	_	3	det
+3	ligamatch	_	NOUN	NOUN	_	10	nmod
+4	mot	_	ADP	ADP	_	5	case
+5	Mallorca	_	NOUN	NOUN	_	3	nmod
+6	den	_	DET	DET	_	8	det
+7	5	_	NUM	NUM	_	8	nummod
+8	maj	_	NOUN	NOUN	_	3	nmod
+9	2010	_	NUM	NUM	_	8	nummod
+10	gjorde	_	VERB	VERB	_	0	root
+11	Ronaldo	_	VERB	VERB	_	10	xcomp
+12	sitt	_	DET	DET	_	13	nmod:poss
+13	första	_	ADJ	ADJ	_	14	nsubj
+14	hattrick	_	VERB	VERB	_	11	conj
+15	i	_	ADP	ADP	_	17	case
+16	Real	_	NOUN	NOUN	_	17	nmod:poss
+17	Madrid	_	NOUN	NOUN	_	14	nmod
+18	.	_	PUNCT	PUNCT	_	10	punct
+

@@ -1,0 +1,14 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	4	nsubj
+3	se	_	PRON	PRON	_	4	dobj
+4	dévoile	_	VERB	VERB	_	0	root
+5	:	_	PUNCT	PUNCT	_	4	punct
+6	«	_	PUNCT	PUNCT	_	8	punct
+7	Je	_	PRON	PRON	_	8	nsubj
+8	vis	_	VERB	VERB	_	4	parataxis
+9	dans	_	ADP	ADP	_	11	case
+10	le	_	DET	DET	_	11	det
+11	chaos	_	NOUN	NOUN	_	8	nmod
+12	»	_	PUNCT	PUNCT	_	11	punct
+13	http://t.co/MSCem6pYtl	_	PROPN	PROPN	_	11	appos
+

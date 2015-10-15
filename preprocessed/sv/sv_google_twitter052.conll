@@ -1,0 +1,22 @@
+1	@skapasaker	_	NOUN	NOUN	_	3	nmod:poss
+2	@agdatamme	_	ADJ	ADJ	_	3	amod
+3	@carlson_edu	_	NOUN	NOUN	_	4	nmod:poss
+4	elever	_	NOUN	NOUN	_	11	nmod
+5	har	_	AUX	AUX	_	11	cop
+6	en	_	DET	DET	_	8	det
+7	Google	_	PROPN	PROPN	_	8	nmod:poss
+8	konto	_	NOUN	NOUN	_	11	nmod
+9	o	_	INTJ	INTJ	_	14	discourse
+10	youtube	_	NOUN	NOUN	_	11	nsubj
+11	automatisk	_	ADJ	ADJ	_	0	root
+12	.	_	PUNCT	PUNCT	_	11	punct
+13	Det	_	PRON	PRON	_	14	expl
+14	görs	_	VERB	VERB	_	11	parataxis
+15	videoklipp	_	NOUN	NOUN	_	14	dobj
+16	med	_	ADP	ADP	_	17	case
+17	beskrivning	_	NOUN	NOUN	_	14	nmod
+18	av	_	ADP	ADP	_	19	case
+19	arbetet	_	NOUN	NOUN	_	17	nmod
+20	till	_	ADP	ADP	_	21	case
+21	..	_	ADJ	ADJ	_	17	nmod
+

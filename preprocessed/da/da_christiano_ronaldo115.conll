@@ -1,0 +1,25 @@
+1	Han	_	PRON	PRON	_	5	nsubjpass
+2	biografi	_	NOUN	NOUN	_	5	nsubjpass
+3	er	_	AUX	AUX	_	5	auxpass
+4	blevet	_	AUX	AUX	_	5	auxpass
+5	kaldt	_	VERB	VERB	_	0	root
+6	"	_	PUNCT	PUNCT	_	7	punct
+7	Moments	_	PROPN	PROPN	_	5	dobj
+8	"	_	PUNCT	PUNCT	_	7	punct
+9	(	_	PUNCT	PUNCT	_	11	punct
+10	"	_	PUNCT	PUNCT	_	11	punct
+11	Øjeblikke	_	NOUN	NOUN	_	7	appos
+12	"	_	PUNCT	PUNCT	_	11	punct
+13	)	_	PUNCT	PUNCT	_	11	punct
+14	,	_	PUNCT	PUNCT	_	18	punct
+15	og	_	CONJ	CONJ	_	18	cc
+16	den	_	PRON	PRON	_	18	nsubjpass
+17	blev	_	AUX	AUX	_	18	auxpass
+18	udgivet	_	VERB	VERB	_	11	acl:relcl
+19	den	_	DET	DET	_	22	det
+20	15	_	NUM	NUM	_	22	nummod
+21	.	_	PUNCT	PUNCT	_	11	punct
+22	december	_	NOUN	NOUN	_	18	dep
+23	2007	_	NUM	NUM	_	22	nmod
+24	.	_	PUNCT	PUNCT	_	18	punct
+

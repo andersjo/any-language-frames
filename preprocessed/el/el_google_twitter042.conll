@@ -1,0 +1,24 @@
+1	Ψηφοφόρε	_	NOUN	NOUN	_	0	root
+2	που	_	PRON	PRON	_	4	nsubj
+3	θες	_	VERB	VERB	_	4	aux
+4	βόλεμα	_	VERB	VERB	_	1	acl:relcl
+5	για	_	ADP	ADP	_	6	case
+6	σένα	_	NOUN	NOUN	_	4	nmod
+7	και	_	CONJ	CONJ	_	4	cc
+8	να	_	PART	PART	_	9	aux
+9	ψοφήσει	_	VERB	VERB	_	4	advcl
+10	η	_	ADJ	ADJ	_	11	det
+11	κατσίκα	_	NOUN	NOUN	_	9	nsubj
+12	του	_	ADJ	ADJ	_	13	det
+13	γείτονα	_	NOUN	NOUN	_	11	nmod
+14	.	_	PUNCT	PUNCT	_	4	punct
+15	Αν	_	CONJ	CONJ	_	16	mark
+16	ψηφίσεις	_	VERB	VERB	_	9	advcl
+17	κάποιον	_	PRON	PRON	_	16	dobj
+18	που	_	PRON	PRON	_	19	nmod
+19	σου	_	NOUN	NOUN	_	16	dobj
+20	μοιάζει	_	VERB	VERB	_	16	ccomp
+21	,	_	PUNCT	PUNCT	_	22	punct
+22	έχασες	_	VERB	VERB	_	20	advcl
+23	https://t.co/qHxPuzk9Dp	_	NOUN	NOUN	_	22	dobj
+

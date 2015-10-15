@@ -1,0 +1,18 @@
+1	The	_	PROPN	PROPN	_	2	det
+2	Michigan	_	PROPN	PROPN	_	0	root
+3	Man	_	PROPN	PROPN	_	4	name
+4	Podcast	_	PROPN	PROPN	_	6	name
+5	on	_	PROPN	PROPN	_	6	case
+6	GBMWolverine	_	PROPN	PROPN	_	2	nmod
+7	:	_	PUNCT	PUNCT	_	6	punct
+8	Episode	_	NOUN	NOUN	_	6	appos
+9	231	_	NUM	NUM	_	8	appos
+10	--	_	PUNCT	PUNCT	_	12	punct
+11	Hello	_	PROPN	PROPN	_	12	name
+12	Coach	_	PROPN	PROPN	_	8	appos
+13	...	_	PUNCT	PUNCT	_	12	punct
+14	-	_	PUNCT	PUNCT	_	15	punct
+15	GBMWolverine	_	PROPN	PROPN	_	17	name
+16	#wolverine	_	PROPN	PROPN	_	17	name
+17	http://t.co/g3z2G6Ph8h	_	PROPN	PROPN	_	12	appos
+

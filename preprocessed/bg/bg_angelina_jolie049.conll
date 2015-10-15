@@ -1,0 +1,13 @@
+1	Въпреки	_	ADP	ADP	_	5	case
+2	че	_	SCONJ	SCONJ	_	5	mark
+3	историята	_	NOUN	NOUN	_	5	nsubjpass
+4	е	_	AUX	AUX	_	5	aux
+5	разказана	_	VERB	VERB	_	0	root
+6	от	_	ADP	ADP	_	7	case
+7	Мади	_	PROPN	PROPN	_	5	iobj
+8	,	_	PUNCT	PUNCT	_	5	punct
+9	тя	_	PRON	PRON	_	10	nsubj
+10	е	_	VERB	VERB	_	7	acl
+11	катализатор	_	NOUN	NOUN	_	10	cop
+12	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,8 @@
+1	Google	_	NOUN	NOUN	_	2	nmod:poss
+2	Scholar	_	NOUN	NOUN	_	4	nsubj
+3	er	_	AUX	AUX	_	4	cop
+4	stadig	_	ADV	ADV	_	0	root
+5	under	_	ADP	ADP	_	6	case
+6	afprøvning	_	NOUN	NOUN	_	4	nmod
+7	.	_	PUNCT	PUNCT	_	1	punct
+

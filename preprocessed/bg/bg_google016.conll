@@ -1,0 +1,23 @@
+1	„Която	_	PROPN	PROPN	_	4	nsubj
+2	и	_	CONJ	CONJ	_	1	cc
+3	да	_	PART	PART	_	4	aux
+4	е	_	VERB	VERB	_	18	ccomp
+5	информация	_	NOUN	NOUN	_	6	nsubj
+6	е	_	VERB	VERB	_	4	ccomp
+7	на	_	ADP	ADP	_	9	case
+8	един	_	DET	DET	_	10	det
+9	Google	_	PROPN	PROPN	_	6	cop
+10	разстояние	_	NOUN	NOUN	_	6	cop
+11	.	_	PUNCT	PUNCT	_	12	punct
+12	“	_	PROPN	PROPN	_	10	nmod
+13	-	_	PUNCT	PUNCT	_	12	punct
+14	този	_	DET	DET	_	15	det
+15	афоризъм	_	NOUN	NOUN	_	18	nsubj
+16	(или	_	PROPN	PROPN	_	15	nmod
+17	не)	_	PROPN	PROPN	_	16	name
+18	описва	_	VERB	VERB	_	0	root
+19	най-точно	_	ADJ	ADJ	_	20	amod
+20	значението	_	NOUN	NOUN	_	18	dobj
+21	му	_	PRON	PRON	_	20	case
+22	.	_	PUNCT	PUNCT	_	18	punct
+

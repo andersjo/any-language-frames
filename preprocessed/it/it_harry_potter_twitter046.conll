@@ -1,0 +1,8 @@
+1	Que	_	PROPN	PROPN	_	0	root
+2	le	_	DET	DET	_	3	det
+3	guste	_	NOUN	NOUN	_	1	nmod
+4	Harry	_	PROPN	PROPN	_	3	nmod
+5	Potter	_	PROPN	PROPN	_	4	name
+6	enamora	_	NOUN	NOUN	_	4	nmod
+7	hahaha	_	NOUN	NOUN	_	6	compound
+

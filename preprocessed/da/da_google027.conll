@@ -1,0 +1,21 @@
+1	Igen	_	ADV	ADV	_	2	advmod
+2	kommer	_	VERB	VERB	_	0	root
+3	reklamer	_	NOUN	NOUN	_	2	nsubj
+4	med	_	ADP	ADP	_	3	dep
+5	i	_	ADP	ADP	_	6	case
+6	billedet	_	NOUN	NOUN	_	2	nmod
+7	,	_	PUNCT	PUNCT	_	11	punct
+8	idet	_	SCONJ	SCONJ	_	11	mark
+9	annoncører	_	VERB	VERB	_	11	nsubj
+10	kan	_	AUX	AUX	_	11	aux
+11	købe	_	VERB	VERB	_	4	dep
+12	plads	_	NOUN	NOUN	_	11	dobj
+13	på	_	ADP	ADP	_	14	case
+14	resultatsiden	_	NOUN	NOUN	_	12	nmod
+15	,	_	PUNCT	PUNCT	_	11	punct
+16	hvilket	_	PRON	PRON	_	17	nsubj
+17	anfægter	_	VERB	VERB	_	11	dep
+18	søgningens	_	NOUN	NOUN	_	19	nmod:poss
+19	neutralitet	_	NOUN	NOUN	_	17	dobj
+20	.	_	PUNCT	PUNCT	_	2	punct
+

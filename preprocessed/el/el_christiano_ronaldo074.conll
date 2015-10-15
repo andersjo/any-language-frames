@@ -1,0 +1,19 @@
+1	Ο	_	ADJ	ADJ	_	2	det
+2	Ρονάλντο	_	NOUN	NOUN	_	3	nsubj
+3	πέτυχε	_	VERB	VERB	_	0	root
+4	ένα	_	ADJ	ADJ	_	5	det
+5	γκολ	_	NOUN	NOUN	_	3	dobj
+6	σε	_	ADP	ADP	_	9	case
+7	αυτή	_	PRON	PRON	_	9	det
+8	τη	_	ADJ	ADJ	_	9	det
+9	διοργάνωση	_	NOUN	NOUN	_	5	nmod
+10	με	_	ADP	ADP	_	11	case
+11	πέναλτι	_	NOUN	NOUN	_	3	nmod
+12	,	_	PUNCT	PUNCT	_	14	punct
+13	στον	_	ADP	ADP	_	14	case
+14	αγώνα	_	NOUN	NOUN	_	11	conj
+15	με	_	ADP	ADP	_	17	case
+16	την	_	ADJ	ADJ	_	17	det
+17	Τσεχία	_	NOUN	NOUN	_	14	nmod
+18	.	_	PUNCT	PUNCT	_	3	punct
+

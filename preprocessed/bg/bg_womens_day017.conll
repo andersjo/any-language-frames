@@ -1,0 +1,11 @@
+1	Той	_	PRON	PRON	_	3	nsubj
+2	се	_	PRON	PRON	_	3	expl
+3	подновява	_	VERB	VERB	_	0	root
+4	със	_	ADP	ADP	_	7	case
+5	зараждащия	_	ADJ	ADJ	_	7	amod
+6	се	_	PRON	PRON	_	5	expl
+7	феминизъм	_	NOUN	NOUN	_	3	iobj
+8	през	_	ADP	ADP	_	9	case
+9	1960-те	_	ADJ	ADJ	_	7	nmod
+10	.	_	PUNCT	PUNCT	_	3	punct
+

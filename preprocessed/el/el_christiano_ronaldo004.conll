@@ -1,0 +1,17 @@
+1	Ενώ	_	CONJ	CONJ	_	2	mark
+2	είναι	_	VERB	VERB	_	4	cop
+3	και	_	CONJ	CONJ	_	4	cc
+4	κάτοχος	_	NOUN	NOUN	_	6	nmod
+5	μια	_	ADJ	ADJ	_	6	det
+6	φορά	_	NOUN	NOUN	_	0	root
+7	το	_	ADJ	ADJ	_	8	det
+8	2007-08	_	NOUN	NOUN	_	6	nmod
+9	και	_	CONJ	CONJ	_	8	cc
+10	μία	_	ADJ	ADJ	_	12	det
+11	το	_	ADJ	ADJ	_	12	det
+12	2010-11	_	NOUN	NOUN	_	8	conj
+13	,	_	PUNCT	PUNCT	_	15	punct
+14	Χρυσού	_	ADJ	ADJ	_	15	amod
+15	Παπουτσιού	_	NOUN	NOUN	_	8	conj
+16	.	_	PUNCT	PUNCT	_	4	punct
+

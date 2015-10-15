@@ -1,0 +1,22 @@
+1	Все	_	ADV	ADV	_	5	advmod
+2	пак	_	ADV	ADV	_	5	advmod
+3	преводът	_	NOUN	NOUN	_	5	nsubj
+4	си	_	PRON	PRON	_	5	expl
+5	остава	_	VERB	VERB	_	0	root
+6	машинен	_	NOUN	NOUN	_	5	dobj
+7	и	_	CONJ	CONJ	_	5	cc
+8	затова	_	ADV	ADV	_	10	advmod
+9	е	_	AUX	AUX	_	10	aux
+10	предвидена	_	VERB	VERB	_	5	conj
+11	възможност	_	NOUN	NOUN	_	12	nsubj
+12	потребителят	_	VERB	VERB	_	5	conj
+13	да	_	PART	PART	_	14	aux
+14	избере	_	VERB	VERB	_	12	ccomp
+15	алтернативен	_	NOUN	NOUN	_	14	dobj
+16	или	_	CONJ	CONJ	_	12	cc
+17	да	_	PART	PART	_	18	aux
+18	предложи	_	VERB	VERB	_	12	conj
+19	по-добър	_	ADJ	ADJ	_	20	amod
+20	превод	_	NOUN	NOUN	_	18	dobj
+21	.	_	PUNCT	PUNCT	_	5	punct
+

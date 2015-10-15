@@ -1,0 +1,18 @@
+1	Nono	_	VERB	VERB	_	0	root
+2	comunque	_	ADV	ADV	_	1	advmod
+3	Harry	_	PROPN	PROPN	_	1	dobj
+4	Potter	_	PROPN	PROPN	_	3	name
+5	e	_	CONJ	CONJ	_	3	cc
+6	il	_	DET	DET	_	8	det
+7	.	_	PUNCT	PUNCT	_	3	punct
+8	signore	_	NOUN	NOUN	_	3	appos
+9	degli	_	ADP	ADP	_	10	case
+10	anelli	_	NOUN	NOUN	_	8	nmod
+11	stanno	_	VERB	VERB	_	10	acl
+12	allo	_	ADP	ADP	_	14	case
+13	stesso	_	ADJ	ADJ	_	14	amod
+14	livello	_	NOUN	NOUN	_	11	nmod
+15	secondo	_	ADJ	ADJ	_	14	amod
+16	me	_	PRON	PRON	_	17	iobj
+17	#iproblemidellavita	_	VERB	VERB	_	14	acl:relcl
+

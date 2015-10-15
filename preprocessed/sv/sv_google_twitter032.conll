@@ -1,0 +1,12 @@
+1	@rosabajskorv	_	NOUN	NOUN	_	2	nmod:poss
+2	googla	_	NOUN	NOUN	_	9	nmod
+3	.	_	PUNCT	PUNCT	_	2	punct
+4	Tonsillit	_	NOUN	NOUN	_	2	conj
+5	på	_	ADP	ADP	_	6	case
+6	Google	_	PROPN	PROPN	_	7	nmod:poss
+7	bild	_	NOUN	NOUN	_	8	nmod:poss
+8	😖😖	_	NOUN	NOUN	_	4	nmod
+9	gjorde	_	VERB	VERB	_	0	root
+10	jsg	_	NOUN	NOUN	_	9	nsubj
+11	nyss	_	ADV	ADV	_	9	advmod
+

@@ -1,0 +1,23 @@
+1	Än	_	VERB	VERB	_	0	root
+2	så	_	ADV	ADV	_	1	advmod
+3	länge	_	ADV	ADV	_	1	advmod
+4	har	_	VERB	VERB	_	1	advcl
+5	Ronaldo	_	NOUN	NOUN	_	4	dobj
+6	spelat	_	VERB	VERB	_	4	xcomp
+7	alla	_	DET	DET	_	8	det
+8	minuter	_	NOUN	NOUN	_	6	dobj
+9	i	_	ADP	ADP	_	10	case
+10	ligan	_	NOUN	NOUN	_	8	nmod
+11	för	_	ADP	ADP	_	12	case
+12	Real	_	NOUN	NOUN	_	10	nmod
+13	Madrid	_	VERB	VERB	_	6	advcl
+14	säsongen	_	NOUN	NOUN	_	15	det
+15	2010/2011	_	NUM	NUM	_	13	nmod
+16	och	_	CONJ	CONJ	_	15	cc
+17	det	_	PRON	PRON	_	20	nsubj
+18	var	_	AUX	AUX	_	20	cop
+19	26	_	NUM	NUM	_	20	nummod
+20	mars	_	NOUN	NOUN	_	15	conj
+21	2011	_	NUM	NUM	_	20	nummod
+22	.	_	PUNCT	PUNCT	_	6	punct
+

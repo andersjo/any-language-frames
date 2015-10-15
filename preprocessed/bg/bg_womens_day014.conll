@@ -1,0 +1,18 @@
+1	Въпреки	_	ADP	ADP	_	2	case
+2	това	_	PRON	PRON	_	12	nmod
+3	,	_	PUNCT	PUNCT	_	4	punct
+4	пожар	_	NOUN	NOUN	_	12	nsubj
+5	във	_	ADP	ADP	_	6	case
+6	фабрика	_	NOUN	NOUN	_	4	nmod
+7	за	_	ADP	ADP	_	8	case
+8	дрехи	_	NOUN	NOUN	_	6	nmod
+9	в	_	ADP	ADP	_	10	case
+10	Ню	_	PROPN	PROPN	_	8	nmod
+11	Йорк	_	PROPN	PROPN	_	10	name
+12	убива	_	VERB	VERB	_	0	root
+13	повече	_	ADV	ADV	_	12	advmod
+14	от	_	ADP	ADP	_	16	case
+15	150	_	NUM	NUM	_	16	nummod
+16	работнички	_	NOUN	NOUN	_	13	nmod
+17	.	_	PUNCT	PUNCT	_	12	punct
+

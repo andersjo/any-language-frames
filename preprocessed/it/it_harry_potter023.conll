@@ -1,0 +1,26 @@
+1	Tutti	_	DET	DET	_	3	det:predet
+2	questi	_	DET	DET	_	3	det
+3	elementi	_	NOUN	NOUN	_	20	nsubj
+4	fanno	_	VERB	VERB	_	3	acl
+5	da	_	ADP	ADP	_	6	case
+6	cornice	_	NOUN	NOUN	_	4	nmod
+7	alle	_	ADP	ADP	_	8	case
+8	avventure	_	NOUN	NOUN	_	6	nmod
+9	del	_	ADP	ADP	_	10	case
+10	protagonista	_	NOUN	NOUN	_	8	nmod
+11	,	_	PUNCT	PUNCT	_	4	punct
+12	oppure	_	CONJ	CONJ	_	4	cc
+13	,	_	PUNCT	PUNCT	_	4	punct
+14	a	_	ADP	ADP	_	15	case
+15	volte	_	NOUN	NOUN	_	20	nmod
+16	con	_	ADP	ADP	_	17	case
+17	ironia	_	NOUN	NOUN	_	15	nmod
+18	,	_	PUNCT	PUNCT	_	3	punct
+19	si	_	PRON	PRON	_	20	nsubj
+20	piegano	_	VERB	VERB	_	0	root
+21	al	_	ADP	ADP	_	22	mark
+22	volere	_	VERB	VERB	_	20	xcomp
+23	della	_	ADP	ADP	_	24	case
+24	trama	_	NOUN	NOUN	_	22	nmod
+25	.	_	PUNCT	PUNCT	_	4	punct
+

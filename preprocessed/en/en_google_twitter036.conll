@@ -1,0 +1,24 @@
+1	Join	_	VERB	VERB	_	15	parataxis
+2	us	_	PRON	PRON	_	1	iobj
+3	Jan	_	PROPN	PROPN	_	4	compound
+4	22nd	_	NOUN	NOUN	_	1	dobj
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	2:00	_	NUM	NUM	_	7	nummod
+7	PM	_	NOUN	NOUN	_	1	dobj
+8	at	_	ADP	ADP	_	7	compound
+9	Morrisville	_	PROPN	PROPN	_	11	compound
+10	Presbyterian	_	PROPN	PROPN	_	11	compound
+11	Church	_	PROPN	PROPN	_	1	dobj
+12	,	_	PUNCT	PUNCT	_	1	punct
+13	as	_	ADP	ADP	_	0	cc
+14	Guardian	_	PROPN	PROPN	_	15	compound
+15	Angels	_	NOUN	NOUN	_	13	dobj
+16	of	_	ADP	ADP	_	15	compound
+17	Home	_	PROPN	PROPN	_	18	compound
+18	Health	_	PROPN	PROPN	_	19	compound
+19	co-hosts	_	NOUN	NOUN	_	1	dobj
+20	with	_	ADP	ADP	_	19	acl
+21	The	_	DET	DET	_	23	det
+22	…	_	ADJ	ADJ	_	0	foreign
+23	https://t.co/EbBGmCuccX	_	X	X	_	18	list
+

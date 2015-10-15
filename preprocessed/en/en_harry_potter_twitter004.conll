@@ -1,0 +1,11 @@
+1	It	_	PRON	PRON	_	2	nsubj
+2	fucking	_	VERB	VERB	_	0	root
+3	is	_	VERB	VERB	_	2	csubj
+4	😳😫	_	PROPN	PROPN	_	6	compound
+5	Harry	_	PROPN	PROPN	_	6	compound
+6	Potter	_	PROPN	PROPN	_	7	nsubj
+7	looking	_	VERB	VERB	_	3	ccomp
+8	possessed	_	VERB	VERB	_	7	xcomp
+9	and	_	CONJ	CONJ	_	8	cc
+10	shit	_	NOUN	NOUN	_	7	conj
+

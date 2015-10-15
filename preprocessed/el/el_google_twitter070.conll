@@ -1,0 +1,14 @@
+1	Ποιος	_	ADJ	ADJ	_	2	det
+2	ηθοποιός	_	NOUN	NOUN	_	3	nsubj
+3	είπε	_	VERB	VERB	_	0	root
+4	:	_	PUNCT	PUNCT	_	6	punct
+5	«Ήταν	_	NOUN	NOUN	_	3	dobj
+6	φάουλ	_	NOUN	NOUN	_	5	nmod
+7	η	_	ADJ	ADJ	_	8	det
+8	βράβευση	_	NOUN	NOUN	_	6	nsubj
+9	του	_	ADJ	ADJ	_	10	det
+10	Ρουβά»	_	NOUN	NOUN	_	8	nmod
+11	-	_	PUNCT	PUNCT	_	13	punct
+12	http://t.co/iEwRD1rfDs	_	NOUN	NOUN	_	13	nmod
+13	#starbuzz	_	NOUN	NOUN	_	8	nmod
+

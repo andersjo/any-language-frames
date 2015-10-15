@@ -1,0 +1,23 @@
+1	Προσφέρει	_	VERB	VERB	_	0	root
+2	λογισμικό	_	ADJ	ADJ	_	4	det
+3	συμπεριλαμβανομένου	_	VERB	VERB	_	4	acl
+4	email	_	NOUN	NOUN	_	1	dobj
+5	(	_	PUNCT	PUNCT	_	6	punct
+6	Gmail	_	NOUN	NOUN	_	4	nmod
+7	)	_	PUNCT	PUNCT	_	6	punct
+8	,	_	PUNCT	PUNCT	_	10	punct
+9	σουίτα	_	ADJ	ADJ	_	10	amod
+10	γραφείου	_	NOUN	NOUN	_	4	conj
+11	(	_	PUNCT	PUNCT	_	13	punct
+12	Google	_	NOUN	NOUN	_	13	nmod
+13	Drive	_	NOUN	NOUN	_	4	appos
+14	)	_	PUNCT	PUNCT	_	13	punct
+15	,	_	PUNCT	PUNCT	_	6	punct
+16	και	_	CONJ	CONJ	_	4	cc
+17	κοινωνικής	_	ADJ	ADJ	_	18	amod
+18	δικτύωσης	_	NOUN	NOUN	_	4	conj
+19	(	_	PUNCT	PUNCT	_	21	punct
+20	Google	_	NOUN	NOUN	_	21	nmod
+21	+)	_	NOUN	NOUN	_	18	nmod
+22	.	_	PUNCT	PUNCT	_	1	punct
+

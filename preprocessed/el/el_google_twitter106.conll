@@ -1,0 +1,12 @@
+1	Ισορροπία	_	ADJ	ADJ	_	2	amod
+2	τρόμου	_	NOUN	NOUN	_	0	root
+3	στην	_	ADP	ADP	_	4	case
+4	οικονομία	_	NOUN	NOUN	_	2	nmod
+5	-	_	PUNCT	PUNCT	_	2	punct
+6	Αποκαλυπτικό	_	ADJ	ADJ	_	7	amod
+7	ρεπορτάζ	_	NOUN	NOUN	_	4	nmod
+8	στην	_	ADP	ADP	_	9	case
+9	...	_	NOUN	NOUN	_	7	nmod
+10	-	_	PUNCT	PUNCT	_	9	punct
+11	http://t.co/AdtkWmC6JY	_	NOUN	NOUN	_	9	nmod
+

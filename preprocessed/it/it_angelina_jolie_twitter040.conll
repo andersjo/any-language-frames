@@ -1,0 +1,24 @@
+1	di	_	ADP	ADP	_	2	case
+2	Romolo	_	PROPN	PROPN	_	3	nmod
+3	Ricapito	_	VERB	VERB	_	0	root
+4	BARI	_	PROPN	PROPN	_	3	dobj
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	5	_	NUM	NUM	_	7	nummod
+7	GIU	_	PROPN	PROPN	_	4	conj
+8	.	_	PUNCT	PUNCT	_	3	punct
+9	-	_	PUNCT	PUNCT	_	10	punct
+10	Colpo	_	NOUN	NOUN	_	4	appos
+11	grosso	_	ADJ	ADJ	_	10	amod
+12	per	_	ADP	ADP	_	14	case
+13	il	_	DET	DET	_	14	det
+14	film	_	NOUN	NOUN	_	10	nmod
+15	Maleficent	_	PROPN	PROPN	_	14	nmod
+16	interpretato	_	VERB	VERB	_	14	acl
+17	da	_	ADP	ADP	_	18	case
+18	Angelina	_	PROPN	PROPN	_	16	nmod
+19	Jolie	_	PROPN	PROPN	_	18	name
+20	.	_	PUNCT	PUNCT	_	18	punct
+21	La	_	DET	DET	_	23	det
+22	...	_	PUNCT	PUNCT	_	23	punct
+23	http://t.co/Nxh75ghtFG	_	PROPN	PROPN	_	18	conj
+

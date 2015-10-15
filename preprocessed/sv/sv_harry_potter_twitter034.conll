@@ -1,0 +1,24 @@
+1	@karoluttan	_	NOUN	NOUN	_	3	nmod:poss
+2	harry	_	ADJ	ADJ	_	3	amod
+3	potter	_	NOUN	NOUN	_	4	nsubj
+4	blir	_	VERB	VERB	_	0	root
+5	bara	_	ADV	ADV	_	4	advmod
+6	bättre	_	ADJ	ADJ	_	4	xcomp
+7	och	_	CONJ	CONJ	_	6	cc
+8	bättre	_	ADJ	ADJ	_	6	conj
+9	ju	_	CONJ	CONJ	_	10	advmod
+10	fler	_	ADJ	ADJ	_	6	conj
+11	böcker	_	NOUN	NOUN	_	13	dobj
+12	du	_	PRON	PRON	_	13	nsubj
+13	läser	_	VERB	VERB	_	4	conj
+14	:)	_	NOUN	NOUN	_	13	dobj
+15	och	_	CONJ	CONJ	_	14	cc
+16	Terry	_	NOUN	NOUN	_	14	conj
+17	Pratchett	_	NOUN	NOUN	_	19	nsubj
+18	är	_	AUX	AUX	_	19	aux
+19	fantasy/komedi	_	VERB	VERB	_	4	conj
+20	så	_	ADV	ADV	_	21	advmod
+21	nöjsam	_	ADJ	ADJ	_	22	amod
+22	läsning	_	NOUN	NOUN	_	19	dobj
+23	^^	_	VERB	VERB	_	4	conj
+

@@ -1,0 +1,22 @@
+1	На	_	ADP	ADP	_	3	case
+2	13	_	NUM	NUM	_	3	nummod
+3	юни	_	NOUN	NOUN	_	8	nmod
+4	2012	_	NUM	NUM	_	5	nummod
+5	г	_	NOUN	NOUN	_	3	nmod
+6	.,	_	PROPN	PROPN	_	5	nmod
+7	Роналдо	_	PROPN	PROPN	_	6	nmod
+8	спечели	_	VERB	VERB	_	0	root
+9	Trofeo	_	PROPN	PROPN	_	8	dobj
+10	Alfredo	_	PROPN	PROPN	_	9	name
+11	Di	_	PROPN	PROPN	_	9	name
+12	Stefano	_	PROPN	PROPN	_	11	name
+13	като	_	ADP	ADP	_	15	case
+14	най-добрият	_	ADJ	ADJ	_	15	amod
+15	играч	_	NOUN	NOUN	_	8	nmod
+16	на	_	ADP	ADP	_	17	case
+17	сезона	_	NOUN	NOUN	_	15	nmod
+18	в	_	ADP	ADP	_	19	case
+19	Ла	_	PROPN	PROPN	_	17	nmod
+20	лига	_	NOUN	NOUN	_	19	nmod
+21	.	_	PUNCT	PUNCT	_	8	punct
+

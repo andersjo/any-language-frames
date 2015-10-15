@@ -1,0 +1,14 @@
+1	But	_	CONJ	CONJ	_	7	cc
+2	still	_	ADV	ADV	_	5	advmod
+3	,	_	PUNCT	PUNCT	_	12	punct
+4	women's	_	NOUN	NOUN	_	5	compound
+5	day	_	NOUN	NOUN	_	7	nmod:tmod
+6	must	_	AUX	AUX	_	7	aux
+7	be	_	VERB	VERB	_	12	cop
+8	celebrated	_	ADJ	ADJ	_	0	punct
+9	as	_	ADP	ADP	_	7	compound:prt
+10	are	_	VERB	VERB	_	12	cop
+11	other	_	ADJ	ADJ	_	0	punct
+12	holidays	_	NOUN	NOUN	_	0	root
+13	.	_	PUNCT	PUNCT	_	12	punct
+

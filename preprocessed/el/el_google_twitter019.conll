@@ -1,0 +1,25 @@
+1	@HarrisXan	_	NOUN	NOUN	_	2	nmod
+2	@Khlysty1	_	NOUN	NOUN	_	12	nsubj
+3	@Cranky_dD	_	NOUN	NOUN	_	2	nmod
+4	@Pexlibanis	_	NOUN	NOUN	_	3	nmod
+5	τπτ	_	NOUN	NOUN	_	4	nmod
+6	απ	_	NOUN	NOUN	_	5	nmod
+7	αυτά	_	PRON	PRON	_	6	det
+8	.	_	PUNCT	PUNCT	_	1	punct
+9	απλώς	_	ADV	ADV	_	12	advmod
+10	η	_	ADJ	ADJ	_	11	det
+11	google	_	NOUN	NOUN	_	12	nsubj
+12	βλέπει	_	VERB	VERB	_	0	root
+13	τα	_	ADJ	ADJ	_	15	det
+14	πολιτικά	_	ADJ	ADJ	_	15	amod
+15	keywords	_	NOUN	NOUN	_	12	dobj
+16	που	_	PRON	PRON	_	18	nmod
+17	η	_	ADJ	ADJ	_	18	det
+18	ΝΔ	_	NOUN	NOUN	_	20	nsubj
+19	έχει	_	VERB	VERB	_	20	aux
+20	βάλει	_	VERB	VERB	_	15	acl:relcl
+21	στο	_	ADP	ADP	_	22	case
+22	campaign	_	NOUN	NOUN	_	20	nmod
+23	της	_	PRON	PRON	_	22	nmod
+24	.	_	PUNCT	PUNCT	_	12	punct
+

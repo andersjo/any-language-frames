@@ -1,0 +1,18 @@
+1	#analytics	_	PROPN	PROPN	_	0	root
+2	Digital	_	PROPN	PROPN	_	1	name
+3	Analytics	_	PROPN	PROPN	_	1	name
+4	:	_	PUNCT	PUNCT	_	1	punct
+5	Digital	_	PROPN	PROPN	_	1	list
+6	Marketing	_	PROPN	PROPN	_	5	name
+7	Solutions	_	PROPN	PROPN	_	5	name
+8	·	_	PROPN	PROPN	_	5	name
+9	Digital	_	PROPN	PROPN	_	8	dep
+10	Technologies	_	PROPN	PROPN	_	9	dep
+11	·	_	PROPN	PROPN	_	10	dep
+12	Digital	_	PROPN	PROPN	_	11	name
+13	Analytics	_	PROPN	PROPN	_	12	name
+14	·	_	ADJ	ADJ	_	15	amod
+15	Industr	_	NOUN	NOUN	_	5	conj
+16	...	_	PUNCT	PUNCT	_	15	punct
+17	http://t.co/HgwRA8wuTk	_	NOUN	NOUN	_	15	conj
+

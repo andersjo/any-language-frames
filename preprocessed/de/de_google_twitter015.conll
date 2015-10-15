@@ -1,0 +1,25 @@
+1	▶	_	PROPN	PROPN	_	2	name
+2	#Schweiz	_	PROPN	PROPN	_	3	name
+3	Lobbying	_	PROPN	PROPN	_	0	root
+4	à	_	PROPN	PROPN	_	6	case
+5	la	_	PROPN	PROPN	_	6	det
+6	Google	_	PROPN	PROPN	_	3	nmod
+7	:	_	PUNCT	PUNCT	_	6	punct
+8	Ringen	_	NOUN	NOUN	_	6	appos
+9	um	_	ADP	ADP	_	11	case
+10	die	_	DET	DET	_	11	det
+11	Datenhoheit	_	NOUN	NOUN	_	8	nmod
+12	in	_	ADP	ADP	_	14	case
+13	den	_	DET	DET	_	14	det
+14	USA	_	PROPN	PROPN	_	11	nmod
+15	:	_	PUNCT	PUNCT	_	8	punct
+16	In	_	ADP	ADP	_	19	case
+17	den	_	DET	DET	_	19	det
+18	Vereinigten	_	PROPN	PROPN	_	19	amod
+19	Staaten	_	PROPN	PROPN	_	11	nmod
+20	ist	_	VERB	VERB	_	22	cop
+21	ein	_	DET	DET	_	24	det
+22	…	_	PROPN	PROPN	_	24	name
+23	http://t.co/VKYomtQrwd	_	PROPN	PROPN	_	24	name
+24	NZZ	_	PROPN	PROPN	_	19	dep
+

@@ -1,0 +1,7 @@
+1	Angelina	_	PROPN	PROPN	_	3	name
+2	Jolie	_	PROPN	PROPN	_	3	name
+3	is	_	PROPN	PROPN	_	4	nsubj
+4	such	_	VERB	VERB	_	0	root
+5	an	_	ADP	ADP	_	6	case
+6	inspiration	_	NOUN	NOUN	_	4	nmod
+

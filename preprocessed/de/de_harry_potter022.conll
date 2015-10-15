@@ -1,0 +1,15 @@
+1	Der	_	DET	DET	_	2	det
+2	Junge	_	NOUN	NOUN	_	7	nsubj
+3	ist	_	VERB	VERB	_	7	cop
+4	die	_	DET	DET	_	7	det
+5	einzige	_	ADJ	ADJ	_	7	amod
+6	bekannte	_	ADJ	ADJ	_	7	amod
+7	Person	_	NOUN	NOUN	_	0	root
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	die	_	PRON	PRON	_	12	nsubj
+10	diesen	_	PRON	PRON	_	11	det
+11	Fluch	_	NOUN	NOUN	_	12	dobj
+12	überlebt	_	VERB	VERB	_	7	acl
+13	hat	_	AUX	AUX	_	12	aux
+14	.	_	PUNCT	PUNCT	_	7	punct
+

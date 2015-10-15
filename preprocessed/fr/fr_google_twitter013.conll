@@ -1,0 +1,16 @@
+1	@Badance94	_	PROPN	PROPN	_	3	nsubj
+2	pourquoi	_	ADV	ADV	_	3	advmod
+3	aller	_	VERB	VERB	_	0	root
+4	sur	_	ADP	ADP	_	5	case
+5	Google	_	PROPN	PROPN	_	3	nmod
+6	quand	_	SCONJ	SCONJ	_	8	mark
+7	on	_	PRON	PRON	_	8	nsubj
+8	a	_	VERB	VERB	_	3	advcl
+9	une	_	DET	DET	_	10	det
+10	haïtienne	_	ADJ	ADJ	_	8	dobj
+11	à	_	ADP	ADP	_	12	case
+12	porté	_	VERB	VERB	_	10	acl
+13	de	_	ADP	ADP	_	14	case
+14	main	_	NOUN	NOUN	_	12	nmod
+15	?	_	PUNCT	PUNCT	_	3	punct
+

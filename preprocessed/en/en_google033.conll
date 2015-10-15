@@ -1,0 +1,11 @@
+1	Financing	_	NOUN	NOUN	_	0	root
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	1998	_	NUM	NUM	_	1	appos
+4	and	_	CONJ	CONJ	_	1	cc
+5	initial	_	ADJ	ADJ	_	0	conj
+6	public	_	ADJ	ADJ	_	0	list
+7	offering	_	NOUN	NOUN	_	1	conj
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	2004	_	NUM	NUM	_	7	nmod:tmod
+10	.	_	PUNCT	PUNCT	_	1	punct
+

@@ -1,0 +1,17 @@
+1	Snopet	_	NOUN	NOUN	_	14	nsubj
+2	att	_	PART	PART	_	5	mark
+3	Dr.	_	ADV	ADV	_	5	advmod
+4	Who	_	PROPN	PROPN	_	5	nsubj
+5	dyker	_	VERB	VERB	_	1	acl
+6	upp	_	ADV	ADV	_	5	compound:prt
+7	i	_	ADP	ADP	_	9	case
+8	Harry	_	PROPN	PROPN	_	9	nmod:poss
+9	Potter	_	NOUN	NOUN	_	5	nmod
+10	.	_	PUNCT	PUNCT	_	9	punct
+11	#senp	_	NOUN	NOUN	_	12	nsubj
+12	åbollen	_	VERB	VERB	_	0	root
+13	#HP	_	NOUN	NOUN	_	12	nsubjpass
+14	#HarryPotter	_	VERB	VERB	_	12	xcomp
+15	#drwho	_	ADJ	ADJ	_	16	amod
+16	#snopet	_	NOUN	NOUN	_	14	dobj
+

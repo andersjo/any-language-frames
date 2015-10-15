@@ -1,0 +1,14 @@
+1	Harry	_	PROPN	PROPN	_	2	name
+2	potter	_	PROPN	PROPN	_	4	nsubj
+3	se	_	PRON	PRON	_	4	iobj
+4	va	_	VERB	VERB	_	0	root
+5	a	_	ADP	ADP	_	6	case
+6	presentar	_	VERB	VERB	_	4	acl
+7	hoy	_	ADV	ADV	_	6	advmod
+8	a	_	ADP	ADP	_	10	case
+9	la	_	DET	DET	_	10	det
+10	pretemporada	_	NOUN	NOUN	_	6	nmod
+11	del	_	ADP	ADP	_	12	case
+12	Bojo	_	PROPN	PROPN	_	10	nmod
+13	.	_	PUNCT	PUNCT	_	4	punct
+

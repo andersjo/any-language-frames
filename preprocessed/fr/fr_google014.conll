@@ -1,0 +1,23 @@
+1	En	_	ADP	ADP	_	3	case
+2	,	_	PUNCT	PUNCT	_	4	punct
+3	Google	_	PROPN	PROPN	_	4	nsubj
+4	représente	_	VERB	VERB	_	0	root
+5	6	_	NUM	NUM	_	8	nummod
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	4	_	NUM	NUM	_	8	nummod
+8	%	_	SYM	SYM	_	4	dobj
+9	du	_	ADP	ADP	_	10	case
+10	trafic	_	NOUN	NOUN	_	8	nmod
+11	Internet	_	PROPN	PROPN	_	10	appos
+12	mondial	_	ADJ	ADJ	_	11	amod
+13	et	_	CONJ	CONJ	_	4	cc
+14	affiche	_	VERB	VERB	_	4	conj
+15	une	_	DET	DET	_	16	det
+16	croissance	_	NOUN	NOUN	_	14	dobj
+17	supérieure	_	ADJ	ADJ	_	16	amod
+18	à	_	ADP	ADP	_	19	case
+19	celle	_	PRON	PRON	_	17	nmod
+20	du	_	ADP	ADP	_	21	case
+21	web	_	NOUN	NOUN	_	19	nmod
+22	.	_	PUNCT	PUNCT	_	4	punct
+

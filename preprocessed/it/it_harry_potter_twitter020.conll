@@ -1,0 +1,14 @@
+1	Nel	_	ADP	ADP	_	3	case
+2	mio	_	DET	DET	_	3	det:poss
+3	libro	_	NOUN	NOUN	_	0	root
+4	di	_	ADP	ADP	_	6	case
+5	italiano	_	ADJ	ADJ	_	6	amod
+6	c'è	_	NOUN	NOUN	_	3	nmod
+7	un	_	DET	DET	_	9	det
+8	intero	_	ADJ	ADJ	_	9	amod
+9	esercizio	_	NOUN	NOUN	_	3	nmod
+10	su	_	ADP	ADP	_	11	case
+11	Harry	_	PROPN	PROPN	_	9	nmod
+12	Potter	_	PROPN	PROPN	_	11	name
+13	.	_	PUNCT	PUNCT	_	9	punct
+

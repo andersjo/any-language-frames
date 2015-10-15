@@ -1,0 +1,20 @@
+1	Η	_	ADJ	ADJ	_	4	det
+2	αρχική	_	ADJ	ADJ	_	5	nsubj
+3	του	_	ADJ	ADJ	_	4	det
+4	επιτυχία	_	NOUN	NOUN	_	2	nmod
+5	βασίστηκε	_	VERB	VERB	_	0	root
+6	σε	_	ADP	ADP	_	9	case
+7	μερικές	_	PRON	PRON	_	9	nmod
+8	καλές	_	ADJ	ADJ	_	9	amod
+9	κριτικές	_	NOUN	NOUN	_	5	nmod
+10	και	_	CONJ	CONJ	_	9	cc
+11	σε	_	ADP	ADP	_	14	case
+12	"	_	PUNCT	PUNCT	_	14	punct
+13	από	_	ADP	ADP	_	14	case
+14	στόμα	_	NOUN	NOUN	_	5	nmod
+15	σε	_	ADP	ADP	_	17	case
+16	στόμα	_	ADJ	ADJ	_	17	amod
+17	διαφήμιση	_	NOUN	NOUN	_	14	nmod
+18	"	_	PUNCT	PUNCT	_	14	punct
+19	.	_	PUNCT	PUNCT	_	5	punct
+

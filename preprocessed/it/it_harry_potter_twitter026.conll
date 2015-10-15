@@ -1,0 +1,12 @@
+1	Sentirsi	_	VERB	VERB	_	0	root
+2	chiamati	_	VERB	VERB	_	1	ccomp
+3	in	_	ADP	ADP	_	4	case
+4	causa	_	NOUN	NOUN	_	2	nmod
+5	quando	_	SCONJ	SCONJ	_	7	mark
+6	qualcuno	_	PRON	PRON	_	7	nsubj
+7	parla	_	VERB	VERB	_	2	advcl
+8	di	_	ADP	ADP	_	9	case
+9	Harry	_	PROPN	PROPN	_	7	nmod
+10	Potter	_	PROPN	PROPN	_	9	name
+11	#cosedapotterheads	_	PROPN	PROPN	_	9	name
+

@@ -1,0 +1,21 @@
+1	@ViktorNerlander	_	NOUN	NOUN	_	3	dobj
+2	De	_	PRON	PRON	_	3	nsubj
+3	hoppas	_	VERB	VERB	_	0	root
+4	jag	_	PRON	PRON	_	3	dobj
+5	,	_	PUNCT	PUNCT	_	3	punct
+6	annars	_	ADV	ADV	_	13	advmod
+7	har	_	AUX	AUX	_	19	aux
+8	ju	_	ADV	ADV	_	13	advmod
+9	vi	_	PRON	PRON	_	4	conj
+10	alla	_	PRON	PRON	_	9	nmod
+11	en	_	DET	DET	_	13	det
+12	gemensam	_	ADJ	ADJ	_	13	amod
+13	vän	_	NOUN	NOUN	_	10	nmod
+14	som	_	PRON	PRON	_	17	nsubj
+15	kan	_	AUX	AUX	_	19	aux
+16	det	_	DET	DET	_	17	det
+17	mesta	_	ADJ	ADJ	_	19	amod
+18	,	_	PUNCT	PUNCT	_	19	punct
+19	google	_	NOUN	NOUN	_	9	conj
+20	!	_	PUNCT	PUNCT	_	3	punct
+

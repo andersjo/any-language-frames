@@ -1,0 +1,17 @@
+1	@karoluttan	_	NOUN	NOUN	_	3	nmod:poss
+2	harry	_	ADJ	ADJ	_	3	amod
+3	potter	_	NOUN	NOUN	_	6	nmod
+4	!	_	PUNCT	PUNCT	_	3	punct
+5	Terry	_	NOUN	NOUN	_	6	nsubj
+6	pratchetts	_	VERB	VERB	_	0	root
+7	böcker	_	NOUN	NOUN	_	6	dobj
+8	är	_	AUX	AUX	_	10	cop
+9	också	_	ADV	ADV	_	10	advmod
+10	bra	_	ADJ	ADJ	_	6	xcomp
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	speciellt	_	ADV	ADV	_	13	advmod
+13	dem	_	PRON	PRON	_	10	appos
+14	från	_	ADP	ADP	_	16	case
+15	discworld	_	ADJ	ADJ	_	16	amod
+16	serien	_	NOUN	NOUN	_	13	nmod
+

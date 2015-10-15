@@ -1,0 +1,18 @@
+1	Alcune	_	PRON	PRON	_	4	nsubj
+2	di	_	ADP	ADP	_	3	case
+3	esse	_	PRON	PRON	_	1	nmod
+4	compaiono	_	VERB	VERB	_	0	root
+5	solo	_	ADV	ADV	_	8	advmod
+6	in	_	ADP	ADP	_	8	case
+7	unico	_	ADJ	ADJ	_	8	amod
+8	libro	_	NOUN	NOUN	_	4	nmod
+9	mentre	_	SCONJ	SCONJ	_	14	mark
+10	altre	_	PRON	PRON	_	14	nsubj
+11	non	_	ADV	ADV	_	14	neg
+12	verranno	_	AUX	AUX	_	14	aux
+13	nemmeno	_	ADV	ADV	_	14	advmod
+14	visitate	_	VERB	VERB	_	4	advcl
+15	dal	_	ADP	ADP	_	16	case
+16	protagonista	_	NOUN	NOUN	_	14	nmod
+17	.	_	PUNCT	PUNCT	_	4	punct
+

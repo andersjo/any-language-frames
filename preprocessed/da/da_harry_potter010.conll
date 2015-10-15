@@ -1,0 +1,11 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	børne	_	NOUN	NOUN	_	9	dep
+3	"	_	PUNCT	PUNCT	_	2	punct
+4	-	_	PUNCT	PUNCT	_	2	punct
+5	og	_	CONJ	CONJ	_	0	root
+6	"	_	PUNCT	PUNCT	_	7	punct
+7	voksen	_	ADJ	ADJ	_	9	amod
+8	"	_	PUNCT	PUNCT	_	7	punct
+9	-udgaver	_	NOUN	NOUN	_	5	dep
+10	.	_	PUNCT	PUNCT	_	7	punct
+

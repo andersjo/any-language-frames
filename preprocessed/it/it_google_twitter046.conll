@@ -1,0 +1,17 @@
+1	Reviewing	_	PROPN	PROPN	_	0	root
+2	The	_	PROPN	PROPN	_	1	name
+3	2014	_	NUM	NUM	_	1	name
+4	MotoGP	_	PROPN	PROPN	_	1	conj
+5	Season	_	PROPN	PROPN	_	4	name
+6	-	_	PUNCT	PUNCT	_	4	punct
+7	Part	_	PROPN	PROPN	_	1	conj
+8	4	_	NUM	NUM	_	7	nummod
+9	:	_	PUNCT	PUNCT	_	4	punct
+10	Dani	_	PROPN	PROPN	_	1	conj
+11	Pedrosa	_	PROPN	PROPN	_	10	name
+12	And	_	PROPN	PROPN	_	10	name
+13	Andrea	_	PROPN	PROPN	_	10	name
+14	Dovizioso	_	ADJ	ADJ	_	15	amod
+15	#motogp	_	NOUN	NOUN	_	10	nmod
+16	http://t.co/uAVjyqbr7x	_	NOUN	NOUN	_	15	compound
+

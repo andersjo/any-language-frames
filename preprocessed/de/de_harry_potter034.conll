@@ -1,0 +1,25 @@
+1	Harry	_	PROPN	PROPN	_	2	nsubj
+2	erlebt	_	VERB	VERB	_	0	root
+3	zum	_	ADP	ADP	_	5	case
+4	ersten	_	ADJ	ADJ	_	5	amod
+5	Mal	_	NOUN	NOUN	_	2	nmod
+6	bewusst	_	ADJ	ADJ	_	8	amod
+7	familienähnliche	_	ADJ	ADJ	_	8	amod
+8	Geborgenheit	_	NOUN	NOUN	_	2	nmod
+9	in	_	ADP	ADP	_	11	case
+10	seinem	_	DET	DET	_	11	nmod:poss
+11	Haus	_	NOUN	NOUN	_	2	nmod
+12	Gryffindor	_	PROPN	PROPN	_	11	appos
+13	,	_	PUNCT	PUNCT	_	11	punct
+14	dem	_	PRON	PRON	_	22	iobj
+15	er	_	PRON	PRON	_	22	nsubjpass
+16	an	_	ADP	ADP	_	19	case
+17	seinem	_	DET	DET	_	19	nmod:poss
+18	ersten	_	ADJ	ADJ	_	19	amod
+19	Tag	_	NOUN	NOUN	_	22	nmod
+20	in	_	ADP	ADP	_	21	case
+21	Hogwarts	_	NOUN	NOUN	_	19	nmod
+22	zugeteilt	_	VERB	VERB	_	11	acl
+23	wird	_	AUX	AUX	_	22	auxpass
+24	.	_	PUNCT	PUNCT	_	2	punct
+

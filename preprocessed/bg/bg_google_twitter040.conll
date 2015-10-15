@@ -1,0 +1,10 @@
+1	🔋#Техно	_	NOUN	NOUN	_	8	nsubj
+2	/	_	ADP	ADP	_	3	case
+3	YouTube-приложение	_	NOUN	NOUN	_	1	nmod
+4	от	_	ADP	ADP	_	5	case
+5	Microsoft	_	NOUN	NOUN	_	3	nmod
+6	снова	_	NOUN	NOUN	_	8	nsubj
+7	не	_	INTJ	INTJ	_	8	neg
+8	устроило	_	VERB	VERB	_	0	root
+9	Google	_	PROPN	PROPN	_	8	dobj
+

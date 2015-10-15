@@ -1,0 +1,13 @@
+1	#STATIUNITI	_	VERB	VERB	_	2	acl
+2	Angelina	_	PROPN	PROPN	_	4	nsubj
+3	Jolie	_	PROPN	PROPN	_	2	name
+4	ammette	_	VERB	VERB	_	0	root
+5	:	_	PUNCT	PUNCT	_	1	punct
+6	"	_	PUNCT	PUNCT	_	10	punct
+7	Sono	_	VERB	VERB	_	10	cop
+8	una	_	DET	DET	_	10	det
+9	pessima	_	ADJ	ADJ	_	10	amod
+10	cuoca	_	NOUN	NOUN	_	2	nmod
+11	"	_	PUNCT	PUNCT	_	12	punct
+12	http://t.co/F7l6oquGAt	_	NOUN	NOUN	_	10	compound
+

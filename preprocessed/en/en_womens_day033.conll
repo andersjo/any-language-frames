@@ -1,0 +1,24 @@
+1	From	_	ADP	ADP	_	0	compound:prt
+2	its	_	PRON	PRON	_	4	nmod:poss
+3	official	_	ADJ	ADJ	_	0	compound:prt
+4	adoption	_	NOUN	NOUN	_	1	dobj
+5	in	_	ADP	ADP	_	4	compound
+6	Russia	_	PROPN	PROPN	_	7	nsubj
+7	following	_	VERB	VERB	_	4	acl
+8	the	_	DET	DET	_	10	det
+9	Soviet	_	PROPN	PROPN	_	10	compound
+10	Revolution	_	PROPN	PROPN	_	7	dobj
+11	in	_	ADP	ADP	_	7	compound:prt
+12	1917	_	NUM	NUM	_	10	nmod:npmod
+13	the	_	DET	DET	_	14	det
+14	holiday	_	NOUN	NOUN	_	22	nsubj
+15	was	_	VERB	VERB	_	22	cop
+16	predominantly	_	ADV	ADV	_	15	advmod
+17	celebrated	_	ADJ	ADJ	_	0	foreign
+18	in	_	ADP	ADP	_	15	compound:prt
+19	communist	_	ADJ	ADJ	_	0	punct
+20	and	_	CONJ	CONJ	_	7	cc
+21	socialist	_	ADJ	ADJ	_	0	conj
+22	countries	_	NOUN	NOUN	_	7	conj
+23	.	_	PUNCT	PUNCT	_	7	punct
+

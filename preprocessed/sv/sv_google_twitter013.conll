@@ -1,0 +1,8 @@
+1	Gimp	_	PROPN	PROPN	_	3	nmod:poss
+2	para	_	ADJ	ADJ	_	3	amod
+3	android	_	NOUN	NOUN	_	0	root
+4	.	_	PUNCT	PUNCT	_	3	punct
+5	Mola	_	NOUN	NOUN	_	3	appos
+6	.	_	PUNCT	PUNCT	_	5	punct
+7	https://t.co/POfK4zt7d1	_	NOUN	NOUN	_	5	conj
+

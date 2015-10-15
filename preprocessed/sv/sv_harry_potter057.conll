@@ -1,0 +1,15 @@
+1	Den	_	DET	DET	_	3	det
+2	första	_	ADJ	ADJ	_	3	det
+3	boken	_	NOUN	NOUN	_	4	nsubj
+4	har	_	VERB	VERB	_	0	root
+5	kommentarer	_	NOUN	NOUN	_	4	dobj
+6	i	_	ADP	ADP	_	7	case
+7	marginalerna	_	NOUN	NOUN	_	4	nmod
+8	av	_	ADP	ADP	_	9	case
+9	Harry	_	PROPN	PROPN	_	7	nmod
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	Ron	_	NOUN	NOUN	_	9	nmod
+12	och	_	CONJ	CONJ	_	11	cc
+13	Hermione	_	NOUN	NOUN	_	11	conj
+14	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,13 @@
+1	Angelina	_	ADJ	ADJ	_	2	amod
+2	Jolie	_	NOUN	NOUN	_	5	dobj
+3	en	_	DET	DET	_	4	det
+4	alguna	_	NOUN	NOUN	_	5	nmod
+5	revista	_	VERB	VERB	_	0	root
+6	agsdftejtrl	_	NOUN	NOUN	_	5	nsubj
+7	de	_	DET	DET	_	8	det
+8	Grecia	_	NOUN	NOUN	_	5	dobj
+9	.	_	PUNCT	PUNCT	_	5	punct
+10	#Flawless	_	NOUN	NOUN	_	11	nsubj
+11	<3	_	VERB	VERB	_	5	parataxis
+12	http://t.co/C5e9y5Vlmw	_	NOUN	NOUN	_	11	dobj
+

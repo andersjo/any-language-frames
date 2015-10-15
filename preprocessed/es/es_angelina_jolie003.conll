@@ -1,0 +1,15 @@
+1	Actualmente	_	ADV	ADV	_	2	advmod
+2	forma	_	VERB	VERB	_	0	root
+3	parte	_	NOUN	NOUN	_	2	dobj
+4	del	_	ADP	ADP	_	5	case
+5	Alto	_	PROPN	PROPN	_	3	nmod
+6	Comisario	_	NOUN	NOUN	_	3	nmod
+7	de	_	ADP	ADP	_	9	case
+8	las	_	DET	DET	_	9	det
+9	Naciones	_	PROPN	PROPN	_	6	nmod
+10	Unidas	_	PROPN	PROPN	_	9	amod
+11	para	_	ADP	ADP	_	13	case
+12	los	_	DET	DET	_	13	det
+13	Refugiados	_	NOUN	NOUN	_	6	nmod
+14	.	_	PUNCT	PUNCT	_	2	punct
+

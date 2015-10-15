@@ -1,0 +1,16 @@
+1	#BettyWhite	_	NOUN	NOUN	_	2	name
+2	#eBay	_	PROPN	PROPN	_	3	nsubj
+3	Vintage	_	VERB	VERB	_	0	root
+4	Betty	_	PROPN	PROPN	_	6	nmod:poss
+5	Lytle	_	ADJ	ADJ	_	6	amod
+6	Hyde	_	NOUN	NOUN	_	7	nmod:poss
+7	white	_	NOUN	NOUN	_	3	dobj
+8	leather	_	NOUN	NOUN	_	3	dobj
+9	Roller	_	PROPN	PROPN	_	8	appos
+10	Skates	_	VERB	VERB	_	3	dep
+11	…	_	NOUN	NOUN	_	13	nmod:poss
+12	http://t.co/mDwMFFM4vG	_	ADJ	ADJ	_	13	amod
+13	#Trending	_	NOUN	NOUN	_	14	nmod:poss
+14	#Google	_	NOUN	NOUN	_	10	dobj
+15	http://t.co/L30pBrGwAe	_	PROPN	PROPN	_	14	appos
+

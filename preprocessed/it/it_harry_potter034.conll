@@ -1,0 +1,27 @@
+1	Secondo	_	ADP	ADP	_	3	case
+2	una	_	DET	DET	_	3	det
+3	nota	_	NOUN	NOUN	_	23	nmod
+4	a	_	ADP	ADP	_	5	case
+5	margine	_	NOUN	NOUN	_	3	nmod
+6	del	_	ADP	ADP	_	7	case
+7	libro	_	NOUN	NOUN	_	5	nmod
+8	""	_	PROPN	PROPN	_	7	nmod
+9	(	_	PUNCT	PUNCT	_	10	punct
+10	pseudobiblium	_	PROPN	PROPN	_	23	nsubj
+11	di	_	ADP	ADP	_	12	case
+12	J	_	PROPN	PROPN	_	10	nmod
+13	.	_	PUNCT	PUNCT	_	10	punct
+14	K	_	PROPN	PROPN	_	12	nmod
+15	.	_	PUNCT	PUNCT	_	14	punct
+16	Rowling	_	PROPN	PROPN	_	14	nmod
+17	)	_	PUNCT	PUNCT	_	16	punct
+18	il	_	DET	DET	_	19	det
+19	castello	_	NOUN	NOUN	_	23	nsubj
+20	di	_	ADP	ADP	_	21	case
+21	Hogwarts	_	PROPN	PROPN	_	19	nmod
+22	si	_	PRON	PRON	_	23	expl
+23	trova	_	VERB	VERB	_	0	root
+24	in	_	ADP	ADP	_	25	case
+25	Scozia	_	PROPN	PROPN	_	23	nmod
+26	.	_	PUNCT	PUNCT	_	23	punct
+

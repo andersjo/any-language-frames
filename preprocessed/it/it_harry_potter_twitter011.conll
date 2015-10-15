@@ -1,0 +1,27 @@
+1	@InAnselsArms	_	NOUN	NOUN	_	20	nsubj
+2	-fazioni	_	NOUN	NOUN	_	1	compound
+3	in	_	ADP	ADP	_	4	case
+4	base	_	NOUN	NOUN	_	1	nmod
+5	al	_	ADP	ADP	_	6	case
+6	carattere	_	NOUN	NOUN	_	4	nmod
+7	,	_	PUNCT	PUNCT	_	1	punct
+8	4	_	NUM	NUM	_	9	nummod
+9	case	_	NOUN	NOUN	_	6	nmod
+10	in	_	ADP	ADP	_	11	case
+11	base	_	NOUN	NOUN	_	9	nmod
+12	alla	_	ADP	ADP	_	13	case
+13	personalità	_	NOUN	NOUN	_	11	nmod
+14	come	_	ADV	ADV	_	16	advmod
+15	in	_	ADP	ADP	_	16	case
+16	Harry	_	PROPN	PROPN	_	13	nmod
+17	Potter	_	PROPN	PROPN	_	16	name
+18	.	_	PUNCT	PUNCT	_	9	punct
+19	Non	_	ADV	ADV	_	20	neg
+20	metto	_	VERB	VERB	_	0	root
+21	in	_	ADP	ADP	_	22	case
+22	dubbio	_	NOUN	NOUN	_	20	nmod
+23	che	_	PRON	PRON	_	24	nsubj
+24	sia	_	VERB	VERB	_	22	acl:relcl
+25	un	_	DET	DET	_	26	det
+26	bel-	_	NOUN	NOUN	_	24	dobj
+

@@ -1,0 +1,23 @@
+1	Cómo	_	ADV	ADV	_	3	advmod
+2	es	_	VERB	VERB	_	3	cop
+3	posible	_	ADJ	ADJ	_	0	root
+4	que	_	SCONJ	SCONJ	_	15	mark
+5	@google	_	PROPN	PROPN	_	7	nsubj
+6	siendo	_	VERB	VERB	_	7	cop
+7	una	_	PRON	PRON	_	4	acl
+8	de	_	ADP	ADP	_	10	case
+9	las	_	DET	DET	_	10	det
+10	empresas	_	NOUN	NOUN	_	7	nmod
+11	más	_	ADV	ADV	_	12	advmod
+12	creativas	_	ADJ	ADJ	_	10	amod
+13	del	_	ADP	ADP	_	14	case
+14	mundo	_	NOUN	NOUN	_	12	nmod
+15	haga	_	VERB	VERB	_	3	csubj
+16	videos	_	NOUN	NOUN	_	15	dobj
+17	tan	_	ADV	ADV	_	18	advmod
+18	monótonos	_	ADJ	ADJ	_	16	amod
+19	y	_	CONJ	CONJ	_	18	cc
+20	aburridos	_	ADJ	ADJ	_	18	conj
+21	para	_	ADP	ADP	_	22	case
+22	#GoogleAnalytics	_	PROPN	PROPN	_	16	nmod
+

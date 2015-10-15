@@ -1,0 +1,11 @@
+1	"	_	PUNCT	PUNCT	_	6	punct
+2	global	_	ADJ	ADJ	_	0	punct
+3	warming	_	NOUN	NOUN	_	6	nsubj
+4	is	_	VERB	VERB	_	6	cop
+5	a	_	DET	DET	_	6	det
+6	myth	_	NOUN	NOUN	_	0	root
+7	"	_	PUNCT	PUNCT	_	6	punct
+8	lol	_	INTJ	INTJ	_	10	discourse
+9	and	_	CONJ	CONJ	_	8	cc
+10	unfollowed	_	VERB	VERB	_	4	conj
+

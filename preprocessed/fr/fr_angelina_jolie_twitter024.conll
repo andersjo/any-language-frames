@@ -1,0 +1,13 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	3	nsubj
+3	délivre	_	VERB	VERB	_	0	root
+4	un	_	DET	DET	_	5	det
+5	message	_	NOUN	NOUN	_	3	dobj
+6	d’espoir	_	VERB	VERB	_	5	acl
+7	malgré	_	ADP	ADP	_	9	case
+8	ses	_	DET	DET	_	9	nmod:poss
+9	peurs	_	NOUN	NOUN	_	6	nmod
+10	http://t.co/yZj95Iu0i8	_	PROPN	PROPN	_	12	name
+11	#people	_	PROPN	PROPN	_	12	name
+12	#AngelinaJolie	_	PROPN	PROPN	_	9	appos
+

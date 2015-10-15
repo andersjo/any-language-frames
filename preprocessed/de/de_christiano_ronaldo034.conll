@@ -1,0 +1,19 @@
+1	September	_	PROPN	PROPN	_	7	dep
+2	2002	_	NUM	NUM	_	1	nmod
+3	gegen	_	ADP	ADP	_	5	case
+4	Sporting	_	PROPN	PROPN	_	5	name
+5	Braga	_	PROPN	PROPN	_	1	nmod
+6	und	_	CONJ	CONJ	_	2	cc
+7	schoss	_	VERB	VERB	_	0	root
+8	bereits	_	ADV	ADV	_	7	advmod
+9	bei	_	ADP	ADP	_	12	case
+10	seinem	_	DET	DET	_	12	nmod:poss
+11	zweiten	_	ADJ	ADJ	_	12	amod
+12	Spiel	_	NOUN	NOUN	_	7	nmod
+13	für	_	ADP	ADP	_	15	case
+14	die	_	DET	DET	_	15	det
+15	A-Mannschaft	_	NOUN	NOUN	_	12	nmod
+16	am	_	ADP	ADP	_	7	case
+17	7	_	NUM	NUM	_	16	dep
+18	.	_	PUNCT	PUNCT	_	17	punct
+

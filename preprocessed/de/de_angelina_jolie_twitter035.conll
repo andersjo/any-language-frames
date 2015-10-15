@@ -1,0 +1,22 @@
+1	Wie	_	ADP	ADP	_	2	case
+2	desillusionierend	_	PROPN	PROPN	_	5	nmod
+3	muss	_	AUX	AUX	_	5	aux
+4	es	_	PRON	PRON	_	5	expl
+5	sein	_	VERB	VERB	_	0	root
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	man	_	PRON	PRON	_	16	nsubj
+8	ist	_	VERB	VERB	_	13	cop
+9	mit	_	ADP	ADP	_	11	case
+10	Angelina	_	PROPN	PROPN	_	11	name
+11	Jolie	_	PROPN	PROPN	_	2	nsubjpass
+12	im	_	ADP	ADP	_	13	case
+13	Bett	_	NOUN	NOUN	_	11	nmod
+14	und	_	CONJ	CONJ	_	13	cc
+15	sie	_	PRON	PRON	_	16	nsubj
+16	lässt	_	VERB	VERB	_	13	conj
+17	dann	_	ADV	ADV	_	16	advmod
+18	einen	_	PRON	PRON	_	16	dobj
+19	fahren	_	VERB	VERB	_	16	xcomp
+20	#nurmalso	_	PROPN	PROPN	_	21	name
+21	http://t.co/MY9B8jD19d	_	PROPN	PROPN	_	19	nsubj
+

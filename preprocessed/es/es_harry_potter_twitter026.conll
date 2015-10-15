@@ -1,0 +1,11 @@
+1	Jajajaja	_	PROPN	PROPN	_	6	nsubj
+2	ni	_	CONJ	CONJ	_	3	mwe
+3	que	_	SCONJ	SCONJ	_	5	mark
+4	yo	_	PRON	PRON	_	5	nsubj
+5	fuera	_	VERB	VERB	_	6	cop
+6	adicta	_	NOUN	NOUN	_	0	root
+7	a	_	ADP	ADP	_	9	case
+8	Harry	_	PROPN	PROPN	_	9	name
+9	Potter	_	PROPN	PROPN	_	6	nmod
+10	.	_	PUNCT	PUNCT	_	6	punct
+

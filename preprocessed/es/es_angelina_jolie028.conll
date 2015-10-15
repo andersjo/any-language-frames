@@ -1,0 +1,22 @@
+1	Jolie	_	PROPN	PROPN	_	2	nsubj
+2	tiene	_	VERB	VERB	_	0	root
+3	Ascendencia	_	NOUN	NOUN	_	2	dobj
+4	alemana	_	ADJ	ADJ	_	3	amod
+5	y	_	CONJ	CONJ	_	4	cc
+6	checoslovaca	_	ADJ	ADJ	_	4	conj
+7	,	_	PUNCT	PUNCT	_	2	punct
+8	y	_	CONJ	CONJ	_	2	cc
+9	su	_	DET	DET	_	10	nmod:poss
+10	madre	_	NOUN	NOUN	_	11	nsubj
+11	era	_	VERB	VERB	_	2	conj
+12	de	_	ADP	ADP	_	13	case
+13	ascendencia	_	NOUN	NOUN	_	11	nmod
+14	franco-canadiense	_	ADJ	ADJ	_	13	amod
+15	,	_	PUNCT	PUNCT	_	16	punct
+16	nacida	_	VERB	VERB	_	13	acl
+17	en	_	ADP	ADP	_	18	case
+18	Riverdale	_	PROPN	PROPN	_	16	nmod
+19	,	_	PUNCT	PUNCT	_	18	punct
+20	Illinois	_	PROPN	PROPN	_	18	appos
+21	.	_	PUNCT	PUNCT	_	2	punct
+

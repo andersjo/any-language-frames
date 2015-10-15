@@ -1,0 +1,24 @@
+1	iGoogle	_	PROPN	PROPN	_	2	nsubj
+2	е	_	VERB	VERB	_	0	root
+3	услуга	_	NOUN	NOUN	_	2	cop
+4	на	_	ADP	ADP	_	5	case
+5	Google	_	PROPN	PROPN	_	3	nmod
+6	,	_	PUNCT	PUNCT	_	8	punct
+7	която	_	PRON	PRON	_	8	nsubj
+8	представлява	_	VERB	VERB	_	3	acl
+9	Ajax-базирана	_	NOUN	NOUN	_	8	dobj
+10	персонализирана	_	VERB	VERB	_	8	ccomp
+11	начална	_	ADJ	ADJ	_	12	amod
+12	страница	_	NOUN	NOUN	_	10	dobj
+13	,	_	PUNCT	PUNCT	_	15	punct
+14	която	_	PRON	PRON	_	18	nsubjpass
+15	може	_	VERB	VERB	_	12	acl
+16	да	_	PART	PART	_	18	aux
+17	бъде	_	AUX	AUX	_	18	aux
+18	настройвана	_	VERB	VERB	_	15	ccomp
+19	по	_	ADP	ADP	_	20	case
+20	желание	_	NOUN	NOUN	_	18	nmod
+21	на	_	ADP	ADP	_	22	case
+22	потребителя	_	NOUN	NOUN	_	20	nmod
+23	.	_	PUNCT	PUNCT	_	2	punct
+

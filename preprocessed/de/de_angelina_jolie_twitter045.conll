@@ -1,0 +1,15 @@
+1	Set	_	PROPN	PROPN	_	2	name
+2	de	_	PROPN	PROPN	_	3	nsubj
+3	fotos	_	NOUN	NOUN	_	0	root
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	thotfox	_	PROPN	PROPN	_	3	appos
+6	:	_	PUNCT	PUNCT	_	5	punct
+7	Angelina	_	PROPN	PROPN	_	8	name
+8	Jolie	_	PROPN	PROPN	_	5	appos
+9	in	_	ADP	ADP	_	11	case
+10	Girl	_	PROPN	PROPN	_	11	name
+11	Interrupted	_	PROPN	PROPN	_	8	nmod
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	1999	_	PROPN	PROPN	_	14	name
+14	http://t.co/T5bbFu8cd8	_	PROPN	PROPN	_	11	conj
+

@@ -1,0 +1,23 @@
+1	Πάμε	_	VERB	VERB	_	0	root
+2	πάλι	_	ADV	ADV	_	1	advmod
+3	το	_	ADJ	ADJ	_	4	det
+4	θέμα	_	NOUN	NOUN	_	1	dobj
+5	με	_	ADP	ADP	_	7	case
+6	την	_	ADJ	ADJ	_	7	det
+7	αγωγή	_	NOUN	NOUN	_	4	nmod
+8	του	_	ADJ	ADJ	_	9	det
+9	Δον	_	NOUN	NOUN	_	7	nmod
+10	Βαρδινογιάννη	_	NOUN	NOUN	_	9	nmod
+11	κατά	_	ADP	ADP	_	14	case
+12	του	_	ADJ	ADJ	_	13	det
+13	JUNGLE-Report	_	NOUN	NOUN	_	10	nmod
+14	και	_	CONJ	CONJ	_	13	cc
+15	της	_	ADJ	ADJ	_	16	det
+16	Google	_	NOUN	NOUN	_	13	conj
+17	το	_	ADJ	ADJ	_	18	det
+18	2012	_	NOUN	NOUN	_	16	nmod
+19	που	_	PRON	PRON	_	20	nsubj
+20	έχει	_	VERB	VERB	_	18	acl:relcl
+21	...	_	NOUN	NOUN	_	20	dobj
+22	http://t.co/zyvC9ignIs	_	NOUN	NOUN	_	21	nmod
+

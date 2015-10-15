@@ -1,0 +1,8 @@
+1	@findi_mue	_	PROPN	PROPN	_	3	name
+2	Global	_	PROPN	PROPN	_	3	name
+3	warming	_	PROPN	PROPN	_	0	root
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	flobal	_	PROPN	PROPN	_	6	name
+6	schwarming	_	PROPN	PROPN	_	3	conj
+7	!	_	PUNCT	PUNCT	_	6	punct
+

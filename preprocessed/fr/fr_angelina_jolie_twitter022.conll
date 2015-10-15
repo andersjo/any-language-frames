@@ -1,0 +1,23 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	4	nsubj
+3	elle	_	PRON	PRON	_	4	nsubj
+4	surpasse	_	VERB	VERB	_	0	root
+5	tout	_	ADV	ADV	_	4	advmod
+6	.	_	PUNCT	PUNCT	_	9	punct
+7	Kardashian	_	PROPN	PROPN	_	9	name
+8	Cara	_	PROPN	PROPN	_	9	name
+9	machin	_	PROPN	PROPN	_	4	dobj
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	TOUT	_	DET	DET	_	13	det
+12	.	_	PUNCT	PUNCT	_	13	punct
+13	c'est	_	PROPN	PROPN	_	7	conj
+14	la	_	DET	DET	_	17	det
+15	plus	_	ADV	ADV	_	16	advmod
+16	belle	_	ADJ	ADJ	_	17	amod
+17	femme	_	NOUN	NOUN	_	9	appos
+18	dans	_	ADP	ADP	_	20	case
+19	ce	_	DET	DET	_	20	det
+20	monde	_	NOUN	NOUN	_	17	nmod
+21	.	_	PUNCT	PUNCT	_	17	punct
+22	http://t.co/xm0KSZSPFl	_	PROPN	PROPN	_	20	appos
+

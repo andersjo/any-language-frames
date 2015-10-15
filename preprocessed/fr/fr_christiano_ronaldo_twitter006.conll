@@ -1,0 +1,17 @@
+1	Le	_	DET	DET	_	2	det
+2	camouflet	_	NOUN	NOUN	_	3	nsubj
+3	infligé	_	VERB	VERB	_	0	root
+4	à	_	ADP	ADP	_	5	case
+5	Platini	_	PROPN	PROPN	_	3	nmod
+6	par	_	ADP	ADP	_	3	case
+7	Christiano	_	PROPN	PROPN	_	8	name
+8	Ronaldo	_	PROPN	PROPN	_	6	case
+9	,	_	PUNCT	PUNCT	_	3	punct
+10	à	_	ADP	ADP	_	12	case
+11	2	_	NUM	NUM	_	12	nummod
+12	reprises	_	NOUN	NOUN	_	3	nmod
+13	en	_	ADP	ADP	_	14	case
+14	2014	_	NUM	NUM	_	3	nmod
+15	!	_	PUNCT	PUNCT	_	8	punct
+16	https://t.co/Smf9J8CSWK	_	PROPN	PROPN	_	12	appos
+

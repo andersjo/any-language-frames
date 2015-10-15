@@ -1,0 +1,12 @@
+1	Harry	_	PROPN	PROPN	_	3	name
+2	Potter	_	PROPN	PROPN	_	3	name
+3	c'est	_	PROPN	PROPN	_	7	name
+4	vraiment	_	ADV	ADV	_	6	advmod
+5	mon	_	DET	DET	_	6	nmod:poss
+6	film	_	NOUN	NOUN	_	7	compound
+7	saga	_	NOUN	NOUN	_	8	nsubj
+8	préférer	_	VERB	VERB	_	9	cop
+9	putain	_	ADJ	ADJ	_	10	amod
+10	c'est	_	NOUN	NOUN	_	0	root
+11	parfait	_	ADJ	ADJ	_	10	amod
+

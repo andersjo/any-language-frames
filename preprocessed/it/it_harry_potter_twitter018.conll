@@ -1,0 +1,25 @@
+1	@appharel	_	PROPN	PROPN	_	2	nsubj
+2	sto	_	VERB	VERB	_	0	root
+3	per	_	ADP	ADP	_	4	mark
+4	iniziare	_	VERB	VERB	_	2	advcl
+5	a	_	ADP	ADP	_	6	mark
+6	rileggere	_	VERB	VERB	_	4	xcomp
+7	'	_	PUNCT	PUNCT	_	8	punct
+8	harry	_	PROPN	PROPN	_	6	dobj
+9	potter	_	PROPN	PROPN	_	8	name
+10	e	_	CONJ	CONJ	_	8	cc
+11	la	_	DET	DET	_	12	det
+12	camera	_	NOUN	NOUN	_	8	conj
+13	dei	_	ADP	ADP	_	14	case
+14	segreti	_	NOUN	NOUN	_	12	nmod
+15	'	_	PUNCT	PUNCT	_	8	punct
+16	sono	_	VERB	VERB	_	4	conj
+17	in	_	ADP	ADP	_	18	case
+18	astinenza	_	NOUN	NOUN	_	16	nmod
+19	da	_	ADP	ADP	_	20	case
+20	hp	_	NOUN	NOUN	_	18	nmod
+21	a	_	ADP	ADP	_	22	case
+22	quanto	_	PRON	PRON	_	23	nmod
+23	vedi	_	VERB	VERB	_	20	acl:relcl
+24	.	_	PUNCT	PUNCT	_	2	punct
+

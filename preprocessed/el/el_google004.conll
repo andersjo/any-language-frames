@@ -1,0 +1,15 @@
+1	Στις	_	ADP	ADP	_	3	case
+2	19	_	NUM	NUM	_	3	nmod
+3	Αυγούστου	_	NOUN	NOUN	_	6	nmod
+4	του	_	ADJ	ADJ	_	5	det
+5	2004	_	NOUN	NOUN	_	3	nmod
+6	έγινε	_	VERB	VERB	_	0	root
+7	η	_	ADJ	ADJ	_	9	det
+8	δημόσια	_	ADJ	ADJ	_	9	amod
+9	εγγραφή	_	NOUN	NOUN	_	6	nsubj
+10	της	_	ADJ	ADJ	_	11	det
+11	εταιρίας	_	NOUN	NOUN	_	9	nmod
+12	στο	_	ADP	ADP	_	13	case
+13	χρηματιστήριο	_	NOUN	NOUN	_	9	nmod
+14	.	_	PUNCT	PUNCT	_	6	punct
+

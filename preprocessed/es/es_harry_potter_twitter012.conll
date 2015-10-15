@@ -1,0 +1,24 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	@classland	_	PROPN	PROPN	_	10	nsubj
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Qué	_	DET	DET	_	5	det
+5	Disney	_	PROPN	PROPN	_	10	nsubj
+6	ni	_	CONJ	CONJ	_	5	cc
+7	Disney	_	PROPN	PROPN	_	5	conj
+8	...	_	PUNCT	PUNCT	_	5	punct
+9	Yo	_	PRON	PRON	_	10	nsubj
+10	quiero	_	VERB	VERB	_	0	root
+11	ir	_	VERB	VERB	_	10	xcomp
+12	al	_	ADP	ADP	_	13	case
+13	parque	_	NOUN	NOUN	_	11	nmod
+14	temático	_	ADJ	ADJ	_	13	amod
+15	de	_	ADP	ADP	_	17	case
+16	Harry	_	PROPN	PROPN	_	17	name
+17	Potter	_	PROPN	PROPN	_	13	nmod
+18	que	_	SCONJ	SCONJ	_	19	mark
+19	hay	_	VERB	VERB	_	13	acl:relcl
+20	en	_	ADP	ADP	_	21	case
+21	Orlando	_	PROPN	PROPN	_	19	nmod
+22	.	_	PUNCT	PUNCT	_	10	punct
+23	"	_	PUNCT	PUNCT	_	10	punct
+

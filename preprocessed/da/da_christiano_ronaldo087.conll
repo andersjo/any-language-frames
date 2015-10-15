@@ -1,0 +1,22 @@
+1	Han	_	PRON	PRON	_	2	nsubj
+2	scorede	_	VERB	VERB	_	0	root
+3	i	_	ADP	ADP	_	7	case
+4	sine	_	DET	DET	_	7	det
+5	fire	_	NUM	NUM	_	7	nummod
+6	første	_	ADJ	ADJ	_	7	amod
+7	kampe	_	NOUN	NOUN	_	2	nmod
+8	for	_	ADP	ADP	_	10	case
+9	Real	_	NOUN	NOUN	_	10	nmod:poss
+10	Madrid	_	NOUN	NOUN	_	7	nmod
+11	i	_	ADP	ADP	_	12	case
+12	La	_	NOUN	NOUN	_	10	nmod
+13	Liga	_	PROPN	PROPN	_	12	appos
+14	,	_	PUNCT	PUNCT	_	20	punct
+15	hvilket	_	PRON	PRON	_	13	appos
+16	ingen	_	PRON	PRON	_	20	nsubj
+17	før	_	ADP	ADP	_	18	case
+18	ham	_	PRON	PRON	_	16	nmod
+19	havde	_	AUX	AUX	_	20	aux
+20	gjort	_	VERB	VERB	_	15	acl:relcl
+21	.	_	PUNCT	PUNCT	_	2	punct
+

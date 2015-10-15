@@ -1,0 +1,9 @@
+1	http://t.co/JaiPZFr991	_	ADJ	ADJ	_	2	amod
+2	Harry	_	NOUN	NOUN	_	3	nmod:poss
+3	Potter	_	NOUN	NOUN	_	0	root
+4	in	_	X	X	_	3	appos
+5	Michigan	_	PROPN	PROPN	_	4	name
+6	for	_	ADP	ADP	_	7	case
+7	NYE	_	ADJ	ADJ	_	4	amod
+8	.	_	PUNCT	PUNCT	_	2	punct
+

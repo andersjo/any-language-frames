@@ -1,0 +1,10 @@
+1	Печели	_	PROPN	PROPN	_	3	nsubj
+2	Златната	_	PROPN	PROPN	_	1	nmod
+3	обувка	_	VERB	VERB	_	0	root
+4	за	_	ADP	ADP	_	5	case
+5	сезон	_	NOUN	NOUN	_	3	iobj
+6	2010	_	NUM	NUM	_	5	nummod
+7	-	_	PUNCT	PUNCT	_	8	punct
+8	2011	_	ADJ	ADJ	_	6	conj
+9	.	_	PUNCT	PUNCT	_	3	punct
+

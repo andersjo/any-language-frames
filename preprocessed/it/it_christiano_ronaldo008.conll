@@ -1,0 +1,18 @@
+1	Il	_	DET	DET	_	3	det
+2	"	_	PUNCT	PUNCT	_	3	punct
+3	Sun	_	PROPN	PROPN	_	9	nsubj
+4	"	_	PUNCT	PUNCT	_	3	punct
+5	nel	_	ADP	ADP	_	6	case
+6	2009	_	NUM	NUM	_	9	nummod
+7	lo	_	PRON	PRON	_	9	dobj
+8	ha	_	AUX	AUX	_	9	aux
+9	insignito	_	VERB	VERB	_	0	root
+10	nella	_	ADP	ADP	_	12	case
+11	"	_	PUNCT	PUNCT	_	12	punct
+12	Squadra	_	PROPN	PROPN	_	9	nmod
+13	ideale	_	ADJ	ADJ	_	12	amod
+14	del	_	ADP	ADP	_	15	case
+15	decennio	_	NOUN	NOUN	_	12	nmod
+16	"	_	PUNCT	PUNCT	_	12	punct
+17	.	_	PUNCT	PUNCT	_	9	punct
+

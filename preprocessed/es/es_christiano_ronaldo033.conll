@@ -1,0 +1,14 @@
+1	Fue	_	AUX	AUX	_	2	auxpass
+2	observado	_	VERB	VERB	_	0	root
+3	por	_	ADP	ADP	_	5	case
+4	primera	_	NUM	NUM	_	5	nummod
+5	vez	_	NOUN	NOUN	_	2	nmod
+6	por	_	ADP	ADP	_	8	case
+7	Gérard	_	PROPN	PROPN	_	8	name
+8	Houllier	_	PROPN	PROPN	_	2	nmod
+9	el	_	DET	DET	_	10	det
+10	gerente	_	NOUN	NOUN	_	2	nmod
+11	del	_	ADP	ADP	_	12	case
+12	Liverpool	_	PROPN	PROPN	_	10	nmod
+13	F.C.	_	X	X	_	12	appos
+

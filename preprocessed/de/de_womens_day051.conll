@@ -1,0 +1,10 @@
+1	Im	_	ADP	ADP	_	2	case
+2	Zuge	_	NOUN	NOUN	_	7	nmod
+3	des	_	DET	DET	_	5	det
+4	Kalten	_	PROPN	PROPN	_	5	amod
+5	Krieges	_	PROPN	PROPN	_	2	det
+6	wurden	_	AUX	AUX	_	7	auxpass
+7	sozialistische	_	ADJ	ADJ	_	0	root
+8	bzw	_	CONJ	CONJ	_	7	cc
+9	.	_	PUNCT	PUNCT	_	8	punct
+

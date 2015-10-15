@@ -1,0 +1,19 @@
+1	Éstos	_	PRON	PRON	_	2	nsubj
+2	son	_	VERB	VERB	_	4	cop
+3	su	_	DET	DET	_	4	nmod:poss
+4	tío	_	NOUN	NOUN	_	0	root
+5	Vernon	_	PROPN	PROPN	_	4	appos
+6	,	_	PUNCT	PUNCT	_	4	punct
+7	su	_	DET	DET	_	8	nmod:poss
+8	tía	_	NOUN	NOUN	_	4	conj
+9	Petunia	_	PROPN	PROPN	_	8	appos
+10	y	_	CONJ	CONJ	_	9	cc
+11	Dudley	_	PROPN	PROPN	_	9	conj
+12	,	_	PUNCT	PUNCT	_	4	punct
+13	su	_	DET	DET	_	14	nmod:poss
+14	primo	_	NOUN	NOUN	_	8	conj
+15	obeso	_	ADJ	ADJ	_	14	amod
+16	y	_	CONJ	CONJ	_	15	cc
+17	malcriado	_	ADJ	ADJ	_	15	conj
+18	.	_	PUNCT	PUNCT	_	14	punct
+

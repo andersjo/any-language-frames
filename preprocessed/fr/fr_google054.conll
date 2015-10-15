@@ -1,0 +1,17 @@
+1	Le	_	DET	DET	_	2	det
+2	journal	_	NOUN	NOUN	_	8	nsubj
+3	français	_	ADJ	ADJ	_	2	amod
+4	"	_	PUNCT	PUNCT	_	6	punct
+5	Le	_	DET	DET	_	6	det
+6	Monde	_	PROPN	PROPN	_	2	appos
+7	"	_	PUNCT	PUNCT	_	6	punct
+8	écrit	_	VERB	VERB	_	0	root
+9	ainsi	_	ADV	ADV	_	8	advmod
+10	que	_	SCONJ	SCONJ	_	9	mwe
+11	le	_	DET	DET	_	12	det
+12	choix	_	NOUN	NOUN	_	8	dobj
+13	technologique	_	ADJ	ADJ	_	12	amod
+14	de	_	ADP	ADP	_	15	case
+15	Google	_	PROPN	PROPN	_	12	nmod
+16	.	_	PUNCT	PUNCT	_	8	punct
+

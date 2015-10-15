@@ -1,0 +1,20 @@
+1	Me	_	PRON	PRON	_	2	iobj
+2	vi	_	VERB	VERB	_	0	root
+3	la	_	DET	DET	_	5	det
+4	bella	_	ADJ	ADJ	_	5	amod
+5	durmiente	_	NOUN	NOUN	_	2	dobj
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	hannah	_	PROPN	PROPN	_	8	name
+8	montana	_	PROPN	PROPN	_	5	appos
+9	la	_	DET	DET	_	10	det
+10	película	_	NOUN	NOUN	_	8	appos
+11	y	_	CONJ	CONJ	_	2	cc
+12	ahora	_	ADV	ADV	_	14	advmod
+13	harry	_	PROPN	PROPN	_	14	name
+14	potter	_	PROPN	PROPN	_	10	appos
+15	.	_	PUNCT	PUNCT	_	2	punct
+16	Que	_	CONJ	CONJ	_	18	case
+17	buena	_	ADJ	ADJ	_	18	amod
+18	noche	_	NOUN	NOUN	_	10	conj
+19	😎👌	_	X	X	_	18	dep
+

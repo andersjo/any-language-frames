@@ -1,0 +1,13 @@
+1	Four	_	NOUN	NOUN	_	2	nsubj
+2	Ψηφίστε	_	VERB	VERB	_	0	root
+3	την	_	ADJ	ADJ	_	4	det
+4	@Demy_Official	_	NOUN	NOUN	_	2	dobj
+5	για	_	ADP	ADP	_	7	case
+6	την	_	ADJ	ADJ	_	7	det
+7	eurovision	_	NOUN	NOUN	_	4	nmod
+8	!!	_	PUNCT	PUNCT	_	10	punct
+9	https://t.co/GS61iO1Hhw	_	NOUN	NOUN	_	10	nmod
+10	#Demy	_	NOUN	NOUN	_	7	appos
+11	#eurovisiongr	_	NOUN	NOUN	_	10	nmod
+12	#panickrecords	_	NOUN	NOUN	_	11	nmod
+

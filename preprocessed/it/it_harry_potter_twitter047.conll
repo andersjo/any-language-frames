@@ -1,0 +1,9 @@
+1	Il	_	DET	DET	_	2	det
+2	ciclo	_	NOUN	NOUN	_	0	root
+3	dell'eroe	_	ADJ	ADJ	_	2	amod
+4	.	_	PUNCT	PUNCT	_	2	punct
+5	Perché	_	ADV	ADV	_	8	advmod
+6	in	_	ADP	ADP	_	8	case
+7	...	_	PUNCT	PUNCT	_	8	punct
+8	http://t.co/RvKxdz5u10	_	NOUN	NOUN	_	2	conj
+

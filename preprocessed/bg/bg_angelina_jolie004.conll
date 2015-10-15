@@ -1,0 +1,19 @@
+1	Носител	_	NOUN	NOUN	_	0	root
+2	на	_	ADP	ADP	_	3	case
+3	Оскар	_	PROPN	PROPN	_	1	nmod
+4	за	_	ADP	ADP	_	5	case
+5	филма	_	NOUN	NOUN	_	1	nmod
+6	"	_	PUNCT	PUNCT	_	8	punct
+7	Луди	_	ADJ	ADJ	_	8	amod
+8	години	_	NOUN	NOUN	_	5	nmod
+9	"	_	PUNCT	PUNCT	_	8	punct
+10	,	_	PUNCT	PUNCT	_	1	punct
+11	на	_	ADP	ADP	_	14	case
+12	три	_	NUM	NUM	_	14	nummod
+13	Златни	_	ADJ	ADJ	_	14	amod
+14	глобуса	_	NOUN	NOUN	_	5	conj
+15	и	_	CONJ	CONJ	_	14	cc
+16	други	_	ADJ	ADJ	_	17	amod
+17	призове	_	NOUN	NOUN	_	14	conj
+18	.	_	PUNCT	PUNCT	_	8	punct
+

@@ -1,0 +1,15 @@
+1	Sin	_	ADP	ADP	_	2	case
+2	paga	_	NOUN	NOUN	_	5	nmod
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	mujeres	_	NOUN	NOUN	_	5	nsubj
+5	contribuyen	_	VERB	VERB	_	0	root
+6	al	_	ADP	ADP	_	7	case
+7	aumento	_	NOUN	NOUN	_	5	nmod
+8	del	_	ADP	ADP	_	9	case
+9	PIB	_	PROPN	PROPN	_	7	nmod
+10	:	_	PUNCT	PUNCT	_	9	punct
+11	Inegi	_	PROPN	PROPN	_	9	appos
+12	-	_	PUNCT	PUNCT	_	11	punct
+13	http://t.co/sIzSTahEEo	_	PROPN	PROPN	_	14	name
+14	http://t.co/QMHVbfg6kq	_	PROPN	PROPN	_	11	appos
+

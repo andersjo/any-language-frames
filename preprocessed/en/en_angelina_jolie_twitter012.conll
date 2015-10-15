@@ -1,0 +1,27 @@
+1	"	_	PUNCT	PUNCT	_	21	punct
+2	It's	_	PRON	PRON	_	6	nmod:poss
+3	better	_	ADV	ADV	_	5	advmod
+4	to	_	PART	PART	_	5	mark
+5	have	_	VERB	VERB	_	0	root
+6	nobody	_	NOUN	NOUN	_	5	dobj
+7	,	_	PUNCT	PUNCT	_	5	punct
+8	than	_	SCONJ	SCONJ	_	10	mark
+9	to	_	PART	PART	_	10	mark
+10	have	_	VERB	VERB	_	5	xcomp
+11	someone	_	NOUN	NOUN	_	10	dobj
+12	whose	_	PRON	PRON	_	13	nmod:poss
+13	half	_	NOUN	NOUN	_	10	dobj
+14	there	_	ADV	ADV	_	10	advmod
+15	,	_	PUNCT	PUNCT	_	10	punct
+16	or	_	CONJ	CONJ	_	11	cc
+17	doesn't	_	NOUN	NOUN	_	18	nsubj
+18	want	_	VERB	VERB	_	11	acl:relcl
+19	to	_	PART	PART	_	21	mark
+20	be	_	VERB	VERB	_	21	cop
+21	there	_	ADV	ADV	_	18	xcomp
+22	.	_	PUNCT	PUNCT	_	5	punct
+23	"	_	PUNCT	PUNCT	_	26	punct
+24	-	_	PUNCT	PUNCT	_	26	punct
+25	Angelina	_	PROPN	PROPN	_	26	compound
+26	Jolie	_	PROPN	PROPN	_	18	parataxis
+

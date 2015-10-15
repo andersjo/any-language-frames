@@ -1,0 +1,22 @@
+1	Qué	_	PRON	PRON	_	4	nsubj
+2	también	_	ADV	ADV	_	4	advmod
+3	estarán	_	AUX	AUX	_	4	aux
+4	cooperando	_	VERB	VERB	_	0	root
+5	al	_	ADP	ADP	_	6	case
+6	cambio	_	NOUN	NOUN	_	4	nmod
+7	verdadero	_	ADJ	ADJ	_	6	amod
+8	que	_	SCONJ	SCONJ	_	14	mark
+9	la	_	DET	DET	_	10	det
+10	foto	_	NOUN	NOUN	_	14	nsubj
+11	de	_	ADP	ADP	_	13	case
+12	Harry	_	PROPN	PROPN	_	13	name
+13	Potter	_	PROPN	PROPN	_	10	nmod
+14	luce	_	VERB	VERB	_	6	acl:relcl
+15	frente	_	NOUN	NOUN	_	14	dobj
+16	a	_	ADP	ADP	_	17	case
+17	mí	_	PRON	PRON	_	14	iobj
+18	en	_	ADP	ADP	_	20	case
+19	gran	_	ADJ	ADJ	_	20	amod
+20	propaganda	_	NOUN	NOUN	_	14	nmod
+21	.	_	PUNCT	PUNCT	_	4	punct
+

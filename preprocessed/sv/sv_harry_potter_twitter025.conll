@@ -1,0 +1,15 @@
+1	Sen	_	ADV	ADV	_	3	advmod
+2	när	_	ADV	ADV	_	3	advmod
+3	börjar	_	VERB	VERB	_	0	root
+4	jag	_	PRON	PRON	_	3	nsubj
+5	börja	_	VERB	VERB	_	3	xcomp
+6	följa	_	VERB	VERB	_	5	xcomp
+7	den	_	DET	DET	_	9	det
+8	där	_	ADV	ADV	_	6	advmod
+9	blonda	_	NOUN	NOUN	_	10	nmod:poss
+10	skitungen	_	NOUN	NOUN	_	6	dobj
+11	i	_	ADP	ADP	_	12	case
+12	Harry	_	PROPN	PROPN	_	13	nmod:poss
+13	Potter	_	NOUN	NOUN	_	14	nmod:poss
+14	bror	_	NOUN	NOUN	_	10	nmod
+

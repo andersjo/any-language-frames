@@ -1,0 +1,22 @@
+1	#Hangouts	_	NOUN	NOUN	_	2	compound
+2	#Apps	_	NOUN	NOUN	_	4	advmod
+3	-	_	PUNCT	PUNCT	_	2	punct
+4	According	_	VERB	VERB	_	6	case
+5	to	_	ADP	ADP	_	4	compound:prt
+6	Engadget	_	PROPN	PROPN	_	8	compound
+7	,	_	PUNCT	PUNCT	_	11	punct
+8	Google	_	PROPN	PROPN	_	11	nsubj
+9	has	_	AUX	AUX	_	11	aux
+10	been	_	AUX	AUX	_	11	aux
+11	working	_	VERB	VERB	_	0	root
+12	to	_	PART	PART	_	13	mark
+13	‘	_	VERB	VERB	_	11	xcomp
+14	improve	_	VERB	VERB	_	13	xcomp
+15	’	_	VERB	VERB	_	14	xcomp
+16	their	_	PRON	PRON	_	17	nmod:poss
+17	Hangouts	_	NOUN	NOUN	_	15	dobj
+18	chat	_	VERB	VERB	_	15	ccomp
+19	…	_	PROPN	PROPN	_	21	compound
+20	http://t.co/rWtd1DzFec	_	PROPN	PROPN	_	21	compound
+21	#GooglePlus	_	PROPN	PROPN	_	18	dobj
+

@@ -1,0 +1,15 @@
+1	She	_	PRON	PRON	_	2	nsubj
+2	said	_	VERB	VERB	_	0	root
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	"	_	PUNCT	PUNCT	_	2	punct
+5	I	_	PRON	PRON	_	6	nsubj
+6	collected	_	VERB	VERB	_	2	ccomp
+7	knives	_	NOUN	NOUN	_	6	dobj
+8	and	_	CONJ	CONJ	_	6	cc
+9	always	_	ADV	ADV	_	10	advmod
+10	had	_	VERB	VERB	_	6	conj
+11	certain	_	ADJ	ADJ	_	0	foreign
+12	things	_	NOUN	NOUN	_	10	dobj
+13	around	_	ADV	ADV	_	10	advmod
+14	.	_	PUNCT	PUNCT	_	2	punct
+

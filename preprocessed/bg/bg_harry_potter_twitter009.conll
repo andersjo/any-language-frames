@@ -1,0 +1,15 @@
+1	watching	_	PROPN	PROPN	_	12	nsubj
+2	Harry	_	PROPN	PROPN	_	1	nmod
+3	Potter	_	PROPN	PROPN	_	1	nmod
+4	and	_	PROPN	PROPN	_	1	nmod
+5	the	_	PROPN	PROPN	_	4	nmod
+6	Sorcerers	_	PROPN	PROPN	_	5	nmod
+7	Stone	_	PROPN	PROPN	_	6	nmod
+8	...	_	PUNCT	PUNCT	_	1	punct
+9	.	_	PUNCT	PUNCT	_	12	punct
+10	да	_	PART	PART	_	12	aux
+11	се	_	PRON	PRON	_	12	expl
+12	вратиме	_	VERB	VERB	_	0	root
+13	во	_	ADJ	ADJ	_	14	amod
+14	детството	_	NOUN	NOUN	_	12	nsubj
+

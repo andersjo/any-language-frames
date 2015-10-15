@@ -1,0 +1,18 @@
+1	Angelina	_	PROPN	PROPN	_	5	nsubj
+2	Jolie	_	PROPN	PROPN	_	1	name
+3	è	_	AUX	AUX	_	5	aux
+4	sempre	_	ADV	ADV	_	5	advmod
+5	stupenda	_	VERB	VERB	_	0	root
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	con	_	ADP	ADP	_	10	case
+8	e	_	CONJ	CONJ	_	5	cc
+9	senza	_	ADP	ADP	_	10	case
+10	trucco	_	NOUN	NOUN	_	5	conj
+11	,	_	PUNCT	PUNCT	_	5	punct
+12	ma	_	CONJ	CONJ	_	5	cc
+13	questa	_	DET	DET	_	14	det
+14	applicazione	_	NOUN	NOUN	_	16	nsubj
+15	è	_	VERB	VERB	_	16	cop
+16	fantasticaaaa	_	NOUN	NOUN	_	5	conj
+17	http://t.co/YDrEe06oBp	_	NOUN	NOUN	_	16	compound
+

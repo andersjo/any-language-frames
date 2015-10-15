@@ -1,0 +1,21 @@
+1	Unbroken	_	ADJ	ADJ	_	0	dobj
+2	...	_	PUNCT	PUNCT	_	4	punct
+3	Probably	_	ADV	ADV	_	4	advmod
+4	one	_	NUM	NUM	_	12	nummod
+5	of	_	ADP	ADP	_	0	compound:prt
+6	the	_	DET	DET	_	8	det
+7	greatest	_	ADJ	ADJ	_	0	remnant
+8	movie	_	NOUN	NOUN	_	5	dobj
+9	of	_	ADP	ADP	_	8	acl
+10	the	_	DET	DET	_	12	det
+11	beginning	_	NOUN	NOUN	_	12	compound
+12	year	_	NOUN	NOUN	_	8	nmod
+13	so	_	ADV	ADV	_	17	advmod
+14	far👏🎬	_	ADJ	ADJ	_	0	punct
+15	great	_	ADJ	ADJ	_	0	foreign
+16	job	_	NOUN	NOUN	_	17	nsubj
+17	directing	_	VERB	VERB	_	8	parataxis
+18	Angelina	_	PROPN	PROPN	_	19	compound
+19	Jolie	_	PROPN	PROPN	_	17	dobj
+20	#Unbroken	_	VERB	VERB	_	19	acl
+

@@ -1,0 +1,20 @@
+1	Durante	_	ADP	ADP	_	3	case
+2	la	_	DET	DET	_	3	det
+3	Revolución	_	NOUN	NOUN	_	6	nmod
+4	francesa	_	ADJ	ADJ	_	3	amod
+5	se	_	PRON	PRON	_	6	iobj
+6	produjeron	_	VERB	VERB	_	0	root
+7	las	_	DET	DET	_	9	det
+8	primeras	_	NUM	NUM	_	9	nummod
+9	peticiones	_	NOUN	NOUN	_	6	nsubj
+10	formales	_	ADJ	ADJ	_	9	amod
+11	de	_	ADP	ADP	_	12	case
+12	derechos	_	NOUN	NOUN	_	9	nmod
+13	políticos	_	ADJ	ADJ	_	12	amod
+14	y	_	CONJ	CONJ	_	9	cc
+15	ciudadanía	_	NOUN	NOUN	_	12	conj
+16	para	_	ADP	ADP	_	18	case
+17	la	_	DET	DET	_	18	det
+18	mujer	_	NOUN	NOUN	_	15	nmod
+19	.	_	PUNCT	PUNCT	_	6	punct
+

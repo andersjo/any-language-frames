@@ -1,0 +1,8 @@
+1	Θέμα	_	VERB	VERB	_	0	root
+2	κακής	_	ADJ	ADJ	_	3	amod
+3	τύχης	_	NOUN	NOUN	_	1	dobj
+4	ο	_	ADJ	ADJ	_	5	det
+5	καρκίνος	_	NOUN	NOUN	_	1	nsubj
+6	-	_	PUNCT	PUNCT	_	5	punct
+7	http://t.co/x4K0WccBw8	_	NOUN	NOUN	_	5	nmod
+

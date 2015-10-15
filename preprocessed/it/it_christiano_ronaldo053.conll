@@ -1,0 +1,23 @@
+1	Nella	_	ADP	ADP	_	2	case
+2	stagione	_	NOUN	NOUN	_	8	nmod
+3	2004-2005	_	NUM	NUM	_	2	nummod
+4	,	_	PUNCT	PUNCT	_	2	punct
+5	malgrado	_	SCONJ	SCONJ	_	8	mark
+6	il	_	DET	DET	_	7	det
+7	Manchester	_	PROPN	PROPN	_	8	nsubj
+8	concluda	_	VERB	VERB	_	0	root
+9	l'annata	_	VERB	VERB	_	8	xcomp
+10	senza	_	ADP	ADP	_	11	mark
+11	vincere	_	VERB	VERB	_	9	advcl
+12	alcun	_	DET	DET	_	13	det
+13	trofeo	_	NOUN	NOUN	_	11	dobj
+14	,	_	PUNCT	PUNCT	_	11	punct
+15	realizza	_	VERB	VERB	_	11	advcl
+16	9	_	NUM	NUM	_	17	nummod
+17	reti	_	NOUN	NOUN	_	15	dobj
+18	in	_	ADP	ADP	_	20	case
+19	50	_	NUM	NUM	_	20	nummod
+20	gare	_	NOUN	NOUN	_	17	nmod
+21	stagionali	_	ADJ	ADJ	_	20	amod
+22	.	_	PUNCT	PUNCT	_	8	punct
+

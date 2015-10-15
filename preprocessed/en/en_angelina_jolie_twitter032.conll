@@ -1,0 +1,26 @@
+1	Had	_	VERB	VERB	_	0	root
+2	a	_	DET	DET	_	3	det
+3	dream	_	NOUN	NOUN	_	1	dobj
+4	that	_	DET	DET	_	6	nsubj
+5	was	_	AUX	AUX	_	6	aux
+6	like	_	VERB	VERB	_	3	acl:relcl
+7	a	_	DET	DET	_	10	det
+8	cabin	_	NOUN	NOUN	_	9	compound
+9	horror	_	NOUN	NOUN	_	10	compound
+10	film	_	NOUN	NOUN	_	6	dobj
+11	.	_	PUNCT	PUNCT	_	1	punct
+12	It	_	PRON	PRON	_	14	nsubjpass
+13	was	_	AUX	AUX	_	14	auxpass
+14	valentines	_	VERB	VERB	_	1	parataxis
+15	day	_	NOUN	NOUN	_	14	nmod:tmod
+16	n	_	ADV	ADV	_	14	advmod
+17	Angelina	_	PROPN	PROPN	_	18	compound
+18	Jolie	_	PROPN	PROPN	_	23	nsubj
+19	was	_	VERB	VERB	_	23	cop
+20	a	_	DET	DET	_	23	det
+21	crazy	_	ADJ	ADJ	_	0	foreign
+22	b	_	NUM	NUM	_	23	nummod
+23	tryna	_	NOUN	NOUN	_	24	nsubj
+24	kill	_	VERB	VERB	_	1	parataxis
+25	me	_	PRON	PRON	_	24	dobj
+

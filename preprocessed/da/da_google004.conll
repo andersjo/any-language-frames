@@ -1,0 +1,23 @@
+1	Google	_	NOUN	NOUN	_	3	nsubjpass
+2	blev	_	AUX	AUX	_	3	auxpass
+3	oprettet	_	VERB	VERB	_	12	dep
+4	i	_	ADP	ADP	_	3	dep
+5	1998	_	NUM	NUM	_	4	nummod
+6	af	_	ADP	ADP	_	8	case
+7	to	_	NUM	NUM	_	6	nummod
+8	ph	_	PROPN	PROPN	_	3	nmod
+9	.	_	PUNCT	PUNCT	_	3	punct
+10	d	_	NOUN	NOUN	_	3	nmod
+11	.	_	PUNCT	PUNCT	_	3	punct
+12	-studerende	_	VERB	VERB	_	0	root
+13	ved	_	ADP	ADP	_	14	case
+14	Stanford	_	PROPN	PROPN	_	12	nmod
+15	University	_	PROPN	PROPN	_	14	name
+16	,	_	PUNCT	PUNCT	_	14	punct
+17	Larry	_	PROPN	PROPN	_	14	conj
+18	Page	_	PROPN	PROPN	_	17	name
+19	og	_	CONJ	CONJ	_	14	cc
+20	Sergey	_	PROPN	PROPN	_	14	conj
+21	Brin	_	PROPN	PROPN	_	20	name
+22	.	_	PUNCT	PUNCT	_	12	punct
+

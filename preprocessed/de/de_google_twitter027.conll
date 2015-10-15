@@ -1,0 +1,12 @@
+1	@ParaSiempreSola	_	PROPN	PROPN	_	2	name
+2	SIE	_	PROPN	PROPN	_	6	nsubj
+3	HABEN	_	PROPN	PROPN	_	5	name
+4	AUF	_	PROPN	PROPN	_	5	name
+5	GOOGLE	_	PROPN	PROPN	_	2	nmod
+6	GEFRAGT	_	VERB	VERB	_	0	root
+7	WARUM	_	PROPN	PROPN	_	8	det
+8	WAREN	_	NOUN	NOUN	_	6	dobj
+9	WIR	_	PROPN	PROPN	_	10	nsubj
+10	NIXHT	_	PROPN	PROPN	_	11	name
+11	DABEI	_	PROPN	PROPN	_	8	appos
+

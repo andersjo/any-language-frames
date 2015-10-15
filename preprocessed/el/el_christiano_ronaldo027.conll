@@ -1,0 +1,15 @@
+1	Εκείνος	_	NOUN	NOUN	_	2	nsubj
+2	ζήτησε	_	VERB	VERB	_	0	root
+3	το	_	ADJ	ADJ	_	4	det
+4	28	_	NOUN	NOUN	_	2	dobj
+5	,	_	PUNCT	PUNCT	_	2	punct
+6	ο	_	ADJ	ADJ	_	10	det
+7	,	_	PUNCT	PUNCT	_	9	punct
+8	τι	_	PRON	PRON	_	10	nmod
+9	δηλαδή	_	ADV	ADV	_	10	amod
+10	φορούσε	_	NOUN	NOUN	_	4	conj
+11	και	_	CONJ	CONJ	_	4	cc
+12	στη	_	ADP	ADP	_	13	case
+13	Σπόρτινγκ	_	NOUN	NOUN	_	10	conj
+14	.	_	PUNCT	PUNCT	_	2	punct
+

@@ -1,0 +1,18 @@
+1	Oh	_	ADV	ADV	_	2	advmod
+2	herre	_	ADJ	ADJ	_	0	root
+3	vilket	_	DET	DET	_	4	det
+4	ryck	_	NOUN	NOUN	_	2	nsubj
+5	jag	_	PRON	PRON	_	6	nsubj
+6	fick	_	VERB	VERB	_	4	acl:relcl
+7	att	_	SCONJ	SCONJ	_	10	mark
+8	jag	_	PRON	PRON	_	10	nsubj
+9	måste	_	AUX	AUX	_	10	aux
+10	se	_	VERB	VERB	_	6	ccomp
+11	Harry	_	PROPN	PROPN	_	12	nmod:poss
+12	Potter	_	NOUN	NOUN	_	10	dobj
+13	,	_	PUNCT	PUNCT	_	12	punct
+14	vad	_	PRON	PRON	_	15	dobj
+15	hände	_	VERB	VERB	_	10	parataxis
+16	här	_	ADV	ADV	_	15	advmod
+17	liksom	_	ADP	ADP	_	15	case
+

@@ -1,0 +1,14 @@
+1	1995	_	NUM	NUM	_	2	nmod
+2	begegneten	_	VERB	VERB	_	0	root
+3	sich	_	PRON	PRON	_	2	dobj
+4	Larry	_	PROPN	PROPN	_	5	name
+5	Page	_	PROPN	PROPN	_	2	nsubj
+6	und	_	CONJ	CONJ	_	5	cc
+7	Sergey	_	PROPN	PROPN	_	8	name
+8	Brin	_	PROPN	PROPN	_	5	conj
+9	an	_	ADP	ADP	_	12	case
+10	der	_	DET	DET	_	12	det
+11	Stanford	_	PROPN	PROPN	_	12	name
+12	University	_	PROPN	PROPN	_	5	conj
+13	.	_	PUNCT	PUNCT	_	2	punct
+

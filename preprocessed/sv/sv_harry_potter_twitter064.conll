@@ -1,0 +1,14 @@
+1	Jag	_	PRON	PRON	_	2	nsubj
+2	kollar	_	NOUN	NOUN	_	8	nsubj
+3	på	_	ADP	ADP	_	5	case
+4	harry	_	ADJ	ADJ	_	5	amod
+5	potter	_	NOUN	NOUN	_	2	nmod
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	inte	_	ADV	ADV	_	8	neg
+8	somnat	_	VERB	VERB	_	0	root
+9	än	_	CONJ	CONJ	_	10	mark
+10	så	_	ADV	ADV	_	8	advcl
+11	faktiskt	_	ADV	ADV	_	10	mwe
+12	ganska	_	ADV	ADV	_	13	advmod
+13	proud	_	NOUN	NOUN	_	8	advcl
+

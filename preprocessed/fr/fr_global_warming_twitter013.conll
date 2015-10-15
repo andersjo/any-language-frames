@@ -1,0 +1,10 @@
+1	Nouveau	_	ADJ	ADJ	_	2	amod
+2	favori	_	NOUN	NOUN	_	0	root
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Global	_	PROPN	PROPN	_	5	name
+5	Warming	_	PROPN	PROPN	_	2	appos
+6	de	_	ADP	ADP	_	9	case
+7	Pitbull	_	PROPN	PROPN	_	9	name
+8	http://t.co/o2RAVHTSOg	_	PROPN	PROPN	_	9	name
+9	@Deezer	_	PROPN	PROPN	_	5	nmod
+

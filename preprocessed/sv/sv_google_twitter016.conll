@@ -1,0 +1,20 @@
+1	Årets	_	NOUN	NOUN	_	3	nmod:poss
+2	första	_	ADJ	ADJ	_	3	det
+3	solnedgång	_	NOUN	NOUN	_	8	dislocated
+4	.	_	PUNCT	PUNCT	_	3	punct
+5	I	_	ADP	ADP	_	8	case
+6	förgrunden	_	NOUN	NOUN	_	5	mwe
+7	några	_	DET	DET	_	8	det
+8	vinterbadare	_	NOUN	NOUN	_	19	nmod
+9	som	_	PRON	PRON	_	10	nsubj
+10	spelade	_	VERB	VERB	_	8	acl:relcl
+11	kubb	_	NOUN	NOUN	_	10	dobj
+12	efter	_	ADP	ADP	_	13	case
+13	badet	_	NOUN	NOUN	_	10	nmod
+14	i	_	ADP	ADP	_	15	case
+15	Vättern	_	NOUN	NOUN	_	13	nmod
+16	.	_	PUNCT	PUNCT	_	3	punct
+17	2	_	NUM	NUM	_	18	nummod
+18	…	_	NOUN	NOUN	_	19	nsubj
+19	http://t.co/RZzgklp6SA	_	VERB	VERB	_	0	root
+

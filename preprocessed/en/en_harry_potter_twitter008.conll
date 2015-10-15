@@ -1,0 +1,14 @@
+1	Ugh	_	INTJ	INTJ	_	3	discourse
+2	now	_	ADV	ADV	_	3	advmod
+3	I'm	_	NOUN	NOUN	_	0	root
+4	in	_	ADP	ADP	_	3	compound
+5	for	_	ADP	ADP	_	3	acl
+6	the	_	DET	DET	_	7	det
+7	night	_	NOUN	NOUN	_	3	remnant
+8	😩	_	PROPN	PROPN	_	9	compound
+9	Harry	_	PROPN	PROPN	_	11	compound
+10	Potter	_	PROPN	PROPN	_	11	compound
+11	marathon	_	PROPN	PROPN	_	7	appos
+12	alone	_	ADJ	ADJ	_	0	foreign
+13	yay	_	NOUN	NOUN	_	11	appos
+

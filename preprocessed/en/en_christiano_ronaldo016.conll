@@ -1,0 +1,15 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	2007	_	NUM	NUM	_	9	nummod
+3	and	_	CONJ	CONJ	_	2	cc
+4	2008	_	NUM	NUM	_	2	conj
+5	,	_	PUNCT	PUNCT	_	8	punct
+6	Ronaldo	_	PROPN	PROPN	_	8	nsubjpass
+7	was	_	AUX	AUX	_	8	auxpass
+8	named	_	VERB	VERB	_	2	conj
+9	FWA	_	NOUN	NOUN	_	1	conj
+10	Footballer	_	ADJ	ADJ	_	0	advcl
+11	of	_	ADP	ADP	_	8	compound:prt
+12	the	_	DET	DET	_	13	det
+13	Year	_	NOUN	NOUN	_	8	nmod:tmod
+14	.	_	PUNCT	PUNCT	_	8	punct
+

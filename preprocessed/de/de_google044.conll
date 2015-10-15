@@ -1,0 +1,25 @@
+1	Googles	_	PROPN	PROPN	_	2	name
+2	Suchtechnik	_	PROPN	PROPN	_	7	nsubjpass
+3	wird	_	AUX	AUX	_	13	auxpass
+4	auch	_	ADV	ADV	_	7	advmod
+5	an	_	ADP	ADP	_	7	case
+6	Internetportale	_	ADJ	ADJ	_	7	advmod
+7	lizenziert	_	ADJ	ADJ	_	0	root
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	um	_	ADP	ADP	_	13	mark
+10	dort	_	ADV	ADV	_	13	advmod
+11	eine	_	DET	DET	_	12	det
+12	Websuche	_	NOUN	NOUN	_	13	dobj
+13	anbieten	_	VERB	VERB	_	7	advcl
+14	zu	_	PART	PART	_	15	aux
+15	können	_	AUX	AUX	_	13	aux
+16	,	_	PUNCT	PUNCT	_	13	punct
+17	ohne	_	SCONJ	SCONJ	_	22	mark
+18	dass	_	PRON	PRON	_	19	det
+19	Benutzer	_	NOUN	NOUN	_	22	nsubj
+20	das	_	DET	DET	_	21	det
+21	Portal	_	NOUN	NOUN	_	22	dobj
+22	verlassen	_	VERB	VERB	_	13	ccomp
+23	müssen	_	AUX	AUX	_	22	aux
+24	.	_	PUNCT	PUNCT	_	7	punct
+

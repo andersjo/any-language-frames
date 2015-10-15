@@ -1,0 +1,13 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	4	nsubj
+3	a	_	AUX	AUX	_	4	aux
+4	réussi	_	VERB	VERB	_	0	root
+5	à	_	ADP	ADP	_	6	case
+6	rendre	_	VERB	VERB	_	4	acl
+7	ses	_	DET	DET	_	8	nmod:poss
+8	gosses	_	NOUN	NOUN	_	6	dobj
+9	aussi	_	ADV	ADV	_	10	advmod
+10	dingues	_	NOUN	NOUN	_	6	nmod
+11	qu'elle	_	ADJ	ADJ	_	10	amod
+12	.	_	PUNCT	PUNCT	_	4	punct
+

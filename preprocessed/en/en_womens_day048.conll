@@ -1,0 +1,23 @@
+1	Mrs.	_	PROPN	PROPN	_	2	compound
+2	Shazia	_	PROPN	PROPN	_	4	compound
+3	Ashfaq	_	PROPN	PROPN	_	4	compound
+4	Mattu	_	PROPN	PROPN	_	6	compound
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	MPA	_	PROPN	PROPN	_	15	nsubj
+7	and	_	CONJ	CONJ	_	4	cc
+8	GRAP	_	NOUN	NOUN	_	9	compound
+9	officer	_	NOUN	NOUN	_	4	conj
+10	Mr.	_	PROPN	PROPN	_	14	compound
+11	Dr.	_	PROPN	PROPN	_	14	compound
+12	Yasir	_	PROPN	PROPN	_	14	compound
+13	Nawaz	_	PROPN	PROPN	_	14	compound
+14	Manj	_	PROPN	PROPN	_	15	nsubj
+15	organized	_	VERB	VERB	_	0	root
+16	the	_	DET	DET	_	17	det
+17	events	_	NOUN	NOUN	_	15	dobj
+18	in	_	ADP	ADP	_	15	compound:prt
+19	very	_	ADV	ADV	_	21	advmod
+20	effective	_	ADJ	ADJ	_	0	foreign
+21	manners	_	NOUN	NOUN	_	15	nmod
+22	.	_	PUNCT	PUNCT	_	15	punct
+

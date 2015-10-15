@@ -1,0 +1,13 @@
+1	@MathiasRando	_	PROPN	PROPN	_	5	nsubj
+2	Man	_	PROPN	PROPN	_	1	name
+3	skal	_	AUX	AUX	_	5	aux
+4	bare	_	ADV	ADV	_	5	advmod
+5	bruge	_	VERB	VERB	_	0	root
+6	Google	_	NOUN	NOUN	_	5	dobj
+7	Libraries	_	PROPN	PROPN	_	6	appos
+8	,	_	PUNCT	PUNCT	_	5	punct
+9	så	_	ADV	ADV	_	10	advmod
+10	forsvinder	_	VERB	VERB	_	5	conj
+11	fejlen	_	NOUN	NOUN	_	10	nsubj
+12	;)	_	X	X	_	10	dep
+

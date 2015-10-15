@@ -1,0 +1,13 @@
+1	1922	_	NUM	NUM	_	0	root
+2	a	_	ADP	ADP	_	3	case
+3	1975	_	NUM	NUM	_	1	nmod
+4	-	_	PUNCT	PUNCT	_	1	punct
+5	Institucionalización	_	PROPN	PROPN	_	3	nummod
+6	del	_	ADP	ADP	_	7	case
+7	Día	_	PROPN	PROPN	_	5	nmod
+8	Internacional	_	PROPN	PROPN	_	7	amod
+9	de	_	ADP	ADP	_	11	case
+10	la	_	DET	DET	_	11	det
+11	Mujer	_	PROPN	PROPN	_	7	nmod
+12	.	_	PUNCT	PUNCT	_	1	punct
+

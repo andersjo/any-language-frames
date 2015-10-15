@@ -1,0 +1,22 @@
+1	Jeg	_	PRON	PRON	_	3	nsubj
+2	kunne	_	AUX	AUX	_	3	aux
+3	lide	_	VERB	VERB	_	0	root
+4	en	_	DET	DET	_	5	det
+5	video	_	NOUN	NOUN	_	3	dobj
+6	på	_	ADP	ADP	_	8	case
+7	@YouTube	_	NOUN	NOUN	_	5	nmod
+8	http://t.co/63sojKyal9	_	NOUN	NOUN	_	5	nmod
+9	How	_	PROPN	PROPN	_	8	appos
+10	to	_	NUM	NUM	_	11	nummod
+11	Add	_	NOUN	NOUN	_	12	dep
+12	Background	_	PROPN	PROPN	_	8	appos
+13	image	_	NOUN	NOUN	_	12	dep
+14	onto	_	PROPN	PROPN	_	13	appos
+15	your	_	PROPN	PROPN	_	14	name
+16	google	_	NOUN	NOUN	_	15	dep
+17	hompage	_	NOUN	NOUN	_	15	nmod:poss
+18	Easy	_	NOUN	NOUN	_	17	dep
+19	To	_	NUM	NUM	_	21	nummod
+20	add	_	ADJ	ADJ	_	21	amod
+21	!!!!	_	NOUN	NOUN	_	3	dobj
+

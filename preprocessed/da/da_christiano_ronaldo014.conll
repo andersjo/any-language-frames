@@ -1,0 +1,12 @@
+1	I	_	ADP	ADP	_	3	dep
+2	1995	_	NUM	NUM	_	1	nummod
+3	skrev	_	VERB	VERB	_	0	root
+4	Ronaldo	_	PROPN	PROPN	_	3	nsubj
+5	under	_	ADV	ADV	_	3	advmod
+6	med	_	ADP	ADP	_	10	case
+7	den	_	DET	DET	_	9	det
+8	lokale	_	ADJ	ADJ	_	9	amod
+9	klub	_	NOUN	NOUN	_	3	nmod
+10	Nacional	_	NOUN	NOUN	_	9	nmod
+11	.	_	PUNCT	PUNCT	_	3	punct
+

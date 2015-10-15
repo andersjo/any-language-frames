@@ -1,0 +1,15 @@
+1	Forfatteren	_	NOUN	NOUN	_	4	nmod
+2	har	_	AUX	AUX	_	4	aux
+3	selv	_	PRON	PRON	_	4	nmod
+4	udtalt	_	VERB	VERB	_	0	root
+5	at	_	PART	PART	_	4	dobj
+6	hun	_	PRON	PRON	_	8	nsubj
+7	ikke	_	ADV	ADV	_	8	neg
+8	ønsker	_	VERB	VERB	_	5	dep
+9	at	_	PART	PART	_	8	dobj
+10	promovere	_	ADJ	ADJ	_	11	amod
+11	hekseri	_	NOUN	NOUN	_	9	dep
+12	med	_	ADP	ADP	_	13	case
+13	bøgerne	_	NOUN	NOUN	_	11	nmod
+14	.	_	PUNCT	PUNCT	_	4	punct
+

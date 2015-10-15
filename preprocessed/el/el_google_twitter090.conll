@@ -1,0 +1,19 @@
+1	Αν	_	CONJ	CONJ	_	4	mark
+2	θέλετε	_	NOUN	NOUN	_	4	nsubj
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	αφιερώστε	_	VERB	VERB	_	0	root
+5	λίγα	_	ADJ	ADJ	_	6	amod
+6	λεπτά	_	NOUN	NOUN	_	4	dobj
+7	για	_	ADP	ADP	_	9	case
+8	τη	_	ADJ	ADJ	_	9	det
+9	συμπλήρωση	_	NOUN	NOUN	_	6	nmod
+10	ενός	_	ADJ	ADJ	_	11	det
+11	ερωτηματολογίου	_	NOUN	NOUN	_	9	nmod
+12	σχετικά	_	ADV	ADV	_	9	amod
+13	με	_	ADP	ADP	_	15	case
+14	την	_	ADJ	ADJ	_	15	det
+15	Ασφάλεια	_	NOUN	NOUN	_	12	nmod
+16	των	_	ADJ	ADJ	_	17	det
+17	Τροφίμων	_	NOUN	NOUN	_	15	nmod
+18	https://t.co/8gobjp78MT	_	NOUN	NOUN	_	17	nmod
+

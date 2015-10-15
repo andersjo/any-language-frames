@@ -1,0 +1,20 @@
+1	1967	_	PROPN	PROPN	_	4	name
+2	Chevrolet	_	PROPN	PROPN	_	4	name
+3	Chevelle	_	PROPN	PROPN	_	4	name
+4	Malibu	_	PROPN	PROPN	_	0	root
+5	:	_	PUNCT	PUNCT	_	4	punct
+6	Classic	_	PROPN	PROPN	_	4	appos
+7	1967	_	NUM	NUM	_	6	nummod
+8	Chevrolet	_	PROPN	PROPN	_	11	name
+9	Chevelle	_	PROPN	PROPN	_	11	name
+10	Malibu	_	PROPN	PROPN	_	11	name
+11	for	_	PROPN	PROPN	_	13	name
+12	sale	_	ADJ	ADJ	_	11	amod
+13	$34500	_	PROPN	PROPN	_	15	name
+14	.	_	PUNCT	PUNCT	_	4	punct
+15	Eugen	_	PROPN	PROPN	_	6	conj
+16	...	_	PUNCT	PUNCT	_	4	punct
+17	http://t.co/QTtGLCOSvR	_	PROPN	PROPN	_	19	name
+18	#Chevrolet	_	PROPN	PROPN	_	19	name
+19	#Cars	_	PROPN	PROPN	_	11	conj
+

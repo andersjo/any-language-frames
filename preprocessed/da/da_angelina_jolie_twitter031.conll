@@ -1,0 +1,13 @@
+1	Beautiful	_	PROPN	PROPN	_	3	nmod:poss
+2	Angelina	_	PROPN	PROPN	_	1	name
+3	Jolie	_	NOUN	NOUN	_	9	nsubj
+4	!	_	PUNCT	PUNCT	_	5	punct
+5	Pretty	_	PROPN	PROPN	_	1	appos
+6	Woman	_	PROPN	PROPN	_	5	name
+7	.	_	PUNCT	PUNCT	_	5	punct
+8	angelina_jolie_forever	_	PROPN	PROPN	_	9	nsubj
+9	angelinajolieofficial	_	VERB	VERB	_	0	root
+10	angelina-jolie	_	NOUN	NOUN	_	9	dobj
+11	.	_	PUNCT	PUNCT	_	10	punct
+12	http://t.co/kEF4xZveVV	_	NOUN	NOUN	_	10	conj
+

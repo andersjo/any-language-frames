@@ -1,0 +1,22 @@
+1	Μόλις	_	CONJ	CONJ	_	6	mark
+2	tweet-άρω	_	NOUN	NOUN	_	6	nsubj
+3	αυτά	_	PRON	PRON	_	2	det
+4	που	_	PRON	PRON	_	6	nsubj
+5	λέω	_	VERB	VERB	_	6	aux
+6	είμαι	_	VERB	VERB	_	0	root
+7	ήδη	_	ADV	ADV	_	6	advmod
+8	στην	_	ADP	ADP	_	9	case
+9	Google	_	NOUN	NOUN	_	6	nmod
+10	,	_	PUNCT	PUNCT	_	7	punct
+11	στη	_	ADP	ADP	_	12	case
+12	NASA	_	NOUN	NOUN	_	6	nmod
+13	ή	_	CONJ	CONJ	_	12	cc
+14	στο	_	ADP	ADP	_	15	case
+15	Facebook	_	NOUN	NOUN	_	12	conj
+16	!	_	PUNCT	PUNCT	_	15	amod
+17	Με	_	ADP	ADP	_	20	case
+18	αυτή	_	PRON	PRON	_	20	det
+19	τη	_	ADJ	ADJ	_	20	det
+20	σειρά	_	NOUN	NOUN	_	12	conj
+21	-	_	PUNCT	PUNCT	_	7	punct
+

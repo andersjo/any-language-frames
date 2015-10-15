@@ -1,0 +1,17 @@
+1	El	_	DET	DET	_	2	det
+2	objetivo	_	NOUN	NOUN	_	4	nsubj
+3	era	_	AUX	AUX	_	4	auxpass
+4	promover	_	VERB	VERB	_	0	root
+5	la	_	DET	DET	_	6	det
+6	igualdad	_	NOUN	NOUN	_	4	dobj
+7	de	_	ADP	ADP	_	8	case
+8	derechos	_	NOUN	NOUN	_	6	nmod
+9	,	_	PUNCT	PUNCT	_	4	punct
+10	incluyendo	_	VERB	VERB	_	4	acl
+11	el	_	DET	DET	_	12	det
+12	sufragio	_	NOUN	NOUN	_	10	dobj
+13	para	_	ADP	ADP	_	15	case
+14	las	_	DET	DET	_	15	det
+15	mujeres	_	NOUN	NOUN	_	12	nmod
+16	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,18 @@
+1	Goal	_	NOUN	NOUN	_	0	root
+2	!	_	PUNCT	PUNCT	_	1	punct
+3	Chelsea	_	PROPN	PROPN	_	1	list
+4	3-0	_	NUM	NUM	_	5	nummod
+5	Watford	_	NOUN	NOUN	_	3	list
+6	.	_	PUNCT	PUNCT	_	5	punct
+7	Kurt	_	PROPN	PROPN	_	3	list
+8	Zouma	_	NOUN	NOUN	_	7	dep
+9	(	_	PUNCT	PUNCT	_	10	punct
+10	CHL	_	NOUN	NOUN	_	1	dep
+11	)	_	PUNCT	PUNCT	_	10	punct
+12	after	_	NOUN	NOUN	_	10	list
+13	72	_	NUM	NUM	_	12	nmod
+14	'	_	PUNCT	PUNCT	_	12	punct
+15	-via	_	PROPN	PROPN	_	12	list
+16	SportsCenter	_	NOUN	NOUN	_	15	dep
+17	http://t.co/NcdTS9gOPO	_	PROPN	PROPN	_	16	appos
+

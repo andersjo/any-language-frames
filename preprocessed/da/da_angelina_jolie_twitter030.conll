@@ -1,0 +1,18 @@
+1	Foto	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	complajn	_	NOUN	NOUN	_	1	dep
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	Angelina	_	PROPN	PROPN	_	1	list
+6	Jolie	_	NOUN	NOUN	_	5	dep
+7	and	_	X	X	_	8	name
+8	Wiona	_	PROPN	PROPN	_	9	nsubj
+9	Ryder	_	VERB	VERB	_	3	dep
+10	in	_	ADJ	ADJ	_	11	amod
+11	Girl	_	NOUN	NOUN	_	9	dobj
+12	,	_	PUNCT	PUNCT	_	1	punct
+13	Interrupted	_	NOUN	NOUN	_	11	conj
+14	(	_	PUNCT	PUNCT	_	15	punct
+15	1999	_	NUM	NUM	_	13	nummod
+16	)	_	PUNCT	PUNCT	_	15	punct
+17	http://t.co/qvgKw5hkhT	_	PROPN	PROPN	_	1	list
+

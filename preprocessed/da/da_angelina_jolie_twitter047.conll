@@ -1,0 +1,14 @@
+1	Keynote	_	NOUN	NOUN	_	3	nmod:poss
+2	speech	_	ADJ	ADJ	_	3	amod
+3	by	_	NOUN	NOUN	_	4	dep
+4	UNHCR	_	PROPN	PROPN	_	11	dep
+5	Special	_	PROPN	PROPN	_	4	name
+6	Envoy	_	PROPN	PROPN	_	4	name
+7	Angelina	_	PROPN	PROPN	_	4	name
+8	Jolie	_	NOUN	NOUN	_	10	nmod:poss
+9	“	_	ADJ	ADJ	_	10	amod
+10	UNHCRs	_	NOUN	NOUN	_	11	dep
+11	Nansen	_	PROPN	PROPN	_	13	nmod:poss
+12	Re	_	ADJ	ADJ	_	13	amod
+13	,,,	_	NOUN	NOUN	_	0	root
+

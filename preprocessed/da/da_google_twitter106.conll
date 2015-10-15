@@ -1,0 +1,14 @@
+1	opkad38_Viesturs	_	NOUN	NOUN	_	5	nsubj
+2	.	_	PUNCT	PUNCT	_	1	punct
+3	jpg	_	NOUN	NOUN	_	1	conj
+4	(	_	PUNCT	PUNCT	_	3	punct
+5	Image	_	VERB	VERB	_	0	root
+6	JPEG	_	PROPN	PROPN	_	5	nsubj
+7	,	_	PUNCT	PUNCT	_	5	punct
+8	640x543	_	NOUN	NOUN	_	10	nmod:poss
+9	pixels	_	ADJ	ADJ	_	10	amod
+10	):	_	NOUN	NOUN	_	5	dobj
+11	via	_	ADP	ADP	_	13	case
+12	http://t.co/Yb7NqaXafL	_	ADJ	ADJ	_	13	amod
+13	…	_	NOUN	NOUN	_	10	nmod
+

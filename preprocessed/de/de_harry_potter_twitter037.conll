@@ -1,0 +1,13 @@
+1	Eines	_	PRON	PRON	_	5	nsubj
+2	davon	_	ADV	ADV	_	5	advmod
+3	werde	_	AUX	AUX	_	5	aux
+4	ich	_	PRON	PRON	_	5	nsubj
+5	machen	_	VERB	VERB	_	0	root
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	während	_	SCONJ	SCONJ	_	11	mark
+8	der	_	DET	DET	_	10	det
+9	Harry	_	PROPN	PROPN	_	10	name
+10	Potter	_	PROPN	PROPN	_	11	nmod
+11	läuft	_	VERB	VERB	_	5	advcl
+12	.	_	PUNCT	PUNCT	_	5	punct
+

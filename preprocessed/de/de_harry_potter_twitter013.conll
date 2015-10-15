@@ -1,0 +1,12 @@
+1	Wieso	_	ADV	ADV	_	2	advmod
+2	ist	_	VERB	VERB	_	6	cop
+3	denn	_	CONJ	CONJ	_	5	cc
+4	Harry	_	PROPN	PROPN	_	5	name
+5	Potter	_	PROPN	PROPN	_	0	root
+6	ist	_	VERB	VERB	_	5	cop
+7	in	_	ADP	ADP	_	9	case
+8	den	_	DET	DET	_	9	det
+9	Hashtags	_	PROPN	PROPN	_	6	nmod
+10	?	_	PUNCT	PUNCT	_	9	punct
+11	#HarryPotter	_	PROPN	PROPN	_	9	appos
+

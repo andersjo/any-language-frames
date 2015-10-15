@@ -1,0 +1,13 @@
+1	Κατά	_	ADP	ADP	_	2	case
+2	τ'	_	NOUN	NOUN	_	7	nmod
+3	άλλα	_	PRON	PRON	_	2	det
+4	,	_	PUNCT	PUNCT	_	7	punct
+5	η	_	ADJ	ADJ	_	6	det
+6	Πορτογαλία	_	NOUN	NOUN	_	7	nsubj
+7	αποκλείστηκε	_	VERB	VERB	_	0	root
+8	από	_	ADP	ADP	_	11	case
+9	την	_	ADJ	ADJ	_	11	det
+10	πρώτη	_	NUM	NUM	_	11	nummod
+11	φάση	_	NOUN	NOUN	_	7	nmod
+12	.	_	PUNCT	PUNCT	_	7	punct
+

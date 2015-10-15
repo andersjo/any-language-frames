@@ -1,0 +1,26 @@
+1	#Directioner	_	NOUN	NOUN	_	5	nsubj
+2	italiane	_	ADJ	ADJ	_	1	amod
+3	,	_	PUNCT	PUNCT	_	1	punct
+4	non	_	ADV	ADV	_	5	neg
+5	serve	_	VERB	VERB	_	0	root
+6	che	_	SCONJ	SCONJ	_	7	mark
+7	scrivete	_	VERB	VERB	_	9	cop
+8	"	_	PUNCT	PUNCT	_	9	punct
+9	italy	_	ADJ	ADJ	_	5	ccomp
+10	"	_	PUNCT	PUNCT	_	9	punct
+11	nei	_	ADP	ADP	_	13	case
+12	vostri	_	DET	DET	_	13	det
+13	tweet	_	NOUN	NOUN	_	9	nmod
+14	ai	_	ADP	ADP	_	15	case
+15	ragazzi	_	NOUN	NOUN	_	13	nmod
+16	,	_	PUNCT	PUNCT	_	13	punct
+17	si	_	PRON	PRON	_	18	nsubj
+18	capisce	_	VERB	VERB	_	5	ccomp
+19	palesemente	_	ADV	ADV	_	18	advmod
+20	che	_	PRON	PRON	_	21	nsubj
+21	fate	_	VERB	VERB	_	19	acl:relcl
+22	tutto	_	PRON	PRON	_	21	dobj
+23	con	_	ADP	ADP	_	24	case
+24	google	_	NOUN	NOUN	_	21	nmod
+25	translate	_	ADJ	ADJ	_	24	amod
+

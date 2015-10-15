@@ -1,0 +1,12 @@
+1	Någon	_	NOUN	NOUN	_	2	nmod:poss
+2	gång	_	NOUN	NOUN	_	7	nmod
+3	i	_	ADP	ADP	_	4	case
+4	livet	_	NOUN	NOUN	_	2	nmod
+5	måste	_	AUX	AUX	_	7	aux
+6	man	_	PRON	PRON	_	7	nsubj
+7	ha	_	VERB	VERB	_	0	root
+8	ett	_	DET	DET	_	9	det
+9	Harry	_	NOUN	NOUN	_	10	nmod:poss
+10	Potter	_	NOUN	NOUN	_	11	nmod:poss
+11	maraton	_	NOUN	NOUN	_	7	dobj
+

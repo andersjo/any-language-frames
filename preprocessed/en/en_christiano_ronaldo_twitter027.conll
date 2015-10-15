@@ -1,0 +1,26 @@
+1	last	_	ADJ	ADJ	_	0	cc
+2	time	_	NOUN	NOUN	_	4	compound
+3	??	_	PUNCT	PUNCT	_	2	punct
+4	wait	_	NOUN	NOUN	_	7	nsubj
+5	is	_	VERB	VERB	_	6	cop
+6	Riri	_	PROPN	PROPN	_	7	nsubj
+7	leaving	_	VERB	VERB	_	17	advcl
+8	for	_	ADP	ADP	_	7	compound:prt
+9	Korea	_	PROPN	PROPN	_	7	dobj
+10	today	_	NOUN	NOUN	_	7	nmod:tmod
+11	??	_	PUNCT	PUNCT	_	10	punct
+12	how	_	ADV	ADV	_	14	advmod
+13	i	_	PRON	PRON	_	14	nsubj
+14	wished	_	VERB	VERB	_	17	advcl
+15	he	_	PRON	PRON	_	17	nsubj
+16	could	_	AUX	AUX	_	17	aux
+17	meet	_	VERB	VERB	_	0	root
+18	christiano	_	PROPN	PROPN	_	19	compound
+19	ronaldo	_	PROPN	PROPN	_	17	dobj
+20	and	_	CONJ	CONJ	_	7	cc
+21	take	_	VERB	VERB	_	17	conj
+22	a	_	DET	DET	_	23	det
+23	pic	_	NOUN	NOUN	_	21	dobj
+24	w/	_	ADP	ADP	_	21	compound:prt
+25	him	_	PRON	PRON	_	21	nmod
+

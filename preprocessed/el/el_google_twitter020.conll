@@ -1,0 +1,17 @@
+1	@KarditsaPortal	_	NOUN	NOUN	_	0	root
+2	Πχ	_	NOUN	NOUN	_	1	nmod
+3	,	_	PUNCT	PUNCT	_	4	punct
+4	δοκίμασέ	_	NOUN	NOUN	_	2	conj
+5	το	_	ADJ	ADJ	_	6	det
+6	ΜΚΟ	_	NOUN	NOUN	_	4	nmod
+7	->	_	NOUN	NOUN	_	6	nmod
+8	https://t.co/pwufp6cWum	_	NOUN	NOUN	_	7	nmod
+9	Αδερφή	_	NOUN	NOUN	_	8	nmod
+10	σ	_	NOUN	NOUN	_	9	nmod
+11	ΗΣΑΠ	_	NOUN	NOUN	_	10	nmod
+12	->	_	NOUN	NOUN	_	11	nmod
+13	https://t.co/1dxITQi04W	_	NOUN	NOUN	_	12	nmod
+14	Σύμβαση	_	NOUN	NOUN	_	13	nmod
+15	->	_	NOUN	NOUN	_	14	nmod
+16	https://t.co/kTQp8bj09f	_	NOUN	NOUN	_	15	nmod
+

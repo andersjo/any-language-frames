@@ -1,0 +1,20 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	2012	_	NUM	NUM	_	8	nmod
+3	,	_	PUNCT	PUNCT	_	8	punct
+4	a	_	DET	DET	_	6	det
+5	fiber-optic	_	ADJ	ADJ	_	0	compound
+6	infrastructure	_	NOUN	NOUN	_	8	nsubjpass
+7	was	_	AUX	AUX	_	8	auxpass
+8	installed	_	VERB	VERB	_	0	root
+9	in	_	ADP	ADP	_	8	compound:prt
+10	Kansas	_	PROPN	PROPN	_	11	compound
+11	City	_	PROPN	PROPN	_	8	dobj
+12	to	_	PART	PART	_	13	mark
+13	facilitate	_	VERB	VERB	_	8	advcl
+14	a	_	DET	DET	_	18	det
+15	Google	_	PROPN	PROPN	_	18	compound
+16	Fiber	_	NOUN	NOUN	_	17	compound
+17	broadband	_	NOUN	NOUN	_	18	compound
+18	service	_	NOUN	NOUN	_	13	dobj
+19	.	_	PUNCT	PUNCT	_	8	punct
+

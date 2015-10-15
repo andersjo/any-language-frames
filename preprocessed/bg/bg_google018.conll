@@ -1,0 +1,18 @@
+1	В	_	ADP	ADP	_	2	case
+2	момента	_	NOUN	NOUN	_	3	nmod
+3	е	_	VERB	VERB	_	0	root
+4	в	_	ADP	ADP	_	6	case
+5	експериментална	_	ADJ	ADJ	_	6	amod
+6	фаза	_	NOUN	NOUN	_	3	cop
+7	(бета	_	PROPN	PROPN	_	6	nmod
+8	версия)	_	PROPN	PROPN	_	7	name
+9	,	_	PUNCT	PUNCT	_	10	punct
+10	но	_	CONJ	CONJ	_	3	cc
+11	вече	_	ADV	ADV	_	12	advmod
+12	може	_	VERB	VERB	_	3	conj
+13	напълно	_	ADV	ADV	_	16	advmod
+14	да	_	PART	PART	_	16	aux
+15	се	_	PRON	PRON	_	16	expl
+16	използва	_	VERB	VERB	_	12	ccomp
+17	.	_	PUNCT	PUNCT	_	3	punct
+

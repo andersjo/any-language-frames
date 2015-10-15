@@ -1,0 +1,18 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	MAI	_	ADV	ADV	_	4	advmod
+3	.	_	PUNCT	PUNCT	_	2	punct
+4	INSULTARE	_	VERB	VERB	_	0	root
+5	.	_	PUNCT	PUNCT	_	4	punct
+6	HARRY	_	PROPN	PROPN	_	4	xcomp
+7	.	_	PUNCT	PUNCT	_	6	punct
+8	POTTER	_	PROPN	PROPN	_	6	nmod
+9	.	_	PUNCT	PUNCT	_	8	punct
+10	DAVANTI	_	ADV	ADV	_	4	advmod
+11	.	_	PUNCT	PUNCT	_	4	punct
+12	A	_	ADP	ADP	_	14	case
+13	.	_	PUNCT	PUNCT	_	4	punct
+14	ME	_	PRON	PRON	_	17	appos
+15	.	_	PUNCT	PUNCT	_	4	punct
+16	"	_	PUNCT	PUNCT	_	17	punct
+17	#cosedapotterheads	_	PROPN	PROPN	_	6	conj
+

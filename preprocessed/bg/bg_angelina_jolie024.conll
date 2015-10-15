@@ -1,0 +1,14 @@
+1	През	_	ADP	ADP	_	3	case
+2	2002	_	NUM	NUM	_	3	nummod
+3	г	_	NOUN	NOUN	_	7	nmod
+4	.	_	PUNCT	PUNCT	_	7	punct
+5	официално	_	ADV	ADV	_	7	advmod
+6	се	_	PRON	PRON	_	7	expl
+7	отказва	_	VERB	VERB	_	0	root
+8	от	_	ADP	ADP	_	9	case
+9	презимето	_	NOUN	NOUN	_	7	iobj
+10	на	_	ADP	ADP	_	11	case
+11	баща	_	NOUN	NOUN	_	9	nmod
+12	си	_	PRON	PRON	_	11	case
+13	.	_	PUNCT	PUNCT	_	7	punct
+

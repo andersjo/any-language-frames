@@ -1,0 +1,24 @@
+1	Τέλος	_	ADV	ADV	_	10	advmod
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	τον	_	ADJ	ADJ	_	4	det
+4	Ιούλιο	_	NOUN	NOUN	_	10	nmod
+5	του	_	ADJ	ADJ	_	6	det
+6	2008	_	NOUN	NOUN	_	4	nmod
+7	,	_	PUNCT	PUNCT	_	10	punct
+8	η	_	ADJ	ADJ	_	9	det
+9	Αντζελίνα	_	NOUN	NOUN	_	10	nsubj
+10	γέννησε	_	VERB	VERB	_	0	root
+11	τα	_	ADJ	ADJ	_	12	det
+12	δίδυμα	_	NOUN	NOUN	_	10	dobj
+13	,	_	PUNCT	PUNCT	_	12	punct
+14	Νοξ	_	NOUN	NOUN	_	15	nmod
+15	Λεόν	_	NOUN	NOUN	_	12	conj
+16	και	_	CONJ	CONJ	_	12	cc
+17	Βιβιέν	_	ADJ	ADJ	_	18	amod
+18	Μαρσελίν	_	NOUN	NOUN	_	12	conj
+19	στην	_	ADP	ADP	_	20	case
+20	Νίκαια	_	NOUN	NOUN	_	18	nmod
+21	της	_	ADJ	ADJ	_	22	det
+22	Γαλλίας	_	NOUN	NOUN	_	20	nmod
+23	.	_	PUNCT	PUNCT	_	10	punct
+

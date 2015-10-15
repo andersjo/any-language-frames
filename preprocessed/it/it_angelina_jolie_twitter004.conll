@@ -1,0 +1,20 @@
+1	@CheccoDan88	_	PROPN	PROPN	_	10	nsubj
+2	Buonasera	_	PROPN	PROPN	_	1	name
+3	!	_	PUNCT	PUNCT	_	1	punct
+4	Grazie	_	NOUN	NOUN	_	1	appos
+5	per	_	ADP	ADP	_	8	case
+6	un	_	DET	DET	_	8	det
+7	grande	_	ADJ	ADJ	_	8	amod
+8	sito	_	NOUN	NOUN	_	10	nsubj
+9	!	_	PUNCT	PUNCT	_	1	punct
+10	Star	_	VERB	VERB	_	0	root
+11	di	_	ADP	ADP	_	12	case
+12	Hollywood	_	PROPN	PROPN	_	10	nmod
+13	sono	_	VERB	VERB	_	14	cop
+14	belle	_	ADJ	ADJ	_	10	conj
+15	,	_	PUNCT	PUNCT	_	14	punct
+16	soprattutto	_	ADV	ADV	_	17	advmod
+17	Angelina	_	PROPN	PROPN	_	14	nsubj
+18	Jolie	_	PROPN	PROPN	_	17	name
+19	.	_	PUNCT	PUNCT	_	10	punct
+

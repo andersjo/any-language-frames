@@ -1,0 +1,11 @@
+1	@maizansofia	_	PROPN	PROPN	_	3	nmod:poss
+2	translate	_	NOUN	NOUN	_	1	dep
+3	kat	_	NOUN	NOUN	_	4	nmod:poss
+4	google	_	NOUN	NOUN	_	0	root
+5	.	_	PUNCT	PUNCT	_	4	punct
+6	mesti	_	NOUN	NOUN	_	8	nmod:poss
+7	hg	_	ADJ	ADJ	_	8	amod
+8	paham	_	NOUN	NOUN	_	4	conj
+9	.	_	PUNCT	PUNCT	_	4	punct
+10	😁	_	NOUN	NOUN	_	8	conj
+

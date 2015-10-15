@@ -1,0 +1,16 @@
+1	@twillumsgaard	_	PROPN	PROPN	_	4	nsubj
+2	du	_	PRON	PRON	_	5	nmod
+3	må	_	AUX	AUX	_	14	aux
+4	selv	_	PRON	PRON	_	14	nmod
+5	Google	_	NOUN	NOUN	_	4	dep
+6	dig	_	PRON	PRON	_	5	nmod
+7	til	_	ADP	ADP	_	8	case
+8	dokumentation	_	NOUN	NOUN	_	6	nmod
+9	,	_	PUNCT	PUNCT	_	14	punct
+10	det	_	PRON	PRON	_	14	nsubj
+11	er	_	AUX	AUX	_	14	cop
+12	ikke	_	ADV	ADV	_	14	neg
+13	så	_	ADV	ADV	_	14	advmod
+14	svært	_	ADJ	ADJ	_	0	root
+15	:-)	_	X	X	_	14	dep
+

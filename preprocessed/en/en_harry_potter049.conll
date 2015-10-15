@@ -1,0 +1,26 @@
+1	The	_	DET	DET	_	3	det
+2	novel	_	NOUN	NOUN	_	3	compound
+3	ends	_	NOUN	NOUN	_	10	nmod
+4	after	_	ADP	ADP	_	3	compound
+5	Harry	_	PROPN	PROPN	_	7	compound
+6	saves	_	PROPN	PROPN	_	7	compound
+7	Ginny's	_	PROPN	PROPN	_	8	compound
+8	life	_	NOUN	NOUN	_	3	conj
+9	by	_	ADP	ADP	_	10	mark
+10	destroying	_	VERB	VERB	_	0	root
+11	a	_	DET	DET	_	12	det
+12	basilisk	_	NOUN	NOUN	_	10	dobj
+13	and	_	CONJ	CONJ	_	12	cc
+14	the	_	DET	DET	_	16	det
+15	enchanted	_	ADJ	ADJ	_	0	foreign
+16	diary	_	NOUN	NOUN	_	12	conj
+17	which	_	DET	DET	_	19	nsubj
+18	has	_	AUX	AUX	_	19	aux
+19	been	_	VERB	VERB	_	16	acl:relcl
+20	the	_	DET	DET	_	21	det
+21	source	_	NOUN	NOUN	_	19	nsubj
+22	of	_	ADP	ADP	_	19	compound:prt
+23	the	_	DET	DET	_	24	det
+24	problems	_	NOUN	NOUN	_	22	dobj
+25	.	_	PUNCT	PUNCT	_	10	punct
+

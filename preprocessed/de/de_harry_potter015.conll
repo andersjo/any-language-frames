@@ -1,0 +1,10 @@
+1	Die	_	DET	DET	_	2	det
+2	Harry-Potter-Heptalogie	_	PROPN	PROPN	_	7	nsubjpass
+3	kann	_	AUX	AUX	_	7	aux
+4	verschiedenen	_	ADJ	ADJ	_	6	amod
+5	literarischen	_	ADJ	ADJ	_	6	amod
+6	Genres	_	NOUN	NOUN	_	7	nsubjpass
+7	zugeordnet	_	VERB	VERB	_	0	root
+8	werden	_	AUX	AUX	_	7	auxpass
+9	.	_	PUNCT	PUNCT	_	7	punct
+

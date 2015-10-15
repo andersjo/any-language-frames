@@ -1,0 +1,13 @@
+1	#EEUU	_	PROPN	PROPN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	las	_	DET	DET	_	4	det
+4	fotos	_	NOUN	NOUN	_	1	appos
+5	inéditas	_	ADJ	ADJ	_	4	amod
+6	de	_	ADP	ADP	_	8	case
+7	la	_	DET	DET	_	8	det
+8	actriz	_	NOUN	NOUN	_	4	nmod
+9	#AngelinaJolie	_	PROPN	PROPN	_	8	appos
+10	al	_	ADP	ADP	_	11	case
+11	desnudo	_	VERB	VERB	_	4	advcl
+12	http://t.co/nBvPLrL0jC	_	PROPN	PROPN	_	11	dobj
+

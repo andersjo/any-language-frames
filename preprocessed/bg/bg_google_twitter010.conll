@@ -1,0 +1,8 @@
+1	Комната	_	NOUN	NOUN	_	0	root
+2	в	_	ADP	ADP	_	4	case
+3	старом	_	ADJ	ADJ	_	4	amod
+4	стиле	_	NOUN	NOUN	_	1	nmod
+5	.	_	PUNCT	PUNCT	_	6	punct
+6	#дизайн	_	PROPN	PROPN	_	4	nmod
+7	https://t.co/AZ138T08Ki	_	PROPN	PROPN	_	6	name
+

@@ -1,0 +1,11 @@
+1	Το	_	ADJ	ADJ	_	3	det
+2	τελικό	_	ADJ	ADJ	_	3	amod
+3	σκορ	_	NOUN	NOUN	_	5	nsubj
+4	ήταν	_	VERB	VERB	_	5	cop
+5	2-1	_	NUM	NUM	_	0	root
+6	,	_	PUNCT	PUNCT	_	9	punct
+7	υπέρ	_	ADP	ADP	_	9	case
+8	της	_	ADJ	ADJ	_	9	det
+9	Πορτογαλίας	_	NOUN	NOUN	_	5	nmod
+10	.	_	PUNCT	PUNCT	_	4	punct
+

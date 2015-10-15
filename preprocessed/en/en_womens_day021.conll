@@ -1,0 +1,26 @@
+1	The	_	DET	DET	_	3	det
+2	1914	_	NUM	NUM	_	3	nummod
+3	observance	_	NOUN	NOUN	_	9	nmod:tmod
+4	of	_	ADP	ADP	_	3	compound
+5	the	_	DET	DET	_	6	det
+6	Day	_	NOUN	NOUN	_	9	nmod:tmod
+7	in	_	ADP	ADP	_	6	compound
+8	Germany	_	PROPN	PROPN	_	6	nmod
+9	was	_	VERB	VERB	_	12	cop
+10	dedicated	_	ADJ	ADJ	_	0	advcl
+11	to	_	ADP	ADP	_	12	compound
+12	women's	_	NOUN	NOUN	_	15	dobj
+13	right	_	ADJ	ADJ	_	0	compound:prt
+14	to	_	PART	PART	_	15	mark
+15	vote	_	VERB	VERB	_	22	advcl
+16	,	_	PUNCT	PUNCT	_	15	punct
+17	which	_	DET	DET	_	22	nsubj
+18	German	_	ADJ	ADJ	_	0	iobj
+19	women	_	NOUN	NOUN	_	22	nsubj
+20	did	_	AUX	AUX	_	22	aux
+21	not	_	ADV	ADV	_	22	neg
+22	win	_	VERB	VERB	_	0	root
+23	until	_	ADP	ADP	_	22	compound:prt
+24	1918	_	NUM	NUM	_	22	dobj
+25	.	_	PUNCT	PUNCT	_	9	punct
+

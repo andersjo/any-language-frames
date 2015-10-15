@@ -1,0 +1,20 @@
+1	Événement	_	ADV	ADV	_	2	advmod
+2	demain	_	ADV	ADV	_	3	advmod
+3	9h	_	NOUN	NOUN	_	5	ccomp
+4	,	_	PUNCT	PUNCT	_	5	punct
+5	retrouvez	_	VERB	VERB	_	0	root
+6	Angelina	_	PROPN	PROPN	_	5	dobj
+7	Jolie	_	VERB	VERB	_	6	acl
+8	au	_	ADP	ADP	_	9	case
+9	micro	_	INTJ	INTJ	_	11	case
+10	de	_	ADP	ADP	_	11	case
+11	@Stephbou08	_	PROPN	PROPN	_	7	nmod
+12	dans	_	ADP	ADP	_	13	case
+13	@LVT_RTL	_	PROPN	PROPN	_	11	nmod
+14	pour	_	ADP	ADP	_	15	mark
+15	#Invincible	_	VERB	VERB	_	7	advcl
+16	un	_	DET	DET	_	17	det
+17	film	_	NOUN	NOUN	_	15	dobj
+18	RTL	_	X	X	_	19	compound
+19	http://t.co/EW849FO0Pp	_	X	X	_	17	appos
+

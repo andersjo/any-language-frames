@@ -1,0 +1,23 @@
+1	Angelina	_	PROPN	PROPN	_	2	compound
+2	Jolie	_	PROPN	PROPN	_	5	nsubj
+3	(	_	PUNCT	PUNCT	_	2	punct
+4	;	_	PUNCT	PUNCT	_	5	punct
+5	born	_	VERB	VERB	_	8	amod
+6	Angelina	_	PROPN	PROPN	_	7	compound
+7	Jolie	_	PROPN	PROPN	_	8	compound
+8	Voight	_	NOUN	NOUN	_	0	root
+9	;	_	PUNCT	PUNCT	_	5	punct
+10	June	_	PROPN	PROPN	_	8	appos
+11	4	_	NUM	NUM	_	10	nummod
+12	,	_	PUNCT	PUNCT	_	10	punct
+13	1975	_	NUM	NUM	_	10	nmod:tmod
+14	)	_	PUNCT	PUNCT	_	10	punct
+15	,	_	PUNCT	PUNCT	_	10	punct
+16	is	_	VERB	VERB	_	19	cop
+17	an	_	DET	DET	_	19	det
+18	American	_	ADJ	ADJ	_	0	foreign
+19	actress	_	NOUN	NOUN	_	5	parataxis
+20	and	_	CONJ	CONJ	_	19	cc
+21	filmmaker	_	NOUN	NOUN	_	19	conj
+22	.	_	PUNCT	PUNCT	_	5	punct
+

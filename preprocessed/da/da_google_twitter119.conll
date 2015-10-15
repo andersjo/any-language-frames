@@ -1,0 +1,11 @@
+1	LG	_	X	X	_	2	dep
+2	G	_	X	X	_	3	dep
+3	Flex	_	PROPN	PROPN	_	5	nmod:poss
+4	smartphone	_	PROPN	PROPN	_	3	name
+5	confirmed	_	NOUN	NOUN	_	0	root
+6	at	_	PART	PART	_	5	dep
+7	CES	_	NOUN	NOUN	_	6	dep
+8	2015	_	NUM	NUM	_	10	nummod
+9	http://t.co/kKQfpnD00d	_	ADJ	ADJ	_	10	amod
+10	#google	_	NOUN	NOUN	_	7	nmod
+

@@ -1,0 +1,22 @@
+1	@pternlsn	_	PROPN	PROPN	_	6	nsubj
+2	@PrinsesseEmmy	_	PROPN	PROPN	_	1	name
+3	Arh	_	PROPN	PROPN	_	1	name
+4	,	_	PUNCT	PUNCT	_	6	punct
+5	jeg	_	PRON	PRON	_	6	nsubj
+6	vidste	_	VERB	VERB	_	0	root
+7	godt	_	ADV	ADV	_	6	advmod
+8	at	_	SCONJ	SCONJ	_	12	mark
+9	man	_	PRON	PRON	_	12	nsubj
+10	ikke	_	ADV	ADV	_	12	neg
+11	kan	_	AUX	AUX	_	12	aux
+12	stole	_	VERB	VERB	_	6	dep
+13	på	_	ADP	ADP	_	14	case
+14	hjernen/sanserne	_	NOUN	NOUN	_	12	nmod
+15	i	_	ADP	ADP	_	16	case
+16	forvejen	_	NOUN	NOUN	_	14	nmod
+17	.	_	PUNCT	PUNCT	_	12	punct
+18	Google	_	NOUN	NOUN	_	19	nsubj
+19	gav	_	VERB	VERB	_	6	dep
+20	fx	_	ADV	ADV	_	19	advmod
+21	http://t.co/AtQNOZw9Jl	_	NOUN	NOUN	_	19	dobj
+

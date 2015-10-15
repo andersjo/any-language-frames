@@ -1,0 +1,9 @@
+1	Jesus	_	PROPN	PROPN	_	2	compound
+2	Christ	_	PROPN	PROPN	_	3	nsubj
+3	look	_	VERB	VERB	_	0	root
+4	at	_	ADP	ADP	_	3	compound:prt
+5	Harry	_	PROPN	PROPN	_	6	compound
+6	Potter's	_	PROPN	PROPN	_	7	compound
+7	eyebrows	_	NOUN	NOUN	_	3	dobj
+8	.	_	PUNCT	PUNCT	_	3	punct
+

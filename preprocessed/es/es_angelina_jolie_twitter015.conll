@@ -1,0 +1,11 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	6	nsubj
+3	,	_	PUNCT	PUNCT	_	6	punct
+4	aún	_	ADV	ADV	_	6	advmod
+5	mas	_	ADV	ADV	_	6	advmod
+6	exuberante	_	ADJ	ADJ	_	0	root
+7	que	_	SCONJ	SCONJ	_	5	mark
+8	de	_	ADP	ADP	_	9	case
+9	costumbre	_	NOUN	NOUN	_	7	mwe
+10	http://t.co/1iSX9PddAF	_	PROPN	PROPN	_	9	appos
+

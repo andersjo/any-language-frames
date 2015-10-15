@@ -1,0 +1,21 @@
+1	Pêeter	_	PROPN	PROPN	_	2	name
+2	Ünkut	_	PROPN	PROPN	_	4	nsubj
+3	a	_	AUX	AUX	_	4	aux
+4	découvert	_	VERB	VERB	_	0	root
+5	ce	_	DET	DET	_	6	det
+6	que	_	ADV	ADV	_	7	advmod
+7	google	_	ADJ	ADJ	_	4	dobj
+8	dit	_	VERB	VERB	_	7	acl
+9	à	_	ADP	ADP	_	10	case
+10	propos	_	NOUN	NOUN	_	8	nmod
+11	de	_	ADP	ADP	_	8	case
+12	de	_	ADP	ADP	_	13	case
+13	lui	_	PRON	PRON	_	11	nmod
+14	,	_	PUNCT	PUNCT	_	15	punct
+15	découvre	_	VERB	VERB	_	8	acl
+16	le	_	DET	DET	_	17	det
+17	toi	_	PRON	PRON	_	15	dobj
+18	aussi	_	ADV	ADV	_	17	advmod
+19	!	_	PUNCT	PUNCT	_	17	punct
+20	http://t.co/qHupq0UzmC	_	PROPN	PROPN	_	17	appos
+

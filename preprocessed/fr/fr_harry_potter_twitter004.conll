@@ -1,0 +1,15 @@
+1	@Le_Harry_Potter	_	PROPN	PROPN	_	3	name
+2	@Tom_jedusor33	_	PROPN	PROPN	_	3	name
+3	@malefoy_drago	_	PROPN	PROPN	_	5	nsubj
+4	*	_	PUNCT	PUNCT	_	3	punct
+5	mange	_	VERB	VERB	_	0	root
+6	de	_	ADP	ADP	_	8	case
+7	la	_	DET	DET	_	8	det
+8	glace	_	NOUN	NOUN	_	5	nmod
+9	oklm	_	PROPN	PROPN	_	8	appos
+10	en	_	ADP	ADP	_	12	case
+11	les	_	DET	DET	_	12	det
+12	regardant	_	NOUN	NOUN	_	5	nmod
+13	*	_	PUNCT	PUNCT	_	9	punct
+14	http://t.co/bzzohrIwSp	_	PROPN	PROPN	_	12	appos
+

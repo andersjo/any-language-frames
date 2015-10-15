@@ -1,0 +1,21 @@
+1	I	_	ADP	ADP	_	2	case
+2	april	_	NOUN	NOUN	_	4	nmod
+3	2007	_	NUM	NUM	_	2	nmod
+4	opnåede	_	VERB	VERB	_	0	root
+5	han	_	PRON	PRON	_	4	nsubj
+6	for	_	ADP	ADP	_	8	case
+7	tredje	_	ADJ	ADJ	_	8	amod
+8	år	_	NOUN	NOUN	_	4	nmod
+9	i	_	ADP	ADP	_	10	case
+10	træk	_	NOUN	NOUN	_	4	nmod
+11	at	_	PART	PART	_	10	dep
+12	vinde	_	VERB	VERB	_	11	dep
+13	PFA	_	PROPN	PROPN	_	12	dobj
+14	Fans	_	PROPN	PROPN	_	13	name
+15	'	_	PUNCT	PUNCT	_	16	punct
+16	Player	_	PROPN	PROPN	_	13	dep
+17	of	_	X	X	_	16	dep
+18	the	_	X	X	_	17	dep
+19	Year	_	PROPN	PROPN	_	18	dep
+20	.	_	PUNCT	PUNCT	_	4	punct
+

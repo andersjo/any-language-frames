@@ -1,0 +1,18 @@
+1	Google	_	NOUN	NOUN	_	2	nsubj
+2	satsade	_	VERB	VERB	_	0	root
+3	på	_	ADP	ADP	_	5	case
+4	ett	_	DET	DET	_	5	det
+5	enkelt	_	ADJ	ADJ	_	2	advmod
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	rent	_	ADV	ADV	_	2	advmod
+8	och	_	CONJ	CONJ	_	5	cc
+9	snabbt	_	ADV	ADV	_	7	mwe
+10	gränssnitt	_	NOUN	NOUN	_	2	conj
+11	vilket	_	PRON	PRON	_	12	nsubj
+12	bidrog	_	VERB	VERB	_	10	acl:relcl
+13	till	_	ADP	ADP	_	16	case
+14	Googles	_	PROPN	PROPN	_	16	nmod:poss
+15	starka	_	ADJ	ADJ	_	16	amod
+16	expansion	_	NOUN	NOUN	_	12	nmod
+17	.	_	PUNCT	PUNCT	_	2	punct
+

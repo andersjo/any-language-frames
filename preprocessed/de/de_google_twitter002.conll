@@ -1,0 +1,10 @@
+1	Futsal	_	NOUN	NOUN	_	5	nsubj
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Der	_	DET	DET	_	4	det
+4	Kapit�n	_	NOUN	NOUN	_	5	nsubj
+5	kehrt	_	VERB	VERB	_	0	root
+6	an	_	ADP	ADP	_	7	case
+7	Bord	_	NOUN	NOUN	_	5	nmod
+8	zur�ck	_	PROPN	PROPN	_	9	name
+9	http://t.co/aV8Kxr1bNI	_	PROPN	PROPN	_	7	appos
+

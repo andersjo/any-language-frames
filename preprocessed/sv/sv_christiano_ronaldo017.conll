@@ -1,0 +1,22 @@
+1	Han	_	PRON	PRON	_	2	nsubj
+2	gjorde	_	VERB	VERB	_	0	root
+3	två	_	NUM	NUM	_	4	nummod
+4	mål	_	NOUN	NOUN	_	2	dobj
+5	mot	_	ADP	ADP	_	7	case
+6	Moreirense	_	ADJ	ADJ	_	7	amod
+7	FC	_	NOUN	NOUN	_	2	nmod
+8	i	_	ADP	ADP	_	10	case
+9	sin	_	DET	DET	_	10	nmod:poss
+10	debutmatch	_	NOUN	NOUN	_	2	nmod
+11	för	_	ADP	ADP	_	12	case
+12	Sporting	_	NOUN	NOUN	_	2	nmod
+13	,	_	PUNCT	PUNCT	_	2	punct
+14	och	_	CONJ	CONJ	_	2	cc
+15	var	_	AUX	AUX	_	17	cop
+16	samtidigt	_	ADV	ADV	_	17	advmod
+17	aktuell	_	ADJ	ADJ	_	2	conj
+18	för	_	ADP	ADP	_	20	case
+19	Portugals	_	NOUN	NOUN	_	20	nmod:poss
+20	U17-landslag	_	NOUN	NOUN	_	17	nmod
+21	.	_	PUNCT	PUNCT	_	2	punct
+

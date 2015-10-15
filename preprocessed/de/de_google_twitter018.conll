@@ -1,0 +1,19 @@
+1	Morgen	_	ADV	ADV	_	2	advmod
+2	geht	_	VERB	VERB	_	0	root
+3	es	_	PRON	PRON	_	2	nsubj
+4	wieder	_	ADV	ADV	_	2	advmod
+5	los	_	ADV	ADV	_	2	advmod
+6	.	_	PUNCT	PUNCT	_	2	punct
+7	Volle	_	ADJ	ADJ	_	8	amod
+8	Kraft	_	NOUN	NOUN	_	2	nsubj
+9	voraus	_	ADV	ADV	_	2	mark
+10	.	_	PUNCT	PUNCT	_	2	punct
+11	Blind	_	PROPN	PROPN	_	13	amod
+12	.	_	PUNCT	PUNCT	_	11	punct
+13	#seo	_	PROPN	PROPN	_	8	appos
+14	im	_	ADP	ADP	_	16	case
+15	echten	_	ADJ	ADJ	_	16	amod
+16	Leben	_	NOUN	NOUN	_	13	nmod
+17	:	_	PUNCT	PUNCT	_	16	punct
+18	http://t.co/OGfclH19pR	_	PROPN	PROPN	_	16	appos
+

@@ -1,0 +1,14 @@
+1	@wijden_el	_	PROPN	PROPN	_	2	name
+2	vasy	_	PROPN	PROPN	_	9	nsubj
+3	la	_	DET	DET	_	4	det
+4	flemme	_	NOUN	NOUN	_	2	appos
+5	de	_	ADP	ADP	_	6	case
+6	toi	_	PRON	PRON	_	4	nmod
+7	mdrrr	_	PROPN	PROPN	_	4	nmod
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	va	_	VERB	VERB	_	0	root
+10	sur	_	ADP	ADP	_	11	case
+11	google	_	NOUN	NOUN	_	9	nmod
+12	tu	_	PRON	PRON	_	13	appos
+13	verras	_	PROPN	PROPN	_	11	appos
+

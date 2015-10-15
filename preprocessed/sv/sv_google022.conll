@@ -1,0 +1,12 @@
+1	Några	_	DET	DET	_	2	det
+2	år	_	NOUN	NOUN	_	4	nmod
+3	senare	_	ADV	ADV	_	4	advmod
+4	ändrades	_	VERB	VERB	_	0	root
+5	dock	_	ADV	ADV	_	4	advmod
+6	namnet	_	NOUN	NOUN	_	4	dobj
+7	till	_	ADP	ADP	_	8	case
+8	Google	_	PROPN	PROPN	_	4	nmod
+9	utan	_	ADP	ADP	_	10	case
+10	utropstecken	_	NOUN	NOUN	_	4	nmod
+11	.	_	PUNCT	PUNCT	_	4	punct
+

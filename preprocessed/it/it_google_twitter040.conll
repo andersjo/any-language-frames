@@ -1,0 +1,11 @@
+1	@ana_aa77	_	PROPN	PROPN	_	0	root
+2	Saoirse	_	PROPN	PROPN	_	1	name
+3	Ronan	_	PROPN	PROPN	_	1	name
+4	(	_	PUNCT	PUNCT	_	5	punct
+5	foto	_	NOUN	NOUN	_	1	appos
+6	dela	_	VERB	VERB	_	5	acl
+7	do	_	PROPN	PROPN	_	6	nsubj
+8	Google	_	PROPN	PROPN	_	7	name
+9	)	_	PUNCT	PUNCT	_	7	punct
+10	http://t.co/v9NaOBsHf4	_	PROPN	PROPN	_	7	conj
+

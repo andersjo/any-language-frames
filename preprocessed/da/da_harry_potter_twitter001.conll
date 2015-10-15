@@ -1,0 +1,8 @@
+1	Harry	_	ADJ	ADJ	_	2	amod
+2	Potter	_	NOUN	NOUN	_	6	dep
+3	og	_	CONJ	CONJ	_	2	cc
+4	De	_	PRON	PRON	_	5	nsubj
+5	vises	_	VERB	VERB	_	0	root
+6	magefett	_	NOUN	NOUN	_	5	dobj
+7	.	_	PUNCT	PUNCT	_	5	punct
+

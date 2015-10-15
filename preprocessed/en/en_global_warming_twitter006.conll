@@ -1,0 +1,23 @@
+1	We	_	PRON	PRON	_	3	nsubj
+2	can	_	AUX	AUX	_	3	aux
+3	make	_	VERB	VERB	_	0	root
+4	big	_	ADJ	ADJ	_	0	case
+5	changes	_	NOUN	NOUN	_	3	dobj
+6	with	_	ADP	ADP	_	3	compound:prt
+7	small	_	ADJ	ADJ	_	0	foreign
+8	actions	_	NOUN	NOUN	_	3	dobj
+9	when	_	ADV	ADV	_	12	advmod
+10	we	_	PRON	PRON	_	12	nsubj
+11	all	_	ADV	ADV	_	12	advmod
+12	work	_	VERB	VERB	_	3	advcl
+13	together	_	ADV	ADV	_	12	advmod
+14	.	_	PUNCT	PUNCT	_	3	punct
+15	See	_	VERB	VERB	_	12	advcl
+16	how	_	ADV	ADV	_	17	advmod
+17	quickly	_	ADV	ADV	_	19	advmod
+18	it	_	PRON	PRON	_	19	nsubj
+19	adds	_	VERB	VERB	_	15	ccomp
+20	up	_	ADV	ADV	_	19	advmod
+21	.	_	PUNCT	PUNCT	_	3	punct
+22	https://t.co/yrpnTtyBLq	_	X	X	_	19	nmod
+

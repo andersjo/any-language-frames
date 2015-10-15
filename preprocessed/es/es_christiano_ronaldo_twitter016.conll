@@ -1,0 +1,13 @@
+1	Christiano	_	PROPN	PROPN	_	2	name
+2	Ronaldo	_	PROPN	PROPN	_	0	root
+3	y	_	CONJ	CONJ	_	2	cc
+4	messie	_	PROPN	PROPN	_	7	name
+5	ADIOSSS	_	PROPN	PROPN	_	7	name
+6	YA	_	PROPN	PROPN	_	7	name
+7	LLEGO	_	PROPN	PROPN	_	2	conj
+8	EL	_	DET	DET	_	9	det
+9	MEJOR	_	NOUN	NOUN	_	2	appos
+10	JAJJA	_	PROPN	PROPN	_	9	appos
+11	♥	_	X	X	_	10	dep
+12	http://t.co/mnIFAdu1G1	_	X	X	_	11	dep
+

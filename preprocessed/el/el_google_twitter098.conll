@@ -1,0 +1,11 @@
+1	ΒΑΣΙΛΗΣ	_	NOUN	NOUN	_	0	root
+2	ΠΡΑΤΣΙΝΑΚΗΣ	_	NOUN	NOUN	_	1	nmod
+3	ΔΕΥΤΕΡΑ	_	NOUN	NOUN	_	2	nmod
+4	5	_	NUM	NUM	_	5	nmod
+5	ΙΑΝΟΥΑΡΙΟΥ	_	NOUN	NOUN	_	3	nmod
+6	MONTE	_	NOUN	NOUN	_	5	nmod
+7	(	_	PUNCT	PUNCT	_	9	punct
+8	40	_	NUM	NUM	_	9	nmod
+9	ΕΚΚΛΗΣΙΕΣ)	_	NOUN	NOUN	_	5	appos
+10	http://t.co/coCTQAoFvI	_	NOUN	NOUN	_	9	nmod
+

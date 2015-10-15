@@ -1,0 +1,15 @@
+1	"	_	PUNCT	PUNCT	_	3	punct
+2	La	_	DET	DET	_	3	det
+3	boca	_	NOUN	NOUN	_	0	root
+4	de	_	ADP	ADP	_	5	case
+5	chupo	_	PROPN	PROPN	_	3	nmod
+6	.	_	PUNCT	PUNCT	_	3	punct
+7	"	_	PUNCT	PUNCT	_	9	punct
+8	-	_	PUNCT	PUNCT	_	10	punct
+9	Angelina	_	PROPN	PROPN	_	10	name
+10	Jolie	_	PROPN	PROPN	_	5	conj
+11	según	_	ADP	ADP	_	13	case
+12	mi	_	DET	DET	_	13	nmod:poss
+13	papá	_	NOUN	NOUN	_	3	nmod
+14	.	_	PUNCT	PUNCT	_	10	punct
+

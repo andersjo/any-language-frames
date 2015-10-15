@@ -1,0 +1,25 @@
+1	Има	_	VERB	VERB	_	13	ccomp
+2	ли	_	PART	PART	_	1	discourse
+3	некој	_	VERB	VERB	_	1	ccomp
+4	да	_	PART	PART	_	6	aux
+5	ми	_	PRON	PRON	_	6	iobj
+6	даде	_	VERB	VERB	_	3	ccomp
+7	Harry	_	PROPN	PROPN	_	6	dobj
+8	Potter	_	PROPN	PROPN	_	7	name
+9	Extended	_	PROPN	PROPN	_	7	name
+10	Version	_	PROPN	PROPN	_	9	nmod
+11	,	_	PUNCT	PUNCT	_	1	punct
+12	илу	_	NOUN	NOUN	_	13	nsubj
+13	било	_	VERB	VERB	_	0	root
+14	каква	_	DET	DET	_	15	det
+15	верзија	_	NOUN	NOUN	_	23	nsubj
+16	на	_	ADP	ADP	_	20	case
+17	последните	_	ADJ	ADJ	_	20	amod
+18	два	_	NUM	NUM	_	20	nummod
+19	филмови	_	ADJ	ADJ	_	20	amod
+20	!?	_	PROPN	PROPN	_	15	nmod
+21	@FStojanovski1	_	PROPN	PROPN	_	20	name
+22	ти	_	PRON	PRON	_	23	iobj
+23	можеби	_	VERB	VERB	_	13	ccomp
+24	?	_	PUNCT	PUNCT	_	1	punct
+

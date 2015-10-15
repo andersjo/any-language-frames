@@ -1,0 +1,17 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	New	_	PROPN	PROPN	_	6	nsubj
+3	York	_	PROPN	PROPN	_	2	name
+4	Times	_	ADJ	ADJ	_	2	name
+5	"	_	PUNCT	PUNCT	_	2	punct
+6	skrev	_	VERB	VERB	_	0	root
+7	:	_	PUNCT	PUNCT	_	6	punct
+8	"	_	PUNCT	PUNCT	_	9	punct
+9	Kate	_	NOUN	NOUN	_	6	dobj
+10	(	_	PUNCT	PUNCT	_	9	punct
+11	Angelina	_	ADJ	ADJ	_	12	amod
+12	Jolie	_	NOUN	NOUN	_	9	appos
+13	)	_	PUNCT	PUNCT	_	9	punct
+14	sticker	_	VERB	VERB	_	6	parataxis
+15	ut	_	ADV	ADV	_	14	compound:prt
+16	.	_	PUNCT	PUNCT	_	14	punct
+

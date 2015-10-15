@@ -1,0 +1,11 @@
+1	@TwoSyncOfficial	_	PROPN	PROPN	_	0	root
+2	...	_	PUNCT	PUNCT	_	3	punct
+3	Knob	_	PROPN	PROPN	_	4	compound
+4	head	_	NOUN	NOUN	_	1	appos
+5	(	_	PUNCT	PUNCT	_	1	punct
+6	Matt)-	_	PROPN	PROPN	_	7	compound
+7	Ibrahimovic	_	PROPN	PROPN	_	10	compound
+8	Chris-	_	PROPN	PROPN	_	10	compound
+9	Christiano	_	PROPN	PROPN	_	10	compound
+10	Ronaldo	_	PROPN	PROPN	_	1	list
+

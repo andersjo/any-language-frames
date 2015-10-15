@@ -1,0 +1,16 @@
+1	Lego	_	PROPN	PROPN	_	2	compound
+2	Harry	_	PROPN	PROPN	_	5	compound
+3	Potter	_	PROPN	PROPN	_	5	compound
+4	Dark	_	PROPN	PROPN	_	5	compound
+5	Grey	_	PROPN	PROPN	_	6	nsubj
+6	Open	_	VERB	VERB	_	0	root
+7	Shirt	_	PROPN	PROPN	_	8	compound
+8	Minifigure	_	PROPN	PROPN	_	6	dobj
+9	4756	_	NUM	NUM	_	11	nummod
+10	$2.55	_	PROPN	PROPN	_	11	compound
+11	Flat	_	PROPN	PROPN	_	13	compound
+12	Shippin	_	PROPN	PROPN	_	13	compound
+13	RARE	_	PROPN	PROPN	_	8	list
+14	-	_	PUNCT	PUNCT	_	15	punct
+15	http://t.co/BVYsZf8KKC	_	X	X	_	13	appos
+

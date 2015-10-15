@@ -1,0 +1,24 @@
+1	Tu	_	PRON	PRON	_	2	nsubj
+2	penses	_	NOUN	NOUN	_	0	root
+3	à	_	ADP	ADP	_	4	case
+4	quoi/qui	_	NOUN	NOUN	_	2	nmod
+5	a	_	AUX	AUX	_	8	aux
+6	se	_	PRON	PRON	_	7	dobj
+7	moment	_	NOUN	NOUN	_	2	conj
+8	même	_	ADJ	ADJ	_	7	amod
+9	?	_	PUNCT	PUNCT	_	7	punct
+10	—	_	PROPN	PROPN	_	14	name
+11	J'pense	_	PROPN	PROPN	_	14	name
+12	a	_	X	X	_	14	compound
+13	Angelina	_	PROPN	PROPN	_	14	name
+14	Jolie	_	PROPN	PROPN	_	4	appos
+15	avec	_	ADP	ADP	_	16	case
+16	moi	_	PRON	PRON	_	14	nmod
+17	tout	_	PRON	PRON	_	15	dobj
+18	de	_	ADP	ADP	_	19	case
+19	suite	_	NOUN	NOUN	_	17	nmod
+20	dans	_	ADP	ADP	_	22	case
+21	mon	_	DET	DET	_	22	nmod:poss
+22	bed	_	PROPN	PROPN	_	23	name
+23	http://t.co/0lM6aX9wEl	_	PROPN	PROPN	_	17	nmod
+

@@ -1,0 +1,20 @@
+1	“	_	PROPN	PROPN	_	2	name
+2	@cxbainslove	_	PROPN	PROPN	_	7	nsubj
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	“	_	X	X	_	5	compound
+5	@MlleSnape	_	X	X	_	2	appos
+6	:	_	PUNCT	PUNCT	_	5	punct
+7	Cite	_	VERB	VERB	_	0	root
+8	ce	_	DET	DET	_	9	det
+9	tweet	_	PROPN	PROPN	_	7	dobj
+10	avec	_	ADP	ADP	_	12	case
+11	ta	_	X	X	_	7	nmod
+12	photo	_	NOUN	NOUN	_	7	nmod
+13	préférée	_	ADJ	ADJ	_	12	amod
+14	d'Harry	_	PROPN	PROPN	_	15	name
+15	Potter	_	PROPN	PROPN	_	19	name
+16	”	_	X	X	_	19	compound
+17	http://t.co/T0j0B2MVUM	_	X	X	_	19	compound
+18	”	_	X	X	_	19	compound
+19	http://t.co/9Lqa2N4VQr	_	X	X	_	12	appos
+

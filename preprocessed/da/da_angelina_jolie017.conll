@@ -1,0 +1,13 @@
+1	Angelina	_	PROPN	PROPN	_	2	nmod:poss
+2	Jolie	_	NOUN	NOUN	_	5	nsubj
+3	har	_	AUX	AUX	_	11	aux
+4	seks	_	NUM	NUM	_	5	nummod
+5	børn	_	NOUN	NOUN	_	11	nsubjpass
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	hvoraf	_	ADV	ADV	_	11	advmod
+8	de	_	DET	DET	_	10	det
+9	tre	_	NUM	NUM	_	11	nsubjpass
+10	er	_	AUX	AUX	_	11	auxpass
+11	adopterede	_	VERB	VERB	_	0	root
+12	:	_	PUNCT	PUNCT	_	11	punct
+

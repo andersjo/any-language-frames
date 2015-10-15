@@ -1,0 +1,13 @@
+1	Angelina	_	PROPN	PROPN	_	2	compound
+2	Jolie	_	PROPN	PROPN	_	4	nsubj
+3	is	_	VERB	VERB	_	4	cop
+4	nothing	_	NOUN	NOUN	_	0	root
+5	short	_	ADJ	ADJ	_	0	foreign
+6	of	_	ADP	ADP	_	3	compound:prt
+7	absolutely	_	ADV	ADV	_	12	advmod
+8	gorgeous	_	ADJ	ADJ	_	0	foreign
+9	in	_	ADP	ADP	_	3	compound:prt
+10	maleficent	_	ADJ	ADJ	_	0	foreign
+11	!!	_	PUNCT	PUNCT	_	12	punct
+12	😍	_	NOUN	NOUN	_	4	conj
+

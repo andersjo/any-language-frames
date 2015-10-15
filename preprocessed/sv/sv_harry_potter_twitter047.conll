@@ -1,0 +1,21 @@
+1	@OmarRudberg	_	NOUN	NOUN	_	2	nsubj
+2	@oscarenestad	_	VERB	VERB	_	0	root
+3	@OGMolander	_	NOUN	NOUN	_	2	dobj
+4	@FelixSandman	_	VERB	VERB	_	2	xcomp
+5	@thefooomusic	_	NOUN	NOUN	_	4	nsubj
+6	jag	_	PRON	PRON	_	8	nsubj
+7	ska	_	AUX	AUX	_	8	aux
+8	se	_	VERB	VERB	_	5	acl:relcl
+9	på	_	ADP	ADP	_	11	case
+10	Harry	_	PROPN	PROPN	_	11	nmod:poss
+11	Potter	_	NOUN	NOUN	_	8	nmod
+12	nu	_	ADV	ADV	_	8	advmod
+13	,	_	PUNCT	PUNCT	_	11	punct
+14	någon	_	PRON	PRON	_	8	dobj
+15	av	_	ADP	ADP	_	16	case
+16	er	_	PRON	PRON	_	14	nmod
+17	som	_	PRON	PRON	_	20	nsubj
+18	vill	_	AUX	AUX	_	20	aux
+19	joina	_	NOUN	NOUN	_	20	nsubj
+20	??	_	VERB	VERB	_	16	acl:relcl
+

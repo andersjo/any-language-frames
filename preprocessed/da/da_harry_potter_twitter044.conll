@@ -1,0 +1,12 @@
+1	@MThaastrup	_	PROPN	PROPN	_	5	nsubj
+2	Man	_	PROPN	PROPN	_	1	name
+3	kan	_	AUX	AUX	_	5	aux
+4	ALTID	_	NOUN	NOUN	_	5	nsubj
+5	vende	_	VERB	VERB	_	0	root
+6	tilbage	_	ADV	ADV	_	5	nmod:loc
+7	til	_	ADP	ADP	_	9	case
+8	Harry	_	PROPN	PROPN	_	9	nmod:poss
+9	Potter	_	NOUN	NOUN	_	6	nmod
+10	!	_	PUNCT	PUNCT	_	5	punct
+11	😃	_	NOUN	NOUN	_	8	list
+

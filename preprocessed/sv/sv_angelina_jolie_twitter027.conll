@@ -1,0 +1,23 @@
+1	Filmfredag	_	NOUN	NOUN	_	17	nsubj
+2	tillbaka	_	ADV	ADV	_	1	advmod
+3	imorgon	_	NOUN	NOUN	_	1	conj
+4	med	_	ADP	ADP	_	6	case
+5	exklusiv	_	ADJ	ADJ	_	6	amod
+6	intervju	_	NOUN	NOUN	_	3	nmod
+7	med	_	ADP	ADP	_	9	case
+8	Angelina	_	ADJ	ADJ	_	9	amod
+9	Jolie	_	NOUN	NOUN	_	6	nmod
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	Mark	_	NOUN	NOUN	_	12	det
+12	Wahlberg	_	PROPN	PROPN	_	9	appos
+13	som	_	CONJ	CONJ	_	14	mark
+14	speltorsk	_	ADJ	ADJ	_	12	acl
+15	i	_	ADP	ADP	_	17	case
+16	"	_	PUNCT	PUNCT	_	17	punct
+17	The	_	VERB	VERB	_	0	root
+18	Gambler	_	NOUN	NOUN	_	17	dobj
+19	"	_	PUNCT	PUNCT	_	18	punct
+20	m	_	NOUN	NOUN	_	21	nmod:poss
+21	m	_	NOUN	NOUN	_	22	nsubj
+22	http://t.co/l8fzHu3SZ2	_	VERB	VERB	_	17	xcomp
+

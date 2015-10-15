@@ -1,0 +1,17 @@
+1	Angelina	_	NOUN	NOUN	_	5	nsubj
+2	Jolie	_	NOUN	NOUN	_	1	nmod
+3	:	_	PUNCT	PUNCT	_	5	punct
+4	Τι	_	PRON	PRON	_	5	nsubj
+5	είπε	_	VERB	VERB	_	0	root
+6	για	_	ADP	ADP	_	8	case
+7	τα	_	ADJ	ADJ	_	8	det
+8	αντρικά	_	NOUN	NOUN	_	5	nmod
+9	ρούχα	_	NOUN	NOUN	_	8	nmod
+10	της	_	ADJ	ADJ	_	11	det
+11	κόρης	_	NOUN	NOUN	_	9	nmod
+12	της	_	ADJ	ADJ	_	13	det
+13	Shiloh	_	NOUN	NOUN	_	11	nmod
+14	;	_	PUNCT	PUNCT	_	5	punct
+15	Βίντεο	_	ADJ	ADJ	_	16	amod
+16	http://t.co/butVJnDbHu	_	NOUN	NOUN	_	11	nmod
+

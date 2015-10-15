@@ -1,0 +1,10 @@
+1	Desperately	_	ADV	ADV	_	2	advmod
+2	want	_	VERB	VERB	_	0	root
+3	to	_	PART	PART	_	4	mark
+4	go	_	VERB	VERB	_	2	xcomp
+5	to	_	ADP	ADP	_	4	compound:prt
+6	Harry	_	PROPN	PROPN	_	7	compound
+7	Potter	_	PROPN	PROPN	_	9	compound
+8	studio	_	NOUN	NOUN	_	9	compound
+9	tour	_	NOUN	NOUN	_	4	dobj
+

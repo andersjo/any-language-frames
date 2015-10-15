@@ -1,0 +1,22 @@
+1	Sitekite	_	PROPN	PROPN	_	5	appos
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	eine	_	DET	DET	_	5	det
+4	nette	_	ADJ	ADJ	_	5	amod
+5	Methode	_	NOUN	NOUN	_	0	root
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	um	_	ADP	ADP	_	9	case
+8	schnell	_	ADJ	ADJ	_	9	amod
+9	Text	_	NOUN	NOUN	_	5	nmod
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	Google	_	PROPN	PROPN	_	12	name
+12	Maps	_	PROPN	PROPN	_	9	appos
+13	und	_	CONJ	CONJ	_	9	cc
+14	eingebettete	_	ADJ	ADJ	_	15	amod
+15	Medien	_	NOUN	NOUN	_	9	conj
+16	zu	_	ADP	ADP	_	17	case
+17	sharen	_	PROPN	PROPN	_	15	nmod
+18	.	_	PUNCT	PUNCT	_	5	punct
+19	http://t.co/UDIpuYo1VE	_	PROPN	PROPN	_	21	name
+20	via	_	PROPN	PROPN	_	21	name
+21	@SitekiteHQ	_	PROPN	PROPN	_	17	appos
+

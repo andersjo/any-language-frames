@@ -1,0 +1,13 @@
+1	Χιόνια	_	NOUN	NOUN	_	0	root
+2	και	_	CONJ	CONJ	_	1	cc
+3	στη	_	ADP	ADP	_	4	case
+4	Λευκωσία	_	NOUN	NOUN	_	1	conj
+5	την	_	ADJ	ADJ	_	6	det
+6	Τετάρτη	_	NOUN	NOUN	_	4	nmod
+7	#weather	_	NOUN	NOUN	_	6	nmod
+8	#snow	_	NOUN	NOUN	_	7	nmod
+9	#Nicosia	_	NOUN	NOUN	_	8	nmod
+10	#Cyprus	_	NOUN	NOUN	_	9	nmod
+11	http://t.co/yRe50pQHZd	_	NOUN	NOUN	_	10	nmod
+12	https://t.co/SD9VBv5LP6	_	NOUN	NOUN	_	11	nmod
+

@@ -1,0 +1,18 @@
+1	Ryssland	_	PROPN	PROPN	_	5	nsubj
+2	och	_	CONJ	CONJ	_	1	cc
+3	Kina	_	PROPN	PROPN	_	1	conj
+4	vill	_	AUX	AUX	_	5	aux
+5	ha	_	VERB	VERB	_	8	advcl
+6	informationssuveränitet	_	NOUN	NOUN	_	5	dobj
+7	,	_	PUNCT	PUNCT	_	8	punct
+8	förbjuder	_	VERB	VERB	_	0	root
+9	datalagring	_	NOUN	NOUN	_	8	dobj
+10	på	_	ADP	ADP	_	12	case
+11	utländska	_	ADJ	ADJ	_	12	amod
+12	servrar	_	NOUN	NOUN	_	8	nmod
+13	för	_	ADP	ADP	_	15	case
+14	att	_	PART	PART	_	15	mark
+15	hindra	_	VERB	VERB	_	8	advcl
+16	...	_	PUNCT	PUNCT	_	8	punct
+17	http://t.co/Bst7ykSg4W	_	NOUN	NOUN	_	15	dobj
+

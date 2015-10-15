@@ -1,0 +1,16 @@
+1	J	_	PROPN	PROPN	_	3	name
+2	Alvarez	_	PROPN	PROPN	_	3	name
+3	Ft	_	PROPN	PROPN	_	0	root
+4	.	_	PUNCT	PUNCT	_	3	punct
+5	D	_	X	X	_	3	appos
+6	.	_	PUNCT	PUNCT	_	3	punct
+7	OZi	_	PROPN	PROPN	_	8	name
+8	#NowPlaying	_	PROPN	PROPN	_	5	appos
+9	via	_	ADP	ADP	_	10	case
+10	#CacoteoRadio	_	PROPN	PROPN	_	15	name
+11	HD	_	PROPN	PROPN	_	15	name
+12	#Reggaeton	_	PROPN	PROPN	_	15	name
+13	APP	_	PROPN	PROPN	_	15	name
+14	http://t.co/2ZNgpnBVuE	_	PROPN	PROPN	_	15	name
+15	http://t.co/dPSIWOvFag	_	PROPN	PROPN	_	5	appos
+

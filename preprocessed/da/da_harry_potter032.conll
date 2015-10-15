@@ -1,0 +1,20 @@
+1	Der	_	PART	PART	_	6	expl
+2	er	_	AUX	AUX	_	4	cop
+3	dog	_	ADV	ADV	_	4	advmod
+4	mange	_	ADJ	ADJ	_	0	root
+5	der	_	PART	PART	_	6	nsubj
+6	ser	_	VERB	VERB	_	4	acl:relcl
+7	tydelige	_	ADJ	ADJ	_	8	amod
+8	paralleller	_	NOUN	NOUN	_	6	dobj
+9	mellem	_	ADP	ADP	_	10	case
+10	dele	_	NOUN	NOUN	_	8	nmod
+11	af	_	ADP	ADP	_	12	case
+12	plottet	_	NOUN	NOUN	_	10	nmod
+13	i	_	ADP	ADP	_	14	case
+14	bogen	_	NOUN	NOUN	_	12	nmod
+15	og	_	CONJ	CONJ	_	14	cc
+16	den	_	DET	DET	_	18	det
+17	bibelske	_	ADJ	ADJ	_	18	amod
+18	fortælling	_	NOUN	NOUN	_	14	conj
+19	.	_	PUNCT	PUNCT	_	6	punct
+

@@ -1,0 +1,10 @@
+1	@MajaSka	_	PROPN	PROPN	_	4	compound
+2	http://t.co/IxLjWjH56x	_	X	X	_	4	compound
+3	Angelina	_	PROPN	PROPN	_	4	compound
+4	Jolie	_	PROPN	PROPN	_	5	nsubj
+5	commented	_	VERB	VERB	_	0	root
+6	on	_	ADP	ADP	_	5	compound:prt
+7	your	_	PRON	PRON	_	8	nmod:poss
+8	post	_	NOUN	NOUN	_	5	dobj
+9	.	_	PUNCT	PUNCT	_	5	punct
+

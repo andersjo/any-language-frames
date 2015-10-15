@@ -1,0 +1,27 @@
+1	Στις	_	ADP	ADP	_	3	case
+2	27	_	NUM	NUM	_	19	nmod
+3	Ιανουαρίου	_	NOUN	NOUN	_	2	nmod
+4	2007	_	NUM	NUM	_	3	nmod
+5	,	_	PUNCT	PUNCT	_	19	punct
+6	η	_	ADJ	ADJ	_	7	det
+7	μητέρα	_	NOUN	NOUN	_	19	nsubj
+8	της	_	PRON	PRON	_	7	nmod
+9	,	_	PUNCT	PUNCT	_	19	punct
+10	Μαρσελίν	_	ADJ	ADJ	_	11	amod
+11	πέθανε	_	NOUN	NOUN	_	19	nsubj
+12	από	_	ADP	ADP	_	13	case
+13	καρκίνο	_	NOUN	NOUN	_	11	nmod
+14	των	_	ADJ	ADJ	_	15	det
+15	ωοθηκών	_	NOUN	NOUN	_	13	nmod
+16	και	_	CONJ	CONJ	_	15	cc
+17	η	_	ADJ	ADJ	_	18	det
+18	Αντζελίνα	_	NOUN	NOUN	_	19	nsubj
+19	αποφάσισε	_	VERB	VERB	_	0	root
+20	να	_	PART	PART	_	21	aux
+21	συμφιλιωθεί	_	VERB	VERB	_	19	ccomp
+22	με	_	ADP	ADP	_	24	case
+23	τον	_	ADJ	ADJ	_	24	det
+24	πατέρα	_	NOUN	NOUN	_	21	nmod
+25	της	_	PRON	PRON	_	24	nmod
+26	.	_	PUNCT	PUNCT	_	19	punct
+

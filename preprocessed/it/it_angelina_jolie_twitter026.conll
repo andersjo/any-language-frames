@@ -1,0 +1,8 @@
+1	Perdi	_	NOUN	NOUN	_	0	root
+2	o	_	CONJ	CONJ	_	1	cc
+3	filme	_	NOUN	NOUN	_	1	conj
+4	da	_	ADP	ADP	_	5	case
+5	Angelina	_	PROPN	PROPN	_	1	nmod
+6	Jolie	_	PROPN	PROPN	_	5	name
+7	:((	_	PROPN	PROPN	_	5	name
+

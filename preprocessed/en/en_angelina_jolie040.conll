@@ -1,0 +1,26 @@
+1	"	_	PUNCT	PUNCT	_	4	punct
+2	She	_	PRON	PRON	_	4	nsubj
+3	also	_	ADV	ADV	_	4	advmod
+4	began	_	VERB	VERB	_	0	root
+5	using	_	VERB	VERB	_	4	xcomp
+6	drugs	_	NOUN	NOUN	_	5	dobj
+7	;	_	PUNCT	PUNCT	_	4	punct
+8	by	_	ADP	ADP	_	5	compound:prt
+9	age	_	NOUN	NOUN	_	5	nmod
+10	20	_	NUM	NUM	_	9	nummod
+11	,	_	PUNCT	PUNCT	_	14	punct
+12	she	_	PRON	PRON	_	14	nsubj
+13	had	_	AUX	AUX	_	14	aux
+14	tried	_	VERB	VERB	_	9	acl:relcl
+15	"	_	PUNCT	PUNCT	_	4	punct
+16	just	_	ADV	ADV	_	17	advmod
+17	about	_	ADP	ADP	_	14	compound:prt
+18	every	_	DET	DET	_	19	det
+19	drug	_	NOUN	NOUN	_	14	dobj
+20	possible	_	ADJ	ADJ	_	0	punct
+21	,	_	PUNCT	PUNCT	_	14	punct
+22	"	_	PUNCT	PUNCT	_	4	punct
+23	including	_	VERB	VERB	_	24	case
+24	heroin	_	NOUN	NOUN	_	19	nmod
+25	.	_	PUNCT	PUNCT	_	4	punct
+

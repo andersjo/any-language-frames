@@ -1,0 +1,16 @@
+1	''	_	PUNCT	PUNCT	_	4	punct
+2	Papi	_	PROPN	PROPN	_	4	nsubj
+3	me	_	PRON	PRON	_	4	iobj
+4	dijo	_	VERB	VERB	_	0	root
+5	que	_	SCONJ	SCONJ	_	8	mark
+6	angelina	_	PROPN	PROPN	_	7	name
+7	jolie	_	PROPN	PROPN	_	8	nsubj
+8	va	_	VERB	VERB	_	4	ccomp
+9	a	_	ADP	ADP	_	12	case
+10	ser	_	VERB	VERB	_	12	cop
+11	mi	_	DET	DET	_	12	nmod:poss
+12	mamá''	_	NOUN	NOUN	_	8	dobj
+13	sí	_	ADV	ADV	_	10	advmod
+14	,	_	PUNCT	PUNCT	_	12	punct
+15	orne	_	NOUN	NOUN	_	12	appos
+

@@ -1,0 +1,18 @@
+1	В	_	ADP	ADP	_	3	case
+2	автомобилния	_	ADJ	ADJ	_	3	amod
+3	филм	_	NOUN	NOUN	_	12	nmod
+4	"	_	PUNCT	PUNCT	_	5	punct
+5	Mojave	_	PROPN	PROPN	_	3	nmod
+6	Moon	_	PROPN	PROPN	_	5	name
+7	"	_	PUNCT	PUNCT	_	5	punct
+8	(	_	PUNCT	PUNCT	_	9	punct
+9	1996	_	NUM	NUM	_	5	nummod
+10	)	_	PUNCT	PUNCT	_	9	punct
+11	тя	_	PRON	PRON	_	12	nsubj
+12	е	_	VERB	VERB	_	0	root
+13	младеж	_	NOUN	NOUN	_	12	cop
+14	на	_	ADP	ADP	_	15	case
+15	име	_	NOUN	NOUN	_	13	nmod
+16	Елинор	_	PROPN	PROPN	_	15	nmod
+17	.	_	PUNCT	PUNCT	_	12	punct
+

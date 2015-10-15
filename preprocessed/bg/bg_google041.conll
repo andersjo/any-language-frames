@@ -1,0 +1,16 @@
+1	Различните	_	ADJ	ADJ	_	2	amod
+2	браузъри	_	NOUN	NOUN	_	3	nsubj
+3	имат	_	VERB	VERB	_	0	root
+4	добавки	_	NOUN	NOUN	_	3	dobj
+5	,	_	PUNCT	PUNCT	_	7	punct
+6	които	_	PRON	PRON	_	7	nsubj
+7	позволяват	_	VERB	VERB	_	4	acl
+8	преводът	_	NOUN	NOUN	_	7	dobj
+9	да	_	PART	PART	_	11	aux
+10	се	_	PRON	PRON	_	11	expl
+11	извърши	_	VERB	VERB	_	8	acl
+12	директно	_	ADV	ADV	_	11	advmod
+13	в	_	ADP	ADP	_	14	case
+14	браузъра	_	NOUN	NOUN	_	11	iobj
+15	.	_	PUNCT	PUNCT	_	3	punct
+

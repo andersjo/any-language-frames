@@ -1,0 +1,13 @@
+1	På	_	ADP	ADP	_	2	case
+2	mødet	_	NOUN	NOUN	_	7	nmod
+3	blev	_	AUX	AUX	_	5	auxpass
+4	der	_	PART	PART	_	11	expl
+5	udarbejdet	_	AUX	AUX	_	7	cop
+6	en	_	DET	DET	_	7	det
+7	resolution	_	NOUN	NOUN	_	0	root
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	hvor	_	ADV	ADV	_	11	advmod
+10	der	_	PART	PART	_	11	expl
+11	b	_	VERB	VERB	_	7	dep
+12	l.a.	_	X	X	_	11	dobj
+

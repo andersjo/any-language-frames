@@ -1,0 +1,19 @@
+1	I	_	DET	DET	_	2	det
+2	libri	_	NOUN	NOUN	_	5	nsubjpass
+3	sono	_	AUX	AUX	_	5	aux
+4	stati	_	AUX	AUX	_	5	auxpass
+5	tradotti	_	VERB	VERB	_	0	root
+6	in	_	ADP	ADP	_	8	case
+7	73	_	NUM	NUM	_	8	nummod
+8	lingue	_	NOUN	NOUN	_	5	nmod
+9	,	_	PUNCT	PUNCT	_	5	punct
+10	tra	_	ADP	ADP	_	11	case
+11	cui	_	PRON	PRON	_	17	nmod
+12	il	_	DET	DET	_	13	det
+13	latino	_	NOUN	NOUN	_	5	nsubjpass
+14	e	_	CONJ	CONJ	_	13	cc
+15	il	_	DET	DET	_	17	det
+16	greco	_	ADJ	ADJ	_	17	amod
+17	antico	_	NOUN	NOUN	_	13	conj
+18	.	_	PUNCT	PUNCT	_	5	punct
+

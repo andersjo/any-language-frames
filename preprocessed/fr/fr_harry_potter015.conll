@@ -1,0 +1,27 @@
+1	Il	_	PRON	PRON	_	2	nsubj
+2	s'en	_	VERB	VERB	_	5	cop
+3	est	_	AUX	AUX	_	5	auxpass
+4	ensuite	_	ADV	ADV	_	5	advmod
+5	pris	_	VERB	VERB	_	0	root
+6	à	_	ADP	ADP	_	7	case
+7	Harry	_	PROPN	PROPN	_	5	nmod
+8	,	_	PUNCT	PUNCT	_	5	punct
+9	mais	_	CONJ	CONJ	_	5	cc
+10	a	_	AUX	AUX	_	11	aux
+11	échoué	_	VERB	VERB	_	5	conj
+12	car	_	CONJ	CONJ	_	11	cc
+13	son	_	DET	DET	_	14	nmod:poss
+14	sortilège	_	NOUN	NOUN	_	16	nsubj
+15	a	_	VERB	VERB	_	16	cop
+16	ricoché	_	ADJ	ADJ	_	5	conj
+17	:	_	PUNCT	PUNCT	_	16	punct
+18	Harry	_	PROPN	PROPN	_	19	nsubj
+19	survit	_	VERB	VERB	_	5	conj
+20	,	_	PUNCT	PUNCT	_	19	punct
+21	alors	_	ADV	ADV	_	22	mwe
+22	que	_	SCONJ	SCONJ	_	25	mark
+23	Lord	_	PROPN	PROPN	_	24	name
+24	Voldemort	_	PROPN	PROPN	_	25	nsubj
+25	disparaît	_	VERB	VERB	_	19	advcl
+26	.	_	PUNCT	PUNCT	_	5	punct
+

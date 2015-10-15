@@ -1,0 +1,11 @@
+1	@JiverRiver	_	VERB	VERB	_	3	dislocated
+2	Då	_	ADV	ADV	_	1	advmod
+3	får	_	VERB	VERB	_	0	root
+4	din	_	DET	DET	_	5	nmod:poss
+5	följare	_	NOUN	NOUN	_	3	dobj
+6	använda	_	VERB	VERB	_	3	conj
+7	Google	_	PROPN	PROPN	_	6	dobj
+8	Översätt	_	VERB	VERB	_	6	xcomp
+9	istället	_	ADV	ADV	_	8	advmod
+10	:)	_	NOUN	NOUN	_	8	dobj
+

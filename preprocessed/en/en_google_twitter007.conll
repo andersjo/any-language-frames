@@ -1,0 +1,14 @@
+1	CFPB	_	ADJ	ADJ	_	0	cc
+2	Sets	_	NOUN	NOUN	_	3	compound
+3	Sights	_	NOUN	NOUN	_	0	root
+4	on	_	ADP	ADP	_	2	compound
+5	Payday	_	PROPN	PROPN	_	3	appos
+6	<	_	PUNCT	PUNCT	_	7	punct
+7	b	_	X	X	_	9	advmod
+8	>	_	PUNCT	PUNCT	_	7	punct
+9	Loans	_	PROPN	PROPN	_	5	list
+10	<	_	PUNCT	PUNCT	_	11	punct
+11	/b	_	PROPN	PROPN	_	9	appos
+12	>	_	PUNCT	PUNCT	_	11	punct
+13	http://t.co/sOHUONlRLH	_	PROPN	PROPN	_	11	appos
+

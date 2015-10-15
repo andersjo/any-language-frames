@@ -1,0 +1,25 @@
+1	ΤΙ	_	NOUN	NOUN	_	2	nmod
+2	ΕΝΝΟΕΙΣ	_	NOUN	NOUN	_	8	nsubj
+3	;	_	PUNCT	PUNCT	_	2	punct
+4	@SifisMiliarakis	_	NOUN	NOUN	_	5	nmod
+5	Γράφεις	_	NOUN	NOUN	_	8	nsubj
+6	κανέναν	_	PRON	PRON	_	7	nmod
+7	όρο	_	NOUN	NOUN	_	5	nmod
+8	περίεργο	_	VERB	VERB	_	0	root
+9	και	_	CONJ	CONJ	_	8	cc
+10	πετάγεται	_	VERB	VERB	_	8	conj
+11	το	_	ADJ	ADJ	_	12	det
+12	ούγκανο	_	NOUN	NOUN	_	10	dobj
+13	να	_	PART	PART	_	14	aux
+14	ρωτήσει	_	VERB	VERB	_	12	acl
+15	τι	_	PRON	PRON	_	16	dobj
+16	εννοείς	_	VERB	VERB	_	14	ccomp
+17	.	_	PUNCT	PUNCT	_	8	punct
+18	Google	_	NOUN	NOUN	_	20	nsubj
+19	δεν	_	PART	PART	_	20	neg
+20	πιάνεις	_	VERB	VERB	_	14	ccomp
+21	στο	_	ADP	ADP	_	22	case
+22	σπίτι	_	NOUN	NOUN	_	20	nmod
+23	σου	_	NOUN	NOUN	_	22	nmod
+24	;	_	PUNCT	PUNCT	_	8	punct
+

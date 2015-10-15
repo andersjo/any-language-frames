@@ -1,0 +1,21 @@
+1	Il	_	DET	DET	_	2	det
+2	Sole24	_	PROPN	PROPN	_	5	nsubj
+3	Ore	_	PROPN	PROPN	_	2	name
+4	:	_	PUNCT	PUNCT	_	2	punct
+5	Distrutto	_	VERB	VERB	_	0	root
+6	l’ufficio	_	NOUN	NOUN	_	5	dobj
+7	di	_	ADP	ADP	_	8	case
+8	Mirko	_	PROPN	PROPN	_	6	nmod
+9	Coratti	_	PROPN	PROPN	_	8	name
+10	(	_	PUNCT	PUNCT	_	11	punct
+11	Pd	_	PROPN	PROPN	_	8	nmod
+12	)	_	PUNCT	PUNCT	_	11	punct
+13	,	_	PUNCT	PUNCT	_	5	punct
+14	indagato	_	VERB	VERB	_	2	acl
+15	di	_	ADP	ADP	_	17	case
+16	”	_	PUNCT	PUNCT	_	17	punct
+17	Mafia	_	PROPN	PROPN	_	14	nmod
+18	Capitale	_	PROPN	PROPN	_	17	name
+19	”	_	PUNCT	PUNCT	_	17	punct
+20	http://t.co/R1IKBIMkN5	_	NOUN	NOUN	_	14	nmod
+

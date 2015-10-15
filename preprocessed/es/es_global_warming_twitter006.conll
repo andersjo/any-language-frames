@@ -1,0 +1,9 @@
+1	De	_	ADP	ADP	_	4	case
+2	por	_	ADP	ADP	_	4	case
+3	qué	_	DET	DET	_	4	det
+4	engordas	_	NOUN	NOUN	_	0	root
+5	en	_	ADP	ADP	_	6	case
+6	invierno	_	NOUN	NOUN	_	4	nmod
+7	:	_	PUNCT	PUNCT	_	6	punct
+8	http://t.co/xGOhb6EBgE	_	PROPN	PROPN	_	6	appos
+

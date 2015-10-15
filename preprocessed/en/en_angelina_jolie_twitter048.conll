@@ -1,0 +1,21 @@
+1	Check	_	VERB	VERB	_	0	root
+2	out	_	ADP	ADP	_	1	compound:prt
+3	Wanted	_	VERB	VERB	_	1	xcomp
+4	(	_	PUNCT	PUNCT	_	5	punct
+5	DVD	_	NOUN	NOUN	_	1	dobj
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	2008	_	NUM	NUM	_	5	appos
+8	,	_	PUNCT	PUNCT	_	5	punct
+9	Widescreen	_	PROPN	PROPN	_	11	compound
+10	)	_	PUNCT	PUNCT	_	9	punct
+11	Angelina	_	PROPN	PROPN	_	12	compound
+12	Jolie	_	PROPN	PROPN	_	14	compound
+13	Morgna	_	PROPN	PROPN	_	14	compound
+14	Freeman	_	PROPN	PROPN	_	15	compound
+15	http://t.co/1iCocuspTs	_	NOUN	NOUN	_	20	compound
+16	via	_	ADP	ADP	_	15	acl
+17	@eBay	_	ADJ	ADJ	_	0	foreign
+18	#dvd	_	NOUN	NOUN	_	19	compound
+19	#dvds	_	NOUN	NOUN	_	20	compound
+20	#movies	_	NOUN	NOUN	_	1	dobj
+

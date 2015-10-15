@@ -1,0 +1,27 @@
+1	La	_	DET	DET	_	2	det
+2	squadra	_	NOUN	NOUN	_	4	nsubj
+3	inglese	_	ADJ	ADJ	_	2	amod
+4	perde	_	VERB	VERB	_	0	root
+5	l'incontro	_	NOUN	NOUN	_	4	dobj
+6	per	_	ADP	ADP	_	7	case
+7	2-0	_	NUM	NUM	_	5	nummod
+8	anche	_	ADV	ADV	_	10	advmod
+9	per	_	ADP	ADP	_	10	case
+10	merito	_	NOUN	NOUN	_	4	nmod
+11	del	_	ADP	ADP	_	13	case
+12	giovane	_	ADJ	ADJ	_	13	amod
+13	talento	_	NOUN	NOUN	_	10	nmod
+14	portoghese	_	ADJ	ADJ	_	13	amod
+15	,	_	PUNCT	PUNCT	_	4	punct
+16	che	_	PRON	PRON	_	17	nsubj
+17	diviene	_	VERB	VERB	_	13	acl:relcl
+18	così	_	ADV	ADV	_	17	advmod
+19	un	_	DET	DET	_	20	det
+20	obiettivo	_	NOUN	NOUN	_	17	dobj
+21	di	_	ADP	ADP	_	22	case
+22	calciomercato	_	NOUN	NOUN	_	20	nmod
+23	del	_	ADP	ADP	_	24	case
+24	club	_	NOUN	NOUN	_	22	nmod
+25	inglese	_	ADJ	ADJ	_	24	amod
+26	.	_	PUNCT	PUNCT	_	4	punct
+

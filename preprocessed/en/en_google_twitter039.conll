@@ -1,0 +1,18 @@
+1	Sometimes	_	ADV	ADV	_	6	advmod
+2	the	_	DET	DET	_	5	det
+3	Google	_	PROPN	PROPN	_	5	compound
+4	dress	_	NOUN	NOUN	_	5	compound
+5	doesn't	_	NOUN	NOUN	_	6	nsubj
+6	fit	_	VERB	VERB	_	0	root
+7	!	_	PUNCT	PUNCT	_	6	punct
+8	-	_	PUNCT	PUNCT	_	9	punct
+9	Learning	_	VERB	VERB	_	11	amod
+10	Bytes	_	NOUN	NOUN	_	11	compound
+11	Blog	_	NOUN	NOUN	_	12	compound
+12	#edapps	_	NOUN	NOUN	_	13	compound
+13	#blendchat	_	NOUN	NOUN	_	14	compound
+14	#reflectiveteacher	_	NOUN	NOUN	_	15	nsubj
+15	#googleCT	_	VERB	VERB	_	6	parataxis
+16	#edchat	_	ADJ	ADJ	_	0	foreign
+17	http://t.co/mR6MARQfuT	_	NOUN	NOUN	_	15	dobj
+

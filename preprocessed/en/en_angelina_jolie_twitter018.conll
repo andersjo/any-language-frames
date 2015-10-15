@@ -1,0 +1,21 @@
+1	@MrsRFlintstone	_	PROPN	PROPN	_	3	compound
+2	@SMNET	_	PROPN	PROPN	_	3	compound
+3	#SMNatter	_	PROPN	PROPN	_	5	nsubj
+4	am	_	AUX	AUX	_	5	aux
+5	looking	_	VERB	VERB	_	0	root
+6	through	_	ADP	ADP	_	5	compound:prt
+7	Google	_	PROPN	PROPN	_	5	dobj
+8	;	_	PUNCT	PUNCT	_	5	punct
+9	there's	_	ADV	ADV	_	11	advmod
+10	an	_	DET	DET	_	11	det
+11	image	_	NOUN	NOUN	_	5	dobj
+12	from	_	ADP	ADP	_	11	acl
+13	a	_	DET	DET	_	15	det
+14	magazine	_	NOUN	NOUN	_	15	compound
+15	cover	_	NOUN	NOUN	_	11	nmod
+16	showing	_	VERB	VERB	_	15	acl
+17	Angelina	_	PROPN	PROPN	_	19	compound
+18	Jolie	_	PROPN	PROPN	_	19	compound
+19	BF	_	PROPN	PROPN	_	16	dobj
+20	...	_	PUNCT	PUNCT	_	5	punct
+

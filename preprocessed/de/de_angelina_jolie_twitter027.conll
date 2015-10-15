@@ -1,0 +1,16 @@
+1	#AngelinaJolie	_	PROPN	PROPN	_	2	name
+2	#Fans	_	PROPN	PROPN	_	3	name
+3	Angelina	_	PROPN	PROPN	_	4	name
+4	Jolie	_	PROPN	PROPN	_	6	name
+5	Cher	_	PROPN	PROPN	_	6	name
+6	Christopher	_	PROPN	PROPN	_	7	det
+7	Walken	_	NOUN	NOUN	_	9	compound
+8	Lisa	_	PROPN	PROPN	_	10	name
+9	Marie	_	PROPN	PROPN	_	10	name
+10	Presley	_	PROPN	PROPN	_	11	name
+11	Barbra	_	PROPN	PROPN	_	13	name
+12	Streisand	_	PROPN	PROPN	_	13	name
+13	http://t.co/v6rSoBSDHz	_	PROPN	PROPN	_	14	name
+14	#Collectibles	_	NOUN	NOUN	_	15	nmod
+15	#Sale	_	ADJ	ADJ	_	0	root
+

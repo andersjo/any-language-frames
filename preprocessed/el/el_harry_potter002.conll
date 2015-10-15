@@ -1,0 +1,19 @@
+1	Τα	_	ADJ	ADJ	_	2	det
+2	βιβλία	_	NOUN	NOUN	_	3	nsubj
+3	περιγράφουν	_	VERB	VERB	_	0	root
+4	έναν	_	ADJ	ADJ	_	5	det
+5	κόσμο	_	NOUN	NOUN	_	3	dobj
+6	μάγων	_	VERB	VERB	_	3	ccomp
+7	με	_	ADP	ADP	_	9	case
+8	βασικό	_	ADJ	ADJ	_	9	amod
+9	χαρακτήρα	_	NOUN	NOUN	_	6	nmod
+10	ένα	_	ADJ	ADJ	_	12	det
+11	νεαρό	_	ADJ	ADJ	_	12	amod
+12	αγόρι	_	NOUN	NOUN	_	9	nmod
+13	με	_	ADP	ADP	_	15	case
+14	το	_	ADJ	ADJ	_	15	det
+15	όνομα	_	NOUN	NOUN	_	12	nmod
+16	Χάρι	_	NOUN	NOUN	_	15	nmod
+17	Πότερ	_	NOUN	NOUN	_	16	nmod
+18	.	_	PUNCT	PUNCT	_	3	punct
+

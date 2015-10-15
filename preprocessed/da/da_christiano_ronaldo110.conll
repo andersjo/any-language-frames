@@ -1,0 +1,22 @@
+1	Ronaldos	_	PROPN	PROPN	_	2	nmod:poss
+2	far	_	NOUN	NOUN	_	8	nsubj
+3	,	_	PUNCT	PUNCT	_	4	punct
+4	José	_	PROPN	PROPN	_	6	nmod:poss
+5	Dinis	_	PROPN	PROPN	_	4	name
+6	Aveiro	_	NOUN	NOUN	_	8	nsubj
+7	,	_	PUNCT	PUNCT	_	4	punct
+8	døde	_	VERB	VERB	_	0	root
+9	af	_	ADP	ADP	_	10	case
+10	alkoholisme	_	NOUN	NOUN	_	8	nmod
+11	i	_	ADP	ADP	_	13	case
+12	en	_	DET	DET	_	13	det
+13	alder	_	NOUN	NOUN	_	8	nmod
+14	af	_	ADP	ADP	_	13	dep
+15	52	_	NUM	NUM	_	14	nummod
+16	,	_	PUNCT	PUNCT	_	20	punct
+17	da	_	SCONJ	SCONJ	_	20	mark
+18	Ronaldo	_	PROPN	PROPN	_	13	nmod
+19	var	_	AUX	AUX	_	20	cop
+20	20	_	NUM	NUM	_	15	conj
+21	.	_	PUNCT	PUNCT	_	8	punct
+

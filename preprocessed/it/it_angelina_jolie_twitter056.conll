@@ -1,0 +1,19 @@
+1	Propositi	_	NOUN	NOUN	_	7	nsubj
+2	per	_	ADP	ADP	_	4	case
+3	il	_	DET	DET	_	4	det
+4	2015	_	NUM	NUM	_	1	nummod
+5	:	_	PUNCT	PUNCT	_	1	punct
+6	essere	_	VERB	VERB	_	7	cop
+7	ricca	_	ADJ	ADJ	_	0	root
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	sposata	_	VERB	VERB	_	7	conj
+10	con	_	ADP	ADP	_	11	case
+11	Ryan	_	PROPN	PROPN	_	9	nmod
+12	Gosling	_	PROPN	PROPN	_	11	name
+13	ed	_	CONJ	CONJ	_	11	cc
+14	essere	_	AUX	AUX	_	15	auxpass
+15	invidiata	_	VERB	VERB	_	9	conj
+16	da	_	ADP	ADP	_	17	case
+17	Angelina	_	PROPN	PROPN	_	15	nmod
+18	Jolie	_	PROPN	PROPN	_	17	name
+

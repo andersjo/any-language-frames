@@ -1,0 +1,26 @@
+1	Ако	_	SCONJ	SCONJ	_	8	mark
+2	пробие	_	ADJ	ADJ	_	3	amod
+3	подкрепата	_	NOUN	NOUN	_	8	nsubj
+4	,	_	PUNCT	PUNCT	_	8	punct
+5	то	_	PRON	PRON	_	8	nsubj
+6	двойката	_	NOUN	NOUN	_	8	nsubj
+7	ще	_	PART	PART	_	8	aux
+8	пада	_	VERB	VERB	_	0	root
+9	още	_	ADV	ADV	_	8	advmod
+10	доста	_	ADV	ADV	_	8	advmod
+11	и	_	CONJ	CONJ	_	14	cc
+12	за	_	ADP	ADP	_	14	case
+13	дълъг	_	ADJ	ADJ	_	14	amod
+14	период	_	NOUN	NOUN	_	8	nmod
+15	от	_	ADP	ADP	_	16	case
+16	време	_	NOUN	NOUN	_	14	nmod
+17	,	_	PUNCT	PUNCT	_	18	punct
+18	но	_	CONJ	CONJ	_	8	cc
+19	не	_	INTJ	INTJ	_	20	neg
+20	изключвам	_	VERB	VERB	_	8	conj
+21	и	_	CONJ	CONJ	_	22	cc
+22	възможността	_	NOUN	NOUN	_	20	dobj
+23	за	_	ADP	ADP	_	24	case
+24	…	_	PROPN	PROPN	_	22	nmod
+25	https://t.co/y4V36nUlkA	_	PROPN	PROPN	_	24	nmod
+

@@ -1,0 +1,22 @@
+1	Notre	_	DET	DET	_	2	nmod:poss
+2	critique	_	NOUN	NOUN	_	0	root
+3	du	_	ADP	ADP	_	4	case
+4	film	_	NOUN	NOUN	_	2	nmod
+5	Invincible	_	ADJ	ADJ	_	4	amod
+6	(	_	PUNCT	PUNCT	_	8	punct
+7	VIDEO	_	PROPN	PROPN	_	8	name
+8	):	_	PROPN	PROPN	_	4	appos
+9	Dans	_	ADP	ADP	_	10	case
+10	Invincible	_	PROPN	PROPN	_	8	nmod
+11	,	_	PUNCT	PUNCT	_	8	punct
+12	biopic	_	NOUN	NOUN	_	4	appos
+13	aux	_	ADP	ADP	_	14	case
+14	accents	_	NOUN	NOUN	_	12	nmod
+15	lyriques	_	ADJ	ADJ	_	14	amod
+16	,	_	PUNCT	PUNCT	_	8	punct
+17	Angelina	_	PROPN	PROPN	_	19	name
+18	Jolie	_	PROPN	PROPN	_	19	name
+19	retrac	_	PROPN	PROPN	_	14	appos
+20	...	_	PUNCT	PUNCT	_	19	punct
+21	http://t.co/zhCtFP4mLV	_	PROPN	PROPN	_	19	nmod
+

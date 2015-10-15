@@ -1,0 +1,16 @@
+1	Brad	_	NOUN	NOUN	_	2	nsubjpass
+2	Pitt	_	VERB	VERB	_	0	root
+3	och	_	CONJ	CONJ	_	2	cc
+4	Angelina	_	ADJ	ADJ	_	5	amod
+5	Jolie	_	NOUN	NOUN	_	2	dobj
+6	i	_	ADP	ADP	_	7	case
+7	Mr	_	NOUN	NOUN	_	5	nmod
+8	&	_	VERB	VERB	_	2	conj
+9	Mrs	_	ADJ	ADJ	_	10	amod
+10	Smith	_	NOUN	NOUN	_	8	dobj
+11	är	_	AUX	AUX	_	13	cop
+12	fan	_	ADJ	ADJ	_	13	amod
+13	definitionen	_	NOUN	NOUN	_	8	nsubjpass
+14	av	_	ADP	ADP	_	15	case
+15	sex	_	NUM	NUM	_	13	nmod
+

@@ -1,0 +1,18 @@
+1	През	_	ADP	ADP	_	2	case
+2	лятото	_	NOUN	NOUN	_	9	nmod
+3	на	_	ADP	ADP	_	5	case
+4	2009	_	NUM	NUM	_	5	nummod
+5	г	_	NOUN	NOUN	_	2	nmod
+6	.	_	PUNCT	PUNCT	_	2	punct
+7	Кристиано	_	NOUN	NOUN	_	9	nsubj
+8	официално	_	ADV	ADV	_	9	advmod
+9	става	_	VERB	VERB	_	0	root
+10	футболист	_	NOUN	NOUN	_	9	dobj
+11	на	_	ADP	ADP	_	12	case
+12	Реал	_	PROPN	PROPN	_	10	nmod
+13	Мадрид	_	PROPN	PROPN	_	12	name
+14	за	_	ADP	ADP	_	15	case
+15	£80	_	PROPN	PROPN	_	10	nmod
+16	млн	_	NOUN	NOUN	_	15	nmod
+17	.	_	PUNCT	PUNCT	_	9	punct
+

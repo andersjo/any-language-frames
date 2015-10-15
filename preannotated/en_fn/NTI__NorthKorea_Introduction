@@ -1,0 +1,1412 @@
+Nuclear	_	Bearing_arms Nuclear_process Weapon
+
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+established	_	Intentionally_create
+a	_	Measure_duration Process_end Quantity
+nuclear	_	Bearing_arms Nuclear_process Weapon
+energy	_	Electricity
+research	_	Research
+complex	_	Locale_by_use System
+at	_	Locative_relation Relational_quantity Temporal_collocation
+Yongbyon	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1964	_	
+and	_	
+set	_	Activity_ready_state Aggregate Attack Bail_decision Cause_change_of_consistency Cause_to_start Change_of_consistency Departing Intentionally_create Placing
+up	_	Becoming Coming_up_with Direction Intentionally_create Locative_relation Reparation Summarizing
+a	_	Measure_duration Process_end Quantity
+Soviet	_	
+research	_	Research
+reactor	_	Locale_by_use
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+site	_	Locale Locale_by_event Locale_by_use
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+mid-2002	_	
+.	_	
+
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+subsequently	_	Relative_time
+expanded	_	Cause_expansion
+the	_	Self_motion Temporal_collocation
+complex	_	Locale_by_use System
+and	_	
+built	_	Building
+a	_	Measure_duration Process_end Quantity
+number	_	Amounting_to Be_subset_of Quantity
+of	_	Age Domain Origin Partitive
+new	_	Age Expertise Familiarity
+facilities	_	Locale_by_use
+,	_	
+including	_	Inclusion
+a	_	Measure_duration Process_end Quantity
+large	_	Dimension Size
+plutonium	_	Substance
+reprocessing	_	Processing_materials
+plant	_	Locale_by_use Placing Planting
+(	_	
+Radiochemistry	_	
+Laboratory	_	Locale_by_use
+)	_	
+.	_	
+
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+signed	_	Sign_agreement
+the	_	Self_motion Temporal_collocation
+Treaty	_	Be_in_agreement_on_action Documents Make_agreement_on_action
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+Non-Proliferation	_	Proliferating_in_number
+of	_	Age Domain Origin Partitive
+Nuclear	_	Bearing_arms Nuclear_process Weapon
+Weapons	_	Weapon
+(	_	
+NPT	_	
+)	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1985	_	
+but	_	Concessive
+did	_	Intentionally_act
+not	_	
+submit	_	Compliance Submitting_documents
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+International	_	Foreign_or_domestic_country Political_locales
+Atomic	_	
+Energy	_	Electricity
+Agency	_	Organization
+(	_	
+IAEA	_	
+)	_	
+inspections	_	Inspecting
+until	_	Time_vector
+May	_	Calendric_unit Likelihood
+1992	_	
+.	_	
+
+Discrepancies	_	Similarity
+between	_	Locative_relation
+North	_	Direction Locative_relation Part_orientational
+Korean	_	
+declarations	_	Statement
+and	_	
+IAEA	_	
+inspection	_	Inspecting
+findings	_	Documents
+indicate	_	Communication Evidence Sign
+that	_	Degree
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+might	_	Likelihood
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+reprocessed	_	Processing_materials
+enough	_	Sufficiency
+plutonium	_	Substance
+for	_	Causation Taking_sides
+one	_	Cardinal_numbers
+or	_	
+two	_	Cardinal_numbers
+nuclear	_	Bearing_arms Nuclear_process Weapon
+weapons	_	Weapon
+.	_	
+
+According	_	Attributed_information
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+a	_	Measure_duration Process_end Quantity
+December	_	Calendric_unit
+2001	_	
+National	_	Origin People_by_jurisdiction Political_locales
+Intelligence	_	Information Organization
+Council	_	
+report	_	Reporting Statement Text
+,	_	
+the	_	Self_motion Temporal_collocation
+U.S.	_	
+intelligence	_	Information Organization
+community	_	Aggregate
+ascertained	_	Coming_to_believe
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+mid-1990s	_	
+that	_	Degree
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+had	_	Being_obligated Have_associated Possession Required_event
+produced	_	Creating Intentionally_create Manufacturing
+one	_	Cardinal_numbers
+,	_	
+possibly	_	Likelihood
+two	_	Cardinal_numbers
+,	_	
+nuclear	_	Bearing_arms Nuclear_process Weapon
+weapons	_	Weapon
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+mid-2002	_	
+,	_	
+U.S.	_	
+intelligence	_	Information Organization
+discovered	_	Becoming_aware
+that	_	Degree
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+had	_	Being_obligated Have_associated Possession Required_event
+been	_	Existence
+receiving	_	Receiving
+materials	_	Ingredients Substance Text
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Pakistan	_	
+for	_	Causation Taking_sides
+a	_	Measure_duration Process_end Quantity
+highly	_	
+enriched	_	Degree_of_processing Processing_materials
+uranium	_	Substance
+production	_	Creating Intentionally_create Manufacturing
+facility	_	Locale_by_use
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+October	_	Calendric_unit
+2002	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+U.S.	_	
+State	_	Political_locales State_of_entity Statement
+Department	_	
+informed	_	Telling
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+that	_	Degree
+the	_	Self_motion Temporal_collocation
+U.S.	_	
+was	_	Existence
+aware	_	Awareness
+of	_	Age Domain Origin Partitive
+this	_	
+program	_	Project
+,	_	
+which	_	
+is	_	Existence
+a	_	Measure_duration Process_end Quantity
+violation	_	Compliance
+of	_	Age Domain Origin Partitive
+Pyongyang	_	
+'s	_	Existence Required_event
+nonproliferation	_	Proliferating_in_number
+commitments	_	Commitment
+.	_	
+
+North	_	Direction Locative_relation Part_orientational
+Korean	_	
+officials	_	Leadership
+initially	_	
+denied	_	Statement
+the	_	Self_motion Temporal_collocation
+existence	_	Existence
+of	_	Age Domain Origin Partitive
+such	_	
+a	_	Measure_duration Process_end Quantity
+program	_	Project
+,	_	
+but	_	Concessive
+then	_	Temporal_collocation Time_vector
+acknowledged	_	Statement
+it	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+U.S.	_	
+responded	_	Communication_response Response
+by	_	Locative_relation Means
+announcing	_	Statement
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+November	_	Calendric_unit
+2002	_	
+that	_	Degree
+it	_	
+would	_	
+suspend	_	Activity_pause
+heavy	_	Measurable_attributes
+fuel	_	Supply
+oil	_	Food Substance
+shipments	_	Sending Sent_items
+being	_	
+provided	_	Supply
+under	_	Locative_relation Relational_quantity
+the	_	Self_motion Temporal_collocation
+terms	_	Domain Simple_name Terms_of_agreement
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Agreed	_	Agree_or_refuse_to_act Be_in_agreement_on_assessment Make_agreement_on_action
+Framework	_	
+,	_	
+which	_	
+had	_	Being_obligated Have_associated Possession Required_event
+led	_	Causation Cotheme Leadership
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+freeze	_	Activity_pause Cause_change_of_phase Change_of_phase
+its	_	
+plutonium	_	Substance
+production	_	Creating Intentionally_create Manufacturing
+facilities	_	Locale_by_use
+.	_	
+
+Pyongyang	_	
+then	_	Temporal_collocation Time_vector
+declared	_	Statement
+the	_	Self_motion Temporal_collocation
+following	_	Relative_time
+month	_	Calendric_unit Measure_duration
+that	_	Degree
+it	_	
+was	_	Existence
+lifting	_	Cause_to_end
+the	_	Self_motion Temporal_collocation
+freeze	_	Activity_pause Cause_change_of_phase Change_of_phase
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+its	_	
+nuclear	_	Bearing_arms Nuclear_process Weapon
+program	_	Project
+,	_	
+ostensibly	_	Unattributed_information
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+generate	_	Birth Cause_to_start Creating Intentionally_create
+electricity	_	Electricity
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+late	_	Relative_time Temporal_subregion
+December	_	Calendric_unit
+2002	_	
+,	_	
+North	_	Direction Locative_relation Part_orientational
+Korean	_	
+technicians	_	People_by_vocation
+broke	_	Cause_to_fragment Wealthiness
+seals	_	Fastener
+and	_	
+disabled	_	Render_nonfunctional
+cameras	_	
+that	_	Degree
+had	_	Being_obligated Have_associated Possession Required_event
+been	_	Existence
+installed	_	Change_of_leadership Installing
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+IAEA	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+order	_	Arranging Bail_decision Purpose Request Rite Sentencing Sequence
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+monitor	_	Scrutiny
+the	_	Self_motion Temporal_collocation
+freeze	_	Activity_pause Cause_change_of_phase Change_of_phase
+.	_	
+
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+expelled	_	Removing
+IAEA	_	
+inspectors	_	Scrutiny
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+31	_	
+December	_	Calendric_unit
+2002	_	
+,	_	
+curtailing	_	
+the	_	Self_motion Temporal_collocation
+Agency	_	Organization
+'s	_	Existence Required_event
+capacity	_	Capability
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+monitor	_	Scrutiny
+Pyongyang	_	
+'s	_	Existence Required_event
+nuclear	_	Bearing_arms Nuclear_process Weapon
+activities	_	Intentionally_act
+.	_	
+
+The	_	Self_motion Temporal_collocation
+IAEA	_	
+has	_	Have_associated Inclusion Possession
+not	_	
+been	_	Existence
+able	_	Capability
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+verify	_	Evidence Verification
+the	_	Self_motion Temporal_collocation
+completeness	_	Completeness
+and	_	
+correctness	_	Correctness
+of	_	Age Domain Origin Partitive
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+'s	_	Existence Required_event
+initial	_	Version_sequence
+declaration	_	Statement
+submitted	_	Compliance Submitting_documents
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1992	_	
+,	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+Agency	_	Organization
+cannot	_	
+verify	_	Evidence Verification
+whether	_	
+fissile	_	Nuclear_process
+material	_	Ingredients Substance Text
+has	_	Have_associated Inclusion Possession
+been	_	Existence
+diverted	_	Redirecting
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+military	_	Military
+use	_	Ingest_substance Possibilities Purpose Using
+.	_	
+
+On	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+10	_	Cardinal_numbers
+January	_	Calendric_unit
+2003	_	
+,	_	
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+declared	_	Statement
+its	_	
+withdrawal	_	Quitting_a_place Removing Withdraw_from_participation
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+NPT	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+treaty	_	Be_in_agreement_on_action Documents Make_agreement_on_action
+requires	_	Have_as_requirement Imposing_obligation
+a	_	Measure_duration Process_end Quantity
+90-day	_	
+waiting	_	Waiting
+period	_	Frequency
+,	_	
+but	_	Concessive
+Pyongyang	_	
+claimed	_	Claim_ownership Statement
+the	_	Self_motion Temporal_collocation
+withdrawal	_	Quitting_a_place Removing Withdraw_from_participation
+was	_	Existence
+effective	_	Being_in_effect Usefulness
+immediately	_	
+because	_	Causation
+89	_	
+days	_	Calendric_unit Measure_duration
+had	_	Being_obligated Have_associated Possession Required_event
+transpired	_	Event
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1993	_	
+when	_	Temporal_collocation
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+initially	_	
+announced	_	Statement
+its	_	
+intention	_	Purpose
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+withdraw	_	Removing Withdraw_from_participation
+before	_	Time_vector
+``	_	
+suspending	_	Activity_pause
+its	_	
+intention	_	Purpose
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+withdraw	_	Removing Withdraw_from_participation
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+treaty	_	Be_in_agreement_on_action Documents Make_agreement_on_action
+.	_	
+''	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+late	_	Relative_time Temporal_subregion
+February	_	Calendric_unit
+2003	_	
+,	_	
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+restarted	_	Cause_to_resume
+its	_	
+5WW(e)	_	
+reactor	_	Locale_by_use
+,	_	
+and	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+March	_	Calendric_unit Self_motion
+,	_	
+reports	_	Statement Text
+indicated	_	Communication Evidence
+that	_	Degree
+technicians	_	People_by_vocation
+were	_	Existence
+active	_	Active_substance Being_active
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+Radiochemistry	_	
+Laboratory	_	Locale_by_use
+,	_	
+and	_	
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+2	_	Cardinal_numbers
+October	_	Calendric_unit
+,	_	
+the	_	Self_motion Temporal_collocation
+North	_	Direction Locative_relation Part_orientational
+Korean	_	
+Foreign	_	Foreign_or_domestic_country
+Ministry	_	
+declared	_	Statement
+that	_	Degree
+the	_	Self_motion Temporal_collocation
+reprocessing	_	Processing_materials
+of	_	Age Domain Origin Partitive
+8,000	_	
+spent	_	Used_up
+fuel	_	Supply
+rods	_	
+had	_	Being_obligated Have_associated Possession Required_event
+been	_	Existence
+completed	_	Activity_finish
+``	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+increase	_	Cause_change_of_position_on_a_scale Change_position_on_a_scale
+its	_	
+nuclear	_	Bearing_arms Nuclear_process Weapon
+deterrent	_	
+force	_	Being_in_effect Causation Cause_motion Execute_plan Military
+.	_	
+''	_	
+
+On	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+12	_	Cardinal_numbers
+May	_	Calendric_unit Likelihood
+2003	_	
+,	_	
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+declared	_	Statement
+that	_	Degree
+the	_	Self_motion Temporal_collocation
+``	_	
+Joint	_	Prison
+Declaration	_	Statement
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Denuclearization	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Korean	_	
+Peninsula	_	Natural_features
+''	_	
+of	_	Age Domain Origin Partitive
+20	_	Cardinal_numbers
+January	_	Calendric_unit
+1992	_	
+was	_	Existence
+no	_	Quantity
+longer	_	Duration_attribute
+valid	_	Being_in_effect
+because	_	Causation
+of	_	Age Domain Origin Partitive
+``	_	
+violations	_	Compliance
+by	_	Locative_relation Means
+the	_	Self_motion Temporal_collocation
+United	_	
+States	_	Political_locales Statement
+''	_	
+[	_	
+Note	_	Becoming_aware Statement
+:	_	
+the	_	Self_motion Temporal_collocation
+U.S	_	
+was	_	Existence
+not	_	
+a	_	Measure_duration Process_end Quantity
+signatory	_	Sign_agreement
+]	_	
+.	_	
+
+Estimates	_	Estimated_value Estimating
+vary	_	Cause_change Similarity
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+how	_	
+soon	_	
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+could	_	Capability Possibility
+begin	_	Activity_start Process_start
+operating	_	Being_in_operation Operating_a_system Using
+a	_	Measure_duration Process_end Quantity
+uranium	_	Substance
+enrichment	_	Processing_materials
+plant	_	Locale_by_use Placing Planting
+,	_	
+but	_	Concessive
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+probably	_	Likelihood
+could	_	Capability Possibility
+not	_	
+produce	_	Behind_the_scenes Cause_to_start Creating Intentionally_create Manufacturing
+significant	_	Importance
+quantities	_	Quantity
+of	_	Age Domain Origin Partitive
+weapons-grade	_	
+HEU	_	
+until	_	Time_vector
+the	_	Self_motion Temporal_collocation
+end	_	Becoming Cause_to_end Process_end Temporal_subregion
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+decade	_	Calendric_unit Measure_duration
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+April	_	Calendric_unit
+2003	_	
+,	_	
+Egyptian	_	Origin
+customs	_	Custom
+officials	_	Leadership
+intercepted	_	Intercepting
+22	_	
+tons	_	Measure_mass
+of	_	Age Domain Origin Partitive
+aluminum	_	Substance
+tubing	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+Germany	_	
+that	_	Degree
+would	_	
+likely	_	Likelihood
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+been	_	Existence
+used	_	Using
+for	_	Causation Taking_sides
+a	_	Measure_duration Process_end Quantity
+pilot	_	
+cascade	_	Fluidic_motion Natural_features System
+of	_	Age Domain Origin Partitive
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+100-200	_	
+gas	_	Substance
+centrifuges	_	Gizmo
+,	_	
+which	_	
+indicates	_	Communication Evidence
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+is	_	Existence
+probably	_	Likelihood
+not	_	
+yet	_	Continued_state_of_affairs
+ready	_	Activity_prepare Activity_ready_state
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+begin	_	Activity_start Process_start
+operation	_	Businesses Using
+of	_	Age Domain Origin Partitive
+a	_	Measure_duration Process_end Quantity
+large-scale	_	
+plant	_	Locale_by_use Placing Planting
+.	_	
+
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+has	_	Have_associated Inclusion Possession
+reportedly	_	Unattributed_information
+established	_	Intentionally_create
+a	_	Measure_duration Process_end Quantity
+facility	_	Locale_by_use
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+produce	_	Behind_the_scenes Cause_to_start Creating Intentionally_create Manufacturing
+UF6	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+Yongbyon	_	
+nuclear	_	Bearing_arms Nuclear_process Weapon
+complex	_	Locale_by_use System
+,	_	
+which	_	
+gives	_	Giving
+Pyongyang	_	
+the	_	Self_motion Temporal_collocation
+capability	_	Capability
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+produce	_	Behind_the_scenes Cause_to_start Creating Intentionally_create Manufacturing
+the	_	Self_motion Temporal_collocation
+stock	_	Carry_goods Store Storing
+of	_	Age Domain Origin Partitive
+uranium	_	Substance
+hexafluoride	_	
+(	_	
+UF6	_	
+)	_	
+gas	_	Substance
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+feed	_	Capacity Ingestion
+the	_	Self_motion Temporal_collocation
+cascades	_	Natural_features System
+of	_	Age Domain Origin Partitive
+centrifuges	_	Gizmo
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+a	_	Measure_duration Process_end Quantity
+large-scale	_	
+plant	_	Locale_by_use Placing Planting
+.	_	
+
+Since	_	Causation Time_vector
+April	_	Calendric_unit
+2003	_	
+,	_	
+multilateral	_	
+talks	_	Discussion
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+been	_	Existence
+held	_	Containing
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Beijing	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+resolve	_	Resolve_problem
+the	_	Self_motion Temporal_collocation
+nuclear	_	Bearing_arms Nuclear_process Weapon
+crisis	_	Catastrophe
+.	_	
+
+All	_	Quantity
+parties	_	Aggregate Social_event
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+agreed	_	Agree_or_refuse_to_act Be_in_agreement_on_assessment Make_agreement_on_action
+that	_	Degree
+they	_	
+seek	_	Seeking Seeking_to_achieve
+a	_	Measure_duration Process_end Quantity
+non	_	
+-	_	
+nuclear	_	Bearing_arms Nuclear_process Weapon
+Korean	_	
+peninsula	_	Natural_features
+,	_	
+but	_	Concessive
+it	_	
+remains	_	Existence Left_to_do Remainder State_continue
+unclear	_	Obviousness
+how	_	
+this	_	
+objective	_	Purpose
+will	_	Desiring Documents Giving
+be	_	Existence Performers_and_roles
+achieved	_	Accomplishment
+.	_	
+
+All	_	Quantity
+parties	_	Aggregate Social_event
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+agreed	_	Agree_or_refuse_to_act Be_in_agreement_on_assessment Make_agreement_on_action
+that	_	Degree
+they	_	
+seek	_	Seeking Seeking_to_achieve
+a	_	Measure_duration Process_end Quantity
+non-nuclear	_	
+Korean	_	
+peninsula	_	Natural_features
+,	_	
+but	_	Concessive
+it	_	
+remains	_	Existence Left_to_do Remainder State_continue
+unclear	_	Obviousness
+how	_	
+this	_	
+objective	_	Purpose
+will	_	Desiring Documents Giving
+be	_	Existence Performers_and_roles
+achieved	_	Accomplishment
+.	_	
+
+During	_	Temporal_collocation
+19-21	_	
+April	_	Calendric_unit
+2004	_	
+,	_	
+North	_	Direction Locative_relation Part_orientational
+Korean	_	
+National	_	Origin People_by_jurisdiction Political_locales
+Defense	_	Defend
+Commission	_	Being_obligated Committing_crime Employing Hiring
+Chairman	_	Leadership
+Kim	_	
+Jong	_	
+Il	_	
+visited	_	Arriving
+China	_	
+and	_	
+reportedly	_	Unattributed_information
+told	_	Request Telling
+Chinese	_	Origin
+President	_	Leadership
+Hu	_	
+Jintao	_	
+that	_	Degree
+``	_	
+the	_	Self_motion Temporal_collocation
+DRPK	_	
+side	_	Part_orientational Taking_sides
+will	_	Desiring Documents Giving
+continue	_	Activity_ongoing Process_continue
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+adopt	_	Adopt_selection
+a	_	Measure_duration Process_end Quantity
+patient	_	Rashness
+and	_	
+flexible	_	
+manner	_	Conduct
+and	_	
+actively	_	
+participate	_	Participation
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+six-party	_	
+talks	_	Discussion
+process	_	Means Process Processing_materials
+,	_	
+and	_	
+make	_	Arriving Building Causation Cause_change Cooking_creation Earnings_and_losses Intentionally_create Make_acquaintance Manufacturing Self_motion Type Verification
+its	_	
+own	_	Possession
+contributions	_	Giving
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+progress	_	Progress
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+talks	_	Discussion
+.	_	
+''	_	
+
+During	_	Temporal_collocation
+19-21	_	
+April	_	Calendric_unit
+2004	_	
+,	_	
+North	_	Direction Locative_relation Part_orientational
+Korean	_	
+National	_	Origin People_by_jurisdiction Political_locales
+Defense	_	Defend
+Commission	_	Being_obligated Committing_crime Employing Hiring
+Chairman	_	Leadership
+Kim	_	
+Jong	_	
+Il	_	
+visited	_	Arriving
+China	_	
+and	_	
+reportedly	_	Unattributed_information
+told	_	Request Telling
+Chinese	_	Origin
+President	_	Leadership
+Hu	_	
+Jintao	_	
+that	_	Degree
+``	_	
+the	_	Self_motion Temporal_collocation
+DRPK	_	
+side	_	Part_orientational Taking_sides
+will	_	Desiring Documents Giving
+continue	_	Activity_ongoing Process_continue
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+adopt	_	Adopt_selection
+a	_	Measure_duration Process_end Quantity
+patient	_	Rashness
+and	_	
+flexible	_	
+manner	_	Conduct
+and	_	
+actively	_	
+participate	_	Participation
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+six	_	Cardinal_numbers
+-	_	
+party	_	Aggregate Participation Social_event
+talks	_	Discussion
+process	_	Means Process Processing_materials
+,	_	
+and	_	
+make	_	Arriving Building Causation Cause_change Cooking_creation Earnings_and_losses Intentionally_create Make_acquaintance Manufacturing Self_motion Type Verification
+its	_	
+own	_	Possession
+contributions	_	Giving
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+progress	_	Progress
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+talks	_	Discussion
+.	_	
+''	_	
+
+The	_	Self_motion Temporal_collocation
+United	_	
+States	_	Political_locales Statement
+is	_	Existence
+insisting	_	Statement
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+the	_	Self_motion Temporal_collocation
+``	_	
+complete	_	Activity_finish Completeness Process_completed_state
+,	_	
+verifiable	_	Verification
+and	_	
+irreversible	_	
+dismantlement	_	Destroying
+(	_	
+CVID)	_	
+)	_	
+''	_	
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+North	_	Direction Locative_relation Part_orientational
+Korean	_	
+nuclear	_	Bearing_arms Nuclear_process Weapon
+program	_	Project
+before	_	Time_vector
+addressing	_	Speak_on_topic Statement
+North	_	Direction Locative_relation Part_orientational
+Korean	_	
+security	_	Being_at_risk
+and	_	
+economic	_	Economy
+concerns	_	Emotion_directed Point_of_dispute
+.	_	
+
+Biological	_	Weapon
+
+Although	_	Concessive
+Pyongyang	_	
+acceded	_	Sign_agreement
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+Biological	_	Weapon
+and	_	
+Toxin	_	Toxic_substance
+Weapons	_	Weapon
+Convention	_	Be_in_agreement_on_action Custom
+(	_	
+BWC	_	
+)	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1970s	_	
+,	_	
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+is	_	Existence
+suspected	_	Awareness Suspicion
+of	_	Age Domain Origin Partitive
+having	_	Have_associated Possession
+a	_	Measure_duration Process_end Quantity
+biological	_	Weapon
+weapon	_	Weapon
+(	_	
+BW	_	Hostile_encounter Weapon
+)	_	
+program	_	Project
+.	_	
+
+Production	_	Creating Intentionally_create Manufacturing
+of	_	Age Domain Origin Partitive
+biological	_	Weapon
+weapon	_	Weapon
+agents	_	Active_substance People_by_vocation
+appears	_	Appearance
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+begun	_	Activity_start Process_start
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+early	_	Relative_time Temporal_collocation Temporal_subregion
+1980s	_	
+.	_	
+
+To	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+date	_	Continued_state_of_affairs Food Location_in_time Personal_relationship Social_event_collective
+,	_	
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+has	_	Have_associated Inclusion Possession
+likely	_	Likelihood
+developed	_	Cause_to_make_progress Coming_to_be Progress Stage_of_progress
+and	_	
+produced	_	Creating Intentionally_create Manufacturing
+anthrax	_	
+bacteria	_	
+,	_	
+botulinum	_	
+toxin	_	Toxic_substance
+,	_	
+and	_	
+plague	_	Medical_conditions
+bacteria	_	
+.	_	
+
+Chemical	_	Substance Weapon
+
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+'s	_	Existence Required_event
+chemical	_	Substance Weapon
+weapon	_	Weapon
+(	_	
+CW	_	Hostile_encounter Weapon
+)	_	
+production	_	Creating Intentionally_create Manufacturing
+capability	_	Capability
+is	_	Existence
+estimated	_	Estimating
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+be	_	Existence Performers_and_roles
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+4,500	_	
+tons	_	Measure_mass
+per	_	
+year	_	Calendric_unit Measure_duration
+,	_	
+though	_	Concessive
+this	_	
+could	_	Capability Possibility
+increase	_	Cause_change_of_position_on_a_scale Change_position_on_a_scale
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+12,000	_	
+tons	_	Measure_mass
+per	_	
+year	_	Calendric_unit Measure_duration
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+case	_	Containers Instance Reasoning Trial
+of	_	Age Domain Origin Partitive
+war	_	Hostile_encounter
+.	_	
+
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+appears	_	Appearance
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+emphasized	_	Place_weight_on
+the	_	Self_motion Temporal_collocation
+weaponization	_	Processing_materials
+of	_	Age Domain Origin Partitive
+mustard	_	
+,	_	
+phosgene	_	
+,	_	
+sarin	_	
+,	_	
+and	_	
+V-type	_	
+chemical	_	Substance Weapon
+agents	_	Active_substance People_by_vocation
+.	_	
+
+Reports	_	Statement Text
+indicate	_	Communication Evidence Sign
+that	_	Degree
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+has	_	Have_associated Inclusion Possession
+some	_	Relational_quantity
+12	_	Cardinal_numbers
+CW	_	Hostile_encounter Weapon
+facilities	_	Locale_by_use
+where	_	Locative_relation
+raw	_	Degree_of_processing
+chemicals	_	Substance
+,	_	
+precursors	_	Ingredients
+,	_	
+and	_	
+actual	_	Actually_occurring_entity
+agents	_	Active_substance People_by_vocation
+are	_	Existence
+produced	_	Creating Intentionally_create Manufacturing
+and	_	
+/	_	
+or	_	
+stored	_	Storing
+,	_	
+and	_	
+six	_	Cardinal_numbers
+major	_	Importance
+storage	_	Storing
+depots	_	Locale_by_use
+for	_	Causation Taking_sides
+CW	_	Hostile_encounter Weapon
+ordnance	_	Ammunition Weapon
+.	_	
+
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+also	_	
+has	_	Have_associated Inclusion Possession
+placed	_	Placing
+thousands	_	Quantity
+of	_	Age Domain Origin Partitive
+artillery	_	Weapon
+systems	_	Gizmo System
+--	_	
+including	_	Inclusion
+multiple	_	Quantity
+launch	_	Activity_start Cause_motion Getting_vehicle_underway Launch_process Reshaping Shoot_projectiles
+rocket	_	Change_position_on_a_scale
+systems	_	Gizmo System
+that	_	Degree
+are	_	Existence
+particularly	_	
+effective	_	Being_in_effect Usefulness
+for	_	Causation Taking_sides
+CW	_	Hostile_encounter Weapon
+delivery	_	Delivery
+--	_	
+within	_	Temporal_collocation Within_distance
+reach	_	Arriving Change_position_on_a_scale Contacting Path_shape Range
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Demilitarized	_	
+Zone	_	Locale
+(	_	
+DMZ	_	
+)	_	
+and	_	
+Seoul	_	
+.	_	
+
+Pyongyang	_	
+has	_	Have_associated Inclusion Possession
+not	_	
+signed	_	Sign_agreement
+the	_	Self_motion Temporal_collocation
+Chemical	_	Substance Weapon
+Weapons	_	Weapon
+Convention	_	Be_in_agreement_on_action Custom
+(	_	
+CWC	_	
+)	_	
+.	_	
+
+Missile	_	Weapon
+
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+began	_	Activity_start Process_start
+its	_	
+missile	_	Weapon
+development	_	Cause_to_make_progress Event Progress
+program	_	Project
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+1970s	_	
+and	_	
+tested	_	Operational_testing
+an	_	Cause_to_end Process_end Quantity
+``	_	
+indigenous	_	Indigenous_origin
+''	_	
+Scud-B	_	Weapon
+ballistic	_	Weapon
+missile	_	Weapon
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+April	_	Calendric_unit
+1984	_	
+.	_	
+
+Pyongyang	_	
+subsequently	_	Relative_time
+produced	_	Creating Intentionally_create Manufacturing
+the	_	Self_motion Temporal_collocation
+500	_	Cardinal_numbers
+km	_	Measure_linear_extent
+-	_	
+range	_	Delimitation_of_diversity Diversity Natural_features Range
+Scud-C	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+800	_	
+km	_	Measure_linear_extent
+-	_	
+range	_	Delimitation_of_diversity Diversity Natural_features Range
+Scud-D	_	
+,	_	
+and	_	
+a	_	Measure_duration Process_end Quantity
+1300	_	
+km	_	Measure_linear_extent
+-	_	
+range	_	Delimitation_of_diversity Diversity Natural_features Range
+missile	_	Weapon
+known	_	Awareness Being_named
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+the	_	Self_motion Temporal_collocation
+Nodong	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+August	_	Calendric_unit
+1998	_	
+,	_	
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+flight-tested	_	Operational_testing
+the	_	Self_motion Temporal_collocation
+Paektusan-1	_	
+(	_	
+Taepodong-1	_	
+)	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+a	_	Measure_duration Process_end Quantity
+failed	_	Success_or_failure Successful_action
+attempt	_	Attempt
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+place	_	Event Locale Placing
+a	_	Measure_duration Process_end Quantity
+small	_	Dimension Size
+satellite	_	
+into	_	Goal Into
+earth	_	Locale
+orbit	_	Path_traveled
+.	_	
+
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+is	_	Existence
+continuing	_	Activity_ongoing Process_continue
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+develop	_	Cause_to_make_progress Coming_to_be Progress
+the	_	Self_motion Temporal_collocation
+so-called	_	Being_named
+``	_	
+Taepodong-2	_	
+,	_	
+''	_	
+which	_	
+is	_	Existence
+estimated	_	Estimating
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+intercontinental	_	Range
+range	_	Delimitation_of_diversity Diversity Natural_features Range
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Taepodong-2	_	
+has	_	Have_associated Inclusion Possession
+not	_	
+been	_	Existence
+flight-tested	_	Operational_testing
+,	_	
+but	_	Concessive
+U.S.	_	
+intelligence	_	Information Organization
+analysts	_	Scrutiny
+believe	_	Awareness Certainty Opinion Religious_belief Taking_sides Trust
+it	_	
+could	_	Capability Possibility
+be	_	Existence Performers_and_roles
+ready	_	Activity_prepare Activity_ready_state
+for	_	Causation Taking_sides
+testing	_	Operational_testing
+at	_	Locative_relation Relational_quantity Temporal_collocation
+any	_	Quantity
+time	_	Event_instance Location_in_time Measure_duration Temporal_collocation Temporal_pattern Timespan
+.	_	
+Pyongyang	_	
+has	_	Have_associated Inclusion Possession
+deployed	_	Arranging
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+many	_	Quantity
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+600	_	
+-	_	
+750	_	
+ballistic	_	Weapon
+missiles	_	Weapon
+,	_	
+including	_	Inclusion
+about	_	Accomplishment Cause_to_start Relational_quantity Topic
+175	_	
+-	_	
+200	_	Cardinal_numbers
+Nodongs	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+December	_	Calendric_unit
+2002	_	
+,	_	
+Spanish	_	
+and	_	
+American	_	Origin People_by_origin
+naval	_	Military
+forces	_	Military
+intercepted	_	Intercepting
+a	_	Measure_duration Process_end Quantity
+North	_	Direction Locative_relation Part_orientational
+Korean	_	
+ship	_	Sending Vehicle
+loaded	_	Filling Placing
+with	_	Accompaniment
+Scud	_	
+missiles	_	Weapon
+,	_	
+but	_	Concessive
+then	_	Temporal_collocation Time_vector
+allowed	_	Grant_permission Permitting
+the	_	Self_motion Temporal_collocation
+ship	_	Sending Vehicle
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+proceed	_	Activity_ongoing Process_continue Self_motion
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+deliver	_	Delivery
+the	_	Self_motion Temporal_collocation
+missiles	_	Weapon
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Yemen	_	
+.	_	
+
+There	_	Existence Locative_relation
+were	_	Existence
+rumors	_	Unattributed_information
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+2003	_	
+of	_	Age Domain Origin Partitive
+Burmese	_	
+plans	_	Project Purpose
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+purchase	_	Commerce_buy
+ballistic	_	Weapon
+missiles	_	Weapon
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+,	_	
+but	_	Concessive
+it	_	
+is	_	Existence
+unclear	_	Obviousness
+whether	_	
+any	_	Quantity
+transactions	_	Commercial_transaction
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+been	_	Existence
+completed	_	Activity_finish
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+late	_	Relative_time Temporal_subregion
+January	_	Calendric_unit
+2004	_	
+,	_	
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+and	_	
+Nigeria	_	
+reportedly	_	Unattributed_information
+agreed	_	Agree_or_refuse_to_act Be_in_agreement_on_assessment Make_agreement_on_action
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+a	_	Measure_duration Process_end Quantity
+missile	_	Weapon
+deal	_	Be_in_agreement_on_action Make_agreement_on_action Resolve_problem
+,	_	
+but	_	Concessive
+Nigeria	_	
+backed	_	Going_back_on_a_commitment Taking_sides
+out	_	Departing Expected_location_of_person Intentionally_act Locative_relation Sleep Surviving
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+agreement	_	Be_in_agreement_on_action Be_in_agreement_on_assessment Documents Make_agreement_on_action
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+early	_	Relative_time Temporal_collocation Temporal_subregion
+February	_	Calendric_unit
+under	_	Locative_relation Relational_quantity
+U.S.	_	
+pressure	_	Attempt_suasion
+.	_	
+
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+has	_	Have_associated Inclusion Possession
+exported	_	Exporting Import_export
+missiles	_	Weapon
+,	_	
+missile	_	Weapon
+components	_	Ingredients
+,	_	
+and	_	
+technology	_	Artifact Gizmo
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Egypt	_	
+,	_	
+Iran	_	
+,	_	
+Libya	_	
+,	_	
+Pakistan	_	
+,	_	
+Syria	_	
+,	_	
+and	_	
+Yemen	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+September	_	Calendric_unit
+1999	_	
+,	_	
+Pyongyang	_	
+agreed	_	Agree_or_refuse_to_act Be_in_agreement_on_assessment Make_agreement_on_action
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+a	_	Measure_duration Process_end Quantity
+moratorium	_	Activity_pause
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+missile	_	Weapon
+flight	_	Architectural_part Operational_testing Ride_vehicle
+tests	_	Examination Operational_testing
+and	_	
+later	_	Relative_time Temporal_subregion Time_vector
+announced	_	Statement
+that	_	Degree
+it	_	
+would	_	
+maintain	_	Activity_ongoing Statement
+the	_	Self_motion Temporal_collocation
+moratorium	_	Activity_pause
+until	_	Time_vector
+at	_	Locative_relation Relational_quantity Temporal_collocation
+least	_	Relational_quantity
+2003	_	
+.	_	
+
+North	_	Direction Locative_relation Part_orientational
+Korea	_	
+is	_	Existence
+not	_	
+a	_	Measure_duration Process_end Quantity
+member	_	Membership Observable_body_parts
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Missile	_	Weapon
+Technology	_	Artifact Gizmo
+Control	_	Be_in_control Control Prohibiting
+Regime	_	Law Leadership
+(	_	
+MTCR	_	
+)	_	
+.	_	
+

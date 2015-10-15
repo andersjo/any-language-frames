@@ -1,0 +1,23 @@
+1	Leon	_	PROPN	PROPN	_	2	compound
+2	Trotsky	_	PROPN	PROPN	_	3	nsubj
+3	wrote	_	VERB	VERB	_	0	root
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	"	_	PUNCT	PUNCT	_	7	punct
+6	23	_	NUM	NUM	_	7	nummod
+7	February	_	PROPN	PROPN	_	9	compound
+8	(	_	PUNCT	PUNCT	_	7	punct
+9	8th	_	NOUN	NOUN	_	10	compound
+10	March	_	PROPN	PROPN	_	2	list
+11	)	_	PUNCT	PUNCT	_	3	punct
+12	was	_	VERB	VERB	_	15	cop
+13	International	_	PROPN	PROPN	_	15	compound
+14	Woman’s	_	PROPN	PROPN	_	15	compound
+15	Day	_	PROPN	PROPN	_	21	nsubj
+16	and	_	CONJ	CONJ	_	15	cc
+17	meetings	_	NOUN	NOUN	_	15	conj
+18	and	_	CONJ	CONJ	_	17	cc
+19	actions	_	NOUN	NOUN	_	17	conj
+20	were	_	VERB	VERB	_	21	cop
+21	foreseen	_	NOUN	NOUN	_	9	conj
+22	.	_	PUNCT	PUNCT	_	3	punct
+

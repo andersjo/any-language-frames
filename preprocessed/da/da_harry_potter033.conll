@@ -1,0 +1,15 @@
+1	Forfatteren	_	NOUN	NOUN	_	5	nsubj
+2	selv	_	PRON	PRON	_	5	nmod
+3	har	_	AUX	AUX	_	5	aux
+4	også	_	ADV	ADV	_	5	advmod
+5	udtalt	_	VERB	VERB	_	0	root
+6	,	_	PUNCT	PUNCT	_	11	punct
+7	at	_	SCONJ	SCONJ	_	11	mark
+8	hun	_	PRON	PRON	_	11	nsubj
+9	har	_	AUX	AUX	_	10	aux
+10	haft	_	AUX	AUX	_	11	cop
+11	Kristendommen	_	ADJ	ADJ	_	5	dobj
+12	i	_	ADP	ADP	_	13	case
+13	baghovedet	_	NOUN	NOUN	_	11	nmod
+14	.	_	PUNCT	PUNCT	_	5	punct
+

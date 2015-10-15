@@ -1,0 +1,20 @@
+1	Google	_	PROPN	PROPN	_	3	nsubjpass
+2	was	_	AUX	AUX	_	3	auxpass
+3	founded	_	VERB	VERB	_	0	root
+4	by	_	ADP	ADP	_	3	compound:prt
+5	Larry	_	PROPN	PROPN	_	6	compound
+6	Page	_	PROPN	PROPN	_	3	dobj
+7	and	_	CONJ	CONJ	_	6	cc
+8	Sergey	_	PROPN	PROPN	_	9	compound
+9	Brin	_	PROPN	PROPN	_	6	conj
+10	while	_	SCONJ	SCONJ	_	12	mark
+11	they	_	PRON	PRON	_	15	nsubj
+12	were	_	VERB	VERB	_	15	cop
+13	P	_	NOUN	NOUN	_	14	compound
+14	h.D.	_	NOUN	NOUN	_	15	compound
+15	students	_	NOUN	NOUN	_	6	conj
+16	at	_	ADP	ADP	_	12	compound:prt
+17	Stanford	_	PROPN	PROPN	_	18	compound
+18	University	_	PROPN	PROPN	_	15	nmod
+19	.	_	PUNCT	PUNCT	_	3	punct
+

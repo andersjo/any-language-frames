@@ -1,0 +1,23 @@
+1	Явно	_	ADV	ADV	_	4	advmod
+2	експериментът	_	NOUN	NOUN	_	4	nsubj
+3	ЕС	_	PROPN	PROPN	_	2	nmod
+4	е	_	VERB	VERB	_	0	root
+5	добър	_	ADJ	ADJ	_	4	cop
+6	,	_	PUNCT	PUNCT	_	9	punct
+7	щом	_	SCONJ	SCONJ	_	9	mark
+8	Русия	_	PROPN	PROPN	_	9	nsubj
+9	направи	_	VERB	VERB	_	4	advcl
+10	негово	_	DET	DET	_	11	det
+11	подобие	_	NOUN	NOUN	_	9	dobj
+12	.	_	PUNCT	PUNCT	_	4	punct
+13	Може	_	VERB	VERB	_	9	conj
+14	би	_	AUX	AUX	_	13	aux
+15	на	_	ADP	ADP	_	16	case
+16	руснаците	_	NOUN	NOUN	_	18	iobj
+17	им	_	PRON	PRON	_	16	case
+18	хареса	_	VERB	VERB	_	13	ccomp
+19	каква	_	DET	DET	_	20	det
+20	роля	_	NOUN	NOUN	_	18	dobj
+21	…	_	PROPN	PROPN	_	20	nmod
+22	https://t.co/wzOHXy0j9u	_	PROPN	PROPN	_	21	nmod
+

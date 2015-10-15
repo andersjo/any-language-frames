@@ -1,0 +1,13 @@
+1	C'est	_	PROPN	PROPN	_	3	name
+2	google	_	PROPN	PROPN	_	3	name
+3	trad	_	PROPN	PROPN	_	0	root
+4	qui	_	PRON	PRON	_	6	nsubj
+5	va	_	AUX	AUX	_	6	aux
+6	faire	_	VERB	VERB	_	3	acl:relcl
+7	mon	_	DET	DET	_	8	nmod:poss
+8	truc	_	NOUN	NOUN	_	6	dobj
+9	d'allemand	_	NOUN	NOUN	_	6	dobj
+10	pour	_	ADP	ADP	_	11	case
+11	mardi	_	NOUN	NOUN	_	8	nmod
+12	👊	_	PROPN	PROPN	_	11	appos
+

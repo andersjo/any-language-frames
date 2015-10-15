@@ -1,0 +1,21 @@
+1	Divorced	_	ADJ	ADJ	_	0	dobj
+2	from	_	ADP	ADP	_	3	compound
+3	actors	_	NOUN	NOUN	_	6	compound
+4	Jonny	_	PROPN	PROPN	_	6	compound
+5	Lee	_	PROPN	PROPN	_	6	compound
+6	Miller	_	PROPN	PROPN	_	15	nsubj
+7	and	_	CONJ	CONJ	_	6	cc
+8	Billy	_	PROPN	PROPN	_	10	compound
+9	Bob	_	PROPN	PROPN	_	10	compound
+10	Thornton	_	PROPN	PROPN	_	6	conj
+11	,	_	PUNCT	PUNCT	_	15	punct
+12	Jolie	_	PROPN	PROPN	_	15	nsubjpass
+13	is	_	AUX	AUX	_	15	auxpass
+14	now	_	ADV	ADV	_	15	advmod
+15	married	_	VERB	VERB	_	0	root
+16	to	_	ADP	ADP	_	15	compound
+17	actor	_	NOUN	NOUN	_	15	dobj
+18	Brad	_	PROPN	PROPN	_	19	compound
+19	Pitt	_	PROPN	PROPN	_	15	dobj
+20	.	_	PUNCT	PUNCT	_	15	punct
+

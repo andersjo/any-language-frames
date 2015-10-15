@@ -1,0 +1,18 @@
+1	Bereits	_	ADV	ADV	_	3	advmod
+2	als	_	ADP	ADP	_	3	case
+3	Teenager	_	NOUN	NOUN	_	7	nmod
+4	[	_	PUNCT	PUNCT	_	5	punct
+5	…	_	PROPN	PROPN	_	3	appos
+6	]	_	PUNCT	PUNCT	_	5	punct
+7	wusste	_	VERB	VERB	_	0	root
+8	Jolie	_	PROPN	PROPN	_	7	nsubj
+9	,	_	PUNCT	PUNCT	_	7	punct
+10	die	_	DET	DET	_	11	det
+11	Leinwand	_	NOUN	NOUN	_	15	nsubjpass
+12	mit	_	ADP	ADP	_	14	case
+13	ihrer	_	DET	DET	_	14	nmod:poss
+14	Präsenz	_	NOUN	NOUN	_	15	nmod
+15	auszufüllen	_	VERB	VERB	_	7	xcomp
+16	.	_	PUNCT	PUNCT	_	5	punct
+17	“	_	PROPN	PROPN	_	15	nsubj
+

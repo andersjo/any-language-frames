@@ -1,0 +1,24 @@
+1	One	_	PROPN	PROPN	_	15	nsubj
+2	Direction	_	PROPN	PROPN	_	1	name
+3	,	_	PUNCT	PUNCT	_	1	punct
+4	Niall	_	PROPN	PROPN	_	1	conj
+5	Horan	_	PROPN	PROPN	_	4	name
+6	:	_	PUNCT	PUNCT	_	1	punct
+7	il	_	DET	DET	_	9	det
+8	suo	_	DET	DET	_	9	det:poss
+9	sedere	_	NOUN	NOUN	_	1	appos
+10	nudo	_	ADJ	ADJ	_	9	amod
+11	in	_	ADP	ADP	_	14	case
+12	una	_	DET	DET	_	14	det
+13	nuova	_	ADJ	ADJ	_	14	amod
+14	foto	_	NOUN	NOUN	_	15	nsubj
+15	sconvolge	_	VERB	VERB	_	0	root
+16	il	_	DET	DET	_	17	det
+17	Web	_	PROPN	PROPN	_	15	dobj
+18	http://t.co/UZQMMZGWMZ	_	PROPN	PROPN	_	17	name
+19	#onedirection	_	PROPN	PROPN	_	17	name
+20	#1d	_	PROPN	PROPN	_	17	name
+21	#liampayne	_	PROPN	PROPN	_	17	name
+22	#	_	PROPN	PROPN	_	17	name
+23	...	_	PUNCT	PUNCT	_	15	punct
+

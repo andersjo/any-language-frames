@@ -1,0 +1,20 @@
+1	Chromecast	_	PROPN	PROPN	_	4	nsubj
+2	è	_	VERB	VERB	_	4	cop
+3	un	_	DET	DET	_	4	det
+4	adattatore	_	NOUN	NOUN	_	0	root
+5	che	_	PRON	PRON	_	6	nsubj
+6	collegandosi	_	VERB	VERB	_	4	acl:relcl
+7	al	_	ADP	ADP	_	8	case
+8	televisore	_	NOUN	NOUN	_	6	nmod
+9	permette	_	VERB	VERB	_	8	acl
+10	di	_	ADP	ADP	_	11	mark
+11	visualizzare	_	VERB	VERB	_	9	xcomp
+12	in	_	ADP	ADP	_	13	case
+13	streaming	_	NOUN	NOUN	_	11	nmod
+14	i	_	DET	DET	_	15	det
+15	contenuti	_	NOUN	NOUN	_	11	dobj
+16	prelevati	_	VERB	VERB	_	15	acl
+17	in	_	ADP	ADP	_	18	case
+18	rete	_	NOUN	NOUN	_	16	nmod
+19	.	_	PUNCT	PUNCT	_	2	punct
+

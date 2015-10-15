@@ -1,0 +1,20 @@
+1	Nella	_	ADP	ADP	_	4	case
+2	sua	_	DET	DET	_	4	det:poss
+3	prima	_	ADJ	ADJ	_	4	amod
+4	stagione	_	NOUN	NOUN	_	8	nsubj
+5	allo	_	ADP	ADP	_	6	case
+6	Sporting	_	PROPN	PROPN	_	4	nmod
+7	Lisbona	_	PROPN	PROPN	_	6	name
+8	collezionerà	_	VERB	VERB	_	0	root
+9	25	_	NUM	NUM	_	10	nummod
+10	presenze	_	NOUN	NOUN	_	8	dobj
+11	in	_	ADP	ADP	_	12	case
+12	campionato	_	NOUN	NOUN	_	10	nmod
+13	,	_	PUNCT	PUNCT	_	10	punct
+14	di	_	ADP	ADP	_	15	case
+15	cui	_	PRON	PRON	_	16	nmod
+16	11	_	NUM	NUM	_	10	acl:relcl
+17	da	_	ADP	ADP	_	18	case
+18	titolare	_	NOUN	NOUN	_	16	nmod
+19	.	_	PUNCT	PUNCT	_	8	punct
+

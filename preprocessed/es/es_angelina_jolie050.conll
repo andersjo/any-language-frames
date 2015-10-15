@@ -1,0 +1,26 @@
+1	Comenzó	_	VERB	VERB	_	0	root
+2	a	_	ADP	ADP	_	3	case
+3	aprender	_	VERB	VERB	_	1	acl
+4	de	_	ADP	ADP	_	6	case
+5	su	_	DET	DET	_	6	nmod:poss
+6	padre	_	NOUN	NOUN	_	3	nmod
+7	,	_	PUNCT	PUNCT	_	1	punct
+8	notó	_	VERB	VERB	_	3	acl
+9	el	_	DET	DET	_	10	det
+10	método	_	NOUN	NOUN	_	8	dobj
+11	que	_	SCONJ	SCONJ	_	13	mark
+12	él	_	PRON	PRON	_	13	nsubj
+13	tenía	_	VERB	VERB	_	10	acl:relcl
+14	al	_	ADP	ADP	_	15	case
+15	observar	_	VERB	VERB	_	13	acl
+16	a	_	ADP	ADP	_	18	case
+17	la	_	DET	DET	_	18	det
+18	gente	_	NOUN	NOUN	_	15	dobj
+19	y	_	CONJ	CONJ	_	15	cc
+20	lograr	_	VERB	VERB	_	15	conj
+21	imitarlas	_	VERB	VERB	_	20	xcomp
+22	a	_	ADP	ADP	_	24	case
+23	la	_	DET	DET	_	24	det
+24	perfección	_	NOUN	NOUN	_	21	nmod
+25	.	_	PUNCT	PUNCT	_	8	punct
+

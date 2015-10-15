@@ -1,0 +1,14 @@
+1	Planet	_	PROPN	PROPN	_	2	compound
+2	Green	_	PROPN	PROPN	_	3	compound
+3	Socks	_	PROPN	PROPN	_	4	compound
+4	–	_	PROPN	PROPN	_	5	compound
+5	January	_	PROPN	PROPN	_	10	nmod
+6	3	_	NUM	NUM	_	5	nummod
+7	,	_	PUNCT	PUNCT	_	1	punct
+8	2015	_	NUM	NUM	_	5	nmod:tmod
+9	:	_	PUNCT	PUNCT	_	10	punct
+10	Adjusting	_	VERB	VERB	_	0	root
+11	.	_	PUNCT	PUNCT	_	10	punct
+12	#twentysomething	_	NOUN	NOUN	_	10	dobj
+13	http://t.co/cuYVdN3rFY	_	X	X	_	12	appos
+

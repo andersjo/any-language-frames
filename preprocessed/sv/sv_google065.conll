@@ -1,0 +1,21 @@
+1	Beasley	_	NOUN	NOUN	_	2	nsubj
+2	menar	_	VERB	VERB	_	0	root
+3	även	_	ADV	ADV	_	2	advmod
+4	att	_	SCONJ	SCONJ	_	3	mwe
+5	nya	_	ADJ	ADJ	_	6	amod
+6	webbsidor	_	NOUN	NOUN	_	9	nsubj
+7	kommer	_	AUX	AUX	_	9	aux
+8	att	_	PART	PART	_	9	mark
+9	rankas	_	VERB	VERB	_	2	ccomp
+10	lägre	_	ADJ	ADJ	_	9	xcomp
+11	när	_	ADV	ADV	_	13	advmod
+12	PageRank	_	NOUN	NOUN	_	13	nsubj
+13	baseras	_	VERB	VERB	_	9	advcl
+14	på	_	ADP	ADP	_	16	case
+15	en	_	DET	DET	_	16	det
+16	webbsidas	_	ADJ	ADJ	_	13	advmod
+17	"	_	PUNCT	PUNCT	_	18	punct
+18	rykte	_	VERB	VERB	_	13	conj
+19	"	_	PUNCT	PUNCT	_	18	punct
+20	.	_	PUNCT	PUNCT	_	2	punct
+

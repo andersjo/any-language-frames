@@ -1,0 +1,24 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	8	appos
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Der	_	DET	DET	_	5	det
+5	Tod	_	NOUN	NOUN	_	2	appos
+6	ihrer	_	DET	DET	_	7	nmod:poss
+7	Mutter	_	NOUN	NOUN	_	5	det
+8	rüttelte	_	VERB	VERB	_	0	root
+9	sie	_	PRON	PRON	_	8	nsubj
+10	wach	_	ADJ	ADJ	_	12	compound
+11	-	_	PUNCT	PUNCT	_	12	punct
+12	Angelina	_	PROPN	PROPN	_	13	name
+13	Jolie	_	PROPN	PROPN	_	14	nsubj
+14	verlor	_	VERB	VERB	_	8	parataxis
+15	nach	_	ADP	ADP	_	17	case
+16	dem	_	DET	DET	_	17	det
+17	Tod	_	NOUN	NOUN	_	14	nmod
+18	ihrer	_	DET	DET	_	19	nmod:poss
+19	Mutter	_	NOUN	NOUN	_	17	det
+20	die	_	DET	DET	_	21	det
+21	Lust	_	NOUN	NOUN	_	14	dobj
+22	...	_	PUNCT	PUNCT	_	23	punct
+23	http://t.co/uNDjwcKGHb	_	PROPN	PROPN	_	21	appos
+

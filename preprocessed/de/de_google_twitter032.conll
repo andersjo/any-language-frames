@@ -1,0 +1,22 @@
+1	Senior	_	PROPN	PROPN	_	3	name
+2	Sales	_	PROPN	PROPN	_	3	name
+3	Manager	_	PROPN	PROPN	_	5	neg
+4	(	_	PUNCT	PUNCT	_	5	punct
+5	m/f	_	PROPN	PROPN	_	7	name
+6	):	_	PROPN	PROPN	_	7	name
+7	Aktuelles	_	PROPN	PROPN	_	8	det
+8	Stellenangebot	_	NOUN	NOUN	_	0	root
+9	als	_	ADP	ADP	_	12	case
+10	Senior	_	PROPN	PROPN	_	12	name
+11	Sales	_	PROPN	PROPN	_	12	name
+12	Manager	_	PROPN	PROPN	_	8	nmod
+13	(	_	PUNCT	PUNCT	_	14	punct
+14	m/f	_	PROPN	PROPN	_	12	appos
+15	)	_	PUNCT	PUNCT	_	14	punct
+16	bei	_	ADP	ADP	_	21	case
+17	dem	_	DET	DET	_	21	det
+18	...	_	PUNCT	PUNCT	_	19	punct
+19	http://t.co/KMyiJbeHkf	_	PROPN	PROPN	_	21	name
+20	#sales	_	PROPN	PROPN	_	21	name
+21	#management	_	PROPN	PROPN	_	14	punct
+

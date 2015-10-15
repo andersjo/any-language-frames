@@ -1,0 +1,11 @@
+1	LES	_	DET	DET	_	2	det
+2	MUSIQUES	_	PROPN	PROPN	_	4	name
+3	D'HARRY	_	PROPN	PROPN	_	2	amod
+4	POTTER	_	PROPN	PROPN	_	5	name
+5	😍	_	PROPN	PROPN	_	10	name
+6	MEILLEURE	_	PROPN	PROPN	_	10	name
+7	PLAYLIST	_	PROPN	PROPN	_	10	name
+8	DU	_	PROPN	PROPN	_	10	name
+9	MONDE	_	PROPN	PROPN	_	10	name
+10	😍💕	_	PROPN	PROPN	_	0	root
+

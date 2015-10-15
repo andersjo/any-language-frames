@@ -1,0 +1,26 @@
+1	Alors	_	ADV	ADV	_	2	advmod
+2	qu'elle	_	ADJ	ADJ	_	3	nsubj
+3	n'a	_	VERB	VERB	_	0	root
+4	que	_	SCONJ	SCONJ	_	15	mark
+5	19	_	NUM	NUM	_	6	nummod
+6	ans	_	NOUN	NOUN	_	9	nmod
+7	,	_	PUNCT	PUNCT	_	9	punct
+8	Angelina	_	PROPN	PROPN	_	9	nsubj
+9	achète	_	VERB	VERB	_	3	ccomp
+10	son	_	DET	DET	_	12	nmod:poss
+11	premier	_	ADJ	ADJ	_	12	amod
+12	appartement	_	NOUN	NOUN	_	9	dobj
+13	qui	_	PRON	PRON	_	15	nsubj
+14	se	_	PRON	PRON	_	15	dobj
+15	trouve	_	VERB	VERB	_	12	acl:relcl
+16	seulement	_	ADV	ADV	_	15	advmod
+17	à	_	ADP	ADP	_	19	case
+18	quelques	_	DET	DET	_	19	det
+19	pâtés	_	NOUN	NOUN	_	15	nmod
+20	de	_	ADP	ADP	_	21	case
+21	maisons	_	NOUN	NOUN	_	19	nmod
+22	de	_	ADP	ADP	_	24	case
+23	sa	_	DET	DET	_	24	nmod:poss
+24	mère	_	NOUN	NOUN	_	21	nmod
+25	.	_	PUNCT	PUNCT	_	9	punct
+

@@ -1,0 +1,18 @@
+1	Έχει	_	VERB	VERB	_	0	root
+2	Harry	_	NOUN	NOUN	_	1	dobj
+3	Potter	_	NOUN	NOUN	_	2	nmod
+4	στο	_	ADP	ADP	_	5	case
+5	#star	_	NOUN	NOUN	_	3	nmod
+6	και	_	CONJ	CONJ	_	1	cc
+7	εσείς	_	PRON	PRON	_	8	nsubj
+8	πάτε	_	VERB	VERB	_	5	acl:relcl
+9	για	_	ADP	ADP	_	10	case
+10	καφέ	_	NOUN	NOUN	_	8	nmod
+11	ξέρω	_	VERB	VERB	_	8	advcl
+12	γω	_	ADJ	ADJ	_	13	amod
+13	λες	_	NOUN	NOUN	_	11	dobj
+14	και	_	CONJ	CONJ	_	11	cc
+15	είστε	_	VERB	VERB	_	11	conj
+16	βλαμμένα	_	NOUN	NOUN	_	15	dobj
+17	.	_	PUNCT	PUNCT	_	1	punct
+

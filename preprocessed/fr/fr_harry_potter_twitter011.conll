@@ -1,0 +1,9 @@
+1	Harry	_	PROPN	PROPN	_	2	nsubj
+2	potter	_	VERB	VERB	_	0	root
+3	y	_	ADV	ADV	_	2	advmod
+4	la	_	DET	DET	_	5	det
+5	orden	_	PROPN	PROPN	_	2	dobj
+6	del	_	X	X	_	8	compound
+7	fénix	_	PROPN	PROPN	_	8	name
+8	🎬🙈	_	PROPN	PROPN	_	5	appos
+

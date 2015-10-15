@@ -1,0 +1,19 @@
+1	Écouter	_	PROPN	PROPN	_	3	name
+2	Harry	_	PROPN	PROPN	_	3	name
+3	Potter	_	PROPN	PROPN	_	11	conj
+4	avant	_	ADV	ADV	_	5	mwe
+5	de	_	ADP	ADP	_	6	mark
+6	dormir	_	VERB	VERB	_	2	acl
+7	..	_	PUNCT	PUNCT	_	9	punct
+8	Le	_	DET	DET	_	9	det
+9	MUST	_	PROPN	PROPN	_	10	name
+10	#Potterhead	_	PROPN	PROPN	_	0	root
+11	❤	_	X	X	_	18	compound
+12	️	_	X	X	_	18	compound
+13	❤	_	X	X	_	18	compound
+14	️	_	X	X	_	18	compound
+15	❤	_	X	X	_	18	compound
+16	️	_	X	X	_	18	compound
+17	❤	_	X	X	_	18	compound
+18	️	_	X	X	_	9	appos
+

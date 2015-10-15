@@ -1,0 +1,23 @@
+1	Google	_	PROPN	PROPN	_	2	nsubj
+2	offre	_	VERB	VERB	_	0	root
+3	gratuitement	_	ADV	ADV	_	2	advmod
+4	de	_	ADP	ADP	_	6	case
+5	nombreux	_	ADJ	ADJ	_	6	amod
+6	logiciels	_	NOUN	NOUN	_	2	nmod
+7	et	_	CONJ	CONJ	_	6	cc
+8	services	_	NOUN	NOUN	_	6	conj
+9	(	_	PUNCT	PUNCT	_	10	punct
+10	email	_	PROPN	PROPN	_	6	appos
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	suite	_	NOUN	NOUN	_	10	appos
+13	bureautique	_	ADJ	ADJ	_	12	amod
+14	,	_	PUNCT	PUNCT	_	10	punct
+15	vidéo	_	ADJ	ADJ	_	13	conj
+16	,	_	PUNCT	PUNCT	_	10	punct
+17	photo	_	NOUN	NOUN	_	10	conj
+18	,	_	PUNCT	PUNCT	_	10	punct
+19	blog	_	NOUN	NOUN	_	17	conj
+20	…	_	PROPN	PROPN	_	19	appos
+21	)	_	PUNCT	PUNCT	_	17	punct
+22	.	_	PUNCT	PUNCT	_	2	punct
+

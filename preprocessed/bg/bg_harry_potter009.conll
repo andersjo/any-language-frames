@@ -1,0 +1,27 @@
+1	В	_	ADP	ADP	_	2	case
+2	България	_	PROPN	PROPN	_	8	nmod
+3	поредицата	_	NOUN	NOUN	_	8	nsubj
+4	за	_	ADP	ADP	_	5	case
+5	Хари	_	PROPN	PROPN	_	3	nmod
+6	Потър	_	PROPN	PROPN	_	5	nmod
+7	се	_	PRON	PRON	_	8	expl
+8	издава	_	VERB	VERB	_	0	root
+9	от	_	ADP	ADP	_	10	case
+10	„Егмонт	_	PROPN	PROPN	_	8	iobj
+11	“	_	PROPN	PROPN	_	10	name
+12	и	_	CONJ	CONJ	_	10	cc
+13	към	_	ADP	ADP	_	15	case
+14	2003	_	NUM	NUM	_	15	nummod
+15	г	_	NOUN	NOUN	_	8	nmod
+16	.	_	PUNCT	PUNCT	_	8	punct
+17	първите	_	ADJ	ADJ	_	19	amod
+18	четири	_	NUM	NUM	_	19	nummod
+19	книги	_	NOUN	NOUN	_	22	nsubj
+20	от	_	ADP	ADP	_	21	case
+21	поредицата	_	NOUN	NOUN	_	19	nmod
+22	продават	_	VERB	VERB	_	8	conj
+23	над	_	ADP	ADP	_	25	case
+24	200,000	_	NUM	NUM	_	25	nummod
+25	копия	_	NOUN	NOUN	_	22	nmod
+26	.	_	PUNCT	PUNCT	_	8	punct
+

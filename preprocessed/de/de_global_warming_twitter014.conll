@@ -1,0 +1,20 @@
+1	#NowPlaying	_	PROPN	PROPN	_	2	name
+2	Timber	_	PROPN	PROPN	_	0	root
+3	Pitbull	_	PROPN	PROPN	_	4	name
+4	•	_	PROPN	PROPN	_	6	name
+5	Global	_	PROPN	PROPN	_	6	name
+6	Warming	_	PROPN	PROPN	_	2	nmod
+7	:	_	PUNCT	PUNCT	_	6	punct
+8	Meltdown	_	PROPN	PROPN	_	6	appos
+9	(	_	PUNCT	PUNCT	_	11	punct
+10	Deluxe	_	PROPN	PROPN	_	11	name
+11	Version	_	NOUN	NOUN	_	8	appos
+12	)	_	PUNCT	PUNCT	_	11	punct
+13	en	_	PROPN	PROPN	_	14	name
+14	#Spotify	_	PROPN	PROPN	_	15	name
+15	Buen	_	PROPN	PROPN	_	17	name
+16	animo	_	PROPN	PROPN	_	17	name
+17	hoy	_	PROPN	PROPN	_	8	parataxis
+18	!	_	PUNCT	PUNCT	_	17	punct
+19	http://t.co/rrL2YZm16u	_	PROPN	PROPN	_	17	appos
+

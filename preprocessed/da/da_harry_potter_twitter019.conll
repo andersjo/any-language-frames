@@ -1,0 +1,8 @@
+1	SIIIIIIIRKEEEEEE	_	PROPN	PROPN	_	4	nmod:poss
+2	SIIIIIIIRKEEEEEE	_	PROPN	PROPN	_	1	name
+3	HARRY	_	PROPN	PROPN	_	1	name
+4	POTTER	_	NOUN	NOUN	_	6	nmod:poss
+5	IN	_	ADJ	ADJ	_	6	amod
+6	SAT	_	NOUN	NOUN	_	0	root
+7	1	_	NUM	NUM	_	6	nmod
+

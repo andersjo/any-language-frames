@@ -1,0 +1,19 @@
+1	Skrev	_	VERB	VERB	_	0	root
+2	också	_	ADV	ADV	_	1	advmod
+3	min	_	DET	DET	_	5	det
+4	senaste	_	ADJ	ADJ	_	5	det
+5	tweet	_	NOUN	NOUN	_	1	dobj
+6	samtidigt	_	ADV	ADV	_	1	advmod
+7	som	_	PRON	PRON	_	9	nsubj
+8	jag	_	PRON	PRON	_	9	nsubj
+9	har	_	VERB	VERB	_	5	acl:relcl
+10	Harry	_	PROPN	PROPN	_	11	nmod:poss
+11	Potter	_	NOUN	NOUN	_	9	dobj
+12	And	_	VERB	VERB	_	9	ccomp
+13	The	_	NOUN	NOUN	_	14	det
+14	Goblet	_	PROPN	PROPN	_	12	nsubj
+15	Of	_	PROPN	PROPN	_	14	name
+16	Fire	_	NOUN	NOUN	_	9	dobj
+17	i	_	ADP	ADP	_	18	case
+18	bakgrunden	_	NOUN	NOUN	_	16	nmod
+

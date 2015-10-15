@@ -1,0 +1,27 @@
+1	@needlovatoshug	_	PROPN	PROPN	_	16	nsubj
+2	bho	_	NOUN	NOUN	_	1	nmod
+3	,	_	PUNCT	PUNCT	_	1	punct
+4	quando	_	SCONJ	SCONJ	_	10	mark
+5	mi	_	PRON	PRON	_	6	advmod
+6	fisso	_	ADV	ADV	_	9	advmod
+7	con	_	ADP	ADP	_	9	case
+8	una	_	DET	DET	_	9	det
+9	cosa	_	NOUN	NOUN	_	10	nmod
+10	è	_	VERB	VERB	_	12	cop
+11	la	_	DET	DET	_	12	det
+12	fine	_	NOUN	NOUN	_	16	nsubj
+13	ahah	_	ADJ	ADJ	_	12	amod
+14	tanto	_	ADV	ADV	_	16	advmod
+15	non	_	ADV	ADV	_	16	neg
+16	credo	_	VERB	VERB	_	0	root
+17	le	_	DET	DET	_	18	det
+18	cancellerei	_	VERB	VERB	_	16	dobj
+19	mai	_	ADV	ADV	_	18	advmod
+20	,	_	PUNCT	PUNCT	_	16	punct
+21	soprattutto	_	ADV	ADV	_	22	advmod
+22	quelle	_	PRON	PRON	_	18	appos
+23	di	_	ADP	ADP	_	24	case
+24	harry	_	PROPN	PROPN	_	22	nmod
+25	potter	_	PROPN	PROPN	_	24	name
+26	aw	_	PROPN	PROPN	_	24	name
+

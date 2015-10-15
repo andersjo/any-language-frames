@@ -1,0 +1,14 @@
+1	Chrome	_	PROPN	PROPN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Nuova	_	ADJ	ADJ	_	4	amod
+4	estensione	_	NOUN	NOUN	_	1	appos
+5	con	_	ADP	ADP	_	6	case
+6	comando	_	NOUN	NOUN	_	4	nmod
+7	vocale	_	NOUN	NOUN	_	6	compound
+8	http://t.co/URBjh8y8tW	_	NOUN	NOUN	_	7	compound
+9	#Android	_	ADJ	ADJ	_	8	amod
+10	#chrome	_	ADJ	ADJ	_	11	amod
+11	#google	_	NOUN	NOUN	_	8	nmod
+12	+	_	SYM	SYM	_	11	punct
+13	#update	_	NOUN	NOUN	_	11	conj
+

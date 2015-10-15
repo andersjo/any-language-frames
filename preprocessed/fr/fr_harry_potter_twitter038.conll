@@ -1,0 +1,18 @@
+1	Je	_	PRON	PRON	_	7	nsubj
+2	dois	_	AUX	AUX	_	7	aux
+3	etre	_	AUX	AUX	_	7	aux
+4	la	_	DET	DET	_	5	det
+5	seule	_	NOUN	NOUN	_	9	nsubj
+6	qui	_	PRON	PRON	_	7	nsubj
+7	n'a	_	VERB	VERB	_	5	acl:relcl
+8	pas	_	ADV	ADV	_	7	neg
+9	vu	_	VERB	VERB	_	0	root
+10	les	_	DET	DET	_	11	det
+11	harry	_	NOUN	NOUN	_	9	dobj
+12	potter	_	ADJ	ADJ	_	11	amod
+13	,	_	PUNCT	PUNCT	_	11	punct
+14	hungergames	_	NOUN	NOUN	_	11	appos
+15	et	_	CONJ	CONJ	_	14	cc
+16	walking	_	NOUN	NOUN	_	14	conj
+17	dead	_	PROPN	PROPN	_	16	appos
+

@@ -1,0 +1,6 @@
+1	Paret	_	NOUN	NOUN	_	4	nsubj
+2	har	_	AUX	AUX	_	4	cop
+3	sex	_	NUM	NUM	_	4	nummod
+4	barn	_	NOUN	NOUN	_	0	root
+5	.	_	PUNCT	PUNCT	_	4	punct
+

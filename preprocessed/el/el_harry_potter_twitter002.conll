@@ -1,0 +1,24 @@
+1	Έφυγε	_	VERB	VERB	_	0	root
+2	από	_	ADP	ADP	_	4	case
+3	τη	_	ADJ	ADJ	_	4	det
+4	ζωή	_	NOUN	NOUN	_	1	nmod
+5	γνωστός	_	ADJ	ADJ	_	6	amod
+6	ηθοποιός	_	NOUN	NOUN	_	4	nmod
+7	του	_	ADJ	ADJ	_	8	det
+8	Harry	_	NOUN	NOUN	_	6	nmod
+9	Potter	_	NOUN	NOUN	_	8	nmod
+10	:	_	PUNCT	PUNCT	_	13	punct
+11	Τη	_	ADJ	ADJ	_	12	amod
+12	θλίψη	_	NOUN	NOUN	_	4	conj
+13	και	_	CONJ	CONJ	_	4	cc
+14	τον	_	ADJ	ADJ	_	15	det
+15	πόνο	_	NOUN	NOUN	_	16	nsubj
+16	σκόρπισε	_	VERB	VERB	_	12	acl
+17	στην	_	ADP	ADP	_	18	case
+18	οικογένεια	_	NOUN	NOUN	_	16	nmod
+19	,	_	PUNCT	PUNCT	_	16	punct
+20	τους	_	ADJ	ADJ	_	21	det
+21	φίλου	_	NOUN	NOUN	_	16	dobj
+22	...	_	NOUN	NOUN	_	21	nmod
+23	http://t.co/NNR2QTddsf	_	NOUN	NOUN	_	22	nmod
+

@@ -1,0 +1,10 @@
+1	Απέφεραν	_	VERB	VERB	_	3	cop
+2	συνολικά	_	ADV	ADV	_	3	advmod
+3	περισσότερα	_	ADJ	ADJ	_	0	root
+4	από	_	ADP	ADP	_	6	case
+5	2.6	_	NUM	NUM	_	6	nmod
+6	δισεκατομμύρια	_	NOUN	NOUN	_	3	nmod
+7	δολλάρια	_	VERB	VERB	_	3	csubj
+8	παγκοσμίως	_	ADV	ADV	_	7	advmod
+9	.	_	PUNCT	PUNCT	_	1	punct
+

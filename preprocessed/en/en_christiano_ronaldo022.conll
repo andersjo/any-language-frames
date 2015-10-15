@@ -1,0 +1,23 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	May	_	PROPN	PROPN	_	6	nmod
+3	2012	_	NUM	NUM	_	2	nummod
+4	,	_	PUNCT	PUNCT	_	2	punct
+5	he	_	PRON	PRON	_	6	nsubj
+6	become	_	VERB	VERB	_	0	root
+7	the	_	DET	DET	_	9	det
+8	first	_	ADJ	ADJ	_	0	foreign
+9	footballer	_	NOUN	NOUN	_	6	xcomp
+10	to	_	PART	PART	_	11	mark
+11	score	_	VERB	VERB	_	6	xcomp
+12	against	_	ADP	ADP	_	11	compound:prt
+13	every	_	DET	DET	_	14	det
+14	team	_	NOUN	NOUN	_	11	dobj
+15	in	_	ADP	ADP	_	11	compound:prt
+16	a	_	DET	DET	_	18	det
+17	single	_	ADJ	ADJ	_	0	foreign
+18	season	_	NOUN	NOUN	_	11	dobj
+19	in	_	ADP	ADP	_	18	compound
+20	La	_	PROPN	PROPN	_	21	compound
+21	Liga	_	PROPN	PROPN	_	11	dobj
+22	.	_	PUNCT	PUNCT	_	2	punct
+

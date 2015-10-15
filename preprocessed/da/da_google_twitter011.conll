@@ -1,0 +1,14 @@
+1	Sarasvati	_	NOUN	NOUN	_	0	root
+2	.	_	PUNCT	PUNCT	_	1	punct
+3	I	_	ADP	ADP	_	6	case
+4	want	_	NOUN	NOUN	_	6	nmod:poss
+5	this	_	ADJ	ADJ	_	6	amod
+6	framed	_	NOUN	NOUN	_	1	conj
+7	!	_	PUNCT	PUNCT	_	1	punct
+8	Google	_	NOUN	NOUN	_	9	nsubj
+9	Image	_	VERB	VERB	_	6	dep
+10	Result	_	NOUN	NOUN	_	9	dobj
+11	for	_	ADP	ADP	_	13	case
+12	http://t.co/y52LvZwSb3	_	ADJ	ADJ	_	13	amod
+13	http://t.co/RbmrG7Ldue	_	NOUN	NOUN	_	9	nmod
+

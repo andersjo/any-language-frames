@@ -1,0 +1,26 @@
+1	@radonhalt	_	NOUN	NOUN	_	2	nmod:poss
+2	@marshimmel	_	NOUN	NOUN	_	3	det
+3	@lyckoregn	_	NOUN	NOUN	_	0	root
+4	du	_	PRON	PRON	_	6	nsubj
+5	ville	_	AUX	AUX	_	6	aux
+6	ha	_	VERB	VERB	_	3	acl:relcl
+7	de	_	DET	DET	_	9	det
+8	tre	_	NUM	NUM	_	9	nummod
+9	relikerna	_	NOUN	NOUN	_	6	dobj
+10	från	_	ADP	ADP	_	12	case
+11	Harry	_	PROPN	PROPN	_	12	nmod:poss
+12	Potter	_	NOUN	NOUN	_	9	nmod
+13	och	_	CONJ	CONJ	_	6	cc
+14	Jag	_	PRON	PRON	_	15	nsubj
+15	tror	_	VERB	VERB	_	6	conj
+16	att	_	SCONJ	SCONJ	_	19	mark
+17	du	_	PRON	PRON	_	19	nsubj
+18	ville	_	AUX	AUX	_	19	aux
+19	ha	_	VERB	VERB	_	15	ccomp
+20	ett	_	DET	DET	_	21	det
+21	slags	_	NOUN	NOUN	_	22	nmod:poss
+22	djur	_	NOUN	NOUN	_	19	dobj
+23	med	_	ADP	ADP	_	25	case
+24	tre	_	NUM	NUM	_	25	nummod
+25	huven😂	_	NOUN	NOUN	_	22	nmod
+

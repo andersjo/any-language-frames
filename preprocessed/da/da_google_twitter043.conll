@@ -1,0 +1,9 @@
+1	@IEWilliam	_	NOUN	NOUN	_	2	nsubj
+2	Send	_	VERB	VERB	_	0	root
+3	us	_	NOUN	NOUN	_	2	dobj
+4	an	_	ADV	ADV	_	2	advmod
+5	email	_	NOUN	NOUN	_	2	dobj
+6	-	_	PUNCT	PUNCT	_	5	punct
+7	timhpal(at)	_	X	X	_	5	appos
+8	http://t.co/49wpSH7ijF	_	PROPN	PROPN	_	7	list
+

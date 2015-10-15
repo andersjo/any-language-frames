@@ -1,0 +1,21 @@
+1	I	_	ADP	ADP	_	3	case
+2	Champions	_	NOUN	NOUN	_	1	mwe
+3	League-finalen	_	NOUN	NOUN	_	4	det
+4	2007/2008	_	NUM	NUM	_	12	nmod
+5	den	_	DET	DET	_	7	det
+6	21	_	NUM	NUM	_	7	nummod
+7	maj	_	NOUN	NOUN	_	3	appos
+8	2008	_	NUM	NUM	_	7	nummod
+9	mot	_	ADP	ADP	_	11	case
+10	ligarivalerna	_	NOUN	NOUN	_	11	nmod:poss
+11	Chelsea	_	NOUN	NOUN	_	12	nsubj
+12	gjorde	_	VERB	VERB	_	0	root
+13	Ronaldo	_	ADJ	ADJ	_	14	amod
+14	matchens	_	NOUN	NOUN	_	12	nsubj
+15	första	_	ADJ	ADJ	_	16	det
+16	mål	_	NOUN	NOUN	_	12	nmod
+17	efter	_	ADP	ADP	_	19	case
+18	26	_	NUM	NUM	_	19	nummod
+19	minuter	_	NOUN	NOUN	_	16	nmod
+20	.	_	PUNCT	PUNCT	_	12	punct
+

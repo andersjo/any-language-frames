@@ -1,0 +1,22 @@
+1	Haier	_	PROPN	PROPN	_	3	name
+2	Modular	_	PROPN	PROPN	_	3	name
+3	TV	_	PROPN	PROPN	_	16	nmod
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	la	_	DET	DET	_	7	det
+6	première	_	ADJ	ADJ	_	7	amod
+7	TV	_	NOUN	NOUN	_	3	appos
+8	qui	_	PRON	PRON	_	9	nsubj
+9	évolue	_	VERB	VERB	_	7	acl:relcl
+10	selon	_	ADP	ADP	_	12	case
+11	les	_	DET	DET	_	12	det
+12	innovations	_	NOUN	NOUN	_	9	nmod
+13	technologiques	_	ADJ	ADJ	_	12	amod
+14	:	_	PUNCT	PUNCT	_	7	punct
+15	Google	_	PROPN	PROPN	_	16	nsubj
+16	développe	_	VERB	VERB	_	0	root
+17	son	_	DET	DET	_	18	nmod:poss
+18	projet	_	NOUN	NOUN	_	16	dobj
+19	de	_	ADP	ADP	_	21	case
+20	…	_	PROPN	PROPN	_	21	name
+21	http://t.co/LLlh3ggZxO	_	PROPN	PROPN	_	18	nmod
+

@@ -1,0 +1,14 @@
+1	Fat	_	ADV	ADV	_	2	advmod
+2	Burning	_	NOUN	NOUN	_	3	nmod:poss
+3	Meal	_	NOUN	NOUN	_	4	nmod:poss
+4	Plan	_	NOUN	NOUN	_	0	root
+5	For	_	PROPN	PROPN	_	4	appos
+6	Men	_	CONJ	CONJ	_	5	cc
+7	[	_	PUNCT	PUNCT	_	8	punct
+8	Diet	_	PROPN	PROPN	_	4	appos
+9	Plans	_	PROPN	PROPN	_	8	name
+10	For	_	PROPN	PROPN	_	8	name
+11	Men	_	CONJ	CONJ	_	8	cc
+12	]	_	PUNCT	PUNCT	_	8	punct
+13	http://t.co/OFfi6YIWMS	_	PROPN	PROPN	_	8	list
+

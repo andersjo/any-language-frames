@@ -1,0 +1,25 @@
+1	Mina	_	DET	DET	_	2	det
+2	intressen	_	NOUN	NOUN	_	3	nmod:poss
+3	nuförtiden	_	NOUN	NOUN	_	5	nmod
+4	:	_	PUNCT	PUNCT	_	5	punct
+5	söka	_	VERB	VERB	_	0	root
+6	bostad	_	NOUN	NOUN	_	5	dobj
+7	och	_	CONJ	CONJ	_	5	cc
+8	vandra	_	VERB	VERB	_	5	conj
+9	runt	_	ADV	ADV	_	8	advmod
+10	i	_	ADP	ADP	_	12	case
+11	nordryska	_	ADJ	ADJ	_	12	amod
+12	byar	_	NOUN	NOUN	_	8	nmod
+13	med	_	ADP	ADP	_	14	case
+14	Google	_	PROPN	PROPN	_	16	nmod:poss
+15	Street	_	PROPN	PROPN	_	14	name
+16	View	_	NOUN	NOUN	_	8	nmod
+17	.	_	PUNCT	PUNCT	_	5	punct
+18	Har	_	AUX	AUX	_	19	cop
+19	tröttnat	_	ADJ	ADJ	_	12	acl
+20	på	_	ADP	ADP	_	23	case
+21	en	_	DET	DET	_	19	nmod
+22	av	_	ADP	ADP	_	23	case
+23	dem	_	PRON	PRON	_	5	conj
+24	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,14 @@
+1	В	_	ADP	ADP	_	4	case
+2	ранните	_	ADJ	ADJ	_	4	amod
+3	си	_	PRON	PRON	_	2	case
+4	години	_	NOUN	NOUN	_	9	nmod
+5	на	_	ADP	ADP	_	6	case
+6	сцената	_	NOUN	NOUN	_	4	nmod
+7	тя	_	PRON	PRON	_	9	nsubj
+8	се	_	PRON	PRON	_	9	expl
+9	учи	_	VERB	VERB	_	0	root
+10	от	_	ADP	ADP	_	11	case
+11	баща	_	NOUN	NOUN	_	9	iobj
+12	си	_	PRON	PRON	_	11	case
+13	.	_	PUNCT	PUNCT	_	9	punct
+

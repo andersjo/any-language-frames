@@ -1,0 +1,13 @@
+1	Με	_	ADP	ADP	_	2	case
+2	πεφταστέρια	_	NOUN	NOUN	_	8	nmod
+3	κι	_	CONJ	CONJ	_	8	mark
+4	ένα	_	ADJ	ADJ	_	5	det
+5	περαστικό	_	NOUN	NOUN	_	8	nsubj
+6	κομήτη	_	ADJ	ADJ	_	7	amod
+7	…	_	NOUN	NOUN	_	5	nmod
+8	ξεκινά	_	VERB	VERB	_	0	root
+9	το	_	ADJ	ADJ	_	10	det
+10	2015	_	NOUN	NOUN	_	8	dobj
+11	-	_	PUNCT	PUNCT	_	10	punct
+12	http://t.co/AQvU5Ljfve	_	NOUN	NOUN	_	10	nmod
+

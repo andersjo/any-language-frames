@@ -1,0 +1,13 @@
+1	#HuboUnPresidente	_	PROPN	PROPN	_	2	name
+2	Que	_	PROPN	PROPN	_	7	nsubj
+3	desde	_	ADP	ADP	_	5	case
+4	temprana	_	ADJ	ADJ	_	5	amod
+5	edad	_	NOUN	NOUN	_	7	nmod
+6	le	_	PRON	PRON	_	7	iobj
+7	gusto	_	VERB	VERB	_	0	root
+8	la	_	DET	DET	_	10	det
+9	"	_	PUNCT	PUNCT	_	10	punct
+10	muerte	_	NOUN	NOUN	_	7	dobj
+11	"	_	PUNCT	PUNCT	_	10	punct
+12	https://t.co/uzvHfUivo3	_	X	X	_	10	dep
+

@@ -1,0 +1,7 @@
+1	На	_	ADP	ADP	_	3	case
+2	14	_	NUM	NUM	_	3	nummod
+3	май	_	NOUN	NOUN	_	0	root
+4	2013	_	NUM	NUM	_	5	nummod
+5	г	_	NOUN	NOUN	_	3	nmod
+6	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,10 @@
+1	jfais	_	VERB	VERB	_	0	root
+2	mon	_	DET	DET	_	3	nmod:poss
+3	exposé	_	NOUN	NOUN	_	1	dobj
+4	sur	_	ADP	ADP	_	6	case
+5	Angelina	_	PROPN	PROPN	_	6	name
+6	Jolie	_	PROPN	PROPN	_	3	nmod
+7	je	_	PRON	PRON	_	8	nsubj
+8	l'aime	_	VERB	VERB	_	1	advcl
+9	trop	_	ADV	ADV	_	8	advmod
+

@@ -1,0 +1,20 @@
+1	Χάστε	_	NOUN	NOUN	_	0	root
+2	κι	_	CONJ	CONJ	_	5	cc
+3	εσείς	_	PRON	PRON	_	5	nmod
+4	13	_	NUM	NUM	_	5	nummod
+5	κιλά	_	NOUN	NOUN	_	1	conj
+6	μέσα	_	ADV	ADV	_	5	advmod
+7	σε	_	ADP	ADP	_	9	case
+8	4	_	NUM	NUM	_	9	nummod
+9	εβδομάδες	_	NOUN	NOUN	_	6	nmod
+10	όπως	_	ADV	ADV	_	9	remnant
+11	η	_	ADJ	ADJ	_	12	det
+12	Angelina	_	NOUN	NOUN	_	9	remnant
+13	Jolie	_	NOUN	NOUN	_	12	nmod
+14	!	_	PUNCT	PUNCT	_	13	punct
+15	Δες	_	NOUN	NOUN	_	13	nmod
+16	εδώ	_	ADV	ADV	_	12	advmod
+17	>	_	PUNCT	PUNCT	_	19	punct
+18	http://t.co/9cbaNLfO6a	_	NOUN	NOUN	_	19	nmod
+19	http://t.co/FRBz6eyBIZ	_	NOUN	NOUN	_	13	appos
+

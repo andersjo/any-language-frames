@@ -1,0 +1,17 @@
+1	Harry	_	PROPN	PROPN	_	2	compound
+2	Kane	_	PROPN	PROPN	_	4	nsubj
+3	has	_	AUX	AUX	_	4	aux
+4	scored	_	VERB	VERB	_	0	root
+5	DOUBLE	_	VERB	VERB	_	4	xcomp
+6	the	_	DET	DET	_	7	det
+7	amount	_	NOUN	NOUN	_	5	dobj
+8	of	_	ADP	ADP	_	5	compound:prt
+9	Christiano	_	PROPN	PROPN	_	10	compound
+10	Ronaldo	_	PROPN	PROPN	_	5	dobj
+11	in	_	ADP	ADP	_	5	compound:prt
+12	the	_	DET	DET	_	16	det
+13	2015	_	NUM	NUM	_	14	nummod
+14	calendar	_	NOUN	NOUN	_	15	compound
+15	year	_	NOUN	NOUN	_	16	compound
+16	….	_	NOUN	NOUN	_	5	dobj
+

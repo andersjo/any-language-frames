@@ -1,0 +1,18 @@
+1	Sie	_	PRON	PRON	_	5	nsubj
+2	ist	_	VERB	VERB	_	5	cop
+3	die	_	DET	DET	_	5	det
+4	jüngere	_	ADJ	ADJ	_	5	amod
+5	Schwester	_	NOUN	NOUN	_	0	root
+6	des	_	DET	DET	_	7	det
+7	Schauspielers	_	NOUN	NOUN	_	5	det
+8	James	_	PROPN	PROPN	_	9	name
+9	Haven	_	PROPN	PROPN	_	7	appos
+10	und	_	CONJ	CONJ	_	7	cc
+11	die	_	DET	DET	_	12	det
+12	Nichte	_	NOUN	NOUN	_	5	conj
+13	des	_	DET	DET	_	15	det
+14	Songwriters	_	PROPN	PROPN	_	15	amod
+15	Chip	_	NOUN	NOUN	_	12	det
+16	Taylor	_	PROPN	PROPN	_	15	appos
+17	.	_	PUNCT	PUNCT	_	5	punct
+

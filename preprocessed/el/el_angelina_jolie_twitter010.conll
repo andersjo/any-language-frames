@@ -1,0 +1,14 @@
+1	Αλύγιστος	_	NOUN	NOUN	_	0	root
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	η	_	ADJ	ADJ	_	5	det
+4	νέα	_	ADJ	ADJ	_	5	amod
+5	ταινία	_	NOUN	NOUN	_	1	conj
+6	της	_	ADJ	ADJ	_	7	det
+7	Angelina	_	NOUN	NOUN	_	5	nmod
+8	Jolie	_	NOUN	NOUN	_	7	nmod
+9	είναι	_	VERB	VERB	_	12	cop
+10	εδώ	_	ADV	ADV	_	9	advmod
+11	!	_	PUNCT	PUNCT	_	13	punct
+12	http://t.co/oIrNFSLN7C	_	NOUN	NOUN	_	13	nmod
+13	#JoyTvgr	_	NOUN	NOUN	_	8	nsubj
+

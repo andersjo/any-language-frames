@@ -1,0 +1,12 @@
+1	Por	_	ADP	ADP	_	2	case
+2	lo	_	PRON	PRON	_	5	nmod
+3	menos	_	ADV	ADV	_	5	advmod
+4	ya	_	ADV	ADV	_	5	advmod
+5	bajó	_	VERB	VERB	_	0	root
+6	de	_	ADP	ADP	_	8	case
+7	los	_	DET	DET	_	8	det
+8	36°	_	PROPN	PROPN	_	5	nmod
+9	...	_	PUNCT	PUNCT	_	8	punct
+10	https://t.co/wq50ogWxD5	_	PROPN	PROPN	_	11	name
+11	http://t.co/lP6F56vih7	_	PROPN	PROPN	_	5	nmod
+

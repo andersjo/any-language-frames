@@ -1,0 +1,23 @@
+1	Böckerna	_	NOUN	NOUN	_	2	nsubj
+2	handlar	_	VERB	VERB	_	0	root
+3	om	_	ADP	ADP	_	7	case
+4	den	_	DET	DET	_	6	det
+5	föräldralöse	_	ADJ	ADJ	_	6	amod
+6	Harry	_	PROPN	PROPN	_	7	nmod:poss
+7	Potter	_	NOUN	NOUN	_	2	nmod
+8	som	_	PRON	PRON	_	10	nsubj
+9	har	_	AUX	AUX	_	10	aux
+10	vuxit	_	VERB	VERB	_	7	acl:relcl
+11	upp	_	ADV	ADV	_	10	compound:prt
+12	hos	_	ADP	ADP	_	16	case
+13	sin	_	DET	DET	_	15	nmod:poss
+14	döda	_	ADJ	ADJ	_	15	amod
+15	mors	_	NOUN	NOUN	_	16	nmod:poss
+16	släktingar	_	NOUN	NOUN	_	10	nmod
+17	,	_	PUNCT	PUNCT	_	16	punct
+18	den	_	PRON	PRON	_	19	nsubj
+19	stränga	_	VERB	VERB	_	16	acl:relcl
+20	familjen	_	NOUN	NOUN	_	21	nmod:poss
+21	Dursley	_	NOUN	NOUN	_	19	dobj
+22	.	_	PUNCT	PUNCT	_	2	punct
+

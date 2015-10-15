@@ -1,0 +1,20 @@
+1	Born	_	VERB	VERB	_	0	root
+2	in	_	ADP	ADP	_	1	compound:prt
+3	Los	_	PROPN	PROPN	_	4	compound
+4	Angeles	_	PROPN	PROPN	_	1	dobj
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	California	_	PROPN	PROPN	_	4	conj
+7	,	_	PUNCT	PUNCT	_	4	punct
+8	Jolie	_	PROPN	PROPN	_	11	nsubj
+9	is	_	VERB	VERB	_	11	cop
+10	the	_	DET	DET	_	11	det
+11	daughter	_	NOUN	NOUN	_	14	compound
+12	of	_	ADP	ADP	_	9	compound:prt
+13	actors	_	NOUN	NOUN	_	14	compound
+14	Jon	_	NOUN	NOUN	_	15	compound
+15	Voight	_	NOUN	NOUN	_	1	dobj
+16	and	_	CONJ	CONJ	_	15	cc
+17	Marcheline	_	PROPN	PROPN	_	18	compound
+18	Bertrand	_	PROPN	PROPN	_	15	conj
+19	.	_	PUNCT	PUNCT	_	1	punct
+

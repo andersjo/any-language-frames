@@ -1,0 +1,19 @@
+1	Осемте	_	ADJ	ADJ	_	2	amod
+2	филма	_	NOUN	NOUN	_	4	nsubj
+3	са	_	AUX	AUX	_	4	aux
+4	най-касовата	_	VERB	VERB	_	0	root
+5	поредица	_	NOUN	NOUN	_	4	nsubjpass
+6	на	_	ADP	ADP	_	8	case
+7	всички	_	DET	DET	_	8	det
+8	времена	_	NOUN	NOUN	_	5	nmod
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	с	_	ADP	ADP	_	11	case
+11	приходи	_	NOUN	NOUN	_	5	nmod
+12	от	_	ADP	ADP	_	17	case
+13	над	_	ADP	ADP	_	14	case
+14	7	_	NUM	NUM	_	17	nmod
+15	,	_	PUNCT	PUNCT	_	14	punct
+16	5	_	NUM	NUM	_	14	conj
+17	млд	_	NOUN	NOUN	_	11	nmod
+18	.	_	PUNCT	PUNCT	_	4	punct
+

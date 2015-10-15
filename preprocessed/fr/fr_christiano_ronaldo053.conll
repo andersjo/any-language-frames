@@ -1,0 +1,15 @@
+1	Au	_	ADP	ADP	_	2	case
+2	total	_	NOUN	NOUN	_	5	nmod
+3	,	_	PUNCT	PUNCT	_	5	punct
+4	il	_	PRON	PRON	_	5	nsubj
+5	joue	_	VERB	VERB	_	0	root
+6	40	_	NUM	NUM	_	7	nummod
+7	matchs	_	NOUN	NOUN	_	5	dobj
+8	dans	_	ADP	ADP	_	9	case
+9	lesquels	_	PRON	PRON	_	11	nmod
+10	il	_	PRON	PRON	_	11	nsubj
+11	marque	_	VERB	VERB	_	7	acl:relcl
+12	6	_	NUM	NUM	_	13	nummod
+13	buts	_	NOUN	NOUN	_	11	dobj
+14	.	_	PUNCT	PUNCT	_	5	punct
+

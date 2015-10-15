@@ -1,0 +1,26 @@
+1	1	_	NUM	NUM	_	3	nummod
+2	.	_	PUNCT	PUNCT	_	1	punct
+3	Отворете	_	PROPN	PROPN	_	0	root
+4	Google	_	PROPN	PROPN	_	3	name
+5	2	_	PROPN	PROPN	_	3	name
+6	.	_	PUNCT	PUNCT	_	7	punct
+7	Напишете	_	PROPN	PROPN	_	3	conj
+8	:	_	PUNCT	PUNCT	_	3	punct
+9	Гугъл	_	PROPN	PROPN	_	3	conj
+10	Гравитация	_	PROPN	PROPN	_	9	name
+11	3	_	NUM	NUM	_	9	nummod
+12	.	_	PUNCT	PUNCT	_	13	punct
+13	Натиснете	_	NOUN	NOUN	_	9	nmod
+14	на	_	ADP	ADP	_	16	case
+15	първия	_	ADJ	ADJ	_	16	amod
+16	резултат	_	NOUN	NOUN	_	13	nmod
+17	4	_	NUM	NUM	_	16	nummod
+18	.	_	PUNCT	PUNCT	_	13	punct
+19	Изчакайте	_	PROPN	PROPN	_	13	nmod
+20	2	_	NUM	NUM	_	21	nummod
+21	секунди	_	NOUN	NOUN	_	13	nmod
+22	и	_	CONJ	CONJ	_	3	cc
+23	вижте	_	VERB	VERB	_	17	conj
+24	...	_	PUNCT	PUNCT	_	25	punct
+25	http://t.co/Xe610CcrQH	_	PROPN	PROPN	_	23	dobj
+

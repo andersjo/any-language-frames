@@ -1,0 +1,16 @@
+1	Für	_	ADP	ADP	_	3	case
+2	die	_	DET	DET	_	3	det
+3	Organisatorinnen	_	NOUN	NOUN	_	4	nmod
+4	war	_	VERB	VERB	_	14	cop
+5	der	_	DET	DET	_	8	det
+6	erste	_	ADJ	ADJ	_	8	amod
+7	Internationale	_	ADJ	ADJ	_	8	amod
+8	Frauentag	_	NOUN	NOUN	_	14	nsubj
+9	im	_	ADP	ADP	_	11	case
+10	deutschen	_	ADJ	ADJ	_	11	amod
+11	Kaiserreich	_	NOUN	NOUN	_	8	nmod
+12	ein	_	DET	DET	_	14	det
+13	voller	_	ADJ	ADJ	_	14	amod
+14	Erfolg	_	NOUN	NOUN	_	0	root
+15	.	_	PUNCT	PUNCT	_	14	punct
+

@@ -1,0 +1,18 @@
+1	Edvin	_	NOUN	NOUN	_	8	nsubj
+2	när	_	ADV	ADV	_	4	advmod
+3	vi	_	PRON	PRON	_	4	nsubj
+4	såg	_	VERB	VERB	_	1	advcl
+5	Harry	_	PROPN	PROPN	_	6	nmod:poss
+6	Potter	_	NOUN	NOUN	_	7	nmod:poss
+7	igår-	_	NOUN	NOUN	_	4	dobj
+8	undra	_	VERB	VERB	_	0	root
+9	hur	_	ADV	ADV	_	12	advmod
+10	det	_	PRON	PRON	_	12	expl
+11	skulle	_	AUX	AUX	_	12	aux
+12	kännas	_	VERB	VERB	_	8	ccomp
+13	att	_	PART	PART	_	14	mark
+14	få	_	VERB	VERB	_	12	csubj
+15	gåshud	_	NOUN	NOUN	_	14	dobj
+16	i	_	ADP	ADP	_	17	case
+17	munnen	_	NOUN	NOUN	_	14	nmod
+

@@ -1,0 +1,6 @@
+1	Jennifer	_	PROPN	PROPN	_	0	root
+2	Aniston	_	PROPN	PROPN	_	1	name
+3	>	_	PUNCT	PUNCT	_	1	punct
+4	Angelina	_	PROPN	PROPN	_	1	list
+5	Jolie	_	NOUN	NOUN	_	4	dep
+

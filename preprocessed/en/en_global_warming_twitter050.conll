@@ -1,0 +1,24 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	@fnjunkies	_	NOUN	NOUN	_	11	nmod
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	"	_	PUNCT	PUNCT	_	2	punct
+5	@LeMarquand	_	NOUN	NOUN	_	2	appos
+6	:	_	PUNCT	PUNCT	_	5	punct
+7	WOW‼️260	_	NOUN	NOUN	_	8	compound
+8	lb	_	NOUN	NOUN	_	2	appos
+9	.	_	PUNCT	PUNCT	_	8	punct
+10	Catfish	_	NOUN	NOUN	_	11	nsubj
+11	caught	_	VERB	VERB	_	18	advcl
+12	in	_	ADP	ADP	_	11	compound:prt
+13	Italy	_	PROPN	PROPN	_	11	dobj
+14	....	_	PUNCT	PUNCT	_	15	punct
+15	http://t.co/EBx5viGDxa	_	X	X	_	17	compound
+16	"	_	PUNCT	PUNCT	_	21	punct
+17	Let's	_	NOUN	NOUN	_	18	nsubj
+18	guess	_	VERB	VERB	_	0	root
+19	:	_	PUNCT	PUNCT	_	18	punct
+20	Global	_	ADJ	ADJ	_	0	punct
+21	Warming	_	NOUN	NOUN	_	18	dobj
+22	"	_	PUNCT	PUNCT	_	21	punct
+23	@rivermonster101	_	X	X	_	21	appos
+

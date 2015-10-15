@@ -1,0 +1,19 @@
+1	Ferguson	_	PROPN	PROPN	_	2	nsubj
+2	bestand	_	VERB	VERB	_	0	root
+3	jedoch	_	ADV	ADV	_	2	advmod
+4	darauf	_	ADV	ADV	_	2	advmod
+5	,	_	PUNCT	PUNCT	_	2	punct
+6	dass	_	SCONJ	SCONJ	_	16	mark
+7	sein	_	DET	DET	_	9	nmod:poss
+8	neuer	_	ADJ	ADJ	_	9	amod
+9	Spieler	_	NOUN	NOUN	_	16	nsubj
+10	künftig	_	ADV	ADV	_	16	advmod
+11	mit	_	ADP	ADP	_	14	case
+12	der	_	DET	DET	_	14	det
+13	geschichtsträchtigen	_	ADJ	ADJ	_	14	amod
+14	Nummer	_	NOUN	NOUN	_	16	nmod
+15	7	_	NUM	NUM	_	14	appos
+16	auflaufen	_	VERB	VERB	_	2	advcl
+17	sollte	_	AUX	AUX	_	16	aux
+18	.	_	PUNCT	PUNCT	_	2	punct
+

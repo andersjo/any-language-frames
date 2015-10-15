@@ -1,0 +1,25 @@
+1	Kvindernes	_	NOUN	NOUN	_	3	nmod:poss
+2	internationale	_	ADJ	ADJ	_	3	amod
+3	kampdag	_	NOUN	NOUN	_	7	dep
+4	eller	_	CONJ	CONJ	_	3	cc
+5	den	_	DET	DET	_	7	det
+6	internationale	_	ADJ	ADJ	_	7	amod
+7	kvindedag	_	NOUN	NOUN	_	8	nsubj
+8	markeres	_	VERB	VERB	_	0	root
+9	den	_	DET	DET	_	12	det
+10	8	_	NUM	NUM	_	12	nummod
+11	.	_	PUNCT	PUNCT	_	8	punct
+12	marts	_	NOUN	NOUN	_	8	nsubj
+13	hvert	_	DET	DET	_	14	det
+14	år	_	NOUN	NOUN	_	8	dep
+15	for	_	ADP	ADP	_	14	dep
+16	at	_	PART	PART	_	15	dep
+17	sætte	_	VERB	VERB	_	16	dep
+18	fokus	_	NOUN	NOUN	_	17	dobj
+19	på	_	ADP	ADP	_	21	case
+20	kvinders	_	NOUN	NOUN	_	21	nmod:poss
+21	stilling	_	NOUN	NOUN	_	17	nmod
+22	i	_	ADP	ADP	_	23	case
+23	verden	_	NOUN	NOUN	_	21	nmod
+24	.	_	PUNCT	PUNCT	_	8	punct
+

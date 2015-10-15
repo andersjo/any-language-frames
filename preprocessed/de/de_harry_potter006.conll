@@ -1,0 +1,9 @@
+1	Doch	_	ADV	ADV	_	5	advmod
+2	erst	_	ADV	ADV	_	0	root
+3	mit	_	ADP	ADP	_	5	case
+4	dem	_	DET	DET	_	5	det
+5	Erscheinen	_	NOUN	NOUN	_	2	nmod
+6	des	_	DET	DET	_	7	det
+7	4	_	PROPN	PROPN	_	5	det
+8	.	_	PUNCT	PUNCT	_	5	punct
+

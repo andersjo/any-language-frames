@@ -1,0 +1,21 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	@morgancarole_	_	NOUN	NOUN	_	0	root
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	My	_	PRON	PRON	_	5	nmod:poss
+5	God	_	PROPN	PROPN	_	2	appos
+6	,	_	PUNCT	PUNCT	_	13	punct
+7	is	_	VERB	VERB	_	4	cop
+8	there	_	DET	DET	_	7	expl
+9	anything	_	NOUN	NOUN	_	7	nsubj
+10	Angelina	_	PROPN	PROPN	_	11	compound
+11	Jolie	_	PROPN	PROPN	_	12	compound
+12	can't	_	NOUN	NOUN	_	13	nsubj
+13	do	_	VERB	VERB	_	9	acl:relcl
+14	"	_	PUNCT	PUNCT	_	9	punct
+15	eat	_	VERB	VERB	_	13	ccomp
+16	a	_	DET	DET	_	17	det
+17	watermelon	_	NOUN	NOUN	_	15	dobj
+18	in	_	ADP	ADP	_	15	compound:prt
+19	one	_	NUM	NUM	_	20	nummod
+20	bite	_	NOUN	NOUN	_	15	dobj
+

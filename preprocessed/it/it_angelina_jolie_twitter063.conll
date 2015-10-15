@@ -1,0 +1,10 @@
+1	bruce	_	VERB	VERB	_	0	root
+2	wayne	_	NOUN	NOUN	_	1	dobj
+3	es	_	NOUN	NOUN	_	2	compound
+4	la	_	DET	DET	_	5	det
+5	angelina	_	NOUN	NOUN	_	1	nsubj
+6	jolie	_	ADJ	ADJ	_	5	amod
+7	del	_	ADP	ADP	_	8	case
+8	universo	_	NOUN	NOUN	_	5	nmod
+9	dc	_	NOUN	NOUN	_	8	compound
+

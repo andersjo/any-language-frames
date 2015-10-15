@@ -1,0 +1,21 @@
+1	"	_	PUNCT	PUNCT	_	6	punct
+2	"	_	PUNCT	PUNCT	_	6	punct
+3	Efter	_	SCONJ	SCONJ	_	6	mark
+4	jeg	_	PRON	PRON	_	6	nsubjpass
+5	var	_	AUX	AUX	_	6	auxpass
+6	kommet	_	VERB	VERB	_	19	dep
+7	til	_	ADP	ADP	_	8	case
+8	klubben	_	NOUN	NOUN	_	6	nmod
+9	,	_	PUNCT	PUNCT	_	6	punct
+10	spurgte	_	VERB	VERB	_	0	root
+11	træneren	_	NOUN	NOUN	_	10	nsubj
+12	mig	_	PRON	PRON	_	10	dobj
+13	,	_	PUNCT	PUNCT	_	10	punct
+14	hvilket	_	PRON	PRON	_	19	dobj
+15	nummer	_	NOUN	NOUN	_	14	dep
+16	jeg	_	PRON	PRON	_	19	nsubj
+17	gerne	_	ADV	ADV	_	19	advmod
+18	ville	_	AUX	AUX	_	19	aux
+19	have	_	VERB	VERB	_	12	acl:relcl
+20	.	_	PUNCT	PUNCT	_	10	punct
+

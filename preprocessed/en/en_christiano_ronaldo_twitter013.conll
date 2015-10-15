@@ -1,0 +1,26 @@
+1	@ogunmilorokenny	_	NOUN	NOUN	_	4	discourse
+2	,	_	PUNCT	PUNCT	_	4	punct
+3	please	_	INTJ	INTJ	_	4	discourse
+4	try	_	VERB	VERB	_	0	root
+5	and	_	CONJ	CONJ	_	4	cc
+6	check	_	VERB	VERB	_	4	conj
+7	the	_	DET	DET	_	8	det
+8	fact	_	NOUN	NOUN	_	6	dobj
+9	about	_	ADP	ADP	_	6	compound:prt
+10	christiano	_	PROPN	PROPN	_	11	compound
+11	Ronaldo	_	PROPN	PROPN	_	12	compound
+12	origin	_	NOUN	NOUN	_	6	dobj
+13	.	_	PUNCT	PUNCT	_	4	punct
+14	I	_	PRON	PRON	_	15	nsubj
+15	don't	_	VERB	VERB	_	6	parataxis
+16	wanna	_	PROPN	PROPN	_	15	dobj
+17	argue	_	VERB	VERB	_	15	ccomp
+18	with	_	ADP	ADP	_	17	compound:prt
+19	you	_	PRON	PRON	_	20	nsubj
+20	further	_	VERB	VERB	_	17	ccomp
+21	the	_	DET	DET	_	23	det
+22	other	_	ADJ	ADJ	_	0	foreign
+23	time	_	NOUN	NOUN	_	20	dobj
+24	on	_	ADP	ADP	_	20	compound:prt
+25	air	_	NOUN	NOUN	_	20	dobj
+

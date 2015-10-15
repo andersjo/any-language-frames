@@ -1,0 +1,26 @@
+1	The	_	DET	DET	_	2	det
+2	series	_	NOUN	NOUN	_	5	nsubjpass
+3	was	_	AUX	AUX	_	5	auxpass
+4	originally	_	ADV	ADV	_	5	advmod
+5	printed	_	VERB	VERB	_	0	root
+6	in	_	ADP	ADP	_	5	compound:prt
+7	English	_	PROPN	PROPN	_	5	dobj
+8	by	_	ADP	ADP	_	5	compound:prt
+9	two	_	NUM	NUM	_	11	nummod
+10	major	_	ADJ	ADJ	_	0	foreign
+11	publishers	_	NOUN	NOUN	_	5	nmod
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	Bloomsbury	_	NOUN	NOUN	_	11	conj
+14	in	_	ADP	ADP	_	13	compound
+15	the	_	DET	DET	_	17	det
+16	United	_	PROPN	PROPN	_	17	compound
+17	Kingdom	_	PROPN	PROPN	_	11	conj
+18	and	_	CONJ	CONJ	_	17	cc
+19	Scholastic	_	PROPN	PROPN	_	20	compound
+20	Press	_	PROPN	PROPN	_	17	conj
+21	in	_	ADP	ADP	_	0	iobj
+22	the	_	DET	DET	_	24	det
+23	United	_	PROPN	PROPN	_	24	compound
+24	States	_	PROPN	PROPN	_	17	conj
+25	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,8 @@
+1	Ονόμασαν	_	NOUN	NOUN	_	4	nsubj
+2	τη	_	ADJ	ADJ	_	3	det
+3	μηχανή	_	NOUN	NOUN	_	1	nmod
+4	αναζήτησής	_	VERB	VERB	_	0	root
+5	τους	_	ADJ	ADJ	_	6	det
+6	Google	_	NOUN	NOUN	_	4	dobj
+7	.	_	PUNCT	PUNCT	_	4	punct
+

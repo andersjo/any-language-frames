@@ -1,0 +1,11 @@
+1	Har	_	AUX	AUX	_	3	aux
+2	jag	_	PRON	PRON	_	3	nsubj
+3	berättat	_	VERB	VERB	_	0	root
+4	att	_	SCONJ	SCONJ	_	6	mark
+5	jag	_	PRON	PRON	_	6	nsubj
+6	hatar	_	VERB	VERB	_	3	ccomp
+7	Google	_	PROPN	PROPN	_	8	nmod:poss
+8	Drives	_	NOUN	NOUN	_	9	nmod:poss
+9	rättstavning	_	NOUN	NOUN	_	6	dobj
+10	?	_	PUNCT	PUNCT	_	3	punct
+

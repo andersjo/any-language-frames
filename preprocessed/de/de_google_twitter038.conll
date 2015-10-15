@@ -1,0 +1,18 @@
+1	Kann	_	AUX	AUX	_	15	aux
+2	man	_	PRON	PRON	_	15	nsubj
+3	sich	_	PRON	PRON	_	15	dobj
+4	den	_	DET	DET	_	6	det
+5	kurzen	_	ADJ	ADJ	_	6	amod
+6	Dienstweg	_	NOUN	NOUN	_	15	nsubj
+7	eigentlich	_	ADV	ADV	_	10	advmod
+8	bei	_	ADP	ADP	_	10	case
+9	Google	_	PROPN	PROPN	_	10	name
+10	Maps	_	PROPN	PROPN	_	15	nmod
+11	über	_	ADP	ADP	_	13	case
+12	die	_	DET	DET	_	13	det
+13	Indoor-Karten	_	NOUN	NOUN	_	14	nmod
+14	anzeigen	_	VERB	VERB	_	15	xcomp
+15	lassen	_	VERB	VERB	_	0	root
+16	?	_	PUNCT	PUNCT	_	15	punct
+17	#tatort	_	NOUN	NOUN	_	15	nsubj
+

@@ -1,0 +1,20 @@
+1	L'8	_	PROPN	PROPN	_	7	nsubj
+2	marzo	_	NOUN	NOUN	_	1	nmod
+3	,	_	PUNCT	PUNCT	_	1	punct
+4	che	_	SCONJ	SCONJ	_	7	mark
+5	già	_	ADV	ADV	_	7	advmod
+6	veniva	_	AUX	AUX	_	7	aux
+7	festeggiato	_	VERB	VERB	_	0	root
+8	in	_	ADP	ADP	_	10	case
+9	diversi	_	DET	DET	_	10	det
+10	paesi	_	NOUN	NOUN	_	7	nmod
+11	,	_	PUNCT	PUNCT	_	7	punct
+12	divenne	_	VERB	VERB	_	7	advcl
+13	la	_	DET	DET	_	14	det
+14	data	_	NOUN	NOUN	_	12	dobj
+15	ufficiale	_	ADJ	ADJ	_	14	amod
+16	di	_	ADP	ADP	_	18	case
+17	molte	_	DET	DET	_	18	det
+18	nazioni	_	NOUN	NOUN	_	14	nmod
+19	.	_	PUNCT	PUNCT	_	7	punct
+

@@ -1,0 +1,13 @@
+1	creo	_	VERB	VERB	_	0	root
+2	que	_	SCONJ	SCONJ	_	3	mark
+3	voy	_	VERB	VERB	_	1	ccomp
+4	a	_	ADP	ADP	_	5	case
+5	poner	_	VERB	VERB	_	3	acl
+6	a	_	ADP	ADP	_	8	case
+7	angelina	_	PROPN	PROPN	_	8	name
+8	jolie	_	PROPN	PROPN	_	5	dobj
+9	como	_	ADP	ADP	_	10	case
+10	fondo	_	NOUN	NOUN	_	5	nmod
+11	de	_	ADP	ADP	_	12	case
+12	pantalla	_	NOUN	NOUN	_	10	nmod
+

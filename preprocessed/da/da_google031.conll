@@ -1,0 +1,22 @@
+1	I	_	ADP	ADP	_	4	case
+2	en	_	DET	DET	_	4	det
+3	global	_	ADJ	ADJ	_	4	amod
+4	verden	_	NOUN	NOUN	_	9	nsubj
+5	kan	_	AUX	AUX	_	9	aux
+6	der	_	PART	PART	_	16	expl
+7	ligeledes	_	ADV	ADV	_	9	advmod
+8	være	_	AUX	AUX	_	9	cop
+9	problemer	_	NOUN	NOUN	_	0	root
+10	med	_	ADP	ADP	_	11	case
+11	håndtering	_	NOUN	NOUN	_	9	nmod
+12	af	_	ADP	ADP	_	13	case
+13	ophavsret	_	NOUN	NOUN	_	11	nmod
+14	,	_	PUNCT	PUNCT	_	16	punct
+15	der	_	PART	PART	_	16	nsubj
+16	varierer	_	VERB	VERB	_	13	acl:relcl
+17	fra	_	ADP	ADP	_	18	case
+18	land	_	NOUN	NOUN	_	16	nmod
+19	til	_	ADP	ADP	_	20	case
+20	land	_	NOUN	NOUN	_	16	nmod
+21	.	_	PUNCT	PUNCT	_	16	punct
+

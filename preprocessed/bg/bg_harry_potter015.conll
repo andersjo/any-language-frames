@@ -1,0 +1,18 @@
+1	За	_	ADP	ADP	_	2	case
+2	премиерата	_	NOUN	NOUN	_	9	nmod
+3	на	_	ADP	ADP	_	4	case
+4	„Огненият	_	NOUN	NOUN	_	2	nmod
+5	бокал	_	ADJ	ADJ	_	6	amod
+6	“	_	NOUN	NOUN	_	9	nsubj
+7	в	_	ADP	ADP	_	8	case
+8	България	_	PROPN	PROPN	_	6	nmod
+9	пристигат	_	VERB	VERB	_	0	root
+10	специално	_	ADV	ADV	_	9	advmod
+11	актьорът	_	NOUN	NOUN	_	9	dobj
+12	Яневски	_	PROPN	PROPN	_	11	nmod
+13	и	_	CONJ	CONJ	_	11	cc
+14	режисьорът	_	NOUN	NOUN	_	11	conj
+15	Майкъл	_	PROPN	PROPN	_	14	nmod
+16	Нюъл	_	PROPN	PROPN	_	15	name
+17	.	_	PUNCT	PUNCT	_	9	punct
+

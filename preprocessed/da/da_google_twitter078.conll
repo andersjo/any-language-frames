@@ -1,0 +1,9 @@
+1	Stratcorp	_	NOUN	NOUN	_	2	nmod:poss
+2	proved	_	NOUN	NOUN	_	4	nmod:poss
+3	best	_	ADJ	ADJ	_	4	amod
+4	JSE	_	NOUN	NOUN	_	5	nmod
+5	performer	_	VERB	VERB	_	0	root
+6	http://t.co/pIm6TMWKmS	_	NOUN	NOUN	_	7	nmod:poss
+7	#BlackEmpowerment	_	NOUN	NOUN	_	8	nmod:poss
+8	http://t.co/S55bXQ9Jj7	_	NOUN	NOUN	_	5	dobj
+

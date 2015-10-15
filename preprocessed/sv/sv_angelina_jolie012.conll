@@ -1,0 +1,16 @@
+1	Angelina	_	ADJ	ADJ	_	2	amod
+2	Jolie	_	NOUN	NOUN	_	5	nsubj
+3	har	_	AUX	AUX	_	5	aux
+4	varit	_	AUX	AUX	_	5	cop
+5	gift	_	ADJ	ADJ	_	0	root
+6	med	_	ADP	ADP	_	8	case
+7	skådespelarna	_	NOUN	NOUN	_	8	det
+8	Jonny	_	PROPN	PROPN	_	10	nmod:poss
+9	Lee	_	PROPN	PROPN	_	8	name
+10	Miller	_	NOUN	NOUN	_	5	nmod
+11	och	_	CONJ	CONJ	_	10	cc
+12	Billy	_	NOUN	NOUN	_	10	conj
+13	Bob	_	NOUN	NOUN	_	14	nmod:poss
+14	Thornton	_	NOUN	NOUN	_	10	conj
+15	.	_	PUNCT	PUNCT	_	10	punct
+

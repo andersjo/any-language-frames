@@ -1,0 +1,19 @@
+1	Неговите	_	ADJ	ADJ	_	2	amod
+2	родители	_	NOUN	NOUN	_	3	nsubj
+3	имат	_	VERB	VERB	_	0	root
+4	симпатии	_	NOUN	NOUN	_	3	dobj
+5	към	_	ADP	ADP	_	7	case
+6	американския	_	ADJ	ADJ	_	7	amod
+7	президент	_	NOUN	NOUN	_	4	nmod
+8	Роналд	_	PROPN	PROPN	_	7	nmod
+9	Рейгън	_	PROPN	PROPN	_	8	nmod
+10	,	_	PUNCT	PUNCT	_	14	punct
+11	на	_	ADP	ADP	_	12	case
+12	което	_	PRON	PRON	_	14	nmod
+13	футболистът	_	NOUN	NOUN	_	14	nsubj
+14	дължи	_	VERB	VERB	_	4	acl
+15	второто	_	ADJ	ADJ	_	17	amod
+16	си	_	PRON	PRON	_	15	case
+17	име	_	NOUN	NOUN	_	14	dobj
+18	.	_	PUNCT	PUNCT	_	3	punct
+

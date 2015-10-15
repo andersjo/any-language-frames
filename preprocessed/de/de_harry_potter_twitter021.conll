@@ -1,0 +1,13 @@
+1	Lego	_	PROPN	PROPN	_	3	name
+2	Harry	_	PROPN	PROPN	_	3	name
+3	Potter	_	PROPN	PROPN	_	4	name
+4	Jahre	_	PROPN	PROPN	_	5	name
+5	5-7	_	PROPN	PROPN	_	6	amod
+6	#17	_	PROPN	PROPN	_	0	root
+7	Im	_	PROPN	PROPN	_	8	case
+8	Wald	_	PROPN	PROPN	_	6	nmod
+9	:	_	PUNCT	PUNCT	_	8	punct
+10	http://t.co/oAKrzs6VRa	_	PROPN	PROPN	_	8	appos
+11	über	_	ADP	ADP	_	12	case
+12	@YouTube	_	PROPN	PROPN	_	10	nmod
+

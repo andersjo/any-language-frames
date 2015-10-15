@@ -1,0 +1,7 @@
+1	Relegata	_	NOUN	NOUN	_	0	root
+2	in	_	ADP	ADP	_	3	case
+3	camera	_	NOUN	NOUN	_	1	nmod
+4	come	_	ADP	ADP	_	5	case
+5	Harry	_	PROPN	PROPN	_	3	nmod
+6	Potter	_	PROPN	PROPN	_	5	name
+

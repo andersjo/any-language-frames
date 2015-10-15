@@ -1,0 +1,13 @@
+1	Todo	_	PRON	PRON	_	3	nsubj
+2	ello	_	PRON	PRON	_	3	nsubj
+3	contribuyó	_	VERB	VERB	_	0	root
+4	a	_	ADP	ADP	_	6	case
+5	su	_	DET	DET	_	6	nmod:poss
+6	formación	_	NOUN	NOUN	_	3	nmod
+7	como	_	ADP	ADP	_	8	case
+8	persona	_	NOUN	NOUN	_	6	nmod
+9	y	_	CONJ	CONJ	_	8	cc
+10	como	_	ADP	ADP	_	11	case
+11	futbolista	_	NOUN	NOUN	_	8	conj
+12	.	_	PUNCT	PUNCT	_	3	punct
+

@@ -1,0 +1,22 @@
+1	#DanielCraig	_	ADJ	ADJ	_	2	amod
+2	#Show	_	NOUN	NOUN	_	0	root
+3	TOMB	_	PROPN	PROPN	_	4	name
+4	RAIDER	_	PROPN	PROPN	_	2	appos
+5	1	_	PROPN	PROPN	_	4	appos
+6	&	_	PROPN	PROPN	_	4	appos
+7	2	_	PROPN	PROPN	_	6	appos
+8	DvD	_	PROPN	PROPN	_	9	name
+9	ANGELINA	_	PROPN	PROPN	_	10	name
+10	JOLIE	_	PROPN	PROPN	_	11	name
+11	Lara	_	PROPN	PROPN	_	12	name
+12	Croft	_	PROPN	PROPN	_	13	name
+13	DANIEL	_	PROPN	PROPN	_	14	name
+14	CRAIG	_	PROPN	PROPN	_	15	name
+15	Gerard	_	PROPN	PROPN	_	16	name
+16	Butler	_	PROPN	PROPN	_	18	name
+17	I	_	PROPN	PROPN	_	18	name
+18	…	_	PROPN	PROPN	_	20	name
+19	http://t.co/gfK4J0BQ6O	_	PROPN	PROPN	_	20	name
+20	#Find	_	PROPN	PROPN	_	21	det
+21	#Collectibles	_	NOUN	NOUN	_	2	dep
+

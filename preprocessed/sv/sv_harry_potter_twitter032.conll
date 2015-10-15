@@ -1,0 +1,22 @@
+1	När	_	ADV	ADV	_	3	advmod
+2	ens	_	ADV	ADV	_	3	advmod
+3	låtsaspappa	_	VERB	VERB	_	0	root
+4	är	_	AUX	AUX	_	6	cop
+5	100%	_	NUM	NUM	_	6	nummod
+6	seriös	_	ADJ	ADJ	_	3	xcomp
+7	och	_	CONJ	CONJ	_	6	cc
+8	tror	_	VERB	VERB	_	6	conj
+9	att	_	SCONJ	SCONJ	_	11	mark
+10	filmerna	_	NOUN	NOUN	_	11	nsubj
+11	heter	_	VERB	VERB	_	8	ccomp
+12	'	_	PUNCT	PUNCT	_	17	punct
+13	Harry	_	PROPN	PROPN	_	14	nmod:poss
+14	Potter	_	NOUN	NOUN	_	11	dobj
+15	och	_	CONJ	CONJ	_	14	cc
+16	konungens	_	NOUN	NOUN	_	14	conj
+17	återkomst	_	NOUN	NOUN	_	14	conj
+18	'	_	PUNCT	PUNCT	_	17	punct
+19	osv	_	ADV	ADV	_	14	conj
+20	?	_	PUNCT	PUNCT	_	3	punct
+21	:)	_	NOUN	NOUN	_	14	conj
+

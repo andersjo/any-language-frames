@@ -1,0 +1,6 @@
+1	2010	_	NUM	NUM	_	4	nummod
+2	International	_	PROPN	PROPN	_	4	compound
+3	Women's	_	PROPN	PROPN	_	4	compound
+4	Day	_	PROPN	PROPN	_	0	root
+5	.	_	PUNCT	PUNCT	_	1	punct
+

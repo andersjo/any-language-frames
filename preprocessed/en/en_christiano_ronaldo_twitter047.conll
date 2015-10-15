@@ -1,0 +1,14 @@
+1	remember	_	VERB	VERB	_	0	root
+2	the	_	DET	DET	_	4	det
+3	second	_	ADJ	ADJ	_	0	remnant
+4	reason	_	NOUN	NOUN	_	1	dobj
+5	why	_	ADV	ADV	_	7	advmod
+6	seungri	_	NOUN	NOUN	_	7	nsubj
+7	likes	_	VERB	VERB	_	1	ccomp
+8	christiano	_	PROPN	PROPN	_	9	compound
+9	ronaldo	_	PROPN	PROPN	_	7	dobj
+10	lol	_	INTJ	INTJ	_	13	discourse
+11	u	_	PRON	PRON	_	13	nmod:poss
+12	lil	_	NOUN	NOUN	_	13	compound
+13	rascal	_	NOUN	NOUN	_	7	dobj
+

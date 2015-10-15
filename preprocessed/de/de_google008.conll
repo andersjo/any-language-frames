@@ -1,0 +1,16 @@
+1	Google	_	PROPN	PROPN	_	2	nsubj
+2	bietet	_	VERB	VERB	_	0	root
+3	eine	_	DET	DET	_	4	det
+4	Vielzahl	_	NOUN	NOUN	_	2	dobj
+5	von	_	ADP	ADP	_	9	case
+6	größtenteils	_	ADV	ADV	_	7	advmod
+7	werbefinanzierten	_	ADJ	ADJ	_	9	amod
+8	kostenlosen	_	ADJ	ADJ	_	9	amod
+9	Dienstleistungen	_	NOUN	NOUN	_	4	nmod
+10	im	_	ADP	ADP	_	13	case
+11	World	_	PROPN	PROPN	_	13	name
+12	Wide	_	PROPN	PROPN	_	13	name
+13	Web	_	PROPN	PROPN	_	4	nmod
+14	an	_	ADP	ADP	_	2	mark
+15	.	_	PUNCT	PUNCT	_	2	punct
+

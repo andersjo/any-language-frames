@@ -1,0 +1,14 @@
+1	@PandaCouldRapeU	_	PROPN	PROPN	_	4	name
+2	@Samaleeh	_	PROPN	PROPN	_	4	name
+3	T'es	_	PROPN	PROPN	_	4	name
+4	follow	_	PROPN	PROPN	_	0	root
+5	par	_	ADP	ADP	_	3	case
+6	Angelina	_	PROPN	PROPN	_	5	case
+7	jolie	_	ADJ	ADJ	_	6	amod
+8	toi	_	PRON	PRON	_	7	dobj
+9	?	_	PUNCT	PUNCT	_	8	punct
+10	parce	_	ADV	ADV	_	11	mwe
+11	que	_	SCONJ	SCONJ	_	12	mark
+12	moi	_	PRON	PRON	_	8	conj
+13	oui	_	INTJ	INTJ	_	7	discourse
+

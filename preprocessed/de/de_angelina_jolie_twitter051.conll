@@ -1,0 +1,20 @@
+1	#BradPitt	_	PROPN	PROPN	_	2	name
+2	#Movie	_	PROPN	PROPN	_	3	name
+3	ANGELINA	_	PROPN	PROPN	_	4	name
+4	JOLIE	_	PROPN	PROPN	_	6	name
+5	BRAD	_	PROPN	PROPN	_	6	name
+6	PITT	_	PROPN	PROPN	_	7	det
+7	magazine	_	NOUN	NOUN	_	0	root
+8	COVER	_	PROPN	PROPN	_	10	name
+9	Life	_	PROPN	PROPN	_	10	name
+10	&	_	PROPN	PROPN	_	11	name
+11	Style	_	PROPN	PROPN	_	12	name
+12	2012	_	PROPN	PROPN	_	13	name
+13	HEIDI	_	PROPN	PROPN	_	14	name
+14	KLUM	_	PROPN	PROPN	_	15	name
+15	Lea	_	PROPN	PROPN	_	16	name
+16	Michele	_	PROPN	PROPN	_	17	name
+17	http://t.co/TjdgL7Aqxx	_	PROPN	PROPN	_	19	name
+18	#Auction	_	PROPN	PROPN	_	19	name
+19	#Onsale	_	PROPN	PROPN	_	3	dep
+

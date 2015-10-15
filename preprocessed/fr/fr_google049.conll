@@ -1,0 +1,19 @@
+1	En	_	ADP	ADP	_	5	case
+2	,	_	PUNCT	PUNCT	_	5	punct
+3	"	_	PUNCT	PUNCT	_	5	punct
+4	PC	_	X	X	_	5	compound
+5	Magazine	_	PROPN	PROPN	_	0	root
+6	"	_	PUNCT	PUNCT	_	5	punct
+7	classe	_	NOUN	NOUN	_	5	appos
+8	Google	_	PROPN	PROPN	_	7	appos
+9	dans	_	ADP	ADP	_	11	case
+10	sa	_	DET	DET	_	11	nmod:poss
+11	liste	_	NOUN	NOUN	_	7	nmod
+12	des	_	ADP	ADP	_	15	case
+13	100	_	NUM	NUM	_	15	nummod
+14	meilleurs	_	ADJ	ADJ	_	15	amod
+15	sites	_	NOUN	NOUN	_	11	nmod
+16	au	_	ADP	ADP	_	17	case
+17	monde	_	NOUN	NOUN	_	15	nmod
+18	.	_	PUNCT	PUNCT	_	5	punct
+

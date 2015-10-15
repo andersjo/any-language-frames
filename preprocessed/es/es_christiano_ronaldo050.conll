@@ -1,0 +1,22 @@
+1	Su	_	DET	DET	_	2	nmod:poss
+2	progresión	_	NOUN	NOUN	_	4	nsubj
+3	le	_	PRON	PRON	_	4	dobj
+4	llevó	_	VERB	VERB	_	0	root
+5	a	_	ADP	ADP	_	7	case
+6	ser	_	AUX	AUX	_	7	auxpass
+7	designado	_	VERB	VERB	_	4	acl
+8	en	_	ADP	ADP	_	9	case
+9	noviembre	_	PROPN	PROPN	_	7	nmod
+10	por	_	ADP	ADP	_	14	case
+11	la	_	DET	DET	_	14	det
+12	Barclays	_	PROPN	PROPN	_	14	name
+13	Premier	_	PROPN	PROPN	_	14	name
+14	League	_	PROPN	PROPN	_	7	nmod
+15	como	_	ADP	ADP	_	17	case
+16	«	_	PUNCT	PUNCT	_	17	punct
+17	Jugador	_	PROPN	PROPN	_	12	appos
+18	del	_	ADP	ADP	_	19	case
+19	mes	_	NOUN	NOUN	_	17	nmod
+20	»	_	PUNCT	PUNCT	_	17	punct
+21	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,15 @@
+1	Google	_	NOUN	NOUN	_	2	name
+2	News	_	PROPN	PROPN	_	0	root
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Damage	_	PROPN	PROPN	_	1	list
+5	Assessed	_	PROPN	PROPN	_	4	name
+6	After	_	PROPN	PROPN	_	4	name
+7	Daghestan	_	PROPN	PROPN	_	4	name
+8	Operation	_	NOUN	NOUN	_	7	dep
+9	Displaces	_	NOUN	NOUN	_	7	nmod:poss
+10	Hundreds	_	NOUN	NOUN	_	9	nmod
+11	-	_	PUNCT	PUNCT	_	4	punct
+12	RadioFreeEurope	_	ADJ	ADJ	_	13	amod
+13	…	_	NOUN	NOUN	_	14	nmod:poss
+14	http://t.co/LZLVWoaUhG	_	NOUN	NOUN	_	4	list
+

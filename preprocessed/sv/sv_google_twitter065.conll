@@ -1,0 +1,11 @@
+1	@JustHilmaaa	_	ADJ	ADJ	_	2	amod
+2	google	_	NOUN	NOUN	_	3	nmod:poss
+3	crome	_	NOUN	NOUN	_	10	nmod
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	ifall	_	NOUN	NOUN	_	3	conj
+6	det	_	PRON	PRON	_	10	nmod
+7	var	_	AUX	AUX	_	10	cop
+8	det	_	PRON	PRON	_	10	expl
+9	du	_	PRON	PRON	_	10	nsubj
+10	menade	_	ADJ	ADJ	_	0	root
+

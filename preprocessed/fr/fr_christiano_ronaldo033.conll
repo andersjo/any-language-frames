@@ -1,0 +1,18 @@
+1	Lors	_	ADV	ADV	_	2	mwe
+2	de	_	ADP	ADP	_	4	case
+3	la	_	DET	DET	_	4	det
+4	saison	_	NOUN	NOUN	_	8	nmod
+5	2002-2003	_	NUM	NUM	_	4	nmod
+6	,	_	PUNCT	PUNCT	_	8	punct
+7	il	_	PRON	PRON	_	8	nsubj
+8	joue	_	VERB	VERB	_	0	root
+9	25	_	NUM	NUM	_	10	nummod
+10	matches	_	NOUN	NOUN	_	8	dobj
+11	et	_	CONJ	CONJ	_	8	cc
+12	marque	_	VERB	VERB	_	8	conj
+13	trois	_	NUM	NUM	_	14	nummod
+14	buts	_	NOUN	NOUN	_	12	dobj
+15	en	_	ADP	ADP	_	16	case
+16	championnat	_	NOUN	NOUN	_	14	nmod
+17	.	_	PUNCT	PUNCT	_	8	punct
+

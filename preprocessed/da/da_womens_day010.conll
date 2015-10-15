@@ -1,0 +1,15 @@
+1	Kravet	_	NOUN	NOUN	_	3	nsubj
+2	må	_	AUX	AUX	_	3	aux
+3	belyses	_	VERB	VERB	_	0	root
+4	i	_	ADP	ADP	_	6	case
+5	sin	_	DET	DET	_	6	det
+6	sammenhæng	_	NOUN	NOUN	_	3	nmod
+7	med	_	ADP	ADP	_	10	case
+8	den	_	DET	DET	_	10	det
+9	socialistiske	_	ADJ	ADJ	_	10	amod
+10	opfattelse	_	NOUN	NOUN	_	3	nmod
+11	af	_	ADP	ADP	_	13	case
+12	hele	_	ADJ	ADJ	_	13	amod
+13	kvindespørgsmålet	_	NOUN	NOUN	_	10	nmod
+14	.	_	PUNCT	PUNCT	_	3	punct
+

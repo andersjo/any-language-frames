@@ -1,0 +1,22 @@
+1	Глобалната	_	ADJ	ADJ	_	3	amod
+2	женска	_	ADJ	ADJ	_	3	amod
+3	организация	_	NOUN	NOUN	_	6	nmod
+4	Аврора	_	PROPN	PROPN	_	3	nmod
+5	,	_	PUNCT	PUNCT	_	3	punct
+6	поддържа	_	VERB	VERB	_	0	root
+7	свободен	_	ADJ	ADJ	_	8	amod
+8	регистър	_	NOUN	NOUN	_	6	dobj
+9	в	_	ADP	ADP	_	10	case
+10	интернет	_	NOUN	NOUN	_	8	nmod
+11	,	_	PUNCT	PUNCT	_	15	punct
+12	на	_	ADP	ADP	_	13	case
+13	който	_	PRON	PRON	_	15	iobj
+14	се	_	PRON	PRON	_	15	expl
+15	отбелязват	_	VERB	VERB	_	10	acl
+16	различните	_	ADJ	ADJ	_	17	amod
+17	събития	_	NOUN	NOUN	_	15	nsubj
+18	(	_	PUNCT	PUNCT	_	19	punct
+19	www.internationalwomensday.com	_	PROPN	PROPN	_	17	nmod
+20	)	_	PUNCT	PUNCT	_	19	punct
+21	.	_	PUNCT	PUNCT	_	6	punct
+

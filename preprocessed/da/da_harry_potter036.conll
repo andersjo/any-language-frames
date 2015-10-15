@@ -1,0 +1,15 @@
+1	Magien	_	NOUN	NOUN	_	4	nsubj
+2	i	_	ADP	ADP	_	3	case
+3	bøgerne	_	NOUN	NOUN	_	1	nmod
+4	kommer	_	VERB	VERB	_	0	root
+5	tillige	_	ADV	ADV	_	4	nmod:loc
+6	fra	_	ADP	ADP	_	7	case
+7	personerne	_	NOUN	NOUN	_	4	nmod
+8	selv	_	PRON	PRON	_	7	nmod
+9	,	_	PUNCT	PUNCT	_	4	punct
+10	ikke	_	ADV	ADV	_	11	neg
+11	fra	_	ADP	ADP	_	13	case
+12	eksterne	_	NOUN	NOUN	_	13	nmod:poss
+13	kilder	_	NOUN	NOUN	_	6	nmod
+14	.	_	PUNCT	PUNCT	_	4	punct
+

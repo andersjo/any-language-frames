@@ -1,0 +1,21 @@
+1	Annonsernas	_	NOUN	NOUN	_	2	nmod:poss
+2	utformning	_	NOUN	NOUN	_	4	nsubj
+3	är	_	AUX	AUX	_	4	cop
+4	omgärdad	_	ADJ	ADJ	_	0	root
+5	av	_	ADP	ADP	_	8	case
+6	en	_	DET	DET	_	7	det
+7	rad	_	NOUN	NOUN	_	8	det
+8	regler	_	NOUN	NOUN	_	4	nmod
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	bland	_	ADP	ADP	_	14	case
+11	annat	_	ADJ	ADJ	_	10	mwe
+12	på	_	ADP	ADP	_	14	case
+13	korrekt	_	ADJ	ADJ	_	14	amod
+14	språk	_	NOUN	NOUN	_	4	nmod
+15	och	_	CONJ	CONJ	_	14	cc
+16	normalt	_	ADJ	ADJ	_	17	amod
+17	användande	_	NOUN	NOUN	_	14	conj
+18	av	_	ADP	ADP	_	19	case
+19	interpunktion	_	NOUN	NOUN	_	17	nmod
+20	.	_	PUNCT	PUNCT	_	4	punct
+

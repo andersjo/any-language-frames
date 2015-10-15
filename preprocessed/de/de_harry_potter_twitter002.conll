@@ -1,0 +1,9 @@
+1	@tatsach	_	PROPN	PROPN	_	2	nmod
+2	luegt	_	ADJ	ADJ	_	4	amod
+3	do	_	PROPN	PROPN	_	0	root
+4	öpper	_	PROPN	PROPN	_	6	name
+5	Harry	_	PROPN	PROPN	_	6	name
+6	Potter	_	PROPN	PROPN	_	3	nmod
+7	?	_	PUNCT	PUNCT	_	6	punct
+8	😏	_	PROPN	PROPN	_	6	appos
+

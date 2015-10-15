@@ -1,0 +1,16 @@
+1	@kelpthing	_	PROPN	PROPN	_	2	nsubj
+2	finde	_	VERB	VERB	_	0	root
+3	ja	_	ADV	ADV	_	2	advmod
+4	:(	_	PROPN	PROPN	_	6	name
+5	krieg	_	PROPN	PROPN	_	6	name
+6	Aids	_	PROPN	PROPN	_	2	dobj
+7	wenn	_	SCONJ	SCONJ	_	13	mark
+8	ich	_	PRON	PRON	_	13	nsubj
+9	Harry	_	PROPN	PROPN	_	10	name
+10	Potter	_	PROPN	PROPN	_	13	nsubj
+11	auf	_	ADP	ADP	_	12	case
+12	Deutsch	_	PROPN	PROPN	_	13	nmod
+13	schauen	_	VERB	VERB	_	2	ccomp
+14	muss	_	AUX	AUX	_	13	aux
+15	:(	_	PROPN	PROPN	_	13	nsubj
+

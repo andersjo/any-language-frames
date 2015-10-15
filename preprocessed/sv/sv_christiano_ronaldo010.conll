@@ -1,0 +1,9 @@
+1	Han	_	PRON	PRON	_	2	nsubj
+2	avslutade	_	VERB	VERB	_	0	root
+3	säsongen	_	NOUN	NOUN	_	2	dobj
+4	med	_	ADP	ADP	_	7	case
+5	41	_	NUM	NUM	_	7	nummod
+6	gjorda	_	ADJ	ADJ	_	7	amod
+7	mål	_	NOUN	NOUN	_	2	nmod
+8	.	_	PUNCT	PUNCT	_	2	punct
+

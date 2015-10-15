@@ -1,0 +1,13 @@
+1	Εκείνος	_	NOUN	NOUN	_	4	nsubj
+2	όμως	_	CONJ	CONJ	_	4	mark
+3	ήταν	_	VERB	VERB	_	4	cop
+4	παντρεμένος	_	VERB	VERB	_	0	root
+5	με	_	ADP	ADP	_	8	case
+6	την	_	ADJ	ADJ	_	8	det
+7	επίσης	_	ADV	ADV	_	8	amod
+8	ηθοποιό	_	NOUN	NOUN	_	4	nmod
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	Τζένιφερ	_	NOUN	NOUN	_	11	nmod
+11	Άνιστον	_	NOUN	NOUN	_	8	conj
+12	.	_	PUNCT	PUNCT	_	4	punct
+

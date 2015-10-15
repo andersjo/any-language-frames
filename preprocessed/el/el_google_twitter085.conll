@@ -1,0 +1,8 @@
+1	justin	_	NOUN	NOUN	_	0	root
+2	bieber	_	NOUN	NOUN	_	1	nmod
+3	2014	_	NUM	NUM	_	2	nmod
+4	-	_	PUNCT	PUNCT	_	1	punct
+5	Αναζήτηση	_	ADJ	ADJ	_	6	amod
+6	Google	_	NOUN	NOUN	_	2	nmod
+7	http://t.co/KwyclKzji5	_	NOUN	NOUN	_	6	nmod
+

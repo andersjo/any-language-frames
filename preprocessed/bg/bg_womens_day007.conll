@@ -1,0 +1,25 @@
+1	Календарната	_	ADJ	ADJ	_	2	amod
+2	дата	_	NOUN	NOUN	_	4	nsubj
+3	се	_	PRON	PRON	_	4	expl
+4	свързва	_	VERB	VERB	_	0	root
+5	с	_	ADP	ADP	_	8	case
+6	първата	_	ADJ	ADJ	_	8	amod
+7	масова	_	ADJ	ADJ	_	8	amod
+8	проява	_	NOUN	NOUN	_	11	nsubj
+9	на	_	ADP	ADP	_	10	case
+10	жени	_	NOUN	NOUN	_	8	nmod
+11	работнички	_	VERB	VERB	_	4	conj
+12	,	_	PUNCT	PUNCT	_	4	punct
+13	състояла	_	VERB	VERB	_	11	conj
+14	се	_	PRON	PRON	_	13	expl
+15	на	_	ADP	ADP	_	17	case
+16	8	_	NUM	NUM	_	17	nummod
+17	март	_	NOUN	NOUN	_	13	nmod
+18	1857	_	NUM	NUM	_	19	nummod
+19	г	_	NOUN	NOUN	_	17	nmod
+20	.	_	PUNCT	PUNCT	_	4	punct
+21	в	_	ADP	ADP	_	22	case
+22	Ню	_	PROPN	PROPN	_	19	nmod
+23	Йорк	_	PROPN	PROPN	_	22	name
+24	.	_	PUNCT	PUNCT	_	13	punct
+

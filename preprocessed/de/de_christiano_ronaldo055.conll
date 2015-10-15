@@ -1,0 +1,23 @@
+1	In	_	ADP	ADP	_	3	case
+2	der	_	DET	DET	_	3	det
+3	Meisterschaft	_	NOUN	NOUN	_	4	nmod
+4	belegten	_	VERB	VERB	_	0	root
+5	die	_	DET	DET	_	8	det
+6	"	_	PUNCT	PUNCT	_	8	punct
+7	Red	_	PROPN	PROPN	_	8	amod
+8	Devils	_	PROPN	PROPN	_	4	dobj
+9	"	_	PUNCT	PUNCT	_	8	punct
+10	zwar	_	ADV	ADV	_	14	advmod
+11	nur	_	ADV	ADV	_	14	advmod
+12	den	_	DET	DET	_	14	det
+13	dritten	_	ADJ	ADJ	_	14	amod
+14	Rang	_	NOUN	NOUN	_	4	dobj
+15	,	_	PUNCT	PUNCT	_	14	punct
+16	sie	_	PRON	PRON	_	17	nsubj
+17	gewannen	_	VERB	VERB	_	4	conj
+18	aber	_	ADV	ADV	_	17	advmod
+19	den	_	DET	DET	_	21	det
+20	FA	_	PROPN	PROPN	_	21	name
+21	Cup	_	PROPN	PROPN	_	17	dobj
+22	.	_	PUNCT	PUNCT	_	4	punct
+

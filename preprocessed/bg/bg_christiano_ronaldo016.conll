@@ -1,0 +1,16 @@
+1	)	_	PUNCT	PUNCT	_	5	punct
+2	след	_	ADP	ADP	_	4	case
+3	три	_	NUM	NUM	_	4	nummod
+4	месечни	_	NOUN	NOUN	_	5	nmod
+5	спекулации	_	VERB	VERB	_	0	root
+6	и	_	CONJ	CONJ	_	5	cc
+7	много	_	ADV	ADV	_	8	advmod
+8	отрицания	_	VERB	VERB	_	5	conj
+9	и	_	CONJ	CONJ	_	8	cc
+10	подписва	_	VERB	VERB	_	5	conj
+11	договор	_	NOUN	NOUN	_	10	dobj
+12	за	_	ADP	ADP	_	14	case
+13	6	_	NUM	NUM	_	14	nummod
+14	години	_	NOUN	NOUN	_	11	nmod
+15	.	_	PUNCT	PUNCT	_	5	punct
+

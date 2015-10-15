@@ -1,0 +1,16 @@
+1	Τον	_	ADJ	ADJ	_	2	det
+2	Αύγουστο	_	NOUN	NOUN	_	12	nsubj
+3	του	_	ADJ	ADJ	_	4	det
+4	2010	_	NOUN	NOUN	_	2	nmod
+5	,	_	PUNCT	PUNCT	_	8	punct
+6	ο	_	ADJ	ADJ	_	7	det
+7	Ρονάλντο	_	NOUN	NOUN	_	8	nsubj
+8	έφθασε	_	VERB	VERB	_	0	root
+9	τους	_	ADJ	ADJ	_	11	det
+10	10	_	NUM	NUM	_	11	nmod
+11	εκατομμύρια	_	NOUN	NOUN	_	8	dobj
+12	θαυμαστές	_	VERB	VERB	_	8	conj
+13	στο	_	ADP	ADP	_	14	case
+14	Facebook	_	NOUN	NOUN	_	12	nmod
+15	.	_	PUNCT	PUNCT	_	8	punct
+

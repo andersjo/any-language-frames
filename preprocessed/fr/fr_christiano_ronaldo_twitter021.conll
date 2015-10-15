@@ -1,0 +1,16 @@
+1	Christiano	_	PROPN	PROPN	_	4	name
+2	RonAldo	_	PROPN	PROPN	_	4	name
+3	Meilleurs	_	PROPN	PROPN	_	4	name
+4	Joueurs	_	PROPN	PROPN	_	14	nsubj
+5	2014	_	NUM	NUM	_	4	nmod
+6	.	_	PUNCT	PUNCT	_	4	punct
+7	A	_	ADP	ADP	_	9	case
+8	Dubaiii	_	PROPN	PROPN	_	9	name
+9	Today	_	PROPN	PROPN	_	4	nmod
+10	est	_	VERB	VERB	_	12	cop
+11	Bientôt	_	ADV	ADV	_	13	advmod
+12	Balon	_	PROPN	PROPN	_	13	name
+13	D'or	_	PROPN	PROPN	_	14	nsubj
+14	Oblige	_	VERB	VERB	_	0	root
+15	#TeamRealMadrid	_	PROPN	PROPN	_	14	dobj
+

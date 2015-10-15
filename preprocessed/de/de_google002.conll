@@ -1,0 +1,8 @@
+1	Gegründet	_	VERB	VERB	_	0	root
+2	wurde	_	AUX	AUX	_	1	auxpass
+3	das	_	DET	DET	_	4	det
+4	Unternehmen	_	NOUN	NOUN	_	1	nsubjpass
+5	am	_	ADP	ADP	_	1	case
+6	4	_	NUM	NUM	_	5	dep
+7	.	_	PUNCT	PUNCT	_	6	punct
+

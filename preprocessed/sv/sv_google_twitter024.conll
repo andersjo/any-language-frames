@@ -1,0 +1,13 @@
+1	Väldigt	_	ADV	ADV	_	2	advmod
+2	trevligt	_	ADJ	ADJ	_	3	amod
+3	program	_	NOUN	NOUN	_	0	root
+4	för	_	ADP	ADP	_	5	case
+5	folk	_	NOUN	NOUN	_	3	nmod
+6	som	_	PRON	PRON	_	8	nsubj
+7	behöver	_	AUX	AUX	_	8	aux
+8	dekryptera	_	VERB	VERB	_	5	acl:relcl
+9	en	_	DET	DET	_	10	det
+10	iOS-backup	_	NOUN	NOUN	_	8	dobj
+11	:	_	PUNCT	PUNCT	_	10	punct
+12	https://t.co/3UF1kacQ0u	_	NOUN	NOUN	_	8	dobj
+

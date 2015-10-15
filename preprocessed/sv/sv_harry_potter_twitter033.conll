@@ -1,0 +1,18 @@
+1	Osäker	_	ADJ	ADJ	_	0	root
+2	på	_	ADP	ADP	_	5	case
+3	om	_	SCONJ	SCONJ	_	5	mark
+4	åttaåringen	_	NOUN	NOUN	_	5	nsubj
+5	druckit	_	VERB	VERB	_	1	advcl
+6	fem	_	NUM	NUM	_	7	nummod
+7	koppar	_	NOUN	NOUN	_	8	det
+8	kaffe	_	NOUN	NOUN	_	5	dobj
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	eller	_	CONJ	CONJ	_	5	cc
+11	lyssnat	_	VERB	VERB	_	5	conj
+12	på	_	ADP	ADP	_	13	case
+13	högläsning	_	NOUN	NOUN	_	11	nmod
+14	av	_	ADP	ADP	_	16	case
+15	Harry	_	PROPN	PROPN	_	16	nmod:poss
+16	Potter	_	NOUN	NOUN	_	13	nmod
+17	.	_	PUNCT	PUNCT	_	5	punct
+

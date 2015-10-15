@@ -1,0 +1,22 @@
+1	#Η	_	NOUN	NOUN	_	0	root
+2	#OnePlus	_	NOUN	NOUN	_	1	nmod
+3	λανσάρει	_	ADJ	ADJ	_	4	amod
+4	έκδοση	_	NOUN	NOUN	_	2	nmod
+5	#Android	_	NOUN	NOUN	_	4	nmod
+6	[	_	PUNCT	PUNCT	_	5	punct
+7	@Android	_	NOUN	NOUN	_	5	conj
+8	]	_	PUNCT	PUNCT	_	5	punct
+9	#Lollipop	_	NOUN	NOUN	_	5	appos
+10	Alpha	_	NOUN	NOUN	_	9	nmod
+11	για	_	ADP	ADP	_	13	case
+12	τη	_	ADJ	ADJ	_	13	det
+13	συσκευή	_	NOUN	NOUN	_	10	nmod
+14	....	_	NOUN	NOUN	_	13	nmod
+15	(	_	PUNCT	PUNCT	_	16	punct
+16	#Sunday	_	NOUN	NOUN	_	14	conj
+17	,	_	PUNCT	PUNCT	_	16	punct
+18	4	_	NUM	NUM	_	19	nummod
+19	#January	_	NOUN	NOUN	_	14	conj
+20	)	_	PUNCT	PUNCT	_	19	punct
+21	http://t.co/N1IoPH8ZCj	_	NOUN	NOUN	_	19	nmod
+

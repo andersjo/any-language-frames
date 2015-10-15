@@ -1,0 +1,25 @@
+1	ΥΠΟΓΡΑΦΟΥΜΕ	_	NOUN	NOUN	_	13	nmod
+2	ΟΛΟΙ	_	NOUN	NOUN	_	1	nmod
+3	http://t.co/e87iCAYfkC	_	NOUN	NOUN	_	2	nmod
+4	&	_	NOUN	NOUN	_	3	nmod
+5	ΖΗΤΑΜΕ	_	NOUN	NOUN	_	4	nmod
+6	ΑΠΟΣΥΡΣΗ	_	NOUN	NOUN	_	5	nmod
+7	ΤΗΣ	_	NOUN	NOUN	_	8	nmod
+8	ΥΠ	_	NOUN	NOUN	_	6	nmod
+9	.	_	PUNCT	PUNCT	_	8	punct
+10	ΑΠΟΦΑΣΗΣ	_	NOUN	NOUN	_	8	conj
+11	ΠΟΥ	_	PUNCT	PUNCT	_	8	punct
+12	ΚΛΕΙΝΕΙ	_	NOUN	NOUN	_	13	nsubj
+13	ΤΑ	_	VERB	VERB	_	0	root
+14	11	_	NUM	NUM	_	15	nmod
+15	ΣΠΙΤΙΑ	_	NOUN	NOUN	_	13	dobj
+16	ΤΟΥ	_	NOUN	NOUN	_	15	nmod
+17	"	_	PUNCT	PUNCT	_	16	punct
+18	ΧΑΜΟΓΕΛΟΥ	_	NOUN	NOUN	_	20	nmod
+19	ΤΟΥ	_	NOUN	NOUN	_	15	appos
+20	ΠΑΙΔΙΟΥ	_	NOUN	NOUN	_	19	nmod
+21	"	_	PUNCT	PUNCT	_	23	punct
+22	ΔΙΑΔΩΣΤΕ	_	NOUN	NOUN	_	23	nmod
+23	ΤΟ	_	NOUN	NOUN	_	20	conj
+24	!	_	PUNCT	PUNCT	_	13	punct
+

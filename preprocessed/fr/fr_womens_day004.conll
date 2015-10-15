@@ -1,0 +1,18 @@
+1	Cette	_	DET	DET	_	2	det
+2	journée	_	NOUN	NOUN	_	4	nsubjpass
+3	est	_	AUX	AUX	_	4	aux
+4	issue	_	VERB	VERB	_	0	root
+5	de	_	ADP	ADP	_	6	case
+6	l'histoire	_	NOUN	NOUN	_	4	nmod
+7	des	_	ADP	ADP	_	8	case
+8	luttes	_	NOUN	NOUN	_	6	nmod
+9	féministes	_	ADJ	ADJ	_	8	amod
+10	menées	_	VERB	VERB	_	8	acl
+11	sur	_	ADP	ADP	_	13	case
+12	les	_	DET	DET	_	13	det
+13	continents	_	NOUN	NOUN	_	10	nmod
+14	européen	_	ADJ	ADJ	_	13	amod
+15	et	_	CONJ	CONJ	_	14	cc
+16	américain	_	ADJ	ADJ	_	14	conj
+17	.	_	PUNCT	PUNCT	_	4	punct
+

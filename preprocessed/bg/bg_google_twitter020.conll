@@ -1,0 +1,17 @@
+1	[	_	PUNCT	PUNCT	_	9	punct
+2	01/04/15	_	NUM	NUM	_	4	nummod
+3	10:26	_	NUM	NUM	_	2	mwe
+4	PM	_	PROPN	PROPN	_	9	nsubj
+5	]	_	PUNCT	PUNCT	_	4	punct
+6	Ферма	_	PROPN	PROPN	_	9	nsubj
+7	Джейн	_	PROPN	PROPN	_	6	name
+8	Новое	_	PROPN	PROPN	_	6	name
+9	достижение	_	VERB	VERB	_	0	root
+10	в	_	ADP	ADP	_	11	case
+11	игре	_	NOUN	NOUN	_	9	iobj
+12	:	_	PUNCT	PUNCT	_	13	punct
+13	Склад	_	PROPN	PROPN	_	11	nmod
+14	Редиса	_	PROPN	PROPN	_	13	name
+15	.	_	PUNCT	PUNCT	_	13	punct
+16	http://t.co/TrRy51t9Cr	_	PROPN	PROPN	_	13	conj
+

@@ -1,0 +1,21 @@
+1	In	_	ADP	ADP	_	2	case
+2	Svezia	_	PROPN	PROPN	_	4	nmod
+3	si	_	PRON	PRON	_	4	expl
+4	svolse	_	VERB	VERB	_	0	root
+5	il	_	DET	DET	_	7	det
+6	1º	_	ADJ	ADJ	_	7	amod
+7	maggio	_	NOUN	NOUN	_	4	nmod
+8	1911	_	NUM	NUM	_	7	nummod
+9	,	_	PUNCT	PUNCT	_	4	punct
+10	in	_	ADP	ADP	_	11	case
+11	concomitanza	_	NOUN	NOUN	_	4	nmod
+12	con	_	ADP	ADP	_	14	case
+13	le	_	DET	DET	_	14	det
+14	manifestazioni	_	NOUN	NOUN	_	11	nmod
+15	per	_	ADP	ADP	_	17	case
+16	la	_	DET	DET	_	17	det
+17	Giornata	_	PROPN	PROPN	_	14	nmod
+18	del	_	ADP	ADP	_	19	case
+19	lavoro	_	NOUN	NOUN	_	17	nmod
+20	.	_	PUNCT	PUNCT	_	4	punct
+

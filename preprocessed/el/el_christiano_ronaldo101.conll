@@ -1,0 +1,14 @@
+1	Ο	_	ADJ	ADJ	_	2	det
+2	Ρονάλντο	_	NOUN	NOUN	_	4	nsubj
+3	άνοιξε	_	VERB	VERB	_	4	aux
+4	κατάστημα	_	VERB	VERB	_	0	root
+5	με	_	ADP	ADP	_	8	case
+6	την	_	ADJ	ADJ	_	8	det
+7	επωνυμία	_	ADJ	ADJ	_	8	amod
+8	CR7	_	NOUN	NOUN	_	4	nmod
+9	στη	_	ADP	ADP	_	10	case
+10	Μαδέιρα	_	NOUN	NOUN	_	4	nmod
+11	το	_	ADJ	ADJ	_	12	det
+12	2006	_	NOUN	NOUN	_	10	nmod
+13	.	_	PUNCT	PUNCT	_	4	punct
+

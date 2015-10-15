@@ -1,0 +1,24 @@
+1	Christiano	_	PROPN	PROPN	_	2	name
+2	Ronaldo	_	PROPN	PROPN	_	9	nsubj
+3	au	_	ADP	ADP	_	4	case
+4	PSG	_	PROPN	PROPN	_	2	nmod
+5	meme	_	ADJ	ADJ	_	4	amod
+6	son	_	DET	DET	_	7	nmod:poss
+7	agent	_	NOUN	NOUN	_	9	nsubj
+8	n'y	_	PROPN	PROPN	_	7	appos
+9	croit	_	VERB	VERB	_	17	advcl
+10	pas	_	ADV	ADV	_	9	neg
+11	:	_	PUNCT	PUNCT	_	9	punct
+12	"	_	PUNCT	PUNCT	_	13	punct
+13	C'est	_	PROPN	PROPN	_	17	nsubj
+14	impossible	_	ADJ	ADJ	_	13	amod
+15	,	_	PUNCT	PUNCT	_	13	punct
+16	Ronaldo	_	PROPN	PROPN	_	17	nsubj
+17	finira	_	VERB	VERB	_	0	root
+18	sa	_	DET	DET	_	19	nmod:poss
+19	carrière	_	NOUN	NOUN	_	17	dobj
+20	au	_	ADP	ADP	_	21	case
+21	Real	_	PROPN	PROPN	_	17	nmod
+22	"	_	PUNCT	PUNCT	_	21	punct
+23	#telefoot	_	PROPN	PROPN	_	21	appos
+

@@ -1,0 +1,19 @@
+1	#Seagate	_	NOUN	NOUN	_	0	root
+2	#Seven	_	NOUN	NOUN	_	1	nmod
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	#Σκληρός	_	NOUN	NOUN	_	1	conj
+5	δίσκος	_	NOUN	NOUN	_	4	nmod
+6	με	_	ADP	ADP	_	7	case
+7	πάχος	_	NOUN	NOUN	_	5	nmod
+8	όσο	_	ADV	ADV	_	10	case
+9	το	_	ADJ	ADJ	_	10	det
+10	#iPhone6	_	NOUN	NOUN	_	7	nmod
+11	.	_	PUNCT	PUNCT	_	1	punct
+12	(	_	PUNCT	PUNCT	_	13	punct
+13	#Sunday	_	NOUN	NOUN	_	10	appos
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	4	_	NUM	NUM	_	16	nummod
+16	#January	_	NOUN	NOUN	_	13	conj
+17	)	_	PUNCT	PUNCT	_	16	punct
+18	http://t.co/uAOOqGztpo	_	NOUN	NOUN	_	16	nmod
+

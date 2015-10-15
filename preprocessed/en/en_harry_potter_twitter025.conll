@@ -1,0 +1,24 @@
+1	@LKHamilton	_	PROPN	PROPN	_	2	nsubj
+2	Try	_	VERB	VERB	_	0	root
+3	Harry	_	PROPN	PROPN	_	4	compound
+4	Potter	_	PROPN	PROPN	_	2	dobj
+5	and	_	CONJ	CONJ	_	4	cc
+6	the	_	DET	DET	_	7	det
+7	methods	_	NOUN	NOUN	_	4	conj
+8	of	_	ADP	ADP	_	2	compound:prt
+9	rationality	_	NOUN	NOUN	_	10	compound
+10	#HPMOR	_	NOUN	NOUN	_	4	conj
+11	for	_	ADP	ADP	_	10	acl
+12	a	_	DET	DET	_	13	det
+13	Hogwarts	_	NOUN	NOUN	_	14	nsubj
+14	fix	_	VERB	VERB	_	2	conj
+15	from	_	ADP	ADP	_	14	compound:prt
+16	a	_	DET	DET	_	22	det
+17	new	_	ADJ	ADJ	_	0	foreign
+18	angle	_	NOUN	NOUN	_	14	dobj
+19	-	_	PUNCT	PUNCT	_	2	punct
+20	intelligently	_	ADV	ADV	_	21	advmod
+21	written	_	VERB	VERB	_	22	amod
+22	page-turner	_	NOUN	NOUN	_	14	dobj
+23	.	_	PUNCT	PUNCT	_	2	punct
+

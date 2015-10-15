@@ -1,0 +1,20 @@
+1	Who’s	_	NOUN	NOUN	_	0	root
+2	the	_	DET	DET	_	4	det
+3	true	_	ADJ	ADJ	_	0	iobj
+4	enemy	_	NOUN	NOUN	_	6	compound
+5	of	_	ADP	ADP	_	4	compound
+6	internet	_	NOUN	NOUN	_	7	compound
+7	freedom	_	NOUN	NOUN	_	1	appos
+8	-	_	PUNCT	PUNCT	_	7	punct
+9	China	_	PROPN	PROPN	_	7	appos
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	Russia	_	PROPN	PROPN	_	9	conj
+12	,	_	PUNCT	PUNCT	_	9	punct
+13	or	_	CONJ	CONJ	_	9	cc
+14	the	_	DET	DET	_	15	det
+15	US	_	PROPN	PROPN	_	9	conj
+16	?	_	PUNCT	PUNCT	_	9	punct
+17	http://t.co/ZwKz2NYbzy	_	X	X	_	19	goeswith
+18	vía	_	X	X	_	19	goeswith
+19	@guardian	_	NOUN	NOUN	_	9	conj
+

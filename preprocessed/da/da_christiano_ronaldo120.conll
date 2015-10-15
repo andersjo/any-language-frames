@@ -1,0 +1,15 @@
+1	Der	_	PART	PART	_	3	expl
+2	vil	_	AUX	AUX	_	3	aux
+3	begynde	_	VERB	VERB	_	0	root
+4	en	_	DET	DET	_	5	det
+5	verdensomspændende	_	NOUN	NOUN	_	3	dobj
+6	reklamekampagne	_	NOUN	NOUN	_	3	dobj
+7	startende	_	VERB	VERB	_	5	dep
+8	i	_	ADP	ADP	_	9	case
+9	foråret	_	NOUN	NOUN	_	7	nmod
+10	2010	_	NUM	NUM	_	9	nmod
+11	i	_	ADP	ADP	_	13	case
+12	den	_	DET	DET	_	13	det
+13	anledning	_	NOUN	NOUN	_	7	nmod
+14	.	_	PUNCT	PUNCT	_	7	punct
+

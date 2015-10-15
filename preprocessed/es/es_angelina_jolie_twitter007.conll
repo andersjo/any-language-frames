@@ -1,0 +1,23 @@
+1	Ver	_	VERB	VERB	_	0	root
+2	las	_	DET	DET	_	3	det
+3	fotos	_	NOUN	NOUN	_	1	dobj
+4	de	_	ADP	ADP	_	6	case
+5	la	_	DET	DET	_	6	det
+6	boda	_	NOUN	NOUN	_	3	nmod
+7	de	_	ADP	ADP	_	9	case
+8	Angelina	_	PROPN	PROPN	_	9	name
+9	Jolie	_	PROPN	PROPN	_	6	nmod
+10	y	_	CONJ	CONJ	_	9	cc
+11	Brad	_	PROPN	PROPN	_	12	name
+12	Pitt	_	PROPN	PROPN	_	9	conj
+13	.	_	PUNCT	PUNCT	_	1	punct
+14	Llorar	_	VERB	VERB	_	12	acl
+15	.	_	PUNCT	PUNCT	_	1	punct
+16	¿¡CÓMO	_	PROPN	PROPN	_	17	name
+17	PUEDEN	_	PROPN	PROPN	_	14	dobj
+18	SER	_	PROPN	PROPN	_	19	cop
+19	ASÍ	_	PROPN	PROPN	_	17	nmod
+20	DE	_	PROPN	PROPN	_	22	case
+21	PERFECTOS	_	PROPN	PROPN	_	22	name
+22	?!	_	PROPN	PROPN	_	19	nmod
+

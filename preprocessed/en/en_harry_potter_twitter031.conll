@@ -1,0 +1,12 @@
+1	@FashionatVictim	_	NOUN	NOUN	_	3	compound
+2	harry	_	PROPN	PROPN	_	3	compound
+3	potter	_	NOUN	NOUN	_	4	nsubj
+4	ist	_	VERB	VERB	_	0	root
+5	eh	_	PROPN	PROPN	_	6	compound
+6	king	_	NOUN	NOUN	_	4	dobj
+7	.	_	PUNCT	PUNCT	_	4	punct
+8	(	_	PUNCT	PUNCT	_	9	punct
+9	Y	_	X	X	_	6	advmod
+10	)	_	PUNCT	PUNCT	_	11	punct
+11	http://t.co/7qLNHhzzsp	_	X	X	_	9	appos
+

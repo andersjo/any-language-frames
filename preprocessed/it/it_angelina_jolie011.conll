@@ -1,0 +1,19 @@
+1	La	_	DET	DET	_	2	det
+2	madre	_	NOUN	NOUN	_	3	nsubj
+3	scelse	_	VERB	VERB	_	0	root
+4	come	_	ADP	ADP	_	7	case
+5	suo	_	DET	DET	_	7	det:poss
+6	secondo	_	ADJ	ADJ	_	7	amod
+7	nome	_	NOUN	NOUN	_	3	nmod
+8	Jolie	_	PROPN	PROPN	_	7	nmod
+9	,	_	PUNCT	PUNCT	_	2	punct
+10	che	_	SCONJ	SCONJ	_	14	mark
+11	in	_	ADP	ADP	_	12	case
+12	lingua	_	NOUN	NOUN	_	14	nmod
+13	francese	_	ADJ	ADJ	_	12	amod
+14	significa	_	VERB	VERB	_	3	advcl
+15	"	_	PUNCT	PUNCT	_	16	punct
+16	carina	_	NOUN	NOUN	_	14	xcomp
+17	"	_	PUNCT	PUNCT	_	16	punct
+18	.	_	PUNCT	PUNCT	_	3	punct
+

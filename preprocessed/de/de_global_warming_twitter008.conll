@@ -1,0 +1,25 @@
+1	Tea	_	PROPN	PROPN	_	3	name
+2	Party	_	PROPN	PROPN	_	3	name
+3	USA	_	PROPN	PROPN	_	11	nmod
+4	und	_	CONJ	CONJ	_	3	cc
+5	ähnl	_	NOUN	NOUN	_	3	conj
+6	.	_	PUNCT	PUNCT	_	5	punct
+7	Bewegungen	_	NOUN	NOUN	_	3	conj
+8	:	_	PUNCT	PUNCT	_	7	punct
+9	Leugnen	_	PROPN	PROPN	_	10	name
+10	global	_	PROPN	PROPN	_	3	conj
+11	warming	_	VERB	VERB	_	0	root
+12	bzw	_	CONJ	CONJ	_	11	cc
+13	.	_	PUNCT	PUNCT	_	12	punct
+14	climate	_	NOUN	NOUN	_	15	nmod
+15	change	_	ADJ	ADJ	_	11	advmod
+16	und	_	CONJ	CONJ	_	15	cc
+17	sind	_	VERB	VERB	_	23	cop
+18	selber	_	ADV	ADV	_	23	advmod
+19	für	_	ADP	ADP	_	20	case
+20	Erstarken	_	NOUN	NOUN	_	23	nmod
+21	sozialer	_	ADJ	ADJ	_	22	amod
+22	Kälte	_	NOUN	NOUN	_	20	det
+23	verantwortlich	_	ADJ	ADJ	_	11	conj
+24	.	_	PUNCT	PUNCT	_	11	punct
+

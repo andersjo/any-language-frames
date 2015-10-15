@@ -1,0 +1,17 @@
+1	@Snowfaked	_	NOUN	NOUN	_	0	root
+2	2006	_	NUM	NUM	_	1	nmod
+3	:	_	PUNCT	PUNCT	_	1	punct
+4	Jean	_	PROPN	PROPN	_	1	list
+5	Luc	_	PROPN	PROPN	_	4	name
+6	Brunel	_	PROPN	PROPN	_	4	name
+7	in	_	X	X	_	4	dep
+8	Bolivia	_	NOUN	NOUN	_	4	conj
+9	for	_	ADP	ADP	_	10	case
+10	Karin	_	PROPN	PROPN	_	8	nmod
+11	Models	_	PROPN	PROPN	_	10	name
+12	[	_	PUNCT	PUNCT	_	13	punct
+13	translated	_	NOUN	NOUN	_	10	name
+14	]	_	PUNCT	PUNCT	_	13	punct
+15	http://t.co/VXCPFSvmA8	_	ADJ	ADJ	_	16	amod
+16	http://t.co/COCSmZ31MC	_	NOUN	NOUN	_	13	conj
+

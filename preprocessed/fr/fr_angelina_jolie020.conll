@@ -1,0 +1,22 @@
+1	Née	_	VERB	VERB	_	10	acl
+2	à	_	ADP	ADP	_	4	case
+3	Los	_	PROPN	PROPN	_	4	name
+4	Angeles	_	PROPN	PROPN	_	1	nmod
+5	,	_	PUNCT	PUNCT	_	1	punct
+6	États-Unis	_	PROPN	PROPN	_	4	conj
+7	,	_	PUNCT	PUNCT	_	1	punct
+8	Angelina	_	PROPN	PROPN	_	10	name
+9	Jolie	_	PROPN	PROPN	_	10	name
+10	Voight	_	PROPN	PROPN	_	13	nsubj
+11	est	_	VERB	VERB	_	13	cop
+12	la	_	DET	DET	_	13	det
+13	fille	_	NOUN	NOUN	_	0	root
+14	des	_	ADP	ADP	_	15	case
+15	acteurs	_	NOUN	NOUN	_	13	nmod
+16	Jon	_	PROPN	PROPN	_	17	name
+17	Voight	_	PROPN	PROPN	_	15	appos
+18	et	_	CONJ	CONJ	_	17	cc
+19	Marcheline	_	PROPN	PROPN	_	20	name
+20	Bertrand	_	PROPN	PROPN	_	17	conj
+21	.	_	PUNCT	PUNCT	_	13	punct
+

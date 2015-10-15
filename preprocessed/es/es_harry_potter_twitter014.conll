@@ -1,0 +1,10 @@
+1	Termino	_	VERB	VERB	_	0	root
+2	Hannah	_	PROPN	PROPN	_	3	name
+3	Montana	_	PROPN	PROPN	_	1	nsubj
+4	y	_	CONJ	CONJ	_	1	cc
+5	me	_	PRON	PRON	_	6	iobj
+6	encuentro	_	VERB	VERB	_	1	conj
+7	Harry	_	PROPN	PROPN	_	9	name
+8	Potter	_	PROPN	PROPN	_	9	name
+9	✌	_	PROPN	PROPN	_	6	xcomp
+

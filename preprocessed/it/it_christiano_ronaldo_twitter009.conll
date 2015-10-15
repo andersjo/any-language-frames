@@ -1,0 +1,8 @@
+1	#Que2015LeveEmbora	_	PROPN	PROPN	_	0	root
+2	Christiano	_	PROPN	PROPN	_	1	name
+3	Ronaldo	_	PROPN	PROPN	_	1	name
+4	,	_	PUNCT	PUNCT	_	1	punct
+5	ESSE	_	PROPN	PROPN	_	1	conj
+6	BOSTA	_	PROPN	PROPN	_	5	name
+7	!	_	PUNCT	PUNCT	_	1	punct
+

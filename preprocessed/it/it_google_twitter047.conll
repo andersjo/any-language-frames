@@ -1,0 +1,20 @@
+1	Io	_	PRON	PRON	_	0	root
+2	che	_	PRON	PRON	_	3	nsubj
+3	aspetto	_	VERB	VERB	_	1	acl:relcl
+4	al	_	ADP	ADP	_	5	case
+5	varco	_	NOUN	NOUN	_	3	nmod
+6	i	_	DET	DET	_	7	det
+7	commenti	_	NOUN	NOUN	_	3	dobj
+8	costruttivi	_	ADJ	ADJ	_	7	amod
+9	di	_	ADP	ADP	_	10	case
+10	chi	_	PRON	PRON	_	8	nmod
+11	rientra	_	VERB	VERB	_	10	acl:relcl
+12	a	_	ADP	ADP	_	13	case
+13	Milano	_	PROPN	PROPN	_	11	nmod
+14	dopo	_	ADP	ADP	_	16	case
+15	le	_	DET	DET	_	16	det
+16	ferie	_	NOUN	NOUN	_	11	nmod
+17	natalizie	_	ADJ	ADJ	_	16	amod
+18	.	_	PUNCT	PUNCT	_	7	punct
+19	https://t.co/eokLqZJOFl	_	NOUN	NOUN	_	16	nmod
+

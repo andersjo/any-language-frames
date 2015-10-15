@@ -1,0 +1,25 @@
+1	Mit	_	ADP	ADP	_	3	case
+2	dem	_	DET	DET	_	3	det
+3	Lehrer	_	NOUN	NOUN	_	20	nmod
+4	Severus	_	PROPN	PROPN	_	5	name
+5	Snape	_	PROPN	PROPN	_	3	appos
+6	dagegen	_	ADV	ADV	_	7	advmod
+7	wie	_	ADV	ADV	_	20	advmod
+8	auch	_	ADV	ADV	_	11	advmod
+9	mit	_	ADP	ADP	_	11	case
+10	seinem	_	DET	DET	_	11	nmod:poss
+11	Mitschüler	_	NOUN	NOUN	_	20	nmod
+12	Draco	_	PROPN	PROPN	_	13	name
+13	Malfoy	_	PROPN	PROPN	_	11	appos
+14	aus	_	ADP	ADP	_	18	case
+15	dem	_	DET	DET	_	18	det
+16	traditionell	_	ADJ	ADJ	_	18	amod
+17	rivalisierenden	_	ADJ	ADJ	_	18	amod
+18	Haus	_	NOUN	NOUN	_	11	conj
+19	Slytherin	_	PROPN	PROPN	_	18	appos
+20	verbindet	_	VERB	VERB	_	0	root
+21	ihn	_	PRON	PRON	_	20	dobj
+22	gegenseitiger	_	ADJ	ADJ	_	23	amod
+23	Hass	_	NOUN	NOUN	_	20	dobj
+24	.	_	PUNCT	PUNCT	_	20	punct
+

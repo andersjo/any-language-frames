@@ -1,0 +1,16 @@
+1	#Entertainment	_	NOUN	NOUN	_	2	name
+2	#News	_	PROPN	PROPN	_	4	nmod:poss
+3	ANGELINA	_	PROPN	PROPN	_	2	name
+4	JOLIE	_	NOUN	NOUN	_	0	root
+5	/	_	PUNCT	PUNCT	_	7	punct
+6	ELLE	_	ADJ	ADJ	_	7	amod
+7	FANNING	_	NOUN	NOUN	_	1	conj
+8	-	_	PUNCT	PUNCT	_	7	punct
+9	8x10	_	X	X	_	10	name
+10	Maleficent	_	PROPN	PROPN	_	1	conj
+11	signed	_	PROPN	PROPN	_	10	name
+12	autograph	_	PROPN	PROPN	_	10	name
+13	http://t.co/q1QJwRE0oy	_	ADJ	ADJ	_	14	amod
+14	#AngelinaJolie	_	NOUN	NOUN	_	15	nmod:poss
+15	#Fans	_	NOUN	NOUN	_	10	list
+

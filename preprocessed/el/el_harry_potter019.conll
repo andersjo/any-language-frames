@@ -1,0 +1,27 @@
+1	Το	_	ADJ	ADJ	_	3	det
+2	πρώτο	_	NUM	NUM	_	3	nummod
+3	βιβλίο	_	NOUN	NOUN	_	4	nsubj
+4	εκδόθηκε	_	VERB	VERB	_	0	root
+5	στο	_	ADP	ADP	_	7	case
+6	Ηνωμένο	_	ADJ	ADJ	_	7	amod
+7	Βασίλειο	_	NOUN	NOUN	_	4	nmod
+8	από	_	ADP	ADP	_	11	case
+9	την	_	ADJ	ADJ	_	11	det
+10	"	_	PUNCT	PUNCT	_	13	punct
+11	Bloomsbury	_	NOUN	NOUN	_	13	nmod
+12	Publishing	_	NOUN	NOUN	_	7	nmod
+13	Plc	_	NOUN	NOUN	_	12	nmod
+14	"	_	PUNCT	PUNCT	_	11	punct
+15	,	_	PUNCT	PUNCT	_	11	punct
+16	μία	_	ADJ	ADJ	_	19	det
+17	σχετικά	_	ADV	ADV	_	18	advmod
+18	μικρή	_	ADJ	ADJ	_	19	amod
+19	εκδοτική	_	NOUN	NOUN	_	11	conj
+20	εταιρία	_	NOUN	NOUN	_	19	nmod
+21	,	_	PUNCT	PUNCT	_	23	punct
+22	τον	_	ADJ	ADJ	_	23	det
+23	Ιούλιο	_	NOUN	NOUN	_	19	conj
+24	του	_	ADJ	ADJ	_	25	det
+25	1997	_	NOUN	NOUN	_	23	nmod
+26	.	_	PUNCT	PUNCT	_	4	punct
+

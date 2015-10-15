@@ -1,0 +1,21 @@
+1	Bandes	_	PROPN	PROPN	_	4	name
+2	"	_	PUNCT	PUNCT	_	1	punct
+3	Harry	_	PROPN	PROPN	_	4	name
+4	Potter	_	PROPN	PROPN	_	12	nsubj
+5	und	_	CONJ	CONJ	_	1	cc
+6	der	_	DET	DET	_	7	det
+7	Feuerkelch	_	NOUN	NOUN	_	4	conj
+8	"	_	PUNCT	PUNCT	_	12	punct
+9	im	_	ADP	ADP	_	10	case
+10	Jahr	_	NOUN	NOUN	_	12	nmod
+11	2000	_	NUM	NUM	_	10	nmod
+12	gelang	_	VERB	VERB	_	0	root
+13	der	_	DET	DET	_	14	det
+14	Reihe	_	NOUN	NOUN	_	12	nsubj
+15	der	_	DET	DET	_	19	det
+16	endgültige	_	ADJ	ADJ	_	19	amod
+17	,	_	PUNCT	PUNCT	_	16	punct
+18	weltweite	_	ADJ	ADJ	_	16	conj
+19	Durchbruch	_	NOUN	NOUN	_	14	det
+20	.	_	PUNCT	PUNCT	_	12	punct
+

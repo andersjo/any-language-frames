@@ -1,0 +1,23 @@
+1	New	_	PROPN	PROPN	_	2	compound
+2	York	_	PROPN	PROPN	_	3	compound
+3	City	_	PROPN	PROPN	_	0	root
+4	Prices	_	NOUN	NOUN	_	8	compound
+5	in	_	ADP	ADP	_	4	compound
+6	Miami	_	PROPN	PROPN	_	8	compound
+7	-	_	PUNCT	PUNCT	_	6	punct
+8	New	_	PROPN	PROPN	_	9	compound
+9	York	_	PROPN	PROPN	_	10	compound
+10	Times	_	PROPN	PROPN	_	3	list
+11	:	_	PUNCT	PUNCT	_	10	punct
+12	New	_	PROPN	PROPN	_	13	compound
+13	York	_	PROPN	PROPN	_	16	compound
+14	Times	_	PROPN	PROPN	_	16	compound
+15	New	_	PROPN	PROPN	_	16	compound
+16	York	_	PROPN	PROPN	_	17	compound
+17	City	_	PROPN	PROPN	_	18	compound
+18	Prices	_	NOUN	NOUN	_	10	appos
+19	in	_	ADP	ADP	_	18	compound
+20	Miami	_	PROPN	PROPN	_	22	compound
+21	…	_	PROPN	PROPN	_	22	compound
+22	http://t.co/KZx3V6ThJb	_	PROPN	PROPN	_	10	appos
+

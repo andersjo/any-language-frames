@@ -1,0 +1,18 @@
+1	NEWMUSIC	_	PROPN	PROPN	_	3	name
+2	-	_	PUNCT	PUNCT	_	3	punct
+3	MC	_	PROPN	PROPN	_	4	name
+4	Eiht	_	PROPN	PROPN	_	0	root
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	Outlawz	_	PROPN	PROPN	_	4	conj
+7	,	_	PUNCT	PUNCT	_	4	punct
+8	SZA	_	PROPN	PROPN	_	4	conj
+9	,	_	PUNCT	PUNCT	_	4	punct
+10	Reks	_	PROPN	PROPN	_	4	conj
+11	,	_	PUNCT	PUNCT	_	4	punct
+12	Well$	_	PROPN	PROPN	_	13	name
+13	&	_	PROPN	PROPN	_	4	conj
+14	more	_	PROPN	PROPN	_	17	amod
+15	HIPHOP	_	PROPN	PROPN	_	17	name
+16	-	_	PUNCT	PUNCT	_	17	punct
+17	http://t.co/uTHdGMgfkT	_	PROPN	PROPN	_	13	nmod
+

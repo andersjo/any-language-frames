@@ -1,0 +1,17 @@
+1	Κ	_	NOUN	NOUN	_	0	root
+2	.	_	PUNCT	PUNCT	_	1	punct
+3	Ρόουλινγκ	_	NOUN	NOUN	_	1	nmod
+4	με	_	ADP	ADP	_	5	case
+5	έσοδα	_	NOUN	NOUN	_	3	nmod
+6	που	_	PRON	PRON	_	7	nsubj
+7	διατίθενται	_	VERB	VERB	_	5	acl:relcl
+8	για	_	ADP	ADP	_	10	case
+9	φιλανθρωπικούς	_	ADJ	ADJ	_	10	amod
+10	σκοπούς	_	NOUN	NOUN	_	7	nmod
+11	μέσω	_	ADP	ADP	_	13	case
+12	του	_	ADJ	ADJ	_	13	det
+13	οργανισμού	_	NOUN	NOUN	_	7	nmod
+14	Comic	_	NOUN	NOUN	_	13	nmod
+15	Relief	_	NOUN	NOUN	_	14	nmod
+16	.	_	PUNCT	PUNCT	_	1	punct
+

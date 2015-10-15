@@ -1,0 +1,21 @@
+1	Jeder	_	PRON	PRON	_	5	nsubj
+2	der	_	DET	DET	_	4	det
+3	sieben	_	NUM	NUM	_	4	nummod
+4	Bände	_	NOUN	NOUN	_	1	det
+5	beschreibt	_	VERB	VERB	_	0	root
+6	ein	_	DET	DET	_	7	det
+7	Schul-	_	NOUN	NOUN	_	5	nsubj
+8	und	_	CONJ	CONJ	_	7	cc
+9	Lebensjahr	_	NOUN	NOUN	_	7	conj
+10	von	_	ADP	ADP	_	12	case
+11	Harry	_	PROPN	PROPN	_	12	name
+12	Potter	_	PROPN	PROPN	_	7	nmod
+13	,	_	PUNCT	PUNCT	_	5	punct
+14	beginnend	_	VERB	VERB	_	5	conj
+15	kurz	_	ADV	ADV	_	14	advmod
+16	vor	_	ADP	ADP	_	19	case
+17	seinem	_	DET	DET	_	19	nmod:poss
+18	elften	_	ADJ	ADJ	_	19	amod
+19	Geburtstag	_	NOUN	NOUN	_	14	nmod
+20	.	_	PUNCT	PUNCT	_	5	punct
+

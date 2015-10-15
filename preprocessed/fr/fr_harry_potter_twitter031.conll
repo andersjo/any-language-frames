@@ -1,0 +1,27 @@
+1	mdr	_	PROPN	PROPN	_	2	name
+2	nath	_	PROPN	PROPN	_	4	name
+3	"	_	PUNCT	PUNCT	_	2	punct
+4	ta	_	X	X	_	5	nsubj
+5	vu	_	VERB	VERB	_	13	csubj
+6	la	_	DET	DET	_	7	det
+7	meuf	_	NOUN	NOUN	_	5	dobj
+8	ds	_	ADJ	ADJ	_	7	amod
+9	harry	_	ADJ	ADJ	_	10	amod
+10	potter	_	NOUN	NOUN	_	7	nmod
+11	elle	_	PRON	PRON	_	13	nsubj
+12	est	_	VERB	VERB	_	13	cop
+13	sal	_	NOUN	NOUN	_	0	root
+14	bonne	_	ADJ	ADJ	_	13	amod
+15	nn	_	PROPN	PROPN	_	13	appos
+16	?	_	PUNCT	PUNCT	_	5	punct
+17	"	_	PUNCT	PUNCT	_	18	punct
+18	ptn	_	PROPN	PROPN	_	15	conj
+19	mais	_	CONJ	CONJ	_	18	cc
+20	ptn	_	PROPN	PROPN	_	23	name
+21	mdr	_	PROPN	PROPN	_	23	name
+22	off	_	PROPN	PROPN	_	23	name
+23	jdesac	_	PROPN	PROPN	_	24	nsubj
+24	allez	_	VERB	VERB	_	13	conj
+25	c	_	X	X	_	26	compound
+26	bn	_	PROPN	PROPN	_	24	nmod
+

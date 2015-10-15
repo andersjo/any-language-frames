@@ -1,0 +1,15 @@
+1	When	_	ADV	ADV	_	3	advmod
+2	you	_	PRON	PRON	_	3	nsubj
+3	think	_	VERB	VERB	_	0	root
+4	you're	_	PRON	PRON	_	3	iobj
+5	the	_	DET	DET	_	7	det
+6	female	_	ADJ	ADJ	_	0	advcl
+7	prodigy	_	NOUN	NOUN	_	3	dobj
+8	of	_	ADP	ADP	_	3	compound:prt
+9	Christiano	_	PROPN	PROPN	_	10	compound
+10	Ronaldo	_	PROPN	PROPN	_	7	nmod
+11	but	_	CONJ	CONJ	_	3	cc
+12	you're	_	PRON	PRON	_	10	conj
+13	not	_	ADV	ADV	_	12	neg
+14	<	_	PUNCT	PUNCT	_	3	punct
+

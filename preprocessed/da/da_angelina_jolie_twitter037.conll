@@ -1,0 +1,11 @@
+1	Photoset	_	PROPN	PROPN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	angelinajoliearchive	_	NOUN	NOUN	_	1	list
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	Angelina	_	PROPN	PROPN	_	3	list
+6	Jolie	_	NOUN	NOUN	_	5	dep
+7	(	_	PUNCT	PUNCT	_	8	punct
+8	1997	_	NUM	NUM	_	10	nummod
+9	)	_	PUNCT	PUNCT	_	8	punct
+10	http://t.co/cHJZI0qex2	_	NOUN	NOUN	_	5	conj
+

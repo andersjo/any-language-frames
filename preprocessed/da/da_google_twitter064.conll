@@ -1,0 +1,20 @@
+1	Hverdag	_	NOUN	NOUN	_	9	nsubj
+2	=	_	SYM	SYM	_	1	cc
+3	trængsel	_	NOUN	NOUN	_	1	conj
+4	ved	_	ADP	ADP	_	7	case
+5	dit	_	DET	DET	_	6	det
+6	barns	_	NOUN	NOUN	_	9	nmod
+7	skole	_	NOUN	NOUN	_	6	nmod
+8	.	_	PUNCT	PUNCT	_	3	punct
+9	Sæt	_	VERB	VERB	_	0	root
+10	dig	_	PRON	PRON	_	9	dobj
+11	ind	_	ADV	ADV	_	9	nmod:loc
+12	i	_	ADP	ADP	_	16	case
+13	og	_	CONJ	CONJ	_	9	cc
+14	efterlev	_	NOUN	NOUN	_	15	nmod:poss
+15	trafikpolitikken	_	NOUN	NOUN	_	16	nmod:poss
+16	http://t.co/poXiYqbZC3	_	NOUN	NOUN	_	11	nmod
+17	/	_	PUNCT	PUNCT	_	9	punct
+18	http://t.co/Owu0k1ZH2C	_	PROPN	PROPN	_	16	appos
+19	#politidk	_	NOUN	NOUN	_	18	dep
+

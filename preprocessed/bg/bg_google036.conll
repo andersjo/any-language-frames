@@ -1,0 +1,19 @@
+1	Видеопорталът	_	PROPN	PROPN	_	4	nsubjpass
+2	YouTube	_	PROPN	PROPN	_	1	name
+3	е	_	AUX	AUX	_	4	aux
+4	закупен	_	VERB	VERB	_	0	root
+5	от	_	ADP	ADP	_	6	case
+6	Google	_	PROPN	PROPN	_	4	iobj
+7	на	_	ADP	ADP	_	9	case
+8	10.10.2006	_	NUM	NUM	_	9	nummod
+9	г	_	NOUN	NOUN	_	4	nmod
+10	.	_	PUNCT	PUNCT	_	4	punct
+11	за	_	ADP	ADP	_	12	case
+12	сумата	_	NOUN	NOUN	_	4	nmod
+13	от	_	ADP	ADP	_	14	case
+14	1	_	PROPN	PROPN	_	12	nmod
+15	,	_	PUNCT	PUNCT	_	4	punct
+16	65	_	NUM	NUM	_	17	nummod
+17	млрд	_	NOUN	NOUN	_	4	nmod
+18	.	_	PUNCT	PUNCT	_	4	punct
+

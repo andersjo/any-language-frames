@@ -1,0 +1,14 @@
+1	Mourinho	_	PROPN	PROPN	_	2	nsubj
+2	apologises	_	VERB	VERB	_	0	root
+3	for	_	ADP	ADP	_	2	compound:prt
+4	referee	_	NOUN	NOUN	_	5	compound
+5	rant	_	NOUN	NOUN	_	2	dobj
+6	-	_	PUNCT	PUNCT	_	5	punct
+7	beIN	_	PROPN	PROPN	_	8	compound
+8	SPORTS	_	PROPN	PROPN	_	9	compound
+9	MENA	_	PROPN	PROPN	_	12	compound
+10	Breaking	_	PROPN	PROPN	_	12	compound
+11	News	_	PROPN	PROPN	_	12	compound
+12	#netframework	_	PROPN	PROPN	_	5	appos
+13	http://t.co/Ea4Ny5dqxl	_	X	X	_	12	list
+

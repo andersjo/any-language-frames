@@ -1,0 +1,18 @@
+1	@miriampierard	_	PROPN	PROPN	_	2	compound
+2	@suckedthekumara	_	PROPN	PROPN	_	3	compound
+3	positions	_	NOUN	NOUN	_	0	root
+4	on	_	ADP	ADP	_	3	acl
+5	global	_	ADJ	ADJ	_	0	foreign
+6	warming	_	NOUN	NOUN	_	2	list
+7	aside	_	ADV	ADV	_	6	advmod
+8	,	_	PUNCT	PUNCT	_	16	punct
+9	the	_	DET	DET	_	10	det
+10	paper	_	NOUN	NOUN	_	6	appos
+11	that	_	DET	DET	_	12	nsubj
+12	claimed	_	VERB	VERB	_	10	acl:relcl
+13	97%	_	NUM	NUM	_	14	nummod
+14	consensus	_	NOUN	NOUN	_	16	nsubjpass
+15	was	_	AUX	AUX	_	16	auxpass
+16	debunked	_	VERB	VERB	_	10	acl:relcl
+17	.	_	PUNCT	PUNCT	_	16	punct
+

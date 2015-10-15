@@ -1,0 +1,17 @@
+1	Филмът	_	NOUN	NOUN	_	2	nsubj
+2	печели	_	VERB	VERB	_	0	root
+3	сумирано	_	NOUN	NOUN	_	2	nsubj
+4	$151	_	PROPN	PROPN	_	3	nmod
+5	000	_	NUM	NUM	_	6	nummod
+6	милиона	_	NOUN	NOUN	_	13	nsubjpass
+7	в	_	ADP	ADP	_	9	case
+8	световен	_	ADJ	ADJ	_	9	amod
+9	мащаб	_	NOUN	NOUN	_	6	nmod
+10	,	_	PUNCT	PUNCT	_	11	punct
+11	но	_	CONJ	CONJ	_	2	cc
+12	бе	_	AUX	AUX	_	13	aux
+13	критикуван	_	VERB	VERB	_	2	conj
+14	като	_	ADP	ADP	_	15	case
+15	неуспех	_	NOUN	NOUN	_	13	iobj
+16	.	_	PUNCT	PUNCT	_	2	punct
+

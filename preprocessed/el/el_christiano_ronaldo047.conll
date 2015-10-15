@@ -1,0 +1,20 @@
+1	Το	_	ADJ	ADJ	_	2	det
+2	πρώτο	_	NUM	NUM	_	18	remnant
+3	του	_	ADJ	ADJ	_	4	det
+4	χατ-τρικ	_	NOUN	NOUN	_	2	nmod
+5	το	_	ADJ	ADJ	_	6	det
+6	πετυχαίνει	_	NOUN	NOUN	_	4	nmod
+7	στις	_	ADP	ADP	_	9	case
+8	5	_	NUM	NUM	_	9	nmod
+9	Μαΐου	_	NOUN	NOUN	_	6	nmod
+10	του	_	ADJ	ADJ	_	11	det
+11	2010	_	NOUN	NOUN	_	9	nmod
+12	,	_	PUNCT	PUNCT	_	13	punct
+13	κόντρα	_	NOUN	NOUN	_	9	appos
+14	στη	_	ADP	ADP	_	15	case
+15	Μαγιόρκα	_	NOUN	NOUN	_	13	nmod
+16	,	_	PUNCT	PUNCT	_	18	punct
+17	εκτός	_	ADV	ADV	_	18	advmod
+18	έδρας	_	VERB	VERB	_	0	root
+19	.	_	PUNCT	PUNCT	_	18	punct
+

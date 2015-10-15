@@ -1,0 +1,15 @@
+1	Tur	_	NOUN	NOUN	_	5	nsubj
+2	att	_	PART	PART	_	5	mark
+3	inte	_	ADV	ADV	_	5	neg
+4	google	_	NOUN	NOUN	_	5	nsubj
+5	gör	_	VERB	VERB	_	13	advcl
+6	en	_	DET	DET	_	7	det
+7	årssumé	_	NOUN	NOUN	_	5	dobj
+8	av	_	ADP	ADP	_	10	case
+9	ens	_	DET	DET	_	10	nmod:poss
+10	sökningar	_	NOUN	NOUN	_	7	nmod
+11	.	_	PUNCT	PUNCT	_	5	punct
+12	Skulle	_	AUX	AUX	_	13	aux
+13	få	_	VERB	VERB	_	0	root
+14	ångest	_	NOUN	NOUN	_	13	dobj
+

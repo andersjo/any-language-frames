@@ -1,0 +1,13 @@
+1	Στις	_	ADP	ADP	_	3	case
+2	27	_	NUM	NUM	_	3	nmod
+3	Μαΐου	_	NOUN	NOUN	_	6	nsubj
+4	του	_	ADJ	ADJ	_	5	det
+5	2009	_	NOUN	NOUN	_	3	nmod
+6	συμμετέχει	_	VERB	VERB	_	0	root
+7	σε	_	ADP	ADP	_	10	case
+8	δεύτερο	_	NUM	NUM	_	10	nummod
+9	τελικό	_	ADJ	ADJ	_	10	amod
+10	Τσάμπιονς	_	NOUN	NOUN	_	11	nmod
+11	Λιγκ	_	NOUN	NOUN	_	6	dobj
+12	.	_	PUNCT	PUNCT	_	6	punct
+

@@ -1,0 +1,18 @@
+1	los	_	DET	DET	_	2	det
+2	que	_	SCONJ	SCONJ	_	3	mark
+3	imitan	_	VERB	VERB	_	6	advcl
+4	a	_	ADP	ADP	_	5	case
+5	1d	_	PROPN	PROPN	_	3	nmod
+6	son	_	VERB	VERB	_	0	root
+7	como	_	ADP	ADP	_	10	case
+8	cuando	_	SCONJ	SCONJ	_	10	mark
+9	yo	_	PRON	PRON	_	10	nsubj
+10	quiero	_	VERB	VERB	_	6	acl
+11	hacerme	_	VERB	VERB	_	10	xcomp
+12	la	_	DET	DET	_	13	det
+13	angelina	_	NOUN	NOUN	_	11	dobj
+14	jolie	_	PROPN	PROPN	_	13	appos
+15	en	_	ADP	ADP	_	17	case
+16	las	_	DET	DET	_	17	det
+17	fotos	_	NOUN	NOUN	_	11	nmod
+

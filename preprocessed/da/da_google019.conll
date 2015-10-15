@@ -1,0 +1,18 @@
+1	Alternativet	_	NOUN	NOUN	_	2	nmod:poss
+2	Google	_	NOUN	NOUN	_	7	nsubj
+3	Maps	_	PROPN	PROPN	_	2	appos
+4	er	_	AUX	AUX	_	7	cop
+5	mindre	_	ADV	ADV	_	6	advmod
+6	krævende	_	ADJ	ADJ	_	7	amod
+7	udstyrsmæssigt	_	NOUN	NOUN	_	0	root
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	men	_	CONJ	CONJ	_	6	cc
+10	har	_	VERB	VERB	_	6	conj
+11	til	_	ADP	ADP	_	12	case
+12	gengæld	_	NOUN	NOUN	_	10	nmod
+13	ikke	_	ADV	ADV	_	10	neg
+14	så	_	ADV	ADV	_	16	advmod
+15	mange	_	ADJ	ADJ	_	16	amod
+16	funktioner	_	NOUN	NOUN	_	10	nmod
+17	.	_	PUNCT	PUNCT	_	7	punct
+

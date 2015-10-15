@@ -1,0 +1,25 @@
+1	The	_	DET	DET	_	3	det
+2	third	_	ADJ	ADJ	_	0	iobj
+3	novel	_	NOUN	NOUN	_	15	nmod
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	"	_	PUNCT	PUNCT	_	7	punct
+6	Harry	_	PROPN	PROPN	_	7	compound
+7	Potter	_	PROPN	PROPN	_	3	appos
+8	and	_	CONJ	CONJ	_	7	cc
+9	the	_	DET	DET	_	10	det
+10	Prisoner	_	NOUN	NOUN	_	7	conj
+11	of	_	ADP	ADP	_	10	acl
+12	Azkaban	_	PROPN	PROPN	_	10	nmod
+13	"	_	PUNCT	PUNCT	_	7	punct
+14	,	_	PUNCT	PUNCT	_	15	punct
+15	follows	_	VERB	VERB	_	0	root
+16	Harry	_	PROPN	PROPN	_	15	dobj
+17	in	_	ADP	ADP	_	15	compound:prt
+18	his	_	PRON	PRON	_	23	nmod:poss
+19	third	_	ADJ	ADJ	_	0	iobj
+20	year	_	NOUN	NOUN	_	15	nmod:tmod
+21	of	_	ADP	ADP	_	15	compound:prt
+22	magical	_	ADJ	ADJ	_	0	iobj
+23	education	_	NOUN	NOUN	_	20	conj
+24	.	_	PUNCT	PUNCT	_	15	punct
+

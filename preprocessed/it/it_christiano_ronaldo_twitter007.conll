@@ -1,0 +1,26 @@
+1	Lol	_	PROPN	PROPN	_	3	nsubj
+2	ndthetha	_	PROPN	PROPN	_	1	name
+3	inyani	_	VERB	VERB	_	0	root
+4	@LuyaNtsodo	_	ADJ	ADJ	_	3	xcomp
+5	:	_	PUNCT	PUNCT	_	3	punct
+6	Messi	_	VERB	VERB	_	3	advcl
+7	fans	_	NOUN	NOUN	_	6	dobj
+8	---->"	_	PROPN	PROPN	_	6	nsubj
+9	@TaSqwai	_	PROPN	PROPN	_	8	name
+10	:	_	PUNCT	PUNCT	_	1	punct
+11	Dive	_	ADJ	ADJ	_	8	amod
+12	+	_	SYM	SYM	_	11	cc
+13	Penalties	_	PROPN	PROPN	_	8	name
+14	=	_	SYM	SYM	_	13	name
+15	Diviano	_	NOUN	NOUN	_	6	conj
+16	Penaldo	_	PROPN	PROPN	_	15	nmod
+17	(	_	PUNCT	PUNCT	_	18	punct
+18	Christiano	_	PROPN	PROPN	_	16	nmod
+19	Ronaldo	_	PROPN	PROPN	_	18	name
+20	)	_	PUNCT	PUNCT	_	18	punct
+21	:v	_	PROPN	PROPN	_	18	conj
+22	:v	_	PROPN	PROPN	_	21	name
+23	:v	_	PROPN	PROPN	_	21	name
+24	:v	_	PROPN	PROPN	_	21	name
+25	"	_	PUNCT	PUNCT	_	18	punct
+

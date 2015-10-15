@@ -1,0 +1,22 @@
+1	Together	_	ADV	ADV	_	3	advmod
+2	they	_	PRON	PRON	_	3	nsubj
+3	own	_	VERB	VERB	_	0	root
+4	about	_	ADP	ADP	_	3	compound:prt
+5	14	_	NUM	NUM	_	6	nummod
+6	percent	_	NOUN	NOUN	_	3	dobj
+7	of	_	ADP	ADP	_	3	compound:prt
+8	its	_	PRON	PRON	_	9	nmod:poss
+9	shares	_	NOUN	NOUN	_	3	dobj
+10	but	_	CONJ	CONJ	_	9	cc
+11	control	_	NOUN	NOUN	_	9	conj
+12	56	_	NUM	NUM	_	11	nummod
+13	of	_	ADP	ADP	_	11	acl
+14	the	_	DET	DET	_	17	det
+15	stockholder	_	NOUN	NOUN	_	16	compound
+16	voting	_	NOUN	NOUN	_	17	compound
+17	power	_	NOUN	NOUN	_	3	dobj
+18	through	_	ADP	ADP	_	17	compound
+19	supervoting	_	ADJ	ADJ	_	0	foreign
+20	stock	_	NOUN	NOUN	_	9	conj
+21	.	_	PUNCT	PUNCT	_	3	punct
+

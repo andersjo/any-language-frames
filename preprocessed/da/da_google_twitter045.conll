@@ -1,0 +1,13 @@
+1	Young	_	PROPN	PROPN	_	3	nmod:poss
+2	circus	_	NOUN	NOUN	_	1	dep
+3	artist	_	NOUN	NOUN	_	7	nummod
+4	André	_	PROPN	PROPN	_	3	appos
+5	Stykan	_	PROPN	PROPN	_	4	name
+6	.	_	PUNCT	PUNCT	_	8	punct
+7	Google	_	NOUN	NOUN	_	8	nmod:poss
+8	him	_	NOUN	NOUN	_	0	root
+9	for	_	ADP	ADP	_	10	case
+10	more	_	PROPN	PROPN	_	8	nmod
+11	.	_	PUNCT	PUNCT	_	4	punct
+12	http://t.co/jHO4MxRH0S	_	PROPN	PROPN	_	8	nmod
+

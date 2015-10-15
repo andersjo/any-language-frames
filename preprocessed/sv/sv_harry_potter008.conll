@@ -1,0 +1,8 @@
+1	Lewis	_	NOUN	NOUN	_	3	nsubj
+2	"	_	PUNCT	PUNCT	_	1	punct
+3	Berättelsen	_	NOUN	NOUN	_	0	root
+4	om	_	ADP	ADP	_	5	case
+5	Narnia	_	ADJ	ADJ	_	3	nmod
+6	"	_	PUNCT	PUNCT	_	5	punct
+7	.	_	PUNCT	PUNCT	_	1	punct
+

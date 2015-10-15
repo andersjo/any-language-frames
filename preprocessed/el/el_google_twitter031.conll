@@ -1,0 +1,15 @@
+1	Μαρία	_	NOUN	NOUN	_	0	root
+2	Εκμεκτσίογλου	_	NOUN	NOUN	_	1	nmod
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	«Έχω	_	NOUN	NOUN	_	2	conj
+5	και	_	CONJ	CONJ	_	2	cc
+6	συνταγές	_	NOUN	NOUN	_	2	conj
+7	που	_	PRON	PRON	_	8	nsubj
+8	έχουν	_	VERB	VERB	_	6	acl:relcl
+9	αναμνήσεις	_	ADJ	ADJ	_	10	amod
+10	…	_	NOUN	NOUN	_	8	dobj
+11	»	_	PUNCT	PUNCT	_	5	punct
+12	-	_	PUNCT	PUNCT	_	14	punct
+13	http://t.co/AHbpxk6dB3	_	NOUN	NOUN	_	14	nmod
+14	#starbuzz	_	NOUN	NOUN	_	10	appos
+

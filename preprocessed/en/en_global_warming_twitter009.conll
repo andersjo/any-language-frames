@@ -1,0 +1,20 @@
+1	For	_	ADP	ADP	_	0	compound:prt
+2	million	_	NUM	NUM	_	4	nummod
+3	of	_	ADP	ADP	_	4	compound
+4	years	_	NOUN	NOUN	_	1	conj
+5	the	_	DET	DET	_	6	det
+6	earth	_	NOUN	NOUN	_	8	nsubj
+7	almost	_	ADV	ADV	_	8	advmod
+8	died	_	VERB	VERB	_	4	acl:relcl
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	that	_	DET	DET	_	13	nsubj
+11	was	_	VERB	VERB	_	13	cop
+12	not	_	ADV	ADV	_	13	neg
+13	man	_	NOUN	NOUN	_	8	ccomp
+14	made	_	VERB	VERB	_	13	acl
+15	global	_	ADJ	ADJ	_	0	foreign
+16	warming	_	NOUN	NOUN	_	18	nsubj
+17	was	_	VERB	VERB	_	18	cop
+18	it	_	PRON	PRON	_	14	dobj
+19	?	_	PUNCT	PUNCT	_	8	punct
+

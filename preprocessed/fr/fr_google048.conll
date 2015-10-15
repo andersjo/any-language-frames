@@ -1,0 +1,21 @@
+1	Alors	_	ADV	ADV	_	2	mwe
+2	que	_	SCONJ	SCONJ	_	13	mark
+3	le	_	DET	DET	_	4	det
+4	moteur	_	NOUN	NOUN	_	10	nsubj
+5	est	_	VERB	VERB	_	10	cop
+6	toujours	_	ADV	ADV	_	8	advmod
+7	en	_	ADP	ADP	_	8	case
+8	phase	_	NOUN	NOUN	_	13	nmod
+9	version	_	NOUN	NOUN	_	8	appos
+10	bêta	_	NOUN	NOUN	_	9	compound
+11	,	_	PUNCT	PUNCT	_	13	punct
+12	il	_	PRON	PRON	_	13	nsubj
+13	répond	_	VERB	VERB	_	0	root
+14	à	_	ADP	ADP	_	17	case
+15	près	_	ADV	ADV	_	16	mwe
+16	de	_	ADP	ADP	_	17	case
+17	requêtes	_	NOUN	NOUN	_	13	nmod
+18	par	_	ADP	ADP	_	19	case
+19	jour	_	NOUN	NOUN	_	17	nmod
+20	.	_	PUNCT	PUNCT	_	13	punct
+

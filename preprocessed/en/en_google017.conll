@@ -1,0 +1,16 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	December	_	PROPN	PROPN	_	4	compound
+3	2013	_	NUM	NUM	_	4	nummod
+4	Alexa	_	PROPN	PROPN	_	5	nsubj
+5	listed	_	VERB	VERB	_	6	amod
+6	google.com	_	NOUN	NOUN	_	1	conj
+7	as	_	ADP	ADP	_	5	compound:prt
+8	the	_	DET	DET	_	11	det
+9	most	_	ADV	ADV	_	10	advmod
+10	visited	_	VERB	VERB	_	5	conj
+11	website	_	NOUN	NOUN	_	10	dobj
+12	in	_	ADP	ADP	_	10	compound:prt
+13	the	_	DET	DET	_	14	det
+14	world	_	NOUN	NOUN	_	10	nmod:tmod
+15	.	_	PUNCT	PUNCT	_	5	punct
+

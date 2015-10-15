@@ -1,0 +1,19 @@
+1	@chrystalgdrx	_	PROPN	PROPN	_	9	nsubj
+2	io	_	PRON	PRON	_	9	nsubj
+3	quatteo	_	ADJ	ADJ	_	4	amod
+4	anni	_	NOUN	NOUN	_	1	nmod
+5	fa	_	ADJ	ADJ	_	4	amod
+6	,	_	PUNCT	PUNCT	_	1	punct
+7	ci	_	PRON	PRON	_	9	expl
+8	sono	_	AUX	AUX	_	9	aux
+9	rientrata	_	VERB	VERB	_	0	root
+10	per	_	ADP	ADP	_	11	mark
+11	oartecipare	_	VERB	VERB	_	9	advcl
+12	ad	_	ADP	ADP	_	14	case
+13	un	_	DET	DET	_	14	det
+14	coso	_	NOUN	NOUN	_	11	nmod
+15	di	_	ADP	ADP	_	16	case
+16	harry	_	PROPN	PROPN	_	14	nmod
+17	potter	_	PROPN	PROPN	_	16	name
+18	.....	_	PROPN	PROPN	_	16	name
+

@@ -1,0 +1,8 @@
+1	winona	_	NOUN	NOUN	_	2	nsubj
+2	ryder	_	VERB	VERB	_	0	root
+3	and	_	X	X	_	2	dep
+4	angelina	_	NOUN	NOUN	_	5	nmod:poss
+5	jolie	_	NOUN	NOUN	_	2	dobj
+6	are	_	X	X	_	5	appos
+7	angels	_	PROPN	PROPN	_	6	name
+

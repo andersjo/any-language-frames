@@ -1,0 +1,13 @@
+1	просто	_	ADV	ADV	_	10	advmod
+2	на	_	ADP	ADP	_	4	case
+3	кокни	_	ADJ	ADJ	_	4	amod
+4	повторяла	_	NOUN	NOUN	_	1	nmod
+5	i	_	PROPN	PROPN	_	4	nmod
+6	hate	_	PROPN	PROPN	_	5	name
+7	harry	_	PROPN	PROPN	_	5	name
+8	potter	_	PROPN	PROPN	_	7	nmod
+9	.......	_	NOUN	NOUN	_	10	nsubj
+10	ладно	_	VERB	VERB	_	0	root
+11	........	_	NOUN	NOUN	_	10	nsubj
+12	http://t.co/1rd2m19FEg	_	PROPN	PROPN	_	11	nmod
+

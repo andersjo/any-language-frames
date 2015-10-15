@@ -1,0 +1,20 @@
+1	attrici	_	PROPN	PROPN	_	4	name
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	scarlett	_	PROPN	PROPN	_	4	name
+4	johansson	_	PROPN	PROPN	_	9	nsubj
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	julia	_	PROPN	PROPN	_	7	name
+7	roberts	_	PROPN	PROPN	_	4	conj
+8	,	_	PUNCT	PUNCT	_	4	punct
+9	charlize	_	VERB	VERB	_	0	root
+10	theron	_	VERB	VERB	_	9	xcomp
+11	,	_	PUNCT	PUNCT	_	13	punct
+12	angelina	_	PROPN	PROPN	_	13	name
+13	jolie	_	PROPN	PROPN	_	10	dobj
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	zoe	_	NOUN	NOUN	_	13	appos
+16	saldaña	_	VERB	VERB	_	15	acl
+17	,	_	PUNCT	PUNCT	_	13	punct
+18	elisabeth	_	PROPN	PROPN	_	19	name
+19	olsen	_	PROPN	PROPN	_	16	dobj
+

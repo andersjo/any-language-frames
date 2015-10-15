@@ -1,0 +1,13 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	5	nsubj
+3	,	_	PUNCT	PUNCT	_	5	punct
+4	invitée	_	VERB	VERB	_	5	cop
+5	exceptionnelle	_	ADJ	ADJ	_	0	root
+6	de	_	ADP	ADP	_	8	case
+7	"	_	PUNCT	PUNCT	_	8	punct
+8	Laissez-Vous	_	NOUN	NOUN	_	5	nmod
+9	Tenter	_	VERB	VERB	_	8	acl
+10	"	_	PUNCT	PUNCT	_	12	punct
+11	http://t.co/bqObEuKOIl	_	PROPN	PROPN	_	12	name
+12	#RTL	_	PROPN	PROPN	_	8	acl
+

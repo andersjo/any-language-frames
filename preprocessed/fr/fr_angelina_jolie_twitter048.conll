@@ -1,0 +1,23 @@
+1	Bon	_	ADJ	ADJ	_	0	root
+2	si	_	SCONJ	SCONJ	_	5	mark
+3	personne	_	PRON	PRON	_	5	nsubj
+4	n’est	_	PROPN	PROPN	_	5	nsubj
+5	intéressé	_	VERB	VERB	_	1	advcl
+6	par	_	ADP	ADP	_	5	case
+7	le	_	DET	DET	_	8	det
+8	film	_	NOUN	NOUN	_	6	case
+9	d’Angelina	_	PROPN	PROPN	_	10	name
+10	Jolie	_	PROPN	PROPN	_	8	appos
+11	,	_	PUNCT	PUNCT	_	8	punct
+12	ptet	_	NOUN	NOUN	_	8	appos
+13	que	_	SCONJ	SCONJ	_	17	mark
+14	ça	_	PRON	PRON	_	17	nsubj
+15	,	_	PUNCT	PUNCT	_	17	punct
+16	ça	_	PRON	PRON	_	17	nsubj
+17	intéressera	_	VERB	VERB	_	8	acl:relcl
+18	plus	_	ADV	ADV	_	19	mwe
+19	de	_	ADP	ADP	_	20	case
+20	monde	_	NOUN	NOUN	_	17	nmod
+21	8D	_	PROPN	PROPN	_	22	name
+22	http://t.co/1gy0H5rnZP	_	PROPN	PROPN	_	20	appos
+

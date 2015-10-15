@@ -1,0 +1,26 @@
+1	She	_	PRON	PRON	_	2	nsubj
+2	explained	_	VERB	VERB	_	0	root
+3	that	_	SCONJ	SCONJ	_	7	mark
+4	because	_	ADP	ADP	_	2	compound:prt
+5	she	_	PRON	PRON	_	7	nsubj
+6	had	_	AUX	AUX	_	7	aux
+7	adopted	_	VERB	VERB	_	2	ccomp
+8	her	_	PRON	PRON	_	9	nmod:poss
+9	son	_	NOUN	NOUN	_	7	dobj
+10	Maddox	_	PROPN	PROPN	_	9	appos
+11	,	_	PUNCT	PUNCT	_	15	punct
+12	she	_	PRON	PRON	_	15	nsubj
+13	did	_	AUX	AUX	_	15	aux
+14	not	_	ADV	ADV	_	15	neg
+15	think	_	VERB	VERB	_	2	ccomp
+16	it	_	PRON	PRON	_	20	nsubj
+17	was	_	VERB	VERB	_	15	ccomp
+18	healthy	_	ADJ	ADJ	_	0	conj
+19	for	_	ADP	ADP	_	17	compound:prt
+20	her	_	PRON	PRON	_	24	nmod:poss
+21	to	_	PART	PART	_	22	mark
+22	associate	_	VERB	VERB	_	17	csubj
+23	with	_	ADP	ADP	_	22	compound:prt
+24	Voight	_	NOUN	NOUN	_	22	dobj
+25	.	_	PUNCT	PUNCT	_	2	punct
+

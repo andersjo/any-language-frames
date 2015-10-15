@@ -1,0 +1,10 @@
+1	Заклинанието	_	NOUN	NOUN	_	5	nsubj
+2	за	_	ADP	ADP	_	4	case
+3	този	_	DET	DET	_	4	det
+4	символ	_	NOUN	NOUN	_	1	nmod
+5	е	_	VERB	VERB	_	0	root
+6	"	_	PUNCT	PUNCT	_	7	punct
+7	Морсмордре	_	PROPN	PROPN	_	5	cop
+8	"	_	PUNCT	PUNCT	_	7	punct
+9	.	_	PUNCT	PUNCT	_	5	punct
+

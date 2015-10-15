@@ -1,0 +1,24 @@
+1	Diese	_	PRON	PRON	_	2	det
+2	Tendenz	_	NOUN	NOUN	_	3	nsubj
+3	setzte	_	VERB	VERB	_	0	root
+4	sich	_	PRON	PRON	_	3	dobj
+5	in	_	ADP	ADP	_	8	case
+6	den	_	DET	DET	_	8	det
+7	nächsten	_	ADJ	ADJ	_	8	amod
+8	Jahren	_	NOUN	NOUN	_	3	nmod
+9	fort	_	ADV	ADV	_	3	mark
+10	,	_	PUNCT	PUNCT	_	3	punct
+11	wobei	_	SCONJ	SCONJ	_	22	mark
+12	es	_	PRON	PRON	_	22	nsubj
+13	durch	_	ADP	ADP	_	16	case
+14	den	_	DET	DET	_	16	det
+15	Ersten	_	PROPN	PROPN	_	16	amod
+16	Weltkrieg	_	PROPN	PROPN	_	22	nmod
+17	zu	_	ADP	ADP	_	19	case
+18	einer	_	DET	DET	_	19	det
+19	Veränderung	_	NOUN	NOUN	_	22	nmod
+20	des	_	DET	DET	_	21	det
+21	Themas	_	NOUN	NOUN	_	19	det
+22	kam	_	VERB	VERB	_	3	advcl
+23	.	_	PUNCT	PUNCT	_	3	punct
+

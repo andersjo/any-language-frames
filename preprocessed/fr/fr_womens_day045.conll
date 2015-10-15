@@ -1,0 +1,19 @@
+1	Les	_	DET	DET	_	2	det
+2	personnes	_	NOUN	NOUN	_	11	nsubj
+3	qui	_	PRON	PRON	_	4	nsubj
+4	disparaissent	_	VERB	VERB	_	2	acl:relcl
+5	dans	_	ADP	ADP	_	7	case
+6	le	_	DET	DET	_	7	det
+7	cadre	_	NOUN	NOUN	_	4	nmod
+8	d’un	_	ADJ	ADJ	_	7	amod
+9	conflit	_	NOUN	NOUN	_	7	nmod
+10	armé	_	ADJ	ADJ	_	9	amod
+11	sont	_	VERB	VERB	_	15	cop
+12	dans	_	ADP	ADP	_	15	case
+13	leur	_	DET	DET	_	15	nmod:poss
+14	grande	_	ADJ	ADJ	_	15	amod
+15	majorité	_	NOUN	NOUN	_	0	root
+16	des	_	ADP	ADP	_	17	case
+17	hommes	_	NOUN	NOUN	_	15	nmod
+18	.	_	PUNCT	PUNCT	_	4	punct
+

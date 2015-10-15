@@ -1,0 +1,16 @@
+1	Nel	_	ADP	ADP	_	2	case
+2	2006-2007	_	NUM	NUM	_	3	nummod
+3	batte	_	VERB	VERB	_	0	root
+4	il	_	DET	DET	_	6	det
+5	proprio	_	DET	DET	_	6	det:poss
+6	primato	_	NOUN	NOUN	_	3	dobj
+7	personale	_	ADJ	ADJ	_	6	amod
+8	di	_	ADP	ADP	_	9	case
+9	gol	_	NOUN	NOUN	_	6	nmod
+10	in	_	ADP	ADP	_	11	case
+11	campionato	_	NOUN	NOUN	_	9	nmod
+12	realizzando	_	VERB	VERB	_	3	advcl
+13	17	_	NUM	NUM	_	14	nummod
+14	reti	_	NOUN	NOUN	_	12	dobj
+15	.	_	PUNCT	PUNCT	_	3	punct
+

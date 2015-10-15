@@ -1,0 +1,16 @@
+1	Den	_	DET	DET	_	3	det
+2	größten	_	ADJ	ADJ	_	3	amod
+3	Teil	_	NOUN	NOUN	_	6	nsubj
+4	der	_	DET	DET	_	5	det
+5	Einnahmen	_	NOUN	NOUN	_	3	det
+6	nahmen	_	VERB	VERB	_	0	root
+7	dabei	_	ADV	ADV	_	6	advmod
+8	die	_	DET	DET	_	9	det
+9	Werbedienste	_	NOUN	NOUN	_	6	dobj
+10	mit	_	ADP	ADP	_	12	case
+11	28,236	_	NUM	NUM	_	12	nummod
+12	Milliarden	_	NOUN	NOUN	_	9	nmod
+13	US-Dollar	_	PROPN	PROPN	_	12	appos
+14	ein	_	ADV	ADV	_	6	mark
+15	.	_	PUNCT	PUNCT	_	6	punct
+

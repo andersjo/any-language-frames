@@ -1,0 +1,12 @@
+1	Har	_	AUX	AUX	_	10	aux
+2	lätt	_	ADV	ADV	_	3	advmod
+3	snyggaste	_	ADJ	ADJ	_	4	amod
+4	förvaringen	_	NOUN	NOUN	_	10	nmod
+5	till	_	ADP	ADP	_	7	case
+6	mina	_	DET	DET	_	7	nmod:poss
+7	Harry	_	NOUN	NOUN	_	8	nmod:poss
+8	Potter	_	NOUN	NOUN	_	9	nmod:poss
+9	böcker	_	NOUN	NOUN	_	10	nmod
+10	😍👌	_	VERB	VERB	_	0	root
+11	http://t.co/NCvFXp4hiw	_	NOUN	NOUN	_	10	dobj
+

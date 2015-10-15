@@ -1,0 +1,23 @@
+1	Han	_	PRON	PRON	_	2	nsubj
+2	scorede	_	VERB	VERB	_	0	root
+3	sit	_	DET	DET	_	5	det
+4	første	_	ADJ	ADJ	_	5	amod
+5	mål	_	NOUN	NOUN	_	2	dobj
+6	for	_	ADP	ADP	_	7	case
+7	Manchester	_	PROPN	PROPN	_	5	nmod
+8	United	_	NOUN	NOUN	_	7	dep
+9	på	_	ADP	ADP	_	11	case
+10	et	_	DET	DET	_	11	det
+11	frispark	_	NOUN	NOUN	_	8	nmod
+12	i	_	ADP	ADP	_	14	case
+13	en	_	DET	DET	_	14	det
+14	3-0-sejr	_	NOUN	NOUN	_	11	nmod
+15	over	_	ADP	ADP	_	16	case
+16	Portsmouth	_	PROPN	PROPN	_	14	nmod
+17	den	_	DET	DET	_	20	det
+18	1	_	NUM	NUM	_	20	nummod
+19	.	_	PUNCT	PUNCT	_	2	punct
+20	november	_	NOUN	NOUN	_	16	list
+21	2003	_	NUM	NUM	_	20	nmod
+22	.	_	PUNCT	PUNCT	_	2	punct
+

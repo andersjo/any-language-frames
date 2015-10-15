@@ -1,0 +1,24 @@
+1	Han	_	PRON	PRON	_	2	nsubj
+2	fik	_	VERB	VERB	_	0	root
+3	også	_	ADV	ADV	_	2	advmod
+4	the	_	X	X	_	2	dobj
+5	Silver	_	NOUN	NOUN	_	2	dobj
+6	Ball	_	PROPN	PROPN	_	2	nmod
+7	,	_	PUNCT	PUNCT	_	8	punct
+8	efter	_	ADV	ADV	_	2	advmod
+9	at	_	SCONJ	SCONJ	_	12	mark
+10	United	_	NOUN	NOUN	_	12	nsubj
+11	havde	_	AUX	AUX	_	12	aux
+12	vundet	_	VERB	VERB	_	8	dep
+13	Club	_	PROPN	PROPN	_	15	nmod:poss
+14	World	_	PROPN	PROPN	_	13	name
+15	Cup	_	NOUN	NOUN	_	12	dobj
+16	med	_	ADP	ADP	_	18	case
+17	to	_	NUM	NUM	_	18	nummod
+18	mål	_	NOUN	NOUN	_	15	nmod
+19	den	_	DET	DET	_	22	det
+20	19	_	NUM	NUM	_	22	nummod
+21	.	_	PUNCT	PUNCT	_	2	punct
+22	december	_	NOUN	NOUN	_	12	dep
+23	.	_	PUNCT	PUNCT	_	2	punct
+

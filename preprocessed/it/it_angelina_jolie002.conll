@@ -1,0 +1,23 @@
+1	Nel	_	ADP	ADP	_	2	case
+2	2000	_	NUM	NUM	_	3	nummod
+3	vince	_	VERB	VERB	_	0	root
+4	l'Oscar	_	PROPN	PROPN	_	3	dobj
+5	come	_	ADP	ADP	_	7	case
+6	migliore	_	ADJ	ADJ	_	7	amod
+7	attrice	_	NOUN	NOUN	_	3	nmod
+8	non	_	ADV	ADV	_	9	neg
+9	protagonista	_	NOUN	NOUN	_	7	nmod
+10	per	_	ADP	ADP	_	13	case
+11	la	_	DET	DET	_	13	det
+12	sua	_	DET	DET	_	13	det:poss
+13	interpretazione	_	NOUN	NOUN	_	9	nmod
+14	in	_	ADP	ADP	_	16	case
+15	"	_	PUNCT	PUNCT	_	16	punct
+16	Ragazze	_	NOUN	NOUN	_	13	nmod
+17	interrotte	_	ADJ	ADJ	_	16	amod
+18	"	_	PUNCT	PUNCT	_	16	punct
+19	(	_	PUNCT	PUNCT	_	20	punct
+20	1999	_	NUM	NUM	_	16	nummod
+21	)	_	PUNCT	PUNCT	_	20	punct
+22	.	_	PUNCT	PUNCT	_	3	punct
+

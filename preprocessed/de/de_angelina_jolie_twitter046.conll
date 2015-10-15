@@ -1,0 +1,18 @@
+1	#AngelinaJolie	_	PROPN	PROPN	_	3	name
+2	#Fans	_	PROPN	PROPN	_	3	name
+3	VOGUE	_	PROPN	PROPN	_	4	det
+4	MAGAZINE	_	NOUN	NOUN	_	17	nmod
+5	Angelina	_	PROPN	PROPN	_	6	name
+6	Jolie	_	PROPN	PROPN	_	4	appos
+7	in	_	ADP	ADP	_	9	case
+8	Bill	_	PROPN	PROPN	_	9	det
+9	Blass	_	NOUN	NOUN	_	11	cc
+10	Dress	_	PROPN	PROPN	_	11	name
+11	14pg	_	PROPN	PROPN	_	12	name
+12	Annie	_	PROPN	PROPN	_	13	name
+13	Leibovitz	_	PROPN	PROPN	_	15	name
+14	…	_	PROPN	PROPN	_	15	name
+15	http://t.co/EaE6GXUKKA	_	PROPN	PROPN	_	16	name
+16	#Collectibles	_	NOUN	NOUN	_	17	nmod
+17	#Sale	_	ADJ	ADJ	_	0	root
+

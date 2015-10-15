@@ -1,0 +1,26 @@
+1	@dmtrpls	_	NOUN	NOUN	_	17	dobj
+2	@menacius	_	NOUN	NOUN	_	1	nmod
+3	@Cranky_dD	_	NOUN	NOUN	_	2	nmod
+4	α)	_	NOUN	NOUN	_	3	nmod
+5	θα	_	PART	PART	_	7	aux
+6	το	_	PRON	PRON	_	7	dobj
+7	πληρώσουν	_	VERB	VERB	_	0	root
+8	β)	_	NOUN	NOUN	_	7	dobj
+9	θα	_	PART	PART	_	11	aux
+10	το	_	ADJ	ADJ	_	11	det
+11	χρωστάνε	_	NOUN	NOUN	_	8	nmod
+12	στη	_	ADP	ADP	_	14	case
+13	διαφημιστική	_	ADJ	ADJ	_	14	amod
+14	γ)	_	NOUN	NOUN	_	11	nmod
+15	θα	_	PART	PART	_	17	aux
+16	τους	_	PRON	PRON	_	17	iobj
+17	κυνηγάει	_	VERB	VERB	_	11	acl:relcl
+18	η	_	ADJ	ADJ	_	19	det
+19	Google	_	NOUN	NOUN	_	17	nsubj
+20	.	_	PUNCT	PUNCT	_	7	punct
+21	Το	_	ADJ	ADJ	_	22	det
+22	ίδιο	_	ADJ	ADJ	_	24	nsubj
+23	μου	_	PRON	PRON	_	24	dobj
+24	κάνει	_	VERB	VERB	_	19	acl:relcl
+25	.	_	PUNCT	PUNCT	_	7	punct
+

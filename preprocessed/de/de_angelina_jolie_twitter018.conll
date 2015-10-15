@@ -1,0 +1,12 @@
+1	FllowM	_	PROPN	PROPN	_	2	name
+2	@MarioEnteime	_	PROPN	PROPN	_	3	name
+3	Vieja	_	PROPN	PROPN	_	0	root
+4	imagen	_	PROPN	PROPN	_	5	name
+5	desnuda	_	PROPN	PROPN	_	3	amod
+6	de	_	PROPN	PROPN	_	8	case
+7	Angelina	_	PROPN	PROPN	_	5	nmod
+8	Jolie	_	PROPN	PROPN	_	5	nmod
+9	:	_	PUNCT	PUNCT	_	8	punct
+10	FllowM	_	PROPN	PROPN	_	11	name
+11	@MarioEnteime	_	PROPN	PROPN	_	8	appos
+

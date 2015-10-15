@@ -1,0 +1,15 @@
+1	На	_	ADP	ADP	_	3	case
+2	Световното	_	ADJ	ADJ	_	3	amod
+3	първенство	_	NOUN	NOUN	_	7	nmod
+4	в	_	ADP	ADP	_	5	case
+5	Германия	_	PROPN	PROPN	_	3	nmod
+6	Португалия	_	PROPN	PROPN	_	5	name
+7	стига	_	VERB	VERB	_	0	root
+8	до	_	ADP	ADP	_	9	case
+9	полуфинал	_	NOUN	NOUN	_	7	iobj
+10	,	_	PUNCT	PUNCT	_	12	punct
+11	където	_	ADV	ADV	_	12	advmod
+12	отпада	_	VERB	VERB	_	7	advcl
+13	от	_	ADP	ADP	_	12	nmod
+14	.	_	PUNCT	PUNCT	_	7	punct
+

@@ -1,0 +1,19 @@
+1	Хубава	_	ADJ	ADJ	_	2	amod
+2	прогноза	_	NOUN	NOUN	_	3	nsubj
+3	можеше	_	VERB	VERB	_	0	root
+4	и	_	CONJ	CONJ	_	3	cc
+5	още	_	ADV	ADV	_	7	advmod
+6	да	_	PART	PART	_	7	aux
+7	извлечеш	_	VERB	VERB	_	3	ccomp
+8	от	_	ADP	ADP	_	9	case
+9	късите	_	NOUN	NOUN	_	7	iobj
+10	,	_	PUNCT	PUNCT	_	11	punct
+11	но	_	CONJ	CONJ	_	3	cc
+12	важното	_	ADJ	ADJ	_	13	cop
+13	е	_	VERB	VERB	_	3	conj
+14	че	_	SCONJ	SCONJ	_	16	mark
+15	си	_	PRON	PRON	_	16	expl
+16	спечелил	_	VERB	VERB	_	13	csubj
+17	.	_	PUNCT	PUNCT	_	3	punct
+18	https://t.co/pVabsJkeD0	_	PROPN	PROPN	_	16	dobj
+

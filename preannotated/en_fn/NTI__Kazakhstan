@@ -1,0 +1,618 @@
+Introduction	_	
+
+Kazakhstan	_	
+inherited	_	
+nuclear-tipped	_	
+missiles	_	Weapon
+,	_	
+a	_	Measure_duration Process_end Quantity
+nuclear	_	Bearing_arms Nuclear_process Weapon
+weapon	_	Weapon
+test	_	Examination Operational_testing
+site	_	Locale Locale_by_event Locale_by_use
+,	_	
+and	_	
+biological	_	Weapon
+and	_	
+chemical	_	Substance Weapon
+weapon	_	Weapon
+production	_	Creating Intentionally_create Manufacturing
+facilities	_	Locale_by_use
+when	_	Temporal_collocation
+the	_	Self_motion Temporal_collocation
+Soviet	_	
+Union	_	Organization
+collapsed	_	
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+its	_	
+first	_	First_experience Ordinal_numbers
+decade	_	Calendric_unit Measure_duration
+of	_	Age Domain Origin Partitive
+independence	_	Change_of_leadership Contingency
+,	_	
+Kazakhstan	_	
+dismantled	_	Destroying
+and	_	
+destroyed	_	Destroying Killing
+Soviet	_	
+weapons	_	Weapon
+systems	_	Gizmo System
+and	_	
+facilities	_	Locale_by_use
+left	_	Causation Change_direction Departing Direction Left_to_do Part_orientational People_along_political_spectrum Remainder
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+its	_	
+territory	_	Political_locales
+and	_	
+signed	_	Sign_agreement
+several	_	Quantity
+international	_	Foreign_or_domestic_country Political_locales
+nonproliferation	_	Proliferating_in_number
+treaties	_	Be_in_agreement_on_action Documents
+.	_	
+
+Nuclear	_	Bearing_arms Nuclear_process Weapon
+
+When	_	Temporal_collocation
+the	_	Self_motion Temporal_collocation
+Soviet	_	
+Union	_	Organization
+collapsed	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+December	_	Calendric_unit
+1991	_	
+,	_	
+Kazakhstan	_	
+inherited	_	
+1,410	_	
+nuclear	_	Bearing_arms Nuclear_process Weapon
+warheads	_	Weapon
+and	_	
+the	_	Self_motion Temporal_collocation
+Semipalatinsk	_	
+nuclear	_	Bearing_arms Nuclear_process Weapon
+weapon	_	Weapon
+test	_	Examination Operational_testing
+site	_	Locale Locale_by_event Locale_by_use
+.	_	
+
+Kazakhstan	_	
+transferred	_	Transfer
+all	_	Quantity
+of	_	Age Domain Origin Partitive
+these	_	
+nuclear	_	Bearing_arms Nuclear_process Weapon
+warheads	_	Weapon
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Russia	_	
+by	_	Locative_relation Means
+April	_	Calendric_unit
+1995	_	
+and	_	
+destroyed	_	Destroying Killing
+the	_	Self_motion Temporal_collocation
+nuclear	_	Bearing_arms Nuclear_process Weapon
+testing	_	Operational_testing
+infrastructure	_	Infrastructure
+at	_	Locative_relation Relational_quantity Temporal_collocation
+Semipalatinsk	_	
+by	_	Locative_relation Means
+July	_	Calendric_unit
+2000	_	
+.	_	
+
+Weapons-grade	_	
+nuclear	_	Bearing_arms Nuclear_process Weapon
+material	_	Ingredients Substance Text
+remains	_	Existence Left_to_do Remainder State_continue
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Kazakhstan	_	
+,	_	
+however	_	Concessive
+,	_	
+including	_	Inclusion
+three	_	Cardinal_numbers
+metric	_	
+tons	_	Measure_mass
+of	_	Age Domain Origin Partitive
+plutonium	_	Substance
+at	_	Locative_relation Relational_quantity Temporal_collocation
+a	_	Measure_duration Process_end Quantity
+shutdown	_	
+breeder	_	
+reactor	_	Locale_by_use
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+western	_	Part_orientational
+Kazakhstan	_	
+and	_	
+small	_	Dimension Size
+amounts	_	Quantity
+of	_	Age Domain Origin Partitive
+highly	_	
+enriched	_	Degree_of_processing Processing_materials
+uranium	_	Substance
+(	_	
+HEU	_	
+)	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+two	_	Cardinal_numbers
+nuclear	_	Bearing_arms Nuclear_process Weapon
+research	_	Research
+institutes	_	
+.	_	
+
+Approximately	_	Relational_quantity
+600	_	
+kilograms	_	Measure_mass
+of	_	Age Domain Origin Partitive
+weapons-grade	_	
+HEU	_	
+was	_	Existence
+removed	_	Removing
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+United	_	
+States	_	Political_locales Statement
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+Ulba	_	
+Metallurgy	_	
+Plant	_	Locale_by_use Placing Planting
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1994	_	
+under	_	Locative_relation Relational_quantity
+a	_	Measure_duration Process_end Quantity
+joint	_	Prison
+U.S.	_	
+-	_	
+Kazakhstani	_	
+operation	_	Businesses Using
+known	_	Awareness Being_named
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+Project	_	Project
+Sapphire	_	
+.	_	
+
+Kazakhstan	_	
+is	_	Existence
+a	_	Measure_duration Process_end Quantity
+party	_	Aggregate Participation Social_event
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+START-I	_	
+,	_	
+the	_	Self_motion Temporal_collocation
+Nuclear	_	Bearing_arms Nuclear_process Weapon
+Non-Proliferation	_	Proliferating_in_number
+Treaty	_	Be_in_agreement_on_action Documents Make_agreement_on_action
+(	_	
+NPT	_	
+)	_	
+,	_	
+and	_	
+the	_	Self_motion Temporal_collocation
+Comprehensive	_	
+Test	_	Examination Operational_testing
+Ban	_	Prohibiting
+Treaty	_	Be_in_agreement_on_action Documents Make_agreement_on_action
+(	_	
+CTBT	_	
+)	_	
+.	_	
+
+Biological	_	Weapon
+
+Kazakhstan	_	
+has	_	Have_associated Inclusion Possession
+not	_	
+declared	_	Statement
+an	_	Cause_to_end Process_end Quantity
+official	_	Leadership
+policy	_	Law
+against	_	Locative_relation Taking_sides
+biological	_	Weapon
+weapons	_	Weapon
+(	_	
+BW	_	Hostile_encounter Weapon
+)	_	
+.	_	
+
+It	_	
+has	_	Have_associated Inclusion Possession
+not	_	
+signed	_	Sign_agreement
+the	_	Self_motion Temporal_collocation
+Biological	_	Weapon
+Toxin	_	Toxic_substance
+and	_	
+Weapons	_	Weapon
+Convention	_	Be_in_agreement_on_action Custom
+(	_	
+BWC	_	
+)	_	
+nor	_	
+is	_	Existence
+it	_	
+a	_	Measure_duration Process_end Quantity
+member	_	Membership Observable_body_parts
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Australia	_	
+Group	_	Aggregate Organization
+.	_	
+
+Kazakhstani	_	
+President	_	Leadership
+Nazarbayev	_	
+,	_	
+however	_	Concessive
+,	_	
+has	_	Have_associated Inclusion Possession
+declared	_	Statement
+Kazakhstan	_	
+'s	_	Existence Required_event
+commitment	_	Commitment Institutionalization
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+the	_	Self_motion Temporal_collocation
+nonproliferation	_	Proliferating_in_number
+of	_	Age Domain Origin Partitive
+BW	_	Hostile_encounter Weapon
+and	_	
+associated	_	Cognitive_connection Membership
+technologies	_	Artifact
+.	_	
+
+In	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1993	_	
+,	_	
+Kazakhstan	_	
+created	_	Cause_to_start Creating Intentionally_create
+a	_	Measure_duration Process_end Quantity
+civilian	_	
+body	_	Aggregate Observable_body_parts
+,	_	
+the	_	Self_motion Temporal_collocation
+National	_	Origin People_by_jurisdiction Political_locales
+Center	_	Locale_by_use Part_inner_outer
+for	_	Causation Taking_sides
+Biotechnology	_	Artifact
+,	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+oversee	_	
+the	_	Self_motion Temporal_collocation
+administration	_	Leadership
+of	_	Age Domain Origin Partitive
+most	_	Relational_quantity
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+former	_	Time_vector
+BW	_	Hostile_encounter Weapon
+facilities	_	Locale_by_use
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Kazakhstan	_	
+.	_	
+
+These	_	
+facilities	_	Locale_by_use
+include	_	Cause_to_be_included Inclusion
+the	_	Self_motion Temporal_collocation
+following	_	Relative_time
+:	_	
+Biomedpreparat	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+large-scale	_	
+anthrax	_	
+production	_	Creating Intentionally_create Manufacturing
+facility	_	Locale_by_use
+located	_	Being_located
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Stepnogorsk	_	
+;	_	
+the	_	Self_motion Temporal_collocation
+Scientific	_	
+Research	_	Research
+Agricultural	_	
+Institute	_	Execute_plan Locale_by_use
+(	_	
+SRAI	_	
+)	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+Otar	_	
+,	_	
+which	_	
+specializes	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+anti-crop	_	
+and	_	
+anti-livestock	_	
+diseases	_	Medical_conditions
+;	_	
+and	_	
+Biokombinat	_	
+,	_	
+a	_	Measure_duration Process_end Quantity
+small	_	Dimension Size
+mobilization	_	
+production	_	Creating Intentionally_create Manufacturing
+facility	_	Locale_by_use
+located	_	Being_located
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Almaty	_	
+,	_	
+now	_	Temporal_collocation
+producing	_	Creating Intentionally_create Manufacturing
+vaccines	_	
+.	_	
+
+The	_	Self_motion Temporal_collocation
+Scientific	_	
+Center	_	Locale_by_use Part_inner_outer
+for	_	Causation Taking_sides
+Quarantine	_	
+and	_	
+Zoonotic	_	
+Infections	_	Medical_conditions
+(	_	
+SCQZI	_	
+)	_	
+(	_	
+formerly	_	Time_vector
+known	_	Awareness Being_named
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+the	_	Self_motion Temporal_collocation
+Anti-Plague	_	
+Institute	_	Execute_plan Locale_by_use
+)	_	
+was	_	Existence
+also	_	
+involved	_	Participation
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+Soviet	_	
+BW	_	Hostile_encounter Weapon
+system	_	Gizmo Set_of_interrelated_entities System
+and	_	
+is	_	Existence
+now	_	Temporal_collocation
+under	_	Locative_relation Relational_quantity
+the	_	Self_motion Temporal_collocation
+jurisdiction	_	Political_locales
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+Kazakhstani	_	
+Ministry	_	
+of	_	Age Domain Origin Partitive
+Health	_	Medical_conditions
+.	_	
+
+Both	_	Quantity
+SCQZI	_	
+and	_	
+SRAI	_	
+house	_	Buildings Containing Provide_lodging
+extensive	_	
+collections	_	Aggregate
+of	_	Age Domain Origin Partitive
+virulent	_	
+strains	_	Type
+.	_	
+
+Under	_	Locative_relation Relational_quantity
+Cooperative	_	
+Threat	_	Commitment Risky_situation
+Reduction	_	Cause_change_of_position_on_a_scale Cause_expansion
+(	_	
+CTR	_	
+)	_	
+programs	_	Project
+,	_	
+Biomedpreparat	_	
+has	_	Have_associated Inclusion Possession
+been	_	Existence
+dismantled	_	Destroying
+and	_	
+safety	_	Being_at_risk
+and	_	
+security	_	Being_at_risk
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+been	_	Existence
+upgraded	_	
+at	_	Locative_relation Relational_quantity Temporal_collocation
+SCQZI	_	
+and	_	
+SRAI	_	
+.	_	
+
+Chemical	_	Substance Weapon
+
+Kazakhstan	_	
+inherited	_	
+one	_	Cardinal_numbers
+known	_	Awareness Being_named
+chemical	_	Substance Weapon
+weapons	_	Weapon
+(	_	
+CW	_	Hostile_encounter Weapon
+)	_	
+production	_	Creating Intentionally_create Manufacturing
+plant	_	Locale_by_use Placing Planting
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+city	_	Locale_by_use Political_locales
+of	_	Age Domain Origin Partitive
+Pavlodar	_	
+.	_	
+
+This	_	
+plant	_	Locale_by_use Placing Planting
+probably	_	Likelihood
+was	_	Existence
+designed	_	Coming_up_with
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+replace	_	Replacing Take_place_of
+aging	_	Aging
+plants	_	Locale_by_use
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Volgograd	_	
+and	_	
+Novocheboksarsk	_	
+(	_	
+Russia	_	
+)	_	
+for	_	Causation Taking_sides
+the	_	Self_motion Temporal_collocation
+production	_	Creating Intentionally_create Manufacturing
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+binary	_	
+agent	_	Active_substance Intentionally_act People_by_vocation
+``	_	
+novichok	_	
+.''	_	
+
+The	_	Self_motion Temporal_collocation
+plant	_	Locale_by_use Placing Planting
+'s	_	Existence Required_event
+construction	_	Building
+was	_	Existence
+halted	_	Activity_stop
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+1987	_	
+,	_	
+after	_	Relative_time Time_vector
+the	_	Self_motion Temporal_collocation
+Soviet	_	
+Union	_	Organization
+became	_	Becoming
+involved	_	Participation
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+Chemical	_	Substance Weapon
+Weapons	_	Weapon
+Convention	_	Be_in_agreement_on_action Custom
+(	_	
+CWC	_	
+)	_	
+-related	_	Cognitive_connection
+negotiations	_	Discussion
+,	_	
+so	_	Causation Degree Sufficiency
+it	_	
+never	_	Frequency
+produced	_	Creating Intentionally_create Manufacturing
+any	_	Quantity
+CW	_	Hostile_encounter Weapon
+agents	_	Active_substance People_by_vocation
+.	_	
+
+Kazakhstan	_	
+joined	_	Becoming_a_member
+the	_	Self_motion Temporal_collocation
+CWC	_	
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+March	_	Calendric_unit Self_motion
+2000	_	
+.	_	
+
+However	_	Concessive
+,	_	
+Kazakhstan	_	
+produced	_	Creating Intentionally_create Manufacturing
+a	_	Measure_duration Process_end Quantity
+nil	_	
+declaration	_	Statement
+,	_	
+leaving	_	Departing Giving
+out	_	Departing Expected_location_of_person Intentionally_act Locative_relation Sleep Surviving
+the	_	Self_motion Temporal_collocation
+Pavlodar	_	
+facility	_	Locale_by_use
+.	_	
+
+Missile	_	Weapon
+
+Kazakhstan	_	
+inherited	_	
+104	_	
+SS-18	_	
+intercontinental	_	Range
+ballistic	_	Weapon
+missiles	_	Weapon
+(	_	
+ICBMs	_	
+)	_	
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+Soviet	_	
+missile	_	Weapon
+complex	_	Locale_by_use System
+.	_	
+
+All	_	Quantity
+ICBMs	_	
+were	_	Existence
+transferred	_	Transfer
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+Russia	_	
+for	_	Causation Taking_sides
+dismantlement	_	Destroying
+by	_	Locative_relation Means
+September	_	Calendric_unit
+1996	_	
+and	_	
+missile	_	Weapon
+silos	_	Locale_by_use
+and	_	
+silo	_	Locale_by_use
+structures	_	Buildings
+were	_	Existence
+destroyed	_	Destroying Killing
+under	_	Locative_relation Relational_quantity
+the	_	Self_motion Temporal_collocation
+U.S.	_	
+Department	_	
+of	_	Age Domain Origin Partitive
+Defense	_	Defend
+Cooperative	_	
+Threat	_	Commitment Risky_situation
+Reduction	_	Cause_change_of_position_on_a_scale Cause_expansion
+(	_	
+CTR	_	
+)	_	
+program	_	Project
+by	_	Locative_relation Means
+September	_	Calendric_unit
+1999	_	
+.	_	
+
+Gidromash	_	
+,	_	
+an	_	Cause_to_end Process_end Quantity
+Almaty	_	
+-based	_	
+Soviet-era	_	
+producer	_	Behind_the_scenes Manufacturing
+of	_	Age Domain Origin Partitive
+submarine-launched	_	
+missiles	_	Weapon
+,	_	
+was	_	Existence
+converted	_	Cause_change
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+a	_	Measure_duration Process_end Quantity
+civilian	_	
+commercial	_	
+enterprise	_	
+under	_	Locative_relation Relational_quantity
+CTR	_	
+'s	_	Existence Required_event
+Industrial	_	Fields Manufacturing
+Partnerships	_	
+Program	_	Project
+.	_	
+
+Updated	_	
+April	_	Calendric_unit
+2004	_	
+

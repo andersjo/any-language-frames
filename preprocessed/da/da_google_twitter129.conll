@@ -1,0 +1,12 @@
+1	@BoMoellerDK	_	ADJ	ADJ	_	2	amod
+2	@JacobMouritzen	_	NOUN	NOUN	_	3	dep
+3	@Lemberg	_	PROPN	PROPN	_	5	nmod:poss
+4	@SandieWesth	_	PROPN	PROPN	_	3	name
+5	Google	_	NOUN	NOUN	_	8	nsubj
+6	er	_	AUX	AUX	_	8	cop
+7	din	_	DET	DET	_	8	det
+8	ven	_	NOUN	NOUN	_	0	root
+9	;)	_	X	X	_	8	dep
+10	en	_	DET	DET	_	11	det
+11	reality-deltager	_	NOUN	NOUN	_	9	dobj
+

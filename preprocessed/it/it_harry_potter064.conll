@@ -1,0 +1,20 @@
+1	Durante	_	ADP	ADP	_	3	case
+2	lo	_	DET	DET	_	3	det
+3	scontro	_	NOUN	NOUN	_	5	nmod
+4	Sirius	_	PROPN	PROPN	_	3	nmod
+5	perde	_	VERB	VERB	_	0	root
+6	la	_	DET	DET	_	7	det
+7	vita	_	NOUN	NOUN	_	5	dobj
+8	,	_	PUNCT	PUNCT	_	5	punct
+9	facendo	_	VERB	VERB	_	5	advcl
+10	perdere	_	VERB	VERB	_	9	ccomp
+11	a	_	ADP	ADP	_	12	case
+12	Harry	_	PROPN	PROPN	_	10	nmod
+13	la	_	DET	DET	_	14	det
+14	persona	_	NOUN	NOUN	_	10	dobj
+15	a	_	ADP	ADP	_	16	case
+16	lui	_	PRON	PRON	_	18	nmod
+17	più	_	ADV	ADV	_	18	advmod
+18	cara	_	ADJ	ADJ	_	14	amod
+19	.	_	PUNCT	PUNCT	_	5	punct
+

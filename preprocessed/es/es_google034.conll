@@ -1,0 +1,14 @@
+1	También	_	ADV	ADV	_	2	advmod
+2	lanzó	_	VERB	VERB	_	0	root
+3	Google	_	PROPN	PROPN	_	4	name
+4	Code	_	PROPN	PROPN	_	2	nsubj
+5	y	_	CONJ	CONJ	_	2	cc
+6	se	_	PRON	PRON	_	7	iobj
+7	desarrolla	_	VERB	VERB	_	2	conj
+8	el	_	DET	DET	_	10	det
+9	primer	_	NUM	NUM	_	10	nummod
+10	Summer	_	PROPN	PROPN	_	7	nsubj
+11	of	_	PROPN	PROPN	_	12	name
+12	Code	_	PROPN	PROPN	_	10	nmod
+13	.	_	PUNCT	PUNCT	_	2	punct
+

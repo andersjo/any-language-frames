@@ -1,0 +1,18 @@
+1	L'undicenne	_	PROPN	PROPN	_	3	nsubj
+2	Harry	_	PROPN	PROPN	_	1	name
+3	scopre	_	VERB	VERB	_	0	root
+4	così	_	ADV	ADV	_	3	advmod
+5	di	_	ADP	ADP	_	6	mark
+6	aver	_	VERB	VERB	_	3	xcomp
+7	diritto	_	NOUN	NOUN	_	6	dobj
+8	a	_	ADP	ADP	_	9	mark
+9	frequentare	_	VERB	VERB	_	7	acl
+10	Hogwarts	_	PROPN	PROPN	_	9	dobj
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	scuola	_	NOUN	NOUN	_	10	appos
+13	di	_	ADP	ADP	_	14	case
+14	magia	_	NOUN	NOUN	_	12	nmod
+15	e	_	CONJ	CONJ	_	14	cc
+16	stregoneria	_	NOUN	NOUN	_	14	conj
+17	.	_	PUNCT	PUNCT	_	3	punct
+

@@ -1,0 +1,10 @@
+1	@EpicaMordax	_	VERB	VERB	_	6	advcl
+2	Ja	_	INTJ	INTJ	_	1	dobj
+3	du	_	PRON	PRON	_	6	nsubj
+4	,	_	PUNCT	PUNCT	_	6	punct
+5	google	_	NOUN	NOUN	_	6	nsubj
+6	slutar	_	VERB	VERB	_	0	root
+7	aldrig	_	ADV	ADV	_	6	advmod
+8	förvåna	_	ADJ	ADJ	_	9	amod
+9	;)	_	NOUN	NOUN	_	6	dobj
+

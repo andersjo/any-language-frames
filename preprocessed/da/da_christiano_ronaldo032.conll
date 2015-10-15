@@ -1,0 +1,13 @@
+1	Jeg	_	PRON	PRON	_	3	nsubjpass
+2	var	_	AUX	AUX	_	3	auxpass
+3	tvunget	_	VERB	VERB	_	0	root
+4	til	_	ADP	ADP	_	3	dep
+5	at	_	PART	PART	_	4	dep
+6	leve	_	VERB	VERB	_	5	dep
+7	op	_	ADV	ADV	_	6	advmod
+8	til	_	ADP	ADP	_	11	case
+9	en	_	DET	DET	_	11	det
+10	sådan	_	ADJ	ADJ	_	11	amod
+11	ære	_	NOUN	NOUN	_	7	nmod
+12	.	_	PUNCT	PUNCT	_	3	punct
+

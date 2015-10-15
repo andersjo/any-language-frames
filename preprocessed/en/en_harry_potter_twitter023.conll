@@ -1,0 +1,16 @@
+1	Lego	_	PROPN	PROPN	_	2	compound
+2	Harry	_	PROPN	PROPN	_	4	compound
+3	Potter	_	PROPN	PROPN	_	4	compound
+4	Hagrid	_	PROPN	PROPN	_	0	root
+5	Reddish	_	ADJ	ADJ	_	0	nmod:npmod
+6	Brown	_	PROPN	PROPN	_	8	compound
+7	Coat	_	PROPN	PROPN	_	8	compound
+8	Minifigure	_	PROPN	PROPN	_	4	appos
+9	4754	_	NUM	NUM	_	10	compound
+10	5378	_	NUM	NUM	_	11	nummod
+11	$2.55	_	PROPN	PROPN	_	12	compound
+12	Flat	_	PROPN	PROPN	_	13	compound
+13	Ship	_	PROPN	PROPN	_	8	appos
+14	-	_	PUNCT	PUNCT	_	15	punct
+15	http://t.co/RfGNPKPCjp	_	X	X	_	13	appos
+

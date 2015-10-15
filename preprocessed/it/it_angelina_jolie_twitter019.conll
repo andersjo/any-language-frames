@@ -1,0 +1,13 @@
+1	Essere	_	AUX	AUX	_	2	auxpass
+2	figa	_	VERB	VERB	_	0	root
+3	un	_	DET	DET	_	4	det
+4	milionesimo	_	NOUN	NOUN	_	2	nsubjpass
+5	di	_	ADP	ADP	_	6	case
+6	Angelina	_	PROPN	PROPN	_	4	nmod
+7	Jolie	_	PROPN	PROPN	_	6	name
+8	in	_	ADP	ADP	_	9	case
+9	#Maleficent	_	NOUN	NOUN	_	4	nmod
+10	mi	_	PRON	PRON	_	11	iobj
+11	basterebbe	_	VERB	VERB	_	4	acl:relcl
+12	.	_	PUNCT	PUNCT	_	2	punct
+

@@ -1,0 +1,21 @@
+1	Global	_	ADJ	ADJ	_	0	cc
+2	Warming	_	NOUN	NOUN	_	4	nsubj
+3	has	_	AUX	AUX	_	4	aux
+4	been	_	VERB	VERB	_	0	root
+5	and	_	CONJ	CONJ	_	4	cc
+6	will	_	AUX	AUX	_	11	aux
+7	always	_	ADV	ADV	_	8	advmod
+8	be	_	VERB	VERB	_	11	cop
+9	the	_	DET	DET	_	11	det
+10	biggest	_	ADJ	ADJ	_	0	foreign
+11	hoax	_	NOUN	NOUN	_	4	conj
+12	of	_	ADP	ADP	_	8	compound:prt
+13	all	_	DET	DET	_	14	det
+14	mankind	_	NOUN	NOUN	_	12	dobj
+15	.	_	PUNCT	PUNCT	_	11	punct
+16	It's	_	PRON	PRON	_	19	nmod:poss
+17	all	_	ADV	ADV	_	19	advmod
+18	about	_	ADP	ADP	_	19	compound
+19	$$$	_	NOUN	NOUN	_	11	conj
+20	.	_	PUNCT	PUNCT	_	8	punct
+

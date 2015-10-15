@@ -1,0 +1,18 @@
+1	Efter	_	ADP	ADP	_	2	case
+2	oktoberrevolutionen	_	NOUN	NOUN	_	3	nmod
+3	övertalade	_	VERB	VERB	_	0	root
+4	Alexandra	_	VERB	VERB	_	3	xcomp
+5	Kollontaj	_	NOUN	NOUN	_	6	nmod:poss
+6	Lenin	_	NOUN	NOUN	_	4	dobj
+7	att	_	PART	PART	_	8	mark
+8	göra	_	VERB	VERB	_	6	acl
+9	dagen	_	NOUN	NOUN	_	8	dobj
+10	till	_	ADP	ADP	_	13	case
+11	en	_	DET	DET	_	13	det
+12	allmän	_	ADJ	ADJ	_	13	amod
+13	helgdag	_	NOUN	NOUN	_	8	nmod
+14	i	_	ADP	ADP	_	16	case
+15	hela	_	ADJ	ADJ	_	16	det
+16	Sovjetunionen	_	PROPN	PROPN	_	13	nmod
+17	.	_	PUNCT	PUNCT	_	3	punct
+

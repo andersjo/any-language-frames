@@ -1,0 +1,22 @@
+1	Порано	_	PROPN	PROPN	_	2	nsubj
+2	мислев	_	VERB	VERB	_	0	root
+3	дека	_	ADJ	ADJ	_	4	amod
+4	малку	_	NOUN	NOUN	_	2	dobj
+5	сме	_	AUX	AUX	_	7	aux
+6	ние	_	PRON	PRON	_	7	nsubj
+7	шо	_	VERB	VERB	_	2	conj
+8	урламе	_	NOUN	NOUN	_	7	dobj
+9	на	_	ADP	ADP	_	10	case
+10	LOTR	_	PROPN	PROPN	_	8	nmod
+11	,	_	PUNCT	PUNCT	_	12	punct
+12	хобитот	_	ADJ	ADJ	_	8	amod
+13	и	_	CONJ	CONJ	_	10	cc
+14	Harry	_	PROPN	PROPN	_	10	conj
+15	Potter	_	PROPN	PROPN	_	14	name
+16	.	_	PUNCT	PUNCT	_	2	punct
+17	После	_	ADV	ADV	_	20	advmod
+18	тоа	_	ADV	ADV	_	20	advmod
+19	си	_	PRON	PRON	_	20	expl
+20	направив	_	VERB	VERB	_	2	conj
+21	твитер	_	NOUN	NOUN	_	20	dobj
+

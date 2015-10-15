@@ -1,0 +1,22 @@
+1	«	_	PUNCT	PUNCT	_	11	punct
+2	Si	_	SCONJ	SCONJ	_	7	mark
+3	votre	_	DET	DET	_	4	nmod:poss
+4	coeur	_	NOUN	NOUN	_	7	nsubj
+5	est	_	VERB	VERB	_	7	cop
+6	une	_	DET	DET	_	7	det
+7	rose	_	NOUN	NOUN	_	11	nmod
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	votre	_	DET	DET	_	10	nmod:poss
+10	bouche	_	NOUN	NOUN	_	11	nsubj
+11	dira	_	VERB	VERB	_	0	root
+12	des	_	DET	DET	_	13	det
+13	mots	_	NOUN	NOUN	_	11	dobj
+14	parfumés	_	NOUN	NOUN	_	13	appos
+15	.	_	PUNCT	PUNCT	_	11	punct
+16	»	_	PUNCT	PUNCT	_	7	punct
+17	Proverbe	_	PROPN	PROPN	_	13	appos
+18	russe	_	ADJ	ADJ	_	17	amod
+19	...	_	PUNCT	PUNCT	_	7	punct
+20	http://t.co/mJC5KufgOg	_	PROPN	PROPN	_	21	name
+21	http://t.co/VLU8SEV1YK	_	PROPN	PROPN	_	17	appos
+

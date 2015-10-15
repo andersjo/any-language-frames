@@ -1,0 +1,23 @@
+1	I	_	ADP	ADP	_	2	case
+2	Real	_	NOUN	NOUN	_	3	nmod
+3	Madrids	_	VERB	VERB	_	0	root
+4	gruppspelsmatch	_	NOUN	NOUN	_	3	nsubj
+5	i	_	ADP	ADP	_	7	case
+6	Champions	_	NOUN	NOUN	_	7	nmod:poss
+7	League	_	NOUN	NOUN	_	3	nmod
+8	mot	_	ADP	ADP	_	10	case
+9	FC	_	ADJ	ADJ	_	10	amod
+10	Zürich	_	NOUN	NOUN	_	7	nmod
+11	på	_	ADP	ADP	_	12	case
+12	bortaplan	_	NOUN	NOUN	_	10	nmod
+13	den	_	DET	DET	_	15	det
+14	15	_	NUM	NUM	_	15	nummod
+15	september	_	NOUN	NOUN	_	10	nmod
+16	gjorde	_	VERB	VERB	_	3	advcl
+17	Ronaldo	_	NOUN	NOUN	_	16	nsubj
+18	två	_	NUM	NUM	_	19	nummod
+19	mål	_	NOUN	NOUN	_	16	dobj
+20	på	_	ADP	ADP	_	21	case
+21	frisparkar	_	NOUN	NOUN	_	16	nmod
+22	.	_	PUNCT	PUNCT	_	3	punct
+

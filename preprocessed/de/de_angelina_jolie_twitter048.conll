@@ -1,0 +1,21 @@
+1	@loveavengers4ev	_	PROPN	PROPN	_	3	name
+2	Katy	_	PROPN	PROPN	_	3	name
+3	Perry	_	PROPN	PROPN	_	0	root
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	Fergie	_	PROPN	PROPN	_	3	conj
+6	,	_	PUNCT	PUNCT	_	3	punct
+7	Brad	_	PROPN	PROPN	_	8	name
+8	Pitt	_	PROPN	PROPN	_	3	conj
+9	,	_	PUNCT	PUNCT	_	3	punct
+10	Angelina	_	PROPN	PROPN	_	11	name
+11	Jolie	_	PROPN	PROPN	_	3	conj
+12	,	_	PUNCT	PUNCT	_	3	punct
+13	Ben	_	PROPN	PROPN	_	14	name
+14	Affleck	_	PROPN	PROPN	_	11	conj
+15	,	_	PUNCT	PUNCT	_	3	punct
+16	Richard	_	PROPN	PROPN	_	17	name
+17	Gere	_	PROPN	PROPN	_	14	conj
+18	,	_	PUNCT	PUNCT	_	3	punct
+19	Jennifer	_	PROPN	PROPN	_	20	det
+20	Garner	_	NOUN	NOUN	_	17	punct
+

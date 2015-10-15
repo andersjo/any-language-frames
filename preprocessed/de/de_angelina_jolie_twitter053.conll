@@ -1,0 +1,12 @@
+1	Miriam	_	PROPN	PROPN	_	2	name
+2	Fares	_	PROPN	PROPN	_	10	aux
+3	to	_	PROPN	PROPN	_	5	case
+4	Haifa	_	PROPN	PROPN	_	5	name
+5	Wehbe	_	PROPN	PROPN	_	2	nmod
+6	=	_	PUNCT	PUNCT	_	5	punct
+7	Angelina	_	PROPN	PROPN	_	9	name
+8	Jolie	_	PROPN	PROPN	_	9	name
+9	to	_	PROPN	PROPN	_	10	det
+10	3abla	_	NOUN	NOUN	_	0	root
+11	Kamel	_	NOUN	NOUN	_	10	appos
+

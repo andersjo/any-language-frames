@@ -1,0 +1,8 @@
+1	http://t.co/RkMRPiSZJ9	_	NOUN	NOUN	_	0	root
+2	harry	_	NOUN	NOUN	_	1	nmod
+3	potter	_	NOUN	NOUN	_	2	nmod
+4	ή	_	CONJ	CONJ	_	3	cc
+5	χάρη	_	ADV	ADV	_	6	advmod
+6	ποτέ	_	ADV	ADV	_	1	advmod
+7	;	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,12 @@
+1	Маратони	_	PROPN	PROPN	_	9	nsubj
+2	LOTR+Hobbit	_	PROPN	PROPN	_	1	name
+3	и	_	CONJ	CONJ	_	1	cc
+4	Harry	_	PROPN	PROPN	_	1	conj
+5	Potter	_	PROPN	PROPN	_	4	name
+6	.	_	PUNCT	PUNCT	_	9	punct
+7	Е	_	PART	PART	_	9	discourse
+8	тоа	_	NOUN	NOUN	_	9	nsubj
+9	е	_	VERB	VERB	_	0	root
+10	#љубов	_	NOUN	NOUN	_	9	cop
+11	.	_	PUNCT	PUNCT	_	9	punct
+

@@ -1,0 +1,18 @@
+1	“	_	NOUN	NOUN	_	4	dobj
+2	@ysterografa	_	NOUN	NOUN	_	1	nmod
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Πέθανε	_	VERB	VERB	_	0	root
+5	ο	_	ADJ	ADJ	_	7	det
+6	"	_	PUNCT	PUNCT	_	7	punct
+7	μάγος	_	NOUN	NOUN	_	4	nsubj
+8	"	_	PUNCT	PUNCT	_	7	punct
+9	του	_	ADJ	ADJ	_	11	det
+10	Harry	_	NOUN	NOUN	_	11	nmod
+11	Potter	_	NOUN	NOUN	_	4	nsubj
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	David	_	NOUN	NOUN	_	14	nmod
+14	Ryall	_	NOUN	NOUN	_	11	appos
+15	http://t.co/nmQr7uM5G7	_	NOUN	NOUN	_	14	nmod
+16	http://t.co/jgd5brjinn	_	NOUN	NOUN	_	15	nmod
+17	”	_	NOUN	NOUN	_	16	nmod
+

@@ -1,0 +1,13 @@
+1	Som	_	CONJ	CONJ	_	2	mark
+2	åttaåring	_	NOUN	NOUN	_	3	nsubj
+3	började	_	VERB	VERB	_	0	root
+4	han	_	PRON	PRON	_	3	nsubj
+5	spela	_	VERB	VERB	_	3	xcomp
+6	för	_	ADP	ADP	_	8	case
+7	amatörlaget	_	NOUN	NOUN	_	8	nmod:poss
+8	CF	_	NOUN	NOUN	_	5	nmod
+9	Andorinha	_	VERB	VERB	_	3	xcomp
+10	från	_	ADP	ADP	_	11	case
+11	Funchal	_	NOUN	NOUN	_	9	nmod
+12	.	_	PUNCT	PUNCT	_	3	punct
+

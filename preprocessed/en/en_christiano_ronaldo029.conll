@@ -1,0 +1,24 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	November	_	PROPN	PROPN	_	6	nmod
+3	2014	_	NUM	NUM	_	2	nummod
+4	,	_	PUNCT	PUNCT	_	6	punct
+5	Ronaldo	_	PROPN	PROPN	_	6	nsubj
+6	became	_	VERB	VERB	_	0	root
+7	the	_	DET	DET	_	10	det
+8	all-time	_	NOUN	NOUN	_	9	compound
+9	top	_	NOUN	NOUN	_	10	compound
+10	scorer	_	NOUN	NOUN	_	6	dobj
+11	in	_	ADP	ADP	_	6	compound:prt
+12	the	_	DET	DET	_	13	det
+13	UEFA	_	PROPN	PROPN	_	15	compound
+14	European	_	ADJ	ADJ	_	0	foreign
+15	Championship	_	PROPN	PROPN	_	6	xcomp
+16	(	_	PUNCT	PUNCT	_	10	punct
+17	including	_	VERB	VERB	_	22	case
+18	qualifying	_	ADJ	ADJ	_	0	foreign
+19	)	_	PUNCT	PUNCT	_	17	punct
+20	with	_	ADP	ADP	_	17	compound:prt
+21	23	_	NUM	NUM	_	22	nummod
+22	goals	_	NOUN	NOUN	_	6	xcomp
+23	.	_	PUNCT	PUNCT	_	2	punct
+

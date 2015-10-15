@@ -1,0 +1,11 @@
+1	Christiano	_	PROPN	PROPN	_	2	compound
+2	Ronaldo	_	PROPN	PROPN	_	3	nsubj
+3	has	_	VERB	VERB	_	0	root
+4	11	_	NUM	NUM	_	5	nummod
+5	goals	_	NOUN	NOUN	_	3	dobj
+6	from	_	ADP	ADP	_	3	compound:prt
+7	penalty	_	NOUN	NOUN	_	8	nsubj
+8	kicks	_	VERB	VERB	_	3	advcl
+9	this	_	DET	DET	_	10	det
+10	season	_	NOUN	NOUN	_	8	dobj
+

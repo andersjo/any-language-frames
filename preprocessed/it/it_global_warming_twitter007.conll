@@ -1,0 +1,22 @@
+1	@DanielaScalcob	_	PROPN	PROPN	_	0	root
+2	@LucaLombroso	_	ADJ	ADJ	_	1	amod
+3	Quelli	_	PRON	PRON	_	2	nsubj
+4	che	_	PRON	PRON	_	5	nsubj
+5	parlano	_	VERB	VERB	_	3	acl:relcl
+6	di	_	ADP	ADP	_	7	case
+7	Global	_	PROPN	PROPN	_	5	nmod
+8	Warming	_	PROPN	PROPN	_	7	name
+9	e	_	CONJ	CONJ	_	7	cc
+10	non	_	ADV	ADV	_	11	neg
+11	sanno	_	VERB	VERB	_	5	conj
+12	fare	_	VERB	VERB	_	11	ccomp
+13	il	_	DET	DET	_	14	det
+14	bilancio	_	NOUN	NOUN	_	12	dobj
+15	idrologico	_	ADJ	ADJ	_	14	amod
+16	di	_	ADP	ADP	_	19	case
+17	un	_	DET	DET	_	19	det
+18	semplice	_	ADJ	ADJ	_	19	amod
+19	bacino	_	NOUN	NOUN	_	15	nmod
+20	alpino	_	ADJ	ADJ	_	19	amod
+21	...	_	PUNCT	PUNCT	_	11	punct
+

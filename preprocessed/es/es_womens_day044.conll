@@ -1,0 +1,10 @@
+1	1917	_	NUM	NUM	_	0	root
+2	-	_	PUNCT	PUNCT	_	1	punct
+3	Día	_	PROPN	PROPN	_	1	dep
+4	Internacional	_	PROPN	PROPN	_	3	amod
+5	en	_	ADP	ADP	_	7	case
+6	la	_	DET	DET	_	7	det
+7	Unión	_	PROPN	PROPN	_	3	nmod
+8	Soviética	_	PROPN	PROPN	_	7	amod
+9	.	_	PUNCT	PUNCT	_	1	punct
+

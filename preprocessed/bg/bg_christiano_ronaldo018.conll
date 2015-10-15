@@ -1,0 +1,25 @@
+1	Президентът	_	NOUN	NOUN	_	7	nsubj
+2	на	_	ADP	ADP	_	3	case
+3	Реал	_	PROPN	PROPN	_	1	nmod
+4	Мадрид	_	PROPN	PROPN	_	1	nmod
+5	Флорентино	_	PROPN	PROPN	_	1	nmod
+6	Перес	_	PROPN	PROPN	_	5	nmod
+7	поставя	_	VERB	VERB	_	0	root
+8	клауза	_	NOUN	NOUN	_	7	dobj
+9	на	_	ADP	ADP	_	11	case
+10	всички	_	DET	DET	_	11	det
+11	отбори	_	NOUN	NOUN	_	8	nmod
+12	,	_	PUNCT	PUNCT	_	14	punct
+13	които	_	PRON	PRON	_	14	nsubj
+14	искат	_	VERB	VERB	_	11	acl
+15	да	_	PART	PART	_	17	aux
+16	го	_	PRON	PRON	_	17	dobj
+17	купят	_	VERB	VERB	_	14	ccomp
+18	,	_	PUNCT	PUNCT	_	22	punct
+19	преди	_	ADP	ADP	_	22	case
+20	да	_	PART	PART	_	22	aux
+21	му	_	PRON	PRON	_	22	iobj
+22	изтече	_	VERB	VERB	_	14	advcl
+23	договорът	_	NOUN	NOUN	_	22	dobj
+24	.	_	PUNCT	PUNCT	_	7	punct
+

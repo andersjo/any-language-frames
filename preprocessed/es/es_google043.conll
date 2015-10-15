@@ -1,0 +1,24 @@
+1	Un	_	DET	DET	_	2	det
+2	año	_	NOUN	NOUN	_	9	nmod
+3	después	_	ADJ	ADJ	_	2	amod
+4	,	_	PUNCT	PUNCT	_	6	punct
+5	en	_	ADP	ADP	_	6	case
+6	2007	_	NUM	NUM	_	9	nmod
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	Google	_	PROPN	PROPN	_	9	nsubj
+9	lanzó	_	VERB	VERB	_	0	root
+10	el	_	DET	DET	_	11	det
+11	sistema	_	NOUN	NOUN	_	9	dobj
+12	operativo	_	ADJ	ADJ	_	11	amod
+13	abierto	_	ADJ	ADJ	_	11	amod
+14	para	_	ADP	ADP	_	15	case
+15	móviles	_	NOUN	NOUN	_	11	nmod
+16	Android	_	PROPN	PROPN	_	15	appos
+17	y	_	CONJ	CONJ	_	9	cc
+18	creó	_	VERB	VERB	_	9	conj
+19	la	_	DET	DET	_	20	det
+20	Open	_	PROPN	PROPN	_	18	dobj
+21	Handset	_	PROPN	PROPN	_	22	name
+22	Alliance	_	PROPN	PROPN	_	20	appos
+23	.	_	PUNCT	PUNCT	_	9	punct
+

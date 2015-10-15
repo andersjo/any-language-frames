@@ -1,0 +1,20 @@
+1	Sylvia	_	PROPN	PROPN	_	2	compound
+2	Pankhurst	_	PROPN	PROPN	_	4	nsubjpass
+3	was	_	AUX	AUX	_	4	auxpass
+4	arrested	_	VERB	VERB	_	0	root
+5	in	_	ADP	ADP	_	4	compound:prt
+6	front	_	NOUN	NOUN	_	4	dobj
+7	of	_	ADP	ADP	_	4	compound:prt
+8	Charing	_	PROPN	PROPN	_	9	compound
+9	Cross	_	PROPN	PROPN	_	10	compound
+10	station	_	NOUN	NOUN	_	4	nmod
+11	on	_	ADP	ADP	_	10	acl
+12	her	_	PRON	PRON	_	13	nmod:poss
+13	way	_	NOUN	NOUN	_	11	dobj
+14	to	_	PART	PART	_	15	mark
+15	speak	_	VERB	VERB	_	13	acl
+16	in	_	ADP	ADP	_	15	compound:prt
+17	Trafalgar	_	PROPN	PROPN	_	18	compound
+18	Square	_	PROPN	PROPN	_	15	dobj
+19	.	_	PUNCT	PUNCT	_	4	punct
+

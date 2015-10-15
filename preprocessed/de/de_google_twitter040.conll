@@ -1,0 +1,12 @@
+1	Prodi	_	PROPN	PROPN	_	3	name
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Italiens	_	PROPN	PROPN	_	4	det
+4	Exporte	_	NOUN	NOUN	_	5	nsubj
+5	brechen	_	VERB	VERB	_	0	root
+6	wegen	_	ADP	ADP	_	7	case
+7	Russland-Sanktionen	_	NOUN	NOUN	_	5	nmod
+8	ein	_	DET	DET	_	11	det
+9	http://t.co/qwgRPHbBTo	_	PROPN	PROPN	_	11	name
+10	#EZB	_	PROPN	PROPN	_	11	name
+11	#CFD_Markt	_	PROPN	PROPN	_	5	nmod
+

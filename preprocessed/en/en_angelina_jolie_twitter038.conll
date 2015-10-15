@@ -1,0 +1,21 @@
+1	At	_	ADP	ADP	_	0	compound:prt
+2	a	_	DET	DET	_	4	det
+3	Maleficent	_	ADJ	ADJ	_	0	compound:prt
+4	photocall	_	NOUN	NOUN	_	1	dobj
+5	in	_	ADP	ADP	_	4	compound
+6	London	_	PROPN	PROPN	_	4	nmod
+7	,	_	PUNCT	PUNCT	_	10	punct
+8	Angelina	_	PROPN	PROPN	_	9	compound
+9	Jolie	_	PROPN	PROPN	_	10	nsubj
+10	swiped	_	VERB	VERB	_	4	acl:relcl
+11	on	_	ADP	ADP	_	10	compound:prt
+12	a	_	DET	DET	_	15	det
+13	cherry-red	_	ADJ	ADJ	_	0	foreign
+14	lip	_	NOUN	NOUN	_	15	compound
+15	color	_	NOUN	NOUN	_	10	dobj
+16	to	_	PART	PART	_	17	mark
+17	match	_	VERB	VERB	_	15	acl
+18	her	_	PRON	PRON	_	20	nmod:poss
+19	si	_	PROPN	PROPN	_	20	compound
+20	http://t.co/JGOiP1r6CQ	_	PROPN	PROPN	_	17	dobj
+

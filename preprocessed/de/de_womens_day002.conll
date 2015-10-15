@@ -1,0 +1,21 @@
+1	Er	_	PRON	PRON	_	2	nsubj
+2	entstand	_	VERB	VERB	_	0	root
+3	in	_	ADP	ADP	_	5	case
+4	der	_	DET	DET	_	5	det
+5	Zeit	_	NOUN	NOUN	_	2	nmod
+6	um	_	ADP	ADP	_	9	case
+7	den	_	DET	DET	_	9	det
+8	Ersten	_	PROPN	PROPN	_	9	amod
+9	Weltkrieg	_	PROPN	PROPN	_	5	nmod
+10	im	_	ADP	ADP	_	11	case
+11	Kampf	_	NOUN	NOUN	_	2	nmod
+12	um	_	ADP	ADP	_	14	case
+13	die	_	DET	DET	_	14	det
+14	Gleichberechtigung	_	NOUN	NOUN	_	11	nmod
+15	und	_	CONJ	CONJ	_	14	cc
+16	das	_	DET	DET	_	17	det
+17	Wahlrecht	_	NOUN	NOUN	_	14	conj
+18	für	_	ADP	ADP	_	19	case
+19	Frauen	_	NOUN	NOUN	_	17	nmod
+20	.	_	PUNCT	PUNCT	_	2	punct
+

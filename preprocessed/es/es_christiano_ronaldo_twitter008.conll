@@ -1,0 +1,13 @@
+1	La	_	DET	DET	_	2	det
+2	secretaria	_	NOUN	NOUN	_	8	nsubj
+3	del	_	ADP	ADP	_	4	case
+4	cum	_	PROPN	PROPN	_	2	nmod
+5	juro	_	ADJ	ADJ	_	4	amod
+6	que	_	SCONJ	SCONJ	_	8	mark
+7	ha	_	AUX	AUX	_	8	aux
+8	corrido	_	VERB	VERB	_	0	root
+9	mas	_	ADV	ADV	_	8	advmod
+10	que	_	SCONJ	SCONJ	_	12	mark
+11	Christiano	_	PROPN	PROPN	_	12	name
+12	Ronaldo😂	_	PROPN	PROPN	_	8	dobj
+

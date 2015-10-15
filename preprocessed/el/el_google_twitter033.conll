@@ -1,0 +1,10 @@
+1	Το	_	ADJ	ADJ	_	3	det
+2	βιενέζικο	_	ADJ	ADJ	_	3	amod
+3	βαλς	_	NOUN	NOUN	_	0	root
+4	της	_	ADJ	ADJ	_	5	det
+5	Ειρήνης	_	NOUN	NOUN	_	3	nmod
+6	Παπαδοπούλου	_	NOUN	NOUN	_	5	nmod
+7	-	_	PUNCT	PUNCT	_	9	punct
+8	http://t.co/IhA4HF1Vsb	_	NOUN	NOUN	_	9	nmod
+9	#starbuzz	_	NOUN	NOUN	_	3	nmod
+

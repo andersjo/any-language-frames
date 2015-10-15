@@ -1,0 +1,9 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	4	nsubj
+3	elle	_	PRON	PRON	_	4	nsubj
+4	porte	_	VERB	VERB	_	0	root
+5	bien	_	ADV	ADV	_	4	advmod
+6	son	_	DET	DET	_	7	nmod:poss
+7	nom😍	_	PROPN	PROPN	_	8	name
+8	http://t.co/YuwQ0EyoDZ	_	PROPN	PROPN	_	4	dobj
+

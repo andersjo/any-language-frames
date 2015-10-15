@@ -1,0 +1,9 @@
+1	Ακολούθησε	_	VERB	VERB	_	0	root
+2	άλλο	_	PRON	PRON	_	1	dobj
+3	ένα	_	ADJ	ADJ	_	2	amod
+4	στη	_	ADP	ADP	_	5	case
+5	Λισαβόνα	_	NOUN	NOUN	_	3	nmod
+6	το	_	ADJ	ADJ	_	7	det
+7	2008	_	NOUN	NOUN	_	5	nmod
+8	.	_	PUNCT	PUNCT	_	1	punct
+

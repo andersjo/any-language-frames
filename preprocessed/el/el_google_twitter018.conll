@@ -1,0 +1,17 @@
+1	Σε	_	ADP	ADP	_	2	case
+2	ποιον	_	NOUN	NOUN	_	3	nmod
+3	είπε	_	VERB	VERB	_	0	root
+4	ο	_	ADJ	ADJ	_	6	det
+5	Γιάννης	_	NOUN	NOUN	_	3	nsubj
+6	Λάτσιος	_	NOUN	NOUN	_	5	nmod
+7	:	_	PUNCT	PUNCT	_	6	punct
+8	«Περίμενα	_	NOUN	NOUN	_	3	nsubj
+9	από	_	ADP	ADP	_	10	case
+10	σένα	_	NOUN	NOUN	_	8	nmod
+11	να	_	PART	PART	_	13	advmod
+12	μην	_	PART	PART	_	13	neg
+13	λαϊκίζεις»	_	NOUN	NOUN	_	10	nmod
+14	-	_	PUNCT	PUNCT	_	13	punct
+15	http://t.co/n515QyHShi	_	NOUN	NOUN	_	13	conj
+16	#starbuzz	_	NOUN	NOUN	_	15	nmod
+

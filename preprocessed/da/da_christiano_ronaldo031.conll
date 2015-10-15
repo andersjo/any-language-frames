@@ -1,0 +1,27 @@
+1	Men	_	CONJ	CONJ	_	0	root
+2	Ferguson	_	PROPN	PROPN	_	3	nsubj
+3	sagde	_	VERB	VERB	_	1	conj
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	"	_	PUNCT	PUNCT	_	6	punct
+6	Nej	_	INTJ	INTJ	_	3	dep
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	du	_	PRON	PRON	_	10	nsubj
+9	vil	_	AUX	AUX	_	10	aux
+10	have	_	VERB	VERB	_	6	conj
+11	nummer	_	NOUN	NOUN	_	10	dobj
+12	7	_	NUM	NUM	_	11	nmod
+13	"	_	PUNCT	PUNCT	_	6	punct
+14	,	_	PUNCT	PUNCT	_	6	punct
+15	og	_	CONJ	CONJ	_	10	cc
+16	den	_	DET	DET	_	18	det
+17	berømte	_	ADJ	ADJ	_	18	amod
+18	trøje	_	NOUN	NOUN	_	22	nsubj
+19	var	_	AUX	AUX	_	22	cop
+20	en	_	DET	DET	_	22	det
+21	ekstra	_	ADJ	ADJ	_	22	amod
+22	kilde	_	NOUN	NOUN	_	10	dobj
+23	til	_	ADP	ADP	_	25	case
+24	min	_	DET	DET	_	25	det
+25	motivation	_	NOUN	NOUN	_	22	nmod
+26	.	_	PUNCT	PUNCT	_	6	punct
+

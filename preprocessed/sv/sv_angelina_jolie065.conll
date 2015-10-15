@@ -1,0 +1,7 @@
+1	Genombrott	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	1998	_	NUM	NUM	_	4	nummod
+4	–	_	NOUN	NOUN	_	1	appos
+5	2000	_	NUM	NUM	_	4	nummod
+6	.	_	PUNCT	PUNCT	_	4	punct
+

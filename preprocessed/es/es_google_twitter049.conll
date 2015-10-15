@@ -1,0 +1,19 @@
+1	@sugusgali	_	PROPN	PROPN	_	2	nsubj
+2	fijate	_	VERB	VERB	_	0	root
+3	buscando	_	VERB	VERB	_	2	xcomp
+4	por	_	ADP	ADP	_	5	case
+5	Google	_	PROPN	PROPN	_	3	nmod
+6	.	_	PUNCT	PUNCT	_	2	punct
+7	Nosotros	_	PRON	PRON	_	17	nsubj
+8	transmitimos	_	ADJ	ADJ	_	7	amod
+9	vía	_	ADP	ADP	_	10	case
+10	twitter	_	PROPN	PROPN	_	3	nmod
+11	,	_	PUNCT	PUNCT	_	14	punct
+12	con	_	ADP	ADP	_	14	case
+13	las	_	DET	DET	_	14	det
+14	ventajas	_	NOUN	NOUN	_	3	nmod
+15	que	_	SCONJ	SCONJ	_	17	mark
+16	ello	_	PRON	PRON	_	17	nsubj
+17	ofrece	_	VERB	VERB	_	14	acl:relcl
+18	...	_	PUNCT	PUNCT	_	2	punct
+

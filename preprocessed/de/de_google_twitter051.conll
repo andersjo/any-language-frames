@@ -1,0 +1,20 @@
+1	Ich	_	PRON	PRON	_	9	nsubj
+2	habe	_	AUX	AUX	_	9	aux
+3	ein	_	DET	DET	_	5	det
+4	@YouTube	_	PROPN	PROPN	_	5	name
+5	-Video	_	PROPN	PROPN	_	9	nmod
+6	von	_	ADP	ADP	_	7	case
+7	@simondesue	_	NOUN	NOUN	_	9	nmod
+8	positiv	_	ADJ	ADJ	_	9	advmod
+9	bewertet	_	VERB	VERB	_	0	root
+10	:	_	PUNCT	PUNCT	_	9	punct
+11	http://t.co/O67jCjNaf4	_	PROPN	PROPN	_	9	appos
+12	Warum	_	ADV	ADV	_	16	advmod
+13	ist	_	VERB	VERB	_	16	cop
+14	meine	_	PRON	PRON	_	15	det
+15	PERIODE	_	NOUN	NOUN	_	16	nmod
+16	schwarz	_	ADJ	ADJ	_	19	amod
+17	!?	_	PROPN	PROPN	_	19	name
+18	-	_	PUNCT	PUNCT	_	19	punct
+19	GOOGLE	_	PROPN	PROPN	_	9	appos
+

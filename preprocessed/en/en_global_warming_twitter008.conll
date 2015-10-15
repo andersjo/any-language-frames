@@ -1,0 +1,23 @@
+1	Watching	_	VERB	VERB	_	0	root
+2	@TheApprentice9	_	NOUN	NOUN	_	1	dobj
+3	and	_	CONJ	CONJ	_	2	cc
+4	one	_	NOUN	NOUN	_	2	conj
+5	of	_	ADP	ADP	_	1	compound:prt
+6	the	_	DET	DET	_	8	det
+7	1st	_	ADJ	ADJ	_	0	remnant
+8	things	_	NOUN	NOUN	_	2	conj
+9	out	_	ADP	ADP	_	8	acl
+10	of	_	ADP	ADP	_	11	compound
+11	@realDonaldTrump's	_	NOUN	NOUN	_	12	compound
+12	mouth	_	NOUN	NOUN	_	2	conj
+13	mockingly	_	ADV	ADV	_	15	advmod
+14	is	_	AUX	AUX	_	15	aux
+15	do	_	VERB	VERB	_	1	conj
+16	you	_	PRON	PRON	_	17	nsubj
+17	believe	_	VERB	VERB	_	15	advcl
+18	in	_	ADP	ADP	_	17	compound:prt
+19	global	_	ADJ	ADJ	_	0	foreign
+20	warming	_	NOUN	NOUN	_	22	compound
+21	?	_	PUNCT	PUNCT	_	1	punct
+22	#AreYouEn	_	NOUN	NOUN	_	17	dobj
+

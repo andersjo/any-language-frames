@@ -1,0 +1,16 @@
+1	#Entertainment	_	NOUN	NOUN	_	2	compound
+2	#News	_	NOUN	NOUN	_	0	root
+3	True	_	ADJ	ADJ	_	0	compound
+4	Women	_	NOUN	NOUN	_	6	compound
+5	(	_	PUNCT	PUNCT	_	6	punct
+6	DVD	_	NOUN	NOUN	_	2	appos
+7	)	_	PUNCT	PUNCT	_	6	punct
+8	RARE	_	PROPN	PROPN	_	9	compound
+9	OOP	_	PROPN	PROPN	_	6	appos
+10	!!!	_	PUNCT	PUNCT	_	9	punct
+11	Angelina	_	PROPN	PROPN	_	12	compound
+12	Jolie	_	PROPN	PROPN	_	9	conj
+13	http://t.co/feYCVddyO0	_	X	X	_	14	compound
+14	#AngelinaJolie	_	NOUN	NOUN	_	15	compound
+15	#Fans	_	NOUN	NOUN	_	12	appos
+

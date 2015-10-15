@@ -1,0 +1,22 @@
+1	Detta	_	PRON	PRON	_	2	nsubj
+2	ledde	_	VERB	VERB	_	0	root
+3	så	_	ADV	ADV	_	2	advmod
+4	småningom	_	ADV	ADV	_	2	advmod
+5	till	_	ADP	ADP	_	10	case
+6	att	_	SCONJ	SCONJ	_	10	mark
+7	arbetslagstiftningen	_	NOUN	NOUN	_	10	nsubjpass
+8	i	_	ADP	ADP	_	9	case
+9	USA	_	PROPN	PROPN	_	7	nmod
+10	förändrades	_	VERB	VERB	_	2	advcl
+11	och	_	CONJ	CONJ	_	10	cc
+12	att	_	SCONJ	SCONJ	_	17	mark
+13	kvinnors	_	NOUN	NOUN	_	14	nmod:poss
+14	rättigheter	_	NOUN	NOUN	_	17	nsubj
+15	på	_	ADP	ADP	_	16	case
+16	arbetsplatser	_	NOUN	NOUN	_	14	nmod
+17	började	_	VERB	VERB	_	2	advcl
+18	diskuteras	_	VERB	VERB	_	17	xcomp
+19	mer	_	ADV	ADV	_	18	advmod
+20	aktivt	_	ADV	ADV	_	18	advmod
+21	.	_	PUNCT	PUNCT	_	2	punct
+

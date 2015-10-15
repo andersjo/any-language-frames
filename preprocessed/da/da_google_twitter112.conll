@@ -1,0 +1,10 @@
+1	21125	_	NUM	NUM	_	2	nummod
+2	Clarksburg	_	NOUN	NOUN	_	0	root
+3	Rd	_	NOUN	NOUN	_	2	nmod
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	Boyds	_	NOUN	NOUN	_	3	conj
+6	,	_	PUNCT	PUNCT	_	3	punct
+7	MD	_	NOUN	NOUN	_	5	list
+8	20841	_	NUM	NUM	_	9	nummod
+9	http://t.co/RoGhLdkQC1	_	NOUN	NOUN	_	7	list
+

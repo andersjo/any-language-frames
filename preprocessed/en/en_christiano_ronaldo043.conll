@@ -1,0 +1,27 @@
+1	At	_	ADP	ADP	_	0	compound:prt
+2	the	_	DET	DET	_	3	det
+3	age	_	NOUN	NOUN	_	1	dobj
+4	of	_	ADP	ADP	_	3	acl
+5	15	_	NUM	NUM	_	6	nummod
+6	Ronaldo	_	PROPN	PROPN	_	8	nsubjpass
+7	was	_	AUX	AUX	_	8	auxpass
+8	diagnosed	_	VERB	VERB	_	3	acl:relcl
+9	with	_	ADP	ADP	_	8	compound:prt
+10	a	_	DET	DET	_	12	det
+11	racing	_	NOUN	NOUN	_	12	compound
+12	heart	_	NOUN	NOUN	_	8	dobj
+13	,	_	PUNCT	PUNCT	_	19	punct
+14	a	_	DET	DET	_	15	det
+15	condition	_	NOUN	NOUN	_	12	appos
+16	that	_	DET	DET	_	19	nsubj
+17	might	_	AUX	AUX	_	19	aux
+18	have	_	AUX	AUX	_	19	aux
+19	forced	_	VERB	VERB	_	15	acl:relcl
+20	him	_	PRON	PRON	_	19	dobj
+21	to	_	PART	PART	_	22	mark
+22	give	_	VERB	VERB	_	19	xcomp
+23	up	_	ADP	ADP	_	22	compound:prt
+24	playing	_	VERB	VERB	_	25	amod
+25	football	_	NOUN	NOUN	_	22	dobj
+26	.	_	PUNCT	PUNCT	_	19	punct
+

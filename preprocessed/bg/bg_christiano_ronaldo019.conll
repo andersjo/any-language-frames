@@ -1,0 +1,22 @@
+1	Клаузата	_	PROPN	PROPN	_	2	nsubj
+2	е	_	VERB	VERB	_	0	root
+3	на	_	ADP	ADP	_	4	case
+4	стойност	_	NOUN	NOUN	_	2	cop
+5	1	_	NUM	NUM	_	6	nummod
+6	милиард	_	NOUN	NOUN	_	2	cop
+7	евро	_	NOUN	NOUN	_	6	nmod
+8	,	_	PUNCT	PUNCT	_	11	punct
+9	което	_	PRON	PRON	_	11	nsubj
+10	го	_	PRON	PRON	_	11	expl
+11	прави	_	VERB	VERB	_	7	acl
+12	неоткупим	_	NOUN	NOUN	_	11	dobj
+13	за	_	ADP	ADP	_	15	case
+14	другите	_	ADJ	ADJ	_	15	amod
+15	отбори	_	NOUN	NOUN	_	12	nmod
+16	,	_	PUNCT	PUNCT	_	20	punct
+17	докато	_	SCONJ	SCONJ	_	20	mark
+18	договорът	_	NOUN	NOUN	_	20	nsubj
+19	му	_	PRON	PRON	_	18	case
+20	важи	_	VERB	VERB	_	11	advcl
+21	.	_	PUNCT	PUNCT	_	2	punct
+

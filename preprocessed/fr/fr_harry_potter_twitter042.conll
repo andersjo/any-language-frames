@@ -1,0 +1,27 @@
+1	@Aiekillu	_	PROPN	PROPN	_	4	name
+2	Vive	_	PROPN	PROPN	_	4	name
+3	Harry	_	PROPN	PROPN	_	4	name
+4	Potter	_	PROPN	PROPN	_	6	nsubj
+5	!	_	PUNCT	PUNCT	_	4	punct
+6	Voilà	_	VERB	VERB	_	0	root
+7	ce	_	PRON	PRON	_	6	dobj
+8	qui	_	PRON	PRON	_	9	nsubj
+9	arrive	_	VERB	VERB	_	7	acl:relcl
+10	quand	_	SCONJ	SCONJ	_	12	mark
+11	on	_	PRON	PRON	_	12	nsubj
+12	a	_	VERB	VERB	_	9	ccomp
+13	trop	_	ADV	ADV	_	12	advmod
+14	de	_	ADP	ADP	_	15	case
+15	sub	_	NOUN	NOUN	_	12	dobj
+16	!	_	PUNCT	PUNCT	_	6	punct
+17	et	_	CONJ	CONJ	_	12	cc
+18	surtout	_	ADV	ADV	_	21	advmod
+19	quand	_	SCONJ	SCONJ	_	21	mark
+20	on	_	PRON	PRON	_	21	nsubj
+21	fait	_	VERB	VERB	_	12	conj
+22	des	_	DET	DET	_	23	det
+23	paris	_	NOUN	NOUN	_	21	dobj
+24	risquées	_	ADJ	ADJ	_	23	amod
+25	.	_	PUNCT	PUNCT	_	6	punct
+26	http://t.co/cboQmtfUk4	_	X	X	_	23	appos
+

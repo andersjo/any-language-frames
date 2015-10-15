@@ -1,0 +1,25 @@
+1	@lundici_it	_	NOUN	NOUN	_	4	nsubj
+2	@LucaLombroso	_	ADJ	ADJ	_	1	amod
+3	@StePic62	_	ADV	ADV	_	4	advmod
+4	È	_	VERB	VERB	_	5	cop
+5	colpa	_	NOUN	NOUN	_	0	root
+6	anche	_	ADV	ADV	_	8	advmod
+7	di	_	ADP	ADP	_	8	case
+8	Luca	_	PROPN	PROPN	_	4	nmod
+9	che	_	PRON	PRON	_	10	nsubj
+10	fa	_	VERB	VERB	_	8	acl:relcl
+11	di	_	ADP	ADP	_	12	case
+12	tutto	_	PRON	PRON	_	10	nmod
+13	per	_	ADP	ADP	_	14	mark
+14	ritardarle	_	VERB	VERB	_	10	advcl
+15	,	_	PUNCT	PUNCT	_	14	punct
+16	pensa	_	VERB	VERB	_	14	conj
+17	solo	_	ADV	ADV	_	20	advmod
+18	al	_	ADP	ADP	_	20	case
+19	global	_	ADJ	ADJ	_	20	amod
+20	warming	_	NOUN	NOUN	_	16	nmod
+21	,	_	PUNCT	PUNCT	_	14	punct
+22	una	_	DET	DET	_	23	det
+23	fissazione	_	NOUN	NOUN	_	20	conj
+24	!	_	PUNCT	PUNCT	_	10	punct
+

@@ -1,0 +1,18 @@
+1	Teinteresa.es:	_	PROPN	PROPN	_	2	name
+2	Cameron	_	PROPN	PROPN	_	3	nsubj
+3	quiere	_	VERB	VERB	_	0	root
+4	adelantar	_	VERB	VERB	_	3	xcomp
+5	el	_	DET	DET	_	6	det
+6	referéndum	_	NOUN	NOUN	_	4	dobj
+7	sobre	_	ADP	ADP	_	9	case
+8	la	_	DET	DET	_	9	det
+9	permanencia	_	NOUN	NOUN	_	6	nmod
+10	de	_	ADP	ADP	_	11	case
+11	Reino	_	PROPN	PROPN	_	9	nmod
+12	Unido	_	PROPN	PROPN	_	11	amod
+13	en	_	ADP	ADP	_	15	case
+14	la	_	DET	DET	_	15	det
+15	Unión	_	PROPN	PROPN	_	9	nmod
+16	.	_	PUNCT	PUNCT	_	3	punct
+17	http://t.co/jBqe5xzmtE	_	PROPN	PROPN	_	15	appos
+

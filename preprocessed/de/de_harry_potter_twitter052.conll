@@ -1,0 +1,8 @@
+1	Arne	_	PROPN	PROPN	_	2	name
+2	Dahl	_	PROPN	PROPN	_	4	name
+3	-	_	PUNCT	PUNCT	_	4	punct
+4	Harry	_	PROPN	PROPN	_	5	name
+5	Potter	_	PROPN	PROPN	_	0	root
+6	0-1	_	PROPN	PROPN	_	7	name
+7	#tv	_	PROPN	PROPN	_	5	nmod
+

@@ -1,0 +1,11 @@
+1	I	_	PRON	PRON	_	2	nsubj
+2	gave	_	VERB	VERB	_	0	root
+3	@arikring	_	ADJ	ADJ	_	0	iobj
+4	+K	_	NOUN	NOUN	_	2	dobj
+5	about	_	ADP	ADP	_	2	compound:prt
+6	Global	_	ADJ	ADJ	_	0	cc
+7	Warming	_	NOUN	NOUN	_	2	dobj
+8	on	_	ADP	ADP	_	2	compound:prt
+9	@klout	_	NOUN	NOUN	_	7	conj
+10	http://t.co/tBmVUzyQ9k	_	X	X	_	9	appos
+

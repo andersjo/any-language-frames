@@ -1,0 +1,24 @@
+1	@boobearsbrave	_	VERB	VERB	_	6	advcl
+2	Tipo	_	ADJ	ADJ	_	3	amod
+3	angelina	_	NOUN	NOUN	_	1	dobj
+4	jolie	_	ADJ	ADJ	_	3	amod
+5	ha	_	AUX	AUX	_	6	aux
+6	detto	_	VERB	VERB	_	0	root
+7	che	_	SCONJ	SCONJ	_	10	mark
+8	è	_	VERB	VERB	_	10	cop
+9	la	_	DET	DET	_	10	det
+10	persona	_	NOUN	NOUN	_	6	ccomp
+11	più	_	ADV	ADV	_	12	advmod
+12	anti	_	ADJ	ADJ	_	13	amod
+13	hollywood	_	NOUN	NOUN	_	10	nmod
+14	che	_	PRON	PRON	_	17	nsubj
+15	abbia	_	AUX	AUX	_	17	aux
+16	mai	_	ADV	ADV	_	17	advmod
+17	visto	_	VERB	VERB	_	13	acl:relcl
+18	infatti	_	ADV	ADV	_	17	advmod
+19	,	_	PUNCT	PUNCT	_	17	punct
+20	non	_	ADV	ADV	_	21	neg
+21	credo	_	VERB	VERB	_	17	conj
+22	si	_	PRON	PRON	_	23	expl
+23	rifiuti-	_	NOUN	NOUN	_	21	dobj
+

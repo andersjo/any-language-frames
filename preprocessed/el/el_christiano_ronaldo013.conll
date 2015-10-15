@@ -1,0 +1,13 @@
+1	Ήταν	_	VERB	VERB	_	0	root
+2	μόλις	_	ADV	ADV	_	3	advmod
+3	δεκαπέντε	_	NUM	NUM	_	4	nummod
+4	ετών	_	NOUN	NOUN	_	1	nsubj
+5	,	_	PUNCT	PUNCT	_	1	punct
+6	και	_	CONJ	CONJ	_	1	cc
+7	τον	_	ADJ	ADJ	_	8	det
+8	απέκτησε	_	NOUN	NOUN	_	4	appos
+9	η	_	ADJ	ADJ	_	10	det
+10	Σπόρτινγκ	_	NOUN	NOUN	_	8	nsubj
+11	Λισαβόνας	_	NOUN	NOUN	_	10	nmod
+12	.	_	PUNCT	PUNCT	_	1	punct
+

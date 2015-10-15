@@ -1,0 +1,18 @@
+1	Insgesamt	_	ADV	ADV	_	2	advmod
+2	bestritt	_	VERB	VERB	_	0	root
+3	er	_	PRON	PRON	_	2	nsubj
+4	im	_	ADP	ADP	_	5	case
+5	Laufe	_	NOUN	NOUN	_	2	nmod
+6	seiner	_	DET	DET	_	8	nmod:poss
+7	ersten	_	ADJ	ADJ	_	8	amod
+8	Spielzeit	_	NOUN	NOUN	_	5	det
+9	in	_	ADP	ADP	_	10	case
+10	England	_	PROPN	PROPN	_	8	nmod
+11	40	_	NUM	NUM	_	12	nummod
+12	Pflichtspiele	_	NOUN	NOUN	_	2	dobj
+13	und	_	CONJ	CONJ	_	2	cc
+14	schoss	_	VERB	VERB	_	2	conj
+15	sechs	_	NUM	NUM	_	16	nummod
+16	Tore	_	NOUN	NOUN	_	14	dobj
+17	.	_	PUNCT	PUNCT	_	2	punct
+

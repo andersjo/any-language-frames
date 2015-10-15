@@ -1,0 +1,23 @@
+1	@gvngst	_	PROPN	PROPN	_	2	name
+2	we	_	PROPN	PROPN	_	6	nsubj
+3	mais	_	CONJ	CONJ	_	2	cc
+4	l'autre	_	PROPN	PROPN	_	2	conj
+5	elle	_	PRON	PRON	_	6	nsubj
+6	force	_	VERB	VERB	_	0	root
+7	avec	_	ADP	ADP	_	9	case
+8	son	_	DET	DET	_	9	nmod:poss
+9	maquillage	_	NOUN	NOUN	_	6	nmod
+10	et	_	CONJ	CONJ	_	9	cc
+11	pk	_	NOUN	NOUN	_	9	conj
+12	tu	_	PRON	PRON	_	13	nsubj
+13	parle	_	VERB	VERB	_	6	conj
+14	pas	_	ADV	ADV	_	13	neg
+15	de	_	ADP	ADP	_	16	case
+16	Angelina	_	PROPN	PROPN	_	13	nmod
+17	jolie	_	ADJ	ADJ	_	16	amod
+18	elle	_	PRON	PRON	_	19	nsubj
+19	l'ai	_	VERB	VERB	_	13	conj
+20	nike	_	NOUN	NOUN	_	19	dobj
+21	tte	_	X	X	_	20	appos
+22	elle	_	PRON	PRON	_	19	nmod
+

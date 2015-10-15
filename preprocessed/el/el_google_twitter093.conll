@@ -1,0 +1,11 @@
+1	Πανεύκολη	_	ADJ	ADJ	_	2	det
+2	συνταγή	_	NOUN	NOUN	_	0	root
+3	για	_	ADP	ADP	_	4	case
+4	αφράτη	_	NOUN	NOUN	_	2	nmod
+5	σπιτική	_	ADJ	ADJ	_	6	amod
+6	πίτσα	_	NOUN	NOUN	_	4	nmod
+7	!	_	PUNCT	PUNCT	_	6	amod
+8	-	_	PUNCT	PUNCT	_	10	punct
+9	http://t.co/J0cAOOsXkh	_	NOUN	NOUN	_	10	nmod
+10	#starbuzz	_	NOUN	NOUN	_	6	appos
+

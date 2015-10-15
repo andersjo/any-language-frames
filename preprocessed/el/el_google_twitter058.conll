@@ -1,0 +1,13 @@
+1	Ελένη	_	NOUN	NOUN	_	0	root
+2	Τσολάκη	_	NOUN	NOUN	_	1	nmod
+3	:	_	PUNCT	PUNCT	_	4	punct
+4	«Έχω	_	NOUN	NOUN	_	2	appos
+5	τεράστιο	_	ADJ	ADJ	_	6	amod
+6	θέμα	_	NOUN	NOUN	_	4	nmod
+7	με	_	ADP	ADP	_	9	case
+8	την	_	ADJ	ADJ	_	9	det
+9	μοναξιά»	_	NOUN	NOUN	_	6	nmod
+10	-	_	PUNCT	PUNCT	_	12	punct
+11	http://t.co/LYklWS2qBr	_	NOUN	NOUN	_	9	nmod
+12	#starbuzz	_	NOUN	NOUN	_	11	nmod
+

@@ -1,0 +1,15 @@
+1	Hab	_	AUX	AUX	_	6	aux
+2	mir	_	PRON	PRON	_	6	iobj
+3	Harry	_	PROPN	PROPN	_	4	name
+4	Potter	_	PROPN	PROPN	_	6	nmod
+5	5	_	NUM	NUM	_	6	nmod
+6	angemacht	_	VERB	VERB	_	0	root
+7	und	_	CONJ	CONJ	_	6	cc
+8	arbeite	_	ADJ	ADJ	_	14	advmod
+9	in	_	ADP	ADP	_	11	case
+10	der	_	DET	DET	_	11	det
+11	Zeit	_	NOUN	NOUN	_	6	nmod
+12	am	_	ADP	ADP	_	14	case
+13	Laptop	_	PROPN	PROPN	_	14	amod
+14	💕	_	PROPN	PROPN	_	11	nmod
+

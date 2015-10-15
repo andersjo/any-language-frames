@@ -1,0 +1,26 @@
+1	Sometimes	_	ADV	ADV	_	3	advmod
+2	I	_	PRON	PRON	_	3	nsubj
+3	see	_	VERB	VERB	_	0	root
+4	people	_	NOUN	NOUN	_	5	nsubj
+5	talking	_	VERB	VERB	_	3	ccomp
+6	about	_	ADP	ADP	_	5	compound:prt
+7	Harry	_	PROPN	PROPN	_	8	compound
+8	Potter	_	PROPN	PROPN	_	5	dobj
+9	and	_	CONJ	CONJ	_	5	cc
+10	think	_	VERB	VERB	_	5	conj
+11	I	_	PRON	PRON	_	14	nsubj
+12	really	_	ADV	ADV	_	14	advmod
+13	should	_	AUX	AUX	_	14	aux
+14	try	_	VERB	VERB	_	10	ccomp
+15	reading	_	VERB	VERB	_	14	xcomp
+16	them	_	PRON	PRON	_	15	dobj
+17	but	_	CONJ	CONJ	_	14	cc
+18	I	_	PRON	PRON	_	20	nsubj
+19	just	_	ADV	ADV	_	20	advmod
+20	can't	_	VERB	VERB	_	14	conj
+21	justify	_	VERB	VERB	_	20	xcomp
+22	buying	_	VERB	VERB	_	21	xcomp
+23	more	_	ADJ	ADJ	_	0	foreign
+24	books	_	NOUN	NOUN	_	22	dobj
+25	.	_	PUNCT	PUNCT	_	3	punct
+

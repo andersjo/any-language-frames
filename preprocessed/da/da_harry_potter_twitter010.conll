@@ -1,0 +1,9 @@
+1	@DaveSkrider	_	VERB	VERB	_	5	dep
+2	har	_	VERB	VERB	_	1	dep
+3	harry	_	ADJ	ADJ	_	4	amod
+4	potter	_	NOUN	NOUN	_	2	dobj
+5	fanget	_	VERB	VERB	_	0	root
+6	noget	_	DET	DET	_	8	det
+7	godt	_	ADJ	ADJ	_	8	amod
+8	vildt	_	NOUN	NOUN	_	5	dobj
+

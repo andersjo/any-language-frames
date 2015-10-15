@@ -1,0 +1,7 @@
+1	@AnnyBerglin	_	PROPN	PROPN	_	4	nsubj
+2	Harry	_	PROPN	PROPN	_	1	name
+3	Potter	_	NOUN	NOUN	_	4	nsubj
+4	sviker	_	VERB	VERB	_	0	root
+5	aldrig	_	ADV	ADV	_	4	advmod
+6	!	_	PUNCT	PUNCT	_	4	punct
+

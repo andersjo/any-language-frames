@@ -1,0 +1,23 @@
+1	#Juliesjul	_	NOUN	NOUN	_	4	nsubj
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	*	_	PUNCT	PUNCT	_	4	punct
+4	diskuterer	_	VERB	VERB	_	0	root
+5	særemnet	_	NOUN	NOUN	_	4	dobj
+6	og	_	CONJ	CONJ	_	5	cc
+7	problemstilling	_	NOUN	NOUN	_	5	conj
+8	*	_	PUNCT	PUNCT	_	9	punct
+9	@ArlinStensland	_	PROPN	PROPN	_	7	appos
+10	:	_	PUNCT	PUNCT	_	9	punct
+11	"	_	PUNCT	PUNCT	_	17	punct
+12	hvordan	_	ADV	ADV	_	13	advmod
+13	Hitlers	_	PROPN	PROPN	_	14	nmod:poss
+14	regime	_	NOUN	NOUN	_	5	conj
+15	og	_	CONJ	CONJ	_	14	cc
+16	nazismen	_	NOUN	NOUN	_	14	conj
+17	kommer	_	VERB	VERB	_	12	acl:relcl
+18	fram	_	NOUN	NOUN	_	17	nsubj
+19	i	_	ADP	ADP	_	20	case
+20	Harry	_	PROPN	PROPN	_	18	nmod
+21	Potter	_	NOUN	NOUN	_	20	dep
+22	"	_	PUNCT	PUNCT	_	17	punct
+

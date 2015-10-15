@@ -1,0 +1,17 @@
+1	Filmen	_	NOUN	NOUN	_	2	nmod:poss
+2	mottogs	_	NOUN	NOUN	_	8	nsubj
+3	väl	_	ADV	ADV	_	2	nmod
+4	av	_	ADP	ADP	_	5	case
+5	kritiker	_	NOUN	NOUN	_	3	nmod
+6	och	_	CONJ	CONJ	_	5	cc
+7	Jolie	_	NOUN	NOUN	_	5	conj
+8	nominerades	_	VERB	VERB	_	0	root
+9	också	_	ADV	ADV	_	8	advmod
+10	till	_	ADP	ADP	_	12	case
+11	en	_	DET	DET	_	12	det
+12	Emmy	_	NOUN	NOUN	_	8	nmod
+13	för	_	ADP	ADP	_	15	case
+14	sitt	_	DET	DET	_	15	nmod:poss
+15	framträdande	_	ADJ	ADJ	_	12	nmod
+16	.	_	PUNCT	PUNCT	_	8	punct
+

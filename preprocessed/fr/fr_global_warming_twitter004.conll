@@ -1,0 +1,19 @@
+1	Je	_	PRON	PRON	_	2	nsubj
+2	propose	_	VERB	VERB	_	0	root
+3	qu'on	_	PROPN	PROPN	_	2	dobj
+4	consacre	_	VERB	VERB	_	2	xcomp
+5	la	_	DET	DET	_	6	det
+6	moitié	_	NOUN	NOUN	_	4	dobj
+7	au	_	ADP	ADP	_	9	case
+8	global	_	ADJ	ADJ	_	9	amod
+9	warming	_	NOUN	NOUN	_	6	nmod
+10	et	_	CONJ	CONJ	_	9	cc
+11	l'autre	_	NOUN	NOUN	_	9	conj
+12	à	_	ADP	ADP	_	14	case
+13	la	_	DET	DET	_	14	det
+14	conquête	_	NOUN	NOUN	_	4	nmod
+15	spatiale	_	ADJ	ADJ	_	14	amod
+16	.	_	PUNCT	PUNCT	_	2	punct
+17	Colmarlerli	_	PROPN	PROPN	_	18	name
+18	#thecookiethatcanchangetheworld	_	PROPN	PROPN	_	14	appos
+

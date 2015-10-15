@@ -1,0 +1,27 @@
+1	Ronaldo	_	PROPN	PROPN	_	2	nsubj
+2	scorede	_	VERB	VERB	_	0	root
+3	otte	_	NUM	NUM	_	4	nummod
+4	mål	_	NOUN	NOUN	_	2	dobj
+5	i	_	ADP	ADP	_	6	case
+6	Portugals	_	PROPN	PROPN	_	2	nmod
+7	EM	_	NOUN	NOUN	_	6	dep
+8	2008	_	NUM	NUM	_	9	nummod
+9	kvalifikationsperiode	_	NOUN	NOUN	_	2	dobj
+10	,	_	PUNCT	PUNCT	_	2	punct
+11	men	_	CONJ	CONJ	_	2	cc
+12	sluttede	_	VERB	VERB	_	2	conj
+13	med	_	ADP	ADP	_	16	case
+14	kun	_	ADV	ADV	_	16	advmod
+15	et	_	DET	DET	_	16	det
+16	mål	_	NOUN	NOUN	_	12	nmod
+17	i	_	ADP	ADP	_	18	case
+18	slutrunden	_	NOUN	NOUN	_	12	nmod
+19	,	_	PUNCT	PUNCT	_	23	punct
+20	da	_	SCONJ	SCONJ	_	23	mark
+21	Portugal	_	PROPN	PROPN	_	23	nsubj
+22	blev	_	AUX	AUX	_	23	cop
+23	elimineret	_	NOUN	NOUN	_	14	acl:relcl
+24	i	_	ADP	ADP	_	25	case
+25	kvartfinalerne	_	NOUN	NOUN	_	23	nmod
+26	.	_	PUNCT	PUNCT	_	2	punct
+

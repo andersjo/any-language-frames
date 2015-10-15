@@ -1,0 +1,11 @@
+1	En	_	ADP	ADP	_	3	case
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	c'est	_	NOUN	NOUN	_	5	compound
+4	requêtes	_	NOUN	NOUN	_	5	compound
+5	journalières	_	NOUN	NOUN	_	7	case
+6	que	_	SCONJ	SCONJ	_	9	mark
+7	Google	_	PROPN	PROPN	_	9	nsubj
+8	doit	_	AUX	AUX	_	9	aux
+9	gérer	_	VERB	VERB	_	0	root
+10	.	_	PUNCT	PUNCT	_	5	punct
+

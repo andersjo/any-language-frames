@@ -1,0 +1,19 @@
+1	Google	_	NOUN	NOUN	_	4	nsubj
+2	har	_	AUX	AUX	_	4	aux
+3	også	_	ADV	ADV	_	4	advmod
+4	lanceret	_	VERB	VERB	_	0	root
+5	andre	_	DET	DET	_	6	det
+6	typer	_	NOUN	NOUN	_	4	dobj
+7	tjenester	_	NOUN	NOUN	_	4	dobj
+8	på	_	ADP	ADP	_	9	case
+9	nettet	_	NOUN	NOUN	_	4	nmod
+10	,	_	PUNCT	PUNCT	_	4	punct
+11	blandt	_	ADP	ADP	_	15	case
+12	andet	_	DET	DET	_	15	det
+13	en	_	DET	DET	_	15	det
+14	webbaseret	_	ADJ	ADJ	_	15	amod
+15	e-mail-service	_	NOUN	NOUN	_	8	nmod
+16	,	_	PUNCT	PUNCT	_	15	punct
+17	Gmail	_	PROPN	PROPN	_	15	dep
+18	.	_	PUNCT	PUNCT	_	4	punct
+

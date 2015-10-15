@@ -1,0 +1,24 @@
+1	През	_	ADP	ADP	_	2	case
+2	сезон	_	NOUN	NOUN	_	6	nmod
+3	2013/14	_	NUM	NUM	_	2	nummod
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	Роналдо	_	PROPN	PROPN	_	6	nsubj
+6	успява	_	VERB	VERB	_	0	root
+7	да	_	PART	PART	_	8	aux
+8	подобри	_	VERB	VERB	_	6	ccomp
+9	на	_	ADP	ADP	_	11	case
+10	два	_	NUM	NUM	_	11	nummod
+11	пъти	_	NOUN	NOUN	_	8	nmod
+12	клубният	_	ADJ	ADJ	_	13	amod
+13	рекорд	_	NOUN	NOUN	_	8	nmod
+14	на	_	ADP	ADP	_	15	case
+15	Реал	_	PROPN	PROPN	_	13	nmod
+16	Мадрид	_	PROPN	PROPN	_	15	name
+17	за	_	ADP	ADP	_	19	case
+18	най-много	_	ADV	ADV	_	19	advmod
+19	голове	_	NOUN	NOUN	_	8	nmod
+20	с	_	ADP	ADP	_	22	case
+21	белият	_	ADJ	ADJ	_	22	amod
+22	екип	_	NOUN	NOUN	_	19	nmod
+23	.	_	PUNCT	PUNCT	_	6	punct
+

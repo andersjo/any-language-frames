@@ -1,0 +1,21 @@
+1	Försöker	_	VERB	VERB	_	0	root
+2	googla	_	NOUN	NOUN	_	1	dobj
+3	på	_	ADP	ADP	_	6	case
+4	historiskt	_	ADJ	ADJ	_	5	amod
+5	korrekta	_	NOUN	NOUN	_	6	det
+6	porträtt	_	NOUN	NOUN	_	1	nmod
+7	men	_	CONJ	CONJ	_	1	cc
+8	det	_	PRON	PRON	_	11	nsubj
+9	är	_	AUX	AUX	_	11	cop
+10	någon	_	DET	DET	_	11	det
+11	jävel	_	NOUN	NOUN	_	6	conj
+12	som	_	PRON	PRON	_	14	nsubj
+13	har	_	AUX	AUX	_	14	aux
+14	photoshopat	_	VERB	VERB	_	11	acl:relcl
+15	in	_	ADV	ADV	_	14	compound:prt
+16	Angelina	_	ADJ	ADJ	_	17	amod
+17	Jolie	_	NOUN	NOUN	_	14	dobj
+18	i	_	ADP	ADP	_	19	case
+19	dem	_	PRON	PRON	_	17	nmod
+20	:/	_	VERB	VERB	_	14	advcl
+

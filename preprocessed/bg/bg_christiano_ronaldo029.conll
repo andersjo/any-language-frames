@@ -1,0 +1,24 @@
+1	На	_	ADP	ADP	_	3	case
+2	15	_	NUM	NUM	_	3	nummod
+3	септември	_	NOUN	NOUN	_	7	nmod
+4	2013	_	NUM	NUM	_	5	nummod
+5	г	_	NOUN	NOUN	_	3	nmod
+6	.	_	PUNCT	PUNCT	_	7	punct
+7	подновява	_	VERB	VERB	_	0	root
+8	своят	_	ADJ	ADJ	_	9	amod
+9	договор	_	NOUN	NOUN	_	7	dobj
+10	с	_	ADP	ADP	_	11	case
+11	Реал	_	PROPN	PROPN	_	9	nmod
+12	Мадрид	_	PROPN	PROPN	_	11	name
+13	до	_	ADP	ADP	_	15	case
+14	2018	_	NUM	NUM	_	15	nummod
+15	г	_	NOUN	NOUN	_	7	nmod
+16	.	_	PUNCT	PUNCT	_	19	punct
+17	като	_	ADP	ADP	_	19	case
+18	ще	_	PART	PART	_	19	aux
+19	получава	_	VERB	VERB	_	7	advcl
+20	по	_	ADP	ADP	_	22	case
+21	17	_	NUM	NUM	_	22	nummod
+22	млн	_	NOUN	NOUN	_	19	nmod
+23	.	_	PUNCT	PUNCT	_	7	punct
+

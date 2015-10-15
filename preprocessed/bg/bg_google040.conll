@@ -1,0 +1,17 @@
+1	Google	_	PROPN	PROPN	_	4	nsubj
+2	Преводач	_	PROPN	PROPN	_	1	name
+3	е	_	AUX	AUX	_	4	aux
+4	сървърно	_	VERB	VERB	_	0	root
+5	приложение	_	NOUN	NOUN	_	4	dobj
+6	за	_	ADP	ADP	_	8	case
+7	машинен	_	ADJ	ADJ	_	8	amod
+8	превод	_	NOUN	NOUN	_	5	nmod
+9	,	_	PUNCT	PUNCT	_	11	punct
+10	което	_	PRON	PRON	_	11	nsubj
+11	превежда	_	VERB	VERB	_	5	acl
+12	между	_	ADP	ADP	_	15	case
+13	58	_	NUM	NUM	_	15	nummod
+14	различни	_	ADJ	ADJ	_	15	amod
+15	езика	_	NOUN	NOUN	_	11	nmod
+16	.	_	PUNCT	PUNCT	_	4	punct
+

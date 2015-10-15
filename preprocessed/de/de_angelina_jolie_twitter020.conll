@@ -1,0 +1,7 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	jolie	_	PROPN	PROPN	_	0	root
+3	in	_	ADP	ADP	_	4	case
+4	Hackers	_	PROPN	PROPN	_	2	nmod
+5	.	_	PUNCT	PUNCT	_	4	punct
+6	Mhhhmmm	_	PROPN	PROPN	_	4	appos
+

@@ -1,0 +1,20 @@
+1	След	_	ADP	ADP	_	3	case
+2	1960	_	NUM	NUM	_	3	nummod
+3	г	_	NOUN	NOUN	_	6	nmod
+4	.	_	PUNCT	PUNCT	_	3	punct
+5	честването	_	NOUN	NOUN	_	6	nsubj
+6	взема	_	VERB	VERB	_	0	root
+7	особено	_	ADV	ADV	_	6	advmod
+8	широки	_	ADJ	ADJ	_	9	amod
+9	размери	_	NOUN	NOUN	_	6	dobj
+10	и	_	CONJ	CONJ	_	6	cc
+11	става	_	VERB	VERB	_	6	conj
+12	любим	_	ADJ	ADJ	_	13	amod
+13	празник	_	NOUN	NOUN	_	11	dobj
+14	на	_	ADP	ADP	_	15	case
+15	жените	_	NOUN	NOUN	_	13	nmod
+16	от	_	ADP	ADP	_	18	case
+17	всички	_	DET	DET	_	18	det
+18	възрасти	_	NOUN	NOUN	_	15	nmod
+19	.	_	PUNCT	PUNCT	_	6	punct
+

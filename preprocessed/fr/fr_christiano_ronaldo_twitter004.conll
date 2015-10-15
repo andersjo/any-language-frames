@@ -1,0 +1,11 @@
+1	Cam	_	PROPN	PROPN	_	4	nsubj
+2	elle	_	PRON	PRON	_	4	nsubj
+3	a	_	AUX	AUX	_	4	aux
+4	vue	_	VERB	VERB	_	0	root
+5	Christiano	_	PROPN	PROPN	_	9	name
+6	Ronaldo	_	PROPN	PROPN	_	9	name
+7	a	_	X	X	_	9	compound
+8	Dubaï	_	PROPN	PROPN	_	9	name
+9	j	_	PROPN	PROPN	_	10	nsubj
+10	crois	_	VERB	VERB	_	4	acl
+

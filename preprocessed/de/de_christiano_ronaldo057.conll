@@ -1,0 +1,15 @@
+1	Von	_	ADP	ADP	_	3	case
+2	den	_	DET	DET	_	3	det
+3	United-Fans	_	NOUN	NOUN	_	13	nmod
+4	wurde	_	AUX	AUX	_	13	auxpass
+5	Ronaldo	_	PROPN	PROPN	_	13	nsubjpass
+6	am	_	ADP	ADP	_	7	case
+7	Saisonende	_	NOUN	NOUN	_	13	nmod
+8	zum	_	ADP	ADP	_	9	case
+9	„Spieler	_	NOUN	NOUN	_	7	nmod
+10	der	_	DET	DET	_	11	det
+11	Saison	_	NOUN	NOUN	_	9	det
+12	“	_	PROPN	PROPN	_	11	appos
+13	gewählt	_	VERB	VERB	_	0	root
+14	.	_	PUNCT	PUNCT	_	13	punct
+

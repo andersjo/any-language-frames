@@ -1,0 +1,26 @@
+1	#Telford	_	NOUN	NOUN	_	3	nmod:poss
+2	+	_	ADJ	ADJ	_	3	amod
+3	|	_	NOUN	NOUN	_	4	nsubj
+4	Fylde	_	VERB	VERB	_	11	dep
+5	vs	_	NOUN	NOUN	_	4	dobj
+6	.	_	PUNCT	PUNCT	_	4	punct
+7	AFC	_	PROPN	PROPN	_	5	appos
+8	Telford	_	NOUN	NOUN	_	7	dep
+9	United	_	NOUN	NOUN	_	8	nmod
+10	:	_	PUNCT	PUNCT	_	4	punct
+11	Fylde	_	VERB	VERB	_	0	root
+12	vs	_	PROPN	PROPN	_	11	nsubj
+13	.	_	PUNCT	PUNCT	_	11	punct
+14	AFC	_	PROPN	PROPN	_	16	nmod:poss
+15	Telford	_	NOUN	NOUN	_	14	dep
+16	United	_	NOUN	NOUN	_	11	dobj
+17	-	_	PUNCT	PUNCT	_	14	punct
+18	10	_	NUM	NUM	_	19	nummod
+19	January	_	NOUN	NOUN	_	11	dep
+20	2015	_	NUM	NUM	_	19	nmod
+21	-	_	PUNCT	PUNCT	_	19	punct
+22	Soccerway	_	PROPN	PROPN	_	19	list
+23	.	_	PUNCT	PUNCT	_	11	punct
+24	http://t.co/8TphyVMBeo	_	PROPN	PROPN	_	25	nmod:poss
+25	#Shropshire	_	NOUN	NOUN	_	22	conj
+

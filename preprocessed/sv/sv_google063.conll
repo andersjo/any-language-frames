@@ -1,0 +1,14 @@
+1	Chris	_	ADJ	ADJ	_	2	amod
+2	Beasley	_	NOUN	NOUN	_	3	nsubj
+3	skapade	_	VERB	VERB	_	0	root
+4	webbsidan	_	NOUN	NOUN	_	5	det
+5	Google	_	PROPN	PROPN	_	3	nsubj
+6	Watch	_	PROPN	PROPN	_	5	name
+7	Watch	_	PROPN	PROPN	_	5	name
+8	och	_	CONJ	CONJ	_	3	cc
+9	nekar	_	VERB	VERB	_	3	conj
+10	till	_	ADP	ADP	_	12	case
+11	föregående	_	ADJ	ADJ	_	12	det
+12	påstående	_	NOUN	NOUN	_	9	nmod
+13	.	_	PUNCT	PUNCT	_	3	punct
+

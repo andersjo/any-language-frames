@@ -1,0 +1,15 @@
+1	Además	_	ADV	ADV	_	5	advmod
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	el	_	DET	DET	_	4	det
+4	libro	_	NOUN	NOUN	_	5	nsubj
+5	tiene	_	VERB	VERB	_	0	root
+6	una	_	DET	DET	_	8	det
+7	importante	_	ADJ	ADJ	_	8	amod
+8	relación	_	NOUN	NOUN	_	5	dobj
+9	temática	_	NOUN	NOUN	_	5	dobj
+10	con	_	ADP	ADP	_	13	case
+11	el	_	DET	DET	_	13	det
+12	sexto	_	NUM	NUM	_	13	nummod
+13	libro	_	NOUN	NOUN	_	8	nmod
+14	.	_	PUNCT	PUNCT	_	5	punct
+

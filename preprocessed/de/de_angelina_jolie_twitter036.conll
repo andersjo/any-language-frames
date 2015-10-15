@@ -1,0 +1,15 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	11	nsubj
+3	in	_	ADP	ADP	_	5	case
+4	TV	_	PROPN	PROPN	_	5	name
+5	Movie	_	PROPN	PROPN	_	2	nmod
+6	:	_	PUNCT	PUNCT	_	5	punct
+7	“	_	PROPN	PROPN	_	5	appos
+8	Ich	_	PRON	PRON	_	11	nsubj
+9	bin	_	VERB	VERB	_	11	cop
+10	ein	_	DET	DET	_	11	det
+11	Alptraum	_	NOUN	NOUN	_	0	root
+12	!	_	PUNCT	PUNCT	_	11	punct
+13	”	_	PROPN	PROPN	_	14	name
+14	http://t.co/1OEaFCMzrY	_	PROPN	PROPN	_	11	appos
+

@@ -1,0 +1,19 @@
+1	5	_	PROPN	PROPN	_	2	name
+2	Propósitos	_	PROPN	PROPN	_	5	nsubj
+3	que	_	SCONJ	SCONJ	_	5	mark
+4	no	_	ADV	ADV	_	5	neg
+5	vas	_	VERB	VERB	_	0	root
+6	a	_	ADP	ADP	_	7	case
+7	cumplir	_	VERB	VERB	_	5	acl
+8	este	_	DET	DET	_	10	det
+9	#2015	_	X	X	_	7	dobj
+10	//	_	X	X	_	9	dep
+11	@Lagalatzia	_	PROPN	PROPN	_	12	name
+12	http://t.co/6LxAersTMd	_	PROPN	PROPN	_	14	nsubj
+13	Te	_	PRON	PRON	_	14	iobj
+14	comiste	_	VERB	VERB	_	5	parataxis
+15	a	_	ADP	ADP	_	17	case
+16	Angelina	_	PROPN	PROPN	_	17	name
+17	Jolie	_	PROPN	PROPN	_	14	dobj
+18	jajaja	_	X	X	_	17	amod
+

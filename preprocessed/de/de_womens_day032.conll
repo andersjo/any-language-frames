@@ -1,0 +1,12 @@
+1	Durch	_	ADP	ADP	_	4	case
+2	den	_	DET	DET	_	4	det
+3	mitgetragenen	_	ADJ	ADJ	_	4	amod
+4	Burgfrieden	_	NOUN	NOUN	_	10	nsubj
+5	waren	_	VERB	VERB	_	10	cop
+6	kritische	_	ADJ	ADJ	_	7	amod
+7	Veranstaltungen	_	NOUN	NOUN	_	10	nmod
+8	nicht	_	PART	PART	_	9	neg
+9	mehr	_	ADV	ADV	_	10	advmod
+10	erwünscht	_	ADJ	ADJ	_	0	root
+11	.	_	PUNCT	PUNCT	_	10	punct
+

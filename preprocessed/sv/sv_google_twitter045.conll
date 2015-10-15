@@ -1,0 +1,27 @@
+1	4/7	_	NUM	NUM	_	3	nummod
+2	:	_	PUNCT	PUNCT	_	3	punct
+3	Slå	_	VERB	VERB	_	0	root
+4	namnet	_	NOUN	NOUN	_	3	dobj
+5	på	_	ADP	ADP	_	6	case
+6	google	_	NOUN	NOUN	_	3	nmod
+7	-	_	PUNCT	PUNCT	_	3	punct
+8	om	_	SCONJ	SCONJ	_	11	mark
+9	det	_	PRON	PRON	_	11	nsubjpass
+10	blir	_	AUX	AUX	_	11	auxpass
+11	träffar	_	VERB	VERB	_	3	advcl
+12	är	_	AUX	AUX	_	14	cop
+13	det	_	DET	DET	_	14	det
+14	citat	_	NOUN	NOUN	_	11	dobj
+15	eller	_	CONJ	CONJ	_	14	cc
+16	omnämnanden	_	NOUN	NOUN	_	14	conj
+17	från	_	ADP	ADP	_	18	case
+18	Avpixlat	_	NOUN	NOUN	_	16	nmod
+19	et	_	VERB	VERB	_	11	conj
+20	al	_	NOUN	NOUN	_	19	dobj
+21	.	_	PUNCT	PUNCT	_	3	punct
+22	Inget	_	DET	DET	_	23	det
+23	instagram	_	NOUN	NOUN	_	19	dobj
+24	el	_	CONJ	CONJ	_	23	cc
+25	liknande	_	ADJ	ADJ	_	23	amod
+26	.	_	PUNCT	PUNCT	_	3	punct
+

@@ -1,0 +1,25 @@
+1	@dikte	_	VERB	VERB	_	0	root
+2	Men	_	CONJ	CONJ	_	1	cc
+3	du	_	PRON	PRON	_	5	nsubj
+4	bliver	_	AUX	AUX	_	5	cop
+5	glad	_	ADJ	ADJ	_	1	conj
+6	for	_	ADP	ADP	_	9	case
+7	#bigdata	_	PROPN	PROPN	_	9	nmod:poss
+8	#overv	_	PROPN	PROPN	_	7	name
+9	ågning	_	NOUN	NOUN	_	5	nmod
+10	i	_	ADP	ADP	_	11	case
+11	længden	_	NOUN	NOUN	_	9	nmod
+12	..	_	PUNCT	PUNCT	_	5	punct
+13	#Centralpartiet	_	NOUN	NOUN	_	11	conj
+14	,	_	PUNCT	PUNCT	_	11	punct
+15	Google	_	NOUN	NOUN	_	13	conj
+16	og	_	CONJ	CONJ	_	13	cc
+17	Facebook	_	NOUN	NOUN	_	13	conj
+18	vil	_	AUX	AUX	_	22	aux
+19	dig	_	PRON	PRON	_	22	nsubj
+20	kun	_	ADV	ADV	_	22	advmod
+21	det	_	DET	DET	_	22	det
+22	bedste	_	ADJ	ADJ	_	1	mark
+23	:)	_	X	X	_	22	dep
+24	@karmel80	_	X	X	_	23	dep
+

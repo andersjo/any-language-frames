@@ -1,0 +1,25 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	November	_	PROPN	PROPN	_	7	nmod
+3	2002	_	NUM	NUM	_	2	nmod:tmod
+4	,	_	PUNCT	PUNCT	_	7	punct
+5	Ronaldo	_	PROPN	PROPN	_	7	nsubjpass
+6	was	_	AUX	AUX	_	7	auxpass
+7	invited	_	VERB	VERB	_	9	compound
+8	to	_	ADP	ADP	_	7	compound:prt
+9	Arsenal's	_	NOUN	NOUN	_	10	compound
+10	training	_	NOUN	NOUN	_	11	compound
+11	ground	_	NOUN	NOUN	_	1	dobj
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	London	_	PROPN	PROPN	_	14	compound
+14	Colney	_	PROPN	PROPN	_	11	appos
+15	to	_	PART	PART	_	16	mark
+16	meet	_	VERB	VERB	_	7	xcomp
+17	manager	_	NOUN	NOUN	_	16	dobj
+18	Arsène	_	PROPN	PROPN	_	19	compound
+19	Wenger	_	PROPN	PROPN	_	17	appos
+20	and	_	CONJ	CONJ	_	2	cc
+21	his	_	PRON	PRON	_	23	nmod:poss
+22	coaching	_	NOUN	NOUN	_	23	compound
+23	staff	_	NOUN	NOUN	_	19	conj
+24	.	_	PUNCT	PUNCT	_	7	punct
+

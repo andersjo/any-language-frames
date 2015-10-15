@@ -1,0 +1,12 @@
+1	Анализът	_	NOUN	NOUN	_	3	nsubj
+2	отново	_	ADV	ADV	_	3	advmod
+3	е	_	VERB	VERB	_	0	root
+4	на	_	ADP	ADP	_	5	case
+5	ниво	_	NOUN	NOUN	_	3	cop
+6	.	_	PUNCT	PUNCT	_	3	punct
+7	(Валутен	_	NOUN	NOUN	_	8	nsubj
+8	обзор	_	VERB	VERB	_	3	conj
+9	02.01.2015	_	NUM	NUM	_	11	nummod
+10	)	_	PUNCT	PUNCT	_	8	punct
+11	https://t.co/xbyOsPVt7U	_	PROPN	PROPN	_	8	dobj
+

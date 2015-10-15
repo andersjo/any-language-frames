@@ -1,0 +1,20 @@
+1	@yosoyluis90	_	PROPN	PROPN	_	2	name
+2	Sela	_	PROPN	PROPN	_	4	nsubj
+3	la	_	PRON	PRON	_	4	dobj
+4	comido	_	VERB	VERB	_	0	root
+5	Christiano	_	PROPN	PROPN	_	6	name
+6	Ronaldo	_	PROPN	PROPN	_	4	nsubj
+7	si	_	SCONJ	SCONJ	_	8	mark
+8	ves	_	VERB	VERB	_	4	advcl
+9	solo	_	ADV	ADV	_	8	advmod
+10	en	_	ADP	ADP	_	11	case
+11	penales	_	NOUN	NOUN	_	8	nmod
+12	mete	_	VERB	VERB	_	8	xcomp
+13	gol	_	NOUN	NOUN	_	12	dobj
+14	El	_	DET	DET	_	16	det
+15	mejor	_	ADJ	ADJ	_	16	amod
+16	jugador	_	NOUN	NOUN	_	12	nmod
+17	del	_	ADP	ADP	_	18	case
+18	mundo	_	NOUN	NOUN	_	16	nmod
+19	Messi10	_	PROPN	PROPN	_	18	appos
+

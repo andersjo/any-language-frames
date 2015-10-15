@@ -1,0 +1,15 @@
+1	Si	_	SCONJ	SCONJ	_	5	mark
+2	ça	_	PRON	PRON	_	5	nsubj
+3	devait	_	AUX	AUX	_	4	aux
+4	arriver	_	VERB	VERB	_	5	cop
+5	j'espère	_	ADJ	ADJ	_	0	root
+6	du	_	ADP	ADP	_	7	case
+7	fond	_	NOUN	NOUN	_	5	nmod
+8	du	_	ADP	ADP	_	9	case
+9	coeur	_	NOUN	NOUN	_	7	nmod
+10	être	_	VERB	VERB	_	12	cop
+11	Angelina	_	PROPN	PROPN	_	12	name
+12	Jolie	_	PROPN	PROPN	_	9	acl
+13	ds	_	ADJ	ADJ	_	14	amod
+14	l'histoire	_	NOUN	NOUN	_	12	appos
+

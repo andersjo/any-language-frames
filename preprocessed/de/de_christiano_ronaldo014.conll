@@ -1,0 +1,23 @@
+1	Seinen	_	DET	DET	_	3	nmod:poss
+2	zweiten	_	ADJ	ADJ	_	3	amod
+3	Vornamen	_	NOUN	NOUN	_	6	nmod
+4	„Ronaldo	_	PROPN	PROPN	_	5	name
+5	“	_	PROPN	PROPN	_	3	appos
+6	erhielt	_	VERB	VERB	_	0	root
+7	er	_	PRON	PRON	_	6	nsubj
+8	nach	_	ADP	ADP	_	11	case
+9	dem	_	DET	DET	_	11	det
+10	damaligen	_	ADJ	ADJ	_	11	amod
+11	US-Präsidenten	_	NOUN	NOUN	_	6	dobj
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	Ronald	_	PROPN	PROPN	_	14	name
+14	Reagan	_	PROPN	PROPN	_	11	appos
+15	,	_	PUNCT	PUNCT	_	14	punct
+16	welcher	_	PRON	PRON	_	14	appos
+17	der	_	DET	DET	_	18	det
+18	Lieblingsschauspieler	_	NOUN	NOUN	_	16	det
+19	seines	_	DET	DET	_	20	nmod:poss
+20	Vaters	_	NOUN	NOUN	_	18	det
+21	war	_	VERB	VERB	_	16	cop
+22	.	_	PUNCT	PUNCT	_	6	punct
+

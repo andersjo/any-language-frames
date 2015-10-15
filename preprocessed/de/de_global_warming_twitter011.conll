@@ -1,0 +1,16 @@
+1	#Infography	_	PROPN	PROPN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	#Arctic	_	PROPN	PROPN	_	1	appos
+4	#Resources	_	PROPN	PROPN	_	7	name
+5	-	_	PUNCT	PUNCT	_	6	punct
+6	Global	_	PROPN	PROPN	_	7	name
+7	Warming	_	PROPN	PROPN	_	1	appos
+8	(	_	PUNCT	PUNCT	_	9	punct
+9	2/2	_	NUM	NUM	_	7	appos
+10	)	_	PUNCT	PUNCT	_	9	punct
+11	-	_	PUNCT	PUNCT	_	12	punct
+12	by	_	PROPN	PROPN	_	14	name
+13	Michael	_	PROPN	PROPN	_	14	name
+14	Deeg	_	PROPN	PROPN	_	15	name
+15	http://t.co/a38frVViHm	_	PROPN	PROPN	_	7	appos
+

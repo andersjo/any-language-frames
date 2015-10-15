@@ -1,0 +1,9 @@
+1	AEV	_	PROPN	PROPN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Sieg	_	NOUN	NOUN	_	1	appos
+4	erst	_	ADV	ADV	_	7	advmod
+5	in	_	ADP	ADP	_	7	case
+6	der	_	DET	DET	_	7	det
+7	Verl�ngerung	_	NOUN	NOUN	_	3	nmod
+8	http://t.co/LIhKHQB74W	_	PROPN	PROPN	_	7	appos
+

@@ -1,0 +1,10 @@
+1	ora	_	ADV	ADV	_	3	advmod
+2	mi	_	PRON	PRON	_	3	expl
+3	guardo	_	VERB	VERB	_	0	root
+4	harry	_	PROPN	PROPN	_	3	nsubj
+5	potter	_	PROPN	PROPN	_	4	name
+6	e	_	CONJ	CONJ	_	4	cc
+7	l'ordine	_	NOUN	NOUN	_	4	conj
+8	della	_	ADP	ADP	_	9	case
+9	fenice	_	NOUN	NOUN	_	7	nmod
+

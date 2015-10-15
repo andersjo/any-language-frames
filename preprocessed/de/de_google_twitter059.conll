@@ -1,0 +1,13 @@
+1	Personalien	_	NOUN	NOUN	_	0	root
+2	bei	_	ADP	ADP	_	3	case
+3	Itzehoer	_	PROPN	PROPN	_	1	nmod
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	Neue	_	PROPN	PROPN	_	6	name
+6	Leben	_	PROPN	PROPN	_	3	conj
+7	,	_	PUNCT	PUNCT	_	3	punct
+8	Nürnberger	_	PROPN	PROPN	_	3	conj
+9	und	_	CONJ	CONJ	_	3	cc
+10	Hans	_	PROPN	PROPN	_	11	name
+11	John	_	PROPN	PROPN	_	12	name
+12	http://t.co/gjKYgcCyPk	_	PROPN	PROPN	_	6	conj
+

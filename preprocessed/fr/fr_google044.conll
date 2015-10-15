@@ -1,0 +1,12 @@
+1	Le	_	DET	DET	_	2	det
+2	nom	_	NOUN	NOUN	_	9	nsubjpass
+3	de	_	ADP	ADP	_	4	case
+4	domaine	_	NOUN	NOUN	_	2	nmod
+5	«	_	PUNCT	PUNCT	_	6	punct
+6	google.com	_	PROPN	PROPN	_	2	appos
+7	»	_	PUNCT	PUNCT	_	6	punct
+8	est	_	AUX	AUX	_	9	auxpass
+9	enregistré	_	VERB	VERB	_	0	root
+10	le	_	DET	DET	_	9	dep
+11	.	_	PUNCT	PUNCT	_	9	punct
+

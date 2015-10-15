@@ -1,0 +1,11 @@
+1	Google	_	NOUN	NOUN	_	2	nsubj
+2	tar	_	VERB	VERB	_	0	root
+3	bort	_	ADV	ADV	_	2	compound:prt
+4	Pirate	_	ADJ	ADJ	_	5	amod
+5	Bay	_	NOUN	NOUN	_	2	dobj
+6	apps	_	NOUN	NOUN	_	2	dobj
+7	från	_	ADP	ADP	_	10	case
+8	play	_	NOUN	NOUN	_	10	nmod:poss
+9	store	_	ADJ	ADJ	_	10	amod
+10	http://t.co/j9oW8teKbb	_	NOUN	NOUN	_	6	nmod
+

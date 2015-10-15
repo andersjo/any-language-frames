@@ -1,0 +1,15 @@
+1	global	_	ADJ	ADJ	_	2	advmod
+2	warming	_	VERB	VERB	_	0	root
+3	aur	_	PROPN	PROPN	_	4	det
+4	mere	_	NOUN	NOUN	_	2	nsubj
+5	baaray	_	PROPN	PROPN	_	6	name
+6	mein	_	PROPN	PROPN	_	7	name
+7	tou	_	PROPN	PROPN	_	8	name
+8	koi	_	PROPN	PROPN	_	9	name
+9	sochta	_	PROPN	PROPN	_	10	name
+10	hi	_	PROPN	PROPN	_	12	name
+11	nai	_	PROPN	PROPN	_	12	name
+12	hai	_	PROPN	PROPN	_	2	dobj
+13	ab	_	ADP	ADP	_	14	case
+14	tou	_	PROPN	PROPN	_	12	nmod
+

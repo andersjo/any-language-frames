@@ -1,0 +1,27 @@
+1	Tankade	_	VERB	VERB	_	0	root
+2	nyss	_	ADV	ADV	_	1	advmod
+3	mitt	_	DET	DET	_	4	nmod:poss
+4	kontantkort	_	NOUN	NOUN	_	1	dobj
+5	med	_	ADP	ADP	_	6	case
+6	pengar	_	NOUN	NOUN	_	4	nmod
+7	och	_	CONJ	CONJ	_	6	cc
+8	efter	_	ADP	ADP	_	9	case
+9	det	_	PRON	PRON	_	10	nmod
+10	tankade	_	VERB	VERB	_	1	conj
+11	jag	_	PRON	PRON	_	10	nsubj
+12	det	_	PRON	PRON	_	10	dobj
+13	med	_	ADP	ADP	_	14	case
+14	internet	_	NOUN	NOUN	_	10	nmod
+15	.	_	PUNCT	PUNCT	_	1	punct
+16	2	_	NUM	NUM	_	17	nummod
+17	steg	_	NOUN	NOUN	_	14	appos
+18	.	_	PUNCT	PUNCT	_	1	punct
+19	På	_	ADP	ADP	_	22	case
+20	en	_	DET	DET	_	22	det
+21	polsk	_	ADJ	ADJ	_	22	amod
+22	hemsida	_	NOUN	NOUN	_	17	nmod
+23	.	_	PUNCT	PUNCT	_	1	punct
+24	Utan	_	ADP	ADP	_	26	case
+25	google	_	NOUN	NOUN	_	26	nmod:poss
+26	translate	_	NOUN	NOUN	_	22	nmod
+

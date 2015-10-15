@@ -1,0 +1,12 @@
+1	Todo	_	PRON	PRON	_	10	nsubj
+2	bien	_	ADV	ADV	_	1	advmod
+3	con	_	ADP	ADP	_	4	case
+4	Depredadores	_	PROPN	PROPN	_	1	nmod
+5	pero	_	CONJ	CONJ	_	4	cc
+6	Harry	_	PROPN	PROPN	_	7	name
+7	Potter	_	PROPN	PROPN	_	4	conj
+8	es	_	VERB	VERB	_	10	cop
+9	harry	_	PROPN	PROPN	_	10	name
+10	potter	_	PROPN	PROPN	_	0	root
+11	.	_	PUNCT	PUNCT	_	1	punct
+

@@ -1,0 +1,9 @@
+1	In	_	ADP	ADP	_	3	case
+2	einer	_	DET	DET	_	3	det
+3	Garage	_	NOUN	NOUN	_	4	nmod
+4	gründeten	_	VERB	VERB	_	0	root
+5	sie	_	PRON	PRON	_	4	nsubj
+6	am	_	ADP	ADP	_	4	case
+7	4	_	NUM	NUM	_	6	dep
+8	.	_	PUNCT	PUNCT	_	4	punct
+

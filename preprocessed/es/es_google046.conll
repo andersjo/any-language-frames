@@ -1,0 +1,24 @@
+1	En	_	ADP	ADP	_	2	case
+2	junio	_	PROPN	PROPN	_	3	nmod
+3	lanza	_	VERB	VERB	_	0	root
+4	Google	_	PROPN	PROPN	_	5	name
+5	Gears	_	PROPN	PROPN	_	3	nsubj
+6	que	_	SCONJ	SCONJ	_	10	mark
+7	más	_	ADV	ADV	_	8	advmod
+8	tarde	_	ADV	ADV	_	10	advmod
+9	será	_	AUX	AUX	_	10	auxpass
+10	abandonado	_	VERB	VERB	_	5	acl:relcl
+11	debido	_	VERB	VERB	_	12	mwe
+12	a	_	ADP	ADP	_	13	mwe
+13	que	_	SCONJ	SCONJ	_	16	mark
+14	lo	_	PRON	PRON	_	20	nsubjpass
+15	que	_	SCONJ	SCONJ	_	16	mark
+16	ofrecía	_	VERB	VERB	_	14	acl:relcl
+17	más	_	ADV	ADV	_	18	advmod
+18	tarde	_	ADV	ADV	_	20	advmod
+19	fue	_	AUX	AUX	_	20	auxpass
+20	incorporado	_	VERB	VERB	_	10	advcl
+21	en	_	ADP	ADP	_	22	case
+22	HTML5	_	PROPN	PROPN	_	20	nmod
+23	.	_	PUNCT	PUNCT	_	3	punct
+

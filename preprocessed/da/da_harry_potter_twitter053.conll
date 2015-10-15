@@ -1,0 +1,26 @@
+1	jeg	_	PRON	PRON	_	3	nsubj
+2	er	_	AUX	AUX	_	3	cop
+3	den	_	PRON	PRON	_	19	nsubj
+4	der	_	PART	PART	_	5	nsubj
+5	irriterende	_	VERB	VERB	_	3	acl:relcl
+6	type	_	NOUN	NOUN	_	5	dobj
+7	,	_	PUNCT	PUNCT	_	9	punct
+8	som	_	PART	PART	_	9	nsubj
+9	siger	_	VERB	VERB	_	6	acl:relcl
+10	alle	_	ADJ	ADJ	_	11	amod
+11	replikkerne	_	NOUN	NOUN	_	9	dobj
+12	,	_	PUNCT	PUNCT	_	9	punct
+13	griner	_	VERB	VERB	_	0	root
+14	,	_	PUNCT	PUNCT	_	19	punct
+15	før	_	SCONJ	SCONJ	_	19	mark
+16	de	_	DET	DET	_	18	det
+17	sjove	_	ADJ	ADJ	_	18	amod
+18	scener	_	NOUN	NOUN	_	19	nsubj
+19	sker	_	VERB	VERB	_	13	dobj
+20	og	_	CONJ	CONJ	_	19	cc
+21	laver	_	VERB	VERB	_	19	conj
+22	kommentarspor	_	NOUN	NOUN	_	21	dobj
+23	under	_	ADP	ADP	_	25	case
+24	harry	_	ADJ	ADJ	_	25	amod
+25	potter	_	NOUN	NOUN	_	21	nmod
+

@@ -1,0 +1,20 @@
+1	Her	_	PRON	PRON	_	4	nmod:poss
+2	first	_	ADV	ADV	_	3	advmod
+3	leading	_	VERB	VERB	_	0	root
+4	role	_	NOUN	NOUN	_	3	dobj
+5	in	_	ADP	ADP	_	3	compound:prt
+6	a	_	DET	DET	_	8	det
+7	major	_	ADJ	ADJ	_	0	remnant
+8	film	_	NOUN	NOUN	_	3	nmod
+9	was	_	VERB	VERB	_	12	cop
+10	in	_	ADP	ADP	_	9	compound:prt
+11	the	_	DET	DET	_	12	det
+12	cyber-thriller	_	NOUN	NOUN	_	8	remnant
+13	"	_	PUNCT	PUNCT	_	14	punct
+14	Hackers	_	PROPN	PROPN	_	12	appos
+15	"	_	PUNCT	PUNCT	_	14	punct
+16	(	_	PUNCT	PUNCT	_	14	punct
+17	1995	_	NUM	NUM	_	14	advmod
+18	)	_	PUNCT	PUNCT	_	17	punct
+19	.	_	PUNCT	PUNCT	_	3	punct
+

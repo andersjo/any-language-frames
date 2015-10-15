@@ -1,0 +1,12 @@
+1	Där	_	ADV	ADV	_	2	advmod
+2	slutade	_	VERB	VERB	_	0	root
+3	han	_	PRON	PRON	_	2	nsubj
+4	trea	_	NOUN	NOUN	_	2	dobj
+5	-	_	PUNCT	PUNCT	_	4	punct
+6	Kaká	_	NOUN	NOUN	_	7	nsubj
+7	vann	_	VERB	VERB	_	2	parataxis
+8	även	_	ADV	ADV	_	7	advmod
+9	denna	_	DET	DET	_	10	det
+10	utmärkelse	_	NOUN	NOUN	_	7	dobj
+11	.	_	PUNCT	PUNCT	_	2	punct
+

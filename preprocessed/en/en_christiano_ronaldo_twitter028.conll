@@ -1,0 +1,12 @@
+1	@callum_frazer	_	VERB	VERB	_	0	root
+2	not	_	ADV	ADV	_	3	neg
+3	as	_	ADV	ADV	_	1	advmod
+4	good	_	ADJ	ADJ	_	0	mwe
+5	as	_	ADP	ADP	_	6	mark
+6	spending	_	VERB	VERB	_	1	advcl
+7	the	_	DET	DET	_	8	det
+8	day	_	NOUN	NOUN	_	6	dobj
+9	with	_	ADP	ADP	_	6	compound:prt
+10	Christiano	_	PROPN	PROPN	_	11	compound
+11	Ronaldo	_	PROPN	PROPN	_	6	nmod
+

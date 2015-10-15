@@ -1,0 +1,14 @@
+1	@pequenananana	_	VERB	VERB	_	0	root
+2	@_poxaanalu	_	PROPN	PROPN	_	1	nsubj
+3	"	_	PUNCT	PUNCT	_	5	punct
+4	a	_	ADP	ADP	_	5	case
+5	creche	_	NOUN	NOUN	_	2	nmod
+6	da	_	ADP	ADP	_	7	case
+7	titia	_	NOUN	NOUN	_	5	nmod
+8	thai	_	VERB	VERB	_	7	acl
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	superando	_	VERB	VERB	_	8	conj
+11	angelina	_	NOUN	NOUN	_	10	dobj
+12	jolie	_	ADJ	ADJ	_	11	amod
+13	"	_	PUNCT	PUNCT	_	11	punct
+

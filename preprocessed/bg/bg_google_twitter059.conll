@@ -1,0 +1,16 @@
+1	Видео	_	PROPN	PROPN	_	5	nsubj
+2	"	_	PUNCT	PUNCT	_	1	punct
+3	Google	_	PROPN	PROPN	_	1	nmod
+4	Adwords	_	PROPN	PROPN	_	3	name
+5	настройка	_	VERB	VERB	_	0	root
+6	на	_	ADP	ADP	_	7	case
+7	русском	_	PROPN	PROPN	_	5	iobj
+8	"	_	PUNCT	PUNCT	_	5	punct
+9	(	_	PUNCT	PUNCT	_	10	punct
+10	http://t.co/7nNc1Og5qn	_	PROPN	PROPN	_	7	discourse
+11	)	_	PUNCT	PUNCT	_	10	punct
+12	на	_	ADP	ADP	_	13	case
+13	@YouTube	_	PROPN	PROPN	_	5	nmod
+14	добавлено	_	VERB	VERB	_	5	advcl
+15	в	_	ADP	ADP	_	14	iobj
+

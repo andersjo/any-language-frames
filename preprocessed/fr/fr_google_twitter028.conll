@@ -1,0 +1,16 @@
+1	G	_	PROPN	PROPN	_	2	nsubj
+2	ouver	_	VERB	VERB	_	0	root
+3	google	_	NOUN	NOUN	_	2	dobj
+4	chrome	_	ADJ	ADJ	_	3	amod
+5	en	_	ADP	ADP	_	7	case
+6	privé	_	ADJ	ADJ	_	7	amod
+7	ca	_	NOUN	NOUN	_	3	nmod
+8	ma	_	DET	DET	_	10	det
+9	tout	_	DET	DET	_	10	det
+10	niker	_	NOUN	NOUN	_	7	appos
+11	mdr	_	PROPN	PROPN	_	10	appos
+12	il	_	PRON	PRON	_	13	nsubj
+13	l'a	_	VERB	VERB	_	10	acl:relcl
+14	senti	_	VERB	VERB	_	13	xcomp
+15	vnir	_	ADV	ADV	_	14	advmod
+

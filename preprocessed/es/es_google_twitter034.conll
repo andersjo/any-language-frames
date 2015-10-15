@@ -1,0 +1,18 @@
+1	Google	_	PROPN	PROPN	_	2	name
+2	Maps	_	PROPN	PROPN	_	4	nsubj
+3	,	_	PUNCT	PUNCT	_	4	punct
+4	multada	_	VERB	VERB	_	0	root
+5	con	_	ADP	ADP	_	7	case
+6	2.250	_	NUM	NUM	_	7	nummod
+7	$	_	SYM	SYM	_	4	nmod
+8	por	_	ADP	ADP	_	9	case
+9	publicar	_	VERB	VERB	_	4	acl
+10	el	_	DET	DET	_	11	det
+11	escote	_	NOUN	NOUN	_	9	dobj
+12	de	_	ADP	ADP	_	14	case
+13	una	_	DET	DET	_	14	det
+14	mujer	_	NOUN	NOUN	_	11	nmod
+15	-	_	PUNCT	PUNCT	_	14	punct
+16	http://t.co/R6ieQQqiXX	_	PROPN	PROPN	_	17	name
+17	http://t.co/PmDC63Mkho	_	PROPN	PROPN	_	14	appos
+

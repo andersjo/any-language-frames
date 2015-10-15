@@ -1,0 +1,10 @@
+1	Veeeeeeey	_	PROPN	PROPN	_	3	nsubj
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	soundtracks	_	VERB	VERB	_	0	root
+4	de	_	DET	DET	_	5	det
+5	Harry	_	NOUN	NOUN	_	3	nsubj
+6	Potter	_	NOUN	NOUN	_	3	nsubj
+7	é	_	NOUN	NOUN	_	3	nsubj
+8	foda	_	PROPN	PROPN	_	7	appos
+9	.	_	PUNCT	PUNCT	_	3	punct
+

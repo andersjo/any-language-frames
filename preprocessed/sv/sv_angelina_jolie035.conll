@@ -1,0 +1,16 @@
+1	Jolie	_	NOUN	NOUN	_	4	nsubj
+2	och	_	CONJ	CONJ	_	1	cc
+3	Miller	_	NOUN	NOUN	_	1	conj
+4	separerade	_	ADJ	ADJ	_	0	root
+5	redan	_	ADV	ADV	_	8	advmod
+6	i	_	ADP	ADP	_	8	case
+7	september	_	NOUN	NOUN	_	8	det
+8	1997	_	NUM	NUM	_	4	nmod
+9	och	_	CONJ	CONJ	_	8	cc
+10	skilde	_	VERB	VERB	_	4	conj
+11	sig	_	PRON	PRON	_	10	dobj
+12	i	_	ADP	ADP	_	13	case
+13	februari	_	NOUN	NOUN	_	14	det
+14	1999	_	NUM	NUM	_	10	nmod
+15	.	_	PUNCT	PUNCT	_	4	punct
+

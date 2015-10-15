@@ -1,0 +1,19 @@
+1	@thunkuverymuch	_	PROPN	PROPN	_	0	root
+2	@AnnieSut2	_	X	X	_	4	goeswith
+3	@thomasrdotorg	_	X	X	_	4	goeswith
+4	I'm	_	NOUN	NOUN	_	1	parataxis
+5	a	_	DET	DET	_	7	det
+6	firm	_	NOUN	NOUN	_	7	compound
+7	believer	_	NOUN	NOUN	_	16	nmod
+8	in	_	ADP	ADP	_	6	compound
+9	Patrick	_	PROPN	PROPN	_	11	compound
+10	Moore's	_	PROPN	PROPN	_	11	compound
+11	@EcoSenseNow	_	PROPN	PROPN	_	12	compound
+12	views	_	NOUN	NOUN	_	15	compound
+13	re	_	ADP	ADP	_	12	acl
+14	global	_	ADJ	ADJ	_	0	foreign
+15	warming	_	NOUN	NOUN	_	16	nsubj
+16	being	_	VERB	VERB	_	4	acl:relcl
+17	a	_	DET	DET	_	16	expl
+18	non-event	_	ADJ	ADJ	_	0	foreign
+

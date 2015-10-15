@@ -1,0 +1,15 @@
+1	Quando	_	SCONJ	SCONJ	_	2	mark
+2	parli	_	VERB	VERB	_	11	advcl
+3	o	_	CONJ	CONJ	_	2	cc
+4	senti	_	VERB	VERB	_	2	conj
+5	parlare	_	VERB	VERB	_	4	xcomp
+6	di	_	ADP	ADP	_	7	case
+7	Harry	_	PROPN	PROPN	_	5	nmod
+8	Potter	_	PROPN	PROPN	_	7	name
+9	ti	_	PRON	PRON	_	11	advmod
+10	si	_	PRON	PRON	_	11	expl
+11	illumina	_	VERB	VERB	_	0	root
+12	lo	_	DET	DET	_	13	det
+13	sguardo	_	NOUN	NOUN	_	11	nsubj
+14	#cosedapotterheads	_	PROPN	PROPN	_	13	nmod
+

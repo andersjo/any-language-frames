@@ -1,0 +1,23 @@
+1	Тя	_	PRON	PRON	_	3	nsubj
+2	го	_	PRON	PRON	_	3	dobj
+3	описва	_	VERB	VERB	_	0	root
+4	този	_	DET	DET	_	5	det
+5	период	_	NOUN	NOUN	_	3	dobj
+6	от	_	ADP	ADP	_	7	case
+7	живота	_	NOUN	NOUN	_	5	nmod
+8	си	_	PRON	PRON	_	7	case
+9	така	_	ADV	ADV	_	7	advmod
+10	:	_	PUNCT	PUNCT	_	3	punct
+11	"	_	PUNCT	PUNCT	_	15	punct
+12	просто	_	ADV	ADV	_	15	advmod
+13	за	_	ADP	ADP	_	14	case
+14	мен	_	PRON	PRON	_	15	iobj
+15	е	_	VERB	VERB	_	5	acl
+16	добре	_	ADV	ADV	_	15	cop
+17	да	_	PART	PART	_	19	aux
+18	си	_	PRON	PRON	_	19	expl
+19	събера	_	VERB	VERB	_	15	csubj
+20	мислите	_	NOUN	NOUN	_	19	dobj
+21	"	_	PUNCT	PUNCT	_	3	punct
+22	.	_	PUNCT	PUNCT	_	3	punct
+

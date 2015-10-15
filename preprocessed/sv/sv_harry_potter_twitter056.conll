@@ -1,0 +1,17 @@
+1	@campingslynan	_	NOUN	NOUN	_	2	nmod:poss
+2	@Oskarryden	_	NOUN	NOUN	_	3	nmod:poss
+3	Snape	_	NOUN	NOUN	_	4	nmod
+4	gick	_	VERB	VERB	_	0	root
+5	Slytherin	_	NOUN	NOUN	_	4	dobj
+6	och	_	CONJ	CONJ	_	4	cc
+7	han	_	PRON	PRON	_	15	nsubj
+8	var	_	AUX	AUX	_	10	cop
+9	den	_	DET	DET	_	10	det
+10	modigaste	_	ADJ	ADJ	_	12	amod
+11	man	_	PRON	PRON	_	10	nsubj
+12	Harry	_	PROPN	PROPN	_	13	nmod:poss
+13	Potter	_	NOUN	NOUN	_	5	conj
+14	någonsin	_	ADV	ADV	_	15	case
+15	mött	_	NOUN	NOUN	_	13	conj
+16	.	_	PUNCT	PUNCT	_	4	punct
+

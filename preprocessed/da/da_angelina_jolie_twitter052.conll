@@ -1,0 +1,10 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	@IelliaHoya	_	PROPN	PROPN	_	0	root
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	I	_	ADP	ADP	_	5	case
+5	salute	_	NOUN	NOUN	_	2	nmod
+6	Angelina	_	PROPN	PROPN	_	5	appos
+7	Jolie	_	NOUN	NOUN	_	6	dep
+8	http://t.co/RQG3UpVwyH	_	PROPN	PROPN	_	7	appos
+9	"	_	PUNCT	PUNCT	_	2	punct
+

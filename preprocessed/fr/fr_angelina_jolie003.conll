@@ -1,0 +1,24 @@
+1	Selon	_	ADP	ADP	_	3	case
+2	le	_	DET	DET	_	3	det
+3	magazine	_	NOUN	NOUN	_	5	nmod
+4	"	_	PUNCT	PUNCT	_	5	punct
+5	Forbes	_	PROPN	PROPN	_	8	name
+6	"	_	PUNCT	PUNCT	_	5	punct
+7	Angelina	_	PROPN	PROPN	_	8	name
+8	Jolie	_	PROPN	PROPN	_	10	nsubj
+9	est	_	VERB	VERB	_	10	cop
+10	l'actrice	_	ADJ	ADJ	_	0	root
+11	la	_	DET	DET	_	12	det
+12	mieux	_	NOUN	NOUN	_	10	nsubj
+13	payée	_	VERB	VERB	_	12	acl
+14	d'Hollywood	_	NOUN	NOUN	_	13	dobj
+15	entre	_	ADP	ADP	_	16	case
+16	juin	_	NOUN	NOUN	_	14	nmod
+17	2012	_	NUM	NUM	_	16	nmod
+18	et	_	CONJ	CONJ	_	16	cc
+19	juin	_	NOUN	NOUN	_	16	conj
+20	2013	_	NUM	NUM	_	19	nmod
+21	avec	_	ADP	ADP	_	22	case
+22	$	_	NOUN	NOUN	_	19	nmod
+23	.	_	PUNCT	PUNCT	_	13	punct
+

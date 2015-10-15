@@ -1,0 +1,14 @@
+1	Jane	_	PROPN	PROPN	_	3	nmod:poss
+2	Reagan	_	PROPN	PROPN	_	1	name
+3	LIBRE	_	NOUN	NOUN	_	6	dep
+4	FC	_	PROPN	PROPN	_	3	appos
+5	:	_	PUNCT	PUNCT	_	4	punct
+6	Angelina	_	PROPN	PROPN	_	8	nmod:poss
+7	Jolie	_	NOUN	NOUN	_	6	dep
+8	historia	_	NOUN	NOUN	_	0	root
+9	:	_	PUNCT	PUNCT	_	6	punct
+10	ver	_	NOUN	NOUN	_	8	dep
+11	en	_	DET	DET	_	13	det
+12	blog	_	VERB	VERB	_	13	dep
+13	http://t.co/IYcUueYU6r	_	NOUN	NOUN	_	10	list
+

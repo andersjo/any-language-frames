@@ -1,0 +1,20 @@
+1	http://t.co/gcBPu1bnty	_	PROPN	PROPN	_	2	compound
+2	Manhattan	_	PROPN	PROPN	_	3	nsubj
+3	says	_	VERB	VERB	_	0	root
+4	No	_	ADV	ADV	_	8	neg
+5	to	_	ADP	ADP	_	3	compound
+6	Bitcoin	_	PROPN	PROPN	_	8	compound
+7	Block	_	NOUN	NOUN	_	8	compound
+8	Party	_	NOUN	NOUN	_	3	dobj
+9	:	_	PUNCT	PUNCT	_	3	punct
+10	When	_	ADV	ADV	_	12	advmod
+11	it	_	PRON	PRON	_	12	nsubj
+12	comes	_	VERB	VERB	_	3	advcl
+13	to	_	ADP	ADP	_	14	compound
+14	bitcoin	_	NOUN	NOUN	_	12	dobj
+15	and	_	CONJ	CONJ	_	3	cc
+16	digital	_	ADJ	ADJ	_	0	conj
+17	currency	_	NOUN	NOUN	_	18	compound
+18	,...	_	NOUN	NOUN	_	14	conj
+19	http://t.co/N9xDDGGR1P	_	X	X	_	18	appos
+

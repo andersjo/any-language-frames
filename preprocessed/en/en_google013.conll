@@ -1,0 +1,25 @@
+1	The	_	DET	DET	_	2	det
+2	company	_	NOUN	NOUN	_	3	nsubj
+3	leads	_	VERB	VERB	_	0	root
+4	the	_	DET	DET	_	5	det
+5	development	_	NOUN	NOUN	_	3	dobj
+6	of	_	ADP	ADP	_	3	compound:prt
+7	the	_	DET	DET	_	8	det
+8	Android	_	NOUN	NOUN	_	11	compound
+9	mobile	_	ADJ	ADJ	_	0	foreign
+10	operating	_	NOUN	NOUN	_	11	compound
+11	system	_	NOUN	NOUN	_	5	appos
+12	and	_	CONJ	CONJ	_	3	cc
+13	the	_	DET	DET	_	16	det
+14	browser-only	_	ADJ	ADJ	_	0	foreign
+15	Chrome	_	PROPN	PROPN	_	16	compound
+16	OS	_	NOUN	NOUN	_	11	conj
+17	for	_	ADP	ADP	_	16	acl
+18	a	_	DET	DET	_	19	det
+19	netbook	_	NOUN	NOUN	_	20	nsubj
+20	known	_	VERB	VERB	_	3	conj
+21	as	_	ADP	ADP	_	20	compound:prt
+22	a	_	DET	DET	_	23	det
+23	Chromebook	_	PROPN	PROPN	_	20	dobj
+24	.	_	PUNCT	PUNCT	_	3	punct
+

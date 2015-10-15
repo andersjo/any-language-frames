@@ -1,0 +1,7 @@
+1	Gun	_	NOUN	NOUN	_	2	nsubj
+2	Blog	_	VERB	VERB	_	0	root
+3	Variety	_	PROPN	PROPN	_	2	nsubj
+4	Podcast	_	PROPN	PROPN	_	3	name
+5	#20	_	X	X	_	2	dep
+6	http://t.co/MLlQXudnce	_	NOUN	NOUN	_	2	dobj
+

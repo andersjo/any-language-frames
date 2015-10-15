@@ -1,0 +1,25 @@
+1	@DanielaBayona_	_	PROPN	PROPN	_	3	name
+2	“	_	PROPN	PROPN	_	3	name
+3	@classland	_	PROPN	PROPN	_	5	case
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	Tú	_	PRON	PRON	_	20	nsubj
+6	.	_	PUNCT	PUNCT	_	5	punct
+7	Yo	_	PRON	PRON	_	5	conj
+8	.	_	PUNCT	PUNCT	_	3	punct
+9	Noche	_	NOUN	NOUN	_	20	nmod
+10	de	_	ADP	ADP	_	11	case
+11	Reyes	_	PROPN	PROPN	_	9	nmod
+12	.	_	PUNCT	PUNCT	_	3	punct
+13	Maratón	_	PROPN	PROPN	_	11	appos
+14	de	_	ADP	ADP	_	16	case
+15	Harry	_	PROPN	PROPN	_	16	name
+16	Potter	_	PROPN	PROPN	_	13	nmod
+17	.	_	PUNCT	PUNCT	_	3	punct
+18	¿Te	_	PROPN	PROPN	_	20	nsubj
+19	lo	_	PRON	PRON	_	20	dobj
+20	tienes	_	VERB	VERB	_	0	root
+21	que	_	SCONJ	SCONJ	_	22	mark
+22	pensar	_	VERB	VERB	_	20	ccomp
+23	?	_	PUNCT	PUNCT	_	20	punct
+24	”	_	X	X	_	20	dep
+

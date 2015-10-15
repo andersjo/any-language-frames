@@ -1,0 +1,16 @@
+1	@CaptainWaterLaw	_	PROPN	PROPN	_	3	name
+2	@Kurosvki_	_	PROPN	PROPN	_	3	name
+3	@Gri2mJow	_	PROPN	PROPN	_	4	nsubj
+4	sert	_	VERB	VERB	_	0	root
+5	toi	_	PRON	PRON	_	4	dobj
+6	dla	_	VERB	VERB	_	4	xcomp
+7	potion	_	NOUN	NOUN	_	6	dobj
+8	de	_	ADP	ADP	_	9	case
+9	vérité	_	NOUN	NOUN	_	7	nmod
+10	de	_	ADP	ADP	_	11	case
+11	rogue	_	NOUN	NOUN	_	9	nmod
+12	dans	_	ADP	ADP	_	14	case
+13	Harry	_	PROPN	PROPN	_	14	name
+14	Potter	_	PROPN	PROPN	_	6	nmod
+15	5	_	NUM	NUM	_	14	nummod
+

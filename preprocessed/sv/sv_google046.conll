@@ -1,0 +1,15 @@
+1	Google	_	NOUN	NOUN	_	2	nsubj
+2	har	_	VERB	VERB	_	0	root
+3	som	_	PRON	PRON	_	2	nsubj
+4	tradition	_	NOUN	NOUN	_	2	dobj
+5	att	_	PART	PART	_	6	mark
+6	sprida	_	VERB	VERB	_	4	acl
+7	aprilskämt	_	NOUN	NOUN	_	6	dobj
+8	såsom	_	CONJ	CONJ	_	10	advmod
+9	Google	_	PROPN	PROPN	_	10	nmod:poss
+10	MentalPlex	_	NOUN	NOUN	_	6	dobj
+11	och	_	CONJ	CONJ	_	10	cc
+12	Google	_	PROPN	PROPN	_	10	conj
+13	Lunar	_	PROPN	PROPN	_	12	name
+14	.	_	PUNCT	PUNCT	_	2	punct
+

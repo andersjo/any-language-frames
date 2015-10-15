@@ -1,0 +1,15 @@
+1	När	_	ADV	ADV	_	6	advmod
+2	Jolie	_	NOUN	NOUN	_	12	nsubj
+3	var	_	AUX	AUX	_	6	aux
+4	fjorton	_	NOUN	NOUN	_	5	nmod:poss
+5	år	_	NOUN	NOUN	_	6	nmod
+6	hoppade	_	VERB	VERB	_	0	root
+7	hon	_	PRON	PRON	_	6	nsubj
+8	av	_	ADP	ADP	_	9	case
+9	skolan	_	NOUN	NOUN	_	6	nmod
+10	och	_	CONJ	CONJ	_	6	cc
+11	ville	_	AUX	AUX	_	12	aux
+12	bli	_	VERB	VERB	_	6	conj
+13	begravningsentreprenör	_	NOUN	NOUN	_	12	xcomp
+14	.	_	PUNCT	PUNCT	_	6	punct
+

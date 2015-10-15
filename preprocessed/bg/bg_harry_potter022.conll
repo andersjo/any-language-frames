@@ -1,0 +1,9 @@
+1	Филмът	_	NOUN	NOUN	_	3	nsubjpass
+2	е	_	AUX	AUX	_	3	aux
+3	пуснат	_	VERB	VERB	_	0	root
+4	на	_	ADP	ADP	_	6	case
+5	11	_	NUM	NUM	_	6	nummod
+6	юли	_	NOUN	NOUN	_	3	iobj
+7	2007	_	NUM	NUM	_	6	nummod
+8	.	_	PUNCT	PUNCT	_	3	punct
+

@@ -1,0 +1,26 @@
+1	@Diegoem1	_	X	X	_	2	nsubj
+2	llevo	_	VERB	VERB	_	0	root
+3	1	_	NUM	NUM	_	4	nummod
+4	hora	_	NOUN	NOUN	_	2	dobj
+5	tratando	_	VERB	VERB	_	4	acl
+6	de	_	ADP	ADP	_	7	case
+7	ver	_	VERB	VERB	_	5	acl
+8	el	_	DET	DET	_	9	det
+9	partido	_	NOUN	NOUN	_	7	dobj
+10	por	_	ADP	ADP	_	11	case
+11	estadiocdf	_	NOUN	NOUN	_	9	nmod
+12	,	_	PUNCT	PUNCT	_	2	punct
+13	ni	_	CONJ	CONJ	_	9	cc
+14	google	_	PROPN	PROPN	_	16	nsubj
+15	me	_	PRON	PRON	_	16	iobj
+16	carga	_	VERB	VERB	_	5	conj
+17	po	_	ADJ	ADJ	_	18	amod
+18	wn	_	NOUN	NOUN	_	16	dobj
+19	xD	_	ADJ	ADJ	_	18	amod
+20	3	_	NUM	NUM	_	21	nummod
+21	minutos	_	NOUN	NOUN	_	18	nmod
+22	pa	_	ADJ	ADJ	_	21	amod
+23	que	_	SCONJ	SCONJ	_	24	mark
+24	abra	_	VERB	VERB	_	21	acl:relcl
+25	jajaja	_	X	X	_	24	dobj
+

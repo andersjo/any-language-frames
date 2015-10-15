@@ -1,0 +1,8 @@
+1	"	_	PUNCT	PUNCT	_	3	punct
+2	ANGELINA	_	PROPN	PROPN	_	3	name
+3	JOLIE	_	PROPN	PROPN	_	0	root
+4	UN	_	DET	DET	_	5	det
+5	POROTO	_	PROPN	PROPN	_	3	dobj
+6	"	_	PUNCT	PUNCT	_	3	punct
+7	JAJAJAJAJAJA	_	PROPN	PROPN	_	5	appos
+

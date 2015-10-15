@@ -1,0 +1,23 @@
+1	Il	_	DET	DET	_	2	det
+2	numero	_	NOUN	NOUN	_	9	nsubj
+3	sette	_	NUM	NUM	_	2	nummod
+4	,	_	PUNCT	PUNCT	_	2	punct
+5	in	_	ADP	ADP	_	6	case
+6	particolare	_	NOUN	NOUN	_	2	nmod
+7	,	_	PUNCT	PUNCT	_	2	punct
+8	ricorre	_	VERB	VERB	_	18	advcl
+9	spessissimo	_	ADJ	ADJ	_	8	xcomp
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	non	_	ADV	ADV	_	13	neg
+12	a	_	ADP	ADP	_	13	case
+13	caso	_	NOUN	NOUN	_	18	nmod
+14	anche	_	ADV	ADV	_	16	advmod
+15	la	_	DET	DET	_	16	det
+16	storia	_	NOUN	NOUN	_	18	nsubjpass
+17	è	_	AUX	AUX	_	18	auxpass
+18	divisa	_	VERB	VERB	_	0	root
+19	in	_	ADP	ADP	_	21	case
+20	sette	_	NUM	NUM	_	21	nummod
+21	volumi	_	NOUN	NOUN	_	18	nmod
+22	.	_	PUNCT	PUNCT	_	18	punct
+

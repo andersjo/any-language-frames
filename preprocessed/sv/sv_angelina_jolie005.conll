@@ -1,0 +1,20 @@
+1	"	_	PUNCT	PUNCT	_	4	punct
+2	,	_	PUNCT	PUNCT	_	4	punct
+3	"	_	PUNCT	PUNCT	_	4	punct
+4	Empire	_	ADJ	ADJ	_	14	nsubj
+5	"	_	PUNCT	PUNCT	_	4	punct
+6	och	_	CONJ	CONJ	_	4	cc
+7	"	_	PUNCT	PUNCT	_	8	punct
+8	Vanity	_	PROPN	PROPN	_	0	root
+9	Fair	_	PROPN	PROPN	_	8	name
+10	"	_	PUNCT	PUNCT	_	8	punct
+11	och	_	CONJ	CONJ	_	4	cc
+12	hon	_	PRON	PRON	_	14	nsubj
+13	har	_	AUX	AUX	_	14	aux
+14	fått	_	VERB	VERB	_	8	acl:relcl
+15	påtaglig	_	ADJ	ADJ	_	16	amod
+16	mediauppmärksamhet	_	NOUN	NOUN	_	14	dobj
+17	för	_	ADP	ADP	_	18	case
+18	detta	_	PRON	PRON	_	14	nmod
+19	.	_	PUNCT	PUNCT	_	14	punct
+

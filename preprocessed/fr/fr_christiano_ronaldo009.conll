@@ -1,0 +1,14 @@
+1	Il	_	PRON	PRON	_	6	nsubj
+2	est	_	VERB	VERB	_	6	cop
+3	le	_	DET	DET	_	6	det
+4	deuxième	_	ADJ	ADJ	_	6	amod
+5	meilleur	_	ADJ	ADJ	_	6	amod
+6	buteur	_	NOUN	NOUN	_	0	root
+7	de	_	ADP	ADP	_	9	case
+8	cette	_	DET	DET	_	9	det
+9	compétition	_	NOUN	NOUN	_	6	nmod
+10	à	_	ADP	ADP	_	12	case
+11	ce	_	DET	DET	_	12	det
+12	jour	_	NOUN	NOUN	_	6	nmod
+13	.	_	PUNCT	PUNCT	_	6	punct
+

@@ -1,0 +1,19 @@
+1	Apple	_	PROPN	PROPN	_	2	name
+2	Watch	_	PROPN	PROPN	_	4	name
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Verwirrung	_	NOUN	NOUN	_	11	nmod
+5	um	_	ADP	ADP	_	6	case
+6	Deutschland-Verkaufsstart	_	NOUN	NOUN	_	4	nmod
+7	:	_	PUNCT	PUNCT	_	4	punct
+8	Nach	_	ADP	ADP	_	11	case
+9	wie	_	CONJ	CONJ	_	8	mwe
+10	vor	_	ADV	ADV	_	9	mwe
+11	fragen	_	VERB	VERB	_	0	root
+12	wir	_	PRON	PRON	_	11	nsubj
+13	uns	_	PRON	PRON	_	11	dobj
+14	,	_	PUNCT	PUNCT	_	11	punct
+15	wann	_	ADV	ADV	_	18	advmod
+16	die	_	DET	DET	_	18	det
+17	…	_	PROPN	PROPN	_	18	amod
+18	http://t.co/kbJO1HvkGf	_	PROPN	PROPN	_	11	xcomp
+

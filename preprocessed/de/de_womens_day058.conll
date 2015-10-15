@@ -1,0 +1,13 @@
+1	Genau	_	ADV	ADV	_	2	advmod
+2	fünfzig	_	NUM	NUM	_	3	nummod
+3	Jahre	_	NOUN	NOUN	_	6	nmod
+4	nach	_	ADP	ADP	_	6	case
+5	diesem	_	PRON	PRON	_	6	det
+6	Vorfall	_	NOUN	NOUN	_	7	nmod
+7	habe	_	AUX	AUX	_	0	root
+8	man	_	PRON	PRON	_	7	nsubj
+9	sich	_	PRON	PRON	_	7	dobj
+10	am	_	ADP	ADP	_	8	case
+11	8	_	NUM	NUM	_	10	dep
+12	.	_	PUNCT	PUNCT	_	11	punct
+

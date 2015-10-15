@@ -1,0 +1,20 @@
+1	@tytyitalia	_	PROPN	PROPN	_	3	name
+2	@PierrePhilibert	_	PROPN	PROPN	_	3	name
+3	@CindelEzzaim	_	PROPN	PROPN	_	4	nsubj
+4	@Maal_vaa	_	VERB	VERB	_	0	root
+5	@MafpLeRimeur	_	NOUN	NOUN	_	4	dobj
+6	mddr	_	PROPN	PROPN	_	5	appos
+7	le	_	DET	DET	_	8	det
+8	coquin	_	NOUN	NOUN	_	4	dobj
+9	🙊🙊mais	_	ADV	ADV	_	10	advmod
+10	quand	_	SCONJ	SCONJ	_	12	mark
+11	on	_	PRON	PRON	_	14	nsubj
+12	est	_	VERB	VERB	_	14	cop
+13	le	_	DET	DET	_	14	det
+14	sosie	_	NOUN	NOUN	_	4	ccomp
+15	de	_	ADP	ADP	_	18	case
+16	Harry	_	PROPN	PROPN	_	19	name
+17	Potter	_	PROPN	PROPN	_	19	name
+18	c'est	_	PROPN	PROPN	_	19	name
+19	chaud👓	_	X	X	_	14	nmod
+

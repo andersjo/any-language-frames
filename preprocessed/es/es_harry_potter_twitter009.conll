@@ -1,0 +1,17 @@
+1	Primero	_	ADV	ADV	_	2	advmod
+2	terminó	_	VERB	VERB	_	0	root
+3	Harry	_	PROPN	PROPN	_	4	name
+4	Potter	_	PROPN	PROPN	_	2	nsubj
+5	y	_	CONJ	CONJ	_	2	cc
+6	ahora	_	ADV	ADV	_	8	advmod
+7	se	_	PRON	PRON	_	8	iobj
+8	termino	_	VERB	VERB	_	2	conj
+9	El	_	DET	DET	_	10	det
+10	Hobbit	_	PROPN	PROPN	_	8	nsubj
+11	:/	_	X	X	_	10	appos
+12	Parte	_	NOUN	NOUN	_	10	appos
+13	de	_	ADP	ADP	_	14	case
+14	mí	_	PRON	PRON	_	12	nmod
+15	infancia	_	NOUN	NOUN	_	8	nsubj
+16	:'(	_	X	X	_	15	appos
+

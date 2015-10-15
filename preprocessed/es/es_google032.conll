@@ -1,0 +1,18 @@
+1	Un	_	DET	DET	_	2	det
+2	año	_	NOUN	NOUN	_	8	nmod
+3	después	_	ADJ	ADJ	_	2	amod
+4	,	_	PUNCT	PUNCT	_	6	punct
+5	en	_	ADP	ADP	_	6	case
+6	2005	_	NUM	NUM	_	2	nmod
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	sacaron	_	VERB	VERB	_	0	root
+9	a	_	ADP	ADP	_	11	case
+10	la	_	DET	DET	_	11	det
+11	luz	_	NOUN	NOUN	_	8	nmod
+12	Google	_	PROPN	PROPN	_	13	name
+13	Maps	_	PROPN	PROPN	_	11	appos
+14	y	_	CONJ	CONJ	_	13	cc
+15	Google	_	PROPN	PROPN	_	16	name
+16	Earth	_	PROPN	PROPN	_	13	conj
+17	.	_	PUNCT	PUNCT	_	8	punct
+

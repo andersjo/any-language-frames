@@ -1,0 +1,11 @@
+1	Sunderland's	_	PROPN	PROPN	_	2	nmod:poss
+2	former	_	NOUN	NOUN	_	3	nsubj
+3	blonde	_	ADJ	ADJ	_	0	root
+4	bombshell	_	X	X	_	3	dep
+5	has	_	X	X	_	4	dep
+6	joined	_	NOUN	NOUN	_	7	name
+7	Drogheda	_	PROPN	PROPN	_	10	nmod:poss
+8	United	_	PROPN	PROPN	_	7	name
+9	http://t.co/mUILa4cVp1	_	ADJ	ADJ	_	10	amod
+10	#Blonde	_	NOUN	NOUN	_	4	dep
+

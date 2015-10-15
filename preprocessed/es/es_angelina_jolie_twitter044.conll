@@ -1,0 +1,14 @@
+1	Si	_	SCONJ	SCONJ	_	4	mark
+2	Angelina	_	PROPN	PROPN	_	3	name
+3	Jolie	_	PROPN	PROPN	_	4	nsubj
+4	tuviera	_	VERB	VERB	_	0	root
+5	un	_	DET	DET	_	6	det
+6	hijo	_	NOUN	NOUN	_	4	dobj
+7	mío	_	ADJ	ADJ	_	6	amod
+8	el	_	DET	DET	_	9	det
+9	primer	_	NUM	NUM	_	10	nsubj
+10	sorprendido	_	VERB	VERB	_	6	acl:relcl
+11	sería	_	VERB	VERB	_	12	cop
+12	yo	_	PRON	PRON	_	10	nmod
+13	.	_	PUNCT	PUNCT	_	10	punct
+

@@ -1,0 +1,13 @@
+1	Прогнозата	_	PROPN	PROPN	_	3	nsubj
+2	ти	_	PRON	PRON	_	3	iobj
+3	е	_	VERB	VERB	_	0	root
+4	много	_	ADV	ADV	_	5	advmod
+5	добра	_	ADJ	ADJ	_	3	cop
+6	и	_	CONJ	CONJ	_	3	cc
+7	подкрепям	_	VERB	VERB	_	3	conj
+8	напълно	_	ADV	ADV	_	7	advmod
+9	този	_	DET	DET	_	10	det
+10	сценарий	_	NOUN	NOUN	_	7	dobj
+11	.	_	PUNCT	PUNCT	_	3	punct
+12	https://t.co/2ldXa1e2d1	_	PROPN	PROPN	_	10	nmod
+

@@ -1,0 +1,11 @@
+1	#quehacerporunOscar	_	PROPN	PROPN	_	0	root
+2	La	_	DET	DET	_	4	det
+3	elegante	_	ADJ	ADJ	_	4	amod
+4	campaña	_	NOUN	NOUN	_	1	appos
+5	de	_	ADP	ADP	_	10	case
+6	Angelina	_	PROPN	PROPN	_	4	nmod
+7	Jolie	_	PROPN	PROPN	_	10	name
+8	http://t.co/aKz2HqoOL7	_	PROPN	PROPN	_	10	name
+9	via	_	PROPN	PROPN	_	10	name
+10	@el_pais	_	PROPN	PROPN	_	4	nmod
+

@@ -1,0 +1,8 @@
+1	En	_	ADP	ADP	_	2	case
+2	diciembre	_	PROPN	PROPN	_	3	nmod
+3	presenta	_	VERB	VERB	_	0	root
+4	Google	_	PROPN	PROPN	_	6	name
+5	Public	_	PROPN	PROPN	_	6	name
+6	DNS	_	PROPN	PROPN	_	3	dobj
+7	.	_	PUNCT	PUNCT	_	3	punct
+

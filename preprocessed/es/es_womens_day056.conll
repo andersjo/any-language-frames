@@ -1,0 +1,20 @@
+1	En	_	ADP	ADP	_	2	case
+2	1975	_	NUM	NUM	_	5	nmod
+3	la	_	DET	DET	_	4	det
+4	ONU	_	PROPN	PROPN	_	5	nsubj
+5	comenzó	_	VERB	VERB	_	0	root
+6	a	_	ADP	ADP	_	7	case
+7	celebrar	_	VERB	VERB	_	5	acl
+8	el	_	DET	DET	_	9	det
+9	8	_	NUM	NUM	_	7	nmod
+10	de	_	ADP	ADP	_	11	case
+11	marzo	_	PROPN	PROPN	_	9	nmod
+12	como	_	ADP	ADP	_	14	case
+13	el	_	DET	DET	_	14	det
+14	Día	_	NOUN	NOUN	_	7	nmod
+15	Internacional	_	ADJ	ADJ	_	14	amod
+16	de	_	ADP	ADP	_	18	case
+17	la	_	DET	DET	_	18	det
+18	Mujer	_	PROPN	PROPN	_	14	nmod
+19	.	_	PUNCT	PUNCT	_	5	punct
+

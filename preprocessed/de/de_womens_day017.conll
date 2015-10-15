@@ -1,0 +1,20 @@
+1	Das	_	DET	DET	_	4	det
+2	alles	_	PRON	PRON	_	4	det
+3	beherrschende	_	ADJ	ADJ	_	4	amod
+4	Thema	_	NOUN	NOUN	_	10	nsubj
+5	der	_	DET	DET	_	7	det
+6	ersten	_	ADJ	ADJ	_	7	amod
+7	Jahre	_	NOUN	NOUN	_	4	det
+8	war	_	VERB	VERB	_	10	cop
+9	die	_	DET	DET	_	10	det
+10	Forderung	_	NOUN	NOUN	_	0	root
+11	nach	_	ADP	ADP	_	18	case
+12	dem	_	DET	DET	_	18	det
+13	freien	_	ADJ	ADJ	_	18	amod
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	geheimen	_	ADJ	ADJ	_	13	conj
+16	und	_	CONJ	CONJ	_	13	cc
+17	gleichen	_	ADJ	ADJ	_	13	conj
+18	Frauenwahlrecht	_	NOUN	NOUN	_	10	conj
+19	.	_	PUNCT	PUNCT	_	4	punct
+

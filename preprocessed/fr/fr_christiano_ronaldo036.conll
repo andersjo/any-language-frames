@@ -1,0 +1,17 @@
+1	László	_	PROPN	PROPN	_	2	name
+2	Bölöni	_	PROPN	PROPN	_	3	nsubj
+3	déclare	_	VERB	VERB	_	0	root
+4	à	_	ADP	ADP	_	5	case
+5	propos	_	NOUN	NOUN	_	3	nmod
+6	de	_	ADP	ADP	_	7	case
+7	lui	_	PRON	PRON	_	5	nmod
+8	«	_	PUNCT	PUNCT	_	11	punct
+9	Le	_	DET	DET	_	11	det
+10	bon	_	ADJ	ADJ	_	11	amod
+11	dieu	_	NOUN	NOUN	_	15	nsubj
+12	lui	_	PRON	PRON	_	15	iobj
+13	a	_	AUX	AUX	_	15	aux
+14	tout	_	ADV	ADV	_	15	advmod
+15	donné	_	VERB	VERB	_	5	acl:relcl
+16	.	_	PUNCT	PUNCT	_	3	punct
+

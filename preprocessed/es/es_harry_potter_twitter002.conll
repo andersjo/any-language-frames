@@ -1,0 +1,17 @@
+1	Llevo	_	VERB	VERB	_	0	root
+2	un	_	DET	DET	_	3	det
+3	día	_	NOUN	NOUN	_	1	nmod
+4	que	_	SCONJ	SCONJ	_	5	mark
+5	no	_	ADV	ADV	_	8	neg
+6	se	_	PRON	PRON	_	8	iobj
+7	lo	_	DET	DET	_	8	det
+8	deseo	_	NOUN	NOUN	_	3	acl:relcl
+9	ni	_	CONJ	CONJ	_	8	cc
+10	a	_	ADP	ADP	_	12	case
+11	los	_	DET	DET	_	12	det
+12	tíos	_	NOUN	NOUN	_	8	conj
+13	de	_	ADP	ADP	_	15	case
+14	Harry	_	PROPN	PROPN	_	15	name
+15	Potter	_	PROPN	PROPN	_	12	nmod
+16	.	_	PUNCT	PUNCT	_	1	punct
+

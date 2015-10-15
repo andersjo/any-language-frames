@@ -1,0 +1,20 @@
+1	Μερικοί	_	NOUN	NOUN	_	9	dobj
+2	αξίζουν	_	ADJ	ADJ	_	3	amod
+3	αγάπη	_	NOUN	NOUN	_	1	nmod
+4	,	_	PUNCT	PUNCT	_	1	punct
+5	αλλά	_	CONJ	CONJ	_	14	advmod
+6	δεν	_	PART	PART	_	9	neg
+7	θα	_	PART	PART	_	9	aux
+8	την	_	PRON	PRON	_	9	dobj
+9	βρουν	_	VERB	VERB	_	14	advcl
+10	ποτέ	_	ADV	ADV	_	9	advmod
+11	.	_	PUNCT	PUNCT	_	9	punct
+12	Οι	_	ADJ	ADJ	_	13	det
+13	αλλαγές	_	NOUN	NOUN	_	14	nsubj
+14	έρχονται	_	VERB	VERB	_	0	root
+15	μόνο	_	ADV	ADV	_	14	advmod
+16	από	_	ADP	ADP	_	17	case
+17	μέσα	_	NOUN	NOUN	_	15	nmod
+18	.	_	PUNCT	PUNCT	_	1	punct
+19	http://t.co/rIF7mqFn2L	_	NOUN	NOUN	_	17	nmod
+

@@ -1,0 +1,24 @@
+1	Giants	_	PROPN	PROPN	_	5	nsubj
+2	Free	_	ADJ	ADJ	_	0	compound
+3	Agency	_	PROPN	PROPN	_	1	appos
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	Exploring	_	VERB	VERB	_	19	csubj
+6	Impact	_	PROPN	PROPN	_	5	dobj
+7	of	_	ADP	ADP	_	5	compound:prt
+8	New	_	PROPN	PROPN	_	10	compound
+9	York's	_	PROPN	PROPN	_	10	compound
+10	Salary	_	PROPN	PROPN	_	6	nmod
+11	Cap	_	X	X	_	10	list
+12	:	_	PUNCT	PUNCT	_	11	punct
+13	The	_	DET	DET	_	17	det
+14	2015	_	NUM	NUM	_	15	nummod
+15	NFL	_	NOUN	NOUN	_	16	compound
+16	salary	_	NOUN	NOUN	_	17	compound
+17	cap	_	NOUN	NOUN	_	21	nsubj
+18	is	_	VERB	VERB	_	21	cop
+19	still	_	ADV	ADV	_	21	advmod
+20	several	_	ADJ	ADJ	_	0	foreign
+21	weeks	_	NOUN	NOUN	_	0	root
+22	...	_	PUNCT	PUNCT	_	23	punct
+23	http://t.co/JB4uq5IHSJ	_	X	X	_	21	appos
+

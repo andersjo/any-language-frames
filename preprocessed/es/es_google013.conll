@@ -1,0 +1,20 @@
+1	En	_	ADP	ADP	_	3	case
+2	el	_	DET	DET	_	4	det
+3	2000	_	NUM	NUM	_	4	nummod
+4	Google	_	PROPN	PROPN	_	5	nsubj
+5	presentó	_	VERB	VERB	_	0	root
+6	AdWords	_	NOUN	NOUN	_	5	dobj
+7	,	_	PUNCT	PUNCT	_	5	punct
+8	su	_	DET	DET	_	9	nmod:poss
+9	sistema	_	NOUN	NOUN	_	6	conj
+10	de	_	ADP	ADP	_	11	case
+11	publicidad	_	NOUN	NOUN	_	9	nmod
+12	en	_	ADP	ADP	_	13	case
+13	línea	_	NOUN	NOUN	_	11	nmod
+14	y	_	CONJ	CONJ	_	6	cc
+15	la	_	DET	DET	_	16	det
+16	llamada	_	NOUN	NOUN	_	13	conj
+17	Barra	_	PROPN	PROPN	_	18	name
+18	Google	_	PROPN	PROPN	_	16	appos
+19	.	_	PUNCT	PUNCT	_	5	punct
+

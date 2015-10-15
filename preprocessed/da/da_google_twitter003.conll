@@ -1,0 +1,14 @@
+1	@GamboaCon	_	PROPN	PROPN	_	4	nmod:poss
+2	@Telly2Putts	_	PROPN	PROPN	_	1	name
+3	@grayflannelsuit	_	ADJ	ADJ	_	1	amod
+4	@art_sellers	_	NOUN	NOUN	_	6	nmod:poss
+5	"	_	PUNCT	PUNCT	_	4	punct
+6	ariana	_	NOUN	NOUN	_	7	nmod:poss
+7	grande	_	NOUN	NOUN	_	8	nmod:poss
+8	flag	_	NOUN	NOUN	_	10	nmod:poss
+9	"	_	PUNCT	PUNCT	_	6	punct
+10	google	_	NOUN	NOUN	_	11	nmod:poss
+11	image	_	NOUN	NOUN	_	13	nmod:poss
+12	result	_	ADJ	ADJ	_	13	amod
+13	http://t.co/93Jacp5ton	_	NOUN	NOUN	_	0	root
+

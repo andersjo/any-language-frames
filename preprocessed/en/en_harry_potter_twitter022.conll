@@ -1,0 +1,17 @@
+1	february	_	NOUN	NOUN	_	3	nsubj
+2	is	_	AUX	AUX	_	3	aux
+3	going	_	VERB	VERB	_	0	root
+4	to	_	PART	PART	_	11	mark
+5	be	_	VERB	VERB	_	11	cop
+6	incredible	_	ADJ	ADJ	_	0	conj:preconj
+7	between	_	ADP	ADP	_	5	compound:prt
+8	the	_	DET	DET	_	11	det
+9	wonder	_	NOUN	NOUN	_	10	compound
+10	years	_	NOUN	NOUN	_	11	compound
+11	shows	_	NOUN	NOUN	_	15	nsubj
+12	and	_	CONJ	CONJ	_	11	cc
+13	harry	_	PROPN	PROPN	_	14	compound
+14	potter	_	NOUN	NOUN	_	15	nsubj
+15	hold	_	VERB	VERB	_	3	conj
+16	me	_	PRON	PRON	_	15	dobj
+

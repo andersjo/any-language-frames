@@ -1,0 +1,16 @@
+1	Angelina	_	PROPN	PROPN	_	13	nsubj
+2	Jolie	_	PROPN	PROPN	_	1	name
+3	&	_	SYM	SYM	_	1	punct
+4	Colin	_	PROPN	PROPN	_	1	conj
+5	Farrell	_	PROPN	PROPN	_	4	name
+6	at	_	PROPN	PROPN	_	4	name
+7	"	_	PUNCT	PUNCT	_	8	punct
+8	Alexander	_	PROPN	PROPN	_	1	conj
+9	"	_	PUNCT	PUNCT	_	8	punct
+10	London	_	PROPN	PROPN	_	8	nmod
+11	Premiere	_	PROPN	PROPN	_	10	name
+12	-	_	PUNCT	PUNCT	_	10	punct
+13	Arrivals	_	VERB	VERB	_	0	root
+14	#NewzArchive	_	ADJ	ADJ	_	15	amod
+15	http://t.co/rxQWqSbUEG	_	NOUN	NOUN	_	13	dobj
+

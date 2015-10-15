@@ -1,0 +1,10 @@
+1	@lukemyhero_	_	NOUN	NOUN	_	0	root
+2	Co	_	ADJ	ADJ	_	1	amod
+3	tu	_	PRON	PRON	_	4	nsubj
+4	robi	_	VERB	VERB	_	1	acl:relcl
+5	Calum	_	PROPN	PROPN	_	4	nsubj
+6	i	_	DET	DET	_	7	det
+7	Christiano	_	PROPN	PROPN	_	5	nmod
+8	Ronaldo	_	PROPN	PROPN	_	7	name
+9	co	_	ADJ	ADJ	_	7	amod
+

@@ -1,0 +1,8 @@
+1	En	_	ADP	ADP	_	2	case
+2	septiembre	_	PROPN	PROPN	_	4	nmod
+3	se	_	PRON	PRON	_	4	iobj
+4	lanza	_	VERB	VERB	_	0	root
+5	Google	_	PROPN	PROPN	_	6	name
+6	Noticias	_	PROPN	PROPN	_	4	nsubj
+7	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,19 @@
+1	Dagen	_	NOUN	NOUN	_	3	nsubjpass
+2	blev	_	AUX	AUX	_	3	auxpass
+3	anerkendt	_	VERB	VERB	_	0	root
+4	af	_	ADP	ADP	_	5	case
+5	FN	_	PROPN	PROPN	_	3	nmod
+6	som	_	PART	PART	_	3	dep
+7	den	_	DET	DET	_	9	det
+8	internationale	_	ADJ	ADJ	_	9	amod
+9	kvindedag	_	NOUN	NOUN	_	6	dep
+10	i	_	ADP	ADP	_	11	case
+11	anledning	_	NOUN	NOUN	_	9	nmod
+12	af	_	ADP	ADP	_	15	case
+13	det	_	DET	DET	_	15	det
+14	internationale	_	ADJ	ADJ	_	15	amod
+15	kvindeår	_	NOUN	NOUN	_	11	nmod
+16	i	_	ADP	ADP	_	3	dep
+17	1975	_	NUM	NUM	_	16	nummod
+18	.	_	PUNCT	PUNCT	_	3	punct
+

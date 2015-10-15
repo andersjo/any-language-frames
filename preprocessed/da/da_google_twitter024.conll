@@ -1,0 +1,19 @@
+1	Torres	_	NOUN	NOUN	_	0	root
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	Milan	_	ADJ	ADJ	_	4	amod
+4	Ã	_	NOUN	NOUN	_	7	dep
+5	??	_	ADJ	ADJ	_	7	amod
+6	Ã	_	NOUN	NOUN	_	7	dep
+7	The	_	PROPN	PROPN	_	1	appos
+8	past	_	NOUN	NOUN	_	7	dep
+9	:	_	PUNCT	PUNCT	_	7	punct
+10	''	_	PROPN	PROPN	_	7	dep
+11	I	_	ADP	ADP	_	12	case
+12	can	_	PROPN	PROPN	_	10	nmod
+13	not	_	X	X	_	10	cc
+14	wait	_	X	X	_	13	dep
+15	to	_	NUM	NUM	_	16	nummod
+16	start	_	NOUN	NOUN	_	17	name
+17	''	_	PROPN	PROPN	_	14	dobj
+18	http://t.co/CItkNeVyyf	_	PROPN	PROPN	_	17	name
+

@@ -1,0 +1,25 @@
+1	Nachdem	_	SCONJ	SCONJ	_	10	mark
+2	Harry	_	PROPN	PROPN	_	10	nsubj
+3	in	_	ADP	ADP	_	5	case
+4	der	_	DET	DET	_	5	det
+5	Folge	_	NOUN	NOUN	_	10	nmod
+6	zwei	_	NUM	NUM	_	8	nummod
+7	weiteren	_	ADJ	ADJ	_	8	amod
+8	Mordversuchen	_	NOUN	NOUN	_	10	nmod
+9	Voldemorts	_	NOUN	NOUN	_	10	dobj
+10	entkommt	_	VERB	VERB	_	12	advcl
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	erlangt	_	VERB	VERB	_	0	root
+13	er	_	PRON	PRON	_	12	nsubj
+14	im	_	ADP	ADP	_	16	case
+15	fünften	_	ADJ	ADJ	_	16	amod
+16	Band	_	NOUN	NOUN	_	12	nmod
+17	Kenntnis	_	NOUN	NOUN	_	12	dobj
+18	von	_	ADP	ADP	_	20	case
+19	einer	_	DET	DET	_	20	det
+20	Prophezeiung	_	NOUN	NOUN	_	12	nmod
+21	über	_	ADP	ADP	_	23	case
+22	dessen	_	DET	DET	_	23	det
+23	Untergang	_	NOUN	NOUN	_	20	nmod
+24	.	_	PUNCT	PUNCT	_	12	punct
+

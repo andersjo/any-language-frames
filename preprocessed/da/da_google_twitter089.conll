@@ -1,0 +1,11 @@
+1	@Nemokrati	_	NOUN	NOUN	_	2	nmod:poss
+2	@SvenLedgren	_	NOUN	NOUN	_	3	nmod:poss
+3	BS	_	NOUN	NOUN	_	5	nmod
+4	=	_	SYM	SYM	_	3	cc
+5	beatiful	_	VERB	VERB	_	0	root
+6	science	_	ADJ	ADJ	_	7	amod
+7	från	_	NOUN	NOUN	_	8	nmod:poss
+8	google	_	NOUN	NOUN	_	5	dobj
+9	and	_	X	X	_	8	appos
+10	Wiki	_	PROPN	PROPN	_	9	name
+

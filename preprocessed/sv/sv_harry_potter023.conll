@@ -1,0 +1,21 @@
+1	Relationerna	_	NOUN	NOUN	_	13	nsubj
+2	mellan	_	ADP	ADP	_	6	case
+3	de	_	DET	DET	_	5	det
+4	tre	_	NUM	NUM	_	5	nummod
+5	vännerna	_	NOUN	NOUN	_	6	det
+6	Harry	_	PROPN	PROPN	_	1	nmod
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	Hermione	_	NOUN	NOUN	_	6	nmod
+9	och	_	CONJ	CONJ	_	6	cc
+10	Ron	_	NOUN	NOUN	_	8	conj
+11	blir	_	AUX	AUX	_	13	auxpass
+12	alltmer	_	ADV	ADV	_	13	advmod
+13	komplicerade	_	VERB	VERB	_	0	root
+14	när	_	ADV	ADV	_	19	advmod
+15	kärlek	_	NOUN	NOUN	_	13	dobj
+16	och	_	CONJ	CONJ	_	15	cc
+17	andra	_	ADJ	ADJ	_	18	det
+18	tonårsproblem	_	NOUN	NOUN	_	15	conj
+19	tillkommer	_	VERB	VERB	_	13	conj
+20	.	_	PUNCT	PUNCT	_	13	punct
+

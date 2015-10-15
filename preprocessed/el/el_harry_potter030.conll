@@ -1,0 +1,9 @@
+1	Μέχρι	_	ADP	ADP	_	5	case
+2	το	_	ADJ	ADJ	_	3	det
+3	2005	_	NUM	NUM	_	4	compound
+4	έξι	_	NUM	NUM	_	5	nummod
+5	βιβλία	_	NOUN	NOUN	_	7	nsubj
+6	είχαν	_	VERB	VERB	_	7	aux
+7	εκδοθεί	_	VERB	VERB	_	0	root
+8	.	_	PUNCT	PUNCT	_	7	punct
+

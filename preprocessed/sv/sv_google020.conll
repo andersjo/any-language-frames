@@ -1,0 +1,11 @@
+1	"	_	PUNCT	PUNCT	_	3	punct
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	precis	_	ADV	ADV	_	0	root
+4	på	_	ADP	ADP	_	6	case
+5	samma	_	DET	DET	_	6	det
+6	sätt	_	NOUN	NOUN	_	3	nmod
+7	som	_	CONJ	CONJ	_	9	mark
+8	att	_	SCONJ	SCONJ	_	9	mark
+9	Yahoo	_	NOUN	NOUN	_	6	acl
+10	!	_	PUNCT	PUNCT	_	6	punct
+

@@ -1,0 +1,19 @@
+1	In	_	ADP	ADP	_	4	case
+2	soli	_	ADJ	ADJ	_	4	amod
+3	10	_	NUM	NUM	_	4	nummod
+4	anni	_	NOUN	NOUN	_	12	nmod
+5	(	_	PUNCT	PUNCT	_	6	punct
+6	1997-2007	_	NUM	NUM	_	4	nummod
+7	)	_	PUNCT	PUNCT	_	6	punct
+8	,	_	PUNCT	PUNCT	_	6	punct
+9	l'intera	_	ADJ	ADJ	_	10	amod
+10	serie	_	NOUN	NOUN	_	12	nsubj
+11	ha	_	AUX	AUX	_	12	aux
+12	venduto	_	VERB	VERB	_	0	root
+13	circa	_	ADV	ADV	_	14	advmod
+14	450	_	NUM	NUM	_	15	nummod
+15	milioni	_	NOUN	NOUN	_	12	dobj
+16	di	_	ADP	ADP	_	17	case
+17	copie	_	NOUN	NOUN	_	15	nmod
+18	.	_	PUNCT	PUNCT	_	12	punct
+

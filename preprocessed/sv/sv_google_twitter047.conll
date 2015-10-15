@@ -1,0 +1,10 @@
+1	Härligt	_	ADV	ADV	_	4	mark
+2	att	_	SCONJ	SCONJ	_	4	mark
+3	@sportbladet	_	NOUN	NOUN	_	4	nsubj
+4	länkar	_	VERB	VERB	_	0	root
+5	till	_	ADP	ADP	_	7	case
+6	en	_	DET	DET	_	7	det
+7	Google-sökning	_	NOUN	NOUN	_	4	nmod
+8	.	_	PUNCT	PUNCT	_	7	punct
+9	http://t.co/mcSmKbQFpP	_	NOUN	NOUN	_	7	conj
+

@@ -1,0 +1,12 @@
+1	Αρχικά	_	ADV	ADV	_	3	advmod
+2	στις	_	ADP	ADP	_	3	case
+3	ακαδημίες	_	ADJ	ADJ	_	4	amod
+4	της	_	ADJ	ADJ	_	0	root
+5	και	_	CONJ	CONJ	_	4	cc
+6	έπειτα	_	ADV	ADV	_	4	conj
+7	στην	_	ADP	ADP	_	8	case
+8	ομάδα	_	NOUN	NOUN	_	6	nmod
+9	των	_	ADJ	ADJ	_	10	det
+10	αντρών	_	NOUN	NOUN	_	8	nmod
+11	.	_	PUNCT	PUNCT	_	3	punct
+

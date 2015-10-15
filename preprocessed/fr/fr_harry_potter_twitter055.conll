@@ -1,0 +1,25 @@
+1	“	_	PROPN	PROPN	_	2	name
+2	@wavesofreedom	_	PROPN	PROPN	_	0	root
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	41-votre	_	ADJ	ADJ	_	5	amod
+5	film	_	NOUN	NOUN	_	2	appos
+6	préféré	_	ADJ	ADJ	_	5	amod
+7	?	_	PUNCT	PUNCT	_	9	punct
+8	”	_	PROPN	PROPN	_	9	name
+9	Maze	_	PROPN	PROPN	_	5	appos
+10	runner	_	ADJ	ADJ	_	9	amod
+11	,	_	PUNCT	PUNCT	_	2	punct
+12	Harry	_	PROPN	PROPN	_	13	name
+13	Potter	_	PROPN	PROPN	_	5	appos
+14	,	_	PUNCT	PUNCT	_	2	punct
+15	hunger	_	NOUN	NOUN	_	13	appos
+16	games	_	ADJ	ADJ	_	15	amod
+17	,	_	PUNCT	PUNCT	_	2	punct
+18	lord	_	PROPN	PROPN	_	23	name
+19	of	_	X	X	_	23	compound
+20	the	_	X	X	_	23	compound
+21	rings	_	X	X	_	23	compound
+22	&	_	X	X	_	23	compound
+23	Star	_	PROPN	PROPN	_	24	name
+24	Wars	_	NOUN	NOUN	_	5	appos
+

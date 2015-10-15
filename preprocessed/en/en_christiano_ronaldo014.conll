@@ -1,0 +1,21 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	2007	_	NUM	NUM	_	5	nmod
+3	,	_	PUNCT	PUNCT	_	8	punct
+4	Ronaldo	_	PROPN	PROPN	_	8	nsubj
+5	was	_	VERB	VERB	_	8	cop
+6	the	_	DET	DET	_	8	det
+7	first	_	ADJ	ADJ	_	0	remnant
+8	player	_	NOUN	NOUN	_	1	conj
+9	in	_	ADP	ADP	_	5	compound:prt
+10	England	_	PROPN	PROPN	_	8	nmod
+11	to	_	PART	PART	_	12	mark
+12	win	_	VERB	VERB	_	8	acl
+13	all	_	DET	DET	_	19	det
+14	four	_	NUM	NUM	_	16	nummod
+15	main	_	ADJ	ADJ	_	0	foreign
+16	PFA	_	NOUN	NOUN	_	12	dobj
+17	and	_	CONJ	CONJ	_	16	cc
+18	FWA	_	NOUN	NOUN	_	16	conj
+19	awards	_	NOUN	NOUN	_	16	conj
+20	.	_	PUNCT	PUNCT	_	5	punct
+

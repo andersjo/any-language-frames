@@ -1,0 +1,14 @@
+1	#architecture	_	NOUN	NOUN	_	8	nsubj
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Correia/Ragazzi	_	PROPN	PROPN	_	1	nmod
+4	Arquitectos	_	PROPN	PROPN	_	3	name
+5	—	_	PROPN	PROPN	_	3	name
+6	House	_	PROPN	PROPN	_	3	name
+7	Ricardo	_	PROPN	PROPN	_	3	name
+8	Pinto	_	VERB	VERB	_	10	parataxis
+9	-	_	PUNCT	PUNCT	_	8	punct
+10	Divisare	_	VERB	VERB	_	0	root
+11	by	_	NOUN	NOUN	_	10	dobj
+12	Europaconcorsi	_	ADJ	ADJ	_	11	amod
+13	http://t.co/MorJCgK9Fo	_	ADJ	ADJ	_	11	amod
+

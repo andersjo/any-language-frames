@@ -1,0 +1,14 @@
+1	Im	_	ADP	ADP	_	2	case
+2	Finale	_	NOUN	NOUN	_	7	nmod
+3	gegen	_	ADP	ADP	_	5	case
+4	den	_	DET	DET	_	5	det
+5	FC	_	PROPN	PROPN	_	2	nmod
+6	Millwall	_	PROPN	PROPN	_	5	appos
+7	traf	_	VERB	VERB	_	0	root
+8	Ronaldo	_	PROPN	PROPN	_	7	nsubj
+9	per	_	ADP	ADP	_	10	case
+10	Kopf	_	NOUN	NOUN	_	7	nmod
+11	zur	_	ADP	ADP	_	12	case
+12	Führung	_	NOUN	NOUN	_	7	nmod
+13	.	_	PUNCT	PUNCT	_	7	punct
+

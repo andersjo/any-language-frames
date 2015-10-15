@@ -1,0 +1,15 @@
+1	Harry	_	PROPN	PROPN	_	2	compound
+2	Potter	_	PROPN	PROPN	_	4	nsubj
+3	just	_	ADV	ADV	_	4	advmod
+4	bought	_	VERB	VERB	_	0	root
+5	a	_	DET	DET	_	6	det
+6	friend	_	NOUN	NOUN	_	4	dobj
+7	by	_	ADP	ADP	_	4	compound:prt
+8	buying	_	VERB	VERB	_	4	xcomp
+9	the	_	DET	DET	_	10	det
+10	lot	_	NOUN	NOUN	_	8	dobj
+11	from	_	ADP	ADP	_	8	compound:prt
+12	the	_	DET	DET	_	13	det
+13	trolley	_	NOUN	NOUN	_	8	dobj
+14	.	_	PUNCT	PUNCT	_	4	punct
+

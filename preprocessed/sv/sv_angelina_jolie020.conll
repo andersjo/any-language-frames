@@ -1,0 +1,10 @@
+1	De	_	DET	DET	_	2	det
+2	återvände	_	NOUN	NOUN	_	5	nsubj
+3	till	_	ADP	ADP	_	4	case
+4	Los	_	NOUN	NOUN	_	2	nmod
+5	Angeles	_	VERB	VERB	_	0	root
+6	fem	_	NUM	NUM	_	7	nummod
+7	år	_	NOUN	NOUN	_	8	nmod
+8	senare	_	ADV	ADV	_	5	advmod
+9	.	_	PUNCT	PUNCT	_	5	punct
+

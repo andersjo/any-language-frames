@@ -1,0 +1,19 @@
+1	Il	_	PRON	PRON	_	2	nsubj
+2	parais	_	VERB	VERB	_	0	root
+3	pendant	_	ADP	ADP	_	6	mark
+4	que	_	SCONJ	SCONJ	_	3	mwe
+5	je	_	PRON	PRON	_	6	nsubj
+6	patiner	_	VERB	VERB	_	2	advcl
+7	a	_	VERB	VERB	_	6	xcomp
+8	la	_	DET	DET	_	9	det
+9	patinoir	_	NOUN	NOUN	_	7	dobj
+10	des	_	ADP	ADP	_	11	case
+11	champs	_	NOUN	NOUN	_	9	nmod
+12	ma	_	DET	DET	_	13	nmod:poss
+13	mere	_	NOUN	NOUN	_	10	dobj
+14	elle	_	PRON	PRON	_	16	nsubj
+15	a	_	AUX	AUX	_	16	aux
+16	vue	_	VERB	VERB	_	13	acl:relcl
+17	christiano	_	PROPN	PROPN	_	18	name
+18	Ronaldo	_	PROPN	PROPN	_	16	dobj
+

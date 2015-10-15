@@ -1,0 +1,7 @@
+1	Google	_	PROPN	PROPN	_	2	compound
+2	Earth	_	PROPN	PROPN	_	3	nsubj
+3	is	_	VERB	VERB	_	0	root
+4	terrifying	_	ADJ	ADJ	_	0	ccomp
+5	.	_	PUNCT	PUNCT	_	6	punct
+6	http://t.co/NK6vfFLtvT	_	X	X	_	2	list
+

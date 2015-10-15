@@ -1,0 +1,8 @@
+1	troppo	_	ADV	ADV	_	2	advmod
+2	facile	_	ADJ	ADJ	_	0	root
+3	dimenticarsi	_	VERB	VERB	_	2	csubj
+4	del	_	ADP	ADP	_	5	mark
+5	#climatechange	_	VERB	VERB	_	3	xcomp
+6	http://t.co/7jRuFTd2LZ	_	NOUN	NOUN	_	5	dobj
+7	http://t.co/S5TzTiGVgC	_	ADJ	ADJ	_	6	amod
+

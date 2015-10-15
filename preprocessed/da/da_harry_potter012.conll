@@ -1,0 +1,9 @@
+1	Serien	_	NOUN	NOUN	_	4	nsubjpass
+2	er	_	AUX	AUX	_	4	auxpass
+3	blevet	_	AUX	AUX	_	4	auxpass
+4	filmatiseret	_	VERB	VERB	_	0	root
+5	af	_	ADP	ADP	_	6	case
+6	Warner	_	PROPN	PROPN	_	4	nmod
+7	Brothers	_	PROPN	PROPN	_	6	name
+8	.	_	PUNCT	PUNCT	_	4	punct
+

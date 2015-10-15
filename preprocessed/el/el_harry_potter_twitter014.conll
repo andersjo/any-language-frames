@@ -1,0 +1,16 @@
+1	Harry	_	NOUN	NOUN	_	12	nsubj
+2	Potter	_	NOUN	NOUN	_	1	nmod
+3	4	_	NUM	NUM	_	4	nmod
+4	OST	_	NOUN	NOUN	_	2	nmod
+5	-	_	PUNCT	PUNCT	_	1	punct
+6	can	_	NOUN	NOUN	_	7	nmod
+7	you	_	NOUN	NOUN	_	4	appos
+8	dance	_	NOUN	NOUN	_	7	nmod
+9	like	_	NOUN	NOUN	_	8	nmod
+10	a	_	NOUN	NOUN	_	11	nmod
+11	hyppogriph	_	NOUN	NOUN	_	9	nmod
+12	στίχους	_	VERB	VERB	_	0	root
+13	και	_	CONJ	CONJ	_	15	cc
+14	μεταφράσεις	_	ADJ	ADJ	_	15	amod
+15	http://t.co/VMRGnrg7i6	_	NOUN	NOUN	_	12	nsubj
+

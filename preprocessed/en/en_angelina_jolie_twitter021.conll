@@ -1,0 +1,18 @@
+1	#AngelinaJolie	_	PROPN	PROPN	_	3	compound
+2	#Fans	_	PROPN	PROPN	_	3	compound
+3	People	_	PROPN	PROPN	_	4	compound
+4	magazine	_	NOUN	NOUN	_	0	root
+5	September	_	PROPN	PROPN	_	3	list
+6	15	_	NUM	NUM	_	5	nummod
+7	,	_	PUNCT	PUNCT	_	5	punct
+8	2014	_	NUM	NUM	_	5	nmod:tmod
+9	Brad	_	PROPN	PROPN	_	14	compound
+10	&	_	CONJ	CONJ	_	9	cc
+11	Angelina	_	PROPN	PROPN	_	9	conj
+12	Jolie-Pitt	_	PROPN	PROPN	_	13	compound
+13	Wedding	_	PROPN	PROPN	_	14	compound
+14	MINT	_	NOUN	NOUN	_	17	compound
+15	http://t.co/boE0lSJGhv	_	X	X	_	16	compound
+16	#Collectibles	_	NOUN	NOUN	_	17	compound
+17	#Sale	_	NOUN	NOUN	_	4	conj
+

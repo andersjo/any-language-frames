@@ -1,0 +1,9 @@
+1	Реклама	_	NOUN	NOUN	_	6	nsubj
+2	в	_	ADP	ADP	_	3	case
+3	Google	_	PROPN	PROPN	_	1	nmod
+4	Adwords	_	PROPN	PROPN	_	1	nmod
+5	(настройка	_	PROPN	PROPN	_	4	name
+6	рекламной	_	VERB	VERB	_	0	root
+7	кампании)	_	NOUN	NOUN	_	6	dobj
+8	https://t.co/294rnUoH5G	_	PROPN	PROPN	_	7	nmod
+

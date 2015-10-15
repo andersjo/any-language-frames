@@ -1,0 +1,16 @@
+1	Échantillon	_	PROPN	PROPN	_	3	name
+2	#pr	_	PROPN	PROPN	_	3	name
+3	évision	_	PROPN	PROPN	_	0	root
+4	09/01/15	_	NUM	NUM	_	5	nummod
+5	impact	_	NOUN	NOUN	_	3	nmod
+6	#m	_	PROPN	PROPN	_	5	appos
+7	étéo	_	ADJ	ADJ	_	6	amod
+8	sur	_	ADP	ADP	_	10	case
+9	le	_	DET	DET	_	10	det
+10	#commerce	_	NOUN	NOUN	_	5	nmod
+11	d’#habillement	_	NOUN	NOUN	_	10	appos
+12	.	_	PUNCT	PUNCT	_	3	punct
+13	#dataAnalytics	_	PROPN	PROPN	_	15	name
+14	http://t.co/7C5324YUQj	_	PROPN	PROPN	_	15	name
+15	http://t.co/XY8fU1OIOd	_	PROPN	PROPN	_	10	appos
+

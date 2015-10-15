@@ -1,0 +1,8 @@
+1	Bilderserie	_	PROPN	PROPN	_	4	name
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Harry	_	PROPN	PROPN	_	4	name
+4	Potter	_	PROPN	PROPN	_	5	name
+5	+	_	PROPN	PROPN	_	0	root
+6	Spells	_	PROPN	PROPN	_	7	name
+7	http://t.co/cNAlXO4yng	_	PROPN	PROPN	_	5	nmod
+

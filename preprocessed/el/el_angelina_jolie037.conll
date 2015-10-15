@@ -1,0 +1,14 @@
+1	Ένα	_	ADJ	ADJ	_	2	det
+2	κοριτσάκι	_	NOUN	NOUN	_	5	nsubj
+3	το	_	ADJ	ADJ	_	4	det
+4	οποίο	_	PRON	PRON	_	5	nsubj
+5	πήρε	_	VERB	VERB	_	0	root
+6	το	_	ADJ	ADJ	_	7	det
+7	όνομα	_	NOUN	NOUN	_	5	dobj
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	Σιλό	_	ADJ	ADJ	_	10	amod
+10	Νουβέλ	_	NOUN	NOUN	_	7	conj
+11	Τζολί	_	NOUN	NOUN	_	10	nmod
+12	Πιτ	_	NOUN	NOUN	_	11	nmod
+13	.	_	PUNCT	PUNCT	_	5	punct
+

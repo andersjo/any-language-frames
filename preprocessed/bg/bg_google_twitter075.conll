@@ -1,0 +1,15 @@
+1	Аз	_	PRON	PRON	_	4	nsubj
+2	не	_	INTJ	INTJ	_	4	neg
+3	ги	_	PRON	PRON	_	4	dobj
+4	търгувам	_	VERB	VERB	_	0	root
+5	,	_	PUNCT	PUNCT	_	6	punct
+6	но	_	CONJ	CONJ	_	4	cc
+7	ситуацията	_	NOUN	NOUN	_	10	nsubj
+8	при	_	ADP	ADP	_	9	case
+9	тях	_	PRON	PRON	_	7	nmod
+10	е	_	VERB	VERB	_	4	conj
+11	доста	_	ADV	ADV	_	12	advmod
+12	интересна	_	NOUN	NOUN	_	10	cop
+13	.	_	PUNCT	PUNCT	_	4	punct
+14	https://t.co/8HnBqIa1mp	_	PROPN	PROPN	_	12	nmod
+

@@ -1,0 +1,12 @@
+1	Difret	_	PROPN	PROPN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	trailer	_	NOUN	NOUN	_	1	appos
+4	italiano	_	ADJ	ADJ	_	3	amod
+5	del	_	ADP	ADP	_	6	case
+6	film	_	NOUN	NOUN	_	3	nmod
+7	prodotto	_	VERB	VERB	_	6	acl
+8	da	_	ADP	ADP	_	9	case
+9	Angelina	_	PROPN	PROPN	_	7	nmod
+10	Jolie	_	PROPN	PROPN	_	9	name
+11	http://t.co/BZLob1dqMf	_	PROPN	PROPN	_	9	name
+

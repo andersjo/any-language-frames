@@ -1,0 +1,19 @@
+1	Global	_	ADJ	ADJ	_	0	cc
+2	warming	_	NOUN	NOUN	_	7	nsubj
+3	is	_	VERB	VERB	_	7	cop
+4	real	_	ADJ	ADJ	_	0	advcl
+5	....	_	PUNCT	PUNCT	_	7	punct
+6	it's	_	PRON	PRON	_	7	nmod:poss
+7	winter	_	NOUN	NOUN	_	9	nmod
+8	I	_	PRON	PRON	_	9	nsubj
+9	turned	_	VERB	VERB	_	0	root
+10	on	_	ADP	ADP	_	9	compound:prt
+11	the	_	DET	DET	_	12	det
+12	BBQ	_	NOUN	NOUN	_	9	dobj
+13	,	_	PUNCT	PUNCT	_	9	punct
+14	and	_	CONJ	CONJ	_	9	cc
+15	it	_	PRON	PRON	_	16	nsubj
+16	started	_	VERB	VERB	_	9	conj
+17	raining	_	NOUN	NOUN	_	16	dobj
+18	!	_	PUNCT	PUNCT	_	9	punct
+

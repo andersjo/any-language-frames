@@ -1,0 +1,11 @@
+1	En	_	ADP	ADP	_	2	case
+2	enero	_	PROPN	PROPN	_	5	nmod
+3	de	_	ADP	ADP	_	4	case
+4	2004	_	NUM	NUM	_	2	nmod
+5	lanza	_	VERB	VERB	_	0	root
+6	la	_	DET	DET	_	7	det
+7	red	_	NOUN	NOUN	_	5	dobj
+8	social	_	ADJ	ADJ	_	7	amod
+9	orkut	_	PROPN	PROPN	_	7	appos
+10	.	_	PUNCT	PUNCT	_	5	punct
+

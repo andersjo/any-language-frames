@@ -1,0 +1,11 @@
+1	#Знакомства	_	PROPN	PROPN	_	0	root
+2	#Dating	_	PROPN	PROPN	_	1	nmod
+3	Жизненно	_	PROPN	PROPN	_	1	nmod
+4	Aug	_	PROPN	PROPN	_	3	nmod
+5	6	_	NUM	NUM	_	4	nummod
+6	,	_	PUNCT	PUNCT	_	7	punct
+7	2014	_	ADJ	ADJ	_	5	conj
+8	-	_	PUNCT	PUNCT	_	9	punct
+9	http://t.co/HwVF8UwC7A	_	PROPN	PROPN	_	1	conj
+10	http://t.co/Yl3mnMm7R9	_	PROPN	PROPN	_	9	name
+

@@ -1,0 +1,13 @@
+1	“	_	ADJ	ADJ	_	2	amod
+2	@_iamKJB	_	NOUN	NOUN	_	0	root
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	NYE	_	ADJ	ADJ	_	1	list
+5	in	_	X	X	_	4	dep
+6	Nashville	_	ADJ	ADJ	_	7	amod
+7	w	_	NOUN	NOUN	_	8	nmod:poss
+8	boo	_	NOUN	NOUN	_	10	nmod:poss
+9	http://t.co/pVzHav6csm	_	ADJ	ADJ	_	10	amod
+10	”	_	NOUN	NOUN	_	11	dep
+11	Angelina	_	PROPN	PROPN	_	5	dobj
+12	Jolie	_	NOUN	NOUN	_	11	dep
+

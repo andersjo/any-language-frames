@@ -1,0 +1,22 @@
+1	En	_	ADP	ADP	_	2	case
+2	diciembre	_	PROPN	PROPN	_	7	nmod
+3	del	_	ADP	ADP	_	5	case
+4	mismo	_	ADJ	ADJ	_	5	amod
+5	año	_	NOUN	NOUN	_	2	nmod
+6	se	_	PRON	PRON	_	7	iobj
+7	lanza	_	VERB	VERB	_	0	root
+8	el	_	DET	DET	_	9	det
+9	servicio	_	NOUN	NOUN	_	7	nsubj
+10	de	_	ADP	ADP	_	11	case
+11	búsqueda	_	NOUN	NOUN	_	9	nmod
+12	de	_	ADP	ADP	_	13	case
+13	productos	_	NOUN	NOUN	_	11	nmod
+14	llamado	_	VERB	VERB	_	15	cop
+15	Froogle	_	PROPN	PROPN	_	9	acl
+16	,	_	PUNCT	PUNCT	_	7	punct
+17	ahora	_	ADV	ADV	_	20	advmod
+18	denominado	_	VERB	VERB	_	20	cop
+19	Google	_	PROPN	PROPN	_	20	name
+20	Products	_	PROPN	PROPN	_	9	nsubj
+21	.	_	PUNCT	PUNCT	_	7	punct
+

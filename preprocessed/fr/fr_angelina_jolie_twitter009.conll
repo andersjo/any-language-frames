@@ -1,0 +1,22 @@
+1	À	_	ADP	ADP	_	3	case
+2	la	_	DET	DET	_	3	det
+3	Une	_	NOUN	NOUN	_	12	nmod
+4	de	_	ADP	ADP	_	5	case
+5	Télé	_	NOUN	NOUN	_	3	nmod
+6	2	_	NUM	NUM	_	7	nummod
+7	semaines	_	NOUN	NOUN	_	3	nmod
+8	:	_	PUNCT	PUNCT	_	7	punct
+9	les	_	DET	DET	_	11	det
+10	25	_	NUM	NUM	_	11	nummod
+11	films	_	NOUN	NOUN	_	12	nmod
+12	événements	_	NOUN	NOUN	_	0	root
+13	de	_	ADP	ADP	_	14	case
+14	2015	_	NUM	NUM	_	12	nmod
+15	et	_	CONJ	CONJ	_	12	cc
+16	interview	_	NOUN	NOUN	_	11	conj
+17	d'Angelina	_	NOUN	NOUN	_	16	appos
+18	Jolie	_	PROPN	PROPN	_	21	name
+19	>>	_	PROPN	PROPN	_	21	name
+20	http://t.co/XAYH3Ewd9g	_	PROPN	PROPN	_	21	name
+21	http://t.co/S9R2knyCNg	_	PROPN	PROPN	_	17	appos
+

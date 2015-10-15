@@ -1,0 +1,17 @@
+1	i	_	PRON	PRON	_	2	nsubj
+2	hate	_	VERB	VERB	_	0	root
+3	the	_	DET	DET	_	4	det
+4	fact	_	NOUN	NOUN	_	2	dobj
+5	that	_	SCONJ	SCONJ	_	11	mark
+6	the	_	DET	DET	_	9	det
+7	harry	_	PROPN	PROPN	_	9	compound
+8	potter	_	NOUN	NOUN	_	9	compound
+9	movies	_	NOUN	NOUN	_	11	nsubj
+10	just	_	ADV	ADV	_	11	advmod
+11	killed	_	VERB	VERB	_	4	acl
+12	neville's	_	NOUN	NOUN	_	13	compound
+13	parents	_	NOUN	NOUN	_	11	dobj
+14	i	_	PRON	PRON	_	15	nsubj
+15	mean	_	VERB	VERB	_	13	acl:relcl
+16	really	_	ADV	ADV	_	15	advmod
+

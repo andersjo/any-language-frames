@@ -1,0 +1,23 @@
+1	Working	_	VERB	VERB	_	0	root
+2	hard	_	ADV	ADV	_	1	advmod
+3	is	_	VERB	VERB	_	8	cop
+4	important	_	ADJ	ADJ	_	0	conj
+5	,	_	PUNCT	PUNCT	_	1	punct
+6	but	_	CONJ	CONJ	_	1	cc
+7	there�s	_	ADV	ADV	_	8	advmod
+8	something	_	NOUN	NOUN	_	1	conj
+9	that	_	DET	DET	_	10	nsubj
+10	matters	_	VERB	VERB	_	8	acl:relcl
+11	even	_	ADV	ADV	_	14	advmod
+12	more	_	ADJ	ADJ	_	0	vocative
+13	:	_	PUNCT	PUNCT	_	8	punct
+14	believing	_	VERB	VERB	_	10	advcl
+15	in	_	ADP	ADP	_	14	compound:prt
+16	yourself	_	PRON	PRON	_	14	dobj
+17	.	_	PUNCT	PUNCT	_	1	punct
+18	-Harry	_	PROPN	PROPN	_	19	compound
+19	Potter	_	PROPN	PROPN	_	14	dobj
+20	(	_	PUNCT	PUNCT	_	19	punct
+21	2007	_	NUM	NUM	_	19	amod
+22	)	_	PUNCT	PUNCT	_	1	punct
+

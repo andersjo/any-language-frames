@@ -1,0 +1,23 @@
+1	Ο	_	ADJ	ADJ	_	2	det
+2	Ρονάντο	_	NOUN	NOUN	_	3	nsubj
+3	έφτασε	_	VERB	VERB	_	0	root
+4	πλέον	_	ADV	ADV	_	3	advmod
+5	τα	_	ADJ	ADJ	_	7	det
+6	51	_	NUM	NUM	_	7	nummod
+7	γκολ	_	NOUN	NOUN	_	3	dobj
+8	με	_	ADP	ADP	_	10	case
+9	τη	_	ADJ	ADJ	_	10	det
+10	φανέλα	_	NOUN	NOUN	_	7	nmod
+11	της	_	ADJ	ADJ	_	12	det
+12	Ρεάλ	_	NOUN	NOUN	_	10	nmod
+13	Μαδρίτης	_	NOUN	NOUN	_	12	nmod
+14	,	_	PUNCT	PUNCT	_	16	punct
+15	στο	_	ADP	ADP	_	16	case
+16	Τσάμπιονς	_	NOUN	NOUN	_	17	nmod
+17	Λιγκ	_	NOUN	NOUN	_	10	nmod
+18	,	_	PUNCT	PUNCT	_	20	punct
+19	σε	_	ADP	ADP	_	21	case
+20	50	_	NUM	NUM	_	21	nmod
+21	συμμετοχές	_	NOUN	NOUN	_	17	nmod
+22	.	_	PUNCT	PUNCT	_	3	punct
+

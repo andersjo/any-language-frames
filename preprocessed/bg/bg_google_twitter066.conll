@@ -1,0 +1,10 @@
+1	Евтиният	_	ADJ	ADJ	_	2	amod
+2	петрол	_	NOUN	NOUN	_	4	nsubj
+3	определено	_	ADV	ADV	_	4	advmod
+4	е	_	VERB	VERB	_	0	root
+5	в	_	ADP	ADP	_	7	case
+6	наш	_	ADJ	ADJ	_	7	amod
+7	интерес	_	NOUN	NOUN	_	4	cop
+8	.	_	PUNCT	PUNCT	_	4	punct
+9	https://t.co/xRatGCSW7W	_	PROPN	PROPN	_	7	nmod
+

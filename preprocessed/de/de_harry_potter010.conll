@@ -1,0 +1,25 @@
+1	Parallel	_	ADJ	ADJ	_	5	advmod
+2	zu	_	ADP	ADP	_	4	case
+3	den	_	DET	DET	_	4	det
+4	Büchern	_	NOUN	NOUN	_	1	nmod
+5	entstand	_	VERB	VERB	_	0	root
+6	zwischen	_	ADP	ADP	_	7	case
+7	2001	_	NUM	NUM	_	5	nmod
+8	und	_	CONJ	CONJ	_	7	cc
+9	2011	_	NUM	NUM	_	7	conj
+10	eine	_	DET	DET	_	12	det
+11	achtteilige	_	ADJ	ADJ	_	12	amod
+12	Verfilmung	_	NOUN	NOUN	_	13	nmod
+13	derselben	_	ADJ	ADJ	_	5	advmod
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	die	_	PRON	PRON	_	23	nsubj
+16	mit	_	ADP	ADP	_	18	case
+17	einem	_	DET	DET	_	18	det
+18	Gesamteinspielergebnis	_	NOUN	NOUN	_	5	nmod
+19	von	_	ADP	ADP	_	23	case
+20	7	_	NUM	NUM	_	18	nmod
+21	,	_	PUNCT	PUNCT	_	20	punct
+22	7	_	NUM	NUM	_	23	nummod
+23	Mrd	_	NOUN	NOUN	_	18	nmod
+24	.	_	PUNCT	PUNCT	_	5	punct
+

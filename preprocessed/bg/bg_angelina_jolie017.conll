@@ -1,0 +1,12 @@
+1	Било	_	PROPN	PROPN	_	2	nsubj
+2	ѝ	_	VERB	VERB	_	0	root
+3	трудно	_	ADV	ADV	_	6	advmod
+4	да	_	PART	PART	_	6	aux
+5	се	_	PRON	PRON	_	6	expl
+6	свързва	_	VERB	VERB	_	2	ccomp
+7	емоционално	_	ADV	ADV	_	6	advmod
+8	с	_	ADP	ADP	_	10	case
+9	други	_	ADJ	ADJ	_	10	amod
+10	хора	_	NOUN	NOUN	_	6	iobj
+11	.	_	PUNCT	PUNCT	_	2	punct
+

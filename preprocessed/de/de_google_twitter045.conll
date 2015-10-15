@@ -1,0 +1,22 @@
+1	Fachmesse	_	PROPN	PROPN	_	10	nsubj
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	<	_	PUNCT	PUNCT	_	4	punct
+4	b	_	X	X	_	1	appos
+5	>	_	PUNCT	PUNCT	_	4	punct
+6	Handel	_	PROPN	PROPN	_	1	appos
+7	<	_	PUNCT	PUNCT	_	6	punct
+8	/b	_	PROPN	PROPN	_	6	appos
+9	>	_	PUNCT	PUNCT	_	8	punct
+10	trifft	_	VERB	VERB	_	11	acl
+11	Intralogistik	_	NOUN	NOUN	_	13	compound
+12	-	_	PUNCT	PUNCT	_	13	punct
+13	TradeWorld	_	PROPN	PROPN	_	15	nmod
+14	2015	_	NUM	NUM	_	13	nmod
+15	findet	_	VERB	VERB	_	0	root
+16	erneut	_	ADJ	ADJ	_	15	advmod
+17	im	_	ADP	ADP	_	18	case
+18	Rahmen	_	NOUN	NOUN	_	15	nmod
+19	der	_	DET	DET	_	21	det
+20	…	_	PROPN	PROPN	_	21	amod
+21	http://t.co/6s7ww6I8t2	_	PROPN	PROPN	_	18	det
+

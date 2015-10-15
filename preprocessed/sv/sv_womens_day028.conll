@@ -1,0 +1,22 @@
+1	I	_	ADP	ADP	_	3	case
+2	San	_	NOUN	NOUN	_	3	det
+3	Francisco	_	PROPN	PROPN	_	4	nsubj
+4	genomdrevs	_	VERB	VERB	_	0	root
+5	1945	_	NUM	NUM	_	8	nummod
+6	ett	_	DET	DET	_	8	det
+7	internationellt	_	ADJ	ADJ	_	8	amod
+8	avtal	_	NOUN	NOUN	_	4	nmod
+9	som	_	PRON	PRON	_	10	nsubj
+10	fastslog	_	VERB	VERB	_	8	acl:relcl
+11	jämställdhet	_	NOUN	NOUN	_	10	dobj
+12	mellan	_	ADP	ADP	_	13	case
+13	män	_	NOUN	NOUN	_	10	nmod
+14	och	_	CONJ	CONJ	_	13	cc
+15	kvinnor	_	NOUN	NOUN	_	13	conj
+16	som	_	CONJ	CONJ	_	20	mark
+17	en	_	DET	DET	_	20	det
+18	grundläggande	_	ADJ	ADJ	_	20	amod
+19	mänsklig	_	ADJ	ADJ	_	20	amod
+20	rättighet	_	NOUN	NOUN	_	13	conj
+21	.	_	PUNCT	PUNCT	_	4	punct
+

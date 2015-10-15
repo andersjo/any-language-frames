@@ -1,0 +1,13 @@
+1	Τμήματα	_	VERB	VERB	_	0	root
+2	των	_	ADJ	ADJ	_	3	det
+3	βιβλίων	_	NOUN	NOUN	_	1	nmod
+4	λέγεται	_	VERB	VERB	_	1	ccomp
+5	ότι	_	CONJ	CONJ	_	6	mark
+6	έχουν	_	VERB	VERB	_	4	ccomp
+7	γραφτεί	_	NOUN	NOUN	_	6	dobj
+8	σε	_	ADP	ADP	_	9	case
+9	καφέ	_	NOUN	NOUN	_	7	nmod
+10	στο	_	ADP	ADP	_	11	case
+11	Εδιμβούργο	_	NOUN	NOUN	_	9	nmod
+12	.	_	PUNCT	PUNCT	_	1	punct
+

@@ -1,0 +1,15 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	12	nsubj
+3	sur	_	ADP	ADP	_	5	case
+4	le	_	DET	DET	_	5	det
+5	dernier	_	NOUN	NOUN	_	2	nmod
+6	Vanity	_	PROPN	PROPN	_	7	name
+7	Fair	_	PROPN	PROPN	_	5	appos
+8	....	_	PUNCT	PUNCT	_	5	punct
+9	Elle	_	PRON	PRON	_	12	nsubj
+10	est	_	VERB	VERB	_	12	cop
+11	juste	_	ADV	ADV	_	12	advmod
+12	magnifique	_	ADJ	ADJ	_	0	root
+13	mashallah	_	PROPN	PROPN	_	14	name
+14	💯😱😍	_	PROPN	PROPN	_	12	appos
+

@@ -1,0 +1,22 @@
+1	Photo	_	PROPN	PROPN	_	11	nsubj
+2	:	_	PUNCT	PUNCT	_	3	punct
+3	who	_	PROPN	PROPN	_	1	nmod
+4	is	_	PROPN	PROPN	_	3	name
+5	it	_	NOUN	NOUN	_	3	nmod
+6	?	_	PUNCT	PUNCT	_	7	punct
+7	that’s	_	PROPN	PROPN	_	5	nmod
+8	a	_	PROPN	PROPN	_	7	name
+9	riddle	_	PROPN	PROPN	_	7	name
+10	…	_	PROPN	PROPN	_	9	name
+11	трепещите	_	VERB	VERB	_	0	root
+12	враги	_	ADJ	ADJ	_	13	amod
+13	наследника	_	NOUN	NOUN	_	11	dobj
+14	#harry	_	PROPN	PROPN	_	13	nmod
+15	#potter	_	PROPN	PROPN	_	14	name
+16	#the	_	PROPN	PROPN	_	14	name
+17	#dark	_	PROPN	PROPN	_	14	name
+18	#lord	_	PROPN	PROPN	_	17	nmod
+19	#tomriddle	_	PROPN	PROPN	_	18	name
+20	...	_	PUNCT	PUNCT	_	14	punct
+21	http://t.co/7if3bIZmLz	_	PROPN	PROPN	_	14	conj
+

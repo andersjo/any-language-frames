@@ -1,0 +1,20 @@
+1	Den	_	DET	DET	_	2	det
+2	sjätte	_	NOUN	NOUN	_	3	nmod:poss
+3	filmen	_	NOUN	NOUN	_	10	nsubj
+4	(	_	PUNCT	PUNCT	_	3	punct
+5	Harry	_	PROPN	PROPN	_	6	nmod:poss
+6	Potter	_	NOUN	NOUN	_	10	nsubj
+7	och	_	CONJ	CONJ	_	6	cc
+8	Halvblodsprinsen	_	NOUN	NOUN	_	6	conj
+9	)	_	PUNCT	PUNCT	_	3	punct
+10	hade	_	VERB	VERB	_	0	root
+11	biopremiär	_	ADJ	ADJ	_	12	amod
+12	onsdagen	_	NOUN	NOUN	_	10	nsubj
+13	den	_	DET	DET	_	15	det
+14	31	_	NUM	NUM	_	15	nummod
+15	juli	_	NOUN	NOUN	_	10	nmod
+16	2009	_	NUM	NUM	_	15	nummod
+17	i	_	ADP	ADP	_	18	case
+18	Sverige	_	PROPN	PROPN	_	10	nmod
+19	.	_	PUNCT	PUNCT	_	10	punct
+

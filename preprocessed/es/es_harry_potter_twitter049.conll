@@ -1,0 +1,27 @@
+1	Todos	_	PRON	PRON	_	2	nsubj
+2	tenemos	_	VERB	VERB	_	0	root
+3	luz	_	NOUN	NOUN	_	2	dobj
+4	y	_	CONJ	CONJ	_	3	cc
+5	oscuridad	_	NOUN	NOUN	_	3	conj
+6	en	_	ADP	ADP	_	8	case
+7	nuestro	_	DET	DET	_	8	nmod:poss
+8	interior	_	NOUN	NOUN	_	3	nmod
+9	lo	_	PRON	PRON	_	8	dobj
+10	que	_	SCONJ	SCONJ	_	11	mark
+11	importa	_	VERB	VERB	_	9	acl:relcl
+12	es	_	VERB	VERB	_	9	cop
+13	que	_	SCONJ	SCONJ	_	16	mark
+14	parte	_	NOUN	NOUN	_	16	nsubj
+15	decidimos	_	AUX	AUX	_	16	aux
+16	potenciar	_	VERB	VERB	_	9	csubj
+17	.	_	PUNCT	PUNCT	_	2	punct
+18	(	_	PUNCT	PUNCT	_	20	punct
+19	Harry	_	PROPN	PROPN	_	20	name
+20	Potter	_	PROPN	PROPN	_	16	dobj
+21	y	_	CONJ	CONJ	_	19	cc
+22	la	_	DET	DET	_	23	det
+23	orden	_	NOUN	NOUN	_	19	conj
+24	del	_	ADP	ADP	_	25	case
+25	Fenix	_	PROPN	PROPN	_	23	nmod
+26	)	_	PUNCT	PUNCT	_	20	punct
+

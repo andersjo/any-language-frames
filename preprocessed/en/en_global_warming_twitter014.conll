@@ -1,0 +1,27 @@
+1	More	_	ADJ	ADJ	_	0	cc
+2	ppl	_	NOUN	NOUN	_	3	nsubj
+3	know	_	VERB	VERB	_	0	root
+4	Peyton	_	PROPN	PROPN	_	5	compound
+5	Manning	_	PROPN	PROPN	_	3	dobj
+6	than	_	ADP	ADP	_	3	compound:prt
+7	the	_	DET	DET	_	10	det
+8	sitting	_	PROPN	PROPN	_	10	compound
+9	Vice	_	PROPN	PROPN	_	10	compound
+10	President	_	PROPN	PROPN	_	5	appos
+11	.	_	PUNCT	PUNCT	_	3	punct
+12	While	_	ADP	ADP	_	0	discourse
+13	global	_	ADJ	ADJ	_	0	foreign
+14	warming	_	NOUN	NOUN	_	15	nsubj
+15	has	_	VERB	VERB	_	3	ccomp
+16	a	_	DET	DET	_	18	det
+17	bigger	_	ADJ	ADJ	_	0	foreign
+18	impact	_	NOUN	NOUN	_	15	dobj
+19	on	_	ADP	ADP	_	15	compound:prt
+20	our	_	PRON	PRON	_	21	nmod:poss
+21	lives	_	NOUN	NOUN	_	25	compound
+22	than	_	ADP	ADP	_	21	acl
+23	any	_	DET	DET	_	25	det
+24	football	_	NOUN	NOUN	_	25	compound
+25	game	_	NOUN	NOUN	_	15	dobj
+26	.	_	PUNCT	PUNCT	_	3	punct
+

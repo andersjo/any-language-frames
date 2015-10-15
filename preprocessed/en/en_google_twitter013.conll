@@ -1,0 +1,17 @@
+1	#Tech	_	NOUN	NOUN	_	5	nsubj
+2	You	_	PRON	PRON	_	5	nsubj
+3	Can	_	AUX	AUX	_	5	aux
+4	Now	_	ADV	ADV	_	5	advmod
+5	Get	_	VERB	VERB	_	0	root
+6	Google	_	PROPN	PROPN	_	5	dobj
+7	Play	_	VERB	VERB	_	5	xcomp
+8	on	_	ADP	ADP	_	7	compound:prt
+9	Your	_	PRON	PRON	_	12	nmod:poss
+10	Amazon	_	PROPN	PROPN	_	11	compound
+11	Fire	_	PROPN	PROPN	_	12	compound
+12	Phone	_	NOUN	NOUN	_	7	dobj
+13	Without	_	ADP	ADP	_	7	compound:prt
+14	Rooting	_	PROPN	PROPN	_	16	compound
+15	http://t.co/SPHWiPCzN6	_	X	X	_	16	goeswith
+16	#Onlireeks	_	NOUN	NOUN	_	5	nmod:tmod
+

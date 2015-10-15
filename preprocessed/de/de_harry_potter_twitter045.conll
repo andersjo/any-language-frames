@@ -1,0 +1,21 @@
+1	Ich	_	PRON	PRON	_	5	nsubj
+2	konnte	_	AUX	AUX	_	5	aux
+3	schon	_	ADV	ADV	_	5	advmod
+4	damit	_	ADV	ADV	_	5	advmod
+5	leben	_	VERB	VERB	_	0	root
+6	das	_	DET	DET	_	8	det
+7	Harry	_	PROPN	PROPN	_	8	name
+8	Potter	_	PROPN	PROPN	_	5	nsubj
+9	alles	_	PRON	PRON	_	13	dobj
+10	konnte	_	AUX	AUX	_	13	aux
+11	und	_	CONJ	CONJ	_	5	cc
+12	alles	_	PRON	PRON	_	13	nsubj
+13	schaffte	_	VERB	VERB	_	5	conj
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	aber	_	CONJ	CONJ	_	13	cc
+16	Bella	_	PROPN	PROPN	_	17	nsubj
+17	toppt	_	VERB	VERB	_	5	conj
+18	das	_	PRON	PRON	_	17	dobj
+19	noch	_	ADV	ADV	_	20	advmod
+20	x'D	_	ADJ	ADJ	_	17	advmod
+

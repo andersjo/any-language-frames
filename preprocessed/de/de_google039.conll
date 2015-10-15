@@ -1,0 +1,16 @@
+1	95	_	NUM	NUM	_	2	nummod
+2	Prozent	_	NOUN	NOUN	_	14	nsubjpass
+3	der	_	DET	DET	_	5	det
+4	weltweiten	_	ADJ	ADJ	_	5	amod
+5	Werbeumsätze	_	NOUN	NOUN	_	2	det
+6	werden	_	AUX	AUX	_	14	auxpass
+7	nach	_	ADP	ADP	_	8	case
+8	wie	_	ADV	ADV	_	14	advmod
+9	vor	_	ADP	ADP	_	8	case
+10	in	_	ADP	ADP	_	13	case
+11	den	_	DET	DET	_	13	det
+12	klassischen	_	ADJ	ADJ	_	13	amod
+13	Medien	_	NOUN	NOUN	_	14	nmod
+14	getätigt	_	VERB	VERB	_	0	root
+15	.	_	PUNCT	PUNCT	_	14	punct
+

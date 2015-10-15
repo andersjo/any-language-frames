@@ -1,0 +1,15 @@
+1	Google	_	PROPN	PROPN	_	2	nsubj
+2	verkauft	_	VERB	VERB	_	0	root
+3	für	_	ADP	ADP	_	5	case
+4	beliebige	_	ADJ	ADJ	_	5	amod
+5	Suchbegriffe	_	NOUN	NOUN	_	2	nmod
+6	das	_	DET	DET	_	7	det
+7	Einblenden	_	NOUN	NOUN	_	2	dobj
+8	gesponserter	_	ADJ	ADJ	_	9	amod
+9	Links	_	NOUN	NOUN	_	7	det
+10	im	_	ADP	ADP	_	11	case
+11	Rahmen	_	NOUN	NOUN	_	2	nmod
+12	seines	_	DET	DET	_	13	nmod:poss
+13	Google-AdWords-Programms	_	PROPN	PROPN	_	11	det
+14	.	_	PUNCT	PUNCT	_	2	punct
+

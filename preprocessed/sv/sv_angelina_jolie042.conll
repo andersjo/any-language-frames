@@ -1,0 +1,21 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	Brangelina	_	NOUN	NOUN	_	7	nsubjpass
+3	"	_	PUNCT	PUNCT	_	2	punct
+4	,	_	PUNCT	PUNCT	_	2	punct
+5	som	_	CONJ	CONJ	_	6	mark
+6	paret	_	NOUN	NOUN	_	7	nsubjpass
+7	kallas	_	VERB	VERB	_	0	root
+8	av	_	ADP	ADP	_	9	case
+9	nöjesmedia	_	NOUN	NOUN	_	7	nmod:agent
+10	,	_	PUNCT	PUNCT	_	7	punct
+11	och	_	CONJ	CONJ	_	7	cc
+12	deras	_	DET	DET	_	13	nmod:poss
+13	barn	_	NOUN	NOUN	_	14	nsubj
+14	bevakas	_	VERB	VERB	_	7	conj
+15	intensivt	_	ADJ	ADJ	_	14	xcomp
+16	av	_	ADP	ADP	_	18	case
+17	massmedia	_	NOUN	NOUN	_	18	nmod:poss
+18	världen	_	NOUN	NOUN	_	14	nmod
+19	över	_	ADP	ADP	_	15	case
+20	.	_	PUNCT	PUNCT	_	7	punct
+

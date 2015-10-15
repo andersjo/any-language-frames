@@ -1,0 +1,10 @@
+1	omdddddd	_	PROPN	PROPN	_	2	nsubj
+2	j'trouve	_	VERB	VERB	_	0	root
+3	pas	_	ADV	ADV	_	2	neg
+4	de	_	ADP	ADP	_	5	case
+5	lien	_	NOUN	NOUN	_	2	nmod
+6	pour	_	ADP	ADP	_	7	case
+7	harry	_	NOUN	NOUN	_	2	nmod
+8	potter	_	NOUN	NOUN	_	2	nmod
+9	6	_	NUM	NUM	_	8	nummod
+

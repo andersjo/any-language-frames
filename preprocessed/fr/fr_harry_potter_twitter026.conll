@@ -1,0 +1,18 @@
+1	On	_	PRON	PRON	_	2	nsubj
+2	page	_	NOUN	NOUN	_	0	root
+3	80	_	NUM	NUM	_	4	nummod
+4	of	_	X	X	_	2	nmod
+5	311	_	NUM	NUM	_	6	nummod
+6	of	_	X	X	_	8	compound
+7	Harry	_	PROPN	PROPN	_	8	name
+8	Potter	_	PROPN	PROPN	_	4	appos
+9	à	_	ADP	ADP	_	10	case
+10	l'école	_	NOUN	NOUN	_	2	nmod
+11	des	_	ADP	ADP	_	12	case
+12	sorciers	_	NOUN	NOUN	_	10	nmod
+13	,	_	PUNCT	PUNCT	_	8	punct
+14	by	_	X	X	_	17	compound
+15	J.K.	_	PROPN	PROPN	_	17	name
+16	Rowling	_	PROPN	PROPN	_	17	name
+17	http://t.co/U3S317OQWC	_	PROPN	PROPN	_	8	appos
+

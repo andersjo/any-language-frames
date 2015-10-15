@@ -1,0 +1,11 @@
+1	Plastic	_	ADJ	ADJ	_	0	cc
+2	LFC	_	NOUN	NOUN	_	3	compound
+3	store	_	NOUN	NOUN	_	4	compound
+4	bag	_	NOUN	NOUN	_	0	root
+5	&	_	CONJ	CONJ	_	4	cc
+6	waving	_	VERB	VERB	_	4	conj
+7	at	_	ADP	ADP	_	6	compound:prt
+8	Christiano	_	PROPN	PROPN	_	9	compound
+9	Ronaldo	_	PROPN	PROPN	_	6	dobj
+10	.	_	PUNCT	PUNCT	_	6	punct
+

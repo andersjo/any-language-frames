@@ -1,0 +1,9 @@
+1	2005-2006	_	NUM	NUM	_	4	nummod
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	la	_	DET	DET	_	4	det
+4	vittoria	_	NOUN	NOUN	_	0	root
+5	della	_	ADP	ADP	_	6	case
+6	Carling	_	PROPN	PROPN	_	4	nmod
+7	Cup	_	PROPN	PROPN	_	6	name
+8	.	_	PUNCT	PUNCT	_	4	punct
+

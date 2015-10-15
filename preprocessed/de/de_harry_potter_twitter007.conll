@@ -1,0 +1,19 @@
+1	@guardian_rhia	_	PROPN	PROPN	_	3	name
+2	Annalena	_	PROPN	PROPN	_	3	name
+3	Biscuit	_	PROPN	PROPN	_	5	nmod
+4	17	_	NUM	NUM	_	5	nmod
+5	Weiblich	_	ADJ	ADJ	_	6	amod
+6	Pansexuell	_	PROPN	PROPN	_	7	name
+7	Deutsch	_	PROPN	PROPN	_	8	det
+8	Vergeben	_	NOUN	NOUN	_	18	nsubj
+9	Harry	_	PROPN	PROPN	_	10	name
+10	Potter	_	PROPN	PROPN	_	8	appos
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	James	_	PROPN	PROPN	_	13	name
+13	Bond	_	PROPN	PROPN	_	10	conj
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	Gronkh	_	PROPN	PROPN	_	16	det
+16	Homophobie	_	NOUN	NOUN	_	18	nsubj
+17	Ist	_	VERB	VERB	_	18	cop
+18	knuddelsüchtig	_	ADJ	ADJ	_	0	root
+

@@ -1,0 +1,26 @@
+1	Après	_	ADV	ADV	_	2	mwe
+2	que	_	SCONJ	SCONJ	_	7	mark
+3	huit	_	NUM	NUM	_	5	nummod
+4	autres	_	ADJ	ADJ	_	5	amod
+5	éditeurs	_	NOUN	NOUN	_	7	nsubj
+6	ont	_	AUX	AUX	_	7	aux
+7	refusé	_	VERB	VERB	_	0	root
+8	le	_	DET	DET	_	9	det
+9	récit	_	NOUN	NOUN	_	7	dobj
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	Bloomsbury	_	PROPN	PROPN	_	13	nsubj
+12	a	_	AUX	AUX	_	13	aux
+13	offert	_	VERB	VERB	_	7	conj
+14	à	_	ADP	ADP	_	15	case
+15	Rowling	_	PROPN	PROPN	_	13	nmod
+16	une	_	DET	DET	_	17	det
+17	avance	_	NOUN	NOUN	_	13	dobj
+18	de	_	ADP	ADP	_	20	case
+19	2500	_	NUM	NUM	_	20	nummod
+20	livres	_	NOUN	NOUN	_	17	nmod
+21	sterling	_	ADJ	ADJ	_	20	amod
+22	pour	_	ADP	ADP	_	24	case
+23	sa	_	DET	DET	_	24	nmod:poss
+24	publication	_	NOUN	NOUN	_	17	nmod
+25	.	_	PUNCT	PUNCT	_	13	punct
+

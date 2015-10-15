@@ -1,0 +1,221 @@
+A	_	Measure_duration Process_end Quantity
+12-year-old	_	
+boy	_	Attention_getting People_by_age
+reports	_	Statement Text
+seeing	_	Perception_experience Personal_relationship
+a	_	Measure_duration Process_end Quantity
+man	_	People
+launch	_	Activity_start Cause_motion Getting_vehicle_underway Launch_process Reshaping Shoot_projectiles
+a	_	Measure_duration Process_end Quantity
+rubber	_	
+boat	_	Operate_vehicle Vehicle
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+a	_	Measure_duration Process_end Quantity
+car	_	Vehicle
+parked	_	Placing
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+harbor	_	Locale_by_use
+.	_	
+
+FBI	_	
+officials	_	Leadership
+find	_	Becoming_aware Coming_to_believe Locating Verdict
+what	_	
+they	_	
+believe	_	Awareness Certainty Opinion Religious_belief Taking_sides Trust
+may	_	Calendric_unit Likelihood
+be	_	Existence Performers_and_roles
+explosives	_	Weapon
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+the	_	Self_motion Temporal_collocation
+car	_	Vehicle
+.	_	
+
+Yemeni	_	
+police	_	
+trace	_	
+the	_	Self_motion Temporal_collocation
+car	_	Vehicle
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+a	_	Measure_duration Process_end Quantity
+nearby	_	
+house	_	Buildings Containing Provide_lodging
+.	_	
+
+The	_	Self_motion Temporal_collocation
+FBI	_	
+finds	_	Locating
+traces	_	
+of	_	Age Domain Origin Partitive
+explosives	_	Weapon
+on	_	Accuracy Being_in_operation Locative_relation Means Process_continue Temporal_collocation Topic
+clothes	_	Clothing
+found	_	Becoming_aware Intentionally_create Locating Verdict
+;	_	
+neighbors	_	People_by_residence
+say	_	Communication Spelling_and_pronouncing Statement Text_creation
+they	_	
+saw	_	Categorization Causation Perception_experience
+two	_	Cardinal_numbers
+men	_	People
+who	_	
+they	_	
+describe	_	Communicate_categorization Statement
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+``	_	
+Arab-looking	_	
+''	_	
+living	_	Dead_or_alive Residence
+there	_	Existence Locative_relation
+for	_	Causation Taking_sides
+several	_	Quantity
+weeks	_	Calendric_unit Measure_duration
+.	_	
+
+Police	_	
+also	_	
+find	_	Becoming_aware Coming_to_believe Locating Verdict
+a	_	Measure_duration Process_end Quantity
+second	_	Calendric_unit Measure_duration Ordinal_numbers
+house	_	Buildings Containing Provide_lodging
+where	_	Locative_relation
+authorities	_	Leadership
+believe	_	Awareness Certainty Opinion Religious_belief Taking_sides Trust
+two	_	Cardinal_numbers
+others	_	Increment
+may	_	Calendric_unit Likelihood
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+assembled	_	Building Gathering_up
+the	_	Self_motion Temporal_collocation
+bomb	_	Attack Weapon
+,	_	
+possibly	_	Likelihood
+doing	_	Intentionally_act Intentionally_affect
+some	_	Relational_quantity
+welding	_	Building
+.	_	
+
+Passports	_	Documents
+found	_	Becoming_aware Intentionally_create Locating Verdict
+in	_	Containment_relation Domain Expected_location_of_person Fields In Locative_relation Medium Participation Popularity Taking_sides Taking_time Temporal_collocation Time_vector Wearing
+one	_	Cardinal_numbers
+of	_	Age Domain Origin Partitive
+the	_	Self_motion Temporal_collocation
+houses	_	Buildings
+identify	_	Categorization Verification
+the	_	Self_motion Temporal_collocation
+men	_	People
+as	_	Continued_state_of_affairs Performers_and_roles Relative_time
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+a	_	Measure_duration Process_end Quantity
+privilege	_	
+convenience	_	
+province	_	Political_locales
+noted	_	Becoming_aware Statement
+for	_	Causation Taking_sides
+lawless	_	Compliance
+tribes	_	Aggregate
+.	_	
+
+But	_	Concessive
+the	_	Self_motion Temporal_collocation
+documents	_	Documents
+turn	_	Becoming Cause_change Cause_to_move_in_place Change_direction Contingency Moving_in_place Temporal_subregion Undergo_change
+out	_	Departing Expected_location_of_person Intentionally_act Locative_relation Sleep Surviving
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+be	_	Existence Performers_and_roles
+fakes	_	
+.	_	
+
+Meantime,	_	
+analysts	_	Scrutiny
+at	_	Locative_relation Relational_quantity Temporal_collocation
+the	_	Self_motion Temporal_collocation
+FBI	_	
+crime	_	Committing_crime
+lab	_	Locale_by_use
+try	_	Attempt Attempt_means Tasting Try_defendant Trying_out
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+discover	_	Achieving_first Becoming_aware
+what	_	
+the	_	Self_motion Temporal_collocation
+bomb	_	Attack Weapon
+was	_	Existence
+made	_	Building Causation Cause_change Intentionally_create Manufacturing Self_motion
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+.	_	
+
+No	_	Quantity
+conclusions	_	Coming_to_believe
+yet	_	Continued_state_of_affairs
+,	_	
+U.S.	_	
+officials	_	Leadership
+say	_	Communication Spelling_and_pronouncing Statement Text_creation
+,	_	
+but	_	Concessive
+a	_	Measure_duration Process_end Quantity
+working	_	Being_employed Being_operational Version_sequence Working_on
+theory	_	
+,	_	
+plastic	_	
+explosive	_	Expansion Weapon
+.	_	
+
+But	_	Concessive
+Yemen	_	
+'s	_	Existence Required_event
+president	_	Leadership
+says	_	Statement
+the	_	Self_motion Temporal_collocation
+FBI	_	
+has	_	Have_associated Inclusion Possession
+told	_	Request Telling
+him	_	
+the	_	Self_motion Temporal_collocation
+explosive	_	Expansion Weapon
+material	_	Ingredients Substance Text
+could	_	Capability Possibility
+only	_	Sole_instance
+have	_	Being_obligated Birth Have_associated Inclusion Ingestion Possession Required_event
+come	_	Arriving Becoming_aware Coming_up_with
+from	_	Delimitation_of_diversity Evidence Origin Time_vector
+the	_	Self_motion Temporal_collocation
+U.S.	_	
+,	_	
+Israel	_	
+or	_	
+two	_	Cardinal_numbers
+Arab	_	
+countries	_	Political_locales
+.	_	
+
+And	_	
+to	_	Attributed_information Being_obligated Delimitation_of_diversity Goal Locative_relation Process_end Required_event Self_motion
+a	_	Measure_duration Process_end Quantity
+former	_	Time_vector
+federal	_	Political_locales
+bomb	_	Attack Weapon
+investigator	_	
+,	_	
+that	_	Degree
+description	_	Communicate_categorization
+suggests	_	Evidence Statement
+a	_	Measure_duration Process_end Quantity
+powerful	_	
+military-style	_	
+plastic	_	
+explosive	_	Expansion Weapon
+C-4	_	
+that	_	Degree
+can	_	Capability Containers Firing Likelihood Measure_volume Possibility Preserving
+be	_	Existence Performers_and_roles
+cut	_	Cause_change_of_position_on_a_scale Cause_harm Change_direction Change_event_duration Change_operational_state Cutting Experience_bodily_harm Hair_configuration Intentional_traversing Removing
+or	_	
+molded	_	Reshaping
+into	_	Goal Into
+different	_	Identicality Similarity
+shapes	_	Shapes
+.	_	
+

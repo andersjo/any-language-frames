@@ -1,0 +1,8 @@
+1	Recurso	_	NOUN	NOUN	_	0	root
+2	Concesiones	_	NOUN	NOUN	_	1	appos
+3	Consorcio	_	NOUN	NOUN	_	1	appos
+4	Coruña	_	PROPN	PROPN	_	3	appos
+5	.	_	PUNCT	PUNCT	_	4	punct
+6	doc	_	PROPN	PROPN	_	7	name
+7	http://t.co/82fu66o9T7	_	PROPN	PROPN	_	1	appos
+

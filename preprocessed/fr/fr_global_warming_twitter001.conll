@@ -1,0 +1,11 @@
+1	Illinois	_	PROPN	PROPN	_	4	name
+2	Social	_	PROPN	PROPN	_	4	name
+3	Media	_	PROPN	PROPN	_	4	name
+4	Law	_	PROPN	PROPN	_	0	root
+5	:	_	PUNCT	PUNCT	_	4	punct
+6	#Global	_	PROPN	PROPN	_	8	name
+7	#Warming	_	PROPN	PROPN	_	8	name
+8	#DISASTER	_	PROPN	PROPN	_	4	conj
+9	!!	_	PUNCT	PUNCT	_	8	punct
+10	http://t.co/rAc8j6b7Yy	_	PROPN	PROPN	_	8	nmod
+

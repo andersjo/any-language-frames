@@ -1,0 +1,9 @@
+1	@tjournalru	_	PROPN	PROPN	_	2	nsubj
+2	зацени	_	VERB	VERB	_	0	root
+3	-	_	PUNCT	PUNCT	_	4	punct
+4	вроде	_	NOUN	NOUN	_	2	dobj
+5	в	_	ADP	ADP	_	6	case
+6	тренде	_	NOUN	NOUN	_	4	nmod
+7	:	_	PUNCT	PUNCT	_	8	punct
+8	https://t.co/ORnxABrjOm	_	PROPN	PROPN	_	6	nmod
+

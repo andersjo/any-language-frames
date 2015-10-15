@@ -1,0 +1,9 @@
+1	@johannaskogh	_	VERB	VERB	_	0	root
+2	precis	_	ADV	ADV	_	1	advmod
+3	!	_	PUNCT	PUNCT	_	1	punct
+4	Bra	_	ADJ	ADJ	_	5	amod
+5	intervju	_	NOUN	NOUN	_	6	nmod:poss
+6	dagens	_	NOUN	NOUN	_	7	det
+7	DN	_	PROPN	PROPN	_	8	nsubj
+8	http://t.co/etp1HGrGzA	_	VERB	VERB	_	1	parataxis
+

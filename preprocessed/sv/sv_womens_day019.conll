@@ -1,0 +1,26 @@
+1	Ryska	_	ADJ	ADJ	_	2	amod
+2	kvinnor	_	NOUN	NOUN	_	3	nsubj
+3	firade	_	VERB	VERB	_	0	root
+4	sin	_	DET	DET	_	6	nmod:poss
+5	första	_	ADJ	ADJ	_	6	det
+6	kvinnodag	_	NOUN	NOUN	_	8	nmod:poss
+7	sista	_	ADJ	ADJ	_	8	det
+8	söndagen	_	NOUN	NOUN	_	3	dobj
+9	i	_	ADP	ADP	_	10	case
+10	februari	_	NOUN	NOUN	_	8	nmod
+11	1913	_	NUM	NUM	_	10	nummod
+12	,	_	PUNCT	PUNCT	_	3	punct
+13	som	_	CONJ	CONJ	_	15	mark
+14	en	_	DET	DET	_	15	det
+15	del	_	NOUN	NOUN	_	8	conj
+16	av	_	ADP	ADP	_	18	case
+17	den	_	DET	DET	_	18	det
+18	fredsrörelse	_	NOUN	NOUN	_	15	nmod
+19	som	_	PRON	PRON	_	20	nsubj
+20	fanns	_	VERB	VERB	_	18	acl:relcl
+21	mot	_	ADP	ADP	_	24	case
+22	det	_	DET	DET	_	24	det
+23	kommande	_	ADJ	ADJ	_	24	amod
+24	kriget	_	NOUN	NOUN	_	20	nmod
+25	.	_	PUNCT	PUNCT	_	3	punct
+

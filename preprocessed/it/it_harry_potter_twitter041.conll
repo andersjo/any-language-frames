@@ -1,0 +1,22 @@
+1	“	_	PUNCT	PUNCT	_	2	punct
+2	@staywithmecamz	_	PROPN	PROPN	_	6	nsubj
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	'	_	PUNCT	PUNCT	_	5	punct
+5	🐾	_	PROPN	PROPN	_	6	nsubj
+6	cita	_	VERB	VERB	_	0	root
+7	e	_	CONJ	CONJ	_	6	cc
+8	rispondi	_	ADJ	ADJ	_	6	conj
+9	di	_	ADP	ADP	_	10	case
+10	staywithmecamz	_	PROPN	PROPN	_	8	nmod
+11	🐾'	_	PROPN	PROPN	_	10	name
+12	libro	_	NOUN	NOUN	_	10	nmod
+13	preferito	_	ADJ	ADJ	_	12	amod
+14	?	_	PUNCT	PUNCT	_	6	punct
+15	”	_	PUNCT	PUNCT	_	16	punct
+16	harry	_	PROPN	PROPN	_	10	conj
+17	potter	_	PROPN	PROPN	_	16	name
+18	e	_	CONJ	CONJ	_	16	cc
+19	la	_	DET	DET	_	20	det
+20	pietra	_	NOUN	NOUN	_	12	conj
+21	filosofale	_	ADJ	ADJ	_	20	amod
+

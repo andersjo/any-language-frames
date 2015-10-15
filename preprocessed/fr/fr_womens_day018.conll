@@ -1,0 +1,22 @@
+1	En	_	ADP	ADP	_	2	case
+2	Allemagne	_	PROPN	PROPN	_	18	nmod
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	en	_	ADP	ADP	_	5	case
+5	Autriche	_	PROPN	PROPN	_	2	conj
+6	,	_	PUNCT	PUNCT	_	2	punct
+7	au	_	ADP	ADP	_	8	case
+8	Danemark	_	PROPN	PROPN	_	2	conj
+9	et	_	CONJ	CONJ	_	2	cc
+10	en	_	ADP	ADP	_	11	case
+11	Suisse	_	PROPN	PROPN	_	2	conj
+12	,	_	PUNCT	PUNCT	_	2	punct
+13	plus	_	ADV	ADV	_	14	advmod
+14	d'un	_	NOUN	NOUN	_	18	nsubj
+15	million	_	NUM	NUM	_	17	nummod
+16	de	_	ADP	ADP	_	17	case
+17	personnes	_	NOUN	NOUN	_	14	nmod
+18	participent	_	VERB	VERB	_	0	root
+19	aux	_	ADP	ADP	_	20	case
+20	rassemblements	_	NOUN	NOUN	_	18	nmod
+21	.	_	PUNCT	PUNCT	_	18	punct
+

@@ -1,0 +1,12 @@
+1	An	_	DET	DET	_	4	det
+2	initial	_	ADJ	ADJ	_	0	appos
+3	public	_	ADJ	ADJ	_	0	iobj
+4	offering	_	NOUN	NOUN	_	5	nsubj
+5	followed	_	VERB	VERB	_	0	root
+6	on	_	ADP	ADP	_	5	compound:prt
+7	August	_	PROPN	PROPN	_	5	dobj
+8	19	_	NUM	NUM	_	7	nummod
+9	,	_	PUNCT	PUNCT	_	7	punct
+10	2004	_	NUM	NUM	_	7	nmod:tmod
+11	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,21 @@
+1	The	_	DET	DET	_	2	det
+2	series	_	NOUN	NOUN	_	3	nsubj
+3	continues	_	VERB	VERB	_	0	root
+4	with	_	ADP	ADP	_	3	compound:prt
+5	"	_	PUNCT	PUNCT	_	7	punct
+6	Harry	_	PROPN	PROPN	_	7	compound
+7	Potter	_	PROPN	PROPN	_	3	dobj
+8	and	_	CONJ	CONJ	_	7	cc
+9	the	_	DET	DET	_	12	det
+10	Chamber	_	PROPN	PROPN	_	12	compound
+11	of	_	ADP	ADP	_	12	compound
+12	Secrets	_	NOUN	NOUN	_	7	conj
+13	"	_	PUNCT	PUNCT	_	12	punct
+14	describing	_	VERB	VERB	_	12	acl
+15	Harry's	_	PROPN	PROPN	_	14	dobj
+16	second	_	ADJ	ADJ	_	0	iobj
+17	year	_	NOUN	NOUN	_	14	nmod:tmod
+18	at	_	ADP	ADP	_	14	compound:prt
+19	Hogwarts	_	NOUN	NOUN	_	14	nmod
+20	.	_	PUNCT	PUNCT	_	3	punct
+

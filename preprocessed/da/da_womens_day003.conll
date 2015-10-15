@@ -1,0 +1,17 @@
+1	I	_	ADP	ADP	_	2	case
+2	Kina	_	PROPN	PROPN	_	3	nmod
+3	markeres	_	VERB	VERB	_	0	root
+4	dagen	_	NOUN	NOUN	_	3	dobj
+5	ved	_	ADP	ADP	_	3	dep
+6	at	_	SCONJ	SCONJ	_	15	mark
+7	kvinder	_	NOUN	NOUN	_	15	nsubj
+8	har	_	AUX	AUX	_	11	aux
+9	en	_	DET	DET	_	11	det
+10	halv	_	ADJ	ADJ	_	11	amod
+11	fridag	_	NOUN	NOUN	_	5	dep
+12	den	_	DET	DET	_	15	det
+13	8	_	NUM	NUM	_	15	nummod
+14	.	_	PUNCT	PUNCT	_	3	punct
+15	marts	_	NOUN	NOUN	_	11	dep
+16	.	_	PUNCT	PUNCT	_	3	punct
+

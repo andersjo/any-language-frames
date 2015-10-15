@@ -1,0 +1,9 @@
+1	Smith	_	PROPN	PROPN	_	0	root
+2	"	_	PUNCT	PUNCT	_	1	punct
+3	,	_	PUNCT	PUNCT	_	7	punct
+4	junto	_	ADV	ADV	_	5	mwe
+5	a	_	ADP	ADP	_	7	case
+6	Brad	_	PROPN	PROPN	_	7	name
+7	Pitt	_	PROPN	PROPN	_	1	conj
+8	.	_	PUNCT	PUNCT	_	1	punct
+

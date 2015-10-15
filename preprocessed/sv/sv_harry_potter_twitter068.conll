@@ -1,0 +1,19 @@
+1	Låg	_	VERB	VERB	_	18	advcl
+2	alltså	_	ADV	ADV	_	1	advmod
+3	under	_	ADP	ADP	_	4	case
+4	täcket	_	NOUN	NOUN	_	1	nmod
+5	tryckt	_	VERB	VERB	_	1	xcomp
+6	mot	_	ADP	ADP	_	7	case
+7	filip	_	NOUN	NOUN	_	5	nmod
+8	genom	_	ADP	ADP	_	11	case
+9	halva	_	ADJ	ADJ	_	10	amod
+10	Harry	_	PROPN	PROPN	_	11	nmod:poss
+11	Potter	_	NOUN	NOUN	_	15	nsubj
+12	3	_	NUM	NUM	_	13	nummod
+13	pga	_	NOUN	NOUN	_	15	nsubj
+14	är	_	AUX	AUX	_	15	cop
+15	rädd	_	ADJ	ADJ	_	7	acl:relcl
+16	för	_	ADP	ADP	_	17	case
+17	dementorer	_	NOUN	NOUN	_	15	nmod
+18	:-)	_	VERB	VERB	_	0	root
+

@@ -1,0 +1,14 @@
+1	Putain	_	PROPN	PROPN	_	5	nsubj
+2	je	_	PRON	PRON	_	5	nsubj
+3	viens	_	AUX	AUX	_	5	aux
+4	de	_	ADP	ADP	_	3	mwe
+5	remarquer	_	VERB	VERB	_	0	root
+6	que	_	SCONJ	SCONJ	_	8	mark
+7	Tennant	_	VERB	VERB	_	5	ccomp
+8	joue	_	VERB	VERB	_	5	ccomp
+9	dans	_	ADP	ADP	_	11	case
+10	Harry	_	PROPN	PROPN	_	11	name
+11	Potter	_	PROPN	PROPN	_	8	nmod
+12	4	_	NUM	NUM	_	13	nummod
+13	*_*	_	X	X	_	11	appos
+

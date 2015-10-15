@@ -1,0 +1,17 @@
+1	Роден	_	PROPN	PROPN	_	0	root
+2	e	_	PROPN	PROPN	_	1	name
+3	на	_	ADP	ADP	_	5	case
+4	5	_	NUM	NUM	_	5	nummod
+5	февруари	_	NOUN	NOUN	_	1	nmod
+6	1985	_	NUM	NUM	_	7	nummod
+7	г	_	NOUN	NOUN	_	5	nmod
+8	.	_	PUNCT	PUNCT	_	7	punct
+9	на	_	ADP	ADP	_	11	case
+10	португалския	_	ADJ	ADJ	_	11	amod
+11	остров	_	NOUN	NOUN	_	7	nmod
+12	Мадейра	_	NOUN	NOUN	_	11	nmod
+13	в	_	ADP	ADP	_	14	case
+14	град	_	NOUN	NOUN	_	12	nmod
+15	Фуншал	_	PROPN	PROPN	_	14	nmod
+16	.	_	PUNCT	PUNCT	_	7	punct
+

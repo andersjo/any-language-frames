@@ -1,0 +1,26 @@
+1	#audi	_	VERB	VERB	_	0	root
+2	#a5	_	PROPN	PROPN	_	1	nsubj
+3	AUDI	_	PROPN	PROPN	_	2	name
+4	A5	_	PROPN	PROPN	_	2	name
+5	SPORT	_	PROPN	PROPN	_	2	name
+6	DIESEL	_	PROPN	PROPN	_	2	name
+7	:	_	PUNCT	PUNCT	_	1	punct
+8	332271	_	NUM	NUM	_	9	nummod
+9	AUDI	_	NOUN	NOUN	_	2	nmod
+10	A5	_	PROPN	PROPN	_	9	nmod
+11	SPORT	_	PROPN	PROPN	_	10	name
+12	QUATTRO	_	PROPN	PROPN	_	10	name
+13	YEAR	_	PROPN	PROPN	_	10	name
+14	-	_	PUNCT	PUNCT	_	1	punct
+15	2007	_	NUM	NUM	_	16	nummod
+16	MILAGE	_	PROPN	PROPN	_	10	conj
+17	-	_	PUNCT	PUNCT	_	1	punct
+18	40K	_	PROPN	PROPN	_	16	name
+19	ENGINE	_	PROPN	PROPN	_	18	name
+20	-	_	PUNCT	PUNCT	_	1	punct
+21	3.0	_	NUM	NUM	_	22	nummod
+22	DIESEL	_	PROPN	PROPN	_	16	conj
+23	...	_	PUNCT	PUNCT	_	22	punct
+24	http://t.co/FaU3LrbkBy	_	NOUN	NOUN	_	22	nmod
+25	#car	_	PROPN	PROPN	_	24	nmod
+

@@ -1,0 +1,20 @@
+1	@euthabs	_	PROPN	PROPN	_	2	name
+2	Gata	_	PROPN	PROPN	_	5	nsubj
+3	,	_	PUNCT	PUNCT	_	5	punct
+4	usted	_	PRON	PRON	_	5	nsubj
+5	tiene	_	VERB	VERB	_	0	root
+6	una	_	DET	DET	_	7	det
+7	pierna	_	NOUN	NOUN	_	5	dobj
+8	más	_	ADV	ADV	_	9	advmod
+9	alta	_	ADJ	ADJ	_	7	amod
+10	que	_	SCONJ	SCONJ	_	15	mark
+11	la	_	DET	DET	_	12	det
+12	otra	_	PRON	PRON	_	7	nmod
+13	?	_	PUNCT	PUNCT	_	5	punct
+14	(	_	PUNCT	PUNCT	_	15	punct
+15	cantadas	_	VERB	VERB	_	12	appos
+16	pedron	_	VERB	VERB	_	15	xcomp
+17	google	_	PROPN	PROPN	_	16	dobj
+18	tradutor	_	NOUN	NOUN	_	16	dobj
+19	)	_	PUNCT	PUNCT	_	15	punct
+

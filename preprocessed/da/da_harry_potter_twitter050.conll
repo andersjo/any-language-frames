@@ -1,0 +1,12 @@
+1	@assxfcam	_	NOUN	NOUN	_	2	nmod:poss
+2	hunger	_	NOUN	NOUN	_	3	nsubj
+3	games	_	ADJ	ADJ	_	0	root
+4	,	_	PUNCT	PUNCT	_	5	punct
+5	tfios	_	NOUN	NOUN	_	1	conj
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	harry	_	ADJ	ADJ	_	8	amod
+8	potter	_	NOUN	NOUN	_	11	dep
+9	et	_	DET	DET	_	11	det
+10	projet	_	NOUN	NOUN	_	11	dep
+11	x	_	PROPN	PROPN	_	1	list
+

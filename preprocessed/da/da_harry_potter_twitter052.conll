@@ -1,0 +1,21 @@
+1	Harry	_	ADJ	ADJ	_	2	amod
+2	Potter	_	NOUN	NOUN	_	0	root
+3	and	_	X	X	_	2	dep
+4	the	_	X	X	_	3	dep
+5	Prisoner	_	NOUN	NOUN	_	4	dep
+6	of	_	X	X	_	4	dep
+7	Azkaban	_	PROPN	PROPN	_	6	dep
+8	(	_	PUNCT	PUNCT	_	9	punct
+9	Book	_	NOUN	NOUN	_	6	dep
+10	3	_	NUM	NUM	_	9	nmod
+11	)	_	PUNCT	PUNCT	_	9	punct
+12	,	_	PUNCT	PUNCT	_	9	punct
+13	J.K.	_	NOUN	NOUN	_	14	nmod:poss
+14	Rowling	_	NOUN	NOUN	_	9	list
+15	,	_	PUNCT	PUNCT	_	16	punct
+16	Mary	_	PROPN	PROPN	_	13	appos
+17	GrandPrÃ©	_	PROPN	PROPN	_	16	name
+18	,	_	PUNCT	PUNCT	_	16	punct
+19	http://t.co/D25eDbqktB	_	NOUN	NOUN	_	16	name
+20	http://t.co/jehb2ZEFyB	_	NOUN	NOUN	_	19	nmod
+

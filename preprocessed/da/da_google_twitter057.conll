@@ -1,0 +1,15 @@
+1	Kim	_	PROPN	PROPN	_	8	nsubj
+2	Kardashian	_	PROPN	PROPN	_	1	name
+3	,	_	PUNCT	PUNCT	_	8	punct
+4	Kanye	_	PROPN	PROPN	_	1	conj
+5	West	_	PROPN	PROPN	_	4	name
+6	Instagram	_	PROPN	PROPN	_	4	name
+7	Kiss	_	PROPN	PROPN	_	4	name
+8	After	_	VERB	VERB	_	0	root
+9	NYE	_	ADJ	ADJ	_	10	amod
+10	Rumor	_	NOUN	NOUN	_	11	dep
+11	Twitter	_	PROPN	PROPN	_	8	dobj
+12	Rant	_	NOUN	NOUN	_	11	dep
+13	http://t.co/Xh6yL1FTxV	_	NOUN	NOUN	_	14	nmod:poss
+14	#instagram	_	NOUN	NOUN	_	8	dobj
+

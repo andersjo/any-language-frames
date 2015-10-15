@@ -1,0 +1,13 @@
+1	Lo	_	PRON	PRON	_	0	root
+2	que	_	SCONJ	SCONJ	_	3	mark
+3	traerá	_	VERB	VERB	_	1	acl:relcl
+4	el	_	DET	DET	_	5	det
+5	2015	_	NUM	NUM	_	3	nmod
+6	en	_	ADP	ADP	_	7	case
+7	celulares	_	ADJ	ADJ	_	5	amod
+8	y	_	CONJ	CONJ	_	7	cc
+9	tabletas	_	NOUN	NOUN	_	7	conj
+10	http://t.co/GbX1Bjl4ud	_	PROPN	PROPN	_	12	name
+11	#apple	_	PROPN	PROPN	_	12	name
+12	#tecnologia	_	PROPN	PROPN	_	9	appos
+

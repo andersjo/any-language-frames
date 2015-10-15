@@ -1,0 +1,18 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	@HogwartsTM	_	X	X	_	5	dep
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	OBSESIONADO	_	VERB	VERB	_	0	root
+5	YO	_	PROPN	PROPN	_	4	nsubj
+6	CON	_	ADP	ADP	_	7	case
+7	HARRY	_	PROPN	PROPN	_	10	name
+8	POTTER	_	PROPN	PROPN	_	10	name
+9	?!?!	_	PROPN	PROPN	_	10	name
+10	JAJAJAJA	_	PROPN	PROPN	_	2	parataxis
+11	...	_	PUNCT	PUNCT	_	5	punct
+12	MUGGLES	_	PROPN	PROPN	_	10	appos
+13	.	_	PUNCT	PUNCT	_	4	punct
+14	http://t.co/ZVG0FbLmjh	_	PROPN	PROPN	_	12	appos
+15	"	_	PUNCT	PUNCT	_	14	punct
+16	LA	_	PROPN	PROPN	_	17	det
+17	VOGLIO	_	PROPN	PROPN	_	14	appos
+

@@ -1,0 +1,13 @@
+1	Rowling	_	PROPN	PROPN	_	3	nsubj
+2	en	_	PRON	PRON	_	3	iobj
+3	fait	_	VERB	VERB	_	0	root
+4	le	_	DET	DET	_	5	det
+5	récit	_	NOUN	NOUN	_	3	dobj
+6	sur	_	ADP	ADP	_	8	case
+7	son	_	DET	DET	_	8	nmod:poss
+8	site	_	NOUN	NOUN	_	5	nmod
+9	Internet	_	PROPN	PROPN	_	8	appos
+10	en	_	ADP	ADP	_	11	mark
+11	disant	_	VERB	VERB	_	3	advcl
+12	:	_	PUNCT	PUNCT	_	3	punct
+

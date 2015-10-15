@@ -1,0 +1,19 @@
+1	Στις	_	ADP	ADP	_	3	case
+2	9	_	NUM	NUM	_	9	nmod
+3	Ιουνίου	_	NOUN	NOUN	_	2	nmod
+4	2010	_	NUM	NUM	_	3	nmod
+5	,	_	PUNCT	PUNCT	_	9	punct
+6	το	_	ADJ	ADJ	_	7	det
+7	μουσείο	_	NOUN	NOUN	_	9	nsubj
+8	Μαντάμ	_	NOUN	NOUN	_	7	nmod
+9	Τισό	_	VERB	VERB	_	0	root
+10	του	_	ADJ	ADJ	_	11	det
+11	Λονδίνου	_	NOUN	NOUN	_	9	nmod
+12	,	_	PUNCT	PUNCT	_	13	punct
+13	παρουσίασε	_	VERB	VERB	_	9	conj
+14	κέρινο	_	NOUN	NOUN	_	13	dobj
+15	ομοίωμα	_	NOUN	NOUN	_	14	nmod
+16	του	_	ADJ	ADJ	_	17	det
+17	Ρονάλντο	_	NOUN	NOUN	_	15	nmod
+18	.	_	PUNCT	PUNCT	_	9	punct
+

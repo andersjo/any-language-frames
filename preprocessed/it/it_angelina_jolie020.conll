@@ -1,0 +1,23 @@
+1	Dopo	_	ADP	ADP	_	3	case
+2	la	_	DET	DET	_	3	det
+3	separazione	_	NOUN	NOUN	_	10	nmod
+4	dei	_	ADP	ADP	_	5	case
+5	genitori	_	NOUN	NOUN	_	3	nmod
+6	per	_	ADP	ADP	_	8	case
+7	molti	_	DET	DET	_	8	det
+8	anni	_	NOUN	NOUN	_	10	nmod
+9	non	_	ADV	ADV	_	10	neg
+10	ebbe	_	VERB	VERB	_	0	root
+11	rapporti	_	NOUN	NOUN	_	10	dobj
+12	con	_	ADP	ADP	_	14	case
+13	il	_	DET	DET	_	14	det
+14	padre	_	NOUN	NOUN	_	11	nmod
+15	,	_	PUNCT	PUNCT	_	14	punct
+16	ogni	_	DET	DET	_	17	det
+17	tentativo	_	NOUN	NOUN	_	21	nsubjpass
+18	di	_	ADP	ADP	_	19	case
+19	riconciliazione	_	NOUN	NOUN	_	17	nmod
+20	fu	_	AUX	AUX	_	21	auxpass
+21	vano	_	VERB	VERB	_	10	conj
+22	.	_	PUNCT	PUNCT	_	10	punct
+

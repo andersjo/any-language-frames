@@ -1,0 +1,15 @@
+1	Foto-Ausstellung	_	NOUN	NOUN	_	0	root
+2	München	_	PROPN	PROPN	_	4	name
+3	Gary	_	PROPN	PROPN	_	4	name
+4	Braasch	_	PROPN	PROPN	_	1	appos
+5	:	_	PUNCT	PUNCT	_	4	punct
+6	Global	_	PROPN	PROPN	_	8	name
+7	warming	_	PROPN	PROPN	_	8	name
+8	photography	_	PROPN	PROPN	_	4	appos
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	climate	_	PROPN	PROPN	_	8	conj
+11	change	_	ADJ	ADJ	_	12	amod
+12	science	_	PROPN	PROPN	_	8	conj
+13	,	_	PUNCT	PUNCT	_	12	punct
+14	http://t.co/3Kcv85IZN5	_	PROPN	PROPN	_	12	conj
+

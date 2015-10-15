@@ -1,0 +1,17 @@
+1	But	_	CONJ	CONJ	_	5	cc
+2	we	_	PRON	PRON	_	5	nsubj
+3	did	_	AUX	AUX	_	5	aux
+4	not	_	ADV	ADV	_	5	neg
+5	imagine	_	VERB	VERB	_	0	root
+6	that	_	SCONJ	SCONJ	_	13	mark
+7	this	_	DET	DET	_	11	det
+8	‘	_	PROPN	PROPN	_	9	compound
+9	Women’s	_	PROPN	PROPN	_	11	compound
+10	Day	_	PROPN	PROPN	_	11	compound
+11	’	_	PROPN	PROPN	_	13	nsubj
+12	would	_	AUX	AUX	_	13	aux
+13	inaugurate	_	VERB	VERB	_	5	ccomp
+14	the	_	DET	DET	_	15	det
+15	revolution	_	NOUN	NOUN	_	13	dobj
+16	.	_	PUNCT	PUNCT	_	5	punct
+

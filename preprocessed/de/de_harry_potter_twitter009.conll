@@ -1,0 +1,25 @@
+1	Set	_	PROPN	PROPN	_	2	name
+2	de	_	PROPN	PROPN	_	3	nsubj
+3	fotos	_	NOUN	NOUN	_	0	root
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	doctaaaaaaaaaaaaaaaaaaaaaaa	_	PROPN	PROPN	_	3	appos
+6	:	_	PUNCT	PUNCT	_	5	punct
+7	Harry	_	PROPN	PROPN	_	10	name
+8	Potter	_	PROPN	PROPN	_	10	name
+9	Book	_	PROPN	PROPN	_	10	name
+10	Quotes	_	PROPN	PROPN	_	5	appos
+11	(	_	PUNCT	PUNCT	_	12	punct
+12	1/	_	NUM	NUM	_	10	appos
+13	?	_	PUNCT	PUNCT	_	12	punct
+14	)	_	PUNCT	PUNCT	_	12	punct
+15	:	_	PUNCT	PUNCT	_	12	punct
+16	Philosopher’s	_	PROPN	PROPN	_	18	name
+17	Stone	_	PROPN	PROPN	_	18	name
+18	p	_	PROPN	PROPN	_	2	conj
+19	.	_	PUNCT	PUNCT	_	2	punct
+20	49	_	NUM	NUM	_	22	nmod
+21	"	_	PUNCT	PUNCT	_	22	punct
+22	Did	_	PROPN	PROPN	_	16	conj
+23	...	_	PUNCT	PUNCT	_	18	punct
+24	http://t.co/TvjM1F4j7m	_	PROPN	PROPN	_	22	appos
+

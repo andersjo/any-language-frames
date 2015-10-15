@@ -1,0 +1,16 @@
+1	#Entertainment	_	NOUN	NOUN	_	2	compound
+2	#News	_	NOUN	NOUN	_	4	compound
+3	Angelina	_	PROPN	PROPN	_	4	compound
+4	Jolie	_	PROPN	PROPN	_	5	nsubj
+5	Unsigned	_	VERB	VERB	_	0	root
+6	8x10	_	NOUN	NOUN	_	8	compound
+7	Photo	_	PROPN	PROPN	_	8	compound
+8	Tomb	_	PROPN	PROPN	_	9	compound
+9	Raider	_	NOUN	NOUN	_	5	nmod
+10	(	_	PUNCT	PUNCT	_	9	punct
+11	48	_	X	X	_	9	advmod
+12	)	_	PUNCT	PUNCT	_	11	punct
+13	http://t.co/ZNqOkPfowj	_	X	X	_	14	compound
+14	#AngelinaJolie	_	NOUN	NOUN	_	15	compound
+15	#Fans	_	NOUN	NOUN	_	9	appos
+

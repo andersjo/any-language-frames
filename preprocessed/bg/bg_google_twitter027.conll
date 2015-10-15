@@ -1,0 +1,12 @@
+1	@Rumboni	_	PROPN	PROPN	_	4	nsubj
+2	пък	_	PART	PART	_	4	discourse
+3	и	_	CONJ	CONJ	_	1	cc
+4	може	_	VERB	VERB	_	0	root
+5	да	_	PART	PART	_	7	aux
+6	си	_	PRON	PRON	_	7	expl
+7	ползвал	_	VERB	VERB	_	4	ccomp
+8	google	_	PROPN	PROPN	_	7	dobj
+9	maps	_	PROPN	PROPN	_	8	name
+10	;)	_	PROPN	PROPN	_	8	name
+11	@benkovski	_	PROPN	PROPN	_	10	nmod
+

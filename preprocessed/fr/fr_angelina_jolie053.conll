@@ -1,0 +1,26 @@
+1	En	_	ADP	ADP	_	2	case
+2	1996	_	NUM	NUM	_	6	nmod
+3	,	_	PUNCT	PUNCT	_	6	punct
+4	Angelina	_	PROPN	PROPN	_	5	name
+5	Jolie	_	PROPN	PROPN	_	6	nsubj
+6	joue	_	VERB	VERB	_	0	root
+7	également	_	ADV	ADV	_	6	advmod
+8	le	_	DET	DET	_	9	det
+9	rôle	_	NOUN	NOUN	_	6	dobj
+10	de	_	ADP	ADP	_	12	case
+11	Margret	_	PROPN	PROPN	_	12	name
+12	Sadovsky	_	PROPN	PROPN	_	9	nmod
+13	,	_	PUNCT	PUNCT	_	9	punct
+14	une	_	DET	DET	_	18	det
+15	des	_	DET	DET	_	18	det
+16	cinq	_	NUM	NUM	_	18	nummod
+17	jeunes	_	ADJ	ADJ	_	18	amod
+18	filles	_	NOUN	NOUN	_	12	appos
+19	rebelles	_	ADJ	ADJ	_	18	amod
+20	au	_	ADP	ADP	_	21	case
+21	centre	_	NOUN	NOUN	_	18	nmod
+22	du	_	ADP	ADP	_	23	case
+23	film	_	NOUN	NOUN	_	21	nmod
+24	'	_	PUNCT	PUNCT	_	21	punct
+25	.	_	PUNCT	PUNCT	_	6	punct
+

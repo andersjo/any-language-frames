@@ -1,0 +1,15 @@
+1	http://t.co/s5Ci8k5Wp4	_	NOUN	NOUN	_	4	nsubj
+2	(	_	PUNCT	PUNCT	_	1	punct
+3	RAK	_	NOUN	NOUN	_	1	nmod
+4	SNACK	_	VERB	VERB	_	0	root
+5	Merk	_	NOUN	NOUN	_	6	nmod:poss
+6	HUMMER	_	NOUN	NOUN	_	4	dobj
+7	|	_	VERB	VERB	_	4	advcl
+8	Jual	_	ADJ	ADJ	_	9	amod
+9	Rak	_	NOUN	NOUN	_	10	nmod:poss
+10	Minimarket	_	NOUN	NOUN	_	11	nmod:poss
+11	dan	_	NOUN	NOUN	_	12	nmod
+12	Trolley	_	NOUN	NOUN	_	7	dobj
+13	)	_	PUNCT	PUNCT	_	1	punct
+14	https://t.co/EiWq5zbZmu	_	NOUN	NOUN	_	12	conj
+

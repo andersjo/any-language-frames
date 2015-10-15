@@ -1,0 +1,16 @@
+1	@LaurenceArroyo	_	NOUN	NOUN	_	5	nsubj
+2	I	_	PRON	PRON	_	3	nsubj
+3	hate	_	VERB	VERB	_	0	root
+4	that	_	DET	DET	_	5	det
+5	punter	_	NOUN	NOUN	_	3	dobj
+6	.	_	PUNCT	PUNCT	_	1	punct
+7	Flopped	_	VERB	VERB	_	3	conj
+8	like	_	ADP	ADP	_	7	compound:prt
+9	Christiano	_	PROPN	PROPN	_	10	compound
+10	Ronaldo	_	PROPN	PROPN	_	7	dobj
+11	in	_	ADP	ADP	_	7	compound:prt
+12	the	_	DET	DET	_	14	det
+13	goal	_	NOUN	NOUN	_	14	compound
+14	box	_	NOUN	NOUN	_	7	nmod
+15	.	_	PUNCT	PUNCT	_	7	punct
+

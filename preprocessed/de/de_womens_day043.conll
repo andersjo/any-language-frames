@@ -1,0 +1,12 @@
+1	Damit	_	ADV	ADV	_	10	advmod
+2	war	_	VERB	VERB	_	4	cop
+3	die	_	DET	DET	_	4	det
+4	Vorkriegsforderung	_	NOUN	NOUN	_	0	root
+5	des	_	DET	DET	_	7	det
+6	Internationalen	_	ADJ	ADJ	_	7	amod
+7	Frauentages	_	NOUN	NOUN	_	4	det
+8	in	_	ADP	ADP	_	9	case
+9	Deutschland	_	PROPN	PROPN	_	7	nmod
+10	erfüllt	_	VERB	VERB	_	4	acl
+11	.	_	PUNCT	PUNCT	_	10	punct
+

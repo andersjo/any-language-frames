@@ -1,0 +1,18 @@
+1	Ronaldo	_	PROPN	PROPN	_	2	nsubj
+2	gewann	_	VERB	VERB	_	0	root
+3	dreimal	_	ADV	ADV	_	2	advmod
+4	den	_	DET	DET	_	6	det
+5	Goldenen	_	PROPN	PROPN	_	6	amod
+6	Schuh	_	NOUN	NOUN	_	2	dobj
+7	als	_	ADP	ADP	_	9	case
+8	bester	_	ADJ	ADJ	_	9	amod
+9	Torschütze	_	NOUN	NOUN	_	6	nmod
+10	Europas	_	PROPN	PROPN	_	9	det
+11	und	_	CONJ	CONJ	_	2	cc
+12	wurde	_	AUX	AUX	_	14	cop
+13	mehrfach	_	ADJ	ADJ	_	14	amod
+14	Torschützenkönig	_	NOUN	NOUN	_	2	dobj
+15	verschiedener	_	DET	DET	_	16	det
+16	Vereinswettbewerbe	_	NOUN	NOUN	_	14	det
+17	.	_	PUNCT	PUNCT	_	2	punct
+

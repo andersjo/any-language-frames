@@ -1,0 +1,13 @@
+1	Muy	_	ADV	ADV	_	2	advmod
+2	buen	_	ADJ	ADJ	_	3	amod
+3	libro	_	NOUN	NOUN	_	0	root
+4	(	_	PUNCT	PUNCT	_	9	punct
+5	mi	_	DET	DET	_	6	nmod:poss
+6	saga	_	NOUN	NOUN	_	3	appos
+7	favorita	_	ADJ	ADJ	_	6	amod
+8	es	_	VERB	VERB	_	6	cop
+9	harry	_	PROPN	PROPN	_	10	name
+10	Potter	_	PROPN	PROPN	_	6	nsubj
+11	)	_	PUNCT	PUNCT	_	9	punct
+12	http://t.co/FnphZpFrH4	_	PROPN	PROPN	_	9	conj
+

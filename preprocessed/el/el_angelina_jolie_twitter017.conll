@@ -1,0 +1,22 @@
+1	Τι	_	PRON	PRON	_	6	nsubj
+2	κι	_	CONJ	CONJ	_	3	cc
+3	αν	_	CONJ	CONJ	_	4	mark
+4	είναι	_	VERB	VERB	_	6	cop
+5	πρώτη	_	NUM	NUM	_	6	nummod
+6	μέρα	_	NOUN	NOUN	_	0	root
+7	του	_	ADJ	ADJ	_	8	det
+8	χρόνου	_	NOUN	NOUN	_	6	nmod
+9	;	_	PUNCT	PUNCT	_	6	punct
+10	Η	_	ADJ	ADJ	_	12	det
+11	πρώτη	_	NUM	NUM	_	12	nummod
+12	σκηνοθετική	_	NOUN	NOUN	_	6	appos
+13	προσπάθεια	_	NOUN	NOUN	_	12	nmod
+14	της	_	ADJ	ADJ	_	15	det
+15	Angelina	_	NOUN	NOUN	_	13	nmod
+16	Jolie	_	NOUN	NOUN	_	15	nmod
+17	κάνει	_	VERB	VERB	_	4	advcl
+18	ντεμπούτο	_	NOUN	NOUN	_	17	dobj
+19	στις	_	ADP	ADP	_	20	case
+20	...	_	NOUN	NOUN	_	18	nmod
+21	http://t.co/yqEJdAi4EF	_	NOUN	NOUN	_	20	nmod
+

@@ -1,0 +1,17 @@
+1	@PsychoMedia	_	PROPN	PROPN	_	3	name
+2	@InstitutSMQ	_	PROPN	PROPN	_	3	name
+3	@racor_sm	_	PROPN	PROPN	_	6	name
+4	Notre	_	DET	DET	_	5	nmod:poss
+5	application	_	NOUN	NOUN	_	12	nsubjpass
+6	journal	_	NOUN	NOUN	_	5	appos
+7	de	_	ADP	ADP	_	9	case
+8	mon	_	DET	DET	_	9	nmod:poss
+9	humeur	_	NOUN	NOUN	_	6	nmod
+10	a	_	AUX	AUX	_	12	aux
+11	été	_	AUX	AUX	_	12	auxpass
+12	mise	_	VERB	VERB	_	0	root
+13	à	_	ADP	ADP	_	14	case
+14	jour	_	NOUN	NOUN	_	12	nmod
+15	:	_	PUNCT	PUNCT	_	14	punct
+16	https://t.co/fSbCFwajb1	_	X	X	_	14	appos
+

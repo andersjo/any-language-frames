@@ -1,0 +1,11 @@
+1	Много	_	ADV	ADV	_	3	advmod
+2	добър	_	ADJ	ADJ	_	3	amod
+3	анализ	_	NOUN	NOUN	_	0	root
+4	!	_	PUNCT	PUNCT	_	5	punct
+5	(Евро-	_	PROPN	PROPN	_	3	nmod
+6	Долар	_	PROPN	PROPN	_	5	name
+7	и	_	CONJ	CONJ	_	5	cc
+8	Паунд	_	PROPN	PROPN	_	5	conj
+9	-Долар)	_	PROPN	PROPN	_	8	name
+10	https://t.co/MqADwz0Qrr	_	PROPN	PROPN	_	8	name
+

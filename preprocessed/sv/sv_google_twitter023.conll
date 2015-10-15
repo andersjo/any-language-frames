@@ -1,0 +1,23 @@
+1	@Dogma_	_	NOUN	NOUN	_	7	dobj
+2	Det	_	PRON	PRON	_	7	expl
+3	är	_	AUX	AUX	_	6	cop
+4	ju	_	ADV	ADV	_	7	advmod
+5	lite	_	ADV	ADV	_	7	advmod
+6	allmänbildning	_	NOUN	NOUN	_	7	nsubj
+7	känns	_	VERB	VERB	_	0	root
+8	det	_	PRON	PRON	_	7	expl
+9	som	_	PRON	PRON	_	13	nsubj
+10	.	_	PUNCT	PUNCT	_	7	punct
+11	Och	_	CONJ	CONJ	_	7	cc
+12	som	_	PRON	PRON	_	13	nsubj
+13	sagt	_	VERB	VERB	_	8	acl:relcl
+14	Google	_	PROPN	PROPN	_	13	dobj
+15	är	_	AUX	AUX	_	16	cop
+16	bra	_	ADJ	ADJ	_	13	advcl
+17	innan	_	SCONJ	SCONJ	_	19	mark
+18	man	_	PRON	PRON	_	19	nsubj
+19	skriver	_	VERB	VERB	_	16	advcl
+20	dumma	_	ADJ	ADJ	_	21	amod
+21	saker	_	NOUN	NOUN	_	22	nmod:poss
+22	:P	_	NOUN	NOUN	_	19	dobj
+

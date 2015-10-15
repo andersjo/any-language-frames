@@ -1,0 +1,17 @@
+1	Il	_	PRON	PRON	_	5	nsubj
+2	est	_	VERB	VERB	_	5	cop
+3	le	_	DET	DET	_	5	det
+4	meilleur	_	ADJ	ADJ	_	5	amod
+5	buteur	_	NOUN	NOUN	_	0	root
+6	de	_	ADP	ADP	_	7	case
+7	l'histoire	_	NOUN	NOUN	_	5	nmod
+8	de	_	ADP	ADP	_	9	case
+9	l'Euro	_	PROPN	PROPN	_	7	nmod
+10	,	_	PUNCT	PUNCT	_	5	punct
+11	éliminatoire	_	NOUN	NOUN	_	5	appos
+12	et	_	CONJ	CONJ	_	11	cc
+13	phase	_	NOUN	NOUN	_	11	conj
+14	finale	_	ADJ	ADJ	_	13	amod
+15	confondus	_	ADJ	ADJ	_	13	amod
+16	.	_	PUNCT	PUNCT	_	5	punct
+

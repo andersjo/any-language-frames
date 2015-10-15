@@ -1,0 +1,17 @@
+1	La	_	DET	DET	_	3	det
+2	stessa	_	ADJ	ADJ	_	3	amod
+3	autrice	_	NOUN	NOUN	_	6	nsubj
+4	ha	_	AUX	AUX	_	6	aux
+5	però	_	ADV	ADV	_	6	advmod
+6	dichiarato	_	VERB	VERB	_	0	root
+7	nel	_	ADP	ADP	_	8	case
+8	2007	_	NUM	NUM	_	6	nummod
+9	che	_	PRON	PRON	_	11	nsubj
+10	non	_	ADV	ADV	_	11	neg
+11	scriverà	_	VERB	VERB	_	8	acl:relcl
+12	nemmeno	_	ADV	ADV	_	11	advmod
+13	il	_	DET	DET	_	14	det
+14	volume	_	NOUN	NOUN	_	11	dobj
+15	enciclopedico	_	NOUN	NOUN	_	14	compound
+16	.	_	PUNCT	PUNCT	_	6	punct
+

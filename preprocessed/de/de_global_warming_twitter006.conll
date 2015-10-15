@@ -1,0 +1,18 @@
+1	Ich	_	PRON	PRON	_	7	nsubj
+2	habe	_	AUX	AUX	_	7	aux
+3	ein	_	DET	DET	_	5	det
+4	@YouTube	_	PROPN	PROPN	_	5	amod
+5	-Video	_	PROPN	PROPN	_	7	nsubj
+6	positiv	_	ADJ	ADJ	_	7	advmod
+7	bewertet	_	VERB	VERB	_	0	root
+8	:	_	PUNCT	PUNCT	_	7	punct
+9	http://t.co/kglXVGdDw7	_	PROPN	PROPN	_	7	appos
+10	Greenhouse	_	PROPN	PROPN	_	11	name
+11	Effect	_	PROPN	PROPN	_	9	nmod
+12	:	_	PUNCT	PUNCT	_	11	punct
+13	Climate	_	PROPN	PROPN	_	14	name
+14	Control	_	PROPN	PROPN	_	11	appos
+15	and	_	PROPN	PROPN	_	14	cc
+16	Global	_	PROPN	PROPN	_	14	conj
+17	Warming	_	PROPN	PROPN	_	14	nmod
+

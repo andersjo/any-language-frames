@@ -1,0 +1,27 @@
+1	El	_	DET	DET	_	2	det
+2	1	_	NUM	NUM	_	12	nmod
+3	de	_	ADP	ADP	_	4	case
+4	noviembre	_	PROPN	PROPN	_	2	nmod
+5	,	_	PUNCT	PUNCT	_	7	punct
+6	Rubeus	_	PROPN	PROPN	_	7	name
+7	Hagrid	_	PROPN	PROPN	_	4	appos
+8	,	_	PUNCT	PUNCT	_	10	punct
+9	un	_	DET	DET	_	10	det
+10	semi-gigante	_	NOUN	NOUN	_	7	appos
+11	,	_	PUNCT	PUNCT	_	12	punct
+12	deja	_	VERB	VERB	_	0	root
+13	a	_	ADP	ADP	_	14	case
+14	Harry	_	PROPN	PROPN	_	12	dobj
+15	con	_	ADP	ADP	_	18	case
+16	los	_	DET	DET	_	18	det
+17	únicos	_	ADJ	ADJ	_	18	amod
+18	parientes	_	NOUN	NOUN	_	12	dobj
+19	que	_	SCONJ	SCONJ	_	21	mark
+20	le	_	PRON	PRON	_	21	iobj
+21	quedan	_	VERB	VERB	_	18	acl:relcl
+22	,	_	PUNCT	PUNCT	_	25	punct
+23	los	_	DET	DET	_	25	det
+24	crueles	_	ADJ	ADJ	_	25	amod
+25	Dursley	_	PROPN	PROPN	_	18	appos
+26	.	_	PUNCT	PUNCT	_	12	punct
+

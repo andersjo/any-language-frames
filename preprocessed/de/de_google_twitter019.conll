@@ -1,0 +1,20 @@
+1	#trends	_	PROPN	PROPN	_	4	name
+2	05.01.2015	_	PROPN	PROPN	_	4	name
+3		_	PROPN	PROPN	_	4	name
+4	Facebook	_	PROPN	PROPN	_	5	det
+5	Datenschutzregeln	_	NOUN	NOUN	_	7	compound
+6	|	_	PUNCT	PUNCT	_	5	punct
+7	Snapchat	_	PROPN	PROPN	_	8	amod
+8	Investoren	_	NOUN	NOUN	_	12	nsubj
+9	|	_	PUNCT	PUNCT	_	10	punct
+10	Apple	_	PROPN	PROPN	_	11	det
+11	Pay	_	NOUN	NOUN	_	12	nsubj
+12	verhandelt	_	VERB	VERB	_	0	root
+13	in	_	ADP	ADP	_	14	case
+14	UK	_	PROPN	PROPN	_	12	nmod
+15	:	_	PUNCT	PUNCT	_	14	punct
+16	Facebook	_	PROPN	PROPN	_	17	name
+17	f	_	PROPN	PROPN	_	14	appos
+18	...	_	PUNCT	PUNCT	_	17	punct
+19	http://t.co/cu5EhS6nVA	_	PROPN	PROPN	_	17	appos
+

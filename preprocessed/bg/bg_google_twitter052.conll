@@ -1,0 +1,8 @@
+1	natie	_	PROPN	PROPN	_	0	root
+2	;	_	PUNCT	PUNCT	_	3	punct
+3	staat	_	NOUN	NOUN	_	1	nmod
+4	народ	_	NOUN	NOUN	_	3	nmod
+5	;	_	PUNCT	PUNCT	_	3	punct
+6	нация	_	NOUN	NOUN	_	4	nmod
+7	http://t.co/FycdeheqCm	_	PROPN	PROPN	_	6	nmod
+

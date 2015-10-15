@@ -1,0 +1,23 @@
+1	Ok	_	ADJ	ADJ	_	3	amod
+2	,	_	PUNCT	PUNCT	_	3	punct
+3	na	_	PROPN	PROPN	_	11	conj
+4	von	_	ADP	ADP	_	5	case
+5	mir	_	PRON	PRON	_	3	nmod
+6	aus	_	ADP	ADP	_	5	mwe
+7	.	_	PUNCT	PUNCT	_	1	punct
+8	Folgen	_	VERB	VERB	_	0	root
+9	mir	_	PRON	PRON	_	8	iobj
+10	Brad	_	PROPN	PROPN	_	11	name
+11	Pitt	_	PROPN	PROPN	_	8	iobj
+12	und	_	CONJ	CONJ	_	11	cc
+13	Angelina	_	PROPN	PROPN	_	14	name
+14	Jolie	_	PROPN	PROPN	_	11	conj
+15	hat	_	AUX	AUX	_	8	aux
+16	doch	_	ADV	ADV	_	17	advmod
+17	nicht	_	PART	PART	_	8	neg
+18	.	_	PUNCT	PUNCT	_	8	punct
+19	#ironietweet	_	PROPN	PROPN	_	20	name
+20	#trolls	_	PROPN	PROPN	_	22	name
+21	#block	_	PROPN	PROPN	_	22	name
+22	#spam	_	PROPN	PROPN	_	11	conj
+

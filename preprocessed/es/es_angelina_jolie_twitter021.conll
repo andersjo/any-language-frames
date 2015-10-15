@@ -1,0 +1,22 @@
+1	#CineEnCasa	_	PROPN	PROPN	_	4	nsubj
+2	"	_	PUNCT	PUNCT	_	4	punct
+3	Se	_	PRON	PRON	_	4	iobj
+4	busca	_	VERB	VERB	_	0	root
+5	"	_	PUNCT	PUNCT	_	4	punct
+6	,	_	PUNCT	PUNCT	_	9	punct
+7	con	_	ADP	ADP	_	9	case
+8	Angelina	_	PROPN	PROPN	_	9	name
+9	Jolie	_	PROPN	PROPN	_	4	nmod
+10	y	_	CONJ	CONJ	_	9	cc
+11	James	_	PROPN	PROPN	_	12	name
+12	McAvoy	_	PROPN	PROPN	_	9	conj
+13	.	_	PUNCT	PUNCT	_	4	punct
+14	En	_	ADP	ADP	_	15	case
+15	@TNTLA	_	PROPN	PROPN	_	19	nmod
+16	a	_	ADP	ADP	_	19	case
+17	las	_	DET	DET	_	19	det
+18	13:00	_	NUM	NUM	_	19	nummod
+19	horas	_	NOUN	NOUN	_	9	conj
+20	http://t.co/fdPd8q5Fcd	_	PROPN	PROPN	_	21	name
+21	http://t.co/xyKXFtoBve	_	PROPN	PROPN	_	19	appos
+

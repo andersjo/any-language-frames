@@ -1,0 +1,27 @@
+1	Trots	_	ADP	ADP	_	2	case
+2	det	_	PRON	PRON	_	3	nmod
+3	har	_	VERB	VERB	_	8	advcl
+4	flera	_	ADJ	ADJ	_	5	det
+5	personer	_	NOUN	NOUN	_	3	dobj
+6	i	_	ADP	ADP	_	7	case
+7	böckerna	_	NOUN	NOUN	_	5	nmod
+8	tvingats	_	VERB	VERB	_	0	root
+9	välja	_	VERB	VERB	_	8	xcomp
+10	mellan	_	ADP	ADP	_	11	case
+11	vad	_	PRON	PRON	_	9	nmod
+12	som	_	PRON	PRON	_	14	nsubj
+13	är	_	AUX	AUX	_	14	cop
+14	rätt	_	ADJ	ADJ	_	11	acl:relcl
+15	och	_	CONJ	CONJ	_	14	cc
+16	vad	_	PRON	PRON	_	14	conj
+17	som	_	PRON	PRON	_	19	nsubj
+18	är	_	AUX	AUX	_	19	cop
+19	lätt	_	ADJ	ADJ	_	14	conj
+20	,	_	PUNCT	PUNCT	_	19	punct
+21	ett	_	DET	DET	_	25	det
+22	av	_	ADP	ADP	_	23	case
+23	böckernas	_	NOUN	NOUN	_	25	nmod:poss
+24	centrala	_	ADJ	ADJ	_	25	amod
+25	teman	_	NOUN	NOUN	_	11	conj
+26	.	_	PUNCT	PUNCT	_	8	punct
+

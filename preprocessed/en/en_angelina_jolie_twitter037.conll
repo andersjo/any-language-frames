@@ -1,0 +1,17 @@
+1	Saw	_	VERB	VERB	_	0	root
+2	the	_	DET	DET	_	3	det
+3	movie	_	NOUN	NOUN	_	1	dobj
+4	Unbroken	_	ADJ	ADJ	_	0	punct
+5	and	_	CONJ	CONJ	_	1	cc
+6	it	_	PRON	PRON	_	7	nsubj
+7	was	_	VERB	VERB	_	1	conj
+8	great	_	ADJ	ADJ	_	0	discourse
+9	!	_	PUNCT	PUNCT	_	1	punct
+10	Angelina	_	PROPN	PROPN	_	11	compound
+11	Jolie	_	PROPN	PROPN	_	12	nsubj
+12	did	_	VERB	VERB	_	1	conj
+13	a	_	DET	DET	_	15	det
+14	great	_	ADJ	ADJ	_	0	foreign
+15	job	_	NOUN	NOUN	_	12	dobj
+16	.	_	PUNCT	PUNCT	_	1	punct
+

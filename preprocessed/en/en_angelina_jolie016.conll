@@ -1,0 +1,11 @@
+1	Jolie	_	PROPN	PROPN	_	6	nsubj
+2	and	_	CONJ	CONJ	_	1	cc
+3	Pitt's	_	PROPN	PROPN	_	1	conj
+4	relationship	_	NOUN	NOUN	_	6	nsubj
+5	has	_	AUX	AUX	_	6	aux
+6	attracted	_	VERB	VERB	_	0	root
+7	protracted	_	VERB	VERB	_	9	amod
+8	media	_	NOUN	NOUN	_	9	compound
+9	attention	_	NOUN	NOUN	_	6	dobj
+10	.	_	PUNCT	PUNCT	_	6	punct
+

@@ -1,0 +1,14 @@
+1	@malefoy_drago	_	PROPN	PROPN	_	2	name
+2	@EstebanCrochet	_	PROPN	PROPN	_	3	nsubj
+3	@Le_Harry_Potter	_	VERB	VERB	_	0	root
+4	ne	_	ADV	ADV	_	5	neg
+5	profanez	_	VERB	VERB	_	3	xcomp
+6	pas	_	ADV	ADV	_	5	neg
+7	de	_	ADP	ADP	_	9	case
+8	telles	_	DET	DET	_	9	det
+9	absurdité	_	NOUN	NOUN	_	5	nmod
+10	a	_	VERB	VERB	_	5	ccomp
+11	mon	_	DET	DET	_	12	nmod:poss
+12	égard	_	NOUN	NOUN	_	10	dobj
+13	HAHHAHA	_	PROPN	PROPN	_	12	appos
+

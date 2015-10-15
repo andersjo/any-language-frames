@@ -1,0 +1,23 @@
+1	En	_	ADP	ADP	_	2	case
+2	juin	_	NOUN	NOUN	_	8	nmod
+3	2011	_	NUM	NUM	_	2	nmod
+4	,	_	PUNCT	PUNCT	_	8	punct
+5	ils	_	PRON	PRON	_	8	nsubjpass
+6	avaient	_	AUX	AUX	_	8	aux
+7	été	_	AUX	AUX	_	8	auxpass
+8	vendus	_	VERB	VERB	_	0	root
+9	à	_	ADP	ADP	_	14	case
+10	plus	_	ADV	ADV	_	11	mwe
+11	de	_	ADP	ADP	_	12	advmod
+12	450	_	NUM	NUM	_	13	nummod
+13	millions	_	NUM	NUM	_	14	nummod
+14	d'exemplaires	_	NOUN	NOUN	_	8	nmod
+15	et	_	CONJ	CONJ	_	8	cc
+16	traduits	_	VERB	VERB	_	8	conj
+17	dans	_	ADP	ADP	_	21	case
+18	près	_	ADV	ADV	_	20	advmod
+19	de	_	ADP	ADP	_	18	mwe
+20	70	_	NUM	NUM	_	21	nummod
+21	langues	_	NOUN	NOUN	_	16	nmod
+22	.	_	PUNCT	PUNCT	_	8	punct
+

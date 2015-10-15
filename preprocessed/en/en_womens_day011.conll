@@ -1,0 +1,27 @@
+1	Delegates	_	PROPN	PROPN	_	4	compound
+2	(	_	PUNCT	PUNCT	_	1	punct
+3	100	_	NUM	NUM	_	4	nummod
+4	women	_	NOUN	NOUN	_	9	nmod
+5	from	_	ADP	ADP	_	4	compound
+6	17	_	NUM	NUM	_	7	nummod
+7	countries	_	NOUN	NOUN	_	4	nmod
+8	)	_	PUNCT	PUNCT	_	7	punct
+9	agreed	_	VERB	VERB	_	0	root
+10	with	_	ADP	ADP	_	9	compound:prt
+11	the	_	DET	DET	_	12	det
+12	idea	_	NOUN	NOUN	_	9	dobj
+13	as	_	ADP	ADP	_	9	compound:prt
+14	a	_	DET	DET	_	15	det
+15	strategy	_	NOUN	NOUN	_	9	dobj
+16	to	_	PART	PART	_	17	mark
+17	promote	_	VERB	VERB	_	15	acl
+18	equal	_	ADJ	ADJ	_	0	foreign
+19	rights	_	NOUN	NOUN	_	17	dobj
+20	,	_	PUNCT	PUNCT	_	9	punct
+21	including	_	VERB	VERB	_	22	case
+22	suffrage	_	NOUN	NOUN	_	19	nmod
+23	,	_	PUNCT	PUNCT	_	9	punct
+24	for	_	ADP	ADP	_	21	compound:prt
+25	women	_	NOUN	NOUN	_	22	conj
+26	.	_	PUNCT	PUNCT	_	9	punct
+

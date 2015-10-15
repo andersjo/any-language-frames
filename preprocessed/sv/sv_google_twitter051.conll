@@ -1,0 +1,11 @@
+1	@IWILLBEARMED	_	ADV	ADV	_	2	advmod
+2	Problemet	_	NOUN	NOUN	_	7	nsubj
+3	är	_	AUX	AUX	_	2	cop
+4	att	_	SCONJ	SCONJ	_	7	mark
+5	Google	_	PROPN	PROPN	_	7	nsubj
+6	har	_	AUX	AUX	_	7	cop
+7	rätt	_	ADJ	ADJ	_	0	root
+8	i	_	ADP	ADP	_	10	case
+9	sak	_	NOUN	NOUN	_	10	nmod:poss
+10	:P	_	NOUN	NOUN	_	7	nmod
+

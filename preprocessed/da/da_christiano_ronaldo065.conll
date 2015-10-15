@@ -1,0 +1,18 @@
+1	Det	_	PRON	PRON	_	5	nsubj
+2	var	_	AUX	AUX	_	5	cop
+3	kun	_	ADV	ADV	_	5	advmod
+4	fire	_	NUM	NUM	_	5	nummod
+5	mål	_	NOUN	NOUN	_	0	root
+6	fra	_	ADP	ADP	_	7	case
+7	Denis	_	NOUN	NOUN	_	5	nmod
+8	Laws	_	PROPN	PROPN	_	7	appos
+9	klubrekord	_	NOUN	NOUN	_	8	dep
+10	på	_	ADP	ADP	_	12	case
+11	46	_	NUM	NUM	_	12	nummod
+12	mål	_	NOUN	NOUN	_	9	nmod
+13	i	_	ADP	ADP	_	16	case
+14	1963	_	NUM	NUM	_	16	nummod
+15	–	_	ADJ	ADJ	_	16	amod
+16	64-sæsonen	_	NOUN	NOUN	_	12	nmod
+17	.	_	PUNCT	PUNCT	_	16	punct
+

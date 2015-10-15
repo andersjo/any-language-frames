@@ -1,0 +1,16 @@
+1	Maddox	_	PROPN	PROPN	_	2	name
+2	Jolie-Pitt	_	PROPN	PROPN	_	3	name
+3	&	_	PROPN	PROPN	_	4	name
+4	Zahara	_	PROPN	PROPN	_	5	name
+5	Jolie-Pitt	_	PROPN	PROPN	_	6	name
+6	at	_	PROPN	PROPN	_	8	name
+7	Angelina	_	PROPN	PROPN	_	8	name
+8	Jolie	_	PROPN	PROPN	_	0	root
+9	And	_	PROPN	PROPN	_	8	cc
+10	Brad	_	PROPN	PROPN	_	11	name
+11	Pitt	_	PROPN	PROPN	_	8	conj
+12	In	_	ADP	ADP	_	15	case
+13	Berlin	_	PROPN	PROPN	_	15	name
+14	#NewzArchive	_	PROPN	PROPN	_	15	name
+15	http://t.co/FkZbzDziNa	_	PROPN	PROPN	_	11	nmod
+

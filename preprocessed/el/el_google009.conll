@@ -1,0 +1,14 @@
+1	Η	_	ADJ	ADJ	_	2	det
+2	εταιρία	_	NOUN	NOUN	_	0	root
+3	ηγείται	_	NOUN	NOUN	_	2	nmod
+4	της	_	ADJ	ADJ	_	5	det
+5	ανάπτυξης	_	NOUN	NOUN	_	3	nmod
+6	του	_	ADJ	ADJ	_	7	det
+7	λειτουργικού	_	NOUN	NOUN	_	5	nmod
+8	συστήματος	_	NOUN	NOUN	_	7	nmod
+9	για	_	ADP	ADP	_	10	case
+10	κινητές	_	NOUN	NOUN	_	8	nmod
+11	συσκευές	_	ADJ	ADJ	_	12	amod
+12	Android	_	NOUN	NOUN	_	10	nmod
+13	.	_	PUNCT	PUNCT	_	10	punct
+

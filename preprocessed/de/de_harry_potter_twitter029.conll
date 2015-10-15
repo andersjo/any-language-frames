@@ -1,0 +1,23 @@
+1	Und	_	CONJ	CONJ	_	5	cc
+2	zur	_	ADP	ADP	_	5	case
+3	Harry	_	PROPN	PROPN	_	4	name
+4	Potter	_	PROPN	PROPN	_	5	det
+5	Ausstellung	_	NOUN	NOUN	_	13	dobj
+6	muss	_	AUX	AUX	_	0	root
+7	ich	_	PRON	PRON	_	13	nsubj
+8	auch	_	ADV	ADV	_	9	advmod
+9	noch	_	ADV	ADV	_	11	advmod
+10	..	_	PUNCT	PUNCT	_	11	punct
+11	2015	_	NUM	NUM	_	6	nmod
+12	wird	_	AUX	AUX	_	13	auxpass
+13	toll	_	ADJ	ADJ	_	11	parataxis
+14	und	_	CONJ	CONJ	_	13	cc
+15	voll	_	ADJ	ADJ	_	13	conj
+16	und	_	CONJ	CONJ	_	13	cc
+17	teuer	_	ADJ	ADJ	_	13	conj
+18	.	_	PUNCT	PUNCT	_	13	punct
+19	Ich	_	PRON	PRON	_	20	nsubj
+20	seh's	_	PROPN	PROPN	_	21	iobj
+21	schon	_	ADV	ADV	_	17	advmod
+22	..	_	PUNCT	PUNCT	_	13	punct
+

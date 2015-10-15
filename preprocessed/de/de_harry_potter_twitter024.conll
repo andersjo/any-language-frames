@@ -1,0 +1,17 @@
+1	Hab	_	AUX	AUX	_	5	aux
+2	heute	_	ADV	ADV	_	5	advmod
+3	Harry	_	PROPN	PROPN	_	4	name
+4	Potter	_	PROPN	PROPN	_	5	nmod
+5	geguckt	_	VERB	VERB	_	0	root
+6	und	_	CONJ	CONJ	_	5	cc
+7	wieder	_	ADV	ADV	_	8	advmod
+8	mal	_	ADV	ADV	_	9	advmod
+9	festgestellt	_	VERB	VERB	_	5	conj
+10	das	_	DET	DET	_	11	det
+11	#slytherin	_	NOUN	NOUN	_	9	nsubj
+12	viel	_	ADJ	ADJ	_	13	amod
+13	cooler	_	PROPN	PROPN	_	11	det
+14	ist	_	VERB	VERB	_	15	cop
+15	als	_	ADP	ADP	_	16	case
+16	#Griffondor	_	PROPN	PROPN	_	9	nmod
+

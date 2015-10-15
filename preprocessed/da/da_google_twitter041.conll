@@ -1,0 +1,21 @@
+1	Krypteret	_	ADJ	ADJ	_	2	amod
+2	Gmail	_	NOUN	NOUN	_	3	nsubj
+3	så	_	VERB	VERB	_	0	root
+4	selv	_	PRON	PRON	_	3	nmod
+5	Google	_	NOUN	NOUN	_	3	dobj
+6	ikke	_	ADV	ADV	_	8	neg
+7	kan	_	AUX	AUX	_	16	aux
+8	læse	_	VERB	VERB	_	16	dep
+9	http://t.co/hSUxPKAPge	_	NOUN	NOUN	_	16	nsubjpass
+10	Er	_	AUX	AUX	_	12	cop
+11	lidt	_	ADV	ADV	_	12	advmod
+12	skeptisk	_	ADJ	ADJ	_	3	amod
+13	når	_	SCONJ	SCONJ	_	16	mark
+14	det	_	PRON	PRON	_	16	nsubjpass
+15	er	_	AUX	AUX	_	16	auxpass
+16	baseret	_	VERB	VERB	_	12	dep
+17	på	_	ADP	ADP	_	18	case
+18	Chrome	_	PROPN	PROPN	_	19	nmod:poss
+19	ext	_	NOUN	NOUN	_	16	nmod
+20	http://t.co/sUksP2JLLh	_	PROPN	PROPN	_	19	appos
+

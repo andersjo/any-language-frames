@@ -1,0 +1,27 @@
+1	Η	_	ADJ	ADJ	_	3	det
+2	κεντρική	_	ADJ	ADJ	_	3	amod
+3	ιστορία	_	NOUN	NOUN	_	6	nsubj
+4	των	_	ADJ	ADJ	_	5	det
+5	βιβλίων	_	NOUN	NOUN	_	3	nmod
+6	περιγράφει	_	VERB	VERB	_	0	root
+7	τον	_	ADJ	ADJ	_	8	det
+8	αγώνα	_	NOUN	NOUN	_	6	dobj
+9	του	_	ADJ	ADJ	_	10	det
+10	Χαρι	_	NOUN	NOUN	_	8	nmod
+11	Πότερ	_	NOUN	NOUN	_	10	nmod
+12	εναντίον	_	ADP	ADP	_	14	case
+13	του	_	ADJ	ADJ	_	14	det
+14	κακού	_	NOUN	NOUN	_	8	nmod
+15	μάγου	_	ADJ	ADJ	_	16	amod
+16	Βόλντεμορτ	_	NOUN	NOUN	_	14	nmod
+17	ο	_	ADJ	ADJ	_	18	det
+18	οποίος	_	PRON	PRON	_	19	nsubj
+19	θέλει	_	VERB	VERB	_	16	acl:relcl
+20	να	_	PART	PART	_	21	aux
+21	κατακτήσει	_	VERB	VERB	_	19	ccomp
+22	τον	_	ADJ	ADJ	_	23	det
+23	κόσμο	_	NOUN	NOUN	_	21	dobj
+24	των	_	ADJ	ADJ	_	25	det
+25	μάγων	_	NOUN	NOUN	_	23	nmod
+26	.	_	PUNCT	PUNCT	_	6	punct
+

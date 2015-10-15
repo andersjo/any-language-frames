@@ -1,0 +1,10 @@
+1	Banget	_	NOUN	NOUN	_	6	nsubj
+2	"	_	PUNCT	PUNCT	_	1	punct
+3	@Danirr78	_	NOUN	NOUN	_	1	dep
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	Kangen	_	NOUN	NOUN	_	6	nsubj
+6	Harry	_	VERB	VERB	_	0	root
+7	Potter	_	NOUN	NOUN	_	6	dobj
+8	?	_	PUNCT	PUNCT	_	3	punct
+9	"	_	PUNCT	PUNCT	_	3	punct
+

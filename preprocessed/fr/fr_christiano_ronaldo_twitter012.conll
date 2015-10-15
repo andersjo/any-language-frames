@@ -1,0 +1,24 @@
+1	A	_	ADP	ADP	_	3	case
+2	14	_	NUM	NUM	_	3	nummod
+3	ans	_	NOUN	NOUN	_	9	nmod
+4	,	_	PUNCT	PUNCT	_	9	punct
+5	le	_	DET	DET	_	6	det
+6	fils	_	NOUN	NOUN	_	9	nsubj
+7	de	_	ADP	ADP	_	8	case
+8	Ronaldo	_	PROPN	PROPN	_	6	nmod
+9	embrasse	_	VERB	VERB	_	0	root
+10	une	_	DET	DET	_	11	det
+11	institutrice	_	NOUN	NOUN	_	9	dobj
+12	de	_	ADP	ADP	_	14	case
+13	27	_	NUM	NUM	_	14	nummod
+14	ans	_	NOUN	NOUN	_	11	nmod
+15	!	_	PUNCT	PUNCT	_	11	punct
+16	On	_	PRON	PRON	_	17	nsubj
+17	connaissait	_	VERB	VERB	_	11	acl:relcl
+18	Christiano	_	PROPN	PROPN	_	19	name
+19	Ronaldo	_	PROPN	PROPN	_	17	dobj
+20	pour	_	ADP	ADP	_	23	case
+21	son	_	DET	DET	_	23	nmod:poss
+22	...	_	PUNCT	PUNCT	_	19	punct
+23	http://t.co/CYO8eWRxpH	_	PROPN	PROPN	_	18	dep
+

@@ -1,0 +1,23 @@
+1	@AlbusRP	_	PROPN	PROPN	_	12	nsubj
+2	Et	_	CONJ	CONJ	_	1	cc
+3	le	_	DET	DET	_	4	det
+4	célèbre	_	ADJ	ADJ	_	11	amod
+5	mais	_	CONJ	CONJ	_	4	cc
+6	pas	_	ADV	ADV	_	7	advmod
+7	moins	_	ADV	ADV	_	8	advmod
+8	pitoyable	_	ADJ	ADJ	_	4	conj
+9	"	_	PUNCT	PUNCT	_	11	punct
+10	Harry	_	PROPN	PROPN	_	11	name
+11	Potter	_	PROPN	PROPN	_	12	nsubj
+12	m'a	_	VERB	VERB	_	0	root
+13	volé	_	VERB	VERB	_	12	xcomp
+14	mon	_	DET	DET	_	15	nmod:poss
+15	journal	_	NOUN	NOUN	_	13	dobj
+16	,	_	PUNCT	PUNCT	_	12	punct
+17	alors	_	ADV	ADV	_	19	advmod
+18	je	_	PRON	PRON	_	19	nsubj
+19	viens	_	AUX	AUX	_	13	conj
+20	ici	_	ADV	ADV	_	13	advmod
+21	.	_	PUNCT	PUNCT	_	4	punct
+22	"	_	PUNCT	PUNCT	_	12	punct
+

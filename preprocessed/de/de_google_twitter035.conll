@@ -1,0 +1,22 @@
+1	<	_	PUNCT	PUNCT	_	2	punct
+2	b	_	X	X	_	4	advmod
+3	>	_	PUNCT	PUNCT	_	2	punct
+4	zeyko	_	PROPN	PROPN	_	6	name
+5	<	_	PUNCT	PUNCT	_	4	punct
+6	/b	_	PROPN	PROPN	_	8	name
+7	>	_	PUNCT	PUNCT	_	6	punct
+8	Einbauk�che	_	PROPN	PROPN	_	10	name
+9	:	_	PUNCT	PUNCT	_	8	punct
+10	K�che	_	PROPN	PROPN	_	11	nsubj
+11	bestehend	_	VERB	VERB	_	0	root
+12	aus	_	ADP	ADP	_	15	case
+13	links	_	ADV	ADV	_	14	advmod
+14	4	_	NUM	NUM	_	15	nummod
+15	Unterschr�nken	_	NOUN	NOUN	_	11	nmod
+16	und	_	CONJ	CONJ	_	15	cc
+17	4	_	NUM	NUM	_	18	nummod
+18	Oberschr�nken	_	PROPN	PROPN	_	15	conj
+19	und	_	CONJ	CONJ	_	18	cc
+20	…	_	PROPN	PROPN	_	21	name
+21	http://t.co/b17bFxzHaC	_	PROPN	PROPN	_	18	conj
+

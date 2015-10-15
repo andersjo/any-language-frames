@@ -1,0 +1,7 @@
+1	la	_	PROPN	PROPN	_	5	nsubj
+2	toto	_	PROPN	PROPN	_	1	nmod
+3	машина	_	NOUN	NOUN	_	1	nmod
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	бибика	_	VERB	VERB	_	0	root
+6	http://t.co/3yN0COnIcO	_	PROPN	PROPN	_	5	nsubj
+

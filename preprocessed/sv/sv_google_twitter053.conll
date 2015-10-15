@@ -1,0 +1,24 @@
+1	@stinabengtsson	_	NOUN	NOUN	_	2	nsubj
+2	Finns	_	VERB	VERB	_	0	root
+3	det	_	DET	DET	_	4	det
+4	studier	_	NOUN	NOUN	_	2	nsubj
+5	som	_	PRON	PRON	_	6	nsubj
+6	styrker	_	VERB	VERB	_	4	acl:relcl
+7	detta	_	PRON	PRON	_	6	dobj
+8	?	_	PUNCT	PUNCT	_	2	punct
+9	Ex	_	NOUN	NOUN	_	6	dobj
+10	på	_	ADP	ADP	_	11	case
+11	nyhet	_	NOUN	NOUN	_	9	nmod
+12	som	_	CONJ	CONJ	_	13	mark
+13	2	_	NUM	NUM	_	11	nummod
+14	på	_	ADP	ADP	_	15	case
+15	listan	_	NOUN	NOUN	_	13	nmod
+16	satte	_	VERB	VERB	_	2	conj
+17	men	_	CONJ	CONJ	_	16	cc
+18	övriga	_	ADJ	ADJ	_	16	xcomp
+19	i	_	ADP	ADP	_	20	case
+20	Sverige	_	PROPN	PROPN	_	21	nmod
+21	missade	_	ADJ	ADJ	_	23	amod
+22	:	_	PUNCT	PUNCT	_	11	punct
+23	http://t.co/AXsDH1sfIA	_	NOUN	NOUN	_	18	nmod
+

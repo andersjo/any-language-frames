@@ -1,0 +1,26 @@
+1	La	_	DET	DET	_	3	det
+2	nueva	_	ADJ	ADJ	_	3	amod
+3	película	_	NOUN	NOUN	_	0	root
+4	que	_	SCONJ	SCONJ	_	5	mark
+5	será	_	VERB	VERB	_	3	acl:relcl
+6	la	_	DET	DET	_	7	det
+7	revelación	_	NOUN	NOUN	_	5	dobj
+8	del	_	ADP	ADP	_	9	case
+9	2015	_	NUM	NUM	_	7	nmod
+10	"	_	PUNCT	PUNCT	_	11	punct
+11	Cencoex	_	PROPN	PROPN	_	7	nmod
+12	y	_	CONJ	CONJ	_	11	cc
+13	las	_	DET	DET	_	14	det
+14	72hrs	_	NOUN	NOUN	_	7	conj
+15	de	_	ADP	ADP	_	17	case
+16	la	_	DET	DET	_	17	det
+17	muerte	_	NOUN	NOUN	_	14	nmod
+18	"	_	PUNCT	PUNCT	_	21	punct
+19	by	_	PROPN	PROPN	_	21	name
+20	Nicolas	_	PROPN	PROPN	_	21	name
+21	Maduro	_	PROPN	PROPN	_	11	conj
+22	...	_	PUNCT	PUNCT	_	19	punct
+23	Harry	_	PROPN	PROPN	_	24	name
+24	Potter	_	PROPN	PROPN	_	25	nsubj
+25	retírate	_	VERB	VERB	_	3	acl:relcl
+

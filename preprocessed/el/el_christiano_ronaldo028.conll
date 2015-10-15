@@ -1,0 +1,12 @@
+1	Ο	_	ADJ	ADJ	_	3	det
+2	σερ	_	NOUN	NOUN	_	3	nmod
+3	Άλεξ	_	NOUN	NOUN	_	4	nsubj
+4	αρνήθηκε	_	VERB	VERB	_	0	root
+5	:	_	PUNCT	PUNCT	_	4	punct
+6	"	_	PUNCT	PUNCT	_	7	punct
+7	«Θα	_	NOUN	NOUN	_	8	nsubj
+8	πάρεις	_	VERB	VERB	_	4	ccomp
+9	το	_	ADJ	ADJ	_	10	det
+10	7	_	NUM	NUM	_	8	dobj
+11	.	_	PUNCT	PUNCT	_	8	punct
+

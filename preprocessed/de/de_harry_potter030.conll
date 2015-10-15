@@ -1,0 +1,23 @@
+1	Erst	_	ADV	ADV	_	2	advmod
+2	jetzt	_	ADV	ADV	_	3	advmod
+3	erfährt	_	VERB	VERB	_	0	root
+4	er	_	PRON	PRON	_	3	nsubj
+5	etwas	_	ADV	ADV	_	3	advmod
+6	über	_	ADP	ADP	_	8	case
+7	seine	_	DET	DET	_	8	nmod:poss
+8	Herkunft	_	NOUN	NOUN	_	3	nmod
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	die	_	DET	DET	_	11	det
+11	Existenz	_	NOUN	NOUN	_	8	conj
+12	der	_	DET	DET	_	15	det
+13	geheimen	_	ADJ	ADJ	_	15	amod
+14	magischen	_	ADJ	ADJ	_	15	amod
+15	Parallelwelt	_	NOUN	NOUN	_	11	det
+16	und	_	CONJ	CONJ	_	8	cc
+17	seine	_	DET	DET	_	19	nmod:poss
+18	eigenen	_	ADJ	ADJ	_	19	amod
+19	Fähigkeiten	_	NOUN	NOUN	_	15	conj
+20	als	_	ADP	ADP	_	21	case
+21	Zauberer	_	NOUN	NOUN	_	19	nmod
+22	.	_	PUNCT	PUNCT	_	3	punct
+

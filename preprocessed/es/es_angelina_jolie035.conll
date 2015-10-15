@@ -1,0 +1,18 @@
+1	Durante	_	ADP	ADP	_	3	case
+2	este	_	DET	DET	_	3	det
+3	período	_	NOUN	NOUN	_	5	nmod
+4	,	_	PUNCT	PUNCT	_	5	punct
+5	vestía	_	VERB	VERB	_	0	root
+6	de	_	ADP	ADP	_	7	case
+7	color	_	NOUN	NOUN	_	5	nmod
+8	negro	_	ADJ	ADJ	_	7	amod
+9	y	_	CONJ	CONJ	_	5	cc
+10	su	_	DET	DET	_	11	nmod:poss
+11	cabello	_	NOUN	NOUN	_	13	nsubj
+12	estaba	_	AUX	AUX	_	13	auxpass
+13	teñido	_	VERB	VERB	_	5	conj
+14	de	_	ADP	ADP	_	15	case
+15	color	_	NOUN	NOUN	_	13	nmod
+16	púrpura	_	ADJ	ADJ	_	15	amod
+17	.	_	PUNCT	PUNCT	_	13	punct
+

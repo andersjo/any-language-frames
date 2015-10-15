@@ -1,0 +1,15 @@
+1	J'ai	_	PROPN	PROPN	_	2	nsubj
+2	vu	_	VERB	VERB	_	0	root
+3	que	_	SCONJ	SCONJ	_	5	mark
+4	ça	_	PRON	PRON	_	5	nsubj
+5	parlais	_	VERB	VERB	_	2	ccomp
+6	d'Harry	_	NOUN	NOUN	_	5	dobj
+7	Potter	_	PROPN	PROPN	_	6	appos
+8	dans	_	ADP	ADP	_	10	case
+9	ma	_	DET	DET	_	10	nmod:poss
+10	TL	_	PROPN	PROPN	_	5	nmod
+11	du	_	ADP	ADP	_	12	case
+12	coup	_	NOUN	NOUN	_	10	nmod
+13	voilà	_	VERB	VERB	_	12	acl
+14	😄	_	PROPN	PROPN	_	12	acl
+

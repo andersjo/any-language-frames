@@ -1,0 +1,11 @@
+1	На	_	ADP	ADP	_	2	case
+2	Евро	_	PROPN	PROPN	_	6	nmod
+3	2008	_	PROPN	PROPN	_	6	nsubjpass
+4	Португалия	_	PROPN	PROPN	_	3	name
+5	е	_	AUX	AUX	_	6	aux
+6	отстранена	_	VERB	VERB	_	0	root
+7	от	_	ADP	ADP	_	9	case
+8	на	_	ADP	ADP	_	9	case
+9	полуфинал	_	NOUN	NOUN	_	6	iobj
+10	.	_	PUNCT	PUNCT	_	6	punct
+

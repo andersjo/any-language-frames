@@ -1,0 +1,27 @@
+1	Divorcée	_	VERB	VERB	_	13	acl
+2	des	_	DET	DET	_	3	det
+3	acteurs	_	NOUN	NOUN	_	1	dobj
+4	Jonny	_	PROPN	PROPN	_	6	name
+5	Lee	_	PROPN	PROPN	_	6	name
+6	Miller	_	PROPN	PROPN	_	3	appos
+7	et	_	CONJ	CONJ	_	6	cc
+8	Billy	_	PROPN	PROPN	_	10	name
+9	Bob	_	PROPN	PROPN	_	10	name
+10	Thornton	_	PROPN	PROPN	_	6	conj
+11	,	_	PUNCT	PUNCT	_	14	punct
+12	Angelina	_	PROPN	PROPN	_	13	name
+13	Jolie	_	PROPN	PROPN	_	14	nsubj
+14	vit	_	VERB	VERB	_	0	root
+15	actuellement	_	ADV	ADV	_	14	advmod
+16	avec	_	ADP	ADP	_	17	case
+17	l'acteur	_	NOUN	NOUN	_	14	nmod
+18	Brad	_	PROPN	PROPN	_	19	name
+19	Pitt	_	PROPN	PROPN	_	17	appos
+20	avec	_	ADP	ADP	_	21	case
+21	qui	_	PRON	PRON	_	23	nmod
+22	elle	_	PRON	PRON	_	23	nsubj
+23	s'est	_	VERB	VERB	_	17	acl:relcl
+24	fiancée	_	NOUN	NOUN	_	23	dobj
+25	en	_	ADP	ADP	_	24	case
+26	.	_	PUNCT	PUNCT	_	14	punct
+

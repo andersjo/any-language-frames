@@ -1,0 +1,9 @@
+1	Stasera	_	ADV	ADV	_	2	advmod
+2	guardo	_	VERB	VERB	_	0	root
+3	Harry	_	PROPN	PROPN	_	2	nsubj
+4	Potter	_	PROPN	PROPN	_	3	name
+5	con	_	ADP	ADP	_	8	case
+6	il	_	DET	DET	_	8	det
+7	mio	_	DET	DET	_	8	det:poss
+8	babbino😍	_	NOUN	NOUN	_	2	nmod
+

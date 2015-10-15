@@ -1,0 +1,25 @@
+1	Started	_	VERB	VERB	_	22	advcl
+2	as	_	ADP	ADP	_	1	compound:prt
+3	a	_	DET	DET	_	6	det
+4	Socialist	_	ADJ	ADJ	_	0	foreign
+5	political	_	ADJ	ADJ	_	0	foreign
+6	event	_	NOUN	NOUN	_	1	dobj
+7	,	_	PUNCT	PUNCT	_	10	punct
+8	the	_	DET	DET	_	9	det
+9	holiday	_	NOUN	NOUN	_	10	nsubj
+10	blended	_	VERB	VERB	_	1	advcl
+11	in	_	ADP	ADP	_	10	compound:prt
+12	the	_	DET	DET	_	13	det
+13	culture	_	NOUN	NOUN	_	10	dobj
+14	of	_	ADP	ADP	_	10	compound:prt
+15	many	_	ADJ	ADJ	_	0	foreign
+16	countries	_	NOUN	NOUN	_	10	dobj
+17	,	_	PUNCT	PUNCT	_	1	punct
+18	primarily	_	ADV	ADV	_	19	advmod
+19	in	_	ADP	ADP	_	0	foreign
+20	Europe	_	PROPN	PROPN	_	18	nmod
+21	,	_	PUNCT	PUNCT	_	1	punct
+22	including	_	VERB	VERB	_	23	case
+23	Russia	_	PROPN	PROPN	_	20	conj
+24	.	_	PUNCT	PUNCT	_	1	punct
+

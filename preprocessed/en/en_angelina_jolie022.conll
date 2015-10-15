@@ -1,0 +1,26 @@
+1	Jolie	_	PROPN	PROPN	_	3	nsubj
+2	has	_	AUX	AUX	_	3	aux
+3	said	_	VERB	VERB	_	0	root
+4	that	_	SCONJ	SCONJ	_	8	mark
+5	she	_	PRON	PRON	_	8	nsubj
+6	is	_	VERB	VERB	_	8	cop
+7	part	_	NOUN	NOUN	_	8	compound
+8	Iroquois	_	NOUN	NOUN	_	3	ccomp
+9	,	_	PUNCT	PUNCT	_	8	punct
+10	although	_	ADP	ADP	_	6	compound:prt
+11	her	_	PRON	PRON	_	13	nsubj
+12	only	_	ADV	ADV	_	13	advmod
+13	known	_	VERB	VERB	_	3	ccomp
+14	indigenous	_	ADJ	ADJ	_	0	foreign
+15	ancestor	_	NOUN	NOUN	_	19	nsubj
+16	was	_	VERB	VERB	_	19	cop
+17	a	_	DET	DET	_	19	det
+18	Huron	_	PROPN	PROPN	_	19	compound
+19	woman	_	NOUN	NOUN	_	20	nsubj
+20	born	_	VERB	VERB	_	3	ccomp
+21	in	_	ADP	ADP	_	20	compound:prt
+22	1649	_	NUM	NUM	_	24	nummod
+23	in	_	ADP	ADP	_	20	compound:prt
+24	Quebec	_	PROPN	PROPN	_	20	nmod
+25	.	_	PUNCT	PUNCT	_	3	punct
+

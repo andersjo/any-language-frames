@@ -1,0 +1,8 @@
+1	Google	_	NOUN	NOUN	_	4	nsubj
+2	er	_	AUX	AUX	_	4	cop
+3	en	_	DET	DET	_	4	det
+4	søgemaskine	_	NOUN	NOUN	_	0	root
+5	til	_	ADP	ADP	_	6	case
+6	internettet	_	NOUN	NOUN	_	4	nmod
+7	.	_	PUNCT	PUNCT	_	4	punct
+

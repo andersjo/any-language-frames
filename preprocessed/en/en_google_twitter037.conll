@@ -1,0 +1,14 @@
+1	imo	_	NOUN	NOUN	_	4	compound
+2	free	_	ADJ	ADJ	_	0	compound
+3	video	_	NOUN	NOUN	_	4	compound
+4	calls	_	NOUN	NOUN	_	12	advcl
+5	and	_	CONJ	CONJ	_	4	cc
+6	chat	_	VERB	VERB	_	8	amod
+7	-	_	PUNCT	PUNCT	_	8	punct
+8	Android	_	NOUN	NOUN	_	9	compound
+9	Apps	_	NOUN	NOUN	_	4	conj
+10	on	_	ADP	ADP	_	6	compound:prt
+11	Google	_	PROPN	PROPN	_	12	nsubj
+12	Play	_	VERB	VERB	_	0	root
+13	http://t.co/uTxgtGBgm2	_	X	X	_	12	dobj
+

@@ -1,0 +1,19 @@
+1	@timtom_it	_	NOUN	NOUN	_	0	root
+2	#Google	_	ADJ	ADJ	_	1	amod
+3	Le	_	DET	DET	_	6	det
+4	5	_	NUM	NUM	_	6	nummod
+5	migliori	_	ADJ	ADJ	_	6	amod
+6	applicazioni	_	NOUN	NOUN	_	1	nmod
+7	Android	_	PROPN	PROPN	_	6	nmod
+8	per	_	ADP	ADP	_	10	case
+9	gli	_	DET	DET	_	10	det
+10	screenshot	_	NOUN	NOUN	_	6	nmod
+11	:	_	PUNCT	PUNCT	_	1	punct
+12	Vi	_	PRON	PRON	_	13	expl
+13	sarà	_	VERB	VERB	_	10	acl:relcl
+14	sicuram	_	NOUN	NOUN	_	13	nsubj
+15	...	_	PUNCT	PUNCT	_	13	punct
+16	http://t.co/QMoYO7XwWB	_	PROPN	PROPN	_	13	nsubj
+17	#Android	_	PROPN	PROPN	_	16	name
+18	#Tecnologia	_	PROPN	PROPN	_	16	name
+

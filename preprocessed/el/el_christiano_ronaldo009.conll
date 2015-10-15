@@ -1,0 +1,23 @@
+1	Ο	_	ADJ	ADJ	_	2	det
+2	Ρονάλντο	_	NOUN	NOUN	_	7	nsubj
+3	,	_	PUNCT	PUNCT	_	5	punct
+4	δεν	_	PART	PART	_	5	neg
+5	ήταν	_	VERB	VERB	_	7	cop
+6	καλός	_	ADJ	ADJ	_	7	amod
+7	μαθητής	_	NOUN	NOUN	_	0	root
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	του	_	ADJ	ADJ	_	10	det
+10	άρεσε	_	NOUN	NOUN	_	7	conj
+11	όμως	_	CONJ	CONJ	_	5	cc
+12	το	_	ADJ	ADJ	_	13	det
+13	ποδόσφαιρο	_	NOUN	NOUN	_	7	conj
+14	,	_	PUNCT	PUNCT	_	11	punct
+15	και	_	CONJ	CONJ	_	7	cc
+16	τον	_	ADJ	ADJ	_	19	det
+17	χαρακτήριζε	_	VERB	VERB	_	5	conj
+18	η	_	ADJ	ADJ	_	19	det
+19	ταχύτητα	_	NOUN	NOUN	_	17	nsubj
+20	από	_	ADP	ADP	_	21	case
+21	τότε	_	ADV	ADV	_	19	amod
+22	.	_	PUNCT	PUNCT	_	5	punct
+

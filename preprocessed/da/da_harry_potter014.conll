@@ -1,0 +1,18 @@
+1	Filmene	_	NOUN	NOUN	_	2	nsubj
+2	bærer	_	VERB	VERB	_	0	root
+3	samme	_	ADJ	ADJ	_	4	amod
+4	navn	_	NOUN	NOUN	_	2	dobj
+5	som	_	PART	PART	_	2	dep
+6	bøgerne	_	NOUN	NOUN	_	5	dep
+7	omend	_	SCONJ	SCONJ	_	12	mark
+8	den	_	DET	DET	_	10	det
+9	sidste	_	ADJ	ADJ	_	10	amod
+10	bog	_	NOUN	NOUN	_	12	nsubjpass
+11	er	_	AUX	AUX	_	12	auxpass
+12	delt	_	VERB	VERB	_	2	dep
+13	op	_	ADV	ADV	_	12	compound:prt
+14	i	_	ADP	ADP	_	16	case
+15	to	_	NUM	NUM	_	16	nummod
+16	film	_	NOUN	NOUN	_	13	nmod
+17	.	_	PUNCT	PUNCT	_	2	punct
+

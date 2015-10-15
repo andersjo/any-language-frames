@@ -1,0 +1,18 @@
+1	@LilMsKaepernick	_	PROPN	PROPN	_	2	compound
+2	@KapernickRp	_	PROPN	PROPN	_	4	compound
+3	Pumpkin	_	NOUN	NOUN	_	4	compound
+4	juice	_	NOUN	NOUN	_	8	parataxis
+5	!	_	PUNCT	PUNCT	_	4	punct
+6	LMFREAKINGBO	_	PROPN	PROPN	_	2	list
+7	(	_	PUNCT	PUNCT	_	6	punct
+8	along	_	ADV	ADV	_	9	advmod
+9	with	_	ADP	ADP	_	0	compound:prt
+10	the	_	DET	DET	_	11	det
+11	Hobbit	_	NOUN	NOUN	_	6	appos
+12	I	_	PRON	PRON	_	11	nmod:npmod
+13	also	_	ADV	ADV	_	14	advmod
+14	like	_	ADP	ADP	_	0	foreign
+15	Harry	_	PROPN	PROPN	_	16	compound
+16	Potter	_	PROPN	PROPN	_	11	appos
+17	)	_	PUNCT	PUNCT	_	8	punct
+

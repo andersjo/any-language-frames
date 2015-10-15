@@ -1,0 +1,14 @@
+1	CHRISTIANO	_	PROPN	PROPN	_	5	nsubj
+2	RONALDO	_	PROPN	PROPN	_	1	name
+3	OG	_	CONJ	CONJ	_	1	cc
+4	FERNANDO	_	PROPN	PROPN	_	1	conj
+5	TORRES	_	VERB	VERB	_	0	root
+6	😍	_	NOUN	NOUN	_	5	nsubj
+7	er	_	AUX	AUX	_	10	cop
+8	i	_	ADP	ADP	_	10	case
+9	samme	_	ADJ	ADJ	_	10	amod
+10	by	_	NOUN	NOUN	_	5	nmod
+11	som	_	PART	PART	_	10	dep
+12	mig	_	PRON	PRON	_	11	nmod
+13	whattttt	_	X	X	_	12	dep
+

@@ -1,0 +1,18 @@
+1	Böckerna	_	NOUN	NOUN	_	6	nsubj
+2	om	_	ADP	ADP	_	4	case
+3	Harry	_	PROPN	PROPN	_	4	nmod:poss
+4	Potter	_	NOUN	NOUN	_	1	nmod
+5	har	_	AUX	AUX	_	6	aux
+6	fått	_	VERB	VERB	_	0	root
+7	beröm	_	NOUN	NOUN	_	6	dobj
+8	för	_	ADP	ADP	_	12	case
+9	att	_	SCONJ	SCONJ	_	12	mark
+10	de	_	PRON	PRON	_	12	nsubj
+11	har	_	AUX	AUX	_	12	aux
+12	fått	_	VERB	VERB	_	6	advcl
+13	många	_	ADJ	ADJ	_	14	det
+14	barn	_	NOUN	NOUN	_	12	dobj
+15	att	_	PART	PART	_	16	mark
+16	läsa	_	VERB	VERB	_	12	advcl
+17	.	_	PUNCT	PUNCT	_	6	punct
+

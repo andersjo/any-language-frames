@@ -1,0 +1,14 @@
+1	Στις	_	ADP	ADP	_	3	case
+2	15	_	NUM	NUM	_	6	nmod
+3	Δεκεμβρίου	_	NOUN	NOUN	_	2	nmod
+4	2013	_	NUM	NUM	_	3	nmod
+5	,	_	PUNCT	PUNCT	_	6	punct
+6	άνοιξε	_	VERB	VERB	_	0	root
+7	μουσείο	_	NOUN	NOUN	_	6	dobj
+8	«Κριστιάνο	_	NOUN	NOUN	_	7	nmod
+9	Ρονάλντο»	_	NOUN	NOUN	_	8	nmod
+10	,	_	PUNCT	PUNCT	_	6	punct
+11	στη	_	ADP	ADP	_	12	case
+12	Μαδέιρα	_	NOUN	NOUN	_	6	nmod
+13	.	_	PUNCT	PUNCT	_	6	punct
+

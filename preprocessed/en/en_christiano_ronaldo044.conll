@@ -1,0 +1,23 @@
+1	The	_	DET	DET	_	3	det
+2	Sporting	_	ADJ	ADJ	_	0	iobj
+3	staff	_	NOUN	NOUN	_	5	nsubjpass
+4	were	_	AUX	AUX	_	5	auxpass
+5	made	_	VERB	VERB	_	0	root
+6	aware	_	ADJ	ADJ	_	0	advcl
+7	of	_	ADP	ADP	_	5	compound:prt
+8	the	_	DET	DET	_	9	det
+9	condition	_	NOUN	NOUN	_	13	nsubj
+10	and	_	CONJ	CONJ	_	9	cc
+11	Ronaldo's	_	NOUN	NOUN	_	12	compound
+12	mother	_	NOUN	NOUN	_	13	nsubj
+13	gave	_	VERB	VERB	_	5	conj
+14	her	_	PRON	PRON	_	15	nmod:poss
+15	authorisation	_	NOUN	NOUN	_	13	dobj
+16	for	_	ADP	ADP	_	13	compound:prt
+17	him	_	PRON	PRON	_	19	nsubj
+18	to	_	PART	PART	_	19	mark
+19	go	_	VERB	VERB	_	13	advcl
+20	into	_	ADP	ADP	_	19	compound:prt
+21	hospital	_	NOUN	NOUN	_	19	dobj
+22	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,21 @@
+1	Nicht	_	PART	PART	_	9	neg
+2	mehr	_	ADV	ADV	_	1	advmod
+3	der	_	DET	DET	_	4	det
+4	Kampf	_	NOUN	NOUN	_	9	nsubj
+5	um	_	ADP	ADP	_	8	case
+6	das	_	DET	DET	_	8	det
+7	weibliche	_	ADJ	ADJ	_	8	amod
+8	Wahlrecht	_	NOUN	NOUN	_	4	nmod
+9	stand	_	VERB	VERB	_	0	root
+10	im	_	ADP	ADP	_	11	case
+11	Zentrum	_	NOUN	NOUN	_	9	nmod
+12	,	_	PUNCT	PUNCT	_	9	punct
+13	vielmehr	_	ADV	ADV	_	14	advmod
+14	entstand	_	VERB	VERB	_	9	parataxis
+15	ein	_	DET	DET	_	16	det
+16	Aktionstag	_	NOUN	NOUN	_	14	nsubj
+17	gegen	_	ADP	ADP	_	19	case
+18	den	_	DET	DET	_	19	det
+19	Krieg	_	NOUN	NOUN	_	14	nmod
+20	.	_	PUNCT	PUNCT	_	9	punct
+

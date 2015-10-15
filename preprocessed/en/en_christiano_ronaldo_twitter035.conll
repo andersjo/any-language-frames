@@ -1,0 +1,16 @@
+1	Would	_	AUX	AUX	_	2	aux
+2	love	_	VERB	VERB	_	0	root
+3	it	_	PRON	PRON	_	2	dobj
+4	if	_	ADP	ADP	_	2	compound:prt
+5	Christiano	_	PROPN	PROPN	_	6	compound
+6	Ronaldo	_	PROPN	PROPN	_	10	nsubj
+7	and	_	CONJ	CONJ	_	6	cc
+8	Gareth	_	PROPN	PROPN	_	9	compound
+9	Bale	_	PROPN	PROPN	_	6	conj
+10	came	_	VERB	VERB	_	2	conj
+11	back	_	ADV	ADV	_	10	advmod
+12	to	_	ADP	ADP	_	10	advmod
+13	the	_	DET	DET	_	15	det
+14	prem	_	ADJ	ADJ	_	0	foreign
+15	😎⚽️	_	NOUN	NOUN	_	10	nmod:tmod
+

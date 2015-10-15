@@ -1,0 +1,25 @@
+1	Cristiano	_	PROPN	PROPN	_	2	name
+2	Aveiro	_	PROPN	PROPN	_	10	nsubj
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	à	_	ADP	ADP	_	5	case
+5	l'âge	_	NOUN	NOUN	_	17	nmod
+6	de	_	ADP	ADP	_	8	case
+7	11	_	NUM	NUM	_	8	nummod
+8	ans	_	NOUN	NOUN	_	5	nmod
+9	,	_	PUNCT	PUNCT	_	5	punct
+10	arrive	_	VERB	VERB	_	8	acl
+11	à	_	ADP	ADP	_	12	case
+12	Lisbonne	_	PROPN	PROPN	_	10	nmod
+13	,	_	PUNCT	PUNCT	_	10	punct
+14	après	_	ADV	ADV	_	17	advmod
+15	avoir	_	AUX	AUX	_	17	aux
+16	été	_	AUX	AUX	_	17	auxpass
+17	remarqué	_	VERB	VERB	_	0	root
+18	par	_	ADP	ADP	_	17	case
+19	le	_	DET	DET	_	21	det
+20	Sporting	_	PROPN	PROPN	_	21	name
+21	Clube	_	PROPN	PROPN	_	18	case
+22	de	_	ADP	ADP	_	23	case
+23	Portugal	_	PROPN	PROPN	_	21	nmod
+24	.	_	PUNCT	PUNCT	_	17	punct
+

@@ -1,0 +1,15 @@
+1	Manager	_	NOUN	NOUN	_	0	root
+2	disoccupati	_	ADJ	ADJ	_	1	amod
+3	al	_	ADP	ADP	_	4	case
+4	servizio	_	NOUN	NOUN	_	1	nmod
+5	delle	_	ADP	ADP	_	7	case
+6	start	_	VERB	VERB	_	7	acl
+7	up	_	NOUN	NOUN	_	4	nmod
+8	dei	_	ADP	ADP	_	10	case
+9	giovani	_	ADJ	ADJ	_	10	amod
+10	imprenditori	_	NOUN	NOUN	_	7	nmod
+11	-	_	PUNCT	PUNCT	_	10	punct
+12	Redattore	_	PROPN	PROPN	_	10	nmod
+13	Sociale	_	PROPN	PROPN	_	12	name
+14	http://t.co/eeJ4i4k2vo	_	NOUN	NOUN	_	12	nmod
+

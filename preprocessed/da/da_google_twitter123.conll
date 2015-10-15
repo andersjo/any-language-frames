@@ -1,0 +1,18 @@
+1	#CommonwealthGames	_	NOUN	NOUN	_	3	nmod:poss
+2	|	_	ADJ	ADJ	_	3	amod
+3	Residential	_	NOUN	NOUN	_	4	nmod:poss
+4	Apartment	_	NOUN	NOUN	_	0	root
+5	for	_	ADP	ADP	_	6	case
+6	Rent	_	PROPN	PROPN	_	4	nmod
+7	in	_	X	X	_	5	dep
+8	Emaar	_	PROPN	PROPN	_	7	dep
+9	MGF	_	PROPN	PROPN	_	8	name
+10	Commonwealth	_	PROPN	PROPN	_	8	name
+11	Games	_	PROPN	PROPN	_	8	name
+12	Village	_	PROPN	PROPN	_	11	name
+13	2010	_	NUM	NUM	_	12	nummod
+14	,	_	PUNCT	PUNCT	_	15	punct
+15	Akshardham	_	PROPN	PROPN	_	8	list
+16	....	_	X	X	_	15	dep
+17	http://t.co/a7Rbduylcs	_	PROPN	PROPN	_	16	dep
+

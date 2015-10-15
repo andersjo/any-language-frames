@@ -1,0 +1,10 @@
+1	Ronaldo	_	PROPN	PROPN	_	3	nsubjpass
+2	var	_	AUX	AUX	_	3	auxpass
+3	involveret	_	VERB	VERB	_	0	root
+4	i	_	ADP	ADP	_	6	case
+5	adskillige	_	ADJ	ADJ	_	6	amod
+6	film-hændelser	_	NOUN	NOUN	_	3	nmod
+7	i	_	ADP	ADP	_	8	case
+8	2006-07-perioden	_	NOUN	NOUN	_	6	nmod
+9	.	_	PUNCT	PUNCT	_	3	punct
+

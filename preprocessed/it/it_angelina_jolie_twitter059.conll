@@ -1,0 +1,18 @@
+1	Segnati	_	VERB	VERB	_	0	root
+2	questa	_	DET	DET	_	3	det
+3	:	_	PUNCT	PUNCT	_	1	punct
+4	Da	_	ADP	ADP	_	5	case
+5	Angelina	_	PROPN	PROPN	_	1	nmod
+6	Jolie	_	PROPN	PROPN	_	5	name
+7	a	_	ADP	ADP	_	8	case
+8	Benitez	_	PROPN	PROPN	_	5	nmod
+9	,	_	PUNCT	PUNCT	_	5	punct
+10	show	_	NOUN	NOUN	_	5	appos
+11	di	_	ADP	ADP	_	12	case
+12	De	_	PROPN	PROPN	_	10	nmod
+13	Laurentiis	_	PROPN	PROPN	_	12	name
+14	http://t.co/qPrq22ArkA	_	PROPN	PROPN	_	12	name
+15	Post-It	_	PROPN	PROPN	_	13	name
+16	news	_	PROPN	PROPN	_	12	name
+17	!	_	PUNCT	PUNCT	_	1	punct
+

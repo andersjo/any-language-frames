@@ -1,0 +1,23 @@
+1	Programme	_	NOUN	NOUN	_	0	root
+2	du	_	ADP	ADP	_	3	case
+3	lundi	_	NOUN	NOUN	_	1	nmod
+4	0:00	_	NUM	NUM	_	3	nmod
+5	-	_	PUNCT	PUNCT	_	7	punct
+6	Eglise	_	PROPN	PROPN	_	7	name
+7	Baptiste	_	PROPN	PROPN	_	1	appos
+8	1:00	_	NUM	NUM	_	7	nummod
+9	-	_	PUNCT	PUNCT	_	11	punct
+10	Eglise	_	PROPN	PROPN	_	11	name
+11	Pentecôtiste	_	PROPN	PROPN	_	7	conj
+12	(	_	PUNCT	PUNCT	_	13	punct
+13	ADD	_	PROPN	PROPN	_	11	nmod
+14	)	_	PUNCT	PUNCT	_	13	punct
+15	2:00	_	NUM	NUM	_	11	nmod
+16	-	_	PUNCT	PUNCT	_	15	punct
+17	Le	_	DET	DET	_	18	det
+18	Tabernacle	_	PROPN	PROPN	_	10	conj
+19	de	_	ADP	ADP	_	22	case
+20	Montpellier	_	PROPN	PROPN	_	22	name
+21	…	_	PROPN	PROPN	_	22	name
+22	https://t.co/HAZfmWnfBx	_	PROPN	PROPN	_	18	appos
+

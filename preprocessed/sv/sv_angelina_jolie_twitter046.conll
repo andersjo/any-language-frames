@@ -1,0 +1,26 @@
+1	efter	_	ADP	ADP	_	3	case
+2	att	_	PART	PART	_	3	mark
+3	ha	_	VERB	VERB	_	8	csubj
+4	tittat	_	VERB	VERB	_	3	xcomp
+5	på	_	ADP	ADP	_	7	case
+6	mr	_	ADJ	ADJ	_	7	amod
+7	&	_	NOUN	NOUN	_	4	nmod
+8	mrs	_	VERB	VERB	_	0	root
+9	smith	_	ADV	ADV	_	8	advmod
+10	så	_	ADV	ADV	_	8	advmod
+11	värmer	_	NOUN	NOUN	_	8	nsubj
+12	det	_	PRON	PRON	_	14	expl
+13	lite	_	ADV	ADV	_	14	advmod
+14	extra	_	ADJ	ADJ	_	8	advcl
+15	att	_	SCONJ	SCONJ	_	19	mark
+16	jag	_	PRON	PRON	_	19	nsubj
+17	en	_	DET	DET	_	18	det
+18	gång	_	NOUN	NOUN	_	19	nsubj
+19	hört	_	VERB	VERB	_	14	csubj
+20	att	_	SCONJ	SCONJ	_	23	mark
+21	jag	_	PRON	PRON	_	23	nsubj
+22	är	_	AUX	AUX	_	25	cop
+23	lik	_	VERB	VERB	_	19	ccomp
+24	angelina	_	ADJ	ADJ	_	25	amod
+25	jolie	_	NOUN	NOUN	_	23	dobj
+

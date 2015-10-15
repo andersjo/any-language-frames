@@ -1,0 +1,21 @@
+1	@dr_fatoumatine	_	PROPN	PROPN	_	7	nsubj
+2	(	_	PUNCT	PUNCT	_	6	punct
+3	NE	_	PROPN	PROPN	_	6	name
+4	PAS	_	PROPN	PROPN	_	6	name
+5	PRENDRE	_	PROPN	PROPN	_	6	name
+6	EN	_	PROPN	PROPN	_	7	nsubj
+7	COMPTE	_	VERB	VERB	_	0	root
+8	LA	_	PROPN	PROPN	_	9	det
+9	PREMIERE	_	PROPN	PROPN	_	13	name
+10	IMAGE	_	PROPN	PROPN	_	13	name
+11	SUR	_	PROPN	PROPN	_	13	name
+12	GOOGLE	_	PROPN	PROPN	_	13	name
+13	IMAGE	_	PROPN	PROPN	_	7	dobj
+14	)	_	PUNCT	PUNCT	_	7	punct
+15	Mais	_	CONJ	CONJ	_	7	cc
+16	les	_	DET	DET	_	17	det
+17	n	_	NOUN	NOUN	_	9	conj
+18	2	_	NUM	NUM	_	17	nummod
+19	et	_	CONJ	CONJ	_	18	cc
+20	3	_	NUM	NUM	_	18	conj
+

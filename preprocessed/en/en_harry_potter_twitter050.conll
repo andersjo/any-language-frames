@@ -1,0 +1,14 @@
+1	The	_	DET	DET	_	4	det
+2	Harry	_	PROPN	PROPN	_	4	compound
+3	potter	_	NOUN	NOUN	_	4	compound
+4	store	_	NOUN	NOUN	_	9	nsubj
+5	here	_	ADV	ADV	_	4	advmod
+6	in	_	ADP	ADP	_	7	compound
+7	l.a.	_	NOUN	NOUN	_	9	nsubj
+8	already	_	ADV	ADV	_	9	advmod
+9	feel	_	VERB	VERB	_	0	root
+10	my	_	PRON	PRON	_	12	nmod:poss
+11	$$$	_	ADJ	ADJ	_	0	iobj
+12	disappearing	_	NOUN	NOUN	_	9	dobj
+13	http://t.co/R4D3lcqlGd	_	X	X	_	12	appos
+

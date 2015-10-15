@@ -1,0 +1,20 @@
+1	Взела	_	VERB	VERB	_	0	root
+2	е	_	AUX	AUX	_	1	aux
+3	това	_	DET	DET	_	4	det
+4	решение	_	NOUN	NOUN	_	1	dobj
+5	,	_	PUNCT	PUNCT	_	8	punct
+6	след	_	ADP	ADP	_	8	case
+7	като	_	SCONJ	SCONJ	_	8	mark
+8	разбрала	_	VERB	VERB	_	1	advcl
+9	,	_	PUNCT	PUNCT	_	11	punct
+10	че	_	SCONJ	SCONJ	_	11	mark
+11	има	_	VERB	VERB	_	8	ccomp
+12	87%	_	NUM	NUM	_	14	nummod
+13	генетично	_	ADJ	ADJ	_	14	amod
+14	предразположение	_	NOUN	NOUN	_	11	dobj
+15	към	_	ADP	ADP	_	16	case
+16	рак	_	NOUN	NOUN	_	14	nmod
+17	на	_	ADP	ADP	_	18	case
+18	гърдата	_	NOUN	NOUN	_	16	nmod
+19	.	_	PUNCT	PUNCT	_	1	punct
+

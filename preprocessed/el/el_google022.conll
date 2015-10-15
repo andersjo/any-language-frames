@@ -1,0 +1,15 @@
+1	Είχε	_	VERB	VERB	_	3	cop
+2	ως	_	ADV	ADV	_	3	case
+3	βάση	_	NOUN	NOUN	_	0	root
+4	το	_	ADJ	ADJ	_	5	det
+5	γκαράζ	_	NOUN	NOUN	_	3	nmod
+6	μιας	_	ADJ	ADJ	_	7	det
+7	φίλης	_	NOUN	NOUN	_	5	nmod
+8	τους	_	PRON	PRON	_	7	nmod
+9	στο	_	ADP	ADP	_	11	case
+10	Μένλο	_	ADJ	ADJ	_	11	amod
+11	Παρκ	_	NOUN	NOUN	_	7	nmod
+12	της	_	ADJ	ADJ	_	13	det
+13	Καλιφόρνια	_	NOUN	NOUN	_	11	nmod
+14	.	_	PUNCT	PUNCT	_	1	punct
+

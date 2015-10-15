@@ -1,0 +1,26 @@
+1	År	_	NOUN	NOUN	_	2	det
+2	1997	_	NUM	NUM	_	3	nmod
+3	hade	_	VERB	VERB	_	0	root
+4	Jolie	_	NOUN	NOUN	_	5	nmod:poss
+5	huvudrollen	_	NOUN	NOUN	_	3	dobj
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	tillsammans	_	ADV	ADV	_	10	advmod
+8	med	_	ADP	ADP	_	10	case
+9	David	_	NOUN	NOUN	_	10	nmod:poss
+10	Duchovny	_	NOUN	NOUN	_	3	nmod
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	i	_	ADP	ADP	_	13	case
+13	thrillern	_	NOUN	NOUN	_	10	conj
+14	"	_	PUNCT	PUNCT	_	13	punct
+15	Playing	_	NOUN	NOUN	_	16	det
+16	God	_	PROPN	PROPN	_	5	appos
+17	"	_	PUNCT	PUNCT	_	3	punct
+18	som	_	CONJ	CONJ	_	19	mark
+19	utspelas	_	VERB	VERB	_	10	acl:relcl
+20	i	_	ADP	ADP	_	21	case
+21	Los	_	NOUN	NOUN	_	19	nmod
+22	Angeles	_	VERB	VERB	_	19	conj
+23	undre	_	ADJ	ADJ	_	24	amod
+24	värld	_	NOUN	NOUN	_	22	dobj
+25	.	_	PUNCT	PUNCT	_	3	punct
+

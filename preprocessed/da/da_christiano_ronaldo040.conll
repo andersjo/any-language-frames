@@ -1,0 +1,27 @@
+1	På	_	ADP	ADP	_	2	case
+2	trods	_	NOUN	NOUN	_	17	nmod
+3	af	_	ADP	ADP	_	4	case
+4	rygter	_	NOUN	NOUN	_	2	nmod
+5	i	_	ADP	ADP	_	6	case
+6	marts	_	NOUN	NOUN	_	4	nmod
+7	2007	_	NUM	NUM	_	6	nmod
+8	,	_	PUNCT	PUNCT	_	14	punct
+9	om	_	SCONJ	SCONJ	_	14	mark
+10	at	_	SCONJ	SCONJ	_	14	mark
+11	Real	_	NOUN	NOUN	_	12	nmod:poss
+12	Madrid	_	NOUN	NOUN	_	14	nsubj
+13	var	_	AUX	AUX	_	14	cop
+14	villig	_	ADJ	ADJ	_	0	root
+15	til	_	ADP	ADP	_	14	dep
+16	at	_	PART	PART	_	15	dep
+17	betale	_	VERB	VERB	_	16	dep
+18	et	_	DET	DET	_	19	det
+19	beløb	_	NOUN	NOUN	_	17	dobj
+20	på	_	ADP	ADP	_	22	case
+21	54	_	NUM	NUM	_	22	nummod
+22	millioner	_	NOUN	NOUN	_	19	nmod
+23	£(600	_	X	X	_	25	dep
+24	millioner	_	NOUN	NOUN	_	25	nmod:poss
+25	kr	_	NOUN	NOUN	_	22	nmod
+26	.	_	PUNCT	PUNCT	_	14	punct
+

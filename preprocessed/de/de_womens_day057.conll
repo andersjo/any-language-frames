@@ -1,0 +1,25 @@
+1	Die	_	DET	DET	_	2	det
+2	Polizei	_	NOUN	NOUN	_	13	nsubj
+3	habe	_	AUX	AUX	_	13	aux
+4	diese	_	PRON	PRON	_	5	det
+5	Demonstration	_	NOUN	NOUN	_	13	dobj
+6	gegen	_	ADP	ADP	_	8	case
+7	niedrige	_	ADJ	ADJ	_	8	amod
+8	Löhne	_	NOUN	NOUN	_	5	nmod
+9	und	_	CONJ	CONJ	_	8	cc
+10	unzumutbare	_	ADJ	ADJ	_	11	amod
+11	Arbeitsverhältnisse	_	NOUN	NOUN	_	8	conj
+12	blutig	_	ADJ	ADJ	_	13	advmod
+13	niedergeschlagen	_	VERB	VERB	_	0	root
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	zahlreiche	_	ADJ	ADJ	_	16	amod
+16	Frauen	_	NOUN	NOUN	_	23	nsubj
+17	seien	_	AUX	AUX	_	23	aux
+18	bei	_	ADP	ADP	_	20	case
+19	diesem	_	PRON	PRON	_	20	det
+20	Einsatz	_	NOUN	NOUN	_	23	nmod
+21	ums	_	ADP	ADP	_	22	case
+22	Leben	_	NOUN	NOUN	_	23	nmod
+23	gekommen	_	VERB	VERB	_	13	conj
+24	.	_	PUNCT	PUNCT	_	13	punct
+

@@ -1,0 +1,8 @@
+1	Geburtstag	_	NOUN	NOUN	_	6	dep
+2	von	_	ADP	ADP	_	4	case
+3	Karl	_	PROPN	PROPN	_	4	name
+4	Marx	_	PROPN	PROPN	_	1	nmod
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	begangen	_	VERB	VERB	_	0	root
+7	.	_	PUNCT	PUNCT	_	6	punct
+

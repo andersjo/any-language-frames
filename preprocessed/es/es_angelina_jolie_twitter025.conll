@@ -1,0 +1,23 @@
+1	@saNdriTa_cD	_	PROPN	PROPN	_	7	nsubj
+2	a	_	ADP	ADP	_	3	case
+3	mi	_	PRON	PRON	_	7	iobj
+4	tambien	_	ADV	ADV	_	7	advmod
+5	me	_	PRON	PRON	_	7	iobj
+6	ha	_	AUX	AUX	_	7	aux
+7	encantado	_	VERB	VERB	_	0	root
+8	!!!	_	X	X	_	10	dep
+9	Esta	_	DET	DET	_	13	det
+10	genial	_	ADJ	ADJ	_	13	amod
+11	y	_	CONJ	CONJ	_	10	cc
+12	angelina	_	ADJ	ADJ	_	10	conj
+13	jolie	_	NOUN	NOUN	_	7	conj
+14	increible	_	ADJ	ADJ	_	13	amod
+15	en	_	ADP	ADP	_	17	case
+16	el	_	DET	DET	_	17	det
+17	papel	_	NOUN	NOUN	_	13	nmod
+18	de	_	ADP	ADP	_	19	case
+19	malefica	_	NOUN	NOUN	_	17	nmod
+20	!!	_	PUNCT	PUNCT	_	21	punct
+21	:)	_	SYM	SYM	_	22	case
+22	:)	_	SYM	SYM	_	17	nmod
+

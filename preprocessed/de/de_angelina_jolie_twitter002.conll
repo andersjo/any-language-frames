@@ -1,0 +1,22 @@
+1	Wenn	_	SCONJ	SCONJ	_	17	mark
+2	ihr	_	DET	DET	_	3	nmod:poss
+3	Schlauchboot	_	NOUN	NOUN	_	17	nsubj
+4	Lippen	_	PROPN	PROPN	_	3	appos
+5	a	_	PROPN	PROPN	_	3	appos
+6	la	_	PROPN	PROPN	_	7	det
+7	Angelina	_	PROPN	PROPN	_	8	name
+8	jolie	_	PROPN	PROPN	_	4	nmod
+9	wollt	_	AUX	AUX	_	17	aux
+10	einfach	_	ADV	ADV	_	17	advmod
+11	Herpes	_	PROPN	PROPN	_	17	nsubj
+12	in	_	ADP	ADP	_	14	case
+13	der	_	DET	DET	_	14	det
+14	Mitte	_	NOUN	NOUN	_	17	nmod
+15	der	_	DET	DET	_	16	det
+16	Lippe	_	PROPN	PROPN	_	14	det
+17	bekommen	_	VERB	VERB	_	20	acl
+18	.	_	PUNCT	PUNCT	_	19	punct
+19	Sieht	_	VERB	VERB	_	0	root
+20	Super	_	PROPN	PROPN	_	21	name
+21	aus✌	_	PROPN	PROPN	_	19	nsubj
+

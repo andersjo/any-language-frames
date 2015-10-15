@@ -1,0 +1,25 @@
+1	Desde	_	ADP	ADP	_	3	case
+2	su	_	DET	DET	_	3	nmod:poss
+3	aprobación	_	NOUN	NOUN	_	17	nmod
+4	oficial	_	ADJ	ADJ	_	3	amod
+5	por	_	ADP	ADP	_	7	case
+6	la	_	DET	DET	_	7	det
+7	Unión	_	PROPN	PROPN	_	3	nmod
+8	Soviética	_	PROPN	PROPN	_	7	amod
+9	tras	_	ADP	ADP	_	11	case
+10	la	_	DET	DET	_	11	det
+11	Revolución	_	NOUN	NOUN	_	3	nmod
+12	rusa	_	ADJ	ADJ	_	11	amod
+13	de	_	ADP	ADP	_	14	case
+14	1917	_	NUM	NUM	_	11	nmod
+15	la	_	DET	DET	_	16	det
+16	fiesta	_	NOUN	NOUN	_	17	nsubj
+17	comenzó	_	VERB	VERB	_	0	root
+18	a	_	ADP	ADP	_	19	case
+19	celebrarse	_	VERB	VERB	_	17	acl
+20	en	_	ADP	ADP	_	23	case
+21	otros	_	DET	DET	_	23	det
+22	muchos	_	DET	DET	_	23	det
+23	países	_	NOUN	NOUN	_	19	nmod
+24	.	_	PUNCT	PUNCT	_	17	punct
+

@@ -1,0 +1,13 @@
+1	En	_	ADP	ADP	_	2	case
+2	julio	_	PROPN	PROPN	_	5	nmod
+3	de	_	ADP	ADP	_	4	case
+4	2001	_	NUM	NUM	_	2	nmod
+5	lanza	_	VERB	VERB	_	0	root
+6	su	_	DET	DET	_	7	nmod:poss
+7	servicio	_	NOUN	NOUN	_	5	dobj
+8	de	_	ADP	ADP	_	9	case
+9	búsqueda	_	NOUN	NOUN	_	7	nmod
+10	de	_	ADP	ADP	_	11	case
+11	imágenes	_	NOUN	NOUN	_	9	nmod
+12	.	_	PUNCT	PUNCT	_	5	punct
+

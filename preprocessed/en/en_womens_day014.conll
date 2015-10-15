@@ -1,0 +1,20 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	Vienna	_	PROPN	PROPN	_	5	compound
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	women	_	NOUN	NOUN	_	5	compound
+5	paraded	_	NOUN	NOUN	_	1	dobj
+6	on	_	ADP	ADP	_	5	acl
+7	the	_	DET	DET	_	8	det
+8	Ringstrasse	_	PROPN	PROPN	_	5	nmod
+9	and	_	CONJ	CONJ	_	2	cc
+10	carried	_	VERB	VERB	_	11	amod
+11	banners	_	NOUN	NOUN	_	8	conj
+12	honouring	_	VERB	VERB	_	11	acl
+13	the	_	DET	DET	_	14	det
+14	martyrs	_	NOUN	NOUN	_	12	dobj
+15	of	_	ADP	ADP	_	12	compound:prt
+16	the	_	DET	DET	_	18	det
+17	Paris	_	PROPN	PROPN	_	18	compound
+18	Commune	_	PROPN	PROPN	_	14	nmod
+19	.	_	PUNCT	PUNCT	_	12	punct
+

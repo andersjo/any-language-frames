@@ -1,0 +1,11 @@
+1	Charlottesville	_	PROPN	PROPN	_	2	nmod:poss
+2	police	_	NOUN	NOUN	_	3	nmod
+3	ID	_	VERB	VERB	_	0	root
+4	man	_	PRON	PRON	_	3	nsubj
+5	killed	_	NOUN	NOUN	_	3	dobj
+6	in	_	X	X	_	3	dep
+7	fall	_	X	X	_	6	dep
+8	at	_	PART	PART	_	7	dep
+9	garage	_	VERB	VERB	_	8	dep
+10	http://t.co/9DXauPz6BP	_	NOUN	NOUN	_	9	dobj
+

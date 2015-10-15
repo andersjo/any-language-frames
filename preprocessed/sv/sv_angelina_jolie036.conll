@@ -1,0 +1,27 @@
+1	Jolie	_	NOUN	NOUN	_	2	nmod:poss
+2	gifte	_	NOUN	NOUN	_	0	root
+3	sig	_	PRON	PRON	_	2	nmod
+4	igen	_	ADV	ADV	_	7	advmod
+5	i	_	ADP	ADP	_	7	case
+6	maj	_	NOUN	NOUN	_	7	det
+7	2000	_	NUM	NUM	_	2	nmod
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	med	_	ADP	ADP	_	12	case
+10	Billy	_	NOUN	NOUN	_	11	nmod:poss
+11	Bob	_	NOUN	NOUN	_	12	det
+12	Thornton	_	NOUN	NOUN	_	6	conj
+13	som	_	PRON	PRON	_	15	dobj
+14	hon	_	PRON	PRON	_	15	nsubj
+15	träffade	_	VERB	VERB	_	12	acl:relcl
+16	vid	_	ADP	ADP	_	17	case
+17	inspelningarna	_	NOUN	NOUN	_	15	nmod
+18	av	_	ADP	ADP	_	21	case
+19	"	_	PUNCT	PUNCT	_	21	punct
+20	Pushing	_	NOUN	NOUN	_	21	nmod:poss
+21	Tin	_	NOUN	NOUN	_	17	nmod
+22	"	_	PUNCT	PUNCT	_	21	punct
+23	(	_	PUNCT	PUNCT	_	21	punct
+24	1999	_	NUM	NUM	_	21	appos
+25	)	_	PUNCT	PUNCT	_	12	punct
+26	.	_	PUNCT	PUNCT	_	12	punct
+

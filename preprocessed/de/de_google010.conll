@@ -1,0 +1,15 @@
+1	Häufig	_	ADJ	ADJ	_	7	advmod
+2	werden	_	AUX	AUX	_	7	auxpass
+3	neue	_	ADJ	ADJ	_	4	amod
+4	Einzeldienste	_	NOUN	NOUN	_	7	nsubjpass
+5	ins	_	ADP	ADP	_	6	case
+6	Angebot	_	NOUN	NOUN	_	7	nmod
+7	aufgenommen	_	VERB	VERB	_	0	root
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	manchmal	_	ADV	ADV	_	11	advmod
+10	als	_	ADP	ADP	_	11	case
+11	Resultat	_	NOUN	NOUN	_	7	nmod
+12	von	_	ADP	ADP	_	13	case
+13	Unternehmenseinkäufen	_	NOUN	NOUN	_	11	nmod
+14	.	_	PUNCT	PUNCT	_	7	punct
+

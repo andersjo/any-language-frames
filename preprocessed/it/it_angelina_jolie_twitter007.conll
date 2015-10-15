@@ -1,0 +1,24 @@
+1	Quando	_	SCONJ	SCONJ	_	2	mark
+2	vado	_	VERB	VERB	_	0	root
+3	in	_	ADP	ADP	_	4	case
+4	bagno	_	NOUN	NOUN	_	2	nmod
+5	a	_	ADP	ADP	_	6	mark
+6	fumare	_	VERB	VERB	_	2	xcomp
+7	passo	_	NOUN	NOUN	_	6	dobj
+8	il	_	DET	DET	_	9	det
+9	tempo	_	NOUN	NOUN	_	6	dobj
+10	davanti	_	ADV	ADV	_	12	case
+11	allo	_	ADP	ADP	_	10	mwe
+12	specchio	_	NOUN	NOUN	_	6	nmod
+13	a	_	ADP	ADP	_	14	mark
+14	provare	_	VERB	VERB	_	12	acl
+15	le	_	DET	DET	_	16	det
+16	espressioni	_	NOUN	NOUN	_	14	dobj
+17	facciali	_	VERB	VERB	_	16	acl
+18	di	_	ADP	ADP	_	19	case
+19	Angelina	_	PROPN	PROPN	_	17	nmod
+20	Jolie	_	PROPN	PROPN	_	19	name
+21	in	_	ADP	ADP	_	22	case
+22	ragazze	_	NOUN	NOUN	_	17	nmod
+23	interrotte	_	ADJ	ADJ	_	22	amod
+

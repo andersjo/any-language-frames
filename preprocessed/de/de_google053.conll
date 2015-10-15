@@ -1,0 +1,21 @@
+1	Da	_	SCONJ	SCONJ	_	3	mark
+2	Bechtolsheim	_	PROPN	PROPN	_	3	nsubj
+3	annahm	_	VERB	VERB	_	11	advcl
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	die	_	DET	DET	_	6	det
+6	Firma	_	NOUN	NOUN	_	11	dobj
+7	heiße	_	PROPN	PROPN	_	9	name
+8	„Google	_	PROPN	PROPN	_	9	name
+9	“	_	PROPN	PROPN	_	6	appos
+10	,	_	PUNCT	PUNCT	_	3	punct
+11	setzte	_	VERB	VERB	_	0	root
+12	er	_	PRON	PRON	_	11	nsubj
+13	als	_	ADP	ADP	_	14	case
+14	Empfänger	_	NOUN	NOUN	_	11	nmod
+15	„Google	_	PROPN	PROPN	_	16	name
+16	Inc	_	PROPN	PROPN	_	18	amod
+17	.	_	PUNCT	PUNCT	_	3	punct
+18	“	_	PROPN	PROPN	_	11	nmod
+19	ein	_	ADV	ADV	_	11	mark
+20	.	_	PUNCT	PUNCT	_	3	punct
+

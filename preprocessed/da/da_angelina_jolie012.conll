@@ -1,0 +1,23 @@
+1	I	_	ADP	ADP	_	2	case
+2	foråret	_	NOUN	NOUN	_	4	nmod
+3	2013	_	NUM	NUM	_	2	nmod
+4	meddelte	_	VERB	VERB	_	10	dep
+5	hun	_	PRON	PRON	_	4	nsubj
+6	,	_	PUNCT	PUNCT	_	10	punct
+7	at	_	SCONJ	SCONJ	_	10	mark
+8	hun	_	PRON	PRON	_	10	nsubj
+9	havde	_	AUX	AUX	_	18	aux
+10	fået	_	VERB	VERB	_	18	dep
+11	foretaget	_	VERB	VERB	_	10	dep
+12	en	_	DET	DET	_	13	det
+13	brystoperation	_	NOUN	NOUN	_	11	dobj
+14	,	_	PUNCT	PUNCT	_	18	punct
+15	hvor	_	ADV	ADV	_	18	advmod
+16	hun	_	PRON	PRON	_	18	nsubj
+17	havde	_	AUX	AUX	_	18	aux
+18	fået	_	VERB	VERB	_	0	root
+19	fjernet	_	VERB	VERB	_	18	dep
+20	begge	_	DET	DET	_	21	det
+21	bryster	_	NOUN	NOUN	_	19	dobj
+22	.	_	PUNCT	PUNCT	_	4	punct
+

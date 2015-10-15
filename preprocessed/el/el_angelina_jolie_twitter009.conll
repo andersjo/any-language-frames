@@ -1,0 +1,22 @@
+1	Η	_	ADJ	ADJ	_	2	det
+2	κακόγουστη	_	NOUN	NOUN	_	0	root
+3	φωτογράφηση	_	NOUN	NOUN	_	2	nmod
+4	της	_	ADJ	ADJ	_	5	det
+5	Angelina	_	NOUN	NOUN	_	3	nmod
+6	Jolie	_	NOUN	NOUN	_	5	nmod
+7	στα	_	ADP	ADP	_	10	case
+8	19	_	NUM	NUM	_	5	nmod
+9	της	_	ADJ	ADJ	_	10	det
+10	(φωτο)	_	NOUN	NOUN	_	8	nmod
+11	:	_	PUNCT	PUNCT	_	13	punct
+12	Η	_	ADJ	ADJ	_	13	det
+13	κόρη	_	NOUN	NOUN	_	8	nmod
+14	του	_	ADJ	ADJ	_	15	det
+15	βραβευμένου	_	NOUN	NOUN	_	13	nmod
+16	με	_	ADP	ADP	_	17	case
+17	Όσκαρ	_	NOUN	NOUN	_	13	nmod
+18	ηθοποιού	_	ADJ	ADJ	_	19	amod
+19	Joh	_	NOUN	NOUN	_	17	nmod
+20	...	_	NOUN	NOUN	_	19	nmod
+21	http://t.co/zBEuWPzc1h	_	NOUN	NOUN	_	20	nmod
+

@@ -1,0 +1,13 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	3	name
+3	vie	_	NOUN	NOUN	_	4	nsubj
+4	dma	_	VERB	VERB	_	5	cop
+5	race	_	NOUN	NOUN	_	0	root
+6	elle	_	PRON	PRON	_	9	nsubj
+7	est	_	VERB	VERB	_	9	cop
+8	trop	_	ADV	ADV	_	9	advmod
+9	belle	_	ADJ	ADJ	_	5	acl
+10	cette	_	DET	DET	_	11	det
+11	femme	_	NOUN	NOUN	_	9	nmod
+12	😳😍	_	PROPN	PROPN	_	11	appos
+

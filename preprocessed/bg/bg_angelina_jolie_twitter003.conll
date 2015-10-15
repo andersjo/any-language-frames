@@ -1,0 +1,17 @@
+1	Angelina	_	PROPN	PROPN	_	0	root
+2	Jolie	_	PROPN	PROPN	_	1	nmod
+3	on	_	PROPN	PROPN	_	1	nmod
+4	Unbroken	_	PROPN	PROPN	_	3	nmod
+5	,	_	PUNCT	PUNCT	_	1	punct
+6	directing	_	PROPN	PROPN	_	1	conj
+7	Brad	_	PROPN	PROPN	_	6	name
+8	Pitt	_	PROPN	PROPN	_	6	name
+9	.	_	PUNCT	PUNCT	_	11	punct
+10	Страхотно	_	ADJ	ADJ	_	11	amod
+11	интервю	_	NOUN	NOUN	_	7	nmod
+12	с	_	ADP	ADP	_	13	case
+13	Анджелина	_	PROPN	PROPN	_	11	nmod
+14	Джоли	_	PROPN	PROPN	_	13	name
+15	.	_	PUNCT	PUNCT	_	13	punct
+16	https://t.co/viOYEJ2oOc	_	PROPN	PROPN	_	13	conj
+

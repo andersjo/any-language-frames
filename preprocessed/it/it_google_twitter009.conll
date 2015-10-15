@@ -1,0 +1,21 @@
+1	Con	_	ADP	ADP	_	2	case
+2	Google	_	PROPN	PROPN	_	6	nmod
+3	Street	_	PROPN	PROPN	_	2	name
+4	View	_	PROPN	PROPN	_	2	name
+5	puoi	_	AUX	AUX	_	6	aux
+6	guardare	_	VERB	VERB	_	0	root
+7	qualsiasi	_	DET	DET	_	8	det
+8	cosa	_	NOUN	NOUN	_	6	dobj
+9	,	_	PUNCT	PUNCT	_	6	punct
+10	ma	_	CONJ	CONJ	_	6	cc
+11	la	_	DET	DET	_	13	det
+12	prima	_	ADJ	ADJ	_	13	amod
+13	cosa	_	NOUN	NOUN	_	6	conj
+14	che	_	ADP	ADP	_	15	case
+15	vai	_	NOUN	NOUN	_	13	nmod
+16	a	_	ADP	ADP	_	17	mark
+17	cercare	_	VERB	VERB	_	15	acl
+18	è	_	VERB	VERB	_	19	cop
+19	casa	_	NOUN	NOUN	_	17	dobj
+20	tua	_	DET	DET	_	19	det:poss
+

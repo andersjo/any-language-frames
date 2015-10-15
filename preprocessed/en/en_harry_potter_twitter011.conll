@@ -1,0 +1,16 @@
+1	I'm	_	NOUN	NOUN	_	7	nsubj
+2	a	_	DET	DET	_	5	det
+3	carry	_	VERB	VERB	_	5	amod
+4	on	_	ADP	ADP	_	3	compound
+5	film	_	NOUN	NOUN	_	7	compound
+6	kinda	_	ADV	ADV	_	7	advmod
+7	girl	_	NOUN	NOUN	_	0	root
+8	:	_	PUNCT	PUNCT	_	7	punct
+9	harry	_	PROPN	PROPN	_	10	compound
+10	potter	_	NOUN	NOUN	_	7	appos
+11	,	_	PUNCT	PUNCT	_	7	punct
+12	narnia	_	NOUN	NOUN	_	10	conj
+13	,	_	PUNCT	PUNCT	_	7	punct
+14	hunger	_	NOUN	NOUN	_	15	compound
+15	games	_	NOUN	NOUN	_	7	appos
+

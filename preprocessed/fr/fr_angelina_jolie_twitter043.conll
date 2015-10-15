@@ -1,0 +1,21 @@
+1	#Unbroken	_	PROPN	PROPN	_	3	name
+2	d'Angelina	_	PROPN	PROPN	_	3	name
+3	Jolie	_	PROPN	PROPN	_	6	nsubj
+4	à	_	ADP	ADP	_	6	case
+5	déjà	_	ADV	ADV	_	6	advmod
+6	rapporter	_	VERB	VERB	_	0	root
+7	plus	_	ADV	ADV	_	8	mwe
+8	de	_	ADP	ADP	_	9	advmod
+9	87	_	NUM	NUM	_	10	nummod
+10	millions	_	NUM	NUM	_	11	nummod
+11	$	_	SYM	SYM	_	6	dobj
+12	de	_	ADP	ADP	_	13	case
+13	recettes	_	NOUN	NOUN	_	11	nmod
+14	Box	_	PROPN	PROPN	_	16	name
+15	Office	_	PROPN	PROPN	_	16	name
+16	US	_	PROPN	PROPN	_	11	nmod
+17	!	_	PUNCT	PUNCT	_	16	punct
+18	Well	_	PROPN	PROPN	_	16	appos
+19	done	_	ADJ	ADJ	_	18	amod
+20	Angie	_	PROPN	PROPN	_	18	amod
+

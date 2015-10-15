@@ -1,0 +1,26 @@
+1	"	_	PUNCT	PUNCT	_	3	punct
+2	Trending	_	PROPN	PROPN	_	3	name
+3	Germany	_	PROPN	PROPN	_	0	root
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	08:40	_	PROPN	PROPN	_	7	name
+6	PM	_	PROPN	PROPN	_	7	name
+7	CET	_	PROPN	PROPN	_	3	appos
+8	"	_	PUNCT	PUNCT	_	7	punct
+9	6	_	PROPN	PROPN	_	7	appos
+10	.	_	PUNCT	PUNCT	_	9	punct
+11	Breaking	_	PROPN	PROPN	_	13	name
+12	Dawn	_	PROPN	PROPN	_	13	name
+13	7	_	PROPN	PROPN	_	7	conj
+14	.	_	PUNCT	PUNCT	_	3	punct
+15	Harry	_	PROPN	PROPN	_	16	name
+16	Potter	_	PROPN	PROPN	_	17	name
+17	8	_	PROPN	PROPN	_	13	conj
+18	.	_	PUNCT	PUNCT	_	13	punct
+19	Youtuber	_	PROPN	PROPN	_	16	appos
+20	9	_	NUM	NUM	_	19	nummod
+21	.	_	PUNCT	PUNCT	_	20	punct
+22	Vorsätze	_	NOUN	NOUN	_	19	appos
+23	10	_	NUM	NUM	_	22	appos
+24	.	_	PUNCT	PUNCT	_	22	punct
+25	Fernsehen	_	NOUN	NOUN	_	22	det
+

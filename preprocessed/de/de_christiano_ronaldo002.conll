@@ -1,0 +1,15 @@
+1	Februar	_	PROPN	PROPN	_	13	dep
+2	1985	_	NUM	NUM	_	1	nmod
+3	in	_	ADP	ADP	_	4	case
+4	Funchal	_	PROPN	PROPN	_	13	nmod
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	Madeira	_	PROPN	PROPN	_	4	conj
+7	,	_	PUNCT	PUNCT	_	4	punct
+8	Portugal	_	PROPN	PROPN	_	4	appos
+9	)	_	PUNCT	PUNCT	_	8	punct
+10	ist	_	VERB	VERB	_	13	cop
+11	ein	_	DET	DET	_	13	det
+12	portugiesischer	_	ADJ	ADJ	_	13	amod
+13	Fußballspieler	_	NOUN	NOUN	_	0	root
+14	.	_	PUNCT	PUNCT	_	13	punct
+

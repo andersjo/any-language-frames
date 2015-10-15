@@ -1,0 +1,8 @@
+1	Jolies	_	PROPN	PROPN	_	2	det
+2	Eltern	_	NOUN	NOUN	_	0	root
+3	,	_	PUNCT	PUNCT	_	2	punct
+4	die	_	PRON	PRON	_	2	dep
+5	am	_	ADP	ADP	_	4	case
+6	12	_	NUM	NUM	_	5	dep
+7	.	_	PUNCT	PUNCT	_	6	punct
+

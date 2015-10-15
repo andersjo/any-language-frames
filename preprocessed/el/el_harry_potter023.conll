@@ -1,0 +1,19 @@
+1	Περίπου	_	NOUN	NOUN	_	8	nmod
+2	την	_	ADJ	ADJ	_	4	det
+3	ίδια	_	ADJ	ADJ	_	4	amod
+4	εποχή	_	NOUN	NOUN	_	1	nmod
+5	η	_	ADJ	ADJ	_	6	det
+6	Warner	_	NOUN	NOUN	_	8	nsubj
+7	Brothers	_	NOUN	NOUN	_	6	nmod
+8	ξεκίνησε	_	VERB	VERB	_	0	root
+9	να	_	PART	PART	_	10	aux
+10	εργάζεται	_	VERB	VERB	_	8	ccomp
+11	σε	_	ADP	ADP	_	12	case
+12	σειρά	_	NOUN	NOUN	_	10	dobj
+13	ταινιών	_	NOUN	NOUN	_	12	nmod
+14	που	_	PRON	PRON	_	15	nsubj
+15	βασίζεται	_	VERB	VERB	_	13	acl:relcl
+16	στα	_	ADP	ADP	_	17	case
+17	βιβλία	_	NOUN	NOUN	_	15	nmod
+18	.	_	PUNCT	PUNCT	_	8	punct
+

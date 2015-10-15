@@ -1,0 +1,26 @@
+1	Il	_	DET	DET	_	2	det
+2	23	_	NUM	NUM	_	6	nmod
+3	gennaio	_	NOUN	NOUN	_	2	nmod
+4	2008	_	NUM	NUM	_	3	nummod
+5	Google	_	PROPN	PROPN	_	6	nsubj
+6	perde	_	VERB	VERB	_	0	root
+7	circa	_	ADV	ADV	_	6	advmod
+8	il	_	DET	DET	_	9	det
+9	10%	_	NUM	NUM	_	6	dobj
+10	in	_	ADP	ADP	_	11	case
+11	Borsa	_	NOUN	NOUN	_	6	nmod
+12	a	_	ADP	ADP	_	13	case
+13	Wall	_	PROPN	PROPN	_	11	nmod
+14	Street	_	PROPN	PROPN	_	13	name
+15	,	_	PUNCT	PUNCT	_	6	punct
+16	e	_	CONJ	CONJ	_	6	cc
+17	quindi	_	ADV	ADV	_	18	advmod
+18	brucia	_	VERB	VERB	_	6	conj
+19	16	_	NUM	NUM	_	22	nummod
+20	,	_	PUNCT	PUNCT	_	19	punct
+21	3	_	NUM	NUM	_	22	nummod
+22	miliardi	_	NOUN	NOUN	_	18	dobj
+23	di	_	ADP	ADP	_	24	case
+24	dollari	_	NOUN	NOUN	_	22	nmod
+25	.	_	PUNCT	PUNCT	_	6	punct
+

@@ -1,0 +1,18 @@
+1	[	_	PUNCT	PUNCT	_	4	punct
+2	01/05/15	_	NUM	NUM	_	4	nummod
+3	01:23	_	NUM	NUM	_	4	nummod
+4	AM	_	NOUN	NOUN	_	11	nsubj
+5	]	_	PUNCT	PUNCT	_	4	punct
+6	Farm	_	PROPN	PROPN	_	7	name
+7	Up	_	PROPN	PROPN	_	4	appos
+8	!	_	PUNCT	PUNCT	_	7	punct
+9	Nouvelle	_	ADJ	ADJ	_	10	amod
+10	récompense	_	NOUN	NOUN	_	7	appos
+11	reçue	_	VERB	VERB	_	0	root
+12	:	_	PUNCT	PUNCT	_	11	punct
+13	Seau	_	NOUN	NOUN	_	11	appos
+14	de	_	ADP	ADP	_	15	case
+15	radis	_	NOUN	NOUN	_	13	nmod
+16	.	_	PUNCT	PUNCT	_	13	punct
+17	http://t.co/Llj2U3fg2a	_	PROPN	PROPN	_	13	appos
+

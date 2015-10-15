@@ -1,0 +1,23 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	August	_	PROPN	PROPN	_	7	compound
+3	of	_	ADP	ADP	_	0	compound:prt
+4	that	_	DET	DET	_	5	det
+5	year	_	NOUN	NOUN	_	3	conj
+6	,	_	PUNCT	PUNCT	_	8	punct
+7	Voight	_	NOUN	NOUN	_	8	nsubj
+8	claimed	_	VERB	VERB	_	5	appos
+9	his	_	PRON	PRON	_	10	nmod:poss
+10	daughter	_	NOUN	NOUN	_	11	nsubj
+11	had	_	VERB	VERB	_	8	ccomp
+12	"	_	PUNCT	PUNCT	_	15	punct
+13	serious	_	ADJ	ADJ	_	0	foreign
+14	mental	_	ADJ	ADJ	_	0	foreign
+15	problems	_	NOUN	NOUN	_	11	dobj
+16	"	_	PUNCT	PUNCT	_	15	punct
+17	on	_	ADP	ADP	_	11	compound:prt
+18	"	_	PUNCT	PUNCT	_	20	punct
+19	Access	_	X	X	_	20	advmod
+20	Hollywood	_	PROPN	PROPN	_	15	appos
+21	"	_	PUNCT	PUNCT	_	20	punct
+22	.	_	PUNCT	PUNCT	_	8	punct
+

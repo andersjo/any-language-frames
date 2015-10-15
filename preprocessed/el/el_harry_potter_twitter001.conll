@@ -1,0 +1,16 @@
+1	μέρες	_	NOUN	NOUN	_	0	root
+2	που	_	PRON	PRON	_	3	nsubj
+3	ξεκινάνε	_	VERB	VERB	_	1	acl:relcl
+4	με	_	ADP	ADP	_	5	case
+5	doctor	_	NOUN	NOUN	_	3	nmod
+6	who	_	NOUN	NOUN	_	5	nmod
+7	και	_	CONJ	CONJ	_	3	cc
+8	τελειώνουν	_	VERB	VERB	_	3	conj
+9	με	_	ADP	ADP	_	10	case
+10	harry	_	NOUN	NOUN	_	8	nmod
+11	potter	_	NOUN	NOUN	_	10	nmod
+12	...	_	NOUN	NOUN	_	11	nmod
+13	αυτές	_	PRON	PRON	_	15	det
+14	οι	_	ADJ	ADJ	_	15	det
+15	μέρες	_	NOUN	NOUN	_	12	nmod
+

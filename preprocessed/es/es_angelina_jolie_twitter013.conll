@@ -1,0 +1,20 @@
+1	¡Ven	_	PROPN	PROPN	_	4	nsubj
+2	!	_	PUNCT	PUNCT	_	4	punct
+3	No	_	ADV	ADV	_	4	neg
+4	soy	_	VERB	VERB	_	6	cop
+5	tan	_	ADV	ADV	_	6	advmod
+6	pendeja	_	NOUN	NOUN	_	0	root
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	Angelina	_	PROPN	PROPN	_	9	name
+9	Jolie	_	PROPN	PROPN	_	11	nsubj
+10	también	_	ADV	ADV	_	11	advmod
+11	tenía	_	VERB	VERB	_	6	acl:relcl
+12	tatuado	_	VERB	VERB	_	11	xcomp
+13	el	_	DET	DET	_	14	det
+14	nombre	_	NOUN	NOUN	_	12	dobj
+15	de	_	ADP	ADP	_	17	case
+16	su	_	DET	DET	_	19	nmod:poss
+17	ex	_	X	X	_	14	nmod
+18	.	_	PUNCT	PUNCT	_	19	punct
+19	😌	_	X	X	_	17	dep
+

@@ -1,0 +1,14 @@
+1	@ParisKrag	_	NOUN	NOUN	_	0	root
+2	Σε	_	ADP	ADP	_	4	case
+3	ένα	_	ADJ	ADJ	_	4	det
+4	στενό	_	ADJ	ADJ	_	1	amod
+5	στη	_	ADP	ADP	_	6	case
+6	Θεσσαλονίκη	_	NOUN	NOUN	_	4	nmod
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	κέντρο	_	NOUN	NOUN	_	6	conj
+9	,	_	PUNCT	PUNCT	_	6	punct
+10	Χρυσοστόμου	_	ADJ	ADJ	_	11	amod
+11	Σμύρνης	_	NOUN	NOUN	_	6	appos
+12	:P	_	NOUN	NOUN	_	11	nmod
+13	https://t.co/89xcKnRhzF	_	NOUN	NOUN	_	12	nmod
+

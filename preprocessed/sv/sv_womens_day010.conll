@@ -1,0 +1,12 @@
+1	Tankar	_	VERB	VERB	_	6	advcl
+2	på	_	ADP	ADP	_	5	case
+3	en	_	DET	DET	_	5	det
+4	internationell	_	ADJ	ADJ	_	5	amod
+5	kvinnodag	_	NOUN	NOUN	_	1	nmod
+6	uppkom	_	VERB	VERB	_	0	root
+7	i	_	ADP	ADP	_	8	case
+8	början	_	NOUN	NOUN	_	6	nmod
+9	av	_	ADP	ADP	_	10	case
+10	1900-talet	_	NOUN	NOUN	_	8	nmod
+11	.	_	PUNCT	PUNCT	_	1	punct
+

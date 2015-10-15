@@ -1,0 +1,20 @@
+1	Nel	_	ADP	ADP	_	2	case
+2	febbraio	_	NOUN	NOUN	_	5	nmod
+3	2010	_	NUM	NUM	_	2	nummod
+4	ha	_	AUX	AUX	_	5	aux
+5	firmato	_	VERB	VERB	_	0	root
+6	un	_	DET	DET	_	7	det
+7	contratto	_	NOUN	NOUN	_	5	dobj
+8	di	_	ADP	ADP	_	10	case
+9	4	_	NUM	NUM	_	10	nummod
+10	anni	_	NOUN	NOUN	_	7	nmod
+11	con	_	ADP	ADP	_	13	case
+12	la	_	DET	DET	_	13	det
+13	Nike	_	PROPN	PROPN	_	7	nmod
+14	di	_	ADP	ADP	_	16	case
+15	24	_	NUM	NUM	_	16	nummod
+16	milioni	_	NOUN	NOUN	_	13	nmod
+17	di	_	ADP	ADP	_	18	case
+18	euro	_	NOUN	NOUN	_	16	nmod
+19	.	_	PUNCT	PUNCT	_	5	punct
+

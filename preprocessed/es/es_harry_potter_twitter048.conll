@@ -1,0 +1,20 @@
+1	Pues	_	SCONJ	SCONJ	_	4	mark
+2	hoy	_	ADV	ADV	_	4	advmod
+3	hemos	_	AUX	AUX	_	4	aux
+4	visto	_	VERB	VERB	_	0	root
+5	Harry	_	PROPN	PROPN	_	6	name
+6	Potter	_	PROPN	PROPN	_	4	dobj
+7	y	_	CONJ	CONJ	_	6	cc
+8	la	_	DET	DET	_	9	det
+9	Cámara	_	NOUN	NOUN	_	6	conj
+10	Secreta	_	ADJ	ADJ	_	9	amod
+11	y	_	CONJ	CONJ	_	4	cc
+12	ha	_	AUX	AUX	_	13	aux
+13	sido	_	VERB	VERB	_	15	cop
+14	tan	_	ADV	ADV	_	15	advmod
+15	genial	_	ADJ	ADJ	_	10	conj
+16	como	_	CONJ	CONJ	_	17	case
+17	siempre	_	ADV	ADV	_	14	advmod
+18	.	_	PUNCT	PUNCT	_	15	punct
+19	<3	_	X	X	_	17	dep
+

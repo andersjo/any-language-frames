@@ -1,0 +1,20 @@
+1	#news	_	PROPN	PROPN	_	7	nsubj
+2	Berlino	_	PROPN	PROPN	_	1	name
+3	,	_	PUNCT	PUNCT	_	1	punct
+4	"	_	PUNCT	PUNCT	_	7	punct
+5	non	_	ADV	ADV	_	7	neg
+6	abbiamo	_	AUX	AUX	_	7	aux
+7	cambiato	_	VERB	VERB	_	0	root
+8	idea	_	NOUN	NOUN	_	7	dobj
+9	"	_	PUNCT	PUNCT	_	8	punct
+10	su	_	ADP	ADP	_	11	case
+11	Grecia	_	PROPN	PROPN	_	7	nmod
+12	in	_	ADP	ADP	_	13	case
+13	Eurozona	_	PROPN	PROPN	_	11	nmod
+14	-	_	PUNCT	PUNCT	_	15	punct
+15	AGI	_	PROPN	PROPN	_	13	name
+16	-	_	PUNCT	PUNCT	_	15	punct
+17	Agenzia	_	PROPN	PROPN	_	15	name
+18	…	_	PUNCT	PUNCT	_	17	punct
+19	http://t.co/ULTaGD0eSM	_	NOUN	NOUN	_	17	nmod
+

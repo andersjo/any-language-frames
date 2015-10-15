@@ -1,0 +1,8 @@
+1	KREATIF	_	NOUN	NOUN	_	2	nmod:poss
+2	tak	_	NOUN	NOUN	_	6	nsubj
+3	enteni	_	NOUN	NOUN	_	2	nmod
+4	.	_	PUNCT	PUNCT	_	1	punct
+5	flv	_	NOUN	NOUN	_	6	nsubj
+6	http://t.co/weUQqIYlZL	_	VERB	VERB	_	0	root
+7	#Creative	_	ADJ	ADJ	_	6	amod
+

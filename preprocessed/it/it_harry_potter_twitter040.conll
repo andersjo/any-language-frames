@@ -1,0 +1,27 @@
+1	Ma	_	CONJ	CONJ	_	4	cc
+2	non	_	ADV	ADV	_	4	neg
+3	è	_	VERB	VERB	_	4	cop
+4	possibile	_	ADJ	ADJ	_	0	root
+5	che	_	SCONJ	SCONJ	_	10	mark
+6	ogni	_	DET	DET	_	8	det
+7	fottuta	_	ADJ	ADJ	_	8	amod
+8	volta	_	NOUN	NOUN	_	20	nmod
+9	che	_	PRON	PRON	_	10	nsubj
+10	finisco	_	VERB	VERB	_	8	acl:relcl
+11	di	_	ADP	ADP	_	12	mark
+12	vedermi	_	VERB	VERB	_	10	xcomp
+13	i	_	DET	DET	_	14	det
+14	film	_	NOUN	NOUN	_	12	dobj
+15	di	_	ADP	ADP	_	16	case
+16	harry	_	PROPN	PROPN	_	14	nmod
+17	potter	_	PROPN	PROPN	_	16	name
+18	,	_	PUNCT	PUNCT	_	16	punct
+19	mi	_	PRON	PRON	_	20	expl
+20	sento	_	VERB	VERB	_	4	csubj
+21	male	_	ADV	ADV	_	20	advmod
+22	e	_	CONJ	CONJ	_	16	cc
+23	piango	_	PROPN	PROPN	_	16	conj
+24	,	_	PUNCT	PUNCT	_	20	punct
+25	bah	_	NOUN	NOUN	_	23	appos
+26	.	_	PUNCT	PUNCT	_	4	punct
+

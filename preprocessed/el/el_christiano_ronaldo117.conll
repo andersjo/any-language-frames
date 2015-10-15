@@ -1,0 +1,11 @@
+1	Ο	_	ADJ	ADJ	_	2	det
+2	Ρονάλντο	_	NOUN	NOUN	_	3	nsubj
+3	δήλωσε	_	VERB	VERB	_	0	root
+4	για	_	ADP	ADP	_	6	case
+5	την	_	ADJ	ADJ	_	6	det
+6	τιμή	_	NOUN	NOUN	_	3	nmod
+7	που	_	PRON	PRON	_	9	nsubj
+8	του	_	PRON	PRON	_	9	nsubj
+9	έγινε	_	VERB	VERB	_	6	acl:relcl
+10	:	_	PUNCT	PUNCT	_	3	punct
+

@@ -1,0 +1,16 @@
+1	Christiano	_	PROPN	PROPN	_	3	compound
+2	Ronaldo	_	PROPN	PROPN	_	3	compound
+3	Penalty	_	PROPN	PROPN	_	4	nsubj
+4	kick	_	VERB	VERB	_	0	root
+5	14	_	NUM	NUM	_	4	dobj
+6	'	_	PUNCT	PUNCT	_	5	punct
+7	(	_	PUNCT	PUNCT	_	5	punct
+8	1:0	_	NUM	NUM	_	14	nummod
+9	)	_	PUNCT	PUNCT	_	8	punct
+10	for	_	ADP	ADP	_	4	compound:prt
+11	RealMadrid	_	PROPN	PROPN	_	12	compound
+12	C.F	_	PROPN	PROPN	_	14	compound
+13	#VALvsRealMadrid	_	PROPN	PROPN	_	14	compound
+14	#HalaMadrid	_	PROPN	PROPN	_	15	nsubj
+15	#RMLive	_	VERB	VERB	_	4	parataxis
+

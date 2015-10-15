@@ -1,0 +1,14 @@
+1	Nkunzi	_	PROPN	PROPN	_	5	nmod:poss
+2	ye	_	PROPN	PROPN	_	1	name
+3	bj	_	PROPN	PROPN	_	1	name
+4	lips	_	PROPN	PROPN	_	1	name
+5	those	_	NOUN	NOUN	_	0	root
+6	..	_	PUNCT	PUNCT	_	8	punct
+7	"	_	PUNCT	PUNCT	_	8	punct
+8	@NkuxeeyB	_	NOUN	NOUN	_	1	name
+9	:	_	PUNCT	PUNCT	_	8	punct
+10	Angelina	_	PROPN	PROPN	_	8	list
+11	Jolie's	_	PROPN	PROPN	_	10	name
+12	lips	_	PROPN	PROPN	_	10	name
+13	"	_	PUNCT	PUNCT	_	10	punct
+

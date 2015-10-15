@@ -1,0 +1,15 @@
+1	Archos	_	PROPN	PROPN	_	2	nsubj
+2	представила	_	VERB	VERB	_	0	root
+3	три	_	NUM	NUM	_	4	nummod
+4	планшета	_	NOUN	NOUN	_	2	dobj
+5	LTE	_	PROPN	PROPN	_	4	nmod
+6	https://t.co/X5jPyM2d8H	_	PROPN	PROPN	_	5	name
+7	#МобиПро	_	PROPN	PROPN	_	5	name
+8	#Archos	_	PROPN	PROPN	_	5	name
+9	#LTE	_	PROPN	PROPN	_	8	nmod
+10	#Google	_	PROPN	PROPN	_	9	nmod
+11	#KitKat	_	NOUN	NOUN	_	4	nmod
+12	#Android	_	PROPN	PROPN	_	11	nmod
+13	#MobiPro	_	PROPN	PROPN	_	12	name
+14	http://t.co/LpdSSFXRgl	_	PROPN	PROPN	_	12	name
+

@@ -1,0 +1,12 @@
+1	Lego	_	PROPN	PROPN	_	0	root
+2	Harry	_	PROPN	PROPN	_	1	name
+3	Potter	_	PROPN	PROPN	_	1	name
+4	Lord	_	PROPN	PROPN	_	1	name
+5	Voldemort	_	PROPN	PROPN	_	1	name
+6	Minifigure	_	NOUN	NOUN	_	1	nmod
+7	4842	_	NUM	NUM	_	6	nummod
+8	4865	_	NUM	NUM	_	7	mwe
+9	mini	_	ADJ	ADJ	_	11	amod
+10	-	_	PUNCT	PUNCT	_	9	punct
+11	http://t.co/K829PqEO4g	_	PROPN	PROPN	_	1	conj
+

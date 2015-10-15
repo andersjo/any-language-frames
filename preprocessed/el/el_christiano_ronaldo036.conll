@@ -1,0 +1,26 @@
+1	Στις	_	ADP	ADP	_	3	case
+2	6	_	NUM	NUM	_	0	root
+3	Μαΐου	_	NOUN	NOUN	_	2	nmod
+4	2007	_	NUM	NUM	_	5	nmod
+5	κατακτά	_	NOUN	NOUN	_	3	nmod
+6	το	_	ADJ	ADJ	_	7	det
+7	πρώτο	_	NUM	NUM	_	9	nummod
+8	του	_	ADJ	ADJ	_	9	det
+9	πρωτάθλημα	_	NOUN	NOUN	_	5	nmod
+10	στην	_	ADP	ADP	_	11	case
+11	Αγγλία	_	NOUN	NOUN	_	9	nmod
+12	,	_	PUNCT	PUNCT	_	13	punct
+13	αφού	_	CONJ	CONJ	_	6	remnant
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	η	_	ADJ	ADJ	_	17	det
+16	έτερη	_	ADJ	ADJ	_	17	amod
+17	διεκδικήτρια	_	NOUN	NOUN	_	11	conj
+18	,	_	PUNCT	PUNCT	_	19	punct
+19	Τσέλσι	_	NOUN	NOUN	_	17	conj
+20	αναδεικνύεται	_	ADJ	ADJ	_	21	amod
+21	ισόπαλη	_	NOUN	NOUN	_	19	nmod
+22	με	_	ADP	ADP	_	24	case
+23	την	_	ADJ	ADJ	_	24	det
+24	Άρσεναλ	_	NOUN	NOUN	_	21	nmod
+25	.	_	PUNCT	PUNCT	_	17	punct
+

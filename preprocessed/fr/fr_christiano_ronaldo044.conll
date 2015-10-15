@@ -1,0 +1,22 @@
+1	Au	_	ADP	ADP	_	2	case
+2	retour	_	NOUN	NOUN	_	9	nmod
+3	,	_	PUNCT	PUNCT	_	9	punct
+4	les	_	DET	DET	_	5	det
+5	joueurs	_	NOUN	NOUN	_	9	nsubj
+6	de	_	ADP	ADP	_	7	case
+7	Manchester	_	PROPN	PROPN	_	5	nmod
+8	ne	_	ADV	ADV	_	9	neg
+9	parlent	_	VERB	VERB	_	0	root
+10	que	_	SCONJ	SCONJ	_	9	expl
+11	de	_	ADP	ADP	_	12	case
+12	lui	_	PRON	PRON	_	9	nmod
+13	et	_	CONJ	CONJ	_	9	cc
+14	demandent	_	VERB	VERB	_	9	conj
+15	à	_	ADP	ADP	_	17	case
+16	Alex	_	PROPN	PROPN	_	17	name
+17	Ferguson	_	PROPN	PROPN	_	14	nmod
+18	de	_	ADP	ADP	_	20	case
+19	le	_	PRON	PRON	_	20	dobj
+20	recruter	_	VERB	VERB	_	14	acl
+21	.	_	PUNCT	PUNCT	_	9	punct
+

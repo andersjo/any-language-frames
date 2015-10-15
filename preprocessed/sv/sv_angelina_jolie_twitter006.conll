@@ -1,0 +1,13 @@
+1	#Entertainment	_	NOUN	NOUN	_	2	nsubj
+2	#News	_	VERB	VERB	_	0	root
+3	Angelina	_	ADJ	ADJ	_	4	amod
+4	Jolie	_	NOUN	NOUN	_	5	nmod:poss
+5	Dollar	_	NOUN	NOUN	_	6	det
+6	Bill	_	NOUN	NOUN	_	2	dobj
+7	-	_	PUNCT	PUNCT	_	6	punct
+8	Mint	_	NOUN	NOUN	_	6	conj
+9	!	_	PUNCT	PUNCT	_	8	punct
+10	http://t.co/jJHkO8EPqp	_	NOUN	NOUN	_	11	nmod:poss
+11	#AngelinaJolie	_	NOUN	NOUN	_	12	nmod:poss
+12	#Fans	_	NOUN	NOUN	_	8	conj
+

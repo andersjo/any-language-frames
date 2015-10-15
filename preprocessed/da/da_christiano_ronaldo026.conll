@@ -1,0 +1,25 @@
+1	Ronaldo	_	PROPN	PROPN	_	7	nsubj
+2	blev	_	AUX	AUX	_	7	auxpass
+3	Manchester	_	PROPN	PROPN	_	4	nmod:poss
+4	Uniteds	_	NOUN	NOUN	_	6	nmod:poss
+5	første	_	ADJ	ADJ	_	6	amod
+6	portugisiske	_	NOUN	NOUN	_	7	nsubj
+7	spiller	_	VERB	VERB	_	0	root
+8	nogensinde	_	ADV	ADV	_	7	advmod
+9	,	_	PUNCT	PUNCT	_	12	punct
+10	da	_	SCONJ	SCONJ	_	12	mark
+11	han	_	PRON	PRON	_	12	nsubj
+12	underskrev	_	VERB	VERB	_	7	dep
+13	kontrakten	_	NOUN	NOUN	_	12	dobj
+14	for	_	ADP	ADP	_	18	case
+15	12	_	NUM	NUM	_	14	nummod
+16	,	_	PUNCT	PUNCT	_	23	punct
+17	24	_	NUM	NUM	_	18	nummod
+18	millioner	_	NOUN	NOUN	_	12	nmod
+19	pund	_	NOUN	NOUN	_	18	nmod
+20	efter	_	ADP	ADP	_	23	case
+21	2002	_	NUM	NUM	_	23	nummod
+22	–	_	ADJ	ADJ	_	23	amod
+23	03-sæsonen	_	NOUN	NOUN	_	18	nmod
+24	.	_	PUNCT	PUNCT	_	7	punct
+

@@ -1,0 +1,14 @@
+1	This	_	DET	DET	_	4	nsubj
+2	is	_	VERB	VERB	_	4	cop
+3	a	_	DET	DET	_	4	det
+4	day	_	NOUN	NOUN	_	0	root
+5	which	_	DET	DET	_	10	dobj
+6	some	_	DET	DET	_	8	det
+7	people	_	NOUN	NOUN	_	8	compound
+8	celebrate	_	NOUN	NOUN	_	4	acl:relcl
+9	by	_	ADP	ADP	_	10	mark
+10	wearing	_	VERB	VERB	_	4	acl:relcl
+11	purple	_	ADJ	ADJ	_	0	iobj
+12	ribbons	_	NOUN	NOUN	_	10	dobj
+13	.	_	PUNCT	PUNCT	_	2	punct
+

@@ -1,0 +1,12 @@
+1	@Tom_jedusor33	_	PROPN	PROPN	_	3	name
+2	@EstebanCrochet	_	PROPN	PROPN	_	3	name
+3	@malefoy_drago	_	PROPN	PROPN	_	4	nsubj
+4	essaie	_	VERB	VERB	_	0	root
+5	de	_	ADP	ADP	_	6	case
+6	jeter	_	VERB	VERB	_	4	acl
+7	un	_	DET	DET	_	8	det
+8	sort	_	NOUN	NOUN	_	6	dobj
+9	derrière	_	ADP	ADP	_	11	case
+10	son	_	DET	DET	_	11	nmod:poss
+11	dos	_	NOUN	NOUN	_	8	nmod
+

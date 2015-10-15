@@ -1,0 +1,22 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	3	nsubj
+3	commence	_	VERB	VERB	_	0	root
+4	à	_	ADP	ADP	_	5	case
+5	travailler	_	VERB	VERB	_	3	acl
+6	comme	_	ADP	ADP	_	7	case
+7	mannequin	_	NOUN	NOUN	_	5	nmod
+8	à	_	ADP	ADP	_	10	case
+9	16	_	NUM	NUM	_	10	nummod
+10	ans	_	NOUN	NOUN	_	7	nmod
+11	,	_	PUNCT	PUNCT	_	3	punct
+12	principalement	_	ADV	ADV	_	15	advmod
+13	à	_	ADP	ADP	_	15	case
+14	Los	_	PROPN	PROPN	_	15	name
+15	Angeles	_	PROPN	PROPN	_	5	nmod
+16	,	_	PUNCT	PUNCT	_	15	punct
+17	New	_	PROPN	PROPN	_	18	name
+18	York	_	PROPN	PROPN	_	15	conj
+19	et	_	CONJ	CONJ	_	15	cc
+20	Londres	_	PROPN	PROPN	_	15	conj
+21	.	_	PUNCT	PUNCT	_	3	punct
+

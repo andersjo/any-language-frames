@@ -1,0 +1,18 @@
+1	La	_	DET	DET	_	2	det
+2	fille	_	NOUN	NOUN	_	8	nsubj
+3	d'Angelina	_	NOUN	NOUN	_	2	appos
+4	Jolie	_	PROPN	PROPN	_	3	appos
+5	elle	_	PRON	PRON	_	7	nsubj
+6	est	_	VERB	VERB	_	8	cop
+7	grave	_	ADJ	ADJ	_	8	amod
+8	mignonne	_	NOUN	NOUN	_	0	root
+9	et	_	CONJ	CONJ	_	8	cc
+10	elle	_	PRON	PRON	_	12	nsubj
+11	veut	_	AUX	AUX	_	12	aux
+12	devenir	_	VERB	VERB	_	14	cop
+13	un	_	DET	DET	_	15	det
+14	mec	_	PROPN	PROPN	_	15	name
+15	euuuuh	_	PROPN	PROPN	_	16	nsubj
+16	jcomprends	_	VERB	VERB	_	8	conj
+17	pas	_	ADV	ADV	_	16	neg
+

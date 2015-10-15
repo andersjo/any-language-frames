@@ -1,0 +1,14 @@
+1	Gravando	_	VERB	VERB	_	0	root
+2	tutorial	_	NOUN	NOUN	_	1	dobj
+3	inspirado	_	ADJ	ADJ	_	2	amod
+4	na	_	VERB	VERB	_	2	acl
+5	Angelina	_	PROPN	PROPN	_	4	nsubj
+6	Jolie	_	PROPN	PROPN	_	5	name
+7	!	_	PUNCT	PUNCT	_	5	punct
+8	:)	_	PROPN	PROPN	_	5	conj
+9	Cinza	_	PROPN	PROPN	_	8	name
+10	opaco	_	PROPN	PROPN	_	8	name
+11	chic	_	PROPN	PROPN	_	8	name
+12	:)	_	PROPN	PROPN	_	8	name
+13	http://t.co/v4Q4LdXIP7	_	NOUN	NOUN	_	5	nmod
+

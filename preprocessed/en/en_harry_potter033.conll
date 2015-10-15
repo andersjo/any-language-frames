@@ -1,0 +1,23 @@
+1	Harry	_	PROPN	PROPN	_	2	nsubj
+2	survived	_	VERB	VERB	_	0	root
+3	with	_	ADP	ADP	_	2	compound:prt
+4	only	_	ADV	ADV	_	7	advmod
+5	a	_	DET	DET	_	7	det
+6	lightning-shaped	_	ADJ	ADJ	_	0	foreign
+7	scar	_	NOUN	NOUN	_	2	dobj
+8	on	_	ADP	ADP	_	2	compound:prt
+9	his	_	PRON	PRON	_	10	nmod:poss
+10	forehead	_	NOUN	NOUN	_	8	dobj
+11	as	_	ADP	ADP	_	10	compound
+12	a	_	DET	DET	_	13	det
+13	memento	_	NOUN	NOUN	_	11	dobj
+14	of	_	ADP	ADP	_	13	acl
+15	the	_	DET	DET	_	16	det
+16	attack	_	NOUN	NOUN	_	13	conj
+17	,	_	PUNCT	PUNCT	_	2	punct
+18	and	_	CONJ	CONJ	_	16	cc
+19	Voldemort	_	NOUN	NOUN	_	20	nsubj
+20	disappeared	_	VERB	VERB	_	2	conj
+21	afterwards	_	ADV	ADV	_	20	advmod
+22	.	_	PUNCT	PUNCT	_	2	punct
+

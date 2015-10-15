@@ -1,0 +1,26 @@
+1	Il	_	DET	DET	_	2	det
+2	4	_	NUM	NUM	_	3	nummod
+3	febbraio	_	NOUN	NOUN	_	4	nsubj
+4	segna	_	VERB	VERB	_	0	root
+5	una	_	DET	DET	_	6	det
+6	doppietta	_	NOUN	NOUN	_	4	dobj
+7	contro	_	ADP	ADP	_	9	case
+8	il	_	DET	DET	_	9	det
+9	Fulham	_	NOUN	NOUN	_	6	nmod
+10	e	_	CONJ	CONJ	_	9	cc
+11	l'11	_	NOUN	NOUN	_	9	conj
+12	febbraio	_	NOUN	NOUN	_	11	compound
+13	l'ennesima	_	ADJ	ADJ	_	12	amod
+14	doppietta	_	ADJ	ADJ	_	12	amod
+15	nella	_	ADP	ADP	_	16	case
+16	partita	_	NOUN	NOUN	_	14	nmod
+17	vinta	_	VERB	VERB	_	16	acl
+18	contro	_	ADP	ADP	_	20	case
+19	il	_	DET	DET	_	20	det
+20	Portsmouth	_	PROPN	PROPN	_	17	nmod
+21	per	_	ADP	ADP	_	22	case
+22	3	_	NUM	NUM	_	17	nummod
+23	a	_	ADP	ADP	_	24	case
+24	1	_	NUM	NUM	_	17	nummod
+25	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,26 @@
+1	Като	_	SCONJ	SCONJ	_	6	mark
+2	футболист	_	NOUN	NOUN	_	6	nsubj
+3	на	_	ADP	ADP	_	4	case
+4	Реал	_	PROPN	PROPN	_	2	nmod
+5	той	_	PRON	PRON	_	6	nsubj
+6	получава	_	VERB	VERB	_	0	root
+7	заплата	_	NOUN	NOUN	_	6	dobj
+8	на	_	ADP	ADP	_	9	case
+9	стойност	_	NOUN	NOUN	_	7	nmod
+10	около	_	ADP	ADP	_	12	case
+11	106	_	NUM	NUM	_	12	nummod
+12	хиляди	_	NOUN	NOUN	_	9	nmod
+13	паунда	_	NOUN	NOUN	_	12	nmod
+14	на	_	ADP	ADP	_	15	case
+15	седмица	_	NOUN	NOUN	_	6	nmod
+16	,	_	PUNCT	PUNCT	_	20	punct
+17	което	_	PRON	PRON	_	20	nsubj
+18	съответно	_	ADV	ADV	_	20	advmod
+19	го	_	PRON	PRON	_	20	dobj
+20	прави	_	VERB	VERB	_	15	acl
+21	най-скъпоплатеният	_	ADJ	ADJ	_	22	amod
+22	футболист	_	NOUN	NOUN	_	20	dobj
+23	в	_	ADP	ADP	_	24	case
+24	света	_	NOUN	NOUN	_	22	nmod
+25	.	_	PUNCT	PUNCT	_	20	punct
+

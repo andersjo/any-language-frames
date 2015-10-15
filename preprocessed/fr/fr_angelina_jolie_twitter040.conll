@@ -1,0 +1,12 @@
+1	MA	_	DET	DET	_	2	nmod:poss
+2	SOEUR	_	NOUN	NOUN	_	3	nsubj
+3	TROUVE	_	VERB	VERB	_	0	root
+4	QUE	_	SCONJ	SCONJ	_	5	mark
+5	ANGELINA	_	PROPN	PROPN	_	6	name
+6	JOLIE	_	PROPN	PROPN	_	11	name
+7	N'EST	_	PROPN	PROPN	_	11	name
+8	PAS	_	PROPN	PROPN	_	11	name
+9	BELLE	_	PROPN	PROPN	_	11	name
+10	MAIS	_	PROPN	PROPN	_	11	name
+11	??????????????????????	_	PROPN	PROPN	_	2	acl
+

@@ -1,0 +1,20 @@
+1	På	_	ADP	ADP	_	4	case
+2	utgivningsnatten	_	NOUN	NOUN	_	4	nmod:poss
+3	anordnade	_	ADJ	ADJ	_	4	amod
+4	The	_	NOUN	NOUN	_	5	nmod
+5	Swedish	_	VERB	VERB	_	0	root
+6	Rowling	_	NOUN	NOUN	_	7	nmod:poss
+7	Fanclub	_	NOUN	NOUN	_	5	dobj
+8	i	_	ADP	ADP	_	9	case
+9	samverkan	_	NOUN	NOUN	_	7	nmod
+10	med	_	ADP	ADP	_	11	case
+11	SF-bokhandeln	_	NOUN	NOUN	_	9	nmod
+12	en	_	DET	DET	_	13	det
+13	kö	_	NOUN	NOUN	_	5	nmod
+14	i	_	ADP	ADP	_	16	case
+15	Gamla	_	ADJ	ADJ	_	16	amod
+16	Stan	_	NOUN	NOUN	_	13	nmod
+17	i	_	ADP	ADP	_	18	case
+18	Stockholm	_	PROPN	PROPN	_	16	nmod
+19	.	_	PUNCT	PUNCT	_	5	punct
+

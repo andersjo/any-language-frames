@@ -1,0 +1,18 @@
+1	Ronaldo	_	PROPN	PROPN	_	2	nsubj
+2	made	_	VERB	VERB	_	14	parataxis
+3	his	_	PRON	PRON	_	5	nmod:poss
+4	international	_	ADJ	ADJ	_	0	foreign
+5	debut	_	NOUN	NOUN	_	2	dobj
+6	for	_	ADP	ADP	_	2	compound:prt
+7	Portugal	_	PROPN	PROPN	_	9	compound
+8	in	_	ADP	ADP	_	2	compound:prt
+9	August	_	PROPN	PROPN	_	2	nmod:tmod
+10	2003	_	NUM	NUM	_	9	nmod:tmod
+11	,	_	PUNCT	PUNCT	_	2	punct
+12	at	_	ADP	ADP	_	0	iobj
+13	the	_	DET	DET	_	14	det
+14	age	_	NOUN	NOUN	_	12	dobj
+15	of	_	ADP	ADP	_	14	acl
+16	18	_	NUM	NUM	_	9	nmod:tmod
+17	.	_	PUNCT	PUNCT	_	2	punct
+

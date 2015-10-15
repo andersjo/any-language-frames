@@ -1,0 +1,27 @@
+1	Sempre	_	ADV	ADV	_	4	advmod
+2	nel	_	ADP	ADP	_	3	case
+3	2004	_	NUM	NUM	_	4	nummod
+4	interpreta	_	VERB	VERB	_	0	root
+5	il	_	DET	DET	_	6	det
+6	ruolo	_	NOUN	NOUN	_	4	dobj
+7	di	_	ADP	ADP	_	8	case
+8	Olimpiade	_	PROPN	PROPN	_	6	nmod
+9	nel	_	ADP	ADP	_	11	case
+10	controverso	_	ADJ	ADJ	_	11	amod
+11	film	_	NOUN	NOUN	_	6	nmod
+12	di	_	ADP	ADP	_	13	case
+13	Oliver	_	PROPN	PROPN	_	11	nmod
+14	Stone	_	PROPN	PROPN	_	13	name
+15	"	_	PUNCT	PUNCT	_	16	punct
+16	Alexander	_	PROPN	PROPN	_	13	nmod
+17	"	_	PUNCT	PUNCT	_	16	punct
+18	,	_	PUNCT	PUNCT	_	11	punct
+19	film	_	NOUN	NOUN	_	16	appos
+20	biografico	_	NOUN	NOUN	_	19	compound
+21	sulla	_	ADP	ADP	_	22	case
+22	vita	_	NOUN	NOUN	_	20	nmod
+23	di	_	ADP	ADP	_	24	case
+24	Alessandro	_	PROPN	PROPN	_	22	nmod
+25	Magno	_	PROPN	PROPN	_	24	name
+26	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,18 @@
+1	Quelle	_	PRON	PRON	_	2	nsubj
+2	scritte	_	VERB	VERB	_	0	root
+3	sembrarono	_	VERB	VERB	_	2	xcomp
+4	intollerabili	_	ADJ	ADJ	_	3	xcomp
+5	,	_	PUNCT	PUNCT	_	4	punct
+6	così	_	ADV	ADV	_	3	advmod
+7	che	_	SCONJ	SCONJ	_	6	mwe
+8	la	_	DET	DET	_	9	det
+9	polizia	_	NOUN	NOUN	_	4	conj
+10	caricò	_	ADJ	ADJ	_	9	amod
+11	,	_	PUNCT	PUNCT	_	9	punct
+12	manganellò	_	NOUN	NOUN	_	9	conj
+13	e	_	CONJ	CONJ	_	10	cc
+14	disperse	_	ADJ	ADJ	_	10	conj
+15	le	_	DET	DET	_	16	det
+16	manifestanti	_	NOUN	NOUN	_	9	conj
+17	.	_	PUNCT	PUNCT	_	3	punct
+

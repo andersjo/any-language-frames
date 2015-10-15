@@ -1,0 +1,14 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	1997	_	NUM	NUM	_	5	nmod
+3	,	_	PUNCT	PUNCT	_	5	punct
+4	he	_	PRON	PRON	_	5	nsubj
+5	made	_	VERB	VERB	_	12	csubj
+6	a	_	DET	DET	_	7	det
+7	move	_	NOUN	NOUN	_	5	dobj
+8	to	_	ADP	ADP	_	5	compound:prt
+9	Portuguese	_	ADJ	ADJ	_	0	foreign
+10	giants	_	NOUN	NOUN	_	11	nsubj
+11	Sporting	_	VERB	VERB	_	12	amod
+12	CP	_	NOUN	NOUN	_	1	conj
+13	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,25 @@
+1	Aunque	_	SCONJ	SCONJ	_	3	mark
+2	también	_	ADV	ADV	_	3	advmod
+3	dijo	_	VERB	VERB	_	0	root
+4	de	_	ADP	ADP	_	6	case
+5	su	_	DET	DET	_	6	nmod:poss
+6	padre	_	NOUN	NOUN	_	3	nmod
+7	que	_	SCONJ	SCONJ	_	16	mark
+8	"	_	PUNCT	PUNCT	_	11	punct
+9	Y	_	CONJ	CONJ	_	6	cc
+10	mi	_	DET	DET	_	11	nmod:poss
+11	papá	_	NOUN	NOUN	_	6	conj
+12	,	_	PUNCT	PUNCT	_	9	punct
+13	eres	_	VERB	VERB	_	3	conj
+14	un	_	DET	DET	_	16	det
+15	gran	_	ADJ	ADJ	_	16	amod
+16	actor	_	NOUN	NOUN	_	13	dobj
+17	,	_	PUNCT	PUNCT	_	13	punct
+18	pero	_	CONJ	CONJ	_	13	cc
+19	eres	_	VERB	VERB	_	3	conj
+20	un	_	DET	DET	_	22	det
+21	mejor	_	ADJ	ADJ	_	22	amod
+22	padre	_	NOUN	NOUN	_	19	dobj
+23	"	_	PUNCT	PUNCT	_	22	punct
+24	.	_	PUNCT	PUNCT	_	3	punct
+

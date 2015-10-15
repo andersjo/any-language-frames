@@ -1,0 +1,21 @@
+1	Jeg	_	PRON	PRON	_	3	nsubj
+2	har	_	AUX	AUX	_	3	aux
+3	bestået	_	VERB	VERB	_	0	root
+4	Statsborgerskabsprøven	_	NOUN	NOUN	_	3	dobj
+5	.	_	PUNCT	PUNCT	_	3	punct
+6	Det	_	PRON	PRON	_	7	dobj
+7	gør	_	VERB	VERB	_	3	acl:relcl
+8	man	_	PRON	PRON	_	7	nsubj
+9	ikke	_	ADV	ADV	_	7	neg
+10	uden	_	ADP	ADP	_	7	dep
+11	at	_	PART	PART	_	10	dep
+12	komme	_	VERB	VERB	_	11	dep
+13	til	_	ADP	ADP	_	12	dep
+14	at	_	PART	PART	_	13	dep
+15	tænke	_	VERB	VERB	_	14	dep
+16	på	_	ADP	ADP	_	17	case
+17	1&2	_	NOUN	NOUN	_	15	nmod
+18	.	_	PUNCT	PUNCT	_	3	punct
+19	https://t.co/roW1joqX9u	_	PROPN	PROPN	_	17	appos
+20	http://t.co/ihzIc5ZD5p	_	PROPN	PROPN	_	19	name
+

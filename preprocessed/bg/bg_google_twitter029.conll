@@ -1,0 +1,17 @@
+1	По	_	ADP	ADP	_	2	case
+2	принцип	_	NOUN	NOUN	_	5	nmod
+3	не	_	INTJ	INTJ	_	5	neg
+4	го	_	PRON	PRON	_	5	dobj
+5	търгувам	_	VERB	VERB	_	0	root
+6	,	_	PUNCT	PUNCT	_	7	punct
+7	но	_	CONJ	CONJ	_	5	cc
+8	смятам	_	VERB	VERB	_	5	conj
+9	че	_	SCONJ	SCONJ	_	10	mark
+10	идва	_	VERB	VERB	_	8	ccomp
+11	времето	_	NOUN	NOUN	_	10	dobj
+12	за	_	ADP	ADP	_	14	case
+13	силен	_	ADJ	ADJ	_	14	amod
+14	австралиец	_	NOUN	NOUN	_	11	nmod
+15	:)	_	PROPN	PROPN	_	14	nmod
+16	https://t.co/Jn6Jx2NLcv	_	PROPN	PROPN	_	15	name
+

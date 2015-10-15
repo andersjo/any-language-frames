@@ -1,0 +1,22 @@
+1	@InAnselsArms	_	NOUN	NOUN	_	3	nsubj
+2	-avessi	_	ADJ	ADJ	_	1	amod
+3	continuato	_	VERB	VERB	_	0	root
+4	a	_	ADP	ADP	_	5	mark
+5	leggere	_	VERB	VERB	_	3	xcomp
+6	il	_	DET	DET	_	7	det
+7	discorso	_	NOUN	NOUN	_	5	dobj
+8	con	_	ADP	ADP	_	10	case
+9	quella	_	DET	DET	_	10	det
+10	ragazza	_	NOUN	NOUN	_	7	nmod
+11	avresti	_	VERB	VERB	_	10	acl
+12	visto	_	VERB	VERB	_	11	advcl
+13	che	_	SCONJ	SCONJ	_	15	mark
+14	ho	_	AUX	AUX	_	15	aux
+15	scritto	_	VERB	VERB	_	12	ccomp
+16	che	_	SCONJ	SCONJ	_	19	mark
+17	anche	_	ADV	ADV	_	20	advmod
+18	lo	_	DET	DET	_	20	det
+19	stesso	_	ADJ	ADJ	_	20	amod
+20	Harry	_	PROPN	PROPN	_	12	ccomp
+21	Potter-	_	PROPN	PROPN	_	20	name
+

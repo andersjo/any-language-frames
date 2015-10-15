@@ -1,0 +1,13 @@
+1	Die	_	DET	DET	_	2	det
+2	Handlung	_	NOUN	NOUN	_	5	nsubj
+3	der	_	DET	DET	_	4	det
+4	Harry-Potter-Romane	_	NOUN	NOUN	_	2	det
+5	findet	_	VERB	VERB	_	0	root
+6	in	_	ADP	ADP	_	10	case
+7	zwei	_	NUM	NUM	_	10	nummod
+8	nebeneinander	_	ADV	ADV	_	9	advmod
+9	existierenden	_	ADJ	ADJ	_	10	amod
+10	Welten	_	NOUN	NOUN	_	5	dobj
+11	statt	_	ADP	ADP	_	5	mark
+12	.	_	PUNCT	PUNCT	_	5	punct
+

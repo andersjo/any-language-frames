@@ -1,0 +1,18 @@
+1	Sammen	_	ADV	ADV	_	9	advmod
+2	med	_	ADP	ADP	_	6	case
+3	en	_	DET	DET	_	6	det
+4	af	_	ADP	ADP	_	6	case
+5	sine	_	DET	DET	_	6	det
+6	søstre	_	NOUN	NOUN	_	1	nmod
+7	har	_	AUX	AUX	_	9	aux
+8	Ronaldo	_	PROPN	PROPN	_	9	nsubj
+9	åbnet	_	VERB	VERB	_	0	root
+10	en	_	DET	DET	_	11	det
+11	tøjbutik	_	NOUN	NOUN	_	9	dobj
+12	under	_	ADP	ADP	_	13	case
+13	navnet	_	NOUN	NOUN	_	11	nmod
+14	"	_	PUNCT	PUNCT	_	15	punct
+15	CR7	_	NOUN	NOUN	_	13	appos
+16	"	_	PUNCT	PUNCT	_	15	punct
+17	.	_	PUNCT	PUNCT	_	9	punct
+

@@ -1,0 +1,14 @@
+1	Hafiz	_	PROPN	PROPN	_	3	nmod:poss
+2	Saeed	_	PROPN	PROPN	_	1	name
+3	sighted	_	NOUN	NOUN	_	0	root
+4	at	_	PART	PART	_	3	dep
+5	Pakistan	_	PROPN	PROPN	_	4	dep
+6	Rangers	_	PROPN	PROPN	_	5	name
+7	'	_	PUNCT	PUNCT	_	9	punct
+8	border	_	NOUN	NOUN	_	9	nsubj
+9	outpost	_	VERB	VERB	_	4	dep
+10	near	_	ADJ	ADJ	_	11	amod
+11	J&K	_	NOUN	NOUN	_	12	nmod:poss
+12	border	_	NOUN	NOUN	_	13	nmod:poss
+13	http://t.co/kHkxZHzHlM	_	NOUN	NOUN	_	9	dobj
+

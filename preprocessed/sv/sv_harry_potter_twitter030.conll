@@ -1,0 +1,24 @@
+1	Daniel	_	PROPN	PROPN	_	2	nmod:poss
+2	Radcliffe	_	NOUN	NOUN	_	8	nsubj
+3	är	_	AUX	AUX	_	8	cop
+4	faktiskt	_	ADV	ADV	_	18	advmod
+5	en	_	DET	DET	_	8	det
+6	ganska	_	ADV	ADV	_	7	advmod
+7	dålig	_	ADJ	ADJ	_	8	amod
+8	skådespelare	_	NOUN	NOUN	_	18	nsubj
+9	.	_	PUNCT	PUNCT	_	8	punct
+10	Hans	_	DET	DET	_	11	nmod:poss
+11	tolkning	_	NOUN	NOUN	_	18	nsubj
+12	av	_	ADP	ADP	_	14	case
+13	Harry	_	PROPN	PROPN	_	14	nmod:poss
+14	Potter	_	NOUN	NOUN	_	11	nmod
+15	hade	_	AUX	AUX	_	18	aux
+16	kanske	_	ADV	ADV	_	18	advmod
+17	varit	_	AUX	AUX	_	18	cop
+18	bättre	_	ADJ	ADJ	_	22	nsubj
+19	om	_	ADP	ADP	_	20	case
+20	_han_	_	NOUN	NOUN	_	18	nmod
+21	var	_	AUX	AUX	_	22	cop
+22	bättre	_	ADJ	ADJ	_	0	root
+23	.	_	PUNCT	PUNCT	_	22	punct
+

@@ -1,0 +1,23 @@
+1	Min	_	DET	DET	_	2	nmod:poss
+2	sambo	_	NOUN	NOUN	_	3	nsubj
+3	frågade	_	VERB	VERB	_	0	root
+4	just	_	ADV	ADV	_	3	advmod
+5	om	_	SCONJ	SCONJ	_	8	mark
+6	jag	_	PRON	PRON	_	8	nsubj
+7	skulle	_	AUX	AUX	_	8	aux
+8	följa	_	VERB	VERB	_	3	ccomp
+9	med	_	ADP	ADP	_	11	case
+10	Angelina	_	ADJ	ADJ	_	11	amod
+11	Jolie	_	NOUN	NOUN	_	8	nmod
+12	till	_	ADP	ADP	_	14	case
+13	ett	_	DET	DET	_	14	det
+14	hotell	_	NOUN	NOUN	_	8	nmod
+15	.	_	PUNCT	PUNCT	_	3	punct
+16	Jag	_	PRON	PRON	_	17	nsubj
+17	tror	_	VERB	VERB	_	14	acl:relcl
+18	det	_	PRON	PRON	_	17	expl
+19	är	_	AUX	AUX	_	21	cop
+20	en	_	DET	DET	_	21	det
+21	trickfråga	_	NOUN	NOUN	_	17	xcomp
+22	.	_	PUNCT	PUNCT	_	3	punct
+

@@ -1,0 +1,20 @@
+1	Nuovo	_	ADJ	ADJ	_	2	amod
+2	Commento	_	NOUN	NOUN	_	0	root
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	BIDELLO	_	PROPN	PROPN	_	2	nmod
+5	VELODROMO	_	PROPN	PROPN	_	4	name
+6	Assomigli	_	PROPN	PROPN	_	4	name
+7	terribilmente	_	ADV	ADV	_	9	advmod
+8	a	_	ADP	ADP	_	9	case
+9	Gazza	_	NOUN	NOUN	_	4	nmod
+10	di	_	ADP	ADP	_	11	case
+11	Harry	_	PROPN	PROPN	_	9	nmod
+12	Potter	_	PROPN	PROPN	_	11	name
+13	..	_	PROPN	PROPN	_	11	name
+14	ci	_	PRON	PRON	_	16	expl
+15	stiamo	_	AUX	AUX	_	16	aux
+16	ch	_	VERB	VERB	_	9	acl:relcl
+17	...	_	PUNCT	PUNCT	_	2	punct
+18	http://t.co/8R5mKIRE7u	_	NOUN	NOUN	_	16	nmod
+19	#spotted	_	ADJ	ADJ	_	18	amod
+

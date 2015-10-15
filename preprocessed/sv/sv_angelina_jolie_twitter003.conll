@@ -1,0 +1,18 @@
+1	#AngelinaJolie	_	NOUN	NOUN	_	2	nmod:poss
+2	#Fans	_	NOUN	NOUN	_	3	nmod:poss
+3	Paula	_	NOUN	NOUN	_	4	nmod:poss
+4	Deen	_	NOUN	NOUN	_	5	nmod
+5	Angelina	_	VERB	VERB	_	16	advcl
+6	Jolie	_	NOUN	NOUN	_	7	nmod:poss
+7	Brad	_	NOUN	NOUN	_	5	dobj
+8	Pitt	_	VERB	VERB	_	5	advcl
+9	OJ	_	NOUN	NOUN	_	10	det
+10	Simpson	_	PROPN	PROPN	_	8	nsubj
+11	Sandra	_	VERB	VERB	_	8	conj
+12	Bullock	_	NOUN	NOUN	_	13	nmod:poss
+13	Christie	_	NOUN	NOUN	_	11	dobj
+14	…	_	VERB	VERB	_	11	conj
+15	http://t.co/PVBTsXLKW6	_	NOUN	NOUN	_	14	nsubj
+16	#Collectibles	_	VERB	VERB	_	0	root
+17	#Sale	_	NOUN	NOUN	_	16	dobj
+

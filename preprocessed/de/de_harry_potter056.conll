@@ -1,0 +1,21 @@
+1	Diese	_	PRON	PRON	_	2	det
+2	Zauberergesellschaft	_	NOUN	NOUN	_	3	nsubj
+3	verfügt	_	VERB	VERB	_	0	root
+4	in	_	ADP	ADP	_	5	case
+5	Großbritannien	_	PROPN	PROPN	_	3	nmod
+6	über	_	ADP	ADP	_	9	case
+7	eine	_	DET	DET	_	9	det
+8	eigene	_	ADJ	ADJ	_	9	amod
+9	Regierung	_	NOUN	NOUN	_	3	nmod
+10	und	_	CONJ	CONJ	_	9	cc
+11	Verwaltung	_	NOUN	NOUN	_	9	conj
+12	,	_	PUNCT	PUNCT	_	3	punct
+13	das	_	DET	DET	_	14	det
+14	Zaubereiministerium	_	NOUN	NOUN	_	9	conj
+15	,	_	PUNCT	PUNCT	_	3	punct
+16	sowie	_	CONJ	CONJ	_	9	cc
+17	ein	_	DET	DET	_	19	det
+18	eigenes	_	ADJ	ADJ	_	19	amod
+19	Wirtschaftssystem	_	NOUN	NOUN	_	9	conj
+20	.	_	PUNCT	PUNCT	_	3	punct
+

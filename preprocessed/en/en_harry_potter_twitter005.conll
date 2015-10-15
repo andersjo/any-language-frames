@@ -1,0 +1,22 @@
+1	Straight	_	ADV	ADV	_	2	advmod
+2	up	_	ADV	ADV	_	4	acl
+3	,	_	PUNCT	PUNCT	_	4	punct
+4	I'm	_	NOUN	NOUN	_	7	compound
+5	high	_	ADJ	ADJ	_	0	nmod:tmod
+6	as	_	ADP	ADP	_	7	compound
+7	balls	_	NOUN	NOUN	_	11	nsubj
+8	and	_	CONJ	CONJ	_	7	cc
+9	I	_	PRON	PRON	_	11	nsubj
+10	just	_	ADV	ADV	_	11	advmod
+11	wanna	_	VERB	VERB	_	0	root
+12	watch	_	VERB	VERB	_	14	amod
+13	Harry	_	PROPN	PROPN	_	14	compound
+14	potter	_	NOUN	NOUN	_	11	dobj
+15	with	_	ADP	ADP	_	12	compound:prt
+16	my	_	PRON	PRON	_	17	nmod:poss
+17	boyfriend	_	NOUN	NOUN	_	15	dobj
+18	.	_	PUNCT	PUNCT	_	11	punct
+19	Or	_	CONJ	CONJ	_	11	cc
+20	someone	_	NOUN	NOUN	_	7	conj
+21	.	_	PUNCT	PUNCT	_	11	punct
+

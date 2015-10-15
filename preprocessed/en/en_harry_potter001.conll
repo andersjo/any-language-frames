@@ -1,0 +1,21 @@
+1	Harry	_	PROPN	PROPN	_	2	compound
+2	Potter	_	PROPN	PROPN	_	5	nsubj
+3	is	_	VERB	VERB	_	5	cop
+4	a	_	DET	DET	_	5	det
+5	series	_	NOUN	NOUN	_	0	root
+6	of	_	ADP	ADP	_	3	compound:prt
+7	seven	_	NUM	NUM	_	9	nummod
+8	fantasy	_	NOUN	NOUN	_	9	compound
+9	novels	_	NOUN	NOUN	_	5	nmod
+10	written	_	VERB	VERB	_	9	acl
+11	by	_	ADP	ADP	_	10	compound:prt
+12	the	_	DET	DET	_	15	det
+13	British	_	ADJ	ADJ	_	0	foreign
+14	author	_	NOUN	NOUN	_	15	compound
+15	J	_	NOUN	NOUN	_	10	dobj
+16	.	_	PUNCT	PUNCT	_	5	punct
+17	K	_	NUM	NUM	_	19	nummod
+18	.	_	PUNCT	PUNCT	_	5	punct
+19	Rowling	_	NOUN	NOUN	_	15	appos
+20	.	_	PUNCT	PUNCT	_	5	punct
+

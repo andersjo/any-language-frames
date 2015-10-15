@@ -1,0 +1,24 @@
+1	Gay	_	NOUN	NOUN	_	12	nsubj
+2	ζωδιακός	_	ADJ	ADJ	_	3	amod
+3	!!!	_	NOUN	NOUN	_	1	nmod
+4	:	_	PUNCT	PUNCT	_	1	punct
+5	Το	_	ADJ	ADJ	_	6	det
+6	μήλο	_	NOUN	NOUN	_	12	nsubj
+7	κάτω	_	ADV	ADV	_	12	advmod
+8	από	_	ADP	ADP	_	10	case
+9	τη	_	ADJ	ADJ	_	10	det
+10	μηλιά	_	NOUN	NOUN	_	7	nmod
+11	θα	_	PART	PART	_	12	aux
+12	πέσει	_	VERB	VERB	_	15	ccomp
+13	!	_	PUNCT	PUNCT	_	12	punct
+14	-	_	PUNCT	PUNCT	_	12	punct
+15	Δείτε	_	VERB	VERB	_	0	root
+16	τον	_	ADJ	ADJ	_	18	det
+17	κούκλο	_	ADJ	ADJ	_	18	amod
+18	γιο	_	NOUN	NOUN	_	15	dobj
+19	των	_	ADJ	ADJ	_	20	det
+20	Angelina	_	NOUN	NOUN	_	18	nmod
+21	Jolie	_	NOUN	NOUN	_	20	nmod
+22	...	_	NOUN	NOUN	_	21	nmod
+23	http://t.co/5ndGMIs0g9	_	NOUN	NOUN	_	22	nmod
+

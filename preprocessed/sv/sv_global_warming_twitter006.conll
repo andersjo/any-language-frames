@@ -1,0 +1,26 @@
+1	Hm	_	NOUN	NOUN	_	6	nsubj
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	nu	_	ADV	ADV	_	4	advmod
+4	verkar	_	VERB	VERB	_	1	acl:relcl
+5	@pontifex	_	NOUN	NOUN	_	4	nsubj
+6	påstå	_	VERB	VERB	_	0	root
+7	att	_	SCONJ	SCONJ	_	13	mark
+8	deras	_	DET	DET	_	9	nmod:poss
+9	gud	_	ADJ	ADJ	_	13	nsubj
+10	är	_	AUX	AUX	_	13	cop
+11	en	_	DET	DET	_	12	det
+12	passiv	_	ADJ	ADJ	_	13	amod
+13	sådan	_	ADJ	ADJ	_	6	ccomp
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	en	_	PRON	PRON	_	13	appos
+16	som	_	PRON	PRON	_	17	nsubj
+17	lämnat	_	VERB	VERB	_	15	acl:relcl
+18	de	_	DET	DET	_	19	det
+19	troende	_	ADJ	ADJ	_	17	dobj
+20	i	_	ADP	ADP	_	21	case
+21	sticket	_	NOUN	NOUN	_	17	nmod
+22	-	_	PUNCT	PUNCT	_	13	punct
+23	http://t.co/vb4ggbZ0C7	_	ADJ	ADJ	_	24	amod
+24	#swerel	_	NOUN	NOUN	_	25	nmod:poss
+25	#sweskep	_	NOUN	NOUN	_	19	nmod
+

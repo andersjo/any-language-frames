@@ -1,0 +1,23 @@
+1	¿Jugamos	_	PROPN	PROPN	_	8	nsubj
+2	a	_	ADP	ADP	_	3	case
+3	Dios	_	PROPN	PROPN	_	1	nmod
+4	con	_	ADP	ADP	_	5	case
+5	Tierra	_	PROPN	PROPN	_	3	nmod
+6	?	_	PUNCT	PUNCT	_	7	punct
+7	científico	_	NOUN	NOUN	_	8	nsubj
+8	confiesa	_	VERB	VERB	_	0	root
+9	que	_	SCONJ	SCONJ	_	12	mark
+10	'	_	PUNCT	PUNCT	_	12	punct
+11	se	_	PRON	PRON	_	12	iobj
+12	aterroriza	_	VERB	VERB	_	8	ccomp
+13	'	_	PUNCT	PUNCT	_	7	punct
+14	de	_	ADP	ADP	_	16	case
+15	la	_	DET	DET	_	16	det
+16	tecnología	_	NOUN	NOUN	_	12	nmod
+17	desarrollada	_	VERB	VERB	_	16	acl
+18	para	_	ADP	ADP	_	19	mark
+19	parar	_	VERB	VERB	_	17	advcl
+20	el	_	DET	DET	_	22	det
+21	...	_	PUNCT	PUNCT	_	22	punct
+22	http://t.co/3UxooB74QD	_	PROPN	PROPN	_	19	dobj
+

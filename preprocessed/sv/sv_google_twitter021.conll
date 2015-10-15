@@ -1,0 +1,10 @@
+1	Holla	_	NOUN	NOUN	_	2	nmod:poss
+2	holla	_	NOUN	NOUN	_	3	nmod
+3	we	_	VERB	VERB	_	0	root
+4	dem	_	PRON	PRON	_	8	nmod
+5	dallascowboys	_	NOUN	NOUN	_	3	dobj
+6	!	_	PUNCT	PUNCT	_	5	punct
+7	http://t.co/vIgwpTqxSF	_	NOUN	NOUN	_	8	nsubj
+8	#dreamsmotorsports	_	VERB	VERB	_	3	parataxis
+9	#igersjax	_	NOUN	NOUN	_	8	dobj
+

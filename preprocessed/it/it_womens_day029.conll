@@ -1,0 +1,11 @@
+1	La	_	DET	DET	_	2	det
+2	confusione	_	NOUN	NOUN	_	0	root
+3	sulle	_	ADP	ADP	_	4	case
+4	origini	_	NOUN	NOUN	_	2	nmod
+5	della	_	ADP	ADP	_	6	case
+6	ricorrenza	_	NOUN	NOUN	_	4	nmod
+7	e	_	CONJ	CONJ	_	6	cc
+8	l'ufficializzazione	_	NOUN	NOUN	_	6	conj
+9	dell'ONU	_	NOUN	NOUN	_	8	compound
+10	.	_	PUNCT	PUNCT	_	2	punct
+

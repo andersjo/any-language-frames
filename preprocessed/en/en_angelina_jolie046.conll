@@ -1,0 +1,25 @@
+1	In	_	ADP	ADP	_	2	compound
+2	response	_	NOUN	NOUN	_	5	nmod
+3	,	_	PUNCT	PUNCT	_	5	punct
+4	Jolie	_	PROPN	PROPN	_	5	nsubj
+5	released	_	VERB	VERB	_	0	root
+6	a	_	DET	DET	_	7	det
+7	statement	_	NOUN	NOUN	_	5	dobj
+8	in	_	ADP	ADP	_	5	compound:prt
+9	which	_	DET	DET	_	11	dobj
+10	she	_	PRON	PRON	_	11	nsubj
+11	indicated	_	VERB	VERB	_	7	acl:relcl
+12	that	_	SCONJ	SCONJ	_	16	mark
+13	she	_	PRON	PRON	_	16	nsubj
+14	no	_	ADV	ADV	_	15	neg
+15	longer	_	ADV	ADV	_	16	advmod
+16	wished	_	VERB	VERB	_	11	ccomp
+17	to	_	PART	PART	_	18	mark
+18	pursue	_	VERB	VERB	_	16	xcomp
+19	a	_	DET	DET	_	20	det
+20	relationship	_	NOUN	NOUN	_	18	dobj
+21	with	_	ADP	ADP	_	18	compound:prt
+22	her	_	PRON	PRON	_	23	nmod:poss
+23	father	_	NOUN	NOUN	_	18	dobj
+24	.	_	PUNCT	PUNCT	_	5	punct
+

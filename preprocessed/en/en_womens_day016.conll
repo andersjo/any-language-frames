@@ -1,0 +1,9 @@
+1	They	_	PRON	PRON	_	3	nsubj
+2	also	_	ADV	ADV	_	3	advmod
+3	protested	_	VERB	VERB	_	0	root
+4	against	_	ADP	ADP	_	3	compound:prt
+5	employment	_	NOUN	NOUN	_	7	compound
+6	sex	_	NOUN	NOUN	_	7	compound
+7	discrimination	_	NOUN	NOUN	_	3	dobj
+8	.	_	PUNCT	PUNCT	_	3	punct
+

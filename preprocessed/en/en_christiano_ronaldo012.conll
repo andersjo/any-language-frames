@@ -1,0 +1,24 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	2003	_	NUM	NUM	_	4	nmod
+3	he	_	PRON	PRON	_	4	nsubj
+4	caught	_	VERB	VERB	_	1	advcl
+5	the	_	DET	DET	_	6	det
+6	attention	_	NOUN	NOUN	_	4	dobj
+7	of	_	ADP	ADP	_	4	compound:prt
+8	Manchester	_	PROPN	PROPN	_	9	compound
+9	United	_	PROPN	PROPN	_	10	compound
+10	manager	_	NOUN	NOUN	_	12	compound
+11	Alex	_	PROPN	PROPN	_	12	compound
+12	Ferguson	_	PROPN	PROPN	_	4	dobj
+13	,	_	PUNCT	PUNCT	_	12	punct
+14	who	_	PRON	PRON	_	15	nsubj
+15	signed	_	VERB	VERB	_	6	acl:relcl
+16	him	_	PRON	PRON	_	15	dobj
+17	for	_	ADP	ADP	_	15	compound:prt
+18	£12.2	_	NOUN	NOUN	_	15	dobj
+19	million	_	NUM	NUM	_	20	nummod
+20	(€15	_	PROPN	PROPN	_	15	nmod:tmod
+21	million	_	NUM	NUM	_	20	nmod:tmod
+22	)	_	PUNCT	PUNCT	_	15	punct
+23	.	_	PUNCT	PUNCT	_	4	punct
+

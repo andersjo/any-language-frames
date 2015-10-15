@@ -1,0 +1,22 @@
+1	Tagged	_	PROPN	PROPN	_	17	nsubj
+2	by	_	PROPN	PROPN	_	1	name
+3	@Halers_Unicorns	_	PROPN	PROPN	_	1	name
+4	A	_	PROPN	PROPN	_	1	name
+5	Ashley	_	PROPN	PROPN	_	1	name
+6	Benson	_	PROPN	PROPN	_	1	name
+7	M	_	PROPN	PROPN	_	6	name
+8	Megan	_	PROPN	PROPN	_	7	name
+9	Park	_	PROPN	PROPN	_	8	name
+10	A	_	PROPN	PROPN	_	9	name
+11	Angelina	_	PROPN	PROPN	_	10	name
+12	Jolie	_	PROPN	PROPN	_	10	name
+13	L	_	PROPN	PROPN	_	12	name
+14	Lucy	_	PROPN	PROPN	_	13	name
+15	Hale	_	PROPN	PROPN	_	14	name
+16	I	_	PROPN	PROPN	_	15	name
+17	Indila	_	VERB	VERB	_	0	root
+18	A	_	ADP	ADP	_	19	case
+19	Ariana	_	PROPN	PROPN	_	17	nmod
+20	Grande	_	PROPN	PROPN	_	19	name
+21	http://t.co/fcf5HehuCu	_	PROPN	PROPN	_	19	name
+

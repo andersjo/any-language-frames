@@ -1,0 +1,14 @@
+1	Foto	_	NOUN	NOUN	_	0	root
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	stereoculturesociety	_	NOUN	NOUN	_	1	conj
+4	:	_	PUNCT	PUNCT	_	1	punct
+5	CultureYOUTH	_	PROPN	PROPN	_	3	nmod
+6	:	_	PUNCT	PUNCT	_	5	punct
+7	Brad	_	PROPN	PROPN	_	5	name
+8	Pitt	_	PROPN	PROPN	_	7	name
+9	&	_	SYM	SYM	_	5	punct
+10	Angelina	_	PROPN	PROPN	_	7	name
+11	Jolie	_	PROPN	PROPN	_	10	name
+12	#tbt	_	PROPN	PROPN	_	10	name
+13	http://t.co/0Cjat7CvKv	_	PROPN	PROPN	_	10	name
+

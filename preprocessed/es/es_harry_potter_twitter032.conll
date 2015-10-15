@@ -1,0 +1,17 @@
+1	"	_	PUNCT	PUNCT	_	2	punct
+2	@LectorEnLlamas	_	PROPN	PROPN	_	9	nsubj
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	"	_	PUNCT	PUNCT	_	6	punct
+5	Quizás	_	ADV	ADV	_	9	advmod
+6	Harry	_	PROPN	PROPN	_	7	name
+7	Potter	_	PROPN	PROPN	_	9	nsubj
+8	es	_	VERB	VERB	_	9	cop
+9	real	_	ADJ	ADJ	_	0	root
+10	y	_	CONJ	CONJ	_	9	cc
+11	tu	_	ADJ	ADJ	_	9	conj
+12	no	_	ADV	ADV	_	15	neg
+13	.	_	PUNCT	PUNCT	_	9	punct
+14	"	_	PUNCT	PUNCT	_	15	punct
+15	http://t.co/qzAPD3OYdw	_	PROPN	PROPN	_	2	parataxis
+16	"	_	PUNCT	PUNCT	_	15	punct
+

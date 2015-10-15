@@ -1,0 +1,19 @@
+1	«	_	PUNCT	PUNCT	_	2	punct
+2	Combatto	_	NOUN	NOUN	_	0	root
+3	l'ebola	_	ADJ	ADJ	_	2	amod
+4	ma	_	CONJ	CONJ	_	2	cc
+5	voglio	_	AUX	AUX	_	6	aux
+6	rivoluzionare	_	VERB	VERB	_	2	conj
+7	la	_	DET	DET	_	8	det
+8	veterinaria	_	NOUN	NOUN	_	6	dobj
+9	»	_	PUNCT	PUNCT	_	2	punct
+10	:	_	PUNCT	PUNCT	_	2	punct
+11	storia	_	NOUN	NOUN	_	8	appos
+12	di	_	ADP	ADP	_	13	case
+13	Luca	_	PROPN	PROPN	_	11	nmod
+14	,	_	PUNCT	PUNCT	_	11	punct
+15	biologo	_	NOUN	NOUN	_	13	appos
+16	irpino	_	VERB	VERB	_	15	acl
+17	http://t.co/h0gOSe9PRK	_	NOUN	NOUN	_	16	dobj
+18	#businessplan	_	PROPN	PROPN	_	17	nmod
+

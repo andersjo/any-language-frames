@@ -1,0 +1,13 @@
+1	Jolie	_	PROPN	PROPN	_	2	nsubj
+2	suffered	_	VERB	VERB	_	0	root
+3	episodes	_	NOUN	NOUN	_	2	dobj
+4	of	_	ADP	ADP	_	2	compound:prt
+5	depression	_	NOUN	NOUN	_	2	dobj
+6	throughout	_	ADP	ADP	_	2	compound:prt
+7	her	_	PRON	PRON	_	8	nmod:poss
+8	teens	_	NOUN	NOUN	_	2	nmod
+9	and	_	CONJ	CONJ	_	2	cc
+10	early	_	ADJ	ADJ	_	0	conj
+11	twenties	_	NOUN	NOUN	_	8	conj
+12	.	_	PUNCT	PUNCT	_	2	punct
+

@@ -1,0 +1,16 @@
+1	Angelina	_	PROPN	PROPN	_	2	compound
+2	Jolie	_	PROPN	PROPN	_	3	nsubj
+3	has	_	VERB	VERB	_	0	root
+4	them	_	PRON	PRON	_	3	dobj
+5	eyes	_	NOUN	NOUN	_	3	dobj
+6	that	_	SCONJ	SCONJ	_	8	mark
+7	you	_	PRON	PRON	_	8	nsubj
+8	want	_	VERB	VERB	_	3	ccomp
+9	looking	_	VERB	VERB	_	8	xcomp
+10	up	_	ADV	ADV	_	9	advmod
+11	at	_	ADP	ADP	_	9	compound:prt
+12	your	_	PRON	PRON	_	14	nmod:poss
+13	during	_	ADP	ADP	_	9	compound:prt
+14	head	_	NOUN	NOUN	_	9	nmod
+15	.	_	PUNCT	PUNCT	_	3	punct
+

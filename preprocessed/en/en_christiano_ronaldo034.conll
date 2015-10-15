@@ -1,0 +1,25 @@
+1	The	_	DET	DET	_	2	det
+2	family	_	NOUN	NOUN	_	9	nsubj
+3	was	_	VERB	VERB	_	0	root
+4	staunchly	_	ADJ	ADJ	_	0	ccomp
+5	Catholic	_	ADJ	ADJ	_	0	punct
+6	and	_	CONJ	CONJ	_	9	cc
+7	Ronaldo	_	PROPN	PROPN	_	9	nsubj
+8	later	_	ADV	ADV	_	9	advmod
+9	claimed	_	VERB	VERB	_	3	ccomp
+10	that	_	SCONJ	SCONJ	_	12	mark
+11	he	_	PRON	PRON	_	12	nsubj
+12	lived	_	VERB	VERB	_	9	ccomp
+13	in	_	ADP	ADP	_	12	compound:prt
+14	poverty	_	NOUN	NOUN	_	12	dobj
+15	,	_	PUNCT	PUNCT	_	9	punct
+16	sharing	_	VERB	VERB	_	12	advcl
+17	a	_	DET	DET	_	18	det
+18	room	_	NOUN	NOUN	_	16	dobj
+19	with	_	ADP	ADP	_	16	compound:prt
+20	his	_	PRON	PRON	_	21	nmod:poss
+21	brother	_	NOUN	NOUN	_	16	dobj
+22	and	_	CONJ	CONJ	_	21	cc
+23	sisters	_	NOUN	NOUN	_	21	conj
+24	.	_	PUNCT	PUNCT	_	9	punct
+

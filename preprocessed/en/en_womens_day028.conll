@@ -1,0 +1,9 @@
+1	Revolutionary	_	ADJ	ADJ	_	0	cc
+2	actions	_	NOUN	NOUN	_	4	nsubj
+3	were	_	VERB	VERB	_	4	cop
+4	foreseen	_	NOUN	NOUN	_	0	root
+5	but	_	CONJ	CONJ	_	4	cc
+6	without	_	ADP	ADP	_	7	compound
+7	date	_	NOUN	NOUN	_	4	conj
+8	.	_	PUNCT	PUNCT	_	4	punct
+

@@ -1,0 +1,16 @@
+1	Μετακόμιση	_	NOUN	NOUN	_	0	root
+2	τώρα	_	ADV	ADV	_	1	advmod
+3	:	_	PUNCT	PUNCT	_	1	punct
+4	Από	_	ADP	ADP	_	6	case
+5	ότι	_	CONJ	CONJ	_	6	mark
+6	φαίνεται	_	VERB	VERB	_	1	cop
+7	ο	_	ADJ	ADJ	_	8	det
+8	γάμος	_	NOUN	NOUN	_	6	nsubj
+9	αυτός	_	PRON	PRON	_	8	det
+10	δε	_	PART	PART	_	11	aux
+11	σώζεται	_	VERB	VERB	_	8	acl
+12	τελικά	_	ADV	ADV	_	11	advmod
+13	-	_	PUNCT	PUNCT	_	15	punct
+14	http://t.co/jMHoqjdJ4a	_	NOUN	NOUN	_	11	dobj
+15	#starbuzz	_	NOUN	NOUN	_	14	nmod
+

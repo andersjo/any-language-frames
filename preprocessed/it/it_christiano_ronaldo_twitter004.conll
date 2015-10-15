@@ -1,0 +1,11 @@
+1	@Annhaitta	_	VERB	VERB	_	0	root
+2	@Dion_Marianna	_	NOUN	NOUN	_	1	dobj
+3	nonononononononomo	_	VERB	VERB	_	2	acl
+4	no	_	ADV	ADV	_	3	advmod
+5	.	_	PUNCT	PUNCT	_	1	punct
+6	Ahem	_	PROPN	PROPN	_	3	dobj
+7	:	_	PUNCT	PUNCT	_	6	punct
+8	Christiano	_	PROPN	PROPN	_	6	nmod
+9	Ronaldo	_	PROPN	PROPN	_	8	name
+10	.	_	PUNCT	PUNCT	_	6	punct
+

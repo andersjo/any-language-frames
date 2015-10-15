@@ -1,0 +1,12 @@
+1	🔤	_	PROPN	PROPN	_	6	nsubj
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Google	_	PROPN	PROPN	_	1	nmod
+4	уступила	_	NOUN	NOUN	_	6	nsubj
+5	Yahoo	_	PROPN	PROPN	_	4	nmod
+6	лидерство	_	VERB	VERB	_	0	root
+7	в	_	ADP	ADP	_	9	case
+8	американском	_	ADJ	ADJ	_	9	amod
+9	Интернете	_	NOUN	NOUN	_	6	iobj
+10	/	_	PUNCT	PUNCT	_	11	punct
+11	#НАУКА	_	PROPN	PROPN	_	9	nmod
+

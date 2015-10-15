@@ -1,0 +1,15 @@
+1	Angelina	_	NOUN	NOUN	_	6	nsubj
+2	Jolie	_	NOUN	NOUN	_	1	nmod
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Λατρεύω	_	NOUN	NOUN	_	2	conj
+5	να	_	PART	PART	_	6	aux
+6	αποκαλώ	_	VERB	VERB	_	0	root
+7	τον	_	ADJ	ADJ	_	8	det
+8	Brad	_	NOUN	NOUN	_	6	dobj
+9	Pitt	_	NOUN	NOUN	_	8	nmod
+10	άντρα	_	NOUN	NOUN	_	9	nmod
+11	μου	_	PRON	PRON	_	10	nmod
+12	-	_	PUNCT	PUNCT	_	13	punct
+13	http://t.co/9OZ46gvRJp	_	NOUN	NOUN	_	10	appos
+14	http://t.co/vFilJyiRhS	_	NOUN	NOUN	_	13	nmod
+

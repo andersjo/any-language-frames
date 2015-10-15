@@ -1,0 +1,27 @@
+1	Quando	_	SCONJ	SCONJ	_	7	mark
+2	il	_	DET	DET	_	3	det
+3	global-cooling	_	NOUN	NOUN	_	7	nsubj
+4	degli	_	ADP	ADP	_	5	case
+5	anni	_	NOUN	NOUN	_	3	nmod
+6	80	_	NUM	NUM	_	5	nummod
+7	Divenne	_	VERB	VERB	_	0	root
+8	il	_	DET	DET	_	9	det
+9	global-warming	_	NOUN	NOUN	_	7	dobj
+10	del	_	ADP	ADP	_	11	case
+11	2000	_	NUM	NUM	_	9	nummod
+12	Che	_	DET	DET	_	13	det
+13	ora	_	NOUN	NOUN	_	17	nsubj
+14	è	_	VERB	VERB	_	17	cop
+15	il	_	DET	DET	_	16	det
+16	"	_	PUNCT	PUNCT	_	17	punct
+17	climate-changing	_	ADJ	ADJ	_	22	amod
+18	"	_	PUNCT	PUNCT	_	17	punct
+19	.	_	PUNCT	PUNCT	_	7	punct
+20	Nel	_	ADP	ADP	_	22	case
+21	mezzo	_	ADJ	ADJ	_	22	amod
+22	miliardi	_	NOUN	NOUN	_	9	nmod
+23	'	_	PUNCT	PUNCT	_	24	punct
+24	mangiati	_	VERB	VERB	_	22	acl
+25	'	_	PUNCT	PUNCT	_	24	punct
+26	.	_	PUNCT	PUNCT	_	7	punct
+

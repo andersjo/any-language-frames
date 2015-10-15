@@ -1,0 +1,27 @@
+1	Harry	_	PROPN	PROPN	_	2	name
+2	Potter	_	PROPN	PROPN	_	5	nsubj
+3	est	_	VERB	VERB	_	5	cop
+4	une	_	DET	DET	_	5	det
+5	suite	_	NOUN	NOUN	_	0	root
+6	romanesque	_	ADJ	ADJ	_	5	amod
+7	de	_	ADP	ADP	_	8	case
+8	fantasy	_	X	X	_	5	nmod
+9	comprenant	_	VERB	VERB	_	5	acl
+10	sept	_	NUM	NUM	_	11	nummod
+11	romans	_	NOUN	NOUN	_	9	dobj
+12	,	_	PUNCT	PUNCT	_	9	punct
+13	écrite	_	VERB	VERB	_	11	acl
+14	par	_	ADP	ADP	_	13	case
+15	J	_	X	X	_	14	case
+16	.	_	PUNCT	PUNCT	_	15	punct
+17	K	_	X	X	_	14	case
+18	.	_	PUNCT	PUNCT	_	17	punct
+19	Rowling	_	PROPN	PROPN	_	17	appos
+20	et	_	CONJ	CONJ	_	13	cc
+21	parues	_	VERB	VERB	_	13	conj
+22	entre	_	ADP	ADP	_	23	case
+23	1997	_	NUM	NUM	_	21	nmod
+24	et	_	CONJ	CONJ	_	23	cc
+25	2007	_	NUM	NUM	_	23	conj
+26	.	_	PUNCT	PUNCT	_	3	punct
+

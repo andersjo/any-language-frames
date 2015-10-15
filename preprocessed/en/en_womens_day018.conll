@@ -1,0 +1,27 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	1913	_	NUM	NUM	_	4	nummod
+3	Russian	_	ADJ	ADJ	_	0	compound
+4	women	_	NOUN	NOUN	_	5	nsubj
+5	observed	_	VERB	VERB	_	22	advcl
+6	their	_	PRON	PRON	_	20	nmod:poss
+7	first	_	ADJ	ADJ	_	0	cc
+8	International	_	PROPN	PROPN	_	10	compound
+9	Women's	_	PROPN	PROPN	_	10	compound
+10	Day	_	PROPN	PROPN	_	5	dobj
+11	on	_	ADP	ADP	_	5	compound:prt
+12	the	_	DET	DET	_	14	det
+13	last	_	ADJ	ADJ	_	0	foreign
+14	Sunday	_	PROPN	PROPN	_	16	compound
+15	in	_	ADP	ADP	_	0	compound:prt
+16	February	_	PROPN	PROPN	_	20	compound
+17	(	_	PUNCT	PUNCT	_	5	punct
+18	by	_	ADP	ADP	_	0	compound:prt
+19	Julian	_	ADJ	ADJ	_	0	foreign
+20	calendar	_	NOUN	NOUN	_	18	dobj
+21	then	_	ADV	ADV	_	22	advmod
+22	used	_	VERB	VERB	_	20	acl
+23	in	_	ADP	ADP	_	22	compound:prt
+24	Russia	_	PROPN	PROPN	_	22	dobj
+25	)	_	PUNCT	PUNCT	_	5	punct
+26	.	_	PUNCT	PUNCT	_	5	punct
+

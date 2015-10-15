@@ -1,0 +1,27 @@
+1	Den	_	DET	DET	_	3	det
+2	sidste	_	ADJ	ADJ	_	3	amod
+3	Harry	_	NOUN	NOUN	_	4	nmod:poss
+4	Potter-filmatisering	_	NOUN	NOUN	_	5	nsubj
+5	havde	_	VERB	VERB	_	0	root
+6	premiere	_	NOUN	NOUN	_	5	dobj
+7	i	_	ADP	ADP	_	8	case
+8	biograferne	_	NOUN	NOUN	_	5	nmod
+9	den	_	DET	DET	_	12	det
+10	13	_	NUM	NUM	_	12	nummod
+11	.	_	PUNCT	PUNCT	_	5	punct
+12	juli	_	NOUN	NOUN	_	5	dep
+13	2011	_	NUM	NUM	_	12	nmod
+14	(	_	PUNCT	PUNCT	_	15	punct
+15	Danmark	_	PROPN	PROPN	_	12	list
+16	)	_	PUNCT	PUNCT	_	15	punct
+17	og	_	CONJ	CONJ	_	21	dep
+18	den	_	DET	DET	_	21	det
+19	15	_	NUM	NUM	_	21	nummod
+20	.	_	PUNCT	PUNCT	_	5	punct
+21	juli	_	NOUN	NOUN	_	12	list
+22	2011	_	NUM	NUM	_	21	nmod
+23	(	_	PUNCT	PUNCT	_	24	punct
+24	Storbritannien	_	PROPN	PROPN	_	21	list
+25	)	_	PUNCT	PUNCT	_	24	punct
+26	.	_	PUNCT	PUNCT	_	5	punct
+

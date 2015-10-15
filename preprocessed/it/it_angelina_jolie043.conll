@@ -1,0 +1,27 @@
+1	Nell'estate	_	VERB	VERB	_	0	root
+2	del	_	ADP	ADP	_	3	case
+3	2000	_	NUM	NUM	_	1	nummod
+4	prende	_	VERB	VERB	_	1	conj
+5	parte	_	NOUN	NOUN	_	4	dobj
+6	al	_	ADP	ADP	_	9	case
+7	suo	_	DET	DET	_	9	det:poss
+8	primo	_	ADJ	ADJ	_	9	amod
+9	blockbuster	_	NOUN	NOUN	_	5	nmod
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	"	_	PUNCT	PUNCT	_	12	punct
+12	Fuori	_	PROPN	PROPN	_	9	nmod
+13	in	_	ADP	ADP	_	15	case
+14	60	_	NUM	NUM	_	15	nummod
+15	secondi	_	NOUN	NOUN	_	1	nmod
+16	"	_	PUNCT	PUNCT	_	12	punct
+17	di	_	ADP	ADP	_	18	case
+18	Dominic	_	PROPN	PROPN	_	15	nmod
+19	Sena	_	PROPN	PROPN	_	18	name
+20	,	_	PUNCT	PUNCT	_	12	punct
+21	al	_	ADP	ADP	_	22	case
+22	fianco	_	NOUN	NOUN	_	18	nmod
+23	di	_	ADP	ADP	_	24	case
+24	Nicolas	_	PROPN	PROPN	_	22	nmod
+25	Cage	_	PROPN	PROPN	_	24	name
+26	.	_	PUNCT	PUNCT	_	1	punct
+

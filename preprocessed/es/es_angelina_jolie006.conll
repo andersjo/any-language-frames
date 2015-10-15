@@ -1,0 +1,13 @@
+1	En	_	ADP	ADP	_	2	case
+2	1997	_	NUM	NUM	_	3	nmod
+3	actuó	_	VERB	VERB	_	0	root
+4	en	_	ADP	ADP	_	7	case
+5	la	_	DET	DET	_	7	det
+6	polémica	_	ADJ	ADJ	_	7	amod
+7	película	_	NOUN	NOUN	_	3	nmod
+8	"	_	PUNCT	PUNCT	_	10	punct
+9	George	_	PROPN	PROPN	_	10	name
+10	Wallace	_	PROPN	PROPN	_	7	appos
+11	"	_	PUNCT	PUNCT	_	10	punct
+12	.	_	PUNCT	PUNCT	_	3	punct
+

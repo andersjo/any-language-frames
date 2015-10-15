@@ -1,0 +1,13 @@
+1	2012	_	NUM	NUM	_	3	nummod
+2	förlovade	_	ADJ	ADJ	_	3	amod
+3	paret	_	NOUN	NOUN	_	0	root
+4	sig	_	PRON	PRON	_	3	nmod
+5	och	_	CONJ	CONJ	_	4	cc
+6	2014	_	NUM	NUM	_	7	nummod
+7	gifte	_	NOUN	NOUN	_	4	conj
+8	de	_	PRON	PRON	_	4	conj
+9	sig	_	PRON	PRON	_	4	conj
+10	i	_	ADP	ADP	_	11	case
+11	Frankrike	_	PROPN	PROPN	_	7	nmod
+12	.	_	PUNCT	PUNCT	_	3	punct
+

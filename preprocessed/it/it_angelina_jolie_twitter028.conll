@@ -1,0 +1,18 @@
+1	E	_	CONJ	CONJ	_	6	cc
+2	questo	_	PRON	PRON	_	9	nsubj
+3	dove	_	ADV	ADV	_	6	advmod
+4	lo	_	PRON	PRON	_	6	dobj
+5	hai	_	AUX	AUX	_	6	aux
+6	imparato	_	VERB	VERB	_	2	acl:relcl
+7	?	_	PUNCT	PUNCT	_	8	punct
+8	....	_	PROPN	PROPN	_	14	nsubj
+9	Angelina	_	PROPN	PROPN	_	8	name
+10	jolie	_	ADJ	ADJ	_	8	amod
+11	😂	_	PROPN	PROPN	_	14	nsubj
+12	❤	_	PROPN	PROPN	_	11	name
+13	️	_	PROPN	PROPN	_	11	name
+14	#LeoBraccialetti	_	VERB	VERB	_	0	root
+15	#crisbraccialetti	_	ADJ	ADJ	_	14	xcomp
+16	@BraccialettiRos	_	PROPN	PROPN	_	14	dobj
+17	@_Carmine_b	_	PROPN	PROPN	_	16	name
+

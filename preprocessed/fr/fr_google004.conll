@@ -1,0 +1,7 @@
+1	Google	_	PROPN	PROPN	_	2	name
+2	s'est	_	PROPN	PROPN	_	3	nsubj
+3	donné	_	VERB	VERB	_	0	root
+4	comme	_	ADP	ADP	_	5	case
+5	mission	_	NOUN	NOUN	_	3	nmod
+6	.	_	PUNCT	PUNCT	_	3	punct
+

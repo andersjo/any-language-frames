@@ -1,0 +1,20 @@
+1	To	_	NOUN	NOUN	_	0	root
+2	"	_	PUNCT	PUNCT	_	1	punct
+3	Unbroken	_	NOUN	NOUN	_	1	nmod
+4	"	_	PUNCT	PUNCT	_	3	punct
+5	της	_	ADJ	ADJ	_	6	det
+6	Angelina	_	NOUN	NOUN	_	1	conj
+7	Jolie	_	NOUN	NOUN	_	6	nmod
+8	ίσως	_	ADV	ADV	_	9	advmod
+9	ήταν	_	VERB	VERB	_	10	cop
+10	μια	_	ADJ	ADJ	_	12	det
+11	θαυμάσια	_	ADJ	ADJ	_	12	amod
+12	αυτοβιογραφία	_	NOUN	NOUN	_	7	nsubj
+13	,	_	PUNCT	PUNCT	_	16	punct
+14	δίχως	_	ADP	ADP	_	16	case
+15	τις	_	ADJ	ADJ	_	16	det
+16	εξευγενιστικές	_	NOUN	NOUN	_	12	nmod
+17	της	_	ADJ	ADJ	_	18	det
+18	παρεμβάσεις	_	NOUN	NOUN	_	16	nmod
+19	http://t.co/6GByUBT8vf	_	NOUN	NOUN	_	18	nmod
+

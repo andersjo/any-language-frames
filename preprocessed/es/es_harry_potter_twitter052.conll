@@ -1,0 +1,25 @@
+1	Ver	_	VERB	VERB	_	0	root
+2	Harry	_	PROPN	PROPN	_	3	name
+3	Potter	_	PROPN	PROPN	_	1	nsubj
+4	y	_	CONJ	CONJ	_	3	cc
+5	la	_	DET	DET	_	6	det
+6	piedra	_	NOUN	NOUN	_	3	conj
+7	filosofal	_	ADJ	ADJ	_	6	amod
+8	y	_	CONJ	CONJ	_	1	cc
+9	que	_	SCONJ	SCONJ	_	12	mark
+10	se	_	PRON	PRON	_	12	iobj
+11	te	_	PRON	PRON	_	12	iobj
+12	venga	_	VERB	VERB	_	1	conj
+13	a	_	ADP	ADP	_	15	case
+14	la	_	DET	DET	_	15	det
+15	cabeza	_	NOUN	NOUN	_	12	nmod
+16	recuerdos	_	NOUN	NOUN	_	15	appos
+17	de	_	ADP	ADP	_	20	case
+18	cuando	_	SCONJ	SCONJ	_	20	mark
+19	era	_	AUX	AUX	_	20	auxpass
+20	crio	_	VERB	VERB	_	16	advcl
+21	...	_	PUNCT	PUNCT	_	1	punct
+22	Lo	_	PRON	PRON	_	20	dobj
+23	mejor	_	ADJ	ADJ	_	22	amod
+24	...	_	PUNCT	PUNCT	_	12	punct
+

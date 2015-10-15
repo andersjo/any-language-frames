@@ -1,0 +1,24 @@
+1	Los	_	DET	DET	_	2	det
+2	magos	_	NOUN	NOUN	_	3	nsubj
+3	tienen	_	VERB	VERB	_	0	root
+4	un	_	DET	DET	_	6	det
+5	desarrollado	_	ADJ	ADJ	_	6	amod
+6	sistema	_	NOUN	NOUN	_	3	dobj
+7	social	_	ADJ	ADJ	_	6	amod
+8	,	_	PUNCT	PUNCT	_	12	punct
+9	con	_	ADP	ADP	_	12	case
+10	su	_	DET	DET	_	12	nmod:poss
+11	propia	_	ADJ	ADJ	_	12	amod
+12	moneda	_	NOUN	NOUN	_	3	dobj
+13	,	_	PUNCT	PUNCT	_	12	punct
+14	sanidad	_	NOUN	NOUN	_	12	conj
+15	y	_	CONJ	CONJ	_	12	cc
+16	una	_	DET	DET	_	18	det
+17	compleja	_	ADJ	ADJ	_	18	amod
+18	red	_	NOUN	NOUN	_	12	conj
+19	de	_	ADP	ADP	_	20	case
+20	transportes	_	NOUN	NOUN	_	18	nmod
+21	y	_	CONJ	CONJ	_	20	cc
+22	comunicaciones	_	NOUN	NOUN	_	20	conj
+23	.	_	PUNCT	PUNCT	_	3	punct
+

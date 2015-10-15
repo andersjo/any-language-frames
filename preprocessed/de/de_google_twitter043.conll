@@ -1,0 +1,15 @@
+1	Google	_	PROPN	PROPN	_	2	name
+2	plus	_	PROPN	PROPN	_	6	nsubj
+3	ist	_	VERB	VERB	_	6	cop
+4	ist	_	AUX	AUX	_	3	aux
+5	nicht	_	PART	PART	_	6	neg
+6	G	_	PROPN	PROPN	_	0	root
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	sondern	_	CONJ	CONJ	_	6	cc
+9	Google	_	PROPN	PROPN	_	10	name
+10	minus	_	PROPN	PROPN	_	6	conj
+11	:	_	PUNCT	PUNCT	_	6	punct
+12	http://t.co/LuCj1A1YIa	_	PROPN	PROPN	_	14	name
+13	via	_	PROPN	PROPN	_	14	name
+14	@YouTube	_	PROPN	PROPN	_	6	conj
+

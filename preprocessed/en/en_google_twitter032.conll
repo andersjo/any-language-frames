@@ -1,0 +1,9 @@
+1	Lost	_	VERB	VERB	_	0	root
+2	Hikers	_	PROPN	PROPN	_	1	dobj
+3	and	_	CONJ	CONJ	_	2	cc
+4	Search	_	NOUN	NOUN	_	2	conj
+5	and	_	CONJ	CONJ	_	4	cc
+6	Rescue	_	NOUN	NOUN	_	4	conj
+7	http://t.co/BwTq1Cjv6t	_	X	X	_	8	compound
+8	#sar	_	PROPN	PROPN	_	2	conj
+

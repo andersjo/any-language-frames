@@ -1,0 +1,20 @@
+1	Nothing	_	NOUN	NOUN	_	3	compound
+2	like	_	ADP	ADP	_	1	compound
+3	spending	_	NOUN	NOUN	_	4	compound
+4	hours	_	NOUN	NOUN	_	5	nsubj
+5	curled	_	VERB	VERB	_	0	root
+6	up	_	ADV	ADV	_	5	advmod
+7	on	_	ADP	ADP	_	5	compound:prt
+8	the	_	DET	DET	_	9	det
+9	couch	_	NOUN	NOUN	_	10	nsubj
+10	reading	_	VERB	VERB	_	5	advcl
+11	Harry	_	PROPN	PROPN	_	12	compound
+12	Potter	_	PROPN	PROPN	_	10	dobj
+13	on	_	ADP	ADP	_	10	compound:prt
+14	a	_	DET	DET	_	18	det
+15	rainy	_	NOUN	NOUN	_	16	compound
+16	day	_	NOUN	NOUN	_	17	compound
+17	⚡️	_	NOUN	NOUN	_	18	compound
+18	…	_	NOUN	NOUN	_	19	punct
+19	http://t.co/ba10rMBUu9	_	X	X	_	12	list
+

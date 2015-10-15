@@ -1,0 +1,11 @@
+1	A	_	ADP	ADP	_	2	case
+2	novembre	_	NOUN	NOUN	_	5	nmod
+3	2007	_	NUM	NUM	_	4	nummod
+4	l'azione	_	NOUN	NOUN	_	5	nsubj
+5	oscilla	_	VERB	VERB	_	0	root
+6	intorno	_	ADV	ADV	_	5	advmod
+7	ai	_	ADP	ADP	_	6	mwe
+8	700	_	NUM	NUM	_	9	nummod
+9	dollari	_	NOUN	NOUN	_	5	nmod
+10	.	_	PUNCT	PUNCT	_	5	punct
+

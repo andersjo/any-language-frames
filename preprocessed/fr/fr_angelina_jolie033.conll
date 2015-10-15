@@ -1,0 +1,16 @@
+1	Son	_	DET	DET	_	2	nmod:poss
+2	estime	_	NOUN	NOUN	_	5	nsubj
+3	de	_	ADP	ADP	_	5	case
+4	soi	_	PRON	PRON	_	2	nmod
+5	diminue	_	VERB	VERB	_	0	root
+6	encore	_	ADV	ADV	_	5	advmod
+7	lorsque	_	SCONJ	SCONJ	_	14	mark
+8	ses	_	DET	DET	_	9	nmod:poss
+9	velléités	_	NOUN	NOUN	_	14	nsubj
+10	de	_	ADP	ADP	_	12	case
+11	devenir	_	VERB	VERB	_	12	cop
+12	mannequin	_	NOUN	NOUN	_	14	nsubj
+13	s'avèrent	_	VERB	VERB	_	14	cop
+14	infructueuses	_	ADJ	ADJ	_	5	ccomp
+15	.	_	PUNCT	PUNCT	_	5	punct
+

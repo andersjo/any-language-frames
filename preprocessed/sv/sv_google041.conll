@@ -1,0 +1,24 @@
+1	Google	_	NOUN	NOUN	_	2	nsubj
+2	har	_	VERB	VERB	_	0	root
+3	för	_	ADP	ADP	_	4	case
+4	vana	_	NOUN	NOUN	_	2	nmod
+5	att	_	PART	PART	_	6	mark
+6	specialanpassa	_	VERB	VERB	_	4	acl
+7	sin	_	DET	DET	_	8	nmod:poss
+8	logotyp	_	NOUN	NOUN	_	6	dobj
+9	vid	_	ADP	ADP	_	11	case
+10	olika	_	ADJ	ADJ	_	11	amod
+11	evenemang	_	NOUN	NOUN	_	6	nmod
+12	eller	_	CONJ	CONJ	_	11	cc
+13	för	_	ADP	ADP	_	15	case
+14	att	_	PART	PART	_	15	mark
+15	hylla	_	VERB	VERB	_	2	advcl
+16	personligheter	_	NOUN	NOUN	_	15	dobj
+17	till	_	ADP	ADP	_	22	case
+18	en	_	DET	DET	_	22	det
+19	så	_	ADV	ADV	_	20	advmod
+20	kallad	_	ADJ	ADJ	_	18	mwe
+21	Google	_	PROPN	PROPN	_	22	nmod:poss
+22	Doodle	_	NOUN	NOUN	_	15	nmod
+23	.	_	PUNCT	PUNCT	_	2	punct
+

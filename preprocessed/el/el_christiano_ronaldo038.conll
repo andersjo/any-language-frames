@@ -1,0 +1,21 @@
+1	Μάλιστα	_	ADV	ADV	_	3	advmod
+2	,	_	PUNCT	PUNCT	_	3	punct
+3	πετυχαίνει	_	VERB	VERB	_	0	root
+4	το	_	ADJ	ADJ	_	5	det
+5	γκολ	_	NOUN	NOUN	_	3	dobj
+6	στην	_	ADP	ADP	_	8	case
+7	κανονική	_	ADJ	ADJ	_	8	amod
+8	διάρκεια	_	NOUN	NOUN	_	3	nmod
+9	,	_	PUNCT	PUNCT	_	3	punct
+10	έπειτα	_	ADV	ADV	_	15	advmod
+11	το	_	ADJ	ADJ	_	12	det
+12	γκολ	_	NOUN	NOUN	_	15	nsubj
+13	του	_	ADJ	ADJ	_	14	det
+14	Λάμπαρντ	_	NOUN	NOUN	_	12	nmod
+15	οδηγεί	_	VERB	VERB	_	3	advcl
+16	τον	_	ADJ	ADJ	_	17	det
+17	αγώνα	_	NOUN	NOUN	_	15	dobj
+18	σε	_	ADP	ADP	_	19	case
+19	ισοπαλία	_	NOUN	NOUN	_	15	nmod
+20	.	_	PUNCT	PUNCT	_	3	punct
+

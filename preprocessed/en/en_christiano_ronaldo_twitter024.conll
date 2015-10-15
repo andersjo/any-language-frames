@@ -1,0 +1,8 @@
+1	Christiano	_	PROPN	PROPN	_	2	compound
+2	Ronaldo's	_	PROPN	PROPN	_	4	compound
+3	soccer	_	NOUN	NOUN	_	4	compound
+4	skills	_	NOUN	NOUN	_	5	nsubj
+5	are	_	VERB	VERB	_	0	root
+6	amazing	_	ADJ	ADJ	_	0	ccomp
+7	.	_	PUNCT	PUNCT	_	5	punct
+

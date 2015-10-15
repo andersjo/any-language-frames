@@ -1,0 +1,10 @@
+1	@haynesmoon	_	NOUN	NOUN	_	0	root
+2	Invincible	_	ADJ	ADJ	_	1	amod
+3	de	_	ADP	ADP	_	5	case
+4	Angelina	_	PROPN	PROPN	_	5	name
+5	Jolie	_	PROPN	PROPN	_	1	nmod
+6	avec	_	ADP	ADP	_	9	case
+7	Jack	_	PROPN	PROPN	_	9	name
+8	O'Connell	_	PROPN	PROPN	_	9	name
+9	😍😍😍😍😍	_	PROPN	PROPN	_	1	nmod
+

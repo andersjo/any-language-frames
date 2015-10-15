@@ -1,0 +1,16 @@
+1	Namnet	_	NOUN	NOUN	_	2	det
+2	Google	_	PROPN	PROPN	_	3	nsubj
+3	kommer	_	VERB	VERB	_	8	advcl
+4	från	_	ADP	ADP	_	7	case
+5	den	_	DET	DET	_	7	det
+6	matematiska	_	ADJ	ADJ	_	7	amod
+7	termen	_	NOUN	NOUN	_	3	nmod
+8	”	_	VERB	VERB	_	0	root
+9	googol	_	NOUN	NOUN	_	10	nmod:poss
+10	”	_	NOUN	NOUN	_	8	dobj
+11	som	_	PRON	PRON	_	12	nsubj
+12	betecknar	_	VERB	VERB	_	10	acl:relcl
+13	talet	_	NOUN	NOUN	_	14	det
+14	10100	_	NUM	NUM	_	12	dobj
+15	.	_	PUNCT	PUNCT	_	8	punct
+

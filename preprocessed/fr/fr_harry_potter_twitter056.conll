@@ -1,0 +1,15 @@
+1	«	_	PUNCT	PUNCT	_	3	punct
+2	Les	_	DET	DET	_	3	det
+3	Maraudeurs	_	PROPN	PROPN	_	14	nsubj
+4	»	_	PUNCT	PUNCT	_	3	punct
+5	,	_	PUNCT	PUNCT	_	3	punct
+6	prequel	_	PROPN	PROPN	_	9	name
+7	d’Harry	_	PROPN	PROPN	_	9	name
+8	Potter	_	PROPN	PROPN	_	9	name
+9	–	_	PROPN	PROPN	_	3	appos
+10	Le	_	DET	DET	_	11	det
+11	casting	_	NOUN	NOUN	_	9	appos
+12	idéal	_	ADJ	ADJ	_	11	amod
+13	-	_	PUNCT	PUNCT	_	11	punct
+14	http://t.co/30q3a2ncux	_	VERB	VERB	_	0	root
+

@@ -1,0 +1,15 @@
+1	La	_	DET	DET	_	2	det
+2	Jolie	_	PROPN	PROPN	_	4	nsubj
+3	è	_	AUX	AUX	_	6	aux
+4	stata	_	VERB	VERB	_	6	cop
+5	più	_	ADV	ADV	_	6	advmod
+6	volte	_	NOUN	NOUN	_	7	nmod
+7	dichiarata	_	VERB	VERB	_	0	root
+8	la	_	DET	DET	_	9	det
+9	donna	_	NOUN	NOUN	_	7	dobj
+10	più	_	ADV	ADV	_	11	advmod
+11	affascinante	_	ADJ	ADJ	_	9	amod
+12	del	_	ADP	ADP	_	13	case
+13	mondo	_	NOUN	NOUN	_	11	nmod
+14	.	_	PUNCT	PUNCT	_	7	punct
+

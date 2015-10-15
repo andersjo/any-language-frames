@@ -1,0 +1,19 @@
+1	"	_	PUNCT	PUNCT	_	3	punct
+2	Don't	_	NOUN	NOUN	_	3	nsubj
+3	be	_	VERB	VERB	_	0	root
+4	evil	_	ADJ	ADJ	_	9	amod
+5	"	_	PUNCT	PUNCT	_	15	punct
+6	är	_	AUX	AUX	_	9	cop
+7	Googles	_	PROPN	PROPN	_	9	nmod:poss
+8	informella	_	ADJ	ADJ	_	9	amod
+9	slogan	_	NOUN	NOUN	_	3	dobj
+10	och	_	CONJ	CONJ	_	3	cc
+11	handlar	_	VERB	VERB	_	3	conj
+12	om	_	ADP	ADP	_	15	case
+13	hur	_	ADV	ADV	_	15	advmod
+14	de	_	PRON	PRON	_	15	nsubj
+15	tjänar	_	VERB	VERB	_	11	advcl
+16	sina	_	DET	DET	_	17	nmod:poss
+17	användare	_	NOUN	NOUN	_	15	dobj
+18	.	_	PUNCT	PUNCT	_	3	punct
+

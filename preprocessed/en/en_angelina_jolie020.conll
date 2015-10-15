@@ -1,0 +1,11 @@
+1	Her	_	PRON	PRON	_	2	nmod:poss
+2	godparents	_	NOUN	NOUN	_	6	nsubj
+3	are	_	VERB	VERB	_	6	cop
+4	actors	_	NOUN	NOUN	_	6	compound
+5	Jacqueline	_	PROPN	PROPN	_	6	compound
+6	Bisset	_	NOUN	NOUN	_	0	root
+7	and	_	CONJ	CONJ	_	4	cc
+8	Maximilian	_	ADJ	ADJ	_	0	conj
+9	Schell	_	PROPN	PROPN	_	6	conj
+10	.	_	PUNCT	PUNCT	_	4	punct
+

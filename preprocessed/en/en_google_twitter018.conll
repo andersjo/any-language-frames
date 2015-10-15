@@ -1,0 +1,17 @@
+1	Turbocharge	_	PROPN	PROPN	_	2	nsubj
+2	smartphone	_	VERB	VERB	_	0	root
+3	camera	_	NOUN	NOUN	_	2	dobj
+4	with	_	ADP	ADP	_	2	compound:prt
+5	MagicPix	_	PROPN	PROPN	_	6	compound
+6	Pro	_	PROPN	PROPN	_	8	compound
+7	Camera	_	NOUN	NOUN	_	8	compound
+8	HD	_	NOUN	NOUN	_	2	nmod
+9	.	_	PUNCT	PUNCT	_	2	punct
+10	Now	_	ADV	ADV	_	13	advmod
+11	Android	_	NOUN	NOUN	_	12	compound
+12	Smartwatch	_	NOUN	NOUN	_	13	compound
+13	control	_	NOUN	NOUN	_	8	appos
+14	!	_	PUNCT	PUNCT	_	8	punct
+15	https://t.co/4Wr5Q9dfHk	_	X	X	_	6	list
+16	http://t.co/Rz9isFt1XP	_	X	X	_	6	list
+

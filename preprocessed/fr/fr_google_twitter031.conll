@@ -1,0 +1,18 @@
+1	@SamiaTakkal	_	PROPN	PROPN	_	4	name
+2	@apcl1212	_	PROPN	PROPN	_	4	name
+3	amelia	_	PROPN	PROPN	_	4	name
+4	j'me	_	PROPN	PROPN	_	5	nsubj
+5	dmndais	_	VERB	VERB	_	0	root
+6	juste	_	ADV	ADV	_	5	advmod
+7	,	_	PUNCT	PUNCT	_	14	punct
+8	t'as	_	PROPN	PROPN	_	9	name
+9	taper	_	PROPN	PROPN	_	14	nsubj
+10	quoi	_	PRON	PRON	_	14	nmod
+11	sur	_	ADP	ADP	_	12	case
+12	google	_	NOUN	NOUN	_	5	nmod
+13	pr	_	ADJ	ADJ	_	12	amod
+14	trouver	_	VERB	VERB	_	12	acl
+15	cette	_	DET	DET	_	16	det
+16	image	_	NOUN	NOUN	_	14	dobj
+17	?	_	PUNCT	PUNCT	_	5	punct
+

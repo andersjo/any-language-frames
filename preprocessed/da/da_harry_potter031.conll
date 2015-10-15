@@ -1,0 +1,22 @@
+1	Bøgerne	_	NOUN	NOUN	_	2	nsubj
+2	rummer	_	VERB	VERB	_	0	root
+3	selv	_	PRON	PRON	_	2	nmod
+4	ingen	_	DET	DET	_	5	det
+5	henvisninger	_	NOUN	NOUN	_	2	dobj
+6	til	_	ADP	ADP	_	7	case
+7	religion	_	NOUN	NOUN	_	5	nmod
+8	eller	_	CONJ	CONJ	_	7	cc
+9	religiøse	_	ADJ	ADJ	_	10	amod
+10	symboler	_	NOUN	NOUN	_	7	conj
+11	,	_	PUNCT	PUNCT	_	2	punct
+12	og	_	CONJ	CONJ	_	2	cc
+13	kun	_	ADV	ADV	_	14	advmod
+14	begrænsede	_	VERB	VERB	_	2	conj
+15	henvisninger	_	NOUN	NOUN	_	14	dobj
+16	til	_	ADP	ADP	_	18	case
+17	et	_	DET	DET	_	18	det
+18	liv	_	NOUN	NOUN	_	14	nmod
+19	efter	_	ADP	ADP	_	20	case
+20	døden	_	NOUN	NOUN	_	18	nmod
+21	.	_	PUNCT	PUNCT	_	2	punct
+

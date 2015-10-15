@@ -1,0 +1,17 @@
+1	Φωτεινή	_	ADJ	ADJ	_	2	det
+2	Δάρρα	_	NOUN	NOUN	_	5	nsubj
+3	:	_	PUNCT	PUNCT	_	5	punct
+4	Τι	_	PRON	PRON	_	5	nsubj
+5	λέει	_	VERB	VERB	_	0	root
+6	για	_	ADP	ADP	_	8	case
+7	την	_	ADJ	ADJ	_	8	det
+8	συνεργασία	_	NOUN	NOUN	_	5	nmod
+9	της	_	PRON	PRON	_	8	nmod
+10	με	_	ADP	ADP	_	12	case
+11	τον	_	ADJ	ADJ	_	12	det
+12	Πάριο	_	NOUN	NOUN	_	8	nmod
+13	;	_	PUNCT	PUNCT	_	5	punct
+14	-	_	PUNCT	PUNCT	_	16	punct
+15	http://t.co/auLEYYXn8B	_	NOUN	NOUN	_	16	nmod
+16	#starbuzz	_	NOUN	NOUN	_	8	nmod
+

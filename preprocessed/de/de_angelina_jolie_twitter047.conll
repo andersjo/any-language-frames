@@ -1,0 +1,23 @@
+1	Set	_	PROPN	PROPN	_	2	name
+2	de	_	PROPN	PROPN	_	3	nsubj
+3	fotos	_	NOUN	NOUN	_	0	root
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	Angelina	_	PROPN	PROPN	_	6	name
+6	Jolie	_	PROPN	PROPN	_	3	appos
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	Foxfire	_	PROPN	PROPN	_	6	conj
+9	(	_	PUNCT	PUNCT	_	10	punct
+10	1996	_	NUM	NUM	_	8	appos
+11	)	_	PUNCT	PUNCT	_	10	punct
+12	-	_	PUNCT	PUNCT	_	13	punct
+13	Shiloh	_	PROPN	PROPN	_	14	name
+14	Jolie-Pitt	_	PROPN	PROPN	_	6	conj
+15	,	_	PUNCT	PUNCT	_	6	punct
+16	Unbroken	_	PROPN	PROPN	_	17	name
+17	premiere	_	PROPN	PROPN	_	6	conj
+18	.	_	PUNCT	PUNCT	_	6	punct
+19	(	_	PUNCT	PUNCT	_	20	punct
+20	2014	_	NUM	NUM	_	17	appos
+21	)	_	PUNCT	PUNCT	_	20	punct
+22	http://t.co/6kU3wuExMP	_	PROPN	PROPN	_	5	conj
+

@@ -1,0 +1,12 @@
+1	Début	_	NOUN	NOUN	_	5	nmod
+2	2008	_	NUM	NUM	_	1	nmod
+3	,	_	PUNCT	PUNCT	_	5	punct
+4	elle	_	PRON	PRON	_	5	nsubj
+5	valait	_	VERB	VERB	_	0	root
+6	de	_	ADP	ADP	_	7	case
+7	dollars	_	NOUN	NOUN	_	5	nmod
+8	à	_	ADP	ADP	_	10	case
+9	Wall	_	PROPN	PROPN	_	10	name
+10	Street	_	PROPN	PROPN	_	5	nmod
+11	.	_	PUNCT	PUNCT	_	5	punct
+

@@ -1,0 +1,11 @@
+1	http://t.co/dPLQMHr4T7	_	NOUN	NOUN	_	0	root
+2	-	_	PUNCT	PUNCT	_	1	punct
+3	Rig	_	PROPN	PROPN	_	1	appos
+4	Slutz	_	PROPN	PROPN	_	3	name
+5	-	_	PUNCT	PUNCT	_	3	punct
+6	Dubs	_	NOUN	NOUN	_	7	nmod:poss
+7	Ep	_	NOUN	NOUN	_	3	conj
+8	-	_	PUNCT	PUNCT	_	6	punct
+9	NRG	_	NOUN	NOUN	_	6	list
+10	1475	_	NUM	NUM	_	9	nmod
+

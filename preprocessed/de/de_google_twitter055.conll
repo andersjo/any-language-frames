@@ -1,0 +1,23 @@
+1	auch	_	ADV	ADV	_	2	advmod
+2	2015	_	NUM	NUM	_	3	nummod
+3	#Partystadt	_	NOUN	NOUN	_	9	nmod
+4	#Berlin	_	PROPN	PROPN	_	5	name
+5	https://t.co/7iEx7r0QN7	_	PROPN	PROPN	_	3	appos
+6	(	_	PUNCT	PUNCT	_	9	punct
+7	auf	_	ADP	ADP	_	8	case
+8	google+	_	PROPN	PROPN	_	9	nmod
+9	gepostet	_	VERB	VERB	_	18	advcl
+10	)	_	PUNCT	PUNCT	_	8	punct
+11	kaum	_	ADV	ADV	_	16	advmod
+12	ist	_	VERB	VERB	_	15	cop
+13	eine	_	DET	DET	_	15	det
+14	#B	_	ADJ	ADJ	_	15	amod
+15	ühne	_	NOUN	NOUN	_	16	dobj
+16	abgebaut	_	VERB	VERB	_	18	advcl
+17	,	_	PUNCT	PUNCT	_	16	punct
+18	kommt	_	VERB	VERB	_	0	root
+19	das	_	DET	DET	_	21	det
+20	nächste	_	ADJ	ADJ	_	21	amod
+21	#Event	_	NOUN	NOUN	_	18	nsubj
+22	#Urlaub	_	PROPN	PROPN	_	21	appos
+

@@ -1,0 +1,26 @@
+1	@AhmedACM_	_	PROPN	PROPN	_	2	compound
+2	@Inter_Data	_	PROPN	PROPN	_	4	compound
+3	Simone	_	PROPN	PROPN	_	4	compound
+4	Barone	_	PROPN	PROPN	_	5	nsubj
+5	won	_	VERB	VERB	_	0	root
+6	WC	_	PROPN	PROPN	_	5	dobj
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	Christiano	_	PROPN	PROPN	_	9	compound
+9	Ronaldo	_	PROPN	PROPN	_	6	conj
+10	and	_	CONJ	CONJ	_	6	cc
+11	Messi	_	PROPN	PROPN	_	6	conj
+12	didn't	_	NOUN	NOUN	_	13	nsubj
+13	win	_	VERB	VERB	_	5	conj
+14	WC	_	NOUN	NOUN	_	13	dobj
+15	yet	_	ADV	ADV	_	13	advmod
+16	,	_	PUNCT	PUNCT	_	13	punct
+17	so	_	ADV	ADV	_	18	advmod
+18	Barone	_	VERB	VERB	_	13	advcl
+19	better	_	ADJ	ADJ	_	0	foreign
+20	than	_	ADP	ADP	_	18	compound:prt
+21	two	_	NUM	NUM	_	18	dobj
+22	of	_	ADP	ADP	_	18	compound:prt
+23	them	_	PRON	PRON	_	21	nmod
+24	.	_	PUNCT	PUNCT	_	5	punct
+25	#whatalogic	_	ADJ	ADJ	_	0	discourse
+

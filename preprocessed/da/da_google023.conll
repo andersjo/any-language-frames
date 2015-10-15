@@ -1,0 +1,25 @@
+1	Google	_	NOUN	NOUN	_	3	nsubj
+2	er	_	AUX	AUX	_	3	cop
+3	eksperter	_	NOUN	NOUN	_	0	root
+4	i	_	ADP	ADP	_	3	dep
+5	at	_	PART	PART	_	4	dep
+6	skabe	_	VERB	VERB	_	5	dep
+7	netop	_	ADV	ADV	_	6	advmod
+8	de	_	PRON	PRON	_	9	nsubj
+9	få	_	VERB	VERB	_	7	acl:relcl
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	men	_	CONJ	CONJ	_	3	cc
+12	rigtige	_	ADJ	ADJ	_	13	amod
+13	reklamer	_	NOUN	NOUN	_	9	dobj
+14	på	_	ADP	ADP	_	16	case
+15	en	_	DET	DET	_	16	det
+16	websted	_	NOUN	NOUN	_	13	nmod
+17	eller	_	CONJ	CONJ	_	14	cc
+18	i	_	ADP	ADP	_	19	case
+19	forbindelse	_	NOUN	NOUN	_	16	nmod
+20	med	_	ADP	ADP	_	23	case
+21	et	_	DET	DET	_	23	det
+22	elektronisk	_	ADJ	ADJ	_	23	amod
+23	brev	_	NOUN	NOUN	_	19	nmod
+24	.	_	PUNCT	PUNCT	_	9	punct
+

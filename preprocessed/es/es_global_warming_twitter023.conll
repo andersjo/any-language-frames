@@ -1,0 +1,19 @@
+1	Weight-loss	_	PROPN	PROPN	_	2	name
+2	effects	_	PROPN	PROPN	_	6	name
+3	of	_	PROPN	PROPN	_	6	name
+4	“	_	PROPN	PROPN	_	6	name
+5	non-shivering	_	PROPN	PROPN	_	6	name
+6	thermogenesis	_	PROPN	PROPN	_	8	dep
+7	,	_	PUNCT	PUNCT	_	6	punct
+8	”	_	PROPN	PROPN	_	10	name
+9	#obesity	_	PROPN	PROPN	_	10	name
+10	http://t.co/C13qRuNKTC	_	PROPN	PROPN	_	13	nsubj
+11	No	_	ADV	ADV	_	13	neg
+12	os	_	PRON	PRON	_	13	dobj
+13	abriguéis	_	VERB	VERB	_	17	advcl
+14	,	_	PUNCT	PUNCT	_	17	punct
+15	¡pasar	_	PROPN	PROPN	_	17	det
+16	frío	_	ADJ	ADJ	_	17	amod
+17	adelgaza	_	NOUN	NOUN	_	0	root
+18	!	_	PUNCT	PUNCT	_	17	punct
+

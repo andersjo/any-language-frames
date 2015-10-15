@@ -1,0 +1,13 @@
+1	Google	_	NOUN	NOUN	_	2	name
+2	News	_	PROPN	PROPN	_	0	root
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	Gunvor	_	NOUN	NOUN	_	2	dep
+5	dog	_	ADV	ADV	_	6	advmod
+6	tio	_	ADJ	ADJ	_	7	amod
+7	timmar	_	NOUN	NOUN	_	4	nmod
+8	efter	_	ADP	ADP	_	9	case
+9	cancerbeskedet	_	NOUN	NOUN	_	7	nmod
+10	-	_	PUNCT	PUNCT	_	9	punct
+11	Expressen	_	NOUN	NOUN	_	12	nsubj
+12	http://t.co/erAfHvYtNe	_	VERB	VERB	_	7	dep
+

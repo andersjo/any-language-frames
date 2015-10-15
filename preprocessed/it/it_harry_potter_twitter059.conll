@@ -1,0 +1,11 @@
+1	Genuine	_	ADJ	ADJ	_	2	amod
+2	LEGO	_	PROPN	PROPN	_	0	root
+3	HARRY	_	PROPN	PROPN	_	2	name
+4	POTTER	_	PROPN	PROPN	_	2	name
+5	Minifigure	_	NOUN	NOUN	_	2	nmod
+6	-	_	PUNCT	PUNCT	_	7	punct
+7	Ernie	_	PROPN	PROPN	_	5	nmod
+8	Prang	_	PROPN	PROPN	_	7	name
+9	-	_	PUNCT	PUNCT	_	7	punct
+10	http://t.co/L6wqp4vJgq	_	NOUN	NOUN	_	7	nmod
+

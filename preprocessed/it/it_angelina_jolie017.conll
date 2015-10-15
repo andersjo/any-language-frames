@@ -1,0 +1,21 @@
+1	Questo	_	DET	DET	_	3	det
+2	suo	_	DET	DET	_	3	det:poss
+3	disagio	_	NOUN	NOUN	_	4	nsubj
+4	portò	_	VERB	VERB	_	0	root
+5	la	_	DET	DET	_	7	det
+6	giovane	_	ADJ	ADJ	_	7	amod
+7	Angelina	_	PROPN	PROPN	_	4	dobj
+8	all'autolesionismo	_	PROPN	PROPN	_	7	name
+9	,	_	PUNCT	PUNCT	_	7	punct
+10	a	_	ADP	ADP	_	11	mark
+11	provocarsi	_	VERB	VERB	_	4	advcl
+12	delle	_	ADP	ADP	_	13	case
+13	ferite	_	NOUN	NOUN	_	11	nmod
+14	con	_	ADP	ADP	_	15	case
+15	coltelli	_	NOUN	NOUN	_	13	nmod
+16	che	_	PRON	PRON	_	19	nsubj
+17	lei	_	PRON	PRON	_	19	nsubj
+18	stessa	_	PRON	PRON	_	19	nsubj
+19	collezionava	_	VERB	VERB	_	15	acl:relcl
+20	.	_	PUNCT	PUNCT	_	4	punct
+

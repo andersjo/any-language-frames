@@ -1,0 +1,16 @@
+1	#Entertainment	_	NOUN	NOUN	_	2	name
+2	#News	_	PROPN	PROPN	_	4	nmod:poss
+3	Angelina	_	PROPN	PROPN	_	2	name
+4	Jolie	_	NOUN	NOUN	_	9	name
+5	HUGE	_	PROPN	PROPN	_	4	appos
+6	Signed	_	PROPN	PROPN	_	5	name
+7	Autographed	_	NOUN	NOUN	_	5	dep
+8	20x30	_	X	X	_	9	name
+9	Photo	_	PROPN	PROPN	_	11	nmod:poss
+10	Custom	_	PROPN	PROPN	_	9	name
+11	Framed	_	NOUN	NOUN	_	12	nmod:poss
+12	…	_	NOUN	NOUN	_	14	nmod:poss
+13	http://t.co/HqiYjKbS4l	_	ADJ	ADJ	_	12	amod
+14	#AngelinaJolie	_	NOUN	NOUN	_	15	nmod:poss
+15	#Fans	_	NOUN	NOUN	_	0	root
+

@@ -1,0 +1,13 @@
+1	En	_	ADP	ADP	_	3	case
+2	octubre	_	PROPN	PROPN	_	3	name
+3	Google	_	PROPN	PROPN	_	4	nsubj
+4	lanza	_	VERB	VERB	_	0	root
+5	su	_	DET	DET	_	6	nmod:poss
+6	lector	_	NOUN	NOUN	_	4	dobj
+7	de	_	ADP	ADP	_	11	case
+8	feeds	_	PROPN	PROPN	_	11	name
+9	RSS	_	PROPN	PROPN	_	11	name
+10	Google	_	PROPN	PROPN	_	11	name
+11	Reader	_	PROPN	PROPN	_	6	appos
+12	.	_	PUNCT	PUNCT	_	4	punct
+

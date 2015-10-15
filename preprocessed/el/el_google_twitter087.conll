@@ -1,0 +1,24 @@
+1	Η	_	ADJ	ADJ	_	2	det
+2	ΝΔ	_	NOUN	NOUN	_	0	root
+3	και	_	CONJ	CONJ	_	2	cc
+4	το	_	ADJ	ADJ	_	5	det
+5	ποταμι	_	NOUN	NOUN	_	2	conj
+6	εχουν	_	ADJ	ADJ	_	7	amod
+7	μαμηθει	_	NOUN	NOUN	_	5	nmod
+8	στα	_	ADP	ADP	_	9	case
+9	google	_	NOUN	NOUN	_	7	nmod
+10	ads	_	NOUN	NOUN	_	9	nmod
+11	.	_	PUNCT	PUNCT	_	13	punct
+12	Αν	_	CONJ	CONJ	_	13	mark
+13	συμπαθειτε	_	VERB	VERB	_	9	advcl
+14	καποιο	_	ADJ	ADJ	_	15	amod
+15	σαιτ	_	NOUN	NOUN	_	13	dobj
+16	καντε	_	ADJ	ADJ	_	17	amod
+17	κλικ	_	NOUN	NOUN	_	15	nmod
+18	στη	_	ADP	ADP	_	19	case
+19	διαφημιση	_	NOUN	NOUN	_	13	nmod
+20	.	_	PUNCT	PUNCT	_	13	punct
+21	0.25	_	NUM	NUM	_	23	nummod
+22	τους	_	ADJ	ADJ	_	23	det
+23	δινετε	_	NOUN	NOUN	_	19	nmod
+

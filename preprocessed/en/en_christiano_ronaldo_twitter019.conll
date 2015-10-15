@@ -1,0 +1,13 @@
+1	Real	_	ADJ	ADJ	_	0	cc
+2	Madrid	_	PROPN	PROPN	_	0	root
+3	vs	_	ADP	ADP	_	0	compound:prt
+4	Valencia	_	PROPN	PROPN	_	2	appos
+5	1-0	_	NUM	NUM	_	7	nummod
+6	Christiano	_	PROPN	PROPN	_	7	compound
+7	Ronaldo	_	PROPN	PROPN	_	10	compound
+8	Post	_	PROPN	PROPN	_	10	compound
+9	Match	_	PROPN	PROPN	_	10	compound
+10	Interview	_	PROPN	PROPN	_	4	list
+11	http://t.co/YWrnsNRzAI	_	X	X	_	10	list
+12	http://t.co/NMttgenfE5	_	X	X	_	11	compound
+

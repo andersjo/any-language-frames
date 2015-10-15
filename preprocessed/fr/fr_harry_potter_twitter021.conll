@@ -1,0 +1,16 @@
+1	@Tom_jedusor33	_	PROPN	PROPN	_	3	name
+2	@EstebanCrochet	_	PROPN	PROPN	_	3	name
+3	@malefoy_drago	_	PROPN	PROPN	_	5	nsubj
+4	je	_	PRON	PRON	_	5	nsubj
+5	savais	_	VERB	VERB	_	0	root
+6	que	_	SCONJ	SCONJ	_	9	mark
+7	tu	_	PRON	PRON	_	9	nsubj
+8	étais	_	AUX	AUX	_	9	aux
+9	taré	_	VERB	VERB	_	5	ccomp
+10	mais	_	CONJ	CONJ	_	9	cc
+11	a	_	VERB	VERB	_	9	conj
+12	ce	_	DET	DET	_	13	det
+13	point	_	NOUN	NOUN	_	11	dobj
+14	la	_	DET	DET	_	11	dep
+15	!	_	PUNCT	PUNCT	_	5	punct
+

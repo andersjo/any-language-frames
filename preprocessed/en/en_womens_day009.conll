@@ -1,0 +1,26 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	August	_	PROPN	PROPN	_	0	root
+3	1910	_	NUM	NUM	_	2	nummod
+4	,	_	PUNCT	PUNCT	_	2	punct
+5	an	_	DET	DET	_	8	det
+6	International	_	PROPN	PROPN	_	8	compound
+7	Women's	_	PROPN	PROPN	_	8	compound
+8	Conference	_	PROPN	PROPN	_	2	appos
+9	was	_	VERB	VERB	_	12	cop
+10	organized	_	ADJ	ADJ	_	0	advcl
+11	to	_	PART	PART	_	12	mark
+12	precede	_	VERB	VERB	_	6	acl
+13	the	_	DET	DET	_	15	det
+14	general	_	ADJ	ADJ	_	0	foreign
+15	meeting	_	NOUN	NOUN	_	12	dobj
+16	of	_	ADP	ADP	_	12	compound:prt
+17	the	_	DET	DET	_	20	det
+18	Socialist	_	PROPN	PROPN	_	19	compound
+19	Second	_	PROPN	PROPN	_	20	compound
+20	International	_	PROPN	PROPN	_	12	dobj
+21	in	_	ADP	ADP	_	0	compound:prt
+22	Copenhagen	_	PROPN	PROPN	_	20	appos
+23	,	_	PUNCT	PUNCT	_	22	punct
+24	Denmark	_	PROPN	PROPN	_	22	conj
+25	.	_	PUNCT	PUNCT	_	3	punct
+

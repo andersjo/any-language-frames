@@ -1,0 +1,25 @@
+1	Tiger	_	VERB	VERB	_	9	dep
+2	woods	_	NOUN	NOUN	_	1	dobj
+3	pga	_	PROPN	PROPN	_	2	appos
+4	tour	_	NOUN	NOUN	_	3	dep
+5	09	_	NUM	NUM	_	7	nummod
+6	ps3	_	ADJ	ADJ	_	7	amod
+7	guide	_	NOUN	NOUN	_	1	dobj
+8	:	_	PUNCT	PUNCT	_	1	punct
+9	tiger	_	VERB	VERB	_	23	dep
+10	woods	_	NOUN	NOUN	_	11	nmod:poss
+11	tour	_	NOUN	NOUN	_	9	dobj
+12	ps3	_	VERB	VERB	_	9	dep
+13	09	_	NUM	NUM	_	14	nummod
+14	guide	_	NOUN	NOUN	_	12	dobj
+15	pga	_	PROPN	PROPN	_	12	dobj
+16	the	_	X	X	_	15	nmod:poss
+17	nikon	_	VERB	VERB	_	18	dep
+18	guide	_	NOUN	NOUN	_	20	nmod:poss
+19	to	_	NUM	NUM	_	20	nummod
+20	digital	_	NOUN	NOUN	_	9	dep
+21	photograp	_	NOUN	NOUN	_	20	nmod
+22	...	_	PUNCT	PUNCT	_	9	punct
+23	http://t.co/1w2Zjy6Pg9	_	VERB	VERB	_	0	root
+24	#PGA	_	PROPN	PROPN	_	23	nsubj
+

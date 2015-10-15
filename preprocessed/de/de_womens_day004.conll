@@ -1,0 +1,18 @@
+1	Die	_	DET	DET	_	3	det
+2	deutsche	_	ADJ	ADJ	_	3	amod
+3	Sozialistin	_	NOUN	NOUN	_	6	nsubj
+4	Clara	_	PROPN	PROPN	_	5	name
+5	Zetkin	_	PROPN	PROPN	_	3	appos
+6	schlug	_	VERB	VERB	_	0	root
+7	auf	_	ADP	ADP	_	13	case
+8	der	_	DET	DET	_	13	det
+9	"	_	PUNCT	PUNCT	_	13	punct
+10	Zweiten	_	PROPN	PROPN	_	11	amod
+11	Internationalen	_	PROPN	PROPN	_	12	name
+12	Sozialistischen	_	PROPN	PROPN	_	13	det
+13	Frauenkonferenz	_	NOUN	NOUN	_	6	nmod
+14	"	_	PUNCT	PUNCT	_	13	punct
+15	am	_	ADP	ADP	_	13	case
+16	27	_	NUM	NUM	_	15	dep
+17	.	_	PUNCT	PUNCT	_	6	punct
+

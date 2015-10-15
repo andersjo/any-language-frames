@@ -1,0 +1,27 @@
+1	След	_	ADP	ADP	_	2	case
+2	финала	_	NOUN	NOUN	_	13	nmod
+3	в	_	ADP	ADP	_	5	case
+4	Шампионската	_	ADJ	ADJ	_	5	amod
+5	лига	_	NOUN	NOUN	_	2	nmod
+6	,	_	PUNCT	PUNCT	_	9	punct
+7	който	_	PRON	PRON	_	9	dobj
+8	Роналдо	_	NOUN	NOUN	_	9	nsubj
+9	печели	_	VERB	VERB	_	5	acl
+10	с	_	ADP	ADP	_	11	case
+11	Реал	_	PROPN	PROPN	_	9	iobj
+12	Мадрид	_	PROPN	PROPN	_	11	name
+13	успява	_	VERB	VERB	_	0	root
+14	да	_	PART	PART	_	15	aux
+15	подобри	_	VERB	VERB	_	13	ccomp
+16	и	_	CONJ	CONJ	_	18	cc
+17	друг	_	ADJ	ADJ	_	18	amod
+18	рекорд	_	NOUN	NOUN	_	15	dobj
+19	–	_	NOUN	NOUN	_	18	nmod
+20	този	_	DET	DET	_	18	det
+21	за	_	ADP	ADP	_	23	case
+22	най-много	_	ADV	ADV	_	23	advmod
+23	голове	_	NOUN	NOUN	_	20	nmod
+24	в	_	ADP	ADP	_	25	case
+25	турнира	_	NOUN	NOUN	_	23	nmod
+26	.	_	PUNCT	PUNCT	_	13	punct
+

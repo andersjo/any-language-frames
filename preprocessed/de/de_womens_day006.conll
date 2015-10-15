@@ -1,0 +1,9 @@
+1	Die	_	DET	DET	_	2	det
+2	Idee	_	NOUN	NOUN	_	4	nsubj
+3	dazu	_	ADV	ADV	_	2	advmod
+4	kam	_	VERB	VERB	_	0	root
+5	aus	_	ADP	ADP	_	7	case
+6	den	_	DET	DET	_	7	det
+7	USA	_	PROPN	PROPN	_	4	nmod
+8	.	_	PUNCT	PUNCT	_	4	punct
+

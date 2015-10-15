@@ -1,0 +1,18 @@
+1	За	_	ADP	ADP	_	4	case
+2	втора	_	ADJ	ADJ	_	4	amod
+3	поредна	_	ADJ	ADJ	_	4	amod
+4	година	_	NOUN	NOUN	_	6	nmod
+5	Джоли	_	PROPN	PROPN	_	6	nsubj
+6	спечели	_	VERB	VERB	_	0	root
+7	наградата	_	NOUN	NOUN	_	6	dobj
+8	"	_	PUNCT	PUNCT	_	6	punct
+9	Златен	_	PROPN	PROPN	_	10	nsubj
+10	глобус	_	VERB	VERB	_	6	conj
+11	"	_	PUNCT	PUNCT	_	12	punct
+12	и	_	CONJ	CONJ	_	6	cc
+13	номинирана	_	NOUN	NOUN	_	10	dobj
+14	за	_	ADP	ADP	_	15	case
+15	награда	_	NOUN	NOUN	_	13	nmod
+16	Еми	_	PROPN	PROPN	_	15	nmod
+17	.	_	PUNCT	PUNCT	_	6	punct
+

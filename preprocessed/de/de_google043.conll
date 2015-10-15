@@ -1,0 +1,11 @@
+1	Auch	_	ADV	ADV	_	4	advmod
+2	bei	_	ADP	ADP	_	4	case
+3	mobilen	_	ADJ	ADJ	_	4	amod
+4	Datendiensten	_	NOUN	NOUN	_	9	nmod
+5	möchte	_	AUX	AUX	_	9	aux
+6	Google	_	PROPN	PROPN	_	9	nsubj
+7	sein	_	DET	DET	_	8	nmod:poss
+8	AdSense-System	_	NOUN	NOUN	_	9	dobj
+9	durchsetzen	_	VERB	VERB	_	0	root
+10	.	_	PUNCT	PUNCT	_	9	punct
+

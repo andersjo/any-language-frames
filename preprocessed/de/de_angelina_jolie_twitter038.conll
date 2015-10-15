@@ -1,0 +1,27 @@
+1	#Disney	_	PROPN	PROPN	_	3	name
+2	-	_	PUNCT	PUNCT	_	3	punct
+3	★	_	PROPN	PROPN	_	4	name
+4	MALEFICENT	_	PROPN	PROPN	_	11	nmod
+5	die	_	DET	DET	_	7	det
+6	dunkle	_	ADJ	ADJ	_	7	amod
+7	Fee	_	NOUN	NOUN	_	0	root
+8	★	_	PROPN	PROPN	_	10	name
+9	BLU-RAY	_	PROPN	PROPN	_	10	name
+10	★	_	PROPN	PROPN	_	7	appos
+11	ungekürzte	_	ADJ	ADJ	_	12	amod
+12	Fassung	_	NOUN	NOUN	_	7	conj
+13	★	_	PROPN	PROPN	_	14	name
+14	Angelina	_	PROPN	PROPN	_	15	name
+15	Jolie	_	PROPN	PROPN	_	17	name
+16	★	_	PROPN	PROPN	_	17	name
+17	DISNEY	_	PROPN	PROPN	_	12	appos
+18	:	_	PUNCT	PUNCT	_	17	punct
+19	EUR	_	PROPN	PROPN	_	17	appos
+20	10	_	NUM	NUM	_	19	appos
+21	,	_	PUNCT	PUNCT	_	20	punct
+22	30	_	NUM	NUM	_	20	conj
+23	...	_	PUNCT	PUNCT	_	19	punct
+24	http://t.co/QPJFFpN790	_	PROPN	PROPN	_	26	name
+25	Ebay	_	PROPN	PROPN	_	19	conj
+26	DE	_	PROPN	PROPN	_	25	nmod
+

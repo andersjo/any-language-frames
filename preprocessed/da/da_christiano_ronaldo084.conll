@@ -1,0 +1,23 @@
+1	80.000	_	NUM	NUM	_	2	nummod
+2	Real	_	NOUN	NOUN	_	3	name
+3	Madrid-fans	_	PROPN	PROPN	_	4	nsubj
+4	bød	_	VERB	VERB	_	0	root
+5	ham	_	PRON	PRON	_	4	dobj
+6	velkommen	_	ADJ	ADJ	_	4	amod
+7	ved	_	ADP	ADP	_	8	case
+8	præsentationen	_	NOUN	NOUN	_	4	nmod
+9	,	_	PUNCT	PUNCT	_	12	punct
+10	hvor	_	ADV	ADV	_	12	advmod
+11	han	_	PRON	PRON	_	12	nsubj
+12	fik	_	VERB	VERB	_	8	acl:relcl
+13	overrakt	_	VERB	VERB	_	12	dep
+14	sin	_	DET	DET	_	16	det
+15	nye	_	ADJ	ADJ	_	16	amod
+16	trøje	_	NOUN	NOUN	_	13	dobj
+17	af	_	ADP	ADP	_	18	case
+18	legenden	_	NOUN	NOUN	_	16	nmod
+19	Alfredo	_	PROPN	PROPN	_	18	appos
+20	di	_	NOUN	NOUN	_	19	dep
+21	Stéfano	_	NOUN	NOUN	_	16	nmod
+22	.	_	PUNCT	PUNCT	_	4	punct
+

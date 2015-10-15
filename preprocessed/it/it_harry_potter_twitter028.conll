@@ -1,0 +1,22 @@
+1	questo	_	DET	DET	_	2	det
+2	tema	_	NOUN	NOUN	_	9	nsubj
+3	>>>	_	PROPN	PROPN	_	2	nmod
+4	la	_	DET	DET	_	6	det
+5	maggior	_	ADJ	ADJ	_	6	amod
+6	parte	_	NOUN	NOUN	_	9	nsubj
+7	delle	_	ADP	ADP	_	8	case
+8	cose	_	NOUN	NOUN	_	6	nmod
+9	esistenti	_	VERB	VERB	_	0	root
+10	♫	_	ADV	ADV	_	9	advmod
+11	A	_	ADP	ADP	_	12	case
+12	Window	_	PROPN	PROPN	_	9	nmod
+13	to	_	ADP	ADP	_	15	case
+14	the	_	DET	DET	_	15	det
+15	Past	_	PROPN	PROPN	_	9	nmod
+16	–	_	PUNCT	PUNCT	_	12	punct
+17	Harry	_	PROPN	PROPN	_	15	name
+18	Potter	_	PROPN	PROPN	_	17	name
+19	Soundtrack	_	PROPN	PROPN	_	17	name
+20	http://t.co/Dp6vjGd61N	_	PROPN	PROPN	_	17	name
+21	#NowPlaying	_	PROPN	PROPN	_	17	name
+

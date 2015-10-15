@@ -1,0 +1,16 @@
+1	Christiano	_	PROPN	PROPN	_	2	name
+2	Ronaldo	_	PROPN	PROPN	_	3	nsubj
+3	décroche	_	VERB	VERB	_	0	root
+4	le	_	DET	DET	_	5	det
+5	prix	_	NOUN	NOUN	_	3	dobj
+6	du	_	ADP	ADP	_	8	case
+7	meilleur	_	ADJ	ADJ	_	8	amod
+8	joueur	_	NOUN	NOUN	_	5	nmod
+9	de	_	ADP	ADP	_	10	case
+10	l’année	_	NOUN	NOUN	_	8	nmod
+11	au	_	ADP	ADP	_	15	case
+12	gala	_	PROPN	PROPN	_	15	name
+13	Globe	_	PROPN	PROPN	_	15	name
+14	Soccer	_	PROPN	PROPN	_	15	name
+15	http://t.co/5I77AGAdCz	_	PROPN	PROPN	_	8	appos
+

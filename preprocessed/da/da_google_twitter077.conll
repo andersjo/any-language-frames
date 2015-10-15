@@ -1,0 +1,8 @@
+1	Kabar	_	PROPN	PROPN	_	0	root
+2	Transfer	_	PROPN	PROPN	_	1	name
+3	Chelsea	_	PROPN	PROPN	_	1	name
+4	Januari	_	PROPN	PROPN	_	1	name
+5	2015	_	NUM	NUM	_	7	nummod
+6	2016	_	NUM	NUM	_	7	nummod
+7	http://t.co/GrZJ8Hvx81	_	NOUN	NOUN	_	1	list
+

@@ -1,0 +1,26 @@
+1	Historisk	_	ADJ	ADJ	_	3	amod
+2	LGBT	_	ADJ	ADJ	_	3	amod
+3	NYT	_	NOUN	NOUN	_	0	root
+4	fra	_	ADP	ADP	_	5	case
+5	USA	_	PROPN	PROPN	_	3	nmod
+6	.	_	PUNCT	PUNCT	_	3	punct
+7	Vores	_	DET	DET	_	8	det
+8	datter	_	NOUN	NOUN	_	10	dep
+9	Malene	_	NOUN	NOUN	_	5	appos
+10	Binau	_	PROPN	PROPN	_	9	appos
+11	Bonnor	_	NOUN	NOUN	_	10	dep
+12	(	_	PUNCT	PUNCT	_	16	punct
+13	22	_	NUM	NUM	_	11	nummod
+14	)	_	PUNCT	PUNCT	_	13	punct
+15	bliver	_	AUX	AUX	_	16	cop
+16	viet	_	NOUN	NOUN	_	9	acl:relcl
+17	af	_	ADP	ADP	_	18	case
+18	Orlando	_	PROPN	PROPN	_	16	nmod
+19	Borgmesteren	_	NOUN	NOUN	_	18	dep
+20	den	_	DET	DET	_	23	det
+21	6	_	NUM	NUM	_	23	nummod
+22	.	_	PUNCT	PUNCT	_	16	punct
+23	Januar	_	NOUN	NOUN	_	24	nmod:poss
+24	…	_	NOUN	NOUN	_	18	nmod:poss
+25	http://t.co/sa9ljkxNiS	_	NOUN	NOUN	_	24	nmod
+

@@ -1,0 +1,8 @@
+1	Gli	_	DET	DET	_	2	det
+2	amici	_	NOUN	NOUN	_	5	nsubj
+3	non	_	ADV	ADV	_	5	neg
+4	possono	_	AUX	AUX	_	5	aux
+5	mancare	_	VERB	VERB	_	0	root
+6	:)	_	ADV	ADV	_	5	advmod
+7	http://t.co/wDweBl3EBo	_	NOUN	NOUN	_	5	dobj
+

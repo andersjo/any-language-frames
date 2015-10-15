@@ -1,0 +1,14 @@
+1	AHora	_	ADV	ADV	_	2	advmod
+2	cambie	_	VERB	VERB	_	0	root
+3	de	_	ADP	ADP	_	5	case
+4	opinion	_	PROPN	PROPN	_	5	name
+5	quiero	_	PROPN	PROPN	_	2	nmod
+6	una	_	PRON	PRON	_	7	nsubj
+7	torta	_	VERB	VERB	_	2	advcl
+8	de	_	ADP	ADP	_	10	case
+9	harry	_	PROPN	PROPN	_	10	name
+10	potter	_	PROPN	PROPN	_	7	nmod
+11	si	_	SCONJ	SCONJ	_	12	mark
+12	si	_	PRON	PRON	_	7	conj
+13	si	_	SCONJ	SCONJ	_	12	mark
+

@@ -1,0 +1,20 @@
+1	No	_	DET	DET	_	2	neg
+2	idea	_	NOUN	NOUN	_	6	nsubj
+3	how	_	ADV	ADV	_	6	advmod
+4	he	_	PRON	PRON	_	6	nsubj
+5	doesn't	_	NOUN	NOUN	_	6	nsubj
+6	know	_	VERB	VERB	_	0	root
+7	who	_	PRON	PRON	_	6	dobj
+8	or	_	CONJ	CONJ	_	7	cc
+9	what	_	DET	DET	_	11	det
+10	Harry	_	PROPN	PROPN	_	11	compound
+11	Potter	_	PROPN	PROPN	_	7	nsubj
+12	is	_	VERB	VERB	_	7	cop
+13	.	_	PUNCT	PUNCT	_	6	punct
+14	Just	_	ADV	ADV	_	15	advmod
+15	too	_	ADV	ADV	_	18	advmod
+16	funny	_	ADJ	ADJ	_	0	punct
+17	to	_	ADP	ADP	_	12	reparandum
+18	me	_	PRON	PRON	_	7	conj
+19	.	_	PUNCT	PUNCT	_	6	punct
+

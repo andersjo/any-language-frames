@@ -1,0 +1,25 @@
+1	Fangirl	_	PROPN	PROPN	_	10	nsubj
+2	.	_	PUNCT	PUNCT	_	1	punct
+3	"	_	PUNCT	PUNCT	_	4	punct
+4	@FlorianWester	_	PROPN	PROPN	_	1	appos
+5	:	_	PUNCT	PUNCT	_	4	punct
+6	Hab	_	AUX	AUX	_	10	aux
+7	bei	_	ADP	ADP	_	9	case
+8	Google	_	PROPN	PROPN	_	9	name
+9	Iblali	_	PROPN	PROPN	_	10	nmod
+10	gegooglet	_	VERB	VERB	_	0	root
+11	und	_	CONJ	CONJ	_	10	cc
+12	ihn	_	PRON	PRON	_	15	dobj
+13	bei	_	ADP	ADP	_	14	case
+14	Wikipedia	_	PROPN	PROPN	_	15	nmod
+15	gefunden	_	VERB	VERB	_	10	conj
+16	.	_	PUNCT	PUNCT	_	15	punct
+17	Weiß	_	NOUN	NOUN	_	15	nsubj
+18	nun	_	ADV	ADV	_	19	advmod
+19	mehr	_	ADV	ADV	_	17	advmod
+20	von	_	ADP	ADP	_	21	case
+21	ihm	_	PRON	PRON	_	19	nmod
+22	.	_	PUNCT	PUNCT	_	10	punct
+23	:)	_	PUNCT	PUNCT	_	15	punct
+24	"	_	PUNCT	PUNCT	_	15	punct
+

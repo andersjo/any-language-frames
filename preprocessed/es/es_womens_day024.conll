@@ -1,0 +1,12 @@
+1	Cronología	_	PROPN	PROPN	_	0	root
+2	de	_	ADP	ADP	_	4	case
+3	la	_	DET	DET	_	4	det
+4	celebración	_	NOUN	NOUN	_	1	nmod
+5	del	_	ADP	ADP	_	6	case
+6	Día	_	PROPN	PROPN	_	4	nmod
+7	Internacional	_	PROPN	PROPN	_	6	amod
+8	de	_	ADP	ADP	_	10	case
+9	la	_	DET	DET	_	10	det
+10	Mujer	_	PROPN	PROPN	_	6	nmod
+11	.	_	PUNCT	PUNCT	_	4	punct
+

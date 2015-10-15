@@ -1,0 +1,11 @@
+1	Sein	_	DET	DET	_	3	nmod:poss
+2	erster	_	ADJ	ADJ	_	3	amod
+3	Verein	_	NOUN	NOUN	_	7	nsubj
+4	war	_	VERB	VERB	_	7	cop
+5	aber	_	ADV	ADV	_	3	advmod
+6	der	_	DET	DET	_	7	det
+7	Amateurklub	_	NOUN	NOUN	_	0	root
+8	CF	_	PROPN	PROPN	_	9	name
+9	Andorinha	_	PROPN	PROPN	_	7	appos
+10	.	_	PUNCT	PUNCT	_	3	punct
+

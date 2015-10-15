@@ -1,0 +1,16 @@
+1	Gioca	_	VERB	VERB	_	0	root
+2	per	_	ADP	ADP	_	4	case
+3	cinque	_	NUM	NUM	_	4	nummod
+4	anni	_	NOUN	NOUN	_	1	nmod
+5	nelle	_	ADP	ADP	_	6	case
+6	giovanili	_	ADJ	ADJ	_	1	nmod
+7	della	_	ADP	ADP	_	8	case
+8	squadra	_	NOUN	NOUN	_	6	nmod
+9	e	_	CONJ	CONJ	_	1	cc
+10	dimostrando	_	VERB	VERB	_	1	conj
+11	presto	_	ADV	ADV	_	10	advmod
+12	il	_	DET	DET	_	14	det
+13	proprio	_	DET	DET	_	14	det:poss
+14	talento	_	NOUN	NOUN	_	10	dobj
+15	.	_	PUNCT	PUNCT	_	1	punct
+

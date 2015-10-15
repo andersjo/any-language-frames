@@ -1,0 +1,25 @@
+1	L'entreprise	_	PROPN	PROPN	_	2	nsubj
+2	s'est	_	VERB	VERB	_	0	root
+3	principalement	_	ADV	ADV	_	4	advmod
+4	fait	_	VERB	VERB	_	2	xcomp
+5	connaître	_	VERB	VERB	_	4	xcomp
+6	à	_	ADP	ADP	_	7	mwe
+7	travers	_	NOUN	NOUN	_	9	case
+8	la	_	DET	DET	_	9	det
+9	situation	_	NOUN	NOUN	_	5	dobj
+10	monopolistique	_	ADJ	ADJ	_	9	amod
+11	de	_	ADP	ADP	_	13	case
+12	son	_	DET	DET	_	13	nmod:poss
+13	moteur	_	NOUN	NOUN	_	9	nmod
+14	de	_	ADP	ADP	_	15	case
+15	recherche	_	NOUN	NOUN	_	13	nmod
+16	,	_	PUNCT	PUNCT	_	9	punct
+17	concurrencé	_	VERB	VERB	_	13	acl
+18	historiquement	_	ADV	ADV	_	17	advmod
+19	par	_	ADP	ADP	_	17	case
+20	AltaVista	_	PROPN	PROPN	_	19	case
+21	puis	_	ADV	ADV	_	20	cc
+22	par	_	ADP	ADP	_	17	case
+23	Yahoo	_	PROPN	PROPN	_	22	case
+24	!	_	PUNCT	PUNCT	_	2	punct
+

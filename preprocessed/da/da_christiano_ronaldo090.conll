@@ -1,0 +1,23 @@
+1	De	_	DET	DET	_	3	det
+2	to	_	NUM	NUM	_	3	nummod
+3	hold	_	NOUN	NOUN	_	4	nsubj
+4	mødtes	_	VERB	VERB	_	0	root
+5	igen	_	ADV	ADV	_	4	advmod
+6	i	_	ADP	ADP	_	7	case
+7	finalen	_	NOUN	NOUN	_	4	nmod
+8	,	_	PUNCT	PUNCT	_	10	punct
+9	denne	_	DET	DET	_	10	det
+10	gang	_	NOUN	NOUN	_	4	dep
+11	med	_	ADP	ADP	_	12	case
+12	Portugal	_	PROPN	PROPN	_	10	nmod
+13	som	_	PART	PART	_	11	dep
+14	taber	_	VERB	VERB	_	13	dep
+15	med	_	ADP	ADP	_	14	dep
+16	1-0	_	NUM	NUM	_	15	nummod
+17	,	_	PUNCT	PUNCT	_	14	punct
+18	på	_	ADP	ADP	_	19	case
+19	Estadio	_	PROPN	PROPN	_	14	nmod
+20	da	_	SCONJ	SCONJ	_	21	mark
+21	Luz	_	NOUN	NOUN	_	19	nmod:poss
+22	.	_	PUNCT	PUNCT	_	4	punct
+

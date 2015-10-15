@@ -1,0 +1,27 @@
+1	Rent	_	ADV	ADV	_	2	advmod
+2	tekniskt	_	ADV	ADV	_	3	advmod
+3	passar	_	VERB	VERB	_	0	root
+4	böckerna	_	NOUN	NOUN	_	3	nsubj
+5	in	_	ADV	ADV	_	3	compound:prt
+6	i	_	ADP	ADP	_	9	case
+7	den	_	DET	DET	_	9	det
+8	brittiska	_	ADJ	ADJ	_	9	amod
+9	internatskole-genren	_	NOUN	NOUN	_	3	nmod
+10	,	_	PUNCT	PUNCT	_	3	punct
+11	och	_	CONJ	CONJ	_	3	cc
+12	scenerna	_	NOUN	NOUN	_	9	conj
+13	med	_	ADP	ADP	_	15	case
+14	Harrys	_	NOUN	NOUN	_	15	nmod:poss
+15	släktingar	_	NOUN	NOUN	_	12	nmod
+16	,	_	PUNCT	PUNCT	_	15	punct
+17	familjen	_	NOUN	NOUN	_	18	nmod:poss
+18	Dursleys	_	NOUN	NOUN	_	15	conj
+19	,	_	PUNCT	PUNCT	_	15	punct
+20	har	_	AUX	AUX	_	21	aux
+21	jämförts	_	VERB	VERB	_	15	acl:relcl
+22	med	_	ADP	ADP	_	25	case
+23	Roald	_	ADJ	ADJ	_	24	amod
+24	Dahls	_	NOUN	NOUN	_	25	nmod:poss
+25	verk	_	NOUN	NOUN	_	21	nmod
+26	.	_	PUNCT	PUNCT	_	3	punct
+

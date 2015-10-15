@@ -1,0 +1,24 @@
+1	Mas	_	ADV	ADV	_	3	advmod
+2	del	_	ADP	ADP	_	3	case
+3	50%	_	NUM	NUM	_	11	nmod
+4	de	_	ADP	ADP	_	5	case
+5	lo	_	PRON	PRON	_	3	nmod
+6	que	_	SCONJ	SCONJ	_	7	mark
+7	sigo	_	VERB	VERB	_	5	acl:relcl
+8	en	_	ADP	ADP	_	9	case
+9	twitter	_	PROPN	PROPN	_	7	nmod
+10	esta	_	PRON	PRON	_	11	nsubj
+11	relacionado	_	VERB	VERB	_	0	root
+12	con	_	ADP	ADP	_	13	case
+13	libros	_	NOUN	NOUN	_	11	nmod
+14	o	_	CONJ	CONJ	_	13	cc
+15	Harry	_	PROPN	PROPN	_	16	name
+16	Potter	_	PROPN	PROPN	_	13	conj
+17	.	_	PUNCT	PUNCT	_	11	punct
+18	Viviendo	_	VERB	VERB	_	16	acl
+19	al	_	ADP	ADP	_	20	case
+20	limite	_	VERB	VERB	_	18	acl
+21	since	_	NOUN	NOUN	_	20	dobj
+22	Always	_	PROPN	PROPN	_	21	appos
+23	.	_	PUNCT	PUNCT	_	11	punct
+

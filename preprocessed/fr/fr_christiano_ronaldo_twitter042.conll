@@ -1,0 +1,19 @@
+1	A	_	AUX	AUX	_	2	aux
+2	croire	_	VERB	VERB	_	0	root
+3	que	_	SCONJ	SCONJ	_	6	mark
+4	il	_	PRON	PRON	_	6	nsubj
+5	y	_	PRON	PRON	_	6	expl
+6	a	_	VERB	VERB	_	2	ccomp
+7	que	_	SCONJ	SCONJ	_	10	mark
+8	moi	_	PRON	PRON	_	6	dobj
+9	qui	_	PRON	PRON	_	10	nsubj
+10	connait	_	VERB	VERB	_	8	acl:relcl
+11	la	_	DET	DET	_	12	det
+12	vérité	_	NOUN	NOUN	_	10	dobj
+13	sur	_	ADP	ADP	_	15	case
+14	ce	_	DET	DET	_	15	det
+15	connard	_	NOUN	NOUN	_	12	nmod
+16	de	_	ADP	ADP	_	18	case
+17	christiano	_	PROPN	PROPN	_	18	name
+18	ronaldo	_	PROPN	PROPN	_	15	nmod
+

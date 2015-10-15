@@ -1,0 +1,13 @@
+1	Harry	_	PROPN	PROPN	_	2	nsubj
+2	får	_	VERB	VERB	_	0	root
+3	också	_	ADV	ADV	_	2	advmod
+4	en	_	DET	DET	_	5	det
+5	förebild	_	NOUN	NOUN	_	2	dobj
+6	i	_	ADP	ADP	_	8	case
+7	den	_	DET	DET	_	8	det
+8	vise	_	NOUN	NOUN	_	9	nmod:poss
+9	rektorn	_	NOUN	NOUN	_	10	nmod:poss
+10	Albus	_	NOUN	NOUN	_	11	nmod:poss
+11	Dumbledore	_	NOUN	NOUN	_	2	dobj
+12	.	_	PUNCT	PUNCT	_	2	punct
+

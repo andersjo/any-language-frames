@@ -1,0 +1,16 @@
+1	Alcune	_	DET	DET	_	2	det
+2	funzionalità	_	NOUN	NOUN	_	6	nsubj
+3	dei	_	ADP	ADP	_	4	case
+4	software	_	NOUN	NOUN	_	2	nmod
+5	Google	_	PROPN	PROPN	_	4	nmod
+6	presentano	_	VERB	VERB	_	0	root
+7	dei	_	ADP	ADP	_	8	case
+8	problemi	_	NOUN	NOUN	_	6	nmod
+9	rispetto	_	ADV	ADV	_	11	case
+10	alle	_	ADP	ADP	_	9	mwe
+11	leggi	_	NOUN	NOUN	_	6	nmod
+12	nazionali	_	ADJ	ADJ	_	11	amod
+13	sulla	_	ADP	ADP	_	14	case
+14	privacy	_	NOUN	NOUN	_	11	nmod
+15	:	_	PUNCT	PUNCT	_	6	punct
+

@@ -1,0 +1,9 @@
+1	Google	_	PROPN	PROPN	_	2	nmod:poss
+2	översätt	_	NOUN	NOUN	_	5	nsubj
+3	är	_	AUX	AUX	_	5	cop
+4	min	_	DET	DET	_	5	nmod:poss
+5	lifesaver	_	NOUN	NOUN	_	0	root
+6	,	_	PUNCT	PUNCT	_	5	punct
+7	for	_	PROPN	PROPN	_	8	nmod:poss
+8	real	_	NOUN	NOUN	_	5	conj
+

@@ -1,0 +1,18 @@
+1	ora	_	ADV	ADV	_	4	advmod
+2	non	_	ADV	ADV	_	4	neg
+3	mi	_	PRON	PRON	_	4	iobj
+4	funzionano	_	VERB	VERB	_	0	root
+5	più	_	ADV	ADV	_	4	advmod
+6	la	_	DET	DET	_	7	det
+7	mail	_	NOUN	NOUN	_	4	dobj
+8	di	_	ADP	ADP	_	9	case
+9	google	_	NOUN	NOUN	_	7	nmod
+10	e	_	CONJ	CONJ	_	7	cc
+11	i	_	DET	DET	_	12	det
+12	servizi	_	NOUN	NOUN	_	7	conj
+13	google	_	ADJ	ADJ	_	12	amod
+14	ma	_	CONJ	CONJ	_	4	cc
+15	chissene	_	VERB	VERB	_	4	conj
+16	!!!!	_	PROPN	PROPN	_	15	dobj
+17	:D	_	PROPN	PROPN	_	16	name
+

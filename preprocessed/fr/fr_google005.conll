@@ -1,0 +1,17 @@
+1	Eric	_	PROPN	PROPN	_	2	name
+2	Schmidt	_	PROPN	PROPN	_	12	nsubjpass
+3	en	_	PRON	PRON	_	5	iobj
+4	a	_	AUX	AUX	_	5	aux
+5	été	_	VERB	VERB	_	2	acl:relcl
+6	le	_	DET	DET	_	7	det
+7	CEO	_	X	X	_	5	dobj
+8	jusqu'au	_	ADP	ADP	_	7	case
+9	et	_	CONJ	CONJ	_	5	cc
+10	est	_	AUX	AUX	_	12	auxpass
+11	désormais	_	ADV	ADV	_	12	advmod
+12	remplacé	_	VERB	VERB	_	0	root
+13	par	_	ADP	ADP	_	12	case
+14	Larry	_	PROPN	PROPN	_	15	name
+15	Page	_	PROPN	PROPN	_	13	case
+16	.	_	PUNCT	PUNCT	_	12	punct
+

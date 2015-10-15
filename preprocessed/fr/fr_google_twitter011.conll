@@ -1,0 +1,17 @@
+1	@niallow_	_	PROPN	PROPN	_	3	nsubj
+2	Il	_	PRON	PRON	_	3	nsubj
+3	a	_	VERB	VERB	_	0	root
+4	du	_	ADP	ADP	_	5	case
+5	aller	_	VERB	VERB	_	3	acl
+6	sur	_	ADP	ADP	_	7	case
+7	Google	_	PROPN	PROPN	_	5	nmod
+8	traduction	_	NOUN	NOUN	_	5	nmod
+9	tapper	_	VERB	VERB	_	8	acl
+10	un	_	DET	DET	_	11	det
+11	mot	_	NOUN	NOUN	_	9	dobj
+12	puis	_	ADV	ADV	_	13	advmod
+13	copier/coller	_	VERB	VERB	_	11	acl
+14	pour	_	ADP	ADP	_	15	mark
+15	faire	_	VERB	VERB	_	13	advcl
+16	genre😂	_	X	X	_	15	dobj
+

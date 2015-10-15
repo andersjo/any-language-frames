@@ -1,0 +1,21 @@
+1	@Biomarine_fr	_	PROPN	PROPN	_	4	name
+2	#climat	_	PROPN	PROPN	_	4	name
+3	La	_	PROPN	PROPN	_	4	det
+4	NOAA	_	PROPN	PROPN	_	6	nsubj
+5	vous	_	PRON	PRON	_	6	iobj
+6	ment	_	VERB	VERB	_	9	advcl
+7	.	_	PUNCT	PUNCT	_	8	punct
+8	L'Arctique	_	PROPN	PROPN	_	9	nsubj
+9	revient	_	VERB	VERB	_	0	root
+10	sur	_	ADP	ADP	_	12	case
+11	ces	_	DET	DET	_	12	det
+12	niveaux	_	NOUN	NOUN	_	9	nmod
+13	d'il	_	NOUN	NOUN	_	12	appos
+14	y	_	PRON	PRON	_	15	expl
+15	a	_	VERB	VERB	_	9	conj
+16	30	_	NUM	NUM	_	17	nummod
+17	ans	_	NOUN	NOUN	_	15	dobj
+18	.	_	PUNCT	PUNCT	_	9	punct
+19	http://t.co/8HSXdOGuFC	_	PROPN	PROPN	_	20	name
+20	http://t.co/YK9zz4llBo	_	PROPN	PROPN	_	17	appos
+

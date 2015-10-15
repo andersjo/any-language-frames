@@ -1,0 +1,12 @@
+1	Jolie	_	NOUN	NOUN	_	0	root
+2	og	_	CONJ	CONJ	_	1	cc
+3	Pitt	_	PROPN	PROPN	_	1	conj
+4	har	_	AUX	AUX	_	10	aux
+5	tre	_	NUM	NUM	_	10	nummod
+6	biologiske	_	ADJ	ADJ	_	10	amod
+7	og	_	CONJ	CONJ	_	10	dep
+8	tre	_	NUM	NUM	_	10	nummod
+9	adopterede	_	ADJ	ADJ	_	10	amod
+10	børn	_	NOUN	NOUN	_	1	conj
+11	.	_	PUNCT	PUNCT	_	10	punct
+

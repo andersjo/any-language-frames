@@ -1,0 +1,16 @@
+1	Oltre	_	ADV	ADV	_	3	case
+2	a	_	ADP	ADP	_	1	mwe
+3	ciò	_	PRON	PRON	_	4	nmod
+4	diventa	_	VERB	VERB	_	0	root
+5	anche	_	ADV	ADV	_	8	advmod
+6	il	_	DET	DET	_	8	det
+7	primo	_	ADJ	ADJ	_	8	amod
+8	giocatore	_	NOUN	NOUN	_	4	nsubj
+9	portoghese	_	ADJ	ADJ	_	8	amod
+10	dei	_	ADP	ADP	_	12	case
+11	"	_	PUNCT	PUNCT	_	12	punct
+12	Red	_	PROPN	PROPN	_	8	nmod
+13	Devils	_	PROPN	PROPN	_	12	name
+14	"	_	PUNCT	PUNCT	_	12	punct
+15	.	_	PUNCT	PUNCT	_	4	punct
+

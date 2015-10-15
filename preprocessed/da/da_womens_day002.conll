@@ -1,0 +1,10 @@
+1	I	_	ADP	ADP	_	3	case
+2	visse	_	ADJ	ADJ	_	1	amod
+3	lande	_	NOUN	NOUN	_	8	nmod
+4	er	_	AUX	AUX	_	8	cop
+5	det	_	PRON	PRON	_	8	nsubj
+6	en	_	DET	DET	_	8	det
+7	national	_	ADJ	ADJ	_	8	amod
+8	helligdag	_	NOUN	NOUN	_	0	root
+9	.	_	PUNCT	PUNCT	_	8	punct
+

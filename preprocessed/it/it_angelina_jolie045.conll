@@ -1,0 +1,19 @@
+1	""	_	ADV	ADV	_	2	advmod
+2	è	_	VERB	VERB	_	0	root
+3	il	_	DET	DET	_	8	det
+4	suo	_	DET	DET	_	8	det:poss
+5	primo	_	ADJ	ADJ	_	8	amod
+6	e	_	CONJ	CONJ	_	5	cc
+7	vero	_	ADJ	ADJ	_	5	conj
+8	successo	_	NOUN	NOUN	_	2	nsubj
+9	commerciale	_	ADJ	ADJ	_	8	amod
+10	che	_	PRON	PRON	_	12	nsubj
+11	la	_	PRON	PRON	_	12	dobj
+12	innalza	_	VERB	VERB	_	8	acl:relcl
+13	allo	_	ADP	ADP	_	14	case
+14	status	_	NOUN	NOUN	_	12	nmod
+15	di	_	ADP	ADP	_	16	case
+16	superstar	_	NOUN	NOUN	_	14	nmod
+17	internazionale	_	ADJ	ADJ	_	16	amod
+18	.	_	PUNCT	PUNCT	_	12	punct
+

@@ -1,0 +1,13 @@
+1	http://t.co/zQrdS4L0dJ	_	PROPN	PROPN	_	2	nsubj
+2	Sind	_	VERB	VERB	_	3	cop
+3	Pinterest	_	PROPN	PROPN	_	7	nsubj
+4	und	_	CONJ	CONJ	_	3	cc
+5	Instagram	_	PROPN	PROPN	_	3	conj
+6	wirklich	_	ADV	ADV	_	7	advmod
+7	interessant	_	ADJ	ADJ	_	0	root
+8	für	_	ADP	ADP	_	10	case
+9	deutsche	_	ADJ	ADJ	_	10	amod
+10	Onlinehändler	_	NOUN	NOUN	_	7	nmod
+11	?	_	PUNCT	PUNCT	_	10	punct
+12	http://t.co/ZZJMoD7TY0	_	PROPN	PROPN	_	10	appos
+

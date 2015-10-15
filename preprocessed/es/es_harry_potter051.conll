@@ -1,0 +1,22 @@
+1	Muchos	_	PRON	PRON	_	12	nsubj
+2	de	_	ADP	ADP	_	4	case
+3	los	_	DET	DET	_	4	det
+4	elementos	_	NOUN	NOUN	_	1	nmod
+5	del	_	ADP	ADP	_	7	case
+6	primer	_	NUM	NUM	_	7	nummod
+7	boceto	_	NOUN	NOUN	_	4	nmod
+8	de	_	ADP	ADP	_	10	case
+9	este	_	DET	DET	_	10	det
+10	libro	_	NOUN	NOUN	_	7	nmod
+11	fueron	_	AUX	AUX	_	12	auxpass
+12	eliminados	_	VERB	VERB	_	0	root
+13	tanto	_	PRON	PRON	_	16	nmod
+14	por	_	ADP	ADP	_	16	case
+15	su	_	DET	DET	_	16	nmod:poss
+16	autora	_	NOUN	NOUN	_	12	nmod
+17	como	_	CONJ	CONJ	_	13	dep
+18	por	_	ADP	ADP	_	20	case
+19	el	_	DET	DET	_	20	det
+20	editor	_	NOUN	NOUN	_	17	nmod
+21	.	_	PUNCT	PUNCT	_	12	punct
+

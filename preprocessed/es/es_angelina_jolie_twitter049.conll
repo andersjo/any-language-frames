@@ -1,0 +1,15 @@
+1	@LapuertaNicolas	_	PROPN	PROPN	_	4	name
+2	@Aaslaane	_	PROPN	PROPN	_	4	name
+3	brad	_	PROPN	PROPN	_	4	name
+4	pitt	_	PROPN	PROPN	_	0	root
+5	,	_	PUNCT	PUNCT	_	6	punct
+6	leonardo	_	NOUN	NOUN	_	4	appos
+7	di	_	ADP	ADP	_	9	case
+8	caprio	_	ADJ	ADJ	_	9	amod
+9	Dmg	_	PROPN	PROPN	_	6	nmod
+10	y	_	CONJ	CONJ	_	9	cc
+11	a	_	ADP	ADP	_	14	case
+12	pas	_	PROPN	PROPN	_	14	name
+13	angelina	_	PROPN	PROPN	_	14	name
+14	jolie	_	PROPN	PROPN	_	9	conj
+

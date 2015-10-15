@@ -1,0 +1,24 @@
+1	@ZeerakW	_	NOUN	NOUN	_	3	nsubj
+2	Det	_	PRON	PRON	_	3	nsubj
+3	ER	_	VERB	VERB	_	0	root
+4	sejt	_	NOUN	NOUN	_	3	dobj
+5	og	_	CONJ	CONJ	_	4	cc
+6	det	_	PRON	PRON	_	4	conj
+7	er	_	AUX	AUX	_	11	cop
+8	en	_	DET	DET	_	11	det
+9	totalt	_	ADV	ADV	_	10	advmod
+10	undervurderet	_	VERB	VERB	_	11	dep
+11	film	_	NOUN	NOUN	_	4	conj
+12	.	_	PUNCT	PUNCT	_	1	punct
+13	Der	_	PART	PART	_	17	nsubj
+14	hvor	_	ADV	ADV	_	17	advmod
+15	Angelina	_	PROPN	PROPN	_	16	nmod:poss
+16	Jolie	_	NOUN	NOUN	_	17	nsubj
+17	ligger	_	VERB	VERB	_	11	dep
+18	i	_	ADP	ADP	_	20	case
+19	en	_	DET	DET	_	20	det
+20	pool	_	NOUN	NOUN	_	17	nmod
+21	?	_	PUNCT	PUNCT	_	3	punct
+22	Miav	_	NOUN	NOUN	_	20	dep
+23	!	_	PUNCT	PUNCT	_	3	punct
+

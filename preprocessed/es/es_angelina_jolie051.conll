@@ -1,0 +1,13 @@
+1	Su	_	DET	DET	_	2	nmod:poss
+2	relación	_	NOUN	NOUN	_	11	nsubj
+3	con	_	ADP	ADP	_	5	case
+4	su	_	DET	DET	_	5	nmod:poss
+5	padre	_	NOUN	NOUN	_	2	nmod
+6	durante	_	ADP	ADP	_	8	case
+7	este	_	DET	DET	_	8	det
+8	tiempo	_	NOUN	NOUN	_	11	nmod
+9	no	_	ADV	ADV	_	10	neg
+10	fue	_	VERB	VERB	_	11	cop
+11	tensa	_	ADJ	ADJ	_	0	root
+12	.	_	PUNCT	PUNCT	_	11	punct
+

@@ -1,0 +1,15 @@
+1	Νίκη	_	NOUN	NOUN	_	2	nmod
+2	Κάρτσωνα	_	NOUN	NOUN	_	5	nsubj
+3	:	_	PUNCT	PUNCT	_	2	punct
+4	«Θα	_	NOUN	NOUN	_	2	conj
+5	προτιμούσα	_	VERB	VERB	_	0	root
+6	μια	_	ADJ	ADJ	_	7	det
+7	ωραία	_	NOUN	NOUN	_	5	dobj
+8	πλαστική	_	VERB	VERB	_	5	ccomp
+9	στα	_	ADP	ADP	_	11	case
+10	60	_	NUM	NUM	_	11	nummod
+11	μου»	_	NOUN	NOUN	_	8	dobj
+12	-	_	PUNCT	PUNCT	_	14	punct
+13	http://t.co/FhULd16mjJ	_	NOUN	NOUN	_	14	nmod
+14	#starbuzz	_	NOUN	NOUN	_	11	appos
+

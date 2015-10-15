@@ -1,0 +1,9 @@
+1	Weitere	_	ADJ	ADJ	_	2	amod
+2	Einnahmen	_	NOUN	NOUN	_	3	nsubj
+3	erfolgten	_	VERB	VERB	_	0	root
+4	unter	_	ADP	ADP	_	5	case
+5	anderem	_	PRON	PRON	_	3	nmod
+6	durch	_	ADP	ADP	_	7	case
+7	Lizenzierungen	_	NOUN	NOUN	_	3	nmod
+8	.	_	PUNCT	PUNCT	_	3	punct
+

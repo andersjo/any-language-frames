@@ -1,0 +1,23 @@
+1	Äh	_	NOUN	NOUN	_	18	nsubj
+2	.	_	PUNCT	PUNCT	_	1	punct
+3	Skiter	_	NOUN	NOUN	_	1	conj
+4	i	_	ADP	ADP	_	5	case
+5	detta	_	PRON	PRON	_	3	nmod
+6	och	_	CONJ	CONJ	_	5	mwe
+7	fokuserar	_	VERB	VERB	_	3	conj
+8	på	_	ADP	ADP	_	10	case
+9	Harry	_	PROPN	PROPN	_	10	nmod:poss
+10	Potter	_	NOUN	NOUN	_	7	nmod
+11	istället	_	ADV	ADV	_	7	advmod
+12	.	_	PUNCT	PUNCT	_	1	punct
+13	Fly	_	NOUN	NOUN	_	18	nsubj
+14	in	_	ADV	ADV	_	13	conj
+15	i	_	ADP	ADP	_	17	case
+16	en	_	DET	DET	_	17	det
+17	fantasivärld	_	ADJ	ADJ	_	18	nsubj
+18	känns	_	VERB	VERB	_	0	root
+19	jäkligt	_	ADJ	ADJ	_	20	amod
+20	gött	_	NOUN	NOUN	_	21	nmod:poss
+21	tbh	_	NOUN	NOUN	_	18	dobj
+22	.	_	PUNCT	PUNCT	_	18	punct
+

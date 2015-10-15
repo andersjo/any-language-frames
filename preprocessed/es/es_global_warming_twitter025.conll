@@ -1,0 +1,15 @@
+1	La	_	DET	DET	_	2	det
+2	encíclica	_	NOUN	NOUN	_	7	nsubj
+3	de	_	ADP	ADP	_	4	case
+4	marzo	_	PROPN	PROPN	_	2	nmod
+5	de	_	ADP	ADP	_	6	case
+6	@vatican_va_es	_	PROPN	PROPN	_	4	nmod
+7	tocará	_	VERB	VERB	_	0	root
+8	el	_	DET	DET	_	9	det
+9	tema	_	NOUN	NOUN	_	7	dobj
+10	del	_	ADP	ADP	_	11	case
+11	cambio	_	NOUN	NOUN	_	9	nmod
+12	climático	_	ADJ	ADJ	_	11	amod
+13	http://t.co/ft2gDspmqb	_	PROPN	PROPN	_	14	name
+14	#PapaFrancisco	_	PROPN	PROPN	_	9	appos
+

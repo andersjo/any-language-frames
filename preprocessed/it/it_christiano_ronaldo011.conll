@@ -1,0 +1,27 @@
+1	Con	_	ADP	ADP	_	3	case
+2	il	_	DET	DET	_	3	det
+3	club	_	NOUN	NOUN	_	6	nmod
+4	spagnolo	_	ADJ	ADJ	_	3	amod
+5	ha	_	AUX	AUX	_	6	aux
+6	vinto	_	VERB	VERB	_	0	root
+7	due	_	NUM	NUM	_	8	nummod
+8	Coppe	_	NOUN	NOUN	_	6	dobj
+9	del	_	ADP	ADP	_	10	case
+10	Re	_	PROPN	PROPN	_	8	nmod
+11	,	_	PUNCT	PUNCT	_	8	punct
+12	una	_	DET	DET	_	13	det
+13	Liga	_	PROPN	PROPN	_	10	conj
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	una	_	DET	DET	_	16	det
+16	Supercoppa	_	PROPN	PROPN	_	13	conj
+17	Spagnola	_	PROPN	PROPN	_	16	name
+18	,	_	PUNCT	PUNCT	_	16	punct
+19	una	_	DET	DET	_	20	det
+20	Champions	_	PROPN	PROPN	_	16	conj
+21	League	_	PROPN	PROPN	_	20	name
+22	e	_	CONJ	CONJ	_	10	cc
+23	una	_	DET	DET	_	24	det
+24	Supercoppa	_	PROPN	PROPN	_	20	conj
+25	UEFA	_	PROPN	PROPN	_	24	name
+26	.	_	PUNCT	PUNCT	_	6	punct
+

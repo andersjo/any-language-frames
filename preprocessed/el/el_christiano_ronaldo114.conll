@@ -1,0 +1,19 @@
+1	Η	_	ADJ	ADJ	_	2	det
+2	έκθεση	_	NOUN	NOUN	_	3	nsubj
+3	περιλαμβάνει	_	VERB	VERB	_	0	root
+4	μια	_	ADJ	ADJ	_	5	det
+5	σειρά	_	NOUN	NOUN	_	3	dobj
+6	από	_	ADP	ADP	_	7	case
+7	τρόπαια	_	NOUN	NOUN	_	5	nmod
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	μετάλλια	_	NOUN	NOUN	_	7	conj
+10	,	_	PUNCT	PUNCT	_	3	punct
+11	αναμνηστικά	_	VERB	VERB	_	3	advcl
+12	και	_	CONJ	CONJ	_	14	cc
+13	πολλές	_	ADJ	ADJ	_	14	amod
+14	φωτογραφίες	_	NOUN	NOUN	_	11	nsubj
+15	του	_	ADJ	ADJ	_	16	det
+16	Πορτογαλικού	_	NOUN	NOUN	_	14	nmod
+17	παίκτη	_	NOUN	NOUN	_	16	nmod
+18	.	_	PUNCT	PUNCT	_	3	punct
+

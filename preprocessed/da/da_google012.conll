@@ -1,0 +1,25 @@
+1	For	_	ADP	ADP	_	22	dep
+2	at	_	PART	PART	_	1	dep
+3	støtte	_	VERB	VERB	_	2	dep
+4	Googles	_	NOUN	NOUN	_	5	nmod:poss
+5	integration	_	NOUN	NOUN	_	3	dobj
+6	i	_	ADP	ADP	_	7	case
+7	website-management	_	NOUN	NOUN	_	5	nmod
+8	stiller	_	VERB	VERB	_	0	root
+9	Google	_	NOUN	NOUN	_	8	nsubj
+10	en	_	DET	DET	_	11	det
+11	service	_	NOUN	NOUN	_	8	dobj
+12	til	_	ADP	ADP	_	13	case
+13	rådighed	_	NOUN	NOUN	_	11	nmod
+14	for	_	ADP	ADP	_	15	case
+15	webmasters	_	NOUN	NOUN	_	13	nmod
+16	og	_	CONJ	CONJ	_	15	cc
+17	hjemmesidearbejdere	_	NOUN	NOUN	_	15	conj
+18	i	_	ADP	ADP	_	19	case
+19	form	_	NOUN	NOUN	_	17	nmod
+20	af	_	ADP	ADP	_	21	case
+21	Google	_	NOUN	NOUN	_	19	nmod
+22	webmaster	_	VERB	VERB	_	23	dep
+23	tools	_	NOUN	NOUN	_	19	nmod
+24	.	_	PUNCT	PUNCT	_	8	punct
+

@@ -1,0 +1,11 @@
+1	«Μία	_	NOUN	NOUN	_	0	root
+2	Οικογενειακή	_	ADJ	ADJ	_	3	amod
+3	Υπόθεση»	_	NOUN	NOUN	_	1	nmod
+4	για	_	ADP	ADP	_	6	case
+5	την	_	ADJ	ADJ	_	6	det
+6	οικογένεια	_	NOUN	NOUN	_	3	nmod
+7	Ξυλούρη	_	NOUN	NOUN	_	6	nmod
+8	-	_	PUNCT	PUNCT	_	10	punct
+9	http://t.co/J3mPtEJBe9	_	NOUN	NOUN	_	10	nmod
+10	#starbuzz	_	NOUN	NOUN	_	7	appos
+

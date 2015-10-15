@@ -1,0 +1,21 @@
+1	Fin	_	NOUN	NOUN	_	0	root
+2	de	_	ADP	ADP	_	3	case
+3	vacs	_	NOUN	NOUN	_	1	nmod
+4	sur	_	ADP	ADP	_	5	case
+5	fond	_	NOUN	NOUN	_	3	nmod
+6	de	_	ADP	ADP	_	7	case
+7	guinz	_	NOUN	NOUN	_	5	nmod
+8	,	_	PUNCT	PUNCT	_	1	punct
+9	lit	_	NOUN	NOUN	_	7	conj
+10	et	_	CONJ	CONJ	_	7	cc
+11	Harry	_	PROPN	PROPN	_	12	name
+12	Potter	_	PROPN	PROPN	_	1	conj
+13	movies	_	ADJ	ADJ	_	12	amod
+14	...	_	PUNCT	PUNCT	_	1	punct
+15	les	_	DET	DET	_	16	det
+16	choses	_	NOUN	NOUN	_	20	nsubj
+17	sont	_	VERB	VERB	_	20	cop
+18	+	_	PUNCT	PUNCT	_	20	punct
+19	que	_	SCONJ	SCONJ	_	20	cc
+20	vraies	_	ADJ	ADJ	_	11	advcl
+

@@ -1,0 +1,23 @@
+1	En	_	ADP	ADP	_	2	case
+2	août	_	NOUN	NOUN	_	10	nmod
+3	de	_	ADP	ADP	_	6	case
+4	la	_	DET	DET	_	6	det
+5	même	_	ADJ	ADJ	_	6	amod
+6	année	_	NOUN	NOUN	_	2	nmod
+7	,	_	PUNCT	PUNCT	_	10	punct
+8	Jon	_	PROPN	PROPN	_	9	name
+9	Voight	_	PROPN	PROPN	_	10	nsubj
+10	déclare	_	VERB	VERB	_	0	root
+11	que	_	SCONJ	SCONJ	_	14	mark
+12	sa	_	DET	DET	_	13	nmod:poss
+13	fille	_	NOUN	NOUN	_	14	nsubj
+14	a	_	VERB	VERB	_	10	ccomp
+15	au	_	ADP	ADP	_	16	case
+16	cours	_	NOUN	NOUN	_	14	nmod
+17	du	_	ADP	ADP	_	18	case
+18	programme	_	NOUN	NOUN	_	16	nmod
+19	de	_	ADP	ADP	_	20	case
+20	télévision	_	NOUN	NOUN	_	18	nmod
+21	'	_	PUNCT	PUNCT	_	10	punct
+22	.	_	PUNCT	PUNCT	_	10	punct
+

@@ -1,0 +1,24 @@
+1	and	_	CONJ	CONJ	_	9	cc
+2	even	_	ADV	ADV	_	3	advmod
+3	worse	_	ADV	ADV	_	4	advmod
+4	is	_	VERB	VERB	_	0	root
+5	that	_	DET	DET	_	6	det
+6	google	_	NOUN	NOUN	_	7	nsubj
+7	wants	_	VERB	VERB	_	4	ccomp
+8	everything	_	NOUN	NOUN	_	9	nsubj
+9	connected	_	VERB	VERB	_	7	xcomp
+10	with	_	ADP	ADP	_	9	compound:prt
+11	fucking	_	VERB	VERB	_	9	xcomp
+12	google+	_	NOUN	NOUN	_	11	dobj
+13	so	_	ADV	ADV	_	15	advmod
+14	u	_	PRON	PRON	_	15	nsubj
+15	sign	_	VERB	VERB	_	11	advcl
+16	up	_	ADV	ADV	_	15	advmod
+17	for	_	ADP	ADP	_	15	compound:prt
+18	everything	_	NOUN	NOUN	_	15	dobj
+19	with	_	ADP	ADP	_	15	compound:prt
+20	a	_	DET	DET	_	22	det
+21	gmail	_	NOUN	NOUN	_	22	compound
+22	address	_	NOUN	NOUN	_	15	nmod
+23	.....	_	PUNCT	PUNCT	_	9	punct
+

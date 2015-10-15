@@ -1,0 +1,16 @@
+1	Προβάλλετε	_	VERB	VERB	_	0	root
+2	την	_	ADJ	ADJ	_	3	det
+3	επιχείρησή	_	NOUN	NOUN	_	1	dobj
+4	σας	_	PRON	PRON	_	3	nmod
+5	στοχευμένα	_	VERB	VERB	_	1	conj
+6	και	_	CONJ	CONJ	_	7	cc
+7	με	_	ADP	ADP	_	9	case
+8	άμεσο	_	ADJ	ADJ	_	9	amod
+9	αποτέλεσμα	_	NOUN	NOUN	_	5	nmod
+10	μέσω	_	ADP	ADP	_	12	case
+11	της	_	ADJ	ADJ	_	12	det
+12	υπηρεσίας	_	NOUN	NOUN	_	9	nmod
+13	Google	_	NOUN	NOUN	_	12	nmod
+14	AdWords	_	NOUN	NOUN	_	12	nmod
+15	http://t.co/zXMS6Ry8bA	_	NOUN	NOUN	_	14	nmod
+

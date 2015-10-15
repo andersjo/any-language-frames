@@ -1,0 +1,26 @@
+1	Ma	_	CONJ	CONJ	_	5	cc
+2	Ferguson	_	PROPN	PROPN	_	5	nsubj
+3	mi	_	PRON	PRON	_	5	iobj
+4	ha	_	AUX	AUX	_	5	aux
+5	detto	_	VERB	VERB	_	7	parataxis
+6	'	_	PUNCT	PUNCT	_	5	punct
+7	No	_	INTJ	INTJ	_	21	discourse
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	tu	_	PRON	PRON	_	21	nsubj
+10	avrai	_	AUX	AUX	_	21	aux
+11	la	_	DET	DET	_	12	det
+12	numero	_	NOUN	NOUN	_	21	nsubj
+13	7	_	NUM	NUM	_	12	nummod
+14	,	_	PUNCT	PUNCT	_	5	punct
+15	'	_	PUNCT	PUNCT	_	16	punct
+16	e	_	CONJ	CONJ	_	12	cc
+17	la	_	DET	DET	_	19	det
+18	famosa	_	ADJ	ADJ	_	19	amod
+19	maglia	_	NOUN	NOUN	_	21	nmod
+20	era	_	AUX	AUX	_	21	aux
+21	un'ulteriore	_	VERB	VERB	_	0	root
+22	motivazione	_	NOUN	NOUN	_	21	dobj
+23	in	_	ADP	ADP	_	24	case
+24	più	_	ADV	ADV	_	22	advmod
+25	.	_	PUNCT	PUNCT	_	5	punct
+

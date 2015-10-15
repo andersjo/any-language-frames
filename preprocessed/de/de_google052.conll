@@ -1,0 +1,23 @@
+1	Im	_	ADP	ADP	_	2	case
+2	August	_	PROPN	PROPN	_	4	nmod
+3	1998	_	NUM	NUM	_	2	nmod
+4	stellte	_	VERB	VERB	_	0	root
+5	der	_	DET	DET	_	6	det
+6	Investor	_	NOUN	NOUN	_	4	nsubj
+7	Andreas	_	PROPN	PROPN	_	6	appos
+8	von	_	ADP	ADP	_	9	case
+9	Bechtolsheim	_	PROPN	PROPN	_	4	nmod
+10	nach	_	ADP	ADP	_	13	case
+11	einer	_	DET	DET	_	13	det
+12	zehnminütigen	_	ADJ	ADJ	_	13	amod
+13	Präsentation	_	NOUN	NOUN	_	4	nmod
+14	der	_	DET	DET	_	15	det
+15	Suchmaschine	_	NOUN	NOUN	_	13	det
+16	einen	_	DET	DET	_	17	det
+17	Scheck	_	NOUN	NOUN	_	4	dobj
+18	über	_	ADP	ADP	_	20	case
+19	100.000	_	NUM	NUM	_	20	nummod
+20	US-Dollar	_	NOUN	NOUN	_	17	nmod
+21	aus	_	ADP	ADP	_	4	mark
+22	.	_	PUNCT	PUNCT	_	4	punct
+

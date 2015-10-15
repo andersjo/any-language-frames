@@ -1,0 +1,19 @@
+1	Anche	_	ADV	ADV	_	3	advmod
+2	il	_	DET	DET	_	3	det
+3	fratello	_	NOUN	NOUN	_	7	nsubj
+4	maggiore	_	ADJ	ADJ	_	3	amod
+5	James	_	PROPN	PROPN	_	3	nmod
+6	si	_	PRON	PRON	_	7	expl
+7	fece	_	VERB	VERB	_	0	root
+8	togliere	_	VERB	VERB	_	7	xcomp
+9	il	_	DET	DET	_	10	det
+10	cognome	_	NOUN	NOUN	_	8	dobj
+11	del	_	ADP	ADP	_	12	case
+12	padre	_	NOUN	NOUN	_	10	nmod
+13	facendosi	_	VERB	VERB	_	12	acl
+14	accreditare	_	VERB	VERB	_	13	xcomp
+15	come	_	ADP	ADP	_	16	case
+16	James	_	PROPN	PROPN	_	14	nmod
+17	Haven	_	PROPN	PROPN	_	16	name
+18	.	_	PUNCT	PUNCT	_	7	punct
+

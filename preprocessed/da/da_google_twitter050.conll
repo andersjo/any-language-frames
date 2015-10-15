@@ -1,0 +1,12 @@
+1	Endangered	_	NOUN	NOUN	_	2	nmod:poss
+2	Missing	_	NOUN	NOUN	_	0	root
+3	Man	_	PROPN	PROPN	_	2	appos
+4	Found	_	PROPN	PROPN	_	3	name
+5	-	_	PUNCT	PUNCT	_	3	punct
+6	WRGT	_	PROPN	PROPN	_	7	nmod:poss
+7	TV	_	NOUN	NOUN	_	2	nmod:poss
+8	Fox	_	PROPN	PROPN	_	7	appos
+9	45	_	NUM	NUM	_	10	nummod
+10	#carhartt	_	PROPN	PROPN	_	8	name
+11	http://t.co/BooGj7rvkc	_	PROPN	PROPN	_	10	name
+

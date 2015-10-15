@@ -1,0 +1,10 @@
+1	März	_	PROPN	PROPN	_	6	dep
+2	1857	_	NUM	NUM	_	1	nmod
+3	in	_	ADP	ADP	_	5	case
+4	New	_	PROPN	PROPN	_	5	name
+5	York	_	PROPN	PROPN	_	1	nmod
+6	ereignet	_	VERB	VERB	_	0	root
+7	haben	_	AUX	AUX	_	6	aux
+8	soll	_	AUX	AUX	_	6	aux
+9	.	_	PUNCT	PUNCT	_	6	punct
+

@@ -1,0 +1,18 @@
+1	Estas	_	DET	DET	_	3	det
+2	dos	_	NUM	NUM	_	3	nummod
+3	pibitas	_	NOUN	NOUN	_	5	nsubj
+4	se	_	PRON	PRON	_	5	iobj
+5	creen	_	VERB	VERB	_	0	root
+6	re	_	X	X	_	5	nsubj
+7	importantes	_	ADJ	ADJ	_	6	amod
+8	,	_	PUNCT	PUNCT	_	7	punct
+9	paraaaaaaa	_	ADJ	ADJ	_	10	amod
+10	moria	_	NOUN	NOUN	_	5	nsubj
+11	casan	_	PROPN	PROPN	_	10	appos
+12	,	_	PUNCT	PUNCT	_	11	punct
+13	angelina	_	PROPN	PROPN	_	14	name
+14	jolie	_	PROPN	PROPN	_	10	appos
+15	,	_	PUNCT	PUNCT	_	16	punct
+16	jesica	_	NOUN	NOUN	_	14	appos
+17	cirio	_	ADJ	ADJ	_	16	amod
+

@@ -1,0 +1,14 @@
+1	Τελικά	_	ADV	ADV	_	4	advmod
+2	οι	_	ADJ	ADJ	_	4	det
+3	μεγάλες	_	ADJ	ADJ	_	4	amod
+4	αποφάσεις	_	NOUN	NOUN	_	0	root
+5	τις	_	ADJ	ADJ	_	7	det
+6	περισσότερες	_	ADJ	ADJ	_	7	amod
+7	φορές	_	NOUN	NOUN	_	4	nmod
+8	βολεύουν	_	NOUN	NOUN	_	7	nmod
+9	.	_	PUNCT	PUNCT	_	4	punct
+10	Τους	_	PRON	PRON	_	11	nmod
+11	άλλους	_	PRON	PRON	_	13	nmod
+12	.	_	PUNCT	PUNCT	_	8	punct
+13	http://t.co/yqUUO72l5I	_	NOUN	NOUN	_	7	remnant
+

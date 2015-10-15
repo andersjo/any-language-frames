@@ -1,0 +1,7 @@
+1	Manchester	_	PROPN	PROPN	_	3	name
+2	United	_	PROPN	PROPN	_	3	name
+3	F	_	PROPN	PROPN	_	0	root
+4	.	_	PUNCT	PUNCT	_	5	punct
+5	C	_	X	X	_	3	appos
+6	..	_	PUNCT	PUNCT	_	5	punct
+

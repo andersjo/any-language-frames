@@ -1,0 +1,22 @@
+1	Alter	_	NOUN	NOUN	_	0	root
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	es	_	PRON	PRON	_	1	acl
+4	ist	_	VERB	VERB	_	3	cop
+5	halb	_	ADV	ADV	_	6	advmod
+6	8	_	NUM	NUM	_	7	nummod
+7	abends	_	ADV	ADV	_	4	mark
+8	und	_	CONJ	CONJ	_	7	cc
+9	bei	_	ADP	ADP	_	11	case
+10	Harry	_	PROPN	PROPN	_	11	name
+11	Potter	_	PROPN	PROPN	_	6	nmod
+12	wurde	_	AUX	AUX	_	19	auxpass
+13	so	_	ADV	ADV	_	14	advmod
+14	krass	_	ADJ	ADJ	_	15	advmod
+15	viel	_	ADJ	ADJ	_	16	amod
+16	rausgeschnitten	_	PROPN	PROPN	_	18	amod
+17	.	_	PUNCT	PUNCT	_	16	punct
+18	O_O	_	PROPN	PROPN	_	19	nmod
+19	Bin	_	VERB	VERB	_	20	cop
+20	entsetzt	_	ADJ	ADJ	_	4	conj
+21	.	_	PUNCT	PUNCT	_	20	punct
+

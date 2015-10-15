@@ -1,0 +1,15 @@
+1	Στη	_	ADP	ADP	_	2	case
+2	φάση	_	NOUN	NOUN	_	6	nmod
+3	των	_	ADJ	ADJ	_	4	det
+4	16	_	NOUN	NOUN	_	2	nmod
+5	,	_	PUNCT	PUNCT	_	6	punct
+6	αποκλείστηκαν	_	VERB	VERB	_	0	root
+7	από	_	ADP	ADP	_	9	case
+8	την	_	ADJ	ADJ	_	9	det
+9	νικήτρια	_	NOUN	NOUN	_	6	nmod
+10	της	_	ADJ	ADJ	_	11	det
+11	διοργάνωσης	_	NOUN	NOUN	_	9	nmod
+12	,	_	PUNCT	PUNCT	_	13	punct
+13	Ισπανία	_	NOUN	NOUN	_	11	conj
+14	.	_	PUNCT	PUNCT	_	6	punct
+

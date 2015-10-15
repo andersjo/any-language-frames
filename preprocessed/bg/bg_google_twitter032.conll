@@ -1,0 +1,8 @@
+1	#it	_	NOUN	NOUN	_	4	nsubj
+2	:	_	PUNCT	PUNCT	_	3	punct
+3	Google	_	PROPN	PROPN	_	1	nmod
+4	презентовала	_	VERB	VERB	_	0	root
+5	смартфон	_	NOUN	NOUN	_	4	nsubj
+6	Moto	_	PROPN	PROPN	_	5	nmod
+7	X🐲	_	PROPN	PROPN	_	6	nmod
+

@@ -1,0 +1,17 @@
+1	Bon	_	ADJ	ADJ	_	3	amod
+2	,	_	PUNCT	PUNCT	_	6	punct
+3	on	_	PRON	PRON	_	6	nsubj
+4	va	_	AUX	AUX	_	6	aux
+5	pas	_	ADV	ADV	_	6	neg
+6	rester	_	VERB	VERB	_	0	root
+7	3000	_	NUM	NUM	_	8	nummod
+8	ans	_	NOUN	NOUN	_	6	dobj
+9	dessus	_	ADV	ADV	_	8	advmod
+10	.	_	PUNCT	PUNCT	_	6	punct
+11	Christiano	_	PROPN	PROPN	_	12	name
+12	Ronaldo	_	PROPN	PROPN	_	13	nsubj
+13	mérite	_	VERB	VERB	_	6	advcl
+14	le	_	DET	DET	_	15	det
+15	ballon	_	NOUN	NOUN	_	13	dobj
+16	d'or	_	ADP	ADP	_	13	case
+

@@ -1,0 +1,15 @@
+1	Il	_	PRON	PRON	_	3	nsubj
+2	y	_	PRON	PRON	_	3	iobj
+3	provoque	_	VERB	VERB	_	0	root
+4	un	_	DET	DET	_	5	det
+5	pénalty	_	NOUN	NOUN	_	3	dobj
+6	et	_	CONJ	CONJ	_	3	cc
+7	se	_	PRON	PRON	_	8	dobj
+8	fait	_	VERB	VERB	_	3	conj
+9	remarquer	_	VERB	VERB	_	8	xcomp
+10	par	_	ADP	ADP	_	9	case
+11	ses	_	DET	DET	_	12	nmod:poss
+12	gestes	_	NOUN	NOUN	_	10	case
+13	techniques	_	ADJ	ADJ	_	12	amod
+14	.	_	PUNCT	PUNCT	_	3	punct
+

@@ -1,0 +1,10 @@
+1	Pourquoi	_	ADV	ADV	_	3	advmod
+2	je	_	PRON	PRON	_	3	nsubj
+3	cherche	_	VERB	VERB	_	0	root
+4	des	_	DET	DET	_	5	det
+5	techniques	_	NOUN	NOUN	_	3	dobj
+6	pour	_	ADP	ADP	_	7	mark
+7	s'endormir	_	VERB	VERB	_	3	advcl
+8	sur	_	ADP	ADP	_	9	case
+9	Google	_	PROPN	PROPN	_	7	nmod
+

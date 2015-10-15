@@ -1,0 +1,27 @@
+1	Η	_	ADJ	ADJ	_	3	det
+2	βιολογική	_	ADJ	ADJ	_	3	amod
+3	μητέρα	_	NOUN	NOUN	_	6	nsubj
+4	της	_	ADJ	ADJ	_	5	det
+5	Ζαχάρα	_	NOUN	NOUN	_	3	nmod
+6	θέλησε	_	VERB	VERB	_	0	root
+7	να	_	PART	PART	_	9	aux
+8	την	_	PRON	PRON	_	9	dobj
+9	πάρει	_	VERB	VERB	_	6	ccomp
+10	πίσω	_	ADV	ADV	_	9	advmod
+11	αλλά	_	CONJ	CONJ	_	6	cc
+12	μετά	_	ADP	ADP	_	13	case
+13	σκέφτηκε	_	NOUN	NOUN	_	9	nmod
+14	ότι	_	CONJ	CONJ	_	17	mark
+15	είναι	_	VERB	VERB	_	17	cop
+16	πολύ	_	ADV	ADV	_	17	advmod
+17	τυχερή	_	VERB	VERB	_	13	acl
+18	η	_	ADJ	ADJ	_	19	det
+19	κόρη	_	NOUN	NOUN	_	17	nsubj
+20	της	_	ADJ	ADJ	_	22	det
+21	αφού	_	CONJ	CONJ	_	23	mark
+22	την	_	ADJ	ADJ	_	25	det
+23	υιοθέτησε	_	VERB	VERB	_	17	conj
+24	η	_	ADJ	ADJ	_	25	det
+25	Τζολί	_	NOUN	NOUN	_	23	nsubj
+26	.	_	PUNCT	PUNCT	_	6	punct
+

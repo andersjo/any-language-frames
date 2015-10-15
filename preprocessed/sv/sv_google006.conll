@@ -1,0 +1,27 @@
+1	Sedan	_	ADV	ADV	_	3	advmod
+2	dess	_	ADV	ADV	_	3	advmod
+3	växer	_	VERB	VERB	_	0	root
+4	antalet	_	NOUN	NOUN	_	5	det
+5	användare	_	NOUN	NOUN	_	3	dobj
+6	av	_	ADP	ADP	_	11	case
+7	söktjänsten	_	ADJ	ADJ	_	11	amod
+8	och	_	CONJ	CONJ	_	5	cc
+9	de	_	DET	DET	_	11	det
+10	största	_	ADJ	ADJ	_	11	amod
+11	konkurrenterna	_	NOUN	NOUN	_	5	nmod
+12	är	_	AUX	AUX	_	15	cop
+13	idag	_	ADV	ADV	_	14	advmod
+14	Yahoo	_	ADJ	ADJ	_	15	amod
+15	Search	_	NOUN	NOUN	_	18	nsubj
+16	(	_	PUNCT	PUNCT	_	15	punct
+17	numera	_	ADV	ADV	_	18	advmod
+18	baserad	_	ADJ	ADJ	_	7	conj
+19	på	_	ADP	ADP	_	21	case
+20	Bings	_	ADJ	ADJ	_	21	amod
+21	sökmotor	_	NOUN	NOUN	_	18	nmod
+22	)	_	PUNCT	PUNCT	_	15	punct
+23	och	_	CONJ	CONJ	_	18	cc
+24	Microsofts	_	NOUN	NOUN	_	25	nmod:poss
+25	Bing	_	NOUN	NOUN	_	18	nmod
+26	.	_	PUNCT	PUNCT	_	3	punct
+

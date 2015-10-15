@@ -1,0 +1,18 @@
+1	Живее	_	NOUN	NOUN	_	9	nsubj
+2	с	_	ADP	ADP	_	3	case
+3	актьора	_	NOUN	NOUN	_	1	nmod
+4	Брад	_	PROPN	PROPN	_	3	nmod
+5	Пит	_	PROPN	PROPN	_	4	name
+6	,	_	PUNCT	PUNCT	_	9	punct
+7	с	_	ADP	ADP	_	8	case
+8	когото	_	PRON	PRON	_	9	iobj
+9	има	_	VERB	VERB	_	0	root
+10	шест	_	NUM	NUM	_	11	nummod
+11	деца	_	NOUN	NOUN	_	9	dobj
+12	,	_	PUNCT	PUNCT	_	16	punct
+13	от	_	ADP	ADP	_	14	case
+14	които	_	PRON	PRON	_	16	nmod
+15	три	_	NUM	NUM	_	16	nummod
+16	осиновени	_	NOUN	NOUN	_	11	conj
+17	.	_	PUNCT	PUNCT	_	9	punct
+

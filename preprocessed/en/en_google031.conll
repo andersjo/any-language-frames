@@ -1,0 +1,19 @@
+1	In	_	ADP	ADP	_	0	compound:prt
+2	January	_	PROPN	PROPN	_	6	nmod
+3	2013	_	NUM	NUM	_	2	nummod
+4	,	_	PUNCT	PUNCT	_	6	punct
+5	Google	_	PROPN	PROPN	_	6	nsubj
+6	announced	_	VERB	VERB	_	0	root
+7	it	_	PRON	PRON	_	9	nsubj
+8	had	_	AUX	AUX	_	9	aux
+9	earned	_	VERB	VERB	_	6	ccomp
+10	in	_	ADP	ADP	_	9	compound:prt
+11	annual	_	ADJ	ADJ	_	0	foreign
+12	revenue	_	NOUN	NOUN	_	9	dobj
+13	for	_	ADP	ADP	_	9	compound:prt
+14	the	_	DET	DET	_	15	det
+15	year	_	NOUN	NOUN	_	9	nmod:tmod
+16	of	_	ADP	ADP	_	15	compound
+17	2012	_	NUM	NUM	_	15	nummod
+18	.	_	PUNCT	PUNCT	_	6	punct
+

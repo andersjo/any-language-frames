@@ -1,0 +1,27 @@
+1	Den	_	DET	DET	_	3	det
+2	29	_	NUM	NUM	_	3	nummod
+3	augusti	_	NOUN	NOUN	_	5	nmod
+4	2009	_	NUM	NUM	_	3	nummod
+5	spelade	_	VERB	VERB	_	22	advcl
+6	Ronaldo	_	VERB	VERB	_	5	xcomp
+7	sin	_	DET	DET	_	9	nmod:poss
+8	första	_	ADJ	ADJ	_	9	det
+9	La	_	NOUN	NOUN	_	10	nmod:poss
+10	Liga-match	_	NOUN	NOUN	_	6	dobj
+11	och	_	CONJ	CONJ	_	6	cc
+12	gjorde	_	VERB	VERB	_	6	conj
+13	mål	_	NOUN	NOUN	_	12	dobj
+14	på	_	ADP	ADP	_	15	case
+15	straff	_	NOUN	NOUN	_	12	nmod
+16	mot	_	ADP	ADP	_	18	case
+17	Deportivo	_	NOUN	NOUN	_	18	nmod:poss
+18	La	_	NOUN	NOUN	_	15	nmod
+19	Coruña	_	VERB	VERB	_	0	root
+20	när	_	ADV	ADV	_	22	advmod
+21	Real	_	NOUN	NOUN	_	22	nsubj
+22	Madrid	_	VERB	VERB	_	19	advcl
+23	vann	_	NOUN	NOUN	_	22	dobj
+24	med	_	ADP	ADP	_	25	case
+25	3-2	_	NUM	NUM	_	22	nmod
+26	.	_	PUNCT	PUNCT	_	19	punct
+

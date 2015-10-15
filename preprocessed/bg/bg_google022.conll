@@ -1,0 +1,12 @@
+1	Google	_	PROPN	PROPN	_	3	nsubj
+2	Изображения	_	PROPN	PROPN	_	1	nmod
+3	е	_	VERB	VERB	_	0	root
+4	услуга	_	NOUN	NOUN	_	3	cop
+5	,	_	PUNCT	PUNCT	_	7	punct
+6	която	_	PRON	PRON	_	7	nsubj
+7	търси	_	VERB	VERB	_	4	acl
+8	изображения	_	NOUN	NOUN	_	7	dobj
+9	в	_	ADP	ADP	_	10	case
+10	уеб	_	NOUN	NOUN	_	8	nmod
+11	.	_	PUNCT	PUNCT	_	3	punct
+

@@ -1,0 +1,8 @@
+1	Моторола)	_	NOUN	NOUN	_	0	root
+2	за	_	ADP	ADP	_	6	case
+3	12	_	NUM	NUM	_	6	nummod
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	5	_	NUM	NUM	_	3	conj
+6	млрд	_	NOUN	NOUN	_	1	nmod
+7	.	_	PUNCT	PUNCT	_	1	punct
+

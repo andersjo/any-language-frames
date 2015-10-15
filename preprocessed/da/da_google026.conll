@@ -1,0 +1,27 @@
+1	Men	_	CONJ	CONJ	_	0	root
+2	det	_	PRON	PRON	_	3	nsubj
+3	handler	_	VERB	VERB	_	1	conj
+4	også	_	ADV	ADV	_	3	advmod
+5	om	_	ADP	ADP	_	6	case
+6	hvem	_	PRON	PRON	_	3	nmod
+7	der	_	PART	PART	_	9	nsubj
+8	skal	_	AUX	AUX	_	9	cop
+9	bestemme	_	ADJ	ADJ	_	6	acl:relcl
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	hvilken	_	PRON	PRON	_	9	conj
+12	side	_	NOUN	NOUN	_	11	dep
+13	,	_	PUNCT	PUNCT	_	16	punct
+14	der	_	PART	PART	_	16	nsubj
+15	skal	_	AUX	AUX	_	16	aux
+16	vises	_	VERB	VERB	_	11	acl:relcl
+17	først	_	ADV	ADV	_	16	advmod
+18	i	_	ADP	ADP	_	19	case
+19	forbindelse	_	NOUN	NOUN	_	16	nmod
+20	med	_	ADP	ADP	_	22	case
+21	en	_	DET	DET	_	22	det
+22	internetsøgning	_	NOUN	NOUN	_	19	nmod
+23	(	_	PUNCT	PUNCT	_	24	punct
+24	rangordning	_	NOUN	NOUN	_	22	dep
+25	)	_	PUNCT	PUNCT	_	24	punct
+26	.	_	PUNCT	PUNCT	_	1	punct
+

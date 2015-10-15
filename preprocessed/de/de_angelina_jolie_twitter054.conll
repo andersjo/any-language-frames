@@ -1,0 +1,17 @@
+1	"	_	PUNCT	PUNCT	_	6	punct
+2	Maleficent	_	PROPN	PROPN	_	6	name
+3	-	_	PUNCT	PUNCT	_	2	punct
+4	Die	_	DET	DET	_	6	det
+5	Dunkle	_	PROPN	PROPN	_	6	amod
+6	Fee	_	PROPN	PROPN	_	0	root
+7	"	_	PUNCT	PUNCT	_	6	punct
+8	(	_	PUNCT	PUNCT	_	9	punct
+9	DVD	_	NOUN	NOUN	_	6	appos
+10	)	_	PUNCT	PUNCT	_	9	punct
+11	mit	_	ADP	ADP	_	13	case
+12	Angelina	_	PROPN	PROPN	_	13	name
+13	Jolie	_	PROPN	PROPN	_	9	nmod
+14	:	_	PUNCT	PUNCT	_	13	punct
+15	http://t.co/H9M59lXlzg	_	PROPN	PROPN	_	16	name
+16	#Geschenkidee	_	PROPN	PROPN	_	13	appos
+

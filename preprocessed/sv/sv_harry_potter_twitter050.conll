@@ -1,0 +1,18 @@
+1	Jag	_	PRON	PRON	_	2	nsubj
+2	lade	_	VERB	VERB	_	0	root
+3	till	_	ADP	ADP	_	5	case
+4	ett	_	DET	DET	_	5	det
+5	videoklipp	_	NOUN	NOUN	_	2	nmod
+6	i	_	ADP	ADP	_	8	case
+7	en	_	DET	DET	_	8	det
+8	spellista	_	NOUN	NOUN	_	5	nmod
+9	på	_	ADP	ADP	_	10	case
+10	@YouTube	_	NOUN	NOUN	_	8	nmod
+11	http://t.co/4gGgaGNjjL	_	VERB	VERB	_	8	acl
+12	Stunt	_	NOUN	NOUN	_	11	dobj
+13	med	_	ADP	ADP	_	17	case
+14	hubert	_	ADJ	ADJ	_	15	amod
+15	2/Harry	_	NOUN	NOUN	_	11	nmod
+16	Potter	_	NOUN	NOUN	_	17	nmod:poss
+17	7+nyheter	_	NOUN	NOUN	_	15	conj
+

@@ -1,0 +1,9 @@
+1	@silviasta1965	_	ADV	ADV	_	3	advmod
+2	ho	_	AUX	AUX	_	3	aux
+3	pianto	_	VERB	VERB	_	0	root
+4	a	_	ADP	ADP	_	5	mark
+5	vederla	_	VERB	VERB	_	3	xcomp
+6	su	_	ADP	ADP	_	7	case
+7	Google	_	PROPN	PROPN	_	5	nmod
+8	😳	_	PROPN	PROPN	_	7	name
+

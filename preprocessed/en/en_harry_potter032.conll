@@ -1,0 +1,18 @@
+1	For	_	ADP	ADP	_	2	compound
+2	reasons	_	NOUN	NOUN	_	5	nsubj
+3	not	_	ADV	ADV	_	5	neg
+4	immediately	_	ADV	ADV	_	5	advmod
+5	revealed	_	VERB	VERB	_	12	advcl
+6	,	_	PUNCT	PUNCT	_	8	punct
+7	the	_	DET	DET	_	8	nsubj
+8	spell	_	VERB	VERB	_	12	advcl
+9	with	_	ADP	ADP	_	8	compound:prt
+10	which	_	DET	DET	_	11	det
+11	Voldemort	_	NOUN	NOUN	_	12	nsubj
+12	tried	_	VERB	VERB	_	0	root
+13	to	_	PART	PART	_	14	mark
+14	kill	_	VERB	VERB	_	12	xcomp
+15	Harry	_	PROPN	PROPN	_	14	dobj
+16	rebounded	_	VERB	VERB	_	14	xcomp
+17	.	_	PUNCT	PUNCT	_	8	punct
+

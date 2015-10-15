@@ -1,0 +1,20 @@
+1	Proiettore	_	PROPN	PROPN	_	0	root
+2	Acer	_	PROPN	PROPN	_	1	name
+3	H7550ST	_	PROPN	PROPN	_	1	name
+4	compatibile	_	ADJ	ADJ	_	1	amod
+5	con	_	ADP	ADP	_	6	case
+6	Chromecast	_	PROPN	PROPN	_	1	nmod
+7	:	_	PUNCT	PUNCT	_	1	punct
+8	.	_	PUNCT	PUNCT	_	1	punct
+9	La	_	DET	DET	_	10	det
+10	chiavetta	_	NOUN	NOUN	_	1	appos
+11	per	_	ADP	ADP	_	12	case
+12	TV	_	PROPN	PROPN	_	10	nmod
+13	Google	_	PROPN	PROPN	_	12	name
+14	Chromecast	_	PROPN	PROPN	_	12	name
+15	nel	_	ADP	ADP	_	16	case
+16	2015	_	NUM	NUM	_	10	nummod
+17	potrebbe	_	AUX	AUX	_	19	aux
+18	...	_	PUNCT	PUNCT	_	17	punct
+19	http://t.co/umgbsyhTLJ	_	PROPN	PROPN	_	12	conj
+

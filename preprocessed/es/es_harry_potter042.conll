@@ -1,0 +1,21 @@
+1	En	_	ADP	ADP	_	3	case
+2	la	_	DET	DET	_	3	det
+3	primavera	_	NOUN	NOUN	_	14	nmod
+4	de	_	ADP	ADP	_	5	case
+5	2007	_	NUM	NUM	_	3	nmod
+6	,	_	PUNCT	PUNCT	_	3	punct
+7	una	_	DET	DET	_	9	det
+8	primera	_	NUM	NUM	_	9	nummod
+9	edición	_	NOUN	NOUN	_	3	nmod
+10	firmada	_	VERB	VERB	_	9	acl
+11	por	_	ADP	ADP	_	12	case
+12	Rowling	_	PROPN	PROPN	_	10	nmod
+13	fue	_	VERB	VERB	_	14	cop
+14	subastada	_	NOUN	NOUN	_	0	root
+15	en	_	ADP	ADP	_	16	case
+16	Londres	_	PROPN	PROPN	_	14	nmod
+17	por	_	ADP	ADP	_	18	case
+18	£27	_	X	X	_	14	nmod
+19	876	_	NUM	NUM	_	18	nummod
+20	.	_	PUNCT	PUNCT	_	14	punct
+

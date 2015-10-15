@@ -1,0 +1,26 @@
+1	Google	_	PROPN	PROPN	_	2	name
+2	Inc	_	PROPN	PROPN	_	6	nsubj
+3	.	_	PUNCT	PUNCT	_	2	punct
+4	es	_	VERB	VERB	_	6	cop
+5	una	_	DET	DET	_	6	det
+6	empresa	_	NOUN	NOUN	_	0	root
+7	multinacional	_	ADJ	ADJ	_	6	amod
+8	estadounidense	_	ADJ	ADJ	_	6	amod
+9	especializada	_	VERB	VERB	_	6	acl
+10	en	_	ADP	ADP	_	11	case
+11	productos	_	NOUN	NOUN	_	9	nmod
+12	y	_	CONJ	CONJ	_	11	cc
+13	servicios	_	NOUN	NOUN	_	11	conj
+14	relacionados	_	ADJ	ADJ	_	13	amod
+15	con	_	ADP	ADP	_	16	case
+16	Internet	_	NOUN	NOUN	_	13	nmod
+17	,	_	PUNCT	PUNCT	_	18	punct
+18	software	_	X	X	_	20	dep
+19	,	_	PUNCT	PUNCT	_	20	punct
+20	dispositivos	_	NOUN	NOUN	_	16	conj
+21	electrónicos	_	ADJ	ADJ	_	20	amod
+22	y	_	CONJ	CONJ	_	16	cc
+23	otras	_	DET	DET	_	24	det
+24	tecnologías	_	NOUN	NOUN	_	16	conj
+25	.	_	PUNCT	PUNCT	_	6	punct
+

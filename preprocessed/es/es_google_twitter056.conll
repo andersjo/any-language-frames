@@ -1,0 +1,11 @@
+1	-Mamaaaaaa	_	PROPN	PROPN	_	7	nsubj
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	Google	_	PROPN	PROPN	_	4	name
+4	Now	_	PROPN	PROPN	_	1	appos
+5	me	_	PRON	PRON	_	7	iobj
+6	esta	_	AUX	AUX	_	7	aux
+7	trolleando	_	VERB	VERB	_	0	root
+8	.	_	PUNCT	PUNCT	_	1	punct
+9	—	_	PROPN	PROPN	_	10	name
+10	http://t.co/OL2rXVVrkJ	_	PROPN	PROPN	_	7	xcomp
+

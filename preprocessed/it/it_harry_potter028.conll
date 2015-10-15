@@ -1,0 +1,22 @@
+1	In	_	ADP	ADP	_	3	case
+2	questo	_	DET	DET	_	3	det
+3	contesto	_	NOUN	NOUN	_	9	nmod
+4	,	_	PUNCT	PUNCT	_	3	punct
+5	all'inizio	_	NOUN	NOUN	_	9	nmod
+6	la	_	DET	DET	_	7	det
+7	magia	_	NOUN	NOUN	_	9	nsubj
+8	è	_	VERB	VERB	_	9	cop
+9	ludica	_	ADJ	ADJ	_	0	root
+10	e	_	CONJ	CONJ	_	9	cc
+11	affascinante	_	ADJ	ADJ	_	9	conj
+12	,	_	PUNCT	PUNCT	_	9	punct
+13	ma	_	CONJ	CONJ	_	9	cc
+14	quasi	_	ADV	ADV	_	15	advmod
+15	subito	_	ADV	ADV	_	16	advmod
+16	diventa	_	VERB	VERB	_	9	conj
+17	un'arma	_	NOUN	NOUN	_	16	xcomp
+18	temibile	_	ADJ	ADJ	_	17	amod
+19	e	_	CONJ	CONJ	_	18	cc
+20	insidiosa	_	ADJ	ADJ	_	18	conj
+21	.	_	PUNCT	PUNCT	_	9	punct
+

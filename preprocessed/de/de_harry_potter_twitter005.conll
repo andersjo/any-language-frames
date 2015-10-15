@@ -1,0 +1,18 @@
+1	@Louisikisi	_	PROPN	PROPN	_	4	name
+2	ich	_	PRON	PRON	_	14	nsubj
+3	liebe	_	NOUN	NOUN	_	5	nmod
+4	harry	_	PROPN	PROPN	_	3	det
+5	potter	_	ADJ	ADJ	_	14	advmod
+6	so	_	ADV	ADV	_	7	advmod
+7	sehr	_	ADV	ADV	_	8	advmod
+8	und	_	CONJ	CONJ	_	5	cc
+9	hab	_	AUX	AUX	_	14	aux
+10	schon	_	ADV	ADV	_	14	advmod
+11	richtig	_	ADV	ADV	_	14	advmod
+12	viel	_	ADV	ADV	_	13	advmod
+13	darüber	_	ADV	ADV	_	14	advmod
+14	getweetet	_	VERB	VERB	_	0	root
+15	,	_	PUNCT	PUNCT	_	14	punct
+16	aber	_	ADV	ADV	_	17	advmod
+17	ok	_	ADJ	ADJ	_	14	amod
+

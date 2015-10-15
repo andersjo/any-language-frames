@@ -1,0 +1,19 @@
+1	På	_	ADP	ADP	_	3	case
+2	faderns	_	NOUN	NOUN	_	3	nmod:poss
+3	sida	_	NOUN	NOUN	_	6	nmod
+4	har	_	AUX	AUX	_	6	cop
+5	hon	_	PRON	PRON	_	6	nsubj
+6	tyskt	_	ADJ	ADJ	_	9	amod
+7	och	_	CONJ	CONJ	_	6	cc
+8	slovakiskt	_	ADJ	ADJ	_	6	conj
+9	påbrå	_	NOUN	NOUN	_	0	root
+10	,	_	PUNCT	PUNCT	_	9	punct
+11	på	_	ADP	ADP	_	12	case
+12	moderns	_	NOUN	NOUN	_	13	nmod
+13	franskt-kanadensiskt	_	ADJ	ADJ	_	6	conj
+14	,	_	PUNCT	PUNCT	_	13	punct
+15	holländskt	_	ADJ	ADJ	_	13	conj
+16	och	_	CONJ	CONJ	_	13	cc
+17	tyskt	_	ADJ	ADJ	_	13	conj
+18	.	_	PUNCT	PUNCT	_	13	punct
+

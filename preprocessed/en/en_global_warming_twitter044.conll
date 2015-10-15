@@ -1,0 +1,22 @@
+1	@blondpidge	_	NOUN	NOUN	_	2	compound
+2	Let's	_	NOUN	NOUN	_	3	nsubj
+3	face	_	VERB	VERB	_	0	root
+4	it	_	PRON	PRON	_	3	dobj
+5	,	_	PUNCT	PUNCT	_	11	punct
+6	you'll	_	PROPN	PROPN	_	8	nsubj
+7	never	_	ADV	ADV	_	8	neg
+8	be	_	VERB	VERB	_	11	cop
+9	a	_	DET	DET	_	11	det
+10	global	_	ADJ	ADJ	_	0	foreign
+11	warming	_	NOUN	NOUN	_	17	nmod
+12	True	_	ADJ	ADJ	_	0	foreign
+13	Believer	_	NOUN	NOUN	_	11	conj
+14	if	_	ADP	ADP	_	8	compound:prt
+15	you	_	PRON	PRON	_	16	nmod:poss
+16	can't	_	NOUN	NOUN	_	17	nsubj
+17	falsify	_	VERB	VERB	_	3	parataxis
+18	simple	_	ADJ	ADJ	_	0	foreign
+19	maths	_	NOUN	NOUN	_	20	compound
+20	stuff	_	NOUN	NOUN	_	17	dobj
+21	.	_	PUNCT	PUNCT	_	3	punct
+

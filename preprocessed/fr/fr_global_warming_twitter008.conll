@@ -1,0 +1,19 @@
+1	Le	_	DET	DET	_	3	det
+2	global	_	ADJ	ADJ	_	3	amod
+3	warming	_	NOUN	NOUN	_	5	nsubj
+4	est	_	VERB	VERB	_	5	cop
+5	real	_	PROPN	PROPN	_	0	root
+6	quand	_	SCONJ	SCONJ	_	9	mark
+7	tu	_	PRON	PRON	_	9	nsubj
+8	peut	_	AUX	AUX	_	9	aux
+9	jouer	_	VERB	VERB	_	4	ccomp
+10	au	_	ADP	ADP	_	11	case
+11	hockey	_	NOUN	NOUN	_	9	nmod
+12	cosom	_	NOUN	NOUN	_	11	appos
+13	plutot	_	PROPN	PROPN	_	11	name
+14	qu'au	_	NOUN	NOUN	_	15	compound
+15	hockey	_	NOUN	NOUN	_	13	compound
+16	sur	_	ADP	ADP	_	17	case
+17	glace	_	NOUN	NOUN	_	15	nmod
+18	fin-decembre	_	NOUN	NOUN	_	17	appos
+

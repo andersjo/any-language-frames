@@ -1,0 +1,22 @@
+1	Im	_	ADP	ADP	_	3	case
+2	selben	_	ADJ	ADJ	_	3	amod
+3	Jahr	_	NOUN	NOUN	_	4	nmod
+4	spielte	_	VERB	VERB	_	0	root
+5	sie	_	PRON	PRON	_	4	nsubj
+6	außerdem	_	ADV	ADV	_	4	advmod
+7	eine	_	DET	DET	_	8	det
+8	Stripperin	_	NOUN	NOUN	_	4	dobj
+9	in	_	ADP	ADP	_	11	case
+10	dem	_	DET	DET	_	11	det
+11	Musikvideo	_	PROPN	PROPN	_	8	nmod
+12	der	_	DET	DET	_	15	det
+13	Rolling	_	PROPN	PROPN	_	14	amod
+14	Stones	_	PROPN	PROPN	_	15	name
+15	zu	_	PROPN	PROPN	_	8	nmod
+16	"	_	PUNCT	PUNCT	_	15	punct
+17	Anybody	_	PROPN	PROPN	_	18	name
+18	Seen	_	PROPN	PROPN	_	20	name
+19	My	_	PROPN	PROPN	_	20	det
+20	Baby	_	PROPN	PROPN	_	15	appos
+21	?	_	PUNCT	PUNCT	_	4	punct
+

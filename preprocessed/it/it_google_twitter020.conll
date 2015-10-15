@@ -1,0 +1,19 @@
+1	Meteo	_	NOUN	NOUN	_	0	root
+2	Web	_	PROPN	PROPN	_	1	nmod
+3	Scienza	_	NOUN	NOUN	_	1	nmod
+4	,	_	PUNCT	PUNCT	_	1	punct
+5	medici	_	NOUN	NOUN	_	3	conj
+6	cattolici	_	ADJ	ADJ	_	5	amod
+7	entusiasti	_	ADJ	ADJ	_	5	amod
+8	per	_	ADP	ADP	_	10	case
+9	la	_	DET	DET	_	10	det
+10	nomina	_	NOUN	NOUN	_	7	nmod
+11	di	_	ADP	ADP	_	12	case
+12	monsignor	_	NOUN	NOUN	_	10	nmod
+13	Edoardo	_	PROPN	PROPN	_	12	nmod
+14	MenichelliMeteo	_	PROPN	PROPN	_	13	name
+15	WebCon	_	PROPN	PROPN	_	13	name
+16	l'appo	_	ADJ	ADJ	_	18	amod
+17	...	_	PUNCT	PUNCT	_	5	punct
+18	http://t.co/6SR8ijQhHv	_	NOUN	NOUN	_	13	appos
+

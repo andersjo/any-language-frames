@@ -1,0 +1,13 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	3	nsubj
+3	comenzó	_	VERB	VERB	_	0	root
+4	a	_	ADP	ADP	_	5	case
+5	trabajar	_	VERB	VERB	_	3	acl
+6	como	_	ADP	ADP	_	7	case
+7	modelo	_	NOUN	NOUN	_	5	nmod
+8	a	_	ADP	ADP	_	11	case
+9	los	_	DET	DET	_	11	det
+10	quince	_	NUM	NUM	_	11	nummod
+11	años	_	NOUN	NOUN	_	5	nmod
+12	.	_	PUNCT	PUNCT	_	3	punct
+

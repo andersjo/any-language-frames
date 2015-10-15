@@ -1,0 +1,11 @@
+1	Angelina	_	PROPN	PROPN	_	2	name
+2	Jolie	_	PROPN	PROPN	_	4	nsubj
+3	me	_	PRON	PRON	_	4	iobj
+4	parece	_	VERB	VERB	_	0	root
+5	tan	_	ADV	ADV	_	6	advmod
+6	diosa	_	NOUN	NOUN	_	4	dobj
+7	quiero	_	VERB	VERB	_	4	csubj
+8	ser	_	VERB	VERB	_	7	xcomp
+9	como	_	ADP	ADP	_	10	case
+10	ella	_	PRON	PRON	_	8	nmod
+

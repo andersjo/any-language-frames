@@ -1,0 +1,12 @@
+1	Χρήστος	_	NOUN	NOUN	_	0	root
+2	Ψωμόπουλος-Παυλίνα	_	ADJ	ADJ	_	3	amod
+3	Βουλγαράκη	_	NOUN	NOUN	_	1	nmod
+4	:	_	PUNCT	PUNCT	_	1	punct
+5	Έξι	_	NUM	NUM	_	6	nummod
+6	μήνες	_	NOUN	NOUN	_	1	conj
+7	ζευγάρι	_	NOUN	NOUN	_	6	nmod
+8	!	_	PUNCT	PUNCT	_	6	amod
+9	-	_	PUNCT	PUNCT	_	11	punct
+10	http://t.co/rB9FVuy0Ii	_	NOUN	NOUN	_	11	nmod
+11	#starbuzz	_	NOUN	NOUN	_	3	appos
+

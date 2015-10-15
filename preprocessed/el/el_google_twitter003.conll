@@ -1,0 +1,17 @@
+1	Ξηρός	_	NOUN	NOUN	_	4	nsubj
+2	:	_	PUNCT	PUNCT	_	1	punct
+3	Κανένας	_	NOUN	NOUN	_	4	nsubj
+4	Ξηρός	_	VERB	VERB	_	0	root
+5	δεν	_	PART	PART	_	8	neg
+6	θα	_	PART	PART	_	8	aux
+7	μας	_	PRON	PRON	_	8	dobj
+8	σώσει	_	VERB	VERB	_	4	ccomp
+9	(	_	PUNCT	PUNCT	_	10	punct
+10	Photos	_	NOUN	NOUN	_	12	nmod
+11	&	_	NOUN	NOUN	_	8	dobj
+12	Vids	_	NOUN	NOUN	_	11	nmod
+13	)	_	PUNCT	PUNCT	_	10	punct
+14	-	_	PUNCT	PUNCT	_	16	punct
+15	http://t.co/RohtvQILtc	_	NOUN	NOUN	_	16	nmod
+16	#starbuzz	_	NOUN	NOUN	_	12	appos
+

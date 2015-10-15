@@ -1,0 +1,14 @@
+1	Η	_	ADJ	ADJ	_	2	det
+2	Τζολί	_	NOUN	NOUN	_	3	nsubj
+3	γεννήθηκε	_	VERB	VERB	_	0	root
+4	τον	_	ADJ	ADJ	_	5	det
+5	Ιούλιο	_	NOUN	NOUN	_	3	dobj
+6	του	_	ADJ	ADJ	_	7	det
+7	1975	_	NUM	NUM	_	5	nmod
+8	στο	_	ADP	ADP	_	9	case
+9	Λος	_	NOUN	NOUN	_	3	nmod
+10	Άντζελες	_	NOUN	NOUN	_	9	nmod
+11	,	_	PUNCT	PUNCT	_	10	punct
+12	Καλιφόρνια	_	NOUN	NOUN	_	10	conj
+13	.	_	PUNCT	PUNCT	_	3	punct
+

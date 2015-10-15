@@ -1,0 +1,19 @@
+1	All'inizio	_	NOUN	NOUN	_	4	nsubj
+2	dei	_	ADP	ADP	_	3	case
+3	volumi	_	NOUN	NOUN	_	1	nmod
+4	appare	_	VERB	VERB	_	0	root
+5	ora	_	ADV	ADV	_	4	advmod
+6	una	_	DET	DET	_	7	det
+7	"	_	PUNCT	PUNCT	_	8	punct
+8	Nota	_	VERB	VERB	_	4	advcl
+9	alla	_	ADP	ADP	_	11	case
+10	nuova	_	ADJ	ADJ	_	11	amod
+11	edizione	_	NOUN	NOUN	_	8	nmod
+12	"	_	PUNCT	PUNCT	_	8	punct
+13	,	_	PUNCT	PUNCT	_	8	punct
+14	firmata	_	VERB	VERB	_	11	acl
+15	dallo	_	ADP	ADP	_	17	case
+16	stesso	_	ADJ	ADJ	_	17	amod
+17	Bartezzaghi	_	PROPN	PROPN	_	14	nmod
+18	.	_	PUNCT	PUNCT	_	4	punct
+

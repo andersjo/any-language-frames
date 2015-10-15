@@ -1,0 +1,20 @@
+1	Dämpad	_	ADJ	ADJ	_	9	amod
+2	,	_	PUNCT	PUNCT	_	1	punct
+3	chic	_	NOUN	NOUN	_	10	nsubj
+4	och	_	CONJ	CONJ	_	1	cc
+5	alldeles	_	ADV	ADV	_	6	advmod
+6	underbar	_	ADJ	ADJ	_	9	amod
+7	!	_	PUNCT	PUNCT	_	6	punct
+8	Angelina	_	ADJ	ADJ	_	9	amod
+9	Jolie	_	NOUN	NOUN	_	10	nsubj
+10	ser	_	VERB	VERB	_	0	root
+11	fantastisk	_	ADJ	ADJ	_	10	xcomp
+12	ut	_	ADV	ADV	_	10	compound:prt
+13	i	_	ADP	ADP	_	15	case
+14	vit	_	ADJ	ADJ	_	15	amod
+15	cape	_	NOUN	NOUN	_	10	nmod
+16	!	_	PUNCT	PUNCT	_	10	punct
+17	#HMLife	_	NOUN	NOUN	_	18	nsubj
+18	http://t.co/rPVdq3JZ3M	_	VERB	VERB	_	15	parataxis
+19	http://t.co/rE1NvcavoU	_	NOUN	NOUN	_	18	dobj
+

@@ -1,0 +1,20 @@
+1	Lionel	_	PROPN	PROPN	_	15	nsubj
+2	messi's	_	NOUN	NOUN	_	1	nmod
+3	fan	_	NOUN	NOUN	_	2	compound
+4	:	_	PUNCT	PUNCT	_	3	punct
+5	whose	_	NOUN	NOUN	_	3	compound
+6	Cristiano	_	PROPN	PROPN	_	5	nmod
+7	Ronaldo	_	PROPN	PROPN	_	6	name
+8	??	_	PROPN	PROPN	_	6	name
+9	:	_	PUNCT	PUNCT	_	1	punct
+10	Christiano	_	PROPN	PROPN	_	15	nsubj
+11	Ronaldo's	_	PROPN	PROPN	_	10	name
+12	fan	_	NOUN	NOUN	_	10	nmod
+13	:	_	PUNCT	PUNCT	_	12	punct
+14	cr7	_	NOUN	NOUN	_	12	compound
+15	is	_	VERB	VERB	_	0	root
+16	lionel	_	ADJ	ADJ	_	17	amod
+17	messi's	_	NOUN	NOUN	_	15	dobj
+18	role	_	ADJ	ADJ	_	17	amod
+19	model	_	NOUN	NOUN	_	17	nmod
+

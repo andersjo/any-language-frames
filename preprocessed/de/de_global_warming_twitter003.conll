@@ -1,0 +1,16 @@
+1	Bad	_	PROPN	PROPN	_	2	nmod
+2	news	_	ADJ	ADJ	_	4	amod
+3	“	_	PROPN	PROPN	_	4	name
+4	@JuttaPaulus	_	PROPN	PROPN	_	0	root
+5	:	_	PUNCT	PUNCT	_	4	punct
+6	http://t.co/nWhYS8ZjtX	_	PROPN	PROPN	_	4	appos
+7	leider	_	ADV	ADV	_	10	advmod
+8	keine	_	PRON	PRON	_	10	neg
+9	guten	_	ADJ	ADJ	_	10	amod
+10	Nachrichten	_	NOUN	NOUN	_	6	acl
+11	von	_	ADP	ADP	_	13	case
+12	den	_	DET	DET	_	13	det
+13	Klimaforschern	_	NOUN	NOUN	_	10	nmod
+14	#climate	_	PROPN	PROPN	_	15	name
+15	”	_	PROPN	PROPN	_	13	appos
+

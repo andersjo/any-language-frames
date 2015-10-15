@@ -1,0 +1,20 @@
+1	66	_	NUM	NUM	_	2	nummod
+2	%	_	NOUN	NOUN	_	5	nsubj
+3	der	_	DET	DET	_	4	det
+4	Einnahmen	_	NOUN	NOUN	_	2	det
+5	erfolgten	_	VERB	VERB	_	0	root
+6	über	_	ADP	ADP	_	7	case
+7	Google-Webseiten	_	PROPN	PROPN	_	5	nmod
+8	,	_	PUNCT	PUNCT	_	5	punct
+9	30	_	NUM	NUM	_	10	nummod
+10	%	_	NOUN	NOUN	_	5	nmod
+11	über	_	ADP	ADP	_	12	case
+12	Google-Network-Seiten	_	PROPN	PROPN	_	5	nmod
+13	und	_	CONJ	CONJ	_	10	cc
+14	4	_	NUM	NUM	_	15	nummod
+15	%	_	NOUN	NOUN	_	5	conj
+16	über	_	ADP	ADP	_	18	case
+17	andere	_	ADJ	ADJ	_	18	amod
+18	Quellen	_	NOUN	NOUN	_	15	nmod
+19	.	_	PUNCT	PUNCT	_	5	punct
+
